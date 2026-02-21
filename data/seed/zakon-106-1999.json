@@ -1,0 +1,166 @@
+{
+  "id": "cz:106/1999",
+  "type": "statute",
+  "title": "Zákon č. 106/1999 Sb., o svobodném přístupu k informacím",
+  "title_en": "Free Access to Information Act",
+  "short_name": "Freedom of Information Act",
+  "status": "in_force",
+  "issued_date": "1999-05-11",
+  "in_force_date": "2000-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/1999-106",
+  "description": "Establishes the right of access to information held by public authorities. Implements Directive 2003/98/EC on the re-use of public sector information (PSI Directive) and later Directive (EU) 2019/1024 on open data.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Right of access to information",
+      "content": "This Act regulates the conditions of the right of free access to information and sets out the basic conditions under which information is made available. State bodies, territorial self-governing units, and public institutions managing public funds (obliged entities) are obliged to provide information relating to their competence."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Obliged entities",
+      "content": "Obliged entities under this Act are: (a) state bodies; (b) territorial self-governing units and their bodies; (c) public institutions managing public funds; (d) entities to which the law has entrusted decision-making on the rights, legally protected interests, or obligations of natural or legal persons in the field of public administration, to the extent of their decision-making competence."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'information' means any content or part thereof in any form, recorded on any medium, in particular the content of records, files, registers, reports, or measurements; (b) 'published information' means information that can be repeatedly reproduced and obtained, in particular through publication, broadcast, or placement on the internet; (c) 'applicant' means any natural or legal person requesting information."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 2",
+      "chapter": "Part Two — Provision of Information",
+      "title": "Methods of providing information",
+      "content": "Obliged entities shall provide information: (a) by publication; (b) on the basis of a request. Information shall be provided in the manner and form requested by the applicant, unless there are serious reasons for providing the information in another manner or form. Information may be provided in electronic form."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Provision of Information",
+      "title": "Mandatory disclosure",
+      "content": "Each obliged entity shall publish in a manner enabling remote access: (a) its structure, including a description of its decision-making competence; (b) the place, office hours, and method for obtaining information; (c) an overview of the main documents under which the entity acts; (d) a list of cases of most significant decisions made by the entity; (e) the annual report on its activities in the area of provision of information."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Provision of Information",
+      "title": "Request for information",
+      "content": "A request for information may be made orally or in writing, including by electronic means. A written request must contain: (a) the identification of the obliged entity; (b) a description of the information requested; (c) the name and contact address of the applicant. If the request does not meet these requirements, the obliged entity shall invite the applicant to complete the request within 7 days."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 2",
+      "chapter": "Part Two — Provision of Information",
+      "title": "Time limit for provision",
+      "content": "The obliged entity shall provide the requested information within 15 days of receipt of the request. This time limit may be extended by a maximum of 10 days for serious reasons, in particular where the information must be obtained from a separate location or where a large volume of information is requested. The applicant shall be informed of the extension and its reasons."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 3",
+      "chapter": "Part Three — Restrictions on Information",
+      "title": "Protection of classified information",
+      "content": "Information classified in accordance with the Act on Protection of Classified Information shall not be provided. Information relating to the decision-making activities of courts shall not be provided, with the exception of final court decisions."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 3",
+      "chapter": "Part Three — Restrictions on Information",
+      "title": "Protection of personal data",
+      "content": "The obliged entity shall not provide information about the personal data of a natural person (personal data) unless in accordance with the legislation on the protection of personal data, in particular Regulation (EU) 2016/679. Information on the remuneration of public officials may be provided to the extent that it does not constitute disproportionate interference with the right to protection of privacy."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 3",
+      "chapter": "Part Three — Restrictions on Information",
+      "title": "Protection of trade secrets",
+      "content": "The obliged entity shall not provide information that constitutes a trade secret. However, information about the use of public funds shall be provided even if it constitutes a trade secret."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 3",
+      "chapter": "Part Three — Restrictions on Information",
+      "title": "Protection of intellectual property",
+      "content": "The obliged entity may restrict the provision of information if it would infringe the intellectual property of third parties. This restriction does not apply to the provision of information about the obliged entity's own activities."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 3",
+      "chapter": "Part Three — Restrictions on Information",
+      "title": "Internal information and draft decisions",
+      "content": "The obliged entity may restrict the provision of information relating exclusively to its internal instructions and personnel matters. The obliged entity may also restrict the provision of draft decisions and related opinions, unless the decision has been issued."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 4",
+      "chapter": "Part Four — Refusal and Appeals",
+      "title": "Decision to refuse",
+      "content": "Where the obliged entity refuses, even partially, to provide information, it shall issue a decision on the refusal within the time limit for provision of information. The decision shall contain the reasons for the refusal and instructions on the right to appeal."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 4",
+      "chapter": "Part Four — Refusal and Appeals",
+      "title": "Appeal against refusal",
+      "content": "The applicant may lodge an appeal against the decision to refuse information within 15 days of service of the decision. The appeal shall be decided by the superior body within 15 days of receipt of the appeal. If the superior body finds the refusal unjustified, it shall order the provision of the information."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 4",
+      "chapter": "Part Four — Refusal and Appeals",
+      "title": "Judicial review",
+      "content": "The applicant may seek judicial review of the decision on appeal before the administrative court. The court may annul the decision and order the provision of the information."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 5",
+      "chapter": "Part Five — Re-use of Information",
+      "title": "Re-use of public sector information",
+      "content": "In accordance with Directive (EU) 2019/1024 of the European Parliament and of the Council on open data and the re-use of public sector information, obliged entities shall make available documents for re-use in machine-readable formats where possible. Any conditions imposed on re-use shall be non-discriminatory and shall not unnecessarily restrict the possibilities for re-use."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 5",
+      "chapter": "Part Five — Re-use of Information",
+      "title": "Open data",
+      "content": "Obliged entities shall publish high-value datasets as open data in machine-readable and openly accessible formats. The National Open Data Catalogue shall serve as the single access point for open data provided by obliged entities."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 6",
+      "chapter": "Part Six — Annual Report and Costs",
+      "title": "Annual report",
+      "content": "Each obliged entity shall publish an annual report on its activities in the area of provision of information. The annual report shall contain: (a) the number of requests for information received; (b) the number of decisions to refuse; (c) the number of appeals lodged; (d) the number of complaints received; (e) other information on the application of this Act."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 6",
+      "chapter": "Part Six — Annual Report and Costs",
+      "title": "Costs",
+      "content": "The obliged entity may request reimbursement of costs associated with the retrieval, reproduction, and delivery of information. The obliged entity shall inform the applicant of the expected amount of costs before providing the information. If the applicant does not confirm payment of costs within 60 days, the request shall be deemed withdrawn."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 7",
+      "chapter": "Part Seven — Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 1 January 2000."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information",
+      "definition": "Any content or part thereof in any form, recorded on any medium, in particular the content of records, files, registers, reports, or measurements.",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Obliged entity",
+      "definition": "State bodies, territorial self-governing units, public institutions managing public funds, and entities with decision-making powers in public administration, obliged to provide information under this Act.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

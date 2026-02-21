@@ -1,0 +1,171 @@
+{
+  "id": "cz:365/2000",
+  "type": "statute",
+  "title": "Zákon č. 365/2000 Sb., o informačních systémech veřejné správy",
+  "title_en": "Act on Information Systems of Public Administration",
+  "short_name": "Public Administration IS Act",
+  "status": "in_force",
+  "issued_date": "2000-09-14",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2000-365",
+  "description": "Regulates the creation, operation, use, and development of information systems of public administration in the Czech Republic. Sets requirements for interoperability, standards, and security of government IT systems.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates the rights and obligations of bodies that create, operate, and use information systems of public administration, the rights and obligations of operators of information systems of public administration, the procedures for attesting and certifying information systems, and the rules for their interoperability."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'information system of public administration' means a functional set of information, data, technical and programme means, procedures, and activities of personnel directed at the collection, transmission, processing, storage, and provision of data for the needs of public administration; (b) 'operator' means the body responsible for the operation of the information system; (c) 'administrator' means the body responsible for the management and administration of the information system; (d) 'reference data' means data that are authentic, complete, and up to date and that are used as a basis by other information systems."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Scope",
+      "content": "This Act applies to information systems operated by: (a) state bodies; (b) territorial self-governing units; (c) other public bodies as defined by specific legislation, to the extent that they process data for the purposes of public administration."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 2",
+      "chapter": "Part Two — Information Systems Requirements",
+      "title": "Interoperability",
+      "content": "Information systems of public administration shall be designed, built, and operated so as to ensure their mutual interoperability. Interoperability shall be achieved through: (a) the use of common data standards; (b) the use of common interfaces for data exchange; (c) compliance with the national interoperability framework; (d) the use of open standards and open data formats where possible."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Information Systems Requirements",
+      "title": "Accessibility",
+      "content": "Information systems of public administration that provide services to the public through web interfaces shall comply with accessibility requirements defined by implementing regulations. Web pages and mobile applications of public administration bodies shall conform to applicable accessibility standards, in accordance with Directive (EU) 2016/2102 on accessibility of websites and mobile applications of public sector bodies."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Information Systems Requirements",
+      "title": "Security requirements",
+      "content": "The operator of an information system of public administration shall ensure the security of the information system, including: (a) protection against unauthorised access; (b) protection against loss, damage, or destruction of data; (c) protection of the integrity and availability of the information system; (d) compliance with data protection legislation. Security requirements shall be commensurate with the classification of the information system and the sensitivity of the data processed."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 2",
+      "chapter": "Part Two — Information Systems Requirements",
+      "title": "Long-term management",
+      "content": "The administrator of an information system of public administration shall ensure the long-term management of the system, including: (a) lifecycle planning; (b) capacity planning; (c) technology refresh and migration planning; (d) documentation of the system architecture and interfaces."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 3",
+      "chapter": "Part Three — Reference Data and Basic Registers",
+      "title": "Basic registers",
+      "content": "The basic registers of the Czech Republic are: (a) the Register of Inhabitants (Registr obyvatel, ROB); (b) the Register of Legal Entities, Natural Persons Conducting Business, and Public Authorities (Registr osob, ROS); (c) the Register of Territorial Identification, Addresses, and Real Estate (Registr územní identifikace, adres a nemovitostí, RÚIAN); (d) the Register of Rights and Obligations (Registr práv a povinností, RPP). These registers contain reference data that are authoritative and must be used by all information systems of public administration."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 3",
+      "chapter": "Part Three — Reference Data and Basic Registers",
+      "title": "Use of reference data",
+      "content": "An information system of public administration that requires data contained in a basic register shall obtain the data from the basic register and shall not require the data subject to provide such data. Data obtained from a basic register are deemed to be correct and up to date unless proven otherwise."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 3",
+      "chapter": "Part Three — Reference Data and Basic Registers",
+      "title": "Information system of basic registers",
+      "content": "The Information System of Basic Registers (ISZR) ensures the connection of information systems of public administration to the basic registers and facilitates data exchange between the basic registers and other information systems. Access to data through ISZR is logged and auditable."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 4",
+      "chapter": "Part Four — Attestation and Certification",
+      "title": "Attestation of information systems",
+      "content": "Information systems of public administration that are classified as significant shall undergo attestation before being put into operation. Attestation verifies that the information system meets the requirements of this Act and implementing regulations, including security, interoperability, and accessibility requirements. Attestation is performed by accredited attestation bodies."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 4",
+      "chapter": "Part Four — Attestation and Certification",
+      "title": "Information concept",
+      "content": "Each body operating information systems of public administration shall prepare an information concept (informační koncepce) setting out the long-term strategy for the development and operation of its information systems. The information concept shall be consistent with the Government Information Concept."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 4",
+      "chapter": "Part Four — Attestation and Certification",
+      "title": "Government Information Concept",
+      "content": "The Ministry of the Interior prepares the Government Information Concept as a strategic document for the development of information systems of public administration. The concept sets out goals, priorities, and measures for the development of eGovernment in the Czech Republic."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 5",
+      "chapter": "Part Five — Cloud Computing",
+      "title": "Cloud computing in public administration",
+      "content": "Public administration bodies may use cloud computing services for the operation of information systems of public administration, provided that: (a) the cloud service provider is included in the catalogue of cloud computing (katalog cloud computingu); (b) the cloud service meets the security requirements defined by implementing regulations; (c) data processed in the cloud are stored within the territory of the EU or EEA."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 5",
+      "chapter": "Part Five — Cloud Computing",
+      "title": "Catalogue of cloud computing",
+      "content": "The Ministry of the Interior maintains the catalogue of cloud computing, which contains information on verified cloud computing services available for use by public administration bodies. A cloud service provider may apply for inclusion in the catalogue by demonstrating compliance with defined security and quality criteria."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 6",
+      "chapter": "Part Six — Ministry of the Interior",
+      "title": "Competence of the Ministry of the Interior",
+      "content": "The Ministry of the Interior: (a) coordinates the development and operation of information systems of public administration; (b) issues standards and methodologies for information systems; (c) maintains the information system of information systems (IS2); (d) oversees compliance with this Act; (e) manages the Government Information Concept."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 6",
+      "chapter": "Part Six — Ministry of the Interior",
+      "title": "Digital and Information Agency",
+      "content": "The Digital and Information Agency (Digitální a informační agentura, DIA) is established as a central body for the coordination and oversight of digital services and information systems of public administration. DIA manages the Czech POINT system, the data box system, and the portal of public administration (portál veřejné správy)."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 7",
+      "chapter": "Part Seven — Administrative Offences",
+      "title": "Administrative offences",
+      "content": "An operator of an information system of public administration commits an administrative offence by: (a) failing to ensure interoperability of the information system; (b) failing to ensure security of the information system; (c) failing to comply with accessibility requirements; (d) operating a significant information system without attestation. A fine may be imposed up to CZK 1,000,000."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 7",
+      "chapter": "Part Seven — Administrative Offences",
+      "title": "Supervision",
+      "content": "The Ministry of the Interior supervises compliance with this Act. The Ministry may conduct inspections of information systems of public administration and require the operator to remedy deficiencies within a specified time limit."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 8",
+      "chapter": "Part Eight — Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 1 January 2001."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information system of public administration",
+      "definition": "A functional set of information, data, technical and programme means, procedures, and activities of personnel directed at the collection, transmission, processing, storage, and provision of data for the needs of public administration.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Reference data",
+      "definition": "Data that are authentic, complete, and up to date and that are used as a basis by other information systems of public administration.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "DIA",
+      "definition": "Digitální a informační agentura (Digital and Information Agency) — the central body for coordination and oversight of digital services and information systems of public administration.",
+      "source_provision": "§ 17"
+    }
+  ]
+}

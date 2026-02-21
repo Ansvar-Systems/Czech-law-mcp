@@ -1,0 +1,136 @@
+{
+  "id": "cz:40/2009",
+  "type": "statute",
+  "title": "Zákon č. 40/2009 Sb., trestní zákoník — kybernetická kriminalita",
+  "title_en": "Criminal Code — Cybercrime Provisions",
+  "short_name": "Criminal Code (Cybercrime)",
+  "status": "in_force",
+  "issued_date": "2009-01-08",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2009-40",
+  "description": "Selected provisions of the Czech Criminal Code relating to cybercrime, implementing the Convention on Cybercrime (Budapest Convention) and Directive 2013/40/EU on attacks against information systems.",
+  "provisions": [
+    {
+      "provision_ref": "§ 230",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Unauthorised access to a computer system and data carrier",
+      "content": "(1) Whoever overcomes a security measure and thereby gains unauthorised access to a computer system or to a part thereof shall be sentenced to imprisonment for up to two years, to a prohibition of activity, or to forfeiture of a thing. (2) The same penalty shall be imposed on whoever, in connection with unauthorised access to a computer system: (a) obtains data stored in a computer system or on a data carrier; (b) uses such data for himself or for another person; or (c) damages, destroys, alters, makes inaccessible, or otherwise interferes with data in a computer system or on a data carrier. (3) Whoever commits the offence referred to in paragraph 1 or 2 with the intent to cause damage to another person or to obtain an unjustified benefit shall be sentenced to imprisonment for six months to three years. (4) Whoever commits the offence referred to in paragraph 1 or 2 (a) as a member of an organised group; (b) against a critical information infrastructure system; or (c) causing significant damage, shall be sentenced to imprisonment for one to five years. (5) Whoever commits the offence referred to in paragraph 1 or 2 causing large-scale damage or committing such act during a state of emergency shall be sentenced to imprisonment for three to eight years. This provision implements Article 2 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "§ 231",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Obtaining and providing access to a computer system and data carrier",
+      "content": "(1) Whoever produces, imports, distributes, makes accessible, or otherwise makes available: (a) a device or its component, including a computer programme, designed or adapted primarily for the purpose of committing the offence referred to in § 230; or (b) a computer password, access code, or similar data by which a computer system or part thereof can be accessed, with the intent that such device or data be used to commit the offence referred to in § 230, shall be sentenced to imprisonment for up to one year, to a prohibition of activity, or to forfeiture of a thing. (2) Whoever commits the offence referred to in paragraph 1 (a) as a member of an organised group; or (b) in a significant scope, shall be sentenced to imprisonment for six months to three years. This provision implements Article 7 of Directive 2013/40/EU."
+    },
+    {
+      "provision_ref": "§ 232",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Damage to records in a computer system and on a data carrier and interference with the operation of a computer system",
+      "content": "(1) Whoever damages, destroys, alters, or makes inaccessible data in a computer system or on a data carrier, or inserts data into a computer system or onto a data carrier without authorisation shall be sentenced to imprisonment for up to three years, to a prohibition of activity, or to forfeiture of a thing. (2) Whoever intentionally prevents or disrupts the functioning of a computer system by inputting, transmitting, damaging, deleting, deteriorating, altering, or suppressing computer data without authorisation shall be sentenced to imprisonment for up to three years, to a prohibition of activity, or to forfeiture of a thing. (3) Whoever commits the offence referred to in paragraph 1 or 2 (a) with the intent to cause damage to another person or to obtain an unjustified benefit; (b) as a member of an organised group; or (c) against a critical information infrastructure system, shall be sentenced to imprisonment for one to five years. (4) Whoever commits the offence referred to in paragraph 1 or 2 causing large-scale damage shall be sentenced to imprisonment for three to eight years. This provision implements Articles 3 and 4 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "§ 182",
+      "section": "Part 2, Title II",
+      "chapter": "Part Two — Special Part, Title II — Criminal Offences Against Freedom and Human Dignity",
+      "title": "Breach of secrecy of electronic communications",
+      "content": "(1) Whoever, in a manner other than by opening a consignment, acquires the content of an electronic communication sent by means of an electronic communications service or network that is not intended for that person shall be sentenced to imprisonment for up to two years or to a prohibition of activity. (2) The same penalty shall be imposed on whoever, in order to acquire the content of an electronic communication referred to in paragraph 1, installs or uses a technical device. (3) Whoever commits the offence referred to in paragraph 1 or 2 (a) with the intent to cause damage to another person or to obtain an unjustified benefit; (b) as an employee or member of an electronic communications service or network provider, shall be sentenced to imprisonment for one to five years."
+    },
+    {
+      "provision_ref": "§ 183",
+      "section": "Part 2, Title II",
+      "chapter": "Part Two — Special Part, Title II — Criminal Offences Against Freedom and Human Dignity",
+      "title": "Breach of secrecy of documents and other files kept in private",
+      "content": "(1) Whoever discloses, makes accessible, or uses to the detriment of another person or for himself data obtained by intercepting the electronic communication of another person, including data stored in a computer system, shall be sentenced to imprisonment for up to three years or to a prohibition of activity. (2) Whoever commits the offence referred to in paragraph 1 causing serious harm to the rights or legitimate interests of the person concerned shall be sentenced to imprisonment for one to five years."
+    },
+    {
+      "provision_ref": "§ 209",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Fraud (computer-related)",
+      "content": "(1) Whoever enriches himself or another person to the detriment of the property of another person by misleading another person or by taking advantage of another person's error, and thereby causes damage of not negligible extent, shall be sentenced to imprisonment for up to two years. (2) The same penalty shall be imposed on whoever enriches himself or another person to the detriment of another's property by interfering with the operation of a computer system, including by entering, altering, deleting, or suppressing computer data or by interfering with the hardware or software of a computer system. This provision implements the Budapest Convention on Cybercrime, Article 8."
+    },
+    {
+      "provision_ref": "§ 234",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Unauthorised use of a computer system",
+      "content": "(1) Whoever, without authorisation, uses a computer system of another person by using computer time, storage space, or other computer resources and thereby causes damage of not negligible extent shall be sentenced to imprisonment for up to one year or to a prohibition of activity. (2) Whoever commits the offence referred to in paragraph 1 (a) in a significant scope; or (b) as a member of an organised group, shall be sentenced to imprisonment for up to three years."
+    },
+    {
+      "provision_ref": "§ 180",
+      "section": "Part 2, Title II",
+      "chapter": "Part Two — Special Part, Title II — Criminal Offences Against Freedom and Human Dignity",
+      "title": "Unauthorised handling of personal data",
+      "content": "(1) Whoever, even through negligence, makes available, discloses, or makes accessible personal data about another person that have been collected in connection with the exercise of public authority, without authorisation, shall be sentenced to imprisonment for up to three years or to a prohibition of activity. (2) The same penalty shall be imposed on whoever, even through negligence, discloses personal data about another person that have been obtained in connection with the exercise of a profession, employment, or function, if such data were entrusted to that person or that person has access to them, without the consent of the person concerned. (3) Whoever commits the offence referred to in paragraph 1 or 2 with the intent to cause harm or to obtain an unjustified benefit shall be sentenced to imprisonment for one to five years."
+    },
+    {
+      "provision_ref": "§ 191",
+      "section": "Part 2, Title III",
+      "chapter": "Part Two — Special Part, Title III — Criminal Offences Against Human Dignity in the Sexual Area",
+      "title": "Distribution of child pornography",
+      "content": "(1) Whoever produces, imports, exports, transports, offers, makes publicly accessible, mediates, distributes, or otherwise makes available a child pornography production shall be sentenced to imprisonment for one to five years. (2) Whoever commits the offence referred to in paragraph 1 through an electronic communication network, including through a computer system, shall be sentenced to imprisonment for two to six years. (3) Whoever commits the offence referred to in paragraph 1 as a member of an organised group, or on a large scale, shall be sentenced to imprisonment for three to eight years."
+    },
+    {
+      "provision_ref": "§ 192",
+      "section": "Part 2, Title III",
+      "chapter": "Part Two — Special Part, Title III — Criminal Offences Against Human Dignity in the Sexual Area",
+      "title": "Possession of child pornography",
+      "content": "(1) Whoever possesses a child pornography production stored on a computer system or on a data carrier shall be sentenced to imprisonment for up to two years. (2) Whoever accesses child pornography through an electronic communication network, including through a computer system, shall be sentenced to imprisonment for up to two years."
+    },
+    {
+      "provision_ref": "§ 230a",
+      "section": "Part 2, Title V",
+      "chapter": "Part Two — Special Part, Title V — Criminal Offences Against Property",
+      "title": "Illegal interception",
+      "content": "(1) Whoever intercepts, by technical means, non-public transmissions of computer data to, from, or within a computer system, including electromagnetic emissions from a computer system carrying such data, without authorisation, shall be sentenced to imprisonment for up to two years or to a prohibition of activity. (2) Whoever commits the offence referred to in paragraph 1 with the intent to cause damage to another person or to obtain an unjustified benefit for himself or for another person shall be sentenced to imprisonment for six months to three years. This provision implements Article 3 of the Budapest Convention on Cybercrime."
+    },
+    {
+      "provision_ref": "§ 175",
+      "section": "Part 2, Title II",
+      "chapter": "Part Two — Special Part, Title II — Criminal Offences Against Freedom and Human Dignity",
+      "title": "Extortion (including ransomware)",
+      "content": "(1) Whoever compels another person by violence or by the threat of violence or other serious harm to do, omit, or tolerate something shall be sentenced to imprisonment for up to four years. (2) This provision covers cyber extortion (ransomware) where the perpetrator threatens to damage, destroy, or make inaccessible data in a computer system or to disclose confidential data unless a ransom is paid. (3) Whoever commits the offence referred to in paragraph 1 causing significant damage or as a member of an organised group shall be sentenced to imprisonment for two to eight years."
+    },
+    {
+      "provision_ref": "§ 354",
+      "section": "Part 2, Title X",
+      "chapter": "Part Two — Special Part, Title X — Criminal Offences Against Order in Public Matters",
+      "title": "Dangerous threatening (cyber-stalking)",
+      "content": "(1) Whoever threatens another person with death, grievous bodily harm, or other serious harm in a manner that may reasonably arouse fear shall be sentenced to imprisonment for up to one year or to a prohibition of activity. (2) Where such threatening is carried out through an electronic communication network, including through a computer system or social media platform, and is persistent or repeated (cyber-stalking), the offender shall be sentenced to imprisonment for six months to three years."
+    },
+    {
+      "provision_ref": "§ 181",
+      "section": "Part 2, Title II",
+      "chapter": "Part Two — Special Part, Title II — Criminal Offences Against Freedom and Human Dignity",
+      "title": "Violation of the secrecy of a transmitted message",
+      "content": "(1) Whoever opens a sealed letter or another consignment addressed to another person in order to acquaint himself with its content, or whoever damages, destroys, or intercepts such consignment to prevent it from reaching the addressee, shall be sentenced to imprisonment for up to two years. (2) Where the transmitted message is in electronic form and is intercepted through a computer system, the penalty shall be imprisonment for six months to three years."
+    },
+    {
+      "provision_ref": "§ 270",
+      "section": "Part 2, Title VI",
+      "chapter": "Part Two — Special Part, Title VI — Criminal Offences of General Danger",
+      "title": "Disruption of operation of a critical infrastructure element",
+      "content": "(1) Whoever disrupts or endangers the operation of a critical infrastructure element, including a critical information infrastructure system, shall be sentenced to imprisonment for two to eight years. (2) Whoever commits the offence referred to in paragraph 1 causing an extensive disruption of the critical infrastructure element shall be sentenced to imprisonment for five to twelve years. (3) Whoever commits the offence referred to in paragraph 1 during a state of emergency or a state of war shall be sentenced to imprisonment for eight to fifteen years."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Computer system",
+      "definition": "Any device or group of interconnected or related devices performing automatic processing of data pursuant to a programme (consistent with the Budapest Convention definition).",
+      "source_provision": "§ 230"
+    },
+    {
+      "term": "Critical information infrastructure",
+      "definition": "An element or system of information or communication infrastructure designated by Government Regulation whose disruption could seriously affect state security or public safety.",
+      "source_provision": "§ 270"
+    },
+    {
+      "term": "Computer data",
+      "definition": "Any representation of facts, information, or concepts in a form suitable for processing in a computer system, including a programme suitable to cause a computer system to perform a function.",
+      "source_provision": "§ 230"
+    }
+  ]
+}

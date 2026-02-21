@@ -1,0 +1,145 @@
+{
+  "id": "cz:480/2004",
+  "type": "statute",
+  "title": "Zákon č. 480/2004 Sb., o některých službách informační společnosti",
+  "title_en": "Act on Certain Information Society Services",
+  "short_name": "Information Society Services Act",
+  "status": "in_force",
+  "issued_date": "2004-07-29",
+  "in_force_date": "2004-09-07",
+  "url": "https://www.zakonyprolidi.cz/cs/2004-480",
+  "description": "Czech implementation of the e-Commerce Directive 2000/31/EC. Regulates information society services, liability of intermediary service providers, and commercial communications.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates, in accordance with Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, the responsibility of information society service providers, the sending of commercial communications, and the internal market clause for cross-border services."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'information society service' means any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of the recipient; (b) 'service provider' means any natural or legal person providing an information society service; (c) 'commercial communication' means all forms of communication designed to promote, directly or indirectly, goods, services, or the image of an enterprise or organisation."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 2",
+      "chapter": "Part Two — Liability of Service Providers",
+      "title": "Mere conduit",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or of the provision of access to a communication network, the service provider is not liable for the information transmitted, on condition that the provider: (a) does not initiate the transmission; (b) does not select the receiver of the transmission; (c) does not select or modify the information contained in the transmission. This provision implements Article 12 of Directive 2000/31/EC."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 2",
+      "chapter": "Part Two — Liability of Service Providers",
+      "title": "Caching",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider is not liable for the automatic, intermediate, and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission to other recipients, on condition that: (a) the provider does not modify the information; (b) the provider complies with conditions on access to the information; (c) the provider acts expeditiously to remove or disable access to the information upon obtaining knowledge that the information at the initial source has been removed."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Liability of Service Providers",
+      "title": "Hosting",
+      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider is not liable for the information stored at the request of a recipient of the service, on condition that: (a) the provider does not have actual knowledge of illegal activity or information and is not aware of facts or circumstances from which the illegal activity or information is apparent; (b) the provider, upon obtaining such knowledge, acts expeditiously to remove or disable access to the information."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Liability of Service Providers",
+      "title": "No general obligation to monitor",
+      "content": "Service providers referred to in §§ 3 to 5 are not obliged to monitor the information which they transmit or store, nor to actively seek facts or circumstances indicating illegal activity. This does not affect the obligation of service providers to comply with court orders or decisions of competent administrative authorities."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 3",
+      "chapter": "Part Three — Commercial Communications",
+      "title": "Commercial communications",
+      "content": "Commercial communications that are part of or constitute an information society service shall be clearly identifiable as commercial communications. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Where promotional offers such as discounts, premiums, or gifts are permitted, they shall be clearly identifiable as such."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 3",
+      "chapter": "Part Three — Commercial Communications",
+      "title": "Unsolicited commercial communications",
+      "content": "The sending of unsolicited commercial communications by electronic means is prohibited unless: (a) the recipient has given prior consent to the receipt of such communications; or (b) the sender obtained the electronic contact details of the recipient in the context of the sale of a product or service and uses those details for direct marketing of similar products or services, provided that the recipient is given the opportunity to refuse such use. Every commercial communication shall contain: (a) the identity of the sender; (b) a valid opt-out mechanism."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 3",
+      "chapter": "Part Three — Commercial Communications",
+      "title": "Opt-out register",
+      "content": "A natural person may register in a central register of persons who do not wish to receive unsolicited commercial communications. The sender of commercial communications shall consult the register before sending unsolicited communications. The register is maintained by the Office for Personal Data Protection."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 4",
+      "chapter": "Part Four — Contracts Concluded by Electronic Means",
+      "title": "Contracts by electronic means",
+      "content": "Where a contract is concluded by electronic means, the service provider shall: (a) make available to the recipient the individual technical steps to conclude the contract; (b) inform the recipient whether the concluded contract will be filed and whether it will be accessible; (c) provide the recipient with the means to identify and correct errors prior to the placing of the order; (d) indicate the languages offered for the conclusion of the contract."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 4",
+      "chapter": "Part Four — Contracts Concluded by Electronic Means",
+      "title": "Acknowledgement of receipt",
+      "content": "The service provider shall acknowledge receipt of the order placed by the recipient without undue delay, by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 5",
+      "chapter": "Part Five — Internal Market Clause",
+      "title": "Internal market clause",
+      "content": "Information society services provided by a service provider established in another EEA Member State shall not be restricted in the Czech Republic for reasons falling within the scope of this Act, except in cases permitted by Directive 2000/31/EC, in particular for: (a) the protection of public order, public health, or public security; (b) the protection of consumers, including investors."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 5",
+      "chapter": "Part Five — Internal Market Clause",
+      "title": "Derogations from internal market clause",
+      "content": "The internal market clause does not apply to: (a) copyright and neighbouring rights; (b) the permissibility of unsolicited commercial communications by electronic mail; (c) contractual obligations concerning consumer contracts; (d) the freedom of parties to choose the law applicable to their contract."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 6",
+      "chapter": "Part Six — Supervision and Penalties",
+      "title": "Supervisory authority",
+      "content": "The supervision of compliance with this Act is exercised by: (a) the Czech Trade Inspection Authority (Česká obchodní inspekce) for matters relating to electronic contracts and commercial communications; (b) the Office for Personal Data Protection for matters relating to unsolicited commercial communications and the opt-out register."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 6",
+      "chapter": "Part Six — Supervision and Penalties",
+      "title": "Administrative offences",
+      "content": "A service provider commits an administrative offence by: (a) sending unsolicited commercial communications in violation of § 8; (b) failing to identify commercial communications as required by § 7; (c) failing to provide pre-contractual information as required by § 10. For an offence under (a), a fine may be imposed up to CZK 10,000,000."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 7",
+      "chapter": "Part Seven — Final Provisions",
+      "title": "Transitional provisions",
+      "content": "Proceedings commenced before the entry into force of this Act shall be concluded under the prior legal provisions."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 7",
+      "chapter": "Part Seven — Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 7 September 2004."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information society service",
+      "definition": "Any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of the recipient.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Commercial communication",
+      "definition": "All forms of communication designed to promote, directly or indirectly, goods, services, or the image of an enterprise or organisation.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

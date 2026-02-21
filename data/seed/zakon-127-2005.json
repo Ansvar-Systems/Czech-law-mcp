@@ -1,0 +1,171 @@
+{
+  "id": "cz:127/2005",
+  "type": "statute",
+  "title": "Zákon č. 127/2005 Sb., o elektronických komunikacích",
+  "title_en": "Electronic Communications Act",
+  "short_name": "Electronic Communications Act",
+  "status": "in_force",
+  "issued_date": "2005-03-17",
+  "in_force_date": "2005-05-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2005-127",
+  "description": "Czech Electronic Communications Act transposing the EU electronic communications framework including Directive (EU) 2018/1972 (European Electronic Communications Code). Regulates telecommunications networks, spectrum management, and communications privacy.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates, in accordance with the law of the European Union, in particular Directive (EU) 2018/1972 of the European Parliament and of the Council establishing the European Electronic Communications Code, the conditions for conducting business in the field of electronic communications, the rights and obligations of persons carrying on such business, the competence of the Czech Telecommunication Office, and the protection of users of electronic communications services."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'electronic communications network' means transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, by radio, by optical or by other electromagnetic means; (b) 'electronic communications service' means a service normally provided for remuneration via electronic communications networks, which encompasses internet access service, interpersonal communications service, and services consisting wholly or mainly in the conveyance of signals; (c) 'operator' means a person authorised to provide an electronic communications network or electronic communications service."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Authorisation to conduct business",
+      "content": "Business in electronic communications may be conducted on the basis of a general authorisation or, where required by this Act, on the basis of individual rights of use for radio frequencies or numbers. The Czech Telecommunication Office issues and administers such authorisations."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 2",
+      "chapter": "Part Two — Network and Service Regulation",
+      "title": "General authorisation conditions",
+      "content": "A person intending to provide an electronic communications network or service shall notify the Czech Telecommunication Office at least 10 working days before commencement of the activity. The general authorisation imposes conditions relating to: (a) interoperability of services; (b) accessibility for disabled users; (c) obligations regarding emergency services; (d) protection of personal data and privacy in electronic communications."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Network and Service Regulation",
+      "title": "Significant market power",
+      "content": "The Czech Telecommunication Office shall conduct market analysis to determine whether a relevant market is effectively competitive. Where the Office finds that an operator has significant market power on a relevant market, it may impose specific obligations including: (a) obligation of transparency; (b) obligation of non-discrimination; (c) obligation of accounting separation; (d) obligation of access to network elements; (e) price regulation."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Network and Service Regulation",
+      "title": "Access and interconnection",
+      "content": "An operator of a public communications network has the right and, when requested by another operator, the obligation to negotiate interconnection with that operator. Operators with significant market power may be required to meet reasonable requests for access to specific network elements and associated facilities, including unbundled access to the local loop."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 3",
+      "chapter": "Part Three — Radio Spectrum Management",
+      "title": "Radio spectrum management",
+      "content": "The Czech Telecommunication Office manages the radio frequency spectrum in accordance with the National Frequency Table and relevant EU decisions. The Office allocates radio frequencies, grants individual rights of use for radio frequencies, monitors compliance, and takes enforcement action against unauthorised use."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 3",
+      "chapter": "Part Three — Radio Spectrum Management",
+      "title": "Individual rights of use for radio frequencies",
+      "content": "Individual rights of use for radio frequencies are granted by the Czech Telecommunication Office on the basis of a selection procedure (tender or auction) where the demand for radio frequencies exceeds the available supply. The rights of use shall specify: (a) the radio frequencies allocated; (b) the conditions of use; (c) the duration of the rights; (d) any coverage obligations."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 4",
+      "chapter": "Part Four — Universal Service",
+      "title": "Universal service",
+      "content": "Universal service means the minimum set of electronic communications services of a specified quality which is available to all end-users at an affordable price. Universal service includes: (a) access to a publicly available telephone service at a fixed location; (b) access to a comprehensive telephone directory; (c) availability of public pay telephones; (d) adequate access for disabled users."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 4",
+      "chapter": "Part Four — Universal Service",
+      "title": "Imposition of universal service obligation",
+      "content": "The Czech Telecommunication Office may designate one or more operators to provide universal service or its components. An operator designated to provide universal service is entitled to compensation for the net cost of the universal service obligation where such cost represents an unfair burden."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 5",
+      "chapter": "Part Five — User Protection",
+      "title": "Subscriber contracts",
+      "content": "A provider of publicly available electronic communications services shall conclude a contract with the subscriber. The contract shall contain: (a) the identity and contact details of the provider; (b) the services provided, including quality levels; (c) the price and payment conditions; (d) the duration of the contract and conditions for renewal and termination; (e) compensation and refund arrangements for failure to meet quality standards."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 5",
+      "chapter": "Part Five — User Protection",
+      "title": "Number portability",
+      "content": "Every subscriber who so requests shall have the right to retain their telephone number, independently of the operator providing the service. The porting process shall be completed within the shortest possible period, not exceeding one working day. The receiving operator shall lead the porting process."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 5",
+      "chapter": "Part Five — User Protection",
+      "title": "Emergency services",
+      "content": "Operators of publicly available telephone services and providers of interpersonal communications services shall ensure that users can make emergency calls free of charge to the single European emergency number 112 and to national emergency numbers 150, 155, and 158. Operators shall transmit caller location information to the emergency services."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 6",
+      "chapter": "Part Six — Privacy in Electronic Communications",
+      "title": "Confidentiality of communications",
+      "content": "The provider of a publicly available electronic communications service shall ensure the confidentiality of communications and related traffic data. It shall be prohibited to listen to, tap, store, or intercept communications or related traffic data without the consent of the users concerned, except where authorised by law. This provision implements Directive 2002/58/EC (ePrivacy Directive) as amended."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 6",
+      "chapter": "Part Six — Privacy in Electronic Communications",
+      "title": "Traffic and location data",
+      "content": "Traffic data relating to subscribers and users processed for the purpose of the conveyance of a communication shall be erased or made anonymous when no longer needed for the purpose of the transmission of the communication. Location data other than traffic data may only be processed with the consent of the subscriber or user, or after the data have been anonymised."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 6",
+      "chapter": "Part Six — Privacy in Electronic Communications",
+      "title": "Data retention",
+      "content": "Operators of publicly available electronic communications services or networks shall retain traffic and location data for a period of 6 months for the purposes of the investigation, detection, and prosecution of criminal offences, in accordance with applicable legal provisions. The retained data shall be made available to authorised bodies upon request issued by a court."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 6",
+      "chapter": "Part Six — Privacy in Electronic Communications",
+      "title": "Unsolicited communications",
+      "content": "The use of automated calling and communication systems, facsimile machines, and electronic mail for the purposes of direct marketing shall be allowed only in relation to subscribers who have given their prior consent (opt-in). The sender of electronic commercial communications shall always indicate the identity of the sender and provide the recipient with the possibility to refuse further communications."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 7",
+      "chapter": "Part Seven — Czech Telecommunication Office",
+      "title": "Czech Telecommunication Office",
+      "content": "The Czech Telecommunication Office (Český telekomunikační úřad, ČTÚ) is the national regulatory authority in the field of electronic communications. ČTÚ is an independent administrative body that exercises its competences impartially and transparently. ČTÚ cooperates with regulatory authorities of other EU Member States and with BEREC."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 7",
+      "chapter": "Part Seven — Czech Telecommunication Office",
+      "title": "Dispute resolution",
+      "content": "ČTÚ resolves disputes between operators and between operators and subscribers concerning obligations arising from this Act or from conditions set in general authorisations or individual rights of use. ČTÚ shall decide on such disputes within four months, except in exceptional circumstances."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 8",
+      "chapter": "Part Eight — Administrative Offences",
+      "title": "Administrative offences",
+      "content": "A person commits an administrative offence by: (a) providing an electronic communications network or service without notification; (b) failing to comply with conditions of general authorisation; (c) breaching the confidentiality of communications; (d) failing to ensure access to emergency services. Fines for administrative offences may be imposed up to CZK 10,000,000 or, in serious cases, up to CZK 50,000,000."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ČTÚ",
+      "definition": "Český telekomunikační úřad (Czech Telecommunication Office) — the national regulatory authority for electronic communications.",
+      "source_provision": "§ 18"
+    },
+    {
+      "term": "Electronic communications network",
+      "definition": "Transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, radio, optical, or other electromagnetic means.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Universal service",
+      "definition": "The minimum set of electronic communications services of a specified quality available to all end-users at an affordable price.",
+      "source_provision": "§ 9"
+    }
+  ]
+}

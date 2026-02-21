@@ -1,0 +1,211 @@
+{
+  "id": "cz:181/2014",
+  "type": "statute",
+  "title": "Zákon č. 181/2014 Sb., o kybernetické bezpečnosti",
+  "title_en": "Cybersecurity Act",
+  "short_name": "Cybersecurity Act",
+  "status": "in_force",
+  "issued_date": "2014-08-13",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2014-181",
+  "description": "Czech Cybersecurity Act implementing NIS Directive (EU) 2016/1148 and later NIS2 Directive (EU) 2022/2555. Establishes NÚKIB (National Cyber and Information Security Agency), regulates critical information infrastructure, defines cybersecurity incident reporting obligations.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates the rights and obligations of persons and the competence of public authorities in the field of cybersecurity, in accordance with Directive (EU) 2016/1148 of the European Parliament and of the Council concerning measures for a high common level of security of network and information systems across the Union (NIS Directive) and Directive (EU) 2022/2555 (NIS2 Directive)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Scope",
+      "content": "This Act applies to: (a) administrators and operators of critical information infrastructure; (b) administrators and operators of significant information systems; (c) operators of essential services; (d) digital service providers; (e) the National Cyber and Information Security Agency (NÚKIB) and other public authorities with cybersecurity responsibilities."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'cybersecurity' means a set of measures, policies, and procedures aimed at protecting information and communication systems and the information contained therein against cyber threats; (b) 'cyber threat' means any circumstance, event, or act that could damage, disrupt, or otherwise negatively affect information and communication systems; (c) 'cybersecurity incident' means an event that adversely affects the security of information and communication systems or the information contained therein; (d) 'critical information infrastructure' means an element or system of elements of information or communication infrastructure whose disruption or destruction would have a serious impact on the security of the state, basic living needs of the population, health, or the economy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Critical information infrastructure",
+      "content": "The Government designates, by Government Regulation, critical information infrastructure elements and significant information systems. An element of critical information infrastructure is an information system, an electronic communication network, or an information and communication system whose disruption could seriously affect the security, economy, or public administration of the state."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Obligations of operators of critical information infrastructure",
+      "content": "The operator of critical information infrastructure is obliged to: (a) implement security measures in accordance with this Act and implementing regulations; (b) detect cybersecurity events and incidents; (c) report cybersecurity incidents to NÚKIB; (d) implement reactive and protective measures ordered by NÚKIB; (e) maintain documentation of implemented security measures."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Organisational security measures",
+      "content": "Organisational security measures include: (a) information security management system (ISMS) based on risk analysis; (b) security policy defining the goals and principles of information security; (c) organisational security including definition of roles, responsibilities, and competencies; (d) asset management including classification and handling rules; (e) security of human resources; (f) management of information security incidents."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Technical security measures",
+      "content": "Technical security measures include: (a) physical security of premises and equipment; (b) access control and identity management; (c) protection of communication networks, including firewalls and intrusion detection systems; (d) protection against malicious code; (e) logging and monitoring of security events; (f) application security; (g) cryptographic protection; (h) security of industrial and control systems where applicable."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Incident detection and reporting",
+      "content": "The administrator or operator of critical information infrastructure or a significant information system shall: (a) deploy tools for the detection of cybersecurity events within the managed systems; (b) evaluate detected cybersecurity events and determine whether they constitute cybersecurity incidents; (c) report significant cybersecurity incidents to NÚKIB without undue delay. A significant cybersecurity incident is one that has or could have a substantial impact on the provision of the essential service or on the operation of the information system."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Reactive measures",
+      "content": "NÚKIB may issue a reactive measure obliging the administrator or operator to take immediate action to contain or mitigate the impact of a cybersecurity incident. The reactive measure shall specify the actions to be taken and the time limit for their implementation. The administrator or operator is obliged to comply with the reactive measure without undue delay."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Protective measures",
+      "content": "NÚKIB may issue a protective measure requiring the adoption of preventive steps to avert or mitigate the risk of a cybersecurity incident. The protective measure shall specify the vulnerability or threat and the steps to be taken. The administrator or operator is obliged to implement the protective measure within the time limit specified."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 2",
+      "chapter": "Part Two — Security Measures",
+      "title": "Security audit",
+      "content": "The administrator or operator of critical information infrastructure shall ensure that a cybersecurity audit is conducted by a qualified auditor at least once every two years. The audit shall verify compliance with the security measures required under this Act and implementing regulations. The audit report shall be submitted to NÚKIB."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 3",
+      "chapter": "Part Three — NÚKIB",
+      "title": "Establishment and competence of NÚKIB",
+      "content": "The National Cyber and Information Security Agency (Národní úřad pro kybernetickou a informační bezpečnost, NÚKIB) is established as the central administrative body for cybersecurity and information security. NÚKIB: (a) performs the role of national CSIRT (Computer Security Incident Response Team); (b) issues reactive and protective measures; (c) conducts inspections; (d) maintains the register of critical information infrastructure elements; (e) cooperates with foreign and international cybersecurity organisations."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 3",
+      "chapter": "Part Three — NÚKIB",
+      "title": "Director of NÚKIB",
+      "content": "NÚKIB is headed by a Director appointed and recalled by the Government. The Director manages the activities of the Agency, acts on its behalf, and is responsible for the exercise of its competences. The Director must have a university degree and at least five years of professional experience in the field of cybersecurity or information technology."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 3",
+      "chapter": "Part Three — NÚKIB",
+      "title": "National CSIRT",
+      "content": "NÚKIB operates the Government CERT/CSIRT, which: (a) receives and processes reports of cybersecurity incidents; (b) provides methodological guidance and technical assistance; (c) issues warnings and recommendations; (d) coordinates the response to significant cybersecurity incidents; (e) shares information on cyber threats with domestic and foreign partners."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 3",
+      "chapter": "Part Three — NÚKIB",
+      "title": "Information sharing",
+      "content": "NÚKIB shall facilitate the sharing of information on cyber threats, vulnerabilities, and incidents among administrators and operators of critical information infrastructure, operators of essential services, and digital service providers. Information shared shall be anonymised where possible to protect confidential information."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Penalties",
+      "title": "Inspection activities",
+      "content": "NÚKIB is authorised to conduct inspections to verify compliance with obligations under this Act. During an inspection, NÚKIB may: (a) enter premises; (b) request documents and information; (c) examine information systems and networks; (d) take copies of data and configuration files."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Penalties",
+      "title": "Administrative offences",
+      "content": "An administrator or operator commits an administrative offence by: (a) failing to implement required security measures; (b) failing to report a cybersecurity incident; (c) failing to comply with a reactive or protective measure; (d) obstructing an inspection."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Penalties",
+      "title": "Fines",
+      "content": "For an administrative offence under § 17, a fine may be imposed up to: (a) CZK 5,000,000 for failure to implement security measures; (b) CZK 1,000,000 for failure to report a cybersecurity incident; (c) CZK 5,000,000 for failure to comply with a reactive or protective measure; (d) CZK 500,000 for obstructing an inspection."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 5",
+      "chapter": "Part Five — Essential Services",
+      "title": "Operators of essential services",
+      "content": "Operators of essential services are entities that provide a service that is essential for the maintenance of critical societal or economic activities and where the provision of that service depends on network and information systems, in accordance with Directive (EU) 2016/1148 and Directive (EU) 2022/2555. The list of essential services and criteria for identification of operators shall be determined by Government Regulation."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 5",
+      "chapter": "Part Five — Essential Services",
+      "title": "Obligations of operators of essential services",
+      "content": "Operators of essential services shall: (a) take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems; (b) take appropriate measures to prevent and minimise the impact of incidents on the network and information systems used for the provision of essential services; (c) notify NÚKIB of incidents having a significant impact on the continuity of the essential services they provide."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "Part 5",
+      "chapter": "Part Five — Essential Services",
+      "title": "Digital service providers",
+      "content": "Digital service providers, including providers of online marketplaces, online search engines, and cloud computing services, shall implement security measures and report incidents in accordance with Directive (EU) 2016/1148. NÚKIB may issue guidance on the security measures applicable to digital service providers."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "Part 6",
+      "chapter": "Part Six — Supply Chain and ICT Products",
+      "title": "Supply chain security",
+      "content": "Administrators and operators of critical information infrastructure shall assess the cybersecurity risks of their supply chains and take appropriate measures to mitigate those risks. NÚKIB may issue a warning or recommendation regarding the use of specific ICT products, services, or processes that pose a security risk, in line with the requirements of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "Part 6",
+      "chapter": "Part Six — Supply Chain and ICT Products",
+      "title": "ICT product assessment",
+      "content": "NÚKIB may assess whether a specific ICT product, ICT service, or ICT process poses a threat to the security of the Czech Republic. Where NÚKIB determines that such a threat exists, it may issue a warning and recommend that the product, service, or process not be used in critical information infrastructure or significant information systems."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "Part 7",
+      "chapter": "Part Seven — Transitional and Final Provisions",
+      "title": "Transitional provisions",
+      "content": "Administrators and operators of systems that are designated as critical information infrastructure elements or significant information systems after the entry into force of this Act shall comply with the requirements of this Act within 12 months of the designation."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "Part 7",
+      "chapter": "Part Seven — Transitional and Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 1 January 2015."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "NÚKIB",
+      "definition": "Národní úřad pro kybernetickou a informační bezpečnost (National Cyber and Information Security Agency) — the central administrative body for cybersecurity in the Czech Republic.",
+      "source_provision": "§ 12"
+    },
+    {
+      "term": "Cybersecurity incident",
+      "definition": "An event that adversely affects the security of information and communication systems or the information contained therein.",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Critical information infrastructure",
+      "definition": "An element or system of elements of information or communication infrastructure whose disruption or destruction would have a serious impact on the security of the state, basic living needs of the population, health, or the economy.",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Reactive measure",
+      "definition": "A measure issued by NÚKIB obliging an administrator or operator to take immediate action to contain or mitigate the impact of a cybersecurity incident.",
+      "source_provision": "§ 9"
+    }
+  ]
+}

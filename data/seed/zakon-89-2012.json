@@ -1,0 +1,171 @@
+{
+  "id": "cz:89/2012",
+  "type": "statute",
+  "title": "Zákon č. 89/2012 Sb., občanský zákoník — obchodní tajemství",
+  "title_en": "Civil Code — Trade Secrets",
+  "short_name": "Civil Code (Trade Secrets)",
+  "status": "in_force",
+  "issued_date": "2012-02-03",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2012-89",
+  "description": "Trade secret provisions of the Czech Civil Code (občanský zákoník), implementing Directive (EU) 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use, and disclosure.",
+  "provisions": [
+    {
+      "provision_ref": "§ 504",
+      "section": "Part 1, Title IV",
+      "chapter": "Part One — General Part, Title IV — Things and Their Subdivision",
+      "title": "Enterprise as a thing",
+      "content": "An enterprise (obchodní závod) is an organised set of assets that an entrepreneur has created and which, by his will, serves for carrying on his business. An enterprise is regarded as a thing. A branch is a part of an enterprise that exhibits economic and functional independence and which the entrepreneur has designated as a branch."
+    },
+    {
+      "provision_ref": "§ 2985",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Unfair competition — general clause",
+      "content": "Whoever participates in economic competition in a manner that is contrary to good morals of competition and is capable of causing harm to other competitors or consumers, engages in unfair competition. Unfair competition is prohibited. In particular, the following are considered unfair competition: (a) misleading designation of goods and services; (b) misleading advertising; (c) parasitic conduct; (d) bribery; (e) disparagement; (f) breach of trade secrets; (g) endangering health and the environment."
+    },
+    {
+      "provision_ref": "§ 2985a",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Definition of trade secret",
+      "content": "A trade secret comprises competitively significant, identifiable, assessable, and in customary business relations otherwise unavailable facts related to an enterprise that the owner of the trade secret ensures are kept secret in accordance with his will. These facts may be of a production, technical, or commercial nature. This definition aligns with Article 2 of Directive (EU) 2016/943 on the protection of undisclosed know-how and business information."
+    },
+    {
+      "provision_ref": "§ 2985b",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Lawful acquisition of trade secrets",
+      "content": "The acquisition of a trade secret is lawful if obtained by: (a) independent discovery or creation; (b) observation, study, disassembly, or testing of a product or object that has been made available to the public or that is lawfully in the possession of the acquirer; (c) exercise of the right of workers or workers' representatives to information and consultation under applicable legislation; (d) any other practice which, under the circumstances, is in conformity with honest commercial practices. This provision implements Article 3 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "§ 2985c",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Unlawful acquisition of trade secrets",
+      "content": "The acquisition of a trade secret is unlawful if obtained: (a) by unauthorised access to, appropriation of, or copying of any documents, objects, materials, substances, or electronic files, lawfully under the control of the trade secret holder, containing the trade secret or from which the trade secret can be deduced; (b) by any other conduct which, under the circumstances, is contrary to honest commercial practices; (c) through the breach of a confidentiality agreement or any other duty not to disclose the trade secret; (d) through the breach of a contractual or any other duty to limit the use of the trade secret. This provision implements Article 4 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "§ 2985d",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Unlawful use and disclosure of trade secrets",
+      "content": "The use or disclosure of a trade secret shall be considered unlawful whenever carried out by a person who: (a) has acquired the trade secret unlawfully; (b) is in breach of a confidentiality agreement or any other duty not to disclose the trade secret; (c) is in breach of a contractual or any other duty to limit the use of the trade secret. The use or disclosure is also unlawful if the person knew or ought to have known that the trade secret was obtained from another person who was using or disclosing the trade secret unlawfully."
+    },
+    {
+      "provision_ref": "§ 2985e",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Infringing goods",
+      "content": "The production, offering, or placing on the market of infringing goods, or the importation, exportation, or storage of infringing goods for those purposes, shall be considered unlawful use of a trade secret where the person carrying out such activities knew or ought to have known that the trade secret was used unlawfully. 'Infringing goods' means goods whose design, characteristics, functioning, production process, or marketing significantly benefits from trade secrets unlawfully acquired, used, or disclosed."
+    },
+    {
+      "provision_ref": "§ 2986",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Remedies for unfair competition",
+      "content": "A person whose right has been threatened or infringed by unfair competition, including breach of trade secrets, may claim: (a) that the infringer cease the infringing conduct; (b) that the consequences of the infringement be remedied; (c) payment of damages; (d) surrender of unjust enrichment; (e) publication of the judgment at the infringer's expense. This provision implements Article 6 of Directive (EU) 2016/943 regarding measures, procedures, and remedies."
+    },
+    {
+      "provision_ref": "§ 2987",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Injunctive relief",
+      "content": "In proceedings relating to the unlawful acquisition, use, or disclosure of a trade secret, the court may, upon the request of the trade secret holder, order: (a) cessation of the unlawful use or disclosure of the trade secret; (b) prohibition of the production, offering, placing on the market, or use of infringing goods, or the importation, exportation, or storage of infringing goods; (c) seizure or delivery up of infringing goods; (d) destruction of all or part of any document, object, material, substance, or electronic file containing or embodying the trade secret."
+    },
+    {
+      "provision_ref": "§ 2988",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Damages for trade secret misappropriation",
+      "content": "Damages for the unlawful acquisition, use, or disclosure of a trade secret shall be determined taking into account: (a) the negative economic consequences, including lost profits, suffered by the trade secret holder; (b) any unfair profits made by the infringer; (c) the moral prejudice caused to the trade secret holder. Alternatively, damages may be set as a lump sum on the basis of a reasonable royalty that would have been due had the infringer requested authorisation to use the trade secret."
+    },
+    {
+      "provision_ref": "§ 2989",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Preservation of confidentiality in proceedings",
+      "content": "In judicial proceedings concerning trade secrets, the court shall, upon the request of a party, restrict access to documents submitted by the parties or by third parties that contain trade secrets. The court may limit the number of persons who have access to the evidence and the hearings. Any person who has gained access to the trade secret in the course of the proceedings shall not use or disclose the trade secret."
+    },
+    {
+      "provision_ref": "§ 2990",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Limitation period",
+      "content": "The right to claim remedies for the unlawful acquisition, use, or disclosure of a trade secret shall be subject to the general limitation period under the Civil Code. The limitation period shall begin to run from the date on which the trade secret holder became aware or ought to have become aware of the unlawful acquisition, use, or disclosure and of the identity of the infringer."
+    },
+    {
+      "provision_ref": "§ 2991",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Exceptions to trade secret protection",
+      "content": "Trade secret protection does not apply where the acquisition, use, or disclosure of the trade secret was carried out for: (a) exercising the right to freedom of expression and information, including respect for the freedom and pluralism of the media; (b) revealing misconduct, wrongdoing, or illegal activity, provided that the person acted for the purpose of protecting the general public interest (whistleblowing); (c) disclosure by workers to their representatives in the exercise of the right of those representatives to information; (d) the protection of a legitimate interest recognised by EU or national law."
+    },
+    {
+      "provision_ref": "§ 2992",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Reverse engineering",
+      "content": "Observation, study, disassembly, or testing of a product or object that has been made publicly available or that is lawfully in the possession of the acquirer, free of any legally valid duty to limit the acquisition of the trade secret, shall be considered lawful acquisition. This includes reverse engineering of software and hardware products."
+    },
+    {
+      "provision_ref": "§ 505",
+      "section": "Part 1, Title IV",
+      "chapter": "Part One — General Part, Title IV — Things and Their Subdivision",
+      "title": "Trade secret as part of an enterprise",
+      "content": "Part of an enterprise is everything that typically serves for its operation. The trade secret belongs to the enterprise. Where an enterprise or a part thereof is transferred, the trade secret passes to the acquirer along with the enterprise, unless excluded by agreement."
+    },
+    {
+      "provision_ref": "§ 2993",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Employee obligations regarding trade secrets",
+      "content": "An employee who has gained knowledge of trade secrets in the course of employment shall not use or disclose such trade secrets during the existence of the employment relationship and for a reasonable period after its termination. The scope and duration of the obligation may be further specified in the employment contract or in a separate confidentiality agreement."
+    },
+    {
+      "provision_ref": "§ 2994",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Non-compete clause and trade secrets",
+      "content": "Where a non-compete clause is agreed, it shall not restrict the former employee from using general skills and experience gained during the employment relationship. The non-compete clause may be agreed for a maximum period of two years after the termination of the employment relationship and shall be accompanied by adequate financial compensation."
+    },
+    {
+      "provision_ref": "§ 2995",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Trade secrets in digital and cyber context",
+      "content": "Trade secret protection extends to commercially valuable data stored in digital form, including source code, algorithms, databases, machine learning models, and cybersecurity configurations. The owner must take reasonable measures to maintain secrecy, which may include access controls, encryption, contractual obligations, and monitoring of access."
+    },
+    {
+      "provision_ref": "§ 2996",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Relationship to other provisions",
+      "content": "The provisions on trade secrets in this Code are without prejudice to: (a) criminal law provisions on breach of trade secrets; (b) provisions on the protection of personal data; (c) provisions on the protection of classified information; (d) specific provisions on the protection of intellectual property, including patents, copyrights, and trademarks."
+    },
+    {
+      "provision_ref": "§ 2997",
+      "section": "Part 4, Title V",
+      "chapter": "Part Four — Relative Property Rights, Title V — Obligations from Delicts",
+      "title": "Interim measures",
+      "content": "In urgent cases, the court may, upon the request of the trade secret holder, grant an interim measure: (a) ordering the cessation or prohibition of the use or disclosure of the trade secret on a provisional basis; (b) prohibiting the production, offering, placing on the market, or use of infringing goods on a provisional basis; (c) ordering the seizure or delivery up of the suspected infringing goods to prevent their entry into or circulation within the market."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Trade secret",
+      "definition": "Competitively significant, identifiable, assessable, and in customary business relations otherwise unavailable facts related to an enterprise that the owner ensures are kept secret, including production, technical, or commercial information.",
+      "source_provision": "§ 2985a"
+    },
+    {
+      "term": "Infringing goods",
+      "definition": "Goods whose design, characteristics, functioning, production process, or marketing significantly benefits from trade secrets unlawfully acquired, used, or disclosed.",
+      "source_provision": "§ 2985e"
+    },
+    {
+      "term": "Unfair competition",
+      "definition": "Participation in economic competition in a manner that is contrary to good morals of competition and is capable of causing harm to other competitors or consumers.",
+      "source_provision": "§ 2985"
+    }
+  ]
+}

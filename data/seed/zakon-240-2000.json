@@ -1,0 +1,171 @@
+{
+  "id": "cz:240/2000",
+  "type": "statute",
+  "title": "Zákon č. 240/2000 Sb., o krizovém řízení (krizový zákon)",
+  "title_en": "Act on Critical Infrastructure (Crisis Management Act)",
+  "short_name": "Crisis Management Act",
+  "status": "in_force",
+  "issued_date": "2000-06-28",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.zakonyprolidi.cz/cs/2000-240",
+  "description": "Czech Crisis Management Act regulating the preparation for crisis situations, critical infrastructure protection, and the rights and obligations of state bodies and natural and legal persons during crisis situations. Implements Directive 2008/114/EC on European critical infrastructures.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates: (a) the preparation for crisis situations and their management; (b) the rights and obligations of state bodies, territorial self-governing units, and natural and legal persons during crisis situations; (c) the identification and protection of critical infrastructure, in accordance with Council Directive 2008/114/EC on the identification and designation of European critical infrastructures."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act: (a) 'crisis situation' means a dangerous situation or extraordinary event during which the lives, health, property, or the environment are threatened and which requires the declaration of crisis measures; (b) 'critical infrastructure' means an element or system of elements whose disruption or destruction would have a serious impact on the security of the state, the provision of basic living needs, the health of persons, or the economy of the state; (c) 'European critical infrastructure' means critical infrastructure located in the Czech Republic whose disruption or destruction would have a significant impact on at least one other EU Member State; (d) 'crisis measures' means organisational or technical measures intended to address a crisis situation."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Critical infrastructure sectors",
+      "content": "Critical infrastructure includes elements in the following sectors: (a) energy (electricity, gas, oil); (b) water management; (c) food supply and agriculture; (d) health care; (e) transport; (f) communication and information systems; (g) financial market and currency; (h) emergency services; (i) public administration."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 2",
+      "chapter": "Part Two — Crisis Management Bodies",
+      "title": "Government and Security Council of the State",
+      "content": "The Government is the supreme body for crisis management. The Security Council of the State is an advisory body to the Government for matters of security and crisis management. The Government shall, upon a proposal from the Minister of the Interior or upon a recommendation of the Security Council, declare a state of emergency under the circumstances set by this Act."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Crisis Management Bodies",
+      "title": "Ministry of the Interior",
+      "content": "The Ministry of the Interior: (a) coordinates the preparation for crisis situations at the national level; (b) manages and coordinates the integrated rescue system; (c) maintains the information system of crisis management; (d) determines the criteria for identification of critical infrastructure elements."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Crisis Management Bodies",
+      "title": "Regional and municipal authorities",
+      "content": "Regional governors and mayors are responsible for crisis management at the regional and municipal levels. They establish crisis staffs, prepare crisis plans, and coordinate the response to crisis situations within their territory."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 3",
+      "chapter": "Part Three — Critical Infrastructure Protection",
+      "title": "Identification of critical infrastructure elements",
+      "content": "The Government shall determine, by Government Regulation, the criteria for identifying critical infrastructure elements. A critical infrastructure element shall be identified on the basis of cross-cutting criteria (casualty, economic impact, public impact) and sector-specific criteria. The determination shall take into account Directive 2008/114/EC."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 3",
+      "chapter": "Part Three — Critical Infrastructure Protection",
+      "title": "Obligations of operators of critical infrastructure",
+      "content": "The operator of a critical infrastructure element is obliged to: (a) prepare a security plan for the critical infrastructure element; (b) designate a security liaison officer; (c) report facts that may affect the functionality or security of the critical infrastructure element; (d) implement protective measures in accordance with the security plan; (e) cooperate with state bodies in crisis preparation and management."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 3",
+      "chapter": "Part Three — Critical Infrastructure Protection",
+      "title": "Security plan",
+      "content": "The security plan of a critical infrastructure element shall contain: (a) identification of the critical infrastructure element; (b) risk analysis, including identification of threats and vulnerabilities; (c) description of protective measures, including physical security, personnel security, and cybersecurity measures; (d) procedures for crisis communication and incident response; (e) procedures for business continuity and recovery."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 3",
+      "chapter": "Part Three — Critical Infrastructure Protection",
+      "title": "European critical infrastructure",
+      "content": "Where a critical infrastructure element meets the criteria for designation as European critical infrastructure under Directive 2008/114/EC, the Government shall notify the European Commission and the Member States potentially affected. The operator of a European critical infrastructure element shall prepare an operator security plan in accordance with the requirements of the Directive."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 4",
+      "chapter": "Part Four — Crisis Plans",
+      "title": "Crisis plans",
+      "content": "Crisis plans are prepared at the national, regional, and municipal levels. The national crisis plan is prepared by the Ministry of the Interior. Regional crisis plans are prepared by regional governors. Crisis plans shall contain: (a) analysis of potential crisis situations; (b) crisis measures and procedures; (c) resources and capacities available for crisis response."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 4",
+      "chapter": "Part Four — Crisis Plans",
+      "title": "Exercises and drills",
+      "content": "Crisis management bodies shall organise crisis exercises and drills at least once every three years to verify the readiness and functionality of crisis plans and crisis management procedures."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 5",
+      "chapter": "Part Five — Crisis Measures",
+      "title": "State of emergency",
+      "content": "The Government may declare a state of emergency for a maximum of 30 days in cases of natural disasters, ecological or industrial accidents, danger, or other threats to a significant extent to lives, health, property, or internal order and security. The state of emergency may be extended only with the consent of the Chamber of Deputies."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 5",
+      "chapter": "Part Five — Crisis Measures",
+      "title": "Crisis measures during state of emergency",
+      "content": "During a state of emergency, crisis measures may include: (a) evacuation of persons and property; (b) restriction of freedom of movement and residence; (c) commandeering of property and imposing obligations to perform work; (d) prohibition of entry into designated areas; (e) regulation of the sale of essential goods."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 5",
+      "chapter": "Part Five — Crisis Measures",
+      "title": "Compensation for crisis measures",
+      "content": "A natural or legal person whose property has been commandeered or who has suffered damage as a result of crisis measures has the right to compensation from the state. The claim for compensation must be asserted within 6 months from the date the damage occurred."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 6",
+      "chapter": "Part Six — Rights and Obligations",
+      "title": "Rights and obligations of natural persons",
+      "content": "During a crisis situation, natural persons are obliged to: (a) comply with crisis measures; (b) provide assistance as required by crisis management bodies, unless such assistance would endanger their own life or health; (c) submit to evacuation if ordered. Natural persons have the right to be informed about the nature of the crisis situation and the measures being taken."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 6",
+      "chapter": "Part Six — Rights and Obligations",
+      "title": "Rights and obligations of legal persons",
+      "content": "During a crisis situation, legal persons are obliged to: (a) comply with crisis measures; (b) make available means and property for crisis response upon order; (c) ensure the continuity of services essential for the population. Legal persons have the right to compensation for property commandeered during crisis situations."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 7",
+      "chapter": "Part Seven — Administrative Offences",
+      "title": "Administrative offences",
+      "content": "A natural person commits an administrative offence by: (a) failing to comply with crisis measures; (b) failing to provide required assistance during a crisis situation. A fine may be imposed up to CZK 50,000. A legal person or natural person carrying on business commits an administrative offence by: (a) failing to implement the security plan for a critical infrastructure element; (b) failing to designate a security liaison officer; (c) failing to report facts affecting the functionality of a critical infrastructure element. A fine may be imposed up to CZK 3,000,000."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 7",
+      "chapter": "Part Seven — Administrative Offences",
+      "title": "Supervision",
+      "content": "The Ministry of the Interior supervises compliance with obligations of operators of critical infrastructure elements. Regional authorities supervise compliance with crisis measures at the regional level."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 8",
+      "chapter": "Part Eight — Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 1 January 2001."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Crisis situation",
+      "definition": "A dangerous situation or extraordinary event during which the lives, health, property, or the environment are threatened and which requires the declaration of crisis measures.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Critical infrastructure",
+      "definition": "An element or system of elements whose disruption or destruction would have a serious impact on the security of the state, the provision of basic living needs, the health of persons, or the economy of the state.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "European critical infrastructure",
+      "definition": "Critical infrastructure located in the Czech Republic whose disruption or destruction would have a significant impact on at least one other EU Member State, as defined by Directive 2008/114/EC.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

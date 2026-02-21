@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Czech Law MCP",
+  "jurisdiction": "CZ",
+  "provisions": [
+    {
+      "id": "cz-hash-001",
+      "description": "GDPR Implementation Act § 1 -- subject matter of the Czech Act on Processing of Personal Data",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2019-110#p1",
+      "selector_hint": "§ 1 - Předmět úpravy",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal data"
+    },
+    {
+      "id": "cz-hash-002",
+      "description": "Cybersecurity Act § 1 -- subject matter of the Czech Cybersecurity Act",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2014-181#p1",
+      "selector_hint": "§ 1 - Předmět úpravy",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "cybersecurity"
+    },
+    {
+      "id": "cz-hash-003",
+      "description": "Criminal Code § 230 -- unauthorised access to computer systems and data carriers",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2009-40#p230",
+      "selector_hint": "§ 230 - Neoprávněný přístup k počítačovému systému a nosiči informací",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "unauthorised access"
+    },
+    {
+      "id": "cz-hash-004",
+      "description": "Electronic Communications Act § 14 -- confidentiality of communications",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2005-127#p14",
+      "selector_hint": "§ 14 - Důvěrnost komunikací",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "confidentiality"
+    },
+    {
+      "id": "cz-hash-005",
+      "description": "Trust Services Act § 3 -- electronic signatures in legal acts",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2016-297#p3",
+      "selector_hint": "§ 3 - Elektronické podpisy v právních jednáních",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "electronic signature"
+    },
+    {
+      "id": "cz-hash-006",
+      "description": "Civil Code § 2985a -- definition of trade secret",
+      "upstream_url": "https://www.zakonyprolidi.cz/cs/2012-89#p2985a",
+      "selector_hint": "§ 2985a - Definice obchodního tajemství",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "trade secret"
+    }
+  ]
+}

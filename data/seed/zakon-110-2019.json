@@ -1,0 +1,206 @@
+{
+  "id": "cz:110/2019",
+  "type": "statute",
+  "title": "Zákon č. 110/2019 Sb., o zpracování osobních údajů",
+  "title_en": "Act on Processing of Personal Data",
+  "short_name": "GDPR Implementation Act",
+  "status": "in_force",
+  "issued_date": "2019-03-12",
+  "in_force_date": "2019-04-24",
+  "url": "https://www.zakonyprolidi.cz/cs/2019-110",
+  "description": "Czech implementation of the General Data Protection Regulation (EU) 2016/679. Establishes the Office for Personal Data Protection (ÚOOÚ) as the supervisory authority and sets out specific national derogations permitted under GDPR.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Subject matter",
+      "content": "This Act regulates, in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation): (a) the adaptation of the domestic legal order to directly applicable EU legislation on the protection of personal data; (b) the competence and powers of the Office for Personal Data Protection as the supervisory authority; (c) the conditions of processing of personal data where the Czech Republic has scope for national derogation under GDPR; (d) the rules for the imposition of administrative fines."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Scope of application",
+      "content": "This Act applies to the processing of personal data carried out wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system, in accordance with Article 2(1) of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Act, the terms used shall have the meaning as defined in Article 4 of Regulation (EU) 2016/679. In addition: (a) 'Office' means the Office for Personal Data Protection; (b) 'President' means the President of the Office for Personal Data Protection; (c) 'Inspector' means a member of the inspection body appointed under § 15."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "Part 1",
+      "chapter": "Part One — General Provisions",
+      "title": "Relationship to GDPR",
+      "content": "Where Regulation (EU) 2016/679 permits Member States to adopt specific provisions, this Act establishes such provisions within the limits and under the conditions set by the Regulation. In all other cases, the Regulation applies directly."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "Part 2",
+      "chapter": "Part Two — Office for Personal Data Protection",
+      "title": "Establishment and status of the Office",
+      "content": "The Office for Personal Data Protection (ÚOOÚ) is established as an independent supervisory authority within the meaning of Article 51 of Regulation (EU) 2016/679. The Office is an independent administrative body. In the exercise of its competence the Office shall not accept instructions from any other body."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "Part 2",
+      "chapter": "Part Two — Office for Personal Data Protection",
+      "title": "Competence of the Office",
+      "content": "The Office: (a) monitors and enforces compliance with Regulation (EU) 2016/679 and this Act; (b) provides advisory and consultation services to the public on data protection matters; (c) handles complaints lodged by data subjects under Article 77 of the Regulation; (d) cooperates with supervisory authorities of other EU Member States within the European Data Protection Board; (e) conducts inspections of controllers and processors; (f) imposes corrective measures and administrative fines."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "Part 2",
+      "chapter": "Part Two — Office for Personal Data Protection",
+      "title": "President of the Office",
+      "content": "The President is appointed by the President of the Republic upon the proposal of the Senate. The President of the Office serves a term of five years and may be reappointed once. The President directs the Office and acts on its behalf externally."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "Part 2",
+      "chapter": "Part Two — Office for Personal Data Protection",
+      "title": "Vice-President",
+      "content": "The Vice-President of the Office is appointed by the President of the Republic upon the proposal of the President of the Office. The Vice-President deputizes for the President in his or her absence and exercises powers delegated to him or her by the President."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "Part 2",
+      "chapter": "Part Two — Office for Personal Data Protection",
+      "title": "Inspectors",
+      "content": "Inspectors are appointed and recalled by the President of the Office. Inspectors conduct inspections and supervisory activities, compile inspection protocols, and propose corrective measures. An inspector must have a university degree, be of good character, and have at least five years of professional experience in data protection, law, or information technology."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "Part 3",
+      "chapter": "Part Three — Specific Processing Conditions",
+      "title": "Processing of personal data for journalistic purposes",
+      "content": "Processing of personal data for journalistic purposes and for the purposes of academic, artistic, or literary expression is permitted where necessary for exercising the right to freedom of expression and information, in accordance with Article 85 of Regulation (EU) 2016/679. The controller shall be exempt from certain provisions of the Regulation to the extent necessary to reconcile the right to data protection with freedom of expression."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "Part 3",
+      "chapter": "Part Three — Specific Processing Conditions",
+      "title": "Processing of the national identification number",
+      "content": "The national identification number (rodné číslo) may be processed only where: (a) the data subject has given explicit consent; (b) specific legislation requires or permits such processing; (c) processing is necessary for the purposes of legitimate interests pursued by the controller, provided that such processing is not disproportionate to the rights of the data subject. The controller shall ensure that the national identification number is not made publicly available."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "Part 3",
+      "chapter": "Part Three — Specific Processing Conditions",
+      "title": "Processing of special categories of personal data",
+      "content": "Special categories of personal data as referred to in Article 9(1) of Regulation (EU) 2016/679 may be processed under the conditions specified in Article 9(2) of the Regulation. In addition, processing of genetic data, biometric data, or data concerning health for purposes of employment law is permitted only where necessary for the exercise of rights and obligations arising from employment relationships."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "Part 3",
+      "chapter": "Part Three — Specific Processing Conditions",
+      "title": "Age of consent for information society services",
+      "content": "For the purposes of Article 8(1) of Regulation (EU) 2016/679, the age at which a child may give consent to the processing of personal data in relation to information society services offered directly to a child is 15 years in the Czech Republic."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "Part 3",
+      "chapter": "Part Three — Specific Processing Conditions",
+      "title": "Restrictions on data subject rights",
+      "content": "The rights of data subjects under Articles 12 to 22 and Article 34 of Regulation (EU) 2016/679 may be restricted in accordance with Article 23 of the Regulation where such restriction is necessary and proportionate to safeguard: (a) national security; (b) defence; (c) public security; (d) the prevention, investigation, detection, or prosecution of criminal offences; (e) other important objectives of general public interest."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Administrative Proceedings",
+      "title": "Inspection activities",
+      "content": "The Office performs inspections in accordance with the Inspection Act (zákon č. 255/2012 Sb., o kontrole). During an inspection, the Office may: (a) enter premises of the controller or processor; (b) request the submission of documents and information; (c) examine automated processing systems and data files; (d) make copies of documents and data. The inspected entity is obliged to provide cooperation to the inspector."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Administrative Proceedings",
+      "title": "Administrative offences of controllers and processors",
+      "content": "A controller or processor commits an administrative offence by: (a) failing to comply with a duty imposed under Regulation (EU) 2016/679 or this Act; (b) failing to comply with a corrective measure ordered by the Office; (c) obstructing the inspection activities of the Office. Administrative fines shall be imposed in accordance with Article 83 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Administrative Proceedings",
+      "title": "Amount of fines",
+      "content": "Administrative fines are imposed in accordance with Article 83 of Regulation (EU) 2016/679. For infringements referred to in Article 83(4) of the Regulation, fines may be imposed up to EUR 10,000,000 or 2% of total worldwide annual turnover. For infringements referred to in Article 83(5) and (6), fines may be imposed up to EUR 20,000,000 or 4% of total worldwide annual turnover. The Office may also impose fines on public authorities and public bodies."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "Part 4",
+      "chapter": "Part Four — Inspections and Administrative Proceedings",
+      "title": "Criteria for imposing fines",
+      "content": "When deciding on whether to impose an administrative fine and on the amount of the fine, the Office shall take into account the criteria set out in Article 83(2) of Regulation (EU) 2016/679, including the nature, gravity, and duration of the infringement, the intentional or negligent character of the infringement, and any actions taken by the controller or processor to mitigate the damage suffered by data subjects."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "Part 5",
+      "chapter": "Part Five — Data Protection Officer",
+      "title": "Designation of Data Protection Officer",
+      "content": "The controller and the processor shall designate a Data Protection Officer in the cases specified in Article 37 of Regulation (EU) 2016/679. The Data Protection Officer shall have professional qualities and expert knowledge of data protection law and practices, as required by Article 37(5) of the Regulation."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "Part 5",
+      "chapter": "Part Five — Data Protection Officer",
+      "title": "Position of Data Protection Officer",
+      "content": "The Data Protection Officer shall be involved in all issues relating to the protection of personal data in a proper and timely manner. The controller or processor shall ensure that the Data Protection Officer does not receive any instructions regarding the exercise of their tasks, as required by Article 38 of Regulation (EU) 2016/679. The Data Protection Officer shall not be dismissed or penalised for performing their tasks."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "Part 6",
+      "chapter": "Part Six — International Cooperation",
+      "title": "Mutual assistance and consistency mechanism",
+      "content": "The Office cooperates with supervisory authorities of other Member States in accordance with Chapter VII of Regulation (EU) 2016/679. The Office participates in the consistency mechanism established by Article 63 of the Regulation and contributes to the tasks of the European Data Protection Board."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "Part 6",
+      "chapter": "Part Six — International Cooperation",
+      "title": "Cross-border processing",
+      "content": "In cases of cross-border processing as defined in Article 4(23) of Regulation (EU) 2016/679, the Office shall act as lead supervisory authority where the main establishment of the controller or processor is in the Czech Republic, in accordance with Article 56 of the Regulation."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "Part 7",
+      "chapter": "Part Seven — Transitional and Final Provisions",
+      "title": "Repeal of prior legislation",
+      "content": "Act No. 101/2000 Coll., on the Protection of Personal Data and on the Amendment of Certain Acts (zákon č. 101/2000 Sb., o ochraně osobních údajů), is hereby repealed."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "Part 7",
+      "chapter": "Part Seven — Transitional and Final Provisions",
+      "title": "Transitional provisions",
+      "content": "Administrative proceedings commenced before the date of entry into force of this Act shall be completed according to the existing legal provisions. Data Protection Officers designated pursuant to the repealed Act shall be deemed Data Protection Officers under this Act."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "Part 7",
+      "chapter": "Part Seven — Transitional and Final Provisions",
+      "title": "Effectiveness",
+      "content": "This Act shall enter into force on 24 April 2019."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ÚOOÚ",
+      "definition": "Úřad pro ochranu osobních údajů (Office for Personal Data Protection) — the independent supervisory authority for data protection in the Czech Republic under GDPR.",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Rodné číslo",
+      "definition": "The national identification number (birth number) assigned to every Czech citizen and foreign resident, subject to special processing restrictions under § 11.",
+      "source_provision": "§ 11"
+    },
+    {
+      "term": "Inspector",
+      "definition": "A member of the inspection body appointed by the President of the Office to conduct supervisory and inspection activities.",
+      "source_provision": "§ 3"
+    }
+  ]
+}

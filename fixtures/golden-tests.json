@@ -1,0 +1,183 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Czech Law MCP",
+  "description": "Golden contract tests for the Czech Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "cz-001",
+      "category": "article_retrieval",
+      "description": "Retrieve GDPR Implementation Act § 1 (Zákon č. 110/2019 Sb.) -- subject matter and scope of Czech data protection law",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Zákon č. 110/2019 Sb., o zpracování osobních údajů",
+        "article": "§ 1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personal data", "Regulation (EU) 2016/679", "Office for Personal Data Protection", "supervisory authority"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Cybersecurity Act § 1 (Zákon č. 181/2014 Sb.) -- scope of Czech cybersecurity legislation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cybersecurity Act",
+        "article": "§ 1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cybersecurity", "Directive (EU) 2016/1148", "NIS", "network and information systems"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Criminal Code § 230 -- unauthorised access to computer systems",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Criminal Code (Cybercrime)",
+        "article": "§ 230"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["unauthorised access", "computer system", "security measure", "imprisonment"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-004",
+      "category": "article_retrieval",
+      "description": "Retrieve Civil Code § 2985a -- definition of trade secret",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Civil Code (Trade Secrets)",
+        "article": "§ 2985a"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["trade secret", "competitively significant", "Directive (EU) 2016/943", "kept secret"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-005",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns GDPR-related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data", "data protection", "GDPR", "Regulation (EU) 2016/679"]
+      }
+    },
+    {
+      "id": "cz-006",
+      "category": "search",
+      "description": "Full-text search for 'cybersecurity incident' returns Cybersecurity Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybersecurity incident"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cybersecurity incident", "NÚKIB", "reporting", "critical information infrastructure"]
+      }
+    },
+    {
+      "id": "cz-007",
+      "category": "search",
+      "description": "Full-text search for 'electronic signature' returns Trust Services Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic signature"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["electronic signature", "qualified", "eIDAS", "Regulation (EU) No 910/2014"]
+      }
+    },
+    {
+      "id": "cz-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Cybersecurity Act § 5 includes zakonyprolidi.cz URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cybersecurity Act",
+        "article": "§ 5"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "zakonyprolidi\\.cz",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for Electronic Communications Act § 14 includes zakonyprolidi.cz URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Electronic Communications Act",
+        "article": "§ 14"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "zakonyprolidi\\.cz",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cz-010",
+      "category": "eu_cross_reference",
+      "description": "GDPR Implementation Act cross-reference to EU GDPR -- Czech data protection law provides GDPR implementing provisions",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "GDPR Implementation Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "Regulation"]
+      }
+    },
+    {
+      "id": "cz-011",
+      "category": "negative_test",
+      "description": "Non-existent Czech law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Zákon č. 999/2099 Sb., o fiktivních záležitostech",
+        "article": "§ 1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "cz-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cybersecurity Act",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}
