@@ -2,7 +2,7 @@
  * Statute ID resolution for Czech Law MCP.
  *
  * Resolves fuzzy document references (titles, IDs) to database document IDs.
- * Australian legislation uses Act title + year as the canonical identifier
+ * Czech legislation identifier resolution
  * (e.g., "Privacy Act 1988", "Corporations Act 2001").
  */
 

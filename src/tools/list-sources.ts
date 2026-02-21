@@ -45,7 +45,7 @@ export async function listSources(
       sources: [
         {
           name: 'Sbírka zákonů (Collection of Laws)',
-          authority: 'Czech Government, Office of Parliamentary Counsel',
+          authority: 'Ministry of the Interior of the Czech Republic',
           url: 'https://www.www.zakonyprolidi.cz',
           license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
           coverage:

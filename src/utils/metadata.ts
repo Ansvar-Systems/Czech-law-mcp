@@ -33,8 +33,8 @@ export function generateResponseMetadata(
     data_source: 'Sbírka zákonů (Collection of Laws) (www.zakonyprolidi.cz) — Ministry of the Interior of the Czech Republic',
     jurisdiction: 'CZ',
     disclaimer:
-      'This data is sourced from the Sbírka zákonů (Collection of Laws) under CC BY 4.0 licence. ' +
-      'The authoritative versions are maintained by the Australian Government. ' +
+      'This data is sourced from the Sbírka zákonů (Collection of Laws) under public domain. ' +
+      'The authoritative versions are maintained by Ministry of the Interior of the Czech Republic. ' +
       'Always verify with the official Sbírka zákonů (Collection of Laws) portal (www.zakonyprolidi.cz).',
     freshness,
   };
