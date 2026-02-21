@@ -347,5 +347,86 @@
       "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2015.\n1) Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů.\n2) § 2 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.\nNařízení vlády č. 432/2010 Sb., o kritériích pro určení prvku kritické infrastruktury.\n3) Například § 98 odst. 4 a § 99 odst. 4 zákona č. 127/2005 Sb., ve znění pozdějších předpisů.\n4) Ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb.\n5) Zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů.\n6) Směrnice Evropského parlamentu a Rady (EU) 2016/1148 ze dne 6. července 2016 o opatřeních k zajištění vysoké společné úrovně bezpečnosti sítí a informačních systémů v Unii.\n7) § 2 písm. h) zákona č. 127/2005 Sb., ve znění pozdějších předpisů.\n8) Čl. 5 odst. 7 směrnice Evropského parlamentu a Rady (EU) 2016/1148.\n9) § 2 písm. a) zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).\n10) § 2 odst. 1 písm. a) a b) zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.\n§ 419 a 420 zákona č. 89/2012 Sb., občanský zákoník.\n11) Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).\n12) Čl. 9 směrnice Evropského parlamentu a Rady (EU) 2016/1148.\n13) Čl. 7 směrnice Evropského parlamentu a Rady (EU) 2016/1148.\n14) Například čl. 5 odst. 3, čl. 7 odst. 3 a čl. 8 směrnice Evropského parlamentu a Rady (EU) 2016/1148.\n15) Zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů.\n16) Příloha doporučení Komise 2003/361/ES ze dne 6. května 2003 o definici mikropodniků a malých a středních podniků.\n17) Nařízení Evropského parlamentu a Rady (EU) 2019/881 ze dne 17. dubna 2019 o agentuře ENISA („Agentuře Evropské unie pro kybernetickou bezpečnost“), o certifikaci kybernetické bezpečnosti informačních a komunikačních technologií a o zrušení nařízení (EU) č. 526/2013 („akt o kybernetické bezpečnosti“)."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "kybernetickým prostorem",
+      "definition": "digitální prostředí umožňující vznik, zpracování a výměnu informací, tvořené informačními systémy, a službami a sítěmi elektronických komunikací1)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kritickou informační infrastrukturou",
+      "definition": "prvek nebo systém prvků kritické infrastruktury v odvětví komunikační a informační systémy2) v oblasti kybernetické bezpečnosti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "bezpečností informací",
+      "definition": "zajištění důvěrnosti, integrity a dostupnosti informací a dat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "významným informačním systémem",
+      "definition": "informační systém spravovaný orgánem veřejné moci, který není kritickou informační infrastrukturou ani informačním systémem základní služby a u kterého narušení bezpečnosti informací může omezit nebo výrazně ohrozit výkon působnosti orgánu veřejné moci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "správcem informačního systému",
+      "definition": "orgán nebo osoba, které určují účel zpracování informací a podmínky provozování informačního systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "správcem komunikačního systému",
+      "definition": "orgán nebo osoba, které určují účel komunikačního systému a podmínky jeho provozování",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "provozovatelem informačního nebo komunikačního systému",
+      "definition": "orgán nebo osoba zajišťující funkčnost technických a programových prostředků tvořících informační nebo komunikační systém",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "významnou sítí",
+      "definition": "síť elektronických komunikací1) zajišťující přímé zahraniční propojení do veřejných komunikačních sítí nebo zajišťující přímé připojení ke kritické informační infrastruktuře",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "základní službou",
+      "definition": "služba, jejíž poskytování je závislé na sítích elektronických komunikací7) nebo informačních systémech a jejíž narušení by mohlo mít významný dopad na zabezpečení společenských nebo ekonomických činností v některém z těchto odvětví; energetika; doprava; bankovnictví; infrastruktura finančních trhů; zdravotnictví; vodní hospodářství; digitální infrastruktura; chemický průmysl",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "informačním systémem základní služby",
+      "definition": "informační systém, na jehož fungování je závislé poskytování základní služby",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "provozovatelem základní služby",
+      "definition": "orgán nebo osoba, která poskytuje základní službu a která je určena Národním úřadem pro kybernetickou a informační bezpečnost (dále jen „Úřad“) podle § 22a; pro účely plnění informační povinnosti podle příslušného předpisu Evropské unie8) se za provozovatele základní služby považují též orgány a osoby uvedené v § 3 písm. c) a d)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "digitální službou",
+      "definition": "služba informační společnosti podle zákona upravujícího některé služby informační společnosti9), která spočívá v provozování; on-line tržiště, které spotřebiteli nebo prodávajícímu umožňuje on-line uzavírat s prodávajícím podnikatelem10) kupní smlouvu nebo smlouvu o poskytnutí služeb, a to prostřednictvím internetové stránky on-line tržiště nebo prostřednictvím internetové stránky prodávajícího, který využívá službu poskytovanou on-line tržištěm; internetového vyhledávače, který umožňuje provádět vyhledávání v zásadě na všech internetových stránkách, a to na základě dotazu uživatele na jakékoliv téma v podobě klíčového slova, sousloví nebo jiného zadání, přičemž služba poskytuje odkazy, na nichž lze nalézt informace související s požadovaným obsahem, nebo; cloud computingu, který umožňuje přístup k rozšířitelnému a přizpůsobitelnému úložišti nebo výpočetním zdrojům, které je možné sdílet, a",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "příslušným orgánem",
+      "definition": "orgán vykonávající působnost v oblasti kybernetické bezpečnosti.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Bezpečnostním opatřením",
+      "definition": "souhrn úkonů, jejichž cílem je zajištění bezpečnosti informací v informačních systémech a dostupnosti a spolehlivosti služeb a sítí elektronických komunikací1) v kybernetickém prostoru",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "Opatřeními",
+      "definition": "úkony, jichž je třeba k ochraně informačních systémů nebo služeb a sítí elektronických komunikací1) před hrozbou v oblasti kybernetické bezpečnosti nebo před kybernetickým bezpečnostním incidentem anebo k řešení již nastalého kybernetického bezpečnostního incidentu",
+      "source_provision": "§ 11"
+    },
+    {
+      "term": "Stavem kybernetického nebezpečí",
+      "definition": "stav, ve kterém je ve velkém rozsahu ohrožena bezpečnost informací v informačních systémech nebo bezpečnost služeb elektronických komunikací anebo bezpečnost a integrita sítí elektronických komunikací1), a tím by mohlo dojít k porušení nebo došlo k ohrožení zájmu České republiky ve smyslu zákona upravujícího ochranu utajovaných informací",
+      "source_provision": "§ 21"
+    }
+  ]
 }

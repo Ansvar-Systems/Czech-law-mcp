@@ -137,5 +137,46 @@
       "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení.\n1) Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o určitých aspektech služeb informační společnosti, zejména elektronického obchodního styku v rámci vnitřního trhu.\nSměrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací.\n2) § 3 písm. f) a g) zákona č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace).\n3) § 420 a 421 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů.\n4) Nařízení Evropského parlamentu a Rady (EU) 2019/1150 ze dne 20. června 2019 o podpoře spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb.\n5) Zákon č. 110/2019 Sb., o zpracování osobních údajů.\n6) Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).\n7) Například zákon č. 254/2000 Sb., o auditorech, ve znění pozdějších předpisů, zákon č. 523/1992 Sb., o daňovém poradenství a Komoře daňových poradců České republiky, ve znění pozdějších předpisů, zákon č. 220/1991 Sb., o České lékařské komoře, České stomatologické komoře a České lékárnické komoře, zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů.\n9) § 2 odst. 2 zákona č. 280/2009 Sb., daňový řád.\n10) Zákon č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "službou informační společnosti",
+      "definition": "jakákoliv služba poskytovaná elektronickými prostředky na individuální žádost uživatele podanou elektronickými prostředky, poskytovaná zpravidla za úplatu; služba je poskytnuta elektronickými prostředky, pokud je odeslána prostřednictvím sítě elektronických komunikací a vyzvednuta uživatelem z elektronického zařízení pro ukládání dat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "elektronickou poštou",
+      "definition": "textová, hlasová, zvuková nebo obrazová zpráva poslaná prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "elektronickými prostředky",
+      "definition": "zejména síť elektronických komunikací, elektronická komunikační zařízení, automatické volací a komunikační systémy, telekomunikační koncová zařízení a elektronická pošta",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "poskytovatelem služby",
+      "definition": "každá fyzická nebo právnická osoba, která poskytuje některou ze služeb informační společnosti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "uživatelem",
+      "definition": "každá fyzická nebo právnická osoba, která využívá službu informační společnosti, zejména za účelem vyhledávání či zpřístupňování informací",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "obchodním sdělením",
+      "definition": "všechny formy sdělení, včetně reklamy a vybízení k návštěvě internetových stránek, určeného k přímé či nepřímé podpoře zboží či služeb nebo image podniku osoby, která je podnikatelem3) nebo vykonává regulovanou činnost2).",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "automatickým krátkodobě dočasným ukládáním",
+      "definition": "ukládání informací poskytnutých uživatelem, ke kterému dochází výhradně za účelem uskutečnění přenosu prostřednictvím sítě elektronických komunikací, přičemž doba uložení informace nepřesahuje dobu, která je pro zajištění přenosu obvyklá",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "automatickým dočasným meziukládáním",
+      "definition": "ukládání informací poskytnutých uživatelem, které slouží výhradně pro co možná nejúčinnější následný přenos těchto informací na žádost jiných uživatelů.",
+      "source_provision": "§ 2"
+    }
+  ]
 }

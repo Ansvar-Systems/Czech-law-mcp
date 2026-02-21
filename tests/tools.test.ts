@@ -30,6 +30,11 @@ describe('Czech Law MCP Tools', () => {
       expect(result.results.database.provision_count).toBeGreaterThanOrEqual(4000);
       expect(result.results.database.tier).toBe('free');
     });
+
+    it('has populated legal definitions from real statutes', () => {
+      const row = db.prepare('SELECT COUNT(*) as count FROM definitions').get() as { count: number };
+      expect(Number(row.count)).toBeGreaterThanOrEqual(150);
+    });
   });
 
   describe('get_provision', () => {

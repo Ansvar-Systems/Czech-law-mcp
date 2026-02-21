@@ -396,5 +396,116 @@
       "content": "Tento zákon nabývá účinnosti dnem vyhlášení, s výjimkou ustanovení\na) § 5 odst. 2 písm. c), které nabývá účinnosti dnem 1. července 2001;\nb) § 5 odst. 2 písm. f), které nabývá účinnosti dnem 1. ledna 2001;\nc) § 5 odst. 2 písm. g), které nabývá účinnosti dnem 1. ledna 2002;\nd) § 5 odst. 2 písm. h), které nabývá účinnosti dnem 1. ledna 2001 a pro zveřejňování informací dálkovým přístupem nabývá účinnosti dnem 1. ledna 2002;\ne) § 6, které nabývá účinnosti dnem 1. července 2001.\n7a) Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů.\n9a) § 61 odst. 1 písm. a) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.\n11) § 116 a násl. občanského zákoníku.\n11a) Zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů.\n11c) Zákon č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů.\n13) § 64d zákona č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění zákona č. 28/2000 Sb.\n§ 62 zákona č. 26/2000 Sb., o veřejných dražbách.\n15) Zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění pozdějších předpisů.\n16) Zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů.\n17) Vyhláška č. 196/2001 Sb., o odměnách a náhradách notářů a správců dědictví, ve znění vyhlášky č. 42/2002 Sb."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "informační činností získávání a poskytování informací",
+      "definition": "reprezentace informací daty, shromažďování, vyhodnocování a ukládání dat na nosiče a uchovávání, vyhledávání, úprava nebo pozměňování dat, jejich předávání, šíření, zpřístupňování, výměna, třídění nebo kombinování, blokování a likvidace dat ukládaných na nosičích. Informační činnost je prováděna správci, provozovateli a uživateli informačních systémů veřejné správy prostřednictvím technických a programových prostředků",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "informačním systémem veřejné správy funkční celek nebo jeho část zabezpečující cílevědomou a systematickou informační",
+      "definition": "činnost pro účely výkonu veřejné správy nebo plnění jiných funkcí státu anebo dalších veřejnoprávních korporací. Každý informační systém veřejné správy zahrnuje data, která jsou uspořádána tak, aby bylo možné jejich zpracování a zpřístupnění, provozní údaje a dále technické a programové prostředky, případně jiné nástroje umožňující výkon informačních činností",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "správcem informačního systému veřejné správy",
+      "definition": "osoba nebo její součást, která poskytuje služby informačního systému veřejné správy a za informační systém veřejné správy odpovídá",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "provozovatelem informačního systému veřejné správy",
+      "definition": "osoba nebo její součást, která zajišťuje funkčnost technických a programových prostředků tvořících informační systém veřejné správy. Provozováním informačního systému veřejné správy může správce pověřit jiné osoby nebo jejich součásti, pokud to jiný zákon nevylučuje",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "uživatelem informačního systému veřejné správy",
+      "definition": "osoba nebo její součást, která do informačního systému veřejné správy zapisuje data nebo data, případně i provozní údaje obsažené v informačním systému veřejné správy, využívá; uživatelem informačního systému veřejné správy je i správce nebo provozovatel informačního systému veřejné správy, pokud informační systém veřejné správy užívá při výkonu veřejné správy v oblasti, pro kterou informační systém veřejné správy poskytuje službu informačního systému veřejné správy",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "službou informačního systému veřejné správy",
+      "definition": "činnost informačního systému veřejné správy uspokojující dané požadavky oprávněné osoby nebo její součásti spojená s funkcí informačního systému veřejné správy",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "referenčním",
+      "definition": "sdíleným a bezpečným rozhraním informačních systémů veřejné správy (dále jen „referenční rozhraní“) souhrn právních, technických, organizačních a jiných opatření vytvářejících jednotné integrační prostředí informačních systémů veřejné správy, které poskytuje kvalitní soustavu společných služeb informačních systémů veřejné správy, včetně služeb výměny oprávněně vyžadovaných informací mezi jednotlivými informačními systémy, a to i se systémy mimo Českou republiku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "produktem souhrnný název pro technické a programové prostředky",
+      "definition": "dokumentaci informačních systémů veřejné správy nebo služby informačního systému veřejné správy nebo jejich kombinaci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "atestačním střediskem",
+      "definition": "právnická nebo fyzická osoba, kteří jsou podnikateli, provádějící atestace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "dálkovým přístupem",
+      "definition": "přístup prostřednictvím sítě nebo služby elektronických komunikací (například s využitím internetu)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "provozním informačním systémem informační",
+      "definition": "systém veřejné správy zajišťující informační činnosti nutné pro vnitřní provoz příslušného orgánu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "atestačními podmínkami obchodní podmínky vydané atestačním střediskem",
+      "definition": "obsahující zejména vymezení předmětu atestace a postupy atestačního střediska při provádění atestací schválené Digitální a informační agenturou (dále jen „Agentura“)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "akreditací",
+      "definition": "postup, na jehož základě se vydává osvědčení o tom, že právnické nebo fyzické osoby, které jsou podnikateli, splňují ve vymezeném rozsahu technické, organizační, ekonomické a personální předpoklady k provádění atestací",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přístupem se zaručenou identitou",
+      "definition": "přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci, při jehož vydání nebo v souvislosti s ním anebo v souvislosti s umožněním jeho využití byla totožnost osoby ověřena státním orgánem, orgánem územního samosprávného celku nebo orgánem veřejné moci, který není státním orgánem ani orgánem územního samosprávného celku, (dále jen „veřejný orgán“) nebo který byl vydán v rámci kvalifikovaného systému elektronické identifikace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "určeným informačním systémem informační",
+      "definition": "systém veřejné správy, který; využívá služby referenčního rozhraní nebo poskytuje služby referenčnímu rozhraní; má vazby na informační systém veřejné správy podle bodu 1, nebo; je určený k poskytování služby informačního systému veřejné správy fyzickým nebo právnickým osobám s předpokládaným počtem uživatelů, kteří využívají přístup se zaručenou identitou, alespoň 5 000 ročně.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "poptávkou cloud computingu právní",
+      "definition": "jednání orgánu veřejné správy; jehož předmětem je projev vůle využít cloud computing poskytovaný osobou nebo její součástí, které jsou odlišné od tohoto orgánu veřejné správy, pro potřebu tohoto nebo jiného orgánu veřejné správy a mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek; který obsahuje charakteristiku poptávaného cloud computingu a; který předchází právnímu jednání tohoto nebo jiného orgánu veřejné správy podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nabídkou cloud computingu právní",
+      "definition": "jednání poskytovatele cloud computingu; jehož předmětem je projev vůle poskytnout cloud computing orgánu veřejné správy mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek; který obsahuje charakteristiku nabízeného cloud computingu a; který předchází právnímu jednání tohoto poskytovatele cloud computingu podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "státní právnickou osobou státní fond a",
+      "definition": "právnická osoba zřízená nebo založená státem, pokud byla zřízena nebo založena za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a je financována převážně státem nebo podléhá řídícímu dohledu státu anebo je v jejím správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "b) účastí na kontrole nebo jmění",
+      "definition": "jakýkoli podíl na základním kapitálu nebo podíl s hlasovacím právem",
+      "source_provision": "§ 6d"
+    },
+    {
+      "term": "Centrálním místem služeb",
+      "definition": "soubor technických a programových prostředků, jehož prostřednictvím jsou poskytovány nebo využívány služby informačních systémů veřejné správy a jehož prostřednictvím jsou využívány a propojovány sítě elektronických komunikací",
+      "source_provision": "§ 6h"
+    },
+    {
+      "term": "Ověřeným výstupem z informačního systému veřejné správy (dále jen „ověřený výstup",
+      "definition": "listina, která vznikla úplným převodem výstupu z informačního systému veřejné správy z elektronické do listinné podoby (§ 9a)",
+      "source_provision": "§ 9"
+    },
+    {
+      "term": "Ověřením výstupu z informačního systému veřejné správy",
+      "definition": "ověření té skutečnosti, že listina vznikla převedením výstupu z informačního systému veřejné správy z elektronické do listinné podoby",
+      "source_provision": "§ 9a"
+    }
+  ]
 }
