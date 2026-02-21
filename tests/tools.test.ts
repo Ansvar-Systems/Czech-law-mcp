@@ -26,7 +26,7 @@ describe('Czech Law MCP Tools', () => {
     it('returns source metadata and database stats', async () => {
       const result = await listSources(db);
       expect(result.results).toBeDefined();
-      expect(result.results.database.document_count).toBe(10);
+      expect(result.results.database.document_count).toBeGreaterThanOrEqual(10);
       expect(result.results.database.provision_count).toBeGreaterThanOrEqual(4000);
       expect(result.results.database.tier).toBe('free');
     });

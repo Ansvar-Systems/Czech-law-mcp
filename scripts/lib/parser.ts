@@ -198,6 +198,11 @@ function extractSectionNumber(provisionRef: string): string | null {
   return match ? match[1] : null;
 }
 
+function extractArticleNumber(provisionRef: string): string | null {
+  const match = provisionRef.match(/^(?:Čl\.?|Článek)\s*([0-9]+[a-z]?|[ivxlcdm]+)/iu);
+  return match ? match[1].toUpperCase() : null;
+}
+
 function toIsoDate(value?: string): string | undefined {
   if (!value) return undefined;
   const datePart = value.split('T')[0];
@@ -400,7 +405,7 @@ function extractDefinitions(provisions: SeedProvision[], fragments: FragmentReco
     const type = fragment.kodTypuFragmentu;
     const text = xhtmlToText(fragment.xhtml);
 
-    if (type === 'Paragraf') {
+    if (type === 'Paragraf' || type === 'Clanek') {
       currentProvision = normalizeSpaces(text);
       inDefinitionList = false;
       lastListDefinition = null;
@@ -542,11 +547,13 @@ export function parseLawSeed(
       continue;
     }
 
-    if (type === 'Paragraf') {
+    if (type === 'Paragraf' || type === 'Clanek') {
       finalizeCurrent();
 
       const provisionRef = text.replace(/\s+/g, ' ').trim();
-      const section = extractSectionNumber(provisionRef);
+      const section = type === 'Paragraf'
+        ? extractSectionNumber(provisionRef)
+        : extractArticleNumber(provisionRef);
       if (!section) {
         previousType = type;
         continue;
@@ -568,7 +575,7 @@ export function parseLawSeed(
       continue;
     }
 
-    if (type === 'Nadpis_pod' && previousType === 'Paragraf') {
+    if (type === 'Nadpis_pod' && (previousType === 'Paragraf' || previousType === 'Clanek')) {
       if (text.length > 0) {
         current.title = `${current.provision_ref} ${text}`;
       }
@@ -576,7 +583,7 @@ export function parseLawSeed(
       continue;
     }
 
-    if (shouldIgnore(type) || isStructuralType(type) || type === 'Paragraf') {
+    if (shouldIgnore(type) || isStructuralType(type) || type === 'Paragraf' || type === 'Clanek') {
       previousType = type;
       continue;
     }

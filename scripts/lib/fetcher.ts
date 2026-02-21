@@ -46,6 +46,28 @@ export interface FragmentPageResponse {
   chyby?: EsbirkaError[];
 }
 
+export interface SearchLawRecord {
+  staleUrl: string;
+  nazev: string;
+  kodDokumentuSbirky: string;
+  stavDokumentuSbirky?: string;
+  datum?: string;
+}
+
+export interface SearchLawRequest {
+  start?: number;
+  pocet?: number;
+  kodyTypAktu?: string[];
+  kodyPodtypAktu?: string[];
+  rozsahVyhledavani?: string[];
+}
+
+export interface SearchLawResponse {
+  pocetCelkem: number;
+  seznam: SearchLawRecord[];
+  chyby?: EsbirkaError[];
+}
+
 const BASE_URL = 'https://www.e-sbirka.cz/sbr-externi';
 const USER_AGENT = 'Ansvar-Law-MCP/1.0 (official-esbirka-ingestion)';
 const MIN_DELAY_MS = 1200;
@@ -65,15 +87,19 @@ async function waitForRateLimit(): Promise<void> {
   lastRequestAt = Date.now();
 }
 
-async function fetchText(url: string, maxRetries = 3): Promise<string> {
+async function fetchText(url: string, init?: RequestInit, maxRetries = 3): Promise<string> {
   await waitForRateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
+    const headers = new Headers(init?.headers);
+    if (!headers.has('Accept')) {
+      headers.set('Accept', 'application/json');
+    }
+    headers.set('User-Agent', USER_AGENT);
+
     const response = await fetch(url, {
-      headers: {
-        Accept: 'application/json',
-        'User-Agent': USER_AGENT,
-      },
+      ...init,
+      headers,
       redirect: 'follow',
     });
 
@@ -96,8 +122,8 @@ async function fetchText(url: string, maxRetries = 3): Promise<string> {
   throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
 }
 
-async function fetchJson<T>(url: string): Promise<T> {
-  const body = await fetchText(url);
+async function fetchJson<T>(url: string, init?: RequestInit): Promise<T> {
+  const body = await fetchText(url, init);
   try {
     return JSON.parse(body) as T;
   } catch (error) {
@@ -133,6 +159,18 @@ export async function fetchFragmentsPage(staleUrl: string, page: number): Promis
   return throwIfEsbirkaError(url, json);
 }
 
+export async function searchLawDocuments(payload: SearchLawRequest): Promise<SearchLawResponse> {
+  const url = `${BASE_URL}/rozsirena-vyhledavani`;
+  const json = await fetchJson<SearchLawResponse>(url, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(payload),
+  });
+  return throwIfEsbirkaError(url, json);
+}
+
 export async function fetchAllFragments(staleUrl: string): Promise<FragmentRecord[]> {
   const firstPage = await fetchFragmentsPage(staleUrl, 0);
   const totalPages = Number(firstPage.pocetStranek ?? 1);
@@ -145,4 +183,3 @@ export async function fetchAllFragments(staleUrl: string): Promise<FragmentRecor
 
   return all;
 }
-

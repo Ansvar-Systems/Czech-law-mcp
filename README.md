@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![CI](https://github.com/Ansvar-Systems/Czech-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Czech-law-mcp/actions/workflows/ci.yml)
 
-A Model Context Protocol (MCP) server providing access to Czech legislation covering data protection, cybersecurity, e-commerce, and criminal law provisions.
+A Model Context Protocol (MCP) server providing access to Czech legislation from the official e‑Sbírka API.
 
 **MCP Registry:** `eu.ansvar/czech-law-mcp`
 **npm:** `@ansvar/czech-law-mcp`
@@ -34,9 +34,35 @@ czech-law-mcp.vercel.app/mcp
 
 | Source | Authority | License |
 |--------|-----------|---------|
-| [Sbírka zákonů (Collection of Laws)](https://www.zakonyprolidi.cz) | Ministry of the Interior of the Czech Republic | Czech Government Open Data (public domain under Czech Copyright Act § 3) |
+| [e‑Sbírka API](https://www.e-sbirka.cz/sbr-externi) | Ministry of the Interior of the Czech Republic | Government terms for official public legislation (e‑Sbírka) |
 
 > Full provenance: [`sources.yml`](./sources.yml)
+
+## Ingestion
+
+Curated corpus (default):
+
+```bash
+npm run ingest
+```
+
+Index all Czech laws (`ZAKON` + `ZAKONUST`):
+
+```bash
+npm run ingest:all:index
+```
+
+Incremental all-laws ingestion (resumable, respects API rate limit):
+
+```bash
+npm run ingest:all
+```
+
+Coverage report against discovered all-laws index:
+
+```bash
+npm run coverage:all-laws
+```
 
 ## Tools
 
