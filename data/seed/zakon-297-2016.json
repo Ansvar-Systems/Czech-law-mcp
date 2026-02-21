@@ -2,170 +2,146 @@
   "id": "cz:297/2016",
   "type": "statute",
   "title": "Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce",
-  "title_en": "Act on Trust Services for Electronic Transactions",
-  "short_name": "Trust Services Act",
+  "title_en": "Trust Services for Electronic Transactions Act",
+  "short_name": "ZSVD",
   "status": "in_force",
-  "issued_date": "2016-08-24",
+  "issued_date": "2016-09-19",
   "in_force_date": "2016-09-19",
-  "url": "https://www.zakonyprolidi.cz/cs/2016-297",
-  "description": "Czech implementation of Regulation (EU) No 910/2014 (eIDAS Regulation) on electronic identification and trust services for electronic transactions in the internal market. Establishes the supervisory body and sets national rules for electronic signatures, seals, time stamps, and electronic delivery services.",
+  "url": "https://www.e-sbirka.cz/sb/2016/297/2023-04-01",
+  "description": "Regulates trust services and electronic identification for digital transactions.",
   "provisions": [
     {
       "provision_ref": "§ 1",
-      "section": "Part 1",
-      "chapter": "Part One — General Provisions",
-      "title": "Subject matter",
-      "content": "This Act regulates, in accordance with Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation): (a) the conditions for the provision of trust services; (b) the supervisory body for trust services; (c) the use of electronic identification in the public sector; (d) the legal effects of electronic signatures, electronic seals, electronic time stamps, and electronic delivery services."
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie1)\na) některé postupy poskytovatelů služeb vytvářejících důvěru,\nb) některé požadavky na služby vytvářející důvěru,\nc) působnost Digitální a informační agentury (dále jen „Agentura“) v oblasti služeb vytvářejících důvěru a\nd) sankce za porušení povinností v oblasti služeb vytvářejících důvěru.\nPostupy kvalifikovaných poskytovatelů služeb vytvářejících důvěru"
     },
     {
       "provision_ref": "§ 2",
-      "section": "Part 1",
-      "chapter": "Part One — General Provisions",
-      "title": "Definitions",
-      "content": "For the purposes of this Act, terms shall have the meaning as defined in Article 3 of Regulation (EU) No 910/2014. In addition: (a) 'Ministry' means the Ministry of the Interior; (b) 'supervisory body' means the Ministry of the Interior in its capacity as the supervisory body for trust services."
+      "section": "2",
+      "title": "§ 2",
+      "content": "Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytuje kvalifikovanou službu vytvářející důvěru na základě písemné smlouvy."
     },
     {
       "provision_ref": "§ 3",
-      "section": "Part 2",
-      "chapter": "Part Two — Electronic Signatures",
-      "title": "Electronic signatures in legal acts",
-      "content": "Where legislation requires a written form for a legal act, this requirement is met by a document in electronic form if it is signed with a qualified electronic signature within the meaning of Article 3(12) of Regulation (EU) No 910/2014. A qualified electronic signature shall have the equivalent legal effect of a handwritten signature."
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu 10 let dokumenty související s vydáváním\na) kvalifikovaných certifikátů pro elektronické podpisy nebo elektronické pečetě,\nb) kvalifikovaných certifikátů pro autentizaci internetových stránek a\nc) kvalifikovaných elektronických časových razítek.\n(2) Po uplynutí doby uvedené v odstavci 1 kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu následujících 15 let údaje, na základě kterých byla ověřena totožnost žadatele o vydání kvalifikovaného certifikátu pro elektronické podpisy nebo elektronické pečetě nebo totožnost fyzické osoby oprávněné jednat za právnickou osobu žádající o vydání kvalifikovaného certifikátu pro elektronickou pečeť.\n(3) Pokud nařízení Evropského parlamentu a Rady (EU) č. 910/2014 o elektronické identifikaci a službách vytvářejících důvěru pro elektronické transakce na vnitřním trhu a o zrušení směrnice 1999/93/ES (dále jen „Nařízení“) nebo tento zákon nestanoví jinak, postupuje se při nakládání s uchovávanými dokumenty podle zákona upravujícího archivnictví a spisovou službu."
     },
     {
       "provision_ref": "§ 4",
-      "section": "Part 2",
-      "chapter": "Part Two — Electronic Signatures",
-      "title": "Electronic signatures for public authorities",
-      "content": "Public authorities shall use qualified electronic signatures when signing electronic documents where a signature is required. Public authorities shall accept qualified electronic signatures based on qualified certificates issued by qualified trust service providers from any EU Member State."
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Kvalifikovaný poskytovatel služeb vytvářejících důvěru, který po ukončení své činnosti nemůže splnit povinnost vést a zpřístupnit evidenci podle čl. 24 odst. 2 písm. h) Nařízení, zajistí bezodkladně po ukončení své činnosti převzetí této evidence jiným kvalifikovaným poskytovatelem služeb vytvářejících důvěru.\n(2) Nemůže-li kvalifikovaný poskytovatel služeb vytvářejících důvěru zajistit převzetí evidence podle odstavce 1, předá evidenci bezodkladně Agentuře."
+    },
+    {
+      "provision_ref": "§ 4a",
+      "section": "4a",
+      "title": "§ 4a",
+      "content": "(1) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat ze základního registru obyvatel údaje v rozsahu\na) příjmení,\nb) jméno, popřípadě jména,\nc) adresa místa pobytu,\nd) datum, místo a okres narození, u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,\ne) datum úmrtí; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil,\nf) státní občanství, popřípadě více státních občanství, a\ng) čísla a druhy identifikačních dokladů.\n(2) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci údaje v rozsahu\na) jméno, popřípadě jména, a příjmení podnikající fyzické osoby nebo zahraniční osoby a\nb) adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.\n(3) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence obyvatel údaje v rozsahu\na) jméno, popřípadě jména, příjmení, rodné příjmení,\nb) datum narození,\nc) pohlaví,\nd) místo a okres narození, a u subjektu údajů, který se narodil v cizině, místo a stát, kde se narodil,\ne) rodné číslo,\nf) státní občanství,\ng) adresa místa trvalého pobytu,\nh) datum nabytí právní moci rozhodnutí soudu o schválení smlouvy o nápomoci nebo zastoupení členem domácnosti včetně čísla jednacího a označení soudu, který smlouvu nebo zastoupení schválil, datum nabytí právní moci rozhodnutí soudu o omezení svéprávnosti včetně čísla jednacího a označení soudu, který o omezení svéprávnosti rozhodl, datum nabytí právní moci rozhodnutí soudu o zrušení omezení svéprávnosti, datum odvolání podpůrce soudem a datum zániku zastoupení členem domácnosti,\ni) jméno, popřípadě jména, příjmení a rodné číslo opatrovníka,\nj) datum úmrtí a\nk) den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil.\n(4) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému cizinců údaje v rozsahu\na) jméno, popřípadě jména, příjmení, rodné příjmení,\nb) datum narození,\nc) pohlaví,\nd) místo a stát, kde se subjekt údajů narodil,\ne) rodné číslo,\nf) státní občanství, popřípadě více státních občanství,\ng) adresa místa pobytu na území České republiky,\nh) datum nabytí právní moci rozhodnutí soudu o omezení svéprávnosti včetně čísla jednacího a označení soudu, který rozhodl o omezení svéprávnosti,\ni) datum úmrtí a\nj) den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil.\n(5) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence občanských průkazů údaje v rozsahu\na) číslo občanského průkazu, popřípadě série občanského průkazu,\nb) datum vydání občanského průkazu,\nc) označení správního orgánu, který občanský průkaz vydal,\nd) datum skončení platnosti občanského průkazu,\ne) datum skutečného skončení platnosti neplatného občanského průkazu.\n(6) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence cestovních dokladů v rozsahu\na) číslo a druh vydaného cestovního dokladu,\nb) datum vydání cestovního dokladu,\nc) datum skončení platnosti cestovního dokladu a\nd) označení orgánu, který cestovní doklad vydal.\n(7) Informační systém, jehož prostřednictvím kvalifikovaný poskytovatel služeb vytvářejících důvěru využívá údaje podle odstavce 1, musí umožnit dálkové a nepřetržité vyhodnocování záznamů o poskytnutí a využití údajů pro potřeby evidenční ochrany údajů podle jiného právního předpisu3).\nPodepisování dokumentu"
     },
     {
       "provision_ref": "§ 5",
-      "section": "Part 2",
-      "chapter": "Part Two — Electronic Signatures",
-      "title": "Advanced electronic signatures",
-      "content": "An advanced electronic signature that does not meet the requirements of a qualified electronic signature may be used in legal relations unless the law explicitly requires a qualified electronic signature. The evidentiary value of an advanced electronic signature shall be assessed by the court taking into account all circumstances of the case."
+      "section": "5",
+      "title": "§ 5",
+      "content": "K podepisování elektronickým podpisem lze použít pouze kvalifikovaný elektronický podpis, podepisuje-li elektronický dokument, kterým\na) činí úkon nebo právně jedná stát, územní samosprávný celek, právnická osoba zřízená zákonem nebo právnická osoba zřízená nebo založená státem, územním samosprávným celkem nebo právnickou osobou zřízenou zákonem nebo jejich orgán anebo jiná jejich součást (dále jen „veřejnoprávní podepisující“), nebo\nb) činí úkon osoba neuvedená v písmenu a) při výkonu své působnosti."
     },
     {
       "provision_ref": "§ 6",
-      "section": "Part 3",
-      "chapter": "Part Three — Electronic Seals and Time Stamps",
-      "title": "Electronic seals",
-      "content": "A qualified electronic seal within the meaning of Article 3(27) of Regulation (EU) No 910/2014 shall enjoy the presumption of integrity of the data and of the correctness of the origin of those data to which the seal is linked. Public authorities shall use qualified electronic seals to ensure the integrity and origin of electronic documents."
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) K podepisování elektronickým podpisem lze použít pouze uznávaný elektronický podpis, podepisuje-li se elektronický dokument, kterým se činí úkon vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti.\n(2) Uznávaným elektronickým podpisem se rozumí zaručený elektronický podpis založený na kvalifikovaném certifikátu pro elektronický podpis nebo kvalifikovaný elektronický podpis."
     },
     {
       "provision_ref": "§ 7",
-      "section": "Part 3",
-      "chapter": "Part Three — Electronic Seals and Time Stamps",
-      "title": "Electronic time stamps",
-      "content": "A qualified electronic time stamp within the meaning of Article 3(34) of Regulation (EU) No 910/2014 shall enjoy the presumption of the accuracy of the date and time it indicates and of the integrity of the data to which the date and time are bound. Public authorities shall use qualified electronic time stamps where it is necessary to prove the existence of data at a specific point in time."
+      "section": "7",
+      "title": "§ 7",
+      "content": "K podepisování elektronickým podpisem lze použít zaručený elektronický podpis, uznávaný elektronický podpis, případně jiný typ elektronického podpisu, podepisuje-li se elektronický dokument, kterým se právně jedná jiným způsobem než způsobem uvedeným v § 5.\nPečetění dokumentu"
     },
     {
       "provision_ref": "§ 8",
-      "section": "Part 4",
-      "chapter": "Part Four — Electronic Delivery Services",
-      "title": "Qualified electronic delivery services",
-      "content": "A qualified electronic delivery service within the meaning of Article 3(37) of Regulation (EU) No 910/2014 shall enjoy the presumption of the integrity of the data, the sending of those data by the identified sender, and the receipt of those data by the identified addressee. Qualified electronic delivery services shall provide evidence of the sending and receiving of data."
+      "section": "8",
+      "title": "§ 8",
+      "content": "Nestanoví-li jiný právní předpis jako náležitost úkonu nebo právního jednání obsaženého v dokumentu podpis nebo tato náležitost nevyplývá z povahy úkonu nebo právního jednání, veřejnoprávní podepisující a jiná právnická osoba, činí-li úkon při výkonu své působnosti, zapečetí dokument v elektronické podobě kvalifikovanou elektronickou pečetí."
     },
     {
       "provision_ref": "§ 9",
-      "section": "Part 4",
-      "chapter": "Part Four — Electronic Delivery Services",
-      "title": "Data boxes",
-      "content": "The data box system (datové schránky) established under Act No. 300/2008 Coll. shall be deemed to meet the requirements for a qualified electronic delivery service within the meaning of Regulation (EU) No 910/2014, provided that the conditions for identification of sender and addressee and integrity of data are fulfilled."
+      "section": "9",
+      "title": "§ 9",
+      "content": "(1) K pečetění elektronickou pečetí lze použít pouze uznávanou elektronickou pečeť, pečetí-li se elektronický dokument, kterým se činí úkon vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti.\n(2) Uznávanou elektronickou pečetí se rozumí zaručená elektronická pečeť založená na kvalifikovaném certifikátu pro elektronickou pečeť nebo kvalifikovaná elektronická pečeť."
     },
     {
       "provision_ref": "§ 10",
-      "section": "Part 5",
-      "chapter": "Part Five — Trust Service Providers",
-      "title": "Qualified trust service providers",
-      "content": "A qualified trust service provider must: (a) meet the requirements set out in Article 24 of Regulation (EU) No 910/2014; (b) be established in the Czech Republic or in another EU Member State; (c) be included in the national trusted list maintained by the supervisory body. The supervisory body shall grant qualified status after verifying compliance with the requirements."
+      "section": "10",
+      "title": "§ 10",
+      "content": "K pečetění elektronickou pečetí lze použít zaručenou elektronickou pečeť, uznávanou elektronickou pečeť, případně jiný typ elektronické pečeti, pečetí-li se elektronický dokument, kterým se právně jedná jiným způsobem než způsobem uvedeným v § 8."
     },
     {
       "provision_ref": "§ 11",
-      "section": "Part 5",
-      "chapter": "Part Five — Trust Service Providers",
-      "title": "Conformity assessment",
-      "content": "Qualified trust service providers shall undergo a conformity assessment by a conformity assessment body accredited under Regulation (EC) No 765/2008 at least every 24 months. The conformity assessment report shall be submitted to the supervisory body."
+      "section": "11",
+      "title": "§ 11 Použití kvalifikovaného elektronického časového razítka",
+      "content": "(1) Veřejnoprávní podepisující, který podepsal elektronický dokument, kterým činí úkon nebo právně jedná, způsobem podle § 5, a osoba, která podepsala elektronický dokument, kterým činí úkon při výkonu své působnosti, způsobem podle § 5, opatří podepsaný elektronický dokument kvalifikovaným elektronickým časovým razítkem.\n(2) Veřejnoprávní podepisující, který zapečetil elektronický dokument, kterým činí úkon nebo právně jedná, způsobem podle § 8, a osoba, která zapečetila elektronický dokument, kterým činí úkon při výkonu své působnosti, způsobem podle § 8, opatří zapečetěný elektronický dokument kvalifikovaným elektronickým časovým razítkem."
     },
     {
       "provision_ref": "§ 12",
-      "section": "Part 5",
-      "chapter": "Part Five — Trust Service Providers",
-      "title": "National trusted list",
-      "content": "The supervisory body maintains and publishes the national trusted list of qualified trust service providers and the qualified trust services they provide, in accordance with Article 22 of Regulation (EU) No 910/2014."
+      "section": "12",
+      "title": "§ 12 Ověřování platnosti zaručeného elektronického podpisu a zaručené elektronické pečetě",
+      "content": "Ustanovení čl. 32 odst. 1 písm. a) až e), g) a h) Nařízení se na ověřování platnosti zaručeného elektronického podpisu založeného na kvalifikovaném certifikátu pro elektronický podpis a na ověřování platnosti zaručené elektronické pečetě založené na kvalifikovaném certifikátu pro elektronické pečetě použijí obdobně."
     },
     {
       "provision_ref": "§ 13",
-      "section": "Part 6",
-      "chapter": "Part Six — Electronic Identification",
-      "title": "Electronic identification for public services",
-      "content": "Where access to an online service provided by a public authority requires electronic identification, the authority shall accept electronic identification means issued under a notified electronic identification scheme of any EU Member State, provided the scheme meets the assurance level required for the service. The National Identification Authority administers the electronic identification framework."
+      "section": "13",
+      "title": "§ 13 Působnost Agentury",
+      "content": "(1) Agentura plní úkoly orgánu dohledu podle Nařízení a podle tohoto zákona.\n(2) Agentura může dát kvalifikovanému poskytovateli služeb vytvářejících důvěru pokyn zneplatnit jím vydaný kvalifikovaný certifikát, pokud existuje důvodné podezření, že kvalifikovaný certifikát byl padělán, nebo pokud byl vydán na základě nepravdivých údajů. Agentura může dát pokyn zneplatnit kvalifikovaný certifikát také v případě zjištění, že podepisující nebo pečetící osoba používá prostředek pro vytváření elektronických podpisů nebo elektronických pečetí, který vykazuje bezpečnostní nedostatky umožňující padělání elektronických podpisů nebo elektronických pečetí nebo změnu podepisovaných nebo pečetěných dat.\n(3) Agentura zveřejňuje způsobem umožňujícím dálkový přístup důvěryhodné seznamy obsahující informace týkající se kvalifikovaných poskytovatelů služeb vytvářejících důvěru spolu s informacemi o jimi poskytovaných kvalifikovaných službách vytvářejících důvěru.\n(4) Agentura vede seznam certifikátů, na jejichž základě kvalifikovaní poskytovatelé služeb vytvářejících důvěru podepisují zaručeným elektronickým podpisem nebo pečetí zaručenou elektronickou pečetí vydané kvalifikované certifikáty nebo vydaná kvalifikovaná elektronická časová razítka. Seznam certifikátů zveřejňuje Agentura způsobem umožňujícím dálkový přístup.\n(5) Agentura plní povinnost podle čl. 24 odst. 2 písm. h) Nařízení v případě převzetí evidence podle § 4 odst. 2.\n(6) Agentura bezodkladně vyrozumí Úřad pro ochranu osobních údajů o zjištěních učiněných v souvislosti s plněním úkolů orgánu dohledu podle odstavce 1, pokud se týkají působnosti tohoto úřadu.\nPoskytování služeb vytvářejících důvěru Správou státních služeb vytvářejících důvěru"
     },
     {
       "provision_ref": "§ 14",
-      "section": "Part 6",
-      "chapter": "Part Six — Electronic Identification",
-      "title": "National electronic identification",
-      "content": "Czech national electronic identification is provided through the National Point for Identification and Authentication (NIA) and the eGovernment system. Citizens may authenticate using: (a) the electronic identity card (eObčanka); (b) the data box system; (c) other means meeting the required assurance level."
+      "section": "14",
+      "title": "§ 14",
+      "content": "(1) Zřizuje se a vzniká Správa státních služeb vytvářejících důvěru (dále jen „Správa“) jako státní příspěvková organizace. Sídlem Správy je Praha.\n(2) Zřizovatelskou funkci vůči Správě vykonává Agentura.\n(3) Statutárním orgánem Správy je ředitel. Ředitele Správy jmenuje a odvolává člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra.\n(4) Předmětem činnosti Správy je poskytování služeb vytvářejících důvěru pro potřeby České republiky. Bližší podmínky činnosti Správy, včetně podmínek, za jakých Správa poskytuje služby vytvářející důvěru, upravuje statut, který schvaluje člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra."
     },
     {
       "provision_ref": "§ 15",
-      "section": "Part 7",
-      "chapter": "Part Seven — Supervision",
-      "title": "Supervisory body",
-      "content": "The Ministry of the Interior acts as the supervisory body for trust services within the meaning of Article 17 of Regulation (EU) No 910/2014. The supervisory body: (a) supervises qualified trust service providers established in the Czech Republic; (b) maintains the national trusted list; (c) takes supervisory measures, including suspension or withdrawal of qualified status."
+      "section": "15",
+      "title": "§ 15",
+      "content": "(1) Poskytuje-li Správa službu vytvářející důvěru, jejímž předmětem je certifikát, který není certifikátem pro elektronický podpis, certifikátem pro elektronickou pečeť nebo certifikátem pro autentizaci internetových stránek, vede evidenci certifikátů a osob nebo jejich součástí, kterým byl certifikát vydán.\n(2) Evidence obsahuje\na) údaje o fyzické osobě, které byl certifikát vydán, v rozsahu\n1. jméno, popřípadě jména a příjmení,\n2. datum, místo a okres narození; u fyzické osoby, která se narodila v cizině, datum, místo a stát, kde se narodila,\n3. datum úmrtí,\n4. adresa místa pobytu, případně též adresa, na kterou mají být doručovány písemnosti,\nb) údaje o právnické osobě nebo její součásti, které byl certifikát vydán, v rozsahu\n1. obchodní firma nebo název,\n2. adresa sídla,\n3. identifikační číslo osoby,\nc) údaje o certifikátu v rozsahu\n1. identifikátor,\n2. počátek a konec platnosti,\n3. datum a čas aktivace,\n4. datum a čas zneplatnění,\nd) další údaje v rozsahu\n1. identifikátor nosiče, na kterém je certifikát uložen,\n2. agendový identifikátor fyzické osoby pro agendu vydávání certifikátů.\n(3) Údaje podle odstavce 2 písm. c) jsou veřejně přístupné způsobem umožňujícím dálkový přístup.\n(4) Údaje podle odstavce 2 se evidují po dobu platnosti certifikátu a následujících 15 let od konce platnosti certifikátu.\nPřestupky fyzických, právnických a podnikajících fyzických osob"
     },
     {
       "provision_ref": "§ 16",
-      "section": "Part 7",
-      "chapter": "Part Seven — Supervision",
-      "title": "Inspections",
-      "content": "The supervisory body may conduct inspections of qualified trust service providers to verify compliance with Regulation (EU) No 910/2014 and this Act. During an inspection, the supervisory body may require the provider to submit documents, records, and data necessary for the verification."
+      "section": "16",
+      "title": "§ 16",
+      "content": "(1) Fyzická osoba se dopustí přestupku tím, že použije značku důvěry EU2) v rozporu s čl. 23 odst. 1 Nařízení.\n(2) Za přestupek podle odstavce 1 lze uložit pokutu do 2 000 000 Kč."
     },
     {
       "provision_ref": "§ 17",
-      "section": "Part 8",
-      "chapter": "Part Eight — Administrative Offences",
-      "title": "Administrative offences",
-      "content": "A trust service provider commits an administrative offence by: (a) providing qualified trust services without being included in the national trusted list; (b) failing to undergo a conformity assessment; (c) failing to notify the supervisory body of a security breach. Fines may be imposed up to CZK 10,000,000."
+      "section": "17",
+      "title": "§ 17",
+      "content": "(1) Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že\na) použije značku důvěry EU2) v rozporu s čl. 23 odst. 1 Nařízení, nebo\nb) v rozporu s čl. 24 odst. 2 písm. h) Nařízení neeviduje nebo nezpřístupňuje veškeré příslušné informace po ukončení činnosti kvalifikovaného poskytovatele služeb vytvářejících důvěru nebo nepředá Agentuře evidenci podle § 4 odst. 2.\n(2) Poskytovatel služeb vytvářejících důvěru se dopustí přestupku tím, že\na) nepřijme vhodná technická a organizační opatření k řízení rizik ohrožujících bezpečnost jím poskytovaných služeb podle čl. 19 odst. 1 Nařízení,\nb) v rozporu s čl. 19 odst. 2 Nařízení nevyrozumí o narušení bezpečnosti nebo ztrátě integrity bez zbytečného odkladu orgán dohledu podle tohoto zákona nebo osobu, na kterou může mít narušení bezpečnosti nebo ztráta integrity nepříznivý dopad, nebo\nc) v rozporu s čl. 21 odst. 3 Nařízení poskytuje služby vytvářející důvěru označené jako kvalifikované předtím, než byl status kvalifikovaného poskytovatele služeb vytvářejících důvěru a kvalifikované služby vyznačen v důvěryhodných seznamech.\n(3) Kvalifikovaný poskytovatel služeb vytvářejících důvěru se dopustí přestupku tím, že\na) v rozporu s čl. 20 odst. 1 Nařízení\n1. se nepodrobí auditu ze strany subjektu posuzování shody alespoň jednou za 24 měsíců, nebo\n2. nepředloží výslednou zprávu o posouzení shody,\nb) se nepodrobí auditu ze strany orgánu dohledu podle tohoto zákona nebo subjektu posuzování shody podle čl. 20 odst. 2 Nařízení,\nc) nezajistí, aby byl na jeho internetových stránkách k dispozici odkaz na příslušný důvěryhodný seznam podle čl. 23 odst. 2 Nařízení,\nd) neoznámí případné změny v poskytování služeb vytvářejících důvěru nebo záměr ukončit některou ze svých činností podle čl. 24 odst. 2 písm. a) Nařízení,\ne) zaměstnává zaměstnance nebo využívá subdodavatele v rozporu s čl. 24 odst. 2 písm. b) Nařízení,\nf) v rozporu s čl. 24 odst. 2 písm. c) Nařízení,\n1. neudržuje dostatečné finanční prostředky, nebo\n2. neuzavře vhodné pojištění odpovědnosti,\ng) nesplní informační povinnost podle čl. 24 odst. 2 písm. d) Nařízení,\nh) nepoužívá důvěryhodné systémy a produkty podle čl. 24 odst. 2 písm. e) Nařízení,\ni) nepoužívá důvěryhodné systémy k uchovávání dat podle čl. 24 odst. 2 písm. f) Nařízení,\nj) nepřijme vhodná opatření proti padělání a odcizení dat podle čl. 24 odst. 2 písm. g) Nařízení,\nk) v rozporu s čl. 24 odst. 2 písm. h) Nařízení neeviduje nebo nezpřístupňuje veškeré příslušné informace,\nl) nemá k dispozici aktualizovaný plán ukončení činnosti k zajištění kontinuity služby podle čl. 24 odst. 2 písm. i) Nařízení,\nm) neposkytuje kvalifikované služby vytvářející důvěru na základě písemné smlouvy podle § 2,\nn) neuchovává dokumenty podle § 3 odst. 1, nebo\no) neuchovává údaje podle § 3 odst. 2.\n(4) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty se dopustí přestupku tím, že\na) neověří totožnost nebo zvláštní znaky fyzické anebo právnické osoby, jíž je kvalifikovaný certifikát vydán, podle čl. 24 odst. 1 Nařízení,\nb) nezajistí, aby jím vydaný kvalifikovaný certifikát obsahoval přesné, pravdivé a úplné údaje,\nc) v rozporu s čl. 24 odst. 2 písm. k) Nařízení nevede nebo neaktualizuje databázi jím vydaných kvalifikovaných certifikátů,\nd) nezveřejní zneplatnění jím vydaného kvalifikovaného certifikátu podle čl. 24 odst. 3 Nařízení,\ne) neposkytne kterékoliv spoléhající se straně informace o platnosti nebo zneplatnění jím vydaných kvalifikovaných certifikátů podle čl. 24 odst. 4 Nařízení,\nf) v rozporu s čl. 28 odst. 4 Nařízení změní status zneplatněného jím vydaného kvalifikovaného certifikátu pro elektronické podpisy,\ng) v rozporu s čl. 38 odst. 4 Nařízení změní status zneplatněného jím vydaného kvalifikovaného certifikátu pro elektronické pečetě, nebo\nh) vydá kvalifikovaný certifikát pro elektronický podpis, kvalifikovaný certifikát pro elektronickou pečeť nebo kvalifikovaný certifikát pro autentizaci internetových stránek, který nesplňuje požadavky stanovené Nařízením.\n(5) Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytující kvalifikovanou službu ověřování platnosti kvalifikovaných elektronických podpisů a kvalifikovaných elektronických pečetí se dopustí přestupku tím, že\na) nezajistí ověření platnosti kvalifikovaného elektronického podpisu nebo kvalifikované elektronické pečetě podle čl. 33 odst. 1 písm. a) Nařízení, nebo\nb) poskytuje kvalifikované služby ověřování kvalifikovaných elektronických podpisů nebo kvalifikovaných elektronických pečetí v rozporu s čl. 33 odst. 1 písm. b) Nařízení.\n(6) Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytující kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů a kvalifikovaných elektronických pečetí se dopustí přestupku tím, že nepoužívá postupy a technologie podle čl. 34 odst. 1 Nařízení.\n(7) Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikovaná elektronická časová razítka se dopustí přestupku tím, že nezajistí, aby jím vydaná kvalifikovaná elektronická časová razítka splňovala požadavky podle čl. 42 odst. 1 Nařízení.\n(8) Za přestupek lze uložit pokutu do\na) 500 000 Kč, jde-li o přestupek podle odstavce 3 písm. c) a g),\nb) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b), odstavce 3 písm. a), e) a m),\nc) 2 000 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2 písm. a) a c), odstavce 3 písm. b), d), f), h) až l), n) a o) a odstavců 4 až 7."
     },
     {
       "provision_ref": "§ 18",
-      "section": "Part 8",
-      "chapter": "Part Eight — Administrative Offences",
-      "title": "Security breach notification",
-      "content": "A qualified trust service provider shall notify the supervisory body without undue delay of any breach of security or loss of integrity that has a significant impact on the trust service provided, in accordance with Article 19 of Regulation (EU) No 910/2014."
+      "section": "18",
+      "title": "§ 18",
+      "content": "Přestupky podle tohoto zákona projednává Agentura."
     },
     {
       "provision_ref": "§ 19",
-      "section": "Part 9",
-      "chapter": "Part Nine — Final Provisions",
-      "title": "Repealing provisions",
-      "content": "Act No. 227/2000 Coll., on Electronic Signatures (zákon č. 227/2000 Sb., o elektronickém podpisu), is hereby repealed."
+      "section": "19",
+      "title": "§ 19 Přechodná ustanovení",
+      "content": "(1) Po dobu 2 let ode dne nabytí účinnosti tohoto zákona lze k podepisování podle § 5 použít rovněž zaručený elektronický podpis založený na kvalifikovaném certifikátu pro elektronický podpis.\n(2) Po dobu 2 let ode dne nabytí účinnosti tohoto zákona lze namísto zaručené elektronické pečetě založené na kvalifikovaném certifikátu pro elektronickou pečeť nebo namísto kvalifikované elektronické pečetě použít\na) elektronickou značku podle zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění účinném přede dnem nabytí účinnosti tohoto zákona, založenou na systémovém certifikátu vydaném osobou, která byla přede dnem nabytí účinnosti tohoto zákona akreditovaným poskytovatelem certifikačních služeb a která je kvalifikovaným poskytovatelem služeb vytvářejících důvěru, nebo\nb) zaručenou elektronickou pečeť založenou na certifikátu pro elektronickou pečeť vydaném kvalifikovaným poskytovatelem služeb vytvářejících důvěru.\n(3) Pro účely odstavce 2 se § 11 odst. 2 použije obdobně.\n(4) Kvalifikovaný poskytovatel služeb vytvářejících důvěru, který vydává systémové certifikáty pro použití podle odstavce 2 písm. a), poskytuje tuto službu vytvářející důvěru na základě písemné smlouvy. Ustanovení § 3 odst. 1 písm. a) a § 3 odst. 2 se na uchovávání dokumentů souvisejících s vydáváním systémových certifikátů použijí obdobně.\n(5) Po dobu 2 let ode dne nabytí účinnosti tohoto zákona lze namísto kvalifikovaného elektronického časového razítka podle § 11 použít elektronické časové razítko vydané kvalifikovaným poskytovatelem služeb vytvářejících důvěru.\n(6) Kvalifikovaný poskytovatel služeb vytvářejících důvěru, který vydává elektronická časová razítka pro použití podle odstavce 5, poskytuje tuto službu vytvářející důvěru na základě písemné smlouvy. Ustanovení § 3 odst. 1 písm. c) se na uchovávání dokumentů souvisejících s vydáváním elektronických časových razítek použije obdobně.\n(7) Povinnosti podle § 6 odst. 5 až 8 zákona č. 227/2000 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zůstávají zachovány i po dni nabytí účinnosti tohoto zákona.\n(8) Platnost elektronických značek a systémových certifikátů není zrušením zákona č. 227/2000 Sb. dotčena.\n(9) Používá-li ode dne nabytí účinnosti tohoto zákona jiný právní předpis pojem uznávaná elektronická značka, rozumí se jím rovněž elektronická značka podle zákona č. 227/2000 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, založená na systémovém certifikátu vydaném osobou, která byla přede dnem nabytí účinnosti tohoto zákona akreditovaným poskytovatelem certifikačních služeb a která je kvalifikovaným poskytovatelem služeb vytvářejících důvěru."
     },
     {
       "provision_ref": "§ 20",
-      "section": "Part 9",
-      "chapter": "Part Nine — Final Provisions",
-      "title": "Effectiveness",
-      "content": "This Act shall enter into force on 19 September 2016."
+      "section": "20",
+      "title": "§ 20 Zrušovací ustanovení",
+      "content": "Zrušují se:\n1. Zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu).\n2. Část pátá zákona č. 226/2002 Sb., kterým se mění zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů, zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů, a zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu).\n3. Část osmá zákona č. 517/2002 Sb., kterým se provádějí některá opatření v soustavě ústředních orgánů státní správy a mění některé zákony.\n4. Zákon č. 440/2004 Sb., kterým se mění zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů.\n5. Část dvacátá osmá zákona č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu.\n6. Část třetí zákona č. 635/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o správních poplatcích.\n7. Část třicátá druhá zákona č. 444/2005 Sb., kterým se mění zákon č. 531/1990 Sb., o územních finančních orgánech, ve znění pozdějších předpisů, a některé další zákony.\n8. Část osmá zákona č. 110/2007 Sb., o některých opatřeních v soustavě ústředních orgánů státní správy, souvisejících se zrušením Ministerstva informatiky a o změně některých zákonů.\n9. Část druhá zákona č. 190/2009 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony.\n10. Část šestnáctá zákona č. 223/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o volném pohybu služeb.\n11. Část stá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.\n12. Část sedmdesátá šestá zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu.\n13. Část první zákona č. 101/2010 Sb., kterým se mění zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a zákon č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech, ve znění pozdějších předpisů.\n14. Část čtrnáctá zákona č. 424/2010 Sb., kterým se mění zákon č. 111/2009 Sb., o základních registrech, ve znění zákona č. 100/2010 Sb., a další související zákony.\n15. Část druhá zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony.\n16. Část třicátá sedmá zákona č. 64/2014 Sb., kterým se mění některé zákony v souvislosti s přijetím kontrolního řádu.\n17. Vyhláška č. 378/2006 Sb., o postupech kvalifikovaných poskytovatelů certifikačních služeb, o požadavcích na nástroje elektronického podpisu a o požadavcích na ochranu dat pro vytváření elektronických značek (vyhláška o postupech kvalifikovaných poskytovatelů certifikačních služeb).\n18. Vyhláška č. 212/2012 Sb., o struktuře údajů, na základě kterých je možné jednoznačně identifikovat podepisující osobu, a postupech pro ověřování platnosti zaručeného elektronického podpisu, elektronické značky, kvalifikovaného certifikátu, kvalifikovaného systémového certifikátu a kvalifikovaného časového razítka (vyhláška o ověřování platnosti zaručeného elektronického podpisu)."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení.\n1) Nařízení Evropského parlamentu a Rady (EU) č. 910/2014 ze dne 23. července 2014 o elektronické identifikaci a službách vytvářejících důvěru pro elektronické transakce na vnitřním trhu a o zrušení směrnice 1999/93/ES.\n2) Prováděcí nařízení Komise (EU) 2015/806 ze dne 22. května 2015, kterým se stanoví specifikace týkající se podoby značky důvěry EU pro kvalifikované služby vytvářející důvěru.\n3) Například zákon č. 64/1986 Sb., o České obchodní inspekci, ve znění pozdějších předpisů, zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění pozdějších předpisů, zákon č. 289/2005 Sb., o Vojenském zpravodajství, ve znění pozdějších předpisů, zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů, zákon č. 273/2008 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 341/2011 Sb., o Generální inspekci bezpečnostních sborů a o změně souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 17/2012 Sb., o Celní správě České republiky, ve znění pozdějších předpisů."
     }
   ],
-  "definitions": [
-    {
-      "term": "Qualified electronic signature",
-      "definition": "An advanced electronic signature that is created by a qualified electronic signature creation device and is based on a qualified certificate for electronic signatures, as defined in Article 3(12) of Regulation (EU) No 910/2014.",
-      "source_provision": "§ 3"
-    },
-    {
-      "term": "Datové schránky",
-      "definition": "The data box system established under Act No. 300/2008 Coll. for electronic delivery of official documents between public authorities and citizens/businesses.",
-      "source_provision": "§ 9"
-    },
-    {
-      "term": "NIA",
-      "definition": "Národní bod pro identifikaci a autentizaci (National Point for Identification and Authentication) — the Czech national electronic identification gateway.",
-      "source_provision": "§ 14"
-    }
-  ]
+  "definitions": []
 }

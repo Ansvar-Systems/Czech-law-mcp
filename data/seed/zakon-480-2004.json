@@ -1,145 +1,141 @@
 {
   "id": "cz:480/2004",
   "type": "statute",
-  "title": "Zákon č. 480/2004 Sb., o některých službách informační společnosti",
+  "title": "Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)",
   "title_en": "Act on Certain Information Society Services",
-  "short_name": "Information Society Services Act",
+  "short_name": "ZSIS",
   "status": "in_force",
-  "issued_date": "2004-07-29",
+  "issued_date": "2004-09-07",
   "in_force_date": "2004-09-07",
-  "url": "https://www.zakonyprolidi.cz/cs/2004-480",
-  "description": "Czech implementation of the e-Commerce Directive 2000/31/EC. Regulates information society services, liability of intermediary service providers, and commercial communications.",
+  "url": "https://www.e-sbirka.cz/sb/2004/480/2023-03-23",
+  "description": "Regulates selected legal duties for information society service providers.",
   "provisions": [
     {
       "provision_ref": "§ 1",
-      "section": "Part 1",
-      "chapter": "Part One — General Provisions",
-      "title": "Subject matter",
-      "content": "This Act regulates, in accordance with Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, the responsibility of information society service providers, the sending of commercial communications, and the internal market clause for cross-border services."
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Tento zákon zapracovává příslušné předpisy Evropské unie1), zároveň navazuje na přímo použitelný předpis Evropské unie upravující podporu spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb4) (dále jen „nařízení“) a upravuje odpovědnost a práva a povinnosti osob, které poskytují služby informační společnosti a šíří obchodní sdělení."
     },
     {
       "provision_ref": "§ 2",
-      "section": "Part 1",
-      "chapter": "Part One — General Provisions",
-      "title": "Definitions",
-      "content": "For the purposes of this Act: (a) 'information society service' means any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of the recipient; (b) 'service provider' means any natural or legal person providing an information society service; (c) 'commercial communication' means all forms of communication designed to promote, directly or indirectly, goods, services, or the image of an enterprise or organisation."
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Pro účely tohoto zákona se rozumí\na) službou informační společnosti jakákoliv služba poskytovaná elektronickými prostředky na individuální žádost uživatele podanou elektronickými prostředky, poskytovaná zpravidla za úplatu; služba je poskytnuta elektronickými prostředky, pokud je odeslána prostřednictvím sítě elektronických komunikací a vyzvednuta uživatelem z elektronického zařízení pro ukládání dat,\nb) elektronickou poštou textová, hlasová, zvuková nebo obrazová zpráva poslaná prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne,\nc) elektronickými prostředky zejména síť elektronických komunikací, elektronická komunikační zařízení, automatické volací a komunikační systémy, telekomunikační koncová zařízení a elektronická pošta,\nd) poskytovatelem služby každá fyzická nebo právnická osoba, která poskytuje některou ze služeb informační společnosti,\ne) uživatelem každá fyzická nebo právnická osoba, která využívá službu informační společnosti, zejména za účelem vyhledávání či zpřístupňování informací,\nf) obchodním sdělením všechny formy sdělení, včetně reklamy a vybízení k návštěvě internetových stránek, určeného k přímé či nepřímé podpoře zboží či služeb nebo image podniku osoby, která je podnikatelem3) nebo vykonává regulovanou činnost2).\ng) automatickým krátkodobě dočasným ukládáním ukládání informací poskytnutých uživatelem, ke kterému dochází výhradně za účelem uskutečnění přenosu prostřednictvím sítě elektronických komunikací, přičemž doba uložení informace nepřesahuje dobu, která je pro zajištění přenosu obvyklá,\nh) automatickým dočasným meziukládáním ukládání informací poskytnutých uživatelem, které slouží výhradně pro co možná nejúčinnější následný přenos těchto informací na žádost jiných uživatelů.\nOdpovědnost poskytovatelů zprostředkovatelských služeb"
     },
     {
       "provision_ref": "§ 3",
-      "section": "Part 2",
-      "chapter": "Part Two — Liability of Service Providers",
-      "title": "Mere conduit",
-      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or of the provision of access to a communication network, the service provider is not liable for the information transmitted, on condition that the provider: (a) does not initiate the transmission; (b) does not select the receiver of the transmission; (c) does not select or modify the information contained in the transmission. This provision implements Article 12 of Directive 2000/31/EC."
+      "section": "3",
+      "title": "§ 3 Odpovědnost poskytovatele služby za obsah přenášených informací",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Poskytovatel služby, jež spočívá v přenosu informací poskytnutých uživatelem prostřednictvím sítí elektronických komunikací nebo ve zprostředkování přístupu k sítím elektronických komunikací za účelem přenosu informací, odpovídá za obsah přenášených informací, jen pokud\na) přenos sám iniciuje,\nb) zvolí uživatele přenášené informace, nebo\nc) zvolí nebo změní obsah přenášené informace.\n(2) Přenos informací a zprostředkování přístupu podle odstavce 1 zahrnuje také automatické krátkodobě dočasné ukládání přenášených informací."
     },
     {
       "provision_ref": "§ 4",
-      "section": "Part 2",
-      "chapter": "Part Two — Liability of Service Providers",
-      "title": "Caching",
-      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider is not liable for the automatic, intermediate, and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission to other recipients, on condition that: (a) the provider does not modify the information; (b) the provider complies with conditions on access to the information; (c) the provider acts expeditiously to remove or disable access to the information upon obtaining knowledge that the information at the initial source has been removed."
+      "section": "4",
+      "title": "§ 4 Odpovědnost poskytovatele služby za obsah automaticky dočasně meziukládaných informací",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Poskytovatel služby, jež spočívá v přenosu informací poskytnutých uživatelem, odpovídá za obsah informací automaticky dočasně meziukládaných, jen pokud\na) změní obsah informace,\nb) nevyhoví podmínkám přístupu k informaci,\nc) nedodržuje pravidla o aktualizaci informace, která jsou obecně uznávána a používána v příslušném odvětví,\nd) překročí povolené používání technologie obecně uznávané a používané v příslušném odvětví s cílem získat údaje o užívání informace, nebo\ne) ihned nepřijme opatření vedoucí k odstranění jím uložené informace nebo ke znemožnění přístupu k ní, jakmile zjistí, že informace byla na výchozím místě přenosu ze sítě odstraněna nebo k ní byl znemožněn přístup nebo soud nařídil stažení či znemožnění přístupu k této informaci."
     },
     {
       "provision_ref": "§ 5",
-      "section": "Part 2",
-      "chapter": "Part Two — Liability of Service Providers",
-      "title": "Hosting",
-      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider is not liable for the information stored at the request of a recipient of the service, on condition that: (a) the provider does not have actual knowledge of illegal activity or information and is not aware of facts or circumstances from which the illegal activity or information is apparent; (b) the provider, upon obtaining such knowledge, acts expeditiously to remove or disable access to the information."
+      "section": "5",
+      "title": "§ 5 Odpovědnost poskytovatele služby za ukládání obsahu informací poskytovaných uživatelem",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Poskytovatel služby, jež spočívá v ukládání informací poskytnutých uživatelem, odpovídá za obsah informací uložených na žádost uživatele, jen\na) mohl-li vzhledem k předmětu své činnosti a okolnostem a povaze případu vědět, že obsah ukládaných informací nebo jednání uživatele jsou protiprávní, nebo\nb) dozvěděl-li se prokazatelně o protiprávní povaze obsahu ukládaných informací nebo o protiprávním jednání uživatele a neprodleně neučinil veškeré kroky, které lze po něm požadovat, k odstranění nebo znepřístupnění takovýchto informací.\n(2) Poskytovatel služby uvedený v odstavci 1 odpovídá vždy za obsah uložených informací v případě, že vykonává přímo nebo nepřímo rozhodující vliv na činnost uživatele."
     },
     {
       "provision_ref": "§ 6",
-      "section": "Part 2",
-      "chapter": "Part Two — Liability of Service Providers",
-      "title": "No general obligation to monitor",
-      "content": "Service providers referred to in §§ 3 to 5 are not obliged to monitor the information which they transmit or store, nor to actively seek facts or circumstances indicating illegal activity. This does not affect the obligation of service providers to comply with court orders or decisions of competent administrative authorities."
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Poskytovatelé služeb uvedení v § 3 až 5 nejsou povinni\na) dohlížet na obsah jimi přenášených nebo ukládaných informací,\nb) aktivně vyhledávat skutečnosti a okolnosti poukazující na protiprávní obsah informace.\nŠíření obchodních sdělení"
     },
     {
       "provision_ref": "§ 7",
-      "section": "Part 3",
-      "chapter": "Part Three — Commercial Communications",
-      "title": "Commercial communications",
-      "content": "Commercial communications that are part of or constitute an information society service shall be clearly identifiable as commercial communications. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Where promotional offers such as discounts, premiums, or gifts are permitted, they shall be clearly identifiable as such."
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Obchodní sdělení lze šířit elektronickými prostředky jen za podmínek stanovených tímto zákonem.\n(2) Podrobnosti elektronického kontaktu lze za účelem šíření obchodních sdělení elektronickými prostředky využít pouze ve vztahu k uživatelům, kteří k tomu dali předchozí souhlas.\n(3) Nehledě na odstavec 2, pokud fyzická nebo právnická osoba získá od svého zákazníka podrobnosti jeho elektronického kontaktu pro elektronickou poštu v souvislosti s prodejem výrobku nebo služby podle požadavků ochrany osobních údajů upravených zvláštním právním předpisem5) nebo přímo použitelným předpisem Evropské unie6), může tato fyzická či právnická osoba využít tyto podrobnosti elektronického kontaktu pro potřeby šíření obchodních sdělení týkajících se jejích vlastních obdobných výrobků nebo služeb za předpokladu, že zákazník má jasnou a zřetelnou možnost jednoduchým způsobem, zdarma nebo na účet této fyzické nebo právnické osoby odmítnout souhlas s takovýmto využitím svého elektronického kontaktu i při zasílání každé jednotlivé zprávy, pokud původně toto využití neodmítl.\n(4) Zaslání elektronické pošty za účelem šíření obchodního sdělení je zakázáno, pokud\na) tato není zřetelně a jasně označena jako obchodní sdělení,\nb) skrývá nebo utajuje totožnost odesílatele, jehož jménem se komunikace uskutečňuje, nebo\nc) je zaslána bez platné adresy, na kterou by mohl adresát přímo a účinně zaslat informaci o tom, že si nepřeje, aby mu byly obchodní informace odesílatelem nadále zasílány.\nRegulované činnosti"
     },
     {
       "provision_ref": "§ 8",
-      "section": "Part 3",
-      "chapter": "Part Three — Commercial Communications",
-      "title": "Unsolicited commercial communications",
-      "content": "The sending of unsolicited commercial communications by electronic means is prohibited unless: (a) the recipient has given prior consent to the receipt of such communications; or (b) the sender obtained the electronic contact details of the recipient in the context of the sale of a product or service and uses those details for direct marketing of similar products or services, provided that the recipient is given the opportunity to refuse such use. Every commercial communication shall contain: (a) the identity of the sender; (b) a valid opt-out mechanism."
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Osoby vykonávající regulované činnosti mohou za použití elektronických prostředků v rámci činností, které jsou obsahem regulované činnosti, šířit obchodní sdělení, a to v souladu s § 7 a v souladu s příslušnými pravidly vydávanými obchodními, profesními a spotřebitelskými sdruženími, která upravují zejména nezávislost, důstojnost, čest povolání a poctivý přístup k zákazníkům.\n(2) Osoby vykonávající regulované činnosti, jež nejsou členy profesních samosprávných komor zřízených zákonem, při šíření obchodních sdělení za použití elektronických prostředků v rámci činností, které jsou obsahem regulované činnosti, postupují v souladu s § 7.\n(3) Obchodní sdělení osob vykonávajících regulované činnosti musí obsahovat název profesní samosprávné komory zřízené zákonem, u níž je osoba vykonávající regulovanou činnost zapsána, odkaz na profesní pravidla uplatňovaná v členském státu Evropské unie, v němž je osoba vykonávající regulovanou činnost usazena, a způsob trvalého veřejného přístupu k informacím o příslušné profesní samosprávné komoře zřízené zákonem, jejímž je osoba vykonávající regulovanou činnost členem.\nVnitřní trh"
     },
     {
       "provision_ref": "§ 9",
-      "section": "Part 3",
-      "chapter": "Part Three — Commercial Communications",
-      "title": "Opt-out register",
-      "content": "A natural person may register in a central register of persons who do not wish to receive unsolicited commercial communications. The sender of commercial communications shall consult the register before sending unsolicited communications. The register is maintained by the Office for Personal Data Protection."
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Na poskytovatele služby, který poskytuje služby prostřednictvím podniku nebo organizační složky umístěné na území České republiky, se použijí ustanovení tohoto zákona a zvláštních právních předpisů upravujících podmínky zahájení a výkonu činnosti, která je předmětem poskytované služby, zejména právních předpisů upravujících vznik podnikatelského oprávnění, požadavky na odbornou způsobilost, požadavky na obsah a kvalitu poskytované služby a odpovědnost poskytovatele služby za porušení těchto povinností.\n(2) Na poskytovatele služby, který je usazen v jiném členském státě Evropské unie a poskytujícího tuto službu na území České republiky, se nevztahují právní předpisy uvedené v odstavci 1, pokud tento zákon nebo zvláštní právní předpis nestanoví jinak.\n(3) Ustanovením odstavce 2 nejsou dotčeny povinnosti poskytovatele služby vyplývající ze zvláštních právních předpisů na ochranu veřejného pořádku, veřejného zdraví, bezpečnosti státu a ochranu spotřebitele.\n(4) Dříve, než soud nebo jiný orgán příslušný k zajištění plnění nebo vynucení povinností poskytovatele služby vyplývající ze zvláštních právních předpisů na ochranu veřejného pořádku, veřejného zdraví, bezpečnosti státu a ochranu spotřebitele učiní nezbytná opatření, informuje o tom Komisi Evropských společenství (dále jen „Komise“) a požádá členský stát Evropské unie, v němž je poskytovatel služby usazen, o přijetí takových opatření, která budou mít za následek, že soud již nebude muset činit opatření podle tohoto odstavce.\n(5) Jestliže se v naléhavých případech soud odchýlí od odstavce 4, podá o této skutečnosti bez zbytečného odkladu informaci s odůvodněním Komisi a členskému státu Evropské unie, v němž je poskytovatel služby usazen.\nDozor nad dodržováním zákona"
     },
     {
       "provision_ref": "§ 10",
-      "section": "Part 4",
-      "chapter": "Part Four — Contracts Concluded by Electronic Means",
-      "title": "Contracts by electronic means",
-      "content": "Where a contract is concluded by electronic means, the service provider shall: (a) make available to the recipient the individual technical steps to conclude the contract; (b) inform the recipient whether the concluded contract will be filed and whether it will be accessible; (c) provide the recipient with the means to identify and correct errors prior to the placing of the order; (d) indicate the languages offered for the conclusion of the contract."
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Orgánem příslušným k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru“) je\na) pro šíření obchodních sdělení podle § 7 Úřad pro ochranu osobních údajů,\nb) pro povinnosti vyplývající z § 8 odst. 3 příslušná profesní samosprávná komora zřízená zákonem.\n(2) Orgán dozoru působí jako kontaktní místo pro členské státy Evropské unie a Komisi.\n(3) Kontaktní místo pro členské státy Evropské unie a Komisi\na) podává obecné informace o smluvních právech a povinnostech, jakož i o postupech pro podávání stížností a pro opravné prostředky v případě sporů včetně praktických aspektů využívání těchto postupů,\nb) poskytuje údaje o orgánech, sdruženích nebo subjektech, od nichž lze získat další informace či praktickou pomoc.\n(4) Při výkonu dozoru postupují orgány dozoru uvedené v odstavci 1 písm. b) podle zvláštních právních předpisů.7)"
+    },
+    {
+      "provision_ref": "§ 10a",
+      "section": "10a",
+      "title": "§ 10a Dozor nad dodržováním nařízení",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Dozor nad dodržováním povinností stanovených v nařízení provádí Český telekomunikační úřad."
+    },
+    {
+      "provision_ref": "§ 10b",
+      "section": "10b",
+      "title": "§ 10b Upozornění na porušení nařízení",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Český telekomunikační úřad v případě méně závažného porušení povinnosti stanovené nařízením poskytovatelem online zprostředkovatelských služeb nebo poskytovatelem internetového vyhledávače vždy upozorní tohoto poskytovatele na porušení nařízení a vyzve jej k nápravě ve lhůtě přiměřené charakteru porušené povinnosti, která nesmí být kratší než 15 dnů ode dne doručení upozornění.\n(2) Pokud poskytovatel online zprostředkovatelských služeb nebo poskytovatel internetového vyhledávače, který byl upozorněn na porušení nařízení, zjedná ve stanovené lhůtě nápravu, bez zbytečného odkladu tuto skutečnost a způsob zjednání nápravy písemně oznámí Českému telekomunikačnímu úřadu.\n(3) Po marném uplynutí lhůty k nápravě podle odstavce 1 zahájí Český telekomunikační úřad řízení o přestupku.\nPřestupky"
     },
     {
       "provision_ref": "§ 11",
-      "section": "Part 4",
-      "chapter": "Part Four — Contracts Concluded by Electronic Means",
-      "title": "Acknowledgement of receipt",
-      "content": "The service provider shall acknowledge receipt of the order placed by the recipient without undue delay, by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them."
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Fyzická osoba se dopustí přestupku tím, že bez souhlasu adresáta hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení.\n(2) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že\na) hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení\n1. bez souhlasu adresáta,\n2. neoznačené jasně a zřetelně jako obchodní sdělení,\n3. skrývající nebo utajující totožnost odesílatele, jehož jménem se komunikace uskutečnila,\n4. neobsahující platnou adresu, na niž by adresát mohl odeslat žádost o ukončení takové komunikace, nebo\n5. bez toho, že by zákazníkovi poskytla možnost jasně, zřetelně, jednoduchým způsobem, zdarma nebo na svůj účet udělit či odmítnout souhlas s využitím jeho elektronického kontaktu při zaslání každé jednotlivé zprávy,\nb) vykonává regulovanou činnost a její obchodní sdělení neobsahuje název profesní samosprávné komory zřízené zákonem, u níž je zapsána,\nc) vykonává regulovanou činnost a její obchodní sdělení neobsahuje odkaz na profesní pravidla uplatňovaná v členském státu Evropské unie, v němž je usazena, nebo\nd) vykonává regulovanou činnost a její obchodní sdělení neobsahuje způsob trvalého veřejného přístupu k informacím o příslušné profesní samosprávné komoře zřízené zákonem, jejímž je členem.\n(3) Právnická nebo podnikající fyzická osoba se jako poskytovatel online zprostředkovatelských služeb dopustí přestupku tím, že\na) nezajistí, aby podmínky splňovaly požadavky stanovené v čl. 3 odst. 1 nařízení,\nb) v rozporu s čl. 3 odst. 2 nařízení neoznámí podnikatelským uživatelům změny svých podmínek na trvalém nosiči nebo provede navržené změny dříve, než uplyne lhůta pro jejich oznámení,\nc) nezajistí jasnou viditelnost identity podnikatelského uživatele poskytujícího zboží a služby prostřednictvím online zprostředkovatelské služby podle čl. 3 odst. 5 nařízení,\nd) omezí, pozastaví nebo ukončí poskytování online zprostředkovatelské služby v rozporu s čl. 4 nařízení,\ne) nestanoví ve svých podmínkách hlavní parametry určující pořadí a důvody relativní důležitosti těchto hlavních parametrů v porovnání s ostatními parametry podle čl. 5 odst. 1 nařízení,\nf) v rozporu s čl. 6 nařízení neuvede ve svých podmínkách popis druhu nabízeného doplňkového zboží a služeb, včetně finančních produktů, nebo popis toho, zda a za jakých okolností může podnikatelský uživatel nabízet prostřednictvím online zprostředkovatelské služby své vlastní doplňkové zboží a služby,\ng) v rozporu s čl. 7 odst. 1 nařízení neuvede ve svých podmínkách popis rozdílného zacházení, které uplatňuje nebo může uplatňovat ve vztahu ke zboží a službám, které spotřebitelům prostřednictvím online zprostředkovatelské služby nabízí buď tento poskytovatel sám nebo jím ovládaní podnikatelští uživatelé anebo jiní podnikatelští uživatelé,\nh) nezajistí, aby podmínky byly v souladu s čl. 8 nařízení,\ni) v rozporu s čl. 9 odst. 1 neuvede ve svých podmínkách popis technického a smluvního přístupu podnikatelských uživatelů k osobním nebo jiným údajům, které podnikatelští uživatelé nebo spotřebitelé poskytují pro účely používání online zprostředkovatelské služby nebo které jsou vytvářeny při poskytování této služby, nebo neuvede, že technický a smluvní přístup neexistuje,\nj) neplní informační povinnost stanovenou v čl. 9 odst. 2 nařízení,\nk) v rozporu s čl. 10 nařízení neuvede ve svých podmínkách důvody, na základě kterých lze omezit možnost podnikatelských uživatelů nabízet stejné zboží a služby spotřebitelům za různých podmínek jinými prostředky než prostřednictvím jeho služeb, nebo k nim nezajistí snadný přístup veřejnosti,\nl) nezřídí interní systém pro vyřizování stížností podnikatelských uživatelů podle čl. 11 odst. 1 nařízení,\nm) neposoudí nebo nevyřídí stížnost nebo neoznámí výsledek vyřízení stížnosti podle čl. 11 odst. 2 nařízení,\nn) neuvede ve svých podmínkách veškeré informace o přístupu k jeho internímu systému pro vyřizování stížností nebo o jeho fungování podle čl. 11 odst. 3 nařízení,\no) v rozporu s čl. 11 odst. 4 nařízení nesestaví informace o fungování a efektivnosti svého interního systému pro vyřizování stížností, nezajistí k nim snadný přístup veřejnosti, neověří je alespoň jednou ročně nebo je neaktualizuje v případě významné změny,\np) neuvede ve svých podmínkách mediátory podle čl. 12 nařízení, nebo\nq) v rozporu s čl. 12 odst. 6 nařízení nezpřístupní podnikatelskému uživateli informace o fungování a efektivnosti mediace týkající se jeho činnosti.\n(4) Právnická nebo podnikající fyzická osoba se jako poskytovatel internetového vyhledávače dopustí přestupku tím, že\na) v rozporu s čl. 5 odst. 2 nařízení nestanoví hlavní parametry a jejich relativní důležitost, neposkytne ve svém internetovém vyhledávači snadno a veřejně přístupný popis těchto parametrů v jasném a srozumitelném jazyce nebo tento popis průběžně neaktualizuje,\nb) neumožní uživateli firemních internetových stránek seznámit se s obsahem oznámení podle čl. 5 odst. 4 nařízení, nebo\nc) v rozporu s čl. 7 odst. 2 nařízení neuvede popis rozdílného způsobu zacházení, který uplatňuje nebo může uplatňovat ve vztahu ke zboží a službám, které spotřebitelům prostřednictvím internetového vyhledávače nabízí buď tento poskytovatel sám nebo jím ovládaní uživatelé firemních internetových stránek, anebo jiní uživatelé firemních internetových stránek.\n(5) Za přestupek lze uložit pokutu do\na) 100 000 Kč, jde-li o přestupek podle odstavce 1,\nb) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b), c) nebo d), nebo\nc) 10 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a) nebo odstavce 3 nebo 4.\n(6) Za přestupek podle odstavce 3 nebo 4 lze spolu s pokutou uložit správní trest zveřejnění rozhodnutí o přestupku."
+    },
+    {
+      "provision_ref": "§ 11a",
+      "section": "11a",
+      "title": "§ 11a",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Poskytovatel služby informační společnosti, jehož obchodní zájmy jsou poškozovány porušováním povinností podle § 7, je oprávněn domáhat se jménem svých zákazníků, jejichž práva byla tímto jednáním poškozena, soudní ochrany. Tím není dotčeno oprávnění zákazníka domáhat se svých nároků u soudu sám."
     },
     {
       "provision_ref": "§ 12",
-      "section": "Part 5",
-      "chapter": "Part Five — Internal Market Clause",
-      "title": "Internal market clause",
-      "content": "Information society services provided by a service provider established in another EEA Member State shall not be restricted in the Czech Republic for reasons falling within the scope of this Act, except in cases permitted by Directive 2000/31/EC, in particular for: (a) the protection of public order, public health, or public security; (b) the protection of consumers, including investors."
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "(1) Přestupky podle § 11 odst. 1 a 2 projednává orgán dozoru a přestupky podle § 11 odst. 3 a 4 projednává Český telekomunikační úřad.\n(2) Pokuty vybírá orgán, který je uložil. Příjem z pokut, a to i vymožených, je příjmem rozpočtu, ze kterého je hrazena činnost orgánu, který pokutu uložil. Na příjmy z pokut uložených orgánem příslušným k výkonu dozoru podle § 10 odst. 1 písm. b) se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu9).\n(3) Pokuty za přestupky podle § 11 odst. 3 a 4 vymáhá Český telekomunikační úřad.\nSpolečná ustanovení"
     },
     {
       "provision_ref": "§ 13",
-      "section": "Part 5",
-      "chapter": "Part Five — Internal Market Clause",
-      "title": "Derogations from internal market clause",
-      "content": "The internal market clause does not apply to: (a) copyright and neighbouring rights; (b) the permissibility of unsolicited commercial communications by electronic mail; (c) contractual obligations concerning consumer contracts; (d) the freedom of parties to choose the law applicable to their contract."
-    },
-    {
-      "provision_ref": "§ 14",
-      "section": "Part 6",
-      "chapter": "Part Six — Supervision and Penalties",
-      "title": "Supervisory authority",
-      "content": "The supervision of compliance with this Act is exercised by: (a) the Czech Trade Inspection Authority (Česká obchodní inspekce) for matters relating to electronic contracts and commercial communications; (b) the Office for Personal Data Protection for matters relating to unsolicited commercial communications and the opt-out register."
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST PRVNÍ - O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI",
+      "content": "Pokud tento zákon nestanoví jinak, vztahuje se na řízení ve věcech upravených tímto zákonem správní řád.10)"
     },
     {
       "provision_ref": "§ 15",
-      "section": "Part 6",
-      "chapter": "Part Six — Supervision and Penalties",
-      "title": "Administrative offences",
-      "content": "A service provider commits an administrative offence by: (a) sending unsolicited commercial communications in violation of § 8; (b) failing to identify commercial communications as required by § 7; (c) failing to provide pre-contractual information as required by § 10. For an offence under (a), a fine may be imposed up to CZK 10,000,000."
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o regulaci reklamy",
+      "content": "Zákon č. 40/1995 Sb., o regulaci reklamy a o změně a doplnění zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, ve znění zákona č. 258/2000 Sb., zákona č. 231/2001 Sb., zákona č. 256/2001 Sb., zákona č. 138/2002 Sb., zákona č. 320/2002 Sb., zákona č. 132/2003 Sb., zákona č. 217/2004 Sb. a zákona č. 326/2004 Sb., se mění takto:\n1. V § 2 odst. 1 písmeno e) včetně poznámky pod čarou č. 5a) zní:\n„e) šíření nevyžádané reklamy, pokud vede k výdajům adresáta nebo pokud adresáta obtěžuje; na šíření reklamy elektronickými prostředky a jeho omezení se vztahuje zvláštní právní předpis,5a) za reklamu, která obtěžuje, se považuje reklama směřující ke konkrétnímu adresátovi za podmínky, že adresát dal předem jasně a srozumitelně najevo, že si nepřeje, aby vůči němu byla nevyžádaná reklama šířena.\n5a) § 7 zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).“.\n2. V § 7 písm. d) se za slova „v ostatních případech“ vkládají slova „, s výjimkou nevyžádané reklamy šířené elektronickými prostředky32a) podle zvláštního právního předpisu5a)“.\nPoznámka pod čarou č. 32a) zní:\n„32a) § 2 písm. c) zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).“."
     },
     {
-      "provision_ref": "§ 16",
-      "section": "Part 7",
-      "chapter": "Part Seven — Final Provisions",
-      "title": "Transitional provisions",
-      "content": "Proceedings commenced before the entry into force of this Act shall be concluded under the prior legal provisions."
-    },
-    {
-      "provision_ref": "§ 17",
-      "section": "Part 7",
-      "chapter": "Part Seven — Final Provisions",
-      "title": "Effectiveness",
-      "content": "This Act shall enter into force on 7 September 2004."
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST ŠESTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení.\n1) Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o určitých aspektech služeb informační společnosti, zejména elektronického obchodního styku v rámci vnitřního trhu.\nSměrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací.\n2) § 3 písm. f) a g) zákona č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace).\n3) § 420 a 421 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů.\n4) Nařízení Evropského parlamentu a Rady (EU) 2019/1150 ze dne 20. června 2019 o podpoře spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb.\n5) Zákon č. 110/2019 Sb., o zpracování osobních údajů.\n6) Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).\n7) Například zákon č. 254/2000 Sb., o auditorech, ve znění pozdějších předpisů, zákon č. 523/1992 Sb., o daňovém poradenství a Komoře daňových poradců České republiky, ve znění pozdějších předpisů, zákon č. 220/1991 Sb., o České lékařské komoře, České stomatologické komoře a České lékárnické komoře, zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů.\n9) § 2 odst. 2 zákona č. 280/2009 Sb., daňový řád.\n10) Zákon č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů."
     }
   ],
-  "definitions": [
-    {
-      "term": "Information society service",
-      "definition": "Any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of the recipient.",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "Commercial communication",
-      "definition": "All forms of communication designed to promote, directly or indirectly, goods, services, or the image of an enterprise or organisation.",
-      "source_provision": "§ 2"
-    }
-  ]
+  "definitions": []
 }

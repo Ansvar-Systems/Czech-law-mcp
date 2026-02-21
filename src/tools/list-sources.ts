@@ -44,15 +44,14 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Sbírka zákonů (Collection of Laws)',
+          name: 'e-Sbírka (Elektronická Sbírka zákonů)',
           authority: 'Ministry of the Interior of the Czech Republic',
-          url: 'https://www.www.zakonyprolidi.cz',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          url: 'https://www.e-sbirka.cz',
+          license: 'Government terms for official public legislation (e-Sbirka)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Selected Czech statutes (privacy, cybersecurity, communications, civil and criminal law) ' +
+            'ingested from official e-Sbirka consolidated text endpoints.',
+          languages: ['cs'],
         },
       ],
       database: {

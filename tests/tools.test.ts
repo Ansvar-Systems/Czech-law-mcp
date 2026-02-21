@@ -22,116 +22,106 @@ describe('Czech Law MCP Tools', () => {
     db.close();
   });
 
-  // ---------------------------------------------------------------------------
-  // list_sources
-  // ---------------------------------------------------------------------------
   describe('list_sources', () => {
-    it('should return source metadata and database stats', async () => {
+    it('returns source metadata and database stats', async () => {
       const result = await listSources(db);
       expect(result.results).toBeDefined();
       expect(result.results.database.document_count).toBe(10);
-      expect(result.results.database.provision_count).toBeGreaterThanOrEqual(200);
+      expect(result.results.database.provision_count).toBeGreaterThanOrEqual(4000);
       expect(result.results.database.tier).toBe('free');
     });
   });
 
-  // ---------------------------------------------------------------------------
-  // get_provision
-  // ---------------------------------------------------------------------------
   describe('get_provision', () => {
-    it('should retrieve GDPR Act § 1 by direct ID', async () => {
+    it('retrieves ZZOU § 1 by direct ID', async () => {
       const result = await getProvision(db, { document_id: 'cz:110/2019', provision_ref: '§ 1' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('Regulation (EU) 2016/679');
+      expect(result.results[0].content).toContain('Tento zákon zapracovává');
       expect(result.results[0].document_id).toBe('cz:110/2019');
     });
 
-    it('should retrieve Cybersecurity Act § 1 by short name', async () => {
-      const result = await getProvision(db, { document_id: 'Cybersecurity Act', provision_ref: '§ 1' });
+    it('retrieves ZKB § 1 by short name', async () => {
+      const result = await getProvision(db, { document_id: 'ZKB', provision_ref: '§ 1' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('cybersecurity');
+      expect(result.results[0].content).toContain('kybernetické bezpečnosti');
     });
 
-    it('should retrieve Criminal Code § 230 (unauthorised access)', async () => {
-      const result = await getProvision(db, { document_id: 'Criminal Code (Cybercrime)', provision_ref: '§ 230' });
+    it('retrieves trestní zákoník § 230', async () => {
+      const result = await getProvision(db, { document_id: 'cz:40/2009', provision_ref: '§ 230' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('unauthorised access');
-      expect(result.results[0].content).toContain('computer system');
+      expect(result.results[0].content).toContain('neoprávněně získá přístup');
+      expect(result.results[0].content).toContain('počítačovému systému');
     });
 
-    it('should retrieve Civil Code § 2985a (trade secret definition)', async () => {
-      const result = await getProvision(db, { document_id: 'Civil Code (Trade Secrets)', provision_ref: '§ 2985a' });
+    it('retrieves občanský zákoník § 2985', async () => {
+      const result = await getProvision(db, { document_id: 'OZ', provision_ref: '§ 2985' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('trade secret');
-      expect(result.results[0].content).toContain('Directive (EU) 2016/943');
+      expect(result.results[0].content).toContain('obchodní tajemství');
     });
 
-    it('should retrieve Electronic Communications Act § 14 (confidentiality)', async () => {
-      const result = await getProvision(db, { document_id: 'Electronic Communications Act', provision_ref: '§ 14' });
+    it('retrieves ZEK § 89', async () => {
+      const result = await getProvision(db, { document_id: 'ZEK', provision_ref: '§ 89' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('confidentiality');
+      expect(result.results[0].content).toContain('důvěrnost zpráv');
     });
 
-    it('should retrieve Trust Services Act § 3 (electronic signatures)', async () => {
-      const result = await getProvision(db, { document_id: 'Trust Services Act', provision_ref: '§ 3' });
+    it('retrieves ZSVD § 3', async () => {
+      const result = await getProvision(db, { document_id: 'ZSVD', provision_ref: '§ 3' });
       expect(result.results.length).toBe(1);
-      expect(result.results[0].content).toContain('electronic signature');
+      expect(result.results[0].content).toContain('Kvalifikovaný poskytovatel');
     });
 
-    it('should retrieve all provisions for a document when no ref given', async () => {
+    it('returns all provisions for a document when no ref is provided', async () => {
       const result = await getProvision(db, { document_id: 'cz:110/2019' });
-      expect(result.results.length).toBe(25);
+      expect(result.results.length).toBeGreaterThanOrEqual(60);
     });
 
-    it('should return empty for non-existent law', async () => {
+    it('returns empty for non-existent law', async () => {
       const result = await getProvision(db, { document_id: 'Zákon č. 999/2099', provision_ref: '§ 1' });
       expect(result.results).toHaveLength(0);
     });
 
-    it('should return empty for non-existent provision', async () => {
+    it('returns empty for non-existent provision', async () => {
       const result = await getProvision(db, { document_id: 'cz:110/2019', provision_ref: '§ 999' });
       expect(result.results).toHaveLength(0);
     });
   });
 
-  // ---------------------------------------------------------------------------
-  // search_legislation
-  // ---------------------------------------------------------------------------
   describe('search_legislation', () => {
-    it('should find provisions matching "personal data"', async () => {
-      const result = await searchLegislation(db, { query: 'personal data' });
+    it('finds provisions matching "osobních údajů"', async () => {
+      const result = await searchLegislation(db, { query: 'osobních údajů' });
       expect(result.results.length).toBeGreaterThan(0);
       const allText = result.results.map(r => `${r.snippet} ${r.title}`).join(' ');
-      expect(allText.toLowerCase()).toContain('personal data');
+      expect(allText.toLowerCase()).toContain('osobních');
     });
 
-    it('should find provisions matching "cybersecurity incident"', async () => {
-      const result = await searchLegislation(db, { query: 'cybersecurity incident' });
+    it('finds provisions matching "bezpečnostní incident"', async () => {
+      const result = await searchLegislation(db, { query: 'bezpečnostní incident' });
       expect(result.results.length).toBeGreaterThan(0);
     });
 
-    it('should find provisions matching "electronic signature"', async () => {
-      const result = await searchLegislation(db, { query: 'electronic signature' });
+    it('finds provisions matching "elektronických komunikací"', async () => {
+      const result = await searchLegislation(db, { query: 'elektronických komunikací' });
       expect(result.results.length).toBeGreaterThan(0);
     });
 
-    it('should find provisions matching "trade secret"', async () => {
-      const result = await searchLegislation(db, { query: 'trade secret' });
+    it('finds provisions matching "obchodní tajemství"', async () => {
+      const result = await searchLegislation(db, { query: 'obchodní tajemství' });
       expect(result.results.length).toBeGreaterThan(0);
     });
 
-    it('should find provisions matching "critical infrastructure"', async () => {
-      const result = await searchLegislation(db, { query: 'critical infrastructure' });
+    it('finds provisions matching "počítačovému systému"', async () => {
+      const result = await searchLegislation(db, { query: 'počítačovému systému' });
       expect(result.results.length).toBeGreaterThan(0);
     });
 
-    it('should return empty for gibberish query', async () => {
+    it('returns empty for gibberish query', async () => {
       const result = await searchLegislation(db, { query: 'xyzzyplugh99' });
       expect(result.results).toHaveLength(0);
     });
 
-    it('should respect limit parameter', async () => {
-      const result = await searchLegislation(db, { query: 'security', limit: 3 });
+    it('respects limit parameter', async () => {
+      const result = await searchLegislation(db, { query: 'zákon', limit: 3 });
       expect(result.results.length).toBeLessThanOrEqual(3);
     });
   });

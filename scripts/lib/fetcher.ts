@@ -1,52 +1,78 @@
 /**
- * Rate-limited HTTP client for Czech legislation from the Sejm ELI API.
+ * e-Sbirka API fetcher with strict rate limiting.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
+ * Official source:
+ *   https://www.e-sbirka.cz/sbr-externi
  *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * Used endpoints:
+ *   GET /dokumenty-sbirky/{staleUrl}
+ *   GET /dokumenty-sbirky/{staleUrl}/fragmenty?cisloStranky={N}
  */
 
-const USER_AGENT = 'Czech-Law-MCP/1.0 (https://github.com/Ansvar-Systems/czech-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+export interface EsbirkaError {
+  kod: string;
+  popis: string;
+  datumCasChyby?: string;
+}
 
-let lastRequestTime = 0;
+export interface DocumentDetailResponse {
+  staleUrl: string;
+  kodDokumentuSbirky: string;
+  uplnaCitace: string;
+  zkracenaCitace: string;
+  nazev: string;
+  datumCasVyhlaseni?: string;
+  datumUcinnostiOd?: string;
+  datumUcinnostiZneniOd?: string;
+  typZneni?: string;
+  sbirkaKod?: string;
+  dokumentBaseId?: number;
+  chyby?: EsbirkaError[];
+}
 
-async function rateLimit(): Promise<void> {
+export interface FragmentRecord {
+  id: number;
+  eli?: string;
+  staleUrl?: string;
+  kodTypuFragmentu: string;
+  hloubka?: number;
+  xhtml?: string;
+  jeUcinny?: boolean;
+}
+
+export interface FragmentPageResponse {
+  seznam: FragmentRecord[];
+  pocetStranek: number;
+  chyby?: EsbirkaError[];
+}
+
+const BASE_URL = 'https://www.e-sbirka.cz/sbr-externi';
+const USER_AGENT = 'Ansvar-Law-MCP/1.0 (official-esbirka-ingestion)';
+const MIN_DELAY_MS = 1200;
+
+let lastRequestAt = 0;
+
+function sleep(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function waitForRateLimit(): Promise<void> {
   const now = Date.now();
-  const elapsed = now - lastRequestTime;
+  const elapsed = now - lastRequestAt;
   if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
+    await sleep(MIN_DELAY_MS - elapsed);
   }
-  lastRequestTime = Date.now();
+  lastRequestAt = Date.now();
 }
 
-export interface FetchResult {
-  status: number;
-  body: string;
-  contentType: string;
-  url: string;
-}
+async function fetchText(url: string, maxRetries = 3): Promise<string> {
+  await waitForRateLimit();
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
-
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+  for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
     const response = await fetch(url, {
       headers: {
+        Accept: 'application/json',
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
       },
       redirect: 'follow',
     });
@@ -54,20 +80,69 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
     if (response.status === 429 || response.status >= 500) {
       if (attempt < maxRetries) {
         const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
+        await sleep(backoff);
         continue;
       }
     }
 
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
+    if (!response.ok) {
+      const body = await response.text();
+      throw new Error(`HTTP ${response.status} for ${url}: ${body.slice(0, 240)}`);
+    }
+
+    return response.text();
   }
 
   throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
 }
+
+async function fetchJson<T>(url: string): Promise<T> {
+  const body = await fetchText(url);
+  try {
+    return JSON.parse(body) as T;
+  } catch (error) {
+    throw new Error(`Invalid JSON from ${url}: ${String(error)}; body=${body.slice(0, 240)}`);
+  }
+}
+
+function throwIfEsbirkaError<T extends { chyby?: EsbirkaError[] }>(url: string, payload: T): T {
+  if (payload.chyby && payload.chyby.length > 0) {
+    const first = payload.chyby[0];
+    throw new Error(`${first.kod}: ${first.popis} (${url})`);
+  }
+  return payload;
+}
+
+function encodeStaleUrl(staleUrl: string): string {
+  return encodeURIComponent(staleUrl);
+}
+
+export async function fetchDocumentDetail(
+  staleUrl: string,
+  predmetneDatum?: string,
+): Promise<DocumentDetailResponse> {
+  const query = predmetneDatum ? `?predmetneDatum=${encodeURIComponent(predmetneDatum)}` : '';
+  const url = `${BASE_URL}/dokumenty-sbirky/${encodeStaleUrl(staleUrl)}${query}`;
+  const json = await fetchJson<DocumentDetailResponse>(url);
+  return throwIfEsbirkaError(url, json);
+}
+
+export async function fetchFragmentsPage(staleUrl: string, page: number): Promise<FragmentPageResponse> {
+  const url = `${BASE_URL}/dokumenty-sbirky/${encodeStaleUrl(staleUrl)}/fragmenty?cisloStranky=${page}`;
+  const json = await fetchJson<FragmentPageResponse>(url);
+  return throwIfEsbirkaError(url, json);
+}
+
+export async function fetchAllFragments(staleUrl: string): Promise<FragmentRecord[]> {
+  const firstPage = await fetchFragmentsPage(staleUrl, 0);
+  const totalPages = Number(firstPage.pocetStranek ?? 1);
+  const all = [...firstPage.seznam];
+
+  for (let page = 1; page < totalPages; page += 1) {
+    const next = await fetchFragmentsPage(staleUrl, page);
+    all.push(...next.seznam);
+  }
+
+  return all;
+}
+

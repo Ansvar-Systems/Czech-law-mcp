@@ -1,40 +1,15 @@
-/**
- * HTML parser for Czech legislation from the Sejm ELI API (api.sejm.gov.pl).
- *
- * Parses the structured HTML served by the ELI text endpoint into seed JSON.
- * The HTML structure uses:
- *
- * - <div class="unit unit_chpt" id="chpt_N"> for chapters (Rozdział)
- * - <div class="unit unit_arti" id="chpt_N-arti_M"> for articles (Art.)
- * - <h3> inside articles for article number (Art. N.)
- * - <div class="unit unit_pass"> for numbered paragraphs (ustępy)
- * - <div class="unit unit_pint"> for numbered points (punkty)
- * - <div data-template="xText" class="pro-text"> for text content
- *
- * Czech legislation references: Dz.U. YYYY poz. NNNN
- * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
+import type { DocumentDetailResponse, FragmentRecord } from './fetcher.js';
 
-export interface ActIndexEntry {
+export interface TargetLaw {
   id: string;
-  title: string;
-  titleEn: string;
+  staleUrl: string;
+  seedFile: string;
   shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  /** ISAP display address, e.g. "Dz.U. 2018 poz. 1000" */
-  dziennikRef: string;
-  /** Year of publication in Dziennik Ustaw */
-  year: number;
-  /** Position number (poz.) in Dziennik Ustaw */
-  poz: number;
-  /** Human-readable URL on ISAP */
-  url: string;
-  description?: string;
+  titleEn: string;
+  description: string;
 }
 
-export interface ParsedProvision {
+export interface SeedProvision {
   provision_ref: string;
   chapter?: string;
   section: string;
@@ -42,407 +17,351 @@ export interface ParsedProvision {
   content: string;
 }
 
-export interface ParsedDefinition {
+export interface SeedDefinition {
   term: string;
   definition: string;
-  source_provision?: string;
+  source_provision: string;
 }
 
-export interface ParsedAct {
+export interface ParsedLawSeed {
   id: string;
   type: 'statute';
   title: string;
   title_en: string;
   short_name: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issued_date: string;
-  in_force_date: string;
+  status: 'in_force';
+  issued_date?: string;
+  in_force_date?: string;
   url: string;
-  description?: string;
-  provisions: ParsedProvision[];
-  definitions: ParsedDefinition[];
+  description: string;
+  provisions: SeedProvision[];
+  definitions: SeedDefinition[];
 }
 
-/**
- * Strip HTML tags and decode common entities, normalising whitespace.
- */
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&shy;/g, '')
-    .replace(/\u00a0/g, ' ')
-    .replace(/\s+/g, ' ')
+interface WorkingProvision {
+  provision_ref: string;
+  section: string;
+  title: string;
+  chapter?: string;
+  contentParts: string[];
+}
+
+const STRUCTURAL_LEVELS: Record<string, number> = {
+  Kniha: 0,
+  Cast: 1,
+  Hlava: 2,
+  Dil: 3,
+  Oddil: 4,
+  Pododdil: 5,
+};
+
+const IGNORED_TYPES = new Set<string>([
+  'Prefix',
+  'Postfix',
+  'Novela',
+  'Virtual_Document',
+  'Virtual_Prefix',
+  'Virtual_Postfix',
+  'Virtual_Norma',
+  'Virtual_Novela',
+]);
+
+const TARGET_CZECH_LAWS: TargetLaw[] = [
+  {
+    id: 'cz:106/1999',
+    staleUrl: '/sb/1999/106',
+    seedFile: 'zakon-106-1999.json',
+    shortName: 'InfZ',
+    titleEn: 'Act on Free Access to Information',
+    description: 'Regulates the right of public access to information held by public authorities.',
+  },
+  {
+    id: 'cz:110/2019',
+    staleUrl: '/sb/2019/110',
+    seedFile: 'zakon-110-2019.json',
+    shortName: 'ZZOU',
+    titleEn: 'Act on Processing of Personal Data',
+    description: 'Implements Czech national rules for personal data processing and supervision.',
+  },
+  {
+    id: 'cz:127/2005',
+    staleUrl: '/sb/2005/127',
+    seedFile: 'zakon-127-2005.json',
+    shortName: 'ZEK',
+    titleEn: 'Electronic Communications Act',
+    description: 'Sets out legal obligations for electronic communications networks and services.',
+  },
+  {
+    id: 'cz:181/2014',
+    staleUrl: '/sb/2014/181',
+    seedFile: 'zakon-181-2014.json',
+    shortName: 'ZKB',
+    titleEn: 'Cybersecurity Act',
+    description: 'Defines cybersecurity obligations, incident handling, and public authority powers.',
+  },
+  {
+    id: 'cz:240/2000',
+    staleUrl: '/sb/2000/240',
+    seedFile: 'zakon-240-2000.json',
+    shortName: 'Krizovy zakon',
+    titleEn: 'Crisis Management Act',
+    description: 'Regulates crisis preparedness and crisis management powers in the Czech Republic.',
+  },
+  {
+    id: 'cz:297/2016',
+    staleUrl: '/sb/2016/297',
+    seedFile: 'zakon-297-2016.json',
+    shortName: 'ZSVD',
+    titleEn: 'Trust Services for Electronic Transactions Act',
+    description: 'Regulates trust services and electronic identification for digital transactions.',
+  },
+  {
+    id: 'cz:365/2000',
+    staleUrl: '/sb/2000/365',
+    seedFile: 'zakon-365-2000.json',
+    shortName: 'ISVS',
+    titleEn: 'Act on Public Administration Information Systems',
+    description: 'Defines legal requirements for information systems used by public administration.',
+  },
+  {
+    id: 'cz:40/2009',
+    staleUrl: '/sb/2009/40',
+    seedFile: 'zakon-40-2009.json',
+    shortName: 'TZ',
+    titleEn: 'Criminal Code',
+    description: 'Codifies criminal offenses and penalties, including computer-related crimes.',
+  },
+  {
+    id: 'cz:480/2004',
+    staleUrl: '/sb/2004/480',
+    seedFile: 'zakon-480-2004.json',
+    shortName: 'ZSIS',
+    titleEn: 'Act on Certain Information Society Services',
+    description: 'Regulates selected legal duties for information society service providers.',
+  },
+  {
+    id: 'cz:89/2012',
+    staleUrl: '/sb/2012/89',
+    seedFile: 'zakon-89-2012.json',
+    shortName: 'OZ',
+    titleEn: 'Civil Code',
+    description: 'Core private law code governing civil law relationships and obligations.',
+  },
+];
+
+const BASIC_ENTITIES: Record<string, string> = {
+  '&nbsp;': ' ',
+  '&amp;': '&',
+  '&lt;': '<',
+  '&gt;': '>',
+  '&quot;': '"',
+  '&#39;': "'",
+  '&apos;': "'",
+  '&ndash;': '–',
+  '&mdash;': '—',
+};
+
+function decodeHtmlEntities(input: string): string {
+  let out = input;
+
+  for (const [entity, value] of Object.entries(BASIC_ENTITIES)) {
+    out = out.split(entity).join(value);
+  }
+
+  out = out.replace(/&#(\d+);/g, (_m, n: string) => String.fromCodePoint(Number(n)));
+  out = out.replace(/&#x([0-9a-fA-F]+);/g, (_m, hex: string) => String.fromCodePoint(Number.parseInt(hex, 16)));
+
+  return out;
+}
+
+export function xhtmlToText(xhtml: string | undefined): string {
+  if (!xhtml) return '';
+
+  const withBreaks = xhtml
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/(p|div|li|tr|ul|ol|table|tbody|thead|tfoot)>/gi, '\n');
+
+  const stripped = withBreaks.replace(/<[^>]+>/g, '');
+  const decoded = decodeHtmlEntities(stripped);
+
+  return decoded
+    .replace(/\r/g, '')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n[ \t]+/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/[ \t]{2,}/g, ' ')
     .trim();
 }
 
-/**
- * Find the chapter heading (Rozdział) for a given article position.
- * Searches backwards from the article position for the nearest chapter div.
- */
-function findChapterHeading(html: string, articlePos: number): string | undefined {
-  const beforeArticle = html.substring(Math.max(0, articlePos - 10000), articlePos);
-
-  // Look for the last chapter heading: Rozdział N ... Title
-  // Pattern in ISAP HTML: <div class="unit unit_chpt"...> <h3> Rozdział N ... Title </h3>
-  const chapterMatches = [
-    ...beforeArticle.matchAll(/Rozdzia[łl]\s*&nbsp;\s*(\d+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (chapterMatches.length > 0) {
-    const last = chapterMatches[chapterMatches.length - 1];
-    const chapterNum = last[1].trim();
-    // Try to find the title in subsequent <P> or <SPAN> tags
-    const afterChapter = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterChapter.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Rozdział ${chapterNum} - ${title}`
-      : `Rozdział ${chapterNum}`;
-  }
-
-  // Also check for Dział (Division) used in larger codes
-  const dzialMatches = [
-    ...beforeArticle.matchAll(/Dzia[łl]\s*&nbsp;\s*([IVXLCDM]+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (dzialMatches.length > 0) {
-    const last = dzialMatches[dzialMatches.length - 1];
-    const dzialNum = last[1].trim();
-    const afterDzial = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterDzial.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Dział ${dzialNum} - ${title}`
-      : `Dział ${dzialNum}`;
-  }
-
-  return undefined;
+function extractSectionNumber(provisionRef: string): string | null {
+  const match = provisionRef.match(/^§\s*([0-9]+[a-z]?)/i);
+  return match ? match[1] : null;
 }
 
-/**
- * Parse HTML from the Sejm ELI API (api.sejm.gov.pl/eli/acts/DU/YYYY/POZ/text.html)
- * to extract provisions from a Czech statute.
- *
- * The HTML uses div-based structure:
- *   <div class="unit unit_arti" id="chpt_N-arti_M" data-id="arti_M">
- *     <h3><B>Art. M.</B></h3>
- *     <div class="unit-inner">
- *       <div class="unit unit_pass">
- *         <h3>1.</h3>
- *         <div class="unit-inner">
- *           <div data-template="xText">...content...</div>
- *         </div>
- *       </div>
- *     </div>
- *   </div>
- */
-export function parseCzechHtml(html: string, act: ActIndexEntry): ParsedAct {
-  const provisions: ParsedProvision[] = [];
-  const definitions: ParsedDefinition[] = [];
+function toIsoDate(value?: string): string | undefined {
+  if (!value) return undefined;
+  const datePart = value.split('T')[0];
+  return /^\d{4}-\d{2}-\d{2}$/.test(datePart) ? datePart : undefined;
+}
 
-  // Match all article divs: <div class="unit unit_arti ..." id="...-arti_N" data-id="arti_N">
-  const articleRegex = /<div[^>]*class="unit unit_arti[^"]*"[^>]*id="([^"]*-)?arti_(\d+[a-z_]*)"[^>]*data-id="arti_(\d+[a-z_]*)"[^>]*>/gi;
-  const articleStarts: { fullId: string; artNum: string; pos: number }[] = [];
+function isStructuralType(type: string): boolean {
+  return Object.prototype.hasOwnProperty.call(STRUCTURAL_LEVELS, type);
+}
 
-  let match: RegExpExecArray | null;
-  while ((match = articleRegex.exec(html)) !== null) {
-    // Skip nested articles inside amendment provisions (chpt_12-arti_111-arti_22_2 etc.)
-    const fullId = match[0];
-    const idAttr = fullId.match(/id="([^"]+)"/)?.[1] ?? '';
-    // Count how many "arti_" segments appear in the ID
-    const artiSegments = (idAttr.match(/arti_/g) ?? []).length;
-    if (artiSegments > 1) continue;
+function shouldIgnore(type: string): boolean {
+  return IGNORED_TYPES.has(type) || type.startsWith('Virtual_') || type.startsWith('Prefix_') || type.startsWith('Postfix_');
+}
 
-    articleStarts.push({
-      fullId: idAttr,
-      artNum: match[3],
-      pos: match.index,
-    });
-  }
+function extractDefinitions(provisions: SeedProvision[]): SeedDefinition[] {
+  const out: SeedDefinition[] = [];
+  const seen = new Set<string>();
 
-  for (let i = 0; i < articleStarts.length; i++) {
-    const article = articleStarts[i];
-    const startPos = article.pos;
+  for (const provision of provisions) {
+    const content = provision.content;
+    const lower = content.toLowerCase();
 
-    // Extract content up to next article or end
-    const endPos = i + 1 < articleStarts.length
-      ? articleStarts[i + 1].pos
-      : html.length;
-    const articleHtml = html.substring(startPos, endPos);
-
-    // Extract article number from <h3><B>Art. N.</B></h3> or <h3><B>Art. N<sup>...</B></h3>
-    const artHeadingMatch = articleHtml.match(
-      /<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*(\d+[a-z]*)\b/i
-    );
-
-    const artNum = artHeadingMatch
-      ? artHeadingMatch[1].trim()
-      : article.artNum.replace(/_/g, '');
-
-    // Normalize: remove underscores from article numbers like "22_2"
-    const normalizedNum = artNum.replace(/_/g, '');
-    const provisionRef = `art${normalizedNum}`;
-
-    // Find chapter heading
-    const chapter = findChapterHeading(html, startPos);
-
-    // Extract text content, stripping HTML
-    // Remove the article heading to avoid duplication
-    const contentHtml = articleHtml
-      .replace(/<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*\d+[a-z]*\.?\s*<\/B>\s*<\/h3>/i, '');
-    let content = stripHtml(contentHtml);
-
-    // Skip very short articles (likely just structural markers)
-    if (content.length < 5) continue;
-
-    // Cap content at 12K characters
-    if (content.length > 12000) {
-      content = content.substring(0, 12000);
+    if (!lower.includes('se rozumí') && !lower.includes('znamená')) {
+      continue;
     }
 
-    // Build a title from the first sentence or paragraph if meaningful
-    const title = `Art. ${normalizedNum}`;
-
-    provisions.push({
-      provision_ref: provisionRef,
-      chapter,
-      section: normalizedNum,
-      title,
-      content,
-    });
-
-    // Extract definitions from definition articles
-    // Czech acts use "ilekroć mowa" (whenever mentioned), "rozumie się przez to"
-    // (this is understood as), or "oznacza" (means)
-    if (
-      content.includes('ilekro') ||
-      content.includes('rozumie si') ||
-      content.includes('oznacza') ||
-      content.includes('nale') && content.includes('rozumie')
-    ) {
-      extractDefinitions(content, provisionRef, definitions);
+    const quotedMatches = content.matchAll(/[„"]([^„“"]{2,120})[“"]\s*(?:se\s+)?(?:rozumí|znamená)\s+([^.;\n]{5,260})/gimu);
+    for (const match of quotedMatches) {
+      const term = match[1].trim();
+      const definition = match[2].trim();
+      const key = `${term}::${provision.provision_ref}`;
+      if (!seen.has(key)) {
+        seen.add(key);
+        out.push({ term, definition, source_provision: provision.provision_ref });
+      }
     }
   }
+
+  return out.slice(0, 100);
+}
+
+export function parseLawSeed(
+  targetLaw: TargetLaw,
+  detail: DocumentDetailResponse,
+  fragments: FragmentRecord[],
+): ParsedLawSeed {
+  const provisions: SeedProvision[] = [];
+  const hierarchy: string[] = [];
+
+  let current: WorkingProvision | null = null;
+  let previousType = '';
+  let previousStructuralLevel: number | null = null;
+
+  const finalizeCurrent = (): void => {
+    if (!current) return;
+    const content = current.contentParts.join('\n').trim();
+    if (content.length > 0) {
+      provisions.push({
+        provision_ref: current.provision_ref,
+        section: current.section,
+        title: current.title,
+        chapter: current.chapter,
+        content,
+      });
+    }
+    current = null;
+  };
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) {
+      continue;
+    }
+
+    const type = fragment.kodTypuFragmentu;
+    const text = xhtmlToText(fragment.xhtml);
+
+    if (isStructuralType(type)) {
+      finalizeCurrent();
+      previousStructuralLevel = STRUCTURAL_LEVELS[type];
+      if (text.length > 0) {
+        hierarchy[previousStructuralLevel] = text;
+        hierarchy.length = previousStructuralLevel + 1;
+      }
+      previousType = type;
+      continue;
+    }
+
+    if (type === 'Nadpis_pod' && previousType !== 'Paragraf' && previousStructuralLevel !== null) {
+      if (text.length > 0) {
+        const currentLevelHeading = hierarchy[previousStructuralLevel] ?? '';
+        hierarchy[previousStructuralLevel] = currentLevelHeading
+          ? `${currentLevelHeading} - ${text}`
+          : text;
+      }
+      previousType = type;
+      continue;
+    }
+
+    if (type === 'Paragraf') {
+      finalizeCurrent();
+
+      const provisionRef = text.replace(/\s+/g, ' ').trim();
+      const section = extractSectionNumber(provisionRef);
+      if (!section) {
+        previousType = type;
+        continue;
+      }
+
+      current = {
+        provision_ref: provisionRef,
+        section,
+        title: provisionRef,
+        chapter: hierarchy.filter(Boolean).join(' > ') || undefined,
+        contentParts: [],
+      };
+      previousType = type;
+      continue;
+    }
+
+    if (!current) {
+      previousType = type;
+      continue;
+    }
+
+    if (type === 'Nadpis_pod' && previousType === 'Paragraf') {
+      if (text.length > 0) {
+        current.title = `${current.provision_ref} ${text}`;
+      }
+      previousType = type;
+      continue;
+    }
+
+    if (shouldIgnore(type) || isStructuralType(type) || type === 'Paragraf') {
+      previousType = type;
+      continue;
+    }
+
+    if (text.length > 0) {
+      current.contentParts.push(text);
+    }
+
+    previousType = type;
+  }
+
+  finalizeCurrent();
+
+  const definitions = extractDefinitions(provisions);
+  const url = detail.staleUrl ? `https://www.e-sbirka.cz${detail.staleUrl}` : `https://www.e-sbirka.cz${targetLaw.staleUrl}`;
 
   return {
-    id: act.id,
+    id: targetLaw.id,
     type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: act.description,
+    title: detail.uplnaCitace || detail.nazev,
+    title_en: targetLaw.titleEn,
+    short_name: targetLaw.shortName,
+    status: 'in_force',
+    issued_date: toIsoDate(detail.datumCasVyhlaseni),
+    in_force_date: toIsoDate(detail.datumUcinnostiOd) ?? toIsoDate(detail.datumUcinnostiZneniOd),
+    url,
+    description: targetLaw.description,
     provisions,
     definitions,
   };
 }
 
-/**
- * Extract definitions from Czech legal text.
- *
- * Czech definitions typically use patterns like:
- *   - "«term» – oznacza ..." ("term" – means ...)
- *   - "N) term – ..." (numbered list of definitions)
- *   - "ilekroć ... mowa o «term» – rozumie się przez to ..."
- */
-function extractDefinitions(
-  text: string,
-  sourceProvision: string,
-  definitions: ParsedDefinition[],
-): void {
-  // Pattern: numbered definitions like "1) term - definition;"
-  const numberedDefRegex = /\d+\)\s+([^–\-]+?)\s+[–\-]\s+(.*?)(?=;\s*\d+\)|$)/g;
-  let defMatch: RegExpExecArray | null;
+export const TARGET_LAWS = TARGET_CZECH_LAWS;
 
-  while ((defMatch = numberedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/;$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-
-  // Pattern: «quoted term» – definition
-  const quotedDefRegex = /[„«\u201e]([^"»\u201d]+)["\u201d»]\s*[–\-]\s*(.*?)(?=[;.]\s*[„«\u201e]|[;.]\s*$)/g;
-  while ((defMatch = quotedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/[;.]$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-}
-
-/**
- * Pre-configured list of key Czech Acts to ingest.
- *
- * Source: api.sejm.gov.pl (Sejm ELI API)
- * URL pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * These are the most important Czech statutes for cybersecurity, data protection,
- * and compliance use cases. References use the Dziennik Ustaw (Journal of Laws)
- * format: Dz.U. YYYY poz. NNNN.
- */
-export const KEY_CZECH_ACTS: ActIndexEntry[] = [
-  {
-    id: 'dpa-2018',
-    title: 'Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych',
-    titleEn: 'Personal Data Protection Act 2018',
-    shortName: 'UODO 2018',
-    status: 'in_force',
-    issuedDate: '2018-05-10',
-    inForceDate: '2018-05-25',
-    dziennikRef: 'Dz.U. 2018 poz. 1000',
-    year: 2018,
-    poz: 1000,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000',
-    description: 'GDPR implementing provisions (RODO); establishes UODO (Urząd Ochrony Danych Osobowych) as the supervisory authority; covers certification, codes of conduct, and administrative penalties',
-  },
-  {
-    id: 'ksc-2018',
-    title: 'Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa',
-    titleEn: 'National Cybersecurity System Act 2018 (KSC)',
-    shortName: 'KSC',
-    status: 'in_force',
-    issuedDate: '2018-07-05',
-    inForceDate: '2018-08-28',
-    dziennikRef: 'Dz.U. 2018 poz. 1560',
-    year: 2018,
-    poz: 1560,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560',
-    description: 'NIS Directive implementation; establishes national cybersecurity system with CSIRT teams (CSIRT NASK, CSIRT GOV, CSIRT MON); covers essential services operators and digital service providers',
-  },
-  {
-    id: 'ksh-2000',
-    title: 'Ustawa z dnia 15 września 2000 r. - Kodeks spółek handlowych',
-    titleEn: 'Commercial Companies Code (KSH)',
-    shortName: 'KSH',
-    status: 'in_force',
-    issuedDate: '2000-09-15',
-    inForceDate: '2001-01-01',
-    dziennikRef: 'Dz.U. 2000 nr 94 poz. 1037',
-    year: 2000,
-    poz: 1037,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037',
-    description: 'Comprehensive commercial companies law governing partnerships (spółka jawna, komandytowa, etc.) and capital companies (sp. z o.o. and S.A.); corporate governance requirements',
-  },
-  {
-    id: 'kodeks-karny-1997',
-    title: 'Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny',
-    titleEn: 'Criminal Code (Kodeks karny)',
-    shortName: 'KK',
-    status: 'in_force',
-    issuedDate: '1997-06-06',
-    inForceDate: '1998-09-01',
-    dziennikRef: 'Dz.U. 1997 nr 88 poz. 553',
-    year: 1997,
-    poz: 553,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553',
-    description: 'Criminal Code; cybercrime provisions in Art. 267 (unauthorized access), Art. 268 (data destruction), Art. 268a (computer sabotage), Art. 269 (sabotage of critical systems), Art. 269a (DoS), Art. 269b (hacking tools)',
-  },
-  {
-    id: 'e-services-2002',
-    title: 'Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną',
-    titleEn: 'Act on Provision of Electronic Services',
-    shortName: 'E-Services Act',
-    status: 'in_force',
-    issuedDate: '2002-07-18',
-    inForceDate: '2002-10-10',
-    dziennikRef: 'Dz.U. 2002 nr 144 poz. 1204',
-    year: 2002,
-    poz: 1204,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204',
-    description: 'E-Commerce Directive implementation; regulates electronic services, ISP liability, spam prohibition, electronic contracts',
-  },
-  {
-    id: 'telecom-2004',
-    title: 'Ustawa z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne',
-    titleEn: 'Telecommunications Law',
-    shortName: 'PT',
-    status: 'in_force',
-    issuedDate: '2004-07-16',
-    inForceDate: '2004-09-03',
-    dziennikRef: 'Dz.U. 2004 nr 171 poz. 1800',
-    year: 2004,
-    poz: 1800,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041711800',
-    description: 'Telecommunications regulation; data retention, communications security, network integrity obligations, UKE (Office of Electronic Communications) authority',
-  },
-  {
-    id: 'constitution-1997',
-    title: 'Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.',
-    titleEn: 'Constitution of the Republic of Poland',
-    shortName: 'Konstytucja RP',
-    status: 'in_force',
-    issuedDate: '1997-04-02',
-    inForceDate: '1997-10-17',
-    dziennikRef: 'Dz.U. 1997 nr 78 poz. 483',
-    year: 1997,
-    poz: 483,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483',
-    description: 'Supreme law; Art. 47 (privacy), Art. 49 (communication secrecy), Art. 51 (personal data protection), Art. 54 (freedom of expression)',
-  },
-  {
-    id: 'kodeks-cywilny-1964',
-    title: 'Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny',
-    titleEn: 'Civil Code (Kodeks cywilny)',
-    shortName: 'KC',
-    status: 'in_force',
-    issuedDate: '1964-04-23',
-    inForceDate: '1965-01-01',
-    dziennikRef: 'Dz.U. 1964 nr 16 poz. 93',
-    year: 1964,
-    poz: 93,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093',
-    description: 'Core private law; personality rights protection (Art. 23-24), contract law, liability for damages, electronic declarations of intent',
-  },
-  {
-    id: 'banking-law-1997',
-    title: 'Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe',
-    titleEn: 'Banking Law',
-    shortName: 'PB',
-    status: 'in_force',
-    issuedDate: '1997-08-29',
-    inForceDate: '1998-01-01',
-    dziennikRef: 'Dz.U. 1997 nr 140 poz. 939',
-    year: 1997,
-    poz: 939,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939',
-    description: 'Banking regulation; banking secrecy obligations, outsourcing of banking activities, IT security requirements for banks, cloud computing provisions',
-  },
-  {
-    id: 'kpa-1960',
-    title: 'Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego',
-    titleEn: 'Code of Administrative Procedure (KPA)',
-    shortName: 'KPA',
-    status: 'in_force',
-    issuedDate: '1960-06-14',
-    inForceDate: '1961-01-01',
-    dziennikRef: 'Dz.U. 1960 nr 30 poz. 168',
-    year: 1960,
-    poz: 168,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168',
-    description: 'Administrative procedure code; governs proceedings before UODO (data protection authority), UKE, and other regulators; electronic administration provisions',
-  },
-];

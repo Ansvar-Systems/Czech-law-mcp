@@ -1,30 +1,23 @@
 #!/usr/bin/env tsx
 /**
- * Czech Law MCP -- Ingestion Pipeline
- *
- * Fetches Czech legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Czech Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
+ * Czech Law MCP real ingestion from official e-Sbirka API.
  *
  * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Czech legislation is public domain under Art. 4 of the Copyright Act
+ *   npm run ingest
+ *   npm run ingest -- --limit 3
+ *   npm run ingest -- --skip-fetch
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseCzechHtml, KEY_CZECH_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import {
+  fetchAllFragments,
+  fetchDocumentDetail,
+  type DocumentDetailResponse,
+  type FragmentRecord,
+} from './lib/fetcher.js';
+import { parseLawSeed, TARGET_LAWS, type TargetLaw } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,19 +25,31 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+interface Args {
+  limit: number | null;
+  skipFetch: boolean;
+}
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface CachedPayload {
+  law_id: string;
+  stale_url: string;
+  fetched_at: string;
+  detail: DocumentDetailResponse;
+  fragments: FragmentRecord[];
+}
+
+function parseArgs(): Args {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
-  for (let i = 0; i < args.length; i++) {
+  for (let i = 0; i < args.length; i += 1) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
+      limit = Number.parseInt(args[i + 1], 10);
+      i += 1;
+      continue;
+    }
+    if (args[i] === '--skip-fetch') {
       skipFetch = true;
     }
   }
@@ -52,135 +57,153 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+function cachePathForLaw(law: TargetLaw): string {
+  const base = law.seedFile.replace(/\.json$/i, '');
+  return path.join(SOURCE_DIR, `${base}.source.json`);
 }
 
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Czech Acts from api.sejm.gov.pl...\n`);
-
+function ensureDirs(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+function clearExistingSeedFiles(): void {
+  if (!fs.existsSync(SEED_DIR)) return;
+  const entries = fs.readdirSync(SEED_DIR).filter(name => name.endsWith('.json'));
+  for (const entry of entries) {
+    fs.unlinkSync(path.join(SEED_DIR, entry));
+  }
+}
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+function saveCache(law: TargetLaw, detail: DocumentDetailResponse, fragments: FragmentRecord[]): void {
+  const payload: CachedPayload = {
+    law_id: law.id,
+    stale_url: law.staleUrl,
+    fetched_at: new Date().toISOString(),
+    detail,
+    fragments,
+  };
+  fs.writeFileSync(cachePathForLaw(law), JSON.stringify(payload, null, 2));
+}
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
+function loadCache(law: TargetLaw): CachedPayload | null {
+  const cachePath = cachePathForLaw(law);
+  if (!fs.existsSync(cachePath)) return null;
+  const raw = fs.readFileSync(cachePath, 'utf8');
+  return JSON.parse(raw) as CachedPayload;
+}
+
+async function loadLawSource(law: TargetLaw, skipFetch: boolean): Promise<{ detail: DocumentDetailResponse; fragments: FragmentRecord[]; cached: boolean }> {
+  if (skipFetch) {
+    const cached = loadCache(law);
+    if (!cached) {
+      throw new Error(`Missing cache for ${law.id} at ${cachePathForLaw(law)}`);
     }
-
-    try {
-      let html: string;
-
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseCzechHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
-    }
-
-    processed++;
+    return { detail: cached.detail, fragments: cached.fragments, cached: true };
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Czech Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
-  }
-  console.log('');
+  const detail = await fetchDocumentDetail(law.staleUrl);
+  const fragments = await fetchAllFragments(law.staleUrl);
+  saveCache(law, detail, fragments);
+  return { detail, fragments, cached: false };
+}
+
+async function ingestLaw(law: TargetLaw, skipFetch: boolean): Promise<{
+  id: string;
+  seedFile: string;
+  provisions: number;
+  definitions: number;
+  cached: boolean;
+}> {
+  const { detail, fragments, cached } = await loadLawSource(law, skipFetch);
+  const seed = parseLawSeed(law, detail, fragments);
+
+  const seedPath = path.join(SEED_DIR, law.seedFile);
+  fs.writeFileSync(seedPath, JSON.stringify(seed, null, 2));
+
+  return {
+    id: law.id,
+    seedFile: law.seedFile,
+    provisions: seed.provisions.length,
+    definitions: seed.definitions.length,
+    cached,
+  };
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
+  const selected = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
 
-  console.log('Czech Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Czech Copyright Act)`);
+  if (selected.length === 0) {
+    throw new Error('No target laws selected for ingestion.');
+  }
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  ensureDirs();
+  if (!limit) {
+    clearExistingSeedFiles();
+  }
 
-  const acts = limit ? KEY_CZECH_ACTS.slice(0, limit) : KEY_CZECH_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  console.log('Czech Law MCP — Real Ingestion');
+  console.log('==============================');
+  console.log(`Source: https://www.e-sbirka.cz/sbr-externi`);
+  console.log(`Mode: ${skipFetch ? 'cache-only' : 'live fetch with rate limiting'}`);
+  if (limit) console.log(`Limit: ${limit}`);
+  console.log('');
+
+  const results: {
+    id: string;
+    seedFile: string;
+    provisions: number;
+    definitions: number;
+    cached: boolean;
+    status: string;
+  }[] = [];
+
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+
+  for (const law of selected) {
+    process.stdout.write(`Fetching ${law.id} (${law.staleUrl})... `);
+    try {
+      const result = await ingestLaw(law, skipFetch);
+      totalProvisions += result.provisions;
+      totalDefinitions += result.definitions;
+      console.log(`OK (${result.provisions} provisions, ${result.definitions} definitions)`);
+      results.push({
+        ...result,
+        status: result.cached ? 'CACHED' : 'OK',
+      });
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      console.log(`FAILED (${message})`);
+      results.push({
+        id: law.id,
+        seedFile: law.seedFile,
+        provisions: 0,
+        definitions: 0,
+        cached: false,
+        status: `FAILED: ${message}`,
+      });
+    }
+  }
+
+  console.log('\nIngestion Report');
+  console.log('----------------');
+  console.log(`Processed laws: ${selected.length}`);
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+  console.log('');
+  console.log(`${'Law ID'.padEnd(14)} ${'Provisions'.padStart(10)} ${'Definitions'.padStart(12)} ${'Status'.padStart(12)}  Seed file`);
+  console.log('-'.repeat(72));
+  for (const row of results) {
+    console.log(
+      `${row.id.padEnd(14)} ${String(row.provisions).padStart(10)} ${String(row.definitions).padStart(12)} ${row.status.padStart(12)}  ${row.seedFile}`,
+    );
+  }
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });
+

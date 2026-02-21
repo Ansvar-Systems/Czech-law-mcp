@@ -3,19 +3,19 @@ mcp_name: "Czech Law MCP"
 jurisdiction: "CZ"
 
 sources:
-  - name: "Sbírka zákonů (Collection of Laws)"
+  - name: "e-Sbirka (Elektronicka Sbirka zakonu)"
     authority: "Ministry of the Interior of the Czech Republic"
-    official_portal: "https://www.zakonyprolidi.cz"
-    retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    official_portal: "https://www.e-sbirka.cz"
+    retrieval_method: "API"
+    update_frequency: "daily"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Czech Government Open Data (public domain under Czech Copyright Act § 3)"
-      url: "https://www.zakonyprolidi.cz"
-      summary: "Official legislative texts are public domain"
+      type: "government_terms"
+      url: "https://www.e-sbirka.cz"
+      summary: "Public legislation is published by the Czech government and exposed via the official e-Sbirka API."
     coverage:
-      scope: "Key Czech legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Selected Czech statutes ingested from official e-Sbirka consolidated text endpoints."
+      limitations: "Current ingestion covers 10 priority laws; full-corpus ingestion is not included in this repository."
     languages:
       - "cs"
 
@@ -23,3 +23,4 @@ data_freshness:
   automated_checks: true
   check_frequency: "weekly"
   last_verified: "2026-02-21"
+
