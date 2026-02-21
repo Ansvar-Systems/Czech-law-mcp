@@ -1,0 +1,51 @@
+{
+  "id": "cz:5/1991",
+  "type": "statute",
+  "title": "5/1991 Sb., Zákon, kterým se mění a doplňuje celní zákon č. 44/1974 Sb., ve znění zákona č. 117/1983 Sb.",
+  "title_en": "",
+  "short_name": "5/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-01-15",
+  "in_force_date": "1991-02-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/5",
+  "description": "Zákon, kterým se mění a doplňuje celní zákon č. 44/1974 Sb., ve znění zákona č. 117/1983 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Celní zákon č. 44/1974 Sb., ve znění zákona č. 117/1983 Sb., kterým se mění a doplňuje celní zákon, se mění a doplňuje takto:\n1. § 1 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "§ 119b",
+      "section": "119b",
+      "title": "§ 119b",
+      "content": "Pokud orgány celní správy vykonávají oprávnění podle zvláštních předpisů, mají, pokud tyto předpisy nestanoví jinak, stejná práva a povinnosti jako při celní kontrole. Totéž platí o právech a povinnostech subjektů, které této kontrole podléhají.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pokud se v celním zákoně používá výrazu „organizace“, rozumí se jím „právnická osoba“. Pokud se používá výrazu „osoba“, rozumí se jím „fyzická osoba“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předsednictvo Federálního shromáždění se zmocňuje, aby ve Sbírce zákonů vyhlásilo úplné znění celního zákona č. 44/1974 Sb., jak vyplývá ze zákonů jej měnících a doplňujících."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem 1. února 1991."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Svobodným celním pásmem",
+      "definition": "část území České a Slovenské Federativní Republiky, v němž se zboží tam dovážené považuje z hlediska dovozních cel, daní a poplatků, jako by se nenacházelo na celním území a nepodléhá obvyklé celní kontrole",
+      "source_provision": "„§ 18"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cz:410/2000",
+  "type": "statute",
+  "title": "410/2000 Sb., Zákon, kterým se mění zákon č. 102/1963 Sb., o rybářství, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "410/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-11-29",
+  "in_force_date": "2000-11-29",
+  "url": "https://www.e-sbirka.cz/sb/2000/410",
+  "description": "Zákon, kterým se mění zákon č. 102/1963 Sb., o rybářství, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 102/1963 Sb., o rybářství, ve znění zákona č. 146/1971 Sb., zákona č. 49/1982 Sb., zákona č. 367/1990 Sb., zákona č. 425/1990 Sb., zákona č. 229/1991 Sb., zákona č. 238/1999 Sb. a zákona č. 132/2000 Sb., se mění takto:\n1. V § 1 větě první a čtvrté a v § 3 odst. 2 větě první se slovo „socialistické“ zrušuje.\n2. V § 3 odstavec 1 zní:\n„(1) Hospodařením na rybnících se především zajišťuje výroba tržních ryb a výroba násad pro rybníky a pro zarybňování rybářských revírů.“.\n3. § 4 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Ve vyhlášce č. 103/1963 Sb., kterou se vydávají prováděcí předpisy k zákonu o rybářství, se § 5 zrušuje."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rybníkem",
+      "definition": "uměle vytvořené vodohospodářské dílo určené především k chovu ryb s přírodním dnem a s technickou vybaveností nutnou k regulaci vodní hladiny",
+      "source_provision": "„§ 4"
+    },
+    {
+      "term": "Tekoucími vodami",
+      "definition": "též údolní nádrže, jezera, odstavná ramena vzniklá regulací, tůně, retenční nádrže, odvodňovací a zavodňovací kanály, propadliny vzniklé těžbou, jakož i rybníky (§ 4 odst",
+      "source_provision": "„§ 4"
+    }
+  ]
+}

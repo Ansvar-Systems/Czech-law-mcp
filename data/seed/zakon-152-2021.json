@@ -1,0 +1,27 @@
+{
+  "id": "cz:152/2021",
+  "type": "statute",
+  "title": "152/2021 Sb., Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "152/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-03-31",
+  "in_force_date": "2020-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/152",
+  "description": "Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 505/1990 Sb., o metrologii, ve znění zákona č. 4/1993 Sb., zákona č. 119/2000 Sb., zákona č. 13/2002 Sb., zákona č. 137/2002 Sb., zákona č. 226/2003 Sb., zákona č. 444/2005 Sb., zákona č. 481/2008 Sb., zákona č. 223/2009 Sb., zákona č. 155/2010 Sb., zákona č. 18/2012 Sb., zákona č. 85/2015 Sb., zákona č. 264/2016 Sb. a zákona č. 183/2017 Sb., se mění takto:\n1. V § 2 odstavec 2 včetně poznámky pod čarou č. 7 zní:\n„(2) Základními měřicími jednotkami7) jsou\na) jednotka času - sekunda (s),\nb) jednotka délky - metr (m),\nc) jednotka hmotnosti - kilogram (kg),\nd) jednotka elektrického proudu - ampér (A),\ne) jednotka termodynamické teploty - kelvin (K),\nf) jednotka látkového množství - mol (mol),\ng) jednotka svítivosti - kandela (cd).\n7) Směrnice Komise (EU) 2019/1258 ze dne 23. července 2019, kterou se přizpůsobuje technickému pokroku příloha směrnice Rady 80/181/EHS, pokud jde o definice základních jednotek SI.“.\n2. V § 2 se doplňuje odstavec 3, který zní:\n„(3) Základní měřicí jednotky7) jsou definovány takto:\na) sekunda je definována stanovením pevné číselné hodnoty frekvence ∆νCs, přechodu mezi dvěma hladinami velmi jemné struktury základního stavu atomu cesia 133 nacházejícího se v klidovém stavu, která je rovna 9 192 631 770, je-li vyjádřena v jednotce Hz, která je rovna s-1;\nb) metr je definován stanovením pevné číselné hodnoty rychlosti světla ve vakuu c, která je rovna 299 792 458, je-li vyjádřena v jednotce m/s, kde sekunda je definována prostřednictvím ∆νCs;\nc) kilogram je definován stanovením pevné číselné hodnoty Planckovy konstanty h, která je rovna 6,626 070 15 × 10-34, je-li vyjádřena v jednotce J s, která je rovna kg m2 s-1, kde metr a sekunda jsou definovány prostřednictvím c a ∆νCs;\nd) ampér je definován stanovením pevné číselné hodnoty elementárního náboje e, která je rovna 1,602 176 634 × 10-19, je-li vyjádřena v jednotce C, která je rovna A s, kde sekunda je definována prostřednictvím ∆νCs;\ne) kelvin je definován stanovením pevné číselné hodnoty Boltzmannovy konstanty k, která je rovna 1,380 649 × 10-23, je-li vyjádřena v jednotce J K-1, která je rovna kg m2 s-2 K-1, kde kilogram, metr a sekunda jsou definovány prostřednictvím h, c a ∆νCs;\nf) jeden mol obsahuje přesně 6,022 140 76 × 1023 elementárních entit; toto číslo je pevná číselná hodnota Avogadrovy konstanty (NA), je-li vyjádřena v jednotce mol-1, a nazývá se Avogadrovo číslo; látkové množství (n) systému je mírou počtu specifikovaných elementárních entit; elementární entitou může být atom, molekula, iont, elektron, jakákoli jiná částice nebo specifikované seskupení částic;\ng) kandela je definována stanovením pevné číselné hodnoty světelné účinnosti monochromatického záření o frekvenci 540 × 1012 Hz (Kcd), která je rovna 683, je-li vyjádřena v jednotce lm W-1, která je rovna cd sr W-1 nebo cd sr kg-1 m-2 s3, kde kilogram, metr a sekunda jsou definovány prostřednictvím h, c a ∆νCs.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem 13. června 2020."
+    }
+  ],
+  "definitions": []
+}

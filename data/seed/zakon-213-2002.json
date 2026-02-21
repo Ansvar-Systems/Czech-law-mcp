@@ -1,0 +1,39 @@
+{
+  "id": "cz:213/2002",
+  "type": "statute",
+  "title": "213/2002 Sb., Zákon, kterým se mění zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "213/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-05-27",
+  "in_force_date": "2002-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2002/213",
+  "description": "Zákon, kterým se mění zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění zákona č. 110/1990 Sb., zákona č. 180/1990 Sb., zákona č. 1/1991 Sb., zákona č. 46/1991 Sb., zákona č. 306/1991 Sb., zákona č. 482/1991 Sb., zákona č. 578/1991 Sb., zákona č. 582/1991 Sb., zákona č. 235/1992 Sb., zákona č. 589/1992 Sb., zákona č. 37/1993 Sb., zákona č. 160/1993 Sb., zákona č. 266/1993 Sb., zákona č. 307/1993 Sb., zákona č. 182/1994 Sb., zákona č. 241/1994 Sb., zákona č. 118/1995 Sb., zákona č. 155/1995 Sb., zákona č. 160/1995 Sb., zákona č. 133/1997 Sb., zákona č. 91/1998 Sb., zákona č. 155/1998 Sb., zákona č. 350/1999 Sb., zákona č. 360/1999 Sb., zákona č. 29/2000 Sb., zákona č. 258/2000 Sb. a zákona č. 151/2002 Sb., se mění takto:\n1. § 80 včetně poznámek pod čarou č. 56) a 68) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II PŘECHODNÁ USTANOVENÍ",
+      "content": "1. Příspěvky doposud vyplácené v nižších částkách, než stanoví tento zákon, upraví plátce příspěvku bez žádosti na stanovenou výši od splátky náležející za následující kalendářní měsíc od nabytí účinnosti tohoto zákona.\n2. Nároky vzniklé před nabytím účinnosti tohoto zákona z důvodu péče uvedené v § 80 odst. 1 písm. c) zákona č. 100/1988 Sb., o sociálním zabezpečení, ve znění zákona č. 133/1997 Sb., zůstávají zachovány i po nabytí účinnosti tohoto zákona.\n3. Zúčtování příjmů osob vykonávajících výdělečnou činnost uvedenou v čl. I bodu 4 (§ 83 odst. 2 a 3), kterým byl příspěvek vyplácen zálohově, se provede poprvé za rok 2002."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 2002."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Příjmem",
+      "definition": "příjem osoby samostatně výdělečně činné po odpočtu výdajů vynaložených na jeho dosažení, zajištění a udržení, přičemž, jde-li o příjem podléhající dani z příjmů stanovené paušální částkou, považují se za výdaje vynaložené na jeho dosažení, zajištění a udržení předpokládané výdaje, po odpočtu dalších výdajů odpočítávaných z takových příjmů podle zákona o daních z příjmů, po odpočtu pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a pojistného na veřejné zdravotní pojištění, pokud nebyly pojistné a příspěvek zahrnuty do těchto výdajů, a po odpočtu daně z příjmů připadající na tyto příjmy",
+      "source_provision": "„§ 83"
+    }
+  ]
+}

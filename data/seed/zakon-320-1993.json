@@ -1,0 +1,33 @@
+{
+  "id": "cz:320/1993",
+  "type": "statute",
+  "title": "320/1993 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 185/1991 Sb., o pojišťovnictví",
+  "title_en": "",
+  "short_name": "320/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-12-30",
+  "in_force_date": "1994-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/320",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 185/1991 Sb., o pojišťovnictví",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 185/1991 Sb., o pojišťovnictví, se mění a doplňuje takto:\n1. § 14 včetně nadpisu a poznámek pod čarou č. 7), 12) a 12c) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "V celém zákoně se slova „účelové pojistné fondy“ nahrazují slovem „rezervy“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1994."
+    }
+  ],
+  "definitions": []
+}

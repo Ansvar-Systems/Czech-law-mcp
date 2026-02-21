@@ -1,0 +1,81 @@
+{
+  "id": "cz:134/1920",
+  "type": "statute",
+  "title": "134/1920 Sb., Zákon o zajišťování dávky z majetku.",
+  "title_en": "",
+  "short_name": "134/1920 Sb.",
+  "status": "in_force",
+  "issued_date": "1920-03-12",
+  "in_force_date": "1920-03-12",
+  "url": "https://www.e-sbirka.cz/sb/1920/134",
+  "description": "Zákon o zajišťování dávky z majetku.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Finanční správa může podle ustanovení tohoto zákona žádati a vymáhati zajištění dávky z majetku."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Úprava dávky z majetku, zejména co do osobní a věcné povinnosti k dávce, výše jmění dávky prostého a výše dávky vyhrazuje se zákonu pozdějšímu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Je-li vybrání dávky z majetku, jež bude svého času předepsána, pravděpodobně ohroženo, může berní správa uložiti straně písemným, ihned proveditelným příkazem, aby dávku z majetku až do jejího zapravení zajistila do částky uvedené v příkazu.\nZajišťovací částka budiž stanovena při čistém jmění podle stavu dne 1. března 1919\nnad20.000Kdo100.000K5procenty,\n„100.000„„300.000„10„\n„300.000„„600.000„15„\n„600.000„„1,000.000„20„\n„1,000.00025„\nčistého jmění.\nČistým jměním rozumí se hodnota předmětů majetkových, podrobených soupisu podle zákona ze dne 25. února 1919, čís. 84 Sb. z. a n., a ze dne 27. června 1919, čís. 369 Sb. z. a n., a příslušných nařízení, po srážce dluhů a břemen, podle stavu dne 1. března 1919.\nSraziti se smějí jen dluhy a břemena, která jsou s majetkem soupisu podrobeným v hospodářské souvislosti.\nZpůsob zajištění bude vládním nařízením blíže označen."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Výše požadované jistoty není pro budoucí uložení dávky samé nijak závazná.\nZajišťovací příkaz může býti proveden řízením správním nebo — pokud toho jest potřebí — soudním; průkazu nebezpečí není třeba.\nK návrhu berní správy povolí exekuční soud na základě příkazu co do částky v něm uvedené exekuci zajišťovací až do zapravení dávky z majetku."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Výši čistého jmění zjistí zatímně berní správa buď na základě pomůcek úředních, nebo výslechem aspoň dvou znaleckých důvěrníků. Není-li se obávati zvláštního nebezpečí, budiž dána straně krátká lhůta, aby prokázala čisté jmění."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Vydati zajišťovací příkaz jest příslušna berní správa, v jejímž obvodě strana má bydliště (sídlo) nebo se zdržuje, nebo má domovské právo (§ 176, odst. 3., zák. o os. daních), jinak berní správa, v jejímž obvodě se nalézá majetek, nebo největší část majetku."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Proti zajišťovacímu příkazu může vyzvaný podati do 30 dnů rekurs k zemskému finančnímu ředitelství, na Slovensku ke generálnímu finančnímu ředitelství v Bratislavě, v Podkarpatské Rusi k finančnímu oddělení civilní správy v Užhorodě.\nPodání rekursu neodnímá zajišťovacímu příkazu účinnosti.\nNerozhodne-li odvolací úřad o rekursu do 3 měsíců, ztratí jistota na základě zajišťovacího příkazu poskytnutá či vymožená platnost."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "K dobrovolnému zrušení společnosti nebo ku přeměně její v jinou právní formu (na př. změna společnosti s obmezeným ručením v akciovou společnost, nebo naopak) jest zapotřebí svolení berní správy, příslušné k zajištění dávky. Do odepření jmenovaného svolení možno si stěžovati do 8 dnů k zemskému finančnímu úřadu.\nNabyl-li někdo podniku po vyhlášení tohoto zákona, ručí do 15% nabývací ceny za dávku z majetku, která bude dřívějšímu majetníku předepsána potud, pokud jest vydobytí dávky převodem podniku u posavadního majetníka ohroženo."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Práva a povinnosti, které tento zákon ukládá berním správám, konají na Slovensku a v Podkarpatské Rusi finanční ředitelství."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Provésti zákon, jenž nabývá účinnosti dnem vyhlášení, ukládá se ministru financí a ministru spravedlnosti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Čistým jměním",
+      "definition": "se hodnota předmětů majetkových, podrobených soupisu podle zákona ze dne 25",
+      "source_provision": "§ 3."
+    }
+  ]
+}

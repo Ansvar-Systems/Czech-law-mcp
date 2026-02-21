@@ -1,0 +1,54 @@
+{
+  "id": "cz:158/2013",
+  "type": "statute",
+  "title": "158/2013 Sb., Zákon o Květnovém povstání českého lidu",
+  "title_en": "",
+  "short_name": "158/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-06-21",
+  "in_force_date": "2013-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2013/158",
+  "description": "Zákon o Květnovém povstání českého lidu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - KVĚTNOVÉ POVSTÁNÍ ČESKÉHO LIDU",
+      "content": "Květnovým povstáním českého lidu se pro účely tohoto zákona rozumí povstání českého lidu proti nacistické moci, ke kterému došlo v době mezi 30. dubnem a 12. květnem 1945."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účastníci Květnového povstání českého lidu",
+      "chapter": "ČÁST PRVNÍ - KVĚTNOVÉ POVSTÁNÍ ČESKÉHO LIDU",
+      "content": "(1) Za účastníka Květnového povstání českého lidu se považuje občan České republiky, kterému v souvislosti s jeho účastí na tomto povstání (§ 1) bylo vydáno\na) osvědčení podle § 1 odst. 1 bodu 1 písm. f) a § 8 zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození, nebo\nb) potvrzení podle § 5 odst. 1 písm. b) a § 7 zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů.\n(2) Za účastníka Květnového povstání českého lidu se pro účely tohoto zákona považuje také občan České republiky, který splnil podmínky pro vydání potvrzení uvedené v odstavci 1 písm. b), avšak toto potvrzení mu nebylo vydáno jen z toho důvodu, že podal žádost o jeho vydání po uplynutí lhůty stanovené k jejímu podání."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Pamětní odznak",
+      "chapter": "ČÁST PRVNÍ - KVĚTNOVÉ POVSTÁNÍ ČESKÉHO LIDU",
+      "content": "(1) Ministerstvo obrany jako vyjádření úcty a morálního ocenění vydá žijícímu účastníku Květnového povstání českého lidu na jeho žádost pamětní odznak účastníka Květnového povstání českého lidu.\n(2) Vzor a pravidla nošení pamětního odznaku účastníka Květnového povstání českého lidu stanoví Ministerstvo obrany vyhláškou."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Květnovým povstáním českého lidu",
+      "definition": "povstání českého lidu proti nacistické moci, ke kterému došlo v době mezi 30",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "účastníka Květnového povstání českého lidu",
+      "definition": "občan České republiky, kterému v souvislosti s jeho účastí na tomto povstání (§ 1) bylo vydáno",
+      "source_provision": "§ 2"
+    }
+  ]
+}

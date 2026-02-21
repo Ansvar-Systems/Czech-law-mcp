@@ -1,0 +1,50 @@
+{
+  "id": "cz:1/1995",
+  "type": "statute",
+  "title": "1/1995 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 300/1992 Sb., o státní podpoře vědecké činnosti a vývoje technologií",
+  "title_en": "",
+  "short_name": "1/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-01-18",
+  "in_force_date": "1995-01-18",
+  "url": "https://www.e-sbirka.cz/sb/1995/1",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 300/1992 Sb., o státní podpoře vědecké činnosti a vývoje technologií",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 300/1992 Sb., o státní podpoře vědecké činnosti a vývoje technologií, se mění a doplňuje takto:\n1. V názvu zákona se slova „vědecké činnosti a vývoje technologií“ nahrazují slovy „výzkumu a vývoje“.\n2. V § 1 se slova „vědecké činnosti a vývoje technologií“ nahrazují slovy „výzkumu a vývoje“ a slova „vědeckou činností a vývojem technologií“ slovy „výzkumem a vývojem“.\n3. § 2 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "(1) Rada do jednoho měsíce po nabytí účinnosti tohoto zákona předloží vládě návrh novely svého statutu.\n(2) Předsednictvo do jednoho měsíce po nabytí účinnosti tohoto zákona předloží vládě návrh novely statutu Grantové agentury."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona České národní rady č. 300/1992 Sb., o státní podpoře vědecké činnosti a vývoje technologií, jak vyplývá ze změn a doplňků provedených tímto zákonem."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Výzkumem",
+      "definition": "systematická a tvůrčí práce rozšiřující poznání přírody, člověka, společnosti, myšlení, kultury a techniky",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "Vývojem",
+      "definition": "využití poznatků výzkumu nebo realizace nových myšlenek a technologií včetně jejich přenesení na úroveň poloprovozních nebo ověřovacích zařízení pro získání nových nebo podstatně zlepšených výrobků a technologií",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

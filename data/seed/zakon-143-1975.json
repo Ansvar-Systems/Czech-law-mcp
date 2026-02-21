@@ -1,0 +1,33 @@
+{
+  "id": "cz:143/1975",
+  "type": "statute",
+  "title": "143/1975 Sb., Ústavní zákon o změnách státních hranic s Polskou lidovou republikou",
+  "title_en": "",
+  "short_name": "143/1975 Sb.",
+  "status": "in_force",
+  "issued_date": "1975-12-22",
+  "in_force_date": "1975-12-22",
+  "url": "https://www.e-sbirka.cz/sb/1975/143",
+  "description": "Ústavní zákon o změnách státních hranic s Polskou lidovou republikou",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Federální shromáždění souhlasí se Smlouvou mezi Československou socialistickou republikou a Polskou lidovou republikou o změně průběhu státních hranic a o některých dalších otázkách souvisejících s výstavbou a provozem polské přehrady na Dunajci, podepsanou ve Varšavě dne 21. března 1975."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Změny hranic Československé socialistické republiky a hranic Slovenské socialistické republiky podle Smlouvy uvedené v § 1 nabývají platnosti dnem, kdy vstoupí v platnost tato Smlouva."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento ústavní zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,563 @@
+{
+  "id": "cz:335/2020",
+  "type": "statute",
+  "title": "335/2020 Sb., Zákon o mezinárodní spolupráci při řešení daňových sporů v Evropské unii",
+  "title_en": "",
+  "short_name": "335/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-08-06",
+  "in_force_date": "2020-09-15",
+  "url": "https://www.e-sbirka.cz/sb/2020/335",
+  "description": "Zákon o mezinárodní spolupráci při řešení daňových sporů v Evropské unii",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Tento zákon upravuje mezinárodní spolupráci při řešení daňových sporů harmonizovaným postupem podle předpisu Evropské unie upravujícího mechanismus řešení daňových sporů v Evropské unii1).\n(2) Tento zákon se nepoužije při postupu podle mezinárodní smlouvy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Sporná otázka",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Spornou otázkou se pro účely harmonizovaného postupu rozumí záležitost vedoucí ke vzniku sporu vyplývajícího z výkladu a uplatňování mezinárodní smlouvy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Mezinárodní smlouva",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Mezinárodní smlouvou se pro účely harmonizovaného postupu rozumí\na) mezinárodní smlouva upravující zamezení dvojímu zdanění příjmů nebo majetku, která je součástí právního řádu České republiky, nebo\nb) Úmluva o zamezení dvojího zdanění v souvislosti s úpravou zisků sdružených podniků."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Dotčený stát",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Dotčeným státem se pro účely harmonizovaného postupu rozumí členský stát Evropské unie, kterého se dotýká sporná otázka."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Dotčený poplatník",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Dotčeným poplatníkem se pro účely harmonizovaného postupu rozumí daňový rezident členského státu Evropské unie, na jehož daňovou povinnost má sporná otázka bezprostřední vliv."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Prostředek ochrany",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Prostředkem ochrany se pro účely harmonizovaného postupu rozumí\na) opravný prostředek, dozorčí prostředek nebo jiný prostředek ochrany při správě daní a návrh na zahájení řízení před soudem a\nb) prostředek ochrany podle právních předpisů jiného dotčeného státu obdobný prostředkům podle písmene a)."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Výklad pojmů",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Pojem použitý v tomto zákoně vymezený mezinárodní smlouvou použitelnou mezi Českou republikou a jiným dotčeným státem ke dni, kdy se dotčený poplatník dozvěděl o opatření, které vede nebo povede ke vzniku sporné otázky, má význam daný v tomto okamžiku touto smlouvou, nevyplývá-li ze souvislostí něco jiného."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Vztah k daňovému řádu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Při harmonizovaném postupu týkajícím se řešení daňových sporů se postupuje podle daňového řádu, nestanoví-li tento zákon jinak."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Příslušný orgán",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "Příslušným orgánem se pro účely harmonizovaného postupu rozumí tuzemský příslušný orgán nebo zahraniční příslušný orgán."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Tuzemský příslušný orgán",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "Tuzemským příslušným orgánem je Ministerstvo financí nebo zmocněný příslušný orgán."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Ministerstvo financí",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "(1) Ministerstvo financí vede seznam zmocněných příslušných orgánů a tento seznam zveřejňuje na svých internetových stránkách.\n(2) Ministerstvo financí je příslušné k řešení sporné otázky harmonizovaným postupem."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zmocněný příslušný orgán",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "(1) Zmocněným příslušným orgánem je správce daně s celostátní působností zmocněný Ministerstvem financí k řešení sporné otázky harmonizovaným postupem.\n(2) Ministerstvo financí ve zmocnění vymezí okruh věcí, k jejichž řešení je namísto něj příslušný zmocněný příslušný orgán.\n(3) Zmocněný příslušný orgán je při výkonu své působnosti podřízen Ministerstvu financí."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Určení příslušnosti k řešení sporné otázky",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "(1) Ministerstvo financí může převzít řešení sporné otázky, k jejímuž vyřízení je příslušný zmocněný příslušný orgán. O tomto postupu Ministerstvo financí uvědomí tento zmocněný příslušný orgán.\n(2) Pokud by řešení sporné otázky vzhledem k rozsahu zmocnění příslušelo částečně zmocněnému příslušnému orgánu a částečně Ministerstvu financí, je k jejímu řešení příslušné Ministerstvo financí. Zmocněný příslušný orgán spolupracuje s Ministerstvem financí při řešení této sporné otázky.\n(3) V případě pochybností o příslušnosti k řešení sporné otázky určí Ministerstvo financí, který tuzemský příslušný orgán je příslušný k tomuto řešení, popřípadě též určí, který z tuzemských příslušných orgánů bude spolupracovat s Ministerstvem financí při řešení této sporné otázky."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Zahraniční příslušný orgán",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA I - PŘÍSLUŠNÉ ORGÁNY",
+      "content": "Zahraničním příslušným orgánem se pro účely harmonizovaného postupu rozumí orgán jiného dotčeného státu, který je příslušným orgánem podle právních předpisů tohoto státu."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Uznávaná nezávislá osoba",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA II - UZNÁVANÉ NEZÁVISLÉ OSOBY",
+      "content": "Uznávanou nezávislou osobou se pro účely harmonizovaného postupu rozumí fyzická osoba nepříslušející k daňovému orgánu žádného členského státu Evropské unie, která se může za podmínek stanovených tímto zákonem podílet na posuzování\na) přípustnosti žádosti o zahájení harmonizovaného postupu, a\nb) sporné otázky."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Tuzemská uznávaná nezávislá osoba",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA II - UZNÁVANÉ NEZÁVISLÉ OSOBY",
+      "content": "(1) Tuzemskou uznávanou nezávislou osobou se pro účely harmonizovaného postupu rozumí fyzická osoba, kterou Ministerstvo financí jmenuje uznávanou nezávislou osobou.\n(2) Ministerstvo financí jmenuje nejméně 3 tuzemské uznávané nezávislé osoby.\n(3) Ministerstvo financí průběžně ověřuje, zda tuzemská uznávaná nezávislá osoba splňuje podmínky pro jmenování uznávanou nezávislou osobou.\n(4) Ministerstvo financí může poskytnout kontaktní údaje tuzemské uznávané nezávislé osoby orgánu jiného členského státu Evropské unie za účelem jejího jmenování členem poradního orgánu."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Jmenování tuzemské uznávané nezávislé osoby a oznamování změn",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA II - UZNÁVANÉ NEZÁVISLÉ OSOBY",
+      "content": "(1) Fyzickou osobu lze jmenovat tuzemskou uznávanou nezávislou osobou, pokud je způsobilá být rozhodcem podle zákona upravujícího rozhodčí řízení a je schopná jednat nestranně a čestně. Podmínka státního občanství podle zákona upravujícího rozhodčí řízení se nepoužije.\n(2) Fyzická osoba, která má být jmenována tuzemskou uznávanou nezávislou osobou, sdělí v souvislosti s tímto jmenováním Ministerstvu financí\na) jméno,\nb) datum narození,\nc) adresu místa trvalého pobytu nebo obdobného místa v případě, že jde o cizince,\nd) kontaktní údaje,\ne) úplné a aktuální informace o profesním a akademickém působení a\nf) informace o způsobilosti, odbornosti a možném střetu zájmů.\n(3) Ministerstvo financí vyrozumí Evropskou komisi o jmenování tuzemské uznávané nezávislé osoby a spolu s tím jí o této osobě sdělí\na) informace podle odstavce 2 písm. a), e) a f) a\nb) informaci o tom, zda tato osoba může být jmenována předsedou poradní komise.\n(4) Tuzemská uznávaná nezávislá osoba je povinna oznámit Ministerstvu financí změnu v údajích podle odstavce 2 do 30 dnů ode dne, kdy k této změně došlo.\n(5) Ministerstvo financí vyrozumí o změně údajů podle odstavce 3 Evropskou komisi."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Odvolání tuzemské uznávané nezávislé osoby",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA II - UZNÁVANÉ NEZÁVISLÉ OSOBY",
+      "content": "(1) Ministerstvo financí odvolá tuzemskou uznávanou nezávislou osobu, pokud\na) o to požádá,\nb) závažným způsobem poruší povinnost podle tohoto zákona, nebo\nc) již nesplňuje podmínky pro jmenování.\n(2) Vznesl-li jiný členský stát Evropské unie podnět na odvolání tuzemské uznávané nezávislé osoby pro důvodné podezření, že tato osoba není dostatečně nezávislá, Ministerstvo financí posoudí tento podnět do 6 měsíců ode dne, kdy jej obdrželo.\n(3) Ministerstvo financí vyrozumí Evropskou komisi o odvolání tuzemské uznávané nezávislé osoby a o výsledku posouzení podnětu podle odstavce 2."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Zahraniční uznávaná nezávislá osoba",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA II - UZNÁVANÉ NEZÁVISLÉ OSOBY",
+      "content": "(1) Zahraniční uznávanou nezávislou osobou se pro účely harmonizovaného postupu rozumí fyzická osoba, kterou orgán jiného členského státu Evropské unie jmenoval uznávanou nezávislou osobou.\n(2) Ministerstvo financí může vznést podnět na odvolání zahraniční uznávané nezávislé osoby, pokud má důvodné podezření, že tato osoba není dostatečně nezávislá. Podnět podává Evropské komisi a spolu s ním poskytne podklady, ze kterých vyplývá toto podezření."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Poradní orgán",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA III - PORADNÍ ORGÁNY",
+      "content": "(1) Poradním orgánem se pro účely harmonizovaného postupu rozumí poradní komise nebo komise pro alternativní řešení sporů.\n(2) Tuzemský příslušný orgán vytváří podmínky pro jednání poradního orgánu a zabezpečuje jeho činnost.\n(3) Poradní orgán\na) přijímá informace od tuzemského příslušného orgánu a od dotčeného poplatníka,\nb) žádá tuzemský příslušný orgán o zajištění účasti dotčeného poplatníka nebo jeho zástupce na jednání poradního orgánu,\nc) posuzuje spornou otázku.\n(4) Poradní komise dále posuzuje přípustnost žádosti o zahájení harmonizovaného postupu.\n(5) V záležitostech týkajících se poradního orgánu se přihlédne ke zvyklostem obvyklým při mezinárodní obchodní arbitráži.\n(6) Člen poradního orgánu má při výkonu činností podle odstavců 3 a 4 postavení úřední osoby tuzemského příslušného orgánu."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Poradní komise",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA III - PORADNÍ ORGÁNY",
+      "content": "(1) Poradní komise se skládá z\na) předsedy,\nb) 1 zástupce každého příslušného orgánu a\nc) 1 uznávané nezávislé osoby za každý dotčený stát.\n(2) Na základě dohody všech příslušných orgánů učiněné při zřizování poradní komise může být počet osob podle odstavce 1 písm. b) nebo c) zvýšen na 2 osoby.\n(3) Každý člen poradní komise, který je uznávanou nezávislou osobou, s výjimkou předsedy, má náhradníka, který je uznávanou nezávislou osobou. Ustanovení o uznávané nezávislé osobě jako členovi poradní komise se použijí obdobně i pro jejího náhradníka.\n(4) V případě, že uznávaná nezávislá osoba nemůže plnit své povinnosti člena poradní komise, nastoupí na její místo náhradník. Pokud tohoto náhradníka jmenoval členem poradního orgánu tuzemský příslušný orgán, jmenuje namísto něj nového náhradníka; ustanovení § 42 se použije obdobně.\n(5) V případě, že předseda nemůže plnit své povinnosti člena poradní komise, jmenují ostatní členové poradní komise nového předsedu ze všech uznávaných nezávislých osob."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Komise pro alternativní řešení sporů",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA III - PORADNÍ ORGÁNY",
+      "content": "(1) Komisi pro alternativní řešení sporů lze na základě dohody všech příslušných orgánů zřídit k posouzení sporné otázky namísto poradní komise.\n(2) Komise pro alternativní řešení sporů může být na základě dohody všech příslušných orgánů zřízena jako stálý poradní orgán. Pro stálý poradní orgán se ustanovení o zřízení poradního orgánu, členství v něm a postupu poradního orgánu použijí přiměřeně.\n(3) Nedohodnou-li se příslušné orgány, s výjimkou pravidel týkajících se nezávislostí členů, jinak, použijí se na složení komise pro alternativní řešení sporů a náhradníky jejích členů ustanovení o poradní komisi obdobně."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Řízení před soudem",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA IV - SOUDY",
+      "content": "(1) V řízení před soudem podle tohoto zákona se postupuje podle předpisů upravujících občanské soudní řízení.\n(2) Pro řízení je příslušný okresní soud, v jehož obvodu má sídlo tuzemský příslušný orgán."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Účastenství poradního orgánu v řízení před soudem",
+      "chapter": "ČÁST DRUHÁ - ORGANIZAČNÍ ZABEZPEČENÍ > HLAVA IV - SOUDY",
+      "content": "(1) Poradní orgán má způsobilost být účastníkem občanského soudního řízení podle tohoto zákona.\n(2) Za poradní orgán jedná jeho předseda. Předseda poradního orgánu má v řízení podle odstavce 1 a při výkonu rozhodnutí vydaného v tomto řízení stejná práva a povinnosti jako poradní orgán."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Dotčený stát, ve kterém se činí podání",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA I - OBECNÁ USTANOVENÍ",
+      "content": "(1) U všech příslušných orgánů se činí podání obsahující\na) žádost o zahájení harmonizovaného postupu,\nb) zpětvzetí žádosti o zahájení harmonizovaného postupu,\nc) žádost o posouzení přípustnosti žádosti o zahájení harmonizovaného postupu poradní komisí, nebo\nd) žádost o posouzení sporné otázky poradním orgánem.\n(2) Při podávání zjednodušeným způsobem postačí učinit podání pouze u tuzemského příslušného orgánu. Zjednodušeným způsobem lze učinit podání uvedená v odstavci 1 a podání obsahující doplňující informace.\n(3) Zjednodušeným způsobem může učinit podání pouze dotčený poplatník, který je daňovým rezidentem České republiky a je\na) fyzickou osobou, nebo\nb) právnickou osobou nebo jednotkou bez právní osobnosti, které nejsou\n1. velkou účetní jednotkou podle zákona upravujícího účetnictví a\n2. ve velké skupině účetních jednotek podle zákona upravujícího účetnictví.\n(4) Tuzemský příslušný orgán vyrozumí zahraniční příslušné orgány o podání učiněném zjednodušeným způsobem do 2 měsíců ode dne, kdy mu toto podání došlo. V případě podání obsahujícího doplňující informace tuzemský příslušný orgán spolu s vyrozuměním zašle i kopii těchto informací.\n(5) Podání učiněné zjednodušeným způsobem dotčeným poplatníkem, který podal žádost o zahájení harmonizovaného postupu (dále jen „účastník postupu“), který není daňovým rezidentem České republiky, u příslušného orgánu dotčeného státu, jehož je daňovým rezidentem, se považuje za podání učiněné u tuzemského příslušného orgánu v den, kdy zahraniční příslušný orgán odeslal vyrozumění tuzemskému příslušnému orgánu.\n(6) Doplňující informace poskytnuté zjednodušeným způsobem účastníkem postupu, který není daňovým rezidentem České republiky, příslušnému orgánu dotčeného státu, jehož je daňovým rezidentem, se považují za poskytnuté tuzemskému příslušnému orgánu v den, kdy zahraničnímu příslušnému orgánu tyto informace došly, pokud zahraniční příslušný orgán jejich kopii zaslal tuzemskému příslušnému orgánu."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Podání v jiném dotčeném státě",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA I - OBECNÁ USTANOVENÍ",
+      "content": "Stanoví-li tento zákon povinnost učinit podání v jiném dotčeném státě u zahraničního příslušného orgánu, použije se na toto podání právní řád tohoto dotčeného státu."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Žádost o zahájení harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA II - ZAHÁJENÍ POSTUPU",
+      "content": "(1) Harmonizovaný postup se zahajuje na žádost dotčeného poplatníka. Zahájení harmonizovaného postupu nebrání skutečnost, že\na) se opatření vedoucí ke sporné otázce stalo podle právních předpisů dotčeného státu konečným,\nb) probíhá řízení o prostředku ochrany nebo\nc) proběhlo řízení o prostředku ochrany, s výjimkou řízení ve správním soudnictví uvedeného v § 65 odst. 2.\n(2) Žádost podle odstavce 1 musí obsahovat\na) označení všech dotčených států,\nb) jméno, místo pobytu nebo sídlo, daňové identifikační číslo a další informace nezbytné k určení totožnosti\n1. účastníka postupu a\n2. další osoby nebo jednotky bez právní osobnosti, kterých se sporná otázka týká,\nc) vymezení zdaňovacího období, kterého se sporná otázka týká, jde-li o daň, která má zdaňovací období,\nd) podrobné informace o sporné otázce, zahrnující povahu a datum provedení úkonů vedoucích ke sporné otázce a výši související částky v měně dotčeného státu, včetně kopií podpůrných písemností,\ne) odkaz na použitelné vnitrostátní předpisy a na použitelnou mezinárodní smlouvu; je-li použitelná více než 1 mezinárodní smlouva, uvede se v žádosti, na základě které smlouvy má být postup k vyřešení sporné otázky veden,\nf) prohlášení účastníka postupu, že na přiměřenou žádost příslušného orgánu odpoví co nejúplněji a co nejrychleji a na žádost příslušného orgánu poskytne veškerou dokumentaci, a\ng) informace, pokud ve vztahu ke sporné otázce existují, s kopiemi všech podpůrných písemností, a to:\n1. vysvětlení, proč se účastník postupu domnívá, že existuje sporná otázka,\n2. podrobné informace o prostředcích ochrany, které účastník postupu uplatnil v souvislosti s opatřením vedoucím ke vzniku sporné otázky,\n3. soudní rozhodnutí týkající se sporné otázky,\n4. kopii konečného rozhodnutí o stanovení daně nebo jiné písemnosti s rovnocenným účinkem a kopie dalších písemností vydaných daňovými orgány v souvislosti se spornou otázkou a\n5. informace o dalších žádostech o zahájení postupů k vyřešení sporné otázky vedených podle mezinárodní smlouvy, které v souvislosti se stejnou spornou otázkou podal účastník postupu.\n(3) Žádost podle odstavce 1 lze podat do 3 let ode dne, kdy se účastník postupu dozvěděl o opatření, které vede nebo povede ke vzniku sporné otázky.\n(4) Tuzemský příslušný orgán může nejpozději do 3 měsíců ode dne, kdy mu došla žádost podle odstavce 1, vyzvat účastníka postupu, aby poskytl doplňující informace nezbytné pro posouzení sporné otázky, která je předmětem žádosti, a to nejpozději do 3 měsíců ode dne, kdy mu byla výzva oznámena.\n(5) Tuzemský příslušný orgán předá informace poskytnuté účastníkem postupu podle odstavce 4 zahraničním příslušným orgánům."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Potvrzení přijetí žádosti a vyrozumění zahraničních příslušných orgánů",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA II - ZAHÁJENÍ POSTUPU",
+      "content": "(1) Tuzemský příslušný orgán potvrdí, že mu došla žádost o zahájení harmonizovaného postupu, nejpozději do 2 měsíců ode dne, kdy mu žádost došla.\n(2) Tuzemský příslušný orgán ve lhůtě podle odstavce 1 vyrozumí zahraniční příslušné orgány o přijetí žádosti o zahájení harmonizovaného postupu. Ve vyrozumění se uvede informace o jazyku, který hodlá tuzemský příslušný orgán používat při komunikaci se zahraničními příslušnými orgány, a o dni, kdy žádost tomuto orgánu došla. Při komunikaci mezi tuzemským příslušným orgánem a zahraničními příslušnými orgány se nepoužijí ustanovení o jednacím jazyce podle daňového řádu."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Zpětvzetí žádosti o zahájení harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA II - ZAHÁJENÍ POSTUPU",
+      "content": "(1) Tuzemský příslušný orgán vyrozumí zahraniční příslušné orgány o zpětvzetí žádosti o zahájení harmonizovaného postupu, které u něj bylo učiněno.\n(2) Zpětvzetí žádosti o zahájení harmonizovaného postupu je účinné ke dni, kdy bylo učiněno vůči prvnímu z příslušných orgánů."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Rozhodnutí o přípustnosti žádosti",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA III - DÍLČÍ POSTUP PŘED ŘEŠENÍM SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Žádost o zahájení harmonizovaného postupu není přípustná, pokud\na) neobsahuje stanovené údaje,\nb) účastník postupu neposkytl v určené lhůtě doplňující informace,\nc) sporná otázka neexistuje nebo\nd) byla podána opožděně.\n(2) Tuzemský příslušný orgán vydá rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu nejpozději do 6 měsíců ode dne, kdy mu žádost došla. V případě, že tuzemský příslušný orgán vyzval účastníka postupu k poskytnutí doplňujících informací, započne lhůta pro vydání rozhodnutí běžet dnem, kdy tomuto orgánu dojdou doplňující informace, nebo dnem, kdy marně uplynula lhůta pro poskytnutí těchto informací.\n(3) Pokud marně uplynula lhůta pro vydání rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu, hledí se na tuto žádost jako na přípustnou.\n(4) Tuzemský příslušný orgán vyrozumí o vydání rozhodnutí podle odstavce 2 nebo o marném uplynutí lhůty podle odstavce 3 zahraniční příslušné orgány."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Posouzení přípustnosti žádosti poradní komisí",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA III - DÍLČÍ POSTUP PŘED ŘEŠENÍM SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Rozhodne-li některý z příslušných orgánů o tom, že je žádost o zahájení harmonizovaného postupu nepřípustná, může účastník postupu podat žádost o posouzení přípustnosti žádosti o zahájení harmonizovaného postupu poradní komisí. Žádost musí obsahovat prohlášení o tom, že v žádném z dotčených států\na) neprobíhá řízení o prostředku ochrany týkající se rozhodnutí o přípustnosti žádosti a\nb) nelze uplatnit prostředek ochrany týkající se tohoto rozhodnutí, nebo se účastník postupu vzdal práva na podání takového prostředku ochrany.\n(2) Žádost podle odstavce 1 nelze podat, pokud\na) všechny příslušné orgány rozhodly o tom, že je žádost o zahájení harmonizovaného postupu nepřípustná, a proti žádnému z těchto rozhodnutí účastník postupu nemůže uplatnit prostředek ochrany,\nb) v některém z dotčených států probíhá řízení o prostředku ochrany týkající se rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu,\nc) účastník postupu může v souvislosti s rozhodnutím o tom, že je žádost o zahájení harmonizovaného postupu nepřípustná, vydaným příslušným orgánem některého z dotčených států, uplatnit prostředek ochrany a nevzdal se svého práva na jeho uplatnění,\nd) byla zamítnuta žaloba proti rozhodnutí tuzemského příslušného orgánu o tom, že je žádost o zahájení harmonizovaného postupu nepřípustná, nebo\ne) soud v některém z ostatních dotčených států potvrdil pravomocné rozhodnutí, vydané příslušným orgánem tohoto dotčeného státu, o tom, že je žádost o zahájení harmonizovaného postupu nepřípustná, vydané příslušným orgánem tohoto dotčeného státu, a podle práva tohoto státu se nelze od tohoto soudního rozhodnutí odchýlit.\n(3) Žádost podle odstavce 1 lze podat nejpozději do 50 dnů ode dne, kdy poslední příslušný orgán oznámil účastníkovi postupu rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu, nebo ode dne, kdy odpadly překážky pro její podání podle odstavce 2, podle toho, který den nastane později.\n(4) Poradní komise při posuzování přípustnosti žádosti o zahájení harmonizovaného postupu přihlédne k rozhodnutí soudu nebo obdobného orgánu v této věci, pokud bylo v některém z dotčených států vydáno.\n(5) Poradní komise předá své stanovisko všem příslušným orgánům nejpozději do 30 dní ode dne, kdy stanovisko vydala.\n(6) Vyplývá-li ze stanoviska poradní komise, že je žádost o zahájení harmonizovaného postupu přípustná, učiní tuzemský příslušný orgán vůči všem zahraničním příslušným orgánům podnět k zahájení řešení sporné otázky dohodou. Tuzemský příslušný orgán o tomto podnětu vyrozumí poradní komisi a účastníka postupu. Pokud z rozhodnutí tuzemského příslušného orgánu o přípustnosti žádosti o zahájení harmonizovaného postupu vyplývá, že je tato žádost nepřípustná, nepřihlíží se k němu."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Jednostranné vyřešení sporné otázky",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA III - DÍLČÍ POSTUP PŘED ŘEŠENÍM SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Pokud lze žádosti o zahájení harmonizovaného postupu zcela vyhovět nezávisle na zahraničních příslušných orgánech, může tuzemský příslušný orgán ve lhůtě pro vydání rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu jednostranně vyřešit spornou otázku tak, že vydá zprávu o výsledku harmonizovaného postupu, ve které uvede, jak se má ve vztahu ke sporné otázce vykládat a uplatňovat mezinárodní smlouva.\n(2) Tuzemský příslušný orgán o jednostranném vyřešení sporné otázky vyrozumí zahraniční příslušné orgány."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Zastavení harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA III - DÍLČÍ POSTUP PŘED ŘEŠENÍM SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Tuzemský příslušný orgán rozhodne o zastavení harmonizovaného postupu, pokud\na) ze stanoviska poradní komise vyplývá, že je žádost o zahájení harmonizovaného postupu nepřípustná,\nb) jej zahraniční příslušný orgán vyrozuměl o tom, že spornou otázku vyřešil jednostranně.\n(2) Rozhodnutí podle odstavce 1 písm. b) se nedoručuje a nelze proti němu uplatnit opravné prostředky. Za den doručení rozhodnutí se považuje den založení do spisu."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Dohodovací postup příslušných orgánů",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IV - ŘEŠENÍ SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Rozhodnou-li všechny příslušné orgány pravomocně o tom, že je žádost o zahájení harmonizovaného postupu přípustná, zahájí se dohodovací postup příslušných orgánů.\n(2) Dohodovací postup podle odstavce 1 se zahájí také na základě podnětu příslušného orgánu některého z dotčených států, pokud ze stanoviska poradního orgánu vyplývá, že je žádost o zahájení harmonizovaného postupu přípustná.\n(3) Při dohodovacím postupu se příslušné orgány pokusí dosáhnout dohody o řešení sporné otázky."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Lhůta pro dosažení dohody o řešení sporné otázky",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IV - ŘEŠENÍ SPORNÉ OTÁZKY DOHODOU",
+      "content": "(1) Lhůta pro dosažení dohody o řešení sporné otázky činí 2 roky ode dne, kdy\na) nabylo právní moci poslední rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu nebo marně uplynula lhůta pro vydání posledního rozhodnutí o přípustnosti žádosti o zahájení harmonizovaného postupu, nebo\nb) bylo poslednímu příslušnému orgánu oznámeno stanovisko poradní komise, podle kterého je žádost o zahájení harmonizovaného postupu přípustná, pokud poradní komise posuzovala přípustnost této žádosti a některý z příslušných orgánů učinil podnět k zahájení řešení případu vzájemnou dohodou podle mezinárodní smlouvy.\n(2) Lhůta podle odstavce 1 se na základě odůvodněného sdělení, které činí příslušný orgán vůči všem ostatním příslušným orgánům, prodlužuje nejvýše o 1 rok. Učiní-li příslušný orgán takové sdělení, vyrozumí o něm tuzemský příslušný orgán účastníka postupu.\n(3) Uplyne-li marně lhůta pro dosažení dohody o řešení sporné otázky, oznámí tuzemský příslušný orgán účastníkovi postupu, že příslušné orgány nedospěly k dohodě o řešení sporné otázky, a uvede obecné důvody toho, proč dohody nebylo dosaženo."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Výzva k poskytnutí dalších informací při řešení sporné otázky dohodou",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IV - ŘEŠENÍ SPORNÉ OTÁZKY DOHODOU",
+      "content": "Je-li to nezbytné, může tuzemský příslušný orgán při dohodovacím postupu vyzvat účastníka postupu, aby poskytl další informace týkající se sporné otázky, a to nejpozději do 3 měsíců ode dne, kdy mu byla výzva oznámena."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Posouzení sporné otázky poradním orgánem",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA V - DAŇOVÁ ARBITRÁŽ",
+      "content": "(1) Uplyne-li marně lhůta pro dosažení dohody o řešení sporné otázky, může účastník postupu podat žádost o posouzení sporné otázky poradním orgánem.\n(2) Žádost podle odstavce 1 lze podat nejpozději do 50 dnů ode dne, kdy tuzemský příslušný orgán oznámil účastníkovi postupu, že příslušné orgány nedospěly ve lhůtě pro dosažení dohody o řešení sporné otázky k dohodě o řešení sporné otázky.\n(3) Pokud ze stanoviska poradní komise vyplývá, že je žádost o zahájení harmonizovaného postupu přípustná, ale žádný z příslušných orgánů neučiní ve lhůtě do 60 dní ode dne, kdy bylo poslednímu z nich toto stanovisko oznámeno, podnět k zahájení jednání příslušných orgánů k dosažení dohody o řešení sporné otázky, posoudí spornou otázku tato komise. Ustanovení o postupu poradního orgánu po podání žádosti o posouzení sporné otázky poradním orgánem se použijí obdobně.\n(4) Poradní orgán při posuzování sporné otázky vychází z použitelné mezinárodní smlouvy a z použitelných vnitrostátních předpisů dotčených států.\n(5) K přijetí stanoviska poradního orgánu o sporné otázce je třeba souhlasu nadpoloviční většiny všech jeho členů. Nelze-li této většiny dosáhnout, rozhoduje o přijetí stanoviska hlas předsedy."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Postup příslušných orgánů po posouzení sporné otázky poradním orgánem",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA V - DAŇOVÁ ARBITRÁŽ",
+      "content": "(1) Příslušné orgány se do 6 měsíců ode dne, kdy poslední z nich obdržel stanovisko poradního orgánu o způsobu řešení sporné otázky, znovu pokusí dosáhnout dohody o řešení sporné otázky. Při tom nejsou vázány stanoviskem poradního orgánu.\n(2) Pokud marně uplyne lhůta podle odstavce 1, je stanovisko poradního orgánu o způsobu řešení sporné otázky pro příslušné orgány závazné."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Vyslovení nezávaznosti stanoviska poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA V - DAŇOVÁ ARBITRÁŽ",
+      "content": "(1) Tuzemský příslušný orgán může podat soudu návrh na vyslovení nezávaznosti stanoviska poradního orgánu pro tuzemský příslušný orgán v případě, kdy\na) se stanovisko tohoto poradního orgánu stalo závazné pro tuzemský příslušný orgán,\nb) vyšlo najevo, že uznávaná nezávislá osoba, která byla členem tohoto poradního orgánu, porušila zákaz dostat se do postavení, pro které lze podat námitku proti jejímu jmenování členem poradního orgánu, a\nc) porušení tohoto zákazu mohlo mít vliv na nezávislost stanoviska poradního orgánu.\n(2) Návrh podle odstavce 1 lze podat nejpozději do 2 let ode dne přijetí stanoviska poradního orgánu.\n(3) Po dobu řízení o návrhu podle odstavce 1 nevydá tuzemský příslušný orgán zprávu o vyřešení sporné otázky, a pokud byla vydána, neuplatní se postup pro stanovení daně na základě této zprávy podle tohoto zákona, a přerušuje se lhůta pro\na) oznámení návrhu řešení sporné otázky,\nb) vyslovení souhlasu s návrhem řešení sporné otázky a\nc) podání dodatečného daňového přiznání, a to i pokud by tato lhůta byla stanovena na základě výzvy k podání dodatečného daňového přiznání.\n(4) Účastníkem řízení o návrhu podle odstavce 1 je tuzemský příslušný orgán a účastník postupu.\n(5) Tuzemský příslušný orgán vyrozumí zahraniční příslušné orgány o podaném návrhu podle odstavce 1 a o rozhodnutí soudu o tomto návrhu."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Následky vyslovení nezávaznosti stanoviska poradního orgánu soudem",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA V - DAŇOVÁ ARBITRÁŽ",
+      "content": "(1) Pokud soud rozhodne o tom, že stanovisko poradního orgánu není pro tuzemský příslušný orgán závazné,\na) tuzemský příslušný orgán nevydá zprávu o výsledku harmonizovaného postupu, a pokud tuto zprávu již vydal, nepřihlíží se k ní, a\nb) účastník postupu může podat znovu žádost o posouzení sporné otázky poradním orgánem, o čemž jej soud v rozsudku poučí.\n(2) Lhůta pro podání žádosti podle odstavce 1 písm. b) běží ode dne, kdy nabyl právní moci rozsudek, kterým byla vyslovena nezávaznost stanoviska poradního orgánu pro tuzemský příslušný orgán.\n(3) Pokud byla na základě zprávy o vyřešení sporné otázky pravomocně stanovena daň, obnoví se z moci úřední řízení, ve kterém byla daň stanovena."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Zřízení poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Tuzemský příslušný orgán v součinnosti se zahraničními příslušnými orgány zřídí poradní orgán nejpozději do 120 dnů ode dne, kdy mu došla žádost o zahájení harmonizovaného postupu poradní komisí nebo žádost o posouzení sporné otázky poradním orgánem. Předseda poradního orgánu vyrozumí účastníka postupu o zřízení poradního orgánu.\n(2) Tuzemský příslušný orgán ve lhůtě podle odstavce 1 dohodne se zahraničními příslušnými orgány pravidla fungování poradního orgánu, která podepíše pověřená úřední osoba tuzemského příslušného orgánu, a oznámí účastníkovi postupu\na) pravidla fungování poradního orgánu,\nb) lhůtu, ve které poradní orgán přijme stanovisko, a\nc) odkazy na použitelné vnitrostátní předpisy dotčených států a na použitelné mezinárodní smlouvy."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Jmenování členů poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Ve lhůtě pro zřízení poradní komise\na) jmenuje tuzemský příslušný orgán členem poradní komise\n1. svého zástupce a\n2. uznávanou nezávislou osobu a jejího náhradníka a\nb) jmenují zástupci příslušných orgánů a uznávané nezávislé osoby, kteří jsou členem poradního orgánu, ze všech uznávaných nezávislých osob předsedu poradní komise.\n(2) Pokud se členové poradní komise nedohodnou jinak, jmenují podle odstavce 1 písm. b) předsedou poradní komise uznávanou nezávislou osobu, která je soudcem.\n(3) Počet členů poradní komise podle odstavce 1 písm. a) bodu 1 nebo 2 lze zvýšit na 2, pokud se na tom dohodnou všechny příslušné orgány.\n(4) Pravidla pro určení uznávaných nezávislých osob, které mají být jmenovány podle odstavce 1 písm. a) bodu 2, tuzemský příslušný orgán dohodne se zahraničním příslušným orgánem. Pokud se nepodaří tato pravidla dohodnout, určí se tyto uznávané nezávislé osoby losováním ze všech uznávaných nezávislých osob.\n(5) Nedohodnou-li se příslušné orgány jinak, použijí se pro komisi pro alternativní řešení sporů odstavce 1 až 4 obdobně."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Námitka proti jmenování uznávané nezávislé osoby členem poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Tuzemský příslušný orgán může, s výjimkou případů, kdy byly uznávané nezávislé osoby do této funkce jmenovány soudem nebo jiným orgánem či osobou, jež jsou podle právních předpisů dotčeného státu určeny pro výkon této funkce, vznést námitku proti jmenování uznávané nezávislé osoby členem poradního orgánu příslušným orgánem, jestliže\na) přísluší k některému z orgánů působících v oblasti správy daní nebo pro něj pracuje anebo se v takovém postavení nacházela v průběhu předchozích 3 let přede dnem svého jmenování členem poradního orgánu,\nb) má nebo měla podstatný vlastnický podíl nebo hlasovací právo v kterémkoli dotčeném poplatníkovi nebo je či byla jeho zaměstnancem nebo poradcem v průběhu předchozích 5 let přede dnem svého jmenování členem poradního orgánu,\nc) neposkytuje dostatečnou záruku nestrannosti při řešení sporu, ve kterém má být rozhodnuto,\nd) samostatně vykonává daňově poradenskou činnost, je zaměstnancem podnikatele, který poskytuje daňově poradenskou činnost, nebo se v takovém postavení nacházela v průběhu předchozích 3 let přede dnem svého jmenování členem poradního orgánu, nebo\ne) nastal důvod, který byl předem dohodnut všemi příslušnými orgány.\n(2) Tuzemský příslušný orgán uznávané nezávislé osobě sdělí před jejím jmenováním členem poradního orgánu důvody podjatosti, na kterých se podle odstavce 1 písm. e) dohodly příslušné orgány dotčených států.\n(3) Uznávané nezávislé osobě je zakázáno po dobu výkonu funkce v poradním orgánu a 1 rok po jejím skončení dostat se do postavení, pro které lze podat námitku podle odstavce 1; ztráta postavení uznávané nezávislé osoby nemá na tento zákaz vliv.\n(4) Uznávaná nezávislá osoba na základě vyžádání kteréhokoli příslušného orgánu oznámí tomuto příslušnému orgánu informace o jakémkoliv zájmu, vztahu nebo záležitosti, které by mohly ovlivňovat její nezávislost nebo nestrannost nebo které by mohly důvodně vzbudit pochybnosti o její nepodjatosti v průběhu výkonu funkce, do 15 dnů ode dne, kdy jí byla tato žádost oznámena.\n(5) Tuzemský příslušný orgán na žádost uznávané nezávislé osoby vydá této osobě potvrzení o tom, k jakému dni skončil výkon její funkce v poradním orgánu."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Pravidla fungování poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Poradní orgán postupuje v souladu s pravidly fungování poradního orgánu.\n(2) Pravidla fungování poradního orgánu obsahují zejména\na) popis a hlavní rysy sporné otázky,\nb) výchozí podmínky, na nichž se příslušné orgány dotčených států dohodnou, pokud jde o právní a věcné otázky, které mají být vyřešeny,\nc) druh poradního orgánu,\nd) časový rámec pro řešení sporné otázky,\ne) složení poradního orgánu včetně počtu členů, jejich jmen, podrobných informací o jejich způsobilosti a kvalifikaci a informací o jejich jakémkoli střetu zájmů,\nf) pravidla upravující\n1. účast účastníka postupu a jiné osoby zúčastněné na správě daní při jednání poradního orgánu,\n2. vzájemné předávání záznamů, informací a důkazů,\n3. náklady a způsob jejich úhrady,\n4. druh postupu řešení sporů, který má být použit, a\n5. veškeré další důležité procesní či organizační záležitosti,\ng) organizační opatření pro jednání poradního orgánu a vydání jeho stanoviska.\n(3) Pokud se zřizuje poradní komise k posouzení přípustnosti žádosti o zahájení harmonizovaného postupu, obsahují pravidla jejího fungování pouze údaje podle odstavce 2 písm. a) a d) až f).\n(4) Pravidla fungování komise pro alternativní řešení sporů mohou upravit odchylně\na) jiný vhodný způsob, kterým tato komise dospěje k řešení sporné otázky,\nb) náklady a způsob jejich úhrady,\nc) účast účastníka postupu a jiné osoby zúčastněné na správě daní při jednání této komise, nebo\nd) poskytování informací této komisi."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Použití standardních pravidel fungování poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Pokud účastníkovi postupu nebyla řádně oznámena úplná pravidla fungování poradního orgánu, oznámí mu je předseda poradního orgánu do 2 týdnů ode dne, kdy byl poradní orgán zřízen.\n(2) Pokud jsou pravidla fungování poradního orgánu neúplná, předseda poradního orgánu a uznávané nezávislé osoby, které jsou členy tohoto orgánu, doplní tato pravidla před jejich oznámením účastníkovi postupu podle odstavce 1 na základě standardních pravidel fungování poradního orgánu vydaných Evropskou komisí.\n(3) Pokud se předseda poradního orgánu a uznávané nezávislé osoby, které jsou členy tohoto orgánu, nedohodnou na doplnění pravidel podle odstavce 2 nebo pokud předseda poradního orgánu neoznámí ve lhůtě podle odstavce 1 účastníkovi postupu úplná pravidla fungování poradního orgánu, může účastník postupu podat návrh soudu, aby uložil poradnímu orgánu oznámit dotčenému poplatníkovi úplná pravidla fungování poradního orgánu.\n(4) Účastníkem řízení podle odstavce 3 je účastník postupu a poradní orgán."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46 Stanovisko poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Poradní orgán vydá písemné stanovisko do 6 měsíců ode dne svého zřízení nebo ode dne, kdy mu byla sporná otázka předložena k posouzení, podle toho, který den nastane později.\n(2) Poradní orgán může při posuzování sporné otázky lhůtu podle odstavce 1 prodloužit až o 3 měsíce. Poradní orgán o tomto prodloužení vyrozumí všechny příslušné orgány a účastníka postupu.\n(3) Poradní orgán předá stanovisko podle odstavce 1 všem příslušným orgánům.\n(4) Uplyne-li marně lhůta podle odstavce 1, může účastník postupu podat návrh soudu, aby uložil poradnímu orgánu vydat stanovisko podle odstavce 1. Účastníkem řízení je účastník postupu a poradní orgán."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Postup komise pro alternativní řešení sporů",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "Komise pro alternativní řešení sporů postupuje obdobně jako poradní komise. Komise pro alternativní řešení sporů může postupovat i jiným přiměřeným způsobem, je-li to s ohledem na okolnosti sporné otázky vhodné."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Nečinnost tuzemského příslušného orgánu při zřizování poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Soud zřídí na návrh účastníka postupu poradní komisi a jmenuje její členy a případně jejich náhradníky, pokud není poradní orgán zřízen ve lhůtě pro jeho zřízení nebo do něj nejsou jmenováni či určeni všichni členové.\n(2) Soud v řízení podle odstavce 1 jmenuje\na) předsedou poradní komise uznávanou nezávislou osobu, pokud předseda poradní komise nebyl určen a jsou jmenováni všichni ostatní členové poradní komise,\nb) uznávanou nezávislou osobu členem poradní komise a uznávanou nezávislou osobu jejím náhradníkem, pokud tuzemský příslušný orgán nejmenoval alespoň 1 uznávanou nezávislou osobu členem poradní komise a alespoň 1 uznávanou nezávislou osobu jejím náhradníkem, a\nc) zástupce tuzemského příslušného orgánu členem poradního orgánu, pokud tuzemský příslušný orgán do poradní komise nejmenoval svého zástupce.\n(3) Pokud byly ve všech dotčených státech uznávané nezávislé osoby jmenovány členy poradního orgánu podle odstavce 2 písm. b) nebo obdobným postupem podle právních předpisů jiného dotčeného státu, určí členové poradní komise předsedu poradní komise losováním ze seznamu uznávaných nezávislých osob. V ostatních případech se pro určení předsedy poradního orgánu použije obdobně postup, jako kdyby všechny členy poradního orgánu jmenovaly příslušné orgány.\n(4) Návrh podle odstavce 1 lze podat nejpozději do 30 dnů ode dne, kdy uplynula lhůta pro zřízení poradního orgánu.\n(5) Soud v řízení podle odstavce 1 postupuje obdobně jako při jmenování rozhodců podle zákona upravujícího rozhodčí řízení.\n(6) Účastníkem řízení podle odstavce 1 je účastník postupu a tuzemský příslušný orgán. Tuzemský příslušný orgán o podaném návrhu podle odstavce 1 vyrozumí zahraniční příslušné orgány."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Účast dotčeného poplatníka při jednání poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Účastník postupu se může účastnit jednání poradního orgánu pouze se souhlasem všech příslušných orgánů. V souladu s pravidly fungování poradního orgánu se jednání poradního orgánu může účastnit zástupce účastníka postupu.\n(2) Účastník postupu nebo jeho zástupce, kteří se účastní jednání poradního orgánu podle odstavce 1, jsou povinni na výzvu příslušného orgánu učinit prohlášení o tom, že zachovají mlčenlivost o tom, co se při jednání poradního orgánu dozvěděli o poměrech jiných osob. Dotčený poplatník nebo jeho zástupce se smí zúčastnit jednání poradního orgánu, pouze pokud vyhoví této výzvě.\n(3) Poradní orgán může požádat tuzemský příslušný orgán o zajištění účasti účastníka postupu, který má místo pobytu nebo sídlo na území České republiky, na jednání poradního orgánu. Tuzemský příslušný orgán na základě této žádosti vyzve dotčeného poplatníka, aby se osobně nebo v zastoupení dostavil na jednání poradního orgánu. Ustanovení daňového řádu o předvolání a předvedení se nepoužijí."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50 Poskytování informací poradnímu orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Účastník postupu může z vlastního podnětu předložit poradnímu orgánu informace, důkazy nebo písemnosti, které mohou být důležité pro přijetí stanoviska poradního orgánu, pouze se souhlasem všech příslušných orgánů. Souhlas příslušných orgánů může být součástí pravidel fungování poradního orgánu.\n(2) Účastník postupu a příslušné orgány dotčených členských států poskytnou na žádost poradního orgánu veškeré informace, důkazní prostředky či písemnosti.\n(3) Poradní orgán získává v České republice informace od osob a jednotek bez právní osobnosti, které nejsou účastníkem postupu, a od jiných orgánů veřejné moci, pouze prostřednictvím žádosti tuzemskému příslušnému orgánu.\n(4) Tuzemský příslušný orgán může žádosti poradního orgánu o poskytnutí informací nevyhovět, pokud by jejich\na) získání bylo v rozporu s právními předpisy České republiky, nebo\nb) poskytnutí\n1. porušilo ochranu obchodního tajemství,\n2. porušilo zákonem uloženou nebo zákonem uznanou povinnost mlčenlivosti, nebo\n3. mohlo ohrozit veřejný pořádek nebo bezpečnost České republiky."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51 Vyloučení přístupu k poradnímu orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VI - SPOLEČNÁ USTANOVENÍ PRO PORADNÍ ORGÁNY",
+      "content": "(1) Tuzemský příslušný orgán může rozhodnout o zamítnutí žádosti o posouzení přípustnosti žádosti o zahájení harmonizovaného postupu poradní komisí nebo o zamítnutí žádosti o posouzení sporné otázky poradním orgánem, pokud se sporná otázka netýká dvojího zdanění. Tuzemský příslušný orgán o tomto rozhodnutí vyrozumí zahraniční příslušné orgány.\n(2) Dvojím zdaněním podle odstavce 1 se rozumí vznik daňové povinnosti v alespoň 2 dotčených státech ve vztahu k témuž zdanitelnému příjmu nebo majetku, pokud je jejich důsledkem\na) další daň,\nb) zvýšení daně nebo\nc) snížení daňové ztráty.\n(3) Tuzemský příslušný orgán může rozhodnout o zamítnutí žádosti o posouzení přípustnosti žádosti o zahájení harmonizovaného postupu poradní komisí nebo o zamítnutí žádosti o posouzení sporné otázky poradním orgánem, pokud v souvislosti s úpravou částky příjmů nebo majetku, které jsou předmětem sporné otázky, byl spáchán daňový trestný čin.\n(4) Tuzemský příslušný orgán může přerušit harmonizovaný postup po dobu trestního stíhání pro daňový trestný čin v souvislosti s úpravou částky příjmů nebo majetku, které jsou předmětem sporné otázky."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52 Návrh řešení sporné otázky",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VII - VYŘEŠENÍ SPORNÉ OTÁZKY",
+      "content": "(1) Tuzemský příslušný orgán oznámí účastníkovi postupu návrh řešení sporné otázky, kterým je\na) obsah dohody příslušných orgánů o řešení sporné otázky, nebo\nb) stanovisko poradního orgánu o způsobu řešení sporné otázky, pokud je pro příslušné orgány závazné.\n(2) Tuzemský příslušný orgán oznámí účastníkovi postupu návrh řešení sporné otázky do 30 dnů ode dne, kdy došlo k dohodě příslušných orgánů nebo kdy se stalo stanovisko závazným pro příslušné orgány, a vyzve jej k poskytnutí souhlasu s tímto návrhem ve lhůtě 60 dnů ode dne, kdy mu byla tato výzva oznámena.\n(3) Uplyne-li marně lhůta podle odstavce 2 nebo pokud byl souhlas dán s výhradou, platí, že souhlas nebyl dán.\n(4) Tuzemský příslušný orgán vyrozumí zahraniční příslušný orgán o tom, že u něj účastník postupu dal souhlas s návrhem řešení sporné otázky.\n(5) Tuzemský příslušný orgán vydá zprávu o výsledku harmonizovaného postupu pouze, pokud všichni účastníci postupu dají souhlas s návrhem řešení sporné otázky, bez ohledu na to, ve kterém dotčeném státě tak učiní. Souhlas musí být učiněn v plném rozsahu a bez výhrad.\n(6) Pokud některý z účastníků postupu nedá v žádném z dotčených států souhlas s návrhem řešení sporné otázky v plném rozsahu a bez výhrad, zastaví tuzemský příslušný orgán rozhodnutím harmonizovaný postup."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53 Obsah zprávy o výsledku harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VII - VYŘEŠENÍ SPORNÉ OTÁZKY",
+      "content": "Tuzemský příslušný orgán ve zprávě o výsledku harmonizovaného postupu uvede obsah návrhu řešení sporné otázky, ke kterému dali všichni účastníci postupu souhlas."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54 Jednostranné vyřešení sporné otázky v případě rozhodnutí zahraničního soudu o sporné otázce",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VII - VYŘEŠENÍ SPORNÉ OTÁZKY",
+      "content": "Pokud tuzemský příslušný orgán obdrží od zahraničního příslušného orgánu vyrozumění o tom, že soud dotčeného státu tohoto zahraničního příslušného orgánu přijal o sporné otázce rozhodnutí, od kterého se nelze odchýlit, vyřeší spornou otázku jednostranně tak, že vydá zprávu o výsledku harmonizovaného postupu, ve které uvede, jak se má ve vztahu ke sporné otázce vykládat a uplatňovat mezinárodní smlouva. Při tom není tuzemský příslušný orgán vázán tímto rozhodnutím soudu."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55 Odměna a náhrada výdajů člena poradního orgánu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VIII - NÁKLADY POSTUPU",
+      "content": "(1) Uznávané nezávislé osobě, která je členem poradního orgánu, lze přiznat odměnu do výše 1 000 EUR za každý den jednání poradního orgánu.\n(2) Uznávané nezávislé osobě, která je členem poradního orgánu, náleží v souvislosti s členstvím v tomto orgánu náhrada výdajů ve výši odpovídající průměru obvyklých náhrad poskytovaných vysoce postaveným úředníkům dotčených států.\n(3) Výši odměny podle odstavce 1 určí tuzemský příslušný orgán spolu se zahraničními příslušnými orgány. Tuzemský příslušný orgán při určení výše odměny postupuje hospodárně a přihlédne ke složitosti sporné otázky.\n(4) Způsob výplaty odměny podle odstavce 1 a náhrady výdajů podle odstavce 2 uznávané nezávislé osobě dohodne tuzemský příslušný orgán se zahraničními příslušnými orgány."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56 Náklady harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA VIII - NÁKLADY POSTUPU",
+      "content": "(1) Pro náklady harmonizovaného postupu se obdobně použijí ustanovení daňového řádu o nákladech řízení.\n(2) Nedohodnou-li se všechny příslušné orgány jinak, podílí se dotčené státy rovným dílem na úhradě odměny a náhrady výdajů uznávaných nezávislých osob, které jsou členem poradního orgánu.\n(3) Účastník postupu nese náklady na odměnu a náhradu výdajů podle odstavce 1, pokud se na tom dohodnou všechny příslušné orgány, v případě že\na) účastník postupu vezme zpět žádost o zahájení harmonizovaného postupu, nebo\nb) poradní komise vydá stanovisko, ze kterého vyplývá, že je žádost o zahájení harmonizovaného postupu nepřípustná.\n(4) Uhradil-li tuzemský příslušný orgán náklady řízení, které podle odstavce 3 nese účastník postupu, uloží mu povinnost tyto náklady uhradit. Je-li účastníků postupu více, uloží jim tuzemský příslušný orgán povinnost uhradit tyto náklady společně a nerozdílně. Náhrada nákladů řízení je splatná do 30 dnů ode dne právní moci tohoto rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57 Zveřejnění zprávy o výsledku harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IX - ZVEŘEJNĚNÍ",
+      "content": "(1) Příslušné orgány se mohou dohodnout na zveřejnění zprávy o výsledku harmonizovaného postupu, pokud spornou otázku posuzoval poradní orgán. Zprávu o výsledku harmonizovaného postupu lze zveřejnit pouze se souhlasem všech účastníků postupu.\n(2) Tuzemský příslušný orgán vyzve účastníka postupu k poskytnutí souhlasu a stanoví pro to přiměřenou lhůtu, která nesmí být kratší než 15 dnů.\n(3) Uplyne-li lhůta podle odstavce 2 marně, platí, že souhlas nebyl dán."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58 Zveřejnění shrnutí zprávy",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IX - ZVEŘEJNĚNÍ",
+      "content": "(1) Nedá-li některý účastník postupu souhlas se zveřejněním zprávy o výsledku harmonizovaného postupu nebo nedohodnou-li se na jejím zveřejnění všechny příslušné orgány, zveřejní příslušné orgány shrnutí této zprávy, pokud spornou otázku posuzoval poradní orgán.\n(2) Ve shrnutí zprávy podle odstavce 1 se uvede\na) popis předmětu sporné otázky a jeho skutková podstata,\nb) datum jejího vydání,\nc) zdaňovací období, jde-li o daň, která má zdaňovací období,\nd) právní základ zprávy,\ne) hospodářské odvětví,\nf) stručný popis konečného výsledku a\ng) popis uplatněného způsobu arbitráže.\n(3) Tuzemský příslušný orgán zašle informace, které mají být obsaženy ve shrnutí zprávy podle odstavce 1, před jejich zveřejněním účastníkovi postupu. Účastník postupu může do 60 dnů ode dne, kdy mu byly informace oznámeny, požádat tuzemský příslušný orgán o to, aby nezveřejňoval informace, jejichž zveřejnění by porušilo ochranu obchodního tajemství nebo zákonem uloženou nebo zákonem uznanou povinnost mlčenlivosti nebo by mohlo ohrozit veřejný pořádek nebo bezpečnost České republiky.\n(4) Tuzemský příslušný orgán o žádosti podle odstavce 3 rozhodne tak, že\na) žádosti zcela nebo částečně vyhoví a ze shrnutí zprávy tyto informace vyloučí, nebo\nb) žádost zamítne.\n(5) Včas podané odvolání proti rozhodnutí podle odstavce 4 má odkladný účinek."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59 Způsob zveřejnění",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA IX - ZVEŘEJNĚNÍ",
+      "content": "Zprávu o výsledku harmonizovaného postupu nebo její shrnutí zašlou ke zveřejnění Evropské komisi příslušné orgány na standardním formuláři pro sdělování informací vydaném Evropskou komisí."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60 Zpráva o výsledku harmonizovaného postupu",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "(1) O výsledku harmonizovaného postupu sepíše tuzemský příslušný orgán zprávu.\n(2) Zpráva o výsledku harmonizovaného postupu je vydána okamžikem, kdy byl učiněn úkon k jejímu doručení.\n(3) Tuzemský příslušný orgán opraví zřejmé chyby v psaní, počtech a jiné zřejmé nesprávnosti ve vyhotovení zprávy o výsledku harmonizovaného postupu opravnou zprávou o výsledku harmonizovaného postupu.\n(4) Tuzemský příslušný orgán oznámí zprávu o výsledku harmonizovaného postupu účastníkovi postupu a správci daně, který vede daňové řízení vztahující se ke sporné otázce.\n(5) Tuzemský příslušný orgán na žádost dotčeného poplatníka, který není účastníkem postupu, oznámí tomuto dotčenému poplatníkovi zprávu o výsledku harmonizovaného postupu, ze které vyloučí informace o jiné osobě zúčastněné na správě daní, na které se vztahuje povinnost mlčenlivosti podle daňového řádu.\n(6) Pro oznámení zprávy o výsledku harmonizovaného postupu se obdobně použijí ustanovení o oznámení rozhodnutí podle daňového řádu."
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61 Obdobné použití ustanovení o zastavení řízení",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "Pro zastavení harmonizovaného postupu se obdobně použijí ustanovení daňového řádu o zastavení řízení."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62 Vztah k řízením a jiným postupům",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "Probíhající harmonizovaný postup není překážkou, aby ve stejné věci bylo zahájeno nebo vedeno daňové řízení, řízení ve správním soudnictví, řízení před Ústavním soudem, řízení o uložení pokuty podle daňového řádu, řízení o přestupku nebo trestní stíhání nebo bylo rozhodnuto o povinnosti uhradit penále podle daňového řádu."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63 Vztah k prostředkům ochrany",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "V případě, že účastník postupu před počátkem nebo v průběhu běhu lhůty pro rozhodnutí příslušného orgánu o přípustnosti žádosti o zahájení harmonizovaného postupu nebo lhůty pro dosažení dohody o řešení sporné otázky využil v některém z dotčených států prostředku ochrany vzhledem k řízení, v rámci kterého došlo ke sporné otázce, běží tyto lhůty znovu ode dne pravomocného ukončení nebo přerušení řízení o těchto prostředcích ochrany."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64 Vztah k jiným postupům k dosažení vzájemné dohody",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "Podá-li účastník postupu žádost o zahájení harmonizovaného postupu, zastaví se všechny ostatní postupy k dosažení vzájemné dohody nebo k řešení sporu vedené podle mezinárodní smlouvy v souvislosti s touto spornou otázkou ke dni, ve kterém byla prvnímu příslušnému orgánu doručena žádost o zahájení harmonizovaného postupu."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65 Posouzení sporné otázky soudem",
+      "chapter": "ČÁST TŘETÍ - HARMONIZOVANÝ POSTUP > HLAVA X - SPOLEČNÁ USTANOVENÍ O HARMONIZOVANÉM POSTUPU",
+      "content": "(1) Spornou otázku, která je předmětem harmonizovaného postupu, může soud posoudit sám. Pokud byla vydána zpráva o výsledku harmonizovaného postupu, soud z ní vychází.\n(2) Pokud soud v řízení, které je ve správním soudnictví vedeno v souvislosti s opatřením, které vedlo nebo mohlo vést ke sporné otázce, posoudil tuto spornou otázku a vydal pravomocný rozsudek, proti kterému není možné podat kasační stížnost, nebo pokud uplynula lhůta pro podání kasační stížnosti proti tomuto rozsudku, zastaví tuzemský příslušný orgán harmonizovaný postup a vyrozumí o tom zahraniční příslušný orgán."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66 Stanovení daně účastníkovi postupu",
+      "chapter": "ČÁST ČTVRTÁ - STANOVENÍ DANĚ NA ZÁKLADĚ ZPRÁVY O VÝSLEDKU HARMONIZOVANÉHO POSTUPU",
+      "content": "(1) Správce daně je při stanovení daně účastníkovi postupu ve vztahu ke sporné otázce vázán zprávou o výsledku harmonizovaného postupu.\n(2) Vyplývá-li ze zprávy o výsledku harmonizovaného postupu, že má být daň jiná, než poslední známá daň, platí, že účastník postupu tuto skutečnost zjistil ke dni oznámení zprávy o výsledku harmonizovaného postupu. Při tom se nepřihlíží k tomu, zda bylo některé z rozhodnutí, z nichž vyplývá poslední známá daň, učiněno na základě pomůcek nebo vydáno na základě sjednání daně.\n(3) V případě daně vybírané srážkou se zpráva o výsledku harmonizovaného postupu uplatňuje podáním žádosti o zjednání nápravy."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67 Stanovení daně jinému dotčenému poplatníkovi",
+      "chapter": "ČÁST ČTVRTÁ - STANOVENÍ DANĚ NA ZÁKLADĚ ZPRÁVY O VÝSLEDKU HARMONIZOVANÉHO POSTUPU",
+      "content": "(1) Správce daně je při stanovení daně dotčenému poplatníkovi, který není účastníkem postupu, vázán zprávou o výsledku harmonizovaného postupu pouze, pokud ji tento dotčený poplatník uplatnil.\n(2) Dotčený poplatník, který není účastníkem postupu, uplatní zprávu o vyřešení sporné otázky tak, že ji přiloží k\na) daňovému tvrzení v daňovém řízení, kterého se týká sporná otázka, nebo\nb) žádosti o zjednání nápravy, jde-li o daň vybíranou srážkou."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68 Žádost o zjednání nápravy",
+      "chapter": "ČÁST ČTVRTÁ - STANOVENÍ DANĚ NA ZÁKLADĚ ZPRÁVY O VÝSLEDKU HARMONIZOVANÉHO POSTUPU",
+      "content": "(1) Žádost o zjednání nápravy se podává u správce daně místně příslušného plátci daně.\n(2) Správce daně rozhodne o žádosti o zjednání nápravy v případě daně vybíranou srážkou a uloží plátci daně zjednat nápravu ve stanovené lhůtě.\n(3) Rozhodnutí se oznamuje dotčenému poplatníkovi i plátci daně.\n(4) Pokud se částka, která byla plátcem daně vyúčtována, odchyluje od částky, která měla být plátcem daně sražena a odvedena, předepíše správce daně na základě tohoto rozhodnutí rozdíl mezi těmito částkami plátci daně do evidence daní.\n(5) Postup pro zvyšování nebo snižování povinnosti plátce srazit a odvést daň vybíranou srážkou podle daňového řádu se použije obdobně."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69 Společné ustanovení",
+      "chapter": "ČÁST ČTVRTÁ - STANOVENÍ DANĚ NA ZÁKLADĚ ZPRÁVY O VÝSLEDKU HARMONIZOVANÉHO POSTUPU",
+      "content": "(1) Správce daně není při stanovení daně vázán zprávou o výsledku harmonizovaného postupu, pokud soud v řízení, které je ve správním soudnictví vedeno v souvislosti s opatřením, které vedlo nebo mohlo vést ke sporné otázce, posoudil tuto spornou otázku a vydal rozsudek, proti kterému není možné podat kasační stížnost, nebo pokud uplynula lhůta pro podání kasační stížnosti proti tomuto rozsudku.\n(2) V souladu se zprávou o výsledku harmonizovaného postupu lze stanovit daň i v případě, že již uplynula lhůta pro stanovení daně. Při tom se neuplatní\na) lhůta pro podání dodatečného daňového tvrzení na daň nižší, pokud jde o účastníka postupu, a\nb) lhůta pro podání daňového tvrzení, pokud jde o dotčeného poplatníka, který není účastníkem postupu.\n(3) Změna nebo zrušení rozhodnutí o stanovení daně na základě zprávy o výsledku harmonizovaného postupu nezakládá nárok na úrok z neoprávněného jednání správce daně."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70 Přechodné ustanovení",
+      "chapter": "ČÁST PÁTÁ - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ",
+      "content": "Tento zákon se nepoužije na spornou otázku týkající se zdaňovacího období, které započalo před 1. lednem 2018, jde-li o daň, která má zdaňovací období, nebo daňové povinnosti, která vznikla před tímto dnem."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71 Účinnost",
+      "chapter": "ČÁST PÁTÁ - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem prvního kalendářního měsíce následujícího po jeho vyhlášení.\n1) Směrnice Rady (EU) 2017/1852 ze dne 10. října 2017 o mechanismech řešení daňových sporů v Evropské unii."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Spornou otázkou",
+      "definition": "záležitost vedoucí ke vzniku sporu vyplývajícího z výkladu a uplatňování mezinárodní smlouvy",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Dotčeným státem",
+      "definition": "členský stát Evropské unie, kterého se dotýká sporná otázka",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "Dotčeným poplatníkem",
+      "definition": "daňový rezident členského státu Evropské unie, na jehož daňovou povinnost má sporná otázka bezprostřední vliv",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Příslušným orgánem",
+      "definition": "tuzemský příslušný orgán nebo zahraniční příslušný orgán",
+      "source_provision": "§ 9"
+    },
+    {
+      "term": "Zahraničním příslušným orgánem",
+      "definition": "orgán jiného dotčeného státu, který je příslušným orgánem podle právních předpisů tohoto státu",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "Uznávanou nezávislou osobou",
+      "definition": "fyzická osoba nepříslušející k daňovému orgánu žádného členského státu Evropské unie, která se může za podmínek stanovených tímto zákonem podílet na posuzování",
+      "source_provision": "§ 15"
+    },
+    {
+      "term": "Tuzemskou uznávanou nezávislou osobou",
+      "definition": "fyzická osoba, kterou Ministerstvo financí jmenuje uznávanou nezávislou osobou",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "Zahraniční uznávanou nezávislou osobou",
+      "definition": "fyzická osoba, kterou orgán jiného členského státu Evropské unie jmenoval uznávanou nezávislou osobou",
+      "source_provision": "§ 19"
+    },
+    {
+      "term": "Poradním orgánem",
+      "definition": "poradní komise nebo komise pro alternativní řešení sporů",
+      "source_provision": "§ 20"
+    },
+    {
+      "term": "Dvojím zdaněním podle odstavce 1",
+      "definition": "vznik daňové povinnosti v alespoň 2 dotčených státech ve vztahu k témuž zdanitelnému příjmu nebo majetku, pokud je jejich důsledkem",
+      "source_provision": "§ 51"
+    }
+  ]
+}

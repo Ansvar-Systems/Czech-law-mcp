@@ -1,0 +1,41 @@
+{
+  "id": "cz:267/1994",
+  "type": "statute",
+  "title": "267/1994 Sb., Zákon, kterým se mění a doplňuje občanský zákoník",
+  "title_en": "",
+  "short_name": "267/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-12-30",
+  "in_force_date": "1995-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1994/267",
+  "description": "Zákon, kterým se mění a doplňuje občanský zákoník",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Občanský zákoník č. 40/1964 Sb., ve znění zákona č. 58/1969 Sb., zákona č. 131/1982 Sb., zákona č. 94/1988 Sb., zákona č. 188/1988 Sb., zákona č. 87/1990 Sb., zákona č. 105/1990 Sb., zákona č. 116/1990 Sb., zákona č. 87/1991 Sb., zákona č. 509/1991 Sb. a zákona č. 264/1992 Sb., se mění a doplňuje takto:\n1. V § 33b odst. 5 se slova „vůči němu“ nahrazují slovy „vůči ní“.\n2. V § 40a se slova „589 a 701 odst. 1“ nahrazují slovy „589, § 701 odst. 1 a § 775“.\n3. § 685 odst. 1 zní:\n„(1) Nájem bytu vzniká nájemní smlouvou, kterou pronajímatel přenechává nájemci za nájemné byt do užívání, a to na dobu určitou nebo bez určení doby užívání. Nájem bytu je chráněn; pronajímatel jej může vypovědět jen z důvodů stanovených v zákoně.“.\n4. § 686 odst. 1 zní:\n„(1) Nájemní smlouva musí obsahovat označení bytu, jeho příslušenství, rozsah jejich užívání a způsob výpočtu nájemného a úhrady za plnění spojená s užíváním bytu nebo jejich výši. Nájemní smlouva musí mít písemnou formu.“.\n5. V § 692 se za odstavec 2 vkládá nový odstavec 3, který zní:\n„(3) Nájemce je povinen po předchozí písemné výzvě umožnit pronajímateli nebo jím pověřené osobě, aby provedl instalaci a údržbu zařízení pro měření a regulaci tepla, teplé a studené vody, jakož i odpočet naměřených hodnot. Stejně je povinen umožnit přístup k dalším technickým zařízením, pokud jsou součástí bytu a patří pronajímateli.“.\n6. V § 694 se na konci připojuje tato věta: „V případě porušení této povinnosti je pronajímatel oprávněn požadovat, aby nájemce provedené úpravy a změny bez odkladu odstranil.“.\n7. V § 706 odst. 1 se v první větě za slova „snacha, kteří“ vkládají slova „prokáží, že“ a v druhé větě za slova „výživou, jestliže“ vkládají slova „prokáží, že“.\n8. V § 709 se vypouštějí slova „byty trvale určené jako“.\n9. V § 710 odst. 3 se vypouští část věty za středníkem.\n10. § 711 odst. 1 písm. b) zní:\n„b) jestliže nájemce přestal vykonávat práci pro pronajímatele a pronajímatel potřebuje služební byt pro jiného nájemce, který pro něho bude pracovat;“.\n11. V § 711 odst. 1 písm. h) se na konci doplňují slova „a nebo ho bez závažných důvodů užívá jen občas;“.\n12. § 711 se doplňuje novým odstavcem 5, který zní:\n„(5) Jestliže pronajímatel bez vážných důvodů nevyužil vyklizeného bytu k účelu, pro který soud k výpovědi nájmu přivolil, může soud na návrh nájemce rozhodnout, že pronajímatel je povinen dodatečně uhradit nájemci, který byt uvolnil, stěhovací náklady a další náklady spojené s potřebnou úpravou náhradního bytu. Soud může dále uložit pronajímateli, aby nájemci uhradil rozdíl ve výši nájemného z dosavadního bytu a z bytu náhradního, až za dobu pěti let, počínaje měsícem, v němž se nájemce přestěhoval do náhradního bytu, nejdéle však do doby, kdy nájemce ukončil nájem náhradního bytu. Právo nájemce na úhradu rozdílu v nájemném se v období pěti let nepromlčí. Jiné nároky nájemce nejsou tím dotčeny.“.\n13. § 712 zní:"
+    },
+    {
+      "provision_ref": "§ 879b",
+      "section": "879b",
+      "title": "§ 879b",
+      "chapter": "„HLAVA SEDMÁ - PŘECHODNÁ USTANOVENÍ K ÚPRAVÁM ÚČINNÝM OD 1. LEDNA 1995 (zákon č. 267/1994 Sb.)",
+      "content": "(1) Smlouvy o nájmu bytů uzavřené platně i v jiné než písemné formě jsou platné i nadále.\n(2) Ustanovení § 712 odst. 2 čtvrté věty se vztahují na nájemní smlouvy uzavřené po účinnosti tohoto zákona.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„HLAVA SEDMÁ - PŘECHODNÁ USTANOVENÍ K ÚPRAVÁM ÚČINNÝM OD 1. LEDNA 1995 (zákon č. 267/1994 Sb.)",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1995."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Náhradním ubytováním",
+      "definition": "byt o jedné místnosti nebo pokoj ve svobodárně nebo podnájem v zařízené nebo nezařízené části bytu jiného nájemce",
+      "source_provision": "„§ 712"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "id": "cz:127/2005",
   "type": "statute",
-  "title": "Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
+  "title": "127/2005 Sb., Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
   "title_en": "Electronic Communications Act",
   "short_name": "ZEK",
   "status": "in_force",
   "issued_date": "2005-03-31",
-  "in_force_date": "2005-05-01",
-  "url": "https://www.e-sbirka.cz/sb/2005/127/2026-01-01",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/127",
   "description": "Sets out legal obligations for electronic communications networks and services.",
   "provisions": [
     {
@@ -1569,23 +1569,23 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "neziskovou organizací",
-      "definition": "veřejně prospěšná právnická osoba, která podle svého zakladatelského právního jednání nerozděluje zisk ani jiné vlastní zdroje mezi své členy.",
+      "term": "neziskovou organizací veřejně prospěšná",
+      "definition": "právnická osoba, která podle svého zakladatelského právního jednání nerozděluje zisk ani jiné vlastní zdroje mezi své členy.",
       "source_provision": "§ 2"
     },
     {
-      "term": "přiřazenými prostředky",
-      "definition": "přiřazené služby, prostředky fyzické infrastruktury a jiná zařízení nebo prvky související se sítí elektronických komunikací nebo službou elektronických komunikací, které umožňují nebo podporují poskytování služeb prostřednictvím této sítě nebo služby nebo jsou toho schopny, a zahrnují budovy nebo vstupy do budov, kabelové rozvody v budovách, antény, věže a jiné podpůrné konstrukce, kabelovody, potrubí, stožáry, vstupní šachty a rozvodné skříně",
+      "term": "přiřazenými prostředky přiřazené služby",
+      "definition": "prostředky fyzické infrastruktury a jiná zařízení nebo prvky související se sítí elektronických komunikací nebo službou elektronických komunikací, které umožňují nebo podporují poskytování služeb prostřednictvím této sítě nebo služby nebo jsou toho schopny, a zahrnují budovy nebo vstupy do budov, kabelové rozvody v budovách, antény, věže a jiné podpůrné konstrukce, kabelovody, potrubí, stožáry, vstupní šachty a rozvodné skříně",
       "source_provision": "§ 2"
     },
     {
-      "term": "sítí elektronických komunikací",
-      "definition": "přenosové systémy, bez ohledu na to, zda jsou založeny na trvalé infrastruktuře nebo jsou centralizovaně kapacitně řízené, nebo nikoli, a popřípadě i spojovací nebo směrovací zařízení a jiné prostředky, včetně neaktivních síťových prvků, které umožňují přenos signálů po vedení, rádiovými, optickými nebo jinými elektromagnetickými prostředky, včetně družicových sítí, pevných sítí okruhově nebo paketově komutovaných včetně internetu, mobilních sítí, sítí pro rozvod elektrické energie v rozsahu, v jakém jsou používány pro přenos signálů, sítí pro rozhlasové a televizní vysílání a sítí kabelové televize, bez ohledu na typ přenášené informace",
+      "term": "sítí elektronických komunikací přenosové systémy",
+      "definition": "bez ohledu na to, zda jsou založeny na trvalé infrastruktuře nebo jsou centralizovaně kapacitně řízené, nebo nikoli, a popřípadě i spojovací nebo směrovací zařízení a jiné prostředky, včetně neaktivních síťových prvků, které umožňují přenos signálů po vedení, rádiovými, optickými nebo jinými elektromagnetickými prostředky, včetně družicových sítí, pevných sítí okruhově nebo paketově komutovaných včetně internetu, mobilních sítí, sítí pro rozvod elektrické energie v rozsahu, v jakém jsou používány pro přenos signálů, sítí pro rozhlasové a televizní vysílání a sítí kabelové televize, bez ohledu na typ přenášené informace",
       "source_provision": "§ 2"
     },
     {
-      "term": "elektronickým komunikačním zařízením",
-      "definition": "technické zařízení pro vysílání, přenos, směrování, spojování nebo příjem signálů prostřednictvím elektromagnetických vln",
+      "term": "elektronickým komunikačním zařízením technické",
+      "definition": "zařízení pro vysílání, přenos, směrování, spojování nebo příjem signálů prostřednictvím elektromagnetických vln",
       "source_provision": "§ 2"
     },
     {
@@ -1594,8 +1594,8 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "koncovým bodem sítě",
-      "definition": "fyzický bod, ve kterém je koncovému uživateli poskytován přístup k veřejné komunikační síti; v případě sítí zahrnujících komutaci nebo směrování je tento bod určen konkrétní síťovou adresou, která může být spojena s číslem nebo jménem účastníka",
+      "term": "koncovým bodem sítě fyzický bod",
+      "definition": "ve kterém je koncovému uživateli poskytován přístup k veřejné komunikační síti; v případě sítí zahrnujících komutaci nebo směrování je tento bod určen konkrétní síťovou adresou, která může být spojena s číslem nebo jménem účastníka",
       "source_provision": "§ 2"
     },
     {
@@ -1614,13 +1614,13 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "interpersonální komunikační službou založenou na číslech",
-      "definition": "interpersonální komunikační služba, která je spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která umožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
+      "term": "interpersonální komunikační službou založenou na číslech interpersonální komunikační",
+      "definition": "služba, která je spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která umožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
       "source_provision": "§ 2"
     },
     {
-      "term": "interpersonální komunikační službou nezávislou na číslech",
-      "definition": "interpersonální komunikační služba, která není spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která neumožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
+      "term": "interpersonální komunikační službou nezávislou na číslech interpersonální komunikační",
+      "definition": "služba, která není spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která neumožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
       "source_provision": "§ 2"
     },
     {
@@ -1629,23 +1629,18 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "hlasovou komunikační službou",
-      "definition": "veřejně dostupná služba elektronických komunikací pro uskutečňování a přijímání, a to přímo nebo nepřímo, národních nebo mezinárodních volání prostřednictvím jednoho nebo více čísel národního nebo mezinárodního číslovacího plánu",
+      "term": "hlasovou komunikační službou veřejně dostupná",
+      "definition": "služba elektronických komunikací pro uskutečňování a přijímání, a to přímo nebo nepřímo, národních nebo mezinárodních volání prostřednictvím jednoho nebo více čísel národního nebo mezinárodního číslovacího plánu",
       "source_provision": "§ 2"
     },
     {
-      "term": "radiokomunikační službou",
-      "definition": "komunikační činnost, která spočívá v přenosu, vysílání nebo příjmu signálů prostřednictvím rádiových vln",
+      "term": "radiokomunikační službou komunikační",
+      "definition": "činnost, která spočívá v přenosu, vysílání nebo příjmu signálů prostřednictvím rádiových vln",
       "source_provision": "§ 2"
     },
     {
       "term": "voláním",
       "definition": "spojení uskutečněné prostřednictvím veřejně dostupné interpersonální komunikační služby, které umožňuje obousměrnou hlasovou komunikaci",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "službami úplné konverzace",
-      "definition": "služby multimediální konverzace v reálném čase, které umožňují obousměrný symetrický přenos pohyblivého obrazu, textu a hlasu mezi uživateli na dvou nebo více místech",
       "source_provision": "§ 2"
     },
     {
@@ -1661,21 +1656,6 @@
     {
       "term": "škodlivou interferencí",
       "definition": "rušení, které ohrožuje funkčnost radionavigační služby nebo jiných bezpečnost zajišťujících radiokomunikačních služeb nebo které jinak vážně zhoršuje, znemožňuje nebo opakovaně přerušuje radiokomunikační služby provozované v souladu s tímto zákonem a jinými právními předpisy, se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce, a se závazky vyplývajícími z členství České republiky v Evropské unii nebo jiné mezinárodní organizaci",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "integritou sítě",
-      "definition": "funkčnost a provozuschopnost propojených sítí elektronických komunikací, ochrana těchto sítí vůči poruchám způsobeným elektromagnetickým rušením nebo provozním zatížením",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "interoperabilitou služby",
-      "definition": "takové nastavení přenosových parametrů služby a rozhraní, které umožňuje komunikaci mezi koncovými uživateli nebo mezi koncovým uživatelem a podnikatelem poskytujícím službu prostřednictvím technologicky různých sítí elektronických komunikací",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "regulací",
-      "definition": "usměrňování komunikačních činností a vztahů za účelem dosažení a udržení konkurenčního prostředí, ochrany trhu elektronických komunikací, včetně ochrany uživatelů služeb elektronických komunikací, vydáváním rozhodnutí, opatření obecné povahy a stanovisek podle tohoto zákona a v jeho mezích",
       "source_provision": "§ 2"
     },
     {
@@ -1699,13 +1679,8 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "rádiovým spektrem",
-      "definition": "elektromagnetické vlny o kmitočtu nižším než 3 000 GHz šířené prostorem bez umělého vedení",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "harmonizovaným rádiovým spektrem",
-      "definition": "rádiové spektrum, pro jehož dostupnost a efektivní využívání byly stanoveny harmonizované podmínky prostřednictvím technických prováděcích opatření v souladu s článkem 4 rozhodnutí Evropského parlamentu a Rady č. 676/2002/ES ze dne 7. března 2002 o předpisovém rámci pro politiku rádiového spektra v Evropském společenství (rozhodnutí o rádiovém spektru).",
+      "term": "harmonizovaným rádiovým spektrem rádiové spektrum",
+      "definition": "pro jehož dostupnost a efektivní využívání byly stanoveny harmonizované podmínky prostřednictvím technických prováděcích opatření v souladu s článkem 4 rozhodnutí Evropského parlamentu a Rady č. 676/2002/ES ze dne 7. března 2002 o předpisovém rámci pro politiku rádiového spektra v Evropském společenství (rozhodnutí o rádiovém spektru).",
       "source_provision": "§ 2"
     },
     {

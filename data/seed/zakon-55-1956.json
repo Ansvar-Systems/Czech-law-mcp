@@ -1,0 +1,652 @@
+{
+  "id": "cz:55/1956",
+  "type": "statute",
+  "title": "55/1956 Sb., Zákon o sociálním zabezpečení",
+  "title_en": "",
+  "short_name": "55/1956 Sb.",
+  "status": "in_force",
+  "issued_date": "1956-12-18",
+  "in_force_date": "1962-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1956/55",
+  "description": "Zákon o sociálním zabezpečení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Účel zákona.",
+      "chapter": "ČÁST PRVÁ. - ÚVODNÍ USTANOVENÍ.",
+      "content": "Ústava 9. května zaručuje všem občanům právo na zaopatření ve stáří, při nezpůsobilosti k práci a při nemožnosti obživy. Toto právo bylo občanům zajištěno národním pojištěním. Jeho součástí bylo též důchodové zabezpečení zaměstnanců. Rozvoj našeho národního hospodářství a jeho úspěchy umožňují přebudovat důchodové zabezpečení zaměstnanců a přičlenit k němu sociální péči o všechny občany, kteří jí potřebují. Účelem takto vytvořeného sociálního zabezpečení je přispět v souladu s rozvojem výrobních sil ještě více k zvýšení hmotné i kulturní úrovně pracujících a k výstavbě socialismu v našem státě. Dávky a služby sociálního zabezpečení poskytuje stát. Zaměstnanci neplatí na jejich úhradu zvláštní příspěvky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Věcný obsah sociálního zabezpečení.",
+      "chapter": "ČÁST PRVÁ. - ÚVODNÍ USTANOVENÍ.",
+      "content": "Sociální zabezpečení zahrnuje:\n1. důchodové zabezpečení\na) zaměstnanců a\nb) příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů;\n2. zabezpečení důchodců v nemoci;\n3. sociální péči."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Osobní rozsah.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Na dávky důchodového zabezpečení podle tohoto dílu zákona mají nárok:\na) zaměstnanci,\nb) domáčtí dělníci,\nc) žáci učilišť státních pracovních záloh,\nd) učňové,\npojištění podle předpisů o nemocenském pojištění zaměstnanců (dále jen „zaměstnanci“), jakož i pozůstalí po zaměstnancích.\n(2) Zaměstnancem ve smyslu tohoto zákona je též, kdo je činný pro socialistický sektor v poměru, který má obsah zaměstnaneckého pracovního poměru, avšak není takto označen nebo nemá všechny náležitosti předepsané pro vznik zaměstnaneckého pracovního poměru; předchozí ustanovení však neplatí, jestliže taková osoba je z důvodu této činnosti pojištěna již podle jiných předpisů na dávky obdobné dávkám důchodového zabezpečení.\n(3) Jako zaměstnanci mají nárok na dávky důchodového zabezpečení s odchylkami stanovenými v prováděcích předpisech (§ 32):\na) studenti vysokých škol a vědečtí aspiranti,\nb) spisovatelé, hudební skladatelé, výtvarní umělci, architekti, vědečtí badatelé, výkonní umělci a artisté, uznaní příslušnou vrcholnou organisací, pokud jde o činnost, kterou nevykonávají v zaměstnaneckém pracovním poměru;\nc) jiní pracovníci, o kterých to stanoví státní úřad sociálního zabezpečení a Ústřední rada odborů společnou vyhláškou v úředním listě."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Obsah důchodového zabezpečení zaměstnanců. Výčet dávek.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Z důchodového zabezpečení se poskytují zaměstnancům dávky ve stáří a při trvalé pracovní neschopnosti; pozůstalým po zaměstnancích se poskytují dávky při ztrátě živitele.\n(2) Z důchodového zabezpečení zaměstnanců se poskytují tyto dávky:\n1. důchody:\na) starobní,\nb) invalidní a částečný invalidní,\nc) invalidní a částečný invalidní při pracovním úrazu,\nd) vdovský,\ne) vdovecký,\nf) sirotčí,\ng) manželky,\nh) za výsluhu let,\nch) osobní,\ni) sociální;\n2. výchovné k důchodům;\n3. zvýšení důchodů pro bezmocnost."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Pracovní kategorie.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Zaměstnání se pro účely důchodového zabezpečení zařazují do tří pracovních kategorií:\na) do I. pracovní kategorie patří zaměstnání pod zemí v dolech a zaměstnání výkonných letců;\nb) do II. pracovní kategorie patří zaměstnání vykonávaná za zvlášť těžkých pracovních podmínek;\nc) do III. pracovní kategorie patří ostatní zaměstnání.\n(2) Vláda určuje, která zaměstnání se zařazují do II. pracovní kategorie. Seznam zaměstnání zařazených do II. pracovní kategorie se uveřejní vyhláškou státního úřadu sociálního zabezpečení v úředním listě.\n(3) Zaměstnancem I. (II.) pracovní kategorie se rozumí zaměstnanec, který byl zaměstnán v I. (II.) pracovní kategorii po dobu potřebnou pro nárok na důchod (§ 9 odst. 1 a § 13) nebo jemuž vznikl nárok na důchod následkem pracovního úrazu (§ 16) utrpěného při výkonu tohoto zaměstnání, jestliže ke dni vzniku nároku na důchod\na) takové zaměstnání trvalo, nebo\nb) neuplynulo více než dva roky ode dne výstupu z takového zaměstnání, nebo\nc) neuplynulo více než pět let ode dne změny zaměstnání, k níž došlo z důvodů zdravotních na doporučení posudkové komise sociálního zabezpečení (§ 70) nebo v obecném zájmu.\n(4) Náhradní doby (§ 6 odst. 2) se započítávají jako doba zaměstnání v I. (II.) pracovní kategorii, bylo-li takové zaměstnání přerušeno jen jimi."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Doba zaměstnání. Náhradní doby.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Pokud tento zákon požaduje pro vznik nebo výši nároků na dávky určitou dobu zaměstnání, rozumí se jí:\n1. doba zaměstnání (§ 3) od 1. ledna 1957,\n2. před tímto dnem:\na) doba národního (veřejnoprávního) důchodového pojištění zaměstnaneckého,\nb) doba pracovního poměru, po kterou byl zaměstnanec účasten veřejného nebo jemu obdobného pensijního zaopatření,\nc) doba činnosti postavené na roveň době důchodového pojištění zvláštními předpisy.\n(2) Byl-li zaměstnanec zaměstnán nebo pojištěn (odstavec 1) aspoň rok, započítávají se - nestanoví-li tento zákon nebo předpisy podle něho vydané jinak - do doby zaměstnání v III. pracovní kategorii tyto náhradní doby:\n1. v období do 30. září 1948 v rozsahu stanoveném podle odstavce 4:\na) doba vojenské služby,\nb) doby odbojové činnosti a věznění z politických nebo rasových důvodů v době nesvobody;\n2. v období od 1. října 1948:\na) doba přípravy na povolání po skončení povinné školní docházky studiem na výběrových a vysokých školách, doba vědecké aspirantury, jakož i doba odborného nebo politického školení,\nb) doba vojenské služby v československých ozbrojených silách a ve spojeneckých armádách,\nc) doba výcviku nebo školení pro nové zaměstnání prováděných se souhlasem orgánu sociálního zabezpečení,\nd) doba, po kterou měl zaměstnanec nárok na peněžité dávky nemocenského pojištění poskytované místo mzdy,\ne) doba, po kterou žena pečovala o dítě (§ 24) mladší osmi let nebo o nezletilce, který pro svůj trvale nepříznivý zdravotní stav potřeboval stálé péče.\n(3) Kryje-li se doba zaměstnání s náhradní dobou, započte se jen jedna z nich, a to ta, jejíž zápočet je pro zaměstnance výhodnější; to platí též, kryjí-li se doby zaměstnání nebo náhradní doby navzájem.\n(4) Státní úřad sociálního zabezpečení stanoví v dohodě s ministerstvy národní obrany a vnitra a s Ústřední radou odborů vyhláškou v úředním listě, které doby podle odstavce 2 č. 1 a v jakém rozsahu se započítávají do doby zaměstnání; v dohodě s Ústřední radou odborů může též stanovit, které jiné činnosti a v jakém rozsahu se kladou na roveň době zaměstnání (odstavec 1 č. 2 písm. c)."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7. Přerušení zaměstnání. Zachování nároků.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Bylo-li zaměstnání přerušeno po dobu nepřesahující pět let, započítává se doba zaměstnání před přerušením; trvalo-li však přerušení zaměstnání déle než pět let, započítává se doba zaměstnání před přerušením, jestliže zaměstnání po něm trvalo aspoň tři roky.\n(2) Bylo-li zaměstnání přerušeno po dobu, po kterou je poskytován důchod invalidní, částečný invalidní nebo za výsluhu let, posuzují se nároky z důchodového zabezpečení tak, jako kdyby zaměstnanec nevystoupil ze zaměstnání, doba přerušení se však nezapočítává do doby zaměstnání. To platí též, bylo-li zaměstnání přerušeno na dobu delší než 2 roky z jiných vážných důvodů. O tom, bylo-li zaměstnání přerušeno z vážných důvodů, rozhoduje na žádost zaměstnance výkonný orgán okresního národního výboru. Žádost je nutno podat nejpozději do dvou roků od výstupu ze zaměstnání."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8. Průměrný roční výdělek.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl první. - Základní ustanovení.",
+      "content": "(1) Důchody se vyměřují z průměrného ročního výdělku.\n(2) Průměrný roční výdělek se vypočítává z hrubých výdělků za posledních 10 kalendářních let před vznikem nároku na důchod, po případě za posledních 5 kalendářních let, jestliže to je pro zaměstnance výhodnější. Průměrný roční výdělek až do částky 24.000 Kčs se bere za podklad vyměření důchodu plně, nad tuto částku, nejvýše však celkem do 60.000 Kčs, jednou třetinou.\n(3) Průměrný roční výdělek zaměstnance staršího 60 let a průměrný roční výdělek zaměstnance I. pracovní kategorie nebo ženy, kteří jsou starší 55 let, se vypočítává za kalendářní léta před dovršením tohoto věku, je-li tento průměrný roční výdělek vyšší než průměrný roční výdělek vypočtený podle odstavce 2; starobní, invalidní nebo částečný invalidní důchod osoby, která již požívá nebo požívala některý z těchto důchodů, nesmí být vyměřen z nižšího průměrného ročního výdělku, než kolik činil průměrný roční výdělek, z něhož byl již důchod vyměřen.\n(4) Státní úřad sociálního zabezpečení stanoví v dohodě s Ústřední radou odborů podrobnosti vyhláškou v úředním listě; přitom může stanovit, že některé doby, po které zaměstnanec (důchodce) neměl výdělek, se vylučují z období rozhodného pro výpočet průměrného ročního výdělku."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9. Podmínky nároku.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Starobní důchod náleží zaměstnanci, který byl zaměstnán (§ 6) nejméně 20 roků, jestliže v době trvání zaměstnání nebo nejpozději do dvou roků po výstupu z něho dosáhl věku aspoň 60 let, zaměstnanec I. pracovní kategorie nebo žena věku aspoň 55 let.\n(2) Zaměstnanci, který byl zaměstnán (§ 6) po dobu kratší než 20 let, avšak nejméně 5 let, náleží starobní důchod, jestliže v době trvání zaměstnání nebo nejpozději do dvou roků po výstupu z něho dosáhl věku aspoň 65 let."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10. Výše starobního důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Základní výměra starobního důchodu (§ 9 odst. 1) zaměstnance I. pracovní kategorie činí 60 %, zaměstnance II. pracovní kategorie 55 % a zaměstnance III. pracovní kategorie 50 % průměrného ročního výdělku.\n(2) Byl-li zaměstnanec I. anebo II. pracovní kategorie zaměstnán do dne vzniku nároku na starobní důchod déle než 20 let a zaměstnanec III. pracovní kategorie déle než 25 let, přičítají se k základní výměře důchodu za každý další rok zaměstnání\nv I. pracovní kategorii od 21. roku zaměstnání 2 %,\nv II. pracovní kategorii od 21. roku zaměstnání 1,5 % a\nv III. pracovní kategorii od 26. roku zaměstnání 1 %\nprůměrného ročního výdělku; přitom se náhradní doba péče o dítě [§ 6 odst. 2 č. 2 písm. e)] nezapočítává do doby zaměstnání rozhodné pro výši důchodu.\n(3) Jestliže zaměstnanec byl zaměstnán střídavě v různých pracovních kategoriích, včítá se pro zvýšení nároku na důchod podle odstavce 2 do prvých 20 roků (zaměstnanci III. pracovní kategorie do prvých 25 roků) zaměstnání vždy nejprve doba zaměstnání ve III. pracovní kategorii, poté doba zaměstnání ve II. a naposled doba zaměstnání v I. pracovní kategorii.\n(4) Starobní důchod zaměstnance staršího 65 let, který byl zaměstnán po dobu kratší než 20 let, avšak aspoň 5 let (§ 9 odst. 2), činí poměrnou část z 50 % průměrného ročního výdělku, která odpovídá poměru doby zaměstnání k době 20 let."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11. Nároky na starobní důchod po dobu zaměstnání.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Zaměstnancům, kteří vykonávají zaměstnání po splnění podmínek pro vznik nároku na starobní důchod, náleží starobní důchod, popřípadě jeho třetina nebo jiná část podle toho, ve které pracovní kategorii jsou zaměstnáni a jakého věku dosáhli. Podrobnou úpravu těchto nároků stanoví vláda, která též určí, jak se těmto zaměstnancům jejich nároky na starobní důchod zvyšují za každý další rok zaměstnání.\nInvalidní a částečný invalidní důchod."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12. Podmínky nároku.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Invalidní nebo částečný invalidní důchod náleží zaměstnanci, který byl zaměstnán po dobu potřebnou pro nárok na důchod (§ 13), jestliže se v době trvání zaměstnání nebo do dvou roků po výstupu z něho stal pro trvalé zhoršení zdravotního stavu invalidním nebo částečně invalidním.\n(2) Zásady, podle nichž se posuzuje invalidita a částečná invalidita, stanoví vláda; vyhlásí je státní úřad sociálního zabezpečení v úředním listě."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13. Potřebná doba zaměstnání.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Doba zaměstnání (§ 6) potřebná pro nárok na invalidní nebo částečný invalidní důchod činí u zaměstnanců\nve věku nad 20 let do 22 let 1 rok,\nnad 22 let do 24 let 2 roky,\nnad 24 let do 26 let 3 roky,\nnad 26 let do 28 let 4 roky,\nnad 28 let 5 roků.\nU zaměstnanců ve věku nad 28 let se doba zaměstnání potřebná pro nárok zjišťuje z posledních deseti let počítaných zpět od vzniku invalidity (částečné invalidity). U zaměstnance mladšího 20 let stačí i doba zaměstnání kratší než rok.\n(2) Získal-li zaměstnanec dobu zaměstnání v některém z věkových pásem (odstavec 1) a byl-li dále zaměstnán, považuje se za získanou doba zaměstnání potřebná v nejblíže vyšším věkovém pásmu.\n(3) Doba zaměstnání potřebná pro nárok na invalidní (částečný invalidní) důchod se pokládá vždy za získanou, jde-li o vdovu, která byla zaměstnána v době smrti svého manžela nebo vstoupila do zaměstnání nejpozději do jednoho roku po zániku nároku na vdovský důchod a pokračovala v zaměstnání až do dne, kdy se stala invalidní (částečně invalidní)."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14. Výše invalidního a částečného invalidního důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Základní výměra invalidního důchodu činí 50 % průměrného ročního výdělku.\n(2) Trvalo-li zaměstnání do dne vzniku nároku na invalidní důchod déle než 15 let, přičítají se k základní výměře důchodu za 16. a každý další rok zaměstnání:\nv I. pracovní kategorii 2 %,\nv II. pracovní kategorii 1,5 %,\nv III. pracovní kategorii 1 %\nprůměrného ročního výdělku. Náhradní doba péče o dítě [§ 6 odst. 2 č. 2 písm. e)] se nezapočítává do doby zaměstnání rozhodné pro výši důchodu.\n(3) Jestliže zaměstnanec byl zaměstnán střídavě v různých pracovních kategoriích, včítá se pro zvýšení důchodu podle odstavce 2 do prvých 15 roků zaměstnání vždy nejprve doba zaměstnání ve III. pracovní kategorii, poté doba zaměstnání ve II. pracovní kategorii a naposledy doba zaměstnání v I. pracovní kategorii.\n(4) Částečný invalidní důchod zaměstnance I. pracovní kategorie činí 35 %, zaměstnance II. pracovní kategorie 32 % a zaměstnance III. pracovní kategorie 30 % průměrného ročního výdělku."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15. Zvýšení invalidního důchodu pracujících důchodců.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Pracujícímu důchodci se zvyšuje nárok na invalidní důchod za každý rok zaměstnání po dni vzniku nároku na tento důchod, nejdříve však od 16. roku celkové doby zaměstnání; zvýšení činí v I. pracovní kategorii 2 %, v II. pracovní kategorii 1,5 % a v III. pracovní kategorii 1 % průměru hrubých ročních výdělků dosažených po dni vzniku nároku na důchod.\n(2) Zvýšení důchodu podle odstavce 1 se provede vždy po dvou letech, pokud zaměstnání trvá, jinak po skončení zaměstnání.\n(3) Do doby zaměstnání potřebné pro zvýšení invalidního důchodu se nezapočítávají náhradní doby."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16. Invalidní a částečný invalidní důchod při pracovním úrazu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Invalidní nebo částečný invalidní důchod náleží bez ohledu na délku doby zaměstnání, jestliže se zaměstnanec stal v době trvání zaměstnání nebo nejpozději do dvou let od výstupu z něho invalidním nebo částečně invalidním (§ 12 odst. 2) následkem pracovního úrazu.\n(2) Pracovním úrazem je úraz, který zaměstnanec utrpěl:\na) při výkonu zaměstnání nebo v souvislosti s ním, počítajíc v to cestu do práce a zpět, pokud ji zaměstnanec podstatně nepřerušil z příčin nesouvisících se zaměstnáním,\nb) při činné účasti na opatřeních proti živelním pohromám a při odstraňování následků živelních pohrom nebo při záslužné činnosti konané bez právního závazku ve prospěch celku,\nc) při výkonu veřejné funkce.\n(3) Pracovním úrazům se kladou na roveň nemoci z povolání uvedené v příloze k tomuto zákonu, jestliže vznikly za podmínek v ní stanovených. Státní úřad sociálního zabezpečení může v dohodě s ministerstvem zdravotnictví a s Ústřední radou odborů doplňovat a měnit seznam nemocí z povolání; doplňky a změny vyhlásí v úředním listě.\n(4) Kde se v tomto zákoně mluví o invalidním nebo částečném invalidním důchodu, míní se tím také invalidní nebo částečný invalidní důchod při pracovním úrazu, pokud ze zákona nebo z předpisů podle něho vydaných nevyplývá jinak."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17. Výše invalidního a částečného invalidního důchodu při pracovním úrazu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Základní výměra invalidního důchodu při pracovním úrazu činí 65 % průměrného ročního výdělku. Ustanovení § 14 odst. 2 a 3 a § 15 platí i tu.\n(2) Částečný invalidní důchod při pracovním úrazu zaměstnance I. pracovní kategorie činí 45 %, zaměstnance II. pracovní kategorie 42 % a zaměstnance III. pracovní kategorie 40 % průměrného ročního výdělku.\nSpolečná ustanovení pro starobní a invalidní důchod."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18. Nové vyměření starobního a invalidního důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Je-li poživatel starobního důchodu zaměstnán po 65. roce věku, a jde-li o poživatele důchodu ze zaměstnání I. pracovní kategorie nebo ženu, po 60. roce věku, aspoň po dobu dvou roků, vyměří se důchod znovu (§§ 10 a 11) z průměrného ročního výdělku vypočteného za kalendářní léta před vznikem nároku na nové vyměření, je-li nový důchod vyšší než dosavadní důchod zvýšený podle § 11. Nové vyměření důchodu se provede vždy po dvou letech, pokud zaměstnání trvá, jinak po skončení zaměstnání.\n(2) Ustanovení odstavce 1 platí obdobně též pro poživatele invalidního důchodu bez ohledu na jeho věk, je-li zaměstnán po dni vzniku nároku na invalidní důchod."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19. Nejvyšší a nejnižší výměra starobního a invalidního důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Starobní a invalidní důchod zaměstnance I. pracovní kategorie činí nejvýše 90 %, starobní a invalidní důchod ostatních zaměstnanců nejvýše 85 % průměrného ročního výdělku. Starobní a invalidní důchod spolu s jakýmkoliv důchodem z důchodového zabezpečení (pojištění, zaopatření), včetně důchodů z penzijního nadlepšení, nesmí však přesahovat\nu zaměstnance I. pracovní kategorie částku 2200 Kčs,\nu zaměstnance II. pracovní kategorie částku 1800 Kčs a\nu zaměstnance III. pracovní kategorie částku 1600 Kčs\nměsíčně. Vláda může nařízením zvýšit tyto nejvyšší výměry důchodů.\n(2) Starobní důchod podle § 9 odst. 1 a invalidní důchod činí nejméně 400 Kčs měsíčně, starobní důchod podle § 9 odst. 2 nejméně 300 Kčs měsíčně. Starobní důchod ani invalidní důchod zaměstnance staršího 20 let nesmí však být vyšší než 90 % průměrného ročního výdělku.\nDůchody pozůstalých."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20. Všeobecné podmínky.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Důchod vdovský, vdovecký a sirotčí náležejí:\na) po zaměstnanci, který byl zaměstnán po dobu potřebnou pro nárok na invalidní důchod, neuplynulo-li od skončení zaměstnání do dne smrti více než 2 roky, nebo po zaměstnanci, který zemřel následkem pracovního úrazu,\nb) po poživateli důchodu starobního, invalidního, částečného invalidního a důchodu za výsluhu let."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21. Vdovský důchod.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Vdovský důchod náleží vdově po dobu jednoho roku od smrti zaměstnance (důchodce).\n(2) Vdovský důchod náleží nadále po uplynutí jednoho roku od smrti zaměstnance (důchodce) vdově, jestliže\na) je invalidní (§ 12 odst. 2), nebo\nb) pečuje aspoň o jedno dítě, jež má nárok na sirotčí důchod (§ 24), nebo\nc) vychovala aspoň 3 děti, nebo\nd) dosáhla věku 45 let a vychovala aspoň 2 děti, nebo\ne) dosáhla věku 50 let, nebo\nf) její manžel zemřel následkem pracovního úrazu utrpěného v zaměstnání I. pracovní kategorie a vdova dosáhla ke dni jeho smrti věku 40 let.\n(3) Nárok na vdovský důchod nezanikne, odpadne-li některá z podmínek uvedených v odstavci 2 písm. a) nebo b), jestliže vdova v době trvání nároku na důchod dosáhla věku 50 let anebo věku 45 let a vychovala aspoň 2 děti.\n(4) Nárok na vdovský důchod vznikne znovu, splní-li se některá z podmínek uvedených v odstavci 2 do dvou roků po zániku dřívějšího nároku na vdovský důchod.\n(5) Vdovský důchod náleží za podmínek uvedených v předchozích odstavcích též ženě, jejíž manželství se zaměstnancem (důchodcem) bylo rozvedeno (rozloučeno), jestliže byla v době jeho smrti odkázána na výživné, které jí byl povinen poskytovat.\n(6) Vdovský důchod může být přiznán, jsou-li pro to okolnosti hodné zvláštního zřetele, také družce, která žila se zaměstnancem (důchodcem) až do jeho smrti ve společné domácnosti a byla na něj odkázána výživou.\n(7) Nárok na vdovský důchod zaniká provdáním; je-li však splněna některá z podmínek uvedených v odstavci 2, vznikne při opětovném ovdovění původní nárok znovu, jestliže by po posledním manželu nárok nenáležel, nebo by náležel v nižší výměře."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22. Výše vdovského důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Vdovský důchod činí 70 %\na) starobního, invalidního (částečného invalidního) důchodu nebo důchodu za výsluhu let, který důchodce požíval v době smrti,\nb) starobního nebo invalidního důchodu, na který by měl zaměstnanec (pracující důchodce) nárok v době smrti, podle toho, který z důchodů je vyšší.\n(2) Vdově po poživateli částečného invalidního důchodu může být vyměřen v případech hodných zřetele vdovský důchod z invalidního důchodu, na který by měl poživatel částečného invalidního důchodu nárok, kdyby byl invalidní.\n(3) Rozvedené ženě náleží vdovský důchod jen do výše výživného (§ 21 odst. 5)."
+    },
+    {
+      "provision_ref": "§ 23.",
+      "section": "23",
+      "title": "§ 23. Vdovecký důchod.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Důchod vdovecký náleží vdovci po zaměstnankyni (důchodkyni), je-li invalidní (§ 12 odst. 2) a byl-li poslední rok před smrtí zaměstnankyně (důchodkyně) odkázán výživou na její výdělek (důchod).\n(2) Vdovecký důchod náleží ve výši vdovského důchodu."
+    },
+    {
+      "provision_ref": "§ 24.",
+      "section": "24",
+      "title": "§ 24. Sirotčí důchod.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Sirotčí důchod náleží vlastnímu i osvojenému dítěti zemřelého zaměstnance (důchodce).\n(2) Sirotčí důchod náleží také dítěti, jestliže zemřel jeho děd (bába) nebo pěstoun, který byl zaměstnancem (důchodcem), a jestliže dítě bylo v době jeho smrti na něj převážně odkázáno výživou.\n(3) Sirotčí důchod náleží až do skončení povinné školní docházky dítěte. Poté náleží sirotčí důchod nejdéle do 25. roku věku, jestliže dítě\na) se soustavně připravuje předepsaným výcvikem nebo studiem na budoucí povolání nebo\nb) je pro nemoc nebo pro tělesnou či duševní vadu trvale neschopno k práci.\n(4) Po několika zaměstnancích (důchodcích) náleží dítěti jen jeden sirotčí důchod, a to nejvyšší."
+    },
+    {
+      "provision_ref": "§ 25.",
+      "section": "25",
+      "title": "§ 25. Výše sirotčího důchodu.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Sirotčí důchod jednostranně osiřelého dítěte činí čtvrtinu, oboustranně osiřelého dítěte polovinu důchodu, z něhož se vyměřuje vdovský (vdovecký) důchod. Sirotčí důchod jednostranně osiřelého dítěte činí nejméně 120 Kčs měsíčně, oboustranně osiřelého dítěte nejméně 240 Kčs měsíčně. Jde-li o dvě nebo několik dětí, nesmí být sirotčí důchod žádného z nich nižší než poměrný díl připadající na jedno dítě z úhrnu výchovného k invalidnímu důchodu (§ 30 odst. 3).\nJiné dávky."
+    },
+    {
+      "provision_ref": "§ 26.",
+      "section": "26",
+      "title": "§ 26. Důchod manželky.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Manželce zaměstnance, který získal dobu zaměstnání potřebnou pro nárok na invalidní důchod (§ 13), nebo poživatele důchodu starobního, invalidního, částečného invalidního nebo za výsluhu let náleží důchod manželky, jestliže se stala invalidní (§ 12 odst. 2) nebo dosáhla věku 65 let a není výdělečně činná ani nepožívá důchod podle předpisů o důchodovém zabezpečení nebo podle jiných předpisů.\n(2) Důchod manželky může být přiznán také družce, která je odkázána svou výživou na zaměstnance (důchodce).\n(3) Důchod manželky činí 100 Kčs měsíčně.\n(4) Nárok na důchod manželky nezaniká skončením manželského soužití."
+    },
+    {
+      "provision_ref": "§ 27.",
+      "section": "27",
+      "title": "§ 27. Důchod za výsluhu let.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Zaměstnancům činným v zaměstnáních, která pro svou zvláštní povahu kladou mimořádné nároky na schopnosti a organismus zaměstnance, náleží po určité době zaměstnání bez zřetele na zdravotní stav a věk důchod za výsluhu let. Podrobnosti stanoví vláda."
+    },
+    {
+      "provision_ref": "§ 28.",
+      "section": "28",
+      "title": "§ 28. Osobní důchod.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Zvlášť zasloužilým pracovníkům v oboru hospodářství, vědy, kultury, správy a v jiných úsecích veřejné činnosti nebo pozůstalým po nich může být přiznán osobní důchod. Vláda může stanovit podrobnosti.\n(2) Osobní důchod nahrazuje jiné důchody z důchodového zabezpečení (pojištění)."
+    },
+    {
+      "provision_ref": "§ 29.",
+      "section": "29",
+      "title": "§ 29. Sociální důchod.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Potřebným osobám, které jsou starší 65 let nebo invalidní (§ 12 odst. 2) může být přiznán sociální důchod. Státní úřad sociálního zabezpečení stanoví v dohodě s ministerstvem financí, které osoby se považují za potřebné a v jaké výši se důchod vyměřuje."
+    },
+    {
+      "provision_ref": "§ 30.",
+      "section": "30",
+      "title": "§ 30. Výchovné k důchodům.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Výchovné náleží na každé dítě (§ 24) poživatele důchodu starobního, invalidního, částečného invalidního, za výsluhu let, osobního a sociálního. Výchovné nenáleží na dítě, jež má nárok na sirotčí důchod nebo na něž přísluší přídavek na děti (výchovné podle předpisů o materiálním zabezpečení příslušníků ozbrojených sil). Výchovné rovněž nenáleží na dítě, na něž nepřísluší přídavek na děti jen proto, že zaměstnanec nesplnil stanovené podmínky.\n(2) Výchovné činí měsíčně\npři důchoduna 1 dítěna 2 dětina 3 dětina 4 dětina 5 dětí\nKčsKčsKčsKčsKčsKčs\ndo 140070170430690950\nnad 140070170400640880\nPři více dětech se zvyšuje částka výchovného, která náleží důchodci na 5 dětí, na každé další dítě měsíčně\no 260 Kčs při důchodu do 1400 Kčs a\no 240 Kčs při důchodu nad 1400 Kčs.\n(3) Výchovné činí měsíčně\npři invalidním důchoduna 1 dítěna 2 dětina 3 dětina 4 dětina 5 dětí\nKčsKčsKčsKčsKčsKčs\ndo 1400120260480700950\nnad 1400120260460660880\nPři více dětech se zvyšuje částka výchovného, která náleží poživateli invalidního důchodu na 5 dětí, na každé další dítě měsíčně\no 260 Kčs při důchodu do 1400 Kčs a\no 240 Kčs při důchodu nad 1400 Kčs.\n(4) Jestliže poživatel důchodu je zároveň uživatelem zemědělské půdy ve výměře nad 0,5 ha (v pastvinářské nebo pícninářské oblasti nad 2 ha) nebo žije s takovým uživatelem půdy ve společné domácnosti jako člen rodiny, činí výchovné\nna 1 dítěna 2 dětina 3 dětina 4 děti\nKčsKčsKčsKčs\nk důchodu70170310490\nk invalidnímu důchodu120260420600\nměsíčně a zvyšuje se o 220 Kčs na každé další dítě.\nUstanovení § 36 odst. 2 zákona č. 54/1956 Sb., o nemocenském pojištění zaměstnanců, platí obdobně.\n(5) Mělo-li by nárok na výchovné na totéž dítě několik osob, náleží výchovné té, která má nárok na vyšší výchovné, a při stejné výši výchovného té, jíž bylo dříve přiznáno. Vzniknou-li někomu nároky na výchovné na totéž dítě podle různých předpisů o důchodovém zabezpečení (pojištění, zaopatření), přizná se jen vyšší výchovné.\n(6) Výchovné náleží až do skončení povinné školní docházky dítěte a poté za stejných podmínek jako sirotčí důchod.\n(7) Je-li dítě v zaopatření jiné osoby než důchodce, vyplácí se výchovné této osobě.\n(8) Určuje-li soud výživné na dítě, přihlíží i k tomu, do jaké míry jsou potřeby dítěte uhrazovány výchovným, které se na ně poskytuje; do určeného výživného se výchovné nezapočítává."
+    },
+    {
+      "provision_ref": "§ 31.",
+      "section": "31",
+      "title": "§ 31. Zvýšení důchodů (výchovného) pro bezmocnost.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Důchody mohou být zvýšeny až o polovinu, je-li důchodce trvale tak bezmocný, že potřebuje ošetření a obsluhy jinou osobou. Sirotčí důchod lze zvýšit pro bezmocnost až od 7. roku věku dítěte. Také výchovné na dítě starší 7 let může být zvýšeno až o polovinu, je-li dítě trvale bezmocné.\nProváděcí předpisy."
+    },
+    {
+      "provision_ref": "§ 32.",
+      "section": "32",
+      "title": "§ 32.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "Státní úřad sociálního zabezpečení může v dohodě se zúčastněnými ústředními orgány stanovit vyhláškou v úředním listě podrobnosti, zejména která zaměstnání se považují za zaměstnání pod zemí v dolech, jakož i stanovit odchylky od ustanovení tohoto dílu zákona, vyžaduje-li toho zvláštní povaha činnosti některých skupin zaměstnanců nebo způsob jejich odměňování.\nDůchodové nadlepšení."
+    },
+    {
+      "provision_ref": "§ 33.",
+      "section": "33",
+      "title": "§ 33.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl I. - Důchodové zabezpečení zaměstnanců. > Oddíl druhý. - Dávky.",
+      "content": "(1) Zaměstnanci si mohou své nároky zvyšovat důchodovým nadlepšením za pojistné, které sami platí.\n(2) Vláda stanoví nařízením podrobnosti."
+    },
+    {
+      "provision_ref": "§ 34.",
+      "section": "34",
+      "title": "§ 34.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl II. - Důchodové zabezpečení příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů.",
+      "content": "(1) Příslušníkům ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů a stali se invalidními nebo částečně invalidními (§ 12 odst. 2) následkem úrazu nebo onemocnění vzniklých při obraně Československé republiky, při výkonu jiných povinností v ozbrojených silách nebo v souvislosti s pobytem na frontě, náleží\na) invalidní nebo částečný invalidní důchod jako při pracovním úrazu (§§ 16 a 17), jestliže byli bezprostředně před vstupem do ozbrojených sil důchodově zabezpečeni jako zaměstnanci; částečný invalidní důchod činí 45 % průměrného ročního výdělku;\nb) invalidní důchod ve výši 65 % nebo částečný invalidní důchod ve výši 45 % z částky 12 000 Kčs ročně, jestliže nebyli bezprostředně před vstupem do ozbrojených sil důchodově zabezpečeni jako zaměstnanci.\n(2) Důchod náležející podle odstavce 1 písm. a) se vyměří z průměrného ročního výdělku, nejméně však z částky 12.000 Kčs ročně."
+    },
+    {
+      "provision_ref": "§ 35.",
+      "section": "35",
+      "title": "§ 35.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl II. - Důchodové zabezpečení příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů.",
+      "content": "Příslušníkům ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů a stali se v době, kdy vykonávali službu v ozbrojených silách, invalidními nebo částečně invalidními následkem úrazu nebo onemocnění vzniklých za jiných okolností, než jak je uvedeno v § 34 odst. 1, náleží\na) invalidní nebo částečný invalidní důchod podle § 14, jestliže byli bezprostředně před vstupem do ozbrojených sil důchodově zabezpečeni jako zaměstnanci; ustanovení § 34 odst. 2 platí i tu; částečný invalidní důchod činí 35 % průměrného ročního výdělku;\nb) invalidní důchod ve výši 50 % nebo částečný invalidní důchod ve výši 35 % z částky 12 000 Kčs ročně, jestliže nebyli bezprostředně před vstupem do ozbrojených sil důchodově zabezpečeni jako zaměstnanci."
+    },
+    {
+      "provision_ref": "§ 36.",
+      "section": "36",
+      "title": "§ 36.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl II. - Důchodové zabezpečení příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů.",
+      "content": "(1) Dávky podle § 34 náleží též osobám, které se staly invalidními nebo částečně invalidními v příčinné souvislosti s poškozením zdraví, jež utrpěly následkem účasti v boji proti fašismu jako příslušníci ozbrojených útvarů, anebo následkem věznění z důvodů fašistické persekuce v době nesvobody.\n(3) Dávky podle § 35 náležejí též osobám, které nejsou příslušníky ozbrojených sil, jestliže se staly invalidními nebo částečně invalidními následkem úrazu, jenž byl bez jejich zavinění způsoben bojovým prostředkem. Mladistvým osobám náleží však až do skončení povinné školní docházky jen polovina důchodu, na který by měly nárok podle předchozí věty."
+    },
+    {
+      "provision_ref": "§ 37.",
+      "section": "37",
+      "title": "§ 37.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl II. - Důchodové zabezpečení příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů.",
+      "content": "O důchodech pozůstalých po osobách, které zemřely následkem poškození zdraví uvedeného v §§ 34 až 36 nebo byly poživateli důchodů podle těchto ustanovení, platí ustanovení §§ 20 až 25."
+    },
+    {
+      "provision_ref": "§ 38.",
+      "section": "38",
+      "title": "§ 38.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl II. - Důchodové zabezpečení příslušníků ozbrojených sil, kteří nejsou účastni důchodového zaopatření podle zvláštních předpisů.",
+      "content": "O výchovném a o zvýšení důchodů platí ustanovení §§ 30 a 31."
+    },
+    {
+      "provision_ref": "§ 39.",
+      "section": "39",
+      "title": "§ 39. Vznik a zánik nároku na dávku.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Nárok na dávku vzniká splněním časově poslední podmínky nároku. Nelze-li zjistit, kdy byla poslední podmínka nároku splněna, vzniká nárok dnem, kdy byl uplatněn.\n(2) Nárok na dávku zaniká, jestliže odpadla některá z jeho podmínek, pokud tento zákon nebo předpisy podle něho vydané nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 40.",
+      "section": "40",
+      "title": "§ 40. Povinnosti důchodce.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Důchodce (příjemce důchodu) je povinen ohlásit do 15 dnů všechny změny ve skutečnostech rozhodných pro trvání nároku na dávku, její výši a výplatu. Nehlásí-li poživatel starobního důchodu vstup do zaměstnání, nemá nárok na zvýšení důchodu (§ 11) za dobu, po kterou nesplnil ohlašovací povinnost; tím není dotčena jeho povinnost vrátit dávky přijaté neprávem (§ 41 odst. 2).\n(2) Důchodce (příjemce důchodu) je povinen osvědčit v dané lhůtě, že trvají skutečnosti rozhodné pro další poskytování dávky nebo pro její výši; neučiní-li tak, může být výplata dávky zastavena.\n(3) Výplata dávky podmíněné nepříznivým zdravotním stavem může být zastavena, zdráhá-li se osoba, jejíž zdravotní stav je třeba zjistit, podrobit se lékařskému vyšetření přesto, že byla upozorněna na možné zastavení výplaty dávky."
+    },
+    {
+      "provision_ref": "§ 41.",
+      "section": "41",
+      "title": "§ 41. Změna dávky a její vrácení.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Zanikne-li nárok na dávku nebo zjistí-li se dodatečně, že dávka byla přiznána na podkladě omylu ve skutkových okolnostech, nebo změní-li se skutečnosti rozhodné pro výši dávky nebo její výplatu, dávka se odejme, zvýší, sníží nebo se její výplata zastaví. Odnětí, snížení a zastavení výplaty dávky se provede ode dne následujícího po dni, jímž uplynulo období, za které byla již vyplacena. Zvýšení dávky omylem nesprávně vyměřené se provede ode dne, od něhož náleží.\n(2) Nebyla-li splněna povinnost uložená v § 40 odst. 1 nebo jestliže přiznání či výplata dávky byly přivoděny tvrzením nepravdivých nebo zatajením rozhodných skutečností anebo bylo-li soudně zjištěno, že poskytnutí dávky bylo vylouděno trestným činem, dávka se odejme nebo sníží ode dne, od něhož nenáležela buď vůbec nebo v poskytované výši; zároveň může být požadováno vrácení neprávem poskytnutých částek. O povinnosti vrátit tyto částky rozhoduje státní úřad sociálního zabezpečení. Částky neprávem přijaté mohou být sráženy též z běžně vyplácené nebo později přiznané dávky téhož oprávněného; přitom platí obdobně předpisy o částkách, které nelze zabavit při exekuci na plat."
+    },
+    {
+      "provision_ref": "§ 42.",
+      "section": "42",
+      "title": "§ 42. Omezení výplaty dávek.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Vznikne-li nárok na starobní důchod v době, po kterou se vyplácí nemocenské, posuzuje se nárok zaměstnance na starobní důchod a jeho výši stejně jako nárok zaměstnance, který vykonává zaměstnání.\n(2) Invalidní a částečný invalidní důchod se nevyplácí po dobu výplaty nemocenského přiznaného na podkladě nemocenského pojištění z doby před vznikem nároku na důchod. Invalidní nebo částečný invalidní důchod podle §§ 34 a 35 se vyplácí nejdříve po skončení služby v ozbrojených silách, za jejíhož vykonávání došlo k poškození zdraví.\n(3) Je-li důchodce, který nemá povinnost vyživovat jiné osoby, umístěn v psychiatrické léčebně po dobu delší šesti měsíců, důchod se počínajíc sedmým měsícem nevyplácí. Důchodci nebo jeho opatrovníku může však být vyplácena část důchodu na úhradu osobních potřeb a závazků důchodcových. Po návratu z léčebny vyplatí se důchodci důchod zpětně za poslední tři měsíce."
+    },
+    {
+      "provision_ref": "§ 43.",
+      "section": "43",
+      "title": "§ 43. Výplata dávek jiné osobě.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Kdyby se výplatou dávky oprávněnému zřejmě nedosáhlo účelu, kterému dávka má sloužit, nebo kdyby tím byly poškozovány zájmy osob, které je povinen vyživovat, určí lidový soud jeho bydliště na návrh manžela, opatrovníka dětí nebo výkonného orgánu místního národního výboru osobu, které má být dávka vyplácena místo oprávněnému. O návrhu rozhodne soudce usnesením. Vyhoví-li soud návrhu, je příjemce dávky povinen použít jí toliko ve prospěch oprávněného a osob, které je povinen vyživovat.\n(2) Za dobu, po kterou důchodce odpykává trest odnětí svobody delší tří měsíců, důchod nenáleží; manželce nebo dětem (§ 24) důchodce se vyplácí 70 % důchodu a výchovné."
+    },
+    {
+      "provision_ref": "§ 44.",
+      "section": "44",
+      "title": "§ 44. Souběh nároků na důchody.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Jsou-li splněny podmínky pro nárok na důchod starobní, důchod za výsluhu let, invalidní (částečný invalidní) důchod nebo podmínky pro nárok na dva důchody téhož druhu, náleží jen jeden, a to vyšší.\n(2) Jsou-li splněny podmínky pro nárok na některý z důchodů uvedených v odstavci 1 a pro nárok na důchod vdovský nebo sirotčí, náleží důchod vyšší (nejvyšší) a z ostatních důchodů po jedné polovině; k výchovnému a ke zvýšení důchodu pro bezmocnost se nehledí."
+    },
+    {
+      "provision_ref": "§ 45.",
+      "section": "45",
+      "title": "§ 45. Způsob výplaty dávek.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Důchody se vyplácejí dopředu v měsíčních splátkách zaokrouhlených na celé koruny nahoru.\n(2) Pro výplatu dávek do ciziny platí předpisy mezistátních úmluv. Výplata dávek do cizích států, s nimiž není úmluva uzavřena, řídí se směrnicemi, které vydá státní úřad sociálního zabezpečení v dohodě se zúčastněnými ministerstvy."
+    },
+    {
+      "provision_ref": "§ 46.",
+      "section": "46",
+      "title": "§ 46. Neplatná právní jednání.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "Nároky na dávky nemohou být dány v zástavu; postoupeny mohou být jen pro pohledávky na úhradu osobních potřeb (výživné), a to až do poloviny dávky. Zabavení nároku na dávky se řídí předpisy o exekuci na plat."
+    },
+    {
+      "provision_ref": "§ 47.",
+      "section": "47",
+      "title": "§ 47. Promlčení.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "(1) Nárok na dávku se nepromlčuje.\n(2) Nárok na jednotlivou splátku dávky se promlčuje v jednom roce ode dne její splatnosti.\n(3) Právo požadovat vrácení jednotlivých splátek dávek neprávem poskytnutých se promlčuje v 10 letech od jejich výplaty."
+    },
+    {
+      "provision_ref": "§ 48.",
+      "section": "48",
+      "title": "§ 48. Vynětí z daňové povinnosti.",
+      "chapter": "ČÁST DRUHÁ. - DŮCHODOVÉ ZABEZPEČENÍ. > Díl III. - Společná ustanovení o dávkách důchodového zabezpečení.",
+      "content": "Dávky se nezdaňují."
+    },
+    {
+      "provision_ref": "§ 50.",
+      "section": "50",
+      "title": "§ 50. Všeobecné ustanovení.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE.",
+      "content": "Stát pomáhá osobám, jež potřebují jeho pomoci, zejména osobám se změněnou pracovní schopností, dětem a občanům starým nebo těžce poškozeným na zdraví ke zlepšení jejich hmotných poměrů a k rozvoji jejich kulturního života poskytováním služeb nebo dávek, a to radou, pracovním umisťováním, ústavním zaopatřením a doplňkovou péčí."
+    },
+    {
+      "provision_ref": "§ 51.",
+      "section": "51",
+      "title": "§ 51. Úvodní ustanovení.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "(1) Výkonné orgány okresních národních výborů umisťují do zaměstnání v pracovním poměru osoby se změněnou pracovní schopností na místa vhodná pro tyto osoby se zřetelem na jejich pracovní kvalifikaci, po případě doporučují jich přijetí za členy výrobních družstev a jednotných zemědělských družstev; za tím účelem jim umožňují výcvik a školení pro získání odborné kvalifikace, aby se mohly pracovně vhodně uplatnit.\n(2) Výkonné orgány okresních národních výborů jsou oprávněny provádět v rozpočtových, hospodářských a jiných organisacích (dále jen „závody“) výběr pracovních míst pro osoby se změněnou pracovní schopností."
+    },
+    {
+      "provision_ref": "§ 52.",
+      "section": "52",
+      "title": "§ 52. Osoby se změněnou pracovní schopností.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "(1) Osobami se změněnou pracovní schopností jsou osoby, které pro trvalé poškození zdraví mají podstatně omezený výběr zaměstnání.\n(2) Za osoby se změněnou pracovní schopností se považují též osoby, které pro trvalé poškození zdraví, jež nastalo před započetím pravidelné pracovní činnosti, nebo pro vrozené vady mají podstatně omezený výběr zaměstnání, zejména mládež s těžkými zdravotními vadami po dosažení věku, v němž končí povinná školní docházka.\n(3) Ustanovení tohoto zákona, pokud jednají o osobách se změněnou pracovní schopností, se vztahují též na poživatele důchodů, na něž nárok je podmíněn nepříznivým zdravotním stavem, čítajíc v to i sociální důchody; to platí též pro poživatele obdobných důchodů poskytovaných podle jiných předpisů."
+    },
+    {
+      "provision_ref": "§ 53.",
+      "section": "53",
+      "title": "§ 53. Výcvik a školení.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "Výcvik a školení osob se změněnou pracovní schopností se provádí:\na) na pracovištích v závodech,\nb) ve výcvikových kursech,\nc) ve výcvikových střediscích."
+    },
+    {
+      "provision_ref": "§ 54.",
+      "section": "54",
+      "title": "§ 54. Hmotné zabezpečení před umístěním a po dobu výcviku a školení.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "Osobám se změněnou pracovní schopností se v odůvodněných případech poskytuje před umístěním do zaměstnání a po dobu, po kterou se podrobují výcviku nebo školení, hmotné zabezpečení a náhrada nutných výloh spojených s výcvikem nebo školením. Hmotné zabezpečení může se za týchž podmínek poskytovat též příslušníkům jejich rodin odkázaným na ně výživou."
+    },
+    {
+      "provision_ref": "§ 55.",
+      "section": "55",
+      "title": "§ 55. Plán pracovních míst.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "(1) Pracovní místa pro osoby se změněnou pracovní schopností zajišťují se každoročně plánem pracovních míst pro tyto osoby; plán sestavují výkonné orgány krajských národních výborů podle směrnic vydaných státním úřadem sociálního zabezpečení v dohodě se státním úřadem plánovacím a zúčastněnými ústředními úřady.\n(2) Neplnění plánu pracovních míst pro osoby se změněnou pracovní schopností se považuje za neplnění státního hospodářského plánu."
+    },
+    {
+      "provision_ref": "§ 56.",
+      "section": "56",
+      "title": "§ 56. Rozmisťování mládeže s těžkými zdravotními vadami.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "(1) Rozmisťování mládeže s těžkými zdravotními vadami do učebních a pracovních poměrů řídí státní úřad sociálního zabezpečení v dohodě s ministerstvy pracovních sil, zdravotnictví, školství a kultury a za součinnosti ostatních zúčastněných ústředních úřadů.\n(2) V plánech rozmístění dorostu se podle požadavků orgánů sociálního zabezpečení vyhradí počet učebních a pracovních míst potřebný pro mládež s těžkými zdravotními vadami.\nPracovní uplatnění a jeho ochrana."
+    },
+    {
+      "provision_ref": "§ 57.",
+      "section": "57",
+      "title": "§ 57.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "Závody, v nichž jsou pracovní místa vhodná pro osoby se změněnou pracovní schopností, nemohou uzavření pracovního (učebního) poměru s osobou se změněnou pracovní schopností odmítnout s poukazem na její zdravotní stav, jestliže druh práce a ostatní pracovní podmínky na tomto místě jsou podle rozhodnutí výkonného orgánu okresního národního výboru pro uchazeče vhodné vzhledem k jeho schopnostem. O přijetí osob se změněnou pracovní schopností doporučených za členy družstev (§ 51) rozhodne příslušný orgán družstva."
+    },
+    {
+      "provision_ref": "§ 58.",
+      "section": "58",
+      "title": "§ 58.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "(1) Závody mohou rozvázat pracovní (učební) poměr se zaměstnanci, kteří byli do závodu umístěni jako osoby se změněnou pracovní schopností, jakož i se zaměstnanci, kteří v závodě dosáhli věku rozhodného pro přiznání starobního důchodu (§ 9), jen po předchozím souhlasu příslušného výkonného orgánu okresního národního výboru. Toto ustanovení se nevztahuje na rozvazování pracovních poměrů se zaměstnanci provozu ve veřejné dopravě.\n(2) Pozbude-li zaměstnanec následkem úrazu nebo nemoci schopnosti k práci požadované na pracovním místě, které dosud zastával, je závod povinen přeřadit jej na takové pracovní místo, kde druh požadované práce a pracovní podmínky jsou pro něj vhodné vzhledem k jeho schopnostem. Rozvázat pracovní poměr s takovým zaměstnancem může závod jen po předchozím souhlasu příslušného výkonného orgánu okresního národního výboru."
+    },
+    {
+      "provision_ref": "§ 59.",
+      "section": "59",
+      "title": "§ 59. Povinnost závodů.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "Závody jsou pro splnění účelu tohoto zákona zejména povinny:\na) zřizovat ke splnění plánu pracovních míst pro osoby se změněnou pracovní schopností (§ 55) pracovní místa vhodná pro tyto osoby a obsazovat je osobami, jež do závodu doporučí výkonný orgán okresního národního výboru;\nb) provádět výcvik svých zaměstnanců, jejichž pracovní schopnost se následkem úrazu nebo nemoci trvale změnila, jakož i osob se změněnou pracovní schopností, jež byly do závodu umístěny, a zajistit jim místa odpovídající jejich kvalifikaci;\nc) dbát toho, aby pracovní podmínky a zařízení na pracovišti vyhovovaly potřebám osob se změněnou pracovní schopností; náklady spojené s nezbytnou úpravou pracoviště pro osoby se změněnou pracovní schopností jdou na vrub závodu."
+    },
+    {
+      "provision_ref": "§ 60.",
+      "section": "60",
+      "title": "§ 60. Dozor.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl I. - Péče o osoby se změněnou pracovní schopností.",
+      "content": "Výkonné orgány národních výborů dozírají, zda závody plní povinnosti uložené jim při umisťování osob se změněnou pracovní schopností, a sledují, zda osoby se změněnou pracovní schopností umístěné v závodě nepotřebují další pomoci. Za součinnosti posudkových komisí sociálního zabezpečení (§ 70) dozírají, zda zaměstnání těchto osob a podmínky, za nichž je vykonávají, nemají nepříznivý vliv na jejich zdravotní stav."
+    },
+    {
+      "provision_ref": "§ 61.",
+      "section": "61",
+      "title": "§ 61. Ústavy sociální péče.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl II. - Ústavní zaopatření.",
+      "content": "(1) Ústavní zaopatření se poskytuje v ústavech sociální péče, a to\na) v ústavech pro staré osoby;\nb) v ústavech pro osoby s trvalými tělesnými nebo smyslovými vadami, jichž ošetřování ve zdravotnickém zařízení není nutné;\nc) v ústavech pro osoby, jež pro trvale upravené chorobné stavy nepotřebují léčebné péče ve zdravotnickém zařízení, avšak potřebují ústavního zaopatření.\n(2) Vláda může stanovit, že ještě jiné ústavy, zejména některé ústavy pro děti a mládež s trvalými tělesnými, smyslovými nebo duševními vadami se považují za ústavy sociální péče.\n(3) V ústavech se poskytuje osobám v nich umístěným potřebné zaopatření, příležitost k vhodné pracovní činnosti a kulturní péče."
+    },
+    {
+      "provision_ref": "§ 62.",
+      "section": "62",
+      "title": "§ 62. Zřizování a správa ústavů sociální péče a dozor na ně.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl II. - Ústavní zaopatření.",
+      "content": "(1) Ústavy sociální péče zřizují, provozují a udržují výkonné orgány národních výborů, dobrovolné organisace, církve a náboženské společnosti; zřizovat je mohou též podniky a jednotná zemědělská družstva. Zásady pro zřizování, organisaci a správu těchto ústavů stanoví státní úřad sociálního zabezpečení.\n(2) Dozor na ústavy sociální péče náleží státnímu úřadu sociálního zabezpečení; vykonává jej prostřednictvím výkonných orgánů národních výborů."
+    },
+    {
+      "provision_ref": "§ 63.",
+      "section": "63",
+      "title": "§ 63. Úhrada nákladů ústavního zaopatření.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl II. - Ústavní zaopatření.",
+      "content": "Na úhradu nákladů ústavního zaopatření přispívají osoby umístěné v ústavech sociální péče podle svých hospodářských poměrů."
+    },
+    {
+      "provision_ref": "§ 64.",
+      "section": "64",
+      "title": "§ 64.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl III. - Doplňková péče.",
+      "content": "(1) Výkonné orgány národních výborů vyhledávají osoby, jež potřebují zvláštní péče. Podle potřeby mohou jim zejména zajistit stravování za výhodnějších podmínek, poskytnout přiměřenou věcnou nebo peněžitou výpomoc a po případě i jinak pečovat o zlepšení jejich životních podmínek a uspokojování kulturních potřeb; k těmto účelům mohou být zřizovány jídelny, kluby a jiná zařízení.\n(2) Osobám trvale těžce poškozeným na zdraví se poskytují výhody, zejména při osobní dopravě, a to za podmínek a v rozsahu, jež státní úřad sociálního zabezpečení po projednání s příslušnými ministerstvy stanoví vyhláškou v úředním listě."
+    },
+    {
+      "provision_ref": "§ 65.",
+      "section": "65",
+      "title": "§ 65.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl IV. - Péče o rodinné příslušníky osob povolaných ke službě v branné moci.",
+      "content": "(1) O věcech zaopatřovacího příspěvku rodinným příslušníkům osob povolaných ke službě v branné moci rozhodují jako o věcech sociální péče orgány sociálního zabezpečení.\n(2) Podmínky a rozsah nároku na tento příspěvek upravuje vláda nařízením."
+    },
+    {
+      "provision_ref": "§ 66.",
+      "section": "66",
+      "title": "§ 66.",
+      "chapter": "ČÁST ČTVRTÁ. - SOCIÁLNÍ PÉČE. > Díl V. - Prováděcí předpisy.",
+      "content": "Státní úřad sociálního zabezpečení stanoví v dohodě se zúčastněnými ústředními úřady a s Ústřední radou odborů vyhláškou v úředním listě podrobnosti k provedení této části zákona."
+    },
+    {
+      "provision_ref": "§ 67.",
+      "section": "67",
+      "title": "§ 67. Orgány sociálního zabezpečení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl I. - Organisace.",
+      "content": "Orgány sociálního zabezpečení jsou státní úřad sociálního zabezpečení, slovenský úřad sociálního zabezpečení a výkonné orgány národních výborů."
+    },
+    {
+      "provision_ref": "§ 68.",
+      "section": "68",
+      "title": "§ 68. Státní úřad sociálního zabezpečení a slovenský úřad sociálního zabezpečení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl I. - Organisace.",
+      "content": "(1) Státní úřad sociálního zabezpečení je ústředním úřadem se sídlem v Praze. V jeho čele je předseda jmenovaný vládou. Předseda je odpovědný vládě.\n(2) Slovenský úřad sociálního zabezpečení je slovenským orgánem se sídlem v Bratislavě. V jeho čele je předseda jmenovaný sborem pověřenců; je odpovědný sboru pověřenců a je povinen dbát zásadních směrnic předsedy státního úřadu sociálního zabezpečení.\n(3) Státní úřad sociálního zabezpečení a slovenský úřad sociálního zabezpečení mají způsobilost být účastníky řízení před soudy."
+    },
+    {
+      "provision_ref": "§ 69.",
+      "section": "69",
+      "title": "§ 69. Působnost orgánů sociálního zabezpečení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl I. - Organisace.",
+      "content": "(1) Sociální zabezpečení podle tohoto zákona provádějí výkonné orgány národních výborů. Státní úřad sociálního zabezpečení vykonává působnost, která je mu vyhrazena tímto zákonem, a rozhoduje o dávkách důchodového zabezpečení, pokud předseda úřadu v dohodě se zúčastněnými členy vlády a s Ústřední radou odborů nepřenese vyhláškou v úředním listě rozhodování o těchto dávkách na výkonné orgány národních výborů.\n(2) Okresní a krajské národní výbory volí jako své výkonné orgány komise sociálního zabezpečení rad národních výborů. Vláda stanoví složení a organizaci těchto komisí.\n(3) Komise sociálního zabezpečení rad národních výborů rozhodují o dávkách, službách a ostatních věcech sociálního zabezpečení, o kterých to stanoví Státní úřad sociálního zabezpečení v dohodě s Ústřední radou odborů vyhláškou v Úředním listě. Vyhláškou Státního úřadu sociálního zabezpečení vydanou v dohodě s Ústřední radou odborů se též stanoví způsob jednání komisí sociálního zabezpečení.\n(4) Vláda může na návrh Ústřední rady odborů nebo národních výborů nařízením stanovit, jak ještě více přiblížit sociální zabezpečení pracujícím a jak zvýšit jejich účast na provádění a kontrole sociálního zabezpečení."
+    },
+    {
+      "provision_ref": "§ 70.",
+      "section": "70",
+      "title": "§ 70. Posudkové komise sociálního zabezpečení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl I. - Organisace.",
+      "content": "(1) Posudkové komise sociálního zabezpečení zřízené jako znalecké orgány při výkonných orgánech okresních a krajských národních výborů provádějících sociální zabezpečení (dále jen „posudkové komise“) podávají posudky nebo návrhy ve všech případech, kde rozhodnutí o dávce (službě) závisí na zdravotním stavu nebo pracovní schopnosti, zejména\na) v řízení o dávkách důchodového zabezpečení,\nb) pro pracovní uplatnění osob se změněnou pracovní schopností,\nc) pro obnovení a udržení pracovní schopnosti léčením nebo opatřením vhodných pomůcek.\n(2) Podrobnosti o organisaci a činnosti posudkových komisí stanoví státní úřad sociálního zabezpečení v dohodě s ministerstvy zdravotnictví a spravedlnosti a s Ústřední radou odborů."
+    },
+    {
+      "provision_ref": "§ 71.",
+      "section": "71",
+      "title": "§ 71. Žádost o dávku (službu).",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "O poskytnutí dávky (služby) se rozhoduje zpravidla na žádost, která se podává u výkonného orgánu okresního národního výboru, v jehož obvodu žadatel bydlí."
+    },
+    {
+      "provision_ref": "§ 72.",
+      "section": "72",
+      "title": "§ 72. Součinnost žadatele.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "(1) Žadatel o dávku (službu) je povinen na vyzvání prokázat skutečnosti rozhodné pro poskytnutí dávky (služby), pro její výši a výplatu. Nelze-li tyto skutečnosti prokázat, lze výjimečně připustit o nich čestné prohlášení.\n(2) Je-li přiznání dávky podmíněno nepříznivým zdravotním stavem, je osoba, jejíž zdravotní stav má být zjištěn, povinna podrobit se lékařskému vyšetření."
+    },
+    {
+      "provision_ref": "§ 73.",
+      "section": "73",
+      "title": "§ 73. Součinnost zdravotnických zařízení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "Výkonná zdravotnická zařízení jsou povinna na požádání orgánů sociálního zabezpečení provést vyšetření zdravotního stavu v řízení o dávkách (službách), podávat lékařské nálezy, posudky a zprávy o průběhu nemoci a vydávat opisy chorobopisů, jichž je třeba k rozhodnutí o dávce (službě)."
+    },
+    {
+      "provision_ref": "§ 74.",
+      "section": "74",
+      "title": "§ 74. Náklady.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "(1) Věcné a osobní náklady na vyšetření zdravotního stavu pro účely tohoto zákona včetně nákladů na posudkové komise, jakož i náklady na zřízení a udržování výcvikových středisek [§ 53 písm. c)], na provádění výcviku (školení) v nich a ve výcvikových kursech [§ 53 písm. b)] jdou na vrub státu.\n(2) Stát též uhrazuje cestovné, stravné a nocležné, po případě i jiné nutné výlohy osobám, jež se na vyzvání podrobí vyšetření zdravotního stavu nebo se dostaví k jednání posudkové komise. Státní úřad sociálního zabezpečení stanoví v dohodě s ministerstvem financí a s Ústřední radou odborů podrobnosti; přitom též stanoví, za jakých podmínek se nahrazuje ušlý výdělek."
+    },
+    {
+      "provision_ref": "§ 75.",
+      "section": "75",
+      "title": "§ 75. Přechod nároků při úmrtí oprávněného.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "(1) Zemřela-li osoba po uplatnění nároku na dávku, vstupují do dalšího řízení a nabývají nároku na částky splatné do dne smrti oprávněného postupně manžel (manželka), děti, otec, matka, druh (družka) a sourozenci, jestliže žili s oprávněným v době jeho smrti ve společné domácnosti. Podmínka společné domácnosti nemusí být splněna u dětí, které mají nárok na sirotčí důchod.\n(2) Jde-li o dávky přiznané před smrtí oprávněného, lze splatné částky, které nebyly vyplaceny do dne smrti, vyplatit členům jeho rodiny podle pořadí a za podmínky odstavce 1; budou-li takto vyplaceny, nemohou být předmětem řízení o projednání dědictví."
+    },
+    {
+      "provision_ref": "§ 76.",
+      "section": "76",
+      "title": "§ 76. Ohlašovací povinnost zaměstnavatele.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "(1) Zaměstnavatelé jsou povinni vést záznamy o okolnostech rozhodných pro nárok na dávku, zejména o době a druhu zaměstnání, o výši výdělku svých zaměstnanců, jakož i o uzavření pracovního poměru s důchodcem, a hlásit je orgánům sociálního zabezpečení; podrobnosti stanoví státní úřad sociálního zabezpečení vyhláškou v úředním listě. Na vyzvání orgánu sociálního zabezpečení jsou zaměstnavatelé povinni kdykoliv podat hlášení o okolnostech rozhodných pro přiznání dávky. Orgány sociálního zabezpečení mají právo správnost a úplnost hlášení přezkoumat.\n(2) Zavinil-li zaměstnavatel nesprávným hlášením nebo neoznámením vstupu důchodce do zaměstnání, že byla poskytnuta dávka neprávem nebo ve vyšší výměře, než náležela, je povinen nahradit neprávem vyplacené dávky. O povinnosti nahradit neprávem vyplacené dávky rozhoduje státní úřad sociálního zabezpečení; od požadování náhrady může zcela nebo zčásti upustit.\n(3) Nárok na náhradu se promlčuje do jednoho roku ode dne, kdy orgán sociálního zabezpečení zjistil, že dávka byla poskytnuta neprávem."
+    },
+    {
+      "provision_ref": "§ 77.",
+      "section": "77",
+      "title": "§ 77. Vstup do závodu.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "Pověření zaměstnanci orgánů sociálního zabezpečení jsou oprávněni vstupovat do závodů a na pracoviště, pokud je toho třeba pro účely tohoto zákona nebo ke zjištění rozhodných skutečností pro nárok na náhradu dávek důchodového zabezpečení. To platí též o členech posudkových komisí, jestliže se prokáží pověřením orgánu sociálního zabezpečení."
+    },
+    {
+      "provision_ref": "§ 78.",
+      "section": "78",
+      "title": "§ 78. Rozhodnutí. Opravné prostředky.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "(1) Rozhodnutí ve věcech dávek důchodového zabezpečení se vydává vždy písemně.\n(2) Poučení o opravném prostředku má obsahovat údaj, zda je rozhodnutí konečné, či zda je možno proti němu podat opravný prostředek, do jaké lhůty a kde. Chybí-li v rozhodnutí poučení o opravném prostředku nebo je-li neúplné, může účastník řízení žádat do 15 dnů ode dne, kdy mu bylo rozhodnutí oznámeno, aby bylo doplněno. Lhůta k opravnému prostředku počíná pak běžet ode dne, kdy bylo účastníkovi oznámeno úplné poučení. Bylo-li dáno poučení nesprávné a účastník proto podal opravný prostředek po lhůtě, považuje se opravný prostředek za podaný včas.\n(3) Požádal-li účastník řízení před uplynutím lhůty k opravnému prostředku o sdělení podkladů pro výpočet důchodu, počíná běžet nová lhůta ode dne, kdy byly účastníku tyto podklady doručeny.\n(4) O opravných prostředcích proti rozhodnutím státního úřadu sociálního zabezpečení ve věcech upravených tímto zákonem rozhodují soudy; o odvoláních proti rozhodnutím výkonných orgánů národních výborů se rozhoduje ve správním řízení.\n(5) Opravný prostředek proti rozhodnutí o odnětí, snížení nebo zastavení výplaty dávky nemá odkladný účinek."
+    },
+    {
+      "provision_ref": "§ 79.",
+      "section": "79",
+      "title": "§ 79. Obecné předpisy o řízení.",
+      "chapter": "ČÁST PÁTÁ. - ORGANISACE A ŘÍZENÍ. > Díl II. - Řízení.",
+      "content": "Pokud tento zákon nebo předpisy podle něho vydané nestanoví odchylky od obecných předpisů o řízení ve věcech správních, platí tyto předpisy."
+    },
+    {
+      "provision_ref": "§ 80.",
+      "section": "80",
+      "title": "§ 80.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "(1) Podle tohoto zákona se posuzují od 1. ledna 1957 i nároky na dávky, jejichž skutkové podmínky se splnily před tímto dnem a nezakládaly nárok na dávky podle dosavadních předpisů.\n(2) Nároky na dávky (zaopatřovací požitky), které vznikly do 31. prosince 1956 podle dosavadních předpisů o důchodovém zabezpečení a podle § 81 zákona č. 76/1922 Sb., o vojenských požitcích zaopatřovacích, a o nichž nebylo pravomocně rozhodnuto do počátku účinnosti tohoto zákona, se posuzují podle dosavadních předpisů, pokud tento zákon nebo předpisy podle něho vydané nestanoví jinak; řízení se však provede podle ustanovení tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 81.",
+      "section": "81",
+      "title": "§ 81.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "(1) Dávky (zaopatřovací požitky) poskytované podle dosavadních předpisů uvedených v § 80 odst. 2 se považují za dávky podle tohoto zákona, a to ve výši, v jaké náležely ke dni 31. prosince 1956, a další trvání nároku na ně se posuzuje podle ustanovení tohoto zákona, pokud tento zákon nebo předpisy podle něho vydané nestanoví jinak.\n(2) Z dávek uvedených v odstavci 1 mohou být sníženy nebo odňaty, jen pokud by to připouštěly dosavadní předpisy,\na) úrazové důchody vyplácené podle dosavadních předpisů o důchodovém pojištění,\nb) zaopatřovací požitky invalidů vyměřené podle zákona č. 164/1946 Sb. pro ztrátu výdělečné schopnosti do 65 %,\nc) zaopatřovací požitky vyměřené podle zákona č. 164/1946 Sb. rodičům a sourozencům a podle § 81 zákona č. 76/1922 Sb. rodičům,\nd) přídavek za zranění přiznaný osobě, na niž se vztahuje ustanovení § 81 odst. 4 zákona č. 76/1922 Sb., nebo vojenskému invalidovi ze stavu mužstva z doby před první světovou válkou.\n(3) Bude-li poživateli důchodu nebo zaopatřovacích požitků uvedených v odstavci 2 přiznán invalidní nebo částečný invalidní důchod pro zhoršení následků pracovního úrazu nebo poškození zdraví, zanikne nárok na úrazový důchod nebo zaopatřovací požitky. Nastane-li souběh s jiným důchodem podle tohoto zákona, platí ustanovení § 44 odst. 2 obdobně."
+    },
+    {
+      "provision_ref": "§ 82.",
+      "section": "82",
+      "title": "§ 82.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "(1) Dávky (zaopatřovací požitky) vyplácené ke dni 31. prosince 1956 po srážce daně ze mzdy se po tomto dni považují za dávky vyměřené ve výši, v níž byly takto vypláceny.\n(2) Krácení důchodu, prováděné ke dni 31. prosince 1956 podle dosavadních předpisů pro souběh důchodu s výdělkem, zaniká počínajíc splátkou důchodu splatnou v lednu 1957.\n(3) Starobní důchod, na nějž vznikl nárok do 30. září 1956, náleží pracujícímu důchodci i za účinnosti tohoto zákona v plné výši. Za dobu zaměstnání, po kterou by podle § 10 odst. 4 a 5 náležel starobní důchod jen ve výši jedné třetiny, se nárok na tento důchod zvyšuje za každý rok zaměstnání o 2 %, 1,5 % nebo 1 % průměru hrubých ročních výdělků, které důchodce měl po 31. prosinci 1956, a to podle toho, v které pracovní kategorii byl v té době zaměstnán; ustanovení o novém vyměření starobního důchodu (§ 18) tu neplatí.\n(4) Zjistí-li se přezkoumáním zdravotního stavu, že poživatel invalidního důchodu, na nějž vznikl nárok do 31. prosince 1956, je jen částečně invalidní, sníží se jeho dosavadní důchod, čítajíc v to i nároky uvedené v §§ 83 a 84, na 60 % dosavadní výše; takto snížený důchod se posuzuje nadále jako částečný invalidní důchod podle tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 83.",
+      "section": "83",
+      "title": "§ 83.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "(1) Nároky získané ve veřejném pensijním zaopatření ke dni 31. března 1950 na zvýšení důchodů podle § 3 odst. 1 a 2 vl. nař. č. 113/1950 Sb., § 3 odst. 1 a 2 vl. nař. č. 114/1950 Sb. a § 7 odst. 1 a 2 vl. nař. č. 115/1950 Sb. se u důchodů, na něž vznikne nárok po 31. prosinci 1956, zachovávají v dosavadní výši, jestliže nepřevyšují 250 Kčs měsíčně, jde-li o důchod starobní nebo invalidní, a 125 Kčs měsíčně, jde-li o důchody pozůstalých; převyšuje-li dosavadní výše těchto nároků uvedené částky, zachovávají se ve výši jedné poloviny, nejméně však ve výši těchto částek. Zvýšení důchodu však nepřísluší k starobnímu důchodu, na nějž vznikl nárok po 30. září 1956 a který náleží ve výši jedné třetiny (§ 10 odst. 4 a 5), ani k částečnému invalidnímu důchodu; tím není dotčeno ustanovení § 82 odst. 4.\n(2) Nároky na nejnižší výměru důchodů, zajištěné předpisy § 6 odst. 1 vl. nař. č. 113/1950 Sb., § 6 odst. 1 vl. nař. č. 114/1950 Sb. a § 10 odst. 1 vl. nař. č. 115/1950 Sb., zůstávají nedotčeny; nepříslušejí však, jde-li o starobní důchod, na nějž vznikl nárok po 30. září 1956 a který náleží ve výši jedné třetiny (§ 10 odst. 4 a 5), ani jde-li o částečný invalidní důchod. Ustanovení § 82 odst. 4 není tím dotčeno."
+    },
+    {
+      "provision_ref": "§ 84.",
+      "section": "84",
+      "title": "§ 84.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "(1) Ustanovení tohoto zákona se nedotýkají nároků, které byly upraveny vládním nařízením č. 18/1954 Sb., o úpravě nároků z dosavadního pensijního nadlepšení.\n(2) Důchody z pensijního nadlepšení vyplácené ke dni 31. prosince 1956 po srážce daně ze mzdy se po tomto dni považují za důchody vyměřené ve výši, v níž byly takto vypláceny; důchody, na něž vznikne nárok za účinnosti tohoto zákona, se nezdaňují.\n(3) Důchody z pensijního nadlepšení nepříslušejí k starobnímu důchodu, na nějž vznikl nárok po 30. září 1956 a který náleží ve výši jedné třetiny (§ 10 odst. 4 a 5), ani k částečnému invalidnímu důchodu; tím není dotčeno ustanovení § 82 odst. 4.\n(4) Důchody z penzijního nadlepšení se nezapočítávají do nejvyšší výměry starobního a invalidního důchodu zaměstnance I. pracovní kategorie (§ 19 odst. 1). Důchody z penzijního nadlepšení zaměstnanců II. a III. pracovní kategorie se snižují o částku, o niž úhrn důchodu z důchodového zabezpečení (pojištění) a důchodu z penzijního nadlepšení převyšuje 85 % průměrného ročního výdělku. Pozůstalým po zaměstnanci, který by měl nárok na důchod z penzijního nadlepšení snížený podle předchozí věty, náležejí z penzijního nadlepšení důchody pozůstalých vypočtené ze sníženého důchodu; to platí též pro důchody pozůstalých po důchodci."
+    },
+    {
+      "provision_ref": "§ 85.",
+      "section": "85",
+      "title": "§ 85.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl I. - Přechodná ustanovení.",
+      "content": "Státní úřad sociálního zabezpečení stanoví v dohodě s Ústřední radou odborů vyhláškou v úředním listě podrobnosti k provedení tohoto dílu zákona. Přitom může stanovit odchylky od ustanovení § 81 odst. 1; může zejména stanovit, že se některé dávky téhož druhu slučují v jedinou dávku a za které dávky podle tohoto zákona se považují dávky poskytované podle dosavadních předpisů, avšak v tomto zákoně již neupravené."
+    },
+    {
+      "provision_ref": "§ 86.",
+      "section": "86",
+      "title": "§ 86. Zhodnocení různých druhů zabezpečení (zaopatření, pojištění).",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "Státní úřad sociálního zabezpečení v dohodě se zúčastněnými ústředními orgány vyhláškou v úředním listě\na) stanoví, jak se zhodnotí zaměstnancům, členům jednotných zemědělských družstev, členům výrobních družstev a osobám samostatně hospodařícím doba jejich důchodového zabezpečení (pojištění) při přestupu do některého jiného druhu důchodového zabezpečení (pojištění) a jak se zhodnotí doba rozhodná pro nároky na důchodové zaopatření příslušníků ozbrojených sil při jejich přestupu do důchodového zabezpečení (pojištění),\nb) upraví souběh důchodů poskytovaných podle tohoto zákona s důchody náležejícími podle jiných předpisů, a to obdobně podle ustanovení § 44,\nc) stanoví, které důchody poskytované podle jiných předpisů a za jakých podmínek se zvyšují obdobně podle ustanovení tohoto zákona o zvýšení starobního a invalidního důchodu (§§ 11 a 15), jestliže jejich poživatelé jsou zaměstnáni."
+    },
+    {
+      "provision_ref": "§ 87.",
+      "section": "87",
+      "title": "§ 87. Úprava pensijních nároků založených na závazcích rozpočtových a hospodářských organisací.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "Vláda upraví nařízením pensijní nároky, které rozpočtové a hospodářské organisace státního a družstevního socialistického sektoru plní nebo jsou zavázány plnit podle smluvních ujednání se zaměstnanci nebo jako náhradu škody vzniklé na nárocích zaměstnanců z důchodového zabezpečení (pojištění)."
+    },
+    {
+      "provision_ref": "§ 88.",
+      "section": "88",
+      "title": "§ 88. Odstranění tvrdostí.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "Předseda státního úřadu sociálního zabezpečení může odstraňovat tvrdosti, které by se vyskytly při provádění tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 89.",
+      "section": "89",
+      "title": "§ 89. Zrušení státní komise důchodového zabezpečení.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "Státní komise důchodového zabezpečení zřízená ustanovením § 7 zákona č. 102/1951 Sb., o přebudování národního pojištění, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 90.",
+      "section": "90",
+      "title": "§ 90. Úprava pojištění (zabezpečení) členů družstev a osob samostatně hospodařících.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "(1) Vláda upraví nařízením nemocenské a důchodové pojištění členů jednotných zemědělských družstev, nemocenské pojištění a důchodové zabezpečení členů výrobních družstev a důchodové pojištění jednotlivě hospodařících rolníků a jiných osob samostatně hospodařících; přitom může úpravu podrobností svěřit prováděcím předpisům.\n(2) Proti rozhodnutím vrcholných orgánů výrobních družstev o pojištění, o vyměřovacím základě, o pojistném a o jiných otázkách pojistného poměru členů výrobních družstev lze podat opravný prostředek k lidovému soudu, v jehož obvodě člen družstva bydlí; přitom platí přiměřeně ustanovení občanského soudního řádu upravující řízení ve sporech z pojištění zaměstnanců."
+    },
+    {
+      "provision_ref": "§ 91.",
+      "section": "91",
+      "title": "§ 91. Zrušovací ustanovení.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "(1) Zrušují se veškeré předpisy o věcech upravených tímto zákonem. Zejména se zrušují:\na) zákon č. 164/1946 Sb., o péči o vojenské a válečné poškozence a oběti války a fašistické persekuce, ve znění čl. III. zákona č. 242/1949 Sb.,\nb) zákon č. 99/1948 Sb., o národním pojištění, ve znění pozdějších předpisů, pokud upravuje důchodové pojištění, vyjma §§ 110 až 112,\nc) vládní nařízení č. 173/1949 Sb., o přestupech některých osob, vyňatých před 1. říjnem 1948 z pojistné povinnosti veřejnoprávního důchodového pojištění, do národního pojištění,\nd) vládní nařízení č. 174/1949 Sb., jímž se určuje, jakým způsobem se splňuje základní podmínka pro vznik nároků na dávky národního důchodového pojištění u sezónních zaměstnanců v zemědělství a lesnictví,\ne) vládní nařízení č. 30/1950 Sb., o přestupech mezi veřejným pensijním zaopatřením a národním (veřejnoprávním) důchodovým pojištěním a o přestupech ve veřejném pensijním zaopatření,\nf) vládní nařízení č. 44/1950 Sb., o některých přestupech v sociálním pojištění (zaopatření) před 1. říjnem 1948,\ng) vládní nařízení č. 49/1951 Sb., kterým se upravují některé nároky pracujících důchodců národního pojištění,\nh) zákon č. 102/1951 Sb., o přebudování národního pojištění, pokud upravuje důchodové zabezpečení,\nch) vládní nařízení č. 101/1952 Sb., o úpravě podmínek pro trvání nároků na některé důchody z důchodového zabezpečení,\ni) vládní nařízení č. 22/1953 Sb., o úpravě důchodů z důchodového zabezpečení a zaopatření osob nepřátelských lidově demokratickému zřízení,\nj) vládní nařízení č. 25/1953 Sb., o přesunu působnosti v některých věcech důchodového zabezpečení a nemocenského pojištění,\nk) ustanovení §§ 6 až 12 vládního nařízení č. 42/1953 Sb., o opatřeních v oboru mezd, důchodů a některých sociálních dávek v souvislosti se zrušením lístkového systému zásobování.\n(2) Dokud nebudou vydány předpisy podle tohoto zákona, užije se dosavadních prováděcích předpisů, pokud nejsou v rozporu s tímto zákonem; podmínky a rozsah nároků upravených těmito dosavadními předpisy se však posuzují podle ustanovení tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 92.",
+      "section": "92",
+      "title": "§ 92. Účinnost.",
+      "chapter": "ČÁST ŠESTÁ. - USTANOVENÍ PŘECHODNÁ A ZÁVĚREČNÁ. > Díl II. - Závěrečná ustanovení.",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1957; provedou jej všichni členové vlády.\nPříloha k § 16 odst. 3 zákona č. 55/1965 Sb.\nSeznam nemocí z povolání.\nČís. Nemoc z povolání vzniklá v podnicích\n1 Onemocnění z olova a jeho sloučenin K č. 1 - 18:\nve kterých látky vedle uvedené se vyrábějí, zpracovávají, používají nebo se vyskytují jako vedlejší výrobky či vůbec jinak\n2 Onemocnění z fosforu a jeho sloučenin\n3 Onemocnění z fluoru a jeho sloučenin\n4 Onemocnění ze rtuti a jejích sloučenin\n5 Onemocnění z arsenu a jeho sloučenin\n6 Onemocnění z manganu a jeho sloučenin\n7 Onemocnění ze sirouhlíku\n8 Onemocnění ze sirovodíku\n9 Onemocnění z kysličníku uhelnatého\n10 Onemocnění z kyanových sloučenin\n11 Onemocnění z benzenu a jeho homologů\n12 Onemocnění z nitro- a amino- sloučenin benzenu nebo jeho homologů a jejich odvozenin\n13 Onemocnění z halogenisovaných uhlovodíků mastné řady\n14 Onemocnění z dusičných esterů glycerinu a dusičných esterů jiných látek mastné řady\n15 Onemocnění z látek bojových\n16 Onemocnění z ionisujícího záření a ze záření s obdobným účinkem\n17 Poškození elektromagnetickým zářením o vlnové délce řádu cm\n18 Onemocnění kožní rakovinou nebo kožními změnami, majícími sklon k přechodu v rakovinu, způsobená látkami vyvolávajícími rakovinu, kde škodlivina je v příčinné souvislosti s výkonem zaměstnání\n19 Kožní onemocnění účinkem škodlivin, která jsou v příčinné souvislosti s výkonem zaměstnání a kde onemocnění nutí ke změně zaměstnání K č. 19 a 20:\nv nichž jsou zaměstnanci vydáni tomuto nebezpečí\n20 Onemocnění rakovinou plic z radioaktivních látek nebo počasný chorobný stav, který způsobuje odůvodněné podezření z tohoto onemocnění\n21 Onemocnění přenosnými a parasitárními nemocemi Na všech zdravotnických pracovištích, kde prokazatelný styk s infekčně nemocnými nebo s infekčním materiálem je součástí výkonu zaměstnání\n22 Nemoci přenosné se zvířat na lidi buď přímo nebo prostřednictvím přenašečů v nichž jsou zaměstnanci vydáni tomuto nebezpečí anebo kde onemocnění vzniklo prokazatelně výkonem zaměstnání\n23 Onemocnění vyvolané prací ve stlačeném vzduchu v nichž se používá kesonů, potápěcích zvonů nebo skafandrů\n24 Onemocnění kostí, kloubů, svalů, cév a nervů končetin způsobené při práci otřesy o vysokých frekvencích K č. 24 - 25:\nv nichž jsou zaměstnanci vydáni tomuto nebezpečí\n25 Onemocnění dolních dýchacích cest a plic způsobené hliníkovým prachem a prachem z hliníkových slitin (zaprášení plic hliníkem - fibrosa plic\n26 Onemocnění dolních cest dýchacích a plic z berylia a jeho sloučenin K č. 26 - 28:\nv nichž jsou zaměstnanci vydáni tomuto nebezpečí\n27 Onemocnění zaprášením plic prachem obsahujícím kysličník křemičitý (silikosa):\na) při kterém jsou zjištěny typické rtg znaky a klinicko-funkcionální poruchy z tohoto onemocnění; poruchy funkce způsobené současnou inaktivní tuberkulosou se hodnotí tak, jakoby byly způsobeny silikosou\nb) ve spojení s aktivní tuberkulosou\n28 Onemocnění zaprášením plic asbestovým prachem (asbestosa):\na) při kterém jsou zjištěny typické rtg znaky a klinicko-funkcionální poruchy z tohoto onemocnění,\nb) ve spojení s plicní rakovinou\n29 Onemocnění dolních dýchacích cest a plic škodlivými účinky Thomasovy moučky jež dopravují nebo zpracovávají Thomasovu strusku nebo zpracovávají, uskladňují nebo dopravují Thomasovu moučku\n30 Onemocnění z chromových sloučenin v nichž se tyto sloučeniny vyrábějí, zpracovávají nebo kde se jich používá\n31 Onemocnění hluchotou nebo těžkou nedoslýchavostí v nichž jsou zaměstnanci vydáni nadměrnému hluku\n32 Onemocnění šedým zákalem v nichž jsou zaměstnanci vydáni nadměrnému působení krátkovlnných tepelných paprsků\n33 Onemocnění nystagmem v těžkých a složitých tvarech v dolech\n34 Onemocnění nervu loketního otlakem v brusírnách skla\n35 Rozedma plic foukačů skla v nichž jsou zaměstnanci vydáni tomuto nebezpečí\n36 Profesionální nedomykavost hlasivek nebo uzlíky na hlasivkách, nutící ke změně zaměstnání; u zpěváků a herců z povolání a učitelů v divadlech a školách"
+    }
+  ],
+  "definitions": []
+}

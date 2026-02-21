@@ -1,0 +1,54 @@
+{
+  "id": "cz:209/2000",
+  "type": "statute",
+  "title": "209/2000 Sb., Zákon, kterým se mění zákon č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku",
+  "title_en": "",
+  "short_name": "209/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-07-21",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/209",
+  "description": "Zákon, kterým se mění zákon č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku, se mění takto:\n1. § 2 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Zrušovací ustanovení",
+      "content": "Dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost pozbývá platnosti ustanovení § 6 zákona č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku, ve znění tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem 1. září 2000, s výjimkou čl. I bodu 9, který nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "výrobce konečného výrobku",
+      "definition": "suroviny nebo součásti výrobku, jakož i osoba, která uvede na výrobku své jméno, ochrannou známku nebo jiný rozlišovací znak",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "každá",
+      "definition": "osoba, která v rámci své obchodní činnosti doveze výrobek za účelem prodeje, nájmu nebo jiného způsobu užití; tím není dotčena odpovědnost výrobce podle písmene a)",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "každý dodavatel výrobku za podmínky",
+      "definition": "že nemůže být určen výrobce podle písmene a), pokud ve lhůtě jednoho měsíce od uplatnění nároku na náhradu škody nesdělí poškozenému totožnost výrobce podle písmene a) nebo osobu, která mu výrobek dodala; totéž platí v případě dovozu, pokud není známa osoba, která výrobek dovezla podle písmene b), i když je výrobce podle písmene a) znám.“.; V § 3 odst. 1 ve větě druhé se za slova „považuje i“ vkládá slovo „například“ a věta třetí se zrušuje.; V § 3 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.; V § 4 odst. 1 písmeno a) zní:",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "a) prezentaci výrobku včetně poskytnutých informací",
+      "definition": "nebo“.; V § 5 odst. 1 se na začátek písmene b) vkládají slova „s přihlédnutím k okolnostem lze důvodně předpokládat, že“.; V § 5 odst. 1 písmeno d) zní:; V § 5 se doplňuje odstavec 3, který zní:",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

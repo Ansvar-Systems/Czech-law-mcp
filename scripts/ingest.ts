@@ -294,7 +294,7 @@ async function loadLawSource(law: TargetLaw, skipFetch: boolean): Promise<{ deta
   }
 
   const detail = await fetchDocumentDetail(law.staleUrl);
-  const fragments = await fetchAllFragments(law.staleUrl);
+  const fragments = await fetchAllFragments(law.staleUrl, detail.dokumentBaseId);
   saveCache(law, detail, fragments);
   return { detail, fragments, cached: false };
 }

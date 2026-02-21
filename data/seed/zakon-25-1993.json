@@ -1,0 +1,39 @@
+{
+  "id": "cz:25/1993",
+  "type": "statute",
+  "title": "25/1993 Sb., Zákon České národní rady, kterým se mění a doplňuje zákon o trestním řízení soudním (trestní řád)",
+  "title_en": "",
+  "short_name": "25/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-12-31",
+  "in_force_date": "1993-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/25",
+  "description": "Zákon České národní rady, kterým se mění a doplňuje zákon o trestním řízení soudním (trestní řád)",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění zákonů č. 57/1965 Sb., č. 58/1969 Sb., č. 149/1969 Sb., č. 48/1973 Sb., č. 29/1978 Sb., č. 43/1980 Sb., č. 159/1989 Sb., č. 178/1990 Sb., č. 303/1990 Sb. a č. 558/1991 Sb., se mění a doplňuje takto:\n1. V § 11 odst. 1 písm. ch) se slova „Česká a Slovenská Federativní Republika“ nahrazují slovy „Česká republika“.\n2. § 12 odst. 2 a 3 zní:\n„(2) Policejními orgány se rozumějí orgány Policie České republiky.\n(3) Kde tento zákon mluví o soudu, rozumí se tím podle povahy věci okresní soud, krajský soud, vojenský obvodový soud, vyšší vojenský soud, vrchní soud nebo Nejvyšší soud České republiky (dále jen „nejvyšší soud“).“.\n3. V § 12 odst. 4 se vypouštějí slova „a městský soud v Bratislavě“.\n4. V § 12 odst. 5 se vypouštějí slova „a městský prokurátor v Bratislavě“.\n5. V § 12 se vypouštějí odstavce 11 a 12, dosavadní odstavec 13 se označuje jako odstavec 11 a z jeho textu se vypouští slovo „federální“.\n6. § 13 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. K řízení ve věcech, v nichž byla podle dosavadních předpisů založena příslušnost Nejvyššího soudu České a Slovenské Federativní Republiky, s výjimkou řízení o řádných opravných prostředcích proti rozhodnutím vyšších vojenských soudů, je příslušný nejvyšší soud, pokud ve věci v prvním stupni rozhodoval orgán činný v trestním řízení se sídlem na území České republiky.\n2. Došel-li Nejvyššímu soudu České a Slovenské Federativní Republiky návrh na uznání rozhodnutí cizozemského soudu a ke dni účinnosti tohoto zákona o něm nebylo rozhodnuto, je k dalšímu řízení příslušný nejvyšší soud, týká-li se rozhodnutí osoby, která má trvalé bydliště na území České republiky.\n3. K řízení o stížnosti pro porušení zákona ve věcech, v nichž rozhodl bývalý Státní soud nebo bývalý Nejvyšší soud jako soud prvního stupně, je příslušný nejvyšší soud, pokud by podle nyní platných předpisů byl ve věci příslušný konat řízení v prvním stupni soud se sídlem na území České republiky.\n4. K řízení o řádných opravných prostředcích proti rozhodnutím vyšších vojenských soudů, o nichž ke dni účinnosti tohoto zákona Nejvyšší soud České a Slovenské Federativní Republiky nerozhodl, je příslušný vrchní soud, v jehož obvodu má vyšší vojenský soud sídlo.\n5. V řízení o odnětí věci soudu se sídlem v České republice a jeho přikázání soudu ve Slovenské republice a naopak se od účinnosti tohoto zákona nepokračuje.\n6. Rozhodnutí soudů bývalé České a Slovenské Federativní Republiky, pokud měly sídlo na území České republiky, jsou vykonatelná za stejných podmínek, jako rozhodnutí soudů České republiky.\n7. Jestliže bylo před účinností tohoto zákona započato na území České republiky s výkonem rozhodnutí soudu Slovenské republiky nebo soudu bývalé České a Slovenské Federativní Republiky, který měl sídlo na území Slovenské republiky, pokračuje se v něm, jako by se jednalo o rozhodnutí soudu České republiky, pokud mezinárodní smlouva, jíž je Česká republika vázána, nestanoví jinak."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1993."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kde tento zákon mluví o soudu",
+      "definition": "se tím podle povahy věci okresní soud, krajský soud, vojenský obvodový soud, vyšší vojenský soud, vrchní soud nebo Nejvyšší soud České republiky (dále jen „nejvyšší soud“)",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

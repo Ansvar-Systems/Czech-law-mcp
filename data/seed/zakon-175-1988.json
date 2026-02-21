@@ -1,0 +1,33 @@
+{
+  "id": "cz:175/1988",
+  "type": "statute",
+  "title": "175/1988 Sb., Zákon, kterým se mění zákon č. 144/1970 Sb., o Státní bance československé",
+  "title_en": "",
+  "short_name": "175/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-11-14",
+  "in_force_date": "1989-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1988/175",
+  "description": "Zákon, kterým se mění zákon č. 144/1970 Sb., o Státní bance československé",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 144/1970 Sb., o Státní bance československé, se mění takto:\n§ 3 písm. b) zní:\n„b) určuje kurs československé koruny k zahraničním měnám na podkladě zásad schválených vládou Československé socialistické republiky; určuje cenu zlata v bankovních operacích,“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "V § 2 odst. 1 zákona č. 41/1953 Sb., ve znění zákonného opatření předsednictva Národního shromáždění č. 25/1961 Sb., se vypouští text za slovy „československá koruna (Kčs)“ a čárka za těmito slovy se nahrazuje tečkou."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1989."
+    }
+  ],
+  "definitions": []
+}

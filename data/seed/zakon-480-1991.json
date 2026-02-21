@@ -1,0 +1,33 @@
+{
+  "id": "cz:480/1991",
+  "type": "statute",
+  "title": "480/1991 Sb., Zákon o době nesvobody",
+  "title_en": "",
+  "short_name": "480/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-11-29",
+  "in_force_date": "1991-11-29",
+  "url": "https://www.e-sbirka.cz/sb/1991/480",
+  "description": "Zákon o době nesvobody",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V letech 1948 až 1989 komunistický režim porušoval lidská práva i své vlastní zákony."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Právní akty přijaté v době uvedené v § 1 se ruší jen tehdy, stanoví-li tak zvláštní zákony."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

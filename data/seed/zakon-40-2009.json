@@ -1,13 +1,13 @@
 {
   "id": "cz:40/2009",
   "type": "statute",
-  "title": "Zákon č. 40/2009 Sb., trestní zákoník",
+  "title": "40/2009 Sb., Zákon trestní zákoník",
   "title_en": "Criminal Code",
   "short_name": "TZ",
   "status": "in_force",
   "issued_date": "2009-02-09",
-  "in_force_date": "2010-01-01",
-  "url": "https://www.e-sbirka.cz/sb/2009/40/2026-01-01",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/40",
   "description": "Codifies criminal offenses and penalties, including computer-related crimes.",
   "provisions": [
     {

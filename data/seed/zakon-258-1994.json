@@ -1,0 +1,85 @@
+{
+  "id": "cz:258/1994",
+  "type": "statute",
+  "title": "258/1994 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "258/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-12-30",
+  "in_force_date": "1995-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1994/258",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, ve znění zákona č. 196/1993 Sb., zákona č. 321/1993 Sb., zákona č. 42/1994 Sb. a zákona č. 136/1994 Sb., se mění a doplňuje takto:\n1. § 2 včetně nadpisu a poznámek č. 1b), 1c) a 1d) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "1. Pro smlouvy o finančním pronájmu s následnou koupí najaté věci uzavřené před datem účinnosti tohoto zákona se použijí ustanovení § 14 odst. 7 a 17 a § 28 písm. c) zákona č. 588/1992 Sb., o dani z přidané hodnoty, ve znění platném do 31. prosince 1994. Do součtu jmenovatele koeficientu, kterým se podle § 20 zkracuje nárok na odpočet daně, se u těchto smluv nezapočítává částka za finanční pronájem osvobozený podle § 28 písm. c) zákona č. 588/1992 Sb., ve znění platném do 31. prosince 1994.\n2. Pokud budou zjištěny případy podle § 40 po účinnosti tohoto zákona i za zdaňovací období roku 1993 a 1994, postupuje se podle tohoto ustanovení a daň se nedoměří.\n3. Penále vyměřované po účinnosti tohoto zákona za zdaňovací období roku 1993 a 1994 nesmí přesáhnout částky zvýšení daně, které by bylo možno uložit podle předpisů platných do 31. prosince 1994.\n4. U daňových dobropisů a vrubopisů, kterými se opravuje základ daně za zdanitelná plnění uskutečněná do 31. prosince 1994, se uplatní sazby daně platné do 31. prosince 1994."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny Parlamentu České republiky se zmocňuje, aby ve Sbírce zákonů České republiky vyhlásil úplné znění zákona České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, jak vyplývá z pozdějších zákonů."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1995."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "zdanitelné plnění",
+      "definition": "i vložení majetkového vkladu v naturální podobě osobě, která není plátcem, vypořádací podíl1c) v naturální podobě a podíl na likvidačním zůstatku,1d) pokud u nich byl uplatněn odpočet daně s výjimkou majetku v naturální podobě, který byl vydán nebo poskytnut jako náhrada podle zákona č",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "zbožím věci movité",
+      "definition": "tepelná a elektrická energie, plyn a voda; za zboží se nepovažují peníze, lidská krev, lidské orgány a mateřské mléko, pokud tento zákon nestanoví jinak",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "službou poskytování činností nebo hmotně zachytitelných výsledků činností",
+      "definition": "s výjimkou zboží",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "daní na vstupu daň u plátce",
+      "definition": "kterou vůči němu uplatní jako součást ceny za jím přijatá zdanitelná plnění jiný plátce, nebo daň, která je vyměřena při dovozu zboží",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "daní na výstupu daň",
+      "definition": "kterou je plátce povinen uplatnit jako součást ceny za jím uskutečněná zdanitelná plnění",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "osobním automobilem silniční motorové vozidlo",
+      "definition": "které má v technickém průkazu zapsanou kategorii osobní automobil nebo M1. Pokud zápis kategorie chybí, vymezuje se tato kategorie zvláštním předpisem",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "ojetým osobním automobilem osobní automobil",
+      "definition": "při jehož prvním pořízení nemohl být uplatněn nárok na odpočet daně",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "tuzemskem území České republiky",
+      "definition": "kromě svobodných celních pásem a svobodných celních skladů",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "finančním pronájmem s následnou koupí najaté věci pronájem",
+      "definition": "který splňuje podmínky stanovené zvláštním předpisem.2b)",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

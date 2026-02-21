@@ -1,0 +1,55 @@
+{
+  "id": "cz:199/1993",
+  "type": "statute",
+  "title": "199/1993 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 587/1992 Sb., o spotřebních daních",
+  "title_en": "",
+  "short_name": "199/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-07-30",
+  "in_force_date": "1993-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/199",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 587/1992 Sb., o spotřebních daních",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 587/1992 Sb., o spotřebních daních, se mění a doplňuje takto:\n1. § 2 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Zrušují se\n1. zákon č. 213/1992 Sb., o spotřebních daních,\n2. zákon č. 595/1992 Sb., kterým se mění a doplňuje zákon č. 213/1992 Sb., o spotřebních daních."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny Parlamentu České republiky se zmocňuje, aby ve Sbírce zákonů České republiky vyhlásil úplné znění zákona č. 587/1992 Sb., o spotřebních daních, jak vyplývá ze změn a doplnění provedených tímto zákonem."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem 1. srpna 1993."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "zahraničím to území",
+      "definition": "které není tuzemskem",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "správcem daně příslušný územní finanční",
+      "definition": "orgán (dále jen „finanční orgán“);3) při dovozu vybraných výrobků celní orgán,4); fyzické vydání vybraných výrobků plátcem daně (§ 3) z prostor, kde jsou vyráběny nebo skladovány, pro splnění smluvního závazku,5); použití vybraných výrobků pro výrobu výrobků, které nejsou předmětem daně; použití vybraných výrobků pro vlastní potřebu plátce daně, příslušníků jeho domácnosti a osob jemu blízkých,7) jeho zaměstnanců, členů a společníků a příslušníků jejich domácností a osob jim blízkých; použití vybraných výrobků uvedených v § 35 pro přímou spotřebu nebo fyzické vydání v prostorách, kde jsou tyto vybrané výrobky uskladněny, s výjimkou vyskladnění podle bodů 1 a 7; použití vybraných výrobků pro účely reklamy; fyzické vydání vybraných výrobků vyrobených v rámci pěstitelského pálení7a) plátcem daně pěstiteli,7b); použití vybraných výrobků pro účely, které přímo nesouvisejí s podnikatelskou činností.8)“.",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "Měsíční daňovou povinností",
+      "definition": "daňová povinnost za bezprostředně předcházející zdaňovací období",
+      "source_provision": "„§ 14"
+    }
+  ]
+}

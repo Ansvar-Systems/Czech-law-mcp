@@ -1,0 +1,51 @@
+{
+  "id": "cz:206/2005",
+  "type": "statute",
+  "title": "206/2005 Sb., Zákon o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti",
+  "title_en": "",
+  "short_name": "206/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-05-27",
+  "in_force_date": "2017-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/206",
+  "description": "Zákon o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tento zákon upravuje v souladu s právem Evropských společenství1) ochranu některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Pro účely tohoto zákona se rozumí:\na) chráněnou službou kterákoliv z následujících služeb poskytovaná za úplatu a na základě podmíněného přístupu:\n– rozhlasové a televizní vysílání2),\n– služba informační společnosti3)\nnebo poskytování podmíněného přístupu k výše uvedeným službám, pokud je poskytován jako samostatná služba,\nb) podmíněným přístupem jakékoliv technické opatření nebo ujednání, případně technické opatření a ujednání, zajišťující přístup k chráněné službě ve srozumitelné formě, podmíněný předplatným nebo jinou formou předchozího individuálního oprávnění,\nc) zařízením podmíněného přístupu jakékoliv zařízení nebo program navržené nebo převzaté za účelem umožnění přístupu k chráněné službě ve srozumitelné formě,\nd) přiřazenou službou instalace, údržba nebo výměna zařízení podmíněného přístupu, jakož i poskytování obchodních sdělení3) ve vztahu k přiřazeným službám nebo k chráněným službám,\ne) nedovoleným zařízením jakékoliv zařízení nebo program navržené nebo převzaté za účelem umožnění přístupu k chráněné službě ve srozumitelné formě bez souhlasu poskytovatele chráněné služby."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Je zakázáno\na) pro obchodní účely vyrábět, dovážet, šířit, prodávat, pronajímat nebo přechovávat nedovolená zařízení,\nb) pro obchodní účely provádět instalaci, údržbu nebo náhradu nedovolených zařízení,\nc) přímo nebo nepřímo propagovat jakýmkoliv způsobem nedovolená zařízení.\n(2) Aniž by byla dotčena ustanovení § 3 odst. 1, nelze omezovat\na) poskytování chráněných služeb nebo přiřazených služeb, jejichž zemí původu není Česká republika,\nb) volný pohyb zařízení podmíněného přístupu.\nPřestupky"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že\na) pro obchodní účely vyrábí, dováží, šíří, prodává, pronajímá nebo přechovává nedovolená zařízení,\nb) pro obchodní účely provádí instalaci, údržbu nebo náhradu nedovolených zařízení,\nc) přímo nebo nepřímo propaguje jakýmkoliv způsobem nedovolená zařízení.\n(2) Za přestupek podle odstavce 1 písm. a) lze uložit pokutu do 2 000 000 Kč a za přestupek podle odstavce 1 písm. b) a c) lze uložit pokutu do 500 000 Kč."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Přestupky podle tohoto zákona projednává Český telekomunikační úřad.\n(2) Pokuty vybírá a vymáhá Český telekomunikační úřad."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem 1. června 2005.\n1) Směrnice Evropského parlamentu a Rady ze dne 20. listopadu 1998 č. 98/84/ES o právní ochraně služeb s podmíněným přístupem a služeb tvořených podmíněným přístupem.\n2) Zákon č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů, ve znění pozdějších předpisů.\n3) Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně dalších zákonů (zákon o některých službách informační společnosti)."
+    }
+  ],
+  "definitions": []
+}

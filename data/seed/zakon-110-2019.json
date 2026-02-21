@@ -1,13 +1,13 @@
 {
   "id": "cz:110/2019",
   "type": "statute",
-  "title": "Zákon č. 110/2019 Sb., o zpracování osobních údajů",
+  "title": "110/2019 Sb., Zákon o zpracování osobních údajů",
   "title_en": "Act on Processing of Personal Data",
   "short_name": "ZZOU",
   "status": "in_force",
   "issued_date": "2019-04-24",
-  "in_force_date": "2019-04-24",
-  "url": "https://www.e-sbirka.cz/sb/2019/110/2025-08-01",
+  "in_force_date": "2025-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2019/110",
   "description": "Implements Czech national rules for personal data processing and supervision.",
   "provisions": [
     {

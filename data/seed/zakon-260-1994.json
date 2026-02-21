@@ -1,0 +1,50 @@
+{
+  "id": "cz:260/1994",
+  "type": "statute",
+  "title": "260/1994 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "260/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-12-30",
+  "in_force_date": "1996-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1994/260",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění zákonů č. 199/1993 Sb., č. 325/1993 Sb. a č. 136/1994 Sb., se mění a doplňuje takto:\n1. V § 2 se za písmeno d) vkládá nové písmeno e), které zní:\n„e) výrobou vybraných výrobků proces, při kterém vybraný výrobek vznikne nebo dozná změn ve své podstatě či ve vnější úpravě,“.\n2. V § 2 písm. f) se vypouští slovo „skutečná“ a na konci se připojují tato slova: „nebo částka, o kterou byl neoprávněně zvýšen nárok na vrácení daně podle § 12,“.\n3. V § 2 písm. g) bodě 8 se na konci tečka nahrazuje čárkou a doplňuje se bod 9, který včetně poznámky č. 8a) zní:\n„9. fyzické vydání vybraných výrobků plátcem daně z prostor, kde jsou vyráběny nebo skladovány pro účely splnění komisionářské smlouvy.8a)\n8a) § 577 až 590 zákona č. 513/1992 Sb.“.\n4. V § 2 se dosavadní písmena e) až g) označují jako písmena f) až h).\n5. V § 2 se na konci písmene h) tečka nahrazuje čárkou a doplňuje se písmeno i), které zní:\n„i) malým nezávislým pivovarem taková právnická osoba nebo fyzická osoba, jejíž roční výstav piva (dále jen „výstav“) není větší než 200 000 hl a která splňuje podmínky podle zvláštního předpisu.“.\n6. V § 5 odst. 1 písm. d) se za slovy „§ 12 odst. 1“ vypouštějí slova „písm. b)“.\n7. V poznámce pod čarou č. 9) se slova „§ 238 odst. 2“ nahrazují slovy „§ 238 až 253“.\n8. V § 8 odst. 1 písm. a) se vypouštějí body 1, 2 a 7 včetně poznámek pod čarou č. 10a), 10b) a 13). Z bodu 3 se vypouštějí slova „pokud nejsou darovány,“ a z bodu 4 se vypouští poznámka č. 10d).\nDosavadní body č. 3, 4, 5 a 6 se označují jako body 1, 2, 3 a 4.\nPoznámky č. 10) a 10c) znějí:\n„10) § 55, 191 a 237 zákona ČNR č. 13/1993 Sb., ve znění pozdějších předpisů.\n10c) § 80 až 84 vyhlášky č. 93/1993 Sb., ve znění pozdějších předpisů.“.\n9. § 9 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná a závěrečná ustanovení",
+      "content": "1. Penále vyměřované po účinnosti tohoto zákona za zdaňovací období roků 1993 a 1994 nesmí přesáhnout částky zvýšení daně, které by bylo možno uložit podle dřívějších předpisů platných do 31. prosince 1994.\n2. V roce 1995 oznámí malý nezávislý pivovar příslušnému finančnímu orgánu své zařazení do velikostní skupiny (§ 33a odst. 1) do 30. června 1995.\n3. V roce 1995 se u malých nezávislých pivovarů považuje za zařazení do velikostní skupiny skutečný výstav v roce 1994 (§ 33a odst. 1 a 2). V roce 1995 se ustanovení § 33a odst. 3 nepoužije.\n4. Pro malé nezávislé pivovary podle § 2 písm. i) platí do 30. června 1995 sazba daně uvedená v § 33 v položce „pro ostatní právnické osoby a fyzické osoby“.\n6. Ministerstvo financí může právním předpisem upravit podrobnosti vyplývající z § 33a odst. 4."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny Parlamentu České republiky se zmocňuje, aby ve Sbírce zákonů České republiky vyhlásil úplné znění zákona České národní rady č. 587/1992 Sb., o spotřebních daních, jak vyplývá z pozdějších zákonů."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1995, s výjimkou sazeb daně pro malé nezávislé pivovary podle § 33, které nabývají účinnosti dnem 1. července 1995."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bionaftou",
+      "definition": "paliva a maziva biologicky odbouratelná minimálně z 90 % za 21 dní podle mezinárodního testu CEC L-33-T-82",
+      "source_provision": "„§ 16"
+    },
+    {
+      "term": "výrobu benzinu",
+      "definition": "rovněž smíchání dvou či více druhů benzinů",
+      "source_provision": "„§ 16"
+    }
+  ]
+}

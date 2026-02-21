@@ -1,0 +1,49 @@
+{
+  "id": "cz:236/2012",
+  "type": "statute",
+  "title": "236/2012 Sb., Zákon, kterým se mění zákon č. 215/2004 Sb., o úpravě některých vztahů v oblasti veřejné podpory a o změně zákona o podpoře výzkumu a vývoje, ve znění zákona č. 109/2009 Sb.",
+  "title_en": "",
+  "short_name": "236/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-07-04",
+  "in_force_date": "2012-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/236",
+  "description": "Zákon, kterým se mění zákon č. 215/2004 Sb., o úpravě některých vztahů v oblasti veřejné podpory a o změně zákona o podpoře výzkumu a vývoje, ve znění zákona č. 109/2009 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 215/2004 Sb., o úpravě některých vztahů v oblasti veřejné podpory a o změně zákona o podpoře výzkumu a vývoje, ve znění zákona č. 109/2009 Sb., se mění takto:\n1. § 1 včetně nadpisu a poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Zrušovací ustanovení",
+      "content": "Vyhláška č. 207/2005 Sb., o formě a obsahu plnění informační povinnosti k poskytnuté veřejné podpoře, se zrušuje."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "poskytovatelem podpory malého rozsahu ten",
+      "definition": "kdo rozhoduje o poskytnutí podpory malého rozsahu",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "příjemcem veřejné podpory (dále jen „příjemce",
+      "definition": "fyzická nebo právnická osoba, v jejíž prospěch bylo o poskytnutí veřejné podpory rozhodnuto",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "příjemcem podpory malého rozsahu",
+      "definition": "fyzická nebo právnická osoba, v jejíž prospěch bylo o poskytnutí podpory malého rozsahu rozhodnuto",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

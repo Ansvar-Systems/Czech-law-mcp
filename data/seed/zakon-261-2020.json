@@ -1,0 +1,49 @@
+{
+  "id": "cz:261/2020",
+  "type": "statute",
+  "title": "261/2020 Sb., Zákon, kterým se mění zákon č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "261/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-06-02",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/261",
+  "description": "Zákon, kterým se mění zákon č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I Změna zákona o obecní policii",
+      "content": "Zákon č. 553/1991 Sb., o obecní policii, ve znění zákona č. 67/1993 Sb., zákona č. 163/1993 Sb., zákona č. 82/1995 Sb., zákona č. 153/1995 Sb., zákona č. 132/2000 Sb., zákona č. 311/2002 Sb., zákona č. 320/2002 Sb., zákona č. 267/2006 Sb., zákona č. 274/2008 Sb., zákona č. 227/2009 Sb., zákona č. 427/2010 Sb., zákona č. 375/2011 Sb., zákona č. 142/2012 Sb., zákona č. 494/2012 Sb., zákona č. 303/2013 Sb., zákona č. 64/2014 Sb., zákona č. 204/2015 Sb., zákona č. 188/2016 Sb., zákona č. 65/2017 Sb., zákona č. 183/2017 Sb. a zákona č. 248/2017 Sb., se mění takto:\n1. Poznámka pod čarou č. 2 zní:\n„2) Zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.“.\n2. V § 1 odst. 3 se slova „Policií České republiky (dále jen „policie“), státními orgány a orgány územních samosprávných celků“ nahrazují slovy „orgány veřejné moci“.\n3. V § 4 odst. 2 se slovo „rada“ nahrazuje slovem „zastupitelstvo“.\n4. V § 4 se doplňuje odstavec 3, který zní:\n„(3) Strážník může být v základním pracovněprávním vztahu strážníka pouze k jedné obci.“.\n5. § 4a včetně nadpisu a poznámek pod čarou č. 27 a 28 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. Určený strážník, kterému rada obce svěřila pravomoc jednat jménem obce v pracovněprávních vztazích čekatelů, strážníků a dalších zaměstnanců obce, kteří nejsou čekatelem nebo strážníkem, podle § 4 odst. 2 zákona č. 553/1991 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považuje za určeného strážníka, kterému tuto pravomoc svěřilo zastupitelstvo obce podle § 4 odst. 2 zákona č. 553/1991 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona.\n2. Při posuzování bezúhonnosti strážníka, který byl ke dni nabytí účinnosti tohoto zákona držitelem platného osvědčení o odborné způsobilosti a splňoval podmínky bezúhonnosti podle zákona č. 553/1991 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se ve vztahu ke skutkům spáchaným přede dnem nabytí účinnosti tohoto zákona postupuje podle právní úpravy účinné v době jejich spáchání.\n3. Při posuzování spolehlivosti strážníka, který byl ke dni nabytí účinnosti tohoto zákona držitelem platného osvědčení o odborné způsobilosti a splňoval podmínky spolehlivosti podle zákona č. 553/1991 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se ve vztahu ke skutkům spáchaným přede dnem nabytí účinnosti tohoto zákona postupuje podle právní úpravy účinné v době jejich spáchání."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2021."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely odchodného se průměrným měsíčním výdělkem",
+      "definition": "průměrný měsíční výdělek zjištěný podle zákoníku práce",
+      "source_provision": "„§ 8a"
+    },
+    {
+      "term": "Prokázáním totožnosti",
+      "definition": "prokázání jména, popřípadě jmen, příjmení, data narození, rodného čísla, bylo-li přiděleno, adresy místa trvalého pobytu nebo bydliště a v případě potřeby také sdělení dalších údajů podle § 11a odst",
+      "source_provision": "„§ 8a"
+    },
+    {
+      "term": "Zbraní",
+      "definition": "cokoli, čím je možno učinit útok proti tělu důraznějším12)",
+      "source_provision": "„§ 14"
+    }
+  ]
+}

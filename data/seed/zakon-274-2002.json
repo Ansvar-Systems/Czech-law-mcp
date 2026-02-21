@@ -1,0 +1,39 @@
+{
+  "id": "cz:274/2002",
+  "type": "statute",
+  "title": "274/2002 Sb., Zákon o přijetí úvěru Českou republikou na financování investičních potřeb souvisejících s prováděním projektu dálničního obchvatu Plzně a souvisejících silničních přivaděčů",
+  "title_en": "",
+  "short_name": "274/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-06-28",
+  "in_force_date": "2002-06-28",
+  "url": "https://www.e-sbirka.cz/sb/2002/274",
+  "description": "Zákon o přijetí úvěru Českou republikou na financování investičních potřeb souvisejících s prováděním projektu dálničního obchvatu Plzně a souvisejících silničních přivaděčů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Česká republika je oprávněna přijmout úvěr od Evropské investiční banky na financování investičních potřeb souvisejících s prováděním projektu dálničního obchvatu Plzně a souvisejících silničních přivaděčů ve výši 210 000 000 EUR, splatného ve lhůtě do 25 let ode dne podpisu smlouvy o úvěru.\n(2) Projektem dálničního obchvatu Plzně a souvisejících silničních přivaděčů se rozumí příprava, výstavba a kontrola těchto dálničních a silničních úseků:\na)D5 – 0510/Ia Ejpovice – Černice\nb)D5 – 0510/IbČernice – Útušice\nc)D5 –0510/IIÚtušice – Sulkov\nd)D5 – 0510/IIIMost přes Úslavu\ne)D5 – 0510/IVMost přes Úhlavu\nf)D5 – 0510/VMost přes Radbúzu\ng)I/27Plzeň Tyršův sad – ulice Sukova\n1. stavba\nh)I/27Plzeň Tyršův sad – ulice Sukova\n2. stavba\ni)I/27Litice – Šlovice\nj)I/27Plzeň Tyršův sad – mimoúrovňové křížení\nk)I/20Plzeň D5 – ulice K dráze\nl)I/20Plzeň ulice K dráze – ulice Jasmínová\nm)II/180Plzeň – Černice\n(3) Úvěrovou smlouvu k přijetí úvěru podle odstavce 1 sjednává jménem České republiky ministr financí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "O prostředky získané úvěrem podle § 1 lze překročit celkové výdaje státního rozpočtu schválené zákonem o státním rozpočtu v rozpočtovém roce, ve kterém budou takto získané prostředky použity. O toto překročení se v příslušném rozpočtovém roce mění saldo státního rozpočtu a financující položky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Projektem dálničního obchvatu Plzně a souvisejících silničních přivaděčů",
+      "definition": "příprava, výstavba a kontrola těchto dálničních a silničních úseků:",
+      "source_provision": "§ 1"
+    }
+  ]
+}

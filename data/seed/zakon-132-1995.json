@@ -1,0 +1,50 @@
+{
+  "id": "cz:132/1995",
+  "type": "statute",
+  "title": "132/1995 Sb., Zákon, kterým se mění a doplňuje zákon České národní rady č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "132/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-07-25",
+  "in_force_date": "1995-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1995/132",
+  "description": "Zákon, kterým se mění a doplňuje zákon České národní rady č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon České národní rady č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění zákona č. 157/1993 Sb., zákona č. 323/1993 Sb. a zákona č. 244/1994 Sb., se mění a doplňuje takto:\n1. V § 1 se za slovo „rezerv“ vkládají tato slova: „a opravných položek“.\n2. V § 2 se vypouští slova „rezerva na pohledávky za dlužníky v konkurzním a vyrovnacím řízení,“.\nDosavadní text § 2 se označuje jako odstavec 1 a doplňuje se odstavcem 2, který zní:\n„(2) Opravnými položkami podle § 1 se rozumí opravné položky k pohledávkám za dlužníky v konkurzním a vyrovnacím řízení, bankovní opravné položky a opravné položky k nepromlčeným pohledávkám, které jsou zaúčtovány v účetnictví a jsou splatné po 31. prosinci 1994.“.\n3. V § 3 v první větě se za slovo „rezerv“ vkládají tato slova: „a opravných položek“ a na konci druhé věty se připojují tato slova: „a opravných položek“.\n4. V § 4 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky č. 3a) zní:\n„(3) Opravné položky slouží ke krytí ztrát z odpisu pohledávek, k nimž jsou vytvořeny, nebo ke krytí rozdílu mezi účetní hodnotou pohledávky a její cenou sjednanou při postoupení postupníkovi.3a) Opravné položky se zruší ve prospěch výnosů ve stejném zdaňovacím období, kdy pominou důvody, pro které byly vytvořeny; výnos vyplývající z jejich zrušení zvyšuje základ daně z příjmů.\n3a) § 524 a násl. občanského zákoníku, ve znění pozdějších předpisů.“.\nDosavadní odstavec 3 se označuje jako odstavec 4.\n5. V § 4 v odstavcích 1 a 3 se za slovo „rezerv“ vkládají tato slova: „a opravných položek“.\n6. § 4 se doplňuje odstavcem 5, který zní:\n„(5) Celková výše opravných položek u bank včetně bankovních rezerv nesmí přesáhnout celkovou výši pohledávek, k nimž se vytváří.“.\n7. § 5 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "(1) Rezervy vytvořené ke dni účinnosti tohoto zákona podle § 5 ve výši 10 % na pohledávky z úvěrů, které jsou po sjednané lhůtě splatnosti, a ve výši 2 % na pohledávky z úvěrů se sjednanou lhůtou splatnosti delší než jeden rok je možno používat na úhradu ztrát z odpisu nebo postoupení klasifikovaných pohledávek, nebo je k tomuto dni převést do stavu opravných položek ke konkrétním klasifikovaným pohledávkám, popřípadě ke skupinám pohledávek se stejnou mírou rizika. Pokud se banka rozhodne, může rezervy vytvořené k tomuto dni ve výši 2 % na pohledávky z úvěrů se sjednanou lhůtou splatnosti delší než jeden rok převést do rezerv na standardní pohledávky z úvěrů.\n(2) Rezervy vytvořené do dne účinnosti tohoto zákona podle § 8 na pohledávky za dlužníky v konkurzním a vyrovnacím řízení se převedou k tomuto dni do stavu opravných položek ke konkrétním pohledávkám za dlužníky v konkurzním a vyrovnacím řízení.\n(3) Ustanovení tohoto zákona se poprvé použijí pro zdaňovací období roku 1995."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny Parlamentu České republiky se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona České národní rady č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, jak vyplývá z pozdějších zákonů."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem 1. srpna 1995."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Opravnými položkami podle § 1",
+      "definition": "opravné položky k pohledávkám za dlužníky v konkurzním a vyrovnacím řízení, bankovní opravné položky a opravné položky k nepromlčeným pohledávkám, které jsou zaúčtovány v účetnictví a jsou splatné po 31",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Pro účely tohoto zákona",
+      "definition": "pohledávkou z úvěrů",
+      "source_provision": "„§ 5"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:43/2013",
+  "type": "statute",
+  "title": "43/2013 Sb., Zákon, kterým se mění zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů",
+  "title_en": "",
+  "short_name": "43/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-02-25",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2013/43",
+  "description": "Zákon, kterým se mění zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů, se mění takto:\n1. § 1 včetně nadpisu a poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "§ 17b",
+      "section": "17b",
+      "title": "§ 17b Odstoupení od smlouvy, ve které se sjednává zprostředkování spotřebitelského úvěru",
+      "content": "(1) Spotřebitel může od smlouvy, ve které se sjednává zprostředkování spotřebitelského úvěru, odstoupit bez uvedení důvodů a bez jakékoli sankce ve lhůtě 14 dnů ode dne uzavření této smlouvy, pokud do té doby nedošlo na jejím základě k uzavření smlouvy, ve které se sjednává spotřebitelský úvěr.\n(2) Od smlouvy, ve které se sjednává zprostředkování spotřebitelského úvěru, lze odstoupit podle odstavce 1 písemně, a to v souladu s informací uvedenou v této smlouvě o právu na odstoupení. Lhůta pro odstoupení je považována za zachovanou, je-li odstoupení odesláno zprostředkovateli nejpozději v poslední den lhůty.\n(3) Odstoupením od smlouvy se smlouva od počátku ruší.\n(4) Pokud zprostředkovatel nebo třetí osoba na základě smlouvy mezi třetí osobou a zprostředkovatelem poskytuje doplňkovou službu související se smlouvou, ve které se sjednává zprostředkování spotřebitelského úvěru, okamžikem odstoupení od této smlouvy zaniká i smlouva o doplňkové službě. Zprostředkovatel je povinen bez zbytečného odkladu informovat třetí osobu o tom, kdy k odstoupení od smlouvy došlo.\n(5) Pokud byl k uzavření smlouvy, ve které se sjednává zprostředkování spotřebitelského úvěru, použit výhradně prostředek komunikace na dálku, použijí se ustanovení zákona upravujícího odstoupení od smlouvy o finančních službách uzavírané na dálku4).“.\n27. § 18 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "§ 18b",
+      "section": "18b",
+      "title": "§ 18b Použití telefonního čísla s vyšší než běžnou cenou",
+      "content": "Při nabízení, sjednávání nebo zprostředkování spotřebitelského úvěru prostřednictvím hlasové telefonní komunikace, textové nebo multimediální zprávy nelze použít telefonní číslo pro přístup ke službám s vyjádřenou cenou podle právních předpisů upravujících podnikání v oblasti elektronických komunikací11).\n11) Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů.\nVyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění pozdějších předpisů.“.\n29. § 20 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. Právní vztahy vzniklé ze smluv, ve kterých se sjednává spotřebitelský úvěr nebo zprostředkování spotřebitelského úvěru, uzavřených přede dnem nabytí účinnosti tohoto zákona, se řídí zákonem č. 145/2010 Sb., ve znění účinném do dne nabytí účinnosti tohoto zákona.\n2. Právní vztahy související s použitím směnky nebo šeku přede dnem nabytí účinnosti tohoto zákona nejsou nabytím účinnosti tohoto zákona dotčeny.\n3. Jsou-li poskytnuty informace obsažené v příloze č. 2 zákona č. 145/2010 Sb. na formuláři uvedeném v přílohách č. 6 a 7 zákona č. 145/2010 Sb., ve znění účinném do dne nabytí účinnosti tohoto zákona, do jednoho roku ode dne nabytí účinnosti tohoto zákona, má se za to, že jsou poskytnuty v souladu se zákonem č. 145/2010 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení, s výjimkou čl. 1 bodu 10, který nabývá účinnosti dnem 1. ledna 2014."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely tohoto bodu se smlouvou, ve které se sjednává spotřebitelský úvěr, uzavřenou na dobu neurčitou",
+      "definition": "smlouva, ve které se sjednává spotřebitelský úvěr, bez pevně stanovené doby trvání, a to včetně spotřebitelských úvěrů, které musí být plně splaceny v rámci určitého období nebo po něm, ale jakmile jsou splaceny, jsou přístupné k dalšímu čerpání;",
+      "source_provision": "„§ 20"
+    }
+  ]
+}

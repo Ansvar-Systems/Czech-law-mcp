@@ -1,0 +1,39 @@
+{
+  "id": "cz:89/1990",
+  "type": "statute",
+  "title": "89/1990 Sb., Zákon, kterým se mění a doplňuje zákon č.35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon)",
+  "title_en": "",
+  "short_name": "89/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-03-29",
+  "in_force_date": "1990-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/89",
+  "description": "Zákon, kterým se mění a doplňuje zákon č.35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon)",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon), se mění a doplňuje takto:\n1. V § 1 za slovem „rozvoj“ závěr věty zní: „ . . . literární, vědecké a umělecké tvorby.“.\n2. V § 2 odst. 1 se na konci doplňuje nová věta tohoto znění: „Za předmět ochrany se považují i programy počítačů, pokud splňují pojmové znaky děl podle tohoto zákona.“.\n3. V § 6 větě první se slovo „vytvořeného“ nahrazuje slovem „vyjádřeného“.\n4. § 13 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Předsednictvo Federálního shromáždění se zmocňuje, aby ve Sbírce zákonů vyhlásilo úplné znění zákona č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon), jak vyplývá ze změn a doplňků provedených tímto zákonem."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. června 1990."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "součást bezdrátového rozhlasového nebo televizního vysílání",
+      "definition": "současný, úplný a nezměněný přenos takového vysílání po drátě či jiným způsobem uskutečněný toutéž organizací",
+      "source_provision": "„§ 13"
+    }
+  ]
+}

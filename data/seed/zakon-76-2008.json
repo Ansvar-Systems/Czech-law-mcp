@@ -1,0 +1,49 @@
+{
+  "id": "cz:76/2008",
+  "type": "statute",
+  "title": "76/2008 Sb., Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb.",
+  "title_en": "",
+  "short_name": "76/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-02-29",
+  "in_force_date": "2008-03-15",
+  "url": "https://www.e-sbirka.cz/sb/2008/76",
+  "description": "Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb., se mění takto:\n1. V § 2 odst. 3 písm. a) se slova „v § 12 odst. 4“ nahrazují slovy „v prováděcím právním předpisu podle § 12 odst. 1 pro veřejné zakázky na stavební práce“.\n2. V § 2 odst. 3 písm. b) se slova „v § 12 odst. 3 písm. b)“ nahrazují slovy „v prováděcím právním předpisu podle § 12 odst. 1 pro veřejné zakázky na služby“.\n3. § 12 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Zadávací řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění účinném do dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nadlimitní veřejnou zakázkou",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota podle § 13 bez daně z přidané hodnoty dosáhne nejméně finančního limitu stanoveného prováděcím právním předpisem pro jednotlivé kategorie zadavatelů a druhy veřejných zakázek, případně kategorie dodávek nebo služeb",
+      "source_provision": "„§ 12"
+    },
+    {
+      "term": "Podlimitní veřejnou zakázkou",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota činí v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby nejméně 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce nejméně 6 000 000 Kč bez daně z přidané hodnoty a nedosáhne finančního limitu podle odstavce 1",
+      "source_provision": "„§ 12"
+    },
+    {
+      "term": "Veřejnou zakázkou malého rozsahu",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota nedosáhne v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce 6 000 000 Kč bez daně z přidané hodnoty",
+      "source_provision": "„§ 12"
+    }
+  ]
+}

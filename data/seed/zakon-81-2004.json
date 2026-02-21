@@ -1,0 +1,88 @@
+{
+  "id": "cz:81/2004",
+  "type": "statute",
+  "title": "81/2004 Sb., Zákon, kterým se mění zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "81/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-02-25",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/81",
+  "description": "Zákon, kterým se mění zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 89/1995 Sb., o státní statistické službě, ve znění zákona č. 356/1999 Sb., zákona č. 220/2000 Sb., zákona č. 256/2000 Sb., zákona č. 411/2000 Sb., zákona č. 202/2002 Sb. a zákona č. 320/2002 Sb., se mění takto:\n1. V § 1 odst. 1 se za slovo „ekonomickém“ vkládá slovo „, demografickém“.\n2. § 2 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem následujícím po dni vyhlášení, s výjimkou ustanovení čl. I bodu 9 části věty za středníkem, čl. I bodu 30 části věty za středníkem, čl. I bodu 34 a čl. I bodu 50, která nabývají účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "individuálním údajem",
+      "definition": "údaj týkající se jednotlivé právnické nebo fyzické osoby, získaný pro statistické účely podle tohoto zákona",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "důvěrným statistickým údajem takový",
+      "definition": "údaj, který umožňuje přímou nebo nepřímou identifikaci jednotlivé právnické osoby nebo který je osobním údajem fyzické osoby podle zvláštního zákona,2a)",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "anonymním údajem takový individuální",
+      "definition": "údaj, který buď v původním tvaru nebo ani po provedeném zpracování neumožňuje přímou, popřípadě nepřímou identifikaci jednotlivé právnické nebo fyzické osoby",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "přímou identifikací identifikace jednotlivé právnické nebo fyzické",
+      "definition": "osoby na základě jakéhokoliv identifikátoru, který lze použít bez nutnosti vynaložit ke zjištění identity dané osoby nepřiměřeného času a úsilí",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "nepřímou identifikací možnost odvodit totožnost jednotlivé právnické nebo fyzické",
+      "definition": "osoby jiným způsobem než způsobem uvedeným v písmenu d)",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "statistickou informací informace sociálního",
+      "definition": "ekonomického, demografického nebo ekologického charakteru, která vznikla agregací individuálních údajů",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "statistickým účelem užití pro číselný",
+      "definition": "slovní nebo grafický popis hromadných jevů a procesů ve společnosti, národním hospodářství a životním prostředí pomocí statistických informací",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "zpravodajskou jednotkou",
+      "definition": "právnická osoba, organizační složka státu nebo fyzická osoba, od nichž se požaduje poskytnutí individuálních údajů ve statistickém zjišťování podle tohoto zákona",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "zpravodajskou povinností povinnost zpravodajských jednotek poskytnout požadované individuální statistické",
+      "definition": "údaje včas, úplně, správně a pravdivě pro statistická zjišťování, uvedená v programu statistických zjišťování",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "ekonomickým subjektem",
+      "definition": "každá právnická osoba, organizační složka státu a dále fyzická osoba, která má podle zvláštního právního předpisu postavení podnikatele,2)",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "zemědělskou činností zemědělská výroba rostlinná a živočišná",
+      "definition": "včetně zelinářství, zahradnictví, včelařství, rybářství, chovu kožešinových a jiných zvířat, dále lov a odchyt zvěře, výroba zemědělských výrobků, pěstování lesa a těžba dřeva, jakož i poskytování služeb pro zajištění těchto činností",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "ochranou důvěrných statistických údajů",
+      "definition": "souhrn opatření a nástrojů, které zajišťují takové nakládání s důvěrnými údaji ze statistických zjišťování, prováděných státní statistickou službou, a s údaji získanými z administrativních zdrojů, aby nemohly být neoprávněně změněny, zničeny, ztraceny, přeneseny či jinak zneužity a sloužily jen pro statistické účely; této ochraně podléhají též sdružené údaje za více právnických nebo fyzických osob, z nichž lze bez vynaložení nepřiměřeného času a úsilí určit nebo zjistit, které osoby se tento údaj týká.“.; V § 3 odstavec 3 zní:",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

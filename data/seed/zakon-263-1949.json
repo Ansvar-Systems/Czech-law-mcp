@@ -1,0 +1,76 @@
+{
+  "id": "cz:263/1949",
+  "type": "statute",
+  "title": "263/1949 Sb., Zákon, kterým se mění a doplňuje zákon o všeobecné dani",
+  "title_en": "",
+  "short_name": "263/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-12-27",
+  "in_force_date": "1949-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1949/263",
+  "description": "Zákon, kterým se mění a doplňuje zákon o všeobecné dani",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Zákon ze dne 21. prosince 1948, č. 283 Sb., o všeobecné dani, se mění a doplňuje takto:\n1. § 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Podniky, které jsou výběrčími daně podle tohoto zákona a na něž se nevztahovala oznamovací povinnost podle § 15 zákona č. 283/1948 Sb., jsou povinny ohlásit okresnímu národnímu výboru druh a místo podnikové činnosti. Má-li podnik více poboček, závodů, provozoven nebo jiných technických jednotek, učiní oznámení okresnímu národnímu výboru o každé z nich zvlášť. Oznámení jsou podniky povinny podat do 14 dnů ode dne vyhlášení tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Ministr financí se zmocňuje, aby\na) upravil vyhláškou v Úředním listě přechod od dosavadního zdanění ke zdanění podle tohoto zákona u zboží, které v den vyhlášení tohoto zákona je v podnicích nebo mimo ně,\nb) učinil opatření, kterými v jednotlivých případech nebo pro skupiny případů stejného nebo podobného druhu povolí odchylky od přechodu upraveného podle písm. a)."
+    },
+    {
+      "provision_ref": "Čl. IV.",
+      "section": "IV",
+      "title": "Čl. IV.",
+      "content": "Ministr financí se zmocňuje, aby upravil a ve Sbírce zákonů vyhlásil úplné znění zákona č. 283/1948 Sb., jak vyplývá ze změn a doplňků uvedených v čl. I."
+    },
+    {
+      "provision_ref": "Čl. V.",
+      "section": "V",
+      "title": "Čl. V.",
+      "content": "(1) Tento zákon nabývá účinnosti dnem 1. ledna 1949. Splnění povinností uložených zákonem č. 283/1948 Sb. se považuje za splnění povinností podle tohoto zákona, nesplnění jich do dne vyhlášení tohoto zákona se však posuzuje podle zákona č. 283/1948 Sb.\n(2) Tento zákon provede ministr financí v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Spotřebitelským nákupem",
+      "definition": "nákup (odstavec 2) provedený spotřebitelem (odstavec 3)",
+      "source_provision": "„§ 3."
+    },
+    {
+      "term": "Nákupem",
+      "definition": "úplatné i bezúplatné nabytí zboží nebo výkonu od jiného",
+      "source_provision": "„§ 3."
+    },
+    {
+      "term": "Podnikem maloobchodního stupně",
+      "definition": "obchodní, výrobní i jakýkoliv jiný podnik, který vyskladní zboží přímo pro spotřebitele nebo použije zboží jako spotřebitel",
+      "source_provision": "„§ 3."
+    },
+    {
+      "term": "Placením",
+      "definition": "každé plnění, tudíž nejen placení hotovými penězi, nýbrž i odúčtováním, dobropisem, směnkou, šekem, zbožím, výkonem, převzetím dluhu, postupem pohledávky a pod",
+      "source_provision": "„§ 5."
+    },
+    {
+      "term": "Obecnou cenou zboží vyrobeného v tuzemsku",
+      "definition": "cena, kterou platí v mezích cenových předpisů první odbytový stupeň za zboží téhož druhu a provedení v době a v místě vyskladnění zboží z podniku výrobcova; do této ceny se nezapočítávají daň a výdaje za obaly",
+      "source_provision": "„§ 9."
+    },
+    {
+      "term": "Obecnou cenou výkonu",
+      "definition": "cena, která se v mezích cenových předpisů platí v době a v místě provedení výkonu za výkon stejného nebo podobného druhu",
+      "source_provision": "„§ 9."
+    }
+  ]
+}

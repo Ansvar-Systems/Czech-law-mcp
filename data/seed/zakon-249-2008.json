@@ -1,0 +1,43 @@
+{
+  "id": "cz:249/2008",
+  "type": "statute",
+  "title": "249/2008 Sb., Zákon, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "249/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-07-04",
+  "in_force_date": "2008-07-04",
+  "url": "https://www.e-sbirka.cz/sb/2008/249",
+  "description": "Zákon, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění zákona č. 626/2004 Sb., zákona č. 444/2005 Sb. a zákona č. 131/2006 Sb., se mění takto:\n1. V § 28 odst. 1 se slova „umožní rostlinolékařské správě provést potřebné šetření“ nahrazují slovy „navrhne místo, ve kterém umožní rostlinolékařské správě provést potřebné šetření“.\n2. V § 28 se za odstavec 1 vkládá nový odstavec 2, který zní:\n„(2) Rostlinolékařská správa provede šetření podle odstavce 1 toliko v místě, které splňuje minimální požadavky na technické vybavení stanovené prováděcím právním předpisem. K provedení šetření při vývozu rostlin, rostlinných produktů a jiných předmětů, které představují vysokou míru rizika zavlékání a šíření škodlivých organismů, stanoví rostlinolékařská správa místa provádění šetření a provozní režim těchto míst a zveřejní je ve Věstníku. Za vysokou míru rizika se považuje schopnost škodlivých organismů nevyvolávat viditelné příznaky napadení (dále jen „skryté napadení“). Rostliny, rostlinné produkty a jiné předměty a škodlivé organismy, způsobující na nich skryté napadení, stanoví prováděcí právní předpis.“.\nDosavadní odstavce 2 až 8 se označují jako odstavce 3 až 9.\n3. § 43 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kontrolou přípravků",
+      "definition": "kontrola dodržování podmínek, požadavků a povinností stanovených tímto zákonem, jeho prováděcími právními předpisy a rozhodnutími rostlinolékařské správy fyzickým a právnickým osobám a týkajících se přípravků jako výrobků, jejich uvádění v České republice na trh, skladování a používání",
+      "source_provision": "„§ 43"
+    },
+    {
+      "term": "Kontrolou přípravků se rovněž",
+      "definition": "jejich laboratorní vyšetření, ověřující zda složení přípravku, jeho chemické, fyzikální a technické vlastnosti, případně biologické vlastnosti (jde-li o přípravek obsahující mikroorganismy) jsou v souladu s podmínkami stanovenými v rozhodnutí o registraci, včetně údajů v podkladech, na jejichž základě bylo rozhodnutí o registraci vydáno",
+      "source_provision": "„§ 43"
+    },
+    {
+      "term": "Používáním přípravku",
+      "definition": "všechny činnosti, které přímo směřují k jeho aplikaci, zejména příruční nebo přechodné skladování mimo uvádění na trh, bezprostřední zacházení s přípravkem, jeho ředění, míchání a samotná aplikace pomocí mechanizačního prostředku",
+      "source_provision": "„§ 43"
+    }
+  ]
+}

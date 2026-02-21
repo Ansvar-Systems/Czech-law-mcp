@@ -1,13 +1,13 @@
 {
   "id": "cz:89/2012",
   "type": "statute",
-  "title": "Zákon č. 89/2012 Sb., občanský zákoník",
+  "title": "89/2012 Sb., Zákon občanský zákoník",
   "title_en": "Civil Code",
   "short_name": "OZ",
   "status": "in_force",
   "issued_date": "2012-03-22",
-  "in_force_date": "2014-01-01",
-  "url": "https://www.e-sbirka.cz/sb/2012/89/2026-01-01",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/89",
   "description": "Core private law code governing civil law relationships and obligations.",
   "provisions": [
     {

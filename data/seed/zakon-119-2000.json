@@ -1,0 +1,56 @@
+{
+  "id": "cz:119/2000",
+  "type": "statute",
+  "title": "119/2000 Sb., Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, a zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví, ve znění zákona č. 22/1997 Sb.",
+  "title_en": "",
+  "short_name": "119/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-05-10",
+  "in_force_date": "2002-04-15",
+  "url": "https://www.e-sbirka.cz/sb/2000/119",
+  "description": "Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, a zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví, ve znění zákona č. 22/1997 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o metrologii",
+      "content": "Zákon č. 505/1990 Sb., o metrologii, se mění takto:\n1. § 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o metrologii - „ÚKOLY ORGÁNŮ STÁTNÍ SPRÁVY A SUBJEKTŮ“.",
+      "content": "1. Autorizační listiny vydané podle dosavadních předpisů zůstávají v platnosti do jejich nahrazení autorizačními akty podle tohoto zákona, pokud nebudou odňaty, nejdéle však do 1 roku od nabytí účinnosti tohoto zákona.\n2. Pokud v rozhodnutí o schválení typu měřidla, vydaném před nabytím účinnosti tohoto zákona, není stanovena lhůta platnosti tohoto rozhodnutí, pozbývá toto rozhodnutí platnosti uplynutím 10 let od účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o potravinách a tabákových výrobcích",
+      "content": "Zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, se mění takto:\n1. V § 6 odstavec 3 včetně poznámky pod čarou č. 10a) zní:\n„(3) Mezinárodní symbol „e“ pro označení množství potraviny lze uvést na obalu jen tehdy, pokud byly splněny požadavky stanovené zvláštním právním předpisem.10a)\n10a) § 9a odst. 2 písm. a) a d) zákona č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb.“.\n2. V § 18 se písmeno f) zrušuje.\nDosavadní písmena g) až m) se označují jako písmena f) až l)."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví",
+      "content": "Zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví, ve znění zákona č. 22/1997 Sb., se mění takto:\n1. V § 4 písmeno a) včetně poznámky pod čarou č. 3) zní:\n„a) řídí a zabezpečuje metrologii v rozsahu stanoveném zvláštním právním předpisem,3)\n3) Zákon č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb.“.\n2. § 5 včetně poznámky pod čarou č. 9) zní:"
+    },
+    {
+      "provision_ref": "Čl. V",
+      "section": "V",
+      "title": "Čl. V",
+      "chapter": "ČÁST ČTVRTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 2000, s výjimkou čl. I bodů 35 a 78, pokud jde o ustanovení § 23 odst. 1 písm. h), a čl. III, které nabývají účinnosti dnem 1. července 2001, a čl. I bodů 29, 33, 53 a 54, pokud jde o ustanovení § 14 odst. 3, které nabývají účinnosti dnem vstupu smlouvy o přistoupení České republiky do Evropské unie v platnost nebo dnem, kdy vstoupí v platnost příslušná sektorová příloha Protokolu k Evropské dohodě zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé o posuzování shody a akceptaci průmyslových výrobků, bude-li tento den dřívější."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Státní metrologickou kontrolou měřidel",
+      "definition": "schvalování typu měřidla, prvotní a následné ověřování stanoveného měřidla a certifikace referenčních materiálů",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

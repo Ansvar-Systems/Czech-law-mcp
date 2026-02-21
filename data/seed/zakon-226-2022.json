@@ -1,0 +1,27 @@
+{
+  "id": "cz:226/2022",
+  "type": "statute",
+  "title": "226/2022 Sb., Zákon, kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "226/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-08-05",
+  "in_force_date": "2022-08-06",
+  "url": "https://www.e-sbirka.cz/sb/2022/226",
+  "description": "Zákon, kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění zákona č. 104/2017 Sb., zákona č. 183/2017 Sb., zákona č. 205/2017 Sb., zákona č. 35/2018 Sb., zákona č. 111/2019 Sb., zákona č. 12/2020 Sb. a zákona č. 261/2021 Sb., se mění takto:\n1. V § 1 odstavec 2 včetně poznámek pod čarou č. 6 a 17 zní:\n„(2) Tento zákon zapracovává příslušný předpis Evropské unie6), zároveň navazuje na přímo použitelný předpis Evropské unie17) a upravuje zajišťování bezpečnosti sítí elektronických komunikací a informačních systémů.\n6) Směrnice Evropského parlamentu a Rady (EU) 2016/1148 ze dne 6. července 2016 o opatřeních k zajištění vysoké společné úrovně bezpečnosti sítí a informačních systémů v Unii.\n17) Nařízení Evropského parlamentu a Rady (EU) 2019/881 ze dne 17. dubna 2019 o agentuře ENISA („Agentuře Evropské unie pro kybernetickou bezpečnost“), o certifikaci kybernetické bezpečnosti informačních a komunikačních technologií a o zrušení nařízení (EU) č. 526/2013 („akt o kybernetické bezpečnosti“).“.\n2. V § 22 se na konci písmene x) tečka nahrazuje čárkou a doplňuje se písmeno y), které zní:\n„y) je orgánem certifikace kybernetické bezpečnosti podle čl. 58 aktu o kybernetické bezpečnosti17).“.\n3. Za § 22a se vkládá nový § 22b, který včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.\nf) vystupuje jako akreditovaný subjekt posuzování shody bez akreditace podle čl. 60 odst. 1 aktu o kybernetické bezpečnosti17) nebo mimo rozsah této akreditace.“.\ne) provede činnost posouzení shody, vyhrazenou přímo použitelným předpisem Evropské unie vydaným na základě aktu o kybernetické bezpečnosti autorizovanému subjektu posuzování shody, bez autorizace, nebo\nd) jako subjekt posuzování shody autorizovaný podle čl. 60 odst. 3 aktu o kybernetické bezpečnosti17) vydá evropský certifikát kybernetické bezpečnosti k produktu, procesu nebo službě, které nesplňují kritéria obsažená v přímo použitelném předpise Evropské unie vydaném na základě aktu o kybernetické bezpečnosti,\nc) provede činnost posouzení shody podle aktu o kybernetické bezpečnosti17) na úroveň záruky „vysoká“, přestože k tomu není oprávněna podle čl. 56 odst. 6 aktu o kybernetické bezpečnosti17),\nb) padělá nebo pozmění evropský certifikát kybernetické bezpečnosti, EU prohlášení o shodě anebo jiný dokument podle aktu o kybernetické bezpečnosti17),\na) zneužije známku nebo označení evropského systému certifikace kybernetické bezpečnosti, evropský certifikát kybernetické bezpečnosti, EU prohlášení o shodě anebo jiný dokument podle aktu o kybernetické bezpečnosti17),\n(13) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že\n(12) Držitel evropského certifikátu kybernetické bezpečnosti se dopustí přestupku tím, že neinformuje příslušné subjekty posuzování shody o veškerých později zjištěných zranitelnostech nebo nesrovnalostech.\nd) neposkytuje informace o kybernetické bezpečnosti v rozsahu a způsobem uvedeným v čl. 55 aktu o kybernetické bezpečnosti17).\nc) nepředloží vyhotovení EU prohlášení o shodě Úřadu a agentuře ENISA podle čl. 53 odst. 3 aktu o kybernetické bezpečnosti17), nebo\nb) neuchovává dokumenty a informace podle čl. 53 odst. 3 aktu o kybernetické bezpečnosti17),\na) vydá EU prohlášení o shodě, ač pro jeho vydání nejsou splněny podmínky stanovené aktem o kybernetické bezpečnosti17),"
+    }
+  ],
+  "definitions": []
+}

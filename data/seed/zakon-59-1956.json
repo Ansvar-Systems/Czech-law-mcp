@@ -1,0 +1,39 @@
+{
+  "id": "cz:59/1956",
+  "type": "statute",
+  "title": "59/1956 Sb., Zákon, kterým se mění a doplňuje zákon o důchodové dani družstev a jiných organisací",
+  "title_en": "",
+  "short_name": "59/1956 Sb.",
+  "status": "in_force",
+  "issued_date": "1956-12-19",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1956/59",
+  "description": "Zákon, kterým se mění a doplňuje zákon o důchodové dani družstev a jiných organisací",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Zákon č. 75/1952 Sb., o důchodové dani družstev a jiných organisací, se mění a doplňuje takto:\n1. § 1 odst. 1 písm. a) zní:\n„družstva a jejich organisace s výjimkou jednotných zemědělských družstev;“\n2. § 2 zní:"
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Ustanovení tohoto zákona se použije po prvé pro zdanění zisků za rok 1956."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1957; provede jej ministr financí."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rentabilitou",
+      "definition": "poměr dani podrobeného zisku k úplným vlastním nákladům",
+      "source_provision": "„§ 5."
+    }
+  ]
+}

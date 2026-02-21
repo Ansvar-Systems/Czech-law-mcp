@@ -1,0 +1,33 @@
+{
+  "id": "cz:81/1990",
+  "type": "statute",
+  "title": "81/1990 Sb., Ústavní zákon o změně názvu Československé socialistické republiky",
+  "title_en": "",
+  "short_name": "81/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-03-29",
+  "in_force_date": "1990-03-29",
+  "url": "https://www.e-sbirka.cz/sb/1990/81",
+  "description": "Ústavní zákon o změně názvu Československé socialistické republiky",
+  "provisions": [
+    {
+      "provision_ref": "Článek I",
+      "section": "I",
+      "title": "Článek I",
+      "content": "Název „Československá socialistická republika“ se mění na „Československá federativní republika“."
+    },
+    {
+      "provision_ref": "Článek II",
+      "section": "II",
+      "title": "Článek II",
+      "content": "Pokud je v dosavadních ústavních a jiných zákonech uveden název „Československá socialistická republika“, rozumí se tím „Československá federativní republika“."
+    },
+    {
+      "provision_ref": "Článek III",
+      "section": "III",
+      "title": "Článek III",
+      "content": "Tento ústavní zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

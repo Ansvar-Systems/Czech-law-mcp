@@ -1,0 +1,44 @@
+{
+  "id": "cz:254/2002",
+  "type": "statute",
+  "title": "254/2002 Sb., Zákon, kterým se mění zákon č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "254/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-06-28",
+  "in_force_date": "2002-06-28",
+  "url": "https://www.e-sbirka.cz/sb/2002/254",
+  "description": "Zákon, kterým se mění zákon č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 155/2000 Sb. a zákona č. 129/2002 Sb., se mění takto:\n1. V § 2 odstavce 3 a 4 znějí:\n„(3) Služební orgány jsou povinny zajišťovat rovný přístup a rovné zacházení se všemi uchazeči o povolání do služebního poměru (dále jen „uchazeč“) a se všemi vojáky při vytváření podmínek výkonu služby, zejména pokud jde o odbornou přípravu a dosažení služebního postupu, odměňování, jiná peněžitá plnění a plnění peněžité hodnoty. Je zakázána diskriminace uchazečů a vojáků z důvodu rasy, barvy pleti, pohlaví, sexuální orientace, víry a náboženství, národnosti, etnického nebo sociálního původu, majetku, rodu, manželského a rodinného stavu a povinností k rodině, těhotenství nebo mateřství anebo proto, že vojákyně kojí. Je zakázáno i takové jednání služebních orgánů, které diskriminuje nikoliv přímo, ale až ve svých důsledcích. Za takové jednání se považuje i navádění k diskriminaci. Za diskriminaci se nepovažují případy, kdy je pro odlišné zacházení věcný důvod spočívající v povaze služby, kterou voják vykonává, a který je pro výkon této služby nezbytný.\n(4) Služební orgán ani voják nesmí zneužívat výkonu práv a povinností vyplývajících ze služebního poměru k újmě jiného vojáka nebo k ponižování jeho důstojnosti. Za ponižování důstojnosti se považuje i nežádoucí chování sexuální povahy a všechny formy obtěžování, které směřují k narušení důstojnosti vojáka, vytvoření zastrašující, nepřátelské, ponižující a pokořující nebo urážlivé atmosféry, a které jsou nevítané, nevhodné nebo mohou být druhým vojákem oprávněně vnímány jako podmínka pro rozhodnutí, která ovlivňují výkon práv a povinností vyplývajících ze služebního poměru.“.\n2. V § 2 se odstavec 5 zrušuje.\nDosavadní odstavce 6 a 7 se označují jako odstavce 5 a 6.\n3. Za § 2 se do části druhé hlavy I vkládá nový § 2a, který včetně nadpisu a poznámek pod čarou č. 1), 1a), 1b) a 1c) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Ustanovení § 165 odst. 1 až 3 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění tohoto zákona, pozbývají platnosti ke dni 30. listopadu 2004."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Obcí výkonu služby",
+      "definition": "území obce,22c) na kterém je dislokován vojenský objekt, vojenský útvar nebo vojenské zařízení anebo vojenský záchranný útvar, v němž je voják služebně zařazen",
+      "source_provision": "„§ 70"
+    },
+    {
+      "term": "Prevencí rizik",
+      "definition": "všechna opatření, která směřují k zajištění bezpečnosti a ochrany zdraví vojáků při výkonu služby, a opatření, jejichž cílem je předcházet rizikům, odstraňovat je nebo minimalizovat jejich působení",
+      "source_provision": "„§ 98"
+    }
+  ]
+}

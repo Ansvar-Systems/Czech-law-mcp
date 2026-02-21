@@ -1,0 +1,54 @@
+{
+  "id": "cz:55/2012",
+  "type": "statute",
+  "title": "55/2012 Sb., Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "55/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-02-24",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/55",
+  "description": "Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb., zákona č. 296/2007 Sb., zákona č. 76/2008 Sb., zákona č. 124/2008 Sb., zákona č. 41/2009 Sb., zákona č. 110/2009 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 417/2009 Sb., zákona č. 179/2010 Sb., zákona č. 423/2010 Sb., zákona č. 73/2011 Sb. a zákona č. 258/2011 Sb., se mění takto:\n1. V § 2 odstavec 3 zní:\n„(3) Dotovaným zadavatelem je právnická nebo fyzická osoba, která zadává veřejnou zakázku hrazenou z více než 50 % z peněžních prostředků z veřejných zdrojů nebo pokud peněžní prostředky poskytnuté na veřejnou zakázku z těchto zdrojů přesahují 200 000 000 Kč; peněžní prostředky jsou poskytovány z veřejných zdrojů i v případě, pokud jsou poskytovány prostřednictvím jiné osoby.“.\n2. V § 2 se na konci odstavce 7 doplňuje věta „Veřejný zadavatel však nepostupuje podle ustanovení vztahujících se na sektorového zadavatele, pokud vykonává relevantní činnost podle § 4 odst. 1 písm. d) a e).“.\n3. V § 2 se doplňuje odstavec 11, který zní:\n„(11) Zadává-li veřejnou zakázku sdružení zadavatelů a alespoň jeden účastník sdružení zadavatelů je zahraniční osobou se sídlem v členském státě Evropské unie, mohou se účastníci sdružení dohodnout, že rozhodné právo je právo České republiky nebo právo členského státu Evropské unie, ve kterém má sídlo účastník sdružení.“.\n4. V § 3 odst. 2 se doplňují slova „s výjimkou případu, kdy se jedná o centralizované zadávání v oblasti obrany nebo bezpečnosti“.\n5. V § 3 odst. 5 se slova „písm. a)“ zrušují.\n6. V § 4 odst. 1 písm. g) bodech 1 a 2, § 11 odst. 3, § 20 odst. 1, 2 a 5, § 47, § 77 odst. 5, § 100 odst. 2 a 5, § 104 odst. 1 a § 107 odst. 3 se slova „Evropských společenství“ nahrazují slovy „Evropské unie“.\n7. V § 6 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:\n„(2) Zadavatel nesmí omezovat účast v zadávacím řízení těm dodavatelům, kteří mají sídlo nebo místo podnikání v členském státě Evropské unie a ostatních státech, které mají s Českou republikou či Evropskou unií uzavřenu mezinárodní smlouvu zaručující přístup dodavatelů z těchto států k zadávané veřejné zakázce.“.\n8. V § 12 odst. 2 a 3 se částka „2 000 000 Kč“ nahrazuje částkou „1 000 000 Kč“ a částka „6 000 000 Kč“ se nahrazuje částkou „3 000 000 Kč“.\n10. V § 13 se na konci textu odstavce 8 doplňují slova „odst. 1“.\n11. Za § 16 se vkládá nový § 16a, který včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. Zadávání veřejných zakázek, soutěže o návrh a řízení o přezkoumání úkonů zadavatele Úřadem pro ochranu hospodářské soutěže zahájené přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.\n2. V řízeních o přezkoumání úkonů zadavatele, která byla zahájena po dni nabytí účinnosti tohoto zákona a která na zadávání veřejných zakázek nebo soutěž o návrh podle bodu 1 navazují, se postupuje podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem 1. dubna 2012."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Významnou veřejnou zakázkou",
+      "definition": "taková veřejná zakázka, kterou zadává",
+      "source_provision": "„§ 16a"
+    },
+    {
+      "term": "Otevřením nabídky podané v elektronické podobě",
+      "definition": "zpřístupnění jejího obsahu komisi",
+      "source_provision": "„§ 72"
+    },
+    {
+      "term": "uveřejnění vyhlášení",
+      "definition": "uveřejnění všech údajů z vyhlášení doručeného zadavatelem",
+      "source_provision": "„§ 146"
+    },
+    {
+      "term": "Vzdělávacím programem",
+      "definition": "vzdělávání v oblasti postupů podle tohoto zákona a v oblasti základních investičních a nákupních dovedností",
+      "source_provision": "„§ 151a"
+    }
+  ]
+}

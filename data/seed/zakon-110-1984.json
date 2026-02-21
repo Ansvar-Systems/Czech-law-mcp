@@ -1,0 +1,45 @@
+{
+  "id": "cz:110/1984",
+  "type": "statute",
+  "title": "110/1984 Sb., Zákon o změnách zákona o mateřském příspěvku",
+  "title_en": "",
+  "short_name": "110/1984 Sb.",
+  "status": "in_force",
+  "issued_date": "1984-11-15",
+  "in_force_date": "1985-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1984/110",
+  "description": "Zákon o změnách zákona o mateřském příspěvku",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 107/1971 Sb., o mateřském příspěvku, ve znění zákonného opatření předsednictva Federálního shromáždění č. 8/1982 Sb., o zvýšení mateřského příspěvku a o změnách v nemocenském zabezpečení, se mění a doplňuje takto:\n1. § 2 včetně nadpisu zní:\n„Podmínky nároku"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Na mateřský příspěvek má nárok žena, která celodenně a řádně pečuje o dítě ve věku do jednoho roku.\n(2) Žena, která celodenně a řádně pečuje o dítě ve věku od jednoho do dvou let, má nárok na mateřský příspěvek, jestliže\na) řádně pečuje ještě o další dítě do skončení povinné školní docházky nebo o dítě do 26 let věku, které se soustavně připravuje na budoucí povolání studiem nebo předepsaným výcvikem1) nebo je poživatelem invalidního důchodu a vyžaduje stálou péči, nebo\nb) jde o invalidní dítě, které vyžaduje stálou péči, nebo\nc) jde o dítě, které převzala do trvalé péče nahrazující mateřskou péči, nebo\nd) jde o ženu svobodnou, ovdovělou, rozvedenou nebo z jiných vážných důvodů osamělou, která nežije s druhem, nebo\ne) jde o ženu, jejíž manžel se soustavně připravuje na budoucí povolání studiem nebo předepsaným výcvikem1) anebo je poživatelem invalidního důchodu a není výdělečně činný.\n(3) Dítětem se pro účely tohoto zákona rozumí vlastní dítě ženy nebo dítě, které žena převzala do trvalé péče nahrazující mateřskou péči. Za dítě převzaté do trvalé péče nahrazující mateřskou péči se považuje dítě osvojené, dítě, jež bylo převzato do této péče na základě rozhodnutí příslušného orgánu, dítě, jehož matka zemřela, a dítě manžela, které mu bylo svěřeno do výchovy rozhodnutím soudu.\n(4) Mateřský příspěvek náleží, jen jestliže dítě ve věku do jednoho roku nebo do dvou let je státním občanem Československé socialistické republiky a jestliže všechny děti uvedené v předchozích odstavcích žijí na území Československé socialistické republiky.“.\n2. V § 3 se vypouští odstavec 2 a označení odstavce 1.\n3. V § 4 odst. 1 se vypouštějí slova „do dvou let věku“.\n4. Nadpis § 5 se vypouští.\n5. § 5 odst. 1 zní:\n„(1) Jestliže se mateřský příspěvek poskytuje podle § 2 odst. 2 písm. a), náleží nejdéle do dne, kdy dítě dosáhlo věku dvou let, i když po porodu tohoto dítěte další dítě zemřelo, ukončilo povinnou školní docházku nebo přípravu na budoucí povolání nebo mu zanikl nárok na invalidní důchod anebo odpadla potřeba stálé péče o ně.“.\n6. Za § 13 se vkládá § 13a, který zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Splnění podmínky podrobit se v době těhotenství pravidelné péči o těhotné ženy ve zdravotnických zařízeních (§ 3 zákona o mateřském příspěvku) se nevyžaduje, jestliže se dítě narodilo před 1. červencem 1985."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1985.\n1) § 1 a 2 vyhlášky Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky Ústřední rady odborů č. 78/1984 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dítětem",
+      "definition": "vlastní dítě ženy nebo dítě, které žena převzala do trvalé péče nahrazující mateřskou péči",
+      "source_provision": "§ 2"
+    }
+  ]
+}

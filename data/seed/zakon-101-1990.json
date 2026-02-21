@@ -1,0 +1,39 @@
+{
+  "id": "cz:101/1990",
+  "type": "statute",
+  "title": "101/1990 Sb., Ústavní zákon o změně názvu Československé federativní republiky",
+  "title_en": "",
+  "short_name": "101/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-04-23",
+  "in_force_date": "1990-04-23",
+  "url": "https://www.e-sbirka.cz/sb/1990/101",
+  "description": "Ústavní zákon o změně názvu Československé federativní republiky",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Název „Československá federativní republika“ se mění na „Česká a Slovenská Federativní Republika“ v jazyce českém a „Česká a Slovenská Federatívna Republika“ v jazyce slovenském; obě znění jsou rovnocenná."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pokud je v dosavadních ústavních a jiných zákonech uveden název „Československá federativní republika“, rozumí se tím název státu podle tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Zrušuje se ústavní zákon č. 81/1990 Sb., o změně názvu Československé socialistické republiky."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento ústavní zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

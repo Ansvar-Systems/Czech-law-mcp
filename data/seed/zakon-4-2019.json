@@ -1,0 +1,44 @@
+{
+  "id": "cz:4/2019",
+  "type": "statute",
+  "title": "4/2019 Sb., Zákon, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "4/2019 Sb.",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2019/4",
+  "description": "Zákon, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I Změna zákona o spotřebních daních",
+      "content": "Zákon č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 479/2003 Sb., zákona č. 237/2004 Sb., zákona č. 313/2004 Sb., zákona č. 558/2004 Sb., zákona č. 693/2004 Sb., zákona č. 179/2005 Sb., zákona č. 217/2005 Sb., zákona č. 377/2005 Sb., zákona č. 379/2005 Sb., zákona č. 545/2005 Sb., zákona č. 310/2006 Sb., zákona č. 575/2006 Sb., zákona č. 261/2007 Sb., zákona č. 270/2007 Sb., zákona č. 296/2007 Sb., zákona č. 37/2008 Sb., zákona č. 124/2008 Sb., zákona č. 245/2008 Sb., zákona č. 309/2008 Sb., zákona č. 87/2009 Sb., zákona č. 281/2009 Sb., zákona č. 292/2009 Sb., zákona č. 362/2009 Sb., zákona č. 59/2010 Sb., zákona č. 95/2011 Sb., zákona č. 221/2011 Sb., zákona č. 420/2011 Sb., zákona č. 457/2011 Sb., zákona č. 458/2011 Sb., zákona č. 18/2012 Sb., zákona č. 407/2012 Sb., zákona č. 500/2012 Sb., zákona č. 308/2013 Sb., zákonného opatření Senátu č. 344/2013 Sb., zákona č. 201/2014 Sb., zákona č. 331/2014 Sb., zákona č. 157/2015 Sb., zákona č. 315/2015 Sb., zákona č. 382/2015 Sb., zákona č. 188/2016 Sb., zákona č. 243/2016 Sb., zákona č. 453/2016 Sb., zákona č. 65/2017 Sb. a zákona č. 183/2017 Sb., se mění takto:\n1. § 57 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. Pro nárok na vrácení daně z minerálních olejů osobám užívajícím tyto oleje pro zemědělskou prvovýrobu nebo pro provádění hospodaření v lese, který vznikl před 1. lednem 2019, se použije § 57 zákona č. 353/2003 Sb., ve znění účinném před 1. lednem 2019.\n2. Pro nárok na vrácení daně z minerálních olejů osobám užívajícím tyto oleje pro zemědělskou prvovýrobu nebo pro provádění hospodaření v lese, který vznikl od 1. ledna 2019 do dne předcházejícího dni nabytí účinnosti tohoto zákona, se použije § 57 zákona č. 353/2003 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona.\n3. Ustanovení § 57 odst. 22 zákona č. 353/2003 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona, se nepoužije pro daňové povinnosti fyzických osob za zdaňovací období před 1. lednem 2022."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení s výjimkou čl. I bodu 3, který nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "intenzitou chovu hospodářských zvířat podíl počtu hospodářských zvířat",
+      "definition": "která jsou chována osobou uvedenou v odstavci 1, přepočteného na velkou dobytčí jednotku, a výměry zemědělské půdy s druhem zemědělské kultury orná půda, trvalý travní porost nebo trvalá kultura vedené pro tuto osobu v evidenci využití půdy podle uživatelských vztahů vedené podle zákona upravujícího zemědělství",
+      "source_provision": "„§ 57"
+    },
+    {
+      "term": "citlivou plodinou plodina",
+      "definition": "na kterou je poskytována dobrovolná podpora vázaná na produkci podle nařízení vlády upravujícího stanovení některých podmínek poskytování přímých plateb zemědělcům, a",
+      "source_provision": "„§ 57"
+    }
+  ]
+}

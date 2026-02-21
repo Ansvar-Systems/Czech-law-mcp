@@ -1,0 +1,48 @@
+{
+  "id": "cz:204/2002",
+  "type": "statute",
+  "title": "204/2002 Sb., Zákon, kterým se mění zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům",
+  "title_en": "",
+  "short_name": "204/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-05-24",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2002/204",
+  "description": "Zákon, kterým se mění zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům, se mění takto:\n1. § 2 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení, s výjimkou čl. I bodů 3 až 5, 11, 42, 44, 47 až 49 a 54, které nabývají účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vývozcem",
+      "definition": "osoba, která",
+      "source_provision": "„§ 3"
+    },
+    {
+      "term": "Dovozcem",
+      "definition": "osoba, která dováží kontrolované zboží na území České republiky",
+      "source_provision": "„§ 3"
+    },
+    {
+      "term": "Dovozem",
+      "definition": "propuštění kontrolovaného zboží do celního režimu volného oběhu anebo do některého z režimů s ekonomickým účinkem",
+      "source_provision": "„§ 3"
+    },
+    {
+      "term": "Zahraniční osobou podle tohoto zákona",
+      "definition": "fyzická nebo právnická osoba se sídlem nebo místem podnikání v zemi, která není členským státem Evropské unie",
+      "source_provision": "„§ 23a"
+    }
+  ]
+}

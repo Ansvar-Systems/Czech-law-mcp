@@ -1,0 +1,95 @@
+{
+  "id": "cz:60/1998",
+  "type": "statute",
+  "title": "60/1998 Sb., Zákon, kterým se mění a doplňuje zákon č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "60/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-03-30",
+  "in_force_date": "1998-03-30",
+  "url": "https://www.e-sbirka.cz/sb/1998/60",
+  "description": "Zákon, kterým se mění a doplňuje zákon č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů, se mění a doplňuje takto:\n1. Nadpis části první zní: „POJIŠŤOVÁNÍ A FINANCOVÁNÍ VÝVOZU SE STÁTNÍ PODPOROU“.\n2. § 1 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pojmy Česká exportní banka, akciová společnost, Praha a Exportní garanční a pojišťovací společnost, akciová společnost, Praha, použitými v dosavadních právních předpisech, se ke dni účinnosti tohoto zákona rozumí Česká exportní banka, a. s., a Exportní garanční a pojišťovací společnost, a. s."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda Poslanecké sněmovny se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů, jak vyplývá z pozdějších předpisů."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) pojištění vývozních úvěrových rizik, jímž",
+      "definition": "pojištění:",
+      "source_provision": "„§ 1"
+    },
+    {
+      "term": "vývozcem",
+      "definition": "fyzická osoba s trvalým pobytem nebo právnická osoba se sídlem na území České republiky, která je podnikatelem1) a uskutečňuje vývoz",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "výrobcem",
+      "definition": "fyzická osoba s trvalým pobytem nebo právnická osoba se sídlem na území České republiky, která je podnikatelem1) a která vyrábí nebo poskytuje služby nebo která zajišťuje výrobu zboží nebo poskytování služeb určených pro vývoz",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "bankou výrobce banka",
+      "definition": "která poskytuje výrobci úvěr související s výrobou zboží nebo s poskytováním služeb určených pro vývoz",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "bankou vývozce banka",
+      "definition": "která poskytuje vývozci nebo zahraniční osobě úvěr související s vývozem",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "hostitelským státem území cizího státu",
+      "definition": "do kterého směřuje investice v zahraničí, která má být předmětem pojištění, respektive zvýhodněného financování",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "zajišťovacími operacemi operace směřující k",
+      "definition": "omezení kursových a úrokových rizik",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "tržně nezajistitelnými komerčními riziky komerční rizika",
+      "definition": "která nelze zajistit na trhu soukromého komerčního úvěrového zajištění za podmínek běžných na mezinárodních trzích",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "pojistnou angažovaností",
+      "definition": "souhrn hodnot pojištěných úvěrů z uzavřených pojistných smluv v nominální výši včetně úroků a smluvních poplatků, snížený o řádně uhrazené splátky těchto úvěrů a hodnot smluv o příslibu pojištění ve výši 50 % jejich nominální hodnoty",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "specializovanou institucí zahraniční",
+      "definition": "osoba, která v souladu se svým oprávněním ohodnotí důvěryhodnost banky vývozce a banky výrobce",
+      "source_provision": "„§ 2"
+    },
+    {
+      "term": "dovozcem zahraniční",
+      "definition": "osoba, která uskutečňuje dovoz z České republiky.",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

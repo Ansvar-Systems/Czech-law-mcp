@@ -1,13 +1,13 @@
 {
   "id": "cz:480/2004",
   "type": "statute",
-  "title": "Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)",
+  "title": "480/2004 Sb., Zákon o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)",
   "title_en": "Act on Certain Information Society Services",
   "short_name": "ZSIS",
   "status": "in_force",
   "issued_date": "2004-09-07",
-  "in_force_date": "2004-09-07",
-  "url": "https://www.e-sbirka.cz/sb/2004/480/2023-03-23",
+  "in_force_date": "2023-03-23",
+  "url": "https://www.e-sbirka.cz/sb/2004/480",
   "description": "Regulates selected legal duties for information society service providers.",
   "provisions": [
     {
@@ -139,18 +139,18 @@
   ],
   "definitions": [
     {
-      "term": "službou informační společnosti",
-      "definition": "jakákoliv služba poskytovaná elektronickými prostředky na individuální žádost uživatele podanou elektronickými prostředky, poskytovaná zpravidla za úplatu; služba je poskytnuta elektronickými prostředky, pokud je odeslána prostřednictvím sítě elektronických komunikací a vyzvednuta uživatelem z elektronického zařízení pro ukládání dat",
+      "term": "službou informační společnosti jakákoliv",
+      "definition": "služba poskytovaná elektronickými prostředky na individuální žádost uživatele podanou elektronickými prostředky, poskytovaná zpravidla za úplatu; služba je poskytnuta elektronickými prostředky, pokud je odeslána prostřednictvím sítě elektronických komunikací a vyzvednuta uživatelem z elektronického zařízení pro ukládání dat",
       "source_provision": "§ 2"
     },
     {
-      "term": "elektronickou poštou",
-      "definition": "textová, hlasová, zvuková nebo obrazová zpráva poslaná prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne",
+      "term": "elektronickou poštou textová",
+      "definition": "hlasová, zvuková nebo obrazová zpráva poslaná prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne",
       "source_provision": "§ 2"
     },
     {
-      "term": "elektronickými prostředky",
-      "definition": "zejména síť elektronických komunikací, elektronická komunikační zařízení, automatické volací a komunikační systémy, telekomunikační koncová zařízení a elektronická pošta",
+      "term": "elektronickými prostředky zejména",
+      "definition": "síť elektronických komunikací, elektronická komunikační zařízení, automatické volací a komunikační systémy, telekomunikační koncová zařízení a elektronická pošta",
       "source_provision": "§ 2"
     },
     {
@@ -164,18 +164,18 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "obchodním sdělením",
-      "definition": "všechny formy sdělení, včetně reklamy a vybízení k návštěvě internetových stránek, určeného k přímé či nepřímé podpoře zboží či služeb nebo image podniku osoby, která je podnikatelem3) nebo vykonává regulovanou činnost2).",
+      "term": "obchodním sdělením všechny formy sdělení",
+      "definition": "včetně reklamy a vybízení k návštěvě internetových stránek, určeného k přímé či nepřímé podpoře zboží či služeb nebo image podniku osoby, která je podnikatelem3) nebo vykonává regulovanou činnost2).",
       "source_provision": "§ 2"
     },
     {
-      "term": "automatickým krátkodobě dočasným ukládáním",
-      "definition": "ukládání informací poskytnutých uživatelem, ke kterému dochází výhradně za účelem uskutečnění přenosu prostřednictvím sítě elektronických komunikací, přičemž doba uložení informace nepřesahuje dobu, která je pro zajištění přenosu obvyklá",
+      "term": "automatickým krátkodobě dočasným ukládáním ukládání informací poskytnutých uživatelem",
+      "definition": "ke kterému dochází výhradně za účelem uskutečnění přenosu prostřednictvím sítě elektronických komunikací, přičemž doba uložení informace nepřesahuje dobu, která je pro zajištění přenosu obvyklá",
       "source_provision": "§ 2"
     },
     {
-      "term": "automatickým dočasným meziukládáním",
-      "definition": "ukládání informací poskytnutých uživatelem, které slouží výhradně pro co možná nejúčinnější následný přenos těchto informací na žádost jiných uživatelů.",
+      "term": "automatickým dočasným meziukládáním ukládání informací poskytnutých uživatelem",
+      "definition": "které slouží výhradně pro co možná nejúčinnější následný přenos těchto informací na žádost jiných uživatelů.",
       "source_provision": "§ 2"
     }
   ]

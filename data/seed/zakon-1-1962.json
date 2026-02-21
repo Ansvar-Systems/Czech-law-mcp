@@ -1,0 +1,33 @@
+{
+  "id": "cz:1/1962",
+  "type": "statute",
+  "title": "1/1962 Sb., Zákon Slovenské národní rady o vyhlašování zákonů a jiných právních předpisů Slovenské národní rady",
+  "title_en": "",
+  "short_name": "1/1962 Sb.",
+  "status": "in_force",
+  "issued_date": "1962-01-11",
+  "in_force_date": "1962-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1962/1",
+  "description": "Zákon Slovenské národní rady o vyhlašování zákonů a jiných právních předpisů Slovenské národní rady",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Ve Sbírce zákonů Československé socialistické republiky (dále jen „Sbírka zákonů“) se vyhlašují stejným způsobem jako ostatní právní předpisy uveřejňované v této sbírce\na) zákony Slovenské národní rady,\nb) nařízení předsednictva Slovenské národní rady vydaná na základě zákonů Slovenské národní rady a k jejich provedení,\nc) usnesení předsednictva Slovenské národní rady, která předsednictvo určí k vyhlášení ve Sbírce zákonů,\nd) jiná opatření Slovenské národní rady a jejího předsednictva, stanoví-li to zákon nebo vyžaduje-li to povaha věci."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zákon Slovenské národní rady č. 6/1959 Sb. SNR, o uveřejňování zákonů Slovenské národní rady a předpisů vydaných k jejich provedení, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1962; provede jej předsednictvo Slovenské národní rady."
+    }
+  ],
+  "definitions": []
+}

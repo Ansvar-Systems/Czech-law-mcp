@@ -7,6 +7,10 @@
  * Used endpoints:
  *   GET /dokumenty-sbirky/{staleUrl}
  *   GET /dokumenty-sbirky/{staleUrl}/fragmenty?cisloStranky={N}
+ *   GET /dokumenty-sbirky/{staleUrl}/odkazy-ke-stazeni
+ *   GET /stahni/informativni-zneni/{dokumentId}/JSON
+ *   GET /souborove-sluzby/verejne-pozadavky-dokumenty/pozadavky/{pozadavekId}
+ *   GET /souborove-sluzby/soubory/{id}
  */
 
 export interface EsbirkaError {
@@ -68,9 +72,51 @@ export interface SearchLawResponse {
   chyby?: EsbirkaError[];
 }
 
+interface DownloadLinkRef {
+  dokumentId: number;
+}
+
+interface InformativeDownloadLinks {
+  odkazPdf?: DownloadLinkRef;
+  odkazDoc?: DownloadLinkRef;
+  odkazZip?: DownloadLinkRef;
+}
+
+export interface DownloadLinksResponse {
+  informativniZneni?: InformativeDownloadLinks;
+  chyby?: EsbirkaError[];
+}
+
+interface DownloadRequestResponse {
+  pozadavekId?: string;
+  id?: string;
+  stavPozadavku?: string;
+  nazevDokumentu?: string;
+  chyby?: EsbirkaError[];
+}
+
+interface DownloadRequestStatusResponse {
+  stav?: string;
+  id?: string;
+  chyby?: EsbirkaError[];
+}
+
+interface InformativeJsonFragment {
+  fragmentId: number;
+  hloubka?: number;
+  typ: string;
+  xhtml?: string | null;
+}
+
+interface InformativeJsonPayload {
+  fragmenty: InformativeJsonFragment[];
+}
+
 const BASE_URL = 'https://www.e-sbirka.cz/sbr-externi';
+const FILE_SERVICE_BASE_URL = 'https://www.e-sbirka.cz/souborove-sluzby';
 const USER_AGENT = 'Ansvar-Law-MCP/1.0 (official-esbirka-ingestion)';
 const MIN_DELAY_MS = 1200;
+const PUBLIC_DOWNLOAD_STATUS_MAX_POLLS = 20;
 
 let lastRequestAt = 0;
 
@@ -159,6 +205,12 @@ export async function fetchFragmentsPage(staleUrl: string, page: number): Promis
   return throwIfEsbirkaError(url, json);
 }
 
+export async function fetchDownloadLinks(staleUrl: string): Promise<DownloadLinksResponse> {
+  const url = `${BASE_URL}/dokumenty-sbirky/${encodeStaleUrl(staleUrl)}/odkazy-ke-stazeni`;
+  const json = await fetchJson<DownloadLinksResponse>(url);
+  return throwIfEsbirkaError(url, json);
+}
+
 export async function searchLawDocuments(payload: SearchLawRequest): Promise<SearchLawResponse> {
   const url = `${BASE_URL}/rozsirena-vyhledavani`;
   const json = await fetchJson<SearchLawResponse>(url, {
@@ -171,7 +223,7 @@ export async function searchLawDocuments(payload: SearchLawRequest): Promise<Sea
   return throwIfEsbirkaError(url, json);
 }
 
-export async function fetchAllFragments(staleUrl: string): Promise<FragmentRecord[]> {
+async function fetchAllFragmentsFromPages(staleUrl: string): Promise<FragmentRecord[]> {
   const firstPage = await fetchFragmentsPage(staleUrl, 0);
   const totalPages = Number(firstPage.pocetStranek ?? 1);
   const all = [...firstPage.seznam];
@@ -182,4 +234,98 @@ export async function fetchAllFragments(staleUrl: string): Promise<FragmentRecor
   }
 
   return all;
+}
+
+function toFragmentRecord(fragment: InformativeJsonFragment): FragmentRecord {
+  return {
+    id: fragment.fragmentId,
+    hloubka: fragment.hloubka,
+    kodTypuFragmentu: fragment.typ,
+    xhtml: fragment.xhtml ?? undefined,
+    jeUcinny: true,
+  };
+}
+
+async function requestInformativeJson(documentId: number): Promise<DownloadRequestResponse> {
+  const url = `${BASE_URL}/stahni/informativni-zneni/${documentId}/JSON`;
+  const json = await fetchJson<DownloadRequestResponse>(url);
+  return throwIfEsbirkaError(url, json);
+}
+
+async function fetchDownloadRequestStatus(pozadavekId: string): Promise<DownloadRequestStatusResponse> {
+  const url = `${FILE_SERVICE_BASE_URL}/verejne-pozadavky-dokumenty/pozadavky/${encodeURIComponent(pozadavekId)}`;
+  const json = await fetchJson<DownloadRequestStatusResponse>(url);
+  return throwIfEsbirkaError(url, json);
+}
+
+async function waitForDownloadFileId(initial: DownloadRequestResponse): Promise<string> {
+  if (initial.id) return initial.id;
+  if (!initial.pozadavekId) {
+    throw new Error('Missing both file id and request id for informative JSON download.');
+  }
+
+  let attempt = 0;
+  while (attempt < PUBLIC_DOWNLOAD_STATUS_MAX_POLLS) {
+    const status = await fetchDownloadRequestStatus(initial.pozadavekId);
+    if (status.id) {
+      return status.id;
+    }
+
+    const state = (status.stav ?? '').toUpperCase();
+    if (state === 'CHYBA' || state === 'ERROR' || state === 'FAILED') {
+      throw new Error(`Informative JSON request ${initial.pozadavekId} failed with state ${status.stav ?? 'unknown'}.`);
+    }
+
+    attempt += 1;
+  }
+
+  throw new Error(`Timed out waiting for informative JSON file id (request ${initial.pozadavekId}).`);
+}
+
+async function downloadInformativeJsonByFileId(fileId: string): Promise<InformativeJsonPayload> {
+  const url = `${FILE_SERVICE_BASE_URL}/soubory/${encodeURIComponent(fileId)}`;
+  const payload = await fetchJson<InformativeJsonPayload>(url);
+  if (!payload || !Array.isArray(payload.fragmenty)) {
+    throw new Error(`Invalid informative JSON payload for file ${fileId}.`);
+  }
+  return payload;
+}
+
+async function fetchAllFragmentsFromInformativeJson(staleUrl: string, documentBaseId?: number): Promise<FragmentRecord[]> {
+  let sourceDocumentId: number | null = null;
+
+  if (typeof documentBaseId === 'number' && Number.isFinite(documentBaseId) && documentBaseId > 0) {
+    sourceDocumentId = documentBaseId;
+  }
+
+  if (sourceDocumentId === null) {
+    const links = await fetchDownloadLinks(staleUrl);
+    sourceDocumentId =
+      links.informativniZneni?.odkazZip?.dokumentId ??
+      links.informativniZneni?.odkazPdf?.dokumentId ??
+      null;
+  }
+
+  if (sourceDocumentId === null) {
+    throw new Error(`No informative download document id for ${staleUrl}.`);
+  }
+
+  const request = await requestInformativeJson(sourceDocumentId);
+  const fileId = await waitForDownloadFileId(request);
+  const informativeJson = await downloadInformativeJsonByFileId(fileId);
+
+  return informativeJson.fragmenty.map(toFragmentRecord);
+}
+
+export async function fetchAllFragments(staleUrl: string, documentBaseId?: number): Promise<FragmentRecord[]> {
+  try {
+    const fragments = await fetchAllFragmentsFromInformativeJson(staleUrl, documentBaseId);
+    if (fragments.length > 0) {
+      return fragments;
+    }
+  } catch (_error) {
+    // Fall back to official paginated endpoint if asynchronous JSON download is unavailable.
+  }
+
+  return fetchAllFragmentsFromPages(staleUrl);
 }

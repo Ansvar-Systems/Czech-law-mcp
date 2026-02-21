@@ -1,0 +1,54 @@
+{
+  "id": "cz:317/1993",
+  "type": "statute",
+  "title": "317/1993 Sb., Zákon, kterým se mění a doplňuje zákon č. 498/1990 Sb., o uprchlících",
+  "title_en": "",
+  "short_name": "317/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-12-30",
+  "in_force_date": "1994-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/317",
+  "description": "Zákon, kterým se mění a doplňuje zákon č. 498/1990 Sb., o uprchlících",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 498/1990 Sb., o uprchlících, se mění a doplňuje takto:\n1. Poznámka č. 1) zní:\n„1) § 1 odst. 3 zákona č. 123/1992 Sb., o pobytu cizinců na území České a Slovenské Federativní Republiky.“.\n2. § 3 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Kde se v zákoně č. 498/1990 Sb. užívá pojem\na) „Česká a Slovenská Federativní Republika“, rozumí se tím Česká republika,\nb) „území, státní hranice nebo zmocněnec vlády České a Slovenské Federativní Republiky“, rozumí se tím území, státní hranice nebo zmocněnec vlády České republiky,\nc) „Sbor národní bezpečnosti“, rozumí se tím Policie České republiky,\nd) „federální ministerstvo vnitra“, rozumí se tím ministerstvo vnitra."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1994."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) „Česká a Slovenská Federativní Republika",
+      "definition": "se tím Česká republika",
+      "source_provision": "Čl. II"
+    },
+    {
+      "term": "b) „území, státní hranice nebo zmocněnec vlády České a Slovenské Federativní Republiky",
+      "definition": "se tím území, státní hranice nebo zmocněnec vlády České republiky",
+      "source_provision": "Čl. II"
+    },
+    {
+      "term": "c) „Sbor národní bezpečnosti",
+      "definition": "se tím Policie České republiky",
+      "source_provision": "Čl. II"
+    },
+    {
+      "term": "d) „federální ministerstvo vnitra",
+      "definition": "se tím ministerstvo vnitra",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

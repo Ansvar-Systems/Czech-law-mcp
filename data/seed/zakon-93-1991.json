@@ -1,0 +1,27 @@
+{
+  "id": "cz:93/1991",
+  "type": "statute",
+  "title": "93/1991 Sb., Zákon Slovenskej národnej rady o zmene názvu Slovenskej vysokej školy technickej v Bratislave",
+  "title_en": "",
+  "short_name": "93/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-03-22",
+  "in_force_date": "1991-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/93",
+  "description": "Zákon Slovenskej národnej rady o zmene názvu Slovenskej vysokej školy technickej v Bratislave",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Názov „Slovenská vysoká škola technická v Bratislave“ sa mení a znie „Slovenská technická univerzita v Bratislave“."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tento zákon nadobúda účinnosť 1. aprílom 1991."
+    }
+  ],
+  "definitions": []
+}

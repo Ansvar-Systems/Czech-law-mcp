@@ -1,0 +1,42 @@
+{
+  "id": "cz:442/2000",
+  "type": "statute",
+  "title": "442/2000 Sb., Zákon, kterým se mění zákon č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů, a zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "442/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-12-22",
+  "in_force_date": "2013-08-17",
+  "url": "https://www.e-sbirka.cz/sb/2000/442",
+  "description": "Zákon, kterým se mění zákon č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů, a zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o České národní bance",
+      "content": "Zákon č. 6/1993 Sb., o České národní bance, ve znění zákona č. 60/1993 Sb. a zákona č. 15/1998 Sb., se mění takto:\n1. V § 1 odst. 2 se za slova „právnickou osobou“ vkládají slova „, která má postavení veřejnoprávního subjektu,“.\n2. V § 1 odstavec 3 včetně poznámky pod čarou č. 1) zní:\n„(3) České národní bance jsou svěřeny kompetence správního úřadu v rozsahu stanoveném tímto zákonem a zvláštními právními předpisy.1)\n1) Například zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, zákon č. 219/1995 Sb., devizový zákon.“.\n3. V § 1 odstavec 4 zní:\n„(4) Česká národní banka hospodaří samostatně s odbornou péčí s majetkem, který jí byl svěřen státem.“.\n4. § 2 zní:"
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o Nejvyšším kontrolním úřadu",
+      "content": "Zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění zákona č. 331/1993 Sb., zákona č. 117/1994 Sb., zákona č. 224/1994 Sb., zákona č. 58/1995 Sb., zákona č. 236/1995 Sb., zákona č. 296/1995 Sb., zákona č. 148/1998 Sb., zákona č. 132/2000 Sb. a zákona č. 220/2000 Sb., se mění takto:\n1. V § 3 odstavec 3 včetně poznámky pod čarou č. 1c) zní:\n„(3) Úřad vykonává kontrolu hospodaření České národní banky, nejedná-li se o činnosti vykonávané při zabezpečování hlavního cíle České národní banky stanoveného zvláštním právním předpisem.1c)\n1c) § 2 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.“.\n2. V § 30 se na konci odstavce 1 doplňuje tato věta: „Schválený kontrolní závěr neprodleně zasílá prezident Úřadu také České národní bance, je-li kontrolovanou osobou.“."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2001 s výjimkou čl. II, který nabývá účinnosti ke dni vstupu České republiky do Evropské unie."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bezúhonnou",
+      "definition": "fyzická osoba, která nebyla pravomocně odsouzena pro trestný čin",
+      "source_provision": "„§ 6"
+    }
+  ]
+}

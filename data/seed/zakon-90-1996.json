@@ -1,0 +1,39 @@
+{
+  "id": "cz:90/1996",
+  "type": "statute",
+  "title": "90/1996 Sb., Zákon,kterým se mění a doplňuje zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb.",
+  "title_en": "",
+  "short_name": "90/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-04-25",
+  "in_force_date": "1996-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1996/90",
+  "description": "Zákon,kterým se mění a doplňuje zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb., se mění a doplňuje takto:\n1. § 1 odst. 1 včetně poznámky č. 1) zní:\n„(1) K nemovitostem evidovaným v katastru nemovitostí České republiky (dále jen „katastr“)1) se zapisuje vlastnické právo, zástavní právo, právo odpovídající věcnému břemeni a předkupní právo s účinky věcného práva.\n1) Zákon ČNR č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb.“.\n2. V § 1 odst. 2 se slova „zákony národních rad“ nahrazují slovy „zvláštní zákon1)“.\n3. § 4 včetně poznámek č. 2) a 3) zní:"
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Poznámku zruší katastrální úřad na základě doručeného rozhodnutí nebo oznámení soudu, správce daně či k doloženému návrhu toho, v jehož zájmu má být poznámka zrušena, pokud důvody pro její vyznačení pominuly.\n6) § 335 a násl. zákona č. 99/1963 Sb., občanský soudní řád.\n7) § 5a zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění zákona č. 122/1993 Sb. a zákona č. 94/1996 Sb.\n8) § 12a zákona č. 328/1991 Sb., ve znění zákona č. 94/1996 Sb.\n9) § 46 zákona č. 328/1991 Sb.\n10) § 74 zákona č. 99/1963 Sb.“.\n10. § 11 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 1996."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vklad",
+      "definition": "zápis do katastrálních operátů",
+      "source_provision": "„§ 11"
+    }
+  ]
+}

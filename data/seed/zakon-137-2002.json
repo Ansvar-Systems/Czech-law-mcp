@@ -1,0 +1,49 @@
+{
+  "id": "cz:137/2002",
+  "type": "statute",
+  "title": "137/2002 Sb., Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů, a některé další zákony",
+  "title_en": "",
+  "short_name": "137/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-04-15",
+  "in_force_date": "2002-04-15",
+  "url": "https://www.e-sbirka.cz/sb/2002/137",
+  "description": "Zákon, kterým se mění zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů, a některé další zákony",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o metrologii",
+      "content": "Zákon č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb. a zákona č. 13/2002 Sb., se mění takto:\n1. V § 5 odstavec 6 zní:\n„(6) Uživatelé pracovních měřidel si návaznost používaných měřidel mohou zajistit sami pomocí svých hlavních etalonů nebo prostřednictvím Českého metrologického institutu nebo střediska kalibrační služby nebo u jiných uživatelů měřidel, kteří mají příslušné hlavní etalony navázané na etalony Českého metrologického institutu, středisek kalibrační služby nebo na etalony zahraničních subjektů se srovnatelnou metrologickou úrovní.“.\n2. V § 6 odst. 2 se věty druhá a třetí nahrazují těmito větami: „Zjišťuje, zda měřidlo bude schopno plnit funkci, pro kterou je určeno. Tento požadavek se považuje za splněný, pokud měřidlo splňuje požadavky stanovené vyhláškou nebo, pokud se na něj vyhláška nevztahuje, splňuje požadavky českých technických norem.“.\n3. V § 8 odst. 3 se slovo „platnosti“ nahrazuje slovem „vlastností“.\n4. V § 8 odstavec 4 zní:\n„(4) Pro ověřování stanovených měřidel nebo kalibraci hlavních etalonů se používají certifikované referenční materiály. Pokud nelze z technických důvodů použít certifikované referenční materiály, je možno použít ostatní referenční materiály.“.\n5. V § 9 odstavec 2 zní:\n„(2) Ověřené stanovené měřidlo opatří Český metrologický institut nebo autorizované metrologické středisko úřední značkou nebo vydá ověřovací list anebo použije obou těchto způsobů. Grafickou podobu úřední značky a náležitosti ověřovacího listu stanoví ministerstvo vyhláškou.“.\n6. V § 9 odst. 5 se za slovo „kalibraci“ vkládá slovo „pracovního“ a slova „stanovených schématem návaznosti“ se nahrazují slovy „návaznosti měřidel“.\n7. § 9a včetně nadpisu a poznámky pod čarou č. 2) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví",
+      "content": "Zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví, ve znění zákona č. 22/1997 Sb. a zákona č. 119/2000 Sb., se mění takto:\n1. V § 1 odst. 1, 2 a 3 se slovo „hospodářství“ nahrazuje slovy „průmyslu a obchodu“.\n2. V § 2 se čárka za písmenem b) nahrazuje tečkou a písmeno c) se zrušuje.\n3. § 5 včetně poznámky pod čarou č. 9) se zrušuje."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST TŘETÍ - Změna zákona č. 119/2000 Sb.",
+      "content": "Na konci textu čl. V zákona č. 119/2000 Sb., kterým se mění zákon č. 505/1990 Sb., o metrologii, zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, a zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví, ve znění zákona č. 22/1997 Sb., se doplňují tato slova: „nebo dnem, kdy vstoupí v platnost příslušná sektorová příloha Protokolu k Evropské dohodě zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé o posuzování shody a akceptaci průmyslových výrobků, bude-li tento den dřívější“."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST ČTVRTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hotově baleným zbožím označeným symbolem „e",
+      "definition": "zboží určené k prodeji a umístěné do obalu bez přítomnosti spotřebitele, jehož množství obsažené v obalu, zejména objem nebo hmotnost, má předem stanovenou hodnotu, kterou nelze změnit bez otevření nebo zjevného porušení obalu",
+      "source_provision": "„§ 9a"
+    }
+  ]
+}

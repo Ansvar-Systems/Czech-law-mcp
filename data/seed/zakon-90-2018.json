@@ -1,0 +1,54 @@
+{
+  "id": "cz:90/2018",
+  "type": "statute",
+  "title": "90/2018 Sb., Zákon, kterým se mění zákon č. 38/2008 Sb., o vývozu a dovozu zboží, které by mohlo být použito pro výkon trestu smrti, mučení nebo jiné kruté, nelidské či ponižující zacházení nebo trestání, a o poskytování technické pomoci s tímto zbožím související, a o změně zákona č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "90/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-05-31",
+  "in_force_date": "2018-06-15",
+  "url": "https://www.e-sbirka.cz/sb/2018/90",
+  "description": "Zákon, kterým se mění zákon č. 38/2008 Sb., o vývozu a dovozu zboží, které by mohlo být použito pro výkon trestu smrti, mučení nebo jiné kruté, nelidské či ponižující zacházení nebo trestání, a o poskytování technické pomoci s tímto zbožím související, a o změně zákona č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o vývozu a dovozu zboží, které by mohlo být použito pro výkon trestu smrti, mučení nebo jiné kruté, nelidské či ponižující zacházení nebo trestání, a o poskytování technické pomoci s tímto zbožím související",
+      "content": "Zákon č. 38/2008 Sb., o vývozu a dovozu zboží, které by mohlo být použito pro výkon trestu smrti, mučení nebo jiné kruté, nelidské či ponižující zacházení nebo trestání, a o poskytování technické pomoci s tímto zbožím související, a o změně zákona č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění zákona č. 281/2009 Sb. a zákona č. 183/2017 Sb., se mění takto:\n1. Název zákona zní:\n2. Nadpis části první zní:\n3. § 1 včetně nadpisu a poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o vývozu a dovozu zboží, které by mohlo být použito pro výkon trestu smrti, mučení nebo jiné kruté, nelidské či ponižující zacházení nebo trestání, a o poskytování technické pomoci s tímto zbožím související - „ZAHRANIČNÍ OBCHOD SE ZBOŽÍM, KTERÉ BY MOHLO BÝT POUŽITO PRO VÝKON TRESTU SMRTI, MUČENÍ NEBO JINÉ KRUTÉ, NELIDSKÉ ČI PONIŽUJÍCÍ ZACHÁZENÍ NEBO TRESTÁNÍ“. - „Povinnosti držitele povolení k vývozu, dovozu nebo tranzitu zboží“. - „Povinnosti držitele povolení k poskytování zprostředkovatelských služeb nebo technické pomoci“.",
+      "content": "1. Řízení, která byla zahájena podle zákona č. 38/2008 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, která nebyla pravomocně skončena, se dokončí podle dosavadních právních předpisů.\n2. Povolení vydaná podle zákona č. 38/2008 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považují za povolení vydaná podle zákona č. 38/2008 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o správních poplatcích",
+      "content": "V položce 105a přílohy k zákonu č. 634/2004 Sb., o správních poplatcích, ve znění zákona č. 38/2008 Sb., se slova „k vývozu nebo dovozu zboží nebo poskytnutí technické pomoci udělované podle zvláštního právního předpisu64a)“ nahrazují slovy „podle zákona upravujícího zahraniční obchod se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání“.\nPoznámka pod čarou č. 64a se zrušuje."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "zahraničním obchodem se zbožím vývoz",
+      "definition": "dovoz, tranzit zboží nebo poskytování zprostředkovatelských služeb nebo technické pomoci se zbožím související",
+      "source_provision": "„§ 1"
+    },
+    {
+      "term": "zbožím výrobky nebo služby",
+      "definition": "které jsou vymezeny nařízením Rady.",
+      "source_provision": "„§ 1"
+    }
+  ]
+}

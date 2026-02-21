@@ -1,0 +1,45 @@
+{
+  "id": "cz:73/2006",
+  "type": "statute",
+  "title": "73/2006 Sb., Zákon, kterým se mění zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb.",
+  "title_en": "",
+  "short_name": "73/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-03-15",
+  "in_force_date": "2006-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/73",
+  "description": "Zákon, kterým se mění zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb., se mění takto:\n1. Vkládá se nový § 1, který včetně poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "O žádostech zaměstnanců o uspokojení mzdových nároků, které se vztahují k návrhům na prohlášení konkursu podaným přede dnem nabytí účinnosti tohoto zákona, rozhodne příslušný úřad práce podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Předseda vlády se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, jak vyplývá ze zákonů jej měnících."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV Účinnost",
+      "content": "Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) se zaměstnancem",
+      "definition": "fyzická osoba, s níž zaměstnavatel sjednal pracovní poměr nebo dohodu o pracovní činnosti, na základě kterých jí vznikly v době 6 měsíců předcházejících měsíci, ve kterém byl podán návrh na prohlášení konkursu (dále jen „rozhodné období“), mzdové nároky nevyplacené zaměstnavatelem,“",
+      "source_provision": "„§ 1"
+    }
+  ]
+}

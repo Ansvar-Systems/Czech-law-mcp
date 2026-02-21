@@ -1,0 +1,33 @@
+{
+  "id": "cz:120/2010",
+  "type": "statute",
+  "title": "120/2010 Sb., Zákon, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "120/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-04-29",
+  "in_force_date": "2010-04-29",
+  "url": "https://www.e-sbirka.cz/sb/2010/120",
+  "description": "Zákon, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 36a odst. 3 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění zákona č. 489/2009 Sb., se písmeno d), včetně poznámky pod čarou č. 26b, zrušuje. Dosavadní písmeno e) se označuje jako písmeno d)."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pro uplatnění daně z přidané hodnoty za zdaňovací období přede dnem nabytí účinnosti tohoto zákona, jakož i pro uplatnění práv a povinností s tím souvisejících, se použije zákon č. 235/2004 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

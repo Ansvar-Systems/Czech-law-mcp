@@ -194,12 +194,12 @@ export function xhtmlToText(xhtml: string | undefined): string {
 }
 
 function extractSectionNumber(provisionRef: string): string | null {
-  const match = provisionRef.match(/^§\s*([0-9]+[a-z]?)/i);
+  const match = provisionRef.match(/^[„“"']*\s*§\s*([0-9]+[a-z]?)/i);
   return match ? match[1] : null;
 }
 
 function extractArticleNumber(provisionRef: string): string | null {
-  const match = provisionRef.match(/^(?:Čl\.?|Článek)\s*([0-9]+[a-z]?|[ivxlcdm]+)/iu);
+  const match = provisionRef.match(/^(?:Čl\.?|Článek|ČI\.?)\s*([0-9]+[a-z]?|[ivxlcdm]+)/iu);
   return match ? match[1].toUpperCase() : null;
 }
 
@@ -490,6 +490,98 @@ function extractDefinitions(provisions: SeedProvision[], fragments: FragmentReco
   return out;
 }
 
+function extractFallbackAmendmentProvisions(fragments: FragmentRecord[]): SeedProvision[] {
+  const out: SeedProvision[] = [];
+  let hierarchy: string[] = [];
+  let currentLevel: number | null = null;
+
+  let current: {
+    ref: string;
+    section: string;
+    title: string;
+    chapter?: string;
+    contentParts: string[];
+  } | null = null;
+
+  const flush = (): void => {
+    if (!current) return;
+    const content = current.contentParts.join('\n').trim();
+    if (content.length > 0) {
+      out.push({
+        provision_ref: current.ref,
+        section: current.section,
+        title: current.title,
+        chapter: current.chapter,
+        content,
+      });
+    }
+    current = null;
+  };
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    const text = xhtmlToText(fragment.xhtml);
+
+    if (isStructuralType(type)) {
+      flush();
+      currentLevel = STRUCTURAL_LEVELS[type];
+      if (text.length > 0) {
+        hierarchy[currentLevel] = text;
+        hierarchy.length = currentLevel + 1;
+      }
+      continue;
+    }
+
+    if (type === 'Nadpis' || type === 'Nadpis_pod') {
+      if (text.length > 0) {
+        if (currentLevel === null) {
+          currentLevel = 0;
+        }
+        const existing = hierarchy[currentLevel] ?? '';
+        hierarchy[currentLevel] = existing ? `${existing} - ${text}` : text;
+        hierarchy.length = currentLevel + 1;
+      }
+      continue;
+    }
+
+    if (type === 'Bod_Dd') {
+      flush();
+      const marker = text.match(/^\s*([0-9]+)\./);
+      const section = marker ? marker[1] : String(out.length + 1);
+      const ref = marker ? `Bod ${marker[1]}` : `Bod ${section}`;
+      current = {
+        ref,
+        section,
+        title: ref,
+        chapter: hierarchy.filter(Boolean).join(' > ') || undefined,
+        contentParts: [text],
+      };
+      continue;
+    }
+
+    if (!current) continue;
+    if (shouldIgnore(type)) continue;
+
+    if (
+      type === 'Odstavec_Dc' ||
+      type === 'Pismeno_Lb' ||
+      type === 'Pokracovani_Text' ||
+      type === 'Tabulka' ||
+      type === 'Block_Citace' ||
+      type === 'Poznamka'
+    ) {
+      if (text.length > 0) {
+        current.contentParts.push(text);
+      }
+      continue;
+    }
+  }
+
+  flush();
+  return out;
+}
+
 export function parseLawSeed(
   targetLaw: TargetLaw,
   detail: DocumentDetailResponse,
@@ -596,6 +688,10 @@ export function parseLawSeed(
   }
 
   finalizeCurrent();
+
+  if (provisions.length === 0) {
+    provisions.push(...extractFallbackAmendmentProvisions(fragments));
+  }
 
   const definitions = extractDefinitions(provisions, fragments);
   const url = detail.staleUrl ? `https://www.e-sbirka.cz${detail.staleUrl}` : `https://www.e-sbirka.cz${targetLaw.staleUrl}`;

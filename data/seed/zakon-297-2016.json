@@ -1,13 +1,13 @@
 {
   "id": "cz:297/2016",
   "type": "statute",
-  "title": "Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce",
+  "title": "297/2016 Sb., Zákon o službách vytvářejících důvěru pro elektronické transakce",
   "title_en": "Trust Services for Electronic Transactions Act",
   "short_name": "ZSVD",
   "status": "in_force",
   "issued_date": "2016-09-19",
-  "in_force_date": "2016-09-19",
-  "url": "https://www.e-sbirka.cz/sb/2016/297/2023-04-01",
+  "in_force_date": "2023-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/297",
   "description": "Regulates trust services and electronic identification for digital transactions.",
   "provisions": [
     {

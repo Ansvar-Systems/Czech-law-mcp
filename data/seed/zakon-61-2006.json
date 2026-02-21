@@ -1,0 +1,63 @@
+{
+  "id": "cz:61/2006",
+  "type": "statute",
+  "title": "61/2006 Sb., Zákon, kterým se mění zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění zákona č. 81/2005 Sb., a zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "61/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-03-08",
+  "in_force_date": "2006-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/61",
+  "description": "Zákon, kterým se mění zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění zákona č. 81/2005 Sb., a zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o svobodném přístupu k informacím",
+      "content": "Zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění zákona č. 101/2000 Sb., zákona č. 159/2000 Sb., zákona č. 39/2001 Sb. a zákona č. 413/2005 Sb., se mění takto:\n1. § 1 včetně poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o svobodném přístupu k informacím",
+      "content": "1. Pro vyřízení žádostí, které povinný subjekt obdržel přede dnem nabytí účinnosti tohoto zákona, se použijí dosavadní právní předpisy.\n2. Licenční nebo podlicenční smlouvy, jimiž byla poskytnuta výhradní licence týkající se poskytování informací podle zákona č. 106/1999 Sb., ve znění účinném do dne nabytí účinnosti tohoto zákona, a které byly uzavřeny přede dnem nabytí účinnosti tohoto zákona, pozbývají účinnosti uplynutím sjednané doby, nejdéle však 31. prosince 2008."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o svobodném přístupu k informacím - Přechodná ustanovení",
+      "content": "Předseda vlády se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 106/1999 Sb., o svobodném přístupu k informacím, jak vyplývá ze zákonů jej měnících."
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST DRUHÁ - Změna autorského zákona",
+      "content": "Zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění zákona č. 81/2005 Sb., se mění takto:\n1. V § 47 odst. 1 větě první se za slovo „nevýhradní“ vkládají slova „, nestanoví-li zvláštní právní předpis4a) jinak“.\nPoznámka pod čarou č. 4a zní:\n„4a) § 14a odst. 3 a 4 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění zákona č. 61/2006 Sb.“.\n2. V § 94 se slova „§ 3 písm. a),“ zrušují.\n3. V § 94 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:\n„(2) Ustanovení § 3 písm. a) platí přiměřeně i pro pořizovatele databáze, která je součástí právního předpisu.“."
+    },
+    {
+      "provision_ref": "Čl. V",
+      "section": "V",
+      "title": "Čl. V",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o obcích",
+      "content": "V § 109 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 313/2002 Sb., se na konci písmene b) středník nahrazuje tečkou a písmeno c) se včetně poznámky pod čarou č. 34 zrušuje."
+    },
+    {
+      "provision_ref": "Čl. VI",
+      "section": "VI",
+      "title": "Čl. VI",
+      "chapter": "ČÁST ČTVRTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2006."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Informací",
+      "definition": "jakýkoliv obsah nebo jeho část v jakékoliv podobě, zaznamenaný na jakémkoliv nosiči, zejména obsah písemného záznamu na listině, záznamu uloženého v elektronické podobě nebo záznamu zvukového, obrazového nebo audiovizuálního",
+      "source_provision": "„§ 1"
+    }
+  ]
+}

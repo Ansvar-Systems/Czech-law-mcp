@@ -1,0 +1,33 @@
+{
+  "id": "cz:489/1992",
+  "type": "statute",
+  "title": "489/1992 Sb., Zákon Slovenskej národnej rady o vyhlásení 29. augusta za štátny sviatok Slovenskej republiky",
+  "title_en": "",
+  "short_name": "489/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-10-27",
+  "in_force_date": "1992-10-27",
+  "url": "https://www.e-sbirka.cz/sb/1992/489",
+  "description": "Zákon Slovenskej národnej rady o vyhlásení 29. augusta za štátny sviatok Slovenskej republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "29. august, výročie Slovenského národného povstania, je štátnym sviatkom Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "29. august je dňom pracovného pokoja."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nadobúda účinnosť dňom vyhlásenia."
+    }
+  ],
+  "definitions": []
+}

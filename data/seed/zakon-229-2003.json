@@ -1,0 +1,42 @@
+{
+  "id": "cz:229/2003",
+  "type": "statute",
+  "title": "229/2003 Sb., Zákon, kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů, a zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "229/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-07-31",
+  "in_force_date": "2004-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/229",
+  "description": "Zákon, kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů, a zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna zákona o místních poplatcích",
+      "content": "Zákon č. 565/1990 Sb., o místních poplatcích, ve znění zákona č. 184/1991 Sb., zákona č. 338/1992 Sb., zákona č. 48/1994 Sb., zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 185/2001 Sb., zákona č. 274/2001 Sb. a zákona č. 320/2002 Sb., se mění takto:\n1. § 2 včetně poznámek pod čarou č. 1), 1a) a 1b) zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o krajích (krajské zřízení)",
+      "content": "Zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 231/2002 Sb. a zákona č. 404/2002 Sb., se mění takto:\nZa § 97 se doplňuje nový § 97a, který včetně poznámky pod čarou č. 27a) zní:"
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2004, s výjimkou části druhé, která nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Poplatek za užívání veřejného prostranství se vybírá za zvláštní užívání veřejného prostranství,4b) kterým",
+      "definition": "provádění výkopových prací, umístění dočasných staveb a zařízení sloužících pro poskytování prodeje a služeb, pro umístění stavebních nebo reklamních zařízení, zařízení cirkusů, lunaparků a jiných obdobných atrakcí, umístění skládek, vyhrazení trvalého parkovacího místa a užívání tohoto prostranství pro kulturní, sportovní a reklamní akce nebo potřeby tvorby filmových a televizních děl",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

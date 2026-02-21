@@ -1,0 +1,62 @@
+{
+  "id": "cz:265/2011",
+  "type": "statute",
+  "title": "265/2011 Sb., Zákon, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "265/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-09-06",
+  "in_force_date": "2011-12-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/265",
+  "description": "Zákon, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I Změna zákona o jednacím řádu Poslanecké sněmovny",
+      "content": "Zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění zákona č. 47/2000 Sb., zákona č. 39/2001 Sb., zákona č. 78/2002 Sb., zákona č. 192/2002 Sb., zákona č. 282/2004 Sb., zákona č. 359/2004 Sb., zákona č. 482/2004 Sb., zákona č. 167/2005 Sb., zákona č. 205/2006 Sb., zákona č. 573/2006 Sb., zákona č. 162/2009 Sb. a zákona č. 402/2009 Sb., se mění takto:\n1. V § 41 se doplňuje odstavec 3, který zní:\n„(3) Pokud výbor po projednání věci nepřijme usnesení podle odstavce 1, vyhotoví předseda výboru záznam o jednání výboru, ve kterém informuje o projednání věci výborem. Záznam podepisuje předseda, určený zpravodaj výboru a ověřovatel výboru.“.\n2. V § 43 odst. 1 se ve větě druhé za slova „přijatých usnesení“ vkládají slova „, popřípadě záznamů o jednání výboru“.\n3. V § 63 se doplňuje odstavec 3, který zní:\n„(3) Poslanec může podat návrh písemně, pokud v rozpravě odkáže na stejnopis návrhu zveřejněný v elektronické podobě a současně předá návrh v listinné podobě zpravodaji a předsedajícímu.“.\n4. § 67 zní:"
+    },
+    {
+      "provision_ref": "§ 120b",
+      "section": "120b",
+      "title": "§ 120b",
+      "content": "(1) Návrhy zákonů, mezinárodní smlouvy, stanoviska vlády, zprávy, informace nebo jiné podklady pro jednání Sněmovny se předkládají předsedovi Sněmovny ve třech stejnopisech v listinné podobě a stejnopisu v elektronické podobě.\n(2) Stanoví-li tento zákon, že má být návrh podán písemně, předloží navrhovatel návrh ve stejnopisu v listinné a elektronické podobě."
+    },
+    {
+      "provision_ref": "§ 120c",
+      "section": "120c",
+      "title": "§ 120c",
+      "content": "(1) Předložením stejnopisu podkladu v elektronické podobě se rozumí takové jeho zpřístupnění Kanceláři sněmovny, které umožňuje, aby byl stejnopis v elektronické podobě bez dalších úprav zveřejněn v souladu s tímto zákonem.\n(2) Navrhovatel je povinen ověřit si u Kanceláře sněmovny technické požadavky na předkládání stejnopisů v listinné a elektronické podobě, aby mohl dostát požadavku podle odstavce 1.\n(3) Nesplňuje-li předložený stejnopis v listinné nebo elektronické podobě požadavky stanovené tímto zákonem, má se za to, že nebyl předložen; předseda Sněmovny vyzve navrhovatele k odstranění zjištěných nedostatků do 5 pracovních dnů ode dne jeho předložení."
+    },
+    {
+      "provision_ref": "§ 120d",
+      "section": "120d",
+      "title": "§ 120d",
+      "content": "(1) V nezbytném případě předseda Sněmovny vyhlásí mimořádný stav doručování sněmovních tisků.\n(2) Po dobu mimořádného stavu se písemné návrhy předkládají a sněmovní tisky poslancům doručují pouze v listinné podobě. Písemný návrh nebo sněmovní tisk, který nebyl poslancům doručen v listinné podobě, nelze po dobu mimořádného stavu projednat.\n(3) Předseda Sněmovny mimořádný stav zruší, nejsou-li důvody pro jeho trvání. Neučiní-li tak předseda Sněmovny, zruší mimořádný stav Sněmovna."
+    },
+    {
+      "provision_ref": "§ 120e",
+      "section": "120e",
+      "title": "§ 120e",
+      "content": "Podklady pro neveřejná jednání Sněmovny se poslancům doručují a písemné návrhy se předkládají pouze v listinné podobě. Při nakládání s dokumenty obsahujícími utajované informace se postupuje v souladu s právními předpisy na ochranu utajovaných informací.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely tohoto zákona se zveřejněním v elektronické podobě",
+      "definition": "zveřejnění způsobem umožňujícím dálkový přístup, které zajišťuje Kancelář sněmovny",
+      "source_provision": "„§ 120a"
+    },
+    {
+      "term": "Předložením stejnopisu podkladu v elektronické podobě",
+      "definition": "takové jeho zpřístupnění Kanceláři sněmovny, které umožňuje, aby byl stejnopis v elektronické podobě bez dalších úprav zveřejněn v souladu s tímto zákonem",
+      "source_provision": "§ 120c"
+    }
+  ]
+}

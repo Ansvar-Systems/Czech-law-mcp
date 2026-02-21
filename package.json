@@ -43,6 +43,7 @@
     "ingest": "node --import tsx scripts/ingest.ts",
     "ingest:all:index": "node --import tsx scripts/ingest.ts --all-laws --index-only",
     "ingest:all": "node --import tsx scripts/ingest.ts --all-laws --skip-existing",
+    "ingest:opendata": "node --import tsx scripts/ingest-open-data.ts",
     "coverage:all-laws": "node --import tsx scripts/all-laws-coverage.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
@@ -60,6 +61,7 @@
     "@types/node": "^22.15.29",
     "@vercel/node": "^5.6.4",
     "better-sqlite3": "^12.6.2",
+    "stream-json": "^1.9.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vitest": "^3.0.0"

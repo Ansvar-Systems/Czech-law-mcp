@@ -1,13 +1,13 @@
 {
   "id": "cz:240/2000",
   "type": "statute",
-  "title": "Zákon č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon)",
+  "title": "240/2000 Sb., Zákon o krizovém řízení a o změně některých zákonů (krizový zákon)",
   "title_en": "Crisis Management Act",
   "short_name": "Krizovy zakon",
   "status": "in_force",
   "issued_date": "2000-08-09",
-  "in_force_date": "2001-01-01",
-  "url": "https://www.e-sbirka.cz/sb/2000/240/2025-08-19",
+  "in_force_date": "2025-08-19",
+  "url": "https://www.e-sbirka.cz/sb/2000/240",
   "description": "Regulates crisis preparedness and crisis management powers in the Czech Republic.",
   "provisions": [
     {
@@ -410,18 +410,8 @@
       "source_provision": "§ 2"
     },
     {
-      "term": "krizovým opatřením",
-      "definition": "organizační nebo technické opatření určené k řešení krizové situace a odstranění jejích následků, včetně opatření, jimiž se zasahuje do práv a povinností osob",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "pracovní povinností",
-      "definition": "povinnost fyzické osoby vykonávat po nezbytně nutnou dobu určenou práci, která je nutná pro řešení krizové situace a kterou je tato osoba povinna konat v místě určeném orgánem krizového řízení",
-      "source_provision": "§ 2"
-    },
-    {
-      "term": "pracovní výpomocí",
-      "definition": "povinnost fyzických osob vykonávat jednorázové a mimořádné úkoly nezbytné pro řešení krizové situace, které jsou povinny konat v místě určeném orgánem krizového řízení",
+      "term": "pracovní povinností povinnost fyzické",
+      "definition": "osoby vykonávat po nezbytně nutnou dobu určenou práci, která je nutná pro řešení krizové situace a kterou je tato osoba povinna konat v místě určeném orgánem krizového řízení",
       "source_provision": "§ 2"
     },
     {

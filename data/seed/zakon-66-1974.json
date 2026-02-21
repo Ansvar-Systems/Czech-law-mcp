@@ -1,0 +1,33 @@
+{
+  "id": "cz:66/1974",
+  "type": "statute",
+  "title": "66/1974 Sb., Ústavní zákon o změnách státních hranic s Rakouskou republikou",
+  "title_en": "",
+  "short_name": "66/1974 Sb.",
+  "status": "in_force",
+  "issued_date": "1974-07-04",
+  "in_force_date": "1974-07-04",
+  "url": "https://www.e-sbirka.cz/sb/1974/66",
+  "description": "Ústavní zákon o změnách státních hranic s Rakouskou republikou",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Federální shromáždění souhlasí se Smlouvou mezi Československou socialistickou republikou a Rakouskou republikou o společných státních hranicích, podepsanou ve Vídni dne 21. prosince 1973."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Změny hranic Československé socialistické republiky a hranic České socialistické republiky a Slovenské socialistické republiky podle Smlouvy uvedené v § 1 nabývají platnosti dnem, kdy vstoupí v platnost tato Smlouva."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento ústavní zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:87/1950",
+  "type": "statute",
+  "title": "87/1950 Sb., Zákon o trestním řízení soudním (trestní řád)",
+  "title_en": "",
+  "short_name": "87/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-07-18",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1950/87",
+  "description": "Zákon o trestním řízení soudním (trestní řád)",
+  "provisions": [
+    {
+      "provision_ref": "§ 306.",
+      "section": "306",
+      "title": "§ 306. Vojenští soudcové.",
+      "content": "(3) Vojenští soudcové jsou ustanovováni trvale a na určitá služební místa; proti své vůli mohou být přeloženi, sesazeni nebo dáni do výslužby jen při nové soudní organisaci po dobu stanovenou zákonem nebo na základě pravomocného kárného nálezu. Doba, po kterou jsou zřízeny polní soudy, je dobou nové soudní organisace.\n(4) Vojenští soudcové mohou být dočasně přiděleni jinému vojenskému soudu; bez jejich souhlasu se tak může stát jen na dobu šesti měsíců v kalendářním roce."
+    },
+    {
+      "provision_ref": "§ 308.",
+      "section": "308",
+      "title": "§ 308. Soudcové z lidu.",
+      "content": "(1) Za soudce z lidu u vojenských soudů budou příslušným ministrem nebo orgánem jím k tomu zmocněným určeny vojenské osoby, příslušníci Sboru národní bezpečnosti a příslušníci Sboru vězeňské stráže v činné službě.\n(2) V polním řízení určuje soudce z lidu pro jednotlivé případy na žádost předsedy senátu velitel, u něhož je polní soud zřízen.\n(3) Za soudce z lidu může být určen, kdo\na) je starší než dvacet let,\nb) nebyl soudně trestán ani není trestně stíhán a\nc) je oddán lidově demokratickému zřízení.\n(4) O námitkách proti určení k této funkci rozhoduje orgán, který soudce z lidu určil."
+    },
+    {
+      "provision_ref": "§ 309.",
+      "section": "309",
+      "title": "§ 309. Funkční období soudců z lidu.",
+      "content": "(1) Funkční období soudce z lidu trvá jeden rok. Dokud nebyli určeni pro další období soudci z lidu v potřebném počtu, mohou být k výkonu funkce povoláni i dosavadní soudci z lidu.\n(2) Ustanovení odstavce 1 se neužije v polním řízení."
+    },
+    {
+      "provision_ref": "§ 314.",
+      "section": "314",
+      "title": "§ 314.",
+      "content": "(1) Soudcové z lidu budou v každém jednotlivém případě povoláni z onoho ozbrojeného sboru, k němuž obviněný náleží. Náleží-li spoluobvinění k různým ozbrojeným sborům, budou povoláni soudci z lidu tak, aby byl pokud možno zastoupen každý sbor.\n(2) Není-li obviněný příslušníkem ozbrojeného sboru, budou povoláni soudci z lidu z vojenských osob.\n(3) Soudci z lidu musí mít alespoň stejnou hodnost jako ten z obviněných, který má hodnost nejvyšší.\n(5) K jednotlivým zasedáním volá soudce z lidu předseda senátu."
+    }
+  ],
+  "definitions": []
+}
