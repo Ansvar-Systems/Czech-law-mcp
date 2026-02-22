@@ -1,17 +1,22 @@
 /**
  * Core tool tests for Czech Law MCP.
  * Tests against the built database (data/database.db).
+ *
+ * Requires the 1.2 GB database file — skipped automatically in CI
+ * or any environment where data/database.db is absent.
  */
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import Database from '@ansvar/mcp-sqlite';
 import { resolve } from 'path';
+import { existsSync } from 'fs';
 import { getProvision } from '../src/tools/get-provision.js';
 import { searchLegislation } from '../src/tools/search-legislation.js';
 import { listSources } from '../src/tools/list-sources.js';
 
 const DB_PATH = resolve(import.meta.dirname, '..', 'data', 'database.db');
+const HAS_DB = existsSync(DB_PATH);
 
-describe('Czech Law MCP Tools', () => {
+describe.skipIf(!HAS_DB)('Czech Law MCP Tools', () => {
   let db: InstanceType<typeof Database>;
 
   beforeAll(() => {
