@@ -1,0 +1,33 @@
+{
+  "id": "cz:336/2000",
+  "type": "statute",
+  "title": "336/2000 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví požadavky na plynoměry označované značkou EHS",
+  "title_en": "",
+  "short_name": "336/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-09-26",
+  "in_force_date": "2004-04-21",
+  "url": "https://www.e-sbirka.cz/sb/2000/336",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví požadavky na plynoměry označované značkou EHS",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška stanoví požadavky na plynoměry membránové a rotační (s otáčivými písty) a na neobjemové plynoměry turbínové (dále jen „plynoměry“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Plynoměry mohou být namísto označení úředními značkami stanovenými zvláštním právním předpisem1) označeny značkou EHS schválení typu a prvotního EHS ověření, jejichž grafickou podobu stanoví zvláštní právní předpis,2) jen pokud splňují požadavky stanovené v příloze k této vyhlášce a jejichž splnění bylo ověřeno postupy stanovenými zvláštním právním předpisem.2)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení sektorové přílohy pro měřidla k Protokolu k Evropské dohodě zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé o posuzování shody a akceptaci průmyslových výrobků ve Sbírce mezinárodních smluv, nebo dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost, bude-li tento den dřívější.\nPříloha k vyhlášce č. 336/2000 Sb."
+    }
+  ],
+  "definitions": []
+}

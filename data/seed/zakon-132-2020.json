@@ -1,0 +1,27 @@
+{
+  "id": "cz:132/2020",
+  "type": "statute",
+  "title": "132/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "132/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://www.e-sbirka.cz/sb/2020/132",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. na osoby uvedené v bodě I. tohoto usnesení se nadále vztahují povinnosti podle usnesení vlády z 18. března 2020 č. 247 (přísnější omezení pohybu na území České republiky, zákaz pobytu mimo bydliště bez ochranných prostředků dýchacích cest);"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. na osoby uvedené v bodě I. tohoto usnesení se nadále nevztahují povinnosti podle usnesení vlády z 19. března 2020 č. 267 (knížka přeshraničního pracovníka) a usnesení vlády z 23. března 2020 č. 281 (systém 3+2, povinná karanténa po příjezdu)."
+    }
+  ],
+  "definitions": []
+}

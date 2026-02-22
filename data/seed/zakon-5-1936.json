@@ -1,0 +1,39 @@
+{
+  "id": "cz:5/1936",
+  "type": "statute",
+  "title": "5/1936 Sb., Vládní vyhláška, kterou se uvádí v prozatímní platnost dodatková úmluva mezi vládou československou a vládou německou o vzájemných celních slevách na hudební nástroje.",
+  "title_en": "",
+  "short_name": "5/1936 Sb.",
+  "status": "in_force",
+  "issued_date": "1936-01-15",
+  "in_force_date": "1936-01-15",
+  "url": "https://www.e-sbirka.cz/sb/1936/5",
+  "description": "Vládní vyhláška, kterou se uvádí v prozatímní platnost dodatková úmluva mezi vládou československou a vládou německou o vzájemných celních slevách na hudební nástroje.",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1.",
+      "section": "1",
+      "title": "Článek 1.",
+      "content": "Německá vláda povolí pro saxofony z čís. 942 německého celního sazebníku celní sazbu 500˙— ř. M. za 1 q."
+    },
+    {
+      "provision_ref": "Článek 2.",
+      "section": "2",
+      "title": "Článek 2.",
+      "content": "Níže označené německé výrobky budou připuštěny při dovozu do republiky Československé za níže stanovených podmínek:\nČíslo československého celního sazebníkuPojmenování zbožíCelní sazba za 100 kg Kč\nex 581Dechové a tahací harmoniky:\nex a) harmoniky:\ndechové harmoniky; úplné harmoniky tahací (vyjímajíc pianové), mající 16 nebo méně basů 960˙—\nex 584Struny:\nd) struny opředené1000˙—"
+    },
+    {
+      "provision_ref": "Článek 3.",
+      "section": "3",
+      "title": "Článek 3.",
+      "content": "Tato dodatková úmluva bude ratifikována. Vstoupí v účinnost patnáctý den po výměně ratifikačních listin, jež bude provedena v Berlíně, a zůstane v účinnosti po dobu trvání hospodářské dohody ze dne 29. června 1920. Smluvní vlády uvedou však tuto dodatkovou úmluvu v prozatímní účinnost před výměnou ratifikačních listin s platností od 15. ledna 1936.\nČemuž na svědomí podepsali ve dvou prvopisech v československém a německém jazyku v Praze dne 30. prosince 1935.\nZávěrečný protokol.\nPři dnešním podpisu dodatkové úmluvy k československo-německé hospodářské dohodě ze dne 29. června 1920 bylo dosaženo shody o tomto:\nK článku 2.\nK č. 581 československého celního sazebníku. Za „úplné“ se považují i takové harmoniky, jimž chybí ojedinělé nepodstatné součástky. Součástky tahacích harmonik nebo tahací harmoniky neúplné jsou vyloučeny z použití smluvní celní sazby.\nZa počet basů se považuje počet klapek na basové straně harmoniky.\nPodepsáno ve dvou prvopisech v Praze dne 30. prosince 1935."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "počet basů",
+      "definition": "počet klapek na basové straně harmoniky",
+      "source_provision": "Článek 3."
+    }
+  ]
+}

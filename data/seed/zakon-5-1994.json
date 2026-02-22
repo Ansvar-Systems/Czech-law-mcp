@@ -1,0 +1,106 @@
+{
+  "id": "cz:5/1994",
+  "type": "statute",
+  "title": "5/1994 Sb., Vyhláška Českého báňského úřadu, kterou se stanoví způsob odběru a rozboru vzorků inertního a uhelného prachu a směsi inertního a uhelného prachu v uhelných dolech",
+  "title_en": "",
+  "short_name": "5/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-01-18",
+  "in_force_date": "1994-01-18",
+  "url": "https://www.e-sbirka.cz/sb/1994/5",
+  "description": "Vyhláška Českého báňského úřadu, kterou se stanoví způsob odběru a rozboru vzorků inertního a uhelného prachu a směsi inertního a uhelného prachu v uhelných dolech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví podmínky pro odběry vzorků inertního a uhelného prachu a směsi inertního a uhelného prachu (dále jen „prachová směs“) a jejich rozbory v uhelných dolech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Výklad pojmů",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Inertní prach je vápencový nebo jiný prach určený ke zneškodňování usazeného uhelného prachu v dole.\n(2) Poprašování je rozprášení inertního prachu v důlním díle za účelem inertizace usazeného uhelného prachu.\n(3) Inertizace uhelného prachu je zamezení schopnosti uhelného prachu usazeného v důlním díle vybuchovat a přenášet výbuch při rozvíření a zapálení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Odběr vzorků inertního prachu",
+      "chapter": "ČÁST DRUHÁ - INERTNÍ PRACH",
+      "content": "(1) Odběr vzorků inertního prachu provádí výrobce pro stanovení jeho vlastností.1)\n(2) Při všech způsobech odběru vzorků se musí postupovat tak, aby souhrn dílčích vzorků představoval průměr všech ukazatelů jakosti výrobků.\n(3) Pro technologické zkoušky a chemický rozbor musí mít vzorek nejméně 3 kg hmotnosti.\n(4) Údaje o odběru vzorků a o výsledcích zkoušek a rozborů musí být dokumentovány u výrobce spolu s osvědčením o jakosti výrobku.\n(5) Odběratel provádí zkoušky v případě, že má pochybnosti o vlastnostech dodávaného inertního prachu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozbor vzorků inertního prachu",
+      "chapter": "ČÁST DRUHÁ - INERTNÍ PRACH",
+      "content": "(1) Rozbor inertního prachu musí být prováděn podle metodiky1) schválené Českým báňským úřadem.\n(2) Rozborem inertního prachu se stanoví\na) granulometrické složení,\nb) hygroskopičnost,\nc) rozvířitelnost,\nd) volný oxid křemičitý, přítomnost fibroplastických a toxických látek a obsah hořlavých součástí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Odběr vzorků uhelného prachu",
+      "chapter": "ČÁST TŘETÍ - UHELNÝ PRACH",
+      "content": "(1) Pro stanovení intenzity usazování uhelného prachu musí organizace2) provádět odběr vzorků za místem zdroje jeho vzniku po směru proudění větrů.\n(2) Vzorky se odebírají z vodorovných polic nebo pomocí vzorkovnic. Police a vzorkovnice se umísťují podél stěn důlního díla v dolní třetině průřezu. Police sestávají ze dvou až čtyř rovných a na povrchu hladkých desek.\n(3) Vzorkovnicemi mohou být igelitové sáčky zavěšené do rámečků s předem určenou hmotností a se standardní plochou otvoru. Po ukončení měření se vzorkovnice uzavřou a určí se jejich hmotnost s přesností na 0,1 g.\n(4) Na policích usazený uhelný prach se smete vlasovým štětcem do vzorkovnice a vážením se zjistí jeho hmotnost s přesností na 0,1 g. Dobu měření je nutno stanovit tak, aby hmotnost odebraného vzorku nebyla menší než 2 g. Doba měření musí být stanovena nejméně na jeden den.\n(5) O odběru vzorku musí být pořízen záznam podle přílohy č. 1, která je součástí této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Intenzita usazování uhelného prachu",
+      "chapter": "ČÁST TŘETÍ - UHELNÝ PRACH",
+      "content": "U odebraného a zváženého vzorku se vypočte intenzita usazování uhelného prachu podle vztahu:\nIp=4,35 . b . mS . S1 . t\nIp - intenzita usazování uhelného prachu v g.m-3.d-1\nb - světlá šířka důlního díla na počvě v m\nm - hmotnost odebraného vzorku v g\nS - plocha světlého průřezu díla v m2\nS1 - plocha polic nebo otvorů vzorkovnic v m2\nt - doba usazování uhelného prachu ve dnech."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Lhůta pro odběr vzorků prachové směsi",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "Podle zjištěné intenzity usazování uhelného prachu se vypočte lhůta pro odběr vzorků prachové směsi ze vztahu:\nT= k . SMVIp\nT - lhůta pro odběr vzorků prachové směsi ve dnech\nk - součinitel závislý na obsahu metanu v ovzduší, který se určí podle tabulky:\nKoncetrace CH4\nv obj.% 0,5 0,751,01,52,0\nk0,750,60,50,350,25\nSMV - spodní mez výbušnosti odebraného usazeného uhelného prachu je 600 g/m3, pokud není na základě proměření provedeného organizací určenou Českým báňským úřadem stanovena hodnota jiná.\nPokud je vypočtená lhůta pro odběr vzorků prachové směsi kratší než lhůty stanovené předpisem,3) musí být proveden odběr vzorků prachové směsi ve vypočtené lhůtě a současně musí být provedena opatření ke snížení usazování uhelného prachu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Odběr vzorků prachové směsi",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "(1) Vzorek prachové směsi se odebírá:\na) v souvislém pásu důlního díla,\nb) z různých míst důlního díla.\n(2) Odběr vzorků prachové směsi provádí pracovníci určení závodním dolu nebo jím pověřeným pracovníkem.\n(3) Pro odběr vzorků prachové směsi v souvislém pásu se po obvodu díla vymezí pás o šířce asi 50 cm, zasahující celou počvu, oba boky, popřípadě i strop, pokud se na něm ve větší míře usazuje uhelný prach. Vzorek směsi se odebírá z výztuže a výstroje chodby a z počvy, přičemž šířka pásu se volí tak, aby hmotnost vzorku byla po jeho úpravě prosetím nejméně 100 g.\n(4) Při odběru vzorků z různých míst důlního díla se na úseku dlouhého díla o délce 5 až 15 m zvolí nejméně 10 odběrových míst, přičemž polovina musí být na bocích a stropě díla a polovina na jeho počvě.\n(5) K odběru se použije plochého vlasového štětce, aby se do vzorkovnice dostala jen nejhořejší část vrstvy usazeného prachu, ne silnější než 5 mm.\n(6) Vzorkovnice pro odběr vzorků musí být opatřeny trvalým číslem a označením dolu.\n(7) Po odběru musí být vzorkovnice těsně uzavřena a o odběru vyhotoven záznam podle přílohy č. 2, která je součástí této vyhlášky. Záznam se vyhotoví trojmo, z toho jeden záznam si ponechá závodní dolu nebo jím pověřený pracovník a další dva se předají laboratoři spolu se vzorkem.\n(8) Odebraný vzorek prachové směsi musí být předán laboratoři k rozboru nejpozději následujícího dne po odběru."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Rozbor vzorků prachové směsi",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "(1) V laboratoři se vzorek proseje sítem o velikosti ok 1,0 mm a nadsítné se odstraní. Podsítné o hmotnosti nejméně 100 g tvoří laboratorní vzorek.\n(2) Rozborem vzorků prachové směsi se stanoví obsah hořlavých látek.\n(3) Rozbor vzorků prachové směsi musí být proveden nejpozději do dvou dnů po jejich dodání do laboratoře.\n(4) Zjištění většího obsahu hořlavých součástí ve vzorku, než je přípustné,4) musí být vedoucím laboratoře ihned oznámeno závodnímu dolu nebo jím pověřenému pracovníkovi, kteří musí neprodleně zajistit odstranění nevyhovujícího stavu a nařídit opatření k zamezení opakování tohoto stavu.\n(5) Výsledek rozboru stanovení hořlavých součástí zaznamená laboratoř na záznamu, který jí byl předán se vzorkem a po podepsání vedoucím laboratoře předá tento záznam prokazatelně závodnímu dolu nebo jím pověřenému pracovníkovi."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Metody rozboru prachové směsi",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "(1) Rozbor vzorků prachové směsi se provádí:\na) přesnou vážkovou metodou,\nb) zjednodušenou vážkovou metodou.\n(2) Přesnou vážkovou metodou se ve vzorku stanoví:\na) obsah vody Wa v % hmotnosti,\nb) obsah popela Aa v % hmotnosti,\nc) obsah oxidu uhličitého CO2a v % hmotnosti.\nObsah hořlavých součástí v % hmotnosti se vypočte ze vztahu:\nOh=100-Wa+ Aa+CO2a\n(3) Zjednodušené vážkové metody se smí použít pouze ke kontrole účinnosti poprášení inertním prachem. Obsah hořlavých součástí se určí nejméně ze dvou navážek téhož vzorku a vypočte podle vztahu:\nOh= m1-m2m1 . 100\nOh - obsah hořlavých součástí v % hmotnosti\nm1 - hmotnost navážky vzorku v g\nm2 - hmotnost zbytku navážky vzorku po žíhání v g."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Přesnost stanovení obsahu hořlavých součástí",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "(1) Při dvou souběžných stanoveních obsahu hořlavých součástí téhož vzorku přesnou vážkovou metodou je přípustný rozdíl mezi výsledky nejvýše 0,25 %; při nepřekročení tohoto rozdílu je konečným výsledkem aritmetický průměr těchto dvou souběžných stanovení.\n(2) Při dvou souběžných stanoveních obsahu hořlavých součástí téhož vzorku zjednodušenou vážkovou metodou je přípustný rozdíl mezi výsledky nejvýše 1 %; při nepřekročení tohoto rozdílu je konečným výsledkem aritmetický průměr těchto dvou souběžných stanovení.\n(3) Je-li rozdíl při stanoveních obsahu hořlavých součástí větší, než je uvedeno v odstavcích 1 a 2, provede se další stanovení a za výsledek se považuje aritmetický průměr dvou nejbližších hodnot v rozmezí přípustného rozdílu. Je-li hodnota třetího stanovení v rozsahu přípustného rozdílu ke každému z obou stanovení, považuje se za výsledek zkoušky aritmetický průměr všech tří stanovení."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Záznamy",
+      "chapter": "ČÁST ČTVRTÁ - ODBĚR A ROZBOR VZORKŮ PRACHOVÉ SMĚSI",
+      "content": "O odběru a rozboru vzorků uhelného prachu a prachové směsi musí být vedeny záznamy podle vzorů uvedených v přílohách č. 1 a 2 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1\nZáznam o odběru vzorku uhelného prachu\nDatumČíslo vzorku Místo odběru StaničeníPoznámka\n\nSvětlá šířka díla v m\nHmotnost odebraného vzorku v g\nPlocha světlého průřezu díla v m2\nPlocha polic nebo otvorů vzorkovnic v m2\nDoba usazování uhelného prachu ve dnech\nVypočtená intenzita usazování uhel. prachu\nVypočtená lhůta pro odběr vzorků prach. směsi\n\nPodpis vzorkaře: Podpis pracovníka organizace:\nPříloha č. 2\nZáznam o odběru vzorků prachové směsi\nDatumČíslo vzorku Místo odběru StaničeníHořlavé\nsoučásti\nv %Poznámka\n\nPodpis vzorkaře:\nDatum předání k rozboru:\nDatum provedení rozboru v laboratoři:\nDatum předání výsledku rozboru:\n\nMetoda rozboru vzorku:Podpis vedoucího laboratoře:\n1) § 157 vyhlášky ČBÚ č. 22/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem v podzemí.\n2) § 5a zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona ČNR č. 541/1991 Sb.\n3) § 155 vyhlášky č. 22/1989 Sb.\n4) § 154 vyhlášky č. 22/1989 Sb."
+    }
+  ],
+  "definitions": []
+}

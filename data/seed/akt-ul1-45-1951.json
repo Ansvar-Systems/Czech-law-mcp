@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:45/1951",
+  "type": "statute",
+  "title": "45/1951 Ú. l. I, Vyhláška ministerstva vnitřního obchodu o tvoření cen opotřebených dílů motorových vozidel.",
+  "title_en": "",
+  "short_name": "45/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-01-17",
+  "in_force_date": "1951-01-17",
+  "url": "https://www.e-sbirka.cz/ul1/1951/45",
+  "description": "Vyhláška ministerstva vnitřního obchodu o tvoření cen opotřebených dílů motorových vozidel.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Opotřebené díly motorových vozidel se mohou prodávati a kupovati nejvýše za ceny přípustné podle této vyhlášky.\n(2) Opotřebenými díly se rozumějí díly motorových vozidel, jejich výstroj, výzbroj a příslušenství, které již byly používány nebo jinak znehodnoceny nebo vůbec již byly v držení spotřebitele."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší cena za opotřebené díly se utvoří ze základní ceny odečtením srážky za znehodnocení. Srážka musí odpovídati skutečnému znehodnocení.\n(2) Základní cenou podle odstavce 1 je spotřebitelská cena nového stejného nebo srovnatelného předmětu platná ke dni prodeje opotřebeného dílu.\n(3) Prodejní cena opotřebeného dílu nesmí překročiti 75% základní ceny podle odstavce 2."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Výjimky z ustanovení této vyhláky může stanoviti ministerstvo vnitřního obchodu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

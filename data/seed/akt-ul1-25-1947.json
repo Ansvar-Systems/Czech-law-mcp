@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:25/1947",
+  "type": "statute",
+  "title": "25/1947 Ú. l. I, Vyhláška ministra výživy o zřízení oblastního orgánu pro průmysl mlynářský na Slovensku.",
+  "title_en": "",
+  "short_name": "25/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-01-09",
+  "in_force_date": "1947-01-09",
+  "url": "https://www.e-sbirka.cz/ul1/1947/25",
+  "description": "Vyhláška ministra výživy o zřízení oblastního orgánu pro průmysl mlynářský na Slovensku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku „Spojené mlyny, úč. spol., Bratislava“ částku K 850.000.— na starém vkladě, dále zařízení (inventář) kancelářských místností a práva, plynoucí této společnosti v Bratislavě z nájemní smlouvy o těchto místnostech;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku „Levický mlýnský priemysel, úč. spol., Levice“, částku K 450.000.— na starém vklade;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. z majetkové podstaty znárodněného podniku „Senecký umelý mlyn, úč. spol., Senec“, částku K 200.000.— na starém vkladě."
+    }
+  ],
+  "definitions": []
+}

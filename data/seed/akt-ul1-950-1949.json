@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:950/1949",
+  "type": "statute",
+  "title": "950/1949 Ú. l. I, Vyhláška ministerstva práce a sociální péče, kterou se upravuje některým důchodcům, zaměstnaným v hornictví, nárok na důchod z národního pojištění (veřejnoprávního sociálního pojištění).",
+  "title_en": "",
+  "short_name": "950/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-09-17",
+  "in_force_date": "1949-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/950",
+  "description": "Vyhláška ministerstva práce a sociální péče, kterou se upravuje některým důchodcům, zaměstnaným v hornictví, nárok na důchod z národního pojištění (veřejnoprávního sociálního pojištění).",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Poživatelům důchodu invalidního, starobního nebo vdovského, přiznaného podle některého z předpisů o veřejnoprávním sociálním pojištění, platných (použivatelných) před 1. říjnem 1948, po případě podle zákona ze dne 15. dubna 1948, č. 99 Sb., o národním pojištění, kteří jsou zaměstnáni v kamenouhelných a v hnědouhelných dolech pracemi pod zemí, nárok na důchod nezaniká, po případě důchod se nekrátí ani když nesplňují podmínky § 1, odst. 1 vládního nařízení č. 16/1949 Sb."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pracemi pod zemí se rozumějí práce zaměstnanců náležejících ke skupinám uvedeným ve vyhlášce ministerstva práce a sociální péče ze dne 4. března 1949, č. 436, Ú. l. I, o hornických pracích pod zemí."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1949."
+    }
+  ],
+  "definitions": []
+}

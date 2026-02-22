@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:429/1947",
+  "type": "statute",
+  "title": "429/1947 Ú. l. I, Vyhláška nejvyššího úřadu cenového o výpočtu pachtovného ze zemědělských nemovitostí podle cen obilí.",
+  "title_en": "",
+  "short_name": "429/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-04-30",
+  "in_force_date": "1947-04-30",
+  "url": "https://www.e-sbirka.cz/ul1/1947/429",
+  "description": "Vyhláška nejvyššího úřadu cenového o výpočtu pachtovného ze zemědělských nemovitostí podle cen obilí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Jsou-li pro jednotlivé druhy obilí úředně stanoveny různé ceny podle velikosti zemědělského závodu, jsou rozhodné pro výpočet pachtovného ze zemědělských nemovitostí podle obecných cenových předpisů výkupní ceny obilí úředně stanovené pro závody o nejvyšší výměře orné půdy; je-li takových výkupních cen stanoveno vzhledem k jakostním stupňům obilí více, a není-li jinak ujednáno, jest pro výpočet pachtovného, stanoveného podle cen obilí, rozhodný aritmetický průměr všech těchto výkupních cen.\n(2) Obecnými cenovými předpisy podle § 1, odst. 1 této vyhlášky a podle § 4 zákona ze dne 16. května 1946, č. 126 Sb., o úpravě zemědělských pachtovních poměrů jsou nařízení předsedy vlády ze dne 20. července 1939, č. 175 Sb., o zákazu zvýšení cen a nařízení předsedy nejvyššího úřadu cenového ze dne 18. října 1941, č. 367 Sb., o peněžité hodnotě plnění určených podle naturalií."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle čtvrté části vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení. Týmž dnem se zrušuje platnost výnosu nejvyššího úřadu cenového ze dne 20. září 1945, č. j. 67.412-IV/3-1945, o výpočtu klouzavého pachtovného podle výkupních cen obilí."
+    }
+  ],
+  "definitions": []
+}

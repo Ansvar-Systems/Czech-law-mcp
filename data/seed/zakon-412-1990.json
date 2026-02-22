@@ -1,0 +1,27 @@
+{
+  "id": "cz:412/1990",
+  "type": "statute",
+  "title": "412/1990 Sb., Vyhláška Státní banky československé o stažení bankovek po 100 Kčs vzoru 1989",
+  "title_en": "",
+  "short_name": "412/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-10-11",
+  "in_force_date": "1990-10-11",
+  "url": "https://www.e-sbirka.cz/sb/1990/412",
+  "description": "Vyhláška Státní banky československé o stažení bankovek po 100 Kčs vzoru 1989",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Bankovky po 100 Kčs vzoru 1989 s portrétem K. Gottwalda na lícní straně1) přestávají být zákonnými penězi na území České a Slovenské Federativní Republiky uplynutím dne 31. prosince 1990.\n(2) Bankovky uvedené v odstavci 1 vyměňují v době od 1. ledna 1991 do 30. června 1991 všechny banky, spořitelny a pošty, v době od 1. července 1991 do 31. prosince 1991 banky a spořitelny a od 1. ledna 1992 pouze Státní banka československá."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Vyhláška federálního ministerstva financí č. 79/1989 Sb., o vydání bankovek po 100 Kčs."
+    }
+  ],
+  "definitions": []
+}

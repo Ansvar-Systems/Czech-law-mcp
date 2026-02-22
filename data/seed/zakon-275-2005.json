@@ -1,0 +1,33 @@
+{
+  "id": "cz:275/2005",
+  "type": "statute",
+  "title": "275/2005 Sb., Vyhláška, kterou se stanoví postup při zpracování návrhů cen pro konečného spotřebitele u cigaret a při změnách těchto cen",
+  "title_en": "",
+  "short_name": "275/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-07-14",
+  "in_force_date": "2005-07-14",
+  "url": "https://www.e-sbirka.cz/sb/2005/275",
+  "description": "Vyhláška, kterou se stanoví postup při zpracování návrhů cen pro konečného spotřebitele u cigaret a při změnách těchto cen",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Postup při zpracování návrhů cen pro konečného spotřebitele",
+      "content": "(1) Výrobce, dovozce nebo osoba pověřená k podání návrhu na stanovení ceny pro konečného spotřebitele podle § 103 odst. 2 zákona (dále jen „navrhovatel“) předloží Celnímu úřadu Kolín (dále jen „pověřený celní úřad“) návrh ceny pro konečného spotřebitele (dále jen „cena“) do desátého dne kalendářního měsíce předcházejícího měsíci, od jehož prvního dne požaduje navrhovatel, aby navrhovaná cena nabyla účinnosti. V případě požadavku stanovení ceny s pozdějším datem účinnosti navrhovatel toto datum v návrhu uvede.\n(2) Navrhovatel zpracuje návrh ceny jednotlivých cigaret podle vzoru uvedeného v příloze. K návrhu ceny se přikládá popis cigaret, který obsahuje:\na) přesný obchodní název,\nb) název, který je uveden na jednotkovém balení určeném pro přímou spotřebu (dále jen „balení“), případně další údaje pro zcela jednoznačnou identifikaci,\nc) délku tabákového provazce a celkovou délku cigarety,\nd) počet kusů v balení a\ne) kód země původu podle přímo použitelného předpisu práva Evropských společenství1).\n(3) Navrhovatel zašle nebo předá návrh ceny pověřenému celnímu úřadu v písemné podobě a současně na technickém nosiči dat (disketě) nebo elektronickou poštou.\n(4) Společně s návrhem ceny cigaret, jejichž cena dosud nebyla stanovena, navrhovatel předkládá pověřenému celnímu úřadu vzorek těchto cigaret nebo jejich fotodokumentaci a souhlas majitele ochranné známky s užíváním této ochranné známky a s prodejem cigaret s touto známkou, pokud existuje.\n(5) Při zpracování návrhu na změnu ceny se uplatní obdobný postup jako u cigaret, jejichž cena dosud nebyla stanovena. V návrhu na změnu ceny se uvede také platná cena a důvod změny této ceny."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Zrušovací ustanovení",
+      "content": "Zrušuje se vyhláška č. 430/2003 Sb., která upravuje způsob stanovení ceny pro konečného spotřebitele tabákových výrobků."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha k vyhlášce č. 275/2005 Sb.\nNávrh ceny pro konečného spotřebitele u cigaret\n1) Například nařízení Komise (ES) č. 2081/2003 ze dne 27. listopadu 2003 o klasifikaci zemí a území pro statistiku zahraničního obchodu Společenství a statistiku obchodu mezi členskými státy."
+    }
+  ],
+  "definitions": []
+}

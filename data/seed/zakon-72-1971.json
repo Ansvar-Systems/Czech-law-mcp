@@ -1,0 +1,449 @@
+{
+  "id": "cz:72/1971",
+  "type": "statute",
+  "title": "72/1971 Sb., Vyhláška ministerstva zdravotnictví České socialistické republiky o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví",
+  "title_en": "",
+  "short_name": "72/1971 Sb.",
+  "status": "in_force",
+  "issued_date": "1971-08-23",
+  "in_force_date": "1978-03-01",
+  "url": "https://www.e-sbirka.cz/sb/1971/72",
+  "description": "Vyhláška ministerstva zdravotnictví České socialistické republiky o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Lékaři",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "Lékaři vykonávají činnost vyžadující vysokoškolské lékařské vzdělání, zejména provádějí vyšetřovací výkony, určují diagnózu, stanoví léčebný plán i plán hygienických a protiepidemických opatření, provádějí léčebné výkony, dozírají na vytváření a zabezpečování zdravých životních a pracovních podmínek, provádějí výběr osob, které mají být zařazeny do soustavné dispenzární péče, ukládají izolaci a karanténní opatření, vydávají posudky a předepisují léky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Farmaceuti",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "(1) Farmaceuti vykonávají činnost vyžadující vysokoškolské farmaceutické vzdělání, zejména vykonávají takovou činnost při přípravě, výrobě, výdeji, distribuci a kontrole léčiv a při speciálních laboratorních pracích.\n(2) Farmaceuti v lékárnách zejména přijímají recepty a posuzují je, zda odpovídají příslušným předpisům, připravují léky, vydávají léky po provedení konečné kontroly a kontrolují farmaceutické suroviny pro přípravu léků."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Dentisté",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "Dentisté poskytují ambulantní léčebně preventivní péči o chrup. Přitom jsou oprávněni ošetřovat chrup konzervačně a proteticky, provádět jednoduché extrakce zubů a kořenů a ošetřovat chronické záněty dásní. Zjistí-li, že je třeba lékařského zákroku, jsou povinni předat ošetřovaného k dalšímu odbornému ošetření, popřípadě mu toto ošetření zajistit."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Střední zdravotničtí pracovníci",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "(1) Střední zdravotničtí pracovníci vykonávají odbornou činnost vyžadující úplné střední zdravotnické vzdělání, a to podle povahy vykonávané práce buď samostatně nebo podle pokynů lékaře, farmaceuta, popřípadě jiného vedoucího pracovníka.\n(2) Střední zdravotničtí pracovníci vykonávají své povolání v těchto oborech: zdravotní sestra, dětská sestra, ženská sestra, dietní sestra, rehabilitační pracovník, asistent hygienické služby, zdravotní laborant, farmaceutický laborant, radiologický laborant, zubní laborant a oční optik."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Nižší zdravotničtí pracovníci",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "(1) Nižší zdravotničtí pracovníci vykonávají podle pokynů lékaře nebo farmaceuta a pod vedením středních zdravotnických pracovníků odbornou činnost vyžadující střední zdravotnické vzdělání, popřípadě jiné zdravotnické vzdělání.\n(2) Nižší zdravotničtí pracovníci vykonávají své povolání v těchto oborech: ošetřovatelka, pěstounka, zubní instrumentářka, masér, dezinfektor, laboratorní pracovník, pitevní laborant-preparátor."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Pomocní zdravotničtí pracovníci",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "(1) Pomocní zdravotničtí pracovníci vykonávají pod vedením výše kvalifikovaných odborných pracovníků odbornou činnost vyžadující krátkodobé zdravotnické vzdělání.\n(2) Pomocní zdravotničtí pracovníci vykonávají své povolání v oborech sanitáři a sanitářky pro jednotlivé úseky zdravotnických služeb stanovené ministerstvem zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl první - Kategorie a obory zdravotnických pracovníků",
+      "content": "Náplně činnosti jednotlivých kategorií a oborů zdravotnických pracovníků stanoví zvláštní předpis."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Způsobilost k výkonu povolání lékaře",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "(1) Lékaři získávají způsobilost k výkonu povolání ukončením studia a složením předepsaných zkoušek na příslušných lékařských fakultách.\n(2) Lékaři-absolventi lékařské fakulty hygienické mají způsobilost k výkonu povolání především v hygieně a epidemiologii a lékaři-absolventi fakulty dětského lékařství a fakulty všeobecného lékařství-dětského směru k výkonu povolání především v péči o děti. Lékaři-absolventi fakulty všeobecného lékařství-stomatologického směru mají způsobilost k výkonu povolání v péči o chrup, dutinu ústní a orgány s ní související.\n(3) Organizace může podle kádrové situace výjimečně převést lékaře-absolventy lékařské fakulty hygienické, fakulty dětského lékařství a fakulty všeobecného lékařství-dětského směru k výkonu lékařského povolání v jiném úseku zdravotnických služeb po předchozím vyžádání si závazného stanoviska ministerstva zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Způsobilost k výkonu povolání farmaceuta",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "Farmaceuti získávají způsobilost k výkonu povolání ukončením studia a složením předepsaných zkoušek na farmaceutické fakultě."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Způsobilost k výkonu povolání dentisty",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "Povolání dentisty mohou vykonávat zdravotničtí pracovníci, kteří získali způsobilost k výkonu tohoto povolání podle dřívějších předpisů.*)\nZpůsobilost k výkonu povolání středního zdravotnického pracovníka"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "(1) Střední zdravotničtí pracovníci získávají způsobilost k výkonu povolání ukončením studia a složením maturitních zkoušek předepsaných pro jednotlivé obory na střední zdravotnické škole.**)\n(2) Povolání zdravotního laboranta jsou oprávněny vykonávat též osoby, které absolvovaly nejméně čtyři semestry studia na lékařské fakultě, a povolání farmaceutického laboranta osoby, které absolvovaly nejméně čtyři semestry studia na farmaceutické fakultě."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "(1) Střední zdravotničtí pracovníci vykonávají odbornou činnost v oborech, pro které získali způsobilost k výkonu povolání.\n(2) Střední zdravotničtí pracovníci oborů zdravotní sestra, dětská sestra a ženská sestra mohou pracovat ve všech těchto oborech bez rozšíření způsobilosti k výkonu povolání v dalším oboru s výjimkou úseků práce stanovených v příloze č. 1. Přitom jsou zdravotní sestry a ženské sestry vykonávající činnost v oboru dětských sester povinny absolvovat kurs psychologie a pedagogiky dítěte.\n(3) Střední zdravotničtí pracovníci oborů zdravotní sestra, dětská sestra, ženská sestra, asistent hygienické služby a radiologický laborant mohou pracovat trvale v jiném oboru, než pro který získali způsobilost k výkonu povolání, v úsecích práce stanovených v příloze č. 2, jestliže do dvou let ode dne převedení na takový úsek práce vykonají na střední zdravotnické škole externí zkoušky z předmětů uvedených v této příloze."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Způsobilost k výkonu povolání nižšího zdravotnického pracovníka",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "(1) Nižší zdravotničtí pracovníci získávají způsobilost k výkonu povolání v oboru ošetřovatelka, pěstounka a zubní instrumentářka ukončením studia a složením předepsaných zkoušek na zdravotnické odborné škole.*) V ostatních oborech získávají způsobilost k výkonu povolání absolvováním dlouhodobého kursu podle osnov vydaných ministerstvem zdravotnictví a složením předepsaných zkoušek.\n(2) Povolání nižšího zdravotnického pracovníka jsou oprávněny vykonávat též osoby, které absolvovaly část studia na střední zdravotnické škole, a to tři ročníky čtyřletého denního studia nebo pětiletého studia při zaměstnání, dva ročníky čtyřletého studia při zaměstnání nebo tříletého studia při zaměstnání pro absolventy středních škol anebo jeden ročník dvouletého studia pro absolventy středních škol."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Způsobilost k výkonu povolání pomocného zdravotnického pracovníka",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Zdravotničtí pracovníci > Oddíl druhý - Způsobilost k výkonu zdravotnických povolání",
+      "content": "Pomocní zdravotničtí pracovníci získávají způsobilost k výkonu povolání absolvováním kursu podle osnov vydaných ministerstvem zdravotnictví a složením předepsaných zkoušek."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Jiní odborní pracovníci ve zdravotnictví",
+      "content": "Úkoly ve zdravotnictví plní podle zásad účelné dělby práce vedle zdravotnických pracovníků též jiní odborní pracovníci, zejména z oboru pedagogiky, psychologie, přírodních a technických věd."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST PRVNÍ - ODBORNÍ PRACOVNÍCI VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Jiní odborní pracovníci ve zdravotnictví",
+      "content": "Způsobilost k výkonu povolání získávají jiní odborní pracovníci působící ve zdravotnictví studiem na školách poskytujících vysokoškolské nebo úplné střední odborné vzdělání jiného než zdravotnického směru."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Společná ustanovení",
+      "content": "(1) Další vzdělávání odborných pracovníků ve zdravotnictví zahrnuje:\na) nástupní praxi středních zdravotnických pracovníků,\nb) specializační průpravu lékařů, farmaceutů a středních zdravotnických pracovníků,\nc) další zdokonalování znalostí jak všech zdravotnických pracovníků, tak i jiných odborných pracovníků ve zdravotnictví.\n(2) Základní formou dalšího vzdělávání odborných pracovníků ve zdravotnictví je samostatné studium a získávání znalostí a dovedností pod vedením kvalifikovaného pracovníka."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA PRVNÍ - Společná ustanovení",
+      "content": "(1) Odborní pracovníci ve zdravotnictví jsou povinni prohlubovat a zdokonalovat své odborné znalosti a zkušenosti po dobu výkonu svého povolání.\n(2) Vedoucí pracovníci ve zdravotnictví na všech stupních jsou povinni:\na) zajistit pod vedením zkušeného pracovníka zaškolení odborných pracovníků na pracovišti (oddělení), kontrolovat a hodnotit jeho průběh; zaškolení se provádí zpravidla během prvních tří měsíců po nástupu a jeho součástí je též získání speciálních znalostí z provozu a z bezpečnosti a ochrany zdraví při práci;\nb) vést své spolupracovníky k všestrannému zdokonalování odborných znalostí, k zvyšování ideové a odborné úrovně jejich práce a k dodržování morálky socialistického zdravotníka;\nc) řídit další vzdělávání odborných pracovníků ve zdravotnictví a navrhovat je na odpovídající školicí akce organizované Institutem pro další vzdělávání lékařů a farmaceutů (dále jen „Institut“) nebo Ústavem pro další vzdělávání středních zdravotnických pracovníků (dále jen „Ústav“), popřípadě zdravotnickými zařízeními v příslušném kraji."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl první - Organizace a řízení",
+      "content": "(1) Ministerstvo zdravotnictví v dohodě s ministerstvem školství řídí další vzdělávání zdravotnických pracovníků a stanoví pro ně hlavní zásady v souladu s rozvojem lékařských, farmaceutických, popřípadě jiných věd a v souladu s potřebami zdravotnických služeb.\n(2) Podle zásad stanovených ministerstvem zdravotnictví v dohodě s ministerstvem školství organizují další vzdělávání zdravotnických pracovníků krajské národní výbory, v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a v organizacích řízených jinými resorty příslušné ústřední orgány nebo orgány jimi pověřené."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl první - Organizace a řízení",
+      "content": "Ministerstvo zdravotnictví vykonává svou působnost na úseku dalšího vzdělávání zdravotnických pracovníků za odborné pomoci nebo prostřednictvím Institutu a Ústavu."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl první - Organizace a řízení",
+      "content": "Institut, Ústav i krajské ústavy národního zdraví vzájemně úzce spolupracují na úseku dalšího vzdělávání zdravotnických pracovníků; spolupracují přitom s příslušnými lékařskými fakultami a farmaceutickou fakultou."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl první - Organizace a řízení",
+      "content": "Specializační průprava lékařů, farmaceutů a středních zdravotnických pracovníků se koná zpravidla na pracovištích těchto pracovníků, pokud vyhovují požadavkům pro tyto účely. Je-li toho třeba, doplňuje se na zvlášť kvalifikovaných pracovištích vybraných pro tento účel v rámci kraje a školicími akcemi v Institutu nebo Ústavu."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Obecné ustanovení",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Specializační průpravou získává lékař hlubší znalosti k výkonu odborné činnosti, popřípadě k výkonu specializované činnosti vyššího stupně v některém ze stanovených specializačních oborů.\n(2) Absolvování specializační průpravy pro specializaci I. stupně je pro lékaře vykonávající činnost v oborech uvedených v § 24 povinné. Zařazování do specializační průpravy pro specializaci vyššího stupně se provádí výběrově na základě komplexního hodnocení lékaře. Přitom se přihlíží především ke společenským potřebám zdravotnictví a ke zvláštním schopnostem a předpokladům uchazečů.\n(3) Do specializační průpravy zařazují lékaře krajské národní výbory, lékaře pracující v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a lékaře pracující mimo státní zdravotní správu příslušné ústřední orgány, popřípadě orgány jimi pověřené."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Specializace I. a II. stupně",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Lékaři mohou získat specializaci I. stupně v oboru všeobecného lékařství.\n(2) Specializaci I. a II. stupně mohou získat lékaři v těchto oborech:\ninterní lékařství\npediatrie\ngynekologie a porodnictví\nchirurgie\nurologie\nortopedie\nneurologie\npsychiatrie\ndermatovenerologie\nstomatologie\notorinolaryngologie\noftalmologie\nradiodiagnostika\nradioterapie\npatologická anatomie\nlékařská mikrobiologie\nhygiena a epidemiologie\nanesteziologie a resuscitace\nklinická biochemie"
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Nástavbová specializace",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Po dosažení specializace I. stupně mohou lékaři získat nástavbovou specializaci v těchto oborech:\nInterní lékařství\npřenosné nemoci\nkardiologie\nrevmatologie\ndorostové lékařství\ntělovýchovné lékařství\nendokrinologie\ngastroenterologie\nporuchy látkové přeměny a výživy\nhematologie a transfúzní služba\ntuberkulóza a respirační nemoci\nhygiena práce a nemoci z povolání\nfyziatrie, balneologie a léčebná rehabilitace\nalergologie\nlékařská genetika\nnukleární medicina\nPediatrie\npřenosné nemoci\ndětská kardiologie\ndorostové lékařství\ntělovýchovné lékařství\nendokrinologie\nhematologie a transfúzní služba\ndětská tuberkulóza a respirační nemoci\nalergologie\nlékařská genetika\nfyziatrie, balneologie a léčebná rehabilitace\ndětská neurologie\ndětská psychiatrie\nhygiena dětí a dorostu\nnukleární medicina\nGynekologie a porodnictví\nfyziatrie, balneologie a léčebná rehabilitace\nChirurgie\ndětská chirurgie\nthorakochirurgie\nneurochirurgie\nústní, čelistní a obličejová chirurgie\nplastická chirurgie\nfyziatrie, balneologie a léčebná rehabilitace\nnukleární medicina\nOrtopedie\nfyziatrie, balneologie a léčebná rehabilitace\nNeurologie\ndětská neurologie\nfyziatrie, balneologie a léčebná rehabilitace\nPsychiatrie\ndětská psychiatrie\nfyziatrie, balneologie a léčebná rehabilitace\nStomatologie\nústní, čelistní a obličejová chirurgie\nparodontologie\nčelistní ortopedie\ndětská stomatologie\nOtorinolaryngologie\nfoniatrie\ndětská otorinolaryngologie\nRadioterapie\nnukleární medicina\nPatologická anatomie\nsoudní lékařství\nLékařská mikrobiologie\nlékařská virologie\nlékařská parazitologie\nHygiena a epidemiologie\nhygiena všeobecná a komunální\nhygiena práce a nemoci z povolání\nhygiena dětí a dorostu\nhygiena výživy a předmětů běžného užívání\nhygiena záření\nepidemiologie\nVšeobecné lékařství\nhygiena práce a nemoci z povolání\ndorostové lékařství"
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Další specializace",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Po dosažení specializace I. stupně mohou lékaři získat další specializaci v oborech organizace a řízení zdravotnictví a posudkového lékařství."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Příprava pro výkon funkce obvodního lékaře",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Funkci obvodního lékaře mohou vykonávat lékaři, kteří získali specializaci I. stupně v oboru všeobecného lékařství s označením „odborník všeobecného lékařství“.\n(2) Lékaři, kteří získali specializaci I. stupně v některém z oborů uvedených v § 24 odst. 2 a vykonávají v den počátku účinnosti této vyhlášky funkci obvodního lékaře, mohou do 5 let od tohoto dne získat způsobilost k výkonu této funkce podle dosavadních předpisů.\nDélka specializační průpravy a rozsah znalostí"
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Specializační průprava pro specializaci I. stupně trvá tři roky, v oboru urologie čtyři roky. Pro specializaci II. stupně, nástavbovou a další specializaci trvá tři až pět let; její délka je blíže určena ve specializačních náplních.\n(2) Do specializační průpravy lze započítat jen dobu výkonu lékařského povolání v pracovním poměru v ČSSR. Ministerstvo zdravotnictví může v jednotlivých případech započítat práci lékaře v zahraničí."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Základní rozsah odborných znalostí v jednotlivých specializačních oborech včetně znalostí potřebných z hlediska obrany státu, jakož i rozsah znalostí společensko-vědních a jazykových stanoví specializační náplně, které vydává ministerstvo zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Kvalifikační atestace",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Znalosti lékařů získané v průběhu specializační průpravy se ověřují kvalifikační atestací před zkušební komisí Institutu, který určuje místo, termín a způsob kvalifikační atestace.\n(2) Lékaře ke kvalifikačním atestacím doporučují krajské národní výbory, lékaře pracující v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a lékaře pracující mimo státní zdravotní správu příslušné ústřední orgány, popřípadě orgány jimi pověřené.\n(3) Po úspěšně složené kvalifikační atestaci vydává Institut diplom o specializaci.\nZískávání specializací ve zvláštních případech"
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Institut\na) výjimečně zařadí lékaře do specializační průpravy pro získání nástavbové nebo další specializace, i když získal specializaci I. stupně v jiném oboru, než u kterého je nástavbová nebo další specializace zavedena;\nb) vydá lékaři diplom o specializaci po vykonání kvalifikační atestace pro nástavbovou nebo další specializaci v oborech zavedených touto vyhláškou bez specializační průpravy, aniž získal příslušnou specializaci I. stupně, jestliže ke dni počátku účinnosti vyhlášky úspěšně pracuje v takovém oboru nejméně sedm let;\nc) vydá po úspěšně vykonaném politicko-odborném pohovoru diplom o specializaci bez kvalifikační atestace lékaři, který ke dni počátku účinnosti vyhlášky pracuje úspěšně nejméně deset let v oboru, pro nějž je touto vyhláškou zavedena specializace II. stupně, nástavbová specializace nebo další specializace, a vykonává vedoucí funkci."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Ministerstvo zdravotnictví může\na) povolit zařazení lékařů do specializační průpravy v oborech, v nichž lze získat nástavbovou specializaci, přímo do specializační průpravy v těchto oborech, pokud v nich trvá nedostatek lékařů; krajské národní výbory zajistí před kvalifikační atestací pro nástavbovou specializaci doplnění znalostí z příslušného oboru specializace I. stupně a vykonání kvalifikační atestace pro tuto specializaci;\nb) výjimečně přiznat po úspěšně vykonaném politicko-odborném pohovoru specializaci lékařům ve zvlášť úzkém oboru, i když není uveden ve specializační soustavě stanovené touto vyhláškou;\nc) v odůvodněných případech zhodnotit postgraduální vzdělání lékařů získané podle dřívějších předpisů a přiznat na jeho základě specializaci, popřípadě stanovit jiný termín nebo způsob vykonání kvalifikační atestace."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "Universitním profesorům a docentům, u nichž obor, v němž získali vědecko-pedagogický titul, odpovídá některému oboru, v němž lze získat specializaci II. stupně, nástavbovou nebo další specializaci, náleží specializace v tomto oboru. Diplom o specializaci vydá na základě oznámení o získání titulu Institut."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Přerušení činnosti ve specializačním oboru",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl druhý - Specializační průprava lékařů",
+      "content": "(1) Jestliže lékař nevykonává po dobu delší než pět let odbornou činnost v oboru, ve kterém získal specializaci, může dále pracovat jako specialista v tomto oboru jen po předchozím doplnění znalostí a jejich ověření kvalifikační atestací.\n(2) Doplnění znalostí zajistí krajské národní výbory, u lékařů pracujících v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a u lékařů pracujících mimo státní zdravotní správu příslušné ústřední orgány, popřípadě orgány jimi pověřené."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Specializace I. a II. stupně",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl třetí - Specializační průprava farmaceutů",
+      "content": "Farmaceuti mohou získat specializaci I. a II. stupně v těchto oborech:\nlékárenství\nfarmaceutická technologie\nfarmaceutická analýza\nvýroba biologických léčiv"
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Nástavbová specializace",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl třetí - Specializační průprava farmaceutů",
+      "content": "Po dosažení specializace I. stupně mohou farmaceuti získat nástavbovou specializaci v těchto oborech:\nLékárenství\nfarmakodynamika\nřízení a ekonomika lékárenské služby\nFarmaceutická technologie\nbiologické kontrolní metody\nFarmaceutická analýza\nbiochemická a toxikologická analýza\nbiologické kontrolní metody\nVýroba biologických léčiv\nbiologické kontrolní metody"
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl třetí - Specializační průprava farmaceutů",
+      "content": "Pokud není v tomto oddílu stanoveno jinak, platí o specializační průpravě farmaceutů obdobně ustanovení o specializační průpravě lékařů, zejména ustanovení § 23 a 28 až 34."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "(1) Další vzdělávání středních zdravotnických pracovníků začíná povinnou nástupní praxí, která umožňuje absolventům středních zdravotnických škol prohloubit a upevnit znalosti získané studiem.\n(2) Nástupní praxe se koná na pracovištích zdravotnických zařízení, výzkumných ústavů a ústavů sociální péče, která poskytují středním zdravotnickým pracovníkům možnost uplatnění v základní odborné činnosti, pro kterou byli vychováni studiem na střední zdravotnické škole (základní pracoviště).*)\n(3) Nástupní praxe trvá šest až dvanáct měsíců. Její délku určí vedoucí pracoviště individuálně, a to podle osobních vlastností, školního prospěchu a výsledků práce absolventa v průběhu šestiměsíční nástupní praxe."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "(1) Do pomaturitního specializačního studia**) mohou být zařazeni střední zdravotničtí pracovníci, kteří získali způsobilost k výkonu povolání v příslušném oboru a mají tříletou praxi, popřípadě mohou pracovat v jiném oboru nebo úseku práce, než pro který získali tuto způsobilost (§ 12 odst. 2 a 3), a mají tříletou praxi v úseku práce, v němž hodlají získat specializaci.\n(2) Střední zdravotnické pracovníky zařazují do pomaturitního specializačního studia krajské národní výbory, střední zdravotnické pracovníky v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a střední zdravotnické pracovníky pracující mimo státní zdravotní správu příslušné ústřední, popřípadě orgány jimi pověřené."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Specializace středních zdravotnických pracovníků",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "Střední zdravotničtí pracovníci jednotlivých oborů mohou získat pomaturitním specializačním studiem specializaci v těchto úsecích práce:\nZdravotní sestra\nošetřovatelská péče\ninstrumentování na operačním sále\npsychiatrická péče\nanesteziologie, resuscitace a intenzívní terapie\nsociální služba\nzdravotní výchova obyvatelstva\nnukleární medicina\npéče o chrup\nDětská sestra\nošetřovatelská péče\ninstrumentování na operačním sále\ndětská psychiatrická péče\nanesteziologie, resuscitace a intenzívní terapie\nvýchovná péče\nsociální služba\nzdravotní výchova obyvatelstva\npéče o chrup\nŽenská sestra\nošetřovatelská péče\ninstrumentování na operačním sále\nanesteziologie, resuscitace a intenzívní terapie\nsociální služba\nzdravotní výchova obyvatelstva\nDietní sestra\nzdravotní výchova obyvatelstva\nRehabilitační pracovník\nléčebná tělesná výchova\nléčba prací\nAsistent hygienické služby\nhygiena všeobecná a komunální\nhygiena práce\nhygiena výživy a předmětů běžného užívání\nhygiena dětí a dorostu\nhygiena záření\nepidemiologie\nzdravotní výchova obyvatelstva\nZdravotní laborant\nbiochemie\nhematologie a transfúzní služba\nvyšetřovací metody v lékařské mikrobiologii\nhistologie\nlaboratorní vyšetřovací metody v hygieně\nlaboratorní vyšetřovací metody v hygieně práce\nnukleární medicina\nFarmaceutický laborant\nlékárenství\nfarmaceutická analýza\nzásobování zdravotnickými potřebami\nRadiologický laborant\nradiodiagnostika\nradioterapie\nnukleární medicina\nZubní laborant\nčelistní ortopedie\nfixní náhrady\nsnímatelné náhrady\npéče o chrup\nOční optik\noptometrie"
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Další specializace středních zdravotnických pracovníků",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "Střední zdravotničtí pracovníci mohou po dosažení specializace podle § 40 získat ještě další specializaci v úseku práce organizace a řízení práce středních zdravotnických pracovníků, a to:\na) zdravotní sestry, dětské sestry a ženské sestry po dosažení specializace v úsecích práce ošetřovatelské péče nebo anesteziologie, resuscitace a intenzívní terapie,\nb) zdravotní sestry po dosažení specializace v úseku práce psychiatrické péče,\nc) dětské sestry po dosažení specializace v úsecích práce dětské psychiatrické péče nebo výchovné péče,\nd) asistenti hygienické služby po dosažení specializace v některém ze stanovených úseků práce,\ne) zdravotní sestry, dětské sestry a ženské sestry, které vykonávají odbornou činnost v ústavech sociální péče, po dosažení specializace v úseku práce sociální služby.\nDélka pomaturitního specializačního studia a rozsah znalostí"
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "(1) Pomaturitní specializační studium středních zdravotnických pracovníků trvá zpravidla dva roky. Jeho délka v jednotlivých úsecích práce je blíže určena ve specializačních náplních.\n(2) Do pomaturitního specializačního studia lze započítat jen dobu výkonu povolání středního zdravotnického pracovníka v pracovním poměru, a to v úseku práce odpovídajícím zvolené specializaci."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "Základní rozsah odborných znalostí v jednotlivých úsecích práce, jakož i znalostí společenskovědních a jazykových stanoví specializační náplně, které vydává ministerstvo zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Specializační zkoušky",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "(1) Znalosti středních zdravotnických pracovníků získané v průběhu pomaturitního specializačního studia se ověřují zkouškou před zkušební komisí Ústavu.\n(2) Střední zdravotnické pracovníky doporučují ke specializačním zkouškám krajské národní výbory, střední zdravotnické pracovníky v ústředně řízených zdravotnických organizacích ministerstvo zdravotnictví a střední zdravotnické pracovníky pracující mimo státní zdravotní správu příslušné ústřední orgány, popřípadě orgány jimi pověřené.\n(3) Po úspěšně vykonané specializační zkoušce vydává Ústav osvědčení o specializaci.\nZískávání specializací ve zvláštních případech"
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "Ústav vydá po úspěšně vykonaném politicko-odborném pohovoru osvědčení\na) středním zdravotnickým pracovníkům starším 45 let o specializaci v některém z nově zavedených úseků práce, jestliže úspěšně pracují v tomto úseku práce po získání způsobilosti k výkonu povolání alespoň deset let, z toho pět let ve vedoucí funkci;\nb) učitelům zdravotnických škol starším 45 let, kteří mají způsobilost k výkonu povolání středního zdravotnického pracovníka, o specializaci v některých úsecích práce stanovených touto vyhláškou za předpokladu, že splnili podmínku doplňkového pedagogického studia,*) úspěšně pracují jako učitelé alespoň pět let a mají deset let odborné, popřípadě pedagogické praxe v příslušném úseku práce."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl čtvrtý - Nástupní praxe a pomaturitní specializační studium středních zdravotnických pracovníků",
+      "content": "Ministerstvo zdravotnictví může\na) výjimečně přiznat po úspěšně vykonaném politicko-odborném pohovoru specializaci středním zdravotnickým pracovníkům pracujícím ve zvlášť úzkém úseku práce, i když není uveden ve specializační soustavě stanovené touto vyhláškou,\nb) zhodnotit v odůvodněných případech specializační průpravu, popřípadě odborné vzdělání středních zdravotnických pracovníků získané podle dřívějších předpisů a přiznat jim na jejich základě specializaci, popřípadě stanovit jim jiný termín nebo způsob vykonání závěrečné zkoušky."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Seminární školení zdravotnických pracovníků",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl pátý - Jiné formy dalšího vzdělávání zdravotnických pracovníků",
+      "content": "(1) K průběžnému zvyšování znalostí zdravotnických pracovníků se pravidelně pořádá seminární školení.\n(2) Účast zdravotnických pracovníků na seminárním školení je povinná a z hlediska pracovně právního se považuje za překážku v práci z důvodu školení.*)"
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Krátkodobé školicí akce pro zdravotnické pracovníky",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl pátý - Jiné formy dalšího vzdělávání zdravotnických pracovníků",
+      "content": "(1) Ke zdokonalování znalostí zdravotnických pracovníků se pořádají tématické kursy, školení na školicích místech a jiné školicí akce k jejich seznámení se speciálními a novými metodami práce, s aktuálními úkoly ve zdravotnických službách a k přípravě pro výkon funkcí.\n(2) Školicí akce pořádá Institut nebo Ústav, popřípadě krajský ústav národního zdraví zpravidla podle tématických plánů Institutu a Ústavu."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Cyklické doškolování zdravotnických pracovníků",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl pátý - Jiné formy dalšího vzdělávání zdravotnických pracovníků",
+      "content": "(1) K zajištění pravidelného a všestranného doplňování znalostí zdravotnických pracovníků v jednotlivých oborech a úsecích práce se provádí cyklické doškolování.\n(2) Pro vybrané zdravotnické pracovníky pořádá kursy cyklického doškolování o nejnovějších poznatcích v jednotlivých oborech Institut a Ústav."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50 Příprava středních zdravotnických pracovníků pro speciální úseky práce a funkce",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA DRUHÁ - Další vzdělávání zdravotnických pracovníků > Oddíl pátý - Jiné formy dalšího vzdělávání zdravotnických pracovníků",
+      "content": "Pro střední zdravotnické pracovníky pořádá Ústav dlouhodobé školicí akce, jimiž se tito pracovníci připravují pro činnost, popřípadě pro výkon funkcí ve speciálních úsecích práce, zejména v audiologii, elektroencefalografii, elektrokardiografii, v dialyzačních stanicích a ve vyšetřování plicních funkcí. Školicí akce se zakončují zkouškou, o níž vydává Ústav osvědčení."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA TŘETÍ - Další vzdělávání jiných odborných pracovníků ve zdravotnictví",
+      "content": "Jiní odborní pracovníci, kteří vykonávají činnost ve zdravotnictví, jsou povinni kromě soustavného dalšího zvyšování kvalifikace ve svém oboru osvojit si pod vedením a podle pokynů vedoucích pracovníků nezbytné zdravotnické znalosti."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ VZDĚLÁVÁNÍ ODBORNÝCH PRACOVNÍKŮ VE ZDRAVOTNICTVÍ > HLAVA TŘETÍ - Další vzdělávání jiných odborných pracovníků ve zdravotnictví",
+      "content": "(1) Podle potřeby se jiní odborní pracovníci ve zdravotnictví zúčastňují seminárního školení, popřípadě dalších školicích akcí společně se zdravotnickými pracovníky.\n(2) Institut nebo Ústav může pro tyto odborné pracovníky pořádat zvláštní školicí akce."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Způsobilost k výkonu zdravotnických povolání a specializace zdravotnických pracovníků získané podle dřívějších předpisů v kategoriích a oborech uvedených v této vyhlášce zůstávají nedotčeny.\n(2) Lékaři, farmaceuti a střední zdravotničtí pracovníci, kteří jsou zařazeni v den počátku účinnosti této vyhlášky do specializační průpravy (pomaturitního specializačního studia) v oborech, které se touto vyhláškou mění, mohou vykonat kvalifikační atestaci (specializační zkoušku) podle dřívějších předpisů, a to do osmnácti měsíců ode dne počátku účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Způsobilost k výkonu povolání farmaceutického laboranta (radiologického laboranta) mají pracovníci, kteří získali podle dřívějších předpisů způsobilost k výkonu povolání lékárenského laboranta (rentgenového laboranta).\n(2) Způsobilost k výkonu povolání zdravotní sestry podle této vyhlášky mají také pracovníci, kteří získali způsobilost k výkonu povolání zubní sestry."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "Způsobilost k výkonu povolání nižšího zdravotnického pracovníka podle této vyhlášky mají také\na) pěstounky, zubní instrumentářky, maséři a desinfektoři, kteří absolvovali podle dřívějších předpisů školení nižších zdravotnických pracovníků,\nb) pracovníci, kteří vykonávali činnost pomocných středních zdravotnických pracovníků podle dřívějších předpisů."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Lékaři, kteří získali podle dřívějších předpisů specializaci I. stupně v oboru hygieny nebo v oboru epidemiologie, mají specializaci I. stupně v oboru hygieny a epidemiologie.\n(2) Lékaři, kteří získali podle dřívějších předpisů specializaci II. stupně v oboru hygieny, mají nástavbovou specializaci v oboru hygieny všeobecné a komunální nebo specializaci II. stupně v oboru hygieny a epidemiologie.\n(3) Lékaři, kteří získali podle dřívějších předpisů specializaci II. stupně v oboru epidemiologie, mají nástavbovou specializaci v oboru epidemiologie nebo specializaci II. stupně v oboru hygieny a epidemiologie.\n(4) Lékaři, kteří získali podle dřívějších předpisů specializaci v oboru mikrobiologie, mají specializaci v oboru lékařské mikrobiologie.\n(5) Lékaři, kteří získali podle dřívějších předpisů specializaci v oboru sociálního lékařství, mají specializaci v oboru organizace a řízení zdravotnictví.\n(6) Lékaři, kteří mají podle dřívějších předpisů nástavbovou specializaci v oboru fyziatrie-balneologie, mohou získat nástavbovou specializaci v oboru fyziatrie, balneologie a léčebné rehabilitace po doplňkovém školení zakončeném politicko-odborným pohovorem.\n(7) Diplom o specializaci podle odstavců 2 a 3 vydá Institut na žádost lékaře a po vyjádření krajského národního výboru."
+    },
+    {
+      "provision_ref": "§ 56a",
+      "section": "56a",
+      "title": "§ 56a",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "Lékaři, kteří získali způsobilost k výkonu funkce obvodního lékaře podle dosavadních předpisů, mají specializaci I. stupně v oboru všeobecného lékařství."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Farmaceuti, kteří získali podle dřívějších předpisů specializaci v oboru ústavního lékárenství, mají specializaci v oboru lékárenství.\n(2) Farmaceuti, kteří získali podle dřívějších předpisů nástavbovou specializaci v oboru technologie biologických léčiv, mají specializaci I. stupně v oboru výroby biologických léčiv.\n(3) Farmaceuti, kteří získali podle dřívějších předpisů specializaci v oboru farmakognosie, mají specializaci I. stupně v oboru farmaceutické analýzy, jestliže pracují ve Státním ústavu pro kontrolu léčiv, nebo specializaci I. stupně v oboru farmaceutické technologie, jestliže pracují ve zdravotnické výrobě.\n(4) Farmaceuti, kteří získali podle dřívějších předpisů specializaci v oboru ústavního lékárenství a zastávají funkci vedoucího lékárenského oddělení krajského ústavu národního zdraví nebo okresního lékárníka, mají nástavbovou specializaci v oboru řízení a ekonomiky lékárenské služby."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "ČÁST TŘETÍ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Střední zdravotničtí pracovníci, kteří získali podle dřívějších předpisů specializaci v úseku práce rentgenové diagnostiky, mají specializaci v úseku práce radiodiagnostiky.\n(2) Farmaceutičtí laboranti, kteří absolvovali podle dřívějších předpisů kvalifikační kursy v Ústavu, mají specializaci v úseku práce lékárenství, jestliže absolvovali kurs technologie léčiv, v úseku práce farmaceutické analýzy, jestliže absolvovali kurs pro kontrolu léčiv, a v úseku práce zásobování zdravotnickým materiálem, jestliže absolvovali kurs zásobování zdravotnickým materiálem.\n(3) Zdravotní laboranti, kteří získali podle dřívějších předpisů specializaci v úseku práce mikrobiologie a virologie, mají specializaci v úseku práce vyšetřovacích metod v lékařské mikrobiologii.\n(4) Zdravotní laboranti, kteří získali podle dřívějších předpisů specializaci v úseku práce hygienických vyšetřovacích metod, mají specializaci v úseku práce laboratorních vyšetřovacích metod v hygieně a v úseku práce laboratorních vyšetřovacích metod v hygieně práce.\n(5) Zdravotní sestry, dětské sestry a ženské sestry, které absolvovaly podle dřívějších předpisů v Ústavu dvouletou přípravu pro vedoucí funkce, mají specializaci v úseku práce organizace a řízení práce středních zdravotnických pracovníků.\n(6) Střední zdravotničtí pracovníci, kteří absolvovali vysokoškolské studium psychologie-péče o nemocné, mají specializaci v úseku práce organizace a řízení práce středních zdravotnických pracovníků."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "ČÁST ČTVRTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Tato vyhláška se vztahuje i na zdravotnické pracovníky vykonávající zdravotnické povolání mimo zdravotnická zařízení a orgány řízené a spravované národními výbory a ministerstvem zdravotnictví s výjimkou dalšího vzdělávání zdravotnických pracovníků teoretických oborů a lékařů-učitelů na vysokých školách.\n(2) Zvláštní předpisy stanoví, které orgány plní v jiných odvětvích úkoly, jež podle této vyhlášky příslušejí ministerstvu zdravotnictví a národním výborům.\n(3) Pro zdravotnické služby v oboru ozbrojených sil a bezpečnostních sborů platí tato vyhláška, pokud příslušní ministři nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60",
+      "chapter": "ČÁST ČTVRTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušují se:\n1. vyhláška ministerstva zdravotnictví č. 44/1966 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví, ve znění vyhlášky č. 90/1967 Sb. a vyhlášky č. 80/1969 Sb.,\n2. směrnice č. 1/1968 Věst. MZ, o podmínkách pro rozšíření způsobilosti středních zdravotnických pracovníků k výkonu povolání v dalším oboru a jejich dalším vzdělávání."
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61",
+      "chapter": "ČÁST ČTVRTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 1971.\nPříloha č. 1 k vyhl. č. 72/1971 Sb.\na) Na porodním sále a pracovištích intenzívní péče ženských oddělení nemocnice s poliklinikou nemohou pracovat zdravotní sestry a dětské sestry;\nb) na pracovištích, na nichž se poskytuje péče o nedonošené děti, novorozence a kojence, a na pracovištích intenzívní péče dětských oddělení nemocnice s poliklinikou nemohou pracovat zdravotní sestry a ženské sestry;\nc) na pracovištích intenzívní péče ostatních oddělení nemocnice s poliklinikou nemohou pracovat dětské sestry a ženské sestry.\nPříloha č. 2 k vyhl. č. 72/1971 Sb.\nZ oboru: Do oboru: Na úseku práce: Externí zkoušky z předmětů:\nZdravotní sestrarehabilitační pracovníkúsek fyzikální terapie rehabilitačního oddělení nemocnice s poliklinikou (dále jen NsP) a odborných léčebných ústavůfyzikální terapie\nasistent hygienické službyodd. protiepidemická hygienických stanic (dále jen HS) epidemiologie právní nauky\nodd. hygieny práce HShygiena práce právní nauky\nodd. hygieny výživy a předmětů běžného užíváníhygiena výživy právní nauky\nodd. hygieny dětí a dorostu HShygiena dětí a dorostu právní nauky\nradiologický laborantvšechna rtg odd. NsP po zaškolení v odborném minimuradiologická fyzika radiodiagnostické vyšetřovací metody\nDětská sestrarehabilitační pracovníkúsek fyzikální terapie rehabilitačního odd. NsP a odborných léčebných ústavůfyzikální terapie\nasistent hygienické službyodd. protiepidemická HSepidemiologie právní nauky\nodd. hygieny výživy a předmětů běžného užívání HShygiena výživy právní nauky\nodd. hygieny dětí a dorostu HShygiena dětí a dorostu právní nauky\nŽenská sestrarehabilitační pracovníkúsek fyzikální terapie rehabilitačního oddělení NsP a odborných léčebných ústavůfyzikální terapie\nDietní sestraasistent hygienické službyodd. hygieny výživy a předmětů běžného užívání HShygiena výživy právní nauky\nAsistent hygienické službyzdravotní laborantlaboratoře HS mikrobiologie\nRadiologický laborantzdravotní sestravšechna odborná poliklinická pracovištěchoroby vnitřní péče o nemocné\nasistent hygienické službyradiační hygieny HS hygiena práce právní nauky\n*) Vládní nařízení č. 25/1951 Sb., o dentistech, vyhláška č. 44/1966 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví, ve znění vyhlášky č. 90/1967 Sb.\n**) Střední zdravotnická škola je střední odbornou školou ve smyslu ustanovení § 11 školského zákona č. 186/1960 Sb.\n*) Zdravotnická odborná škola je odbornou školou ve smyslu ustanovení § 10 školského zákona č. 186/1960 Sb.\n*) § 5 odst. 2 vládního nařízení č. 38/1967 Sb., o umísťování absolventů vysokých škol, konzervatoří, středních odborných a odborných škol.\n**) Pomaturitní specializační studium středních zdravotnických pracovníků je pomaturitním studiem podle směrnic č. 87/1965 Věst. MŠK.\n*) Směrnice č. 7/1967 Věst. MŠKI.\n*) § 126 zákoníku práce č. 65/1965 Sb. ve znění zákona č. 153/1969 Sb. (úplné znění č. 42/1970 Sb.)."
+    }
+  ],
+  "definitions": []
+}

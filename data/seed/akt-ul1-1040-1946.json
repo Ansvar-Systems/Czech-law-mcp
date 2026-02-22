@@ -1,0 +1,21 @@
+{
+  "id": "cz:ul1:1040/1946",
+  "type": "statute",
+  "title": "1040/1946 Ú. l. I, Vyhláška ministra financí o přepočítacích kursech cizozemských hodnot na koruny československé pro účely poplatků, daně z obohacení a daní dopravních.",
+  "title_en": "",
+  "short_name": "1040/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-17",
+  "in_force_date": "1946-04-17",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1040",
+  "description": "Vyhláška ministra financí o přepočítacích kursech cizozemských hodnot na koruny československé pro účely poplatků, daně z obohacení a daní dopravních.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Dánsko100 korun= 1041.70Kčs\nEgypt1 libra= 207.30„\nFrancie100 franků= 41.98„\nHolandsko100 zlatých= 1884.75„\nIsland100 korun= 768.50„\nKanada1 dolar= 45.488„\nNorsko100 korun= 1007.50„\nSpojené státy americké1 dolar= 50.—„\nŠvédsko100 korun= 1192.30„\nŠvýcarsko100 franků= 1162.80„\nVelká Britannie1 libra sterlingů= 201.50„"
+    }
+  ],
+  "definitions": []
+}

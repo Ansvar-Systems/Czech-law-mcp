@@ -1,0 +1,61 @@
+{
+  "id": "cz:368/2001",
+  "type": "statute",
+  "title": "368/2001 Sb., Vyhláška Úřadu pro ochranu hospodářské soutěže, kterou se stanoví podrobnosti o náležitostech návrhu na povolení spojení soutěžitelů",
+  "title_en": "",
+  "short_name": "368/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-10-17",
+  "in_force_date": "2006-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2001/368",
+  "description": "Vyhláška Úřadu pro ochranu hospodářské soutěže, kterou se stanoví podrobnosti o náležitostech návrhu na povolení spojení soutěžitelů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Povinnou součástí každého návrhu na povolení spojení (dále jen „návrh“) je řádně a úplně vyplněný dotazník k povolení spojení podle přílohy této vyhlášky a doklad o zaplacení správního poplatku.\n(2) K návrhu se dále připojí\na) písemné plné moci udělené zástupcům všech navrhovatelů, jsou-li tito v řízení o povolení spojení zastoupeni,\nb) výpisy z obchodního rejstříku, popř. z jiného obdobného registru, ne starší než tři měsíce, týkající se všech spojujících se soutěžitelů, kteří mají povinnost být v obchodním rejstříku nebo obdobném registru zapsáni,\nc) listiny, na jejichž základě ke spojení došlo nebo má dojít, anebo listiny osvědčující vznik spojení; v případě spojení v důsledku nabytí účastnických cenných papírů při nabídce převzetí1) jsou všichni spojující se soutěžitelé povinni tyto listiny předložit ihned po jejich sepsání,\nd) výroční zprávy včetně auditu ročních účetních závěrek za poslední ukončené účetní období všech spojujících se soutěžitelů, kteří mají povinnost provádět audit podle zvláštních právních předpisů,\ne) konsolidované účetní závěrky za poslední ukončené účetní období všech spojujících se soutěžitelů, kteří mají povinnost sestavovat konsolidovanou účetní závěrku podle zvláštních právních předpisů, a\nf) schéma a způsob výpočtu obratu, jehož výše odůvodňuje podání návrhu a z něhož je patrno, jakého čistého obratu (§ 14 zákona) dosáhli v daném účetním období:\n1. spojující se soutěžitelé,\n2. osoby, které budou spojující se soutěžitele kontrolovat po uskutečnění daného spojení, a osoby, které jsou spojujícími se soutěžiteli kontrolovány,\n3. osoby, které kontroluje osoba, která bude spojující se soutěžitele kontrolovat po uskutečnění spojení,\n4. osoby, které jsou kontrolovány společně dvěma či více osobami uvedenými v bodech 1 až 3."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Návrh, včetně všech jeho součástí a příloh, se předkládá v českém jazyce. U cizojazyčných listin a dokladů se předkládá jejich překlad do českého jazyka, pokud zvláštní právní předpis nebo mezinárodní smlouva, kterou je Česká republika vázána, nestanoví jinak. K překladu se připojí prohlášení navrhovatele deklarující, že se jedná o pravdivé a úplné překlady originálů.\n(2) Listiny mohou být originály nebo jejich kopie; v případě kopií je nutno k listinám připojit prohlášení navrhovatele deklarující, že se jedná o pravdivé a úplné kopie originálů.\n(3) K listinám lze rovněž připojit jejich vyhotovení na elektronickém nosiči dat."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Obsahují-li předkládané listiny skutečnosti, které jsou předmětem obchodního tajemství, připojí se jako zvláštní přílohy k návrhu. Každá taková listina musí obsahovat označení „OBCHODNÍ TAJEMSTVÍ“."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Finanční údaje musí být uvedeny v českých korunách. Finanční údaje z cizích měn musí být přepočteny na české koruny průměrným kurzem devizového trhu vyhlášeným Českou národní bankou za to období, k němuž se takové finanční údaje vztahují."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 368/2001 Sb.\nDotazník k povolení spojení\nPři poskytování údajů podle dotazníku je třeba dodržovat členění a číslování jednotlivých údajů podle tohoto vzoru. Pro upřesnění a vysvětlení významu požadovaných údajů je možné obrátit se písemně na Úřad pro ochranu hospodářské soutěže před zahájením správního řízení. V případě, že jednotlivé údaje nejsou a nemohou být spojujícím se soutěžitelům známy, je třeba tuto skutečnost uvést a odůvodnit."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dalšími spojujícími se soutěžiteli",
+      "definition": "zejména podnik nebo jeho část, která má být v důsledku spojení nabyta ze strany navrhovatele/navrhovatelů (§ 12 odst",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Stranou spojení",
+      "definition": "osoby uvedené v části 3 přílohy",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Potenciálním konkurentem",
+      "definition": "soutěžitel, který plánuje vstoupit na daný relevantní trh nebo tak v posledních dvou letech zamýšlel učinit",
+      "source_provision": "§ 5"
+    }
+  ]
+}

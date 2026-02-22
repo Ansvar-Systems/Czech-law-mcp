@@ -1,0 +1,45 @@
+{
+  "id": "cz:305/2004",
+  "type": "statute",
+  "title": "305/2004 Sb., Vyhláška, kterou se stanoví druhy kontaminujících a toxikologicky významných látek a jejich přípustné množství v potravinách",
+  "title_en": "",
+  "short_name": "305/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-05-18",
+  "in_force_date": "2004-05-20",
+  "url": "https://www.e-sbirka.cz/sb/2004/305",
+  "description": "Vyhláška, kterou se stanoví druhy kontaminujících a toxikologicky významných látek a jejich přípustné množství v potravinách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška v souladu s právem Evropských společenství1) stanoví přípustná množství a druhy kontaminujících látek, toxikologicky významných látek a látek vznikajících činností mikroorganismů, které smějí potraviny a suroviny obsahovat. Nejvyšší přípustné úrovně radioaktivní kontaminace potravin stanoví zvláštní právní předpisy.2)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Pro hodnocení výskytu jednotlivých kontaminujících látek v potravinách se používá:\na) nejvyšší přípustné množství (dále jen „NPM“), při jehož překročení je potravina a potravinová surovina vyloučena z oběhu, je stanoveno v příloze, nebo\nb) přípustné množství (dále jen „PM“), podmínky posouzení potravin podle této limitní hodnoty se řídí limitní hodnotou stanovenou v příloze pro kontaminující látku histamin.\n(2) Kontaminující látky,3) toxikologicky významné látky a látky vznikající činností mikroorganismů, limity a další podmínky jejich výskytu v potravinách jsou uvedeny v příloze.\n(3) Množství nežádoucích příměsí a kontaminujících látek, jejichž obsah v čisté látce (v potravním doplňku a přídatné látce) je omezen zvláštním právním předpisem,4) se v naředěných formách snižuje podle stupně naředění.\n(4) Stanovené limitní hodnoty jednotlivých kontaminujících látek platí pro jedlý podíl potraviny. Jedlým podílem se rozumí potravina zbavená nejedlých částí (například slupka, pecky, kosti). Sušené a dehydratované výrobky se hodnotí, pokud jsou obnovovány s přídavkem vody, ve stavu po obnovení. Zahušťované výrobky se hodnotí podle limitu pro původní suroviny a přepočtou se koeficientem charakterizujícím příslušnou ztrátu vody, pokud není určen limit přímo pro zahuštěný nebo sušený výrobek.\n(5) Pokud je u potravin určených pro dětskou a kojeneckou výživu uváděno: „na bázi mléka“, „na bázi obilovin“ a jiných, rozumí se tím, že výrobek obsahuje více než 50 procent uvedené suroviny. Pokud se uvádí: „s obsahem ...“, rozumí se podíl nižší než 50 procent.\n(6) Množství dusičnanů je stanoveno jako dusičnanový iont NO3-."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přechodné ustanovení",
+      "content": "Potraviny, které byly vyrobeny a uvedeny do oběhu přede dnem účinnosti této vyhlášky, se posuzují podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 20. května 2004.\nPříloha k vyhlášce č. 305/2004 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "* Polycyklickými aromatickými uhlovodíky",
+      "definition": "benzo(a)anthracen, benzo(b)fluoranthen, benzo(k)fluoranthen, chryzen, dibenzo(a, h)anthracen, benzo(a)pyren, indeno(1,2,3-cd)pyren, dibenzo(a,i)pyren, dibenzo(a,h)pyren",
+      "source_provision": "§ 4"
+    }
+  ]
+}

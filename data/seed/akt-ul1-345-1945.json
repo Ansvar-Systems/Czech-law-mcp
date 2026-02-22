@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:345/1945",
+  "type": "statute",
+  "title": "345/1945 Ú. l. I, Vyhláška č.12/1945 Svazu pro hospodáření obilím o zaplacení cenových rozdílů u jedlých luštěnin, prosa, jahel a pohankové krupice.",
+  "title_en": "",
+  "short_name": "345/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-10-27",
+  "in_force_date": "1945-10-27",
+  "url": "https://www.e-sbirka.cz/ul1/1945/345",
+  "description": "Vyhláška č.12/1945 Svazu pro hospodáření obilím o zaplacení cenových rozdílů u jedlých luštěnin, prosa, jahel a pohankové krupice.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Velkorozdělovači a malorozdělovači jedlých luštěnin (hrách, čočka, fazole), prosa, jahel a pohankové krupice jakéhokoliv původu jsou povinni zaplatiti Svazu cenové rozdíly u uvedeného zboží, vyplývající z rozdílu cen platných dne 30. září 1945 a cen platných dne 1. října 1945, a to z toho množství jmenovaných druhů zboží, které měli v zásobě dne 30. září 1945 ve 24 hodiny.\n(2) Zásobou podle odstavce 1 se rozumí i to množství zboží uvedeného v odstavci 1, které bylo před 1. říjnem 1945 odevzdáno k dopravě na adresu velkorozdělovače nebo malorozdělovače a došlo po 30. září 1945.\n(3) Povinnost uvedená v odstavci 1 se nevztahuje na zásoby (odstavec 1 a 2), které nepřevyšovaly u jednotlivých velkorozdělovačů nebo malorozdělovačů dne 30. září 1945 ve 24 hodiny dohromady množství 20 kg; jinak se vztahuje povinnost odstavců 1 a 2 vždy na celou zásobu. Prodejny a pobočné závody se pokládají pro posuzování výše zásob podle tohoto odstavce za samostatné rozdělovače."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Cenové rozdíly činí u 100 kg:\nu velkorozdělovačeu malorozdělovače\nKK\nu jedlého hrachu:\nvelkozrnného žlutého40.—40.—\nvelkozrnného zeleného45.—50.—\ndrobnozrnného žlutého45.—50.—\ndrobnozrnného zeleného50.—50.—\nu jedlého hrachu loupaného50.—50.—\nu čočky:\nvelkozrnné100.—100.—\ndrobnozrnné110.—110.—\nu fazolí:\njedlých70.—70.—\ndruhu Flagiolette80.—80.—\nu prosa70.—70.—\nu jahlí140.—140.—\nu pohankové krupice140.—140.—\n(2) Částky příslušející Svazu z cenových rozdílů uvedených v §§ 1 a 2 jest zaplatiti nejpozději do 30. listopadu 1945 na účet Svazu u poštovní spořitelny č. 53.200."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pro vyúčtování cenových rozdílů uvedených v §§ 1 a 2 u zboží, jež jest na skladech vykupovačů a hlavních komisionářů Výsadní obilní společnosti vydá pokyny Svaz s ohledem na vládní nařízení ze dne 8. července 1943, č. 196 Sb."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky této vyhlášky se trestají podle ustanovení čtvrté části vládního nařízení o zřízení nejvyššího úřadu cenového."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem uveřejnění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zásobou podle odstavce 1",
+      "definition": "i to množství zboží uvedeného v odstavci 1, které bylo před 1",
+      "source_provision": "§ 1."
+    }
+  ]
+}

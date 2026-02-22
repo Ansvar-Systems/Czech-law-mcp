@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:35/1955",
+  "type": "statute",
+  "title": "35/1955 Ú. l., Vyhláška úřadu pro normalisaci, kterou se doplňuje technická státní norma ČSN 34 7201 a ruší technická státní norma ČSN 34 7460.",
+  "title_en": "",
+  "short_name": "35/1955 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1955-03-16",
+  "in_force_date": "1955-03-31",
+  "url": "https://www.e-sbirka.cz/ul0/1955/35",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se doplňuje technická státní norma ČSN 34 7201 a ruší technická státní norma ČSN 34 7460.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "S účinností od 15 února 1955 se doplňuje článek 11 technické státní normy ČSN 34 7201 „Kulatá lana pro vodiče a kabely” a zní:\n„Jiné konstrukce lan, než jsou stanoveny touto normou, se dovolují jen na základě sjednaných technických podmínek. Je možno snížit počet druhů uvedených v tabulkách\nIII Měkká kulatá lana měděná\nIV Jemná kulatá lana měděná\nV Zvlášť jemná kulatá lana měděná\nza podmínky, že se v lanu dodrží požadavek na elektrický průřez předepsaný příslušnou normou na ten který druh vodičů.”\nTabulky III, IV a V se doplňují poznámkou:\n„Hodnoty ve sloupci 5 „konstrukce lana” a 6 „stočení lana” jsou jen hodnoty směrné.”"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "S účinností od 1. března 1955 se zrušuje technická státní norma ČSN 34 7460 „Chráněné vodiče bez kovového pláště” uveřejněná vyhláškou státního úřadu plánovacího č. 111/1953 Ú. l."
+    }
+  ],
+  "definitions": []
+}

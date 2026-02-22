@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:192/1949",
+  "type": "statute",
+  "title": "192/1949 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Odevy, odevných závodov, národného podniku.",
+  "title_en": "",
+  "short_name": "192/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-23",
+  "in_force_date": "1949-01-23",
+  "url": "https://www.e-sbirka.cz/ul1/1949/192",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Odevy, odevných závodov, národného podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Perfekta, spoločnosť s ručením obmedzeným, se sídlem v Bratislavě, Štúrova 7,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Slovakotex, obchodné jednateľstvo a manipulácia textilným tovarom, spoločnosť s ručením obmedzeným, se sídlem v Bratislavě, Štúrova 7,\nvesměs v rozsahu jejich znárodnění do Odevy odevných závodov, národného podniku."
+    }
+  ],
+  "definitions": []
+}

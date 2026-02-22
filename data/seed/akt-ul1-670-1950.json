@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:670/1950",
+  "type": "statute",
+  "title": "670/1950 Ú. l. I, Vyhláška ministerstva výživy o cenách vajec, povinném soupisu zásob a súčtování výdeje vajec ve vázaném prodeji.",
+  "title_en": "",
+  "short_name": "670/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-12-03",
+  "in_force_date": "1951-03-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/670",
+  "description": "Vyhláška ministerstva výživy o cenách vajec, povinném soupisu zásob a súčtování výdeje vajec ve vázaném prodeji.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "chapter": "Část. I. - Ceny vajec.",
+      "content": "(1) Výkupní cena netříděných, neznačkovaných čerstvých slepičích vajec domácího původu, prodávaných chovatelem slepic v rámci plnění dodávkových úkolů činí za 1 kg čisté váhy Kčs 44.20. Tato cena jest pevná a nesmí býti podbízena ani překročena.\n(2) Cena uvedená v odstavci 1 se rozumí za čerstvá, čistá, avšak nemytá, nezávadná vejce, s nepoškozenou skořápkou, při výkupu ze dvora chovatele slepic. U vajec, jež nevyhovují těmto požadavkům (špinavá vejce a pod.), je přípustná srážka 10% z výkupní ceny. Výkup vajec na kusy není dovolen."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "chapter": "Část. I. - Ceny vajec.",
+      "content": "Prodává-li chovatel slepic netříděná, neznačkovaná čerstvá slepičí vejce při plnění povinné dodávky vajec přímo místním spotřebitelům na ústřižky lístků na vejce podle platných dávek v jednotlivých přídělových obdobích, činí pevná prodejní cena Kčs 3,10 za kus."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "chapter": "Část. I. - Ceny vajec.",
+      "content": "Ustanoveni této vyhlášky se nevztahují na vejce, která může chovatel slepic prodávati volně po splnění předepsané dodávkové povinnosti přímo spotřebiteli nebo příslušným monopolním výkupním orgánům podle platných ustanovení."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "chapter": "Část IV. - Všeobecná ustanovení.",
+      "content": "Ministerstvo výživy nebo místa jím pověřená mohou povolit nebo nařídit výjimku z ustanovení této vyhlášky a učinit nutná opatření k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "chapter": "Část IV. - Všeobecná ustanovení.",
+      "content": "Vyhláška ministerstev výživy a vnitřního obchodu č. 541/1950 Ú. l. I, o cenách vajec, povinném soupisu zásob a súčtování výdeje ve vázaném prodeji, a vyhláška ministerstva výživy č. 657/1950 Ú. l. I, kterou se mění vyhláška o cenách vajec, povinném soupisu zásob a súčtování výdeje ve vázaném prodeji, se zrušují."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "chapter": "Část IV. - Všeobecná ustanovení.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení s výjimkou ustanovení o cenách vajec v části I., která nabývají účinnosti dnem 4. prosince 1950.\nVyhláška platí pouze v českých zemích."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cena uvedená v odstavci 1",
+      "definition": "za čerstvá, čistá, avšak nemytá, nezávadná vejce, s nepoškozenou skořápkou, při výkupu ze dvora chovatele slepic",
+      "source_provision": "§ 1."
+    }
+  ]
+}

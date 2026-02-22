@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:112/1945",
+  "type": "statute",
+  "title": "112/1945 Ú. l., Vyhláška nejvyššího úřadu cenového o některých cenových opatřeních v souvislosti se změnou státoprávních poměrů.",
+  "title_en": "",
+  "short_name": "112/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-07-28",
+  "in_force_date": "1945-07-28",
+  "url": "https://www.e-sbirka.cz/ul0/1945/112",
+  "description": "Vyhláška nejvyššího úřadu cenového o některých cenových opatřeních v souvislosti se změnou státoprávních poměrů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Zrušují se všechna cenová ustanovení, pokud jimi byly ceny a obchodní podmínky, přípustné v obchodním styku na území bývalého t. zv. protektorátu, výslovně učiněny závislými na cenách a obchodních podmínkách platných mimo toto území, jakož i všechny povinnosti v souvislosti s tím podnikům uložené.\n(2) Ceny, pro něž dosud platila ustanovení zrušená odstavcem 1, se nesmějí zvýšit nad stav ke dni účinnosti této vyhlášky. Obchodní podmínky platné k tomuto dni se nesmějí zhoršit v neprospěch odběratele."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nejvyšší úřad cenový může nařídit nebo povolit výjimky z ustanovení § 1 a učinit opatření nutná k provedení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

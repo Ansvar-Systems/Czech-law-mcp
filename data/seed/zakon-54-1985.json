@@ -1,0 +1,33 @@
+{
+  "id": "cz:54/1985",
+  "type": "statute",
+  "title": "54/1985 Sb., Redakční oznámení o opravě tiskových chyb o opravě tiskových chyb ve vyhlášce Státní komise pro vědeckotechnický a investiční rozvoj č. 21/1985 Sb., o soustavě vědeckých, technických a ekonomických informací, ve slovenském vydání",
+  "title_en": "",
+  "short_name": "54/1985 Sb.",
+  "status": "in_force",
+  "issued_date": "1985-07-11",
+  "in_force_date": "1985-07-11",
+  "url": "https://www.e-sbirka.cz/sb/1985/54",
+  "description": "Redakční oznámení o opravě tiskových chyb o opravě tiskových chyb ve vyhlášce Státní komise pro vědeckotechnický a investiční rozvoj č. 21/1985 Sb., o soustavě vědeckých, technických a ekonomických informací, ve slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Nadpis § 1 má znít: „Vymedzenie sústavy vedeckých, technických a ekonomických informácií a jej účel“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Nadpis § 6 má znít: „Organizácie“;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Chybějící nadpis pod § 9 zní: „Odborové strediská“."
+    }
+  ],
+  "definitions": []
+}

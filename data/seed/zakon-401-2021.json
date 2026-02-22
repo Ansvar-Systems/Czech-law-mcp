@@ -1,0 +1,63 @@
+{
+  "id": "cz:401/2021",
+  "type": "statute",
+  "title": "401/2021 Sb., Vyhláška o předkládání některých výkazů v oblasti platebního styku České národní bance",
+  "title_en": "",
+  "short_name": "401/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-11-12",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/401",
+  "description": "Vyhláška o předkládání některých výkazů v oblasti platebního styku České národní bance",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Tato vyhláška zapracovává příslušné předpisy Evropské unie1) a upravuje obsah, formu, lhůty a způsob sestavování a předkládání výkazů České národní bance osobami oprávněnými poskytovat platební služby.\n(2) Výkazy podle odstavce 1 obsahují také informace o podvodech, které osoby oprávněné poskytovat platební služby v oblasti platebního styku zaznamenaly."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vykazující osoby",
+      "content": "Výkazy podle této vyhlášky sestavují a předkládají tyto vykazující osoby:\na) banka a zahraniční banka se sídlem v jiném členském státě, která vykonává činnost na území České republiky prostřednictvím své pobočky,\nb) spořitelní a úvěrní družstvo,\nc) platební instituce a zahraniční platební instituce se sídlem v jiném členském státě, která vykonává činnost na území České republiky prostřednictvím své pobočky,\nd) instituce elektronických peněz a zahraniční instituce elektronických peněz se sídlem v jiném členském státě, která vykonává činnost na území České republiky prostřednictvím své pobočky,\ne) správce informací o platebním účtu a zahraniční správce informací o platebním účtu se sídlem v jiném členském státě, který vykonává činnost na území České republiky prostřednictvím své pobočky,\nf) poskytovatel platebních služeb malého rozsahu,\ng) vydavatel elektronických peněz malého rozsahu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Předkládané výkazy",
+      "content": "(1) Vykazující osoba podle § 2 písm. a) až d) sestavuje k poslednímu dni každého kalendářního čtvrtletí a předkládá do posledního dne měsíce následujícího po skončení kalendářního čtvrtletí, k němuž se vztahuje, výkaz PSS (ČNB) 22-04 „Čtvrtletní výkaz o platebním styku“.\n(2) Vykazující osoba podle § 2 sestavuje k poslednímu dni každého kalendářního pololetí a předkládá do posledního dne čtvrtletí následujícího po skončení kalendářního pololetí, k němuž se vztahuje, výkaz PSS (ČNB) 22-02 „Pololetní výkaz o platebním styku a podvodech“.\n(3) Obsah výkazů podle odstavců 1 a 2 je uveden v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob sestavování výkazů",
+      "content": "(1) Vykazující osoba vytváří z údajů svého informačního systému datový soubor s hodnotami údajů, který předává jako součást datové zprávy České národní bance.\n(2) Vykazující osoba do sestavovaných výkazů nezahrnuje údaje, které se vztahují k činnostem jejích poboček v zahraničí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob a forma předkládání výkazů",
+      "content": "(1) Vykazující osoba předkládá České národní bance výkazy podle § 3 v elektronické podobě jako datové zprávy ve formátu a struktuře datových souborů.\n(2) Datovým souborem podle odstavce 1 se rozumí elektronické seskupení údajů výkazu s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek.\n(3) Datové zprávy podle odstavce 1 jsou předávány prostředky umožňujícími dálkový přístup prostřednictvím internetového aplikačního nebo uživatelského rozhraní sběrného systému České národní banky.\n(4) Datovou zprávu podle odstavce 1 podepíše vykazující osoba uznávaným elektronickým podpisem kontaktní osoby.\n(5) Vykazující osoba sdělí České národní bance jméno, adresu pracoviště, telefonní číslo a adresu elektronické pošty kontaktní osoby. O změnách těchto údajů informuje vykazující osoba Českou národní banku bez zbytečného odkladu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Opravy a změny ve výkazech",
+      "content": "(1) Je-li po předložení výkazů České národní bance zjištěna chyba nebo provedena změna v údajích výkazu, předloží vykazující osoba České národní bance bez zbytečného odkladu opravený výkaz. Pokud oprava nebo změna ovlivňuje údaje i v jiném výkazu nebo výkazy k dalším časovým obdobím, opraví vykazující osoba též všechny tyto navazující výkazy.\n(2) Opravené výkazy jsou předkládány způsobem podle § 5 společně s informacemi o obsahu a důvodu opravy."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.\nPříloha k vyhlášce č. 401/2021 Sb.\nObsah předkládaných výkazů\n1. PSS (ČNB) 22-04 „Čtvrtletní výkaz o platebním styku“\nČtvrtletní výkaz obsahuje počty a objemy celkových úhrad, inkas, transakcí platební kartou a transakcí s elektronickými penězi a šeky v geografickém členění. Transakce platební kartou jsou dále členěny podle kódu obchodníka.\n2. PSS (ČNB) 22-02 „Pololetní výkaz o platebním styku a podvodech“\nPololetní výkaz obsahuje údaje:\na) o počtu a objemu klientských transakcí podle druhu platební služby včetně údajů o podvodných transakcích v geografickém členění a o objemu ztrát z podvodných transakcí,\nb) o počtu a objemu klientských transakcí provedených platební kartou na akceptačních zařízeních podle jejich druhu v geografickém členění,\nc) o počtu a objemu hotovostních klientských transakcí prováděných na přepážce vykazující osoby nebo u obchodníka,\nd) o počtu a druhu účtů vedených klientům,\ne) o počtu provozovaných zařízení akceptujících platební karty v geografickém členění,\nf) o počtu a druhu vydaných platebních karet,\ng) o počtu klientů využívajících službu informování o platebním účtu v geografickém členění.\n1) Čl. 96 odst. 6 směrnice Evropského parlamentu a Rady (EU) 2015/2366 ze dne 25. listopadu 2015 o platebních službách na vnitřním trhu, kterou se mění směrnice 2002/65/ES, 2009/110/ES a 2013/36/EU a nařízení (EU) č. 1093/2010 a zrušuje směrnice 2007/64/ES."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Datovým souborem podle odstavce 1",
+      "definition": "elektronické seskupení údajů výkazu s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek",
+      "source_provision": "§ 5"
+    }
+  ]
+}

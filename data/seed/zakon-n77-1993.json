@@ -1,0 +1,27 @@
+{
+  "id": "cz:n77/1993",
+  "type": "statute",
+  "title": "n77/1993 Sb., Redakční sdělení o opravě chyb v zákonu č. 283/1993 Sb., o státním zastupitelství",
+  "title_en": "",
+  "short_name": "n77/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-12-31",
+  "in_force_date": "1993-12-31",
+  "url": "https://www.e-sbirka.cz/sb/1993/n77",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 283/1993 Sb., o státním zastupitelství",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 7 odst. 2 má místo slova „zastupitelstev“ správně být slovo „zastupitelství“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 35 odst. 3 mají místo slov „v odstavci 2“ správně být slova „než v odstavci 2“."
+    }
+  ],
+  "definitions": []
+}

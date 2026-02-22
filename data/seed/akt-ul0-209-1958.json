@@ -1,0 +1,29 @@
+{
+  "id": "cz:ul0:209/1958",
+  "type": "statute",
+  "title": "209/1958 Ú. l., Vyhláška ministerstva zdravotnictví o sazbách za úkony prováděné v soukromých lékařských a dentistických ordinacích",
+  "title_en": "",
+  "short_name": "209/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-12-30",
+  "in_force_date": "1959-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/209",
+  "description": "Vyhláška ministerstva zdravotnictví o sazbách za úkony prováděné v soukromých lékařských a dentistických ordinacích",
+  "provisions": [
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "Oddíl B",
+      "content": "Dosud platné úpravy úhrad za služby uvedené v § 1 se zrušují."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "Oddíl B",
+      "content": "Lékaři a dentisté, kteří jsou oprávněni obstarávat některé úkoly preventivní a léčebné péče v dosavadních soukromých ordinacích, jsou povinni za takto poskytnuté služby účtovat sazby ve výši stanovené v oddílech A a B sazebníku a jsou oprávněni požadovat za dopravu k nemocnému úhrady ve výši stanovené v oddílu C sazebníku; sazebník tvoří přílohu této vyhlášky. Sazby uvedené v oddílech A a B jsou pevné a nelze z nich poskytovat žádnou slevu."
+    }
+  ],
+  "definitions": []
+}

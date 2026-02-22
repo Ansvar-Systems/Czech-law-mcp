@@ -1,0 +1,33 @@
+{
+  "id": "cz:109/2022",
+  "type": "statute",
+  "title": "109/2022 Sb., Vyhláška, kterou se mění vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní",
+  "title_en": "",
+  "short_name": "109/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-05-05",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/109",
+  "description": "Vyhláška, kterou se mění vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní, se mění takto:\n1. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Rady (EU) 2021/514 ze dne 22. března 2021, kterou se mění směrnice 2011/16/EU o správní spolupráci v oblasti daní.“.\n2. V § 1 písm. a) bodě 4 se slovo „a“ nahrazuje čárkou.\n3. V § 1 písm. a) bodě 5 se slova „smlouvy a“ nahrazují slovem „smlouvy,“.\n4. V § 1 se na konci písmene a) doplňuje bod 6, který zní:\n„6. příjem z licenčních poplatků,“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Ustanovení § 1 písm. a) bodu 6 vyhlášky č. 74/2014 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se nepoužije přede dnem zprovoznění systému pro předávání informací o příjmu z licenčních poplatků prostřednictvím společné komunikační sítě."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1872/1948",
+  "type": "statute",
+  "title": "1872/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Spojených továren na technický porcelán, národního podniku.",
+  "title_en": "",
+  "short_name": "1872/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-08-18",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1872",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Spojených továren na technický porcelán, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. R. Hofmann, Porzelan- und Steatitfabrik, se sídlem v Aši,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Lounská továrna na porculán Ing. Max Lange, se sídlem v Lounech čp. 460."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Hermann Scholz, nást. Kamil Seidl, komanditní společnost, se sídlem v Tiefenbachu, spr. okr. Tanvald,\nvesměs v rozsahu jejich znárodnění, do Spojených továren na technický porcelán, národního podniku."
+    }
+  ],
+  "definitions": []
+}

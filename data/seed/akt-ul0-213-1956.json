@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul0:213/1956",
+  "type": "statute",
+  "title": "213/1956 Ú. l., Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují změny a doplňky některých technických státních norem.",
+  "title_en": "",
+  "short_name": "213/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-10-19",
+  "in_force_date": "1956-11-03",
+  "url": "https://www.e-sbirka.cz/ul0/1956/213",
+  "description": "Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují změny a doplňky některých technických státních norem.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V technické státní normě ČSN 02 2031 „Přesné nýty“ vyhlášené vyhláškou č. 127/1956 Ú. l. se v tabulce II mění text a zní: „Vytvrzený, t. j. nejméně 96 hodin po kalení“.\nV poznámce pod tabulkou má být slovo „kalení“ (místo „vytvrzení“)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Technická státní norma ČSN 15 1455 „Rošt“ vyhlášená vyhláškou č. 144/1956 Ú. l. platí jako norma závazná (místo směrná)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Platnost technické státní normy ČSN 23 0777 „Šroubové klíče“ vyhlášené vyhláškou č. 123/1956 Ú. l. se mění z 1. července 1956 na 1. ledna 1957."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) V technické státní normě ČSN 41 5520 „Konstrukční ocel ušlechtilá“ vyhlášené vyhláškou č. 236/1953 Ú. l. se mění chemické složení oceli 15 520 takto:\n„Mo min 0,50 %(dosud 0,35 až 0,65 %)\nW 0,50 až 0,80 %(dosud 0,60 až 0,80 %)\nS max 0,03 %(dosud 0,04 %).“\n(2) V technických státních normách\nČSN 41 5224„Ocel konstrukční 15 224“\nČSN 41 5310„Ocel konstrukční 15 310“\nČSN 41 5411„Ocel konstrukční 15 411“\nČSN 41 5412„Ocel konstrukční 15 412“\nČSN 41 5420„Ocel konstrukční 15 420“\nvyhlášených vyhláškami č. 236/1953 Ú. l. a č. 282/1953 Ú. l. se mění a doplňuje obsah P a S takto:\nPSP + S\nelektroocel0,030,03—\nMa dupl.0,0350,040,07"
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ve Vydavatelství úřadu pro vynálezy a normalisaci vyšly tiskem změny a doplňky k technické státní normě ČSN 46 2420 “Len stonkový rosený (máčený)“ vyhlášené vyhláškou č. 242/1952 Ú. l."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "V technické státní normě ČSN 46 2415 „Len stonkový nerosený (nemáčený)“ vyhlášené vyhláškou č. 136/1956 Ú. l. se v části IV. v čl. 35 Příměs plevelů mění konec třetí věty takto:\n„ ....... a po odstranění se dělí původní váhou stonků a násobí stem“."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "V technické státní normě ČSN 65 2140 „Chlorbenzen technický“ vyhlášené vyhláškou č. 182/1955 Ú. l. se mění s platností od 1. října 1956 v článku 8. písmeno e) destilační rozmezí stanovené hodnotami od 129 °C do 131 °C na 130,8 °C do 132,8 °C."
+    }
+  ],
+  "definitions": []
+}

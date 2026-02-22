@@ -1,0 +1,27 @@
+{
+  "id": "cz:n23/1999",
+  "type": "statute",
+  "title": "n23/1999 Sb., Redakční sdělení o opravě chyb v zákonu č. 22/1999 Sb. a ve vyhlášce č. 47/1999 Sb.",
+  "title_en": "",
+  "short_name": "n23/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-04-02",
+  "in_force_date": "1999-04-02",
+  "url": "https://www.e-sbirka.cz/sb/1999/n23",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 22/1999 Sb. a ve vyhlášce č. 47/1999 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v zákonu č. 22/1999 Sb., o státním rozpočtu České republiky na rok 1999\nV příloze č. 9 v části 2. Příspěvky v písmenu F. Příspěvek na hrazení bystřin v Přechodných ustanoveních ve druhé odrážce mají v písmenu a) místo slov „do konce roku 1998“ správně být slova „do konce roku 1999“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Ministerstva životního prostředí č. 47/1999 Sb., kterou se provádí zákon č. 58/1998 Sb., o poplatcích za vypouštění odpadních vod do vod povrchových\nV § 2 odst. 10 má místo „ČSN ISO 5752“ správně být „ČSN ISO 5725“."
+    }
+  ],
+  "definitions": []
+}

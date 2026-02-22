@@ -1,0 +1,33 @@
+{
+  "id": "cz:71/1946",
+  "type": "statute",
+  "title": "71/1946 Sb., Vyhláška o stažení poukázek z roku 1944, znějících na jednu korunu",
+  "title_en": "",
+  "short_name": "71/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-04-23",
+  "in_force_date": "1946-04-25",
+  "url": "https://www.e-sbirka.cz/sb/1946/71",
+  "description": "Vyhláška o stažení poukázek z roku 1944, znějících na jednu korunu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Poukázky z roku 1944, znějící na jednu korunu, které podle § 2, odst. 1, písm. b) dekretu č. 91/1945 Sb. zůstaly na celém území Československé republiky v oběhu jako zákonné platidlo, přestanou jím býti dnem 25. dubna 1946."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Od 26. dubna 1946 do 4. května 1946 bude Národní banka Československá vyměňovati poukázky uvedené v § 1 u všech svých pokladen, a to jak u hlavního ústavu v Praze a u oblastního ústavu pro Slovensko v Bratislavě, tak i u všech svých filiálek."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Po 4. květnu 1946 jest jakákoli výměna těchto poukázek vyloučena."
+    }
+  ],
+  "definitions": []
+}

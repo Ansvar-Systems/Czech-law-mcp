@@ -1,0 +1,45 @@
+{
+  "id": "cz:58/1945",
+  "type": "statute",
+  "title": "58/1945 Sb., Dekret presidenta republiky o platovém přídavku státním a některým jiným veřejným zaměstnancům",
+  "title_en": "",
+  "short_name": "58/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-09-01",
+  "in_force_date": "1945-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1945/58",
+  "description": "Dekret presidenta republiky o platovém přídavku státním a některým jiným veřejným zaměstnancům",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Státním zaměstnancům přísluší počínaje od 1. srpna 1945 platový přídavek, jehož výměra se stanoví:\npři ročním služném (platu mu odpovídajícím) roční částkou K\ndo 20.000 K 6.000\npřes 20.000 K do 30.000 K 4.800\npřes 30.000 K do 40.000 K 3.600\npřes 40.000 K do 50.000 K 2.400.\n(2) Služným ve smyslu předcházejícího odstavce se rozumí u soudců a úředníků uvedených v § 53 platového zákona č. 103/1926 Sb., jakož i u státních osob učitelských základní a funkční služné.\n(3) Zaměstnanec nesmí na služném (platu mu odpovídajícím) a platovém přídavku podle tohoto nařízení dostati méně než zaměstnanec s nejblíže nižším služným (platem mu odpovídajícím), pro něž je stanoven nejblíže vyšší platový přídavek. Toto platí obdobně i v případech, ve kterých služné (plat mu odpovídající) převyšuje 50.000 K.\n(4) Neplně zaměstnaní, jejichž pracovní doba převyšuje 10 hodin týdně, jakož i neplně zaměstnaní učitelé se zmenšeným počtem vyučovacích hodin obdrží poměrnou část platového přídavku (odstavec 1) podle poměru jejich pracovní doby k pracovní době plně zaměstnaných v částkách, které určí ministr financí v dohodě se zúčastněnými ministry."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Platový přídavek podle § 1 jest splatný měsíčně zároveň se služným (platem mu odpovídajícím) a není součástí pensijní základny. Vyměřuje se z něho pojistné podle zákona č. 221/1925 Sb. ve znění předpisů jej měnících a doplňujících."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Státními zaměstnanci ve smyslu tohoto dekretu se rozumějí zaměstnanci státu, státních nebo státem spravovaných ústavů, podniků, fondů a zařízení, jejichž platové poměry jsou upraveny platovými zákony nebo předpisy na jejich základě vydanými, s výjimkou vojenských gážistů z povolání a déle sloužících, pro něž budou vydány zvláštní předpisy.\n(2) Ustanovení tohoto dekretu platí také\na) pro učitele, jichž se týká učitelský zákon č. 104/1926 Sb.,\nb) pro profesory diecésních učilišť theologických (§ 211 zákona č. 103/1926 Sb.).\n(3) Ustanovení tohoto dekretu platí obdobně na zaměstnance zemí, okresů a obcí, jichž platy jsou upraveny podle obdoby platů zaměstnanců státních."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tento dekret nabývá účinnosti dnem 1. srpna 1945 a platí v zemích českých; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Služným ve smyslu předcházejícího odstavce",
+      "definition": "u soudců a úředníků uvedených v § 53 platového zákona č",
+      "source_provision": "§ 1."
+    }
+  ]
+}

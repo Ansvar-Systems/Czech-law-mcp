@@ -1,0 +1,51 @@
+{
+  "id": "cz:110/1965",
+  "type": "statute",
+  "title": "110/1965 Sb., Vyhláška ministerstva školství a kultury a Státní komise pro rozvoj a koordinaci vědy a techniky o evidenci zahraniční literatury",
+  "title_en": "",
+  "short_name": "110/1965 Sb.",
+  "status": "in_force",
+  "issued_date": "1965-11-09",
+  "in_force_date": "1966-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1965/110",
+  "description": "Vyhláška ministerstva školství a kultury a Státní komise pro rozvoj a koordinaci vědy a techniky o evidenci zahraniční literatury",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Ve Státní knihovně ČSSR a v Universitní knihovně v Bratislavě (dále jen „ústřední knihovny“) se zřizuje ústřední evidence zahraniční literatury.\n(2) Zahraniční literaturou podle odstavce 1 se rozumí literatura knižní i časopisecká získaná trvale ze zahraničí nákupem, výměnou i dary, s výjimkou literatury ze socialistických států získané nákupem v kulturních střediscích socialistických států v ČSSR a ve státním knižním obchodu. Evidence se též nevztahuje na literaturu určenou k prodeji ve státním knižním obchodu a na materiály utajované."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) K zajištění úkolů podle § 1 jsou povinny všechny knihovny jednotné soustavy, jiné instituce, orgány a úřady (dále jen „nabyvatelé“) hlásit každé trvalé nabytí zahraniční literatury, a to nabyvatelé v českých krajích Státní knihovně ČSSR, nabyvatelé na Slovensku Universitní knihovně v Bratislavě.\n(2) Hlášení se zasílá do šesti týdnů od nabytí zahraniční literatury ve dvojím vyhotovení na evidenčních lístcích s popisem publikace, který obsahuje:\na) u knižních publikací: příjmení a jméno autora, název knihy, podnázev, místo vydání, označení nakladatele a rok vydání, počet stran, název a adresu nabyvatele, signaturu, označení způsobu nabytí (N - nákup, V - výměna, D - dar, Dep - depositum) a znak věcného nebo jiného odborného třídění používaného nabyvatelem,\nb) u časopisů a novin: název, podnázev, místo vydání, označení vydavatele a rok vydání, ročník, periodicitu, signaturu, název a adresu nabyvatele, způsob nabytí [jako u písm. a)] a znak věcného třídění užívaného nabyvatelem.\n(3) U časopisů a novin se hlásí nabytí prvního čísla ročníku, a to počínaje 1. lednem 1965; dále se hlásí pouze změny. O získání jednotlivých čísel se hlášení nezasílá.\n(4) K hlášení mohou nabyvatelé použít katalogizačních lístků a seznamů časopisů a novin zpracovávaných pro vlastní potřebu, obsahují-li údaje uvedené v odstavci 2.\n(5) Používají-li nabyvatelé jiného třídění než sovětského nebo mezinárodního třídění desetinného, zašlou ústředním knihovnám při prvém hlášení systém svého věcného třídění, alespoň v základních oborech."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Ústřední knihovny si v pravidelných lhůtách vymění duplikáty evidenčních lístků a vybudují souborné jmenné katalogy zahraniční literatury. Na základě těchto jmenných katalogů budou pořizovat seznamy zahraniční literatury z jednotlivých oborů, a to společenských, přírodních, technických, zemědělských a lékařských věd; dále budou pořizovat základní soupisy docházejících časopisů a novin.\n(2) Hlavní bibliografická střediska, kterými jsou u společenských a přírodních věd Státní knihovna ČSSR, u technických věd Státní technická knihovna a u zemědělských věd Ústřední zemědělská a lesnická knihovna, u lékařských věd Státní lékařská knihovna, vybudují podle seznamů zahraniční literatury z jednotlivých oborů věcné katalogy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "K využití evidence zahraniční literatury pořízené podle § 3 budou ústřední knihovny spolu s hlavními bibliografickými středisky zejména\na) poskytovat informace zájemcům o zahraniční literaturu, a to jak informace všeobecné, tak i o jednotlivých publikacích,\nb) sestavovat a vydávat speciální bibliografie,\nc) zprostředkovávat výpůjčky zahraniční literatury prostřednictvím meziknihovní výpůjční služby.*)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Ústřední knihovny vydají se schválením ministerstva školství a kultury a Státní komise pro rozvoj a koordinaci vědy a techniky podrobné metodické pokyny k provedení této vyhlášky.\n(2) Tato vyhláška nabývá účinnosti dnem 1. ledna 1966.\n*) Vyhláška č. 51/63 Sb., o evidenci knihoven jednotné soustavy o meziknihovní výpůjční službě a o přednostním právu knihoven při získávání literatury, časopisů a jiných sbírkových materiálů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zahraniční literaturou podle odstavce 1",
+      "definition": "literatura knižní i časopisecká získaná trvale ze zahraničí nákupem, výměnou i dary, s výjimkou literatury ze socialistických států získané nákupem v kulturních střediscích socialistických států v ČSSR a ve státním knižním obchodu",
+      "source_provision": "§ 1"
+    }
+  ]
+}

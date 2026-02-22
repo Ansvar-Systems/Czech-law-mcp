@@ -1,0 +1,33 @@
+{
+  "id": "cz:412/2003",
+  "type": "statute",
+  "title": "412/2003 Sb., Vyhláška o stanovení podmínek užívání průvodního dokladu pro dopravu vybraných výrobků v režimu podmíněného osvobození od daně a jeho náležitosti",
+  "title_en": "",
+  "short_name": "412/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-12-03",
+  "in_force_date": "2004-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/412",
+  "description": "Vyhláška o stanovení podmínek užívání průvodního dokladu pro dopravu vybraných výrobků v režimu podmíněného osvobození od daně a jeho náležitosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro dopravu vybraných výrobků podléhajících spotřebním daním v režimu podmíněného osvobození od daně se použije průvodní doklad. Vysvětlivky k vyplnění tohoto dokladu jsou uvedeny na zadní straně jeho prvního vyhotovení. Vzor průvodního dokladu včetně jeho náležitostí a vysvětlivek je uveden v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Místo průvodního dokladu lze použít obchodní doklady, pokud obsahují stejné údaje jako vzor uvedený v příloze k této vyhlášce. Pokud jsou obchodní doklady použity místo průvodního dokladu, musí být označeny na viditelném místě slovy „Průvodní doklad pro dopravu vybraných výrobků podléhajících spotřebním daním v režimu podmíněného osvobození od daně“.\n(2) Pokud obchodní doklad nemá stejnou strukturu a členění jako průvodní doklad, musí obsahovat stejné údaje, které jsou požadovány pro průvodní doklad. Jednotlivé položky obchodního dokladu musí být označeny číslem, které odpovídá číslu pole na průvodním dokladu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2004 a pozbývá platnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.\nPříloha k vyhlášce č. 412/2003 Sb."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "cz:256/2006",
+  "type": "statute",
+  "title": "256/2006 Sb., Vyhláška o podrobnostech systému prevence závažných havárií",
+  "title_en": "",
+  "short_name": "256/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-05-31",
+  "in_force_date": "2006-06-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/256",
+  "description": "Vyhláška o podrobnostech systému prevence závažných havárií",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška1) zapracovává příslušný předpis Evropských společenství2) a upravuje způsob zpracování analýzy a hodnocení rizik závažné havárie, způsob zpracování bezpečnostního programu, způsob zpracování a strukturu bezpečnostní zprávy, způsob a strukturu zpracování vnitřního havarijního plánu, způsob zpracování a strukturu písemných podkladů pro stanovení zóny havarijního plánování, způsob provedení aktualizace bezpečnostního programu, bezpečnostní zprávy, vnitřního havarijního plánu a podkladů pro stanovení zóny havarijního plánování a rozsah a způsob informace a postup při zabezpečení informování veřejnosti v zóně havarijního plánování."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob zpracování analýzy a hodnocení rizik závažné havárie",
+      "content": "(K § 7 odst. 2 zákona)\n(1) Analýza a hodnocení rizik závažné havárie (dále jen „analýza a hodnocení rizik“) se provádí a dokumentuje v rozsahu odpovídajícím riziku závažné havárie, to je pravděpodobnosti jejího vzniku a závažnosti možných dopadů, s využitím kvalitativních a kvantitativních analytických metod.\n(2) Analýza a hodnocení rizik se provádí pro\na) všechny fáze životního cyklu objektu nebo zařízení počínaje zpracováním projektové dokumentace až po likvidaci,\nb) normální i mimořádné provozní podmínky včetně možného selhání lidského činitele nebo možného vnějšího ohrožení.\n(3) V rámci analýzy a hodnocení rizik se provádí\na) identifikace zdrojů rizik, jejich ocenění a výběr pro podrobnou analýzu rizik za účelem zjištění, jakou měrou jednotlivé zdroje rizika přispívají k celkovému riziku analyzovaného objektu nebo zařízení,\nb) určení možných scénářů událostí a jejich příčin, které mohou vyústit v závažnou havárii, a výběr reprezentativních scénářů těchto událostí, ve kterých musí být zahrnuty zdroje rizik s nejzávažnějšími dopady na zdraví a životy osob, hospodářská zvířata, životní prostředí a majetek,\nc) odhad dopadů reprezentativních scénářů závažných havárií na životy a zdraví lidí, hospodářská zvířata, životní prostředí a majetek,\nd) odhad pravděpodobnosti reprezentativních scénářů závažných havárií,\ne) stanovení míry rizika reprezentativních scénářů závažných havárií, která vychází z výsledků provedených stanovení následků scénářů, odhadu jejich dopadů a pravděpodobností těchto scénářů,\nf) hodnocení přijatelnosti rizika závažných havárií.\n(4) V případě, že výsledná hodnota rizika závažné havárie se jeví pro daný zdroj rizika jako nepřijatelná, provede se podrobnější analýza rizika, a dle potřeby se stanoví a realizují organizační a technická opatření ke snížení tohoto rizika, prověřená opakovanou analýzou a hodnocením rizika. Přijatelnost nebo nepřijatelnost rizika pro daný objekt nebo zařízení je dána souhrnem výsledků provedené analýzy a hodnocení rizik a vyhodnocení dalších místních podmínek a faktorů, zejména sociálních, ekonomických, užívání území a dalších.\n(5) Postup zpracování a rozsah analýzy a hodnocení rizik je stanoven v příloze č. 1.\nZpůsob zpracování bezpečnostního programu\n(K § 9 odst. 5 zákona)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Bezpečnostní program se člení na následující části:\na) základní informace o objektu nebo zařízení, údaje o provozované činnosti a počtech zaměstnanců,\nb) analýzu a hodnocení rizik závažné havárie v rozsahu odpovídajícím míře rizika závažných havárií a závažnosti jejich následků,\nc) zásady, cíle a politiku prevence závažné havárie,\nd) popis systému řízení bezpečnosti,\ne) závěrečné shrnutí.\n(2) V popisu systému řízení bezpečnosti se uvedou údaje k\na) organizaci prevence závažných havárií,\nb) řízení provozu objektu a zařízení,\nc) řízení změn v objektu a zařízení,\nd) havarijnímu plánování,\ne) sledování plnění programu prevence závažné havárie,\nf) auditu a kontrole.\n(3) Systém řízení bezpečnosti zahrnuje popis organizační struktury, stanovení odpovědností a stanovení plánovacích činností, pravidel, praktik, postupů, procesů, včetně zdrojů k vyvíjení, zavádění, naplňování a prověřování politiky prevence závažné havárie.\n(4) Popis systému řízení bezpečnosti může být zpracován formou samostatného dokumentu nebo lze využít dokumentů k systémům řízení, rozpracovaných podle jiných právních předpisů nebo norem, pokud jsou zpracovány v příslušné struktuře a rozsahu a odpovídají svým obsahem požadavkům na prevenci závažných havárií nebo jsou ve smyslu těchto požadavků doplněny a upraveny."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Zásady prevence vycházejí z analýzy a hodnocení rizik závažné havárie, musí odpovídat charakteru zdrojů rizika a stanoví se rámcově tak, aby vždy jasně a srozumitelně směřovaly k zajištění odpovídající struktury a funkčnosti systému prevence závažné havárie a řízení bezpečnosti.\n(2) Celkové cíle obsahují popis rámcových úkolů vedoucích k zajištění odpovídající úrovně prevence závažné havárie. Stanovení konkrétních cílů a úkolů nutných pro naplnění zásad a rámcových cílů prevence závažné havárie se vztahuje na všechny oblasti systému řízení bezpečnosti a zahrnuje vytvoření a zavedení ukazatelů, parametrů a kritérií umožňujících sledování úrovně plnění úkolů a hodnocení účinnosti realizovaných opatření.\n(3) Politika prevence závažné havárie obsahuje prohlášení provozovatele, kterým se hlásí k závazku, záměru a zásadám naplňování prevence závažné havárie.\n(4) Obsah částí a kapitol dokumentu bezpečnostního programu je stanoven v příloze č. 2."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob zpracování a struktura bezpečnostní zprávy",
+      "content": "(K § 11 odst. 5 zákona)\n(1) Bezpečnostní zpráva se člení na následující části:\na) základní informace o objektu nebo zařízení,\nb) popisy, informace a data o objektu nebo zařízení a jeho okolí,\nc) analýzu a hodnocení rizik závažné havárie,\nd) popis systému prevence závažné havárie,\ne) popis preventivních bezpečnostních opatření k omezení možnosti vzniku a následků závažné havárie,\nf) závěrečné shrnutí.\n(2) Obsah částí a kapitol dokumentu bezpečnostní zprávy je stanoven v příloze č. 3."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob zpracování zprávy o posouzení bezpečnostní zprávy",
+      "content": "(K § 11 odst. 5 zákona)\n(1) Zpráva o posouzení bezpečnostní zprávy (dále jen „zpráva o posouzení“) vychází ze změn uvedených ve změnových listech, které jsou součástí bezpečnostní zprávy.\n(2) Zpráva o posouzení se člení na následující části:\na) základní informace o objektu nebo zařízení,\nb) seznam a popis změn vedoucích ke změnám v systému řízení bezpečnosti, technických změn a skutečností a poznatků z oblasti bezpečnostních opatření, které byly provedeny nebo uplatněny v objektu nebo zařízení,\nc) zhodnocení vlivu popsaných změn na bezpečnost provozu (změnu rizika, odpovídající bezpečnostní opatření a přijatelnost rizika), případně podrobné věcné a odborné zdůvodnění, proč nebyla provedena nebo nenastala potřeba provést aktualizaci bezpečnostní zprávy,\nd) závěrečné shrnutí.\n(3) Pokud k některé části nebo kapitole nejsou dostatečné informace, tato skutečnost se výslovně uvede ve zprávě o posouzení.\n(4) Obsah částí a kapitol dokumentu zprávy o posouzení je stanoven v příloze č. 4."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Způsob a struktura zpracování vnitřního havarijního plánu",
+      "content": "(K § 17 odst. 5 zákona)\n(1) Vnitřní havarijní plán je písemný dokument, který stanoví\na) způsob zajištění havarijní připravenosti včetně informačních, materiálních, lidských a ekonomických zdrojů pro případ vzniku havárie,\nb) způsob zvládání možných havárií,\nc) opatření zajišťující vhodný monitoring následků a sanaci místa havárie,\nd) způsob dokumentace protokolů, změn a aktualizací.\n(2) Vnitřní havarijní plán je aktualizován na základě\na) změn vyplývajících z aktualizace bezpečnostní zprávy,\nb) výsledků prověřování audity a praktickými cvičeními, podnětů zaměstnanců a inspekce.\n(3) Postup zpracování a struktura vnitřního havarijního plánu jsou stanoveny v příloze č. 5."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Způsob zpracování a struktura písemných podkladů provozovatele pro stanovení zóny havarijního plánování",
+      "content": "(K § 19 odst. 5 zákona)\n(1) Pro stanovení zóny havarijního plánování se poskytují údaje na základě hodnocení scénářů závažných havárií podle § 1 a 3, zvláště se zřetelem k umístěným nebezpečným látkám a s ohledem na dopady závažné havárie na zdraví a životy osob, hospodářská zvířata, životní prostředí a majetek.\n(2) Obsah kapitol dokumentu podkladů pro stanovení zóny havarijního plánování je stanoven v příloze č. 6."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Způsob provedení aktualizace bezpečnostního programu, bezpečnostní zprávy, vnitřního havarijního plánu a podkladů pro stanovení zóny havarijního plánování",
+      "content": "(K § 9 odst. 5, § 11 odst. 5, § 17 odst. 5, § 19 odst. 5 zákona)\nAktualizace dokumentu bezpečnostního programu (§ 3), bezpečnostní zprávy (§ 4), vnitřního havarijního plánu (§ 6), písemných podkladů pro stanovení zóny havarijního plánování (§ 7) se provede jedním z dále uvedených způsobů, a to zpracováním:\na) kompletního nového dokumentu nebo podkladů a jejich zaměněním za neplatné dokumenty nebo podklady,\nb) dodatku ke stávajícímu dokumentu nebo podkladům nebo jejich příloze,\nc) nových příslušných stránek dokumentu nebo podkladů a jejich zaměněním za stránky neplatné v případě, že to struktura dokumentu umožňuje a změny jsou menšího rozsahu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Rozsah a způsob informace a postup při zabezpečení informování veřejnosti v zóně havarijního plánování",
+      "content": "(K § 25 odst. 5 zákona)\n(1) Informace určená veřejnosti obsahuje jednoduchým a srozumitelným způsobem uvedené údaje o nebezpečných látkách a povaze rizika závažné havárie včetně odhadu následků a jejich dopadů na životy a zdraví lidí, hospodářská zvířata, životní prostředí a majetek v zóně havarijního plánování.\n(2) Součástí informace určené veřejnosti jsou údaje o způsobu varování osob a jejich žádoucím chování, které jsou uvedeny v návaznosti na vnější havarijní plán, zpracovaný podle zvláštního právního předpisu3).\n(3) Informování veřejnosti se provádí zasláním písemné informace.\n(4) Informují se osoby, které mají v zóně havarijního plánování místo bydliště, osoby, které mají v zóně havarijního plánování místo výkonu práce, a osoby, které mají v zóně havarijního plánování místo podnikání.\n(5) Podrobnosti o obsahu informace určené veřejnosti v zóně havarijního plánování jsou stanoveny v příloze č. 7."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2006.\nPříloha č. 1 k vyhlášce č. 256/2006 Sb.\nPostup zpracování a rozsah analýzy a hodnocení rizik\nAnalýza a hodnocení rizik obsahuje následující kapitoly.\n1. Přehled objektů nebo zařízení s uvedením druhu a množství v nich umístěných nebezpečných látek.\n2. Přehled všech nebezpečných látek v objektu nebo zařízení, jejich klasifikace a vlastností potřebných k analýze a hodnocení rizik.\n3. Výsledky posouzení a popisy nebezpečných chemických reakcí při nežádoucím kontaktu chemických látek v objektu nebo zařízení nebo za nežádoucích provozních podmínek.\n4. Výsledky posouzení a popisy možných situací v objektu nebo zařízení, které mají potenciál způsobit poškození lidského zdraví, hospodářských zvířat, životního prostředí a majetku.\n5. Výsledky posouzení a popisy možných situací mimo objekt nebo zařízení, které mohou způsobit závažnou havárii.\n6. Výsledky identifikace a popisy zdrojů rizik závažné havárie, relativní ocenění jejich závažnosti a výběr zdrojů rizik pro podrobnou analýzu rizik, včetně vyznačení významných zdrojů rizik na mapě podniku.\n7. Postup a výsledky identifikace možných scénářů událostí a jejich příčin, které mohou vyústit v závažnou havárii, a výběr reprezentativních scénářů těchto událostí, včetně jejich popisu.\n8. Postup a výsledky provedení odhadů následků reprezentativních scénářů závažných havárií a jejich dopadů na životy a zdraví lidí, hospodářská zvířata, životní prostředí a majetek, včetně grafické prezentace nejdůležitějších výsledků odhadů.\n9. Postup a výsledky stanovení odhadu pravděpodobností reprezentativních scénářů závažných havárií.\n10. Výsledky a postup posouzení vlivu (spolehlivosti a chybování) lidského činitele v souvislosti s relevantními zdroji rizik.\n11. Uvedení metodik použitých při analýze rizika.\n12. Podrobné popisy použitých veřejně nepublikovaných metodik.\n13. Výsledky stanovení míry rizika reprezentativních scénářů závažných havárií.\n14. Výsledky hodnocení přijatelnosti rizika závažných havárií.\n15. Popis opatření k nepřijatelným zdrojům rizik, plán jejich realizace a systém kontroly plnění tohoto plánu.\n16. Popis systému trvalého sledování účinnosti opatření pro omezování rizik.\n17. Informace o provedeném posouzení přiměřenosti bezpečnostních a ochranných opatření v souvislosti s existujícími riziky.\nPříloha č. 2 k vyhlášce č. 256/2006 Sb.\nObsah částí a kapitol bezpečnostního programu"
+    }
+  ],
+  "definitions": []
+}

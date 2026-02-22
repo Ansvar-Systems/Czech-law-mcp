@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1007/1946",
+  "type": "statute",
+  "title": "1007/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "title_en": "",
+  "short_name": "1007/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-11",
+  "in_force_date": "1946-04-11",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1007",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Dubské továrny na porcelán, kamna a obkládačky Dr. Widera a spol., kom. spol. (Eichwalder Porzellan- Ofen- u. Wandplatten-Fabriken, Dr. Widera & Co. K. G.), se sídlem v Dubí u Teplic-Šanova, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Továrna na porcelán a kameninu Dr. Adolf Fischer & Co. (Porzellan- u. Steingutfabrik Dr. Adolf Fischer & Co.), se sídlem v Mostě, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

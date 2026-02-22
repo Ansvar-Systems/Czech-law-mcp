@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:722/1949",
+  "type": "statute",
+  "title": "722/1949 Ú. l. I, Vyhláška ministerstva financí, kterou se vyhlašuje den zrušení finančních úřadů I. stolice a finančních úřadů výkonných.",
+  "title_en": "",
+  "short_name": "722/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-07-02",
+  "in_force_date": "1949-07-02",
+  "url": "https://www.e-sbirka.cz/ul1/1949/722",
+  "description": "Vyhláška ministerstva financí, kterou se vyhlašuje den zrušení finančních úřadů I. stolice a finančních úřadů výkonných.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Dnem 1. března 1949 se zrušují všechny finanční úřady I. stolice a všechny finanční úřady výkonné s výjimkou těchto úřadů v hlavním městě Praze. Působnost zrušených úřadů vykonávají od 1. března 1949 podle § 5 vládního nařízení ze dne 22. února 1949, č. 36 Sb., o finančních referátech okresních národních výborů, okresní národní výbory svými finančními referáty."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Dnem 1. dubna 1949 se zrušují všechny finanční úřady I. stolice a všechny finanční úřady výkonné v hlavním městě Praze. Působnost těchto úřadů vykonávají od 1. dubna 1949 obvodní národní výbory v Praze."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Katastrální měřické úřady a archivy map katastrálních vykonávají svoji činnost do doby, než se výkonu jejich působnosti ujmou národní výbory."
+    }
+  ],
+  "definitions": []
+}

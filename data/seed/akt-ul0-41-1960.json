@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:41/1960",
+  "type": "statute",
+  "title": "41/1960 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "title_en": "",
+  "short_name": "41/1960 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1960-09-07",
+  "in_force_date": "1960-09-07",
+  "url": "https://www.e-sbirka.cz/ul0/1960/41",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Norma ČSN 44 1362 „Stanovení obsahu arsenu“ jedná o měrné jednotce, účelu a významu zkoušky, podstatě a postupu zkoušky, zkušebních pomůckách apod."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Norma ČSN 57 3099 „Čerstvá zabitá drůbež. Norma jakosti“ platí pro vodní i hrabavou drůbež průmyslově poraženou a opracovanou, určenou k prodeji, ke zpracování nebo k mrazení. Nahrazuje normu téhož čísla z dubna 1952, uveřejněnou ve vyhlášce č. 93/1952 Ú. l."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Uvedené československé státní normy nabývají účinnosti ode dne 1. září 1960.*)\n*) Československé státní normy vydává v plném znění Vydavatelství Úřadu pro normalizaci v Praze 1, Václavské nám. č. 19. Distribuci pro Slovensko obstarává Slovenská kniha, národní podnik, Bratislava, Fučíkova ul. č. 20."
+    }
+  ],
+  "definitions": []
+}

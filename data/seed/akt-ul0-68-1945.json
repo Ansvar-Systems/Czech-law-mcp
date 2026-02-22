@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:68/1945",
+  "type": "statute",
+  "title": "68/1945 Ú. l., Vyhláška ministra ochrany práce a sociální péče o výplatě mzdy za dny 5. a 6. července 1945.",
+  "title_en": "",
+  "short_name": "68/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-07-04",
+  "in_force_date": "1945-07-04",
+  "url": "https://www.e-sbirka.cz/ul0/1945/68",
+  "description": "Vyhláška ministra ochrany práce a sociální péče o výplatě mzdy za dny 5. a 6. července 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Dny 5. a 6. července 1945 jsou dny pracovního klidu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Předpisy platné o výplatě mzdy za den 1. května, za velikonoční a svatodušní pondělí, za první a druhý vánoční svátek a za Nový rok platí také pro dny 5. a 6. července 1945."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška platí pro celé území českých zemí a nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

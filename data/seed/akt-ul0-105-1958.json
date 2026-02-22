@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:105/1958",
+  "type": "statute",
+  "title": "105/1958 Ú. l., Vyhláška ministerstva energetiky a vodního hospodářství o pevnostním výpočtu tlakových částí parních generátorů.",
+  "title_en": "",
+  "short_name": "105/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-07-18",
+  "in_force_date": "1959-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/105",
+  "description": "Vyhláška ministerstva energetiky a vodního hospodářství o pevnostním výpočtu tlakových částí parních generátorů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro pevnostní výpočet tlakových částí parních generátorů (parních kotlů, přehříváků páry o ohříváků napájecí vody) platí všeobecně Směrnice pro pevnostní výpočet tlakových částí parních generátorů (dále jen „Směrnice”), vydané Ústavem technického dozoru.*)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ústav technického dozoru může na odůvodněnou žádost, doloženou podle potřeby vyjádřením odborného znalce, popřípadě oprávněného výzkumného ústavu, povolit výjimku ze Směrnic."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Zrušuje se vyhláška ministerstva energetiky č. 155/1956 Ú. l., o pevnostním výpočtu trubek parních generátorů.\n(2) Ode dne počátku účinnosti této vyhlášky nelze postupovat podle předpisů uvedených v § 11 vládního nařízení č. 53/1952 Sb., pokud se vztahují na pevnostní výpočet tlakových částí parních generátorů.**)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1959.\n*) Směrnice je možno zakoupit u Ústavu technického dozoru, Ve smečkách 29, Praha 2-Nové Město.\n**) Zejména podle části IV až XIV Stavebních předpisů pro parní kotle, vyhlášených za uznaná pravidla techniky nařízením č. 176/1944 Sb., kterým se vydávají předpisy pro materiál a stavbu parních kotlů."
+    }
+  ],
+  "definitions": []
+}

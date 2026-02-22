@@ -1,0 +1,33 @@
+{
+  "id": "cz:81/1974",
+  "type": "statute",
+  "title": "81/1974 Sb., Zákonné opatření předsednictva České národní rady o zrušení University 17. listopadu v Praze",
+  "title_en": "",
+  "short_name": "81/1974 Sb.",
+  "status": "in_force",
+  "issued_date": "1974-09-13",
+  "in_force_date": "1974-09-30",
+  "url": "https://www.e-sbirka.cz/sb/1974/81",
+  "description": "Zákonné opatření předsednictva České národní rady o zrušení University 17. listopadu v Praze",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Universita 17. listopadu v Praze se zrušuje."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se vládní nařízení č. 108/1961 Sb., o zřízení University 17. listopadu v Praze, ve znění vládního nařízení č. 5/1966 Sb."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto zákonné opatření nabývá účinnosti dnem 30. září 1974."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:96/2020",
+  "type": "statute",
+  "title": "96/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "96/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-16",
+  "in_force_date": "2020-03-16",
+  "url": "https://www.e-sbirka.cz/sb/2020/96",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. prodej textilního materiálu a textilní galanterie,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. servis výpočetní a telekomunikační techniky, audio a video přijímačů, spotřební elektroniky, přístrojů a dalších výrobků pro domácnosti."
+    }
+  ],
+  "definitions": []
+}

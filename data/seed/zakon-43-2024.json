@@ -1,0 +1,27 @@
+{
+  "id": "cz:43/2024",
+  "type": "statute",
+  "title": "43/2024 Sb., Vyhláška, kterou se mění vyhláška č. 432/2005 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením zemědělského hospodaření, vzor a náležitosti uplatnění nároku, ve znění vyhlášky č. 443/2022 Sb.",
+  "title_en": "",
+  "short_name": "43/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-02-29",
+  "in_force_date": "2024-03-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/43",
+  "description": "Vyhláška, kterou se mění vyhláška č. 432/2005 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením zemědělského hospodaření, vzor a náležitosti uplatnění nároku, ve znění vyhlášky č. 443/2022 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V příloze č. 3 k vyhlášce č. 432/2005 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením zemědělského hospodaření, vzor a náležitosti uplatnění nároku, ve znění vyhlášky č. 443/2022 Sb., body 10 a 11 znějí:\n„10. Výše náhrady újmy vzniklé v důsledku ztížení pastvy hospodářských zvířat v oblastech opakovaného výskytu vlka obecného se vypočte\na) v případě, že se jedná o pastvu ovcí a/nebo koz a celková plocha pozemků, na kterou žadatel uplatňuje v daném roce náhradu újmy, je menší než 76 ha, podle vzorce\nNZ10A = ya x x,\nkde\nN Z10A= roční náhrada újmy vzniklé v důsledku ztížení pastvy hospodářských zvířat v oblastech opakovaného výskytu vlka obecného, na celkové ploše pozemků, na kterou žadatel uplatňuje v daném roce náhradu újmy, v Kč,\nya= sazba náhrady za ztížení pastvy hospodářských zvířat v oblastech opakovaného výskytu vlka obecného, podle rovnice\nya = a x ln(x) + b,\nv Kč/ha/rok,\nx= celková plocha pozemků v ha, na kterou žadatel uplatňuje v daném roce náhradu újmy, s přesností na dvě desetinná místa,\nb) v případě, že se jedná o pastvu ovcí a/nebo koz a celková plocha pozemků, na kterou žadatel uplatňuje v daném roce náhradu újmy, je větší nebo rovna 76 ha, podle vzorce\nNZ10B = yb x ps,\nkde,\nN Z10B= roční náhrada újmy vzniklé v důsledku ztížení pastvy hospodářských zvířat v oblastech opakovaného výskytu vlka obecného, na celkové ploše pozemků, na kterou žadatel uplatňuje v daném roce náhradu újmy, v Kč,\nyb= sazba náhrady za ztížení pastvy hospodářských zvířat v oblastech opakovaného výskytu vlka obecného v Kč/ha/rok,\nps= celková plocha pozemků v ha, na kterou žadatel uplatňuje v daném roce náhradu újmy, s přesností na dvě desetinná místa,\nc) v případě, že se jedná o pastvu jiných druhů hospodářských zvířat než ovcí a/nebo koz, podle vzorce podle bodu 11.\n11. Výše náhrady újmy vzniklé v důsledku mimořádného nebo nákladově náročnějšího opatření při hospodaření na zemědělské půdě v případech, kdy nelze postupovat podle bodů 1 až 9 a 10 a) a b), se vypočte\na) v důsledku mimořádného opatření jednorázově podle vzorce\nNZ11A = KZ,\nkde\nNZ11A= jednorázová náhrada újmy vzniklé v důsledku mimořádného opatření v Kč,\nKZ= ekonomicky oprávněné náklady na mimořádné opatření v Kč,\nb) v důsledku nákladově náročnějšího opatření jednorázově podle vzorce\nNZ11B = LZ - MZ,\nkde\nNZ11B= jednorázová náhrada újmy vzniklé z plnění nákladově náročnějšího opatření v Kč,\nLZ= ekonomicky oprávněné náklady na nákladově náročnější opatření v Kč,\nMZ= ekonomicky oprávněné náklady na obvyklý způsob hospodaření v Kč.\nVeličiny AZ, BZ, CZ, DZ, EZ, FZ, GZ, HZ, IZ, JZ a yb jsou proměnné a Ministerstvo životního prostředí ve spolupráci s Ministerstvem zemědělství je každoročně zveřejňuje ve Věstníku Ministerstva životního prostředí; zveřejňovány jsou rovněž parametry a a b pro výpočet hodnoty ya. Parametry a a b pro výpočet hodnoty ya a hodnota yb se stanoví na základě průměrné hrubé měsíční mzdy v odvětví zemědělství, lesnictví a rybářství podle klasifikace CZ-NACE za kalendářní rok předcházející roku, za který je sazba náhrady újmy vypočtena.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. března 2024."
+    }
+  ],
+  "definitions": []
+}

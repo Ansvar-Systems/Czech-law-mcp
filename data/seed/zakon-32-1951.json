@@ -1,0 +1,27 @@
+{
+  "id": "cz:32/1951",
+  "type": "statute",
+  "title": "32/1951 Sb., Nařízení o zřízení Správy služeb diplomatickému sboru",
+  "title_en": "",
+  "short_name": "32/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-04-24",
+  "in_force_date": "1951-04-24",
+  "url": "https://www.e-sbirka.cz/sb/1951/32",
+  "description": "Nařízení o zřízení Správy služeb diplomatickému sboru",
+  "provisions": [
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Podrobné vymezení organisace a úloh Správy služeb diplomatickému sboru přísluší ministerstvu zahraničních věcí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zřizuje se Správa služeb diplomatickému sboru se sídlem v Praze pro obstarávání věcných potřeb zastupitelských úřadů cizích států na území Československé republiky, jejich představitelů a zaměstnanců."
+    }
+  ],
+  "definitions": []
+}

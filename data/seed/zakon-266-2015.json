@@ -11,6 +11,18 @@
   "description": "Zákon, kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů",
   "provisions": [
     {
+      "provision_ref": "„§ 12",
+      "section": "12",
+      "title": "„§ 12",
+      "content": "(1) Vznikne-li nedoplatek na poplatku poplatníkovi, který je ke dni splatnosti nezletilý a nenabyl plné svéprávnosti nebo který je ke dni splatnosti omezen ve svéprávnosti a byl mu jmenován opatrovník spravující jeho jmění, přechází poplatková povinnost tohoto poplatníka na zákonného zástupce nebo tohoto opatrovníka; zákonný zástupce nebo opatrovník má stejné procesní postavení jako poplatník.\n(2) V případě podle odstavce 1 vyměří obecní úřad poplatek zákonnému zástupci nebo opatrovníkovi poplatníka.\n(3) Je-li zákonných zástupců nebo opatrovníků více, jsou povinni plnit poplatkovou povinnost společně a nerozdílně.“.\n4. Za § 16 se vkládají nové § 16a a 16b, které znějí:"
+    },
+    {
+      "provision_ref": "„§ 16a",
+      "section": "16a",
+      "title": "„§ 16a",
+      "content": "Obecní úřad může na žádost poplatníka z důvodu odstranění tvrdosti právního předpisu zcela nebo částečně prominout poplatek podle § 10b nebo jeho příslušenství, lze-li to s přihlédnutím k okolnostem daného případu ospravedlnit."
+    },
+    {
       "provision_ref": "§ 16b",
       "section": "16b",
       "title": "§ 16b",

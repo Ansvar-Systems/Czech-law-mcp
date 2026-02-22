@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:308/1951",
+  "type": "statute",
+  "title": "308/1951 Ú. l. I, Vyhláška státního úřadu plánovacího o omezeních v konání statistických šetření.",
+  "title_en": "",
+  "short_name": "308/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-09-16",
+  "in_force_date": "1951-09-16",
+  "url": "https://www.e-sbirka.cz/ul1/1951/308",
+  "description": "Vyhláška státního úřadu plánovacího o omezeních v konání statistických šetření.",
+  "provisions": [
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Šetření konaná v rozporu s touto vyhláškou budou posuzována, nejde-li o čin přísněji trestný, jako neoprávněná statistická šetření podle § 40 odst. 2 trestního zákona správního."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 16. září 1951."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato omezení se nevztahují na statistická šetření konaná podle směrnic státního úřadu plánovacího pro kontrolu plnění prováděcích plánů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Na všech dotaznících, jichž se při nově povolených šetřeních použije, musí být vyznačen souhlas státního úřadu statistického. Dotazníky bez tohoto označení není povinen nikdo vyplňovat."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(2) Před udělením tohoto souhlasu nesmí být s prováděním šetření započato.\n(1) Až do provedení reorganisace statistické služby není nikdo oprávněn konat bez předchozího souhlasu státního úřadu statistického jakákoli nová statistická šetření."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:448/1945",
+  "type": "statute",
+  "title": "448/1945 Ú. l. I, Vyhláška nejvyššího úřadu cenového o nejvyšších cenách vytaveného tuku k technickým účelům, získaného buď z konfiskátů a jatečných odpadků nebo z tuku nevhodného k přímé spotřebě.",
+  "title_en": "",
+  "short_name": "448/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-01",
+  "in_force_date": "1945-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1945/448",
+  "description": "Vyhláška nejvyššího úřadu cenového o nejvyšších cenách vytaveného tuku k technickým účelům, získaného buď z konfiskátů a jatečných odpadků nebo z tuku nevhodného k přímé spotřebě.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Kafilerie a drnomistři (pohodní) jsou povinni prodávat Družstvu pro hospodaření některými tuky pro technické účely v Praze (dále jen „Družstvo“) tuk vytavený k technickým účelům z uhynulých zvířat (technický lůj, vepřové a jiné sádlo), obsahující nejméně 96% tuku nejvýše za cenu buď Kčs 18.— vyplaceně skladiště „Družstva“ nebo Kčs 17.— vyplaceně odesílací stanice prodávajícího.\n(2) Za každé procento menšího obsahu tuku snižuje se cena vždy o 30 haléřů.\n(3) Tato cena se rozumí za 1 kg, bez obalu, s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší prodejní cena tuku uvedeného v § 1, odst. 1 činí při prodeji „Družstvem“ Kčs 20.—.\n(2) Za každé procento menšího obsahu tuku snižuje ze cena vždy o 80 haléřů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Nejvyšší prodejní cena směsného loje, vytaveného z jatečných odpadků a obsahujícího nejméně 96% tuku, činí při prodeji „Družstvem“ Kčs 20.—.\n(2) Za každé procento menšího obsahu tuku snižuje se cena vždy o 30 haléřů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ceny podle § 2 a § 3 platí za 1 kg bez obalu, ze skladu „Družstva“, s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Nejvyšší úřad cenový může k provedení této vyhlášky vydat potřebné prováděcí předpisy.\n(2) Nejvyšší úřad cenový může připustit nebo nařídit výjimky z ustanovení této vyhlášky nebe z předpisů, vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1945.\nTýmž dnem pozbývá platnosti vyhláška nejvyššího úřadu cenového ze dne 17. srpna 1945, běž. č. 197, o nejvyšších cenách vytaveného tuku k technickým účelům, získaného buď z konfiskátů a jatečních odpadků nebo tuku nevhodného k přímé spotřebě (Úřední list č. 89/1945)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Tato cena",
+      "definition": "za 1 kg, bez obalu, s daní z obratu",
+      "source_provision": "§ 1."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:16/1952",
+  "type": "statute",
+  "title": "16/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro elektrické výtahy osobní a nákladní.",
+  "title_en": "",
+  "short_name": "16/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-01-24",
+  "in_force_date": "1961-04-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/16",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro elektrické výtahy osobní a nákladní.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickými státními normami jsou od 1. ledna 1952 normy:\nČSN 27 4010„Elektrické výtahy osobní a nákladní. Názvosloví a rozdělení“,\nČSN 27 4110„Elektrické výtahy osobní a nákladní. Povoleni ke stavbě (zřizování) “,\nČSN 27 4210„Elektrické výtahy osobní a nákladní. Používáni, obsluha a udržováni)“,\nČSN 27 4310„Elektrické výtahy osobní a nákladní. Povoleni k provozu (používáni)“,\nČSN 27 4410„Elektrické výtahy osobní a nákladní. Statistický výpočet a dovolená namáhání“,\nČSN 27 5110„Elektrické výtahy osobní a nákladní. Konstrukce a stavba“,\nČSN 27 5210„Elektrické výtahy osobní a nákladní. Elektrické zařízení“\nVyhlášená norma ČSN 27 4010 stanoví jednak rozsah platnosti norem dalších, jednak názvy, pojmy a definice výtahových zařízení a součástí.\nNorma ČSN 27 4110 upravuje jednotné povolovací řízení při zřizování nových, výtahů.\nV normě ČSN 27 4210 se v zájmu řádné obsluhy, udržování a užívání výtahů určují povinnosti majitele a obsluhovatele výtahů, odborného dozoru, úřední kontroly a uživatele výtahů.\nNormou ČSN 27 4310 se upravuje jednotný postup a rozsah povolovacího řízení a používání výtahů (povolovací služba).\nNorma ČSN 27 4410 obsahuje jednotné směrnice a pokyny pro výpočet a navrhování výtahů, usnadňující kontrolu návrhu při povolování výtahů.\nV normě ČSN 27 5110 jsou uvedeny hlavně konstrukční zásady pro řádný a bezpečný chod strojního zařízení výtahů\nNorma ČSN 27 5210 upravuje bezpečnost elektrického zařízení."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Elektrických výtahů, které jsou již v činnosti před 1. lednem 1952, nebo výtahů, které budou dodány do 31. prosince 1952, možno používati i nadále, vyhovují-li až dosud platným předpisům. Příslušný okresní národní výbor muže však naříditi buď z vlastního podnětu nebo podle návrhu příslušných revisních nebo kontrolních orgánů takovou úpravu, aby zařízení výtahů. jejich obsluha a užívání bylo v souladu s vyhlášenými normami zcela nebo zčásti, s přihlížením k opotřebení nebo nebezpečí, jež by mohlo nastati.\nK článku o normy ČSN 27 5210. se uvádí, že osobní výtahy se samostatnou dopravou osob (norma ČSN 27 4010, čl. I písm. A1) musí mít osvětlovací zařízení, které osvětlí klec (kabinu) ihned při otevření nástupních šachetních dveří.\nUstanovení části IV, odborný dozor, normy ČSN 27 4210, pokud podle nich mohou odborný dozor vykonávati též úředně autorisovaní civilní inženýři pro stavbu, strojů nebo elektrotechniku, pozbyla účinnosti v důsledku zákona č. 61/1951 Sb. účinnosti pozbývají ustanovení, i pokud se zmiňují o znalcích ESČ, jejichž působnost přešla na Technický dozorčí spolek."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1952."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1313/1948",
+  "type": "statute",
+  "title": "1313/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Teplické strojírny, národního podniku.",
+  "title_en": "",
+  "short_name": "1313/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-04",
+  "in_force_date": "1948-07-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1313",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Teplické strojírny, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Josef Banko, nástupce, se sídlem v Duchcově,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Karel Gasch, akciová společnost, se sídlem v Chodově, spr. okr. Loket,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Ocelárna Klepsch & Poeschl, se sídlem v Teplicích, Moskevské nám. 1,\nvesměs v rozsahu jejich znárodnění, do Teplické strojírny, národního podniku."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:829/1949",
+  "type": "statute",
+  "title": "829/1949 Ú. l. I, Vyhláška ministerstva techniky, kterou se vyhlašuje závaznost sklonů střech o malých spádech podle druhů krytin a konstrukcí.",
+  "title_en": "",
+  "short_name": "829/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-08-04",
+  "in_force_date": "1949-08-04",
+  "url": "https://www.e-sbirka.cz/ul1/1949/829",
+  "description": "Vyhláška ministerstva techniky, kterou se vyhlašuje závaznost sklonů střech o malých spádech podle druhů krytin a konstrukcí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Pro střešní konstrukce o malých spádech se vyhlašují podle druhů krytin a konstrukcí tyto nejmenší sklony od vodorovné roviny:\nKonstrukceDruh krytinySklon v % nebo cm/m\nze železového betonu, dřevěná fošinková, ocelová1.cementová dlažba do asfaltu3\n2.dřevocement\n3.ruberoid5\n4.nátěry betonových kostrukcí (na př. acosal, becosal)8\ndřevěná, ocelová5.dvojitá lepenková na lišty20\n6.vlnitý eternit\n7.plechová krytina\n(2) Krytinou se rozumí vrstva nad nosnou konstrukcí nebo nad vrchním bedněním, tedy vrstvy isolující proti vodě i vrstvy tepelně isolující."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Sklony uvedené v § 1 se prohlašují za závazné, t. j. pro příslušný druh krytiny nesmějí být prováděny střechy o menších spádech*).\n(2) Krytiny pro určitý spád lze použít též pro jiné konstrukce, než jak jsou uvedeny v § 1, avšak tepelně isolační vrstva musí být v takovém případě provedena se zřetelem na podkladní nosnou konstrukci."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Vyhláška nabývá účinnosti dnem vyhlášení,\n*) Tímto ustanovením se doplňuje čl. 30 normy ČSN 2007 — 1940 „Podmínky pro práce pokrývačské“."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Krytinou",
+      "definition": "vrstva nad nosnou konstrukcí nebo nad vrchním bedněním, tedy vrstvy isolující proti vodě i vrstvy tepelně isolující",
+      "source_provision": "§ 1."
+    }
+  ]
+}

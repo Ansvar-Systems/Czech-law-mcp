@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:874/1947",
+  "type": "statute",
+  "title": "874/1947 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách lehkých stavebních desek z dřevité vlny.",
+  "title_en": "",
+  "short_name": "874/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-08-12",
+  "in_force_date": "1947-08-10",
+  "url": "https://www.e-sbirka.cz/ul1/1947/874",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách lehkých stavebních desek z dřevité vlny.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Lehkými stavebními deskami podle této vyhlášky se rozumějí lehké stavební desky z dřevité vlny, které odpovídají normě ČSN 2203-1941."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší ceny u výrobce za 1 m2 (200X50 cm) lehkých stavebních desek se stanoví takto:\npři síle v cm:1,52,53,557,510\nKčs21.6027.—35.—43.2065.—84.—\nUvedené ceny se rozumějí s daní z obratu, při vagonových odběrech franko stanice příjemce, bez obalu. Obal může být účtován zvlášť, avšak nejvýše za pořizovací cenu.\n(2) Při objednávce zvlášť řezaných délek se zvýšují ceny uvedené v odstavci 1 o 10%.\n(3) Kratší délky smějí být připojeny ke každé dodávce do 2% dodávaného množství, jinak je nutno cenu přiměřeně snížit."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Výrobci jsou povinni poskytnout obchodníkům se stavebními hmotami na zboží dodávané do jejich skladu z cen uvedených v § 2 rabat ve výši nejméně 8%.\n(2) Obchodníci se stavebními hmotami jsou oprávněni připočítávat při dodávkách lehkých stavebních desek ze svého skladu k ceně uvedené v § 2 přirážku nejvýše 12%. V této přirážce jsou obsaženy veškeré obchodní náklady, zisk a náklady spojené s dopravou a uložením ve skladě obchodníka.\n(3) Cena utvořena podle odstavce 2 se rozumí s daní z obratu, bez obalu, ze skladu obchodníka."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Nejvyšší úřad cenový může povolit nebo nařídit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem 10. srpna 1947.\n(2) Zároveň se zrušuje vyhláška nejvyššího úřadu cenového ze dne 20. prosince 1945 o nejvyšších cenách lehkých stavebních desek z dřevité vlny (Ú. l. I č. 160, běž. č. 647)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cena utvořena podle odstavce 2",
+      "definition": "s daní z obratu, bez obalu, ze skladu obchodníka",
+      "source_provision": "§ 3."
+    }
+  ]
+}

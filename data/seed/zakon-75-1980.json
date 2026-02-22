@@ -1,0 +1,39 @@
+{
+  "id": "cz:75/1980",
+  "type": "statute",
+  "title": "75/1980 Sb., Vyhláška federálního ministerstva národní obrany, kterou se stanoví paušální částka nákladů trestního řízení v oboru vojenského soudnictví",
+  "title_en": "",
+  "short_name": "75/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-07-01",
+  "in_force_date": "1980-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1980/75",
+  "description": "Vyhláška federálního ministerstva národní obrany, kterou se stanoví paušální částka nákladů trestního řízení v oboru vojenského soudnictví",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Paušální částka nákladů trestního řízení, jež nese stát, uvedených v § 152 odst. 1 písm. c) a § 153 odst. 1 trestního řádu, činí\n1. v trestním řízení vedeném proti vojákům v základní (náhradní) službě, pokud jim nebyl uložen nepodmíněný trest odnětí svobody, jehož výkon byl nařízen do nápravně výchovného ústavu,\na) došlo-li k vydání trestního příkazu, který zůstal v právní moci, 300 Kčs,\nb) v ostatních trestních řízeních,\n- nebyl-li přibrán znalec, 500 Kčs,\n- byl-li přibrán znalec z jiného oboru než psychiatrie, 800 Kčs,1)\n- byli-li přibráni znalci psychiatři, 1100 Kčs,1)\n2. v trestním řízení vedeném proti vojákům v základní (náhradní) službě, pokud byli odsouzeni k nepodmíněnému trestu odnětí svobody, jehož výkon byl nařízen do nápravně výchovného ústavu, jakož i v řízení vedeném proti ostatním vojákům v činné službě, proti příslušníkům Sboru národní bezpečnosti a Sboru nápravné výchovy a proti ostatním osobám, odsouzeným vojenskými soudy,\na) došlo-li k vydání trestního příkazu, který zůstal v právní moci, 500 Kčs,\nb) v ostatních trestních řízeních,\n- nebyl-li přibrán znalec, 800 Kčs,\n- byl-li přibrán znalec z jiného oboru než psychiatrie, 1200 Kčs,1)\n- byli-li přibráni znalci psychiatři, 1800 Kčs,1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "1. Zrušuje se vyhláška ministra národní obrany Československé socialistické republiky č. 71/1971 Sb., kterou se stanoví paušální částka nákladů trestního řízení v oboru vojenského soudnictví.\n2. Ustanovení § 1 se nevztahuje na náklady řízení ve věcech pravomocně skončených do 31. července 1980."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 1980.\n1) Přibráním znalce se rozumí i vyžádání posudku od státního orgánu nebo státního ústavu podle § 110 trestního řádu, nikoliv však jeho odborné vyjádření podle § 105 odst. 1 druhé věty trestního řádu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Přibráním znalce",
+      "definition": "i vyžádání posudku od státního orgánu nebo státního ústavu podle § 110 trestního řádu, nikoliv však jeho odborné vyjádření podle § 105 odst",
+      "source_provision": "§ 3"
+    }
+  ]
+}

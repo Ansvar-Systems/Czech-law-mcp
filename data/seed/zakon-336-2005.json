@@ -1,0 +1,127 @@
+{
+  "id": "cz:336/2005",
+  "type": "statute",
+  "title": "336/2005 Sb., Vyhláška o formě a rozsahu informací poskytovaných z databáze účastníků veřejně dostupné telefonní služby a o technických a provozních podmínkách a bodech pro připojení koncového telekomunikačního zařízení pro odposlech a záznam zpráv",
+  "title_en": "",
+  "short_name": "336/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-09-07",
+  "in_force_date": "2005-09-07",
+  "url": "https://www.e-sbirka.cz/sb/2005/336",
+  "description": "Vyhláška o formě a rozsahu informací poskytovaných z databáze účastníků veřejně dostupné telefonní služby a o technických a provozních podmínkách a bodech pro připojení koncového telekomunikačního zařízení pro odposlech a záznam zpráv",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - FORMA A ROZSAH INFORMACÍ POSKYTOVANÝCH Z DATABÁZE ÚČASTNÍKŮ VEŘEJNĚ DOSTUPNÉ TELEFONNÍ SLUŽBY",
+      "content": "Z databáze účastníků veřejně dostupné telefonní služby právnická nebo fyzická osoba poskytující veřejně dostupnou telefonní službu poskytuje informace o účastníkovi veřejně dostupné telefonní služby (dále jen „informace“)\na) u veřejných pevných sítí elektronických komunikací v rozsahu identifikujícím účastnické číslo, jméno a příjmení, popřípadě název účastníka, adresu, kategorii stanice, datum, k němuž se vyžádaná informace vztahuje – časový údaj zpravidla uvedený v žádosti, u fyzické osoby rodné číslo, nebo datum narození, nebylo-li rodné číslo přiděleno, u podnikající fyzické osoby nebo právnické osoby identifikační číslo – IČ, informace o zveřejnění v seznamu účastníků (dále jen „lustrace účastníka služby poskytované v pevné síti“),\nb) u veřejných mobilních telefonních sítí v rozsahu identifikujícím účastnické číslo, jméno a příjmení, popřípadě název účastníka, adresu, u fyzické osoby rodné číslo, nebo datum narození, nebylo-li rodné číslo přiděleno, u podnikající fyzické osoby nebo u právnické osoby identifikační číslo – IČ, jméno a příjmení a adresu uvedenou na faktuře, stav ke dni uplatnění žádosti (aktivní, deaktivován, suspendován), datum poslední změny stavu, informace o zveřejnění v seznamu účastníků (dále jen „lustrace účastníka služby poskytované v mobilní síti“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - FORMA A ROZSAH INFORMACÍ POSKYTOVANÝCH Z DATABÁZE ÚČASTNÍKŮ VEŘEJNĚ DOSTUPNÉ TELEFONNÍ SLUŽBY",
+      "content": "(1) Žádost o poskytnutí informací se uplatňuje a vyžádané informace se předávají prostřednictvím určeného kontaktního pracoviště Policie České republiky (dále jen „policie“) a právnické nebo fyzické osoby poskytující veřejně dostupnou telefonní službu.\n(2) Komunikace mezi kontaktním pracovištěm právnické nebo fyzické osoby poskytující veřejně dostupnou telefonní službu a kontaktním pracovištěm policie probíhá prostřednictvím dálkového přístupu. Žádosti i informace se předávají v elektronické formě jako datové soubory. Při komunikaci kontaktních pracovišť se používá jen obecně dostupných technologií a komunikačních protokolů tak, aby řešení nebylo vázáno na určitého výrobce či dodavatele.\n(3) Pokud v odůvodněném případě není možné použít dálkového přístupu, lze předat žádost nebo vyžádané informace v listinné podobě nebo v podobě datových souborů na přenosném médiu.\n(4) K prokázání autentičnosti předávané žádosti nebo vyžádané informace lze použít\na) zaručený elektronický podpis založený na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb1). K vytváření podpisu a jeho ověření se použije formát kryptografického standardu s veřejným klíčem PKCS#7,\nb) listinnou podobu předávaných žádostí nebo vyžádaných informací opatřenou podpisem oprávněné osoby. Dodatečně, v souhrnu za určité období zpravidla jednoho týdne, se tento způsob použije i v případě žádostí nebo vyžádaných informací již předaných v elektronické podobě bez jiného prokázání autentičnosti.\n(5) Informaci kontaktní pracoviště právnické nebo fyzické osoby poskytující veřejně dostupnou telefonní službu předává bezodkladně."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "ČÁST PRVNÍ - FORMA A ROZSAH INFORMACÍ POSKYTOVANÝCH Z DATABÁZE ÚČASTNÍKŮ VEŘEJNĚ DOSTUPNÉ TELEFONNÍ SLUŽBY",
+      "content": "(1) Žádost policie podle § 2 odst. 1 může obsahovat více požadavků na lustraci účastníka služby poskytované v pevné síti nebo účastníka služby poskytované v mobilní síti (dále jen „lustrace“). K žádosti se zpracovává zpravidla jeden soubor lustrací.\n(2) Lustrace se v souboru lustrací řadí shodně s pořadím uvedeným v žádosti a jsou označeny příslušným pořadovým číslem. Na řádku se jednotlivé informace oddělují středníky nebo tabulátory, poslední informace se ukončuje znakem CRLE. V případě, že požadovaná informace není zjištěna, ponechá se její místo ve struktuře lustrace prázdné.\n(3) Policii se lustrace předá ve strukturovaném textovém souboru, zpravidla s kódováním podle standardizované znakové sady pro kódování textů CP-1250, UTF-8 a ISO 8859-2. Názvy předávaných souborů mají pevně danou strukturu podle jmenné konvence.\n(4) Jmenná konvence stanoví název souboru lustrace ve tvaru DDMMRR_XXX.txt, kde DDMMRR odpovídá datu uplatnění žádosti a XXX odpovídá pořadovému číslu žádosti v rámci daného dne.\n(5) V odůvodněném případě, se souhlasem kontaktního pracoviště policie a právnické nebo fyzické osoby poskytující veřejně dostupnou telefonní službu, je možné užít formát, strukturu a název souboru odlišně od jejich vymezení v odstavcích 2 až 4."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Struktura lustrace účastníka služby poskytované v pevné síti",
+      "chapter": "ČÁST PRVNÍ - FORMA A ROZSAH INFORMACÍ POSKYTOVANÝCH Z DATABÁZE ÚČASTNÍKŮ VEŘEJNĚ DOSTUPNÉ TELEFONNÍ SLUŽBY",
+      "content": "(1) Při lustraci účastníka služby poskytované v pevné síti jsou informace v souboru uloženy v následují struktuře\na) pořadové číslo lustrace,\nb) účastnické číslo,\nc) jméno a příjmení, případně název účastníka,\nd) adresa účastníka,\ne) kategorie stanice,\nf) datum platnosti ve tvaru DDMMRR,\ng) rodné číslo,\nh) identifikační číslo,\ni) zveřejněná (A/N).\n(2) Pokud se číslo, k němuž jsou požadovány informace, v databázi účastníků nenachází, uvede se v řádku označeném ve struktuře „jméno účastníka“ slovo „nenalezeno“."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Struktura lustrace účastníka služby poskytované v mobilní síti",
+      "chapter": "ČÁST PRVNÍ - FORMA A ROZSAH INFORMACÍ POSKYTOVANÝCH Z DATABÁZE ÚČASTNÍKŮ VEŘEJNĚ DOSTUPNÉ TELEFONNÍ SLUŽBY",
+      "content": "(1) Při lustraci účastníka služby poskytované v mobilní síti jsou informace v souboru uloženy v následují struktuře\na) pořadové číslo lustrace,\nb) účastnické číslo,\nc) jméno a příjmení, popřípadě název účastníka,\nd) adresa účastníka,\ne) rodné číslo nebo identifikační číslo účastníka,\nf) jméno a příjmení uvedené na faktuře,\ng) adresa uvedená na faktuře,\nh) rodné číslo nebo identifikační číslo uvedené na faktuře,\ni) stav ke dni uplatnění žádosti (aktivní, deaktivován, suspendován),\nj) datum poslední změny (aktivace, deaktivace nebo suspendace) ve tvaru DDMMRR,\nk) zveřejněná (A/N).\n(2) Pokud se číslo, k němuž jsou požadovány informace, v databázi účastníků nenachází, uvede se v řádku označeném ve struktuře „jméno účastníka“ slovo „nenalezeno“. Pokud číslo užívá účastník s předplacenou anonymní službou, uvede se v řádku slovo „prepaid“."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Vymezení pojmů",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava I - Úvodní ustanovení",
+      "content": "(1) Uživatelskou adresou je identifikátor koncového připojení nebo uživatele služby elektronických komunikací (dále jen „služba“), zejména\na) účastnické číslo,\nb) mezinárodní identifikátor mobilního účastníka – IMSI,\nc) mezinárodní identifikátor mobilní stanice – IMEI,\nd) uživatelské jméno nebo identifikátor přístupu k síti elektronických komunikací (dále jen „síť“),\ne) adresa elektronické pošty,\nf) identifikátor poštovní schránky,\ng) identifikátor síťového zařízení používaný protokoly internetové vrstvy – IP adresa,\nh) identifikátor síťového zařízení používaný protokoly spojové vrstvy – MAC adresa, nebo\ni) identifikátor vytáčeného připojení.\nZájmovou uživatelskou adresou je uživatelská adresa určená k odposlechu a záznamu zpráv (dále jen „odposlech“).\n(2) Aktivitou uživatelské adresy je proces, při kterém se přenášejí provozní a lokalizační údaje nebo obsah zpráv mezi zařízením identifikovaným touto adresou a zařízením sítě nebo služby nebo při kterém síť nebo služba přenáší nebo zpracovává zprávy pocházející od této uživatelské adresy nebo k této uživatelské adrese směřující.\n(3) Rozhraním pro připojení koncového telekomunikačního zařízení pro odposlech a záznam zpráv je\na) výstup sloužící k přenosu provozních a lokalizačních údajů a obsahu zpráv zájmové uživatelské adresy ze sítě nebo služby do zařízení policie, Bezpečnostní informační služby2) nebo Vojenského zpravodajství3) (dále jen „oprávněný orgán“), nebo\nb) připojovací bod pro zařízení oprávněného orgánu v místech předpokládaného výskytu projevů aktivity zájmové uživatelské adresy."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Podmínky pro realizaci rozhraní pro připojení koncového telekomunikačního zařízení pro odposlech",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava I - Úvodní ustanovení",
+      "content": "(1) Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací (dále jen „provozovatel“) vybavuje síť nebo službu rozhraním pro připojení zařízení pro odposlech na základě žádosti oprávněného orgánu.\n(2) Pokud provozovatel buduje novou síť nebo službu, rozšiřuje nebo podstatně obměňuje stávající síť nebo službu, vyzve oprávněný orgán ke vznesení žádosti o vybavení sítě nebo služby rozhraním pro připojení zařízení pro odposlech. Pokud provozovatel předpokládá provést technické zhodnocení zařízení pro odposlech, vyzve oprávněný orgán ke vznesení žádosti o provedení tohoto zhodnocení. Oprávněný orgán uplatní žádost do patnácti dnů ode dne doručení výzvy, v opačném případě se má za to, že žádost v danou chvíli neuplatňuje. Tím není dotčena možnost postupu podle odstavce 1.\n(3) Na základě žádosti uplatněné podle odstavce 1 nebo 2 zpracuje provozovatel ve spolupráci s oprávněným orgánem návrh možných variant řešení, včetně jejich odůvodnění a stanovení výše nákladů na jejich realizaci.\n(4) Vybraná varianta a parametry řešení se uvedou v záznamu zpracovaném společně oprávněným orgánem a provozovatelem, jehož součástí je i vymezení výše finančních nákladů, způsob a harmonogram jejich úhrady a způsob, postup a harmonogram realizace vybraného řešení včetně uvedení okamžiku rozhodného pro zahájení fakturace nákladů. V případě, kdy nebude vybrána žádná varianta, uvede se do záznamu důvod a nástin dalšího postupu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Obecné technické podmínky pro odposlech a záznam zpráv",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava I - Úvodní ustanovení",
+      "content": "(1) Zahájení odposlechu se provádí\na) aktivací odposlechu u zájmové uživatelské adresy, čímž se síť nebo služba uvede do stavu, ve kterém se informace o každé aktivitě zájmové uživatelské adresy přenáší na výstup, nebo\nb) instalací zařízení oprávněného orgánu v připojovacím bodě a jeho aktivací.\n(2) Ukončení odposlechu se provádí deaktivací odposlechu u zájmové uživatelské adresy v síti nebo službě nebo v zařízení oprávněného orgánu.\n(3) Možnost zahájení a ukončení odposlechu je zajišťována nepřetržitě.\n(4) Pokud je v některé části sítě nebo služby obsah zpráv provozovatelem upraven šifrováním nebo kódováním, poskytuje se vždy z té části sítě nebo služby, kde takto upraven není. Pokud je obsah zpráv prokazatelně ve všech částech sítě nebo služby upraven šifrováním nebo kódováním a provozovatel k potřebnému klíči prokazatelně nemá přístup, poskytuje se obsah zpráv v takové formě, ve které je k dispozici.\n(5) Údaje o změně sítě nebo služby, která by mohla ovlivnit odposlech, předá provozovatel oprávněnému orgánu\na) u předpokládaných změn před jejich provedením,\nb) v ostatních případech neprodleně po jejich zjištění."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava II - Odposlech s aktivací v síti nebo službě",
+      "content": "(1) Odposlech s aktivací v síti nebo službě k získávání obsahu zpráv a s nimi spojených vybraných provozních a lokalizačních údajů nebo vybraných provozních a lokalizačních údajů bez obsahu zpráv je umožněn u uživatelské adresy,\na) která může mít k síti nebo službě koncové připojení, nebo\nb) jejíž zprávy nebo provozní a lokalizační údaje síť nebo služba přenáší nebo zpracovává a údaje o uživatelské adrese má síť nebo služba k dispozici.\n(2) Vybraným provozním a lokalizačním údajem je\na) datum, čas zahájení, délka trvání, popř. čas ukončení aktivity zájmové uživatelské adresy, a to i tehdy, nedojde-li k přenosu obsahu zpráv; u sítě nebo služby, kde ke zpracování zpráv nemusí docházet v reálném čase a zprávy v sobě nenesou údaje o době svého vzniku, se za čas ve smyslu tohoto ustanovení považuje čas, kdy dochází ke zpracování zpráv sítí nebo službou,\nb) určení druhu aktivity zájmové uživatelské adresy,\nc) veškeré údaje identifikující zájmovou uživatelskou adresu, které síť nebo služba má k dispozici při aktivitě zájmové uživatelské adresy, bez ohledu na to, zda podle nich byl odposlech aktivován,\nd) údaje identifikující všechny uživatelské adresy, ke kterým aktivita zájmové uživatelské adresy směřuje a od kterých směřuje aktivita k zájmové uživatelské adrese, údaje identifikující všechny uživatelské adresy tvořící řetězec přesměrování a údaje identifikující všechny uživatelské adresy konferenčního spojení; tyto údaje nemusí být uvedeny v případě, že je sítě nebo služby prokazatelně neposkytují,\ne) údaj o určení místa koncového připojení zájmové uživatelské adresy u veřejné mobilní telefonní sítě,\nf) údaj o přesném určení kanálu použitého pro přenos obsahu zpráv do zařízení oprávněného orgánu, je-li to k identifikaci přenášené zprávy potřebné,\ng) údaje o přihlášení uživatele identifikovaného zájmovou uživatelskou adresou k prostředku sítě nebo služby a\nh) identifikátor zdroje údajů v případě jejich předávání společným kanálem z více uzlů sítě nebo služeb.\n(3) Minimální počet uživatelských adres, které síť nebo služba umožňuje současně aktivovat k odposlechu je dán vztahem:\nY = a.x0,4\nKde Y je minimální počet uživatelských adres, které síť nebo služba umožňuje současně aktivovat k odposlechu,\nx je celková kapacita počtu uživatelů sítě nebo služby,\na je koeficient specifický pro daný druh sítě nebo služby, volí se\na = 1 pro pevné sítě s komutací okruhů,\na = 2 pro službu elektronické pošty a jiné služby se záznamem přepravovaných zpráv,\na = 3 pro sítě s komutací paketů,\na = 4 pro mobilní sítě s komutací okruhů."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava II - Odposlech s aktivací v síti nebo službě",
+      "content": "(1) Pokyn k aktivaci, deaktivaci a ověření aktivace odposlechu u zájmové uživatelské adresy se provádí z pracoviště oprávněného orgánu dálkovým přístupem pomocí programového vybavení dodaného oprávněným orgánem. Pokud není možné v odůvodněném případě tento dálkový přístup použít, zajistí provozovatel aktivaci, deaktivaci nebo ověření aktivace na základě požadavku uplatněného v písemné listinné podobě.\n(2) Provozovatel po dobu šesti měsíců uchovává za účelem kontroly pokyny k aktivaci a deaktivaci odposlechu a informace o jejich provedení, a to způsobem nedovolujícím jejich změnu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava II - Odposlech s aktivací v síti nebo službě",
+      "content": "(1) Počet a kapacita výstupů určených oprávněným orgánem se stanoví tak, aby byl umožněn plynulý přenos obsahu zpráv a vybraných provozních a lokalizačních údajů od souběžně komunikujících zájmových uživatelských adres, jejichž počet odpovídá nejméně 15 % z hodnoty stanovené podle § 9 odst. 3, přičemž vypočtený výsledek se zaokrouhluje na nejbližší vyšší násobek čísla dvě.\n(2) Všechny typy zpráv se při komunikaci zájmové uživatelské adresy přenášejí na výstup takovým způsobem, aby bylo možno rekonstruovat celý jejich obsah.\n(3) Vybrané provozní a lokalizační údaje i obsah zprávy se na výstup předávají formou srozumitelnou bez nutnosti použít specializovaného zařízení dodávaného pouze určitým dodavatelem nebo pouze dodavatelem technologie sítě nebo služby.\n(4) Provozovatel oprávněnému orgánu předá podrobný, úplný a srozumitelný popis komunikačních protokolů a formátů použitých k předávání obsahů zpráv a vybraných provozních a lokalizačních údajů na výstupy."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Výstupy sítí s komutací okruhů",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava II - Odposlech s aktivací v síti nebo službě",
+      "content": "(1) Výstup sítě nebo služby se provádí pevným okruhem s rozhraním podle doporučení G. 703 Mezinárodní telekomunikační unie ITU-T. Přenos hlasu se provádí pulzně kódovou modulací s kompresní charakteristikou podle doporučení G. 711 – typ A Mezinárodní telekomunikační unie ITU-T.\n(2) Jako komunikační protokol pro řízení přenosu zpráv předávaných na výstup se užívá signalizace SS7 nebo signalizace DSS1. Do signalizace se vkládá úplná informace o zájmových uživatelských adresách aktuálně přenášených zpráv. Signalizace se umisťuje zpravidla v šestnáctém kanálovém intervalu výstupu.\n(3) V případě nutnosti použití adresy signalizačního bodu na straně oprávněného orgánu se použije adresa z rozsahu adres provozovatele.\n(4) U datových přenosů zpráv se používají samostatné kanálové intervaly pro přenos dopředného a zpětného směru komunikace zájmové uživatelské adresy.\n(5) Vybrané provozní a lokalizační údaje se přenášejí datovým kanálem se standardizovaným komunikačním protokolem TCP/IP nebo X. 25 umístěným zpravidla v jednom nebo několika k tomu vyhrazených kanálových intervalech výstupu podle odstavce 1, nebo se přenášejí signalizací podle odstavce 2.\n(6) Výstup sítě nebo služby umožňuje nastavit počet používaných kanálových intervalů podle kapacitních požadavků oprávněného orgánu. Při dynamickém obsazování kanálových intervalů jednotlivými relacemi se zpravidla použije kanálový interval nejdéle neobsazený.\n(7) Výstup sítě nebo služby se umisťuje v bodech shodně určených oprávněným orgánem a provozovatelem."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Výstupy sítí komutací paketů",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava II - Odposlech s aktivací v síti nebo službě",
+      "content": "(1) Výstup sítě nebo služby se provádí\na) pevným datovým spojem, nebo\nb) zabezpečeným virtuálním kanálem v síti Internet se standardizovaným komunikačním protokolem FTP, se serverem na straně oprávněného orgánu a klientem na straně provozovatele.\n(2) Zasílaná datová jednotka je opatřena identifikátorem zájmové uživatelské adresy a pořadovým číslem nebo časovou značkou. Integrita dat je zajištěna vytvořením otisku souboru pomocí hašovací funkce SHA-1.\n(3) Při odposlechu zpráv elektronické pošty lze se souhlasem oprávněného orgánu a provozovatele zasílat kopie zpráv protokolem pro přenos zpráv elektronické pošty SMTP na vyhrazený poštovní server oprávněného orgánu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava III - Odposlech s instalací zařízení oprávněného orgánu v připojovacím bodě",
+      "content": "(1) Síť nebo služba, u které není možné nebo účelné provádět odposlech s aktivací v síti nebo službě, se vybavuje na žádost oprávněného orgánu připojovacími body pro zařízení oprávněného orgánu.\n(2) Na základě žádosti oprávněného orgánu vypracuje provozovatel návrh umístění připojovacích bodů s odůvodněním každého z nich. Na základě předloženého návrhu oprávněný orgán vymezí počet připojovacích bodů a jejich umístění.\n(3) Provozovatel oprávněnému orgánu poskytuje informace nezbytné k vytvoření podmínek potřebných pro odposlech pomocí zařízení oprávněného orgánu, zejména pro instalaci a provoz zařízení oprávněného orgánu v místě připojovacího bodu.\n(4) Pro zařízení oprávněného orgánu, která jsou z technologických důvodů umístěna v prostorách provozovatele, provozovatel dále zajišťuje\na) vhodné umístění,\nb) přenosový kanál pro nepřetržitý dálkový přístup oprávněného orgánu k datům,\nc) zálohované napájení a\nd) nejméně jednou denně možnost přístupu příslušníků oprávněného orgánu za účelem obsluhy.\n(5) K identifikaci provozovatelem dynamicky přidělovaných adres provozovatel oprávněnému orgánu poskytuje\na) výstup dávající v reálném čase informaci o právě přidělených dynamických adresách, nebo\nb) připojovací bod do místa, kde se informace o dynamicky přidělovaných adresách vyskytují."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Zvláštní technické podmínky pro odposlech služeb se záznamem přepravovaných zpráv",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava III - Odposlech s instalací zařízení oprávněného orgánu v připojovacím bodě",
+      "content": "(1) Je-li součástí služby záznam přepravovaných zpráv (hlasová schránka, elektronická pošta a přenos multimediálních zpráv MMS v mobilních sítích), nemusí služba splňovat podmínky uvedené v § 8 odst. 1 a 2 a § 10 odst. 1 v případě, kdy je oprávněnému orgánu neprodleně po vznesení požadavku umožněno nejméně jednou denně získávat vybrané provozní a lokalizační údaje a obsah všech zpráv pocházejících od zájmové uživatelské adresy a zpráv k zájmové uživatelské adrese směřujících. Ostatní ustanovení vyhlášky se v tomto případě užijí přiměřeně.\n(2) U služby podle odstavce 1 se informace o aktivitě zájmové uživatelské adresy předávají přes běžně používané nosiče dat nebo rozhraní."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Účinnost",
+      "chapter": "ČÁST DRUHÁ - O TECHNICKÝCH A PROVOZNÍCH PODMÍNKÁCH A BODECH PRO PŘIPOJENÍ KONCOVÉHO TELEKOMUNIKAČNÍHO ZAŘÍZENÍ PRO ODPOSLECH A ZÁZNAM ZPRÁV > Hlava III - Odposlech s instalací zařízení oprávněného orgánu v připojovacím bodě",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\n1) § 11 zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu).\n2) Zákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění pozdějších předpisů.\n3) Zákon č. 289/2005 Sb., o Vojenském zpravodajství."
+    }
+  ],
+  "definitions": []
+}

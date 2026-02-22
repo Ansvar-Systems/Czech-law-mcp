@@ -1,0 +1,57 @@
+{
+  "id": "cz:189/2003",
+  "type": "statute",
+  "title": "189/2003 Sb., Nařízení vlády, kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o státní službě a platech",
+  "title_en": "",
+  "short_name": "189/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-06-25",
+  "in_force_date": "2004-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/189",
+  "description": "Nařízení vlády, kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o státní službě a platech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví rozsah poskytovaných údajů a způsob jejich poskytování personálními útvary služebních úřadů do Informačního systému o státní službě a platech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah poskytovaných údajů",
+      "content": "Personální útvary služebních úřadů poskytují údaje v rozsahu a členění uvedeném v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob poskytování údajů",
+      "content": "(1) Údaje poskytované personálními útvary služebních úřadů do Informačního systému o státní službě a platech jsou předávány v elektronické podobě v předepsané struktuře a formátu prostřednictvím datové sítě, popřípadě na technickém nosiči.\n(2) Technické požadavky pro poskytování údajů do Informačního systému o státní službě a platech jsou stanoveny Standardem informačních systémů veřejné správy pro informační systémy v oblasti personální a platové podle zvláštního zákona.1)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Termíny poskytování údajů",
+      "content": "(1) Sledovaným obdobím je kalendářní měsíc.\n(2) Personální útvary služebních úřadů předávají do Informačního systému o státní službě a platech za sledované období:\na) údaje uvedené v položkách č. 1 až 4 v části A, položce č. 1 v části B a položce č. 1 v části D přílohy k tomuto nařízení,\nb) změnové údaje podle přílohy k tomuto nařízení.\nUvedené údaje ve stavu k poslednímu dni sledovaného období se předávají vždy do 20. dne kalendářního měsíce následujícího po skončení sledovaného období.\n(3) Údaje týkající se státních zaměstnanců zařazených mimo státní službu2) uvedené v položkách č. 1, 10, 51, 59, 60 a 84 v části A přílohy k tomuto nařízení a údaje o trvale uvolněných služebních místech uvedené v položce č. 1 v části B přílohy k tomuto nařízení jsou předávány bez zbytečného odkladu, nejpozději však do dvou pracovních dnů ode dne změny údaje.\n(4) Personální útvary služebních úřadů předávají do Informačního systému o státní službě a platech opravené údaje v termínu do dvou pracovních dnů ode dne, kdy zjistily chybu nebo byly o zjištění chybných údajů vyrozuměny Generálním ředitelstvím státní služby."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Společná ustanovení",
+      "content": "(1) Personální útvary služebních úřadů poskytují do Informačního systému o státní službě a platech údaje i za podřízené služební úřady, v nichž nejsou zřízeny personální útvary.\n(2) Bezpečnost poskytovaných údajů musí být zajištěna příslušnými subjekty podle zvláštních zákonů1), 3) a předpisů na jejich základě vydaných.\n(3) Funkci správce Informačního systému o státní službě a platech plní Generální ředitelství státní služby."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "V období prvních 12 měsíců po zahájení provozu Informačního systému o státní službě a platech se nezjišťují údaje uvedené v položkách č. 33 až 41 v části A přílohy k tomuto nařízení a v položkách č. 24 až 40 v části C přílohy k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Toto nařízení nabývá účinnosti dnem, kterým nabývá účinnosti zákon č. 218/2002 Sb., o službě státních zaměstnanců ve správních úřadech a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech (služební zákon).\nPříloha k nařízení vlády č. 189/2003 Sb.\n1) Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 517/2002 Sb.\n2) § 51 zákona č. 218/2002 Sb.\n3) Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění zákona č. 227/2000 Sb., zákona č. 177/2001 Sb., zákona č. 450/2001 Sb., zákona č. 107/2002 Sb., zákona č. 309/2002 Sb., zákona č. 310/2002 Sb. a zákona č. 517/2002 Sb.\nZákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění zákona č. 226/2002 Sb. a zákona č. 517/2002 Sb."
+    }
+  ],
+  "definitions": []
+}

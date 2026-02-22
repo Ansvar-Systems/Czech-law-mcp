@@ -1,0 +1,33 @@
+{
+  "id": "cz:22/1945",
+  "type": "statute",
+  "title": "22/1945 Sb., Ústavní dekret presidenta republiky o vyhlášení právních předpisů, vydaných mimo území republiky Československé",
+  "title_en": "",
+  "short_name": "22/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-07-10",
+  "in_force_date": "1945-07-10",
+  "url": "https://www.e-sbirka.cz/sb/1945/22",
+  "description": "Ústavní dekret presidenta republiky o vyhlášení právních předpisů, vydaných mimo území republiky Československé",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vláda se zmocňuje,\na) aby určila, které ústavní dekrety presidenta republiky (vyjímajíc ústavní dekret ze dne 15. října 1940, č. 2 Úř. věst. čsl., o prozatímním výkonu moci zákonodárné, a ústavní dekret ze dne 22. února 1945, č. 3 Úř. věst. čsl., o výkonu moci zákonodárné v přechodném období), dále dekrety presidenta republiky, vládní nařízení a jiné právní předpisy, které byly vyhlášeny v Úředním věstníku československém, zůstávají v platnosti, měnila počátek jejich účinnosti a územní platnost a dala je vyhlásiti ve Sbírce zákonů a nařízení;\nb) aby znovu dala otisknouti ve Sbírce zákonů a nařízení mezinárodní smlouvy, které byly vyhlášeny v Úředním věstníku československém; otištěním ve Sbírce se na jejich účinnosti nic nemění."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Právní předpisy vyhlásí podle § 1, písm. a) a mezinárodní smlouvy otiskne podle § 1, písm. b) ve Sbírce zákonů a nařízení na podkladě usnesení vlády ministr vnitra."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento ústavní dekret nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

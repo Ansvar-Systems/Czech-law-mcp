@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:177/1949",
+  "type": "statute",
+  "title": "177/1949 Ú. l. I, Vyhláška ministra vnitřního obchodu o začlenění některých znárodněných velkoobchodních podniků do Řemeslnických potřeb, národního podniku velkoobchodního.",
+  "title_en": "",
+  "short_name": "177/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-21",
+  "in_force_date": "1949-01-21",
+  "url": "https://www.e-sbirka.cz/ul1/1949/177",
+  "description": "Vyhláška ministra vnitřního obchodu o začlenění některých znárodněných velkoobchodních podniků do Řemeslnických potřeb, národního podniku velkoobchodního.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Do Řemeslnických potřeb, národního podniku velkoobchodního se začleňují majetkové podstaty znárodněných podniků:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Majetkové podstaty uvedené v odstavci 1 převádí stát na národní podnik ke dni 1. ledna 1948 a národní podnik je k tomuto dni přejímá."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Kmenové jmění národního podniku se zvětšuje o čistou hodnotu majetkových podstat uvedených v odstavci 1."
+    }
+  ],
+  "definitions": []
+}

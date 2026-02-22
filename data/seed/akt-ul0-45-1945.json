@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:45/1945",
+  "type": "statute",
+  "title": "45/1945 Ú. l., Vyhláška nejvyššího úřadu cenového, kterou se ruší vyhláška NÚC ze dne 13. března 1945 o cenách tankového dříví.",
+  "title_en": "",
+  "short_name": "45/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-22",
+  "in_force_date": "1945-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1945/45",
+  "description": "Vyhláška nejvyššího úřadu cenového, kterou se ruší vyhláška NÚC ze dne 13. března 1945 o cenách tankového dříví.",
+  "provisions": [
+    {
+      "provision_ref": "Článek I.",
+      "section": "I",
+      "title": "Článek I.",
+      "content": "Vyhláška NÚC ze dne 13. března 1945, běž. č. 120, kterou se mění vyhláška NÚC ze dne 28. října 1943 o cenách tankového dříví, se ruší."
+    },
+    {
+      "provision_ref": "Článek II.",
+      "section": "II",
+      "title": "Článek II.",
+      "content": "Tato vyhláška nabývá účinnosti dne 1. července 1945."
+    }
+  ],
+  "definitions": []
+}

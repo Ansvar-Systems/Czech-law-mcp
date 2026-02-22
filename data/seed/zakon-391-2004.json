@@ -1,0 +1,212 @@
+{
+  "id": "cz:391/2004",
+  "type": "statute",
+  "title": "391/2004 Sb., Vyhláška o rozsahu údajů v evidencích stavu povrchových a podzemních vod a o způsobu zpracování, ukládání a předávání těchto údajů do informačních systémů veřejné správy",
+  "title_en": "",
+  "short_name": "391/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-06-30",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/391",
+  "description": "Vyhláška o rozsahu údajů v evidencích stavu povrchových a podzemních vod a o způsobu zpracování, ukládání a předávání těchto údajů do informačních systémů veřejné správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) rozsah údajů, včetně statistických a kartografických dat, zahrnutých v evidenci\n1. vodních toků a jejich povodí, hydrogeologických rajonů a vodních nádrží,\n2. vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů,\n3. množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,\n4. odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích,\n5. oblastí povodí,\n6. chráněných oblastí přirozené akumulace vod,\n7. ochranných pásem vodních zdrojů,\n8. zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,\n9. citlivých oblastí,\n10. zranitelných oblastí,\n11. oblastí povrchových vod využívaných ke koupání,\n12. povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů,\n13. vodních děl k vodohospodářským melioracím pozemků,\n14. záplavových území,\nb) a způsob zpracování, ukládání a předávání údajů podle písmene a) do informačních systémů veřejné správy podle ustanovení § 22 odst. 3 a 4 vodního zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) územní identifikací – prostorový údaj o poloze, tvaru a topologických vztazích mezi geografickými jevy přímo nebo nepřímo přidruženými k místu na zemském povrchu, umožňující vytvářet vizuálně interpretovatelný obraz,\nb) přirozeným průtokem vody – naměřený průtok vody, který se opravuje podle množství odběrů, vypouštění a dalších dostupných údajů o jeho ovlivnění tak, aby odpovídal přirozenému hydrologickému režimu vodního toku.\nEvidence vodních toků a jejich povodí, hydrogeologických rajonů a vodních nádrží"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Vodní toky a jejich povodí",
+      "content": "(1) Vodní toky se evidují v rozsahu údajů o jejich názvu, číselném identifikátoru, délce, správci a územní identifikaci. Hydrologická povodí vodních toků se evidují v rozsahu údajů o jejich číselném identifikátoru, velikosti plochy a územní identifikaci rozvodnice.\n(2) Správci povodí, Zemědělská vodohospodářská správa, státní podnik Lesy České republiky, újezdní úřady a správy národních parků zpracovávají údaje o názvu, číselném identifikátoru, délce, správci a územní identifikaci vodního toku, který spravují, a zpracované údaje ukládají do informačního systému veřejné správy.\n(3) Zemědělská vodohospodářská správa ve spolupráci se správci povodí zpracovává údaje o názvu, číselném identifikátoru, délce, správci a územní identifikaci vodního toku, s výjimkou vodních toků podle odstavce 2, a zpracované údaje ukládá do informačního systému veřejné správy.\n(4) Český hydrometeorologický ústav ve spolupráci se správci povodí, Zemědělskou vodohospodářskou správou, státním podnikem Lesy České republiky, újezdními úřady a správami národních parků zpracovává údaje o číselném identifikátoru, velikosti plochy a územní identifikaci rozvodnice hydrologického povodí a zpracované údaje ukládá do informačního systému veřejné správy.\n(5) Výzkumný ústav vodohospodářský T. G. Masaryka (dále jen „Ústav“) předává správci1) základní báze geografických dat České republiky data v rozsahu stanoveném zvláštním právním předpisem2) a k tomuto účelu využívá údaje podle odstavců 2 až 4."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Hydrogeologické rajony",
+      "content": "(1) Hydrogeologické rajony3) se evidují v rozsahu údajů o jejich názvu, číselném identifikátoru, správci povodí a územní identifikaci.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Vodní nádrže",
+      "content": "(1) Vodní nádrže, jejichž povolený objem vzduté nebo akumulované vody přesahuje 1 000 000 m3, vodní nádrže na významných vodních tocích4), ke kterým vykonávají správci povodí právo hospodaření, a vodárenské nádrže se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem5), s výjimkou údajů o hospodaření na vodním díle. Vodní nádrže na významných vodních tocích, ke kterým nevykonávají správci povodí právo hospodaření, se evidují v rozsahu údajů podle odstavce 2.\n(2) Vodní nádrže, s výjimkou vodních nádrží podle odstavce 1, se evidují v rozsahu údajů o jejich územní identifikaci, názvu, názvu a číselném kódu katastrálního území a identifikačním čísle vodního díla.\n(3) Správci povodí zpracovávají a do informačního systému veřejné správy ukládají údaje podle odstavce 1.\n(4) Zemědělská vodohospodářská správa zpracovává a do informačního systému veřejné správy ukládá údaje podle odstavce 2.\nEvidence vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů"
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Vodní útvary povrchových vod se evidují v rozsahu údajů o jejich územní identifikaci, názvu, číselném identifikátoru, kategorii a typu, číselném identifikátoru hydrologického povodí, názvu oblasti povodí a názvu hlavního povodí České republiky.\n(2) Vodní útvary podzemních vod se evidují v rozsahu údajů o jejich územní identifikaci, názvu, číselném identifikátoru, názvu a číselném identifikátoru hydrogeologického rajonu, názvu a číselném identifikátoru hydrologického povodí, identifikátoru kolektoru (§ 2 odst. 7 vodního zákona), názvu oblasti povodí a názvu hlavního povodí České republiky.\n(3) Údaje podle odstavců 1 a 2 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Množství povrchových vod",
+      "content": "(1) Množství povrchových vod se eviduje v rozsahu údajů o naměřeném průtoku vody a údajů o přirozeném průtoku vody ve vodních tocích ve vybraných vodoměrných stanicích a ve vložených profilech ve vodních tocích podle výstupů hydrologické bilance množství vody6) a údajů o územní identifikaci profilů sledování množství povrchových vod.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Český hydrometeorologický ústav."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Jakost povrchových vod",
+      "content": "(1) Jakost povrchových vod se eviduje v rozsahu údajů charakteristických hodnot ukazatelů jakosti povrchové vody vypočtených z naměřených hodnot ve státní monitorovací síti sledování jakosti povrchových vod provozované Českým hydrometeorologickým ústavem7), z naměřených hodnot z profilů sledování stavu a jakosti povrchových vod provozovaných Zemědělskou vodohospodářskou správou a v rozsahu údajů charakteristických hodnot ukazatelů jakosti povrchové vody vypočtených z hodnot naměřených správci povodí ve vložených profilech ve vodních tocích8), a údajů o územní identifikaci profilů sledování jakosti povrchových vod.\n(2) Údaje podle odstavce 1 ze státní monitorovací sítě sledování jakosti povrchových vod zpracovává a do informačního systému veřejné správy ukládá Český hydrometeorologický ústav.\n(3) Údaje podle odstavce 1 z vložených profilů ve vodních tocích zpracovávají a do informačního systému veřejné správy ukládají správci povodí.\n(4) Údaje podle odstavce 1 vypočtené z naměřených hodnot z profilů sledování stavu a jakosti povrchových vod provozovaných Zemědělskou vodohospodářskou správou zpracovává a do informačního systému veřejné správy ukládá Zemědělská vodohospodářská správa."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Množství podzemních vod",
+      "content": "(1) Množství podzemních vod se eviduje v rozsahu údajů o základním odtoku pro jednotlivé hydrogeologické rajony v rámci oblastí povodí a hlavních povodí České republiky podle výstupů hydrologické bilance množství vody8) a údajů o územní identifikaci objektů státní monitorovací sítě sledování množství podzemních vod.\n(2) Údaje podle odstavce 1 z objektů státní monitorovací sítě sledování množství podzemních vod zpracovává a do informačního systému veřejné správy ukládá Český hydrometeorologický ústav."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Jakost podzemních vod",
+      "content": "(1) Jakost podzemních vod se eviduje v rozsahu údajů charakteristických hodnot ukazatelů jakosti podzemní vody vypočtených z naměřených hodnot v objektech státní monitorovací sítě sledování jakosti podzemních vod provozované Českým hydrometeorologickým ústavem7) a údajů o územní identifikaci objektů státní monitorovací sítě sledování jakosti podzemních vod.\n(2) Údaje podle odstavce 1 z objektů státní monitorovací sítě sledování jakosti podzemních vod zpracovává a do informačního systému veřejné správy ukládá Český hydrometeorologický ústav."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Stav vodních útvarů",
+      "content": "(1) Stav útvarů povrchových vod se eviduje v rozsahu údajů o jejich číselném identifikátoru a o klasifikaci jejich chemického a ekologického stavu. Stav útvarů podzemních vod se eviduje v rozsahu údajů o jejich číselném identifikátoru a o klasifikaci jejich chemického a kvantitativního stavu.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Ekologický potenciál silně ovlivněných a umělých vodních útvarů",
+      "content": "(1) Ekologický potenciál silně ovlivněných a umělých vodních útvarů se eviduje v rozsahu údajů o jejich číselném identifikátoru a jeho klasifikaci.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích"
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Odběry povrchových vod",
+      "content": "(1) Odběry povrchových vod, na které se vztahuje ohlašovací povinnost pro vodní bilanci9), se evidují v rozsahu údajů pro odběry podzemních vod stanovených zvláštním právním předpisem10) a údajů o jejich územní identifikaci.\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Odběry podzemních vod",
+      "content": "(1) Odběry podzemních vod, na které se vztahuje ohlašovací povinnost pro vodní bilanci9), se evidují v rozsahu údajů pro odběry podzemních vod stanovených zvláštním právním předpisem10) a údajů o jejich územní identifikaci.\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Vypouštění odpadních vod",
+      "content": "(1) Údaje o vypouštění odpadních vod, na které se vztahuje ohlašovací povinnost pro vodní bilanci9), se evidují v rozsahu údajů pro vypouštění odpadních vod stanovených zvláštním právním předpisem10) a údajů o jejich územní identifikaci.\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Vypouštění důlních vod",
+      "content": "(1) Údaje o vypouštění důlních vod, na které se vztahuje ohlašovací povinnost pro vodní bilanci9), se evidují v rozsahu údajů pro vypouštění důlních vod stanovených zvláštním právním předpisem10) a údajů o jejich územní identifikaci.\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Akumulace povrchových vod ve vodních nádržích",
+      "content": "(1) Údaje o akumulaci povrchových vod ve vodních nádržích, na kterou se vztahuje ohlašovací povinnost pro vodní bilanci9), se evidují v rozsahu údajů pro akumulaci povrchových vod ve vodních nádržích stanovených zvláštním právním předpisem10).\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí.\nEvidence oblastí povodí"
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "(1) Oblasti povodí se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem3).\n(2) Údaje podle odstavce 1 zpracovávají a do informačního systému veřejné správy ukládají správci povodí.\nEvidence chráněných oblastí přirozené akumulace vod"
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "(1) Chráněné oblasti přirozené akumulace vod se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem11).\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence ochranných pásem vodních zdrojů"
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "(1) Ochranná pásma vodních zdrojů se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem12), s výjimkou údajů o jméně, příjmení, trvalém pobytu a rodném čísle fyzické osoby.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody"
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Zdroje povrchových vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody",
+      "content": "(1) Zdroje povrchových vod, které jsou využívány jako zdroje pitné vody, se evidují v rozsahu údajů o jejich územní identifikaci, názvu vodního toku nebo vodní nádrže, názvu a číselném kódu katastrálního území, kategorii surové vody13) a identifikačním čísle odběru.\n(2) Zdroje povrchových vod, u kterých se předpokládá jejich využití jako zdroje pitné vody, se evidují v rozsahu údajů o jejich územní identifikaci, názvu vodního toku nebo vodní nádrže a názvu a číselném kódu katastrálního území.\n(3) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ministerstvo zemědělství.\n(4) Údaje podle odstavce 2 zpracovávají a do informačního systému veřejné správy ukládají správci povodí na základě schválených plánů oblastí povodí."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Zdroje podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody",
+      "content": "(1) Zdroje podzemních vod, které jsou využívány jako zdroje pitné vody, se evidují v rozsahu údajů o jejich územní identifikaci, názvu a číselném kódu katastrálního území, kategorii surové vody13) a identifikačním čísle odběru.\n(2) Zdroje podzemních vod, u kterých se předpokládá jejich využití jako zdroje pitné vody, se evidují v rozsahu údajů o jejich územní identifikaci a názvu a číselném kódu katastrálního území.\n(3) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ministerstvo zemědělství.\n(4) Údaje podle odstavce 2 zpracovávají a do informačního systému veřejné správy ukládají správci povodí na základě schválených plánů oblastí povodí.\nEvidence citlivých oblastí"
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "(1) Citlivé oblasti se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem14).\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence zranitelných oblastí"
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "content": "(1) Zranitelné oblasti se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem15).\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence oblastí povrchových vod využívaných ke koupání"
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "content": "(1) Oblasti povrchových vod využívaných ke koupání se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem16).\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů"
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "content": "(1) Povrchové vody, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů, se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem17).\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nEvidence vodních děl k vodohospodářským melioracím pozemků"
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "content": "(1) Vodní díla k vodohospodářským melioracím pozemků se evidují v rozsahu údajů o jejich územní identifikaci a údajů stanovených zvláštním právním předpisem12), s výjimkou údajů o jméně, příjmení, trvalém pobytu a rodném čísle fyzické osoby.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Zemědělská vodohospodářská správa.\nEvidence záplavových území"
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "content": "(1) Stanovená záplavová území se evidují v rozsahu údajů o územní identifikaci, názvu vodního toku, správci vodního toku, identifikačním čísle hydrologického povodí, kilometráži počátku a konce úseku vodního toku stanoveného záplavového území, názvu obce, na jejímž území je stanoveno záplavové území, kódu vodoprávního úřadu, který stanovil záplavové území, a datu a čísle jednacím stanovení záplavového území vodoprávním úřadem.\n(2) Údaje podle odstavce 1 zpracovává a do informačního systému veřejné správy ukládá Ústav.\nSpolečná, závěrečná a zrušovací ustanovení"
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Způsob zpracování, ukládání a předávání údajů do informačních systémů veřejné správy",
+      "content": "(1) Údaje evidované podle této vyhlášky se zpracovávají, předávají a ukládají do informačního systému veřejné správy, spravovaného Ministerstvem zemědělství nebo Ministerstvem životního prostředí, v takové struktuře, aby umožnily sdílení dat prostřednictvím stanoveného referenčního, sdíleného a bezpečného rozhraní18), a to i způsobem umožňujícím dálkový přístup.\n(2) Údaje podle § 3 až 6, § 11, 12 a § 18 až 28 se do informačního systému veřejné správy ukládají průběžně, údaje podle § 7 až 10 a § 13 až 17 se ukládají za předcházející kalendářní rok nejpozději do 30. června kalendářního roku.\n(3) Evidence podle této vyhlášky se v informačních systémech veřejné správy vedou pro území České republiky jednotně.\n(4) Podkladem pro evidence vedené podle této vyhlášky jsou zejména:\na) základní báze geografických dat České republiky,\nb) základní vodohospodářská mapa České republiky 1 : 50 000,\nc) data vedená v informačních systémech správců povodí, Zemědělské vodohospodářské správy, státního podniku Lesy České republiky, újezdních úřadů, správ národních parků, Ústavu a Českého hydrometeorologického ústavu."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Zrušovací ustanovení",
+      "content": "Zrušuje se vyhláška č. 139/2003 Sb., o evidenci stavu povrchových a podzemních vod a způsobu ukládání údajů do informačního systému veřejné správy.\nÚčinnost"
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2004, s výjimkou ustanovení § 3 odst. 5, které nabývá účinnosti dnem 1. ledna 2005, a ustanovení § 11 a 12, která nabývají účinnosti dnem 1. ledna 2010.\n1) § 4a odst. 2 zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů.\n2) § 4a odst. 5 zákona č. 200/1994 Sb.\n3) Vyhláška č. 292/2002 Sb., o oblastech povodí, ve znění vyhlášky č. 390/2004 Sb.\n4) Vyhláška č. 470/2001 Sb., kterou se stanoví seznam významných vodních toků a způsob provádění činností souvisejících se správou vodních toků, ve znění vyhlášky č. 333/2003 Sb.\n5) Příloha č. 4 vyhlášky č. 431/2001 Sb., o obsahu vodní bilance, způsobu jejího sestavení a o údajích pro vodní bilanci.\n6) § 3 vyhlášky č. 431/2001 Sb.\n7) § 4 vyhlášky č. 431/2001 Sb.\n8) § 5 vyhlášky č. 431/2001 Sb.\n9) § 10 vyhlášky č. 431/2001 Sb.\n10) Přílohy č. 1 až č. 4 vyhlášky č. 431/2001 Sb.\n11) Nařízení vlády č. 40/1978 Sb., o chráněných oblastech přirozené akumulace vod Beskydy, Jeseníky, Jizerské hory, Krkonoše, Orlické hory, Šumava a Žďárské vrchy.\nNařízení vlády č. 10/1979 Sb., o chráněných oblastech přirozené akumulace vod Brdy, Jablunkovsko, Krušné hory, Novohradské hory, Vsetínské vrchy a Žamberk-Králíky.\nNařízení vlády č. 85/1981 Sb., o chráněných oblastech přirozené akumulace vod Chebská pánev a Slavkovský les, Severočeská křída, Východočeská křída, Polická pánev, Třeboňská pánev a Kvarter řeky Moravy.\n12) Přílohy č. 1 a č. 3 vyhlášky č. 7/2003 Sb., o vodoprávní evidenci.\n13) § 22 vyhlášky č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů.\n14) Nařízení vlády č. 61/2003 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech.\n15) Příloha č. 1 nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech.\n16) Vyhláška č. 159/2003 Sb., kterou se stanoví povrchové vody využívané ke koupání osob.\n17) Příloha č. 1 nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu a jakosti těchto vod.\n18) Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých zákonů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "územní identifikací – prostorový",
+      "definition": "údaj o poloze, tvaru a topologických vztazích mezi geografickými jevy přímo nebo nepřímo přidruženými k místu na zemském povrchu, umožňující vytvářet vizuálně interpretovatelný obraz",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přirozeným průtokem vody – naměřený průtok vody",
+      "definition": "který se opravuje podle množství odběrů, vypouštění a dalších dostupných údajů o jeho ovlivnění tak, aby odpovídal přirozenému hydrologickému režimu vodního toku.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

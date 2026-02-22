@@ -1,0 +1,27 @@
+{
+  "id": "cz:220/1996",
+  "type": "statute",
+  "title": "220/1996 Sb., Vyhláška Ministerstva financí, kterou se stanoví maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven",
+  "title_en": "",
+  "short_name": "220/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-08-08",
+  "in_force_date": "1997-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1996/220",
+  "description": "Vyhláška Ministerstva financí, kterou se stanoví maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku zdravotní pojišťovny je určena s přihlédnutím k počtu pojištěnců procentem z plateb pojistného všeobecného zdravotního pojištění po přerozdělení1) jako podíl nákladů na činnost a výdajů na pořízení hmotného a nehmotného investičního majetku zdravotní pojišťovny v běžném účetním období z těchto plateb. Tento podíl se vypočte jako koeficient v procentech podle vzorce:\nPLN=4,5+1,5×1,1-0,009 (p-50),\nkde:\nPLNkoeficient v procentech\npprůměrný čtvrtletní počet pojištěnců za běžné účetní období/1000. Zaokrouhluje se směrem nahoru na celé číslo."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1997.\n1) § 21 zákona ČNR č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

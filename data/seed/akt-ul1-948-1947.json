@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:948/1947",
+  "type": "statute",
+  "title": "948/1947 Ú. l. I, Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o provádění plateb podle dohody o československých investičních dodávkách a jugoslávských protidodávkách.",
+  "title_en": "",
+  "short_name": "948/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-09-10",
+  "in_force_date": "1947-09-10",
+  "url": "https://www.e-sbirka.cz/ul1/1947/948",
+  "description": "Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o provádění plateb podle dohody o československých investičních dodávkách a jugoslávských protidodávkách.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Platy z republiky Československé do Jugoslavie za dodávky zboží, uskutečněné podle dohody o československých investičních dodávkách do Jugoslavie a jugoslávských protidodávkách, včetně vedlejších výloh s tím spojených, lze konati v korunách československých ve prospěch „Účtu zboží B“ Národní banky Federativní lidové republiky Jugoslavie, Bělehrad, vedeného v korunách československých u Národní banky Československé v Praze.\n(2) Platy z Jugoslavie do republiky Československé za dodávky zboží uskutečněné podle dohody o československých investičních dodávkách do Jugoslavie a jugoslávských protidodávkách, včetně vedlejších výloh s tím spojených, lze konati prostřednictvím Národní banky Federativní lidové republiky Jugoslavie, Bělehrad, která je provede ze svého účtu uvedeného v odstavci 1."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "(1) Pro platy podle tohoto opatření platí obecné devisové předpisy.\n(2) Pro úhrady do Jugoslavie a pro likvidaci úhrad z Jugoslavie platí podmínky Národní banky Československé pro nákup a prodej cizozemských platidel a pro provádění úhrad do ciziny a z ciziny."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Tato úprava platebního styku platí od 25. února 1947 a mění se jí, pokud jde o platy za dodávky podle dohody o československých investičních dodávkách do Jugoslavie a jugoslávských protidodávkách, článek 1 opatření Národní banky Československé ze dne 12. listopadu 1946 o platebním styku mezi republikou Československou a Federativní lidovou republikou Jugoslávií, uveřejněného vyhláškou ministra financí ze dne 2. prosince 1946 v Úředním listu republiky Československé I, částka 216 ze dne 7. prosince 1946."
+    }
+  ],
+  "definitions": []
+}

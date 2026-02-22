@@ -1,0 +1,33 @@
+{
+  "id": "cz:74/2018",
+  "type": "statute",
+  "title": "74/2018 Sb., Vyhláška o službách spojených s platebním účtem, na které se vztahuje jednotné označení",
+  "title_en": "",
+  "short_name": "74/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-05-04",
+  "in_force_date": "2018-10-31",
+  "url": "https://www.e-sbirka.cz/sb/2018/74",
+  "description": "Vyhláška o službách spojených s platebním účtem, na které se vztahuje jednotné označení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví v návaznosti na přímo použitelný předpis Evropské unie1) služby spojené s platebním účtem, na které se vztahuje jednotné označení, jejich jednotné označení a charakteristiku."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Služby spojené s platebním účtem, na které se vztahuje jednotné označení",
+      "content": "(1) Službami spojenými s platebním účtem, na které se vztahuje jednotné označení, jsou\na) vedení platebního účtu (bod 1 přílohy k této vyhlášce),\nb) možnost ovládat platební účet prostřednictvím internetu (bod 2 přílohy k této vyhlášce),\nc) provedení úhrady podnikatelem poskytujícím platební služby (dále jen „poskytovatel“) plátci (bod 3 přílohy k této vyhlášce),\nd) provedení úhrady poskytovatelem příjemce (bod 4 přílohy k této vyhlášce),\ne) provedení úhrady poskytovatelem plátce na základě trvalého příkazu, a to včetně přijetí, změny nebo zrušení tohoto příkazu (bod 5 přílohy k této vyhlášce),\nf) provedení inkasa poskytovatelem plátce, a to včetně přijetí, změny nebo zrušení souhlasu plátce (bod 6 přílohy k této vyhlášce),\ng) vydání debetní platební karty k platebnímu účtu (bod 7 přílohy k této vyhlášce),\nh) výběr hotovosti uživatelem platebních služeb z jeho platebního účtu (bod 8 přílohy k této vyhlášce),\ni) odeslání textové zprávy uživateli platebních služeb s informací o platební transakci, o zůstatku na platebním účtu, či jeho změně, povoluje-li zákon sjednat pro tento případ úplatu (bod 9 přílohy k této vyhlášce),\nj) poskytnutí doplňujících nebo častějších informací o platební transakci uvedených v § 146 a 147 zákona o platebním styku a informací o zůstatku na platebním účtu uživateli platebních služeb v pravidelném intervalu v papírové či elektronické podobě (bod 10 přílohy k této vyhlášce).\n(2) Jednotné označení a charakteristika služeb podle odstavce 1 jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 31. října 2018.\nPříloha k vyhlášce č. 74/2018 Sb.\nJednotné označení služby a charakteristika služby\nJednotné označení službyCharakteristika služby\n1.Vedení účtuPoskytovatel účtu vede účet zákazníka a umožňuje mu jeho používání.\n2.Internetové bankovnictvíPoskytovatel účtu umožní zákazníkovi ovládat účet prostřednictvím internetu.\n3.Odchozí úhradaPoskytovatel účtu převede peníze na základě pokynu zákazníka z účtu zákazníka na jiný účet.\n4.Příchozí úhradaPoskytovatel účtu připíše zákazníkovi na jeho účet peníze převedené z jiného účtu.\n5.Trvalý příkazPoskytovatel účtu provádí pravidelné převody pevně stanovené částky peněz z účtu zákazníka na jiný účet na základě pokynu zákazníka.\n6.InkasoZákazník umožní jiné osobě (příjemci), aby dala poskytovateli účtu pokyn k převodu peněz z účtu zákazníka na účet příjemce. Na základě tohoto pokynu pak poskytovatel účtu převede peníze příjemci, a to k datu nebo k datům dohodnutým mezi zákazníkem a příjemcem. Částky jednotlivých převodů se mohou lišit.\n7.Poskytnutí debetní kartyPoskytovatel účtu poskytne zákazníkovi platební kartu spojenou s jeho účtem. Touto kartou může zákazník disponovat penězi na účtu (vč. případně dohodnuté možnosti přečerpání). Částka každé transakce provedené pomocí této karty je v plné výši stržena přímo z účtu zákazníka.\n8.Výběr hotovostiZákazník vybere hotovost ze svého účtu.\n9.Zaslání informační SMSPoskytovatel účtu zašle zákazníkovi SMS s informacemi o zůstatku či pohybu na účtu zákazníka.\n10.Zaslání výpisuPoskytovatel účtu zašle zákazníkovi pravidelný výpis z účtu zákazníka. Nevztahuje se na základní měsíční výpis, který je vždy zdarma.\n1) Nařízení Komise v přenesené pravomoci (EU) 2018/32 ze dne 28. září 2017, kterým se doplňuje směrnice Evropského parlamentu a Rady 2014/92/EU, pokud jde o regulační technické normy pro standardizovanou terminologii Unie pro nejreprezentativnější služby spojené s platebním účtem."
+    }
+  ],
+  "definitions": []
+}

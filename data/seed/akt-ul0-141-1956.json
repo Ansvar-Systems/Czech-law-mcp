@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:141/1956",
+  "type": "statute",
+  "title": "141/1956 Ú. l., Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují technické státní normy pro krůty, husy, kachny, pro výživnou hodnotu krmiv a pro methody zkoušení kávovin.",
+  "title_en": "",
+  "short_name": "141/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-07-11",
+  "in_force_date": "1956-07-26",
+  "url": "https://www.e-sbirka.cz/ul0/1956/141",
+  "description": "Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují technické státní normy pro krůty, husy, kachny, pro výživnou hodnotu krmiv a pro methody zkoušení kávovin.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Norma ČSN 46 6440 „Krůty” je od 1. července 1956 technickou státní normou.\n(2) Norma platí pro malé i dospělé chovné, plemenné a užitkové krůty."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 46 6510 „Husy” je od 1. července 1956 technickou státní normou.\n(2) Norma platí pro mladé i dospělé chovné, plemenné a užitkové husy."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Norma ČSN 46 6540 „Kachny” je od 1. července 1956 technickou státní normou.\n(2) Norma platí pro mladé i dospělé chovné, plemenné a užitkové kachny,"
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Norma ČSN 46 7007 „Výživná hodnota krmiv” je od 1. července 1956 technickou státní normou.\n(2) Norma stanoví způsoby zjišťování a výpočtu ovesných jednotek pro všechny druhy krmiva průměrnou výživnou hodnotu všech nejdůležitějších krmiv používaných v tuzemsku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Norma ČSN 58 1302 „Metody zkoušení kávovin” je od 1. července 1956 technickou státní normou.\n(2) Norma platí pro zkoušení kávovin."
+    }
+  ],
+  "definitions": []
+}

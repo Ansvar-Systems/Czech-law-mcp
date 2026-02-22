@@ -1,0 +1,33 @@
+{
+  "id": "cz:128/2006",
+  "type": "statute",
+  "title": "128/2006 Sb., Sdělení Ministerstva práce a sociálních věcí o uložení dodatků ke kolektivním smlouvám vyššího stupně",
+  "title_en": "",
+  "short_name": "128/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-04-06",
+  "in_force_date": "2006-04-06",
+  "url": "https://www.e-sbirka.cz/sb/2006/128",
+  "description": "Sdělení Ministerstva práce a sociálních věcí o uložení dodatků ke kolektivním smlouvám vyššího stupně",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Dodatek č. 5 (ze dne 15. 2. 2006) ke kolektivní smlouvě vyššího stupně uzavřený mezi\nOdborovým svazem zaměstnanců sklářského, keramického, bižuterního průmyslu a porcelánu\na\nAsociací sklářského a keramického průmyslu ČR."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Dodatek č. 1 (ze dne 23. 2. 2006) ke kolektivní smlouvě vyššího stupně uzavřený mezi\nOdborovým svazem UNIOS,\nOdborovým svazem TRANSGAS\na\nČeskou plynárenskou unií."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Dodatek č. 1 (ze dne 8. 2. 2006) ke kolektivní smlouvě vyššího stupně uzavřený mezi\nOdborovým svazem pracovníků zemědělství a výživy – Asociace svobodných odborů ČR\na\nSvazem podnikatelů ve stavebnictví v ČR."
+    }
+  ],
+  "definitions": []
+}

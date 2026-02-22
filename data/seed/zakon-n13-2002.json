@@ -1,0 +1,21 @@
+{
+  "id": "cz:n13/2002",
+  "type": "statute",
+  "title": "n13/2002 Sb., Sdělení Ministerstva vnitra o opravě tiskové chyby v příloze k vyhlášce č. 463/2002 Sb.",
+  "title_en": "",
+  "short_name": "n13/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-12-31",
+  "in_force_date": "2002-12-31",
+  "url": "https://www.e-sbirka.cz/sb/2002/n13",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskové chyby v příloze k vyhlášce č. 463/2002 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Na straně 8600 ve sloupci Název katastrálního území v řádku CHOMUTOVICE U DOBŘEJOVIC ve sloupci Průměrná cena v Kč/m2 má místo „10,03“ správně být „4,89“."
+    }
+  ],
+  "definitions": []
+}

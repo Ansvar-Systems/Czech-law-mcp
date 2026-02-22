@@ -1,0 +1,27 @@
+{
+  "id": "cz:6/2022",
+  "type": "statute",
+  "title": "6/2022 Sb., Vyhláška, kterou se mění vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy",
+  "title_en": "",
+  "short_name": "6/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-01-19",
+  "in_force_date": "2022-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/6",
+  "description": "Vyhláška, kterou se mění vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy, se mění takto:\n1. Na konci názvu vyhlášky se doplňují slova „a soukromoprávního systému pro využívání údajů“.\n2. V § 1 se za slova „v příloze“ vkládá text „č. 1“.\n3. V § 1 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:\n„(2) Seznam položek popisu soukromoprávního systému pro využívání údajů je stanoven v příloze č. 2 k této vyhlášce.“.\n4. Dosavadní příloha se označuje jako příloha č. 1 a doplňuje se příloha č. 2, která zní:\n„Příloha č. 2 k vyhlášce č. 329/2020 Sb.\nSeznam položek popisu soukromoprávního systému pro využívání údajů\nPoužité zkratky: „N“ = nepovinné; „P“ = povinné; „PP“ = podmíněně povinné; „SPUÚ“ = soukromoprávní uživatel údajů; „SSVÚ“ = soukromoprávní systém pro využívání údajů.\nZávaznost („N“ = možno vyplnit;\n„P“ = nutno vyplnit; „PP“ = nutno vyplnit, pokud nastane předmětná skutečnost)Název položkyPopis položky\nPOPISNÉ ÚDAJE\nPNÁZEV SSVÚnázev SSVÚ, který používá správce SSVÚ\nPDATUM VYTVOŘENÍ SSVÚdatum způsobilosti SSVÚ poskytnout služby pro přístup k referenčnímu rozhraní SSVÚ\nPPDATUM LIKVIDACE SSVÚdatum trvalého ukončení poskytování služeb pro přístup k referenčnímu rozhraní SSVÚ\nPKONTAKTadresa elektronické pošty a poštovní adresa, na kterých lze žádat informace o SSVÚ\nPCHARAKTERISTIKA SSVÚstručný popis, charakteristika účelu SSVÚ spolu s charakteristikou zpracovávaných dat a použitá architektura SSVÚ\nPAGENDAseznam agend, pro jejichž výkon SSVÚ poskytuje služby pro přístup k referenčnímu rozhraní SSVÚ\nSPRÁVCE SSVÚ\nPSPRÁVCE SSVÚ – IDENTIFIKÁTORidentifikátor SPUÚ, který je správcem SSVÚ\nPSPRÁVCE SSVÚ – NÁZEVnázev SPUÚ, který je správcem SSVÚ\nPSPRÁVCE SSVÚ – ADRESAadresa sídla SPUÚ, který je správcem SSVÚ\nNSPRÁVCE SSVÚ – ADRESA ELEKTRONICKÉ POŠTYadresa elektronické pošty SPUÚ, který je správcem SSVÚ\nPSPRÁVCE SSVÚ – ID DATOVÉ SCHRÁNKYidentifikátor datové schránky SPUÚ, který je správcem SSVÚ\nPSPRÁVCE SSVÚ – VNITŘNÍ ORGANIZAČNÍ JEDNOTKAnázev vnitřní organizační jednotky SPUÚ, který je správcem SSVÚ, odpovědné za správu SSVÚ\nPSPRÁVCE SSVÚ – TELEFONNÍ ČÍSLOtelefonní číslo vnitřní organizační jednotky SPUÚ, který je správcem SSVÚ, odpovědné za správu SSVÚ\nPSPRÁVCE SSVÚ – ADRESA ELEKTRONICKÉ POŠTYadresa elektronické pošty vnitřní organizační jednotky SPUÚ, který je správcem SSVÚ, odpovědné za správu SSVÚ\nPROVOZOVATEL SSVÚ\nPPROVOZOVATEL SSVÚ – IDENTIFIKÁTORidentifikační číslo subjektu, který je provozovatelem SSVÚ\nPPROVOZOVATEL SSVÚ – NÁZEVnázev provozovatele SSVÚ\nPPROVOZOVATEL SSVÚ – ADRESAadresa sídla provozovatele SSVÚ\nNPROVOZOVATEL SSVÚ – ADRESA ELEKTRONICKÉ POŠTYadresa elektronické pošty provozovatele SSVÚ\nPPROVOZOVATEL SSVÚ – ID DATOVÉ SCHRÁNKYidentifikátor datové schránky provozovatele SSVÚ\nPPROVOZOVATEL SSVÚ – VNITŘNÍ ORGANIZAČNÍ JEDNOTKAnázev vnitřní organizační jednotky provozovatele SPUÚ odpovědné za provoz SSVÚ\nPPROVOZOVATEL SSVÚ – TELEFONNÍ ČÍSLOtelefonní číslo vnitřní organizační jednotky provozovatele SSVÚ odpovědné za provoz SSVÚ\nPPROVOZOVATEL SSVÚ – ADRESA ELEKTRONICKÉ POŠTYadresa elektronické pošty vnitřní organizační jednotky provozovatele SSVÚ odpovědné za provoz SSVÚ\nVYUŽITÍ SSVÚ\nPÚROVEŇ SDÍLENÍ SSVÚoznačení rozsahu sdílení SSVÚ [1. individuální, 2. sdílený jinými SPUÚ nebo v rámci kategorie SPUÚ (výběr z číselníku)]\nPSPUÚ VYUŽÍVAJÍCÍ SLUŽBY SSVÚseznam konkrétních SPUÚ, nebo kategorie SPUÚ vedených v základním registru agend, orgánů veřejné moci, soukromoprávních uživatelů údajů a některých práv a povinností, které mají možnost využívat služby SSVÚ\n\n“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 2022."
+    }
+  ],
+  "definitions": []
+}

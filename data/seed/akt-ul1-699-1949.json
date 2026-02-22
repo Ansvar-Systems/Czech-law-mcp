@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:699/1949",
+  "type": "statute",
+  "title": "699/1949 Ú. l. I, Vyhláška nejvyššího úřadu cenového, kterou se stanoví nejvýše přípustné pachtovné z honiteb.",
+  "title_en": "",
+  "short_name": "699/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-06-29",
+  "in_force_date": "1949-06-29",
+  "url": "https://www.e-sbirka.cz/ul1/1949/699",
+  "description": "Vyhláška nejvyššího úřadu cenového, kterou se stanoví nejvýše přípustné pachtovné z honiteb.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Bonita honiteb.",
+      "content": "Pachtovné z honiteb se řídí bonitou honitby, která je dána průměrným odstřelem [§ 2, písm. a)] nebo zimním kmenovým stavem [§ 2, písm. b), c)]."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Sazby pachtovného.",
+      "content": "Nejvyšší přípustné sazby pachtovného jsou tyto:\na) u honiteb se zvěří drobnou:\nBonita honitbyPrůměrný odstřel zajíců*) na 100 ha honební plochyNejvyšší pachtovné z 1 ha v KčsPříplatky ha další druhy zvěře (v procentech ze stanoveného pachtovného)\nI.více než 80 zajíců12.—Vyskytuje-li se v honitbách se zvěří drobnou další zvěř, jsou přípustné tyto příplatky:\nU dropa a tetřívka 5%—10%,\nu kachny a husy 5%— 30%,\nu srnčí případně přebíhavé zvěře jelení a černé 10%—35%.\nII.do 80 zajíců9.—\nIII.do 60 zajíců7.50\nIV.do 40 zajíců5.—\nV.do 20 zajíců3.—\nVI.do 10 zajíců2.—\nb) u honiteb se zvěří srnčí:\nBonita honitbyPrůměr zimního kmenového stavu na 100 ha honební plochyNejvyšší pachtovné z 1 ha v KčsPříplatky na další dluhy zvěře (v procentech ze stanoveného nejvyššího pachtovného)\nI.více než 10 kusů10.—Vyskytuje-li se v honitbách se zvěří srnčí další zvěř, jsou přípustné tyto příplatky:\nU zajíce a bažanta 20%—40%,\nu vodní zvěře 5%—30%,\nu dropa, tetřeva a tetřívka 5%—10%,\nu zvěře černé 10%—15%,\nu zvěře jelení, dančí a mufloní 20%—35%.\nII.do 10 kusů9.—\nIII.do 8 kusů8.—\nIV.do 6 kusů6.—\nV.do 4 kusů4.—\nVI.do 2 kusů2.—\nc) U honiteb se zvěří velkou:\nBonita honitbyPrůměr zimního kmenového stavu na 1000 ha honební plochyNejvyšší pachtovné z 1 ha v KčsPříplatky na další druhy zvěře (v procentech ze stanoveného nejvyššího pachtovného)\nI.více než 20 kusů15.—Vyskytuje-li se v honitbách s velkou zvěří další zvěř, jsou přípustné tyto příplatky:\nu zvěře černé 5%—20%,\nu zvěře srnčí 10%—20%,\nu tetřeva, tetřívka a jeřábka 5%—20%.\nII.do 20 kusů13.—\nIII.do 15 kusů11.—\nIV.do 8 kusů8.—\nV.do 4 kusů5.—\nVI.do 2 kusů3.—"
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Přirážka na kožešinovou zvěř.",
+      "content": "V honitbách se vzácnou kožešinovou zvěří (medvěd, vlk, rys) je přípustná k nejvyššímu pachtovnému zvláštní přirážka do 20%."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Příplatky, přirážky a výjimky.",
+      "content": "(1) Nedojde-li k dohodě stran o výši příplatků na další zvěř (§ 2) nebo o výši přirážky (§ 3) rozhodne na žádost jedné ze stran okresní národní výbor.\n(2) Okresní národní výbor může z důvodů zvláštního zřetele hodných (na př. vybavení stálými mysliveckými a loveckými zařízeními jako seníky, loveckými chodníky, zařízeními k odchovu a odchytu zvěře a loveckými chatami) povoliti výjimku z ustanovení §§ 2 a 3."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Trestní ustanovení.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Účinnost.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n*) Přepočítání na koroptve a bažanty se provádí v tomto poměru: 1 zajíc = 3 koroptve = 1 bažant."
+    }
+  ],
+  "definitions": []
+}

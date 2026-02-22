@@ -1,0 +1,69 @@
+{
+  "id": "cz:ul1:800/1949",
+  "type": "statute",
+  "title": "800/1949 Ú. l. I, Vyhláška ministerstva výživy o podávání jídel z drůbeže v hostincích a pod. podnicích.",
+  "title_en": "",
+  "short_name": "800/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-07-26",
+  "in_force_date": "1949-07-26",
+  "url": "https://www.e-sbirka.cz/ul1/1949/800",
+  "description": "Vyhláška ministerstva výživy o podávání jídel z drůbeže v hostincích a pod. podnicích.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) V hostincích a pod. podnicích mohou býti jídla připravená z drůbežího masa podávána jen na ústřižky lístků na maso.\n(2) Na jednu porci jídla z drůbežího masa — s výjimkou jídel uvedených v § 2 nutno odevzdat ústřižky na 100 g lístků na maso.\n(3) Porcí jídla z drůbežího masa se rozumí jídlo, připravené z 250 g syrového drůbežího masa (bez vnějších drůbků a vnitřností)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Jídla připravená z krve se podávají v hostincích a pod. podnicích volně, t. j. bez odebírání ústřižků lístků na maso.\n(2) Jídla připravená z drůbežích žaludků, drůbků a jater se podávají ve dvojnásobném množství váhy, než na kterou znějí ústřižky lístků na maso, t. j. na porci připravenou ze 100 g syrových drůbežích jater, drůbků neb žaludků se odevzdává 50 g ústřižek lístku na maso."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Husy, kachny a hrabavá drůbež (krůty, kuřata, slepice, kohouti a perličky) se přidělují hostincům a pod. podnikům ve čtyřnásobném množství váhy, než na kterou znějí odběrní dopadaly na maso."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Přijaté ústřižky lístků na maso předloží hostince a pod. podniky po uplynutí přídělového období vždy do 7. každého následujícího měsíce místnímu národnímu výboru k vystavení odběrních listů na maso, které se označí písmenem „D“. Těmito odběrními listy uhradí hostinské podniky Ústředí pro hospodaření se zemědělskými výrobky, sekce IV - mléko drůbež, poskytnutou zálohu drůbeže.\n(2) Hostince a pod. podniky, které podávají jídla připravená z drůbeže vlastního chovu, jsou povinny podávati tato jídla rovněž na lístky na maso podle ustanovení §§ 1 a 2. Přijaté ústřižky lístků na maso předloží ve lhůtě stanovené v odst. 1 místnímu národnímu výboru k znehodnocení. Místní národní výbor vystaví na celkovou hodnotu ústřižků vyjádřenou v kg a g potvrzení, které si podnik uschová jako doklad k záznamům vedeným podle § 5, odst. 2."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Vykupovati drůbež od držitele (výrobce) drůbeže není hostincům a pod. podnikům dovoleno.\n(2) Hostinské a pod. podniky jsou povinny vésti záznamy, ve kterých nutno vykazovati stav pohotových zásob mrtvé drůbeže, počet vydaných jídel z drůbežího masa a množství přijatých ústřižků lístků na maso."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Vyhláška ministryně výživy ze dne 5. května 1948, č. 855 Ú. l. I, ve znění vyhlášky ministryně výživy ze dne 3. prosince 1948, č. 3148 Ú. l. I, o podávání jídel z drůbeže v hostincích a pod. podnicích, se zároveň ruší."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu čís. 118/1945 Sb. ve znění zákona ze dne 1. prosince 1948, č. 274 Sb."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a neplatí na Slovensku."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Porcí jídla z drůbežího masa",
+      "definition": "jídlo, připravené z 250 g syrového drůbežího masa (bez vnějších drůbků a vnitřností)",
+      "source_provision": "§ 1."
+    }
+  ]
+}

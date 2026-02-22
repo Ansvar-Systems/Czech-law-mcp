@@ -1,0 +1,27 @@
+{
+  "id": "cz:89/1951",
+  "type": "statute",
+  "title": "89/1951 Sb., Nařízení, jímž se připojují některé obce k Českým Budějovicům",
+  "title_en": "",
+  "short_name": "89/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-12-01",
+  "in_force_date": "1952-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1951/89",
+  "description": "Nařízení, jímž se připojují některé obce k Českým Budějovicům",
+  "provisions": [
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1952; provede je ministr vnitra."
+    },
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Obce Čtyři Dvory, Dobrá Voda, Kněžské Dvory, Litvínovice, Mladé, Pohůrka, Rožnov, Suché Vrbné a Vráto se připojují k městu České Budějovice."
+    }
+  ],
+  "definitions": []
+}

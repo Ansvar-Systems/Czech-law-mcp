@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2060/1948",
+  "type": "statute",
+  "title": "2060/1948 Ú. l. I, Vyhláška ministerstva sociální péče o organisačních a přechodných opatřeních potřebných k vybudování národního pojištění.",
+  "title_en": "",
+  "short_name": "2060/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-06",
+  "in_force_date": "1948-07-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2060",
+  "description": "Vyhláška ministerstva sociální péče o organisačních a přechodných opatřeních potřebných k vybudování národního pojištění.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro přechodnou dobu, pokud nebude vydáno vládní nařízení podle § 153, č. 1 zákona ze dne 15. dubna 1948, č. 99 Sb., o národním pojištění, určuje se pro Slovensko obvod působnosti a sídlo národní pojišťovny takto:\n1. Obvodem působnosti národní pojišťovny je území Slovenska.\n2. Sídlem národní pojišťovny je Bratislava."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro národní pojišťovnu podle § 1 platí obdobně ustanovení zákona č. 99/1948 Sb. o národních pojišťovnách."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1948."
+    }
+  ],
+  "definitions": []
+}

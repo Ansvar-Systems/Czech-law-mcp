@@ -1,0 +1,22 @@
+{
+  "id": "cz:82/2013",
+  "type": "statute",
+  "title": "82/2013 Sb., Nález Ústavního soudu ze dne 15. ledna 2013 sp. zn. Pl. ÚS 15/12 ve věci návrhu na zrušení části § 70 písm. d) zákona č. 150/2002 Sb., soudní řád správní",
+  "title_en": "",
+  "short_name": "82/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-04-03",
+  "in_force_date": "2013-04-03",
+  "url": "https://www.e-sbirka.cz/sb/2013/82",
+  "description": "Nález Ústavního soudu ze dne 15. ledna 2013 sp. zn. Pl. ÚS 15/12 ve věci návrhu na zrušení části § 70 písm. d) zákona č. 150/2002 Sb., soudní řád správní",
+  "provisions": [
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70 Kompetenční výluky",
+      "chapter": "VI. - Dikce napadeného ustanovení",
+      "content": "Ze soudního přezkoumání jsou vyloučeny úkony správního orgánu\n(...)\nd) jejichž vydání závisí výlučně na posouzení zdravotního stavu osob nebo technického stavu věcí, pokud sama o sobě neznamenají právní překážku výkonu povolání, zaměstnání nebo podnikatelské, popřípadě jiné hospodářské činnosti, nestanoví-li zvláštní zákon jinak\n(...)."
+    }
+  ],
+  "definitions": []
+}

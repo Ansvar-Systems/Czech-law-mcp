@@ -1,0 +1,350 @@
+{
+  "id": "cz:sm:104/2013",
+  "type": "statute",
+  "title": "104/2013 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Úmluvy o počítačové kriminalitě",
+  "title_en": "",
+  "short_name": "104/2013 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2013-12-23",
+  "in_force_date": "2013-12-23",
+  "url": "https://www.e-sbirka.cz/sm/2013/104",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Úmluvy o počítačové kriminalitě",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1 - Definice",
+      "content": "Pro účely této Úmluvy:\na. “počítačový systém“ znamená jakékoli zařízení nebo skupinu propojených nebo přidružených zařízení, z nichž jedno nebo více provádí automatické zpracování dat podle programu;\nb. “počítačová data“ znamenají jakékoli vyjádření faktů, informací nebo pojmů ve formě vhodné pro zpracování v počítačovém systému, včetně programu způsobilého zapříčinit provedení funkce počítačovým systémem;\nc. “poskytovatel služby“ znamená:\n(i) jakýkoli veřejný nebo soukromý subjekt, který uživatelům své služby umožňuje komunikovat prostřednictvím počítačového systému, a\n(ii) jakýkoli jiný subjekt, který zpracovává nebo uchovává počítačová data pro takovou komunikační službu nebo pro uživatele takové služby.\nd. “provozní data“ znamenají jakákoli počítačová data vztahující se ke komunikaci prostřednictvím počítačového systému, vytvořená počítačovým systémem, jakožto součástí komunikačního řetězce, uvádějící původ, cíl, cestu, čas, datum, objem nebo trvání komunikace nebo typ příslušné služby.\nKapitola II\n– Opatření, která mají být přijata na vnitrostátní úrovni"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 1 - – Trestné činy proti důvěrnosti, integritě a použitelnosti počítačových dat a systémů",
+      "content": "Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byl trestným činem, pokud je spáchán úmyslně, neoprávněný přístup k celému počítačovému systému nebo jeho jakékoli části. Strana může stanovit, že bude považovat tento čin za trestný, jen pokud je spáchán porušením bezpečnostních opatření, s úmyslem získat počítačová data nebo s jiným nečestným úmyslem, nebo ve vztahu k počítačovému systému, který je spojen s jiným počítačovým systémem."
+    },
+    {
+      "provision_ref": "Článek 3",
+      "section": "3",
+      "title": "Článek 3",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 1 - – Trestné činy proti důvěrnosti, integritě a použitelnosti počítačových dat a systémů - – Nezákonný přístup",
+      "content": "Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byl trestným činem úmyslný, neoprávněný, technickými prostředky provedený odposlech neveřejného přenosu počítačových dat do počítačového systému, z něj nebo v jeho rámci, včetně elektromagnetického vyzařování z počítačového systému přenášejícího taková počítačová data. Strana může stanovit, že bude považovat tento čin za trestný, jen pokud je spáchán s nečestným úmyslem, nebo ve vztahu k počítačovému systému, který je spojen s jiným počítačovým systémem."
+    },
+    {
+      "provision_ref": "Článek 4",
+      "section": "4",
+      "title": "Článek 4",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 1 - – Trestné činy proti důvěrnosti, integritě a použitelnosti počítačových dat a systémů - – Nezákonný přístup - – Nezákonný odposlech",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem, pokud je spácháno úmyslně, neoprávněné poškození, vymazání, snížení kvality, pozměnění nebo potlačení počítačových dat.\n2. Strana si může vyhradit právo stanovit, že bude považovat jednání popsané v odstavci 1 za trestné, jen pokud způsobí závažnou škodu."
+    },
+    {
+      "provision_ref": "Článek 5",
+      "section": "5",
+      "title": "Článek 5",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 1 - – Trestné činy proti důvěrnosti, integritě a použitelnosti počítačových dat a systémů - – Nezákonný přístup - – Nezákonný odposlech - – Zasahování do dat",
+      "content": "Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem, pokud je spácháno úmyslně, neoprávněné závažné omezení funkčnosti počítačového systému vkládáním, přenášením, poškozením, vymazáním, snížením kvality, pozměněním nebo potlačením počítačových dat."
+    },
+    {
+      "provision_ref": "Článek 6",
+      "section": "6",
+      "title": "Článek 6",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 1 - – Trestné činy proti důvěrnosti, integritě a použitelnosti počítačových dat a systémů - – Nezákonný přístup - – Nezákonný odposlech - – Zasahování do dat - – Zasahování do systému",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byly trestnými činy, pokud jsou spáchány úmyslně a neoprávněně:\n(a) výroba, prodej, opatření za účelem použití, dovoz, distribuce nebo jiné zpřístupnění:\ni. zařízení, včetně počítačového programu, vytvořeného nebo přizpůsobeného zejména za účelem spáchání kteréhokoli z trestných činů stanovených podle článků 2 – 5;\nii. počítačového hesla, přístupového kódu nebo podobných dat, pomocí nichž lze získat přístup do celého počítačového systému nebo do jakékoli jeho části\ns tím úmyslem, že jej bude použito pro účely spáchání kteréhokoli z trestných činů stanovených podle článků 2 až 5; a\n(b) držení jedné z položek uvedených v odstavcích (a) i. nebo (a) ii. shora s tím úmyslem, že bude použita pro účely spáchání kteréhokoli z trestných činů stanovených v článcích 2 až 5. Strana může zákonem stanovit, že trestní odpovědnost vzniká až při držení několika takových položek.\n2. Tento článek nelze vykládat tak, že stanoví trestní odpovědnost v případech, kdy nejde o výrobu, prodej, opatření za účelem použití, dovoz, distribuci nebo jiné zpřístupnění nebo držení uvedené v odstavci 1 tohoto článku za účelem spáchání trestného činu stanoveného podle článků 2 až 5 této Úmluvy, jako třeba při oprávněném zkoušení nebo ochraně počítačového systému.\n3. Každá strana si může vyhradit právo nepoužít odstavec 1 tohoto článku za podmínky, že se tato výhrada nebude týkat prodeje, distribuce nebo jiného zpřístupnění předmětů uvedených v odstavci 1(a) ii."
+    },
+    {
+      "provision_ref": "Článek 7",
+      "section": "7",
+      "title": "Článek 7",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 2 - – Trestné činy související s počítačem",
+      "content": "Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byly trestnými činy, pokud jsou spáchány úmyslně a neoprávněně, vkládání, pozměnění, vymazání nebo potlačení počítačových dat, které povede k nepravosti dat, a to s úmyslem, aby tato data byla považována za pravá nebo aby podle nich bylo pro právní účely jednáno tak, jako by to byla data pravá, bez ohledu na to, zda jsou tato data přímo čitelná a srozumitelná či nikoli. Strana může stanovit, že k založení trestní odpovědnosti je nezbytný úmysl podvést nebo podobný nečestný úmysl."
+    },
+    {
+      "provision_ref": "Článek 8",
+      "section": "8",
+      "title": "Článek 8",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 2 - – Trestné činy související s počítačem - – Počítačové padělání",
+      "content": "Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem, pokud je spácháno úmyslně a neoprávněně, způsobení ztráty na majetku jinému:\n(a) jakýmkoli vkládáním, pozměňováním, vymazáním nebo potlačením počítačových dat,\n(b) jakýmkoli zásahem do fungování počítačového systému,\ns podvodným nebo nečestným úmyslem neoprávněně získat majetkový prospěch pro sebe nebo pro jiného."
+    },
+    {
+      "provision_ref": "Článek 9",
+      "section": "9",
+      "title": "Článek 9",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 3 - – Trestné činy související s obsahem",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem, pokud je spácháno úmyslně a neoprávněně, následující jednání:\n(a) výroba dětské pornografie za účelem její distribuce prostřednictvím počítačového systému;\n(b) nabízení nebo zpřístupňování dětské pornografie prostřednictvím počítačového systému;\n(c) distribuce nebo přenos dětské pornografie prostřednictvím počítačového systému;\n(d) opatřování dětské pornografie prostřednictvím počítačového systému pro sebe nebo pro jiného;\n(e) uchovávání dětské pornografie v počítačovém systému nebo na médiu pro ukládání počítačových dat.\n2. Pro účely výše uvedeného odstavce 1 “dětská pornografie“ bude zahrnovat pornografický materiál, který vizuálně znázorňuje:\n(a) nezletilou osobu, která se účastní sexuálně jednoznačného chování;\n(b) osobu, jež se zdá být nezletilou, která se účastní sexuálně jednoznačného chování;\n(c) realistické zobrazení představující nezletilou osobu, která se účastní sexuálně jednoznačného chování.\n3. Pro účely odstavce 2 shora bude termín “nezletilý“ zahrnovat všechny osoby mladší 18 let. Strana však může stanovit nižší věkovou hranici, která ale nesmí být nižší než 16 let.\n4. Každá strana si může vyhradit právo nepoužít vcelku nebo zčásti odstavce 1 (d) a 1 (e), a 2 (b) a 2 (c)."
+    },
+    {
+      "provision_ref": "Článek 10",
+      "section": "10",
+      "title": "Článek 10",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 4 - – Trestné činy týkající se porušení autorského práva a práv souvisejících s právem autorským",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem porušení autorského práva, jak je definováno právními předpisy této strany podle závazků, které přijala na základě Pařížské revize z 24. července 1971 Bernské Úmluvy o ochraně literárních a uměleckých děl, Dohody o obchodních aspektech práv k duševnímu vlastnictví a Smlouvy Světové organizace duševního vlastnictví (WIPO) o právu autorském, s výjimkou jakýchkoli osobnostních práv stanovených těmito úmluvami, pokud jsou tyto činy spáchány záměrně, v komerčním měřítku a prostřednictvím počítačového systému.\n2. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů bylo trestným činem porušení práv souvisejících s právem autorským, jak jsou definována právními předpisy této strany podle závazků, které přijala na základě Mezinárodní úmluvy o ochraně výkonných umělců, výrobců zvukových snímků a rozhlasových organizací (Římská úmluva), Dohody o obchodních aspektech práv k duševnímu vlastnictví a Smlouvy WIPO o výkonech výkonných umělců a o zvukových záznamech, s výjimkou jakýchkoli osobnostních práv stanovených těmito úmluvami, pokud jsou tyto činy spáchány záměrně, v komerčním měřítku a prostřednictvím počítačového systému.\n3. Strana si může vyhradit právo nestanovit trestní odpovědnost podle odstavců 1 a 2 tohoto článku v omezeném rozsahu okolností, pokud jsou dostupná jiná účinná nápravná opatření a pokud tato výhrada neomezuje mezinárodní závazky strany stanovené v mezinárodních dokumentech uvedených v odstavcích 1 a 2 tohoto článku."
+    },
+    {
+      "provision_ref": "Článek 11",
+      "section": "11",
+      "title": "Článek 11",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 5 - – Další formy odpovědnosti a trestů",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byla trestným činem, jakákoli úmyslná forma účastenství na spáchání kteréhokoli trestného činu podle článků 2 až 10 této Úmluvy, s tím úmyslem, aby takový trestný čin byl spáchán.\n2. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby podle jejích vnitrostátních právních předpisů byl trestným činem úmyslný a neoprávněný pokus spáchat jakýkoli trestný čin podle článků 3 až 5, 7, 8, 9 (1) a) a 9 (1) c) této Úmluvy.\n3. Každý stát si může vyhradit právo nepoužít odstavec 2 tohoto článku nebo jeho část."
+    },
+    {
+      "provision_ref": "Článek 12",
+      "section": "12",
+      "title": "Článek 12",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 5 - – Další formy odpovědnosti a trestů - – Pokus trestného činu a účastenství",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby zajistila, že právnická osoba může být učiněna odpovědnou za trestný čin ustavený podle této Úmluvy, spáchaný v její prospěch jakoukoli fyzickou osobou, která v ní má vedoucí postavení, ať již jedná samostatně nebo jako člen orgánu této právnické osoby, na základě:\n(a) pravomoci jednat navenek jménem právnické osoby;\n(b) pravomoci přijímat rozhodnutí jménem právnické osoby;\n(c) pravomoci vykonávat kontrolu v rámci právnické osoby.\n2. Kromě případů, na něž se již vztahují ustanovení v odstavci 1, podnikne každá strana nezbytná opatření pro zajištění toho, že právnická osoba může být uznána odpovědnou v případech, kdy nedostatek dohledu nebo kontroly ze strany fyzické osoby zmíněné v odstavci 1 umožnil spáchání trestného činu, ustaveného v souladu s touto Úmluvou, ve prospěch této právnické osoby fyzickou osobou jednající v rámci její pravomoci.\n3. Podle právních principů strany může být odpovědnost právnické osoby trestní, občanskoprávní nebo správní.\n4. Tato odpovědnost nebude mít vliv na trestní odpovědnost fyzických osob, které trestný čin spáchaly."
+    },
+    {
+      "provision_ref": "Článek 13",
+      "section": "13",
+      "title": "Článek 13",
+      "chapter": "Část 1 - – Trestní právo hmotné > Oddíl 5 - – Další formy odpovědnosti a trestů - – Pokus trestného činu a účastenství - – Odpovědnost právnických osob",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby trestné činy ustavené podle článků 2-11 bylo možno potrestat účinnými, přiměřenými a odrazujícími tresty, včetně trestu odnětí svobody.\n2. Každá strana zajistí, aby právnické osoby uznané odpovědnými podle článku 12 podléhaly účinným, přiměřeným a odrazujícím trestním nebo netrestním sankcím nebo opatřením, včetně peněžitých sankcí"
+    },
+    {
+      "provision_ref": "Článek 14",
+      "section": "14",
+      "title": "Článek 14",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 1 - – Obecná ustanovení",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby zavedla pravomoci a postupy stanovené v této části pro účely specifických trestních vyšetřování nebo řízení.\n2. Pokud není upraveno jinak v článku 21, každá strana použije pravomoci a postupy uvedené v odstavci 1:\n(a) na trestné činy stanovené podle článků 2 až 11 této Úmluvy;\n(b) na jiné trestné činy spáchané prostřednictvím počítačového systému; a\n(c) na zajištění důkazů o trestném činu, které jsou v elektronické formě.\n3. (a) Každá strana si může vyhradit právo použít opatření uvedená v článku 20 pouze na trestné činy nebo kategorie trestných činů uvedené ve výhradě, pokud okruh takových trestných činů nebo kategorií trestných činů není více omezený než okruh trestných činů, na které strana používá opatření uvedená v článku 21. Každá strana zváží omezení takové výhrady, aby umožnila co nejširší používání opatření uvedeného v článku 20.\n(b) Pokud strana není, kvůli omezením ve svých právních předpisech platných v době přijetí této Úmluvy, schopna použít opatření uvedená v článcích 20 a 21 na komunikace přenášené v rámci počítačového systému poskytovatele služeb, který\n(i) je provozovaný pro potřeby uzavřené skupiny uživatelů, a\n(ii) nepoužívá veřejné komunikační sítě a není propojen s jiným počítačovým systémem, ať již veřejným nebo soukromým,\ntato strana si může vyhradit právo nepoužít tato opatření na takové komunikace. Každá strana zváží omezení takové výhrady, aby umožnila co nejširší používání opatření uvedených v článcích 20 a 21."
+    },
+    {
+      "provision_ref": "Článek 15",
+      "section": "15",
+      "title": "Článek 15",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 1 - – Obecná ustanovení - - Rozsah procesních ustanovení",
+      "content": "1. Každá strana zajistí, že založení, implementace a používání pravomocí a postupů stanovených v této části podléhá podmínkám a zárukám stanoveným podle jejích vnitrostátních právních předpisů, které poskytnou přiměřenou ochranu lidských práv a svobod, včetně práv vyplývajících ze závazků, které převzala podle Úmluvy Rady Evropy na ochranu lidských práv a základních svobod z roku 1950, Mezinárodního paktu OSN o občanských a politických právech z roku 1966, a dalších příslušných mezinárodních dokumentů o lidských právech, a které budou obsahovat princip přiměřenosti.\n2. Takové podmínky a záruky budou, přiměřeně s ohledem na povahu příslušné pravomoci nebo postupu, zahrnovat mimo jiné soudní nebo jiný nezávislý dohled, důvody opravňující použití, a omezení rozsahu a trvání takové pravomoci nebo postupu.\n3. Strany zváží dopad pravomocí a postupů v této části na práva, odpovědnosti a legitimní zájmy třetích stran v mezích, které jsou slučitelné s veřejným zájmem, zejména s řádným výkonem spravedlnosti."
+    },
+    {
+      "provision_ref": "Článek 16",
+      "section": "16",
+      "title": "Článek 16",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 2 - – Urychlené uchování uložených počítačových dat",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům přikázat anebo obdobně zajistit urychlené uchování specifických počítačových dat, včetně provozních dat, které byly uloženy prostřednictvím počítačového systému, zejména pokud existují důvody pro přesvědčení, že tato počítačová data jsou zvláště ohrožená ztrátou nebo pozměněním.\n2. V případech, kdy strana uplatňuje ustanovení výše uvedeného odstavce 1 pomocí příkazu určité osobě, aby zachovala specifikovaná uložená počítačová data v držení této osoby nebo pod její kontrolou, tato strana přijme taková legislativní a jiná opatření, která mohou být nezbytná pro uložení povinnosti této osobě, aby zachovala a udržovala neporušenost takových počítačových dat po nezbytné období, nejvýše po 90 dnů, aby mohly příslušné orgány požádat o jejich zpřístupnění. Strana může umožnit následné obnovení takového příkazu.\n3. Každá strana přijme taková legislativní nebo jiná opatření, která budou nezbytná k tomu, aby uložila správci nebo jiné osobě, která má uchovat počítačová data, povinnost udržovat přijímání takových postupů v tajnosti po dobu stanovenou svými vnitrostátními právními předpisy.\n4. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15."
+    },
+    {
+      "provision_ref": "Článek 17",
+      "section": "17",
+      "title": "Článek 17",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 2 - – Urychlené uchování uložených počítačových dat - – Urychlené uchování uložených počítačových dat",
+      "content": "1. Každá strana přijme ve vztahu k provozním datům, která mají být zachována podle článku 16, taková legislativní a jiná opatření, která budou nezbytná pro:\n(a) zajištění, že takové urychlené zachování provozních dat je použitelné bez ohledu na to, zda se přenosu dané komunikace účastnil jeden nebo více poskytovatelů služeb; a\n(b) zajištění toho, že příslušnému orgánu strany nebo osobě určené tímto orgánem bude urychleně zpřístupněno množství provozních dat dostatečné k tomu, aby strana mohla identifikovat poskytovatele služeb a cestu, kterou byla komunikace přenesena.\n2. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15."
+    },
+    {
+      "provision_ref": "Článek 18",
+      "section": "18",
+      "title": "Článek 18",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 3 - – Příkaz k předložení",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům nařídit:\n(a) osobě na svém území, aby předložila specifikovaná počítačová data v jejím držení nebo pod její kontrolou, která jsou uložena v počítačovém systému nebo na médiu pro ukládání počítačových dat; a\n(b) poskytovateli služby nabízejícímu své služby na území strany, aby předložil ty informace o odběrateli vztahující se k těmto službám, které jsou v jeho držení nebo pod jeho kontrolou.\n2. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15.\n3. Pro účely tohoto článku znamená „informace o odběrateli“ jakoukoli informaci, obsaženou ve formě počítačových dat nebo jakékoli jiné formě, odlišnou od provozních nebo obsahových dat, která je držena poskytovatelem služeb, vztahuje se k účastníkům jeho služeb, a s jejíž pomocí lze určit:\n(a) typ použité komunikační služby, za tím účelem provedená technická opatření a období služby;\n(b) identitu odběratele, poštovní nebo geografickou adresu, telefonní a jiné přístupové číslo, účetní a platební informace, dostupné na základě dohody nebo ujednání o poskytování služeb;\n(c) jakoukoli jinou informaci o místě instalace komunikačního vybavení dostupnou na základě dohody nebo ujednání o poskytování služeb."
+    },
+    {
+      "provision_ref": "Článek 19",
+      "section": "19",
+      "title": "Článek 19",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 4 - – Prohlídka a zajištění uložených počítačových dat",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům prohledat nebo podobným způsobem získat přístup:\n(a) k počítačovému systému nebo jeho části a k počítačovým datům v něm uloženým; a\n(b) k médiu pro ukládání počítačových dat, na kterém mohou být uložena počítačová data,\nna svém území.\n2. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby zajistila, že pokud její orgány prohledají nebo podobným způsobem získají přístup ke konkrétnímu počítačovému systému nebo jeho části podle odstavce 1 (a) a mají důvod k přesvědčení, že hledaná data jsou uložena v jiném počítačovém systému nebo jeho části na jejím území a že tato data jsou legálně přístupná z původního systému nebo jsou mu k dispozici, tyto orgány budou moci urychleně rozšířit prohlídku nebo podobným způsobem získat přístup k tomuto druhému systému.\n3. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům zajistit nebo podobně zabezpečit počítačová data, k nimž byl zjednán přístup podle odstavců 1 nebo 2. Tato opatření budou zahrnovat pravomoc:\n(a) zajistit nebo podobně zabezpečit počítačový systém, jeho část nebo médium pro ukládání počítačových dat;\n(b) pořídit a uchovat kopii takových počítačových dat;\n(c) uchovat neporušenost relevantních uložených počítačových dat; a\n(d) znemožnit přístup k takovým počítačovým datům nebo je odstranit z počítačového systému, k němuž byl zjednán přístup.\n4. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům přikázat kterékoli osobě, která má znalosti o fungování počítačového systému nebo o opatřeních použitých na ochranu počítačových dat v tomto systému, aby poskytla nezbytné informace v přiměřeném rozsahu pro umožnění realizace opatření uvedených v odstavcích 1 a 2.\n5. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15."
+    },
+    {
+      "provision_ref": "Článek 20",
+      "section": "20",
+      "title": "Článek 20",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 5 - – Shromažďování počítačových dat v reálném čase",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby svým příslušným orgánům umožnila:\n(a) provádět pomocí technických prostředků na území této strany shromažďování nebo záznam; a\n(b) přinutit poskytovatele služeb, aby v rámci svých stávajících technických možností:\ni. pomocí technických prostředků na území této strany prováděl shromažďování nebo zaznamenávání; nebo\nii. spolupracoval a napomáhal příslušným orgánům při shromažďování nebo zaznamenávání\nprovozních dat, v reálném čase, spojených s určenými komunikacemi na jejím území přenášenými pomocí počítačového systému.\n2. Pokud strana z důvodu zavedených principů svého vnitrostátního právního řádu nemůže přijmout opatření uvedené v odstavci 1(a), může místo toho přijmout legislativní a jiná opatření, která budou nezbytná k tomu, aby zajistila shromažďování nebo záznam provozních dat v reálném čase, spojených se specifikovanými komunikacemi na jejím území za použití technických prostředků na tomto území.\n3. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby uložila poskytovateli služeb povinnost zachovat v důvěrnosti výkon jakékoli pravomoci stanovené tímto článkem i jakoukoli jinou informaci o něm.\n4. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15."
+    },
+    {
+      "provision_ref": "Článek 21",
+      "section": "21",
+      "title": "Článek 21",
+      "chapter": "Část 2 - – Procesní právo > Oddíl 5 - – Shromažďování počítačových dat v reálném čase - – Shromažďování provozních dat v reálném čase",
+      "content": "1. Každá strana přijme ve vztahu k okruhu závažných trestných činů, který bude stanoven vnitrostátními právními předpisy, taková legislativní a jiná opatření, která budou nezbytná k tomu, aby umožnila svým příslušným orgánům:\n(a) provádět pomocí technických prostředků na území této strany shromažďování nebo záznam; a\n(b) přinutit poskytovatele služeb, aby v rámci svých stávajících technických možností:\ni. prováděl pomocí technických prostředků na území této strany shromažďování nebo záznam; nebo\nii. spolupracoval a napomáhal příslušným orgánům při shromažďování a zaznamenávání\nobsahových dat, v reálném čase, určených komunikací na jejím území přenášených pomocí počítačového systému.\n2. Pokud strana z důvodu zavedených principů svého vnitrostátního právního řádu nemůže přijmout opatření uvedené v odstavci 1(a), může místo toho přijmout legislativní a jiná opatření, která budou nezbytná k tomu, aby zajistila shromažďování nebo záznam, v reálném čase, obsahových dat specifikovaných komunikací na jejím území za použití technických prostředků na tomto území.\n3. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby uložila poskytovateli služeb povinnost zachovat v důvěrnosti výkon jakékoli pravomoci stanovené tímto článkem i jakoukoli jinou informaci o něm.\n4. Pravomoci a postupy uvedené v tomto článku budou podléhat článkům 14 a 15."
+    },
+    {
+      "provision_ref": "Článek 22",
+      "section": "22",
+      "title": "Článek 22",
+      "chapter": "Část 3 - – Soudní pravomoc",
+      "content": "1. Každá strana přijme taková legislativní a jiná opatření, která budou nezbytná k tomu, aby stanovila svou soudní pravomoc ve vztahu k jakémukoli trestnému činu podle článků 2 až 11 této Úmluvy, pokud je trestný čin spáchán:\n(a) na jejím území; nebo\n(b) na lodi plující pod vlajkou této strany; nebo\n(c) na palubě letadla registrovaného podle zákonů této strany; nebo\n(d) jedním z jejích státních příslušníků, pokud je tento čin trestný podle trestního práva v místě, kde byl spáchán, nebo pokud byl tento čin spáchán na území, na něž se nevztahuje územní pravomoc žádného státu.\n2. Každý stát si může vyhradit právo nepoužít nebo použít pouze ve specifických případech nebo okolnostech pravidla pro soudní pravomoc uvedená v odstavcích 1 (b) – 1 (d) tohoto článku nebo jejich jakékoli části.\n3. Každá strana přijme taková opatření, která budou nezbytná k tomu, aby stanovila svou soudní pravomoc ve vztahu k trestným činům uvedeným v článku 24, odstavci (1) této Úmluvy v případech, kdy se údajný pachatel nachází na jejím území a tato strana jej nevydá jiné straně výlučně na základě jeho státní příslušnosti, a to po žádosti o vydání.\n4. Tato Úmluva nevylučuje žádnou trestní soudní pravomoc vykonávanou v souladu s vnitrostátními právními předpisy.\n5. Pokud více než jedna strana nárokuje pravomoc vůči údajnému trestnému činu podle této Úmluvy, zúčastněné strany se, pokud to bude vhodné, vzájemně poradí, aby určily nejvhodnější pravomoc pro trestní stíhání.\nKapitola III"
+    },
+    {
+      "provision_ref": "Článek 23",
+      "section": "23",
+      "title": "Článek 23",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 1 - – Obecné zásady týkající se mezinárodní spolupráce",
+      "content": "Strany budou vzájemně spolupracovat podle ustanovení této kapitoly a na základě uplatňování příslušných mezinárodních dokumentů o mezinárodní spolupráci v trestních věcech, podle ujednání dohodnutých na základě jednotných právních předpisů, reciproční právní úpravy a vnitrostátních zákonů, v nejširší možné míře pro účely vyšetřování nebo řízení týkající se trestných činů vztahujících se na počítačové systémy a data, nebo pro shromažďování důkazů v elektronické formě o trestném činu."
+    },
+    {
+      "provision_ref": "Článek 24",
+      "section": "24",
+      "title": "Článek 24",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 2 - – Zásady týkající se vydávání",
+      "content": "1. (a) Tento článek se vztahuje na vydávání osob mezi stranami pro trestné činy stanovené v článcích 2 - 11 této Úmluvy, pokud podléhají podle práva obou zúčastněných stran trestu odnětí svobody, jehož horní hranice je nejméně jeden roku, nebo trestu přísnějšímu.\n(b) Je-li třeba, v souladu s ujednáním dohodnutým na základě jednotných právních předpisů nebo reciproční právní úpravy, nebo se smlouvou o vydávání, včetně Evropské úmluvy o vydávání (ETS č. 24), použitelnými mezi dvěma nebo více stranami, použít jiný nejnižší trest, užije se nejnižší trest stanovený takovým ujednáním nebo smlouvou.\n2. U trestných činů uvedených v odstavci 1 tohoto článku se má za to, že jsou zahrnuty jako trestné činy podléhající vydání do jakékoli úmluvy o vydávání existující mezi stranami. Strany se zavazují, že tyto trestné činy zahrnou mezi činy podléhající vydání do jakékoli úmluvy o vydávání, kterou mezi sebou uzavřou.\n3. Pokud strana, jež podmiňuje vydání existencí smlouvy, obdrží žádost o vydání od jiné strany, se kterou neuzavřela smlouvu o vydávání, může tato strana považovat tuto Úmluvu za právní podklad pro vydání ve vztahu k jakémukoli trestnému činu uvedenému v odstavci 1 tohoto článku.\n4. Strany, jež nepodmiňují vydání existencí smlouvy, budou uznávat trestné činy uvedené v odstavci 1 tohoto článku jako činy, pro které je mezi nimi vydání přípustné.\n5. Na vydávání se budou vztahovat podmínky stanovené v právu dožádané strany nebo platné smlouvy o vydávání, včetně důvodů, pro které může dožádaná strana vydání odmítnout.\n6. Pokud je vydání v případě trestného činu uvedeného v odstavci 1 tohoto článku odmítnuto výlučně z důvodu státní příslušnosti dotyčné osoby nebo z toho důvodu, že dožádaná strana má za to, že se na trestný čin vztahuje její pravomoc, dožádaná strana předá na žádost dožadující strany věc svým příslušným orgánům pro účely trestního stíhání a v patřičnou dobu sdělí konečný výsledek dožadující straně. Tyto orgány učiní rozhodnutí a budou vést svá vyšetřování i řízení stejným způsobem jako v případě jakéhokoli jiného trestného činu srovnatelné povahy podle práva této strany.\n7. (a) Každá strana sdělí při podpisu této Úmluvy, při uložení své ratifikační listiny, listiny o přijetí, schválení nebo přistoupení, generálnímu tajemníkovi Rady Evropy název a adresu každého orgánu odpovědného za předkládání nebo přijímání žádostí o vydání nebo o předběžnou vazbu v případě absence úmluvy.\n(b) Generální tajemník Rady Evropy vytvoří a povede aktuální seznam orgánů takto určených stranami. Každá strana zajistí, aby údaje vedené v seznamu byly vždy správné."
+    },
+    {
+      "provision_ref": "Článek 25",
+      "section": "25",
+      "title": "Článek 25",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 3 - – Obecné zásady týkající se vzájemné pomoci",
+      "content": "1. Strany poskytnou jedna druhé vzájemnou pomoc v co možná nejširším rozsahu pro účely vyšetřování nebo řízení o trestných činech týkajících se počítačových systémů nebo dat, nebo pro účely shromažďování důkazů o trestném činu, které jsou v elektronické formě.\n2. Každá strana také rovněž přijme taková legislativní nebo jiná opatření, která budou nezbytná k tomu, aby splnila závazky stanovené ve článcích 27 - 35.\n3. Každá strana může, v naléhavých případech, podávat žádosti o vzájemnou pomoc nebo sdělení s ní spojená rychlými komunikačními prostředky, včetně faxu nebo elektronické pošty, do rozsahu v jakém takové prostředky poskytují přiměřenou úroveň bezpečnosti a ověření (včetně použití šifrování, je-li to nezbytné), a na žádost dožádané strany je následně formálně potvrdí. Dožádaná strana přijme a odpoví na dožádání jakýmkoli z těchto rychlých komunikačních prostředků.\n4. Pokud není v článcích této kapitoly stanoveno jinak, bude se vzájemná pomoc řídit podmínkami stanovenými v právu dožádané strany nebo v příslušných úmluvách o vzájemné pomoci, včetně důvodů, pro které může dožádaná strana odmítnout spolupráci. Dožádaná strana neuplatní právo odmítnout pomoc ve vztahu k trestným činům uvedeným v článcích 2 – 11 výlučně proto, že se žádost vztahuje na trestný čin, který považuje za trestný čin fiskální.\n5. V případech, kdy podle ustanovení této kapitoly může dožádaná strana poskytnutí vzájemné pomoci podmiňovat existencí dvojí trestnosti, bude se tato podmínka považovat za splněnou, pokud jednání tvořící trestný čin, ve vztahu k němuž se vyžaduje pomoc, je trestným činem podle jejího práva, bez ohledu na to, zda právo této strany klade tento trestný čin do stejné kategorie trestných činů nebo označuje tento trestný čin stejnou terminologií jako strana dožadující."
+    },
+    {
+      "provision_ref": "Článek 26",
+      "section": "26",
+      "title": "Článek 26",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 3 - – Obecné zásady týkající se vzájemné pomoci - – Obecné zásady týkající se vzájemné pomoci",
+      "content": "1. Strana může v mezích svého vnitrostátního práva bez předchozí žádosti předat jiné straně informace získané v rámci svého vlastního vyšetřování, pokud má zato, že sdělení takových informací by mohlo pomoci přijímající straně při zahájení nebo provádění vyšetřování nebo řízení týkajících se trestných činů stanovených v souladu s touto Úmluvou, nebo že by mohlo vést k žádosti o spolupráci předloženou touto stranou v souladu s touto kapitolou.\n2. Před poskytnutím takových informací může poskytující strana požadovat, aby byly utajeny nebo použity pouze za určitých podmínek. Pokud přijímající strana nemůže tento požadavek splnit, uvědomí poskytující stranu, která se pak rozhodne, zda přesto tyto informace poskytne. Pokud přijímající strana přijme informace za stanovených podmínek, bude jimi vázána."
+    },
+    {
+      "provision_ref": "Článek 27",
+      "section": "27",
+      "title": "Článek 27",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 4 - - Postupy vztahující se na žádosti o vzájemnou pomoc při neexistenci příslušných mezinárodních dohod",
+      "content": "1. V případech, kdy neexistuje mezi dožadující a dožádanou stranou smlouva o vzájemné pomoci nebo ujednání na základě jednotných právních předpisů nebo reciproční právní úpravy, použijí se ustanovení odstavců 2 až 9 tohoto článku. Ustanovení tohoto článku se nepoužijí, existují-li taková smlouva, ujednání nebo právní předpisy, pokud se zúčastněné strany nedohodnou, že budou místo nich uplatňovat všechna nebo některá zbývající ustanovení tohoto článku.\n2. (a) Každá strana určí ústřední orgán nebo orgány, které budou zodpovědné za předkládání žádostí a odpovídání na žádosti o vzájemnou pomoc, vyřizování takových žádostí nebo jejich předávání orgánům příslušným pro jejich vyřizování.\n(b) Ústřední orgány se budou stýkat přímo.\n(c) Každá strana při podpisu této Úmluvy nebo při uložení své ratifikační listiny, listiny o přijetí, schválení nebo přistoupení k této Úmluvě, sdělí generálnímu tajemníkovi Rady Evropy názvy a adresy orgánů ustanovených podle tohoto odstavce.\n(d) Generální tajemník Rady Evropy vytvoří a povede aktuální seznam ústředních orgánů takto stranami ustanovených. Každá strana zajistí, aby údaje vedené v seznamu byly vždy správné.\n3. Žádosti o vzájemnou pomoc podle tohoto článku budou prováděny podle postupů určených dožadující stranou s výjimkou případů, kdy jsou neslučitelné s právem dožádané strany.\n4. Dožádaná strana může, kromě důvodů pro odmítnutí stanovených v článku 25 odstavci (4), odmítnout pomoc, pokud:\n(a) se žádost týká trestného činu, který dožádaná strana považuje za politický trestný čin nebo za trestný čin spojený s politickým trestným činem; nebo\n(b) je názoru, že vyřízení žádosti by bylo zřejmě na újmu její svrchovanosti, bezpečnosti, veřejného pořádku nebo jiného základního zájmu.\n5. Dožádaná strana může odložit provedení žádosti, pokud by to bylo na újmu trestnímu vyšetřování nebo řízení prováděnému jejími orgány.\n6. Před odmítnutím nebo odložením pomoci zváží dožádaná strana, po případných konzultacích s dožadující stranou, zda je možno žádost provést částečně nebo za podmínek, které považuje za nezbytné.\n7. Dožádaná strana bude bez prodlení informovat dožadující stranu o výsledku provedení žádosti o pomoc. Pokud bude žádost odmítnuta nebo odložena, je nutno uvést důvody jejího odmítnutí nebo odložení. Dožádaná strana bude také informovat dožadující stranu o jakýchkoli důvodech, které znemožňují provedení žádosti nebo je zřejmě významně zpozdí.\n8. Dožadující strana může žádat, aby dožádaná strana uchovala v tajnosti podání žádosti podle této kapitoly, jakož i její obsah, kromě toho, co je nezbytné pro provedení žádosti. Pokud dožádaná strana nemůže splnit požadavek na utajení, urychleně o tom uvědomí dožadující stranu, která následně rozhodne, zda má být žádost přesto provedena.\n9. (a) V případě naléhavosti je možno žádosti o vzájemnou pomoc nebo s nimi spojená sdělení zasílat přímo justičními orgány dožadující strany obdobným orgánům dožádané strany. V takových případech bude kopie zároveň zaslána ústřednímu orgánu dožádané strany prostřednictvím ústředního orgánu dožadující strany.\n(b) Jakoukoli žádost nebo sdělení podle tohoto odstavce lze učinit prostřednictvím Mezinárodní organizace kriminální policie (Interpol).\n(c) Pokud je učiněna žádost podle pododstavce (a) orgánu nepříslušnému k vyřízení žádosti, předá tento orgán žádost k provedení příslušnému státnímu orgánu a informuje o tom dožadující stranu.\n(d) Žádosti nebo sdělení učiněná podle tohoto odstavce, která nepředpokládají použití donucovacích opatření, mohou příslušné orgány dožadující strany předat přímo příslušným orgánům dožádané strany.\n(e) Každá strana může při podpisu této Úmluvy, při uložení své ratifikační listiny nebo listiny o přijetí, schválení nebo přistoupení k této Úmluvě, sdělit generálnímu tajemníkovi Rady Evropy, že z důvodů efektivity mají být žádosti podle tohoto odstavce adresovány jejímu ústřednímu orgánu."
+    },
+    {
+      "provision_ref": "Článek 28",
+      "section": "28",
+      "title": "Článek 28",
+      "chapter": "Část 1 - – Obecné zásady > Oddíl 4 - - Postupy vztahující se na žádosti o vzájemnou pomoc při neexistenci příslušných mezinárodních dohod - - Postupy vztahující se na žádosti o vzájemnou pomoc při neexistenci příslušných mezinárodních dohod",
+      "content": "1. Pokud není mezi dožadující a dožádanou stranou v platnosti smlouva o vzájemné pomoci nebo ujednání na základě jednotných právních předpisů nebo reciproční právní úpravy, použijí se ustanovení tohoto článku. Existuje-li taková smlouva, ujednání nebo právní předpisy, ustanovení tohoto článku se nepoužijí, vyjma těch případů, kdy se zúčastněné strany namísto toho dohodnou na použití některého nebo všech zbývajících ustanovení tohoto článku.\n2. Dožádaná strana může poskytnutí informací nebo podkladů při odpovědi na žádost podmínit tím, že tyto informace a podklady:\na) budou utajeny, pokud by žádosti o vzájemnou právní pomoc nebylo možno vyhovět bez takové podmínky, nebo\nb) nebudou použity pro jiná vyšetřování nebo řízení než pro ta, která jsou uvedena v žádosti.\n3. Pokud dožadující strana nemůže vyhovět podmínkám uvedeným v odstavci 2, urychleně uvědomí druhou stranu, která poté rozhodne, zda bude informace přesto poskytnuta. Pokud dožadující strana přijme podmínku, bude jí vázána.\n4. Každá strana, která poskytne informace nebo podklady za podmínky uvedené v odstavci 2 může požadovat od druhé strany, aby jí informovala o tom, jak v souvislosti s touto podmínkou použila takové informace nebo podklady."
+    },
+    {
+      "provision_ref": "Článek 29",
+      "section": "29",
+      "title": "Článek 29",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 1 - – Vzájemná právní pomoc týkající se prozatímních opatření",
+      "content": "1. Strana může požádat jinou stranu, aby nařídila nebo jinak zajistila urychlené uchování dat uložených prostřednictvím počítačového systému, který je umístěn na území této druhé strany, a která mají být předmětem žádosti dožadující strany o vzájemnou pomoc týkající se prohlídky nebo získání přístupu obdobným způsobem, zajištění nebo obdobného zabezpečení, či zpřístupnění těchto dat.\n2. V žádosti o uchování předložené podle odstavce 1 se uvede:\n(a) orgán, který o uchování žádá;\n(b) trestný čin, který je předmětem vyšetřování nebo řízení a stručné shrnutí souvisejících skutečností;\n(c) uložená počítačová data, která mají být uchována a jejich souvislost s trestným činem;\n(d) jakákoli dostupná informace pro zjištění správce uložených počítačových dat nebo umístění počítačového systému;\n(e) důvod nezbytnosti uchovat data; a\n(f) záměr strany předložit žádost o vzájemnou pomoc týkající se prohlídky nebo získání přístupu obdobným způsobem, zajištění nebo obdobného zabezpečení nebo zpřístupnění dat.\n3. Po obdržení žádosti od jiné strany podnikne dožádaná strana veškerá příslušná opatření, aby urychleně uchovala specifikovaná data, v souladu se svými vnitrostátními právními předpisy. Pro účely vyřízení žádosti nebude oboustranná trestnost vyžadována jako podmínka provedení takového uchování.\n4. Strana, která požaduje oboustrannou trestnost jako podmínku pro vyřízení žádosti o vzájemnou pomoc týkající se prohlídky nebo podobného přístupu, zajištění nebo podobného zabezpečení, nebo zpřístupnění dat, si může, ve vztahu k trestným činům jiným než jsou ty stanovené v souladu s články 2 – 11 této Úmluvy, vyhradit právo odmítnout žádost o uchování podle tohoto článku v případech, kdy má důvod předpokládat, že v době zpřístupnění by nebylo možno podmínku dvojí trestnosti naplnit.\n5. Dále může být žádost o uchování odmítnuta pouze pokud:\n(a) se žádost týká trestného činu, který dožádaná strana považuje za politický čin nebo trestný čin spojený s politickým trestným činem; nebo\n(b) je dožádaná strana toho názoru, že provedení žádosti by bylo zřejmě na újmu její svrchovanosti, bezpečnosti, veřejnému pořádku nebo jiným základním zájmům.\n6. V případech, kdy se dožádaná strana domnívá, že pouhé uchování nezajistí budoucí dostupnost dat nebo ohrozí utajení či jiným způsobem naruší vyšetřování dožadující strany, bez prodlení to sdělí dožadující straně, která pak rozhodne, zda má být žádost přesto vyřízena.\n7. Žádné uchování provedené na základě žádosti uvedené v odstavci 1 nebude trvat méně než 60 dní, aby dožadující strana mohla předložit žádost o prohlídku nebo podobný přístup, zajištění nebo podobné zabezpečení či zpřístupnění dat. Po obdržení takové žádosti budou data i nadále uchována, až do rozhodnutí o této žádosti."
+    },
+    {
+      "provision_ref": "Článek 30",
+      "section": "30",
+      "title": "Článek 30",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 1 - – Vzájemná právní pomoc týkající se prozatímních opatření - – Urychlené uchování uložených počítačových dat",
+      "content": "1. Pokud během provádění žádosti předložené podle článku 29 o uchování provozních dat týkajících se určité komunikace dožádaná strana zjistí, že poskytovatel služeb v jiném státě byl zapojen do přenosu této komunikace, dožádaná strana urychleně sdělí dožadující straně dostatečné množství provozních dat, aby bylo možno identifikovat tohoto poskytovatele služeb a cestu, jíž byla komunikace přenesena.\n2. Sdělení provozních dat podle odstavce 1 může být odmítnuto pouze pokud:\n(a) se žádost týká trestného činu, který dožádaná strana považuje za politický trestný čin nebo za trestný čin spojený s politickým trestným činem;\n(b) je dožádaná strana toho názoru, že provedení žádosti by bylo zřejmě na újmu její svrchovanosti, bezpečnosti, veřejnému pořádku nebo jiným základním zájmům."
+    },
+    {
+      "provision_ref": "Článek 31",
+      "section": "31",
+      "title": "Článek 31",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 2 - – Vzájemná pomoc týkající se vyšetřovacích pravomocí",
+      "content": "1. Strana může požádat jinou stranu, aby ohledně dat, uložených prostřednictvím počítačového systému umístěného na území dožádané strany, včetně dat uchovaných podle článku 29, provedla prohlídku nebo k nim podobným způsobem získala přístup, zabavila je nebo je podobným způsobem zajistila a zpřístupnila.\n2. Při vyřizování žádosti použije dožádaná strana mezinárodní dokumenty, ujednání a právní předpisy uvedené v článku 23 jakož i další příslušná ustanovení této kapitoly.\n3. Žádost se vyřídí urychleně, pokud:\n(a) lze předpokládat, že příslušná data jsou zvláště ohrožená ztrátou nebo pozměněním; nebo\n(b) je rychlá spolupráce jinak stanovena dokumenty, ujednáními a právními předpisy uvedenými v odstavci 2."
+    },
+    {
+      "provision_ref": "Článek 32",
+      "section": "32",
+      "title": "Článek 32",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 2 - – Vzájemná pomoc týkající se vyšetřovacích pravomocí - – Vzájemná pomoc týkající se přístupu k uloženým počítačovým datům",
+      "content": "Strana může bez získání povolení jiné strany:\n(a) získat přístup k veřejně dostupným uloženým počítačovým datům (z otevřeného zdroje) bez ohledu na to, kde jsou data geograficky umístěna; nebo\n(b) pomocí počítačového systému na svém území buď získat přístup k uloženým počítačovým datům umístěným na území jiné strany, nebo tato data obdržet, pokud tato strana získá právoplatný a dobrovolný souhlas osoby, která má zákonnou pravomoc zpřístupnit straně data pomocí tohoto počítačového systému."
+    },
+    {
+      "provision_ref": "Článek 33",
+      "section": "33",
+      "title": "Článek 33",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 2 - – Vzájemná pomoc týkající se vyšetřovacích pravomocí - – Vzájemná pomoc týkající se přístupu k uloženým počítačovým datům - – Přeshraniční přístup k uloženým počítačovým datům veřejně dostupným nebo se souhlasem",
+      "content": "1. Strany si budou poskytovat vzájemnou pomoc při shromažďování provozních dat v reálném čase souvisejících s určenými komunikacemi na svém území, přenášenými pomocí počítačového systému. V souladu s odstavcem 2 se na tuto pomoc budou vztahovat podmínky a postupy stanovené vnitrostátním právním řádem.\n2. Každá strana poskytne tuto pomoc alespoň ve vztahu k trestným činům, u nichž by bylo shromažďování dat v reálném čase přípustné v podobných vnitrostátních případech."
+    },
+    {
+      "provision_ref": "Článek 34",
+      "section": "34",
+      "title": "Článek 34",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 2 - – Vzájemná pomoc týkající se vyšetřovacích pravomocí - – Vzájemná pomoc týkající se přístupu k uloženým počítačovým datům - – Přeshraniční přístup k uloženým počítačovým datům veřejně dostupným nebo se souhlasem - – Vzájemná pomoc týkající se shromažďování provozních dat v reálném čase",
+      "content": "Strany si budou poskytovat vzájemnou pomoc při shromažďování nebo zaznamenávání, a to v reálném čase, obsahových dat určených komunikací, přenášených pomocí počítačového systému v rozsahu, ve kterém to umožňují příslušné smlouvy a vnitrostátní právní předpisy."
+    },
+    {
+      "provision_ref": "Článek 35",
+      "section": "35",
+      "title": "Článek 35",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7",
+      "content": "1. Každá strana určí kontaktní místo, jež bude k dispozici 24 hodin denně, 7 dnů v týdnu, aby bylo možné poskytovat okamžitou pomoc pro účely vyšetřování nebo řízení ohledně trestných činů spojených s počítačovými systémy a daty, nebo pro shromažďování důkazů v elektronické formě o trestném činu. Tato pomoc bude zahrnovat usnadňování nebo, pokud to dovolují vnitrostátní právní předpisy a praxe této strany, i přímé provádění následujících opatření:\n(a) poskytování technických rad;\n(b) uchování dat podle článků 29 a 30; a\n(c) shromažďování důkazů, poskytování právních informací a lokalizování podezřelých osob.\n2. (a) Kontaktní místo strany bude způsobilé ke zrychlené komunikaci s kontaktním místem jiné strany.\n(b) Pokud kontaktní místo určené stranou není součástí orgánu nebo orgánů této strany příslušných pro mezinárodní vzájemnou pomoc nebo vydávání, zajistí toto kontaktní místo, že je schopno urychlené koordinace s takovým orgánem nebo orgány.\n3. Každá strana zajistí za účelem usnadnění provozu sítě zaškolený a vybavený personál.\nKapitola IV"
+    },
+    {
+      "provision_ref": "Článek 36",
+      "section": "36",
+      "title": "Článek 36",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení",
+      "content": "1. Tato Úmluva bude otevřena k podpisu členským státům Rady Evropy a nečlenským státům, které se účastnily jejího vypracování.\n2. Tato Úmluva podléhá ratifikaci, přijetí nebo schválení. Ratifikační listiny, listiny o přijetí nebo schválení budou uloženy u generálního tajemníka Rady Evropy.\n3. Tato Úmluva vstoupí v platnost první den měsíce následujícího po uplynutí období tří měsíců po dni, kdy pět států, včetně nejméně tří členských států Rady Evropy, vyjádřilo svůj souhlas s tím, že pro ně bude Úmluvou závazná, v souladu s ustanoveními odstavců 1 a 2.\n4. Pro kterýkoli signatářský stát, který následně vyjádří svůj souhlas s tím, že pro něj bude Úmluva závazná, vstoupí Úmluva v platnost první den měsíce následujícího po uplynutí období tří měsíců po dni, kdy vyjádřil svůj souhlas s tím, že pro něj bude Úmluva závazná podle ustanovení odstavců 1 a 2."
+    },
+    {
+      "provision_ref": "Článek 37",
+      "section": "37",
+      "title": "Článek 37",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost",
+      "content": "1. Po vstupu této Úmluvy v platnost může Výbor ministrů Rady Evropy, po konzultaci se smluvními státy Úmluvy a po obdržení jejich jednomyslného souhlasu, přizvat kterýkoli stát, který není členem Rady a neúčastnil se jejího vypracování, aby přistoupil k této Úmluvě. Rozhodnutí bude přijato většinou stanovenou článkem 20 (d) Statutu Rady Evropy a jednomyslným hlasováním zástupců smluvních států oprávněných zasedat ve Výboru ministrů.\n2. Pro kterýkoli stát přistupující k Úmluvě podle odstavce 1 shora vstoupí Úmluva v platnost první den měsíce následujícího po uplynutí tří měsíců po dni uložení listiny o přístupu u generálního tajemníka Rady Evropy."
+    },
+    {
+      "provision_ref": "Článek 38",
+      "section": "38",
+      "title": "Článek 38",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě",
+      "content": "1. Každý stát může při podpisu této Úmluvy nebo při uložení své ratifikační listiny, listiny o přijetí, schválení nebo přístupu určit jedno nebo více území, na kterých se bude provádět tato Úmluva.\n2. Každá strana může následně, formou prohlášení zaslaného generálnímu tajemníkovi Rady Evropy, rozšířit působnost této Úmluvy na jakékoli jiné území uvedené v prohlášení. Pro takové území vstoupí Úmluva v platnost první den měsíce následujícího po uplynutí tří měsíců po dni, kdy generální tajemník obdrží toto prohlášení.\n3. Jakékoli prohlášení podle dvou výše uvedených odstavců může být, ohledně jakéhokoli území uvedeného v takovém prohlášení, odvoláno oznámením adresovaným generálnímu tajemníkovi Rady Evropy. Odvolání nabude účinnosti první den měsíce následujícího po uplynutí období tří měsíců po dni, kdy generální tajemník obdrží takové oznámení."
+    },
+    {
+      "provision_ref": "Článek 39",
+      "section": "39",
+      "title": "Článek 39",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost",
+      "content": "1. Účelem této Úmluvy je doplnit příslušné multilaterální nebo bilaterální smlouvy nebo ujednání mezi stranami, včetně ustanovení:\n- Evropské úmluvy o vydávání otevřené k podpisu ve Štrasburku 13. prosince 1957 (ETS č. 24);\n- Evropské úmluvy o vzájemné pomoci ve věcech trestních otevřené k podpisu ve Štrasburku 20. dubna 1959 (ETS č. 30);\n- Dodatkového protokolu k Evropské úmluvě o vzájemné pomoci ve věcech trestních otevřeného k podpisu ve Štrasburku 17. března 1978 (ETS č. 99).\n2. Pokud dvě nebo více stran již uzavřelo smlouvu nebo dohodu ve věcech, jež jsou předmětem této Úmluvy, nebo jinak upravily své vztahy v těchto věcech, nebo pokud by tak v budoucnu učinily, budou rovněž oprávněny příslušně uplatňovat takovou smlouvu nebo dohodu nebo upravit tyto vzájemné vztahy. Pokud však strany upraví své vztahy ve věcech, jež jsou předmětem této Úmluvy, jinak, než Úmluva stanoví, učiní tak způsobem, který neodporuje cílům a principům Úmluvy.\n3. Nic v této Úmluvě se nedotýká jiných práv, omezení, závazků a povinností stran."
+    },
+    {
+      "provision_ref": "Článek 40",
+      "section": "40",
+      "title": "Článek 40",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy",
+      "content": "Písemným oznámením adresovaným generálnímu tajemníkovi Rady Evropy může kterýkoli stát při podpisu nebo při uložení své ratifikační listiny, listiny o přijetí, schválení nebo přístupu prohlásit, že využívá možnosti požadovat dodatečné prvky stanovené podle článku 2, článku 3, článku 6, odstavce 1 písm. b), článku 7, článku 9, odstavce 3 a článku 27, odstavce 9 písm. e)."
+    },
+    {
+      "provision_ref": "Článek 41",
+      "section": "41",
+      "title": "Článek 41",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení",
+      "content": "1. Federální stát si může vyhradit právo převzít závazky podle Kapitoly II této Úmluvy v souladu s jeho základními principy upravujícími vztah mezi jeho ústřední vládou a jednotlivými státy spolku nebo jinými podobnými územními jednotkami, za předpokladu, že je stále způsobilý spolupracovat podle Kapitoly III.\n2. Při uplatnění výhrady podle odstavce 1 nesmí federální stát použít podmínky takové výhrady tak, aby vyloučil nebo podstatně umenšil své závazky přijmout opatření uvedená v Kapitole II. Zásadně poskytne širokou a účinnou schopnost vynucování zákona s ohledem na tato opatření.\n3. S ohledem na ta ustanovení Úmluvy, jejichž provedení spadá do pravomoci jednotlivých států federace nebo jiných podobných územních jednotek, které nejsou podle ústavního systému federálního státu povinny přijmout zákonodárná opatření, bude spolková vláda informovat příslušné orgány těchto států o uvedených ustanoveních se svým příznivým názorem, vybízejíc je k přijetí příslušných kroků k jejich provedení."
+    },
+    {
+      "provision_ref": "Článek 42",
+      "section": "42",
+      "title": "Článek 42",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka",
+      "content": "Písemným oznámením zaslaným generálnímu tajemníkovi Rady Evropy může každý stát při podpisu nebo při uložení své ratifikační listiny, listiny o přijetí, schválení nebo přístupu prohlásit, že využívá výhrad podle článku 4, odstavce 2, článku 6, odstavce 3, článku 9, odstavce 4, článku 10, odstavce 3, článku 11, odstavce 3, článku 14, odstavce 3, článku 22, odstavce 2, článku 29, odstavce 4 a článku 41, odstavce 1. Jinou výhradu nelze učinit."
+    },
+    {
+      "provision_ref": "Článek 43",
+      "section": "43",
+      "title": "Článek 43",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady",
+      "content": "1. Strana, která učinila výhradu podle článku 42, ji může zcela nebo částečně odvolat oznámením zaslaným generálnímu tajemníkovi Rady Evropy. Toto odvolání nabude účinnosti v den, kdy je obdrží generální tajemník. Pokud je v oznámení uvedeno, že odvolání výhrady má nabýt účinnosti k datu uvedenému v tomto oznámení a toto datum je pozdější než datum, kdy generální tajemník obdržel toto oznámení, odvolání nabude účinnosti k tomuto pozdějšímu datu.\n2. Strana, která učinila výhradu podle článku 42 tuto výhradu zcela nebo částečně odvolá, jakmile to okolnosti dovolí.\n3. Generální tajemník se může pravidelně dotazovat stran, které učinily jednu nebo více výhrad podle článku 38, jaké jsou vyhlídky na odvolání výhrad(y)."
+    },
+    {
+      "provision_ref": "Článek 44",
+      "section": "44",
+      "title": "Článek 44",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady - – Stav a odvolání výhrad",
+      "content": "1. Dodatky k této Úmluvě může navrhnout kterákoli strana, a generální tajemník Rady Evropy je sdělí členským státům Rady Evropy, nečlenským státům, které se účastnily vypracování této Úmluvy i kterémukoli jinému státu, který přistoupil nebo byl přizván k přístupu k této Úmluvě v souladu s ustanovením článku 37.\n2. Každý dodatek navržený stranou bude sdělen Evropskému výboru pro problémy kriminality (CDPC), který Výboru ministrů předloží svůj názor na navrhovaný dodatek.\n3. Výbor ministrů zváží navrhovaný dodatek a názor předložený Evropským výborem pro problémy kriminality (CDPC) a, po konzultacích s nečlenskými státy, jež jsou stranami této Úmluvy, může dodatek schválit.\n4. Text každého dodatku schváleného Výborem ministrů v souladu s odstavcem 3 tohoto článku bude předložen stranám k přijetí.\n5. Každý dodatek přijatý podle odstavce 3 tohoto článku vstoupí v platnost třicátý den poté, co všechny strany informovaly generálního tajemníka o tom, že dodatek přijímají."
+    },
+    {
+      "provision_ref": "Článek 45",
+      "section": "45",
+      "title": "Článek 45",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady - – Stav a odvolání výhrad - - Dodatky",
+      "content": "1. Evropský výbor Rady Evropy pro problémy kriminality (CDPC) bude informován o výkladu a provádění této Úmluvy.\n2. V případě sporu mezi stranami ohledně výkladu nebo provádění této Úmluvy se strany budou snažit o řešení sporu jednáním nebo jinými smírnými prostředky dle své vlastní volby, včetně předložení sporu Evropskému výboru pro problémy kriminality nebo rozhodčímu soudu, jehož rozhodnutí budou pro strany závazná, nebo Mezinárodnímu soudnímu dvoru, a to podle dohody dotyčných stran."
+    },
+    {
+      "provision_ref": "Článek 46",
+      "section": "46",
+      "title": "Článek 46",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady - – Stav a odvolání výhrad - - Dodatky - – Urovnání sporů",
+      "content": "1. Strany se budou podle potřeby pravidelně radit za účelem usnadnění:\n(a) účinného používání a provádění této Úmluvy, včetně identifikace všech problémů s tím spojených, i účinků jakéhokoli prohlášení nebo výhrad učiněných podle této Úmluvy;\n(b) výměny informací o významných obecných, právních nebo technologických změnách týkajících se počítačové kriminality a shromažďování důkazů v elektronické formě;\n(c) zvážení možného doplnění nebo změny Úmluvy.\n2. Evropský výbor pro problémy kriminality (CDPC) bude pravidelně informován o výsledku konzultací uvedených v odstavci 1.\n3. Evropský výbor pro problémy kriminality (CDPC) bude podle potřeby usnadňovat porady uvedené v odstavci 1 a přijímat opatření nezbytná k tomu, aby pomohl stranám v jejich úsilí o doplnění nebo změnu Úmluvy. Nejpozději tři roky po vstupu této Úmluvy v platnost provede Evropský výbor pro problémy kriminality (CDPC) ve spolupráci se stranami revizi všech ustanovení Úmluvy a doporučí jakékoli vhodné změny, bude-li to nezbytné.\n4. Náklady vzniklé při provádění ustanovení odstavce 1 budou hrazeny stranami způsobem, který samy určí, s výjimkou nákladů převzatých Radou Evropy.\n5. Sekretariát Rady Evropy bude stranám ku pomoci při provádění činností podle tohoto článku."
+    },
+    {
+      "provision_ref": "Článek 47",
+      "section": "47",
+      "title": "Článek 47",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady - – Stav a odvolání výhrad - - Dodatky - – Urovnání sporů - – Porady stran",
+      "content": "1. Každá strana může kdykoliv vypovědět tuto Úmluvu oznámením adresovaným generálnímu tajemníkovi Rady Evropy.\n2. Taková výpověď nabude účinnosti první den měsíce následujícího po uplynutí tří měsíců od obdržení oznámení generálním tajemníkem."
+    },
+    {
+      "provision_ref": "Článek 48",
+      "section": "48",
+      "title": "Článek 48",
+      "chapter": "Část 2 - – Zvláštní ustanovení > Oddíl 3 - – Síť 24/7 - - 24/7 Síť - – Závěrečná ustanovení - – Podpis a vstup v platnost - – Přístup k Úmluvě - – Územní působnost - – Účinky Úmluvy - – Prohlášení - – Federální doložka - – Výhrady - – Stav a odvolání výhrad - - Dodatky - – Urovnání sporů - – Porady stran - - Výpověď",
+      "content": "Generální tajemník Rady Evropy bude informovat členské státy Rady Evropy, nečlenské státy, jež se účastnily vypracování této Úmluvy i kterýkoli jiný stát, který přistoupil nebo byl přizván k přístupu k této Úmluvě, o:\n(a) všech podpisech;\n(b) uložení všech ratifikačních listin nebo listin o přijetí, schválení nebo přístupu;\n(c) datu vstupu této Úmluvy v platnost v souladu s články 36 a 37;\n(d) všech prohlášeních učiněných podle článku 40 nebo o všech výhradách učiněných v souladu s článkem 42;\n(e) jakémkoli jiném úkonu, oznámení nebo sdělení vztahujícímu se k této Úmluvě."
+    }
+  ],
+  "definitions": []
+}

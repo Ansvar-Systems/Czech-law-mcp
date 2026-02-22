@@ -1,0 +1,33 @@
+{
+  "id": "cz:395/2016",
+  "type": "statute",
+  "title": "395/2016 Sb., Vyhláška, kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "395/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-12-07",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/395",
+  "description": "Vyhláška, kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění vyhlášky č. 363/2014 Sb., vyhlášky č. 364/2014 Sb. a vyhlášky č. 347/2015 Sb., se mění takto:\n1. V příloze č. 3 ve vzoru FIN 1-12 OSS Výkaz pro hodnocení plnění rozpočtu správců kapitol a organizačních složek státu část II. zní:\n„II. Rekapitulace příjmů, výdajů, financování a jejich konsolidace\nNázevSchválený rozpočetRozpočet po změnáchKonečný rozpočet výdajůSkutečnost\nPříjmy celkemx\nTřída 1 - Daňové příjmyx\nTřída 2 - Nedaňové příjmyx\nTřída 3 - Kapitálové příjmyx\nTřída 4 - Přijaté transferyx\nKonsolidace příjmůx\n4133 - Převody z vlastních rezervních fondů (jiných než OSS)x\n4134 - Převody z rozpočtových účtůx\n4135 - Převody z rezervních fondů OSSx\n4136 - Převody z jiných fondů OSSx\n4139 - Ostatní převody z vlastních fondůx\nPříjmy celkem po konsolidacix\nVýdaje celkem\nTřída 5 - Běžné výdaje\nTřída 6 - Kapitálové výdaje\nKonsolidace výdajů\n5345 - Převody vlastním rozpočtovým účtům\n5346 - Převody do fondů OSS\n5349 - Ostatní převody vlastním fondům\n6361 - Investiční převody do rezervního fondu\n6362 - Převody investičních prostředků zpět do FKSP\nVýdaje celkem po konsolidaci\nSaldo příjmů a výdajů po konsolidacix\nTřída 8 - Financováníx\nSaldo příjmů a výdajů před konsolidacíx\n\n“.\n2. Příloha č. 7 zní:\n„Příloha č. 7 k vyhlášce č. 5/2014 Sb.\n“.\n3. Příloha č. 9 zní:\n„Příloha č. 9 k vyhlášce č. 5/2014 Sb.\nRozsah a způsob sestavení finančního výkazu o zdrojích rezervního fondu organizačních složek státu a nakládání s těmito prostředky (REF 1-04 OSS)\n1. Část I obsahuje údaje o členění zdrojů rezervního fondu této části v návaznosti na § 48 odst. 2 rozpočtových pravidel.\n2. Kontrolní vazby v rámci části I výkazu:\nsl. 156=sl. (151 + 152 - 153 - 155)\nř. 1501=ř. (1502 + 1503)\nř. 1509=ř. (1501 + 1504 + 1505 + 1506 + 1507 + 1508)\n3. Význam sloupců v části I výkazu:\nsl. 152 - příjmy rezervního fondu v hodnoceném roce a převody nečerpaných prostředků, které byly převedeny zpět do rezervního fondu,\nsl. 153 - prostředky převedené na příjmový účet při čerpání rezervního fondu,\nsl. 154 - čerpaná částka, tj. skutečné výdaje,\nsl. 155 - prostředky použité jiným způsobem než prostřednictvím rozpočtu, např. odvedené do zahraničí, nebo snížení stavu na základě rozhodnutí vlády.\n4. Část II - Příjmy a výdaje rezervního fondu organizačních složek státu podle rozpočtové skladby - v této části se uvádějí ve sloupci 161 pohyby peněžních prostředků (tj. inkasované příjmy a realizované výdaje v členění podle odvětvového, druhového a zdrojového třídění rozpočtové skladby).\n5. Kontrolní vazby mezi částí I a II výkazu:\nř. 1509 sl. 152=∑ (třídy 2 až 4) sl. 161\nř. 1509 sl. 153 + 1509 sl. 155=∑ (třídy 5 a 6) sl. 161\n“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Při vypracování finančních výkazů za rok 2016 se postupuje podle vyhlášky č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2017."
+    }
+  ],
+  "definitions": []
+}

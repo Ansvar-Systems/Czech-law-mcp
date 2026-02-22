@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1752/1948",
+  "type": "statute",
+  "title": "1752/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Slovenských elektrární, národného podniku.",
+  "title_en": "",
+  "short_name": "1752/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-01",
+  "in_force_date": "1948-08-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1752",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Slovenských elektrární, národného podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. městu Rožňavě,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. městu Prešovu,\nvesměs v rozsahu jejich znárodnění, do Slovenských elektrární, národného podniku."
+    }
+  ],
+  "definitions": []
+}

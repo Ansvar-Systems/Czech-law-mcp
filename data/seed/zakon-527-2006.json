@@ -1,0 +1,205 @@
+{
+  "id": "cz:527/2006",
+  "type": "statute",
+  "title": "527/2006 Sb., Vyhláška o užívání zpoplatněných pozemních komunikací a o změně vyhlášky Ministerstva dopravy a spojů č. 104/1997 Sb., kterou se provádí zákon o pozemních komunikacích, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "527/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-12-06",
+  "in_force_date": "2012-12-07",
+  "url": "https://www.e-sbirka.cz/sb/2006/527",
+  "description": "Vyhláška o užívání zpoplatněných pozemních komunikací a o změně vyhlášky Ministerstva dopravy a spojů č. 104/1997 Sb., kterou se provádí zákon o pozemních komunikacích, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA I - ZÁKLADNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) pozemní komunikace, jejichž užití podléhá mýtnému,\nb) další skutečnosti uváděné v evidenci údajů o mýtném nezbytné pro provozování systému elektronického mýtného,\nc) výši kauce při poskytnutí elektronického zařízení,\nd) způsob provádění evidence v systému elektronického mýtného,\ne) způsob nakládání s elektronickým zařízením a podmínky jeho užívání,\nf) způsob úhrady mýtného a prokázání úhrady mýtného,\ng) druhy údajů, které jsou potřebné k zadání do elektronického zařízení a které umožňují stanovení mýtného,\nh) strukturu, popis a způsob výpočtu nákladů a způsob stanovení sazeb mýtného,\ni) náležitosti plánu rizik."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení základních pojmů",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA I - ZÁKLADNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) distribučním místem místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného,\nb) kontaktním místem místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného,\nc) kontrolním zařízením veškeré stavební celky a jiná technická zařízení stacionární nebo přenosná, sloužící ke kontrole dodržování mýtné povinnosti,\nd) mýtnou transakcí záznam o průjezdu vozidla mýtným bodem,\ne) mýtným bodem místo na zpoplatněné komunikaci, kde je zaznamenáván průjezd vozidla,\nf) režimem následného hrazení způsob úhrady mýtného po použití zpoplatněné pozemní komunikace,\ng) režimem placení předem způsob úhrady, kdy je mýtné hrazeno před užitím zpoplatněné pozemní komunikace,\nh) telefonním centrem místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Pozemní komunikace, za jejichž užívání je vybíráno mýtné",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ",
+      "content": "(K § 20 odst. 1 zákona)\nPozemní komunikace, za jejichž užívání je vybíráno mýtné, jsou uvedeny v přílohách č. 3 a 4 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Výše kauce",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ",
+      "content": "(K § 22b odst. 6 zákona)\nKauce se stanoví ve výši 1 550 Kč."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Evidence údajů o mýtném",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 1 - Evidence v systému elektronického mýtného",
+      "content": "Evidence údajů o mýtném obsahuje informace uvedené v § 22b odst. 2 zákona a dále:\na) číslo evidence vozidla v systému elektronického mýtného,\nb) režim placení a způsob placení mýtného,\nc) údaje potřebné k identifikaci platby."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Způsob provádění evidence v systému elektronického mýtného",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 1 - Evidence v systému elektronického mýtného",
+      "content": "(1) Evidence zahrnuje přihlášení vozidla do režimu placení předem nebo následného placení, které se provádí na kontaktních nebo distribučních místech, a převzetí elektronického zařízení.\n(2) Evidence se provádí na základě kopie osvědčení o registraci nebo kopie technického průkazu, pokud byl vydán, a údaje o tom, zda evidované vozidlo má pokovené čelní sklo."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Evidované údaje",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 1 - Evidence v systému elektronického mýtného",
+      "content": "(1) Při zaevidování vozidla provozovatel vozidla vyplňuje registrační formulář a předkládá doklad totožnosti.\n(2) Provozovatel systému elektronického mýtného může požadovat i další dokumenty, pokud je bude považovat za potřebné pro prokázání údajů zapisovaných do systému elektronického mýtného. Není-li při evidenci předložena část osvědčení o registraci vozidla nebo technického průkazu, pokud byl vydán, nebo certifikát1),2) obsahující informace o emisní třídě vozidla, je vozidlo zaregistrováno v emisní třídě EURO II. Při následném prokázání emisní třídy EURO III1),2) a vyšší je vozidlo zaevidováno do příslušné kategorie, provozovateli vozidla však nevzniká nárok na snížení nebo vrácení již předepsaného mýtného. Evidované údaje uchovává provozovatel mýtného systému v elektronické podobě 3 roky po zrušení účtu k elektronickému zařízení.\n(3) Provozovatel vozidla informuje nejdéle do pěti dnů provozovatele systému elektronického mýtného o změnách v evidovaných údajích včetně režimu placení a předloží mu elektronické zařízení."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Způsob evidence při změně provozovatele vozidla",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 1 - Evidence v systému elektronického mýtného",
+      "content": "Při převodu vozidla na jiného provozovatele se vozidlo odhlašuje ze systému elektronického mýtného a vrací se elektronické zařízení."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Odhlášení ze systému elektronického mýtného",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 1 - Evidence v systému elektronického mýtného",
+      "content": "(1) Vozidlo se odhlásí ze systému elektronického mýtného vrácením elektronického zařízení provozovateli systému elektronického mýtného. V případě, kdy elektronické zařízení nemůže být vráceno (např. v případě jeho ztráty nebo zničení), odhlašuje se vozidlo písemným oznámením provozovateli systému elektronického mýtného na kontaktní místo.\n(2) Elektronické zařízení musí být vráceno osobním předáním na kontaktním nebo distribučním místě. Přitom musí být předloženo Osvědčení o registraci vozidla nebo Technický průkaz nebo jiný doklad o vyjmutí vozidla z registru vozidel. Uvedené doklady lze nahradit dokladem totožnosti provozovatele nebo zástupce provozovatele vozidla, pokud je v mýtném systému registrován.\n(3) Pokud při odhlášení zbývá nespotřebované předplacené mýtné, bude tato částka vrácena provozovateli vozidla. Podrobnosti stanoví smluvní podmínky provozovatele systému elektronického mýtného.\n(4) Předplacené mýtné je platné pouze po dobu tří let od poslední mýtné transakce."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Způsoby úhrady mýtného",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 2 - Způsob úhrady mýtného a prokázání úhrady mýtného",
+      "content": "(1) Mýtné se hradí buď v režimu placení předem nebo v režimu následného placení. Podmínkou pro možnost hrazení mýtného v režimu následného placení je uzavření dohody mezi provozovatelem vozidla a provozovatelem mýtného systému a splnění podmínek touto dohodou stanovených.\n(2) V režimu placení předem lze mýtné předplatit:\na) hotově na kontaktních a distribučních místech nebo\nb) platebními prostředky stanovenými ve smluvních podmínkách provozovatele systému elektronického mýtného.\n(3) V režimu následného placení je mýtné hrazeno způsobem a platebními prostředky sjednanými v dohodě mezi provozovatelem systému elektronického mýtného a provozovatelem vozidla.\n(4) Mýtné transakce uskutečněné od okamžiku ztráty do okamžiku zablokování elektronického zařízení hradí provozovatel vozidla."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Elektronické zařízení",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "(1) Elektronické zařízení smí být užíváno pouze způsobem upraveným zákonem, touto vyhláškou, návodem a smluvními podmínkami provozovatele systému elektronického mýtného. Elektronické zařízení musí být vráceno provozovatelem vozidla provozovateli systému elektronického mýtného při odhlášení ze systému elektronického mýtného, v případě jeho nefunkčnosti nebo pokud je k tomu provozovatel vozidla vyzván.\n(2) Pokud dojde k poruše elektronického zařízení, zajistí provozovatel nebo řidič vozidla před užitím zpoplatněné komunikace jeho výměnu za plně funkční. Pokud dojde k poruše elektronického zařízení v průběhu užívání zpoplatněné pozemní komunikace, zajistí provozovatel nebo řidič vozidla výměnu za plně funkční elektronické zařízení na nejbližším kontaktním nebo distribučním místě.\n(3) Na zablokování elektronického zařízení z důvodu uplynutí doby užívání elektronického zařízení stanovené provozovatelem systému elektronického mýtného musí být provozovatel vozidla předem upozorněn. Pokud dojde k zablokování elektronického zařízení v průběhu užívání zpoplatněné pozemní komunikace, zajistí provozovatel nebo řidič vozidla výměnu za plně funkční elektronické zařízení na nejbližším kontaktním nebo distribučním místě.\n(4) Elektronické zařízení může být použito jen v tom režimu placení, pro který bylo vozidlo zaevidováno do systému elektronického mýtného."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Nakládání s elektronickým zařízením v případě, kdy se elektronické zařízení dostane z držení provozovatele vozidla",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "Ztrátu, krádež a jiné případy, kdy se elektronické zařízení dostane z držení provozovatele nebo řidiče vozidla (dále jen „ztráta“), provozovatel nebo řidič vozidla okamžitě nahlásí provozovateli systému elektronického mýtného včetně identifikačních údajů o vozidle."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Přeprava elektronického zařízení bez povinnosti platit mýtné",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "V případě, že má být elektronické zařízení přepravováno po zpoplatněné pozemní komunikaci bez povinnosti platit mýtné (např. při přepravě pro jiné vozidlo), musí být deaktivováno podle Smluvních podmínek provozovatele systému elektronického mýtného."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Montáž elektronického zařízení",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "Elektronické zařízení může být instalováno pouze ve vozidle zaevidovaném do systému elektronického mýtného, ke kterému bylo toto elektronické zařízení evidováno. Při montáži musí být postupováno v souladu s návodem. Jiný způsob montáže, než jak je popsán v návodu, je možný pouze na základě písemného souhlasu provozovatele systému elektronického mýtného."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Nastavení údajů do elektronického zařízení",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "(1) Řidič zadá při každé změně údajů před užitím zpoplatněné pozemní komunikace do elektronického zařízení údaje o počtu všech náprav podle údajů v technickém průkazu vozidla nebo technických průkazech jízdní soupravy, a to způsobem uvedeným v návodu. Dvojnáprava nebo trojnáprava3) na přípojném vozidle se považuje za dvě nebo tři nápravy.\n(2) Postup podle odstavce 1 neplatí pro vozidla kategorie M2 a M36)."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Kontrola funkčnosti elektronického zařízení",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 3 - Nakládání s elektronickým zařízením a podmínky jeho užívání",
+      "content": "Řidič kontroluje před začátkem, v průběhu a po ukončení užívání zpoplatněné pozemní komunikace podle návodu, zda je elektronické zařízení plně funkční, a bezodkladně nahlásí provozovateli systému elektronického mýtného jakékoliv zjištěné vady nebo nedostatky ve fungování elektronického zařízení. V průběhu jízdy řidič dbá signálů elektronického zařízení podle návodu. Pro účely tohoto ustanovení se ukončením užívání zpoplatněné pozemní komunikace a jeho opětovným začátkem myslí také jakékoliv přerušení jízdy po zpoplatněné pozemní komunikaci."
+    },
+    {
+      "provision_ref": "§ 23a",
+      "section": "23a",
+      "title": "§ 23a Popis nákladů započitatelných pro výpočet mýtného",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 4 - Struktura, popis a způsob výpočtu nákladů a způsob stanovení sazeb mýtného",
+      "content": "(1) Náklady na výstavbu zpoplatněných pozemních komunikací zahrnují veškeré náklady bezprostředně související s jejich výstavbou, které tvoří\na) cena staveb a pozemků,\nb) náklady na financování výstavby zpoplatněných pozemních komunikací,\nc) náklady na zpracování projektové a územně plánovací dokumentace,\nd) náklady na archeologický, geologický a jiný obdobný průzkum,\ne) odpisy ve smyslu jiných právních předpisů4).\n(2) Náklady na údržbu a opravu zpoplatněných pozemních komunikací zahrnují veškeré náklady na běžnou a souvislou údržbu a na opravy, které tvoří\na) náklady na údržbu vozovky a krajnic včetně zimní údržby,\nb) náklady na údržbu dopravního značení, dopravních zařízení a dalšího příslušenství,\nc) náklady na ošetřování silniční vegetace.\n(3) Náklady na správu související s provozem zpoplatněných pozemních komunikací zahrnují ostatní náklady neuvedené v odstavcích 1 a 2, jejichž vynaložení přímo souvisí s provozem na zpoplatněných pozemních komunikacích a které zároveň nesouvisí s výstavbou a provozem systému elektronického mýtného. Mezi tyto náklady patří též platby vyplývající z koncesních smluv.\n(4) Náklady na výstavbu a provoz systému elektronického mýtného zahrnují\na) náklady na výstavbu, zřízení a údržbu stanovišť pro výběr mýtného,\nb) náklady související s provozem, správou, výběrem a vymáháním mýtného,\nc) odpisy ve smyslu jiných právních předpisů4).\n(5) Do nákladů na výstavbu zpoplatněných pozemních komunikací podle odstavce 1 se zahrnou\na) náklady na výstavbu pozemních komunikací dokončených po 10. červnu 1978, do dne nabytí účinnosti této vyhlášky, které se určí poměrem, jenž odpovídá podílu předpokládané doby životnosti zpoplatněné pozemní komunikace, která zbývá po 10. červnu 2008 na celkové předpokládané době životnosti zpoplatněných pozemních komunikací,\nb) náklady vynaložené a předpokládané na výstavbu pozemních komunikací, které jsou ke dni nabytí účinnosti této vyhlášky ve výstavbě,\nc) předpokládané náklady na výstavbu plánovaných pozemních komunikací, které jsou zaneseny v územně plánovací dokumentaci; tyto náklady jsou rozloženy podle plánované životnosti pozemní komunikace, nejméně však na období 20 let."
+    },
+    {
+      "provision_ref": "§ 23b",
+      "section": "23b",
+      "title": "§ 23b Způsob výpočtu nákladů na zpoplatněné pozemní komunikace",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 4 - Struktura, popis a způsob výpočtu nákladů a způsob stanovení sazeb mýtného",
+      "content": "Náklady na zpoplatněné pozemní komunikace se určí poměrem ze součtu nákladů uvedených v § 23a, vztažených ke skutečným nebo předpokládaným provozním výkonům vozidel v systému elektronického mýtného. Při výpočtu nákladů pouze pro určitou část komunikací se použije jen odpovídající část nákladů, vztažená ke skutečným nebo předpokládaným provozním výkonům vozidel v systému elektronického mýtného. Pro výpočet se použijí náklady za kalendářní rok."
+    },
+    {
+      "provision_ref": "§ 23c",
+      "section": "23c",
+      "title": "§ 23c Způsob stanovení sazeb mýtného",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA III - MÝTNÉ > Díl 4 - Struktura, popis a způsob výpočtu nákladů a způsob stanovení sazeb mýtného",
+      "content": "Výpočet sazeb mýtného se provede na skutečném nebo předpokládaném podílu vozidel podléhajících mýtnému na ujetých kilometrech na zpoplatněných pozemních komunikacích. Pro výpočet lze použít pouze podíl nákladů, vypočtených podle § 23a a vztažených zvlášť pro dálnice a rychlostní silnice a zvlášť pro vybrané silnice I. třídy, uvedené v přílohách č. 3 a 4 k této vyhlášce. Uvedený podíl nákladů se přiřadí pouze ke skutečnému nebo předpokládanému podílu vozidel podléhajících mýtnému. Takto stanovený podíl nákladů se rozdělí podle podmínek stanovených v jiném právním předpise5) a vztahuje se vždy ke skutečným nebo předpokládaným provozním výkonům vozidel v systému elektrického mýtného."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Zrušovací ustanovení",
+      "chapter": "ČÁST PRVNÍ - UŽÍVÁNÍ ZPOPLATNĚNÝCH KOMUNIKACÍ > HLAVA IV",
+      "content": "Vyhláška č. 571/2004 Sb., kterou se stanoví vzory kupónů prokazujících zaplacení poplatku za užívání dálnice a rychlostní silnice, způsob jejich vyplňování, způsob vyznačování doby platnosti kupónů s dobou platnosti kratší než kalendářní rok a způsob jejich evidence, ve znění vyhlášky č. 457/2005 Sb., se zrušuje."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "ČÁST DRUHÁ - Změna vyhlášky, kterou se provádí zákon o pozemních komunikacích",
+      "content": "Vyhláška č. 104/1997 Sb., kterou se provádí zákon o pozemních komunikacích, ve znění vyhlášky č. 300/1999 Sb., vyhlášky č. 355/2000 Sb., vyhlášky č. 367/2001 Sb., vyhlášky č. 555/2002 Sb., vyhlášky č. 305/2005 Sb., vyhlášky č. 325/2005 Sb. a vyhlášky č. 490/2005 Sb., se mění takto:\n1. Část šestá se včetně nadpisu a poznámky pod čarou č. 2 zrušuje.\n2. Příloha č. 4 se zrušuje."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2007, s výjimkou přílohy č. 4, která nabývá účinnosti dnem 1. července 2007.\nPříloha č. 3 k vyhlášce č. 527/2006 Sb.\nSeznam dálnic a rychlostních silnic, jejichž užití podléhá mýtnému\n(K § 20 odst. 1 zákona)\nOznačení Úsek Délka (km)\nD1Praha, Spořilov – Říkovice (exity 1-272)271,9\nD1Lipník nad Bečvou – státní hranice (exit 298 až km 377)79,5\nD2 Brno, jih – státní hranice (exit 1 až km 61)61,0\nD3 Mezno – Čekanice (exity 62-76)14,2\nD5 Praha, Třebonice – státní hranice (exit 1 až km 151) 150,9\nD8 Praha, Březiněves – státní hranice (km -3,5 až km 92) 95,6\nD11 Praha, Horní Počernice – Sedlice (exity 1-84) 84,7\nR1 Praha, Satalice – Praha, Běchovice 3,3\nR1 Modletice (D1/R1) – Praha, Ruzyně-staré letiště (exity 76-28) 35,4\nR4 Jíloviště – Skalka (exity 8/9-41) 31,6\nR4 Radobytce – Nová Hospoda (exity 77-84) 6,8\nR6 Praha, Řepy – Nové Strašecí (exity 1-32)31,7\nR6 Jenišov – Cheb, sever (exity 131-169) 37,5\nR7 Praha, Ruzyně-letiště – Knovíz (exity 2-18) 16,6\nR7 Bítozeves – Žiželice (exity 60-66) 5,3\nR10 Praha, Satalice – Ohrazenice (exity 1-71) 71,3\nR35 Liberec, Hodkovická – Ohrazenice (exity 26-44) 17,5\nR35 Sedlice – Opatovice (exity 126-129) 4,1\nR35 Mohelnice, jih – Křelov (exity 235-261) 25,8\nR35 Olomouc, Topolany – Lipník nad Bečvou (km 264 až exit 296) 33,0\nR46 Vyškov, východ – Olomouc, Slavonín (exit 1 až km 39) 39,2\nR48 Bělotín – Bělotín, východ (exity 1-3) 3,5\nR48 Rychaltice – Frýdek-Místek, západ (exity 38–45)\n(bude zpoplatněno až po zprovoznění a příslušném dopravním značení celého úseku) 6,7\nR48 Frýdek-Místek – Žukov (km 47 až exit 70) 19,4\nR52 Rajhrad – Pohořelice, jih (exity 10-26) 16,9\nR55 Hulín – Otrokovice (exity 16-32) 16,4\nR56 Ostrava, Hrabová – Frýdek-Místek (exity 39-51) 12,2\nR63 Bystřany – Řehlovice (exity 1-7) 7,0\nPříloha č. 4 k vyhlášce č. 527/2006 Sb.\nSeznam silnic I. třídy, jejichž užití podléhá mýtnému\n(K § 20 odst. 1 zákona)\nOznačení Úsek Délka (km)\nI/7 Panenský Týnec – Smolnice (exity 37-41) 2,5\nI/11 Hradec Králové, Kukleny – Hradec Králové, Plotiště nad Labem 3,4\nI/11 Český Těšín, Svibice – Mosty u Jablunkova, státní hranice 23,1\nI/30 Lhotka nad Labem – Ústí nad Labem, Vaňov 14,4\nI/33 Plotiště nad Labem – Náchod, Branka 29,2\nI/35 Křelov – Olomouc, Řepčín (okružní křižovatka) 2,4\nI/35 Horní Chrastava – Liberec, Hodkovická (exit 26) 12,8\nI/38 Jihlava, Bedřichov – Jihlava, západ 3,6\nI/46 Olomouc, Slavonín – Olomouc, centrum 1,1\nI/47 Kroměříž, východ – Hulín 3,6\nI/47 Přerov – Bělotín 22,4\nI/48 Bělotín, východ – Frýdek-Místek\n(bude zpoplatněno pouze do zprovoznění a po příslušném dopravním značení úseku R48 Rychaltice – Frýdek-Místek, západ) 40,0\nI/48 Bělotín, východ – Rychaltice\n(bude zpoplatněno až po zprovoznění a příslušném dopravním značení úseku R48 Rychaltice – Frýdek-Místek, západ) 33,8\nI/52 Modřice, sever – Rajhrad 4,3\nI/52 Pohořelice, jih – Mikulov, státní hranice 20,7\nI/55 Přerov, Horní Moštěnice – Hulín (I/47) 11,4\nI/58 Skotnice – Krmelín 13,2\n1) Nařízení EHK/OSN č. 49 – Jednotná ustanovení pro homologaci vznětových motorů, motorů poháněných zemním plynem a zážehových motorů poháněných zkapalněnými ropnými plyny.\n2) Směrnice Evropského parlamentu a Rady 1999/96/ES ze dne 13. prosince 1999 o sbližování právních předpisů členských států týkajících se opatření proti emisím plynných znečišťujících látek a znečišťujících částic ze vznětových motorů vozidel a emisím plynných znečišťujících látek ze zážehových motorů vozidel poháněných zemním plynem nebo zkapalněným ropným plynem a o změně směrnice Rady 88/77/EHS.\n3) § 15 vyhlášky č. 341/2002 Sb., o schvalování technické způsobilosti a o technických podmínkách provozu vozidel na pozemních komunikacích.\n4) Například zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\n5) § 3 a 4 nařízení vlády č. 484/2006 Sb., o výši časových poplatků a o výši sazeb mýtného za užívání určených pozemních komunikací, ve znění pozdějších předpisů.\n6) Příloha č. 18 k vyhlášce č. 341/2002 Sb., o schvalování technické způsobilosti a o technických podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "distribučním místem",
+      "definition": "místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kontaktním místem",
+      "definition": "místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kontrolním zařízením veškeré stavební celky a jiná technická",
+      "definition": "zařízení stacionární nebo přenosná, sloužící ke kontrole dodržování mýtné povinnosti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "mýtným bodem",
+      "definition": "místo na zpoplatněné komunikaci, kde je zaznamenáván průjezd vozidla",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "režimem následného hrazení způsob úhrady mýtného po použití zpoplatněné pozemní",
+      "definition": "komunikace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "režimem placení předem způsob úhrady",
+      "definition": "kdy je mýtné hrazeno před užitím zpoplatněné pozemní komunikace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "telefonním centrem",
+      "definition": "místo určené provozovatelem systému elektronického mýtného, kde jsou poskytovány služby, pokud tak vyplývá z této vyhlášky nebo ze smluvních podmínek provozovatele systému elektronického mýtného.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

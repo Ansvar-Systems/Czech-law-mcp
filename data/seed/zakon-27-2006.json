@@ -1,0 +1,49 @@
+{
+  "id": "cz:27/2006",
+  "type": "statute",
+  "title": "27/2006 Sb., Vyhláška, kterou se mění vyhláška Státního úřadu pro jadernou bezpečnost č. 319/2002 Sb., o funkci a organizaci celostátní radiační monitorovací sítě",
+  "title_en": "",
+  "short_name": "27/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-01-26",
+  "in_force_date": "2006-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/27",
+  "description": "Vyhláška, kterou se mění vyhláška Státního úřadu pro jadernou bezpečnost č. 319/2002 Sb., o funkci a organizaci celostátní radiační monitorovací sítě",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "1. V § 4 odstavec 1 zní:\n„(1) Monitorovací síť tvoří stálé složky monitorovací sítě, které pracují nepřetržitě za obvyklé radiační situace a za radiační mimořádné situace, a pohotovostní složky monitorovací sítě, které se aktivují při podezření na vznik nebo při vzniku radiační mimořádné situace. Pohotovostní složky monitorovací sítě nemohou být současně zařazeny mezi stálé složky monitorovací sítě.“.\n2. V § 4 odst. 2 písmeno d) zní:\n„d) měřicí místa kontaminace potravin, kterými jsou prostředky pro zajištění odběru vzorků z článků potravních řetězců a pro stanovení aktivity radionuklidů v těchto vzorcích,“.\n3. V § 4 odst. 2 se za písmeno d) vkládá nové písmeno e), které zní:\n„e) měřicí místa kontaminace vody, kterými jsou prostředky pro zajištění odběru vzorků vody, říčních sedimentů a ryb a pro stanovení aktivity radionuklidů v těchto vzorcích,“.\nDosavadní písmena e) až i) se označují jako písmena f) až j).\n4. V § 4 odst. 2 se za písmeno g) vkládá nové písmeno h), které zní:\n„h) letecké skupiny, které provádějí monitorování dávek, dávkových příkonů a aktivity radionuklidů v terénu,“.\nDosavadní písmena h) až j) se označují jako písmena i) až k).\n5. V § 4 odst. 3 se písmeno c) zrušuje.\nDosavadní písmena d) až h) se označují jako písmena c) až g).\n6. V § 5 odst. 3 v úvodní části ustanovení se za slova „radiační mimořádné situace“ vkládají slova „nebo při podezření na její vznik“.\n7. Příloha zní:\n„Příloha k vyhlášce č. 319/2002 Sb."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST B",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 2006."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Složky potravních řetězců",
+      "definition": "minimální počet lokalit, pro které se vytváří směsný vzorek získaný odběrem z více míst dané lokality",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Minimálním počtem míst z území ČR v části „Složky potravních řetězců",
+      "definition": "minimální počet lokalit, pro které se vytváří směsný vzorek získaný odběrem z více míst dané lokality",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Dávkou (příkonem dávky",
+      "definition": "hodnota dozimetrické veličiny (za jednotku času), v níž je měřící zařízení kalibrováno (§ 3 a § 4 vyhlášky č",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Plošnou aktivitou",
+      "definition": "podíl aktivity a plochy, ze které byl vzorek odebírán",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

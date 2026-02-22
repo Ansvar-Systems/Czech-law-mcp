@@ -1,0 +1,39 @@
+{
+  "id": "cz:351/1990",
+  "type": "statute",
+  "title": "351/1990 Sb., Vyhláška federálního ministerstva zahraničního obchodu o zákazu obchodního vývozu některých druhů zboží",
+  "title_en": "",
+  "short_name": "351/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-08-28",
+  "in_force_date": "1991-07-10",
+  "url": "https://www.e-sbirka.cz/sb/1990/351",
+  "description": "Vyhláška federálního ministerstva zahraničního obchodu o zákazu obchodního vývozu některých druhů zboží",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Vývoz automobilového benzínu, motorové nafty, lehkých a těžkých topných olejů je možné uskutečňovat jen po udělení souhlasu federálního ministerstva zahraničního obchodu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Vývoz kovového odpadu je možné uskutečňovat jen po udělení souhlasu federálního ministerstva zahraničního obchodu.\n(2) Kovovým odpadem se rozumí kovový odpad uvedený v ustanovení § 1 odst. 2 vyhlášky ministerstva hutního průmyslu a rudných dolů č. 106/1960 Sb., o hospodaření s kovovým odpadem, ve znění vyhlášky č. 103/1981 Sb."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kovovým odpadem",
+      "definition": "kovový odpad uvedený v ustanovení § 1 odst",
+      "source_provision": "§ 2"
+    }
+  ]
+}

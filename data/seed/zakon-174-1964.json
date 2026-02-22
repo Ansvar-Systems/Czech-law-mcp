@@ -1,0 +1,36 @@
+{
+  "id": "cz:174/1964",
+  "type": "statute",
+  "title": "174/1964 Sb., Vyhláška Správy federálních hmotných rezerv  o základních podmínkách dodávky státních hmotných rezerv",
+  "title_en": "",
+  "short_name": "174/1964 Sb.",
+  "status": "in_force",
+  "issued_date": "1964-09-03",
+  "in_force_date": "1990-05-01",
+  "url": "https://www.e-sbirka.cz/sb/1964/174",
+  "description": "Vyhláška Správy federálních hmotných rezerv  o základních podmínkách dodávky státních hmotných rezerv",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "Oddíl I - Obecná ustanovení",
+      "content": "(1) Tyto základní podmínky dodávky se vztahují na všechny dodávky uskutečněné do federálních hmotných rezerv, včetně dodávek z dovozu a na všechny dodávky z federálních hmotných rezerv s výjimkou dodávek pro vývoz.\n(2) Dále se tyto základní podmínky vztahují na dodávky státních rezerv pro hospodářské mobilizační přípravy národního hospodářství."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Záruční doba",
+      "chapter": "Oddíl I - Obecná ustanovení",
+      "content": "(k § 135 zákona)\nZáruční doba činí - pokud není základními podmínkami dodávky vydanými dodavatelskými ministerstvy nebo Státní arbitráží Československé socialistické republiky stanovena jiná doba - 6 měsíců od splnění dodávky. U dodávek do státních hmotných rezerv končí záruční doba 6 měsíců po uplynutí doby ochraňování. Doba ochraňování je stanovena usnesením vlády Československé socialistické republiky. Není-li tímto způsobem stanovena, dohodnou ji organizace ve smlouvě."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Účinnost",
+      "chapter": "Oddíl IV - Závěrečné ustanovení",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1964."
+    }
+  ],
+  "definitions": []
+}

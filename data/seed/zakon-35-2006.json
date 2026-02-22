@@ -1,0 +1,33 @@
+{
+  "id": "cz:35/2006",
+  "type": "statute",
+  "title": "35/2006 Sb., Vyhláška, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 186/1996 Sb., kterou se stanoví podrobnosti barvení a značkování některých uhlovodíkových paliv a maziv, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "35/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-02-09",
+  "in_force_date": "2006-02-09",
+  "url": "https://www.e-sbirka.cz/sb/2006/35",
+  "description": "Vyhláška, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 186/1996 Sb., kterou se stanoví podrobnosti barvení a značkování některých uhlovodíkových paliv a maziv, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 186/1996 Sb., kterou se stanoví podrobnosti barvení a značkování některých uhlovodíkových paliv a maziv, ve znění vyhlášky č. 348/2000 Sb., vyhlášky č. 443/2003 Sb. a vyhlášky č. 230/2004 Sb., se mění takto:\n1. V § 3 odst. 1 se věta první nahrazuje větou „Vzorek paliva nebo maziva (dále jen „vzorek“) je oprávněn odebrat příslušný státní orgán.“.\n2. V § 3 odst. 2 písmeno b) zní:\n„b) v české technické normě ČSN EN ISO 3170 Kapalné ropné výrobky – ruční odběr vzorků, v ostatních případech.“.\n3. V § 3 odst. 3 se slova „v příloze č. 2 této vyhlášky“ nahrazují slovy „v české technické normě ČSN EN ISO 3170 Kapalné ropné výrobky – ruční odběr vzorků“.\n4. V § 5 se odstavec 5 zrušuje.\n5. Příloha č. 2 se zrušuje.\n6. V příloze č. 4 se slova „položka celního sazebníku“ nahrazují slovy „kód nomenklatury4)“.\nPoznámka pod čarou č. 4 zní:\n„4) Nařízení Rady 2658/87/ES ze dne 23. července 1987 o celní a statistické nomenklatuře a o společném celním sazebníku, v platném znění.“.\n7. V příloze č. 4 se slova „ex1)“ nahrazují slovy „ex*“.\nDosavadní poznámka pod čarou č. 1 se zrušuje a na konci textu přílohy č. 4 se doplňuje vysvětlivka, která zní:\n„* Pokud je před kódem nomenklatury uvedeno označení „ex“, znamená to, že barvena a značkována nesmějí být pouze ta paliva a maziva, která jsou v této příloze takto označena.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "* Pokud je před kódem nomenklatury uvedeno označení „ex",
+      "definition": "to, že barvena a značkována nesmějí být pouze ta paliva a maziva, která jsou v této příloze takto označena",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

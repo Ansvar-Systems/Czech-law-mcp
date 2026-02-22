@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:33/1949",
+  "type": "statute",
+  "title": "33/1949 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravsko-slezských cementáren a vápenic, národního podniku.",
+  "title_en": "",
+  "short_name": "33/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-07",
+  "in_force_date": "1949-01-07",
+  "url": "https://www.e-sbirka.cz/ul1/1949/33",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravsko-slezských cementáren a vápenic, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Antonín Basler a spol., velkoobchod stavebními potřebami, Valašské Meziříčí,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Hubert Wiesner a spol., obchod stavebninami, Brno, Cejl 1239,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. František Strádal, velkoobchod stavebninami a palivem, Prostějov, Kostelecká 31,\nvesměs v rozsahu jejich znárodnění."
+    }
+  ],
+  "definitions": []
+}

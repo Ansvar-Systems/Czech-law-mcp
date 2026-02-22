@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:42/1953",
+  "type": "statute",
+  "title": "42/1953 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro skladování tuhých paliv, pro aceton čištěný a pro obsah pryskyřičných látek.",
+  "title_en": "",
+  "short_name": "42/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-01-31",
+  "in_force_date": "1959-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/42",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro skladování tuhých paliv, pro aceton čištěný a pro obsah pryskyřičných látek.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Norma ČSN 44 1315 Skladování tuhých paliv je od 1 března 1953 technickou státní normou.\n(2) Norma stanovuje způsob skladování, aby se zajistilo správné hospodaření tuhými palivy na skládkách."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 66 1451 „Aceton čištěný a technický“ je od 1. ledna 1953 technickou státní normou.\n(2) Norma platí pro aceton čištěný (synthetický), připravený suchou destilací octanu vápenatého a kvasením. Mimo jiné jedná o názvosloví, technických požadavcích, zkoušení, přejímání, balení, označování a dopravě."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Technickou státní normou od 1. ledna 1953 je norma ČSN 65 6178 Motorová paliva. Obsah pryskyřičných látek.\n(2) Norma platí pro zkoušení benzinů a benzinových pohonných směsí motorových."
+    }
+  ],
+  "definitions": []
+}

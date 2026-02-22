@@ -1,0 +1,39 @@
+{
+  "id": "cz:469/2000",
+  "type": "statute",
+  "title": "469/2000 Sb., Nařízení vlády, kterým se stanoví obsahové náplně jednotlivých živností",
+  "title_en": "",
+  "short_name": "469/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-12-29",
+  "in_force_date": "2006-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/469",
+  "description": "Nařízení vlády, kterým se stanoví obsahové náplně jednotlivých živností",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Toto nařízení stanoví obsahové náplně jednotlivých živností takto:\na) v příloze č. 1 obsahové náplně řemeslných živností,\nb) v příloze č. 2 obsahové náplně vázaných živností,\nc) v příloze č. 3 obsahové náplně koncesovaných živností,\nd) v příloze č. 4 obsahové náplně volných živností."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Zrušovací ustanovení",
+      "content": "Zrušuje se nařízení vlády č. 28/1998 Sb., kterým se stanoví obsahové náplně řemeslných živností."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2001.\nPříloha č. 1 k nařízení vlády č. 469/2000 Sb.\nOBSAHOVÉ NÁPLNĚ ŘEMESLNÝCH ŽIVNOSTÍ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Shromažďování, přeprava, skladování a zneškodňování nebezpečných odpadů (přičemž zneškodňováním nebezpečných odpadů",
+      "definition": "takové nakládání s nimi, které vede k trvalému zabránění škodlivým vlivům na složky životního prostředí; jde zejména o termickou a chemickou úpravu, fyzikální a biologickou stabilizaci, jakož i ukládání na skládku a do podzemních prostor), včetně péče o místo zneškodňování",
+      "source_provision": "§ 3"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:1332/1946",
+  "type": "statute",
+  "title": "1332/1946 Ú. l. I, Vyhláška ministra výživy o zastavení některých lihovarských podniků.",
+  "title_en": "",
+  "short_name": "1332/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-18",
+  "in_force_date": "1946-05-18",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1332",
+  "description": "Vyhláška ministra výživy o zastavení některých lihovarských podniků.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Jan Varmuža, lihovar a rafinerie lihu, Hodonín."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Průmyslový lihovar a lihočistna, Jarka Michl, Rtyně n. Bíl."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Zemanova továrna na droždí, Medlešice."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Rafinerie lihu Adolf Spitzer, Znojmo."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Eisler a Szold, liehovar a rafinéria liehu, Horné Saliby."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "content": "6. Schöller a spol., rafinéria liehu, Kálnica pri Leviciach."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "content": "7. Dr. Aladár Wohl, rafinéria liehu, Lučenec."
+    },
+    {
+      "provision_ref": "Bod 8",
+      "section": "8",
+      "title": "Bod 8",
+      "content": "8. Dr. Aladár Wohl, liehovar, Mučín pri Lučenci."
+    }
+  ],
+  "definitions": []
+}

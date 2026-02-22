@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:139/1951",
+  "type": "statute",
+  "title": "139/1951 Ú. l. I, Vyhláška ministra financí o změně podmínek splácení a úrokování závazků převedených na Fond znárodněného hospodářství.",
+  "title_en": "",
+  "short_name": "139/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-03-14",
+  "in_force_date": "1951-03-14",
+  "url": "https://www.e-sbirka.cz/ul1/1951/139",
+  "description": "Vyhláška ministra financí o změně podmínek splácení a úrokování závazků převedených na Fond znárodněného hospodářství.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Splatnost závazků převedených podle § 3 odst. 1 písm. e) a f) zákona č. 51/1948 Sb., o úpravě některých finančních poměrů národních podniků průmyslových a potravinářských, a podle § 6 odst. 1 zákona č. 104/1950 Sb. na Fond znárodněného hospodářství a jich úrokování se až na další odkládá. Toto ustanovení se nevztahuje na pohledávky z běžných dodávek."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministerstvo financí může však dáti souhlas v případech zvláštního zřetele hodných k vypořádání závazků, jichž splatnost se podle § 1 odkládá, a změniti při tom případně podmínky jejich splácení a úrokování nebo vydat směrnice, podle nichž Fond znárodněného hospodářství vypořádá takové závazky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

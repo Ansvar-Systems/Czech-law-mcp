@@ -1,0 +1,78 @@
+{
+  "id": "cz:273/1999",
+  "type": "statute",
+  "title": "273/1999 Sb., Vyhláška Ministerstva obrany, kterou se vymezují určená technická zařízení používaná s vojenskou výstrojí, vojenskou výzbrojí, vojenskou technikou a ve vojenských objektech a provádění zkoušek určených technických zařízení",
+  "title_en": "",
+  "short_name": "273/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-11-26",
+  "in_force_date": "1999-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1999/273",
+  "description": "Vyhláška Ministerstva obrany, kterou se vymezují určená technická zařízení používaná s vojenskou výstrojí, vojenskou výzbrojí, vojenskou technikou a ve vojenských objektech a provádění zkoušek určených technických zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Základní ustanovení",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "Technická zařízení podléhající státnímu dozoru orgánů Ministerstva obrany (dále jen „ministerstvo“) jsou určená technická zařízení tlaková, plynová, elektrická, zdvihací, ochranná a ostatní, která jsou konstruována a vyráběna k použití s vojenskou výstrojí, vojenskou výzbrojí, vojenskou technikou, a určená technická zařízení konstruovaná a vyráběná pro potřeby ozbrojených sil umístěná ve vojenských objektech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Zařízení tlaková",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "Zařízení tlaková jsou zejména\na) tlakové nádoby stabilní, jejichž nejvyšší pracovní přetlak převyšuje 0,05 MPa a které obsahují plyn, páry nebo žíravé, jedovaté a výbušné kapaliny o jakékoliv teplotě nebo ostatní kapaliny o teplotě převyšující jejich bod varu při přetlaku 0,05 MPa,\nb) tlakové nádoby k dopravě plynů, jejichž kritická teplota je nižší než +50 °C, nebo plynů, u nichž při teplotě +50 °C je absolutní tlak par vyšší než 0,3 MPa,\nc) potrubí, jehož jmenovitý průměr je větší než 25 mm a pracovní látkou jsou hořlavé, žíravé, jedovaté, výbušné nebo ekologicky nebezpečné látky o nejvyšším pracovním přetlaku větším než 0,05 MPa nebo ostatní plyny a páry o nejvyšším pracovním přetlaku vyšším než 1 MPa,\nd) bezpečnostní zařízení zajišťující sledování a dodržení přetlaků, teplot a úrovní hladiny, kde jejich možné nedodržení stanovených mezí ohrožuje bezpečnost vyhrazených tlakových nebo plynových zařízení, a zařízení určená k odkalování kotlů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zařízení plynová",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "(1) Zařízení plynová skupiny A jsou zejména zařízení\na) pro výrobu plynů, kde plyn je hlavním výrobním produktem, včetně zařízení, kterými se plyn upravuje, popřípadě zkapalňuje nebo vypařuje,\nb) ke skladování plynů,\nc) k plnění tlakových nádob na dopravu plynů,\nd) bateriových tlakových stanic jako souhrnného celku sloužícího k odběru plynů,\ne) kompresorových stanic,\nf) regulačních stanic,\ng) k rozvodu plynů hořlavých, jedovatých, zdraví škodlivých, inertních a hoření podporujících, s výjimkou vzduchu, s pracovním přetlakem vyšším než 5,0 kPa,\nh) pro spotřebu plynů spalováním s jednotkovým výkonem vyšším než 50 kW, tj. průmyslové pece, spotřebiče a zařízení plynového otopu kotlů a pece s řízenou atmosférou.\n(2) Zařízení plynová skupiny B jsou zejména\na) jednoduché tlakové stanice jako součást souhrnného funkčního celku sloužícího k odběru plynu z nejvýše dvou tlakových nádob na dopravu plynů,\nb) zařízení k rozvodu hořlavých plynů s pracovním přetlakem nepřevyšujícím 5,0 kPa,\nc) zařízení pro spotřebu plynů spalováním s jednotkovým výkonem nepřevyšujícím 50 kW.\n(3) Za plyny se zde považují látky, jejichž kritická teplota je nižší než +50 °C, nebo látky, u nichž je při teplotě +50 °C absolutní tlak par vyšší než 0,3 MPa, včetně směsí plynů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zařízení elektrická",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "Zařízení elektrická jsou zejména zařízení\na) pro výrobu, přeměnu, rozvod a odběr elektrické energie,\nb) určená k ochraně před účinky atmosférické a statické elektřiny."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zařízení zdvihací",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "(1) Zdvihací zařízení skupiny A jsou zařízení s vysokým rizikem nebezpečí úrazu osob nebo jejich ohrožení a jsou jimi zejména\na) zdvihadla, pojízdná zdvihadla a jeřáby s motorovým pohonem o nosnosti 1 000 kg a více,\nb) zdvihadla, pojízdná zdvihadla s ručním pohonem o nosnosti 5 000 kg a více,\nc) hydraulické ruky,\nd) pohyblivé pracovní plošiny s výškou zdvihu nad 1,5 m,\ne) regálové zakladače a stohovací jeřáby.\n(2) Zdvihací zařízení skupiny B jsou zařízení s nižším rizikem nebezpečí úrazu osob nebo jejich ohrožení a jsou jimi zejména\na) zdvihadla, pojízdná zdvihadla a jeřáby do nosnosti 1 000 kg s motorovým pohonem,\nb) zdvihadla, pojízdná zdvihadla a jeřáby o nosnosti 1 000 kg až 5 000 kg s ručním pohonem,\nc) zdvihací ústrojí dopravních vozíků a nakladačů určených pro zdvihání a přepravu břemen pomocí prostředků pro vázání, zavěšení nebo uchopení,\nd) zdvihací rampy, plošiny, stojanové zvedáky a zvedací čela, jimiž se zdvíhají břemena,\ne) vrátky, které jsou použity jako zařízení ke zvedání břemen,\nf) svisle posuvná vrata s motorovým pohonem,\ng) prostředky pro vázání, zavěšení nebo uchopení břemen o nosnosti nad 100 kg používané u zdvihacích zařízení."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Zařízení ostatní a ochranná",
+      "chapter": "ČÁST PRVNÍ - URČENÁ TECHNICKÁ ZAŘÍZENÍ",
+      "content": "(1) Zařízení ostatní jsou zařízení určená k zabezpečení činnosti ozbrojených sil.\n(2) Zařízení ochranná jsou zařízení zajišťující bezpečnost osádek a obsluh a osobní ochranné prostředky."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST DRUHÁ - PROVÁDĚNÍ ZKOUŠEK URČENÝCH TECHNICKÝCH ZAŘÍZENÍ",
+      "content": "Zkoušky určených technických zařízení se provádí ve vojenských zařízeních stanovených ministerstvem."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST DRUHÁ - PROVÁDĚNÍ ZKOUŠEK URČENÝCH TECHNICKÝCH ZAŘÍZENÍ",
+      "content": "Zkoušky určených technických zařízení se provádí v závislosti na jejich technickém stavu a charakteru provozu, nejméně však v rozsahu a lhůtách stanovených příslušnými technickými předpisy nebo normami."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1999."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:307/2010",
+  "type": "statute",
+  "title": "307/2010 Sb., Vyhláška o nákladových indexech věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2011",
+  "title_en": "",
+  "short_name": "307/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-11-15",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/307",
+  "description": "Vyhláška o nákladových indexech věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2011",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Nákladové indexy pro přerozdělování pojistného na všeobecné zdravotní pojištění pro rok 2011 jsou stanoveny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.\nPříloha k vyhlášce č. 307/2010 Sb.\nNákladové indexy pro přerozdělování pojistného na všeobecné zdravotní pojištění pro rok 2011\nVěková skupina\npojištěnců Nákladové indexy podle\npohlaví pojištěnců\noddomužiženy\n051,55671,4063\n5100,93090,7956\n10150,90210,9107\n15200,79421,0000\n20250,67591,0082\n25300,75881,3553\n30350,85551,4650\n35400,94221,3843\n40451,13381,4611\n45501,36331,7352\n50551,92442,1499\n55602,63632,4308\n60653,34492,8661\n65704,13753,5249\n70754,89534,1064\n75805,55224,7384\n80855,62574,9609\n85a více5,62445,3359"
+    }
+  ],
+  "definitions": []
+}

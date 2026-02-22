@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:943/1947",
+  "type": "statute",
+  "title": "943/1947 Ú. l. I, Vyhláška ministra vnitra o převodu působnosti bývalých státních policejních úřadů na místní národní výbory.",
+  "title_en": "",
+  "short_name": "943/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-09-09",
+  "in_force_date": "1948-04-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/943",
+  "description": "Vyhláška ministra vnitra o převodu působnosti bývalých státních policejních úřadů na místní národní výbory.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Okresní národní výbory, které jsou uvedeny dále v § 2, budou jakožto správní úřady národní bezpečnosti první stolice vykonávati v obvodech uvedených v § 3 do 31. března 1948 v rozsahu věcné působnosti býv. státních policejních úřadů tyto úkoly národní bezpečnosti, jež by jinak podle všeobecných předpisů ve smyslu § 35, odst. 1 uvedeného zákona přešly na místní národní výbory:\na) péči o bezpečnost osoby a majetku,\nb) péči o snadnost a bezpečnost dopravy na cestách,\nc) ohlašovací službu policejní,\nd) policii mravnostní."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vykonáváním úkolů uvedených v § 1 se pověřují tyto správní úřady národní bezpečnosti první stolice:\n1. V zemi České: okresní národní výbory v Aši, Broumově, Českých Budějovicích, Českém Krumlově, České Lípě, Děčíně, Duchcově, Falknově nad Ohří, Hradci Králové, Chebu, Chomutově, Jablonci nad Nisou, Kadani, Karlových Varech, Kladně, Litoměřicích, Mariánských Lázních, Mostě, Náchodě, Prachaticích, Rumburku, Teplicích-Šanově, Trutnově, Ústí nad Labem, Varnsdorfu a Žatci.\n2. V zemi Moravskoslezské: okresní národní výbory v Jihlavě, Mikulově, Moravské Třebové, Rýmařově, Šternberku, Šumperku a ve Znojmě; v Českém Těšíně, Jeseníku, Krnově a v Novém Jičíně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Obvodem, v němž pověřený okresní národní výbor (§ 2) bude vykonávati působnost místních národních výborů (§ 1), rozumí se území obcí, na němž tuto působnost vykonávaly dne 6. září 1947 ředitelství národní bezpečnosti nebo okresní národní výbor — referát národní bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Ostatní obory činnosti, převzaté z působnosti obcí dřívějšími státními policejními úřady a vykonávané dosud ředitelstvími národní bezpečnosti a okresními národními výbory — referáty národní bezpečnosti, přecházejí dnem účinnosti zákona o národní bezpečnosti podle § 35, odst. 1 uvedeného zákona opět na příslušné místní národní výbory.\n(2) Místní národní výbory, kterých se tato vyhláška týká, jsou povinny učinit opatření, aby mohly převzíti od 1. října 1948 i úkoly uvedené v § 1."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Touto vyhláškou se ruší výnos ministerstva vnitra ze dne 31. července 1946, čís. 3710-31/7-46-14-Va/2, o působnosti referátů národní bezpečnosti okresních národních výborů."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 7. září 1947."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Obvodem, v němž pověřený okresní národní výbor (§ 2) bude vykonávati působnost místních národních výborů (§ 1",
+      "definition": "se území obcí, na němž tuto působnost vykonávaly dne 6",
+      "source_provision": "§ 3."
+    }
+  ]
+}

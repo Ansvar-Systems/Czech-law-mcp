@@ -1,0 +1,33 @@
+{
+  "id": "cz:478/2006",
+  "type": "statute",
+  "title": "478/2006 Sb., Vyhláška o způsobu výpočtu škody vzniklé držiteli licence neoprávněným odběrem tepla",
+  "title_en": "",
+  "short_name": "478/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-10-31",
+  "in_force_date": "2007-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/478",
+  "description": "Vyhláška o způsobu výpočtu škody vzniklé držiteli licence neoprávněným odběrem tepla",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Škoda vzniklá držiteli licence na výrobu nebo rozvod tepelné energie se stanovuje podle výše nákladů na dodávku neoprávněně odebraného tepla pro vytápění, přípravu teplé užitkové vody, či pro jiné využití. Náklady na neoprávněně odebrané teplo dodané v teplé užitkové vodě se stanoví podle prováděcího právního předpisu1).\n(2) Množství neoprávněně odebraného tepla pro vytápění nebo pro jiné využití se stanoví podle údajů stanovených měřidel za dobu trvání neoprávněného odběru tepla. Není-li možné zjistit dobu trvání neoprávněného odběru tepla, má se za to, že trval nepřetržitě ode dne posledního odečtu měřicího zařízení do dne zjištění, s výjimkou dnů mimo topné období a dnů, kdy dodávka tepla byla přerušena.\n(3) Není-li dodávka tepla pro vytápění či jiné účely měřena, stanoví se množství neoprávněně odebrané tepelné energie jako součin plného příkonu všech spotřebičů tepla, doby jejich denního skutečného využití a počtu dnů, po které neoprávněný odběr tepla trval, vyjma dnů mimo topné období a dnů, kdy byla dodávka tepla přerušena. Pokud nelze zjistit dobu skutečného denního využití, má se za to, že trvalo 16 hodin. Pokud nelze zjistit plný příkon všech spotřebičů, určí se podle maximálního možného průtoku a průměrné teploty teplonosné látky v odběrném místě. Není-li možné zjistit dobu trvání neoprávněného odběru tepla, má se za to, že trval 100 dnů.\n(4) Dojde-li k odběru tepla pro vytápění či jiné účely z rozvodného zařízení dodavatele bez měřicího zařízení nebo přes měřicí zařízení, které v důsledku zásahu odběratele odběr nezaznamenává, či zaznamenává odběr menší než skutečný, nebo bylo-li měřicí zařízení přemístěno bez souhlasu dodavatele nebo bylo porušeno zajištění proti neoprávněné manipulaci a nebyla splněna oznamovací povinnost podle § 78 odst. 4 věty druhé zákona, stanoví se denní náklady na neoprávněně odebrané teplo podle maximální možné hodnoty průtoku a průměrné teploty teplonosné látky neoprávněně připojeným zařízením po dobu 16 hodin denně. Celkové náklady se stanoví jako součin denních nákladů a počtu dnů, po které neoprávněný odběr tepla trval, s výjimkou dnů mimo topné období a dnů, kdy byla dodávka přerušena. Není-li možné zjistit dobu trvání neoprávněného odběru tepla, má se za to, že trval 100 dnů.\n(5) Pro výpočet škody způsobené neoprávněným odběrem tepla se použijí ceny uplatňované v souladu s cenovými předpisy k datu zjištění neoprávněného odběru tepla."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Vyhláška č. 223/2001 Sb., kterou se stanoví způsob výpočtu podílu odběratele na účelně vynaložených nákladech dodavatele, spojených s připojením a zajištěním dodávek tepelné energie a způsob výpočtu škody vzniklé držiteli licence neoprávněným odběrem tepelné energie, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2007.\n1) Vyhláška č. 477/2006 Sb., o stanovení způsobu rozdělení nákladů za dodávku tepelné energie při společném měření množství odebrané tepelné energie na přípravu teplé užitkové vody pro více odběrných míst."
+    }
+  ],
+  "definitions": []
+}

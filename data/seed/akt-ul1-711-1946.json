@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:711/1946",
+  "type": "statute",
+  "title": "711/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách dřevěného uhlí v obchodě.",
+  "title_en": "",
+  "short_name": "711/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-01",
+  "in_force_date": "1946-03-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/711",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách dřevěného uhlí v obchodě.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Nejvyšší přípustné prodejní ceny dřevěného uhlí v obchodě se tvoří:\na) z nákupní ceny,\nb) z nákladů na dopravu.\nc) z obchodního rozpětí.\n(2) Nákupní cenou se rozumějí ceny dodavatelem účtované v úředně přípustné výši, po odečtení případných slev a rabatů s výjimkou skonta.\n(3) Náklady na dopravu se rozumí dovozné z místa výroby do stanice nakládací, dopravné po železnici z nakládací stanice do stanice příjemce, dovozné ze stanice příjemce do skladu obchodníka, jakož i výlohy za naložení, složení, přístavné, vlečné, vážné a nákladní list. Tyto náklady mají být započteny jen potud, pokud jsou prokazatelné a jdou na vrub prodávajícího, a to nejvýše částkami přípustnými podle platných předpisů.\n(4) Obchodní rozpětí smí činiti nejvýše:\na) při prodeji velkoobchodem 27 Kčs za 100 kg,\nb) při prodeji maloobchodem 75 Kčs za 100 kg."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Prodejní ceny vypočtené podle § 1 se rozumějí pro velkoobchod při celovagonových dodávkách, pro maloobchod při dodávkách ze skladu, i s daní z obratu.\n(2) Při prodeji dřevěného uhlí v drobném v množstvích pod 15 kg může být cena vypočtená podle § 1 zvýšena o 1.50 Kčs za 1 kg.\n(3) Obchodní rozpětí podle § 1, odst. 4 mohou se v ceně vyskytnout pouze jednou."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Za rozvoz dřevěného uhlí spotřebiteli lze účtovati:\na) v obvodu Velké Prahy a Velkého Brna nejvýše částku 18 Kčs za 100 kg.\nb) V ostatních místech v zemích České a Moravskoslezské nejvýše trojnásobek částky, která připadá na rozvoz otopného uhlí podle příslušné vyhlášky okresního národního výboru (okresní správní komise), vydané podle vyhlášky nejvyššího úřadu cenového ze dne 26. listopadu 1945, běž. č. 433, o sazbách za dopravu uhlí, briket a koksu (Ú. l. I. č. 140/45).\n(2) Při dodávkách dřevěného uhlí v pytlích lze k cenám vypočteným podle § 1 připočítati odděleně přirážku na výlohy za plnění a manipulaci ve výši 4 Kčs za 100 kg. Kromě toho může být kupujícímu účtována náhrada za pytle, které nevrátí, a to nejvýše v jejich skutečné, úředně přípustné pořizovací ceně. Za zapůjčení pytlů smí obchodník účtovati půjčovné ve výši 2 Kčs na 100 kg dřevěného uhlí."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ve všech obchodech s dřevěným uhlím musejí být zásoby dřevěného uhlí, z nichž se prodává, viditelně označeny cenami a údaji, z nichž je možno bezpečně zjistit druh a původ zboží."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Nejvyšší úřad cenový nebo místa jím zmocněná mohou povolit nebo nařídit výjimky z ustanovení této vyhlášky nebo z předpisů, vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení. Týmž dnem se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 2. dubna 1942, běž. č. 335, o prodejních cenách dřevěného uhlí dováženého z ciziny a dřevěného uhlí tuzemské výroby (Ú. l. č. 83/1942)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Náklady na dopravu",
+      "definition": "dovozné z místa výroby do stanice nakládací, dopravné po železnici z nakládací stanice do stanice příjemce, dovozné ze stanice příjemce do skladu obchodníka, jakož i výlohy za naložení, složení, přístavné, vlečné, vážné a nákladní list",
+      "source_provision": "§ 1."
+    }
+  ]
+}

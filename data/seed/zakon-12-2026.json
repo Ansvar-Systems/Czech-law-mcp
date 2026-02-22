@@ -1,0 +1,27 @@
+{
+  "id": "cz:12/2026",
+  "type": "statute",
+  "title": "12/2026 Sb., Vyhláška, kterou se mění vyhláška č. 359/2020 Sb., o měření elektřiny, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "12/2026 Sb.",
+  "status": "in_force",
+  "issued_date": "2026-01-27",
+  "in_force_date": "2027-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2026/12",
+  "description": "Vyhláška, kterou se mění vyhláška č. 359/2020 Sb., o měření elektřiny, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 359/2020 Sb., o měření elektřiny, ve znění vyhlášky č. 375/2023 Sb., vyhlášky č. 138/2024 Sb. a vyhlášky č. 180/2025 Sb., se mění takto:\n1. V § 1 písm. c) se slova „u předávacího místa na hladině nízkého napětí“ zrušují.\n2. V § 4 odst. 1 se za slovo „výkonu“ vkládají slova „nebo hodnoty činné a jalové energie“.\n3. V § 5 odst. 3 se za slovo „výkonu“ vkládají slova „nebo jalové energie“.\n4. V § 8 se na konci odstavce 2 doplňuje věta „Nelze-li stanovit náhradní údaje o odběru a dodávce elektřiny postupem podle věty první, stanoví provozovatel distribuční soustavy náhradní údaje o odběru a dodávce elektřiny jako průměr platných hodnot ve stejných vyhodnocovacích intervalech stejných kalendářních dnů v období 4 posledních týdnů nebo, nemá-li údaje za toto časové období, jako hodnoty rovny nule.“.\n5. V § 8 odst. 2 se věta poslední zrušuje.\n6. V § 12 se za odstavec 1 vkládá nový odstavec 2, který zní:\n„(2) Je-li provozovatel distribuční soustavy povinen instalovat v předávacím místě měřicí zařízení pro měření typu A, B nebo C kategorie C1, C2 nebo C3 nebo vyměnit instalované měřicí zařízení za měřicí zařízení pro měření typu A, B nebo C kategorie C1, C2 nebo C3 a instalace nebo výměna měřicího zařízení je možná pouze po předchozím provedení nezbytných technických úprav v předávacím místě, stanoví výrobci elektřiny, provozovateli zařízení pro ukládání elektřiny, provozovateli distribuční soustavy nebo zákazníkovi, v jehož předávacím místě má být měřicí zařízení instalované, podmínky pro instalaci měřicího zařízení, které je výrobce elektřiny, provozovatel zařízení pro ukládání elektřiny, provozovatel distribuční soustavy nebo zákazník povinen pro instalaci měřicího zařízení zajistit.“.\nDosavadní odstavce 2 až 5 se označují jako odstavce 3 až 6.\n7. V § 12a odstavec 2 zní:\n„(2) Je-li k elektrickému zařízení, výrobně elektřiny nebo zařízení pro ukládání elektřiny přiřazen výchozí diagram dodávky nebo odběru elektřiny pro zohlednění aktivace flexibility, při které dochází k dodávce regulační energie, a nejsou-li s provozovatelem přenosové soustavy sjednány jiné požadavky na měření dodávky regulační energie při poskytování služeb výkonové rovnováhy, musí být dodávka, odběr a výroba elektřiny měřeny měřicím zařízením, které umožňuje alespoň\na) měření a vyhodnocení činného výkonu za měřicí a vyhodnocovací interval, který trvá nejdéle 1 minutu, a\nb) dálkový přenos naměřených a vyhodnocených hodnot činného výkonu nejpozději do 1 hodiny od skončení intervalu pro vyhodnocování odchylek subjektů zúčtování.“.\n8. V nadpisu nad označením § 13 se slova „a termíny“ zrušují.\n9. V § 13 odst. 3 písm. a) bodech 1 a 2 se slova „a zohlednění sdílené elektřiny“ nahrazují slovy „ , zohlednění sdílené elektřiny, ukládání elektřiny a aktivace flexibility, u které dochází k dodávce regulační energie,“ a slova „operátorovi trhu a datovému centru“ se zrušují.\n10. V § 13 odst. 3 písm. b) se slovo „místa,“ nahrazuje slovem „místa;“, za slovo „odchylek“ se vkládají slova „ , zohlednění ukládání elektřiny a aktivace flexibility, u které dochází k dodávce regulační energie,“ a slova „operátorovi trhu“ se zrušují.\n11. V § 13 se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno c), které zní:\n„c) zákazníkem, výrobcem elektřiny nebo provozovatelem zařízení pro ukládání elektřiny, kteří provozují podružné měřicí zařízení, jsou pro účely zohlednění ukládání elektřiny nebo zohlednění aktivace flexibility, u které dochází k dodávce regulační energie, hodnoty v kWh na 2 desetinná místa za vyhodnocovací interval.“.\n12. V § 17 odst. 6 a 7 se slova „a), b) nebo g)“ nahrazují slovy „a) nebo b)“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2026, s výjimkou ustanovení\na) čl. I bodu 4, které nabývá účinnosti dnem následujícím po dni jejího vyhlášení, a\nb) čl. I bodu 5, které nabývá účinnosti dnem 1. července 2027."
+    }
+  ],
+  "definitions": []
+}

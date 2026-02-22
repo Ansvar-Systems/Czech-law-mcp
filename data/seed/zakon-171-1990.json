@@ -23,6 +23,30 @@
       "content": "Zákon č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), se mění a doplňuje takto:\n1. § 1 zní:"
     },
     {
+      "provision_ref": "„§ 1",
+      "section": "1",
+      "title": "„§ 1",
+      "content": "(1) Základní školy, učiliště a střední školy jsou součástí československé výchovně vzdělávací soustavy; v právních vztazích vystupují svým jménem a mají odpovědnost vyplývající z těchto vztahů, pokud není dále stanoveno jinak.\n(2) Ve věcech výchovy a vzdělávání jsou přímo řízeny ministerstvem školství, mládeže a tělovýchovy České republiky v České republice a ministerstvem školství, mládeže a tělesné výchovy Slovenské republiky ve Slovenské republice (dále jen „ministerstva škoĺství“).“.\n2. § 2 zní:"
+    },
+    {
+      "provision_ref": "„§ 2",
+      "section": "2",
+      "title": "„§ 2",
+      "content": "(1) Soustavu základních a středních škol tvoří základní škola, základní umělecká škola, učiliště, střední odborné učiliště, gymnázium, střední odborná škola a speciální školy.\n(2) Ministerstva školství stanoví vyhláškou typy a názvy jednotlivých druhů škol uvedených v odstavci 1.“.\n3. V § 3 se dosavadní text označuje jako odstavec 1 a připojuje se odstavec 2, který zní:\n„(2) Neslyšícím a nevidomým se zajišťuje právo na vzdělání v jejich jazyce s použitím znakové řeči nebo Braillova písma.“.\n4. V § 4 se v odstavci 1 připojuje věta, která zní: „V soukromých školách a v církevních školách se může právo na vzdělání zajišťovat za úplatu.“.\n5. § 5 zní:"
+    },
+    {
+      "provision_ref": "„§ 5",
+      "section": "5",
+      "title": "„§ 5",
+      "content": "(1) Základní škola poskytuje základní vzdělání; zabezpečuje rozumovou výchovu ve smyslu vědeckého poznání a v souladu se zásadami vlastenectví, humanity a demokracie a poskytuje mravní, estetickou, pracovní, zdravotní, tělesnou výchovu a ekologickou výchovu žáků; umožňuje též náboženskou výchovu.\n(2) Základní škola připravuje žáky pro další studium a praxi.“.\n6. § 6 zní:"
+    },
+    {
+      "provision_ref": "„§ 6",
+      "section": "6",
+      "title": "„§ 6",
+      "content": "(1) Základní škola má devět ročníků. Od pátého ročníku se zpravidla diferencuje podle zájmů a schopností žáků.\n(2) V místech, kde nejsou podmínky pro zřízení všech devíti ročníků základní školy, může se zřídit základní škola, která nemá všechny ročníky. Žáci, kteří ukončí poslední ročník takové školy, pokračují v plnění povinné školní docházky v základní škole se všemi ročníky.“.\n7. Za část druhou se vkládá část druhá A, která zní:"
+    },
+    {
       "provision_ref": "§ 6a",
       "section": "6a",
       "title": "§ 6a Základní umělecká škola",
@@ -30,11 +54,130 @@
       "content": "(1) Základní umělecká škola poskytuje základy vzdělání v jednotlivých uměleckých oborech a připravuje pro studium učebních a studijních oborů ve středních školách uměleckého zaměření a v konzervatoři, připravuje také odborně pro studium na vysokých školách s uměleckým zaměřením.\n(2) V základních uměleckých školách se mohou zřizovat oddělení hudební, taneční, výtvarná a literárně dramatická nebo některá z nich.\n(3) Základní umělecká škola organizuje studium určené převážně pro žáky základní školy; může též organizovat studium pro dospělé.\n(4) Ministerstva školství stanoví vyhláškou podrobnosti o organizaci studia v základních uměleckých školách.“.\n8. V § 7 odst. 1 zní:\n„(1) Střední školy poskytují žákům střední odborné vzdělání, úplné střední vzdělání, úplné střední odborné vzdělání a vyšší odborné vzdělání a připravují je pro výkon povolání a činností v národním hospodářství, správě, kultuře, umění a v ostatních oblastech života; připravují žáky i pro studium na vysokých školách.“,\nodstavec 2 zní:\n„(2) Střední školy uplatňují jednotu výchovy a vzdělávání, spojení školy se životem a usilují o všestranný harmonický rozvoj osobnosti mladého člověka; vychovávají jej ve smyslu vědeckého poznání a v souladu se zásadami vlastenectví, humanity a demokracie, formují jeho intelektuální a mravní rozvoj, připravují jej na tvořivou práci a odbornou činnost v povolání a poskytují výchovu estetickou, zdravotní, tělesnou a výchovu ekologickou; umožňují též náboženskou výchovu.“.\n9. § 8 zní:"
     },
     {
+      "provision_ref": "„§ 8",
+      "section": "8",
+      "title": "„§ 8",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Střední odborné vzdělání zahrnuje všeobecné vzdělání a odbornou přípravu; ukončuje se úspěšným vykonáním závěrečné zkoušky ve studijních nebo učebních oborech.\n(2) Úplné střední vzdělání a úplné střední odborné vzdělání zahrnuje obsahově širší a hlubší všeobecné vzdělání a odbornou přípravu diferencovanou podle druhu středních škol; úplné střední vzdělání se ukončuje úspěšným vykonáním maturitní zkoušky v gymnáziu, úplné střední odborné vzdělání se ukončuje úspěšným vykonáním maturitní zkoušky ve střední odborné škole nebo ve středním odborném učilišti.\n(3) Vyšší odborné vzdělání zahrnuje všeobecné vzdělání, speciální odbornou přípravu a uměleckou a pedagogicko-uměleckou přípravu; vyšší odborné vzdělání se ukončuje úspěšným vykonáním absolutoria.“.\n10. § 9 zní:"
+    },
+    {
+      "provision_ref": "„§ 9",
+      "section": "9",
+      "title": "„§ 9 Výchova a vzdělávání ve středním odborném učilišti",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Střední odborné učiliště připravuje pro výkon dělnických povolání a odborných činností odpovídajících příslušnému učebnímu oboru. Toto studium se ukončuje závěrečnou zkouškou.\n(2) Střední odborné učiliště připravuje ve studijních oborech pro výkon některých náročných dělnických povolání a některých technickohospodářských činností provozního charakteru. Toto studium se ukončuje maturitní zkouškou.\n(3) Střední odborné učiliště zajišťuje žákům teoretické vyučování, praktické vyučování a výchovu mimo vyučování; může také zajišťovat jen teoretické vyučování a výchovu mimo vyučování nebo praktické vyučování a výchovu mimo vyučování.\n(4) Ministerstva školství v dohodě s ministerstvy zdravotnictví a sociálních věcí stanoví vyhláškou učební a studijní obory vhodné pro žáky se změněnou pracovní schopností.“.\n11. Za § 9 se vkládá nový § 9a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 9a",
+      "section": "9a",
+      "title": "„§ 9a Středisko praktického vyučování",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Středisko praktického vyučování zajišťuje praktické vyučování a výchovu mimo vyučování pro žáky, kterým střední odborné učiliště zajišťuje pouze teoretické vyučování.\n(2) Středisko praktického vyučování odpovídá za výuku podle stanovených učebních plánů a učebních osnov, přitom spolupracuje se středním odborným učilištěm, které pro žáky zajišťuje teoretické vyučování.“.\n12. § 10 zní:"
+    },
+    {
+      "provision_ref": "„§ 10",
+      "section": "10",
+      "title": "„§ 10 Zřizování a zrušování středních odborných učilišť a středisek praktického vyučování",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Střední odborné učiliště nebo středisko praktického vyučování zřizuje nebo zrušuje\na) ústřední orgán státní správy nebo národní výbor; pro účely tohoto zákona postavení ústředních orgánů mají též svazy družstev,\nb) státní podnik nebo státní organizace z podnětu ústředního orgánu nebo národního výboru, popřípadě jednotné zemědělské družstvo nebo jiné družstvo (dále jen „družstvo“) z podnětu orgánu hospodářského řízení nebo státní akciová společnost.\n(2) Případy, kdy ústřední orgán nebo národní výbor jsou povinny zřídit střední odborné učiliště nebo středisko praktického vyučování, a případy, kdy střední odborné učiliště nebo středisko praktického vyučování zřizuje státní podnik nebo státní organizace nebo družstvo, stanoví na návrh ministerstev školství v České republice vláda České republiky a ve Slovenské republice vláda Slovenské republiky (dále jen „vlády republik“) nařízením.\n(3) Ke zřízení středního odborného učiliště nebo střediska praktického vyučování státním podnikem nebo státní organizací je zakladatel státního podniku nebo státní organizace povinen vymezit nebo doplnit v zakládací listině podniku předmět činnosti zřizovatele středního odborného učiliště nebo střediska praktického vyučování.\n(4) Střední odborné učiliště se zřizuje nebo zrušuje podle stanovené sítě škol; středisko praktického vyučování se zřizuje nebo zrušuje podle seznamu středisek praktického vyučování. Ke zřízení, zrušení nebo omezení činnosti středního odborného učiliště nebo střediska praktického vyučování je třeba souhlasu ministerstev školství.\n(5) Střední odborné učiliště nebo středisko praktického vyučování zřízené podle odstavce 1 písm. a) a družstvem je právnickou osobou. Střední odborné učiliště nebo středisko praktického vyučování zřízené státním podnikem nebo státní organizací je vnitřní organizační jednotkou zapsanou do podnikového rejstříku a vystupující v právních úkonech týkajících se středního odborného učiliště nebo střediska praktického vyučování jménem podniku.\n(6) Národní výbor může zřídit středisko praktického vyučování pro přípravu žáků, kteří se nepřipravují pro určitou organizaci.“.\n13. Za § 10 se vkládá nový § 10a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 10a",
+      "section": "10a",
+      "title": "„§ 10a Pracoviště praktického vyučování",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Pracoviště praktického vyučování zajišťuje praktické vyučování pro žáky, kterým střední odborné učiliště zajišťuje teoretické vyučování a výchovu mimo vyučování. Pracoviště praktického vyučování zřizuje se souhlasem ministerstva školství občan, pro kterého se žáci připravují.\n(2) Občan, který zřídil pracoviště praktického vyučování, odpovídá za výuku podle stanovených učebních plánů a učebních osnov, přitom spolupracuje se středním odborným učilištěm, které pro žáky zajišťuje teoretickou výuku.\n(3) Občan, který zřídil pracoviště praktického vyučování, hradí náklady na jeho provoz a rozvoj. Jsou-li na pracovišti praktického vyučování připravováni žáci i pro jiné občany, jsou tito povinni hradit poměrný díl nákladů vynaložených na jejich přípravu.“.\n14. V § 11 nadpis zní: „Úkoly orgánů a organizací“,\nv odstavci 1 sa za slovo „orgány“ vkládají slova „a organizace“. Tečka na konci věty se nahrazuje středníkem a připojují se slova „jsou povinny vytvářet příznivé podmínky pro rozvíjení schopností a iniciativy žáků a jejich uplatnění v praxi.“,\nodstavec 3 zní:\n„(3) Orgán nebo organizace, které rozhodly o zrušení, rozdělení, sloučení, splynutí nebo změně hospodářské činnosti organizace, jejíž součástí je střední odborné učiliště nebo středisko praktického vyučování, nebo rozhodly o zrušení, rozdělení, sloučení nebo splynutí středního odborného učiliště, které je právnickou osobou, určí organizace nebo střední odborné učiliště, které převezmou práva a povinnosti k žákům.“,\nodstavec 4 zní:\n„(4) Ministerstva školství stanoví vyhláškou postup a podrobnější vymezení úkolů ústředních orgánů, národních výborů a organizací při řízení a plánování přípravy mládeže pro povolání ve středních odborných učilištích a střediscích praktického vyučování, způsob a podmínky pro jejich zřizování a podmínky pro vynětí prostorů a zařízení určených pro výchovu a vzdělávání žáků ze státního podniku nebo státní organizace pro účely zřízení středního odborného učiliště nebo střediska praktického vyučování.“.\nDosavadní odstavec 4 se označuje jako odstavec 5.\n15. § 12 zní:"
+    },
+    {
+      "provision_ref": "„§ 12",
+      "section": "12",
+      "title": "„§ 12 Finanční a materiální zabezpečení středních odborných učilišť a středisek praktického vyučování",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Úhrady provozních nákladů středních odborných učilišť a středisek praktického vyučování s výjimkou úhrad uvedených v odstavci 3 se provádějí z nákladů organizací, pro něž se mládež připravuje.\n(2) Investiční rozvoj středních odborných učilišť a středisek praktického vyučování, která jsou právnickou osobou, se zabezpečuje prostřednictvím ústředních orgánů a národních výborů. Investiční rozvoj středních odborných učilišť a středisek praktického vyučování zřízených státním podnikem, státní organizací nebo družstvem nebo státní akciovou společností zabezpečuje státní podnik nebo státní organizace nebo družstvo nebo státní akciová společnost z vlastních zdrojů.\n(3) Národní výbory hradí ze svých prostředků\na) osobní náklady na učitele teoretického vyučování, refundace mezd a náhrad mezd mistrů odborné výchovy, vychovatelů a trenérů ve třídách s vrcholovou sportovní přípravou,\nb) náklady na učebnice, učební texty a školní potřeby pokytované žákům bezplatně a náklady na učební pomůcky pro potřebu teoretického vyučování,\nc) náklady na přípravu žáků, kteří byli přijati do středního odborného učiliště, popřípadě střediska praktického vyučování a nepřipravují se pro žádnou organizaci.\n(4) Vláda České a Slovenské Federativní Republiky stanoví způsob tvorby fondu pro provoz a rozvoj středních odborných učilišť a středisek praktického vyučování a jeho použití.\n(5) Náklady na provoz a rozvoj středních odborných učilišť zřízených jako právnické osoby a zabezpečujících pouze teoretické vyučování, učilišť (§ 17a), středních odborných učilišť pro mládež vyžadující zvláštní péči (§ 30) a odborných učilišť (§ 32) mohou hradit národní výbory zcela nebo zčásti ze svých prostředků.“.\n16. § 13 se vypouští.\n17. § 14 zní:"
+    },
+    {
+      "provision_ref": "„§ 14",
+      "section": "14",
+      "title": "„§ 14",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "Národní výbor může po projednání s orgánem nebo organizací, která zřídila střední odborné učiliště nebo středisko praktického vyučování, určit, že ve středním odborném učilišti nebo středisku praktického vyučování budou připravováni žáci i pro jiné organizace.“.\n18. § 15 zní:"
+    },
+    {
+      "provision_ref": "„§ 15",
+      "section": "15",
+      "title": "„§ 15 Gymnázium",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Gymnázium je všeobecně vzdělávací vnitřně diferencovaná škola, která připravuje především pro studium na vysokých školách. Dále připravuje i pro výkon některých činností ve správě, kultuře a v dalších oblastech. Gymnázium má nejméně čtyři a nejvíce osm ročníků.\n(2) První až čtvrtý ročník osmiletého gymnázia se může zřídit i při základní škole.“.\n19. § 16 zní:"
+    },
+    {
+      "provision_ref": "„§ 16",
+      "section": "16",
+      "title": "„§ 16 Střední odborná škola",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "Střední odborná škola připravuje především pro výkon odborných činností, zejména technickohospodářských, ekonomických, pedagogických, zdravotnických, sociálně právních, správních, uměleckých a kulturních; připravuje i pro studium na vysoké škole. Studium trvá zpravidla čtyři roky.“.\n20. § 17 zní:"
+    },
+    {
+      "provision_ref": "„§ 17",
+      "section": "17",
+      "title": "„§ 17 Konzervatoř",
+      "chapter": "„ČÁST DRUHÁ A",
+      "content": "(1) Konzervatoř je specifický typ střední odborné školy, která připravuje pro obor zpěv, hudba, tanec nebo dramatické umění. Připravuje i pro studium na vysoké škole.\n(2) Konzervatoř má zpravidla šest ročníků, v oboru tanec osm ročníků a ukončuje se absolutoriem.“.\n21. Za § 17 se vkládá díl pátý, který zní:"
+    },
+    {
       "provision_ref": "§ 17a",
       "section": "17a",
       "title": "§ 17a Učiliště",
       "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
       "content": "(1) Učiliště poskytuje odbornou přípravu pro výkon povolání žákům, kteří ukončili povinnou školní docházku v základní škole v nižším než devátém ročníku nebo devátý ročník neukončili úspěšně. Příprava v učilišti se ukončuje úspěšným vykonáním závěrečné zkoušky.\n(2) Učiliště se zřizuje a zrušuje podle § 10 a vztahují se na ně § 9 odst. 3, § 11, 12, 14, § 20 odst. 2 a § 22 až 25.“.\nDosavadní díl pátý se označuje jako díl šestý.\n22. § 18 zní:"
+    },
+    {
+      "provision_ref": "„§ 18",
+      "section": "18",
+      "title": "„§ 18",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "Právo studovat ve středních školách mají žáci a další uchazeči podle schopností, vědomostí, zájmů a zdravotní způsobilosti.“.\n23. § 19 zní:"
+    },
+    {
+      "provision_ref": "„§ 19",
+      "section": "19",
+      "title": "„§ 19",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "(1) Ke studiu ve středních školách se přijímají žáci a další uchazeči, kteří úspěšně ukončili základní školu.\n(2) Do prvního ročníku osmiletého gymnázia se přijímají zpravidla žáci, kteří úspěšně ukončili pátý ročník základní školy.\n(3) Ke studiu ve středních školách se přijímají též další uchazeči, kteří získali základní vzdělání nebo základy vzdělání podle dřívějších předpisů.\n(4) Ministerstva školství stanoví vyhláškou rozsah pravomocí a povinností ředitelů středních škol při přijímání žáků a dalších uchazečů ke studiu ve středních školách; u středních zdravotnických škol v dohodě s ministerstvy zdravotnictví a sociálních věcí.“.\n24. § 23 zní:"
+    },
+    {
+      "provision_ref": "„§ 23",
+      "section": "23",
+      "title": "„§ 23 Společensky prospěšná práce",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "Společensky prospěšná práce žáků středních škol je dobrovolná a lze ji konat pouze v době mimo vyučování.“.\n25. V § 24 nadpis zní: „Finanční a hmotné zabezpečení žáků středních škol“,\nodstavec 1 zní:\n„(1) Žákům středních odborných učilišť poskytuje střední odborné učiliště z prostředků organizací nebo národních výborů finanční a hmotné zabezpečení, kterým se sledují výchovné cíle. Žákům, kteří se ve středním odborném učilišti nepřipravují pro žádnou organizaci, se finanční a hmotné zabezpečení hradí z prostředků národních výborů. Žákům, kteří se v praktickém vyučování připravují ve středisku praktického vyučování, poskytuje finanční a hmotné zabezpečení v dohodě s příslušným středním odborným učilištěm organizace, která středisko praktického vyučování zřídila. Žákům, kteří se v praktickém vyučování připravují na pracovišti praktického vyučování, poskytuje finanční a hmotné zabezpečení v dohodě s příslušným středním odborným učilištěm občan, který pracoviště praktického vyučování zřídil. Finanční zabezpečení se poskytuje formou odměn. Hmotné zabezpečení zahrnuje stravování a ubytování; žákům může být poskytnuto i další finanční a hmotné zabezpečení. Finanční a hmotné zabezpečení lze poskytovat i v období školních prázdnin. Žákům středních odborných učilišť, u nichž je to odůvodněno komplexností jejich výchovy, jakož i žákům, u nichž je to odůvodněno jejich sociálními poměry nebo zdravotním stavem, lze poskytnout ubytování a stravování bezplatně.“.\nV odstavci 2 se v poslední větě vypouští slovo „socialistických“,\nodstavec 3 zní:\n„(3) Podrobnosti o finančním a hmotném zabezpečení žáků středních škol stanoví ministerstva školství vyhláškou.“.\n26. V § 25 odst. 1 zní:\n„(1) V gymnáziu, střední odborné škole ve studiu nejméně čtyřletém, ve středním odborném učilišti ve studijních oborech a v nástavbovém studiu se studium ukončuje maturitní zkouškou. Ve studijních oborech středních odborných škol, jejichž délka studia je kratší než čtyři roky, a v učebních oborech středních odborných učilišť se ukončuje závěrečnou zkouškou. Dnem následujícím po dni, kdy žák vykonal úspěšně maturitní zkoušku nebo závěrečnou zkoušku, přestává být žákem školy.\",\nv odstavci 3 se za slova „maturitní zkoušku“ vkládají slova „nebo ve středních odborných školách ve studiu kratším než čtyři roky závěrečnou zkoušku“,\nv odstavci 5 se vypouští slova „po splnění povinné školní docházky“.\n27. V § 26 nadpis zní: „Nástavbové studium a pomaturitní studium“,\nodstavec 1 zní:\n„(1) Střední školy organizují nástavbové studium, které je určeno pro uchazeče, kteří získali střední odborné vzdělání. V nástavbovém studiu se studující zdokonalují pro kvalifikovaný výkon povolání a specializují se pro výkon některých technickohospodářských činností provozního charakteru. Nástavbové studium se ukončuje maturitní zkouškou.“.\nDosavadní odstavec 1 se označuje jako odstavec 2,\nodstavec 3 zní:\n„(3) Nástavbové a pomaturitní studium se organizuje zpravidla formou studia při zaměstnání.“,\ndosavadní odstavec 3 se označuje jako odstavec 4 a na konci věty se za slovo „obory“ vkládají slova „nástavbového studia a“.\n28. Název části čtvrté zní: „Speciální školy“.\n29. V § 28 odst. 1 se slova „Školy pro mládež vyžadující zvláštní péči“ nahrazují slovy „Speciální školy“.\nV odstavci 2 se slova „Školami pro mládež vyžadující zvláštní péči“ nahrazují slovy „Speciálními školami“.\nOdstavec 3 zní:\n„(3) Pokud tento zákon nestanoví jinak, vztahují se na speciální školy ustanovení vztahující se na základní školu nebo na střední školu.“,\nodstavec 4 zní:\n„(4) Speciálními školami jsou také zvláštní školy, odborná učiliště a pomocné školy.“.\nOdstavec 5 se vypouští.\nDosavadní odstavec 6 se označuje jako odstavec 5, který zní:\n„(5) Ministerstva školství stanoví v dohodě s ministerstvy zdravotnictví a sociálních věcí vyhláškou způsob a podmínky pro zařazení žáků do speciálních základních škol pro mládež vyžadující zvláštní péči, do zvláštních škol, do pomocných škol a podmínky přijímání žáků do odborných učilišť.“.\n30. V § 29 nadpis zní: „Speciální základní školy“.\nV odstavci 1 se slova „Základní školy pro mládež vyžadující zvláštní péči“ nahrazují slovy „Speciální základní školy“.\nOdstavec 2 zní:\n„(2) Speciální základní školy mají devět ročníků. Ministerstva školství stanoví vyhláškou, které školy mají deset ročníků.“.\n31. V § 30 včetně nadpisu se označení „střední školy pro mládež vyžadující zvláštní péči“ nahradí novým označením „speciální střední školy“.\n32. V § 31 odst. 2 zní:\n„(2) Zvláštní škola má devět ročníků. Ministerstva školství stanoví vyhláškou školy, které mají deset ročníků.“.\nOdstavec 3 se vypouští.\n33. V § 32 v nadpisu a v odstavcích 1, 2 a 3 se označení „zvláštní odborné učiliště“ mění na označení „odborné učiliště“,\nodstavec 4 zní:\n„(4) Do odborného učiliště se přijímají žáci, kteří úspěšně ukončili devátý ročník zvláštní školy.“,\nodstavec 5 zní:\n„(5) Odborné učiliště se zřizuje podle § 10 a vztahují se na ně ustanovení § 9 odst. 3 a 4, § 11, 12, 14, § 20 odst. 2, § 22 až 24 a § 25 odst. 1, 2, 4, 5 a 6.“.\n34. V § 33 se dosavadní text označuje jako odstavec 1 a poslední věta se vypouští.\nZa odstavec 1 se vkládá nový odstavec 2, který zní:\n„(2) Pomocná škola má deset ročníků.“.\n35. § 34 zní:"
+    },
+    {
+      "provision_ref": "„§ 34",
+      "section": "34",
+      "title": "„§ 34 Začátek, délka a plnění povinné školní docházky",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "(1) Povinná školní docházka začíná zpravidla počátkem školního roku, který následuje po dni, kdy dítě dovrší šestý rok věku. Není-li dítě po dovršení šestého roku věku tělesně nebo duševně přiměřeně vyspělé a požádá-li o to jeho zákonný zástupce, lékař nebo ředitelka předškolního zařízení, odloží mu národní výbor začátek povinné školní docházky o jeden školní rok.\n(2) Pokud se u žáka prvního ročníku základní školy v průběhu prvního pololetí školního roku projeví nedostatečná tělesná nebo duševní vyspělost ke školní docházce, může národní výbor na základě návrhu ředitele školy a po projednání se zákonnými zástupci dodatečně odložit plnění povinné školní docházky na následující školní rok.\n(3) Povinná školní docházka trvá devět let a žáci ji splní ukončením období školního vyučování školního roku, v němž dovrší poslední rok povinné školní docházky.\n(4) U dětí vzdělávatelných v základní škole nebo ve zvláštní škole se pro tělesně postižené děti počátek povinné školní docházky řídí posouzením školní zralosti a ukončení povinné školní docházky dosažením základního vzdělání. Podmínky pro posuzování školní zralosti tělesně postiženého dítěte stanoví ministerstva školství vyhláškou.“.\n36. § 35 se vypouští.\n37. § 37 odst. 1 zní:\n„(1) Žákovi, který pro svůj zdravotní stav nemůže docházet do školy, zajistí národní výbor takovou formu vzdělávání, která mu umožní dosáhnout stejné vzdělání jako při školní docházce.“.\n38. § 40 zní:"
+    },
+    {
+      "provision_ref": "„§ 40",
+      "section": "40",
+      "title": "„§ 40 Učebnice a učební texty",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "(1) Při výchově a vzdělávání se vedle učebnic a učebních textů uvedených v seznamu učebnic vydaném ministerstvy školství mohou používat i jiné učebnice a učební texty.\n(2) Učebnice a učební texty všeobecně vzdělávacích předmětů pro střední zdravotnické školy se vydávají podle seznamu ministerstev školství v dohodě s ministerstvy zdravotnictví a sociálních věcí; učebnice a učební texty odborných předmětů pro tyto školy se vydávají podle seznamu ministerstev zdravotnictví a sociálních věcí.“.\n39. V § 42 odst. 1 se nahrazují slova „za osm let“ slovy „za devět let“.\n40. § 47 zní:"
+    },
+    {
+      "provision_ref": "„§ 47",
+      "section": "47",
+      "title": "„§ 47 Pomoc škol zájmovým organizacím dětí a mládeže",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "Školy poskytují zájmovým organizacím dětí a mládeže prostory a vybavení pro jejich činnost.“.\n41. V § 48 se v úvodu věty vypouští slovo „socialistické“ a v závěru věty se slovo „kádrových“ nahrazuje slovem „personálních“.\n42. § 49 zní:"
+    },
+    {
+      "provision_ref": "„§ 49",
+      "section": "49",
+      "title": "„§ 49",
+      "chapter": "„ČÁST DRUHÁ A > „DÍL PÁTÝ",
+      "content": "(1) Orgány, organizace a školy, které zabezpečují výchovu a vzdělávání, zajišťují bezpečnost a ochranu zdraví žáka při činnostech, které přímo souvisejí s výchovou a vzděláváním, soustavně vytvářejí podmínky pro bezpečnost a ochranu zdraví žáka a kontrolují jejich dodržování.\n(2) Orgány, organizace a školy, které zabezpečují výchovu a vzdělávání, zabezpečují současně i ochranu žáka před riziky poruch zdravého vývoje, pokud mohou být způsobeny nebo zvětšeny výchovnou a vzdělávací činností školy.\n(3) Zvláštní předpisy o bezpečnosti a ochraně zdraví zůstávají nedotčeny. Škola je povinna dodržovat opatření národních výborů při zhoršených ekologických podmínkách.\n(4) Ministerstva školství a ministerstva zdravotnictví a sociálních věcí mohou vydávat v dohodě s Českým úřadem bezpečnosti práce a Slovenským úřadem bezpečnosti práce vyhlášky o bezpečnosti a ochraně zdraví žáka a o ochraně žáka před riziky poruch jeho zdravého vývoje, které mohou být způsobeny nebo zvětšeny výchovnou a vzdělávací činností školy. Zároveň stanoví odpovědnost školy za bezpečnost zdravotně postižených dětí.“.\n43. § 50 odst. 1 zní:\n„(1) Pedagogickými pracovníky jsou učitelé včetně ředitelů a zástupců ředitelů předškolních zařízení, základních škol, středních škol, speciálních škol, učilišť, zařízení pro zájmové studium, školských zotavovacích zařízení, školských zařízení pro další vzdělávání pedagogických pracovníků, zařízení sociální péče, dále vychovatelé škol a školských zařízení a zařízení sociální péče včetně instruktorů tělesné výchovy, mistři a vrchní mistři odborné výchovy, vedoucí odloučených pracovišť středních odborných učilišť, učilišť a odborných učilišť, vedoucí středisek praktického vyučování, trenéři sportovních škol a sportovních tříd středních odborných učilišť.“.\nV odstavci 2 se slovo „Učitelé“ nahrazuje slovy „Pedagogičtí pracovníci“.\n44. V § 51 odst. 2 se slova „vychovávají žáky v souladu s cíli a úkoly státní školské politiky“ nahrazují slovy „vychovávají žáky ve smyslu vědeckého poznání a v souladu se zásadami vlastenectví, humanity a demokracie“.\n45. § 52 se vypouští.\n46. § 54 odst. 2 zní:\n„(2) Střední školy Sboru národní bezpečnosti řídí v oboru své působnosti federální ministerstvo vnitra, ministerstvo vnitra České republiky nebo ministerstvo vnitra Slovenské republiky; střední školy vojsk ministerstva vnitra řídí federální ministerstvo vnitra. Ve věcech všeobecně pedagogických postupují tato ministerstva v dohodě s příslušným ministerstvem školství.“,\nodstavec 3 zní:\n„(3) Působnost, kterou podle tohoto zákona mají ministerstva školství nebo jiné státní orgány, vykonávají ve věcech středních škol Sboru národní bezpečnosti v oboru své působnosti federální ministerstvo vnitra, ministerstvo vnitra České republiky nebo ministerstvo vnitra Slovenské republiky, popřípadě ministr vnitra České a Slovenské Federativní Republiky, ministr vnitra České republiky nebo ministr vnitra Slovenské republiky; ve věcech středních škol vojsk ministerstva vnitra vykonává federální ministerstvo vnitra, popřípadě ministr vnitra České a Slovenské Federativní Republiky.“.\n47. Za část osmou se vkládá část osmá A, která zní:"
     },
     {
       "provision_ref": "§ 57a",
@@ -56,6 +199,20 @@
       "title": "§ 57c",
       "chapter": "„ČÁST OSMÁ A - Školy soukromé a školy církevní",
       "content": "Vzdělání získané v soukromých školách a církevních školách je rovnocenné vzdělání získanému v ostatních školách podle tohoto zákona.“.\n48. V § 58 písm. a) se čárka na konci odstavce nahrazuje středníkem, a připojuje se věta „řídí též pokusné ověřování způsobu a řízení těchto škol.“, v písmeně b) se vypouštějí slova „orgánů Revolučního odborového hnutí“ a nahrazují se slovy „příslušných odborových orgánů“.\n49. Za § 58 se vkládá nový § 58a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 58a",
+      "section": "58a",
+      "title": "„§ 58a",
+      "chapter": "„ČÁST OSMÁ A - Školy soukromé a školy církevní",
+      "content": "V základních školách, v základních uměleckých školách, učilištích, středních školách a speciálních školách není povolena činnost politických stran a politických hnutí.“.\n50. § 60 zní:"
+    },
+    {
+      "provision_ref": "„§ 60",
+      "section": "60",
+      "title": "„§ 60",
+      "chapter": "„ČÁST OSMÁ A - Školy soukromé a školy církevní",
+      "content": "Pro občany, kteří nezískali základní vzdělání, může základní škola nebo střední škola organizovat kursy pro získání základního vzdělání.“.\n51. Část desátá přechodná ustanovení § 61 až 64b zní:"
     },
     {
       "provision_ref": "§ 61",

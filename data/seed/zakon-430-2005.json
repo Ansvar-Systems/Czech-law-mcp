@@ -1,0 +1,33 @@
+{
+  "id": "cz:430/2005",
+  "type": "statute",
+  "title": "430/2005 Sb., Vyhláška, kterou se stanoví kritéria pro posuzování, zda má více subjektů společnou významnou tržní sílu na relevantním trhu elektronických komunikací",
+  "title_en": "",
+  "short_name": "430/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-10-26",
+  "in_force_date": "2005-10-26",
+  "url": "https://www.e-sbirka.cz/sb/2005/430",
+  "description": "Vyhláška, kterou se stanoví kritéria pro posuzování, zda má více subjektů společnou významnou tržní sílu na relevantním trhu elektronických komunikací",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Společná významná tržní síla",
+      "content": "Na relevantním trhu může být označeno více subjektů se společnou významnou tržní silou, pokud působí na trhu, jehož struktura vytváří předpoklady ke koordinovanému vlivu na tento trh, a to i v případě, kdy mezi těmito subjekty nejsou strukturální nebo jiné vazby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Kritéria pro vyhodnocení společné významné tržní síly",
+      "content": "(1) Společnou významnou tržní sílu na relevantním trhu je možné stanovit tehdy, jestliže trh odpovídá několika přiměřeným charakteristikám, zejména pokud se týká vyhodnocení koncentrace hodnoceného trhu, jeho průhlednosti, kritérií stanovených Českým telekomunikačním úřadem podle § 52 odst. 1 zákona a těchto kritérií:\na) vyspělost trhu,\nb) stagnující nebo mírný růst na straně poptávky,\nc) malá pružnost poptávky,\nd) podobné tržní podíly,\ne) stejnorodost produktu,\nf) podobné nákladové struktury,\ng) nedostatek technické inovace, popřípadě vyspělé technologie,\nh) neexistence přebytku kapacity,\ni) velké překážky pro vstup na trh,\nj) nedostatečná tržní síla na straně poptávky,\nk) nedostatečná potenciální soutěž,\nl) různé druhy neformálních nebo jiných vazeb mezi dotčenými subjekty,\nm) odvetné mechanismy, nebo\nn) nedostatečný nebo omezený prostor pro cenovou konkurenci.\n(2) Při vyhodnocování společné významné tržní síly je Český telekomunikační úřad oprávněn použít kromě kritérií uvedených v odstavci 1 i další vhodná kritéria, která mohou prokázat, že struktura daného trhu vytváří předpoklady ke koordinovanému vlivu na tento trh."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

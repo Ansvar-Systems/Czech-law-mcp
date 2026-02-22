@@ -1,0 +1,568 @@
+{
+  "id": "cz:ul0:305/1952",
+  "type": "statute",
+  "title": "305/1952 Ú. l., Vyhláška ministerstva vnitra o výbušinách.",
+  "title_en": "",
+  "short_name": "305/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-10-24",
+  "in_force_date": "1952-10-27",
+  "url": "https://www.e-sbirka.cz/ul0/1952/305",
+  "description": "Vyhláška ministerstva vnitra o výbušinách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Účel úpravy.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "Při výrobě výbušin a při zacházení s nimi je třeba odborné znalosti a zvláštní opatrnosti v zájmu bezpečnosti lidí a majetku; dále je nutno dbát o to, aby se výbušiny nedostaly do rukou osob nepovolaných. Je proto třeba zajistit předpoklady účinné ochrany před škodami, které by vznikly nesprávným zacházením s výbušinami a s předměty je obsahujícími nebo zneužitím těchto nebezpečných látek a předmětů."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Rozsah platnosti.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "(1) Tato vyhláška se vztahuje na všechny látky tuhé a tekuté, které podle technických pravidel mají vlastnosti výbušin (trhaviny, třaskaviny, střeliviny a pod.).\n(2) Co jest stanoveno o výbušinách, platí obdobně o předmětech obsahujících výbušiny (rozbušky, střelivo a pod.), není-li stanoveno jinak.\n(3) V pochybnostech, zda látka je výbušinou nebo zda předmět obsahuje výbušinu, rozhoduje ministerstvo chemického průmyslu (§ 77)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Schválení výbušin.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "(1) Vyrábět, zpracovávat, uvádět do oběhu, nabývat, uskladňovat, přepravovat a používat lze jen ty druhy výbušin, jež byly schváleny ministerstvem chemického průmyslu, a pokud jde o předměty obsahující výbušiny, ministerstvem všeobecného strojírenství (schválené výbušiny). Ve schvalovacím výměru musí být vedle názvu a chemického složení výbušiny určeny podmínky pro její výrobu, zpracování, balení, přepravu, uskladňování, používání a ničení.\n(2) Výrobní ministerstvo může výjimečně povolit, aby se přechodně a na zkoušku používalo výbušin, u nichž povolilo pouze pokusnou výrobu (§ 9)."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Výbušiny v hornictví.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "V podnicích podléhajících dozoru orgánů veřejné báňské správy (dále jen „v hornictví”) lze používat jen těch druhů výbušin, jež byly k tomu účelu zvláště schváleny ústředním orgánem veřejné báňské správy."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Všeobecná povinnost opatrnosti.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "Každý, kdo zachází s výbušinami, je povinen počínat si tak, aby nezpůsobil výbuch, požár nebo jinak nepoškodil nebo neohrozil lidské zdraví, život nebo národní majetek a jiné národohospodářské hodnoty."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Opatření proti výbuchu a požáru.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "Při výrobě a zpracování výbušin, jakož i při jiném zacházení s nimi je nutno učinit všechna opatření potřebná k zamezení výbuchu a k zasazení a zdolání požáru."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7. Zákaz kouření a zacházení s otevřeným ohněm.",
+      "chapter": "Část I. - Všeobecná ustanovení.",
+      "content": "(1) Ve všech prostorech, v nichž se vyrábějí, zpracovávají, uskladňují, dávají do oběhu nebo používají výbušiny a v jejich přímé blízkosti je zakázáno kouření a jakékoli zacházení s otevřeným ohněm a nekrytým světlem nebo s rozpálenými předměty.\n(2) Zápalky, zapalovače nebo jiné předměty a látky snadno vznětlivé se nesmějí přinášet do prostorů uvedených v předchozím odstavci.\n(3) Zákazy uvedené v odstavcích 1 a 2 se vyznačí na vhodných místech dobře viditelným nápisem."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8. Oprávnění k výrobě výbušin.",
+      "chapter": "Část II. - Výroba výbušin.",
+      "content": "Vyrábět (připravovat) a zpracovávat výbušiny smějí jen národní podniky určené příslušným výrobním ministerstvem."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9. Pokusná výroba výbušin.",
+      "chapter": "Část II. - Výroba výbušin.",
+      "content": "Pokusně vyrábět a zpracovávat nové výbušiny lze jen s povolením výrobního ministerstva."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10. Výroba výbušin pro účely studijní.",
+      "chapter": "Část II. - Výroba výbušin.",
+      "content": "Výrobu výbušin pro účely studijní nebo vyučovací může povolit ministerstvo chemického průmyslu."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11. Distribuce výbušin.",
+      "chapter": "Část III. - Odbyt výbušin.",
+      "content": "Distribuci výbušin obstarává výrobní ministerstvo svou hlavní správou odbytu, a pokud jde o střelivo do ručních střelných zbraní a bezdýmný a černý lovecký prach, ministerstvo vnitřního obchodu. Tato ministerstva mohou distribuci výbušnin (...) nisaci nebo jiný orgán v oboru své působnosti."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12. Odběr výbušin.",
+      "chapter": "Část III. - Odbyt výbušin.",
+      "content": "(1) Spotřebitelé výbušin smějí odebírat výbušiny zásadně jen ze skladů určených ministerstvem obstarávajícím distribuci výbušin (§ 13).\n(2) Podniky, které při své činnosti používají značného množství výbušin, mohou je podle povolení okresního oddělení veřejné bezpečnosti prodat nebo jiným způsobem převést na oprávněné drobné spotřebitele."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13. Obchodní sklady.",
+      "chapter": "Část IV. - Uskladňování výbušin.",
+      "content": "Ministerstvo, které obstarává distribuci výbušin (§ 11), může k tomu účelu zřídit skladiště nebo sklad (soubor skladišť) výbušin nebo může pověřit uskladňováním výbušin svou odbytovou organisaci nebo jiný orgán."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14. Přechodné uskladňování u spotřebitele.",
+      "chapter": "Část IV. - Uskladňování výbušin.",
+      "content": "Výbušiny odebrané podle odběrního průkazu (§ 23) lze přechodně uskladňovat po dobu, než dojde k jejich spotřebě podle odběrního průkazu."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15. Uskladňování v jiných případech.",
+      "chapter": "Část IV. - Uskladňování výbušin.",
+      "content": "K uskladňování výbušin v jiných případech, než které jsou uvedeny v §§ 13 a 14, zejména i k přechodnému uskladnění výbušin převzatých k přepravě, je třeba povolení okresního oddělení veřejné bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16. Povolení k přepravě výbušin.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "(1) Výbušiny lze přepravovat jen podle povolení okresního oddělení veřejné bezpečnosti.\n(2) Byl-li odběr výbušiny povolen, není třeba povolení podle předchozího odstavce, přepravují-li se výbušiny na místo jejich spotřeby nebo uskladnění, přepravce je však povinen na vyzvání předložit odběrní průkaz orgánu národní bezpečnosti.\n(3) Výbušiny, které jsou předmětem vývozu, dovozu nebo průvozu, musí být za dopravy opatřeny průvodním listem (povolením k vývozu, dovozu, průvozu), který vydává ministerstvo národní bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17. Odpovědný průvodce.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "(1) Výbušiny musí za přepravy provázet odpovědný průvodce.\n(2) Odpovědného průvodce nákladu výbušin schvaluje okresní oddělení veřejné bezpečnosti.\n(3) Schválení průvodce přepravovaného nákladu výbušin se nevyžaduje, provází-li přepravu nákladu výbušin osoba mající povolení k odběru přepravovaných výbušin."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18. Vývoz, dovoz a průvoz výbušin.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "(1) Vyvážet a dovážet výbušiny mohou jen organisace (společnosti) určené ministerstvem zahraničního obchodu.\n(2) Ministerstvo národní bezpečnosti může stanovit, které výbušiny nelze vyvážet, dovážet nebo provážet."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19. Balení a označení výbušin.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "Výbušiny lze přepravovat jen tehdy, jsou-li bezpečně baleny a řádně označeny."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20. Přeprava rozbušek a bleskovic.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "Při přepravě musí být rozbušky a bleskovice bezpečně odděleny od sebe i od ostatních výbušin."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21. Další úprava balení a přepravy výbušin.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "Další ustanovení o balení a přepravě výbušin obsahuje příloha A k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22. Přeprava výbušin po železnici, poštou, na veřejné silnici, plavidly nebo letadly.",
+      "chapter": "Část V. - Přeprava výbušin.",
+      "content": "Zvláštní předpisy o přepravě výbušin po železnici, poštou, na veřejné silnici, plavidly nebo letadly (přepravní řády, poštovní řád, pravidla silničního provozu a j.) zůstávají nedotčeny."
+    },
+    {
+      "provision_ref": "§ 23.",
+      "section": "23",
+      "title": "§ 23. Odběrní průkaz.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "(1) Výbušiny — s výjimkami uvedenými v § 26 - smí odebírat od oprávněného dodavatele pouze ten, kdo obdržel povolení k odběru výbušin (odběrní průkaz). Útvary československé branné moci a orgány vojenské správy, jakož i útvary a orgány národní bezpečnosti a pohraniční stráže nepotřebují odběrního průkazu.\n(2) Odběrní průkaz vydává okresní oddělení veřejné bezpečnosti, v jehož obvodu se má výbušiny použít.\n(3) Odběrní průkaz se smí vydat jen v případech, v nichž je prokázána potřeba odběru a není obavy ze zneužití. Zpravidla se smí vydat pouze podnikům, družstvům a zařízením socialistického sektoru, úřadům a jiným orgánům státní správy.\n(4) Odběrní průkaz je nepřenosný a kdykoli odvolatelný.\n(5) Vzory odběrních průkazů vydá ministerstvo národní bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 24.",
+      "section": "24",
+      "title": "§ 24. Použití odebrané výbušiny.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "(1) Výbušiny se smí použít zásadně jen k tomu účelu, který je uveden v odběrním průkazu. K jinému účelu lze výbušiny použít jen výjimečně (na př. při ohrožení lidských životů nebo mimořádném ohrožení hospodářských hodnot).\n(2) Použije-li se výjimečně výbušiny k jinému účelu, než který je uveden v odběrním průkazu, nebo dojde-li ke ztrátě nebo ke zkáze výbušin, je odběratel povinen to neprodleně oznámit orgánu veřejné bezpečnosti, který odběrní průkaz vydal."
+    },
+    {
+      "provision_ref": "§ 25.",
+      "section": "25",
+      "title": "§ 25. Nespotřebované odebrané výbušiny.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "(1) Nespotřebují-li se odebrané výbušiny ve stanovené době, jest odběratel povinen oznámit to nejpozději v poslední den lhůty orgánu veřejné bezpečnosti, který vydal odběrní průkaz; při tom odběratel může žádat o prodloužení lhůty.\n(2) Neprodlouží-li orgán veřejné bezpečnosti lhůtu ke spotřebě výbušin nebo odvolá-li povolení k jejich odběru, je odběratel povinen odeslat výbušiny na místo a ve lhůtě, které určí orgán veřejné bezpečnosti, jenž vydal odběrní průkaz."
+    },
+    {
+      "provision_ref": "§ 26.",
+      "section": "26",
+      "title": "§ 26. Převod výbušiny bez odběrního průkazu.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "Odběrního průkazu na výbušiny není třeba k nákupu nebo k jinému způsobu převodu:\na) bezdýmného nebo černého loveckého prachu, loveckého střeliva a zápalek k zhotovení loveckého střeliva od oprávněného podniku; platí tu předpisy o nákupu a o jiném způsobu převodu střeliva;\nb) zápalnic a palníků."
+    },
+    {
+      "provision_ref": "§ 27.",
+      "section": "27",
+      "title": "§ 27. Ohňostrojné výrobky.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "Nákup a jiný způsob převodu některých ohňostrojných (pyrotechnických) výrobků, jakož i uskladňování těchto výrobků v prodejnách a jejich příručních skladech upraví ministerstvo národní bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 28.",
+      "section": "28",
+      "title": "§ 28. Ničení výbušin.",
+      "chapter": "Část VI. - Používání výbušin.",
+      "content": "(1) Ničení výbušin smějí provádět jen pyrotechnici a střelmistři.\n(2) Ničení výbušin se smí provádět jen na místech a za podmínek, jež určí okresní oddělení veřejné bezpečnosti.\n(3) Při ničení výbušin se musí postupovat tak, aby nedošlo k ohrožení lidí a majetku.\n(4) Národní podniky, jež výbušiny vyrábějí, jsou povinny dodat spotřebiteli podrobný návod na ničení jednotlivých druhů výbušin, schválený ministerstvem chemického průmyslu. Tento návod je pro spotřebitele závazný."
+    },
+    {
+      "provision_ref": "§ 29.",
+      "section": "29",
+      "title": "§ 29. Střelmistři a techničtí vedoucí.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "(1) Trhací práce s výbušinami a práce spojené s přípravou a prováděním ohňostrojů smějí provádět jen státně spolehlivé osoby, starší 18 let, jimž byl vydán průkaz způsobilosti k výkonu střelmistrovských prací (střelmistrovský průkaz).\n(2) Trhací práce velkého rozsahu nebo za zvláště nebezpečných okolností (jako na př. destrukční práce, skalní práce na velkých stavbách, při nichž se použije najednou značného množství výbušin, a pod.), smějí střelmistři provádět jen pod přímým dozorem technického vedoucího podle předem schváleného plánu postupu. Technického vedoucího a plán postupu schvaluje krajský národní výbor. Při kterých pracích je třeba takto postupovat, určí ministerstvo stavebního průmyslu.\n(3) Povolování komorových odstřelů a podmínky, za nichž lze tyto práce provádět, upraví směrnicemi ministerstvo stavebního průmyslu v dohodě s ministerstvem národní bezpečnosti a ostatními zúčastněnými úřady, jakož i s jednotnou odborovou organisací."
+    },
+    {
+      "provision_ref": "§ 30.",
+      "section": "30",
+      "title": "§ 30. Střelmistrovský průkaz.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "(1) Střelmistrovský průkaz vydá krajský národní výbor státně spolehlivým osobám, starším 18 let, které vykonaly střelmistrovskou zkoušku. Tato zkouška se skládá před zkušební komisí krajského národního výboru.\n(2) K střelmistrovské zkoušce se mohou přihlásit osoby, které prošly praktickým výcvikem a theoreticko-praktickým školením v kursech pro přípravu střelmistrů (dále jen „kursy”). Kursy zřizuje při národních podnicích příslušné výrobní ministerstvo. O přijetí uchazečů do kursu rozhoduje krajský národní výbor (§ 77) na návrh podniku, v němž jsou uchazeči zaměstnáni.\n(3) V odůvodněných případech může krajský národní výbor povolit výjimku z účasti v kursu."
+    },
+    {
+      "provision_ref": "§ 31.",
+      "section": "31",
+      "title": "§ 31. Učební osnovy.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "Učební osnovy kursů a zkušební řád pro střelmistrovské zkoušky vydají se zřetelem na povahu jednotlivých oborů střelmistrovských prací ministerstva stavebního průmyslu a chemického průmyslu v dohodě se zúčastněnými ministerstvy a jednotnou odborovou organisací."
+    },
+    {
+      "provision_ref": "§ 32.",
+      "section": "32",
+      "title": "§ 32. Oprávnění střelmistrů.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "(1) Trhací práce s výbušinami mohou střelmistři vykonávat jen v oborech, pro něž obdrželi průkaz o způsobilosti k vykonávání těchto prací.\n(2) Mají-li střelmistři vykonávat trhací práce s výbušinami v jiných oborech, jsou povinni vykonat zkoušku pro tento jiný obor (doplňovací zkoušku). Připouští-li to povaha věci, může krajský národní výbor stanovit, že doplňovací zkouška se vykoná bez předchozího školení v kursu."
+    },
+    {
+      "provision_ref": "§ 33.",
+      "section": "33",
+      "title": "§ 33. Zákaz výkonu střelmistrovských prací.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "Vykonává-li střelmistr své práce způsobem, který ohrožuje bezpečnost, nebo vyžadují-li to jiné důležité obecné zájmy, zakáže mu krajský národní výbor vykonávání těchto prací, při čemž může účinnost tohoto zákazu vázat na opětné vykonání střelmistrovské zkoušky, po případě na účast v kursu."
+    },
+    {
+      "provision_ref": "§ 34.",
+      "section": "34",
+      "title": "§ 34. Úprava trhacích prací.",
+      "chapter": "Část VII. - Provádění trhacích prací.",
+      "content": "Základní postup při výkonu trhacích prací upravuje příloha B k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 35.",
+      "section": "35",
+      "title": "§ 35. Záznamní knihy.",
+      "chapter": "Část VIII. - Záznamy o výbušinách.",
+      "content": "(1) Podniky, v nichž se výbušiny vyrábějí, zpracovávají, uskladňují nebo uvádějí do oběhu, jsou povinny vést o stavu výbušin záznamní knihy.\n(2) Povinnost vést záznamní knihy mají také všichni spotřebitelé výbušin.\n(3) Záznamní kniha se nevede o prodeji a spotřebě loveckého střeliva, bezdýmného a černého loveckého prachu, střeliva do ručních střelných zbraní, zápalek, zápalnic a palníků."
+    },
+    {
+      "provision_ref": "§ 36.",
+      "section": "36",
+      "title": "§ 36. Kdo vede záznamní knihu.",
+      "chapter": "Část VIII. - Záznamy o výbušinách.",
+      "content": "Záznamní knihu vede zvláště pro každé skladiště jeho vedoucí, který odpovídá za správnost jejího obsahu."
+    },
+    {
+      "provision_ref": "§ 37.",
+      "section": "37",
+      "title": "§ 37. Úschova a odevzdání záznamních knih.",
+      "chapter": "Část VIII. - Záznamy o výbušinách.",
+      "content": "(1) Záznamní knihy musí být bezpečně uschovány a musí být předloženy orgánu národní bezpečnosti k nahlédnutí, kdykoli o to požádá.\n(2) Záznamní knihy musí být po provedení posledního zápisu neprodleně odevzdány okresnímu oddělení veřejné bezpečnosti. Jemu je rovněž nutno neprodleně odevzdat záznamní knihy ze závodu, který zanikl."
+    },
+    {
+      "provision_ref": "§ 38.",
+      "section": "38",
+      "title": "§ 38. Způsob vedení záznamních knih.",
+      "chapter": "Část VIII. - Záznamy o výbušinách.",
+      "content": "Záznamní knihy musí být vedeny podle vzorů stanovených ministerstvem národní bezpečnosti a podle jeho pokynů."
+    },
+    {
+      "provision_ref": "§ 39.",
+      "section": "39",
+      "title": "§ 39. Výjimky.",
+      "chapter": "Část VIII. - Záznamy o výbušinách.",
+      "content": "Pokud není ohrožen obecný zájem, může krajská správa veřejné bezpečnosti povolit výjimky a úlevy z předchozích ustanovení o vedení záznamních knih."
+    },
+    {
+      "provision_ref": "§ 40.",
+      "section": "40",
+      "title": "§ 40. Kde lze vyrábět a uskladňovat výbušiny.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "Výbušiny se smějí vyrábět a zpracovávat jen ve schválených výrobnách a uskladňovat jen ve schválených skladištích (skladech)."
+    },
+    {
+      "provision_ref": "§ 41.",
+      "section": "41",
+      "title": "§ 41. Schvalovací řízení.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "(1) O schvalování výroben a skladišť (skladů) výbušin i jejich změn platí všeobecné předpisy o schvalování provozoven, pokud vládní nařízení č. 1/1952 Sb. a předpisy vydané na jeho podkladě nestanoví něco jiného.\n(2) Schvalovací řízení je třeba, pokud možno, spojit s řízením stavebním a provést je se vším urychlením."
+    },
+    {
+      "provision_ref": "§ 42.",
+      "section": "42",
+      "title": "§ 42. Příslušnost v oboru schvalování výroben a skladišť výbušin.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "(1) Věci týkající se schvalování výroben a skladišť (skladů) výbušin náležejí — s výjimkou případů uvedených v odstavci 2 — do oboru působnosti ministerstva chemického průmyslu. Jde-li však o závody, v nichž se výbušiny zpracovávají, postupuje ministerstvo chemického průmyslu v dohodě s ministerstvem všeobecného strojírenství a jde-li o skladiště výbušin v podnicích, postupuje v dohodě s ministerstvem stavebního průmyslu, po případě s jiným ministerstvem, jemuž podnik podléhá\n(2) Věci týkající se schvalování skladišť výbušin v hornictví náležejí do působnosti ministerstva paliv a energetiky (ústřední orgán veřejné báňské správy)."
+    },
+    {
+      "provision_ref": "§ 43.",
+      "section": "43",
+      "title": "§ 43. Schvalování krajskými národními výbory a orgány veřejné báňské správy.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "(1) Závody na výrobu a zpracování výbušin (výrobny výbušin) a skladiště (sklady) výbušin schvaluje zásadně krajský národní výbor.\n(2) Skladiště výbušin v hornictví schvaluje orgán veřejné báňské správy.\n(3) Krajský národní výbor schvaluje výrobny a skladiště výbušin v součinnosti s krajskou správou veřejné bezpečnosti a s orgánem inspekce práce. Orgán veřejné báňské správy schvaluje skladiště výbušin v součinnosti s krajským národním výborem a s krajskou správou veřejné bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 44.",
+      "section": "44",
+      "title": "§ 44. Schvalování ústředním úřadem.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "Ministerstvo chemického průmyslu může schvalování některých výroben a skladišť (skladů) výbušin vyhradit, a to v dohodě s ministerstvy národní bezpečnosti a vnitra, jakož i s jinými zúčastněnými ministerstvy, podle povahy věci výrobnímu ministerstvu, po případě ministerstvu národní bezpečnosti nebo ministerstvu národní obrany."
+    },
+    {
+      "provision_ref": "§ 45.",
+      "section": "45",
+      "title": "§ 45. Postup schvalujícího orgánu.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 1. - Schvalování výroben a skladišť výbušin.",
+      "content": "Je-li bezpečnost dostatečně zajištěna jiným způsobem, může schvalující orgán (§§ 43 a 44) výjimečně povolit, aby výrobna nebo skladiště výbušin anebo jednotlivý jejich objekt, zařízení nebo provoz byl proveden nebo uspořádán odchylně od ustanovení směrnic (§ 57), po případě od ustanovení uvedených v příloze C k této vyhlášce (§ 56); při tom se přihlédne zejména k místním (územním) poměrům, množství a povaze výráběných nebo uskladňovaných výbušin, k výrobnímu postupu, k navrženým bezpečnostním opatřením a k jiným závažným okolnostem."
+    },
+    {
+      "provision_ref": "§ 46.",
+      "section": "46",
+      "title": "§ 46. Základní ustanovení.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Výrobny výbušin lze zřizovat jen na vhodných místech mimo zastavěné části obcí za podmínek zajišťujících okolí dostatečnou ochranu před výbuchem nebo požárem.\n(2) Ustanovení předchozího odstavce platí obdobně o skladištích (skladech) výbušin s tou odchylkou pro malá skladiště výbušin (č. 3 a 4 přílohy C k této vyhlášce), že je lze na přechodnou dobu výjimečně zřídit i v zastavěných částech obcí, je-li bezpečnost plně zajištěna."
+    },
+    {
+      "provision_ref": "§ 47.",
+      "section": "47",
+      "title": "§ 47. Bezpečnostní okruhy.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Schvalující orgán vymezí ve výměru o schválení výrobny nebo skladiště výbušin (jejich změn) okolní prostor, který v případě výbuchu nebo požáru je ještě ohrožen (bezpečnostní okruh). Skládá-li se výrobna nebo skladiště výbušin z několika objektů, určí se bezpečnostní okruh pro každý objekt.\n(2) V bezpečnostním okruhu lze zřizovat budovy nebo jiná zařízení pouze za podmínek, které navrhne stavebnímu úřadu orgán příslušný ke schvalování výrobny (skladiště) výbušin.\n(3) Podrobnosti o stanovení bezpečnostních okruhů upraví směrnice (§ 57)."
+    },
+    {
+      "provision_ref": "§ 48.",
+      "section": "48",
+      "title": "§ 48. Obložení.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Pro každý objekt výrobny, jakož i pro jednotlivé skladiště stanoví schvalující orgán druh a nejvyšší váhové množství výbušin, které lze v něm vyrábět, zpracovávat nebo uskladňovat (obložení). Toto ustanovení se vztahuje též na hořlaviny, pokud se jich použije při výrobě výbušin.\n(2) Pro uskladňování předmětů obsahujících výbušiny je rozhodující celkové množství jejich výbušné náplně.\n(3) Ve výrobních objektech se nesmějí hromadit výbušiny nebo hořlaviny nad povolené obložení."
+    },
+    {
+      "provision_ref": "§ 49.",
+      "section": "49",
+      "title": "§ 49. Budovy.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Ve výrobnách a skladištích (skladech) výbušin musí být budovy, u nichž je nebezpečí výbuchu nebo požáru, přízemní a musí být prostorově odděleny od budov s bezpečným provozem.\n(2) Jednotlivé budovy ve výrobnách nebo skladištích (skladech) výbušin musí být od sebe vzdáleny tak, a by v případě výbuchu nebyly navzájem ohroženy."
+    },
+    {
+      "provision_ref": "§ 50.",
+      "section": "50",
+      "title": "§ 50. Pracoviště.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Je-li ve výrobním objektu několik pracovišť s výbušinami, musí být pracoviště, u nichž je nebezpečí výbuchu nebo požáru, od sebe prostorově oddělena. Kde je to účelné, je třeba vyvést dělicí zeď do dostatečně vzdálenosti na obě strany budovy."
+    },
+    {
+      "provision_ref": "§ 51.",
+      "section": "51",
+      "title": "§ 51. Východy.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Pracoviště ve výrobnách a skladištích (skladech) výbušin musí mít dostatečný počet bezpečných východů a cest k úniku."
+    },
+    {
+      "provision_ref": "§ 52.",
+      "section": "52",
+      "title": "§ 52. Ukládání výbušin ve skladišti.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Ve skladištích výbušin se smějí uskladňovat pouze výbušiny.\n(2) K společnému uskladňování různých druhů výbušin v témže skladišti je třeba povolení orgánu příslušného ke schválení skladiště.\n(3) Rozbušky se smějí ve skladišti výbušin uskladňovat jen v odděleném prostoru.\n(4) Ustanovení odstavce 3 platí také o bleskovicích. Bleskovice se nesmějí ukládat společně s rozbuškami."
+    },
+    {
+      "provision_ref": "§ 53.",
+      "section": "53",
+      "title": "§ 53. Úschovny výbušin u spotřebitele.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Ukládat výbušiny mimo schválené skladiště není dovoleno. Výjimka se připouští pouze u spotřebitelů, ukládá-li se nejvíce množství potřebné pro jednu směnu v blízkosti pracoviště, při čemž jsou učiněna potřebná bezpečnostní opatření; taková úschovna výbušin nevyžaduje schválení, podléhá však dozoru okresního oddělení veřejné bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 54.",
+      "section": "54",
+      "title": "§ 54. Oplocení a spojovací cesty.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "(1) Výrobny a skladiště (sklady) výbušin musí být řádně oploceny.\n(2) Ke všem objektům výrobny a skladiště výbušin musí být zřízeny a řádně udržovány dostatečně široké spojovací cesty."
+    },
+    {
+      "provision_ref": "§ 55.",
+      "section": "55",
+      "title": "§ 55. Ochranné valy.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Pokud nejsou budovy, u nichž je nebezpečí výbuchu, chráněny příznivým terénem, je třeba chránit jejich okolí proti účinkům výbuchu a požáru ochrannými valy nebo jiným zařízením poskytujícím dostatečnou ochranu."
+    },
+    {
+      "provision_ref": "§ 56.",
+      "section": "56",
+      "title": "§ 56. Další předpisy o skladištích.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Další předpisy o zřizování skladišť (skladů) výbušin obsahuje příloha C k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 57.",
+      "section": "57",
+      "title": "§ 57. Směrnice.",
+      "chapter": "Část IX. - Výrobny a skladiště výbušin. > Oddíl 2. - Zřizování výroben a skladišť výbušin.",
+      "content": "Podrobné směrnice o schvalování a zřizování výroben a skladišť (skladů) výbušin vydá ministerstvo chemického průmyslu v dohodě s ministerstvem všeobecného strojírenství a jinými zúčastněnými ministerstvy, jakož i v dohodě s jednotnou odborovou organisací."
+    },
+    {
+      "provision_ref": "§ 58.",
+      "section": "58",
+      "title": "§ 58. Zajištění bezpečnosti při práci.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "Vedení podniků, v nichž se výbušiny vyrábějí, zpracovávají, uskladňují, dávají do oběhu nebo používají, je povinno v rámci platných předpisů a podle současného stavu vědeckých výzkumů učinit všechna opatření potřebná k zajištění co největší bezpečnosti při práci."
+    },
+    {
+      "provision_ref": "§ 59.",
+      "section": "59",
+      "title": "§ 59. Úprava výrobního postupu.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "(1) Podniky, v nichž se výbušiny vyrábějí nebo zpracovávají, jsou povinny pod osobní odpovědností vedoucího podniku vypracovat pro každou výrobu (zpracování) výbušin podrobný výrobní postup a předložit jej ke schválení ministerstvu, jemuž podnik podléhá.\n(2) Výrobní postupy musí obsahovat směrná čísla pro největší a nejmenší výkon tak, aby bezpečnost práce byla zajištěna.\n(3) Schválené výrobní postupy podléhají kontrole, jež se provádí podle pokynů ministerstva, jemuž podnik podléhá. Vedení podniku je povinno učinit potřebná opatření k zajištění této kontroly."
+    },
+    {
+      "provision_ref": "§ 60.",
+      "section": "60",
+      "title": "§ 60. Odborná způsobilost.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "Vedoucí výroby a vedoucí provozu výroben výbušin musí mít odbornou způsobilost. Podrobnosti určí ministerstva chemického průmyslu a všeobecného strojírenství."
+    },
+    {
+      "provision_ref": "§ 61.",
+      "section": "61",
+      "title": "§ 61. Odpovědný vedoucí skladiště (skladu).",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "Pro každé skladiště a každý sklad výbušin musí být ustanoven vedoucí, který odpovídá za správné přejímání a vydávání výbušin a řádný provoz skladiště, jakož i za osoby, které mají do skladiště (skladu) přístup. Vedoucího skladiště (skladu) výbušin schvaluje okresní oddělení veřejné bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 62.",
+      "section": "62",
+      "title": "§ 62. Výchova zaměstnanců.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "Podniky, v nichž se výbušiny vyrábějí nebo zpracovávají, jsou povinny provádět soustavné odborné školení zaměstnanců, zejména pořádat pyrotechnické kursy pro vybrané pracovníky, aby se tak stále zvyšovala odborná úroveň kádrů, zvláště pokud jde o zacházení s výbušinami."
+    },
+    {
+      "provision_ref": "§ 63.",
+      "section": "63",
+      "title": "§ 63. Směrnice o provozu.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "(1) Podrobné směrnice o provozu výroben a skladišť (skladů) výbušin vydá se zřetelem na jednotlivé druhy výbušin ministerstvo, jemuž podnik podléha.\n(2) Podrobné směrnice o trhacích pracích vydá ministerstvo stavebního průmyslu.\n(3) Ministerstvo vydá směrnice podle předchozích odstavců v dohodě s jednotnou odborovou organisací, a pokud jde o zájmy požární ochrany, v dohodě s ministerstvem vnitra a po slyšení Československé pojišťovny, národního podniku."
+    },
+    {
+      "provision_ref": "§ 64.",
+      "section": "64",
+      "title": "§ 64. Pracovní směrnice.",
+      "chapter": "Část X. - Bezpečnost provozu výroben a skladišť výbušin a závodů, v nichž se používá výbušin.",
+      "content": "(1) Pro každé pracoviště ve výrobnách, skladištích (skladech) výbušin a v podnicích, v nichž se pravidelně používá výbušin (k trhacím pracím a pod.), musí vedení podniku vydat v mezích směrnic o provozu (§ 63) podrobné pracovní směrnice.\n(2) Pracovní směrnice musí obsahovat přesné pracovní pokyny pro zaměstnance, pravidla k jejich ochraně a k zamezení možných nebezpečí a úrazů, jakož i návod k záchranným pracím. Jde-li o podniky, v nichž se pravidelně používá výbušin, musí pracovní směrnice obsahovat též pravidla o způsobu dopravy a ukládání výbušin mimo schválené skladiště, jakož i pravidla o provádění trhacích prací nebo o jiném nakládání s výbušinami na jednotlivých pracovištích.\n(3) Pracovní směrnice schvaluje, pokud jde o výrobny výbušin, výrobní ministerstvo, v ostatních případech krajský národní výbor.\n(4) Všichni zaměstnanci musí být s obsahem pracovních směrnic seznámeni.\n(5) Nejdůležitější výňatky z pracovních směrnic musí být vyvěšeny na vhodných místech v závodě."
+    },
+    {
+      "provision_ref": "§ 65.",
+      "section": "65",
+      "title": "§ 65. Dozorčí orgány.",
+      "chapter": "Část XI. - Dozor.",
+      "content": "(1) Dozor na výrobny výbušin provádějí orgány příslušné k jejich schválení, v nejvyšší stolici příslušná výrobní ministerstva, jakož i ministerstvo národní bezpečnosti, nebo orgány těmito ministerstvy zmocněné.\n(2) Dozor na skladiště a prodejny výbušin vykonávají krajské národní výbory, jakož i okresní oddělení veřejné bezpečnosti.\n(3) Dozor na podniky, v nichž se výbušin používá, vykonávají okresní národní výbory, jakož i okresní oddělení veřejné bezpečnosti.\n(4) Ostatní dozor v oboru výbušin (na př. při jejich přepravě) vykonávají orgány národní bezpečnosti.\n(5) Při výkonu dozoru v oboru výbušin postupují dozorčí orgány v dohodě s orgány inspekce práce, a pokud jde o skladiště podléhající dozoru dopravního správního úřadu, též v dohodě s tímto úřadem.\n(6) Dozorčí působnost orgánů veřejné báňské správy na uskladňování a používání výbušin v hornictví zůstává nedotčena."
+    },
+    {
+      "provision_ref": "§ 66.",
+      "section": "66",
+      "title": "§ 66. Pravomoc dozorčích orgánů.",
+      "chapter": "Část XI. - Dozor.",
+      "content": "(1) Dozorčí orgány (§ 65) mohou kdykoli provést prohlídku objektů, v nichž se výbušiny vyrábějí, zpracovávají, uskladňují, uvádějí do oběhu nebo používají, mohou vstupovat do všech prostor takových objektů a zkoumat zejména, zda jejich zařízení, způsob a uspořádání výroby nebo uskladnění a používání výbušin je ve shodě s platnými předpisy a opatřeními.\n(2) V případech naléhavě nutných a neodkladných může dozorčí orgán učinit k odstranění závad potřebná opatření, jichž musí být ihned dbáno.\n(3) Předpisy o požárních prohlídkách zůstávají nedotčeny."
+    },
+    {
+      "provision_ref": "§ 67.",
+      "section": "67",
+      "title": "§ 67. Povinnost k podávání zpráv.",
+      "chapter": "Část XI. - Dozor.",
+      "content": "Vedení závodu je povinno o každém případu výbuchu, požáru nebo nehodě podat ihned zprávu dozorčím orgánům a na jejich požádání poskytnout potřebná vysvětlení."
+    },
+    {
+      "provision_ref": "§ 68.",
+      "section": "68",
+      "title": "§ 68. Opatření národních výborů.",
+      "chapter": "Část XI. - Dozor.",
+      "content": "K ochraně před nebezpečnými účinky výbušin mohou národní výbory činit potřebná opatření jak pro jednotlivé případy, tak i všeobecně podle § 3 zákona č. 62/1950 Sb., o ochraně před požáry a jinými živelními pohromami."
+    },
+    {
+      "provision_ref": "§ 69.",
+      "section": "69",
+      "title": "§ 69. Odstranění závad v závodech již schválených.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "(1) Výrobny a skladiště výbušin schválené před účinností této vyhlášky musí být upraveny podle jejích ustanovení, po případě přemístěny jen potud, pokud je toho třeba k odstranění závad ohrožujících bezpečnost.\n(2) Krajský národní výbor stanoví, které výrobny a skladiště výbušin schválené před účinností této vyhlášky musí být ve lhůtě jím určené upraveny, po případě přemístěny tak, aby vyhovovaly jejím ustanovením."
+    },
+    {
+      "provision_ref": "§ 70.",
+      "section": "70",
+      "title": "§ 70. Schválení dosavadních závodů.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "Výrobny a skladiště výbušin, jakož i jejich zařízení schválené před účinností této vyhlášky nevyžadují schválení podle vládního nařízení č. 1/1952 Sb. a této vyhlášky, pokud není ohrožena bezpečnost. V každém případě však vyžadují nové schválení výrobny a skladiště výbušin, v nichž došlo nebo má dojít k podstatným změnám, nebo jichž má býti užíváno pro jiný způsob výroby nebo uskladnění výbušin."
+    },
+    {
+      "provision_ref": "§ 71.",
+      "section": "71",
+      "title": "§ 71. Platnost dosavadních střelmistrovských průkazů.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "(1) Průkaz o způsobilosti k vykonávání střelmistrovských prací, vydaný před účinností této vyhlášky, nahrazuje střelmistrovský průkaz (§ 30) jen tehdy, ohlásí-li osoba, které byl vydán, nebo závod, v němž je tato osoba zaměstnána, krajskému národnímu výboru, v jehož obvodu má bydliště, do 31. prosince 1952 své dosavadní oprávnění k vykonávání střelmistrovských prací; neučiní-li tak, oprávnění uplynutím této lhůty zaniká.\n(2) Podniky, v nichž vykonávají střelmistrovské práce osoby, jimž nebyl vydán průkaz způsobilosti k střelmistrovským pracím, jsou povinny oznámit krajskému národnímu výboru do 15. listopadu 1952 jména těchto osob a dobu, po kterou konají střelmistrovské práce. Krajský národní výbor rozhodne po slyšení příslušného podniku, zda tyto osoby mohou pod odpovědnosti vedoucího podniku (závodu) zatím vykonávat střelmistrovské práce; rozhodne-li kladně, určí zároveň lhůtu, v níž jsou povinny vykonat střelmistrovskou zkoušku; přitom jim může být prominuto školení v kursu."
+    },
+    {
+      "provision_ref": "§ 72.",
+      "section": "72",
+      "title": "§ 72. Povolování výjimek.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "Ministerstvo příslušné podle této vyhlášky může v dohodě s ministerstvy chemického průmyslu a národní bezpečnosti povolit výjimky z ustanovení této vyhlášky, pokud již k tomu není podle předchozích ustanovení povolán jiný orgán."
+    },
+    {
+      "provision_ref": "§ 73.",
+      "section": "73",
+      "title": "§ 73. Zvláštní ustanovení pro obor vojenské správy a národní bezpečnosti.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "Tato vyhláška se nevztahuje na výrobu, zpracování, uskladňování, přepravu a používání výbušin v oboru vojenské správy ani na uskladňování, přepravu a používání výbušin orgány národní bezpečnosti a pohraniční stráže."
+    },
+    {
+      "provision_ref": "§ 74.",
+      "section": "74",
+      "title": "§ 74. Zvláštní ustanovení pro hornictví.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "O uskladňování a používání výbušin v hornictví platí zvláštní předpisy. Zejména není dotčena pravomoc orgánů veřejné báňské správy vydávat předpisy k zajištění bezpečnosti při uskladňování a používání výbušin v hornictví."
+    },
+    {
+      "provision_ref": "§ 75.",
+      "section": "75",
+      "title": "§ 75. Zvláštní ustanovení o střelivu.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "Ustanovení zákona č. 162/1949 Sb., o zbraních a střelivu, a předpisů podle něho vydaných, zůstávají nedotčena."
+    },
+    {
+      "provision_ref": "§ 76.",
+      "section": "76",
+      "title": "§ 76. Zvláštní ustanovení pro způsobilost k výkonu střelmistrovských prací.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "O úpravě způsobilosti k výkonu střelmistrovských prací v oboru vojenské správy, správy národní bezpečnosti a pohraniční stráže, jakož i v hornictví platí zvláštní předpisy."
+    },
+    {
+      "provision_ref": "§ 77.",
+      "section": "77",
+      "title": "§ 77. Součinnost.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "(1) Ministerstva činí opatření, k nimž jsou příslušná podle této vyhlášky, v dohodě s ministerstvy národní bezpečnosti, národní obrany a jinými zúčastněnými ministerstvy, a pokud jde o zájmy požární ochrany, v dohodě s ministerstvem vnitra.\n(2) Národní výbory a orgány veřejné báňské správy vykonávají úkoly podle této vyhlášky v součinnosti s příslušnými odděleními, po případě správami veřejné bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 78.",
+      "section": "78",
+      "title": "§ 78. Provádění vyhlášky.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "(1) Pokud se v této vyhlášce nestanoví jinak, přísluší její provádění ministerstvu národní bezpečnosti a orgánům jím zmocněným.\n(2) Úkoly příslušející podle této vyhlášky okresním oddělením veřejné bezpečnosti může ministerstvo národní bezpečnosti přenésti tam, kde toho povaha věci vyžaduje, na krajské správy veřejné bezpečnosti.\n(3) Součinnost orgánů hygienické a protiepidemické služby při výrobě, zpracování, uskladňování, přepravě a používání výbušin upravují zvláštní předpisy. Působnost a oprávnění těchto orgánů zůstávají nedotčeny."
+    },
+    {
+      "provision_ref": "§ 79.",
+      "section": "79",
+      "title": "§ 79. Účinnost vyhlášky.",
+      "chapter": "Část XII. - Ustanovení přechodná a závěrečná.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 27. října 1952.\nPříloha A k vyhlášce č. 305/1952 Ú. l.\nBalení a přeprava výbušin.\nI. Společná ustanovení.\n1. Při balení a přepravě výbušin musí být zachovávány všechny podmínky stanovené ve výměru, jímž byla výbušina schválena (§ 3 odst. 1 vyhlášky).\n2. Výbušiny určené pro pokusy a dosud neschválené se, balí obdobně podle podmínek stanovených pro balení výbušiny již schválené, která se jí nejvíce podobá svým složením, vlastnostmi a nebezpečností při přepravě.\n3. Výbušiny musí být baleny, po případě přebalovány a přepravovány se zvýšenou opatrností.\n4. V téže schráně (bedna, sud, krabice) nesmějí být zabaleny pohromadě různé druhy výbušin nebo výbušiny s roznětkami, rozbuškami, bleskovicemi, zápalkami nebo s jinými předměty.\n5. Při balení, nakládání a skládání výbušin, jakož i při jejich přepravě nesmějí mít přístup nepovolané osoby. Při těchto pracích se nesmí kouřit, zacházet s otevřeným ohněm a nekrytým světlem nebo mít u sebe předměty a látky snadno vznětlivé.\nII. Balení výbušin.\nObaly.\n6. Obaly na výbušiny musí být tak uzavřené a utěsněné, aby z nich jejich obsah nemohl proniknout na venek; zajištění obalů kovovými pásy nebo dráty je nepřípustné, nejde-li o zásilky střeliva.\n7. Obaly i uzávěry musí být ve všech částech tak pevné a silné, aby se cestou neuvolnily. Vnitřní obaly musí být pevně a spolehlivě uloženy na vnějších obalech.\n8. Obaly na výbušinách musí být voleny se zřetelem na povahu obsahu (na př. musí to být látky schopné ssání, je-li obsah tekutý, a nesmějí být snadno zápalné, je-li v nich výbušina snadno vznětlivá).\n9. Materiál, z něhož jsou vyrobeny obaly a uzávěry, musí být k výbušinám chemicky netečný.\n10. Barva obalového papíru náložek a barva krabic musí být shodná pro výbušinu, o niž jde, a musí vyhovovat podmínkám výměru, jímž byla výbušina schválena.\n11. Výbušiny musí být v obalech pevně a spolehlivě uloženy.\n12. Páječky k uzavírání schrán se smí používat jen tehdy, neohrozí-li se tím obsah schrány.\nOznačení obalů.\n13. Všechny obaly výbušin a náložek musí být zřetelně a trvale označeny, a to:\nna schráně: názvem výbušiny, jménem výrobce, rokem výroby, běžným číslem schrány, údajem o váze obsahu a počtu krabic ve schráně, průměrem a vahou náložky, a při přepravě po železnici též údajem, ke které skupině výbušina patří, a uvedením výměru o schválení výbušiny;\nna krabici (balíku): názvem výbušiny, označením výrobce, po případě tovární značkou, rokem výroby, běžným číslem schrány, počtem náložek obsažených v krabici, průměrem a váhou náložek a uvedením výměru o schválení výbušiny;\nna papíru náložek: názvem výbušiny, jménem výrobce a rokem výroby.\n14. Do každé krabice (balíku) výbušin musí být vložen kontrolní lístek s těmito údaji: jméno výrobce, označení druhu a potřebné technické údaje, rok výroby výbušiny a jméno zaměstnance odpovědného za balení výbušin.\n15. Údaje uvedené pod č. 13 a 14 lze vyjádřit šiframi nebo značkami.\nZvláštní ustanovení pro balení rozbušek.\n16. Rozbušky se smějí balit zpravidla v krabicích nejvýše po 100 kusech. Na každé krabici, v níž jsou rozbušky s hliníkovou dutinkou, musí být též uvedena výstraha o zákazu používání v dolech s nebezpečím třaskavých plynů a uhelného prachu.\n17. Každá krabice rozbušek musí být opatřena nálepkou, na níž vedle údajů předepsaných pro označení obalu krabic (č. 13) musí být uveden počet rozbušek v krabici.\n18. Krabice musí být zabezpečeny lepicím páskem, který spojuje víčko se spodkem krabice.\n19. Elektrické rozbušky (ostré palníky) se smějí balit do balíků nejvýše po 100 kusech.\nIII. Přeprava výbušin.\na) Všeobecně.\nNakládání a skládání výbušin.\n20. Výbušiny je dovoleno nakládat a skládat zpravidla jen za denního světla a pod dozorem odpovědné osoby. Je-li nutno pracovat i po setmění, lze k osvětlování používat jen elektrických a bezpečnostních svítilen.\n21. Při nakládání a skládání se musí dbát toho, aby se zamezily všechny otřesy s výbušinami. Schrány musí být tak umístěny a upevněny, aby se nedrhly, neotřásaly a na sebe nenarážely. Musí být rovněž zabezpečeny proti pádu nebo proti převrácení.\n22. K upevnění nákladů výbušin se nesmí používat řetězů ani drátů, nejde-li o zásilky střeliva.\n23. Na každém vozidle a plavidle, v němž se přepravují prašné výbušiny, musí být jedna reservní schrána, určená pro výbušiny, které by se cestou uvolnily ze svých obalů.\n24. Poškodí-li se za přepravy schrána s výbušinami a je-li nebezpečí, že by se výbušina mohla vytrousit, musí být ihned opatrně přebalena.\nPřeprava zásilky výbušin.\n25. Výbušiny se smějí přepravovat jen ve vozidlech naprosto bezzávadných, vybavených aspoň jedním vhodným hasicím přístrojem.\n26. Vozidlo přepravující výbušiny musí mít po stranách a vzadu nápis „Nebezpečný náklad” provedený černým písmem na bílém podkladě písmeny vysokými 20 cm.\n27. Vozidla určená k přepravě výbušin smějí řídit jen zkušení řidiči, pokud možno dobře obeznámení s cestou.\n28. Přepravovaný náklad výbušin musí být tak zajištěn, aby za přepravy nehrozilo nebezpečí výbuchu nebo požáru.\n29. Na vozidle přepravujícím výbušiny nesmí být jiný náklad, než který je uveden v povolení k přepravě.\n30. Ve vozidlech určených pro přepravu výbušin nesmějí být přepravovány osoby, jichž není třeba k přepravě zásilky.\n31. Vozidla a plavidla přepravující výbušiny nesmějí zůstat nikde bez dozoru. Náklad výbušin musí doprovázet osoba, která zná dobře jeho vlastnosti a dovede s ním zacházet. Průvodce nákladu výbušin jest odpovědný za střežení nákladu.\n32. Přeprava výbušin za mlhy není dovolena. Za noci se výbušiny smějí přepravovat jen výjimečně.\n33. Souvisle zastavěnými místy je dovoleno přepravovat výbušiny, jen nelze-li je objet po jiných dobře sjízdných komunikacích. Vozidla se musí podle možnosti vyhýbat místům, kde se pracuje s otevřeným ohněm, jakož i komunikacím s velkým dopravním ruchem.\n34. Při jízdě souvisle zastavěnými místy se nesmějí vozidla s výbušinami zastavovat, pokud to není nezbytně nutné.\n35. Na přívozech není přípustné přepravovat vozidla s výbušinami zároveň s jinými vozidly nebo osobami. Průvodce zásilky výbušin je povinen upozorniti převozníka na obsah zásilky.\n36. Nastane-li cestou porucha, musí se průvodce nákladu postarat o to, aby se nepovolané osoby nepřibližovaly k nákladu výbušin. Řidič vozidla musí ihned vyrozumět o poruše nejbližší orgán veřejné bezpečnosti, který učiní, po případě provede potřebná bezpečnostní opatření.\n37. Octne-li se zásilka výbušin cestou ve stavu, který činí její další přepravu nejistou nebo nebezpečnou, nebo je-li třeba s nákladem výbušin někde zůstat přes noc, musí řidič vozidla ihned o tom vyrozumět nejbližší orgán veřejné bezpečnosti a provést potřebná opatření nařízená z důvodu bezpečnosti.\n38. Dopravce nákladu výbušin je povinen dodat zásilku výbušin příjemci, jehož musí včas vyrozumět, kdy mu výbušiny doveze. Nemůže-li mu být odevzdána, je dopravce i průvodce povinen ohlásit to ihned nejbližšímu orgánu veřejné bezpečnosti, který učiní, po případě nařídí potřebná bezpečnostní opatření.\nb) Zvláštní ustanovení o přepravě výbušin motorovými vozidly.\n39. Vedoucí, kteří odpovídají za provoz garáží nebo jejich zástupci, a také řidiči jsou povinni před každou jízdou s nákladem výbušin prohlédnout motorové vozidlo, zda jeho technický stav je bezzávadný a zda je předepsaným způsobem vybaveno. Způsobilost motorového vozidla k přepravě výbušin potvrdí vedoucí provozu zvláštním zápisem v záznamu o výkonech vozidla.\n40. Jsou-li výbušiny přepravovány v otevřeném nákladním automobile, po případě na vlečném voze, musí být tato vozidla opatřena pevně utaženou, proti ohni impregnovanou hladkou plachtou, která musí být přetažena přes zadní i přední stranu karoserie, při čemž však nesmí zakrývat tam umístěný nápis „Nebezpečný náklad”.\n41. Motorová vozidla smějí být při přepravě výbušin zatížena jen do 80% své únosnosti. Náklad musí být uložen tak, aby nepřesahoval horní okraj bočnic.\n42. Motorové vozidlo určené k přepravě výbušin musí být ještě před jejich naložením opatřeno potřebnými pohonnými hmotami, a to pokud možno na celou cestu. Čerpání pohonných hmot do motorového vozidla naloženého výbušinami je dovoleno jen ve zcela výjimečných případech, jsou-li provedena všechna bezpečnostní opatření.\n43. Motorová vozidla s výbušinami smějí jet jen takovou rychlostí, která nezpůsobuje silné nárazy a otřesy. Tato rychlost nesmí být u nákladních motorových vozidel vyšší než 40 km za hodinu.\n44. Přepravují-li se výbušiny několika motorovými vozidly, musí jednotlivá vozidla udržovat mezi sebou vzdálenost nejméně 100 m.\n45. Řidiči motorových vozidel přepravujících výbušiny nesmějí\na) prudce rozjíždět nebo brzdit,\nb) zanechat vozidlo s nákladem bez dozoru,\nc) dávat vozidlo naložené výbušinami do garáže.\n46. Řidiči nákladních automobilů vezoucích výbušiny nesmějí předjíždět jiná motorová vozidla, s výjimkou těch, jež jedou rychlostí menší než 20 km za hodinu.\n47. Motorová vozidla přepravující výbušiny musí zastavit před každým železničním přejezdem, a to i tehdy, jsou-li závory zdviženy. Pokračovat v jízdě smějí teprve tehdy, přesvědčí-li se řidič vhodným způsobem, že se k přejezdu neblíží vlak.\n48. Řidiči motorových vozidel přepravujících výbušiny nesmějí při přejíždění železničního přejezdu měnit převodový stupeň ani jet bez zařazeného převodového stupně.\n49. Při poruše motorového vozidla, jejíž odstranění může řidič provést na místě, musí být veškerá práce (na př. opravy vzdušnic pomocí vulkanisačních přístrojů) prováděny v dostatečné vzdálenosti od vozidla.\n50. Motorovými vozidly pro hromadnou přepravu osob se nesmí přepravovat jakékoli množství výbušin.\n51. K přepravě výbušin se nesmí používat traktorů, motorových vozidel s pohonem na zkapalněné nebo stlačené plyny, s generátorovým nebo parním pohonem ani jednoosých vlečných vozů. Motorové vozidlo používané k přepravě výbušin smí mít jen jeden dvouosý vlečný vůz.\nc) Přeprava po železnici, poštou, plavidly nebo letadly.\n52. Přeprava výbušin po železnici, poštou, plavidly nebo letadly se řídí zvláštními předpisy (zejména přepravními řády, poštovním řádem a j.).\nPříloha B k vyhlášce č. 305/1952 Ú. l.\nTrhací práce.\nI. Řízení a provádění trhacích prací.\n1. Trhací práce smí řídit podle jejich povahy a druhu:\na) technický vedoucí trhacích prací (jde-li o trhací práce velkého rozsahu nebo za zvláště nebezpečných okolností);\nb) střelmistr (jen jde-li o trhací práce menšího rozsahu).\n2. Technickým vedoucím trhacích prací může být jen osoba státně spolehlivá, starší 18 let, která má prokazatelně theoretické i praktické technické znalosti z oboru jak zemních, tak i trhacích prací, jakož i odborné zkušenosti návrhové a prováděcí a zná předpisy o bezpečném provádění těchto prací.\n3. Trhací práce smí provádět jen technický vedoucí nebo střelmistr.\n4. Při přípravě trhacích prací smějí střelmistrovi pomáhat pomocní zaměstnanci starší 18 let — pomocníci střelmistra. Tyto osoby musí být předem poučeny o rozsahu pomocných prací a o bezpečném provádění přiděleného úkolu. Rozsah pomocných prací, které smějí provádět, stanoví směrnice o trhacích pracích (§ 63 odst. 2 vyhlášky).\n5. Trhací práce mohou s povolením vedení závodu provádět také státně spolehliví zaměstnanci starší 18 let, aby získali praktický výcvik požadovaný pro střelmistrovskou zkoušku.\n6. Pomocné práce (č. 4) i praktický výcvik (č. 5) mohou se konat jen pod přímým dozorem a odpovědností střelmistra a podle jeho pokynů.\n7. Střelmistr je povinen vést na pracovišti o trhacích pracích deník.\nII. Druhy používaných výbušin.\n8. K trhacím pracím je dovoleno používat jen těch trhavin a rozněcovadel, jež byly schváleny.\n9. K trhacím pracím se nesmí používat jiných trhavin a rozněcovadel, než které opatřilo vedení závodu.\nIII. Práce s výbušinami.\na) Výdej trhavin a rozněcovadel ze skladiště.\n10. O přepravě výbušin do skladiště platí ustanovení přílohy A k této vyhlášce.\n11. Trhaviny a rozněcovadla je dovoleno vydávat a přepravovat na místo spotřeby jen v takovém množství, které je nezbytně potřebné pro jednu pracovní směnu, a to krátce před jejím zahájením.\n12. Pro trhací práce smějí být vydány pouze trhaviny a rozněcovadla bezvadné jakosti, závadné výbušiny musí být ihned ze skladiště odstraněny.\n13. Trhaviny a rozněcovadla musí být vydávány v pořadí, v jakém přišly do skladiště.\n14. Rozbušky a bleskovice nesmějí být vydávány ze skladiště zároveň s trhavinami.\n15. Osoby zaměstnané při trhacích pracích nesmějí převzaté trhaviny a rozněcovadla svěřit cizím osobám ani jich nesmějí používat pro jiné účely, než pro které byly původně určeny,\nb) Přenos trhavin a rozněcovadel na pracoviště.\n16. Přenášet trhaviny ze skladiště na pracoviště smějí toliko spolehliví zaměstnanci starší 18 let, kteří znají jejich vlastnosti a příslušné bezpečnostní předpisy, a to za přítomnosti a dozoru střelmistra a pod jeho odpovědností.\n17. Pro přenášení výbušin se smí používat pouze zvláštních, k tomu účelu bezpečně vybavených nosítek, schrán a brašen.\n18. Jedna osoba nesmí nést více než jeden původní obal trhaviny nejvýše o váze 25 kg.\n19. Střelmistři smějí přenášet, a to jen na schůdných cestách, zároveň nejvýše 10 kg trhavin a k tomu přiměřené množství neadjustovaných rozbušek, avšak odděleně ve zvláštních schránách vybavených pro jejich bezpečné přenášení.\n20. Nese-li trhaviny několik osob, musí mezi sebou zachovávat vzdálenost nejméně 10 m. Nosiči se nesmějí nikde zastavovat ani se odchylovat od nejkratší cesty a musí se vyhýbat otevřeným ohňům a skupinám lidí.\n21. Za chladného nebo zimního období musí být nitroglycerinové plastické trhaviny přenášeny na pracoviště jen ve zvláštních schránách chránících je proti zmrznutí.\n22. Rozbušky, bleskovice, adjustovaná rozněcovadla a roznětné náložky smí přenášet pouze střelmistr, a to odděleně ve zvláštních schránách vybavených pro jejich bezpečné přenášení.\n23. Po skončení trhacích prací musí střelmistr ihned vrátit nespotřebované trhaviny a rozněcovadla do skladiště, kde musí být převzaty odpovědným vedoucím skladiště.\nc) Zacházení s výbušinami.\n24. Trhavin se smí používat jen ve tvaru náložek dodaných výrobcem. Výjimky, zejména pro používání volného černého prachu, stanoví směrnice o trhacích pracích.\n25. Půlení nebo jakékoli řezání a přesypávání náložek trhavin je zakázáno. Výjimky z tohoto zákazu, zejména pro bezpečnostní trhaviny, upravují směrnice o trhacích pracích.\n26. Nitroglycerinových trhavin se smí používat jen v měkkém nezmrzlém stavu.\n27. Se zmrzlými nitroglycerinovými trhavinami se musí zvláště opatrně zacházet. Před upotřebením musí být uvedeny bezpečným způsobem do použivatelného stavu.\n28. Jakékoli zacházení s výbušinami je dovoleno jen při bezpečném osvětlení (elektrická, akumulátorová lampa).\n29. Při zacházení s trhavinami a rozněcovadly se nesmí zacházet s otevřeným ohněm nebo nekrytým světlem.\n30. Trhaviny a rozněcovadla nesmějí se uschovávat ani v malém množství v dílnách, přístřeších, kancelářích nebo odnášet ze závodu a uschovávat v bytech a pod.\nd) Zakládání vrtů.\n31. Vrty musí být správně technicky zakládány tak, aby trhavina vykonala očekávanou práci, aby jí bylo co nejhospodárněji využito a aby byla zajištěna bezpečnost při odstřelu.\n32. Vrty musí být zavrtány tak, aby nálož přišla pokud možno do pevné, celistvé horniny.\n33. Vrtání ve zbytcích odpálených vrtů nebo jejich křížení je zakázáno.\n34. Průměr vrtu musí být takový, aby výbušná nálož se dala vložit bez násilí.\n35. Nesprávně založené vrty nesmějí být nabíjeny a odpalovány.\ne) Příprava a adjustace náloží.\n36. Adjustaci rozněcovadel a přípravu roznětných náložek smí provádět pouze střelmistr, a to jen podle počtu připravených vrtů.\n37. Tyto práce provádí střelmistr jen přímo u vrtů nebo na chráněných místech zvláště k tomu určených, a to krátce před nabíjením.\nIV. Nabíjení vrtů.\n38. Vrty musí být před nabíjením řádně vyčištěny (zbaveny kamenné moučky), a kde je třeba, vysušeny.\n39. Vrty se smějí nabíjet teprve bezprostředně před odpálením (roznětem), a to zpravidla pouze jedním druhem trhaviny.\n40. Velikost nálože a druh trhaviny musí odpovídat založení vrtu, aby se hornina výbuchem pouze roztrhala, uvolnila a aby se co možno nejvíce zabránilo jejímu nežádoucímu a nebezpečnému rozletu.\n41. Výbušné nálože se vkládají do vrtů spouštěním nebo zasouváním pomocí dřevěného nabijáku a nesmějí být do vrtu vtlačovány a zatloukány násilím.\n42. Při přípravě, adjustaci a nabíjení vrtů smějí být přítomny pouze osoby tím pověřené.\nV. Utěsnění vrtů (ucpávka).\n43. Nabité vrty musí být řádně utěsněny, nestanoví-li jinak směrnice o trhacích pracích.\n44. K utěsnění vrtů se smí používat jen nehořlavých, sypkých nebo plastických hmot, které nemohou způsobit jiskry.\n45. Vrty se smějí utěsňovat jen dřevěným nabijákem. Na nabiják se nesmí tlouci.\nVI. Roznět zápalnic.\n46. Zápalnice musí být krátce před použitím přezkoušena, zda je bezvadné jakosti a zda má předepsanou dobu hoření. Vady při tom zjištěné musí být zaznamenány a hlášeny vedení závodu, které je neprodleně sdělí výrobci.\n47. Prachová duše zápalnice o délce 100 cm má hořet průměrně 125 vteřin, při čemž je přípustna odchylka 15 vteřin.\n48. Vadných kusů zápalnic nesmí být použito.\n49. Délky zápalnic musí být vyměřeny tak, aby střelmistr i jeho pomocníci se mohli po zažehnutí poslední zápalnice ještě včas uchýliti do úkrytu; zápalnice nesmějí být však v žádném případě kratší než 1 m.\nVII. Roznět elektrický.\n50. Elektrického roznětu musí být použito:\na) všude tam, kde není zajištěno, že se zúčastněné osoby mohou včas uchýlit do bezpečí;\nb) při odstřelování ve vlhkém prostředí, jestliže není použito zvláště isolovaných zápalnic;\nc) tam, kde by na jednu z osob odpovědně pověřených zažehováním zápalnic připadlo více než 5 roznětů;\nd) v místech, kde je zakázáno používat otevřeného plamene.\nVýjimky může stanovit ministerstvo stavebního průmyslu.\n51. Roznětné vedení musí vyhovovat příslušným technickým normám.\n52. Způsob bezpečného provedení roznětné soustavy, vlastního roznětu, jakož i zkoušky roznětnic, palníků a vedení upravují směrnice o trhacích pracích.\n53. Elektrického proudu ze silnoproudé sítě k odpalování se smí použít jen za podmínek, jež upraví směrnice o trhacích pracích.\nVIII. Ochranná opatření před odpálením.\n54. Před odstřelem je třeba přikrýt nálože — je-li to podle zvláštních poměrů nutné a možné — tak, aby se skalní úlomky daleko nerozletávaly.\n55. Zahájení trhacích prací musí býti předem oznámeno okresnímu národnímu výboru.\n56. Než se započne s trhacími pracemi, musí být v okolí vyhlášena doba a místo provádění trhacích prací, rozsah nebezpečného pásma a význam varovných signálů používaných při těchto pracích\n57. Jestliže nebezpečným pásmem projíždějí hromadné veřejné dopravní prostředky, je třeba trhací dobu dohodnout s příslušným podnikem (státním orgánem).\n58. Nebezpečné pásmo musí být řádně ohrazeno nebo uzavřeno řetězem hlídek, který je vyklidí a nedovolí nikomu vstoupit do nebezpečného pásma, dokud není dáno znamení o skončení odstřelu.\n59. Nebezpečné pásmo určí vedoucí trhacích prací podle trhací methody, druhu trhacích prací, místních podmínek a bezpečnostních opatření.\n60. Počátek a konec odstřelu (vstupu a výstupu z úkrytu) musí být oznámeny na přímý pokyn střelmistra varovnými signály.\n61. Nemohou-li se zaměstnanci závodu při odstřelu vzdálit až za hranici nebezpečného pásma a není-li na blízku vhodný přirozený úkryt, musí být pro ně zřízen zvláštní bezpečný úkryt.\n62. Zaměstnanci musí být při nástupu do závodu poučeni o tom, kde je bezpečný úkryt.\n63. Po odstřelu se smí vystoupit z úkrytu teprve na daný signál, který se smí dát jen na pokyn střelmistra. Signál se smí dát teprve 15 minut po výbuchu poslední nálože. Při nevybuchlé nebo jen částečně vybuchlé náloži (selhávce) je vyčkávací doba 30 minut od zážehu. Tyto vyčkávací doby může zkrátit ministerstvo stavebního průmyslu v dohodě s jednotnou odborovou organisací.\nIX. Selhávky.\n64. Selhávka musí být zneškodněna.\n65. Vyhledávání a zneškodnění selhávky smí zpravidla provést jen střelmistr, u něhož k selhávce došlo; při tom musí postupovat se zvýšenou opatrnosti.\n66. Teprve po zneškodnění selhávky je dovolen přístup ostatním pracujícím do ohrožené části pracoviště.\n67. Je-li nezbytně nutno odložit zneškodnění selhávky na pozdější dobu, musí být tato nálož nápadně označena a střelmistr provádějící její zneškodnění musí být o ní řádně vyrozuměn.\n68. K vrtání pomocných vrtů při zneškodňování selhávek mohou být připuštěni jen zkušení vrtači. Pomocné práce při zneškodňování selhávek mohou konat jen zvláště k tomu střelmistrem vybraní a zacvičení zaměstnanci.\n69. Vrtači a pomocníci smějí pracovat při zneškodnění selhávky jen za stálé přítomnosti a dozoru střelmistra a jen v případech nezbytně nutných.\n70. Na každém úseku trhacích prací musí být veden záznam selhávek.\nX. Závěrečná ustanovení.\n71. Podrobnosti, zejména o způsobu provádění jednotlivých druhů trhacích prací, upravují směrnice o trhacích pracích.\nPříloha C k vyhlášce č. 305/1952 Ú. l.\nSkladiště výbušin.\na) Zřizování povrchových skladišť výbušin.\nDruhy skladišť.\n1. Stavební konstrukce skladišť výbušin a jejich vybavení musí odpovídat množství výbušin v nich uskladňovaných; podle toho se dělí tato skladiště na malá, střední a velká.\n2. Malá skladiště jsou určena nejvýše k uskladnění 25 kg, střední skladiště k uskladnění nejvýše 100 kg výbušin. Větší množství výbušin smí být uskladněno jen ve velkých skladištích.\nMalá skladiště.\n3. Nepoužije-li se k uskladnění výbušin v množství do 25 kg středního skladiště (č. 5 a 6), lze použít výjimečně pro uskladnění tohoto množství výbušin přízemního prostoru bezpečného před vniknutím nepovolaných osob, jehož východ vede do volna. Stěny, strop a podlaha tohoto skladovacího prostoru musí být z nehořlavého materiálu, výjimečně z nesnadno zápalného materiálu, a nesmí být v něm topeniště s otevřeným plamenem; skladovací prostor nesmí být v objektu, který slouží k pobytu osob.\n4. V prodejnách střeliva určeného do ručních střelných zbraní a v jejich příručních skladech smí být uskladněno toto střelivo v množství, jež odpovídá nejvýše 50 kg slože, včetně bezdýmného a černého loveckého prachu v původním balení v množství nepřesahujícím 10 kg. Tyto místnosti mohou být v obytných budovách, jestliže jsou v přízemí a jsou bezpečné před vniknutím nepovolaných osob. Podlaha, stěny a strop těchto prodejen a příručních skladišť musí být nehořlavé; nesmí být v nich topeniště s otevřeným plamenem. Přitom může povolující orgán stanovit zvláštní podmínky pro uskladnění (na př. uskladnění v ohnivzdorných tresorech, ve schránách z nehořlavého materiálu).\nStřední skladiště.\n5. Střední skladiště výbušin musí být buď zděné, po případě betonové, nebo být zhotoveno z vyschlých prken zpravidla 24 mm silných. V obou případech musí být skladiště zasypáno vrstvou zeminy o síle 100 cm; v této zemině nesmí být kamení. Dveře musí být na té straně, kde výbuch by mohl způsobit nejmenší škodu.\n6. Jako středního skladiště výbušin lze též použít železné skříně vestavěné do pevné skály a v ní zakotvené, po případě železné skříně pevně spojené s betonovým základem alespoň 10 cm silným. Železná skříň musí být obezděna betonovou zdí o síle alespoň 12 cm.\n7. Střední skladiště (č. 5 a 6) musí být opatřeno dveřmi, jež se otevírají na venek. Dveře musí být zhotoveny ze železného (zpravidla 5 mm silného) plechu a musí být náležitě zajištěny před vniknutím nepovolaných osob (bezpečnostní zámky a zabezpečení proti vypáčení); vnitřní strana dveří musí být kromě toho opatřena též silnou asbestovou vložkou.\n8. Vyžadují-li toho terenní poměry, musí být ve vzdálenosti 2 m od dveří středního skladiště vybudován ochranný val nebo výkyvná stěna; tato ochranná zařízení musí přesahovat nejméně o 50 cm horní okraj skladiště.\nVelká skladiště.\n9. Velká skladiště výbušin se zřizují zpravidla jako volně stojící přízemní stavby zděné, po případě betonové, a výjimečně dřevěné, je-li bezpečnost úplně zajištěna.\n10. O úpravě dveří velkého skladiště platí obdobně ustanovení č. 7.\nUskladňování rozbušek.\n11. Pro uskladňování rozbušek se má zpravidla zřídit samostatné skladiště (objekt).\n12. Ve skladišti výbušin smějí se uskladňovat rozbušky společně s jinými výbušinami jen podle zvláštního povolení, které může vydat orgán příslušný ke schválení skladiště. V tomto případě musí být rozbušky umístěny v odděleném a uzamykatelném prostoru skladiště, který je co nejdále od ostatních výbušin; povolující orgán může mimo to stanovit zvláštní podmínky nutné v zájmu bezpečnosti. Povolující orgán může povolit uskladnění:\na) nejvýše 100 kusů rozbušek, jde-li o malé skladiště (č. 3 a 4);\nb) nejvýše 500 kusů rozbušek, jde-li o střední skladiště (č. 5 a 6);\nc) nejvýše 10.000 kusů rozbušek, jde-li o velké skladiště (č. 9); rozbušky musí být umístěny nejméně 3 m od jiných výbušin.\n13. Zvláštní prostor (oddělení) pro rozbušky musí být vyložen dřevem nebo vhodnou plastickou hmotou a musí být tak veliký, aby se do něho vešlo jen povolené množství rozbušek v původním balení. Dvířka musí být ze železného plechu (zpravidla 5 mm silného), zavěšená do pevně zakotveného železného rámu (zárubně) a opatřená několika větracími otvory krytými zevnitř hustou ochrannou sítí (144 ok na 1 cm2) a zámkem uvnitř skříně. Pod dvířky skladovacího prostoru má být umístěna manipulační deska pokrytá plstí a opatřená na okrajích lištami. Podlaha pod skladovacím prostorem musí být pokryta dostatečně velikým kobercem z plsti, měkké gumy nebo z jiného vhodného materiálu.\nVýpravna (výdejna) výbušin.\n14. Ve skladu výbušin (souboru skladišť) musí být zřízena pro otevírání schrán, vážení a odbavování výbušin výpravna nebo výdejna, v níž nesmí být najednou více než 500 kg výbušin. Výdejna musí být umístěna tak, aby odběratelé výbušin nemohli procházet skladem.\nÚschovny výbušin u spotřebitelů.\n15. Výbušiny v množství potřebném nejvýše pro jednu směnu mohou se u spotřebitele ukládat v blízkosti pracovního místa v pevných bednách opatřených zámkem. Bedny musí být umístěny tak, aby byly spolehlivě chráněny proti dešti, proti přímým účinkům slunečních paprsků, proti ohni a odletujícím horninám. Dohlíží na ně osoba pověřená prováděním trhacích prací. V bednách se smějí ukládat pouze výbušiny, a to jen v původním obalu nebo v kožené brašně, a záznamní knížky střelmistra.\n16. Je-li nutno, aby poblíž pracovního místa byly i rozbušky, musí být uloženy ve zvláštní bedně ve vzdálenosti nejméně 5 m od bedny s jinými výbušinami.\n17. Nespotřebované výbušiny (trhaviny a rozbušky) musí být na konci směny vráceny do skladiště (výpravny, výdejny), kde musí být převzaty odpovědným vedoucím skladiště.\nOchranné valy a zdi.\n18. Pokud nejsou velká skladiště výbušin nebo skladiště rozbušek, roznětek, zápalek a bleskovic s výbušnou složí přesahující 10 kg chráněna svou výstavbou nebo zapuštěním do země, musí být opatřena ochranným valem nebo ochrannou zdí.\n19. Orgán příslušný ke schválení skladiště výbušin může povolit, aby velká skladiště amonoledkových nebo chlorečňanových výbušin, která jsou v příznivém terénu, nebyla obehnána ochranným valem nebo ochrannou zdí.\nOplocení.\n20. Kolem velkého skladiště nebo skladu výbušin musí být zřízen v okruhu nejméně 30 m pevný plot alespoň 2.20 m vysoký, opatřený nahoře dvěma řadami ostnatého drátu, a to tak, aby ochranné valy byly uvnitř oplocení.\n21. Oplocení středního skladiště výbušin uloží orgán příslušný ke schválení skladiště, vyžadují-li to místní poměry.\nVstupní dveře.\n22. Vstupní dveře do budovy skladiště výbušin musí být nejméně 1.90 m vysoké a 1 m široké a nesmí být při nich práh. Tyto podmínky nemusí být splněny, jde-li o malá skladiště (č. 3 a 4). Dveře musí být opatřeny dvěma různými zámky se skříněmi uvnitř. Na vnější straně dveří musí být trvale a jasně vyznačeny zákaz kouření, zacházení s otevřeným ohněm, nekrytým světlem a s rozpálenými předměty, dále zákaz přinášení zápalek a zapalovačů nebo jiných předmětů a látek snadno vznětlivých, jakož i zákaz vstupu nepovolaným osobám.\nOkna.\n23. Okna budovy skladiště výbušin musí být opatřena pevnou mříží nebo drátěnou sítí a okenice musí být vně pobity plechem. Okna musí být upravena tak, aby bylo zabráněno přímému vnikání slunečních paprsků do skladiště.\nVětrání.\n24. Při zřizování skladiště výbušin musí být pamatováno na jeho větrání. Větrací otvory a průchody musí být lomené a nesmějí propouštět vodu. Otvory větracích zařízení musí být s obou stran přikryty hustou drátěnou sítí nebo dírkovaným plechem. Síť nebo plech musí se podle potřeby čistit. Kromě toho je nutno skladiště podle potřeby pravidelně větrat, po případě umístit v něm hmoty pohlcující vlkhost, zabezpečené proti styku s uskladněnými výbušinami.\nVytápění.\n25. Skladiště výbušin se smí vytápět pouze teplým vzduchem nebo teplou vodou. Topná tělesa musí být hladká (bez žeber) a dostatečně zabezpečená proti styku s ukladněnými výbušinami.\nOsvětlení a elektrické instalace.\n26. Elektrické osvětlení skladišť výbušin musí vyhovovat příslušným technickým normám. K osvětlování skladišť je dovoleno používat jen bezpečnostních elektrických svítilen nebo elektrických důlních lamp. Přípustné je též osvětlování světlomety postavenými venku před okny nebo před dveřmi skladiště.\n27. Každé skladiště výbušin, pokud není jiným způsobem chráněno proti blesku, musí být opatřeno hromosvodem vyhovujícím technickým normám. Kovové části skladiště výbušin musí být uzemněny podle technických norem.\nNástroje a jiná zařízení.\n28. Používání nářadí ze železa není ve skladištích výbušin dovoleno. Nářadí musí být z materiálu, který nezpůsobuje jiskry (bronz, mosaz, nerez a pod.).\n29. U skladišť prašných výbušin (zejména černého prachu a pod.) se musí zamezit veškerému tření železa o železo nebo o kámen. Musí být proto všechny kovové součástky vystavené tření, zejména součástky dveří a oken, zhotoveny z kovu, který nezpůsobuje jiskry.\n30. Železné části zařízení musí být chráněny proti vlivu korose, zejména rzi. Všechny dřevěné části a zařízení ve skladišti výbušin musí být chráněny impregnačními nátěry proti ohni a hnilobě. Prostředky používané k této ochraně nesmějí vytvářet nebezpečné sloučeniny s uskladněnými výbušinami.\n31. Orgán příslušný ke schválení skladiště výbušin může podle okolností určit, aby ve skladišti byl umístěn na sluneční straně spolehlivý teploměr, po případě aby byly zaznamenávány nejvyšší a nejnižší teploty.\nb) Uskladňování výbušin.\nObsah skladišť.\n32. Ve skladišti je dovoleno uskladňovat jen ty druhy výbušin a v takovém množství, jak je stanoveno ve výměru o schválení skladiště. V jednom skladišti (objektu) smí být nejvýše uskladněno 50.000 kg brisantních trhavin; výbušin typu amonoledkových trhavin a bezdýmného prachu — s výjimkou jemnozrnného bezdýmného prachu — smí být uskladněno nejvýše 100.000 kg a ve výjimečných případech se souhlasem ministerstev národní bezpečnosti a národní obrany nejvýše 150.000 kg.\n33. Jsou-li v témže skladišti uloženy výbušiny různých druhů, musí být jednotlivé druhy výbušin uloženy odděleně podle povahy a množství uskladněných výbušin a musí být zřetelně označeny. Toto společné ukládání výbušin vyžaduje povolení orgánu příslušného ke schválení skladiště.\n34. Jest nepřípustné v témže oddílu skladiště společně ukládat:\na) černý prach a směsi jemu podobné s jakoukoli jinou výbušinou;\nb) výbušiny chlorečňanové (chlorátové a perchlorátové) s jakoukoli výbušinou obsahující ledek amnonný;\nc) drobnozrnný a porovitý bezdýmný prach s jinými výbušinami;\nd) organické nitrolátky a estery kyseliny dusičné typu nitroglycerinu a s výbušinami je obsahujícími;\ne) hexogen a pentrit s jinými výbušinami;\nf) třaskaviny s jakoukoli jinou výbušinou;\ng) rozněcovadla a bleskovice s jakoukoli jinou výbušinou;\nh) ohňostrojné výrobky s jakoukoli výbušinou;\nch) ostrou munici s jakoukoli jinou výbušinou.\n35. Orgán příslušný ke schválení skladiště může povolit výjimku z ustanovení písm. g), pokud jde o společné ukládání rozbušek s jinými výbušinami (č. 12) nebo bleskovic s jinými výbušinami, vyjímajíc rozbušky (§ 52 odst. 4 vyhlášky).\n36. Výbušiny nesmějí být uskladňovány společně s látkami snadno vznětlivými.\nZacházení s výbušinami ve skladišti.\n37. Ve skladišti musí být ukládány schrány (bedny, sudy a pod.) s výbušinami v potřebné vzdálenosti od stěn a nejvýše do dvojitých sloupců vedle sebe do výše 1.80 m, a to tak, aby se žádná schrána nemohla převrhnout nebo spadnout. Mezi dvojitými sloupci musí být ulička tak široká, aby ke každé schráně byl snadný přístup. Sudy musí být ukládány ležatě a nejvýše ve třech řadách nad sebou na dřevěných lištách a zajištěny proti skutálení zarážkami. Schrány mohou být ukládány do polic nebo na dřevěné lišty.\n38. Jsou-li výbušiny uskladňovány v pytlích, musí být podél vnitřních stěn místnosti skladiště ulička a prostor pro uskladňování výbušin musí být rozdělen uličkami na čtyři části.\n39. Ve skladištích smějí být ukládány výbušiny jen v původních obalech předepsaných pro přepravu. Otevřen smí být jen jeden obal. Je-li ve skladišti uloženo několik druhů výbušin, smí být z každého druhu otevřen jen jeden obal. Tento otevřený obal musí být vhodně přikryt. Vrácené výbušiny musí být ukládány do zvláštní schrány.\n40. Zásoby výbušin musí být zpravidla spotřebovány v tom pořadí, jak byly do skladiště ukládány.\n41. Uskladněné výbušiny typu dynamitu, střelné bavlny a bezdýmných prachů, u nichž uplynula od jejich výroby doba delší než 6 měsíců, musí být podle potřeby, nejméně však jednou do roka, odborně přezkoušeny na chemickou stálost. Ministerstvo chemického průmyslu může podle potřeby stanovit, že uvedené výbušiny podléhají odbornému přezkoušení již po kratší době. Přezkoušení provede závod nebo ústav určený ministerstvem chemického průmyslu. Vadná výbušina musí být ze skladiště odstraněna a vrácena výrobci k přepracování nebo musí být odborně zničena.\n42. Roztroušená výbušina musí být ihned pečlivě smetena, odnesena, po případě zničena.\n43. V prostorech skladiště a jeho nejbližším okolí smějí být prováděny jen práce, jež patří k vlastnímu provozu skladiště. Ve skladišti se však nesmí provádět otevírání, zavírání, přebalování, vážení výbušin a jiné podobné práce.\n44. Zvedání, nošení, pokládání a přeprava schrán musí se provádět s největší opatrností.\n45. Práce ve skladištích výbušin smějí být svěřeny jen spolehlivým a zkušeným osobám v nezbytně nutném počtu. Ve skladištích černého prachu a třaskavin musí být postaráno o vhodné přezůvky.\n46. Na vhodném místě ve skladišti musí být vyvěšeny nejdůležitější předpisy a pokyny o zacházení s výbušinami. Uvnitř skladiště musí být rovněž vyznačeno na zvláštní tabulce nejvyšší přípustné množství a druh výbušin.\n47. Skladiště výbušin musí být zajištěno proti vloupání již svou výstavbou, stálým dozorem nebo jiným bezpečným způsobem. Není-li ve skladišti nikdo přítomen, musí být skladiště uzamčeno a okna zavřena. Klíče musí být uloženy na místě bezpečném před odcizením.\nČištění.\n48. Skladiště výbušin musí být uvnitř i vně udržováno v dokonalém pořádku a čistotě. Totéž platí o okolí skladiště. U vchodu do skladiště výbušin musí být zařízení k čištění obuvi. Rovněž musí tam být vhodné čisticí náčiní (smeták, lopatka), vyhovující ustanovení č. 28.\n49. Ve skladišti výbušin a v jeho blízkosti není dovoleno ukládat prázdné obaly, balicí hmoty a jiné předměty, s výjimkou těch, jichž je třeba k provozu skladiště.\nOpravy.\n50. Při opravách a úpravách na skladištním objektu nebo uvnitř skladiště výbušin musí být výbušiny ze skladiště odstraněny. Jde-li však o opravy, při nichž není nebezpečí výbuchu, lze od odstranění výbušin ze skladiště upustit. Opravy musí se však konat za dozoru odborníka a za stálého střežení.\nc) Zřizování podzemních skladišť výbušin.\n51. Podzemní skladiště výbušin (t. j. skladiště přístupná štolou, jámou nebo jiným podzemním dílem) v podnicích, které nepodléhají dozoru orgánů veřejné báňské správy, lze zřizovat jen výjimečně; tato skladiště musí být umístěna a uspořádána tak, aby byl proti účinkům výbuchu chráněn povrch, jiná skladiště výbušin, pracoviště, důležitá podzemní zařízení a hlavní cesty pro chůzi, těžbu a větrání.\n52. O zřizování těchto skladišť platí přiměřeně zvláštní předpisy o zřizování skladišť výbušin v hornictví."
+    }
+  ],
+  "definitions": []
+}

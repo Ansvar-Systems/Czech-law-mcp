@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2481/1948",
+  "type": "statute",
+  "title": "2481/1948 Ú. l. I, Čtrnáctá Vyhláška ministerstva sociální péče o organisačních a přechodných opatřeních potřebných k vybudování národního pojištění.",
+  "title_en": "",
+  "short_name": "2481/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-10-21",
+  "in_force_date": "1948-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2481",
+  "description": "Čtrnáctá Vyhláška ministerstva sociální péče o organisačních a přechodných opatřeních potřebných k vybudování národního pojištění.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Dokud nenabude účinnosti ustanovení § 135 zákona, stanoví se pojistné nemocenského pojištění za důchodce uvedené v § 8, písm. c) zákona sazbou 5% z důchodu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Na toto pojistné sráží se důchodci při výplatě důchodu 2% z důchodu; další 3% hradí plátce důchodu, jímž se rozumí osoba, na jejíž vrub se důchod vyplácí.\n(2) V případech zvláštního zřetele hodných může plátce důchodu hraditi celé pojistné ze svého."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1948."
+    }
+  ],
+  "definitions": []
+}

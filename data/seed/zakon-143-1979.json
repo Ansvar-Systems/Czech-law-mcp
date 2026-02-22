@@ -1,0 +1,39 @@
+{
+  "id": "cz:143/1979",
+  "type": "statute",
+  "title": "143/1979 Sb., Vyhláška Českého úřadu bezpečnosti práce o výběru prototypů strojů a zařízení pro posuzování z hlediska požadavků bezpečnosti práce a technických zařízení",
+  "title_en": "",
+  "short_name": "143/1979 Sb.",
+  "status": "in_force",
+  "issued_date": "1979-12-19",
+  "in_force_date": "1980-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1979/143",
+  "description": "Vyhláška Českého úřadu bezpečnosti práce o výběru prototypů strojů a zařízení pro posuzování z hlediska požadavků bezpečnosti práce a technických zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Vyhláška se vztahuje na organizace, které vyrábějí prototypy strojů a zařízení (dále jen „výrobce“).\n(2) Za prototypy strojů a zařízení se pro účely této vyhlášky považují prvé kusy\na) vyhrazených tlakových zařízení 1) včetně vodoznaků a pojistných ventilů kotlů,\nb) vyhrazených zdvihacích zařízení, 2)\nc) pracovních strojů, které zpracovávají různé látky, suroviny nebo polotovary tak, že je obrábějí, upravují, přetvářejí, spojují, mísí, třídí, suší nebo podrobují jiným procesům,\nkteré nebyly dosud vyráběny, nebo byly již vyráběny, avšak má na nich dojít ke konstrukčním změnám, ovlivňujícím bezpečnost práce (dále jen „prototypy“).\n(3) Vyhláška se nevztahuje na prototypy, které\na) podléhají dozoru orgánů, uvedených v § 3 odst. 2 zákona č. 174/1968 Sb.,\nb) podléhají schvalování orgánů státního zkušebnictví, 3)\nc) jsou zhotoveny jednotlivě podle požadavků odběratele,\nd) jsou určeny pro experimentální účely."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Výrobce je povinen inspektorátu bezpečnosti práce příslušnému podle místa výroby (dále jen „inspektorát“) písemně oznámit, že zamýšlí zahájit výrobu prototypu s uvedením jeho stručné technické charakteristiky a termínu zahájení výroby.\n(2) Na žádost inspektorátu je výrobce povinen\na) předložit dokumentaci prototypu v rozsahu určeném inspektorátem,\nb) předvést prototyp v provozu ve lhůtě určené inspektorátem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Inspektorát oznámí výrobci výsledek svého posouzení nejpozději do 30 dnů po splnění povinností uvedených v § 2; nemůže-li tuto lhůtu dodržet, uvědomí o tom výrobce a stanoví konečný termín."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1980.\n1) Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.\n2) Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 19/1979 Sb., kterou se určují vyhrazená zdvihací zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.\n3) Zákon č. 30/1968 Sb., o státním zkušebnictví."
+    }
+  ],
+  "definitions": []
+}

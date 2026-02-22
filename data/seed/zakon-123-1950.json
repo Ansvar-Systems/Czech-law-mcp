@@ -1,0 +1,21 @@
+{
+  "id": "cz:123/1950",
+  "type": "statute",
+  "title": "123/1950 Sb., Vyhláška o opravě tiskové chyby ve vládním nařízení č. 112/1950 Sb. o bohosloveckých fakultách",
+  "title_en": "",
+  "short_name": "123/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-08-21",
+  "in_force_date": "1950-08-21",
+  "url": "https://www.e-sbirka.cz/sb/1950/123",
+  "description": "Vyhláška o opravě tiskové chyby ve vládním nařízení č. 112/1950 Sb. o bohosloveckých fakultách",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V § 2 odst. 1 vládního nařízení č. 112/1950 Sb. o bohosloveckých fakultách, se opravuje tisková chyba ve druhé větě, takže tato věta zní pak správně takto: „Tyto fakulty soustředí též bohoslovecké studium, které dosud zajišťovaly zejména Biblický ústav Jednoty českobratrské v Kutné Hoře a Bohoslovecký seminář československých baptistů v Praze, jež se zrušují.“"
+    }
+  ],
+  "definitions": []
+}

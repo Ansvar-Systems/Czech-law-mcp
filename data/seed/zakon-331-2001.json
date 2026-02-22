@@ -1,0 +1,57 @@
+{
+  "id": "cz:331/2001",
+  "type": "statute",
+  "title": "331/2001 Sb., Vyhláška Ministerstva spravedlnosti o centrální evidenci exekucí",
+  "title_en": "",
+  "short_name": "331/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-09-18",
+  "in_force_date": "2005-04-04",
+  "url": "https://www.e-sbirka.cz/sb/2001/331",
+  "description": "Vyhláška Ministerstva spravedlnosti o centrální evidenci exekucí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Centrální evidenci exekucí (dále jen „evidence“) vede Exekutorská komora České republiky (dále jen „Komora“) na určené adrese ve veřejně přístupném informačním systému (Internet).\n(2) Exekutor do evidence elektronicky zapisuje a z evidence elektronicky vymazává pravomocné usnesení soudu o\na) nařízení exekuce a o pověření exekutora provedením exekuce,\nb) zastavení exekuce a\nc) odkladu exekuce.\n(3) Komora poskytuje exekutorovi přístup k elektronickému zadání údaje do evidence nebo vymazání údaje z evidence."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Náklady",
+      "content": "(1) Náklady spojené s technickým zajištěním zápisu údajů do evidence a výmazu údajů z evidence, s vedením, provozem a správou evidence hradí Komora.\n(2) Náklady spojené s činností podle § 1 odst. 2 hradí exekutor."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Pravomocné usnesení o nařízení exekuce a o pověření exekutora provedením exekuce zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy usnesení nabylo právní moci.\n(2) Zaniklo-li pověření exekutora k provedení exekuce z důvodů uvedených v § 51 zákona, zapíše exekutor bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy pověření k provedení exekuce zaniklo, do evidence údaj o tom, že jeho pověření zaniklo, spolu s uvedením důvodu zániku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Pravomocné usnesení soudu o zastavení exekuce a pravomocné usnesení soudu o odkladu exekuce zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy usnesení nabyla právní moci."
+    },
+    {
+      "provision_ref": "§ 5a",
+      "section": "5a",
+      "title": "§ 5a",
+      "content": "(1) Změnu údaje obsaženého v evidenci zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy se o změně dozvěděl.\n(2) Po uplynutí šedesáti dnů ode dne, kdy bylo exekuční řízení skončeno nebo pravomocně zastaveno, provede exekutor bez zbytečného odkladu, nejdéle do deseti dnů výmaz všech údajů týkajících se nařízené exekuce z evidence."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Přechodné ustanovení",
+      "content": "Údaje týkající se exekuce nařízené přede dnem účinnosti této vyhlášky zapíše exekutor do evidence nejpozději do deseti dnů ode dne účinnosti této vyhlášky; ustanovení odstavce 4 tím není dotčeno."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

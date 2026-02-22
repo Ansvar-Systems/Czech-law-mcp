@@ -1,0 +1,33 @@
+{
+  "id": "cz:34/1945",
+  "type": "statute",
+  "title": "34/1945 Sb., Nařízení o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny",
+  "title_en": "",
+  "short_name": "34/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-08-10",
+  "in_force_date": "1945-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1945/34",
+  "description": "Nařízení o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Úroková sazba ze vkladů na vkladní knížky činí 11/4%."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vládní nařízení ze dne 26. září 1940, č. 354 Sb., o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení platí v zemích České a Moravskoslezské a nabývá účinnosti dne 1. července 1945; provede je ministr pošt."
+    }
+  ],
+  "definitions": []
+}

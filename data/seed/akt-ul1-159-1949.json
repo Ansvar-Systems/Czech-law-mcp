@@ -1,0 +1,50 @@
+{
+  "id": "cz:ul1:159/1949",
+  "type": "statute",
+  "title": "159/1949 Ú. l. I, Vyhláška ministerstva výživy o úpravě obchodního mletí obilí.",
+  "title_en": "",
+  "short_name": "159/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-19",
+  "in_force_date": "1949-01-19",
+  "url": "https://www.e-sbirka.cz/ul1/1949/159",
+  "description": "Vyhláška ministerstva výživy o úpravě obchodního mletí obilí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Počínajíc dnem 1. ledna 1949 smějí zpracovávat a opracovávat obilí pro obchodní mletí jen mlýny začleněné do národních podniků nebo v národní správě národních podniků a mlýny družstevní. Mlýny družstevní provádějí obchodní mletí v rámci dohody uzavřené s Československými mlýny, nár. podnik v Praze. Ostatní mlýny smějí zpracovávat a opracovávat obilí pro obchodní mletí jen, pokud s nimi přísl. národní podnik podřízený ústřednímu orgánu Československé mlýny, nár. podnik v Praze sjednal smlouvu o semílání obilí ve mzdě pro národní podnik.\n(2) Obilím podle této vyhlášky se rozumí pšenice, žito, ječmen, oves, pohanka, proso a kukuřice a směsi dvou nebo několika druhů obilí.\n(3) Obchodním mletím se rozumí zpracovávání a opracovávám obilí na mlýnské výrobky, určené k prodeji nebo k zpracování ve vlastním podniku za účelem prodeje nebo k výdeji zaměstnancům mlýna jako deputát."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministerstvo výživy může ze zásobovacích důvodů nebo z důvodů hospodářské účelnosti uložiti mlýnům zpracovat obilí pro obchodní mletí ve mzdě pro národní podnik podle § 1, odst. 1 v množství, jež samo určí a stanoviti bližší podmínky a lhůtu pro splnění takového výrobního příkazu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky této vyhlášky se trestají podle § 8 dekretu presidenta republiky č. 118/1945 Sb. ve znění zákona č. 274/1948 Sb., po případě podle jiných příslušných trestních předpisů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Obilím podle této vyhlášky",
+      "definition": "pšenice, žito, ječmen, oves, pohanka, proso a kukuřice a směsi dvou nebo několika druhů obilí",
+      "source_provision": "§ 1."
+    },
+    {
+      "term": "Obchodním mletím",
+      "definition": "zpracovávání a opracovávám obilí na mlýnské výrobky, určené k prodeji nebo k zpracování ve vlastním podniku za účelem prodeje nebo k výdeji zaměstnancům mlýna jako deputát",
+      "source_provision": "§ 1."
+    }
+  ]
+}

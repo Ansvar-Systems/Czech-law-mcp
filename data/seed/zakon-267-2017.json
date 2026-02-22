@@ -1,0 +1,115 @@
+{
+  "id": "cz:267/2017",
+  "type": "statute",
+  "title": "267/2017 Sb., Vyhláška o lokalizaci a identifikaci účastníka tísňové komunikace při volání na čísla tísňových volání",
+  "title_en": "",
+  "short_name": "267/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-08-18",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2017/267",
+  "description": "Vyhláška o lokalizaci a identifikaci účastníka tísňové komunikace při volání na čísla tísňových volání",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) základnovou stanicí základnová stanice veřejné mobilní komunikační sítě,\nb) sektorem základnové stanice oblast obsluhovaná jedním vysílacím a jedním přijímacím systémem základnové stanice, jejichž prostřednictvím je účastník tísňové komunikace při jejím uskutečnění připojen do veřejné mobilní komunikační sítě,\nc) indexem oblasti číslo identifikující oblast, která byla vymezena podnikatelem zajišťujícím veřejnou komunikační síť a která určuje sektor základnové stanice nebo jeho část,\nd) identifikátorem mobilního telekomunikačního zařízení jedinečné číslo přidělené mobilnímu přístroji při výrobě,\ne) službou eCall služba tísňového volání na jednotné evropské tísňové číslo 112 uskutečněného buď automaticky aktivací palubních senzorů, nebo manuálně, kdy prostřednictvím veřejných mobilních komunikačních sítí dojde k přenosu standardizovaného minimálního souboru dat a vytvoří se hlasové spojení mezi vozidlem a centrem tísňové komunikace,\nf) SIM kartou identifikační účastnická karta,\ng) diskriminátorem eCall jednotný mezinárodní parametr volání ve veřejné mobilní komunikační síti, který zajistí odlišné směrování služby eCall ve veřejné mobilní komunikační síti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Osobní, identifikační a další údaje pro identifikaci a lokalizaci účastníka tísňové komunikace ve veřejné pevné komunikační síti",
+      "content": "(1) Osobními údaji účastníka, který je fyzickou osobou, jsou jméno, popřípadě jména, příjmení a telefonní číslo. Identifikačními údaji účastníka, který je právnickou osobou, jsou název a telefonní číslo.\n(2) Údaji pro lokalizaci účastníka tísňové komunikace z veřejného telefonního automatu jsou adresa umístění veřejného telefonního automatu, včetně bližšího popisu k jeho nalezení v terénu, jeho souřadnice podle Světového geodetického systému 1984 (WGS84) podle jiného právního předpisu1) (dále jen „systém WGS84“) a telefonní číslo veřejného telefonního automatu v síti provozovatele veřejné pevné komunikační sítě.\n(3) Údaji pro lokalizaci ve veřejné pevné komunikační síti jsou\na) adresa2) koncového bodu sítě,\nb) kódy stavebního objektu, adresního místa, obce, části obce a ulice nebo jiného veřejného prostranství ze základního registru územní identifikace, adres a nemovitostí (dále jen „registr územní identifikace“) vztahující se k adrese koncového bodu sítě,\nc) souřadnice umístění koncového bodu sítě podle systému WGS84,\nd) další informace, kterými jsou číslo podlaží a číslo bytu, jsou-li tyto informace dostupné.\n(4) Není-li možné zjistit údaje podle odstavce 3 písm. a), použije se pro lokalizaci účastníka tísňové komunikace náhradní adresa, která je tvořená adresou nejbližšího koncového bodu veřejné pevné komunikační sítě a souřadnicemi skutečného umístění telekomunikačního koncového zařízení v systému WGS84."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Předávání údajů podnikateli, který vede databázi",
+      "content": "Údaje podle § 2 podnikatel předává společně se svým identifikačním číslem osoby podle jiného právního předpisu3), a to elektronicky ve formě strukturovaného textového souboru s kódováním Windows-1250. Struktura a pořadí údajů jsou uvedeny v příloze této vyhlášky.\nPředávání údajů z databáze centru tísňové komunikace"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací umožňující koncovým uživatelům volání prostřednictvím veřejné pevné komunikační sítě předává centru tísňové komunikace při každé tísňové komunikaci systémovou signalizací podle síťového plánu signalizace veřejných komunikačních sítí vydaného Českým telekomunikačním úřadem podle § 62 zákona o elektronických komunikacích (dále jen „síťový signalizační plán“) telefonní číslo, ze kterého se tato komunikace uskutečňuje.\n(2) Údaje podle § 2 zjišťuje centrum tísňové komunikace dotazem do databáze vedené podnikatelem zajišťujícím mu připojení k veřejné pevné komunikační síti, a to na základě telefonního čísla, ze kterého byla uskutečněna tísňová komunikace. Pro dotazy do databáze se používá formát HTML nebo XML."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Je-li pro připojení telekomunikačního koncového zařízení k veřejné pevné komunikační síti využito veřejné mobilní komunikační sítě, předávají se centru tísňové komunikace údaje podle § 6 způsobem uvedeným v § 7.\n(2) Pokud není při tísňové komunikaci předáno telefonní číslo podle § 4 odst. 1, předává se telefonní číslo identifikující koncový bod veřejné pevné komunikační sítě, k němuž je připojeno telekomunikační koncové zařízení, nebo neveřejná komunikační síť, z nichž byla tísňová komunikace uskutečněna."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Lokalizace geografické polohy účastníka tísňové komunikace ve veřejných mobilních komunikačních sítích",
+      "content": "(1) V případě tísňové komunikace prostřednictvím volání z veřejné mobilní komunikační sítě předává podnikatel poskytující veřejně dostupnou interpersonální komunikační službu založenou na číslech centru tísňové komunikace údaje určující\na) index oblasti,\nb) geografickou polohu základnové stanice účastníka tísňové komunikace v systému WGS84, nebo\nc) geografickou polohu těžiště sektoru poslední známé základnové stanice účastníka tísňové komunikace v systému WGS84.\n(2) Na základě vyžádání ze strany centra tísňové komunikace v rámci jednotlivé tísňové komunikace předává podnikatel zajišťující veřejnou mobilní komunikační síť, v jehož síti tísňová komunikace vznikla, geografickou polohu základnové stanice účastníka tísňové komunikace v systému WGS84 nebo geografické označení identifikovaného sektoru základnové stanice v systému WGS84, včetně azimutu směrování antén, a to přenosem po datové síti. K identifikaci účastníka tísňové komunikace použije centrum tísňové komunikace telefonní číslo účastníka tísňové komunikace, mezinárodní identifikátor účastníka mobilní komunikační sítě, anebo identifikátor mobilního telekomunikačního zařízení.\nPředávání údajů z veřejných mobilních komunikačních sítí"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Údaje podle § 6 odst. 1 se poskytují prostřednictvím signalizačního systému podle síťového signalizačního plánu.\n(2) Neumožňují-li údaje podle § 6 lokalizovat účastníka tísňové komunikace nebo není-li možné údaje podle § 6 zjistit, postupuje centrum tísňové komunikace při lokalizaci účastníka tísňové komunikace v součinnosti s příslušným pracovištěm podnikatele zajišťujícího veřejnou mobilní komunikační síť."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Podnikatel zajišťující veřejnou mobilní komunikační síť předávající centru tísňové komunikace údaje o lokalizaci podle § 6 odst. 1 písm. a) mu předává alespoň jednou za tři měsíce údaje o geografickém vymezení všech jím provozovaných základnových stanicích, včetně jejich sektorů, s uvedením jejich označení, popřípadě všech dalších používaných identifikátorů."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Lokalizace geografické polohy účastníka tísňové komunikace prostřednictvím internetu",
+      "content": "Neumožní-li veřejná pevná nebo veřejná mobilní komunikační síť zprostředkující tísňovou komunikaci prostřednictvím internetu lokalizovat účastníka tísňové komunikace podle § 2 nebo 6, postupuje centrum tísňové komunikace při lokalizaci v součinnosti s příslušným podnikatelem zajišťujícím tuto síť za účelem předání existujících nezbytných informací pro lokalizaci účastníka tísňové komunikace."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Lokalizace a identifikace volajícího při využití služby eCall",
+      "content": "(1) V případě využití služby eCall se při sestavení spojení přenáší diskriminátor eCall4), na jehož základě podnikatel zajišťující veřejnou mobilní komunikační síť směruje toto volání na nejvhodnější centrum tísňové komunikace určené pro příjem služby eCall. Směrovací kódy pro eCall zveřejní podnikatel zajišťující připojení centra tísňové komunikace určeného pro příjem služby eCall k veřejné komunikační síti.\n(2) Po spojení volání v případě využití služby eCall předá podnikatel zajišťující veřejnou mobilní komunikační síť centru tísňové komunikace datovou zprávu vygenerovanou palubní vozidlovou jednotkou eCall se základními údaji o vozidle a nehodě, kterými jsou:\na) řídící informace, kterými jsou:\n1. automatická aktivace nebo manuální aktivace a\n2. typ vozidla,\nb) identifikační číslo silničního vozidla (VIN)5),\nc) typ paliva,\nd) čas aktivace jednotky,\ne) údaje pro lokalizaci,\nf) směr jízdy,\ng) počet osob ve vozidle.\n(3) Datová zpráva podle odstavce 2 může obsahovat i další údaje ve shodě s určenou normou nebo její částí podle jiného zákona6), oznámenou ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví, která obsahuje podrobnější technické požadavky.\n(4) Údaji pro lokalizaci podle odstavce 2 písm. e) jsou souřadnice umístění vozidla v okamžiku aktivace volání v systému WGS84. V případě, že není možné odeslat souřadnice umístění vozidla v okamžiku aktivace volání, odešlou se souřadnice posledního známého umístění vozidla."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Volání na tísňová čísla bez použití SIM karty",
+      "content": "Při volání na tísňová čísla bez použití SIM karty se centru tísňové komunikace přenáší identifikátor mobilního telekomunikačního zařízení, ze kterého je volání uskutečňováno, prostřednictvím signalizačního systému podle síťového signalizačního plánu."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Přechodné ustanovení",
+      "content": "Podnikatel zajišťující připojení k veřejné mobilní komunikační síti předávající subjektu údaje o lokalizaci podle § 6 odst. 1 písm. a) vymezí tyto údaje podle požadavků této vyhlášky do 6 měsíců ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Zrušovací ustanovení",
+      "content": "Vyhláška č. 238/2007 Sb., o rozsahu, formě a způsobu předávání osobních a identifikačních údajů, formě databáze těchto údajů a rozsahu, formě a způsobu předávání těchto údajů subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání (vyhláška o předávání údajů pro účely tísňových volání), se zrušuje."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 2017.\nPříloha k vyhlášce č. 267/2017 Sb.\nStruktura a pořadí předávaných údajů pro lokalizaci ve veřejné pevné komunikační síti\n1. příjmení nebo obchodní firma, nebo název v případě nepodnikající právnické osoby,\n2. jméno, popř. jména,\n3. telefonní číslo,\n4. identifikační číslo osoby přidělené podnikateli poskytujícího hlasovou komunikační službu v pevné komunikační síti,\n5. název ulice,\n6. číslo popisné nebo evidenční domu,\n7. číslo orientační domu,\n8. číslo podlaží,\n9. číslo bytu,\n10. název obce,\n11. název části obce,\n12. název okresu,\n13. zeměpisná délka souřadnice umístění koncového bodu sítě podle systému WGS84 - longitude,\n14. zeměpisná šířka souřadnice umístění koncového bodu sítě podle systému WGS84 - latitude,\n15. kód stavebního objektu z registru územní identifikace,\n16. kód adresního místa z registru územní identifikace,\n17. kód obce z registru územní identifikace,\n18. kód části obce z registru územní identifikace,\n19. kód ulice z registru územní identifikace.\nOddělovacím znakem jednotlivých údajů je středník („;“).\n1) Nařízení vlády č. 430/2006 Sb., o stanovení geodetických referenčních systémů a státních mapových děl závazných na území státu a zásadách jejich používání, ve znění nařízení vlády č. 81/2011 Sb.\n2) § 29 odst. 1 písm. h) zákona č. 111/2009 Sb., o základních registrech, ve znění pozdějších předpisů.\n3) § 24 zákona č. 111/2009 Sb., o základních registrech, ve znění pozdějších předpisů.\n4) Doporučení Komise 2011/750/EU ze dne 8. září 2011 o podpoře služby eCall v sítích elektronických komunikací pro přenos palubních tísňových hovorů na číslo 112 v celé Evropské unii (systém eCall) (Úřední věstník EU, L 303, 22.11.2011, s. 46).\n5) § 4 odst. 3 písm. d) zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů.\n6) § 4a zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "indexem oblasti číslo identifikující oblast",
+      "definition": "která byla vymezena podnikatelem zajišťujícím veřejnou komunikační síť a která určuje sektor základnové stanice nebo jeho část",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "identifikátorem mobilního telekomunikačního",
+      "definition": "zařízení jedinečné číslo přidělené mobilnímu přístroji při výrobě",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "službou eCall",
+      "definition": "služba tísňového volání na jednotné evropské tísňové číslo 112 uskutečněného buď automaticky aktivací palubních senzorů, nebo manuálně, kdy prostřednictvím veřejných mobilních komunikačních sítí dojde k přenosu standardizovaného minimálního souboru dat a vytvoří se hlasové spojení mezi vozidlem a centrem tísňové komunikace",
+      "source_provision": "§ 1"
+    }
+  ]
+}

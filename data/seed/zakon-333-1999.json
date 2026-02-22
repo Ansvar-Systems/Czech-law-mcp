@@ -1,0 +1,45 @@
+{
+  "id": "cz:333/1999",
+  "type": "statute",
+  "title": "333/1999 Sb., Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "title_en": "",
+  "short_name": "333/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-12-28",
+  "in_force_date": "2000-09-20",
+  "url": "https://www.e-sbirka.cz/sb/1999/333",
+  "description": "Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Sazby stravného",
+      "content": "Sazby stravného podle § 5 odst. 1 zákona činí\na) 54 Kč až 66 Kč, trvá-li pracovní cesta 5 až 12 hodin,\nb) 83 Kč až 99 Kč, trvá-li pracovní cesta déle než 12 hodin, nejvýše však 18 hodin,\nc) 130 Kč až 155 Kč, trvá-li pracovní cesta déle než 18 hodin."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Sazby základních náhrad za používání silničních motorových vozidel",
+      "content": "Sazba základní náhrady za 1 km jízdy podle § 7 odst. 2 zákona činí\na) 0,90 Kč u jednostopých vozidel a tříkolek,\nb) 3,30 Kč u osobních silničních motorových vozidel."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Průměrné ceny pohonných hmot",
+      "content": "Výše průměrné ceny za 1 litr pohonné hmoty podle § 7 odst. 5 věty druhé zákona činí\na) 30,00 Kč u benzinu automobilového 91 O Special,\nb) 31,30 Kč u benzinu automobilového 96 O Super,\nc) 30,30 Kč u benzinu automobilového 95 O Natural,\nd) 24,20 Kč u motorové nafty."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se vyhláška č. 324/1998 Sb., kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2000."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:124/1952",
+  "type": "statute",
+  "title": "124/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 1441—1947, ČSN 42 0030, ČSN 42 0031 a ČSN 02 5890.",
+  "title_en": "",
+  "short_name": "124/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-05-29",
+  "in_force_date": "1952-06-13",
+  "url": "https://www.e-sbirka.cz/ul0/1952/124",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 1441—1947, ČSN 42 0030, ČSN 42 0031 a ČSN 02 5890.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickými státními normami jsou od 1. září 1952. normy:\nČSN 1441—1947„Odpadová ocel“,\nČSN 42 0030„Třídění odpadů ocelí“,\nČSN 42 0031„Třídění odpadů oceli podle chemického složení“,\nČSN 02 5890„Štítky pro označování odpadů kovů.“"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Normy ČSN 1441—1947 a ČSN 42 0030 obsahují všeobecné základní údaje rozhodné pro třídění odpadů ocelí.\nNorma ČSN 42 0031 uvádí jednotlivé třídy odpadů ocelí s vyznačením jejich chemického složení a obsahuje seznam číselných a písmenových značek ocelí.\nNorma ČSN 02 5890 pojednává o štítcích pro označování odpadu kovů a jich náležitostech."
+    }
+  ],
+  "definitions": []
+}

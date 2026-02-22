@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1034/1946",
+  "type": "statute",
+  "title": "1034/1946 Ú. l. I, Vyhláška ministra výživy o znárodnění některých podniků průmyslu potravinářského.",
+  "title_en": "",
+  "short_name": "1034/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-16",
+  "in_force_date": "1946-04-16",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1034",
+  "description": "Vyhláška ministra výživy o znárodnění některých podniků průmyslu potravinářského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Firma Senecký umelý mlyn, úč. spol., Senec,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Firma Levický mlynský priemysel, úč. spol., Levice,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Firma Spojené mlyny, úč. spol., Bratislava, se závody ve Velkém Šariši, Spišské Nové Vsi, Lučenci a Čani.\nZnárodněním nabyl Československý stát vlastnictví znárodněných podniků v rozsahu stanoveném § 4 dekretu č. 101/1945 Sb."
+    }
+  ],
+  "definitions": []
+}

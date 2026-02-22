@@ -1,0 +1,33 @@
+{
+  "id": "cz:53/1947",
+  "type": "statute",
+  "title": "53/1947 Sb., Nařízení o letním čase v roce 1947",
+  "title_en": "",
+  "short_name": "53/1947 Sb.",
+  "status": "in_force",
+  "issued_date": "1947-04-14",
+  "in_force_date": "1947-04-14",
+  "url": "https://www.e-sbirka.cz/sb/1947/53",
+  "description": "Nařízení o letním čase v roce 1947",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Počátek letního času v roce 1947 se určuje na den 20. dubna 1947 o druhé hodině středoevropského času a provede se posunutím hodinových ručiček na třetí hodinu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konec letního času v roce 1947 se určuje na den 5. října 1947 o třetí hodině letního času a provede se posunutím hodinových ručiček na druhou hodinu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

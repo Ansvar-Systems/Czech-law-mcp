@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1264/1948",
+  "type": "statute",
+  "title": "1264/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Báňské a hutní společnosti, národního podniku.",
+  "title_en": "",
+  "short_name": "1264/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-04",
+  "in_force_date": "1948-07-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1264",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Báňské a hutní společnosti, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Doležal & Těhník, Prostějov, se sídlem v Prostějově,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Rudolf Korer, Maschinenfabrik, Eisengiesserei und Kesselschmiede in Teschen, se sídlem v Českém Těšíně,"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Sv. Egydská společnost pro průmysl železářský a ocelářský, se sídlem ve Vídni (Rakousko), závod ve Frýdku, spr. okr. Místek,\nvesměs v rozsahu jejich znárodnění, do Báňské a hutní společnosti, národního podniku."
+    }
+  ],
+  "definitions": []
+}

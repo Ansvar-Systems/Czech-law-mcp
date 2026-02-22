@@ -1,0 +1,56 @@
+{
+  "id": "cz:50/2000",
+  "type": "statute",
+  "title": "50/2000 Sb., Nařízení vlády, kterým se stanoví sazba cla pro dovoz papíru, kartonu nebo lepenky pocházejících z Evropské unie a zemí Evropského sdružení volného obchodu",
+  "title_en": "",
+  "short_name": "50/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-03-14",
+  "in_force_date": "2000-03-14",
+  "url": "https://www.e-sbirka.cz/sb/2000/50",
+  "description": "Nařízení vlády, kterým se stanoví sazba cla pro dovoz papíru, kartonu nebo lepenky pocházejících z Evropské unie a zemí Evropského sdružení volného obchodu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Ze zboží uvedeného v podpoložce 4805 80 90 celního sazebníku1) - jiný papír, karton nebo lepenka o plošné hmotnosti 225g/m2 nebo vyšší - ostatní, pocházejícího z Evropské unie a zemí Evropského sdružení volného obchodu, se uplatňuje sazba dovozního cla „bez cla“."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Zbožím pocházejícím z Evropské unie se rozumí zboží, které splňuje podmínky stanovené mezinárodní smlouvou,2) kterou je Česká republika vázána.\n(2) Zbožím pocházejícím ze zemí Evropského sdružení volného obchodu se rozumí zboží, které splňuje podmínky stanovené Dohodou mezi Českou republikou a zeměmi Evropského sdružení volného obchodu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Po dobu platnosti tohoto nařízení se pro zboží vymezené v § 1 a za podmínek zde vymezených nepoužijí celní sazby stanovené celním sazebníkem,1) mezinárodní smlouvou,2) kterou je Česká republika vázána, a Dohodou mezi Českou republikou a zeměmi Evropského sdružení volného obchodu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto nařízení pozbývá platnosti dnem 31. prosince 2000.\n1) Nařízení vlády č. 318/1999 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Sdělení Ministerstva zahraničních věcí č. 7/1995 Sb., o sjednání Evropské dohody zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím pocházejícím z Evropské unie",
+      "definition": "zboží, které splňuje podmínky stanovené mezinárodní smlouvou,2) kterou je Česká republika vázána",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Zbožím pocházejícím ze zemí Evropského sdružení volného obchodu",
+      "definition": "zboží, které splňuje podmínky stanovené Dohodou mezi Českou republikou a zeměmi Evropského sdružení volného obchodu",
+      "source_provision": "§ 2"
+    }
+  ]
+}

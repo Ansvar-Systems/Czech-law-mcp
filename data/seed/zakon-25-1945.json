@@ -1,0 +1,33 @@
+{
+  "id": "cz:25/1945",
+  "type": "statute",
+  "title": "25/1945 Sb., Dekret presidenta republiky o sjednocení celního práva na území republiky Československé",
+  "title_en": "",
+  "short_name": "25/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-07-16",
+  "in_force_date": "1945-07-16",
+  "url": "https://www.e-sbirka.cz/sb/1945/25",
+  "description": "Dekret presidenta republiky o sjednocení celního práva na území republiky Československé",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro československé celní území platí výhradně celní právo platné dne 29. září 1938, zejména celní zákon ze dne 14. července 1927, č. 114 Sb., a všeobecný celní sazebník pro československé celní území."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Na dobu do 31. prosince 1945 se zrušují všeobecná cla, stanovená celním sazebníkem na dovoz zboží, vyjímajíc cla na kávu s. č. 2, čaj s. č. 3, koření s. č. 4 až 8, ananas s. č. 15, mandle s. č. 16 a tabák a tabákové výrobky s. č. 22, kteréžto zboží podléhá všeobecným clům, platným dne 29. září 1938."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento dekret nabývá účinnosti dnem vyhlášení; provede jej ministr financí v dohodě se zúčastněnými ministry."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:843/1946",
+  "type": "statute",
+  "title": "843/1946 Ú. l. I, Vyhláška č. 12/1946 Svazu pro mléko a tuky, kterou se mění vyhláška Svazu č. 8/1945.",
+  "title_en": "",
+  "short_name": "843/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-26",
+  "in_force_date": "1946-12-10",
+  "url": "https://www.e-sbirka.cz/ul1/1946/843",
+  "description": "Vyhláška č. 12/1946 Svazu pro mléko a tuky, kterou se mění vyhláška Svazu č. 8/1945.",
+  "provisions": [
+    {
+      "provision_ref": "Článek I.",
+      "section": "I",
+      "title": "Článek I.",
+      "content": "Ustanovení § 12 vyhlášky Svazu pro mléko a tuky č. 8/1945 ze dne 20. července 1945, kterou se stanoví výtěžní povinnost sádla a odvodní povinnost loje u masných podniků (Úř. l. č. 53/1945, běž. č. 98), se zrušuje."
+    },
+    {
+      "provision_ref": "Článek II.",
+      "section": "II",
+      "title": "Článek II.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 10. prosince 1945."
+    }
+  ],
+  "definitions": []
+}

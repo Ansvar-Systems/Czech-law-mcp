@@ -1,0 +1,27 @@
+{
+  "id": "cz:142/1946",
+  "type": "statute",
+  "title": "142/1946 Sb., Vyhláška o změně lhůt pro podávání zpráv o úvěrech podléhajících evidenci obchodních úvěrů",
+  "title_en": "",
+  "short_name": "142/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-06-22",
+  "in_force_date": "1946-06-22",
+  "url": "https://www.e-sbirka.cz/sb/1946/142",
+  "description": "Vyhláška o změně lhůt pro podávání zpráv o úvěrech podléhajících evidenci obchodních úvěrů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pravidelné zprávy o úvěrech podléhajících evidenci obchodních úvěrů, které se dosud podávaly podle stavu k 30. červnu a 31. prosinci každého roku, buďtež nadále podávány věřitelskými ústavy (§ 2 vl. nař. č. 109/1936 Sb.) jen jednou ročně podle stavu k 31. prosinci."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

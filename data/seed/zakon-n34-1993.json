@@ -1,0 +1,21 @@
+{
+  "id": "cz:n34/1993",
+  "type": "statute",
+  "title": "n34/1993 Sb., Redakční sdělení o opravě chyby v zákonu č. 171/1993 Sb., kterým se mění a doplňuje občanský soudní řád",
+  "title_en": "",
+  "short_name": "n34/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-06-29",
+  "in_force_date": "1993-06-29",
+  "url": "https://www.e-sbirka.cz/sb/1993/n34",
+  "description": "Redakční sdělení o opravě chyby v zákonu č. 171/1993 Sb., kterým se mění a doplňuje občanský soudní řád",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V čl. I bodu 19 v § 153b odst. 1 má místo „které nebylo ve věci nařízeno“ správně být „které bylo ve věci nařízeno“."
+    }
+  ],
+  "definitions": []
+}

@@ -46,7 +46,19 @@ Curated corpus (default):
 npm run ingest
 ```
 
-Index all Czech laws (`ZAKON` + `ZAKONUST`):
+Bulk ingest full e‑Sbírka legal-act corpus (all subtypes via official open data):
+
+```bash
+npm run ingest:opendata -- --skip-download
+```
+
+Backfill any missing/empty seeds from official live API:
+
+```bash
+npm run ingest:backfill-empty
+```
+
+Index all Czech laws (`ZAKON` + `ZAKONUST`, API mode):
 
 ```bash
 npm run ingest:all:index

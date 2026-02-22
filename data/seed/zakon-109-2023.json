@@ -1,0 +1,69 @@
+{
+  "id": "cz:109/2023",
+  "type": "statute",
+  "title": "109/2023 Sb., Vyhláška o technických podrobnostech, rozsahu a způsobu poskytování doplňkových služeb",
+  "title_en": "",
+  "short_name": "109/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-04-21",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/109",
+  "description": "Vyhláška o technických podrobnostech, rozsahu a způsobu poskytování doplňkových služeb",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Podrobný rozpis účtů",
+      "content": "(1) Podrobný rozpis účtů s vyúčtováním ceny obsahujícím rozpis využívání služby přístupu k internetu a využívání hlasové komunikační služby (dále jen „rozpis“), které předloží poskytovatel univerzální služby (dále jen „poskytovatel“), obsahuje\na) telefonní číslo, pokud bylo pro službu přiděleno,\nb) označení sjednaného cenového plánu,\nc) vymezení zúčtovacího období datem prvního a posledního dne zúčtovacího období,\nd) údaj o čase, ve kterém byl převzat stav záznamového zařízení poskytovatele v posledním dnu zúčtovacího období, pokud k převzetí stavu nedošlo ve 24.00 hodin,\ne) v případě hlasové komunikační služby rozpis jednotlivých volání, pokud za ně není ve vymezeném zúčtovacím období účtována paušální cena, v členění\n1. volané telefonní číslo, případně jiný údaj jednoznačně identifikující volání,\n2. začátek volání uvedením data, hodiny a minuty,\n3. účtovaná délka volání ve specifikovaných měrných jednotkách,\n4. rozlišení provozu na silný, slabý, popřípadě jiný u každého jednotlivého volání, pokud takové rozlišení poskytovatel uplatňuje,\n5. rozlišení volání podle sítě, ve které je volání ukončeno, pokud se ceny volání do těchto sítí liší,\n6. účtovaná cena jednotlivého volání v korunách českých, s uvedením, zda se jedná o cenu s daní nebo bez daně z přidané hodnoty,\nf) v případě využívání služby přístupu k internetu rozpis jednotlivých připojení ke službě, pokud nejsou zpoplatněny formou paušální ceny ve vymezeném zúčtovacím období, v členění\n1. datum, ve kterém došlo k započetí připojení,\n2. objem spotřebovaných dat během připojení s uvedením měrné jednotky,\ng) informace o počtu nevyužitých jednotek převedených z minulého nebo do následujícího zúčtovacího období, pokud jsou převáděny,\nh) sazbu daně z přidané hodnoty, je-li poskytovatel plátcem daně z přidané hodnoty,\ni) účtovanou částku celkem za všechna uskutečněná volání podle písmene e) a účtovanou částku celkem za celkový spotřebovaný objem dat podle písmene f) v korunách českých ve vymezeném zúčtovacím období a dále součtové částky v členění podle jednotlivých položek platného ceníku s uvedením celkové částky bez daně z přidané hodnoty, daně z přidané hodnoty a celkové částky s daní z přidané hodnoty,\nj) zúčtování záloh, přeplatků nebo nedoplatků,\nk) datum splatnosti vyúčtované částky,\nl) informace o způsobu uplatnění reklamace včetně údaje o tom, kde a v jakých lhůtách lze reklamaci uplatnit,\nm) datum zániku závazku ze smlouvy a datum, kdy dojde ke změně cenového plánu nebo ceny, je-li taková změna cenového plánu nebo ceny sjednána, nebo k ní došlo postupem podle § 63b odst. 5 zákona o elektronických komunikacích a\nn) je-li součástí vyúčtování cena za balíček služeb nebo balíček služeb a koncového zařízení ve smyslu § 63c zákona o elektronických komunikacích, informaci tom, které služby a zařízení jsou v rámci balíčku poskytovány.\n(2) Je-li rozpis vystavován k více než jedné přípojce, k více než jedné účastnické stanici nebo k více než jednomu telefonnímu číslu, musí obsahovat položky podle odstavce 1 písm. a) až g) ke každé z těchto přípojek, účastnických stanic nebo ke každému telefonnímu číslu. Obdobně se postupuje, je-li u jedné přípojky nebo účastnické stanice využíváno více telefonních čísel."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Bezplatné selektivní blokování odchozích volání, textových zpráv nebo multimediálních zpráv anebo jiných podobných aplikací se zvýšenou sazbou",
+      "content": "(1) Poskytovatel umožní na základě požadavku spotřebitele využívat službu bezplatného selektivního blokování odchozích volání a odesílání prémiových textových nebo multimediálních zpráv nebo, je-li to technicky proveditelné, přístupu k jiným podobným aplikacím se zvýšenou sazbou\na) na všechna telefonní čísla,\nb) na telefonní čísla služeb s vyjádřenou cenou s přístupovými kódy 900, 905, 906, 908, 909 a 976,\nc) na mezinárodní telefonní čísla,\nd) na telefonní čísla nebo typy čísel s vyšší cenou, než je běžná cena volání a běžná cena odesílaných textových a multimediálních zpráv, jsou-li tyto běžné ceny obsaženy ve sjednaném cenovém plánu.\n(2) Poskytovatel umožní spotřebiteli uplatnit požadavek na aktivaci nebo deaktivaci služby bezplatně\na) v elektronické podobě, alespoň jedním z těchto způsobů:\n1. ve webové nebo mobilní samoobslužné aplikaci,\n2. nastavením v telefonu pomocí kódů pro blokování služeb,\nb) na zákaznické lince a\nc) v provozovně.\n(3) Poskytovatel aktivuje nebo deaktivuje služby podle odstavce 1 do 1 pracovního dne ode dne uplatnění požadavku spotřebitelem. Poskytovatel bezodkladně informuje spotřebitele o tom, že byla služba aktivována nebo deaktivována, způsobem pro komunikaci, který byl sjednán se spotřebitelem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Systémy předplatného",
+      "content": "(1) Poskytovatel umožní spotřebiteli úhradu služeb přístupu k veřejné komunikační síti, využívání přístupu k internetu a využívání hlasové komunikační služby prostřednictvím platby předem formou předplatného. O této možnosti úhrady služeb informuje poskytovatel spotřebitele před uzavřením smlouvy.\n(2) Úhradu služeb formou předplatného umožní poskytovatel od počátku uzavření smlouvy se spotřebitelem nebo v průběhu jejího trvání, a to po sjednání této formy úhrady na návrh spotřebitele.\n(3) Poskytovatel poskytne informace o stavu a podmínkách čerpání předplatného pro úhradu služeb způsobem pro komunikaci, který byl sjednán se spotřebitelem při uzavření smlouvy o poskytování služeb podle odstavce 1 v rozsahu\na) výše předplatného a datum jeho složení,\nb) výše každé jednotlivé částky hrazené z předplatného,\nc) aktuální zůstatek předplatného.\n(4) Pokud poskytovatel uplatňuje podmínky omezující platnost předplatného, uvede je ve smlouvě uzavřené se spotřebitelem.\n(5) Poskytovatel upozorní spotřebitele na vypršení doby platnosti předplatného včas, nejpozději 7 dní před vypršením platnosti předplatného a na vyčerpání předplatného způsobem pro komunikaci, který byl sjednán se spotřebitelem při uzavření smlouvy o poskytování služeb podle odstavce 1.\n(6) Na vrácení zůstatku předplatného v případě ukončení smlouvy o využívání služby z jiného důvodu než při přechodu spotřebitele k jinému poskytovateli se uplatní obdobně podmínky podle § 34 odst. 10 zákona o elektronických komunikacích."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Postupné splácení ceny za připojení",
+      "content": "(1) Poskytovatel umožní spotřebiteli splácet sjednanou cenu za připojení k veřejné komunikační síti v případě vzniku odůvodnitelné potřeby postupného splácení ceny z důvodu vyšších než obvyklých nákladů na připojení k veřejné komunikační síti, které souvisejí zejména s dobudováním komunikační sítě při zřízení nebo přeložení služby.\n(2) Podrobnosti o postupném splácení ceny za připojení k veřejné komunikační síti poskytovatel se spotřebitelem dohodne v rozpisu splátek, který obsahuje\na) celkovou částku za připojení, která není vyšší než celkové náklady účelně vynaložené na zřízení připojení k veřejné komunikační síti, a celkovou dobu splácení,\nb) výši a datum splatnosti jednotlivých splátek, které v jednotlivých měsících nesmí přesáhnout\n1. 5 % z průměrné hrubé měsíční mzdy za poslední kalendářní rok, za který je hodnota dostupná, v kraji, ve kterém je služba podle odstavce 1 zřizována, pokud cena za připojení k veřejné komunikační síti nepřesahuje takovou průměrnou hrubou měsíční mzdu, nežádá-li spotřebitel po prokazatelném poučení poskytovatelem o této výši splátek splátku vyšší,\n2. 10 % z průměrné hrubé měsíční mzdy za poslední kalendářní rok, za který je hodnota dostupná, v kraji, ve kterém je služba podle odstavce 1 zřizována, pokud cena za připojení k veřejné komunikační síti je rovna nebo přesahuje takovou průměrnou hrubou měsíční mzdu, nežádá-li spotřebitel po prokazatelném poučení poskytovatelem o této výši splátek splátku vyšší.\n(3) Poskytovatel se spotřebitelem dále dohodnou tyto podmínky postupného splácení ceny za připojení k veřejné komunikační síti:\na) způsob poskytování informací o průběhu splácení dlužných částek, zejména o výši zůstatku zbývajícího ke splacení, nebo možnost získávání těchto informací,\nb) podmínky související s prodlením se splátkami,\nc) podmínky úhrady nákladů účelně vynaložených poskytovatelem na zřízení připojení k veřejné komunikační síti v případě odstoupení spotřebitele od požadavku na zřízení připojení k veřejné komunikační síti po uzavření smlouvy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Poradenství ohledně sazeb",
+      "content": "(1) Poskytovatel umožní spotřebiteli bezplatně uplatnit požadavky na informace o alternativních cenově výhodnějších nabídkách alespoň prostřednictvím zákaznické linky a v provozovně.\n(2) Poskytovatel doporučí spotřebiteli alternativní nabídky jím poskytovaných služeb, které jsou pro spotřebitele cenově výhodnější oproti jím využívaným službám, pokud jimi disponuje, a to na základě zjištěné spotřeby služeb využívaných spotřebitelem za poslední 3 kalendářní měsíce nebo na základě informací o spotřebě služeb od spotřebitele."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Kontrola nákladů",
+      "content": "(1) Poskytovatel bezplatně upozorní spotřebitele v případě neobvyklého nebo nadměrně zvýšeného využívání služeb podle § 38 odst. 2 písm. a) a b) zákona o elektronických komunikacích během zúčtovacího období, které má vliv na výdaje spotřebitele, způsobem pro komunikaci, který byl sjednán při uzavření smlouvy o poskytování služby.\n(2) Poskytovatel umožní spotřebiteli bezplatnou kontrolu výdajů, pokud jsou účtovány na základě objemu spotřebovaných jednotek či doby spojení v rámci zúčtovacího období, a to prostřednictvím\na) nastavení finančního limitu pro zasílání upozornění při jeho dosažení,\nb) nastavení procenta finančního limitu podle písmene a) pro zasílání upozornění při jeho dosažení,\nc) zajištění přístupu k vyúčtování služeb spotřebitele prostřednictvím webové nebo mobilní samoobslužné aplikace v případě ukončení smluvního vztahu po dobu, po kterou lze uplatnit reklamaci vyúčtovaných služeb.\n(3) Poskytovatel umožní spotřebiteli kontrolu nákladů při využívání veřejně dostupných služeb elektronických komunikací bezplatně\na) ve webové nebo mobilní samoobslužné aplikaci,\nb) na zákaznické lince a\nc) v provozovně."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Deaktivace vyúčtování třetích stran",
+      "content": "(1) Poskytovatel umožní na základě požadavku spotřebitele deaktivovat možnost vyúčtování služeb poskytovaných třetími stranami, a to zablokováním plateb za zboží a služby poskytované třetími stranami formou jejich přímé fakturace poskytovatelem na základě pokynu spotřebitele daného textovou zprávou, voláním nebo po internetu, například ve webové nebo mobilní samoobslužné aplikaci.\n(2) Úprava deaktivace vyúčtování služeb třetích stran se nepoužije u služeb, jejichž zablokování lze uskutečnit v rozsahu a způsobem podle § 2.\n(3) Poskytovatel umožní spotřebiteli uplatnit požadavek na deaktivaci nebo aktivaci vyúčtování třetích stran bezplatně\na) ve webové nebo mobilní samoobslužné aplikaci,\nb) na zákaznické lince a\nc) v provozovně.\n(4) Poskytovatel aktivuje nebo deaktivuje služby podle odstavce 1 do 1 pracovního dne ode dne uplatnění požadavku spotřebitelem. Poskytovatel bezodkladně informuje spotřebitele o tom, že byla služba aktivována nebo deaktivována, způsobem pro komunikaci, který byl sjednán se spotřebitelem při uzavření smlouvy o poskytování služeb."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Zrušovací ustanovení",
+      "content": "Vyhláška č. 134/2012 Sb., o stanovení rozsahu položkového vyúčtování ceny, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2023."
+    }
+  ],
+  "definitions": []
+}

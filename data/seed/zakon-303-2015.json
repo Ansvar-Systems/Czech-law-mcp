@@ -1,0 +1,27 @@
+{
+  "id": "cz:303/2015",
+  "type": "statute",
+  "title": "303/2015 Sb., Vyhláška o nákladových indexech věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2016",
+  "title_en": "",
+  "short_name": "303/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-11-23",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/303",
+  "description": "Vyhláška o nákladových indexech věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2016",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Nákladové indexy věkových skupin pojištěnců pro přerozdělování pojistného na veřejné zdravotní pojištění pro rok 2016 jsou stanoveny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.\nPříloha k vyhlášce č. 303/2015 Sb.\nNákladové indexy pro přerozdělování pojistného na veřejné zdravotní pojištění pro rok 2016\nVěková skupina pojištěncůNákladové indexy podle pohlaví pojištěnců\noddomužiženy\n051,41611,2606\n5100,81870,6995\n10150,81880,8686\n15200,75591,0000\n20250,62350,9537\n25300,70951,2333\n30350,79211,3763\n35400,87361,3033\n40450,99001,3056\n45501,20471,5113\n50551,52501,7539\n55602,07892,0419\n60652,70202,3188\n65703,43582,8794\n70754,07763,4555\n75804,61313,9827\n80854,88834,5177\n85a více5,09485,0277"
+    }
+  ],
+  "definitions": []
+}

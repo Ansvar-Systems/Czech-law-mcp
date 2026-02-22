@@ -1,0 +1,39 @@
+{
+  "id": "cz:468/2008",
+  "type": "statute",
+  "title": "468/2008 Sb., Nařízení vlády o zajišťování bezpečnosti určených ústavních činitelů České republiky",
+  "title_en": "",
+  "short_name": "468/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-12-30",
+  "in_force_date": "2021-05-19",
+  "url": "https://www.e-sbirka.cz/sb/2008/468",
+  "description": "Nařízení vlády o zajišťování bezpečnosti určených ústavních činitelů České republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Zajištění bezpečnosti se trvale poskytuje ústavnímu činiteli České republiky, který vykonává funkci:\na) prezidenta republiky, a to i po skončení výkonu jeho funkce,\nb) předsedy Poslanecké sněmovny Parlamentu České republiky,\nc) předsedy Senátu Parlamentu České republiky,\nd) předsedy vlády.\n(2) Zajištění bezpečnosti se trvale poskytuje rovněž těmto členům vlády:\na) ministru financí,\nb) ministru zahraničních věcí,\nc) ministru vnitra,\nd) ministru spravedlnosti,\ne) ministru průmyslu a obchodu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Zajištěním bezpečnosti se rozumí souhrn ochranných a bezpečnostních opatření prováděných Policií České republiky k nerušenému výkonu funkce ústavního činitele České republiky.\n(2) Rozsah zajištění bezpečnosti závisí na bezpečnostní situaci a možné míře ohrožení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2009."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zajištěním bezpečnosti",
+      "definition": "souhrn ochranných a bezpečnostních opatření prováděných Policií České republiky k nerušenému výkonu funkce ústavního činitele České republiky",
+      "source_provision": "§ 2"
+    }
+  ]
+}

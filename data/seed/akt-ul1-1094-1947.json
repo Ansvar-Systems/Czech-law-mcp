@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:1094/1947",
+  "type": "statute",
+  "title": "1094/1947 Ú. l. I, Vyhláška ministra průmyslu o zavedení evidence odběru elektřiny u závodů s energetickými hospodáři.",
+  "title_en": "",
+  "short_name": "1094/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-10-28",
+  "in_force_date": "1949-10-11",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1094",
+  "description": "Vyhláška ministra průmyslu o zavedení evidence odběru elektřiny u závodů s energetickými hospodáři.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro kontrolu opatření k zajištění plynulého zásobování elektřinou zavádí se povinné sledování průběhu zatížení odběru elektřiny u závodů, jež odebírají elektřinu z jiných než vlastních zdrojů a jež jsou povinny ustanoviti energetické hospodáře podle vyhlášky ministra průmyslu ze dne 5. září 1947, Ú. l. I č. 961, o energetických hospodářích, pokud při tom spotřebují v některém z měsíců běžného kalendářního roku nejméně 20.000 kWh elektřiny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Provozovatelé závodů uvedených v § 1 jsou povinni:\na) odečítati ve dny stanovené v § 3 každou započatou a dokončenou hodinu pracovní doby stav příslušných elektroměrů a jsou-li k disposici vhodné měřicí přístroje zaznamenávající zatížení (na př. wattmetr), zároveň i stav těchto přístrojů,\nb) vésti o konaných odečtech pečlivě a řádně záznamy způsobem a na tiskopisech, jež k tomu účelu vydají se souhlasem ministerstva průmyslu Československé energetické závody, národní podnik v Praze, na Slovensku Energetické závody na Slovensku, národní podnik v Bratislavě, a pokud se tak nestalo, vésti záznamy hodinových odečtů elektroměrů s příslušnou odčítací dobou,\nc) zasílati dodávajícímu energetickému podniku ihned propisy záznamu o vykonaných odečtech a hlásiti mu též jakékoliv překážky nebo potíže ve vedení evidence podle této vyhlášky.\n(2) Záznamů těchto může býti použito jen k účelům sledovaným touto vyhláškou."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Odečítání podle § 2, odst. 1 se provede:\na) pro trvalé sledování průběhu zatížení průběhem středy dne 12. října a 14. prosince 1949, 11. ledna, 8. března, 10. května, 23. srpna, 11. října a 13. prosince 1950, a nejsou-li tyto středy pro závod normálním pracovním dnem, průběhem prvého pracovního dne předcházejícího této středě, případně, bude-li zapotřebí, průběhem jiného pracovního dne, který stanoví se souhlasem ministerstva průmyslu jednotně československé energetické závody, národní podnik v Praze,\nb) pro stanovení základního průběhu zatížení průběhem jednoho celého týdne, který stanoví se souhlasem ministerstva průmyslu jednotně Československé energetické závody, národní podnik v Praze."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Příslušné národní energetické podniky\na) dodají závodům uvedeným v § 1 na dožádání tiskopisy podle § 2, odst. 1, písm. b),\nb) jsou oprávněny nahlížeti kdykoliv v pracovní době závodů podrobených evidenci do záznamů podle § 2, odst. 1 a žádati za případná vysvětlení.\n(2) Prokázané nezbytné výlohy spojené se zasíláním záznamů podle § 3 hradí na požádání dodávající energetické podniky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Za správné vedení evidence odběru elektřiny podle této vyhlášky je odpověden energetický hospodář."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle § 8 dekretu presidenta republiky č. 109/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí až do odvolání."
+    }
+  ],
+  "definitions": []
+}

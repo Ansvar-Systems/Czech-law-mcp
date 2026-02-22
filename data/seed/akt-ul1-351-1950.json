@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:351/1950",
+  "type": "statute",
+  "title": "351/1950 Ú. l. I, Vyhláška Státního úřadu pro věci církevní o převzetí správy některých majetkových podstat náboženským fondem.",
+  "title_en": "",
+  "short_name": "351/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-08",
+  "in_force_date": "1950-06-23",
+  "url": "https://www.e-sbirka.cz/ul1/1950/351",
+  "description": "Vyhláška Státního úřadu pro věci církevní o převzetí správy některých majetkových podstat náboženským fondem.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Správu majetkových podstat řádů a kongregací, které neslouží řeholním účelům, přejímá náboženský fond."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Výnosy z těchto majetkových podstat plynoucí zůstávají zachovány pro náboženské účely církve římsko-katolické; použije se jich zejména k úhradě osobních a věcných potřeb řádů a kongregací."
+    }
+  ],
+  "definitions": []
+}

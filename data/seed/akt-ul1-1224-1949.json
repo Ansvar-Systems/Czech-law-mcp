@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1224/1949",
+  "type": "statute",
+  "title": "1224/1949 Ú. l. I, Vyhláška státního úřadu plánovacího, kterou se mění a doplňuje vyhláška nejvyššího úřadu cenového č. 3315/1948, Ú. l. I, o přechodných předpisech o tvoření cen po vyhlášení zákona o všeobecné dani.",
+  "title_en": "",
+  "short_name": "1224/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-12-31",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1224",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se mění a doplňuje vyhláška nejvyššího úřadu cenového č. 3315/1948, Ú. l. I, o přechodných předpisech o tvoření cen po vyhlášení zákona o všeobecné dani.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "V důsledku ustanovení zákona ze dne 7. prosince 1949, č. 263 Sb., kterým se mění a doplňuje zákon o všeobecné dani, pozměňuje a doplňuje se vyhláška nejvyššího úřadu cenového č. 3315/1948 Ú. l. I, takto:\n1. V § 1 se za slova „o všeobecné dani“ vkládají slova „ve znění zákona ze dne 7. prosince 1949 č. 263 Sb.“.\n2. V § 2, odst. 1, se slova „veřejné a výrobní podniky pověřené“ nahrazují slovy „(vyjma výrobní podniky soukromé a družstevní“.\n3. V § 2, odst. 2, se slova „Ostatní výrobci“ nahrazují slovy „Soukromé a družstevní podniky výrobní“.\n„Prodejem do daňově vázaného oběhu se rozumí prodej při vyskladnění zboží bez placení daně (§ 6 zákona).“\n5. § 4 zní:\n„Účtování všeobecné daně.\nVýběrčí daně účtuje všeobecnou daň odděleně od ceny, která je daňovým základem.“\n6. § 6 zní:\n„Ceny výkonů a úplaty.\n(1) Je-li v dosavadní úplatě za výkon, prováděný výběrčím daně podle oddílu A sazebníku všeobecné daně, obsažena částka pojatá do ní jako dřívější daň z obratu, nutno tuto částku vyloučil a dosavadní úplatu o ní snížit.\n(2) Jinak platí o cenách výkonů a úplatách zatím dosavadní cenové předpisy.“"
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1950."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prodejem do daňově vázaného oběhu",
+      "definition": "prodej při vyskladnění zboží bez placení daně (§ 6 zákona)",
+      "source_provision": "Čl. I."
+    }
+  ]
+}

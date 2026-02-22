@@ -1,0 +1,169 @@
+{
+  "id": "cz:334/2015",
+  "type": "statute",
+  "title": "334/2015 Sb., Vyhláška o vedení rejstříku malých plavidel a technické způsobilosti malých plavidel, převozních lodí a plovoucích zařízení k provozu na vodních cestách",
+  "title_en": "",
+  "short_name": "334/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-12-11",
+  "in_force_date": "2019-06-19",
+  "url": "https://www.e-sbirka.cz/sb/2015/334",
+  "description": "Vyhláška o vedení rejstříku malých plavidel a technické způsobilosti malých plavidel, převozních lodí a plovoucích zařízení k provozu na vodních cestách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) způsob vedení evidence malých plavidel v rejstříku malých plavidel,\nb) technické požadavky na\n1. plavidla, jejichž objem vypočtený jako součin délky, šířky a ponoru je menší než 100 m3 a délka je menší než 20 m, jde-li o malá plavidla a plovoucí zařízení, a\n2. plovoucí zařízení nepodléhající evidenci, jejichž objem vypočtený jako součin délky, šířky a ponoru je nejméně 100 m3,\nc) plavební zóny vodní cesty, pro něž se schvaluje technická způsobilost plavidla, a podmínky technické způsobilosti, které musí plavidlo pro provoz v jednotlivých plavebních zónách splňovat,\nd) podrobnější členění druhů plavidel a jejich znaky,\ne) postup při provádění technické prohlídky a její organizační zabezpečení,\nf) postup při provádění pravidelné technické prohlídky, technické prohlídky navazující na úpravu nebo opravu plavidla a technické prohlídky navazující na výkon státního dozoru a jejich rozsah,\ng) vzor osvědčení plavidla, údaje do něj zapisované a dobu jeho platnosti,\nh) vzor prozatímního osvědčení plavidla,\ni) náležitosti typového osvědčení plavidla a údaje v něm zaznamenávané,\nj) lodní listiny, kterými musí být plavidlo vybaveno, a údaje do nich zaznamenávané,\nk) plavidla, která lze provozovat na vodní cestě jen za podmínky pojištění odpovědnosti za škodu z provozu plavidla sjednaného jeho provozovatelem a rozsah a podmínky tohoto pojištění,\nl) plavidla, která je třeba vybavit jiným zařízením sloužícím pro zajištění bezpečnosti plavby a druhy těchto zařízení,\nm) počet a odborné složení členů posádky a\nn) zvláštní požadavky a vlastnosti plavidla."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Podrobnější členění druhů plavidel a jejich znaky",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(K § 9 odst. 6 zákona)\n(1) Malá plavidla se člení na\na) malá plavidla s vlastním pohonem,\nb) plachetnice,\nc) malá plavidla bez vlastního pohonu,\nd) vodní skútry a\ne) převozní lodě.\n(2) Znakem\na) malého plavidla s vlastním pohonem je jeho hlavní pohon spalovacím motorem, parním strojem nebo elektromotorem na něm instalovaným,\nb) malého plavidla, které je plachetnicí, je hlavní pohon silou větru působící na plachtu, systém plachet či obdobné zařízení na ní instalované,\nc) malého plavidla bez vlastního pohonu je, že není vybaveno zařízením uvedeným v písmenu a) nebo b),\nd) malého plavidla, které je vodním skútrem, je jeho délka menší než 4 m, pohon motorem s hydroreaktivním systémem a ovládání osobou vsedě, vstoje nebo vkleče na trupu plavidla, nikoli uvnitř něho a\ne) převozní lodě je její konstrukce nebo určení pro přepravu osob, zvířat nebo věcí na přívozu nahrazujícím přemostění přes vodní cestu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Plavební zóny",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(K § 10 odst. 7 zákona)\n(1) Technická způsobilost plavidla se podle této vyhlášky schvaluje pro plavební zóny vodních cest, kde lze za běžných klimatických podmínek očekávat\na) rychlost větru dosahující nejvýše 8 m/s (4° podle Beaufortovy stupnice) a střední výšku jedné třetiny nejvyšších vln (dále jen „významná výška vlny H1/3“) až 0,3 m, s výskytem ojedinělých vln do 0,5 m,\nb) rychlost větru dosahující nejvýše 14 m/s (6º podle Beaufortovy stupnice) a významnou výšku vlny H1/3 až 2 m,\nc) rychlost větru dosahující nejvýše 21 m/s (8° podle Beaufortovy stupnice) a významnou výšku vlny H1/3 do 4 m, nebo\nd) rychlost větru větší než 21 m/s (9° až 12° podle Beaufortovy stupnice) a významnou výšku vlny H1/3 nad 4 m.\n(2) Zařazení vodních cest České republiky do jednotlivých plavebních zón podle odstavce 1 je uvedeno v příloze č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob vedení evidence malých plavidel",
+      "chapter": "ČÁST DRUHÁ - REJSTŘÍK MALÝCH PLAVIDEL",
+      "content": "(K § 15a odst. 7)\nÚdaje o malých plavidlech se v rejstříku malých plavidel vedou v elektronické podobě, a to ode dne zápisu do rejstříku do dne uplynutí pěti let ode dne výmazu z rejstříku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 9 odst. 6 zákona)\n(1) Technické požadavky na plavidla podléhající evidenci uvedená v § 1 písm. b) jsou uvedeny v příloze č. 2 k této vyhlášce.\n(2) Konstrukce a technický stav malého plavidla, které nepodléhá evidenci, musí odpovídat alespoň požadavkům na bezpečnost osob, stabilitu, plovatelnost a ovladatelnost uvedeným v příloze č. 2 k této vyhlášce. Je-li takové malé plavidlo používáno v půjčovně malých plavidel1) nebo jako záchranné, musí mít dále na viditelném místě vyznačen nejvyšší přípustný počet osob, které smějí být na plavidle, určený výrobcem plavidla nebo plavebním úřadem a musí být provedeno jako nepotopitelné.\n(3) Konstrukce a technický stav plovoucího zařízení nepodléhajícího evidenci musí odpovídat alespoň požadavkům na bezpečnost osob, stabilitu a plovatelnost stanoveným v příloze č. 2 k této vyhlášce.\n(4) Odchylky od ustanovení přílohy č. 2 k této vyhlášce jsou možné u malého plavidla, které\na) není rekreačním plavidlem nebo vodním skútrem a není používáno k přepravě cestujících při provozování vodní dopravy pro cizí potřeby, nebo\nb) je výrobcem určeno a označeno výhradně pro závodění nebo trénink.\n(5) Uplatněním odchylek podle odstavce 4 nesmí být ohrožena bezpečnost plavebního provozu a ochrana života a zdraví člověka a životního prostředí. Odchylky podle odstavce 4 nemohou být uplatněny v případě stanovených limitů emisí výfukových plynů."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(1) Plavidlo, při jehož návrhu, konstrukci, stavbě nebo úpravě byly zcela nebo zčásti splněny požadavky stanovené v harmonizované normě2), na kterou je zveřejněn odkaz v Úředním věstníku Evropské unie, nebo stanovené v harmonizované nebo určené normě2), na kterou je zveřejněn odkaz ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví, splňuje požadavky této vyhlášky u těch částí nebo zařízení, na něž se příslušná norma nebo její část vztahuje.\n(2) Nejsou-li při návrhu, konstrukci a stavbě plavidla nebo výrobě jeho části či zařízení použity normy uvedené v odstavci 1, může být shoda s požadavky uvedenými v této vyhlášce prokázána též jiným způsobem, zejména jiným dokladem prokazujícím shodu, výpočtem nebo dokladem autorizované osoby o provedené zkoušce.\n(3) Na plavidle, na které se nevztahuje nařízení vlády o rekreačních plavidlech a vodních skútrech, mohou být s ohledem na pokrok a vývoj technických poznatků použita jiná technická řešení než technická řešení uvedená v příloze č. 2 k této vyhlášce, zajišťují-li stejnou nebo vyšší úroveň bezpečnosti a ochrany zdraví osob, majetku a životního prostředí.\n(4) Technické požadavky uvedené v příloze č. 2 k této vyhlášce se neuplatní na plavidla, která byla vyrobena nebo uvedena na trh v některém členském státě Evropské unie, smluvním státě Dohody o Evropském hospodářském prostoru, ve Švýcarsku nebo v Turecku, za předpokladu, že tato plavidla\na) odpovídají technickým předpisům, které jsou pro výrobu, uvedení na trh nebo používání těchto plavidel v některém z těchto států závazné, a\nb) zajišťují alespoň takovou míru ochrany životního prostředí, zdraví a života lidí a zvířat, jakou sleduje příloha č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6a",
+      "section": "6a",
+      "title": "§ 6a Dobrovolné podrobení se požadavkům normy ES-TRIN",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(1) Technické požadavky na plavidla, jejich zařízení a vybavení stanovené touto vyhláškou se pro provoz plavidel nepoužijí, pokud plavidlo splňuje technické požadavky stanovené v evropské normě stanovující technické požadavky pro vnitrozemská plavidla ES-TRIN a v žádosti je uveden požadavek na vydání osvědčení Unie5). Technická norma uvedená v předchozí větě je veřejně dostupná způsobem umožňujícím dálkový přístup.\n(2) Splnění podmínek technické způsobilosti podle odstavce 1 ověřuje odborná komise ustavená podle právního předpisu upravujícího technické požadavky na plavidla nepodléhající této vyhlášce6).\n(3) Při provádění technické prohlídky, pravidelné technické prohlídky a technické prohlídky navazující na úpravu nebo opravu plavidla se při ověřování splnění podmínek technické způsobilosti podle odstavce 1 postupuje obdobně podle právního předpisu upravujícího technické požadavky na plavidla nepodléhající této vyhlášce6).\n(4) Plavidlu, u nějž bylo ověřeno splnění podmínek technické způsobilosti podle odstavce 1, se vydá osvědčení Unie podle právního předpisu upravujícího technické požadavky na plavidla nepodléhající této vyhlášce6). Pro stanovení doby platnosti osvědčení Unie se použije § 13 obdobně.\nTechnické prohlídky"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 10 odst. 11 a § 10b odst. 6 zákona)\n(1) Technická prohlídka plavidla, pro které nebylo vydáno EU prohlášení o shodě a není opatřeno označením CE podle nařízení vlády o rekreačních plavidlech a vodních skútrech nebo pro ně nebylo vydáno typové osvědčení plavidla, zahrnuje\na) posouzení dokumentace uvedené v příloze č. 5 k této vyhlášce,\nb) prohlídky a zkoušky v průběhu stavby jednotlivého plavidla nebo typu plavidla,\nc) prohlídku plavidla na souši nebo na vodě a\nd) zkušební plavbu.\n(2) Posouzení dokumentace se provádí před zahájením stavby plavidla pro ověření, zda konstrukční návrh plavidla splňuje technické požadavky na bezpečnost a ochranu zdraví osob, majetku a životního prostředí stanovené touto vyhláškou.\n(3) Při prohlídce nebo zkoušce v průběhu stavby podle odstavce 1 písm. b) se kontrolují zejména části plavidla, které jsou po jeho dokončení zcela nepřístupné nebo přístupné jen obtížně.\n(4) Prohlídka na souši se provádí vždy před prvým schválením způsobilosti plavidla nebo po opravě nebo úpravě podponorové části trupu plavidla, pohonného nebo kormidelního zařízení.\n(5) Při zkušební plavbě se ověřuje plovatelnost, stabilita nebo způsobilost plavidla k provádění základních manévrů.\n(6) Pro zařízení a vybavení, které vyžaduje odbornou montáž nebo revizi osobou odborně způsobilou, musí být při technické prohlídce předloženy platné doklady o provedené odborné montáži nebo revizi.\n(7) Obdobně se postupuje při technické prohlídce po úpravě nebo opravě zasahující do konstrukce plavidla."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(1) Při technické prohlídce plavidla plavební úřad\na) zkontroluje, zda je přistaveno ve stavu umožňujícím kontrolu celého plavidla včetně částí a zařízení běžně zakrytých,\nb) zkontroluje shodu identifikačních údajů na plavidle a v dokladech předložených s plavidlem,\nc) zkontroluje platnost dokladů o odborné montáži nebo revizi zařízení, u kterých jsou vyžadovány,\nd) provede kontrolu splnění technických požadavků uvedených v příloze č. 2 k této vyhlášce.\n(2) O provedené technické prohlídce a jejím výsledku vyhotoví plavební úřad záznam, ve kterém se uvede den a místo prohlídky plavidla, základní údaje o plavidle a jeho provozovateli, výsledek prohlídky, případně zjištěné závady."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(1) Technická prohlídka rekreačního plavidla nebo vodního skútru, ke kterému bylo vydáno EU prohlášení o shodě a je opatřeno označením CE podle nařízení vlády o rekreačních plavidlech a vodních skútrech, se provádí podle § 7 odst. 1 písm. c) v omezeném rozsahu zahrnujícím kontrolu identifikačního čísla lodního trupu malého plavidla a štítku výrobce plavidla, údajů identifikujících hnací motor a kontrolu splnění požadavků stanovených v části 7 přílohy č. 2 k této vyhlášce.\n(2) Ustanovení odstavce 1 se použije obdobně v případě sériově vyrobeného malého plavidla, pro které bylo výrobcem vydáno typové osvědčení.\n(3) Technická prohlídka plavidla uvedeného v § 6 odst. 4 se provádí v rozsahu podle § 7 odst. 1 písm. c) a d)."
+    },
+    {
+      "provision_ref": "§ 9a",
+      "section": "9a",
+      "title": "§ 9a Postup při provádění pravidelné technické prohlídky, technické prohlídky navazující na úpravu nebo opravu plavidla a technické prohlídky navazující na výkon dozoru a jejich rozsah",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 10b odst. 6, § 10c odst. 4 a § 42 odst. 8 zákona)\n(1) Pravidelná technická prohlídka, prohlídka navazující na úpravu nebo opravu plavidla a prohlídka navazující na výkon státního dozoru zahrnuje prohlídku plavidla na souši nebo na vodě. Jsou-li pochybnosti o zachování plovatelnosti, stability nebo způsobilosti plavidla k provádění základních manévrů, provede se zkušební plavba. Při provádění prohlídek se použije § 8 obdobně.\n(2) Při provádění pravidelné technické prohlídky se provede prohlídka na souši, je-li nezbytné pro ověření splnění podmínek technické způsobilosti plavidla zkontrolovat stav podponorové části plavidla.\n(3) Při provádění technické prohlídky navazující na úpravu nebo opravu plavidla se v případě úpravy nebo opravy pohonného nebo kormidelního zařízení provede zkušební plavba, je-li to nezbytné k ověření správné funkce pohonného nebo kormidelního zařízení.\n(4) Při provádění technické prohlídky navazující na výkon státního dozoru se provede prohlídka na souši anebo zkušební plavba, je-li to nezbytné pro ověření splnění podmínek technické způsobilosti plavidla.\n(5) Pravidelná technická prohlídka se provádí v rozsahu, kterým je ověřeno splnění všech podmínek technické způsobilosti.\n(6) Technická prohlídka navazující na úpravu nebo opravu plavidla se provádí v rozsahu ověření splnění podmínek technické způsobilosti týkajících se částí plavidla, které byly upraveny nebo opraveny. Pokud při provádění technické prohlídky vznikne pochybnost, zda plavidlo splňuje některé ostatní technické požadavky, ověří se i jejich splnění.\n(7) Technická prohlídka navazující na výkon státního dozoru se provádí v rozsahu, kterým je ověřeno splnění podmínek technické způsobilosti, pro jejichž neplnění byla plavba podle zákona zakázána. Pokud při provádění technické prohlídky vznikne pochybnost, zda plavidlo splňuje některé ostatní technické požadavky, ověří se i jejich splnění."
+    },
+    {
+      "provision_ref": "§ 9b",
+      "section": "9b",
+      "title": "§ 9b Doba uznání technických prohlídek provedených jiným státem",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 10a odst. 2 zákona)\nTechnická prohlídka provedená jiným státem se neuzná, pokud od jejího provedení uplynulo více než 5 let."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Vzory osvědčení plavidla",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 10 odst. 6 a § 11 odst. 2)\nVzor osvědčení plavidla je uveden v příloze č. 3. Vzor prozatímního osvědčení plavidla je uveden v příloze č. 4."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Typ sériově vyrobeného malého plavidla",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "Při ověřování splnění technických požadavků na bezpečnost provozu typu sériově vyráběného malého plavidla, na které se nevztahuje nařízení vlády o rekreačních plavidlech a vodních skútrech, se technická prohlídka podle § 7 provádí na plavidle představujícím vzorek plánované sériové výroby."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Náležitosti typového osvědčení plavidla",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 12 odst. 4)\n(1) Typové osvědčení výrobce vystavuje ve třech číslovaných stejnopisech, z nichž dva se přikládají k plavidlu pro potřebu uživatele plavidla, jeden zůstává uložen u výrobce plavidla. V případě plavidla vybaveného spalovacím motorem je součástí typového osvědčení prohlášení o shodě podle nařízení vlády o rekreačních plavidlech a vodních skútrech pro instalovaný motor a návod na obsluhu a údržbu plavidla a zařízení instalovaného na plavidle. Typové osvědčení musí být podepsáno výrobcem a opatřeno datem vystavení.\n(2) Typové osvědčení plavidla obsahuje\na) název a adresu sídla nebo jméno, popřípadě jména, příjmení a doručovací adresu výrobce,\nb) datum vydání průkazu způsobilosti typu plavidla a číslo jednací, pod nímž byl vydán,\nc) základní údaje o plavidle:\n1. druh, typ a identifikační číslo trupu plavidla,\n2. kategorie plavidla podle plavební zóny, pro kterou je plavidlo konstruováno a určeno,\n3. konstrukce a materiál trupu,\n4. délka, šířka, boční výška, volný bok, bezpečnostní vzdálenost,\n5. největší přípustný ponor a největší výška plavidla nad hladinou,\n6. výtlak odpovídající největšímu přípustnému zatížení,\n7. největší povolené zatížení,\n8. největší povolený počet osob,\n9. druh pohonu,\n10. u strojního pohonu počet strojů, typ, rok výroby, výrobní číslo nebo čísla, výkon, druh propulzního zařízení,\n11. u plachet plocha základního oplachtění a celková největší plocha plachet, pro kterou je plavidlo konstruováno,\nd) prohlášení výrobce o tom, že plavidlo se shoduje se schváleným typem a při jeho výrobě byly dodrženy schválené výrobní postupy,\ne) přehled technických norem, které byly při návrhu, konstrukci a výrobě plavidla použity."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Doba platnosti osvědčení plavidla",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ POŽADAVKY NA PLAVIDLA A TECHNICKÉ PROHLÍDKY",
+      "content": "(K § 10 odst. 5 a § 10b odst. 1 zákona)\n(1) Doba platnosti osvědčení plavidla je\na) 10 let pro malé plavidlo, které není schváleno pro přepravu cestujících při provozování vodní dopravy pro cizí potřeby, a plovoucí zařízení, není-li dále stanoveno jinak,\nb) 5 let pro převozní loď, malé plavidlo schválené pro přepravu cestujících při provozování vodní dopravy pro cizí potřeby a historické plavidlo znovu uvedené do provozu nebo jeho novou kopii.\n(2) Bylo-li plavidlo uvedené v odstavci 1 písm. a) před podáním žádosti o schválení technické způsobilosti uvedeno do provozu, stanoví se doba platnosti osvědčení plavidla jako rozdíl mezi dobou 10 let a dobou, která uplynula od okamžiku jeho uvedení do provozu, nejméně však 5 let.\n(3) Platnost osvědčení plavidla se u osvědčení plavidel uvedených v odstavci 1 prodlouží nejvýše o dobu 5 let."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Vybavení plavidel lodními listinami",
+      "chapter": "ČÁST ČTVRTÁ - LODNÍ LISTINY, POJIŠTĚNÍ ODPOVĚDNOSTI A POSÁDKA PLAVIDLA",
+      "content": "(K § 18 odst. 3)\n(1) Plavidlo podléhající evidenci musí být vybaveno lodními listinami, kterými jsou\na) osvědčení plavidla,\nb) seznam posádky a seznam cestujících pobývajících na plavidle po dobu delší než 24 hodin, je-li s plavidlem provozována vodní doprava pro cizí potřeby,\nc) povolení k provozu lodní stanice a deník lodní stanice určené pro radiotelefonní služby na vodních cestách nebo povolení k provozu radarového zařízení, je-li jimi plavidlo vybaveno,\nd) revizní kniha parních kotlů a revizní kniha tlakových nádob, pokud jsou tato zařízení na plavidle instalována,\ne) ostatní listiny.\n(2) Ostatními listinami jsou doklady o odborné montáži a revizi zařízení instalovaných na plavidle, například určených technických zařízení nebo prostředků požární ochrany a požárně bezpečnostních zařízení.\n(3) U plovoucího zařízení určeného k dlouhodobému pobytu osob musí být listiny na plavidle minimálně po dobu pobytu osob na plavidle.\n(4) Plavidlo podléhající evidenci, které nemá platné osvědčení plavidla, musí být vybaveno prozatímním osvědčením nebo povolením k umístění plavidla na vodní cestě.\n(5) V seznamu posádky nebo seznamu cestujících je uvedeno evidenční označení plavidla, datum založení seznamu, jméno, popřípadě jména, a příjmení osoby, datum a místo jejího nástupu na plavidlo a datum výstupu z něho, v případě člena posádky též místo a datum narození a jeho funkce na plavidle.\n(6) V revizní knize parních kotlů nebo tlakových nádob je uvedeno evidenční označení plavidla, datum založení revizní knihy, datum konání revize a její výsledek, datum příští revize, jméno a podpis osoby provádějící revizi."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Plavidla provozovaná za podmínky pojištění odpovědnosti za škodu z provozu plavidla a rozsah a podmínky pojištění",
+      "chapter": "ČÁST ČTVRTÁ - LODNÍ LISTINY, POJIŠTĚNÍ ODPOVĚDNOSTI A POSÁDKA PLAVIDLA",
+      "content": "(K § 19 odst. 1 a 3)\n(1) Plavidlem, které lze provozovat na vodní cestě jen za podmínky pojištění odpovědnosti za škodu z provozu plavidla, je:\na) malé plavidlo, kterým se uskutečňuje vodní doprava pro cizí potřeby,\nb) převozní loď určená k přepravě nejvýše 12 cestujících.\n(2) Minimální limit pojistného plnění, na který musí být sjednáno pojištění odpovědnosti z provozu plavidla uvedeného v odstavci 1, činí\na) 250 000 Kč u malých plavidel s maximálním výtlakem nejvýše 10 tun,\nb) 500 000 Kč u malých plavidel s maximálním výtlakem nad 10 tun.\n(3) Pojištění odpovědnosti za škodu z provozu plavidla musí být sjednáno na tato rizika:\na) újma vzniklá ublížením na zdraví nebo usmrcením, včetně náhrady nákladů vynaložených na péči hrazenou z veřejného zdravotního pojištění a případných regresivních nároků,\nb) škoda poškozením, zničením nebo ztrátou věci, účelně vynaložených nákladů spojených s péčí o zdraví zraněného zvířete,\nc) ušlý zisk,\nd) účelně vynaložené náklady spojené s právním zastoupením při uplatňování nároků podle písmen a) až c),\ne) náklady Hasičského záchranného sboru České republiky nebo jednotky sboru dobrovolných hasičů obce prokazatelně vynaložených při zásahu souvisejícím se škodnou událostí."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Počet a odborné složení posádky plavidla",
+      "chapter": "ČÁST ČTVRTÁ - LODNÍ LISTINY, POJIŠTĚNÍ ODPOVĚDNOSTI A POSÁDKA PLAVIDLA",
+      "content": "(K § 24 odst. 4)\n(1) Minimální počet členů posádky malého plavidla nebo převozní lodě určené k přepravě nejvýše 12 cestujících je 1 osoba způsobilá k vedení takového plavidla.\n(2) Vůdce plavidla a minimálně jedna osoba schopná vykonávat palubní práce pod dohledem vůdce plavidla musí být na plavidle\na) jehož délka je 15 m a více, nebo\nb) s plochou plachet 80 m2 a více.\n(3) Ustanovení odstavce 1 a odstavce 2 písm. a) se též vztahují na přepravu plovoucího zařízení podléhajícího evidenci s délkou menší než 20 m. To neplatí pro přepravu plavidel v bočně svázané sestavě s výjimkou plavidla, které sestavu vede, na kterém musí být osoba nebo osoby podle odstavce 2."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Plavidla, jejichž technická způsobilost byla schválena před dnem nabytí účinnosti této vyhlášky pro plavbu v plavební zóně 3 nebo 4, jsou považována za plavidla způsobilá pro plavbu v plavební zóně podle § 3 odst. 1 písm. a) této vyhlášky.\n(2) Plavidla, jejichž technická způsobilost byla schválena před dnem nabytí účinnosti této vyhlášky pro plavbu v plavební zóně 2, jsou považována za plavidla způsobilá pro plavbu v plavební zóně podle § 3 odst. 1 písm. b) této vyhlášky.\n(3) Lhůta pro podání žádosti o provedení pravidelné technické prohlídky plavidla podle § 13 této vyhlášky neskončí dříve než uplynutím doby platnosti osvědčení tohoto plavidla podle § 7 vyhlášky č. 223/1995 Sb., ve znění účinném do dne 1. ledna 2016; nejpozději však skončí uplynutím 4 let ode dne nabytí účinnosti této vyhlášky.\n(4) Nádrž pro shromažďování odpadní vody, zařízení pro domácí potřebu na topný plyn, kuchyňský sporák a topné zařízení na kapalná paliva, drenážní soustava, elektrická soustava, návěstní svítilny, případně jeřáb, umístěné na plavidle do dne nabytí účinnosti této vyhlášky, musí splňovat požadavky podle této vyhlášky nejpozději do uplynutí lhůty pro podání žádosti o provedení pravidelné technické prohlídky podle § 13 této vyhlášky. Uplyne-li lhůta pro podání žádosti o provedení pravidelné technické prohlídky dříve než 6 měsíců od nabytí účinnosti této vyhlášky, musí tyto požadavky splňovat nejpozději do 3 let od nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, v platném znění."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST ŠESTÁ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.\nPříloha č. 1 k vyhlášce č. 334/2015 Sb.\nPlavební zóny vodních cest České republiky\n1. Plavební zóny vodních cest, kde lze běžně očekávat podmínky podle § 3 odst. 1 písm. a).\nVeškeré vodní cesty neuvedené pod bodem 2.\n2. Plavební zóny vodních cest, kde lze běžně očekávat podmínky podle § 3 odst. 1 písm. b).\nLipno\nNové Mlýny I a III\nNechranice\n3. Plavební zóny vodních cest, kde lze běžně očekávat podmínky podle § 3 odst. 1 písm. c) a d), se na území České republiky nevyskytují.\nPříloha č. 2 k vyhlášce č. 334/2015 Sb.\nPodmínky technické způsobilosti malých plavidel, převozních lodí a plovoucích zařízení"
+    }
+  ],
+  "definitions": []
+}

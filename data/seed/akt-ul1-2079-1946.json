@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2079/1946",
+  "type": "statute",
+  "title": "2079/1946 Ú. l. I, Vyhláška ministra sociální péče o učebních oborech v keramickém průmyslu.",
+  "title_en": "",
+  "short_name": "2079/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-12-03",
+  "in_force_date": "1946-07-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2079",
+  "description": "Vyhláška ministra sociální péče o učebních oborech v keramickém průmyslu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V podnicích keramického průmyslu mohou býti školeni učňové v učebních oborech „malíř“, „modelář“, „točíř“, „vylevač“, „palič“ a „brusič“."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Učební doba v oborech „malíř“ a „modelář“ trvá 3 roky, v ostatních v § 1 uvedených oborech 2 roky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1946."
+    }
+  ],
+  "definitions": []
+}

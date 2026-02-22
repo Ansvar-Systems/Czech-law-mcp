@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:316/1952",
+  "type": "statute",
+  "title": "316/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 41 5110, 41 5111, 41 5123 a 42 0302.",
+  "title_en": "",
+  "short_name": "316/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-11-06",
+  "in_force_date": "1952-11-21",
+  "url": "https://www.e-sbirka.cz/ul0/1952/316",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 41 5110, 41 5111, 41 5123 a 42 0302.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Technickými státními normami od 1. prosince 1952 jsou normy:\nČSN 41 5110Konstrukční ocel ušlechtilá třídy 15 chromovanadová se zaručenými mechanickými vlastnostmi za tepla. Martinova uklidněná nebo elektroocel,\nČSN 41 5111Konstrukční ocel ušlechtilá třídy 15 chromomolybdenovanadová se zaručenými mechanickými vlastnostmi za tepla. Martinova uklidněná nebo elektroocel,\nČSN 41 5123Konstrukční ocel ušlechtilá třídy 15 chromomolybdenovanadová se zaručenými mechanickými vlastnostmi za tepla. Martinova uklidněná nebo elektroocel.\nTyto normy jsou směrné.\n(2) Normy obsahují údaje o technickém složení, mechanických a technologických vlastnostech konstrukčních ocelí ušlechtilých třídy 15 na bezešvé trubky a na plechy na trubky a tlakové nádoby."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 42 0302 „Mechanické zkoušení kovů. Základní pojmy a značky” je od 1. ledna 1953 technickou státní normou.\n(2) Norma pojednává o značkách základních veličin při mechanickém zkoušení kovů s dodatkem, který obsahuje ruský překlad jednotlivých základních pojmů, aby bylo možno kontrolovat správnost překladů ze sovětské technické literatury a ze sovětských norem."
+    }
+  ],
+  "definitions": []
+}

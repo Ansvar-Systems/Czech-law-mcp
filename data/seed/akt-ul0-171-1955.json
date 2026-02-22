@@ -1,0 +1,147 @@
+{
+  "id": "cz:ul0:171/1955",
+  "type": "statute",
+  "title": "171/1955 Ú. l., Vyhláška úřadu pro normalisaci, kterou se vyhlašují změny a doplňky některých technických státních norem.",
+  "title_en": "",
+  "short_name": "171/1955 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1955-09-14",
+  "in_force_date": "1955-09-01",
+  "url": "https://www.e-sbirka.cz/ul0/1955/171",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se vyhlašují změny a doplňky některých technických státních norem.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V technické státní normě ČSN 01 4933 „Jemné drážkování“ v tabulkách na straně 1 a 4 má být správně úhel 48° 45' místo 48° 25'.\nV tabulce na straně 6 pro měření přes drátky má být správně Dt = 17,713 místo chybného 17,727 a kn = 3,423 místo chybného 3,438."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V technické státní normě ČSN 30 3415 „Brzdové bubny pro nákladní automobily a přívěsy. Konstrukční směrnice“ se na straně 2 připojuje další poznámka č. 12 ve znění: Tato norma neplatí pro konstrukce vzniklé nebo vyráběné před jejím vydáním (pro Tatru T 500, T 111, T 128, T 130, T 400 a j.). V tabulce ve sloupci d H8 u průměru 280 se škrtnou vztahová znaménka a pod tabulkou se škrtne celý text přechodného ustanovení."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Technická státní norma ČSN 37 0740 „Krabicové rozvodky“ se doplňuje tím, že pod uvedenou tabulku v čl. 19 písm. g, na straně 8 se připojuje poznámka ve znění: *) U krabicových rozvodek jmenovitého průřezu 4 mm2 s více než 3 svorkami nebo můstky určenými pro světelný rozvod je velikost vstupních otvorů P 16."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "V technické státní normě ČSN 42 0510 „Stanovení uhlíku“ na straně 6, čl. 5 odst. 2 řádka 4 má znít správně: „ ... je naplněna až po skleněný plovák ...“. Na straně 9, čl. 11 bod a) se za druhou větu vloží věta: „Případně přítomná vlhkost se odstraňuje v absorpční trubici (I1) naplněné dvěma vrstvami kysličníku fosforečného, mezi nimiž je skelná vata.”\nZačátek odstavce bodu c) má znít: „U trubice (I2) obsahující asi 30 g natronového vápna a vrstvu kysličníku fosforečného . . . .“"
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "V technické státní normě ČSN 42 0511 „Stanovení manganu” na straně 6 u kyseliny chlorovodíkové zřed. (1+1) má text závorky znít: „(reakci na chlor)”. Na straně 7 v prvním odstavci se doplní řádka 6 slovy:\n„…. čímž se ziská hodnota v Fe-titr=0,41673v.“\nNa konci stránky 11 se mění písmeno „k“ a zní:\n„přepočítací faktor roztoku Mohrovy soli na použitý roztok manganistanu draselného“.\nNa straně 14 v článku 23 se mění vzorec na:\n„%Mn=(v1.k-v2).fa100\nPřepočítací faktor „k“ má pak znít: „k = přepočítací faktor roztoku síranu železnato-amonného na použitý roztok manganistanu draselného”.\nZa faktor „k“ se připojuje: „f = Mn-titr (viz str. 11).”"
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "V technické státní normě ČSN 42 0513 „Stanovení fosforu“ se na straně 2 v článku 4 mění vzorce na:\nk=25v,P-titr=x.av.k-v1.100\nNa straně 7 v článku 12 se mění vzorec na:\n% P=v.k-v1.fa.100\nNa straně 11, poznámka 2, odstavec 2, řádka druhá se upravuje: „....vysuší, přežíhá při 450 až 500° C a znovu zváží”."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "V technické státní normě ČSN 42 0514 „Stanovení siry” se na straně 8 v článku 12, z odstavce 2 vypouští věta: „Poté se uzavře dvojcestný kohout, hoření nálevka se naplní vodou a pootevřením kohoutu se vpustí nádobka do chladiče. Otočením o 45° se kohout opět uzavře“.\nV článku 13 se mění vzorec na:\n%S=b.k-b1.ta100"
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "V technické státní normě ČSN 42 0517 „Stanovení Chromu“ se na straně 2 mění vzorec na:\nk=v25\na vypouští se ustanovení: „0,02 N síran železnatoamonný, standardní roztok. Připraví se příslušným zředěním 0,1 N roztoku. U manganistanu draselného, standardní roztok se vypouští „0,1 N“.\nNa straně 3 se mění vzorec na:\n„Cr-titr=x.av.k-v1.100."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "V technické státní normě ČSN 42 0518 „Stanoveni molybdenu“ se na straně 2 u standardního roztoku molybdenu vypouští slova: „připravený z MoO3.” Na straně 6 v článku 13, v 1. řádce má být místo „1,5 g vzorku” „1—5 g vzorku”."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "V technické státní normě ČSN 42 0519 „Stanovení vanadu“ se na straně 2: U „manganistanu draselného, standardní roztok“ vypouští „0,1 N”. Odstavec 2 nadepsaný „Příprava a stanovení titru” se doplňuje „ ... jež se odečte, čímž se získá hodnota v.\nFe-titr=0,41673v,“"
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "V technické státní normě ČSN 42 0520 „Stanoveni wolframu“ se na straně 2 v článku „standardní roztok železa“ vkládá za slova 0,8634 g síranu železito-amonného: „NH4Fe/SO4/2.12H2O“ ...."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "content": "V technické státní normě ČSN 44 1440 „Hnědá uhlí severočeského revíru Trust-Most-jih“ v části II. Technické požadavky, se nahrazuje poř. číslo 9 s platností od 1. září 1955 touto tabulkou:\nPoř.\nčís.Jméno dolu nebo lomuZnačkaDruhZnaky jakosti\nWpAsSsvšVhQhvQpnviditelná hlušina max. %\nPrům.\n%Max.\n%Prům.\n%Max.\n%Prům.\n%Prům.\n%Prům.\nkcal/\nkgPrům.\nkcal/\nkg\n9ÚpravnaHph27,531,022,126,61,654,0695035909\no 127,531,025,729,31,653,5693034100\no 227,531,029,533,61,653,5683031700\nhp26,028,240,044,51,553,0675027100\nps26,029,039,043,01,5—680027800"
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "Označení technické státní normy „Kyselina solná sulfátová technická“ se mění na ČSN 65 1202 místo ČSN 67 1202."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14.",
+      "content": "V technické státní normě ČSN 68 4637 „Fosforečnan sodný střední“ se v článku 13 odstavci 2 písm. d) mění poslední dvě věty a zní: u přípravku „p.a.” 0,00025 mg As, t. j. 1,25 ml roztoku zředěného (místo 0,25), u přípravku „č“ 10 ml roztoku zředěného (místo 2,0)."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "content": "V technické státní normě ČSN 68 4711 „Hydroxyd draselný“ se opravuji hodnoty: Na straně 4, řádek 24 „0,16 mg SO4” na „0,2 mg SO4” a „1,6 ml roztoku” na „2 ml roztoku.” Na straně 6, řádek 1 „SiO2” na SiO3”. Řádek 17 „0,2 mg SiO2“ na „2,0 mg SiO3”, řádek 18 „0,1 mg SiO2” na „1,0 mg SiO3”, řádek 19 „0,2 mg SiO2” na „2,0 mg SiO3”. Na straně 7, řádka 9 „12 ml” na „5 ml”, řádek 10 „2,5 ml” na „15 ml zředěného standardního .....“. Na straně 8, řádka 33 „0,25 mg Fe“ na „0,025 mg Fe“, řádka 34 „0,25 mg Fe” na „0,025 mg Fe“ a řádka 35 „0,4 mg Fe” na „0,04 mg Fe”. Na straně 10 má být místo „2,0 mg R2O3” „1,5 mg R2O3”,"
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "Technické státní normy ČSN 80 3001 „Bavlněné tkaniny”, ČSN 80 3002 „Vlasové tkaniny”, ČSN 80 3003 „Potištěné bavlněné tkaniny”, ČSN 80 3004 „Smyčkové tkaniny a kusové zboží” a ČSN 80 7670 „Kapesníky dámské, pánské a dětské” uveřejněné ve vyhláškách č. 55/1955 Ú. l. a č. 69/1955 Ú. l. nabývají platnosti dnem 1. srpna 1955."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "V technické státní normě ČSN 80 4598 „Avizent druh 367a, 367b“ má být v záhlaví tabulky I. správně: „Tažnost nejvýše % (místo nejméně %)”."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18.",
+      "content": "Technická státní norma ČSN 70 4420 „Sklenice na jogurt” uveřejněná ve vyhlášce č. 150/1955 Ú. l. nabývá platnosti dnem 1. srpna 1955 místo 1. července 1955."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19.",
+      "content": "Název technické státní normy ČSN 73 2050 uveřejněné ve vyhlášce č. 150/1955 Ú. l. má znít správné „Projektování dřevěných konstrukcí” místo „Provádění dřevěných konstrukcí”."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20.",
+      "content": "Technická státní norma ČSN 91 0104 „Dětská lůžka”, uveřejněná ve vyhlášce č. 135/1955 Ú. l. má být od 1. července 1955 do 31. března 1956 směrná a od 1. dubna 1956 závazná."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "V technické státní normě ČSN 94 0014 „Brusle čelisťové” v poslední řádce tabulky I. má být: „Chromatování podle ČSN 03 8121, celý povrch brusli matový” (místo chromování). Článek 3 se mění a zní: „Rozměry bruslí (viz obr. 2) jsou v tab. II“ (místo tab. I)."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "Vyhláška nabývá účinnosti dnem 1. září 1955."
+    }
+  ],
+  "definitions": []
+}

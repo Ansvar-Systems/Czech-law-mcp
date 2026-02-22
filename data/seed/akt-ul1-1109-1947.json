@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:1109/1947",
+  "type": "statute",
+  "title": "1109/1947 Ú. l. I, Vyhláška ministra průmyslu a ministra vnitřního obchodu o odběru a dodávkách textilního zboží na Slovensko.",
+  "title_en": "",
+  "short_name": "1109/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-11-04",
+  "in_force_date": "1947-11-16",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1109",
+  "description": "Vyhláška ministra průmyslu a ministra vnitřního obchodu o odběru a dodávkách textilního zboží na Slovensko.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Výrobci textilního zboží [§ 2, odst. 2, lit. a) vyhlášky ministra vnitřního obchodu a ministra průmyslu ze dne 26. června 1947, č. 666 Ú. l. I o odběru a dodávce textilního zboží] jsou povinni vždy k 16. a poslednímu dni v měsíci hlásiti Ústřední rozdělovně textilního zboží v Bratislavě (zřízené vyhláškou pověřence průmyslu a obchodu ze dne 27. října 1947 č. 818 Ú. v. o organisaci distribuce textilního zboží) tu část textilního metrového zboží, která je podle ustanovení vyhlášky ministra vnitřního obchodu a ministra průmyslu ze dne 31. října 1947, Ú. l. I č. 1108, jíž se mění vyhláška ministra průmyslu a ministra vnitřního obchodu ze dne 10. července 1947, Ú. l. I č. 789, o dodávkách metrového textilního zboží, určena pro slovenský vnitřní obchod.\n(2) Povinnost hlášení podle odst. 1 se vztahuje též na zpracovatele [§ 2, odst. 2, lit. b) vyhlášky ministra vnitřního obchodu a ministra průmyslu ze dne 26. června 1947, č. 666 Ú. l. I o odběru a dodávce textilního zboží] pokud chtějí dodati na Slovensko své výrobky, které jsou i na Slovensku vázány jak ve spotřebě, tak i v odběru a dodávce (I. příloha vyhlášky ministra vnitřního obchodu a ministra průmyslu ze dne 26. června 1947, Ú. l. I č. 666, o odběru a dodávce textilního zboží)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Hlášení podle § 1 musí obsahovati tyto údaje:\na) skupinové číslo,\nb) drah zboží, šíři a množství v metrech, v kusech neb párech,\nc) nákupní cenu dodavatele za jednotku a\nd) bodovou hodnotu za jednotku."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Výrobci a zpracovatelé (§ 1) smí prodávati zboží uvedené v § 1, jen Oblastním rozdělovnám textilního zboží na Slovensku a to na bodové šeky, které budou vidované Ústřední rozdělovnou textilního zboží v Bratislavě a potvrzené Úřadovnou pro zúčtování bodů v Bratislavě."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Výrobci a zpracovatelé (§ 1) jsou povinni zaslati Ústřední rozdělovně textilního zboží v Bratislavě opis účtu o zboží dodaném podle § 3, při čemž účet musí obsahovati aspoň údaje uvedené v § 2."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky předpisů této vyhlášky trestají se podle § 8 dekretu presidenta republiky ze dne 27. října 1945, č. 109 Sb., o řízení výroby a podle § 9 vlád. nař. ze dne 26. června 1943, č. 175 Sb., o oběhu zboží."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 16. listopadu 1947 a platí jen v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:o18/2001",
+  "type": "statute",
+  "title": "o18/2001 Sb., Opatření České národní banky, kterým se stanoví minimální výše likvidních prostředků",
+  "title_en": "",
+  "short_name": "o18/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-05-09",
+  "in_force_date": "2001-05-09",
+  "url": "https://www.e-sbirka.cz/sb/2001/o18",
+  "description": "Opatření České národní banky, kterým se stanoví minimální výše likvidních prostředků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Minimální výše likvidních prostředků bank a poboček zahraničních bank včetně stavebních spořitelen1) činí 2 % ze závazků, jejichž splatnost nepřevyšuje 2 roky, vůči všem osobám s výjimkou bank."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Závazky podle § 1 se rozumí závazky v českých korunách i závazky znějící na cizí měnu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Likvidní prostředky stanovené podle § 1 jsou banky povinny uložit na účtu u České národní banky jako povinné minimální rezervy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Povinné minimální rezervy jsou úročeny sazbou pro repo operace České národní banky, vyhlašovanou ve Věstníku České národní banky; prostředky nad výši stanovené povinnosti se neúročí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zrušuje se opatření České národní banky č. 118/1999 Sb., kterým se stanoví minimální výše likvidních prostředků."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Toto opatření nabývá účinnosti dnem 12. července 2001.\n1) Zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., ve znění zákona č. 83/1995 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Závazky podle § 1",
+      "definition": "závazky v českých korunách i závazky znějící na cizí měnu",
+      "source_provision": "§ 2"
+    }
+  ]
+}

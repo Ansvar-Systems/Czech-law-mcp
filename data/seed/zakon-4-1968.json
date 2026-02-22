@@ -1,0 +1,21 @@
+{
+  "id": "cz:4/1968",
+  "type": "statute",
+  "title": "4/1968 Sb., Redakční sdělení o opravě tiskové chyby",
+  "title_en": "",
+  "short_name": "4/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-01-11",
+  "in_force_date": "1968-01-11",
+  "url": "https://www.e-sbirka.cz/sb/1968/4",
+  "description": "Redakční sdělení o opravě tiskové chyby",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V oznámení v částce 47 Sb. z roku 1967 strana 473 v úvodní větě nebylo vytištěno správné číslo vyhlášky: „č. 129/1967 Sb., ...“"
+    }
+  ],
+  "definitions": []
+}

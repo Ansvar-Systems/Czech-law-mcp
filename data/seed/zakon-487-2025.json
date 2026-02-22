@@ -1,0 +1,27 @@
+{
+  "id": "cz:487/2025",
+  "type": "statute",
+  "title": "487/2025 Sb., Vyhláška o stanovení kódů typů výdajů na volební kampaň",
+  "title_en": "",
+  "short_name": "487/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-11-25",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/487",
+  "description": "Vyhláška o stanovení kódů typů výdajů na volební kampaň",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Kódy typů výdajů na volební kampaň",
+      "content": "Jednotlivé typy výdajů na volební kampaň označí kandidující volební strana ve zprávě o financování volební kampaně kódy, které jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.\nPříloha\nKódy typů výdajů na volební kampaň\nKódPopis\n\nA - Tištěná reklama a propagace\nA1Inzerce a propagační články v tisku\nA2Letáky a volební noviny - návrh, tisk a distribuce\nB - Venkovní reklama a propagace\nB1Pronájem reklamních ploch - billboard, bigboard, citylight\nB2Pronájem reklamních ploch - vozidla veřejné dopravy\nB3Pronájem reklamních ploch - další plochy\nB4Výroba, tisk nosičů pro reklamní plochy mimo letáky a volební noviny\nC - Služby propagace na sociálních sítích a internetu\nC1Správa a tvorba textů na sociálních sítích\nC2Placené nástroje na sociálních sítích\nC3Správa a tvorba textů na internetu mimo sociální sítě, včetně vlastního webu\nC4Reklama a propagační články na internetu mimo sociální sítě\nD - Zboží a služby v kontaktní kampani\nD1Propagační předměty, zboží a občerstvení\nD2Technické zajištění akcí\nD3Personální zajištění akcí\nD4Nájem prostor a prostranství, včetně poplatků za zábor veřejného prostranství\nD5Pronájem, leasing, zápůjčka dopravních prostředků\nD6Pohonné hmoty, ubytování a jiné cestovní náklady\nE - Další služby\nE1Marketing a propagace\nE2Softwarové a datové služby\nE3Výroba propagačních materiálů\nF - Ostatní\nF1Mzdové náklady na volební kampaň\nF2Běžný spotřební materiál pro kampaň\nF3Ostatní výdaje nezařaditelné pod jiný kód - vyžaduje se slovní upřesnění"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:139/1961",
+  "type": "statute",
+  "title": "139/1961 Sb., Vyhláška hlavního arbitra Československé socialistické republiky o úpravě dodávek elektřiny ve velkém pro období od 1. prosince 1961 do 31. března 1962",
+  "title_en": "",
+  "short_name": "139/1961 Sb.",
+  "status": "in_force",
+  "issued_date": "1961-12-07",
+  "in_force_date": "1961-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1961/139",
+  "description": "Vyhláška hlavního arbitra Československé socialistické republiky o úpravě dodávek elektřiny ve velkém pro období od 1. prosince 1961 do 31. března 1962",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V době od 1. prosince 1961 do 31. března 1962 stanoví se tyto odchylky z ustanovení základních podmínek dodávky elektřiny (vyhláška č. 7/1959 Ú. l.) při dodávce a odběru elektřiny ve velkém:\n1. Horní hranice tolerance pro překračování smluvně sjednaného množství elektřiny v kWh se snižuje ze 7 % na 2 %.\n2. Dolní hranice tolerance pro neodebrání smluvně sjednaného množství elektřiny se zvyšuje ze 7 % na 10 %.\n3. Překročí-li odběratel sjednané měsíční množství elektřiny v kWh pro jednotlivá odběrní místa, je povinen zaplatit dodavateli místo penále ve výši 10 % průměrné ceny elektřiny, tj. 0,02 Kčs za každou překročenou kWh, penále ve výši 0,24 Kčs za každou překročenou kWh; penále za neodebrání smluvně sjednaného množství elektřiny zůstává nedotčeno."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Úprava uvedená v článku I se nevztahuje na dodávky elektřiny pro napájení elektrické trakce ČSD a napájení hromadné městské dopravy, jakož i dodávek pro zvláštní zařízení ministerstva národní obrany."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1961; její účinnost končí dnem 31. března 1962."
+    }
+  ],
+  "definitions": []
+}

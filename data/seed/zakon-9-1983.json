@@ -1,0 +1,33 @@
+{
+  "id": "cz:9/1983",
+  "type": "statute",
+  "title": "9/1983 Sb., Redakční sdělení o opravě chyb v zákonu č. 131/1982 Sb., kterým se mění a doplňuje občanský zákoník a upravují některé další majetkové vztahy, ve slovenském vydání",
+  "title_en": "",
+  "short_name": "9/1983 Sb.",
+  "status": "in_force",
+  "issued_date": "1983-01-17",
+  "in_force_date": "1983-01-17",
+  "url": "https://www.e-sbirka.cz/sb/1983/9",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 131/1982 Sb., kterým se mění a doplňuje občanský zákoník a upravují některé další majetkové vztahy, ve slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Strana 526\nBod 4. – § 47 odst. 3 má správně znít: „Ak na návrh podaný do troch rokov od uzavretia zmluvy nedošlo k rozhodnutiu príslušného orgánu alebo k registrácii, platí, že účastníci od zmluvy odstúpili.“"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Strana 529\nBod 30. – § 263a má správně znít: „Ak organizácia zhotovuje občanovi stavbu na objednávku, zodpovedá za poškodenie alebo zničenie jeho stavby až do prevzetia zhotovenej stavby, ledaže by ku škode došlo aj inak.“"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Strana 530\nBod 51. – § 490 odst. 2 třetí věta má správně znít: „Na zmluvu o prevode budovy, ktorá je v súkromnom vlastníctve, a na zmluvu o prevode alebo prenájme poľnohospodárskeho (lesného) pozemku je potrebný súhlas národného výboru, ledaže by išlo o prevod do socialistického spoločenského vlastníctva.“"
+    }
+  ],
+  "definitions": []
+}

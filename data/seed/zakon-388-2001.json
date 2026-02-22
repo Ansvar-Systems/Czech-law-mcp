@@ -1,0 +1,102 @@
+{
+  "id": "cz:388/2001",
+  "type": "statute",
+  "title": "388/2001 Sb., Vyhláška Ministerstva financí o pravidlech úvěrové angažovanosti spořitelních a úvěrních družstev",
+  "title_en": "",
+  "short_name": "388/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-11-09",
+  "in_force_date": "2001-11-09",
+  "url": "https://www.e-sbirka.cz/sb/2001/388",
+  "description": "Vyhláška Ministerstva financí o pravidlech úvěrové angažovanosti spořitelních a úvěrních družstev",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška stanoví pravidla pro oblast omezení rizika vzniku ztráty spořitelního a úvěrního družstva (dále jen „družstevní záložna“) z titulu možného znehodnocení jeho finančních aktiv."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Kapitálem družstevní záložny se rozumí kapitál stanovený zvláštním právním předpisem o pravidlech kapitálové přiměřenosti družstevních záložen."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Finančními aktivy se pro účely této vyhlášky rozumí:\na) veškeré smluvní peněžité pohledávky družstevní záložny za fyzickými nebo právnickými osobami znějící ve prospěch družstevní záložny. Jedná se zejména o\n1. úvěry členům družstevní záložny,\n2. úvěry obcím,\n3. závazky třetích osob ve prospěch družstevní záložny;\nb) pohledávky družstevní záložny za emitentem cenných papírů, které má družstevní záložna v majetku."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Úvěrovou angažovaností družstevní záložny vůči jejímu dlužníkovi se rozumí veškerá finanční aktiva družstevní záložny, která družstevní záložna nabyla nebo se oprávněně předpokládá, že v souvislosti se zárukami vydanými družstevní záložnou nabude ve vztahu k fyzické nebo právnické osobě. Do úvěrové angažovanosti náleží zejména:\na) celková hodnota nesplacených pohledávek družstevní záložny vůči dlužníku;\nb) celková hodnota dluhopisů a jiných cenných papírů, které představují závazek k placení a jsou v majetku družstevní záložny;\nc) celková výše neodvolatelných záruk družstevní záložny k placení nebo plnění, které nemůže žádná ze smluvních stran jednostranně vypovědět ani změnit před smluveným termínem, poskytnuté členům družstevní záložny jako dlužníkům ve prospěch třetí strany;\nd) celková výše závazků družstevní záložny dosud nevyužitých oprávněnou osobou ve smyslu\n1. závazku poskytnout úvěr,\n2. závazku poskytnout ručení za úvěr člena poskytnutý jinými osobami;\ne) úroky účtované jako příjmy příštích období."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Hrubou úvěrovou angažovaností družstevní záložny vůči určitému dlužníkovi se rozumí součet všech úvěrových angažovaností vůči tomuto dlužníkovi.\n(2) Družstevní záložna může od hrubé úvěrové angažovanosti vůči dlužníku odečíst a zároveň převést do úvěrové angažovanosti vůči jiným osobám (vydavateli záruky, emitentovi dluhopisu, bance, na jejímž účtu jsou složeny peníze jako zajišťovací prostředek) ty její části, které jsou plně zajištěny některým z následujících zajišťovacích prostředků:\na) písemnou, neodvolatelnou, jednoznačnou zárukou vystavenou ve prospěch družstevní záložny subjektem, jehož riziková váha určená vyhláškou Ministerstva financí o pravidlech kapitálové přiměřenosti spořitelních a úvěrních družstev je nižší než 50 %,\nb) zástavou jiných aktiv, jejichž riziková váha určená vyhláškou Ministerstva financí o pravidlech kapitálové přiměřenosti spořitelních a úvěrních družstev je 0 % nebo 20 %.\n(3) Změna úvěrové angažovanosti podle odstavce 2 je možná pouze za splnění všech náležitostí tak, aby jedinou podmínkou pro uplatnění práva družstevní záložny ze zástavy bylo, že dlužník řádně a včas nesplnil své závazky vůči družstevní záložně. Zároveň musí být zaručeno uchování kvality zajištění po celou dobu trvání zajišťovaného vztahu.\n(4) Družstevní záložna může od hrubé úvěrové angažovanosti dále odečíst závazky ve smyslu § 4 odst. 1 písm. d) za předpokladu, že družstevní záložna má bezpodmínečné, neměnitelné a neodvolatelné právo kdykoliv takovýto závazek jednostranně zrušit bez jakýchkoliv nároků oprávněné osoby."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Čistou úvěrovou angažovaností se rozumí hrubá úvěrová angažovanost po odečtení položek podle § 5 odst. 2 a 4."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Ekonomicky spjatou skupinou dlužníků jsou dva nebo více dlužníků (fyzických nebo právnických osob), vůči nimž má družstevní záložna úvěrovou angažovanost a kteří jsou navzájem propojeni tím, že\na) jeden z dlužníků má kontrolu nad ostatními ve smyslu § 1 odst. 1 zákona, nebo\nb) jejich vzájemné vztahy jsou takové povahy, že finanční těžkosti jednoho z dlužníků mohou způsobit platební potíže alespoň jednoho z ostatních.\n(2) Ekonomicky spjatá skupina dlužníků podle odstavce 1 představuje pro družstevní záložnu jednotné riziko a je na ni pohlíženo jako na jediného dlužníka."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Za osoby se zvláštním vztahem k družstevní záložně se považují členové volených orgánů družstevní záložny a osoby jim blízké."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Družstevní záložna je povinna zabezpečit, že\na) čistá úvěrová angažovanost vůči jednomu dlužníkovi nebo jedné ekonomicky spjaté skupině dlužníků s výjimkou dlužníků uvedených v písmenech b), c), d) a § 10 odst. 2 nepřesáhne 70 % kapitálu družstevní záložny,\nb) čistá úvěrová angažovanost vůči bance nebo vůči ekonomicky spjaté skupině dlužníků složené pouze z bank nepřesáhne 50 % vkladů členů uložených v družstevní záložně,\nc) čistá úvěrová angažovanost vůči obci nebo vůči ekonomicky spjaté skupině dlužníků složené pouze z obcí nepřesáhne 500 % kapitálu družstevní záložny,\nd) čistá úvěrová angažovanost vůči osobě se zvláštním vztahem k družstevní záložně nebo vůči ekonomicky spjaté skupině dlužníků složené z osob se zvláštním vztahem k družstevní záložně nepřesáhne 55 % kapitálu družstevní záložny,\ne) úhrn čistých úvěrových angažovaností vůči deseti největším dlužníkům nebo ekonomicky spjatým skupinám dlužníků podle odstavce 1 nepřesáhne 650 % kapitálu družstevní záložny."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "(1) V případě, že družstevní záložna ke dni účinnosti této vyhlášky překračuje pravidla čisté úvěrové angažovanosti podle § 9, je povinna toto překročení dále nezvyšovat a dále je povinna snížit svou čistou úvěrovou angažovanost tak, aby docílila stanovených pravidel nejpozději do 31. 12. 2001.\n(2) Limitům čisté úvěrové angažovanosti nepodléhá a je z nich vyjmuta úvěrová angažovanost vůči\na) státu,\nb) členským státům Organizace pro hospodářskou spolupráci a rozvoj,\nc) České národní bance,\nd) centrálním bankám členských států Organizace pro hospodářskou spolupráci a rozvoj."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kapitálem družstevní záložny",
+      "definition": "kapitál stanovený zvláštním právním předpisem o pravidlech kapitálové přiměřenosti družstevních záložen",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Úvěrovou angažovaností družstevní záložny vůči jejímu dlužníkovi",
+      "definition": "veškerá finanční aktiva družstevní záložny, která družstevní záložna nabyla nebo se oprávněně předpokládá, že v souvislosti se zárukami vydanými družstevní záložnou nabude ve vztahu k fyzické nebo právnické osobě",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "Hrubou úvěrovou angažovaností družstevní záložny vůči určitému dlužníkovi",
+      "definition": "součet všech úvěrových angažovaností vůči tomuto dlužníkovi",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Čistou úvěrovou angažovaností",
+      "definition": "hrubá úvěrová angažovanost po odečtení položek podle § 5 odst",
+      "source_provision": "§ 6"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:355/1952",
+  "type": "statute",
+  "title": "355/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro přesné šestihranné matice, pro čtyřhranné volné konce hřídelů, pro vruty a pro plynoměry.",
+  "title_en": "",
+  "short_name": "355/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-12-17",
+  "in_force_date": "1953-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/355",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro přesné šestihranné matice, pro čtyřhranné volné konce hřídelů, pro vruty a pro plynoměry.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Technickými státními normami od 1. ledna 1953 jsou normy:\nČSN 02 1401 Přesné šestihranné matice\nČSN 02 1403 Přesné šestihranné matice nízké\nČSN 02 1407 Drobné šestihranné matice nízké\nČSN 02 1411 Přesné korunové matice\nČSN 02 1412 Přesné korunové matice nízké\nČSN 02 1416 Drobné čtyřhranné matice nízké\nČSN 02 1431 Uzavřené matice\nČSN 02 1441 Kruhové matice s otvory\nČSN 02 1444 Kruhové matice s drážkou\nČSN 02 1461 Rýhované matice\nČSN 02 1462 Rýhované matice nízké\nČSN 02 1601 Hrubé šestihranné matice\nČSN 02 1611 Hrubé korunové matice\nČSN 02 1621 Čtyřhranné matice\nČSN 02 1624 Čtyřhranné matice k základovým šroubům\nČSN 02 1665 Křídlaté matice\nČSN 02 1669 Závěsné matice\nTyto normy jsou směrné.\n(2) Normy jednají zejména o rozměrech, materiálu a provedení jednotlivých druhů matic, jichž se týkají."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 35 0044 Čtyřhranné volné konce hřídelů je od 1. prosince 1952 technickou státní normou\n(2) Norma stanoví rozměry čtyřhranných volných konců hřídelů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Technickými státními normami od 1. ledna 1953 jsou normy\nČSN 01 4070 Závit pro vruty\nČSN 02 1080Vruty. Technické dodací podmínky\nČSN 02 1810Vruty se šestihrannou hlavou\nČSN 02 1812Vruty s půlkulovou hlavou\nČSN 02 1814Zápustné vruty\nČSN 02 1315Zápustné vruty s čočkovitou hlavou\n(2) Norma ČSN 01 4070 jedná o rozměrech závitů pro vruty, norma ČSN 02 1080 mimo jiné jedná o výrobních způsobech, materiálu, provedení a mechanických vlastnostech hotových vrutů atd. Ostatní normy pak jednají o rozměrech jednotlivých druhů vrutů, jichž se týkají."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Norma ČSN 38 1050 Plynoměry je od 1. ledna 1953 technickou státní normou.\n(2) Norma platí pro objemové plynoměry určené pro měření plynů, a to suché (membránové) i kapalinové (zvonové) pro pracovní tlak do 200 mm v. sl. a plynoměrové automaty obou těchto druhů. Mimo jiné jedná o technických požadavcích a zkoušení plynoměru."
+    }
+  ],
+  "definitions": []
+}

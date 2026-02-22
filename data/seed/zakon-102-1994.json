@@ -1,0 +1,225 @@
+{
+  "id": "cz:102/1994",
+  "type": "statute",
+  "title": "102/1994 Sb., Vyhláška Českého báňského úřadu, kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu v objektech určených pro výrobu a zpracování výbušnin",
+  "title_en": "",
+  "short_name": "102/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-05-27",
+  "in_force_date": "2017-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1994/102",
+  "description": "Vyhláška Českého báňského úřadu, kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu v objektech určených pro výrobu a zpracování výbušnin",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ZÁKLADNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) technické požadavky na umístění a provedení staveb a ploch určených k výzkumu, vývoji, výrobě, zkoušení, ničení, zneškodňování nebo zpracování výbušnin1), a to včetně výroby, laborace, delaborace nebo ničení střeliva nebo munice2) nebo výroby pyrotechnických výrobků3), je-li při těchto činnostech nakládáno s výbušninou, a\nb) třídy nebezpečí výbušnin."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "chapter": "ČÁST PRVNÍ - ZÁKLADNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) objektem stavba nebo plocha určená k výzkumu, vývoji, výrobě, zkoušení, ničení, zneškodňování nebo zpracování výbušnin,\nb) obložením nejvýše povolené množství výbušniny,\nc) bezpečnostní vzdáleností nejmenší dovolená vzdálenost mezi objektem a okolní stavbou nebo plochou, které tato vyhláška přiznává ochranu (dále jen „ohrožená stavba“),\nd) bezpečnostním okruhem hranice, která vymezuje předem zvolený stupeň poškození ohrožené stavby,\ne) bezpečnostním pásmem prostor vymezený bezpečnostními okruhy,\nf) kyvnou stěnou těžká stěna uložená čepy v ložiskách tak, aby se účinkem tlakové vlny mohla vychýlit (otočit),\ng) ochrannou stěnou konstrukce z pevných materiálů, která má stejnou funkci jako ochranný val,\nh) opěrnou zdí konstrukce, budovaná na vnitřní nebo vnější straně ochranného valu, zajišťující jeho stabilitu,\ni) výfukovou plochou část objektu (stěna nebo střecha), která při výbuchu uvnitř objektu umožní rychlý pokles tlaku,\nj) výfukovou střechou střecha se sníženou hmotností střešního pláště (bez krovu) z lehkého, snadno tříštitelného materiálu u objektů nebezpečných výbuchem výbušnin nebo výbuchem hořlavých par,\nk) úschovnou úložný prostor (schránka apod.), určený k uložení výbušnin nebo výbušného odpadu v průběhu směny,\nl) ochranným valem ochranný násep, jehož účelem je ochrana okolí proti účinkům výbuchu,\nm) odděleným valem ochranný val, který není přímo spojen s ostatními ochrannými valy zajišťujícími tentýž objekt,\nn) společným valem ochranný val oddělující od sebe objekty jednoho stavebního komplexu,\no) uzavřeným valem ochranný val s tunelovými průchody obklopující objekt ze všech stran,\np) souborem výroben několik bezprostředně souvisejících objektů, uvažovaných jako jeden celek z hlediska obložení a bezpečnostních vzdáleností k nejbližším ohroženým stavbám,\nq) pancéřovými dveřmi dveře s odolností proti tlakové vlně nejméně takovou, jakou mají stěny budovy,\nr) hromadným výbuchem výbuch, který se po místní iniciaci rozšíří téměř okamžitě a prakticky na celé množství výbušniny nacházející se v objektu nebo jeho samostatné části,\ns) vývojovým pracovištěm vývojová laboratoř, vývojová dílna, vývojová zkušebna nebo poloprovoz."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Podmínky pro výstavbu",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Objekty musí splňovat obecné technické požadavky,4) pokud tato vyhláška nestanoví jinak.\n(2) Fyzické a právnické osoby při činnostech upravených touto vyhláškou (dále jen „organizace“) prostor provozovny oplotí nebo jinak zajistí proti vstupu nepovolaných osob. Vzdálenost objektů nebezpečných výbuchem nebo požárem výbušnin od oplocení provozovny se určuje v projektové dokumentaci s přihlédnutím k místním podmínkám, ohrožení a stavebnímu provedení.\n(3) Oplocení nesmí bránit úniku osob z objektu. Vchod do tohoto prostoru musí být pod kontrolou.\n(4) Prostor o šíři 5 m od oplocení nesmí být zalesněn."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Třídy nebezpečí výbušnin a objektů",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Výbušniny se podle chování při výbuchové přeměně zařazují do tříd a skupin nebezpečí podle přílohy č. 1 vyhlášky o skladování výbušnin5).\n(2) Třída nebezpečí objektu je dána třídou a skupinou nebezpečí výbušniny, pro niž je objekt určen, a nejvyšším stupněm nebezpečnosti operací, které se v něm provádějí. Třídění nejdůležitějších výrobních objektů z hlediska ohrožení okolí je uvedeno v příloze č. 2, která je součástí této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Určení bezpečnostních vzdáleností",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Bezpečnostní vzdálenost se stanoví podle přílohy č. 3 k této vyhlášce.\n(2) Při výpočtu bezpečnostní vzdálenosti se do obložení zahrnují všechny výbušniny, s výjimkou výbušnin 1.4S podle Přílohy A k Evropské dohodě o mezinárodní silniční přepravě nebezpečných věcí (ADR)6). Jsou-li v objektu výbušniny různých tříd nebezpečí, určí se bezpečnostní vzdálenosti pro výbušninu nejvyšší třídy a skupiny nebezpečí, přičemž se počítá s celkovým obložením. Je-li dílčí část objektu oddělena od ostatních způsobem zamezujícím eskalaci následků vlivem iniciace výbušnin i v ostatních částech, lze pro stanovení bezpečnostní vzdálenosti použít dílčí obložení části objektu; požadavek se považuje za splněný, je-li dílčí část objektu od ostatních oddělena způsobem zamezujícím přenos výbuchu a požáru. Při určování bezpečnostní vzdálenosti mezi dvěma vzájemně se ohrožujícími objekty se stanoví bezpečnostní vzdálenost pro každý objekt zvlášť, přičemž rozhodující je větší z nich. Bezpečnostní vzdálenost se počítá od stěny nebo hrany ohrožujícího prostoru.\n(3) Pro určení bezpečnostní vzdálenosti platí\na) je-li objekt částečně ovalován, pak ve směru otevřených stran se počítá bezpečnostní vzdálenost jako pro objekt neovalovaný,\nb) jsou-li dva sousední objekty obráceny k sobě otevřenými stranami, stanoví se vzdálenosti mezi nimi jako pro objekty bez valů,\nc) je-li volná strana bunkrového objektu chráněna valem, pokládá se tento objekt za ovalovaný,\nd) mají-li dva objekty společný val, pokládá se při výpočtech každý za objekt s jedním valem,\ne) u staveb bunkrového typu umístěných ve společném zásypu se každá z nich považuje za ovalovaný objekt,\nf) provádí-li se výroba výbušnin v objektech spolu bezprostředně sousedících, kde není zabráněno přenosu výbuchu z jednoho objektu na druhý, pokládají se takové objekty za soubor výroben; bezpečnostní vzdálenosti se počítají podle celkového obložení souboru výroben.\n(4) Pokud se v objektu nachází též střelivo, munice či pyrotechnické výrobky v rámci jejich výroby, laborace nebo delaborace, použijí se odstavce 1 až 3 a § 4 obdobně.\n(5) Pokud je ohroženou stavbou stavba určená pro střelivo, munici nebo pyrotechnické výrobky, použijí se odstavce 1 až 3 a § 4 obdobně."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Ochranné valy",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Okolí objektů třídy nebezpečí A se chrání proti účinkům výbuchu ochrannými valy, ochrannými stěnami, výfukovým provedením stavby, kyvnými stěnami, zalesněním apod. Přírodní překážka, například návrší, kopec, skála, vzrostlý lesní porost šířky nejméně 15 m, může nahradit ochranný val, ochrannou stěnu, je-li dostatečně vysoká. Průhlednost lesního porostu nesmí být v tomto případě větší než 30 % v zimním období a její vyhodnocení je organizace povinna doložit výpočtem nebo fotograficky. Lesní porost musí být od objektů vzdálen nejméně 5 m.\n(2) Pokud z výpočtu bezpečnostní vzdálenosti podle § 5 vyplývá povinnost zřídit ochranný val, pak se zřizuje ve všech směrech možného ohrožení.\n(3) Ke stavbě ochranných valů lze použít jen nehořlavý a zhutněný materiál. Pokud je ochranný val z kamenité sypaniny, použije se na jeho vnitřní straně vrstva tříděného materiálu o tloušťce nejméně 1 m s průměrem zrn do 16 mm. Povrch ochranného valu se zajistí proti erozi.\n(4) Střešní římsa objektu nesmí přesáhnout korunu ochranného valu, u objektu s jednostranným sklonem střechy to platí pro střešní římsu nižší strany střechy. Je však nezbytné, aby koruna ochranného valu přesahovala nejméně o 0,5 m horní úroveň zpracovávaných výbušnin. Vnitřní svah ochranného valu smí mít sklon nejvýše 40° a šířku v koruně nejméně 0,5 m. Profil ochranného valu se doloží výpočtem stability včetně sednutí tělesa valu a jeho zatlačení do podloží.\n(5) Není-li některý z ochranných valů spojen s ostatními ochrannými valy, musí přesahovat boční hrany ostatních ochranných valů nejméně o 0,5 m. Oddělený val lze nahradit stejně vysokou ochrannou stěnou. Ochranný val může mít ukončení boční části opěrnou zdí do výšky nejvýše dvou třetin ochranného valu.\n(6) Vzdálenost paty uzavřeného valu ke stěně objektu je nejvýše 3 m a vzdálenost paty odděleného valu od stěny objektu nejvýše 5 m. Mezera mezi patou ochranného valu a stěnou objektu je upravena posypáním pískem, vydlážděním nebo vybetonováním, bez trávy a porostu. Podél paty ochranného valu se zřizuje strouha pro odvod vody.\n(7) Vnitřní svah ochranného valu nemusí splňovat sklon stanovený v odstavci 4 v celé své délce, pokud je jeho součástí svislá opěrná zeď; ta však nesmí přesahovat polovinu výšky ochranného valu. Do vnitřního svahu ochranného valu nelze umístit žádné zařízení, příruční sklad výbušnin a úschovny výbušnin a výbušného odpadu.\n(8) Nelze-li vyloučit nebezpečí výbuchu v části objektu, musí se zajistit snížení odrazu tlakové vlny na přilehlá pracoviště.\n(9) Místo ochranného valu lze použít ochrannou stěnu. Vzdálenost ochranné stěny od stěn objektu nesmí činit méně než 1 m a nesmí přesáhnout 5 m.\n(10) Průchody v ochranném valu se zřizují buď přerušením ochranného valu, nebo jako tunely. Zřizují se co nejblíže únikové cesty z objektu, jsou nejméně 1,5 m široké se sklonem do 8o, obloukovité nebo zalomené tak, aby jakákoliv přímka jimi vedená protínala jejich stěnu chráněnou ochranným valem. Při nesplnění této podmínky se zřizuje ve vzdálenosti 1 až 4 m od vnější paty ochranného valu proti ústí průchodu další ochranný val nebo ochranná stěna, překrývající ústí tunelu ve všech směrech nejméně o 1,5 m nebo o stejné výšce jako přerušený val a s korunou přesahující koruny přerušeného valu nejméně o 0,5 m.\n(11) Tunelový průchod se zřizuje nejméně 2,1 m vysoký s osvětlením bez jakýchkoliv výstupků se stěnami a stropem ze železobetonu nebo jiného odolného materiálu.\n(12) Pokud bude u ústí tunelu na vnější straně ochranného valu vybudován nouzový kryt pro obsluhu s monolitickou železobetonovou konstrukcí, činí zásyp stropu nejméně 0,5 m.\n(13) Úschovny výbušnin a výbušného odpadu se zřizují v průchodech ochranného valu, pokud to vyžaduje technologický sled operací.\n(14) Na vnější straně ochranného valu mohou být umístěny příruční sklady výbušnin.\n(15) Do vnějšího svahu ochranného valu nemohou být umístěna zařízení, která nejsou spojena s objektem v ochranném valu technologickými rozvody nebo která neslouží pro umístění rozvaděčů kontrolních měřicích přístrojů, případně zařízení pro dálkové ovládání objektů."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Konstrukční požadavky na objekty",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Pro konstrukci stěn, přepážek, zárubní, dveří, výfukových ploch a střešních konstrukcí se použijí nehořlavé, případně nesnadno hořlavé materiály. Požadavek podle věty první se považuje za splněný, jsou-li použity stavební výrobky třídy reakce na oheň A1, A2 nebo B, a v případě stavebních výrobků ze dřeva výrobky s úpravou zajišťující třídu reakce na oheň B, klasifikované podle právního předpisu upravujícího technické podmínky požární ochrany staveb7).\n(2) Vnitřní stěny objektů, včetně stropu, musí být hladké a spoje mezi stěnami a podlahou zaoblené. Povrchová úprava se provádí tak, aby umožnila účinné vyčištění.\n(3) U objektů nesmí být používáno těch stavebních materiálů a nátěrů, které tvoří s vyráběnými a zpracovávanými výbušninami výbušné nebo zápalné směsi a sloučeniny.\n(4) Střecha objektů může být provedena pouze\na) jako výfuková, s vlastní měrnou hmotností střešního pláště bez krovu nejvýše 150 kg.m-2 u objektů nebezpečných výbuchem výbušnin a 90 kg.m-2 u objektů nebezpečných výbuchem hořlavých par, nebo\nb) jako odolná proti účinkům výbuchu, pevně zakotvená do okolních stěn a tak dimenzovaná, aby odolala tlakové vlně a ostatním účinkům případného výbuchu, nebo\nc) jako střecha snižující účinek tlakové vlny, která omezí účinky případného výbuchu na nejnižší možnou míru.\n(5) Krytiny střech se zhotovují z takových materiálů, aby v případě požáru nemohlo dojít k jeho šíření krytinou.\n(6) Povrch podlah a obslužných plošin objektu, kde se nacházejí výbušniny, se zhotoví s povrchem snadno čistitelným a omyvatelným. Povrch podlah se zhotovuje jako nepropustný, bez trhlin a navazující na stěny. Tam, kde vznik jiskry může způsobit oheň nebo výbuch, se podlahy zhotoví z nejiskřivého materiálu. V budovách s kyselým provozem musí být podlahy kyselinovzdorné, jejich provedení se řídí druhem kyselého prostředí. Při výrobě a zpracování látek zvláště citlivých vůči mechanickým nárazům se podlahy a pracovní plošiny pokryjí pružným materiálem. V provozovnách, kde se pracuje s kapalnými nitroestery, se používá k pokrytí podlah olovo nebo jiný vhodný materiál. Podlahy v objektech s nebezpečím výbuchu hořlavých prachů, plynů a par nebo s nebezpečím požáru nebo výbuchu výbušnin v důsledku výboje statické elektřiny se zhotoví s ochranou proti jejímu hromadění.\n(7) Dveře v objektech musí být bez prahů. Dveře objektu se opatří uzávěrem ke snadnému otevírání tlakem zevnitř; zamykání na klíč zevnitř místnosti se vyloučí. V místnostech s velkou prašností s nebezpečím výbuchu výbušnin se používá takových zámků, západek, klíčů a kování, aby bylo zabráněno jiskření při tření; to platí i pro okna a světlíky.\n(8) Pancéřové dveře, které mají zabránit přenosu výbuchu z místnosti, se otevírají jen do této místnosti.\n(9) Okna a světlíky do objektu provozoven s volnými výbušninami se zasklí matným sklem nebo sklem bez bublin a kazů nebo opatří nátěrem bílé barvy.\n(10) Stropní okna objektů, kde se pracuje s volnými výbušninami, se zevnitř zajistí proti pádu střepů, pokud není použito sklo v netříštivé úpravě nebo sklo s drátěnou mřížkou.\n(11) Z objektů musí být nejméně dva východy; výjimkou jsou místnosti, u nichž dveře zabírají polovinu šířky stěny. Za východ se považují i okna, pokud jsou opatřena uzávěry k snadnému otevírání tlakem zevnitř. Výška parapetu se stanoví podle účelu okna, přičemž možnost úniku oknem nesmí být omezována topnými tělesy nebo jinou překážkou uvnitř i vně okna.\n(12) Vzdálenost z kteréhokoliv místa objektu od východu smí být nejvíce 15 m u objektů třídy nebezpečí A, u ostatních nejvíce 20 m.\n(13) Místnosti výroben bezdýmných prachů musí mít výfukové plochy, jejichž úhrnný součet v m2 se stanoví podle vzorce\nF=3 . M . 1000-1\nkde F je celková výfuková plocha v m2,\nM je obložení v uvažované místnosti v kg."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Výstavba objektů",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Při projektování a výstavbě objektů třídy nebezpečí A se do nich umístí jen nezbytný počet technologických zařízení a operací s co nejmenším počtem fyzických osob.\n(2) Jednotlivé výrobní operace se stálým nebezpečím výbuchu výbušnin, například lisování třaskavin, laborace munice, se rozmístí podle tříd a skupin nebezpečí v oddělených místnostech, popřípadě ve vysunutých kobkách nebo za pancéřovými stěnami nebo za ochrannými valy. Rozmístění se provede tak, aby se na jednotlivých pracovištích nehromadil materiál a aby byla zachována zásada plynulého přísunu a odsunu materiálu a hotových výrobků.\n(3) U objektů půdorysného tvaru „U“ nebo „E“ s polouzavřenými dvory nesmí být šířka dvorů mezi jednotlivými křídly menší než polovina součtu výšek obou proti sobě ležících křídel, avšak nejméně 35 m u objektu třídy nebezpečí A a nejméně 15 m u objektů tříd nebezpečí B a C. Není-li šířka dvora větší než délka zřídí se únikové cesty v obou křídlech objektu na bezpečnou stranu vně objektu.\n(4) Je-li z provozních důvodů nutno zřídit v objektech všech tříd nebezpečí příruční sklad výbušnin, je nutno dodržet podmínky pro skladování výbušnin. Obložení příručního skladu se pro účely stanovení bezpečnostních vzdáleností připočítává k obložení objektu, ve kterém je zřízen, není-li splněna podmínka podle § 5 odst. 2 věty třetí.\n(5) Jsou-li operace s výbušninami různých tříd a skupin nebezpečí sdruženy ve výrobní linky, mohou být instalovány v jednom objektu, pokud budou provedena ochranná opatření proti přenosu výbuchu a rozšíření požáru."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zásobování vodou a protipožární zařízení objektů",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Objekty, v nichž přerušení přívodu vody může způsobit výbuch nebo požár, se napojí dvěma přívody z okruhové sítě nebo ze dvou zdrojů na sobě nezávislých.\n(2) Hydranty nesmějí být umísťovány uvnitř valu a proti volným výfukovým stěnám objektů s nebezpečím výbuchu výbušnin.\n(3) Protipožární zařízení v objektech bezpečně ovladatelná automaticky nebo ručně (sprchy, zaplavovací zařízení apod.) se zřizují tam, kde to stanoví projektová dokumentace.\n(4) Pokud není možné zřídit požární vodovod, lze k odběru vody pro hašení požárů použít technologické vody nebo jiných zdrojů. V tomto případě se zajistí, aby odběrem vody k hašení nenastalo snížení dodávky vody, které by způsobilo výbuch nebo požár."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Odpadní vody a kanalizace v objektech",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Veškeré odpadní vody, které jsou znečištěny výbušninami, musí projít před vypuštěním do venkovní sítě čisticími, neutralizačními a zneškodňovacími stanicemi, kde jsou zachyceny nebo rozloženy a zneškodněny toxické a výbušné látky. Tyto stanice jsou umístěny buď přímo v objektech, nebo v samostatných stavbách umístěných odděleně od objektů. Při menší rychlosti průtoku odpadních vod se proplachuje kanalizační síť. Vypouštěné odpadní vody nesmějí ohrozit bezpečnost provozu a osob.\n(2) Kanály odpadních vod včetně potrubních rozvodů pod podlahou se provedou tak, aby se zamezilo vnikání výbušnin do nich; odpad z nich se napojuje na lapač. Toto opatření se nevztahuje na kanály, které slouží k dopravě zbytků výbušnin do zneškodňovací stanice."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Vytápění a zásobování objektů parou a horkou vodou",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Povrchová teplota rozvodů a topných těles v jednotlivých objektech se určí s přihlédnutím k technologickým operacím a tepelným a chemickým vlastnostem výbušniny. Tyto hodnoty se uvedou v provozní dokumentaci.\n(2) Pro snadnou kontrolu a čištění se použije jako topných těles jen hladkostěnných radiátorů nebo hladkých trubek.\n(3) Topná tělesa a potrubí se opatří nátěrem takové barvy, aby usazené částice prachu byly co nejlépe patrny. Vzdálenost topných těles od stěn a technologických potrubí nesmí být menší než 0,1 m.\n(4) Komíny nepřevyšující výšku 20 m se vybaví zařízením zamezujícím unikání jisker; to se nevztahuje na komíny plynových kotelen.\n(5) Regulační armatury a rozvod hlavních potrubí se neumísťují na pracovištích, kde je nebezpečí výbuchu výbušnin; na těchto pracovištích se nepoužívají armatury nebo jiné součásti topení z kovů, které mohou tvořit s výbušninami vysoce citlivé výbušné sloučeniny."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Větrání pracovišť",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Pracoviště a prostory, v nichž se vyrábějí, zpracovávají a dopravují materiály vytvářející prach, páry nebo plyny nebezpečné požárem nebo výbuchem, se vybaví větracím zařízením nebo zařízením zneškodňujícím tyto látky.\n(2) Větrací zařízení a rozvody se řeší tak, aby umožnily snadné čištění a znemožnily přenesení ohně.\n(3) Prachy, páry a plyny, jejichž směsi jsou výbušné, se nesmí odsávat společně.\n(4) V místnosti, kde je možnost náhlého vývinu většího množství plynů a par, se zřídí nouzové odsávání, které nelze použít jako provozní ventilaci.\n(5) Odsávaný vzduch s obsahem prachu výbušnin se vyčistí před jeho vypuštěním do volného prostoru mimo objekt.\n(6) Při odsávání par a plynů, jejichž kondenzát je citlivý na úder, se provede odsávání ejektorem nebo přirozeným tahem šachtami na střeše."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Elektrická zařízení objektů",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Objekty se chrání před účinky blesku. V prostorách s nebezpečím výbuchu nebo požáru výbušnin v důsledku účinků statické elektřiny se provedou opatření proti hromadění elektrického náboje. V prostorách s nebezpečím požáru nebo výbuchu výbušnin se mohou použít jen elektrická zařízení určená do tohoto prostředí; tento požadavek se považuje za splněný, jestliže je vyhověno požadavkům české technické normy, která stanoví požadavky na elektrická zařízení v prostorech s nebezpečím výbuchu nebo požáru výbušnin8).\n(2) Objekty, ve kterých by přerušení dodávky elektrického proudu mohlo způsobit ohrožení osob, poruchu výroby nebo poškození výrobního zařízení, se zásobují elektrickým proudem ze dvou samostatných rozvoden nebo ze dvou různých samostatných sekcí, přičemž nejméně jedna je opatřena automatickým zapínáním s nezávislým zdrojem proudu.\n(3) V objektech, ve kterých při výrobních operacích není dovolena přítomnost obsluhy, se provádí ovládání technologických zařízení z úkrytu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Pomocné prostory",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Do objektu lze umístit jen nezbytně nutná technická a technologická zařízení související s danou výrobní operací a zřizují se v nich jen nezbytně nutné prostory související s danou výrobní operací.\n(2) Zřizuje-li se v objektu sanitární zařízení9) nebo prostor nebo úkryt pro obsluhu, musí být oddělen od zbylé části objektu způsobem omezujícím ohrožení osoby v tomto prostoru nebo úkrytu se nacházející; nezřizují se však v zářezu valu. Věta první se použije obdobně pro kancelářské prostory a laboratoře; jde-li o laboratoř určenou k nakládání s výbušninami, nesmí její obložení převýšit hodnotu podle § 18 odst. 1."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Dopravní cesty",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Silnice mezi objekty se zřizují jen s bezprašným povrchem.\n(2) K objektům se zajistí bezpečný příjezd pro požární a sanitní vozidla."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Spojová zařízení",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) V objektech, ve kterých není telefon nebo jiné spojovací zařízení (dále jen „telefony“), je nutné zajistit umístění takového zařízení ve vzdálenosti nejvýše 120 m.\n(2) Objekty, kde jsou zřízeny laboratoře, zkušebny a vývojová pracoviště, musí mít zavedeny telefony."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Prostory pro ničení výbušnin",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Prostor pro ničení výbušnin nesmí být zřizován v blízkosti objektů, skladů a jiných zařízení, jakými jsou venkovní spojovací a energetická vedení a veřejné komunikace.\n(2) Prostor pro ničení výbušnin lze umístit v uzavřeném terénu (výmol, údolí, terénní vlna, les apod.).\n(3) Místo pro zřízení vlastní trhací jámy nesmí mít kamenitý podklad a oblast v okruhu nejméně 25 m od místa ničení, musí být zbavena lesního porostu, trávy a jiných hořlavých materiálů. Prostor pro ničení výbušnin musí být vybaven úkrytem pro obsluhu, zvláštním místem pro uložení materiálu určeného ke zničení, spojovacím a signalizačním zařízením a může být vybaven příručním skladem výbušnin. Úkryt pro obsluhu musí být odolný proti účinkům ničených výbušnin. Ochranné stěny nebo valy pro zachycování střepin se zřizují, pokud je to stanoveno v projektové dokumentaci.\n(4) Vzdálenost úkrytu od místa ničení se stanoví podle způsobu ničení a množství ničených výbušnin. Je-li prostor pro ničení výbušnin ovalován, lze umístit úkryt na vnější straně valu. Vzdálenost od ostatních objektů se stanoví podle § 5."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Laboratoře",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Laboratoře nebo jejich soubor nemusí být umístěny v samostatné budově, jestliže jejich celkové obložení nepřesahuje 10 kg, přičemž nesmí být obložení jednotlivých druhů výbušnin vyšší než u\na) střelivin10 kg,\nb) trhavin10 kg,\nc) výbušných pyrotechnických složí10 kg,\nd) třaskavin a třaskavých složí0,6 kg,\ne) neznámých látek s dosud neověřenými vlastnostmi 0,1 kg.\n(2) Přívody energií do laboratoře se uspořádají tak, aby je bylo možno vypnout lehce dosažitelným a jednoduše ovladatelným zařízením umístěným vně laboratoře.\n(3) Laboratoř musí mít nejméně dva východy umístěné zpravidla na protilehlých stranách, upravené tak, aby alespoň jeden z nich vedl dveřmi otvíratelnými ven na chodbu či schodiště nebo do volného prostoru nebo vedl do sousední místnosti s nebezpečím shodným nebo menším, z kterého je možnost úniku na chodbu nebo do volného prostoru. Spojovací dveře nesmí být během provozu zamčeny. Za nouzový východ se považuje i okno vedoucí do volného prostoru.\n(4) V laboratoři se zařízením pro přípravu, zkoušení nebo zpracování vzorků výbušnin určených pro výzkumné a vývojové práce nebo zkoušení výbušnin, kde po dobu činnosti zařízení není obsluha stále přítomna, například kobky s lisy, nemusí být požadavek dvou východů dodržen.\n(5) Vstupy do prostoru laboratoří se opatří výstražnými tabulkami."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Zkušebny",
+      "chapter": "ČÁST DRUHÁ - VÝSTAVBA VÝROBEN VÝBUŠNIN, LABORATOŘÍ, ZKUŠEBEN, VÝVOJOVÝCH PRACOVIŠŤ A POMOCNÝCH ZAŘÍZENÍ",
+      "content": "(1) Zkušebny slouží k stanovování a ověřování funkčních a jiných vlastností výbušnin.\n(2) U zkušeben, kde může nastat ohrožení okolí i rozletem střepin a kamení a účinky tlakové vlny, se umístění a bezpečnostní vzdálenosti stanoví v projektové dokumentaci tak, aby ohrožení okolí nenastalo.\n(3) Vstupy do prostorů zkušeben se opatří výstražnými tabulkami. Zkušebna musí být rovněž zabezpečena proti vstupu nepovolaných osob oplocením nebo jiným vhodným způsobem.\n(4) V případě, že zkoušky výbušnin ve zkušebně ohrožují obsluhu, zkušebna musí být opatřena vhodným úkrytem pro obsluhu, a to ve vzdálenosti zamezující ohrožení osoby v něm se nacházející nebo v provedení zamezujícím ohrožení osoby v něm se nacházející.\n(5) V místnosti zkušebny, kde jsou učiněna opatření k ochraně fyzických osob, nemusí být zřízeny dva východy."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST ČTVRTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Od ustanovení této vyhlášky je možné se odchýlit na nezbytnou dobu v případech, kdy hrozí nebezpečí z prodlení, při záchraně lidí nebo při likvidaci závažné provozní nehody (havárie), pokud budou provedena nejnutnější bezpečnostní opatření.\n(2) Výjimky z technických norem vydané před účinností této vyhlášky zůstávají v platnosti po dobu 24 měsíců ode dne nabytí její účinnosti."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST ČTVRTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Objekty vybudované a provozované přede dnem účinnosti této vyhlášky se považují za objekty vybudované a provozované v souladu s touto vyhláškou."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Účinnost",
+      "chapter": "ČÁST ČTVRTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 2 k vyhlášce č. 102/1994 Sb.\nTŘÍDĚNÍ NEJDŮLEŽITĚJŠÍCH VÝROBNÍCH OBJEKTŮ\nDruh výrobyAIAIIAIIIAIVBCD\nVýroba třaskavin a třaskavých složíObjekty vyroby a úpravy třaskavin a třaskavých složí suchou cestou nebo s obsahem zvlhčovadla (např. vody, etanolu, butylacetátu) do 10 %Zneškodňování odpadních vod z výroben a úpraven třaskavin a třaskavých složí chemicky\nVýroba kapalných dusičných esterů,pentritu, hexogenu apod.Objekty nitrace, separace, praní a stabilizace, sušení, prosévání, balení, flegmatizaceObjekty nitrace, praní a stabilizace, kde tyto pochody probíhají v emulziObjekty sedimentace a čištění odpad. vod, odlučování, sedimentace, stabilizace a denitrace odpadních kyselin\nVýroba černého prachu a jeho zpracováníVšechny operace výroby černého prachuZpracování a laborace černého prachu za mokra\nVýroba a zpracování trhavin plastických, poloplastických a sypkých s výbušninami skupin AII a AIIIPříprava trhací želatinyVšechny operace výroby (mísení, náložkování, balení apod.)\nVýroba nitrocelulózySušení, úprava a balení nitrocelulózy do 10 % vlhkostiOdkyselňování, autoklávování, odvodnění nitrocelulózy\nVýroba bezdýmných prachů a tuhých pohonných hmot (TPH)Sušení, homogenizace, prosévání, balení bezdýmných prachů s délkou předdetonační zóny (DPZ)Strojní plnění bezdýmných prachů do nábojnicLisování, řezání, předsoušení, sušení, homogenizace a balení bezdýmných prachů bez DPZ a bezdýmných prachů s DPZ v objektech, kde jsou učiněna opatření k zamezení detonace. Výroba položelatiny. Sušení, homogenizace a balení sférických prachůVýroba sférických prachů (zelené zrno)\nVýroba pyrotechnických složí skupiny 1Objekty pro mísení za sucha, sušení, temperování, skladování pyrotechnických složí skupiny 1Objekty pro výrobu a zpracování pyrotechnických složí skupiny 1 za mokra. Příprava chlorečnanů (mletí, sušení, prosévání)\nVýroba munice s trhavinovou náplní třídy ALaborace a sestava ostré munice s výbuš. náplní. Příprava trhavin a trhavin. směsí AIII a jejich zpracování (litím, šnekováním, lisováním apod.). Sestava munič. dílů (ostření zapalovačů, šroubování zapalovačů a zápalk. šroubů apod.). Delaborace municeLaborace předehřáté trhaviny (do hmotnosti 200 g). Výroba a kompletace náplní bezdýmného prachu, kompletace nábojek, sestava zápalkových šroubů, zapalovačů a rozněcovačů.\nVýroba rozněcovadel (zápalek, roznětek, rozbušek, bleskovice), trhacích náplní s rozbuškou, ostrých zapalovačů s počinovou náplníObjekty pro sestavu rozbušek, lisování a čištění rozbušek, čištění zápalek, ostření zapalovačů, sestava trhací náplně s rozbuškou, výroba bleskoviceLaborace zápalek a rozbušek do mechanických dílů bez výbušné náplně. Zkušebny iniciátorů\nVýroba a zpracování pyrotechnických složí skupiny 2Objekty pro mísení za sucha, sušení a temperování, skladování pyrotechnických složíLisovny pyrotechnických složí skupiny 2, objekty pro sestavu pyrotechnických a ostatních výrobků obsahujících pyrotechnické slože skupin 1 a 2 (ohňostroje, signální rakety apod.)Výroba pyrotechnických složí za mokra, příprava oxidovadel a kovových prášků skupiny 2\nVýroba pyrotechnických výrobků, výbušek apod.Svařování plastových výrobků ultrazvukem s náplní AIIIVýroba a kompletace pyrotechnických výrobků obsahujících slože skupin 1 a 2. Ohňostroje, signální pyrotechnické prostředky\nVýroba nábojů s nevýbušnou střelou do ráže 30 mm s výmetnou náplní o hmotnosti větší než 50 gPlnění nábojek a kompletace nábojů\nOstatní výrobní objekty se zařadí do třídy a skupin nebezpečí na základě provedených zkoušek nebo odborného posouzení s přihlédnutím k souboru technicko-organizačních opatření a k technologické rozpracovanosti výbušnin v objektu.\nPříloha č. 3 k vyhlášce č. 102/1994 Sb.\nURČENÍ BEZPEČNOSTNÍCH VZDÁLENOSTÍ\n(1) Bezpečnostní vzdálenost se určí podle základního vzorce\nS = k.(M)n,\nkde S je bezpečností vzdálenost (m),\nk je koeficient volený podle charakteru a stavebního provedení ohrožené stavby a stupně jejího poškození a stavebního provedení ohrožujícího objektu,\nM je obložení (kg),\nn je exponent, jehož hodnota závisí na obložení ohrožujícího objektu.\n(2) Pro určení bezpečnostní vzdálenosti od objektu třídy nebezpečí A, kromě bezpečnostní vzdálenosti pro ohrožený sklad a objekt třídy nebezpečí A, se použije koeficientů uvedených v tabulce č. 1 této přílohy, přičemž hodnoty odpovídající exponentu n = 1/2 se použijí pro obložení menší než 2000 kg, hodnoty odpovídající exponentu n = 1/3 se použijí pro obložení 2000 kg a větší. Hodnota koeficientu k se z daného rozmezí volí podle stavebního provedení ohrožené stavby, jejího významu, charakteru, terénu apod.\n(3) Pro určení bezpečnostní vzdálenosti ohrožených objektů třídy a skupin nebezpečí AI až AIV od skladů a objektů třídy nebezpečí A se použije koeficientů uvedených v tabulce č. 2 této přílohy.\n(4) U výbušnin, které se svým energetickým obsahem významně odchylují od trinitrotoluenu, např. třaskavin, některých pyrotechnických složí, trhavin typu DBT, vysokobrizantních trhavin, je obložení M:\na) možno násobit koeficientem kekv, pokud je jeho hodnota menší než 1,\nb) nutno násobit koeficientem kekv, pokud je jeho hodnota větší než 1.\nHodnoty vybraných koeficientů kekv jsou uvedeny v tabulce č. 3 této přílohy.\n(5) Bezpečnostní vzdálenost od objektu třídy nebezpečí A, v němž jsou předměty ohrožující při výbuchu okolí rozletem těžkých úlomků, je pro silnice a železnice nejméně 180 m a pro obytné budovy mimo území provozovny nejméně 275 m.\n(6) Bezpečnostní vzdálenost od objektu třídy nebezpečí B, u něhož je okolí ohroženo pouze rozletem lehkých úlomků, se stanoví takto:\na) pro sklad kterékoliv třídy nebezpečí a objekt výbušinářského provozu s nebezpečím výbuchu je bezpečnostní vzdálenost 15 až 90 m,\nb) pro stavbu pro výrobu a skladování bez nebezpečí výbuchu je bezpečnostní vzdálenost 25 až 90 m,\nc) pro správní, sanitární, energetické nebo jiné stavby nesouvisející s výrobou výbušnin je bezpečnostní vzdálenost 40 až 90 m,\nd) pro silnice a železnice se bezpečnostní vzdálenost stanoví podle základního vzorce, v němž se použije hodnot k = 39, n = 1/6; nejmenší bezpečnostní vzdálenost však je 60 m,\ne) pro obytné budovy mimo území provozovny se bezpečnostní vzdálenost stanoví podle základního vzorce, v němž se použije hodnot k = 58, n = 1/6; nejmenší bezpečnostní vzdálenost však je 90 m.\n(7) Bezpečnostní vzdálenost od objektu třídy nebezpečí B, v němž jsou předměty ohrožující při výbuchu okolí rozletem těžkých úlomků a munice ráže nad 60 mm, se stanoví takto:\na) pro sklad kterékoliv třídy nebezpečí a objekt výbušinářského provozu s nebezpečím výbuchu je bezpečnostní vzdálenost 15 až 135 m,\nb) pro stavbu pro výrobu a skladování bez nebezpečí výbuchu je bezpečnostní vzdálenost 25 až 135 m,\nc) pro správní, sanitární, energetické nebo jiné stavby nesouvisející s výrobou výbušnin je bezpečnostní vzdálenost 40 až 135 m,\nd) pro silnice a železnice se bezpečnostní vzdálenost stanoví podle základního vzorce, v němž se použije hodnot k = 51, n = 1/6; nejmenší bezpečnostní vzdálenost však je 90 m,\ne) pro obytné budovy mimo území provozovny se bezpečnostní vzdálenost stanoví podle základního vzorce, v němž se použije hodnot k = 76, n = 1/6; nejmenší bezpečnostní vzdálenost však je 135 m.\n(8) Pokud je možno volit bezpečnostní vzdálenost podle odstavců 6 a 7 z jistého rozmezí, stanoví se podle stavebního provedení ohrožujícího objektu a ohrožené stavby.\n(9) Pro určení bezpečnostní vzdálenosti od objektu třídy nebezpečí C se použije exponentu n = 1/3 a koeficientů uvedených v tabulce č. 4 této přílohy.\n(10) Je-li obložení objektu třídy nebezpečí C menší než 100 kg, bezpečnostní vzdálenost se nestanoví.\n(11) Bezpečnostní vzdálenost od objektu třídy nebezpečí D s obložením 100 kg a větším je pro všechny budovy uvnitř provozovny nejméně 10 m, pro obytné budovy mimo území provozovny, silnice a železnice nejméně 25 m. Při provedení vhodných ochranných opatření může být bezpečnostní vzdálenost zmenšena.\n(12) Je-li obložení objektu třídy nebezpečí D menší než 100 kg, bezpečnostní vzdálenost se nestanoví.\nTabulka č. 1\nKoeficienty pro stanovení bezpečnostních vzdáleností od objektů třídy nebezpečí A\nBezpečnostní pásmoOhrožená stavbaStupeň poškození stavbyn\n1/21/3\nk\n1Sklady výbušnin a objekty tříd nebezpečí B, C a D, stavby malé důležitosti bez trvalé obsluhy, laboratoře, zkušebny Nedojde k přenosu detonace. Destrukce objektu, úplné rozrušení budov0,5 až 2,51,5 až 8\n2Objekty bez nebezpečí výbuchu, správní, sanitární, energetické a jiné stavby, kde se nevyrábějí a nezpracovávají výbušninyPoškození rámů oken a dveří, porušení omítky, vnitřních dřevěných příčekvíce než 2,5 až 4,5více než 8 až 15\n3Jednotlivé budovy mimo území provozovny, silnice, železniceLehká poškození staveb, větší rozsah zničení okenvíce než 4,5 až 6více než 15 až 22\n4Obce bez souvislé výškové zástavbyČástečné poškození zasklených okenvíce než 6 až 17více než 22 až 60\n5Sídliště s výškovou zástavbou, nemocnice, významné kulturní památky, stavby s vysokou koncentrací osob, např. velká obchodní střediskaNáhodné poškození zasklených okenvíce než 17více než 60\nTabulka č. 2\nKoeficienty pro stanovení bezpečnostních vzdáleností objektů třídy nebezpečí A od skladů a objektů třídy nebezpečí A, při kterých nedojde k přímému přenosu detonace\nOhrožená stavbanOhrožená stavba\nTřída a skupina nebezpečí\nObložení (kg)Stavební provedeníAIAIIAIIIAIV\nStavební provedení\nbez valus valembez valus valembez valus valembez valus valem\nM < 2000bez valu1/26,02,44,01,63,01,22,00,8\ns valem2,41,21,60,81,20,60,80,4\nM ≥ 2000bez valu1/3218,5145,71146,02,5\ns valem8,54,35,72,8422,51,3\nTabulka č. 3\nKoeficienty, jimiž se postihuje energetický obsah výbušnin při výpočtu bezpečnostních vzdáleností\nvýbušninakekv\nTřaskaviny suché nebo s obsahem vody do 10 %, důlně bezpečné trhaviny II. kategorie, černý prach0,5\nDůlně bezpečné trhaviny I. kategorie0,65\nProtiprachové důlně bezpečné trhaviny0,8\nVysokobrizantní pevné trhaviny a jejich směsi, plastické trhaviny vyrobené na jejich bázi1,2\nTabulka č. 4\nKoeficienty pro stanovení bezpečnostních vzdáleností od objektů třídy nebezpečí C\nBezpečnostní pásmoOhrožená stavbak\n1Sklady všech tříd nebezpečí, objekty výbušinářských provozů s nebezpečím výbuchu, stavby malé důležitosti bez trvalé obsluhy, laboratoře, zkušebny1 až 3,5\n2Stavby pro výrobu a skladování bez nebezpečí výbuchuvíce než 3,5 až 4,5\n3Správní, sanitární, energetické a jiné stavby nesouvisející s výrobou výbušnin, silnice, železnice1)více než 4,5 až 6,5\n4Obytné budovy mimo území provozovny2)více než 6,5\nVYSVĚTLIVKY\n1) Nejmenší bezpečnostní vzdálenost k dopravním cestám je 40 m.\n2) Nejmenší bezpečnostní vzdálenost je 60 m.\n1) § 21 odst. 1 písm. a) zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů.\n2) Zákon č. 119/2002 Sb., o střelných zbraních a střelivu (zákon o zbraních), ve znění pozdějších předpisů.\n3) Zákon č. 206/2015 Sb., o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice), ve znění zákona č. 229/2016 Sb.\n4) Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby, ve znění pozdějších předpisů.\n5) Vyhláška č. 99/1995 Sb., o skladování výbušnin, ve znění vyhlášky č. 342/2001 Sb., vyhlášky č. 200/2006 Sb. a vyhlášky č. 12/2017 Sb.\n6) Evropská dohoda o mezinárodní silniční přepravě nebezpečných věcí (ADR), vyhlášená pod č. 64/1987 Sb.\n7) § 6 vyhlášky č. 23/2008 Sb., o technických podmínkách požární ochrany staveb.\n8) ČSN 33 2340 Elektrická zařízení v prostorech s nebezpečím výbuchu nebo požáru výbušnin.\n9) § 54 odst. 1 nařízení vlády č. 361/2007 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "objektem stavba nebo plocha určená k výzkumu",
+      "definition": "vývoji, výrobě, zkoušení, ničení, zneškodňování nebo zpracování výbušnin",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "bezpečnostním okruhem hranice",
+      "definition": "která vymezuje předem zvolený stupeň poškození ohrožené stavby",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "ochrannou stěnou konstrukce z pevných materiálů",
+      "definition": "která má stejnou funkci jako ochranný val",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "opěrnou zdí konstrukce",
+      "definition": "budovaná na vnitřní nebo vnější straně ochranného valu, zajišťující jeho stabilitu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "výfukovou plochou část objektu (stěna nebo střecha",
+      "definition": "která při výbuchu uvnitř objektu umožní rychlý pokles tlaku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "úschovnou úložný prostor (schránka apod",
+      "definition": "určený k uložení výbušnin nebo výbušného odpadu v průběhu směny",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "ochranným valem ochranný násep",
+      "definition": "jehož účelem je ochrana okolí proti účinkům výbuchu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "odděleným valem ochranný val",
+      "definition": "který není přímo spojen s ostatními ochrannými valy zajišťujícími tentýž objekt",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "souborem výroben několik bezprostředně souvisejících objektů",
+      "definition": "uvažovaných jako jeden celek z hlediska obložení a bezpečnostních vzdáleností k nejbližším ohroženým stavbám",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "hromadným výbuchem výbuch",
+      "definition": "který se po místní iniciaci rozšíří téměř okamžitě a prakticky na celé množství výbušniny nacházející se v objektu nebo jeho samostatné části",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "vývojovým pracovištěm vývojová laboratoř",
+      "definition": "vývojová dílna, vývojová zkušebna nebo poloprovoz.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

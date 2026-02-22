@@ -1,0 +1,34 @@
+{
+  "id": "cz:294/2011",
+  "type": "statute",
+  "title": "294/2011 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 615/2006 Sb., o stanovení emisních limitů a dalších podmínek provozování ostatních stacionárních zdrojů znečišťování ovzduší, ve znění nařízení vlády č. 475/2009 Sb.",
+  "title_en": "",
+  "short_name": "294/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-10-12",
+  "in_force_date": "2011-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/294",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 615/2006 Sb., o stanovení emisních limitů a dalších podmínek provozování ostatních stacionárních zdrojů znečišťování ovzduší, ve znění nařízení vlády č. 475/2009 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 615/2006 Sb., o stanovení emisních limitů a dalších podmínek provozování ostatních stacionárních zdrojů znečišťování ovzduší, ve znění nařízení vlády č. 475/2009 Sb., se mění takto:\n1. V § 2 písmeno b) zní:\n„b) projektovaným výkonem nejvyšší výkon stanovený a zaručený dodavatelem, výrobcem nebo projektantem, kterého lze dosáhnout při trvalém provozu za stanovených podmínek, který je uveden v projektové dokumentaci stavby, ve vydaných závazných stanoviscích a povoleních podle § 17 zákona nebo v integrovaném povolení podle zákona o integrované prevenci6).“.\n2. V § 3 odst. 3 písmeno b) včetně poznámky pod čarou č. 5 zní:\n„b) zdroj, jehož roční emise jedné nebo více uvedených znečišťujících látek se při projektovaném výkonu zdroje a při hmotnostní koncentraci odpovídající obecnému emisnímu limitu uvedenému ve zvláštním právním předpisu5) pohybuje v rozmezí následujících množství\n1. 20 až 200 t včetně tuhých znečišťujících látek,\n2. 30 až 300 t včetně oxidu siřičitého,\n3. 0,4 až 4 t včetně chloru a jeho plynných anorganických sloučenin vyjádřených jako chlor,\n4. 1 až 10 t včetně těkavých organických látek vyjádřených jako celkový organický uhlík,\n5. 20 až 200 t včetně oxidu dusnatého a oxidu dusičitého vyjádřených jako oxid dusičitý,\n6. 0,1 až 1 t včetně sulfanu,\n7. 0,2 až 2 t včetně fluoru a jeho plynných anorganických sloučenin vyjádřených jako fluor,\n8. 5 až 50 t včetně oxidu uhelnatého,\n9. 5 až 10 t včetně amoniaku, nebo\n5) Vyhláška č. 205/2009 Sb., o zjišťování emisí ze stacionárních zdrojů a o provedení některých dalších ustanovení zákona o ochraně ovzduší, ve znění vyhlášky č. 17/2010 Sb.“.\n3. V § 3 se doplňuje odstavec 5, který včetně poznámky pod čarou č. 8 zní:\n„(5) Za účelem kategorizace se parametry určující zařazení zdroje do příslušné kategorie sčítají u technologicky shodných zařízení jednoho provozovatele, jestliže se jedná o zdroje, které jsou umístěny ve stejné provozovně8) a jejich emise jsou vypouštěny společným výduchem, bez ohledu na počet komínových průduchů, nebo by s ohledem na uspořádání mohly být vypouštěny společným výduchem bez ohledu na počet komínových průduchů. U malých zdrojů se parametry určující zařazení zdroje do příslušné kategorie sčítají pouze s parametry jiných malých zdrojů.\n8) Zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.“.\n4. V § 4 odstavec 2 zní:\n„(2) Provozovatelé středních zdrojů uvedených v bodech 1.2., 1.4., 2.1., 2.2.1., 2.2.2., 3.6., 3.7., 5.1. až 5.4., 6.3., 6.7., 6.8., 6.10., části II přílohy č. 1 k tomuto nařízení zpracovávají provozní řád, jehož obsah stanoví zvláštní právní předpis5).“.\n5. V § 5 větě první se slova „nebo velkých“ zrušují.\n6. V příloze č. 1 části I pod nadpisem „Závazné podmínky provozu zařízení na spalování odpadních plynů“ se věty první a druhá zrušují.\n7. V příloze č. 1 části I pod nadpisem „Závazné podmínky provozu zařízení na spalování odpadních plynů“ se body 2.1. a 2.2. zrušují.\n8. V příloze č. 1 část II zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„Část II - Kategorie, emisní limity a technické podmínky provozu zdrojů",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. listopadu 2011."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "SO2",
+      "definition": "oxidy síry a kapičky kyseliny sírové",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

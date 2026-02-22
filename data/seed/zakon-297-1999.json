@@ -1,0 +1,51 @@
+{
+  "id": "cz:297/1999",
+  "type": "statute",
+  "title": "297/1999 Sb., Nařízení vlády, kterým se stanoví sazby cla pro dovoz silničních návěsových tahačů pocházejících z Evropské unie",
+  "title_en": "",
+  "short_name": "297/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-12-01",
+  "in_force_date": "2001-04-19",
+  "url": "https://www.e-sbirka.cz/sb/1999/297",
+  "description": "Nařízení vlády, kterým se stanoví sazby cla pro dovoz silničních návěsových tahačů pocházejících z Evropské unie",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) U zboží podpoložek celního sazebníku1) 8701 20 10 - silniční návěsové tahače nové a 8701 20 90 - silniční návěsové tahače použité, pocházejícího z Evropské unie, se uplatňuje sazba dovozního cla ve výši:\na) 4,7 %,\nb) 3,0 %.\n(2) Sazba vymezená v odstavci 1 písm. a) se uplatňuje v období ode dne nabytí účinnosti tohoto nařízení do 31. prosince 2000 a sazba vymezená v odstavci 1 písm. b) v období od 1. ledna 2001 do 31. prosince 2001."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zbožím pocházejícím z Evropské unie se rozumí zboží, které splňuje podmínky stanovené mezinárodní smlouvou.2)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Po dobu platnosti tohoto nařízení se pro zboží vymezené v § 1 a za podmínek zde vymezených nepoužijí celní sazby stanovené právním předpisem1) a mezinárodní smlouvou.2)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto nařízení pozbývá platnosti dnem 31. prosince 2001.\n1) Nařízení vlády č. 303/1998 Sb., který se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Sdělení Ministerstva zahraničních věcí č. 7/1995 Sb., o sjednání Evropské dohody zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím pocházejícím z Evropské unie",
+      "definition": "zboží, které splňuje podmínky stanovené mezinárodní smlouvou",
+      "source_provision": "§ 2"
+    }
+  ]
+}

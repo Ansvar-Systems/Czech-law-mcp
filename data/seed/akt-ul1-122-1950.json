@@ -1,0 +1,88 @@
+{
+  "id": "cz:ul1:122/1950",
+  "type": "statute",
+  "title": "122/1950 Ú. l. I, Vyhláška ministra financí, kterou se vydává sazebník všeobecné daně.",
+  "title_en": "",
+  "short_name": "122/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-02-21",
+  "in_force_date": "1952-07-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/122",
+  "description": "Vyhláška ministra financí, kterou se vydává sazebník všeobecné daně.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V příloze, která je součástí této vyhlášky, vydávám sazebník všeobecné daně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1950.\nPříloha k vyhlášce ministra financí ze dne 2. února 1950 č. 122.\nSazebník všeobecné daně.\nSazebník všeobecné daně."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "IISpotřebitelskou cenou",
+      "definition": "součet stálého měsíčního platu a poplatku za práci podle odebrané elektřiny v kilowat-hodinách",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Měkkým dřívím se tu",
+      "definition": "bříza, kaštan koňský, lípa, olše, topol, osika a vrba",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "I Přírodním hedvábím",
+      "definition": "hedvábí bource morušového (hedvábníka), bource dubového (hedvábí tusah, tussové) a jiných bourců, vlákna kyjovky podobná hedvábí (hedvábí byssové, lasturové) a hedvábí odpadkové (floretové, chappové)",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IICukrem řepovým",
+      "definition": "každé sladidlo, získané zpracováním řepy nebo jejich produktů, po případě zpracováním zbytků dřívějšího zpracování řepy, pokud je způsobilé k lidskému požívání, ať již samo o sobě nebo smíšeno s jinými látkami nebo pokud se z něho vyrábějí výrobky k lidskému požívání způsobilé",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IMasem a vnitřnostmi",
+      "definition": "všechny části zvířete po jeho odporažení, které se Hodí k lidskému požívání, včetně tuku, vnitřností a vrostlých kostí",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "ISpotřebitelem se v položkách 5801 až 5804",
+      "definition": "každý, kdo má zboží k jinému účelu, než aby je ve svém podniku zcizil nebo zpracoval nebo si je dal zpracovat ve mzdě nebo po domácku",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Spotřebitelem se tu",
+      "definition": "též ten, kdo nabývá výkonu pro svou osobní potřebu",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IPřepravou dělníků",
+      "definition": "přeprava osob za jízdné se slevou nejméně 50% obyčejného jízdného, kterou dopravní podnik poskytuje pracujícím, u nichž jsou splněny podmínky stanovené tarifem (dělnické jízdné)",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IIPřepravou žáků",
+      "definition": "přeprava osob za jízdné se slevou nejméně 50% obyčejného jízdného, kterou dopravní podnik poskytuje žákům a posluchačům škol všech druhů a stupňů, u nichž jsou splněny podmínky stanovené tarifem (žákovské jízdné)",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IHromadnou přepravou osob a zavazadel",
+      "definition": "přeprava prováděná silničními motorovými vozidly, které jsou zařízeny pro přepravu více než 8 osob mimo řidiče",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IIPravidelnou přepravou osob a zavazadel",
+      "definition": "přeprava opakující se plánovitě v době aspoň přibližně stejné a mezi stejnými místy",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "IIIPřepravou dělníků (žáků",
+      "definition": "přeprava osob za jízdné se slevou nejméně 50% obyčejného jízdného, kterou dopravní podnik poskytuje pracujícím (žákům a posluchačům škol všech druhů a stupňů), u nichž jsou splněny podmínky stanovené tarifem",
+      "source_provision": "§ 2."
+    }
+  ]
+}

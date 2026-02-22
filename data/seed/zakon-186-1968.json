@@ -1,0 +1,51 @@
+{
+  "id": "cz:186/1968",
+  "type": "statute",
+  "title": "186/1968 Sb., Vyhláška Státního statistického úřadu o zavedení Jednotné evidence pracujících",
+  "title_en": "",
+  "short_name": "186/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-12-29",
+  "in_force_date": "1973-04-30",
+  "url": "https://www.e-sbirka.cz/sb/1968/186",
+  "description": "Vyhláška Státního statistického úřadu o zavedení Jednotné evidence pracujících",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro účely sledování počtu, struktury, kvalifikace, odměňování a pohybu pracovních sil a pro účely sociálního zabezpečení se zavádí Jednotná evidence pracujících."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Jednotnou evidenci pracujících tvoří soustava závazných ukazatelů uvedených v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Jednotnou evidenci pracujících vedou za jednotlivé osoby všechny socialistické organizace a jiní zaměstnavatelé (dále jen organizace), na něž se vztahují předpisy o povinném vedení záznamů pro účely sociálního a důchodového zabezpečení.*) Kategorie osob, o nichž se Jednotná evidence pracujících vede, jsou uvedeny v soustavě závazných ukazatelů.\n(2) Způsob vedení Jednotné evidence pracujících v oboru působnosti ministerstva národní obrany a ministerstva vnitra bude stanoven dohodou předsedy Státního statistického úřadu s ministry národní obrany a vnitra."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Organizace upraví svou dosavadní evidenci o pracujících tak, aby obsahovala ukazatele stanovené touto vyhláškou a musí dbát na to, aby údaje Jednotné evidence pracujících byly v souladu se skutečným stavem.\n(2) Jiné předpisy o evidenci pracujících, jimiž se organizacím ukládají další povinnosti, ani vnitřní úpravy této evidence provedené organizací pro svou vlastní potřebu, nejsou touto vyhláškou dotčeny."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Klasifikace, soustavy ukazatelů, číselníky a metodickou náplň, jakož i způsob statistického sledování závazných ukazatelů obsažených v příloze k této vyhlášce, vydá Státní statistický úřad zvláštními směrnicemi."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1970.\nPříloha k vyhlášce č. 186/1968 Sb.\nSoustava ukazatelů jednotné evidence pracujících se člení do těchto tříd:\n0 Ukazatele o organizaci\n1 Identifikační a rodná data pracovníka\n2 Školní vzdělání a kvalifikace pracovníka\n3 Ukazatele o pracovním zařazení pracovníka v organizaci\n4 Ostatní ukazatele osobní agendy (vnitřní ukazatele organizace)\n5 Ukazatele nemocenského pojištění\n6 Ukazatele mzdové agendy a důchodového zabezpečení\n7 Ukazatele mzdové agendy - výplaty\n8 Ukazatele sociálních dávek\n9 Ukazatele mzdové agendy - srážky\nUkazatele jednotné evidence pracujících se dělí podle těchto skupin pracujících:\nA Pracující ve státním a družstevním sektoru (bez JZD)1)\nB Trvale činní v JZD2)\nC Jednotlivě hospodařící rolníci\nD Samostatně hospodařící (mimo zemědělství)\nE Domáčtí dělníci\nF Pracovníci na přechodnou potřebu3)\nG Učni ve státním a družstevním sektoru (bez JZD)\nH Učni v JZD\nSeznam závazných ukazatelů jednotné evidence pracujících\nČíslo ukazatele Název ukazatele Skupina pracujících4)\nABCDEFGH\n001 Číslo organizace / / / / / / / /\n002 Sído organizace / / / / / / / /\n003 Sído trvalého pracoviště / / - - / / / /\n101 Příjmení, jméno, akademický titul, hodnost, rodné jméno / / / / / / / /\n104 Rodné číslo / / / / / / / /\n105Rodinný stav / / / / / / / /\n106Národnost / / / / / / / /\n107 Trvalé bydliště / / / / / / / /\n201 Nejvyšší dosažené vzdělání // / / / - / /\n202 Obor dosaženého stolního vzdělání - učební obor / / / / / __ / /\n301 Datum vzniku pracovního (učebního) poměru / / - - / / / /\n302 Důvod příchodu pracovníka do organizace / / - - / / / /\n303 Zaměstnání vykonávané v organizaci / / - / / / - -\n304 Drůh činnosti / / - - - - - -\n306 Mzdové zařazení / / - - // - -\n307 Splnění požadované kvalifikace / - - - - - - -\n308 Změněná pracovní schopnost / / / / / / / /\n309 Datum ukončení pracovního (učebního) poměru / / - - / / / /\n310 Důvod ukončení pracovního (učebního) poměru / / - - / - / /\n311 Druh vynětí z evidenčního počtu / / - - / / - -\n312 Skupina pracujících / / / / / / / /\n314 Druh pracovního poměru / / - - / / - -\n501 Počet dětí, na něž je nárok na přídavky na děti / / / / / / / /\n601 Zákonný týdenní pracovní úvazek / / - - - - - -\n602 Mzdová sazba - základní plat / - - / / - / -\n605 Druh důchodu pracovníka / / / / / / / /\n606 Pracovní kategorie pro důchodové zabezpečení / / - / - / / /\n650 Počet odpracovaných hodin / - - - - - - -\n660 Počet neodpracovaných hodin / - - - - - - -\n671 Počet kalendářních dnů doby zaměstnání za sledované období / - - - - - / -\n672 Počet kalendářních dnů, po které pracovník vykonával zaměstnání zařazené do jednotlivých pracovních kategorií pro důchodové zabezpečení / / -/ - / / /\n681 Počet kalendářních dnů, za něž byly vyplaceny dávky nemocenského pojištění / / / / / / / /\n682 Počet kalendářních dnů ostatních náhradních dob pro důchodové zabezpečení / / -- / / / /\n683 Počet kalendářních dnů služby v ozbrojených silách / / / / / / - -\n710 Základní časové mzdy, platy a úkolové mzdy / - - - / - / -\n720 Příplatky a doplatky ke mzdě / - - - / - - -\n730 Prémie a odměny / / - - / - - -\n740 Podíly na hospodářských výsledcích / / - - / - - -\n750 Náhrady mezd / / - - / - - -\n760 Ostatní osobni výdaje / - - - / - - -\n770 Výplaty nezahrnované do mzdových prostředků / - - - / - - -\n780 Výplaty nezahrnované do hrubé mzdy pro účely důchodového zabezpečení / - - - / - - -\n791 Úhrn hrubých příjmů (č. 710 až 770) / / - - / // /\n792 Celková mzda (č. 710 až 750) / / - - / - / /\n793 Hrubá mzda pro důchodové zabezpečeni ( = 792 + 780 - 780) / / / / / / /\n810 Dávky nemocenského pojištění / / - - / / / /\n820 Přídavky na děti / / / / / / / /\n910 Daň ze mzdy / / - - / / / -\nU nově přijatých pracovníků vedou organizace ještě tyto ukazatele:\n004 Číslo organizace předchozího zaměstnání / / / / / / / /\n005 Sídlo předchozího trvalého pracoviště / / / / / / / /\n313 Zaměstnání vykonávané v předchozí organizaci / / / / / / / /\n319 Datum ukončení předchozího zaměstnání / / / / / / / /\nH. Seznam závazných ukazatelů za učně v Jednotných zemědělských družstvech\nPoř. čís. Název ukazatelePočet míst\n000ORGANIZACE\n001Název a číslo organizace8\n002Sídlo organizace9\n003Sídlo pracoviště pracovníka9\n100IDENTIFIKAČNÍ A RODNÁ DATA\n101Příjmení, jméno, akad. titul - hodnost, rodné jméno40\n102Druh pracovního poměru1\n103Datum narození6\n104Rodné číslo10\n105Rodinný stav1\n106Národnost1\n107Trvalé bydliště9\n200ŠKOLNÍ VZDĚLÁNÍ A KVALIFIKACE\n201Nejvyšší dosažené vzdělání1\n202Obor školního vzdělání - učební obor5\n300PRACOVNÍ ZAŘAZENÍ V ORGANIZACI\n301Datum vzniku učňovského poměru6\n308Změněná pracovní schopnost3\n309Datum ukončení učňovského poměru v organizaci6\n400OSTATNÍ UKAZATELE OSOBNÍ AGENDY (vnitřní ukazatele organizace)\n500UKAZATELE NEMOCENSKÉHO POJIŠTĚNÍ\n501Počet dětí, na něž je nárok na přídavky na děti2\n600DRUŽSTEVNÍ ČINNOST\n601Druh JZD1\n602Výrobní oblast2\n603Člen JZD od roku2\n604Druh záhumenku1\n605Výměra záhumenku v arech3\n700UKAZATELE MZDOVÉ AGENDY A DŮCHODOVÉHO ZABEZPEČENÍ\n701Druh důchodu, který učeň pobírá2\n702Pracovní kategorie pro důchodové zabezpečení8\n703Pracovní úvazek9\n704Skutečně odpracováno9\n705Doba pracovní činnosti8\n706Počet kalendářních dnů, po které učeň vykonával zaměstnání zařazené do II. - III. pracovní kategorie6\n707Počet kalendářních dnů, za něž byly vyplaceny dávky ze zabezpečení v nemoci3\n708Počet kalendářních dnů neplacené mateřské dovolené3\n800UKAZATELE MZDOVÉ AGENDY - VÝPLATY\n801Výše pracovních odměn15\n802Dávky ze zabezpečení v nemoci (mimo poř. č. 803)5\n803Přídavky na děti5\n804Úhrnná výše příjmů celkem5\n*) § 89 zák. č. 101/1964 Sb., o sociálním zabezpečení;\n§ 123 a 124 vyhl. č. 102/1964 Sb., kterou se provádí zákon o sociálním zabezpečení;\n§ 118 zák. č. 103/1964 Sb., o sociálním zabezpečení družstevních rolníků.\n1) Na stálou potřebu, na pracovním místě, které má být trvale obsazeno.\n2) Týká se jak členů JZD, tak i pracovníků v pracovním poměru k JZD.\n3) Na sezónu nebo kampaň nebo výjimečně na jinou krátkodobou časově omezenou potřebu nad 6 dní do 1 měsíce.\n4) Případy, pro něž je vedení ukazatele předepsáno, jsou vyznačeny šikmou svislou čarou (/), případy, kdy ukazatel není předepsán, jsou vyznačeny pomlčkou (-)."
+    }
+  ],
+  "definitions": []
+}

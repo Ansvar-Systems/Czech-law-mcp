@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:531/1945",
+  "type": "statute",
+  "title": "531/1945 Ú. l. I, Vyhláška ministra vnitřního obchodu o omezení zákazu odbytu některých spotřebních statků.",
+  "title_en": "",
+  "short_name": "531/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-12",
+  "in_force_date": "1945-12-12",
+  "url": "https://www.e-sbirka.cz/ul1/1945/531",
+  "description": "Vyhláška ministra vnitřního obchodu o omezení zákazu odbytu některých spotřebních statků.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Prodej a dodávka v tuzemsku toho zboží, jehož výroba jest zakázána vyhláškou č. 502 (Ke 4) ministra hospodářství a práce ze dne 14. ledna 1944, o zákazech výroby a používání v oboru keramické výroby (Ú. l. č. 16/1944), jsou zapovězeny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministerstvo vnitřního obchodu muže povoliti vyjímky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky této vyhlášky se trestají podle § 9 vl. nař. č. 175/1943 Sb.\nIII.\nTato vyhláška platí na území země české a země moravskoslezské; nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

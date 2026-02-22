@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:307/1946",
+  "type": "statute",
+  "title": "307/1946 Ú. l. I, Vyhláška Národní banky Československé o způsobu provádění platů mezi Československou republikou a Královstvím Norským.",
+  "title_en": "",
+  "short_name": "307/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-29",
+  "in_force_date": "1945-12-13",
+  "url": "https://www.e-sbirka.cz/ul1/1946/307",
+  "description": "Vyhláška Národní banky Československé o způsobu provádění platů mezi Československou republikou a Královstvím Norským.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Převody platů určených k vyrovnávání vzájemných závazků mezi Československem a Norskem budou prováděny prostřednictvím Národní banky Československé a Norges Bank."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "(1) Dlužníci v Československu budou konati platy do Norska v norských korunách zakoupených prostřednictvím Národní banky československé a dlužníci v Norsku budou konati platy do Československa v korunách československých zakoupených prostřednictvím Norges Bank.\n(2) Pro vzájemný přepočet obou měn platí kurs úředně stanovený."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Dopravné norských lodí najatých osobami se sídlem v Československu a dopravné československých lodí najatých osobami se sídlem v Norsku bude placeno podle ustanovení této dohody jen tehdy, bude-li dopravné sjednáno v korunách norských nebo korunách československých."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Pro platy podle této vyhlášky platí obecné devisové předpisy."
+    },
+    {
+      "provision_ref": "Čl. 5.",
+      "section": "5",
+      "title": "Čl. 5.",
+      "content": "Tato úprava platebního styku platí počínajíc dnem 13. prosince 1945."
+    }
+  ],
+  "definitions": []
+}

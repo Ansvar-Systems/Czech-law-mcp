@@ -1,0 +1,33 @@
+{
+  "id": "cz:48/1960",
+  "type": "statute",
+  "title": "48/1960 Sb., Vyhláška o stažení státovek po 1 Kčs vzoru 1953",
+  "title_en": "",
+  "short_name": "48/1960 Sb.",
+  "status": "in_force",
+  "issued_date": "1960-04-27",
+  "in_force_date": "1960-04-27",
+  "url": "https://www.e-sbirka.cz/sb/1960/48",
+  "description": "Vyhláška o stažení státovek po 1 Kčs vzoru 1953",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Státovky po 1 koruně československé vzoru 1953 přestávají být zákonnými penězi na území Československé republiky uplynutím dne 31. května 1960."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Státovky uvedené v § 1 vyměňují od 1. června do 30. září 1960 všechny poštovní úřady, státní spořitelny a pobočky Státní banky československé a od 1. října do 31. prosince 1960 jen pobočky Státní banky československé. Po 31. prosinci 1960 je jakákoliv výměna těchto státovek vyloučena."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti ode dne vyhlášení."
+    }
+  ],
+  "definitions": []
+}

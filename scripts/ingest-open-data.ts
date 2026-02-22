@@ -5,8 +5,8 @@
  * Source index:
  *   https://opendata.eselpoint.cz/datove-sady-esbirka/
  *
- * This ingester builds law seed files for all Czech laws (ZAKON + ZAKONUST)
- * from official open-data dumps without synthetic text.
+ * This ingester builds seed files for Czech legal acts from official open-data
+ * dumps without synthetic text.
  */
 
 import Database from 'better-sqlite3';
@@ -17,7 +17,7 @@ import { pipeline as pipelinePromise } from 'stream/promises';
 import { createGunzip } from 'zlib';
 import { fileURLToPath } from 'url';
 import { createRequire } from 'module';
-import { parseLawSeed, type TargetLaw } from './lib/parser.js';
+import { parseLawSeed, TARGET_LAWS, type TargetLaw } from './lib/parser.js';
 import type { DocumentDetailResponse, FragmentRecord } from './lib/fetcher.js';
 
 const require = createRequire(import.meta.url);
@@ -52,9 +52,11 @@ interface Args {
   limit: number | null;
   skipDownload: boolean;
   keepTempDb: boolean;
+  selectedSubtypes: Set<string> | null;
 }
 
 interface ParsedLawRef {
+  collection: string;
   year: string;
   number: string;
   staleUrl: string;
@@ -67,6 +69,8 @@ interface DocRow {
   law_id: string;
   stale_url: string;
   seed_file: string;
+  collection: string;
+  subtype: string;
   short_name: string;
   title: string;
   full_citation: string;
@@ -78,18 +82,26 @@ interface IndexLawRow {
   id: string;
   stale_url: string;
   seed_file: string;
+  collection: string;
+  subtype: string;
   short_name: string;
   title: string;
+  title_en: string;
   description: string;
 }
 
 let lastRequestAt = 0;
+
+const CURATED_TARGET_BY_ID = new Map<string, TargetLaw>(
+  TARGET_LAWS.map(law => [law.id, law]),
+);
 
 function parseArgs(): Args {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipDownload = false;
   let keepTempDb = false;
+  let selectedSubtypes: Set<string> | null = null;
 
   for (let i = 0; i < args.length; i += 1) {
     const arg = args[i];
@@ -104,10 +116,29 @@ function parseArgs(): Args {
     }
     if (arg === '--keep-temp-db') {
       keepTempDb = true;
+      continue;
+    }
+    if (arg === '--laws-only') {
+      selectedSubtypes = new Set(LAW_SUBTYPES);
+      continue;
+    }
+    if (arg === '--subtypes' && args[i + 1]) {
+      const raw = args[i + 1].trim();
+      i += 1;
+      if (!raw || /^all$/iu.test(raw)) {
+        selectedSubtypes = null;
+        continue;
+      }
+      const values = raw
+        .split(',')
+        .map(value => value.trim().toUpperCase())
+        .filter(Boolean);
+      selectedSubtypes = values.length > 0 ? new Set(values) : null;
+      continue;
     }
   }
 
-  return { limit, skipDownload, keepTempDb };
+  return { limit, skipDownload, keepTempDb, selectedSubtypes };
 }
 
 function sleep(ms: number): Promise<void> {
@@ -139,24 +170,32 @@ function stripPrefix(value: string, prefix: string): string {
 function parseActIri(actIri: string): ParsedLawRef | null {
   const normalized = stripPrefix(actIri.trim(), 'esel-esb:').replace(/^\/+/, '');
   const parts = normalized.split('/').filter(Boolean);
-  if (parts.length < 5 || parts[0] !== 'eli' || parts[1] !== 'cz' || parts[2] !== 'sb') {
+  if (parts.length < 5 || parts[0] !== 'eli' || parts[1] !== 'cz') {
     return null;
   }
 
+  const collection = parts[2].toLowerCase();
   const year = parts[3];
   const number = parts[4].toLowerCase();
+  if (collection.length === 0) return null;
   if (!/^\d{4}$/.test(year)) return null;
   if (number.length === 0) return null;
 
+  const collectionToken = sanitizeFileToken(collection);
   const numberToken = sanitizeFileToken(number);
+  if (collectionToken.length === 0) return null;
   if (numberToken.length === 0) return null;
 
+  const isSb = collection === 'sb';
+  const seedPrefix = isSb ? 'zakon' : `akt-${collectionToken}`;
+
   return {
+    collection,
     year,
     number,
-    staleUrl: `/sb/${year}/${number}`,
-    lawId: `cz:${number}/${year}`,
-    seedFile: `zakon-${numberToken}-${year}.json`,
+    staleUrl: `/${collection}/${year}/${number}`,
+    lawId: isSb ? `cz:${number}/${year}` : `cz:${collection}:${number}/${year}`,
+    seedFile: `${seedPrefix}-${numberToken}-${year}.json`,
   };
 }
 
@@ -243,6 +282,8 @@ function createTempDb(): Database.Database {
       law_id TEXT NOT NULL,
       stale_url TEXT NOT NULL,
       seed_file TEXT NOT NULL,
+      collection TEXT NOT NULL,
+      subtype TEXT NOT NULL,
       short_name TEXT NOT NULL,
       title TEXT NOT NULL,
       full_citation TEXT NOT NULL,
@@ -271,13 +312,14 @@ function createTempDb(): Database.Database {
 }
 
 function buildTargetLaw(row: DocRow): TargetLaw {
+  const curated = CURATED_TARGET_BY_ID.get(row.law_id);
   return {
     id: row.law_id,
     staleUrl: row.stale_url,
     seedFile: row.seed_file,
-    shortName: row.short_name,
-    titleEn: '',
-    description: row.title,
+    shortName: curated?.shortName ?? row.short_name,
+    titleEn: curated?.titleEn ?? '',
+    description: curated?.description ?? row.title,
   };
 }
 
@@ -292,30 +334,41 @@ function buildDetail(row: DocRow): DocumentDetailResponse {
     datumUcinnostiOd: row.in_force_date ?? undefined,
     datumUcinnostiZneniOd: row.in_force_date ?? undefined,
     typZneni: 'AKTUALNI',
-    sbirkaKod: 'sb',
+    sbirkaKod: row.collection,
     dokumentBaseId: row.doc_id,
   };
 }
 
-function saveAllLawsIndex(rows: IndexLawRow[], totalDiscovered: number): void {
+function saveAllLawsIndex(
+  rows: IndexLawRow[],
+  totalDiscovered: number,
+  selectedSubtypes: Set<string> | null,
+  skippedActIris: string[],
+): void {
+  const filterSubtypes = selectedSubtypes
+    ? Array.from(selectedSubtypes).sort((a, b) => a.localeCompare(b, 'cs-CZ'))
+    : 'ALL';
+
   const payload = {
     source: 'opendata.eselpoint.cz/datove-sady-esbirka',
     fetched_at: new Date().toISOString(),
     filter: {
-      kodyPodtypAktu: ['ZAKON', 'ZAKONUST'],
+      kodyPodtypAktu: filterSubtypes,
       start: 0,
       pocet: totalDiscovered,
     },
     total_from_api: totalDiscovered,
     discovered: rows.length,
-    skipped_without_stale_url_match: [],
+    skipped_without_stale_url_match: skippedActIris,
     laws: rows.map(row => ({
       id: row.id,
       stale_url: row.stale_url,
       seed_file: row.seed_file,
+      collection: row.collection,
+      subtype: row.subtype,
       short_name: row.short_name,
       title: row.title,
-      title_en: '',
+      title_en: row.title_en,
       description: row.description,
       kod_dokumentu_sbirky: row.short_name,
     })),
@@ -325,12 +378,19 @@ function saveAllLawsIndex(rows: IndexLawRow[], totalDiscovered: number): void {
 }
 
 async function main(): Promise<void> {
-  const { limit, skipDownload, keepTempDb } = parseArgs();
+  const { limit, skipDownload, keepTempDb, selectedSubtypes } = parseArgs();
   ensureDirs();
 
   console.log('Czech Law MCP — Open Data Bulk Ingestion');
   console.log('========================================');
   console.log(`Source: ${OPEN_DATA_BASE_URL}`);
+  console.log(
+    `Subtype scope: ${
+      selectedSubtypes
+        ? Array.from(selectedSubtypes).sort((a, b) => a.localeCompare(b, 'cs-CZ')).join(', ')
+        : 'ALL'
+    }`,
+  );
   if (limit) {
     console.log(`Limit: ${limit}`);
   }
@@ -349,8 +409,8 @@ async function main(): Promise<void> {
 
   const insertDoc = db.prepare(`
     INSERT INTO docs (
-      doc_id, law_id, stale_url, seed_file, short_name, title, full_citation, issued_date, in_force_date
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+      doc_id, law_id, stale_url, seed_file, collection, subtype, short_name, title, full_citation, issued_date, in_force_date
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
   const insertDocFragment = db.prepare(`
     INSERT INTO doc_fragments (doc_id, position, fragment_id) VALUES (?, ?, ?)
@@ -363,22 +423,43 @@ async function main(): Promise<void> {
       fragment_text = excluded.fragment_text
   `);
 
-  console.log('1) Selecting law acts (ZAKON + ZAKONUST) from metadata...');
-  const allowedActIris = new Set<string>();
+  console.log('1) Selecting legal acts from metadata...');
+  const allowedActIris = new Map<string, string>();
   await forEachDatasetItem(metadataPath, item => {
     const subtype = item['cis-esb-podtyp-právní-akt-položka'];
     const actIri = item['akt-iri'];
-    if (typeof subtype === 'string' && typeof actIri === 'string' && LAW_SUBTYPES.has(subtype)) {
-      allowedActIris.add(actIri);
-    }
+    if (typeof subtype !== 'string' || typeof actIri !== 'string') return;
+
+    const normalizedSubtype = subtype.trim().toUpperCase();
+    if (!normalizedSubtype) return;
+    if (selectedSubtypes && !selectedSubtypes.has(normalizedSubtype)) return;
+
+    allowedActIris.set(actIri, normalizedSubtype);
   });
   console.log(`   Allowed acts: ${allowedActIris.size}`);
+  if (!selectedSubtypes) {
+    const subtypeHistogram = new Map<string, number>();
+    for (const subtype of allowedActIris.values()) {
+      subtypeHistogram.set(subtype, (subtypeHistogram.get(subtype) ?? 0) + 1);
+    }
+    const topSubtypes = Array.from(subtypeHistogram.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10);
+    if (topSubtypes.length > 0) {
+      console.log('   Top subtypes by act count:');
+      for (const [subtype, count] of topSubtypes) {
+        console.log(`     - ${subtype}: ${count}`);
+      }
+    }
+  }
 
   console.log('2) Resolving latest version document IDs...');
-  const latestByAct = new Map<string, { docId: number }>();
+  const latestByAct = new Map<string, { docId: number; subtype: string }>();
   await forEachDatasetItem(legalActsPath, item => {
     const actIri = item['akt-iri'];
-    if (typeof actIri !== 'string' || !allowedActIris.has(actIri)) return;
+    if (typeof actIri !== 'string') return;
+    const subtype = allowedActIris.get(actIri);
+    if (!subtype) return;
 
     const latestVersionIri = (item['právní-akt-znění-poslední'] as { iri?: unknown } | undefined)?.iri;
     const versions = Array.isArray(item['právní-akt-znění'])
@@ -394,9 +475,9 @@ async function main(): Promise<void> {
     const docId = selected['znění-dokument-id'];
     if (typeof docId !== 'number' || !Number.isFinite(docId)) return;
 
-    latestByAct.set(actIri, { docId });
+    latestByAct.set(actIri, { docId, subtype });
   });
-  console.log(`   Latest law versions: ${latestByAct.size}`);
+  console.log(`   Latest act versions: ${latestByAct.size}`);
 
   const allDocIds = Array.from(latestByAct.values())
     .map(v => v.docId)
@@ -410,6 +491,7 @@ async function main(): Promise<void> {
   db.exec('BEGIN');
   let docRows = 0;
   const indexRows: IndexLawRow[] = [];
+  const skippedActIris = new Set<string>();
   await forEachDatasetItem(legalActVersionsPath, item => {
     const docId = item['znění-dokument-id'];
     if (typeof docId !== 'number' || !selectedDocIds.has(docId)) return;
@@ -418,20 +500,31 @@ async function main(): Promise<void> {
     const actCitation = item['akt-citace'];
     const title = item['akt-název-vyhlášený'];
     if (typeof actIri !== 'string' || typeof actCitation !== 'string' || typeof title !== 'string') return;
+    const scope = latestByAct.get(actIri);
+    if (!scope) return;
 
     const parsed = parseActIri(actIri);
-    if (!parsed) return;
+    if (!parsed) {
+      skippedActIris.add(actIri);
+      return;
+    }
 
     const inForceDate = item['znění-datum-účinnosti-od'];
     const issuedDate = (item['znění-částka'] as { ['částka-datum-čas-vyhlášení']?: unknown } | undefined)?.['částka-datum-čas-vyhlášení'];
     const fullCitation = toFullCitation(actCitation, title);
+    const curated = CURATED_TARGET_BY_ID.get(parsed.lawId);
+    const shortName = curated?.shortName ?? actCitation;
+    const titleEn = curated?.titleEn ?? '';
+    const description = curated?.description ?? title;
 
     insertDoc.run(
       docId,
       parsed.lawId,
       parsed.staleUrl,
       parsed.seedFile,
-      actCitation,
+      parsed.collection,
+      scope.subtype,
+      shortName,
       title,
       fullCitation,
       typeof issuedDate === 'string' ? issuedDate : null,
@@ -441,9 +534,12 @@ async function main(): Promise<void> {
       id: parsed.lawId,
       stale_url: parsed.staleUrl,
       seed_file: parsed.seedFile,
-      short_name: actCitation,
+      collection: parsed.collection,
+      subtype: scope.subtype,
+      short_name: shortName,
       title,
-      description: title,
+      title_en: titleEn,
+      description,
     });
     docRows += 1;
     if (docRows % BATCH_SIZE === 0) {
@@ -452,13 +548,20 @@ async function main(): Promise<void> {
   });
   db.exec('COMMIT');
   console.log(`   Metadata rows loaded: ${docRows}`);
+  console.log(`   Unparseable act IRI rows skipped: ${skippedActIris.size}`);
 
   console.log('4) Loading version fragment mappings...');
   const nextPosition = new Map<number, number>();
   const neededFragmentIds = new Set<number>();
   db.exec('BEGIN');
   let mappingRows = 0;
+  let scannedVersionFragmentRows = 0;
   await forEachDatasetItem(versionFragmentsPath, item => {
+    scannedVersionFragmentRows += 1;
+    if (scannedVersionFragmentRows % 2_000_000 === 0) {
+      console.log(`   Scanned version fragment rows: ${scannedVersionFragmentRows.toLocaleString('cs-CZ')}`);
+    }
+
     const docId = item['znění-dokument-id'];
     if (typeof docId !== 'number' || !selectedDocIds.has(docId)) return;
 
@@ -482,7 +585,13 @@ async function main(): Promise<void> {
   console.log('5) Loading fragment text/type lookup...');
   db.exec('BEGIN');
   let fragmentRows = 0;
+  let scannedFragmentRows = 0;
   await forEachDatasetItem(fragmentsPath, item => {
+    scannedFragmentRows += 1;
+    if (scannedFragmentRows % 2_000_000 === 0) {
+      console.log(`   Scanned fragment rows: ${scannedFragmentRows.toLocaleString('cs-CZ')}`);
+    }
+
     const fragmentId = item['fragment-id'];
     if (typeof fragmentId !== 'number' || !neededFragmentIds.has(fragmentId)) return;
 
@@ -506,7 +615,7 @@ async function main(): Promise<void> {
   clearExistingSeedFiles();
 
   const docs = db.prepare<[], DocRow>(`
-    SELECT doc_id, law_id, stale_url, seed_file, short_name, title, full_citation, issued_date, in_force_date
+    SELECT doc_id, law_id, stale_url, seed_file, collection, subtype, short_name, title, full_citation, issued_date, in_force_date
     FROM docs
     ORDER BY doc_id ASC
   `).all();
@@ -552,14 +661,14 @@ async function main(): Promise<void> {
     written += 1;
 
     if (written % 250 === 0) {
-      console.log(`   Seeded ${written}/${docs.length} laws...`);
+      console.log(`   Seeded ${written}/${docs.length} acts...`);
     }
   }
   console.log(`   Seed files written: ${written}`);
   console.log(`   Missing fragment type values: ${missingFragmentTypeTotal}`);
   console.log(`   Missing fragment text values: ${missingFragmentTextTotal}`);
 
-  saveAllLawsIndex(indexRows, latestByAct.size);
+  saveAllLawsIndex(indexRows, latestByAct.size, selectedSubtypes, Array.from(skippedActIris).sort());
   console.log(`7) Updated law index: ${LAW_INDEX_PATH}`);
 
   db.close();

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:207/1959",
+  "type": "statute",
+  "title": "207/1959 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, ruší některé československé státní normy",
+  "title_en": "",
+  "short_name": "207/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-11-06",
+  "in_force_date": "1959-11-06",
+  "url": "https://www.e-sbirka.cz/ul0/1959/207",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, ruší některé československé státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "S okamžitou platností se ruší československé státní normy\nČSN 35 4130„Vestavný vypínač tlačítkový 1 A, 250 V”\nČSN 35 4131„Vestavný vypínač páčkový 2 A, 250 V”,\nuveřejněné ve vyhlášce č. 46/1954 Ú. l."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "S okamžitou platností se ruší československá státní norma\nČSN 47 8591 „Dojačky oválné”, uveřejněná ve vyhlášce č. 139/1954 Ú. l."
+    }
+  ],
+  "definitions": []
+}

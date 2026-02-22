@@ -1,0 +1,69 @@
+{
+  "id": "cz:ul1:1926/1946",
+  "type": "statute",
+  "title": "1926/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o úpravě nejvyšších odměn účetních a revisních kanceláří za vyhotovení přihlášek a přiznání podle zákona o majetkových dávkách.",
+  "title_en": "",
+  "short_name": "1926/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-10-31",
+  "in_force_date": "1946-10-31",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1926",
+  "description": "Vyhláška nejvyššího úřadu cenového o úpravě nejvyšších odměn účetních a revisních kanceláří za vyhotovení přihlášek a přiznání podle zákona o majetkových dávkách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Majitelé účetních, bilančních, revisních, organisačních a důvěrnických kanceláří (dále jen majitelé kanceláří) jsou oprávněni požadovati za vyhotovení přihlášek a přiznání podle zákona o majetkových dávkách, pokud jsou k vykonávání těchto prací oprávněni podle platných předpisů, nejvýše tyto odměny:\nI. Za sestavení „Přihlášky majetku I“, bez ohledu na výši přiznaného majetku, za každou i započatou hodinu Kčs 50.—, nejvýše však Kčs 150.—.\nII. Za sestavení „Přihlášky majetku II“\n1. pro osoby, které nevyplňují vložku A nebo C, bez ohledu na výši přiznaného majetku, za každou i započatou hodinu Kčs 58.—,\n2. pro osoby, které vyplňují vložku A nebo C, za každou i započatou hodinu:\na)při hodnotě majetku doKčs 500.000Kčs 65,—,\nb)při hodnotě majetku doKčs 1,000.000Kčs 80,—,\nc)při hodnotě majetku doKčs 3,000.000Kčs 100,—,\nd)při hodnotě majetku nadKčs 3,000.000Kčs 120,—.\nHodnotou majetku pod a) až d) se rozumí celkový majetek k 15. listopadu 1945, bez odečtení dluhů a břemen.\nIII. Za sestavení „Přiznání k dávce z majetku“ platí sazba jako pod II."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Odměny podle této vyhlášky jsou nejvyšší a rozumějí se včetně daně z obratu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Za práce, které byly na žádost strany provedeny mimo obvyklou dobu pracovní, možno účtovat 50% přirážku k odměnám uvedeným v § 1."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Kromě odměn podle § 1 přísluší majiteli kanceláří ještě cestovné podle hotových výloh a za práce mimo sídlo kanceláře též stravné Kčs 140.— denně, po případě i nocležné Kčs 140.— denně."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Vykonává-li práce spadající pod ustanovení této vyhlášky osoba s vysokoškolským vzděláním, mohou býti sazby uvedené v § 1 zvýšeny o 10%. Přirážku uvedenou v § 3 možno však v tomto případě učtovati jen k nezvýšeným sazbám."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Majitelé kanceláří jsou povinni vydati svým zákazníkům písemné potvrzení, v němž musí býti účtovaná odměna řádně vypočtena, s uvedením příslušné sazby podle této vyhlášky a udáním času potřebného k provedení práce."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Nedbání předpisů této vyhlášky se trestá podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hodnotou majetku pod a) až d",
+      "definition": "celkový majetek k 15",
+      "source_provision": "§ 1."
+    }
+  ]
+}

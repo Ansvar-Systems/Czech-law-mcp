@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:996/1949",
+  "type": "statute",
+  "title": "996/1949 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se pověřují Československé státní lesy, národní podnik, výhradním výkupem a dodávkou surového dříví domácího původu",
+  "title_en": "",
+  "short_name": "996/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-10-01",
+  "in_force_date": "1949-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/996",
+  "description": "Vyhláška ministerstva zemědělství, kterou se pověřují Československé státní lesy, národní podnik, výhradním výkupem a dodávkou surového dříví domácího původu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za účelem co největšího využití možností racionalisace a mechanisace prací při odvozu, manipulaci, uskladňování a vagonování surového dříví domácího původu a jednotného plánování těchto prací pověřují se Československé státní lesy, národní podnik (dále jen „podnik“) jeho výhradním výkupem a dodávkou na sklad odběratele nebo na vagoně, po případě na jiném místě dohodnutém s odběratelem. Podnik se řídí při této činnosti jednotným hospodářským plánem a směrnicemi k němu vydanými.\n(2) Surovým dřívím podle této vyhlášky se rozumí dříví (tříslová kůra) uvedené v příloze k vyhlášce ministerstva zemědělství ze dne 18. ledna 1949, č. 255 Ú. l. I, kterou se vydávají předpisy o výrobě surového dříví v lese."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Surové dříví, uvedené v § 1, odst. 2 smějí výrobci dodávati jen podniku, a to:\na) lesní závody podle své volby na místě výroby nebo přiblížené (vyvežené) u cest (na lesních skladech), se souhlasem podniku též na jiných skladech, na železničních skladech podniku ve výjimečných případech na vagoně nakládací železniční stanice,\nb) ostatní výrobci na místě sjednaném s podnikem; v případě neshody o místě dodávky rozhodne o tomto podnik,\n(2) Ustanovení odstavce 1 neplatí pro\na) prodeje v drobném prováděné výrobci surového dříví v rámci příslušných platných předpisů,\nb) surové dříví určené podle platných předpisů pro vlastní spotřebu.\n(3) Pro přechodnou dobu a ve výjimečných případech může podnik své oprávnění (§ 1, odst. 1) přenésti na osoby podle dosavadních předpisů oprávněné, zejména byl-li o tom jimi požádán, a to pokud možno po vzájemné dohodě. Nedojde-li k dohodě, rozhodne ministerstvo zemědělství."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Podnik je povinen vésti záznamy o veškerém vyrobeném a dodaném surovém dříví, jakož i o jeho zásobách, a to způsobem schváleným ministerstvem zemědělství. Orgány pověřené vydáváním výměrů o těžbě surového dříví lesním závodům jsou povinny opisy těchto výměrů, jakož i změn ve výměrech doručovati podniku.\n(2) Výrobci surového dříví a dovozci jsou povinni podávati podniku na jeho vyzvání zprávy potřebné pro splnění jeho úkolů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Podnik vydá se schválením ministerstva zemědělství podrobné směrnice k provádění této vyhlášky a uveřejní je v Úředním listu."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Ustanovení o výkupu a dodávce podle této vyhlášky se nevztahují na surové dříví, které bylo před účinností této vyhlášky prodáno někomu jinému než podniku.\n(2) Výkup a dodávky surového dříví z lesů vojenské správy bude podnik provádět podle pokynů daných ministerstvem zemědělství v dohodě s ministerstvem národní obrany."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky ustanovení této vyhlášky nebo předpisů podle ní daných se trestají podle § 9 vl. nař. č. 265/1939 Sb."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen v zemích českých."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Surovým dřívím podle této vyhlášky",
+      "definition": "dříví (tříslová kůra) uvedené v příloze k vyhlášce ministerstva zemědělství ze dne 18",
+      "source_provision": "§ 1."
+    }
+  ]
+}

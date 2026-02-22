@@ -1,0 +1,33 @@
+{
+  "id": "cz:140/1950",
+  "type": "statute",
+  "title": "140/1950 Sb., Nařízení, kterým se zrušuje Základ národní pomoci a Sociální pomoc pro Čechy a Moravu",
+  "title_en": "",
+  "short_name": "140/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-10-27",
+  "in_force_date": "1950-10-27",
+  "url": "https://www.e-sbirka.cz/sb/1950/140",
+  "description": "Nařízení, kterým se zrušuje Základ národní pomoci a Sociální pomoc pro Čechy a Moravu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Základ národní pomoci, zřízený vládním nařízením č. 370/1938 Sb., se zrušuje dnem 31. prosince 1950; jeho práva a závazky přecházejí na stát."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Sociální pomoc pro Čechy a Moravu, zřízená vládním nařízením č. 378/1942 Sb., se zrušuje dnem 30. června 1949; její práva a závazky přecházejí na Československý Červený kříž."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr práce a sociální péče v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

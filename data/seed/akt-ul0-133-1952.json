@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:133/1952",
+  "type": "statute",
+  "title": "133/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuji technické státní normy ČSN 30 1036, 30 1037, 30 1382, 30 1383 a 30 1385.",
+  "title_en": "",
+  "short_name": "133/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-05",
+  "in_force_date": "1952-06-20",
+  "url": "https://www.e-sbirka.cz/ul0/1952/133",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuji technické státní normy ČSN 30 1036, 30 1037, 30 1382, 30 1383 a 30 1385.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Normy:\nČSN 30 1036 „Pera těsná a volná. Drážky a přiřadění ke hřídelům“,\nČSN 30 1037 „Pera Woodruffova. Drážky a přiřadění ke hřídelům“,\nČSN 30 1382 „Pera těsná nezaoblená“,\nČSN 30 1383 „Pera volná nezaoblená“,\nČSN 30 1385 „Pera Woodruffova“,\njsou od 1. července 1952 technickými státními normami."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Normy jednají o rozměrech, dovolených úchylkách a materiálu per těsných, volných a Woodruffových, jakož i o příslušných drážkách a přiřadění ke hřídelům."
+    }
+  ],
+  "definitions": []
+}

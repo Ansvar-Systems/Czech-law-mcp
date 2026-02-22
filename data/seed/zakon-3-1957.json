@@ -1,0 +1,33 @@
+{
+  "id": "cz:3/1957",
+  "type": "statute",
+  "title": "3/1957 Sb., Nariadenie o zriadení Povereneníctva štátnej kontroly",
+  "title_en": "",
+  "short_name": "3/1957 Sb.",
+  "status": "in_force",
+  "issued_date": "1957-02-05",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1957/3",
+  "description": "Nariadenie o zriadení Povereneníctva štátnej kontroly",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro výkon státní kontroly na Slovensku se zřizuje pověřenectvo státní kontroly."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Podrobné vymezení úkolů pověřenectva státní kontroly stanoví vláda."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1957; provedou je všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul0:199/1954",
+  "type": "statute",
+  "title": "199/1954 Ú. l., Vyhláška úřadu pro normalisaci, kterou se mění a doplňují některé technické státní normy.",
+  "title_en": "",
+  "short_name": "199/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-09-16",
+  "in_force_date": "1954-09-01",
+  "url": "https://www.e-sbirka.cz/ul0/1954/199",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se mění a doplňují některé technické státní normy.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "V normě ČSN 01 4676 „Měření ozubených kol čelních se šikmými zuby” hodnota B v tabulce II na straně 17 pro úhel sklonu zubů β = 10°0' a úhel záběru α = 20° má správně být 0,01463 místo chybně vytištěné hodnoty 0,001463."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "U technické státní normy ČSN 02 1432 „Závěrné matice” má být správně:\nNorma nahrazuje normu ČSN 1195-44 tab. XVII."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "V technické státní normě ČSN 34-1536 „Předpisy pro traťová vedení elektrických drah s napětím 1500 a 3000 V” se doplňuje čl. 31 odst. d) a bude znít:\n„d) Traťové vedení musí snésti ihned po dokončení stavby zkušební střídavé efektivní napětí rovné 12násobnému jmenovitému napětí traťového vedeni po dobu 15 minut za suchého počasí a 6násobnému jmenovitému napětí traťového vedení za deštivého počasí rovněž po dobu 15 minut. Pro tunely platí vždy hodnoty zkušebního napětí za deštivého počasí. Zkouší se každý elektrický odpinatelný úsek zvlášť. Ve stanicích se zkouší vždy celá odpinatelná skupina.”\nDále se čl. 31 rozšiřuje o odstavce e) a f) tohoto znění:\n„e) Traťové vedení, které se uvádí do provozu na trati pojížděné parními lokomotivami nebo za delší dobu používání, se zkouší 50% zkušebním napětím podle odstavce d) tohoto článku.\nf) Zkouší-li se traťové vedení stejnoměrným napětím, nutno hodnoty platné pro zkoušení střídavým napětím zvýšit o 41%.”"
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "V technické státní normě ČSN 37 1600 „Spojovací materiál pro elektrická svítidla” se doplňuje čl. 10, odst. b) a bude znít:\n„b) Styčné části (pokud nejsou z barevných kovů), vyjímaje plochy, které se po smontování opracovávají, musí se spolehlivě chránit proti okysličování. Styčná místa musí být kovově čistá.”\nČl. 46 odst. a) se doplňuje a bude znít:\n„a) Spojovací materiál pro elektrická svítidla obyčejný (do sucha) se zkouší ve vlhku podle stupně I; spojovací materiál pro elektrická svítidla chráněný (do vlhka) se zkouší ve vlhku podle stupně II.”"
+    },
+    {
+      "provision_ref": "Čl. 5.",
+      "section": "5",
+      "title": "Čl. 5.",
+      "content": "V technické státní normě ČSN 46 3412 „Ořechy vlašské suché” se mění v části I. čl. 2, písmeno a) a bude zalít:\na) „U I. jakosti: nejvýše 15% váhy plodů s červivými nebo jinak poškozenými jádry”."
+    },
+    {
+      "provision_ref": "Čl. 6.",
+      "section": "6",
+      "title": "Čl. 6.",
+      "content": "V technické státní normě ČSN 66 6411 „Fotografické desky” v tabulce rozměrů fotografických desek pro normální kasety fotografických přístrojů na straně 1 se mění u označení 180 X 240 rozměr šířky na 178 místo 17."
+    },
+    {
+      "provision_ref": "Čl. 7.",
+      "section": "7",
+      "title": "Čl. 7.",
+      "content": "Číslo technické státní normy „Tkaniny na padáky druh 267 a 282” uvedené v § 14 vyhlášky úřadu pro normalisaci č. 178/1954 Ú. l. zní správně ČSN 80 4597."
+    },
+    {
+      "provision_ref": "Čl. 8.",
+      "section": "8",
+      "title": "Čl. 8.",
+      "content": "Vyhláška nabývá účinnosti dnem 1. září 1954."
+    }
+  ],
+  "definitions": []
+}

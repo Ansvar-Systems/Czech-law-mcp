@@ -1,0 +1,33 @@
+{
+  "id": "cz:71/1956",
+  "type": "statute",
+  "title": "71/1956 Sb., Nařízení, kterým se mění a doplňuje nařízení ministra financí o správních poplatcích",
+  "title_en": "",
+  "short_name": "71/1956 Sb.",
+  "status": "in_force",
+  "issued_date": "1956-12-29",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1956/71",
+  "description": "Nařízení, kterým se mění a doplňuje nařízení ministra financí o správních poplatcích",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Nařízení ministra financí č. 60/1955 Sb., o správních poplatcích, se mění a doplňuje takto:\n1. § 5 odst. 1 zní:\n„(1) Poplatky se platí kolkovými známkami, nepřevyšují-li při ústním vyměření 300 Kčs a při vyměření písemnou výzvou k zaplacení poplatku nepřítomnému poplatníkovi 100 Kčs.“\n2. § 5 odst. 4 zní:\n„(4) Kolkovými známkami se neplatí poplatky, které se podle sazebníků platí v hotovosti nebo které lze podle okolností vhodněji vybrat v hotovosti, i když nepřevyšují 300 Kčs, po případě 100 Kčs.“\n3. V § 8 se jako č. 1 vkládá ustanovení, které zní:\n„1. hospodářské organisace státního socialistického sektoru (národní podniky, jiné organisace, na které se vztahují předpisy o národních podnicích, podniky místního průmyslu, podniky komunálního hospodářství a pod.), jakož i podniky zahraničního obchodu, pokud jde o poplatky podle sazebníků I, II a VI; toto osvobození se nevztahuje na úkony Státní technické inspekce poplatné podle položek 4, 37 až 41 sazebníku I a na úkony dopravních inspektorátů poplatné podle položky 73 písm. b) a položky 74 písm. c) sazebníku I“;\ndosavadní označení č. 1 až 4 se mění na č. 2 až 5.\n4. Částka 200 Kčs uvedená v § 14 se zvyšuje na 300 Kčs.\n5. V sazebníku I se mění ustanovení položky 23, poznámky 2 k pol. 32 a ustanovení položek 36, 73 a 74. Nové znění uvedených ustanovení je v příloze, která je součástí tohoto nařízení."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1957.\nSazebník I\nsprávních poplatků vybíraných výkonnými orgány národních výborů a jinými orgány státní správy, s výjimkou orgánů vybírajících poplatky podle sazebníků II až VI."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "invalidního",
+      "definition": "provozovatel, který lékařským vysvědčením Ústavu národního zdraví prokáže invaliditu vyšší než 60 %",
+      "source_provision": "Čl. II."
+    }
+  ]
+}

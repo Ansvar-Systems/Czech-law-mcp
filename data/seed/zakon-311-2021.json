@@ -1,0 +1,35 @@
+{
+  "id": "cz:311/2021",
+  "type": "statute",
+  "title": "311/2021 Sb., Vyhláška, kterou se mění vyhláška č. 226/2015 Sb., o zásadách pro vymezení zóny havarijního plánování a postupu při jejím vymezení a o náležitostech obsahu vnějšího havarijního plánu a jeho struktuře",
+  "title_en": "",
+  "short_name": "311/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-08-27",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/311",
+  "description": "Vyhláška, kterou se mění vyhláška č. 226/2015 Sb., o zásadách pro vymezení zóny havarijního plánování a postupu při jejím vymezení a o náležitostech obsahu vnějšího havarijního plánu a jeho struktuře",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 226/2015 Sb., o zásadách pro vymezení zóny havarijního plánování a postupu při jejím vymezení a o náležitostech obsahu vnějšího havarijního plánu a jeho struktuře, se mění takto:\n1. V § 2 písmeno c) zní:\n„c) modifikačním faktorem číselná hodnota, která charakterizuje očekávané následky podle typového scénáře a nebezpečnost látky nebo skupiny látek shodné klasifikace a obdobných fyzikálně-chemických vlastností, které mají vliv na stanovení velikosti zóny havarijního plánování,“.\n2. V § 4 odst. 1 se v písmenu e) slovo „nebo“ zrušuje, na konci odstavce 1 se tečka nahrazuje čárkou a slovem „nebo“ a doplňuje se písmeno g), které včetně poznámky pod čarou č. 11 zní:\n„g) s využitím výstupů analýzy a hodnocení rizik11) při dodržení pravidel podle přílohy č. 1 oddílu 3, pokud nelze výchozí hranici určit podle písmen a) až f).\n11) § 9 zákona č. 224/2015 Sb., vyhláška č. 227/2015 Sb., o náležitostech bezpečnostní dokumentace a rozsahu informací poskytovaných zpracovateli posudku.“.\n3. Příloha č. 1 zní:\n„Příloha č. 1 k vyhlášce č. 226/2015 Sb.\nVymezení zóny havarijního plánování"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "Oddíl 3 - Pravidla pro stanovení parametru L s využitím výstupů analýzy a hodnocení rizik",
+      "content": "Zóna havarijního plánování vymezená podle vyhlášky č. 226/2015 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, pro toxické kapaliny, látky podporující hoření nebo ropné látky se vymezí způsobem stanoveným ve vyhlášce č. 226/2015 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, do 12 měsíců ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "Oddíl 3 - Pravidla pro stanovení parametru L s využitím výstupů analýzy a hodnocení rizik - Přechodné ustanovení",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2022."
+    }
+  ],
+  "definitions": []
+}

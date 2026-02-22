@@ -1,0 +1,38 @@
+{
+  "id": "cz:sm:81/2001",
+  "type": "statute",
+  "title": "81/2001 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Tureckou republikou o změně Protokolu 3, týkajícího se definice pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "title_en": "",
+  "short_name": "81/2001 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2001-08-22",
+  "in_force_date": "2001-08-22",
+  "url": "https://www.e-sbirka.cz/sm/2001/81",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Tureckou republikou o změně Protokolu 3, týkajícího se definice pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 3, týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce, se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně.“.\n2. Článek 7 se nahrazuje tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "Toto Rozhodnutí se provádí od 1. ledna 2001 a vstoupí v platnost dnem doručení pozdější diplomatické nóty potvrzující, že byly dokončeny vnitrostátní právní postupy příslušné Strany nezbytné pro vstup tohoto Rozhodnutí v platnost.\nDáno v Praze dne 14. prosince 2000 ve dvou původních vyhotoveních, každé v jazyce anglickém, přičemž obě znění mají stejnou platnost.\n1) Dohoda o volném obchodu mezi Českou republikou a Tureckou republikou ze dne 3. října 1997 byla vyhlášena pod č. 206/1998 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    }
+  ]
+}

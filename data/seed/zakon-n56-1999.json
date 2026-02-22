@@ -1,0 +1,27 @@
+{
+  "id": "cz:n56/1999",
+  "type": "statute",
+  "title": "n56/1999 Sb., Redakční sdělení o opravě chyb ve vyhláškách č. 281/1999 Sb. a č. 282/1999 Sb.",
+  "title_en": "",
+  "short_name": "n56/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-12-01",
+  "in_force_date": "1999-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1999/n56",
+  "description": "Redakční sdělení o opravě chyb ve vyhláškách č. 281/1999 Sb. a č. 282/1999 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Na straně 4506 chybějící poznámky pod čarou zní:\nNa straně 4507 chybějící poznámky pod čarou zní:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Na straně 4510 chybějící poznámka pod čarou zní:"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,496 @@
+{
+  "id": "cz:376/2011",
+  "type": "statute",
+  "title": "376/2011 Sb., Vyhláška, kterou se provádějí některá ustanovení zákona o veřejném zdravotním pojištění",
+  "title_en": "",
+  "short_name": "376/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-12-06",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/376",
+  "description": "Vyhláška, kterou se provádějí některá ustanovení zákona o veřejném zdravotním pojištění",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) pravidla pro výběr rozhodného období pro přepočet zahraničních cen léčivého přípravku (dále jen „přípravek“) a nekategorizované potraviny z cizí měny,\nb) rozhodné období a pravidla pro zjištění ceny výrobce a pro posuzování dostupnosti přípravku a nekategorizované potraviny,\nc) způsob přepočtu výše maximální ceny podobného přípravku podle § 39a odst. 5 až 7 zákona,\nd) pravidla pro vyloučení zahraniční ceny výrobce zjištěné podle § 39a odst. 2 zákona z použití pro stanovení maximální ceny přípravku a pravidla pro vyloučení zahraniční ceny výrobce zjištěné podle § 39zg odst. 7 z použití pro stanovení maximální ceny nekategorizované potraviny,\ne) přípustnou odchylku v počtu jednotek lékové formy v balení přípravku (dále jen „velikost balení“) při hledání zahraniční ceny výrobce podle § 39a odst. 2 zákona a přípustnou odchylku ve velikosti balení při hledání zahraniční ceny výrobce nekategorizované potraviny podle § 39zg odst. 7 zákona,\nf) pravidla pro zvýšení maximální ceny přípravku a nekategorizované potraviny ve veřejném zájmu podle § 17 odst. 2 zákona,\ng) pravidla pro oznamování nejvyšší ceny, za kterou hodlá držitel rozhodnutí o registraci léčivého přípravku, výrobce nebo dovozce kategorizované potraviny pro zvláštní lékařské účely nebo neregistrovaného léčivého přípravku používaného v rámci specifického léčebného programu uvádět přípravek na trh, u přípravků, které nepodléhají regulaci ceny výrobce stanovením maximální ceny,\nh) pravidla a limity pro zvýšení nebo snížení úhrady oproti stanovené základní úhradě s ohledem na vlastnosti posuzovaného přípravku ve srovnání s ostatními v zásadě terapeuticky zaměnitelnými přípravky,\ni) způsob přepočtu výše úhrady podobného přípravku podle § 39b odst. 5 až 7 zákona,\nj) použití postupů podle § 39b až 39i zákona pro stanovení nebo změnu výše a podmínek úhrady přípravků složených ze 2 a více léčivých látek,\nk) použití postupů podle § 39b až 39i zákona pro stanovení nebo změnu výše a podmínek úhrady přípravků v podobě tekutých nedělených lékových forem,\nl) způsob stanovení úhrady přípravků, u kterých je podána žádost o stanovení úhrady ve stejné výši bez ohledu na obsah léčivé látky v jednotce lékové formy (dále jen „síla“),\nm) pravidla pro stanovování podmínek úhrady v podobě preskripčních a indikačních omezení a způsobů úhrady,\nn) postup pro vypočtení nejnižší ceny výrobce podle § 39c odst. 2 písm. a) zákona,\no) podrobnosti stanovení základní úhrady,\np) rozhodné období pro posouzení dostupnosti a zjištění ceny výrobce podle § 39b a 39c zákona a způsob ověření obchodování podobného přípravku,\nq) pravidla pro posuzování přítomnosti přípravku na trhu,\nr) pravidla pro zvýšení a snížení základní úhrady ve veřejném zájmu,\ns) kritéria posuzování přípravků, jejichž terapeutická účinnost je nízká, nepoužívají se k příčinné léčbě onemocnění, nebo se používají k léčbě nezávažných onemocnění,\nt) způsob stanovení obvyklé denní terapeutické dávky,\nu) postup pro stanovení základní úhrady podle § 39c odst. 5 zákona,\nv) základní strukturu údajů poskytovaných specializovaným pracovištěm podle § 39d odst. 4 zákona v souvislosti s používáním vysoce inovativního léčivého přípravku a výsledcích této léčby,\nw) strukturu údajů a náležitosti dokumentace podle § 39f odst. 5 a 6 zákona,\nx) strukturu, způsob, formu a časový interval hlášení podle § 39zi odst. 2 zákona,\ny) kritéria pro výběr nejbližší terapeuticky porovnatelné potraviny pro zvláštní lékařské účely podle § 39zg odst. 7 písm. c) zákona,\nz) seznam členských států Evropské unie, které zveřejňují informace o cenách potravin pro zvláštní lékařské účely."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pojmy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se dále rozumí\na) referenčním přípravkem, podle jehož ceny výrobce je stanovena základní úhrada, přípravek s nejnižší zahraniční nebo českou cenou výrobce za obvyklou denní terapeutickou dávku,\nb) referenční indikací indikace, která je společná pro všechny přípravky zařazené do referenční skupiny a od které se odvíjí stanovení základní úhrady dané referenční skupiny,\nc) upotřebitelným množstvím množství přípravku vyjádřené počtem jednotek lékové formy, které lze spotřebovat, pokud bude přípravek užíván v nejvyšším možném dávkování s ohledem na dobu použitelnosti od prvního otevření, nejvýše však skutečné množství přípravku,\nd) výchozí dávkou výše obvyklé denní terapeutické dávky vydělená počtem jednotlivých dávek za den,\ne) oznámenou cenou nejvyšší tržní cena, za kterou hodlá držitel rozhodnutí o registraci léčivého přípravku, výrobce nebo dovozce kategorizované potraviny nebo neregistrovaného léčivého přípravku používaného v rámci specifického léčebného programu uvádět na trh přípravek, který nepodléhá regulaci ceny výrobce stanovením maximální ceny,\nf) nezávažným onemocněním onemocnění, které způsobuje jen krátkodobou mírnou poruchu zdraví,\ng) příčinnou léčbou onemocnění jakákoliv terapie vedoucí k nápravě, zastavení rozvoje nebo zmírnění patologických procesů zodpovědných za rozvoj onemocnění, zlepšení měřitelného parametru, který je obecně považován za významný v patogenezi příslušného onemocnění nebo vzniku případných komplikací, ke stabilizaci zdravotního stavu pacienta nebo k odstranění nebo zmírnění klinicky významných projevů onemocnění."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přepočet zahraničních cen z cizí měny",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Ceny přípravků v cizí měně jsou přepočítávány na českou měnu čtvrtletním průměrem kurzu devizového trhu vyhlášeným Českou národní bankou za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení (dále jen „rozhodný kurz“).\n(2) Pokud se rozhodný kurz liší o více než 10 % oproti průměru čtvrtletních kurzů devizového trhu vyhlášených Českou národní bankou za 6 kalendářních čtvrtletí předcházejících rozhodnému kurzu a zároveň se u posuzovaného přípravku zjistí nejvýše 3 ceny výrobce, pak se cena, ke které se váže taková odlišnost rozhodného kurzu, přepočte na českou měnu průměrem kurzu devizového trhu vyhlášeným Českou národní bankou za 6 kalendářních čtvrtletí předcházejících rozhodnému kurzu.\n(3) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, přepočítá Státní ústav pro kontrolu léčiv (dále jen „Ústav“) ceny přípravků v cizí měně na českou měnu znovu, a to podle odstavce 1 obdobně, vždy za tomu předcházející kalendářní čtvrtletí.\n(4) V případě vydání rozhodnutí v hloubkové nebo zkrácené revizi, rozhodnutí o stanovení maximální ceny nebo rozhodnutí o stanovení výše a podmínek úhrady, jakož i o jejich změně nebo zrušení (dále jen „rozhodnutí“), nebo rozsudku soudu, kterým je zrušeno rozhodnutí Ústavu a věc vrácena k novému projednání, se použijí kurzy obdobně podle odstavce 1, a to za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno nové projednání."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zjištění ceny výrobce",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Rozhodným obdobím pro zjištění cen výrobce je 21 dnů ode dne zahájení správního řízení.\n(2) V případě postupu podle § 39a odst. 2 písm. b) zákona se odstavec 1 nepoužije; písemné ujednání o nejvyšší ceně výrobce podle § 39a odst. 2 písm. b) zákona lze předložit ve lhůtě k vyjádření se k podkladům pro rozhodnutí podle § 39g odst. 5 zákona.\n(3) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí ceny výrobce znovu, a to ve lhůtě 21 dnů.\n(4) V případě vydání rozhodnutí nebo rozsudku soudu, kterým je zrušeno rozhodnutí Ústavu a věc vrácena k novému projednání, se zjistí ceny výrobce znovu, a to ve lhůtě 21 dnů ode dne zahájení nového projednání."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Posuzování dostupnosti přípravku",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Rozhodným obdobím pro posuzování dostupnosti přípravku je kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení.\n(2) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí dostupnost přípravku znovu, vždy za tomu předcházející kalendářní čtvrtletí.\n(3) V případě vydání rozhodnutí nebo rozsudku soudu, kterým je rozhodnutí Ústavu zrušeno a věc vrácena k novému projednání, se zjistí dostupnost přípravku znovu, a to za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno nové projednání."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA II - ZPŮSOB PŘEPOČTU MAXIMÁLNÍ CENY PODOBNÉHO PŘÍPRAVKU",
+      "content": "Maximální cena posuzovaného přípravku podle § 39a odst. 5 až 7 zákona se stanoví podle balení podobného přípravku podle § 39b odst. 4 zákona s nejbližším počtem jednotek lékové formy tak, že maximální cena tohoto podobného přípravku se vydělí počtem obvyklých denních terapeutických dávek v jeho balení a vynásobí počtem obvyklých denních terapeutických dávek v balení posuzovaného přípravku."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Vyloučení zahraniční ceny výrobce",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA III - PRAVIDLA PRO VÝPOČET MAXIMÁLNÍ CENY",
+      "content": "(1) Pokud nejnižší cena výrobce posuzovaného přípravku zjištěná v zemi referenčního koše je nižší o více než 20 % než průměr druhé a třetí nejnižší ceny výrobce tohoto přípravku v ostatních zemích referenčního koše, použije se pro stanovení maximální ceny výrobce tento průměr nebo nejvyšší cena výrobce na základě písemného ujednání podle § 39a odst. 2 písm. b) zákona, je-li nižší než tento průměr.\n(2) Pokud Ústav u posuzovaného přípravku nalezne více než 3 ceny výrobce, nepoužije pro výpočet maximální ceny výrobce takovou cenu, ke které se váže rozhodný kurz, který se liší o více než 10 % oproti průměru čtvrtletních kurzů devizového trhu vyhlášených Českou národní bankou za 6 kalendářních čtvrtletí předcházejících rozhodnému kurzu. Ustanovení odstavce 1 se použije obdobně.\n(3) Ústav vyloučí zjištěnou zahraniční cenu výrobce v členském státě Evropské unie, který přijal plošné opatření mající vliv na cenu výrobce přípravku1), pokud Ústav o takovém plošném opatření obdržel oficiální informaci od příslušné autority daného členského státu nebo od Ministerstva zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Odchylka ve velikosti balení",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA III - PRAVIDLA PRO VÝPOČET MAXIMÁLNÍ CENY",
+      "content": "(1) Jestliže je posuzovaný přípravek dodáván na trh v zemi referenčního koše pouze v odlišné velikosti balení, než je balení určené pro český trh, a odchylka ve velikosti balení přípravku není větší než 10 % jednotek lékové formy, přepočte se zahraniční cena výrobce přímo úměrně na počet jednotek lékové formy posuzovaného přípravku určeného pro český trh.\n(2) V případě, že na trhu v zemi referenčního koše není posuzovaný přípravek ani s odchylkou ve velikosti balení přípravku nejvýše 10 % jednotek lékové formy, lze použít i přípravek v odlišné velikosti balení od balení určeného pro český trh s odchylkou větší.\n(3) Odstavec 2 se nepoužije, jestliže držitel rozhodnutí o registraci posuzovaného přípravku vysloví nesouhlas s použitím tohoto postupu, a to nejpozději ve lhůtě k vyjádření se k podkladům pro rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zvýšení maximální ceny ve veřejném zájmu",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA IV - ÚPRAVA MAXIMÁLNÍ CENY",
+      "content": "Maximální cenu výrobce lze na žádost účastníka správního řízení zvýšit ve veřejném zájmu podle § 17 odst. 2 zákona se souhlasem všech zdravotních pojišťoven uděleným nejpozději ve lhůtě k vyjádření se k podkladům pro rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO MAXIMÁLNÍ CENY PŘÍPRAVKŮ > HLAVA V - PRAVIDLA PRO OZNAMOVÁNÍ NEJVYŠŠÍ CENY",
+      "content": "(1) Po stanovení výše a podmínek úhrady přípravku oznamuje osoba uvedená v § 39f odst. 2 písm. a) nebo b) zákona\na) do patnáctého dne měsíce předcházejícího kalendářnímu čtvrtletí zvýšení oznámené ceny, za kterou bude přípravek uváděn na český trh od kalendářního čtvrtletí následujícího po oznámení zvýšení ceny,\nb) do patnáctého dne předcházejícího kalendářního měsíce snížení oznámené ceny, za kterou bude přípravek uváděn na český trh od kalendářního měsíce následujícího po oznámení snížení ceny.\n(2) Oznámit snížení ceny podle odstavce 1 písm. b) může osoba uvedená v § 39f odst. 2 písm. a) nebo b) zákona v případě, že přípravek v následujícím období bude skutečně uváděn na český trh.\n(3) Za oznámenou cenu se považuje maximální cena přípravku platná do dne účinnosti cenového rozhodnutí, kterým se posuzovaný přípravek stal neregulovaný maximální cenou výrobce, pokud nebylo oznámeno ve lhůtě podle odstavce 1 jinak."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Přepočet zahraničních cen z cizí měny",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Ceny přípravků v cizí měně jsou přepočítávány na českou měnu čtvrtletním průměrem kurzu devizového trhu vyhlášeným Českou národní bankou za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení.\n(2) Pokud se rozhodný kurz liší o více než 10 % oproti průměru čtvrtletních kurzů devizového trhu vyhlášených Českou národní bankou za 6 kalendářních čtvrtletí předcházejících rozhodnému kurzu, pak se cena, ke které se váže taková odlišnost rozhodného kurzu, přepočte na českou měnu průměrem kurzu devizového trhu vyhlášeným Českou národní bankou za 6 kalendářních čtvrtletí předcházejících rozhodnému kurzu.\n(3) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, přepočítá Ústav ceny přípravků v cizí měně na českou měnu znovu, a to podle odstavce 1 obdobně, vždy za tomu předcházející kalendářní čtvrtletí.\n(4) V případě vydání rozhodnutí nebo rozsudku soudu, kterým je zrušeno rozhodnutí Ústavu a věc vrácena k novému projednání, se použijí kurzy obdobně podle odstavce 1, a to za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno nové projednání."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zjištění ceny výrobce a vyloučení zahraniční ceny výrobce",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Rozhodným obdobím pro zjištění cen výrobce je 21 dnů ode dne zahájení správního řízení.\n(2) V případě postupu podle § 39c odst. 2 písm. c) nebo d) zákona se odstavec 1 nepoužije; písemné ujednání o nejvyšší ceně výrobce podle § 39a odst. 2 písm. b) zákona a dohodu o úhradě lze předložit ve lhůtě k vyjádření se k podkladům pro rozhodnutí podle § 39g odst. 5 zákona.\n(3) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí ceny výrobce znovu, a to ve lhůtě 21 dnů.\n(4) Ústav vyloučí zjištěnou zahraniční cenu výrobce v členském státě Evropské unie podle § 7 odst. 3 obdobně.\n(5) V případě vydání rozhodnutí nebo rozsudku soudu, kterým je zrušeno rozhodnutí Ústavu a věc vrácena k novému projednání, se zjistí ceny výrobce znovu, a to ve lhůtě 21 dnů ode dne zahájení nového projednání."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Posuzování dostupnosti přípravku",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Rozhodným obdobím pro posuzování dostupnosti přípravku je kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení.\n(2) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí dostupnost přípravku znovu, vždy za tomu předcházející kalendářní čtvrtletí.\n(3) V případě vydání rozhodnutí nebo rozsudku soudu, kterým je rozhodnutí Ústavu zrušeno a věc vrácena k novému projednání, se zjistí dostupnost přípravku znovu, a to za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno nové projednání.\nZpůsob ověření obchodování podobného přípravku"
+    },
+    {
+      "provision_ref": "§ 13a",
+      "section": "13a",
+      "title": "§ 13a",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Podobný přípravek v referenční skupině obsahující léčivé přípravky hrazené při předepsání na recept je považován za obchodovaný na trhu v České republice, pokud množství všech podobných přípravků v léčivé látce podle § 39b odst. 4 vět první a druhé zákona dodaných za daný kalendářní měsíc činilo alespoň 5 % z průměrného měsíčního objemu v rámci všech v zásadě terapeuticky zaměnitelných léčivých přípravků se stejnou léčivou látkou.\n(2) Průměrným měsíčním objemem podle odstavce 1 se rozumí jedna dvanáctina součtu údajů o objemu dodávek za posledních 12 po sobě jdoucích kalendářních měsíců.\n(3) Ústav vypočítá množství podle odstavce 1 a průměrný měsíční objem podle odstavce 2 jako počet definovaných denních dávek v balení vynásobený počtem balení z hlášení o objemu dodávek podle § 77 odst. 1 písm. f) zákona o léčivech; není-li stanovena definovaná denní dávka, Ústav použije obvyklou denní terapeutickou dávku, a není-li stanovena ani obvyklá denní terapeutická dávka, použije množství léčivé látky v jednotce lékové formy."
+    },
+    {
+      "provision_ref": "§ 13b",
+      "section": "13b",
+      "title": "§ 13b",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA I - ROZHODNÁ OBDOBÍ",
+      "content": "(1) Podobný přípravek v referenční skupině obsahující pouze léčivé přípravky hrazené jako zvlášť účtovaný léčivý přípravek spolu s příslušným zdravotním výkonem je považován za obchodovaný na trhu v České republice, pokud množství všech podobných přípravků v léčivé látce podle § 39b odst. 4 vět první a druhé zákona dodaných za daný kalendářní měsíc činilo alespoň 2 % z průměrného měsíčního objemu v rámci všech v zásadě terapeuticky zaměnitelných léčivých přípravků se stejnou léčivou látkou.\n(2) Průměrným měsíčním objemem podle odstavce 1 se rozumí jedna dvanáctina součtu údajů o objemu dodávek za posledních 12 po sobě jdoucích kalendářních měsíců.\n(3) Ústav vypočítá množství podle odstavce 1 a průměrný měsíční objem podle odstavce 2 jako počet definovaných denních dávek v balení vynásobený počtem balení z hlášení o objemu dodávek podle § 33 odst. 2 zákona o léčivech; není-li stanovena definovaná denní dávka, Ústav použije obvyklou denní terapeutickou dávku, a není-li stanovena ani obvyklá denní terapeutická dávka, použije množství léčivé látky v jednotce lékové formy."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Výpočet základní úhrady",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA II - POSTUP A PODROBNOSTI STANOVENÍ ZÁKLADNÍ ÚHRADY",
+      "content": "(1) Výpočet základní úhrady podle § 39c odst. 2 zákona se provede porovnáním cen výrobce přípravků o síle v intervalu ohraničeném spodní mezí představující polovinu výchozí dávky a horní mezí představující dvojnásobek výchozí dávky (dále jen „interval“).\n(2) Ceny výrobce všech přípravků v rámci referenční skupiny, které náleží do intervalu, se vydělí počtem obvyklých denních terapeutických dávek v nich obsažených.\n(3) Hodnoty získané při výpočtu základní úhrady se zaokrouhlují na 8 desetinných míst. Základní úhrada za obvyklou denní terapeutickou dávku se zaokrouhluje na 4 desetinná místa."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA III - ZPŮSOB STANOVENÍ OBVYKLÉ DENNÍ TERAPEUTICKÉ DÁVKY",
+      "content": "(1) Obvyklá denní terapeutická dávka je standardní udržovací dávkou se srovnatelnou účinností pro běžného pacienta v referenční indikaci. Obvyklá denní terapeutická dávka je vyjádřena množstvím léčivé látky na jeden den terapie.\n(2) Obvyklá denní terapeutická dávka se stanoví\na) podle definované denní dávky doporučené Světovou zdravotnickou organizací, není-li dále stanoveno jinak,\nb) podle doporučeného dávkování uvedeného v souhrnu údajů o přípravku, je-li odlišné od dávkování uvedeného v písmenu a),\nc) podle ve správním řízení prokázaného obvyklého dávkování v běžné klinické praxi, je-li odlišné od dávkování uvedeného v písmenech a) a b).\n(3) Pokud je přípravek dávkován intervalově, přepočítává se dávkování pro potřeby stanovení obvyklé denní terapeutické dávky na průměrnou denní dávku. Pokud je přípravek dávkován podle tělesné hmotnosti pacienta, přepočítává se dávkování s ohledem na průměrnou hmotnost. Pokud je přípravek dávkován podle tělesného povrchu pacienta, přepočítává se dávkování s ohledem na ideální tělesný povrch.\n(4) Pokud nelze obvyklou denní terapeutickou dávku stanovit vzhledem k charakteru přípravku a různému rozsahu dávkování s ohledem na individualizaci použití, použije se pro stanovení obvyklé denní terapeutické dávky jedna dávka přípravku nebo, není-li to možné, vhodná jednotka hmotnosti přípravku.\n(5) U přípravků určených k léčbě akutních onemocnění, vyplývá-li to z terapeutického užití a charakteru posuzovaného přípravku, při porovnávání nahraditelnosti takového přípravku s jinými v referenční skupině, se při stanovení obvyklé denní terapeutické dávky zohlední nezbytná délka léčby, pokud se mezi porovnávanými přípravky odlišuje. Výsledná úhrada se poté upraví s ohledem na rozdíly v nezbytné délce léčby pro srovnávané přípravky.\n(6) Obvyklá denní terapeutická dávka stanovená podle odstavců 2 až 5 v rámci revize úhrad podle § 39l zákona se použije až do změny v následující hloubkové revizi úhrad.\n(7) Obvyklá denní terapeutická dávka se v rámci revize úhrad změní pouze, je-li ve správním řízení prokázáno, že obvyklé dávkování v běžné klinické praxi je odlišné od obvyklé denní terapeutické dávky stanovené v předchozí revizi úhrad."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Zvýšení základní úhrady ve veřejném zájmu",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA IV - ÚPRAVA ZÁKLADNÍ ÚHRADY",
+      "content": "(1) Ve veřejném zájmu podle § 17 odst. 2 zákona může Ústav se souhlasem všech zdravotních pojišťoven zvýšit základní úhradu, jestliže jsou současně splněny tyto podmínky:\na) jde o referenční skupinu, ve které jsou přípravky ověřeny užíváním v praxi a jsou nezbytné při poskytování zdravotní péče,\nb) jde o referenční skupinu, ve které by přípravky bez zvýšení základní úhrady ve veřejném zájmu mohly být nahrazeny pouze přípravky nákladnějšími, a\nc) zvýšení základní úhrady je nezbytné pro setrvání přípravků na trhu.\n(2) Nejde-li o řízení podle § 39d nebo § 39da zákona, může Ústav ve veřejném zájmu podle § 17 odst. 2 zákona zvýšit základní úhradu, jestliže je základní úhrada vypočtena podle § 39c odst. 2 písm. a) zákona a cena referenčního přípravku je nižší o více než 20 % než průměr druhé a třetí nejnižší ceny referenčního přípravku zjištěných v ostatních členských státech Evropské unie. Je-li splněna podmínka podle věty první, pak je základní úhrada zvýšena na úroveň průměru druhé a třetí nejnižší ceny výrobce referenčního přípravku, nejvýše však na úroveň zajišťující plnou úhradu alespoň jednoho přípravku v dané referenční skupině.\n(3) Ústav nemůže zvýšit základní úhradu podle odstavců 1 a 2 současně.\n(4) Základní úhrada zvýšená podle odstavců 1 a 2 nesmí v přepočtu překročit denní náklady srovnatelně účinné zdravotní péče."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Úprava základní úhrady podle § 39c odst. 5 zákona",
+      "chapter": "ČÁST TŘETÍ - PRAVIDLA PRO ZÁKLADNÍ ÚHRADU > HLAVA IV - ÚPRAVA ZÁKLADNÍ ÚHRADY",
+      "content": "(1) Pokud přípravky v referenční skupině náleží do skupiny přílohy č. 2 zákona, a v této není zajištěn žádný plně hrazený přípravek, a plná úhrada alespoň jednoho přípravku není zajištěna postupem podle § 39c odst. 2 zákona ani se zvýšením této úhrady podle § 16 v posuzované referenční skupině, pak ve správním řízení o revizi úhrady posuzované referenční skupiny Ústav stanoví základní úhradu tak, aby byl v posuzované referenční skupině nejméně nákladný přípravek plně hrazen.\n(2) Nejméně nákladný přípravek je přípravek s nejnižší cenou výrobce, za niž je obchodován v České republice; pro zjištění nejméně nákladného přípravku se použije § 14 obdobně."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Úhrada výchozí dávky a úhrady přípravků v rámci intervalu",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA I - ZPŮSOB VÝPOČTU ÚHRADY PŘÍPRAVKU",
+      "content": "(1) Úhrada výchozí dávky se vypočte jako podíl základní úhrady za obvyklou denní terapeutickou dávku a počtu jednotlivých dávek za den.\n(2) Úhrada za jednotku lékové formy o síle odlišné od výchozí dávky se v rámci intervalu vypočte přímo úměrně z úhrady výchozí dávky.\n(3) Úhrada za balení přípravku se silou v rámci intervalu se vypočte jako součin úhrady za jednotku lékové formy tohoto přípravku podle odstavce 2 a velikosti balení."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Úhrada přípravků mimo interval",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA I - ZPŮSOB VÝPOČTU ÚHRADY PŘÍPRAVKU",
+      "content": "(1) Úhrada za jednotku lékové formy o síle pod spodní mezí intervalu se vypočte podle vzorce\nUS1=USI1×SSI10,621488,\nkde US1 znamená úhradu za jednotku lékové formy o síle pod spodní mezí intervalu, USI1 znamená úhradu za jednotku lékové formy o síle odpovídající spodní mezi intervalu, S znamená posuzovanou sílu a SI1 znamená sílu odpovídající spodní mezi intervalu.\n(2) Úhrada za jednotku lékové formy o síle nad horní mezí intervalu se vypočte podle vzorce\nUS2=USI2×SSI20,621488,\nkde US2 znamená úhradu za jednotku lékové formy o síle nad horní mezí intervalu, USI2 znamená úhradu za jednotku lékové formy o síle odpovídající horní mezi intervalu, S znamená posuzovanou sílu a SI2 znamená sílu odpovídající horní mezi intervalu.\n(3) Přípravkům mimo interval se úhrada za balení vypočte jako součin úhrady za jednotku lékové formy podle odstavce 1 nebo 2 a velikosti balení.\n(4) Při postupu podle odstavce 1 nebo 2 se použijí hodnoty pro síly přípravku odpovídající spodní nebo horní mezi intervalu i v případě, že přípravky s těmito silami nejsou na trhu obchodovány nebo samostatně hrazeny."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA I - ZPŮSOB VÝPOČTU ÚHRADY PŘÍPRAVKU",
+      "content": "(1) Ustanovení § 19 se nepoužije a úhrada se vypočte podle § 18 i mimo interval u přípravků, které\na) jsou používány při zahájení terapie titrací dávek, pokud tato titrace trvá nejvýše po dobu 60 dnů,\nb) mají injekční lékovou formu, kdy k řádnému dávkování je třeba užít více než jednu jednotku lékové formy nebo kdy lze jednotku lékové formy rozdělit mezi více pacientů, nebo\nc) jsou dávkovány podle tělesných parametrů.\n(2) Postup podle § 18 a 19 se dále nepoužije u přípravků nezařazených do referenční skupiny, jejichž cena výrobce podléhá regulaci stanovením maximální ceny a je stejná za jednotku lékové formy pro všechny síly přípravku hrazené ze zdravotního pojištění. V takovém případě se úhrada stanoví ve stejné výši podle síly referenčního přípravku pro všechny síly posuzovaného přípravku tak, aby poměr úhrady k ceně přípravku byl konstantní.\n(3) Postup podle § 18 a 19 se dále nepoužije u tekutých perorálních přípravků, pokud není uvedeno jinak."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Úhrada podobných přípravků",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA I - ZPŮSOB VÝPOČTU ÚHRADY PŘÍPRAVKU",
+      "content": "Úhrada posuzovaného přípravku podle § 39b odst. 5 a 6 zákona se stanoví podle úhrady podobného přípravku podle § 39b odst. 4 zákona navrženého žadatelem; § 18, 19 a 20 se použijí obdobně."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Úhrada tekutých perorálních přípravků",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA II - ÚHRADA TEKUTÝCH NEDĚLENÝCH PŘÍPRAVKŮ",
+      "content": "(1) Počet výchozích dávek v balení se vypočte jako podíl celkového množství léčivé látky v balení a výchozí dávky.\n(2) Úhrada za výchozí dávku se vypočte jako podíl základní úhrady a počtu jednotlivých dávek za den.\n(3) Úhrada za balení tekutých perorálních přípravků se vypočte jako součin počtu výchozích dávek v balení a úhrady za výchozí dávku."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Úhrada topických oftalmologických léčivých přípravků k dlouhodobé terapii",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA II - ÚHRADA TEKUTÝCH NEDĚLENÝCH PŘÍPRAVKŮ",
+      "content": "(1) Základní úhrada u topických oftalmologických léčivých přípravků určených k dlouhodobé terapii se stanoví ve výši nejnižší zahraniční nebo české ceny výrobce všech léčivých přípravků v rámci referenční skupiny, jejichž síla náleží do intervalu, připadající na počet obvyklých denních terapeutických dávek v upotřebitelném množství.\n(2) Úhrada jednotky lékové formy se vypočte jako podíl základní úhrady podle odstavce 1 a počtu jednotek lékové formy v obvyklé denní terapeutické dávce.\n(3) Úhrada za balení s množstvím léčivé látky v jednotce objemu přípravku (dále jen „koncentrace“) v rámci intervalu se vypočte podle § 18 odst. 3 obdobně s použitím počtu jednotek lékové formy v upotřebitelném množství.\n(4) Úhrada za balení s koncentrací mimo interval se vypočte podle § 19 odst. 3 obdobně s použitím počtu jednotek lékové formy v upotřebitelném množství."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Úhrada oftalmologických topických léčivých přípravků ke krátkodobé terapii",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA II - ÚHRADA TEKUTÝCH NEDĚLENÝCH PŘÍPRAVKŮ",
+      "content": "Úhrada za balení topických léčivých přípravků převážně určených ke krátkodobé terapii onemocnění se stanoví ve výši nejnižší zahraniční nebo české ceny výrobce všech léčivých přípravků v rámci referenční skupiny za jedno balení bez ohledu na sílu a velikost balení léčivého přípravku."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "(1) Úhradu přípravku nebo skupině přípravků může Ústav zvýšit (dále jen „bonifikace“) nebo snížit (dále jen „malifikace“) oproti základní úhradě, pokud budou předloženy důkazy odůvodňující úpravu úhrady. Bonifikace nebo malifikace úhrady se uplatní pro všechny přípravky, které svými vlastnostmi splňují podmínky pro tuto úpravu.\n(2) Bonifikace nebo malifikace úhrady se provádí na návrh po předložení příslušných důkazů, především komplexního farmakoekonomického hodnocení včetně hodnocení nákladové efektivity a dopadu do rozpočtu předloženého osobou, která o bonifikaci nebo malifikaci požádala; předložení důkazů prokazujících nákladovou efektivitu a dopad do rozpočtu se nevyžaduje u bonifikace podle § 31. Předložené hodnocení musí zahrnovat veškeré podstatné vlastnosti hodnocené farmakoterapie, zejména náklady a přínosy s ní spojené. Přípravek musí být nákladově efektivní i po bonifikaci.\n(3) Při bonifikaci nebo malifikaci úhrady přípravku oproti základní úhradě se kritéria uvedená v § 39b odst. 2 zákona hodnotí oproti referenčnímu přípravku nebo přípravku podle § 16 odst. 2 nebo § 17 odst. 2, pokud byl použit pro stanovení základní úhrady, nebo, je-li to možné, s přípravky v téže referenční skupině, které takovému přípravku svými vlastnostmi odpovídají."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Limitace bonifikace úhrady",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "(1) Bonifikace úhrady přípravku se sčítají.\n(2) Výsledná úhrada přípravku s bonifikací podle ustanovení § 27 až 30 nesmí být vyšší než 130 % úhrady takového přípravku vypočtené ze základní úhrady.\n(3) Bonifikovat lze úhradu přípravku nebo skupiny přípravků nejvýše o takovou procentní výši, která zajistí, že ve skupině přípravků s bonifikací za stejné vlastnosti bude zajištěn alespoň jeden plně hrazený přípravek. To neplatí u bonifikace podle § 30."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Bonifikace a malifikace s ohledem na účinnost",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "(1) Při hodnocení účinnosti se posuzují klinicky významné\na) snížení úmrtnosti pacientů,\nb) prodloužení střední doby přežití pacientů,\nc) prodloužení doby do nezbytné hospitalizace,\nd) snížení nemocnosti a výskyt závažných komplikací onemocnění, nebo\ne) změny měřitelného parametru, který je obecně považován za významný v patogenezi příslušného onemocnění a vzniku případných komplikací.\n(2) Za přípravek s vyšší účinností se považuje přípravek, u kterého se při posuzování podle odstavce 1 prokáže klinicky významné\na) snížení úmrtnosti pacientů alespoň o 20 %,\nb) prodloužení předpokládané doby života alespoň o 40 % u pacientů, u nichž je předpokládané přežití kratší než 24 měsíců,\nc) prodloužení doby do nezbytné hospitalizace alespoň o 30 %, nebo\nd) snížení závažných klinicky významných projevů onemocnění alespoň o 30 %.\n(3) Bonifikovat úhradu přípravku z důvodu vyšší účinnosti lze nejvýše o 15 %.\n(4) V případě, že referenční přípravek nebo přípravek podle § 16 odst. 2 nebo § 17 odst. 2, pokud byl použit pro stanovení základní úhrady, má v porovnání s ostatními přípravky vyšší účinnost, malifikuje se úhrada ostatních přípravků, které nedisponují bonifikovanou vlastností, podle odstavců 2 a 3 obdobně.\n(5) V případě, že hlavním kritériem stanovení obvyklé denní terapeutické dávky v referenční skupině s více léčivými látkami je srovnatelná účinnost těchto léčivých látek, nelze bonifikovat úhradu přípravků za účinnost, která spočívá pouze ve vlastnostech léčivých látek v rámci referenční skupiny."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Bonifikace a malifikace s ohledem na bezpečnost",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "(1) Při hodnocení bezpečnosti se posuzuje klinicky významný\na) rozdíl ve výskytu závažných nežádoucích účinků,\nb) rozdíl v podílu pacientů, kteří z důvodu nežádoucích účinků musí ukončit terapii,\nc) výskyt závažných lékových interakcí.\n(2) Za přípravek s vyšší bezpečností se považuje přípravek, u kterého se při posuzování podle odstavce 1 prokáže klinicky významný\na) výskyt závažných nežádoucích účinků nižší alespoň o 30 %,\nb) podíl pacientů, kteří museli z důvodů nežádoucích účinků ukončit terapii, nižší alespoň o 30 %, nebo\nc) vznik závažných lékových interakcí nižší alespoň o 30 %.\n(3) Bonifikovat úhradu přípravku z důvodu vyšší bezpečnosti lze nejvýše o 15 %.\n(4) V případě, že referenční přípravek nebo přípravek podle § 16 odst. 2 nebo § 17 odst. 2, pokud byl použit pro stanovení základní úhrady, má v porovnání s ostatními přípravky vyšší bezpečnost, malifikuje se úhrada ostatních přípravků, které nedisponují bonifikovanou vlastností, podle odstavců 2 a 3 obdobně."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Bonifikace s ohledem na součinnost",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "(1) Při posuzování míry součinnosti osoby, které je podáván příslušný přípravek, jsou hodnoceny\na) jednoduchost a srozumitelnost dávkovacího schématu, s přihlédnutím k nezbytnému počtu podávaných denních dávek, nebo jejich četnosti v měsíčním intervalu a předpokládané celkové délce terapie,\nb) snadnost podávání nebo aplikace ve vztahu k současnému podání jídla nebo nápojů, nebo\nc) další omezení vyplývající z užívání přípravku, jako je nutnost současného podávání dalších přípravků nebo dodržování dalších podmínek, které jsou pro zajištění účinku přípravku nezbytné.\n(2) Bonifikovat úhradu přípravku z důvodu klinicky významné vyšší míry součinnosti podle odstavce 1 lze nejvýše o 10 %.\n(3) V případě, že referenční přípravek nebo přípravek podle § 16 odst. 2 nebo § 17 odst. 2, pokud byl použit pro stanovení základní úhrady, má v porovnání s ostatními přípravky vyšší míru součinnosti, malifikuje se úhrada ostatních přípravků, které nedisponují bonifikovanou vlastností, podle odstavce 2 obdobně.\n(4) Bonifikovat lze úhradu přípravku s vyšší mírou součinnosti pouze v případě, že vlastnosti podle odstavce 1 mají pozitivní vliv na účinnost nebo bezpečnost přípravku."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Bonifikace s ohledem na lékovou formu",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "Bonifikovat lze oproti úhradě tuhého perorálního referenčního přípravku úhradu tekutého přípravku pro vnitřní užití nebo úhradu polotuhého přípravku umožňujícího obejít enterohepatální oběh, jestliže tyto přípravky jsou určeny pro pacienty mladší 12 let nebo pacienty bez možnosti přijímat tuhé perorální lékové formy. Takto lze bonifikovat úhradu přípravku nejvýše o 10 %."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Bonifikace ve veřejném zájmu",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA III - ÚPRAVA ÚHRADY",
+      "content": "Ve veřejném zájmu podle § 17 odst. 2 zákona může Ústav na návrh a se souhlasem všech zdravotních pojišťoven bonifikovat úhradu přípravku, jestliže jde o přípravek, který\na) je ověřen užíváním v praxi a je nezbytný pro zdravotní péči a\nb) je v terapii nenahraditelný nebo nahraditelný pouze přípravky nákladnějšími a bonifikace je nezbytná pro setrvání přípravku na trhu."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY",
+      "content": "(1) Při stanovení podmínek úhrady podle § 39b odst. 10 zákona Ústav v rozhodnutí stanoví omezení a způsob vykazování přípravků, které v rozhodnutí označí symboly stanovenými v § 33 až 39.\n(2) Ústav může v rozhodnutí přípravku stanovit současně omezení uvedená v § 33 a 34 a způsob vykazování úhrady podle § 36 až 39."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Preskripční omezení",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 1 - Preskripční a indikační omezení",
+      "content": "(1) Je-li to s ohledem na účinnost a bezpečnost přípravku nebo s ohledem na veřejný zájem účelné, úhrada přípravku se omezí pro předepisování takového přípravku lékařem se specializovanou způsobilostí s označením odbornosti uvedené v rozhodnutí (dále jen „preskripční omezení“). Ústav přípravek s preskripčním omezením v rozhodnutí označí symbolem „L“.\n(2) Přípravek s preskripčním omezením podle odstavce 1 věty druhé je oprávněn předepsat k úhradě zdravotní pojišťovnou pouze lékař se specializovanou způsobilostí s označením odbornosti uvedené v preskripčním omezení, který má pro tuto specializovanou způsobilost uzavřenu se zdravotní pojišťovnou smlouvu o poskytování předmětné zdravotní péče, nebo jím písemně pověřený jiný lékař, nebo v případě léčivých přípravků, které nemají omezení používání upraveno v souhrnu údajů o přípravku nebo v příloze rozhodnutí o registraci v případě léčivých přípravků registrovaných postupem podle přímo použitelného předpisu Evropské unie o registraci léčivých přípravků, lékař se specializovanou způsobilostí v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie, který má pro tuto specializovanou způsobilost uzavřenu smlouvu se zdravotní pojišťovnou.\n(3) Není-li s ohledem na účinnost a bezpečnost přípravku předepisování přípravku vhodné přenést na jiného lékaře než lékaře se specializovanou způsobilostí s označením odbornosti uvedené v preskripčním omezení podle odstavce 1 věty první, Ústav tento přípravek v rozhodnutí označí symbolem „E“.\n(4) Je-li s ohledem na účinnost a bezpečnost přípravku nebo s ohledem na veřejný zájem účelné podmínit úhradu přípravku schválením zdravotní pojišťovnou, Ústav v rozhodnutí označí tento přípravek symbolem „W“. Rozhodne-li Ústav podle věty první, rozhodne zároveň o omezení podle § 34."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Indikační omezení",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 1 - Preskripční a indikační omezení",
+      "content": "(1) Je-li to s ohledem na účinnost a bezpečnost přípravku nebo s ohledem na veřejný zájem účelné, Ústav úhradu přípravku podmíní\na) přesně uvedenou indikací včetně zahájení a ukončení léčby, popřípadě blíže určenou klinickým stavem pacienta; pokud nelze zahájení a ukončení léčby přesně vymezit, stanoví se pravidelný interval přehodnocení úspěšnosti léčby,\nb) použitím pro vyjmenované skupiny pacientů, charakterizované konkrétním onemocněním nebo klinickým stavem, nebo\nc) selháním, kontraindikací nebo nedostatečnou účinností předchozí linie terapie.\n(2) Přípravek podle odstavce 1 Ústav v rozhodnutí označí symbolem „P“ (dále jen „indikační omezení“). Přípravek s indikačním omezením je oprávněn předepsat k úhradě zdravotní pojišťovnou lékař smluvního zdravotnického zařízení pouze v souladu s indikačním omezením."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Zvýšená úhrada",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 2 - Symboly a způsoby vykazování úhrady",
+      "content": "Zvýšenou úhradu podle § 39b odst. 11 zákona Ústav v rozhodnutí označí symbolem „V“. Rozhodne-li Ústav o stanovení zvýšené úhrady podle § 39b odst. 11 zákona, rozhodne zároveň o omezení podle § 34."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Ambulantní péče",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 2 - Symboly a způsoby vykazování úhrady",
+      "content": "(1) Přípravek, který lékař vzhledem k jeho charakteru podává při výkonu ambulantní péče, Ústav v rozhodnutí označí symbolem „A“. Takový přípravek se účtuje zdravotní pojišťovně spolu s příslušným výkonem jako zvlášť účtovaný přípravek.\n(2) Je-li to s ohledem na účinnost a bezpečnost přípravku nebo s ohledem na veřejný zájem účelné, vykazování přípravku se symbolem „A“ se omezí na lékaře se specializovanou způsobilostí s označením odbornosti uvedené v rozhodnutí.\n(3) Přípravek s omezením podle odstavce 2 je oprávněn vykazovat k úhradě zdravotní pojišťovnou pouze lékař se specializovanou způsobilostí s označením odbornosti uvedené v omezení, který má pro tuto specializovanou způsobilost uzavřenu se zdravotní pojišťovnou smlouvu o poskytování předmětné zdravotní péče, nebo jím písemně pověřený jiný lékař.\n(4) Není-li s ohledem na účinnost a bezpečnost přípravku podávání přípravku vhodné přenést na jiného lékaře podle odstavce 3, Ústav v rozhodnutí označí tento přípravek symbolem „A, E“."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Zvláštní ambulantní zdravotní péče",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 2 - Symboly a způsoby vykazování úhrady",
+      "content": "(1) Přípravek, který je poskytován při odborné přednemocniční neodkladné péči v rámci zdravotnické záchranné služby, Ústav v rozhodnutí označí symbolem „C1“.\n(2) Přípravek, který je součástí zdravotní péče ve stacionářích, pokud je poskytována na základě doporučení ošetřujícího lékaře, Ústav v rozhodnutí označí symbolem „C2“.\n(3) Přípravek, který je podáván při chirurgickém výkonu v lokální nebo celkové anestesii bez nutnosti hospitalizace pacienta, Ústav v rozhodnutí označí symbolem „C3“.\n(4) Přípravky podle odstavců 1 až 3 jsou příslušnému smluvnímu zdravotnickému zařízení hrazeny na základě smlouvy se zdravotní pojišťovnou o poskytování předmětné zdravotní péče a účtovány zdravotní pojišťovně v souvislosti s příslušným výkonem jako zvlášť účtovaný přípravek."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Přípravky pro použití při diagnostickém výkonu",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 2 - Symboly a způsoby vykazování úhrady",
+      "content": "Je-li přípravek určen pro podání v rámci diagnostického výkonu provedeného při výkonu ambulantní zdravotní péče, Ústav tento přípravek v rozhodnutí označí symbolem „D“. Takový přípravek se účtuje zdravotní pojišťovně v rámci diagnostického výkonu, a není-li započten do hodnoty výkonu, spolu s příslušným diagnostickým výkonem jako zvlášť účtovaný přípravek."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Přípravky specializované péče",
+      "chapter": "ČÁST ČTVRTÁ - PRAVIDLA PRO ÚHRADY PŘÍPRAVKŮ > HLAVA IV - PODMÍNKY ÚHRADY > Díl 2 - Symboly a způsoby vykazování úhrady",
+      "content": "(1) Ústav v rozhodnutí označí přípravek, jehož použití je s ohledem na veřejný zájem účelné soustředit do specializovaných pracovišť podle § 15 odst. 10 zákona, symbolem „S“.\n(2) Takový přípravek účtuje jako zvlášť účtovaný přípravek zdravotní pojišťovně pouze specializované pracoviště, a to na základě smlouvy uzavřené mezi ním a zdravotní pojišťovnou.\n(3) U vysoce inovativního přípravku, kterému je stanovena dočasná úhrada podle § 39d zákona, postupuje Ústav vždy podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Podmínky, za kterých mohou specializovaná pracoviště podávat vysoce inovativní přípravek",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ O VYSOCE INOVATIVNÍCH PŘÍPRAVCÍCH",
+      "content": "Pojištěnec musí být před léčbou vysoce inovativním přípravkem specializovaným pracovištěm náležitě poučen a informován. Provedení poučení se zaznamená do zdravotnické dokumentace vedené o pojištěnci; záznam podepíše lékař, který poučení provedl, a pojištěnec. Součástí poučení musí být především informace\na) o názvu vysoce inovativního přípravku,\nb) o době trvání dočasné úhrady,\nc) o dopadech uplynutí dočasné úhrady na další léčbu pacienta,\nd) o výši nejvyšší ceny pro konečného spotřebitele,\ne) o výši dočasné úhrady a\nf) o tom, že se jedná o vysoce inovativní přípravek."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Základní struktura údajů poskytovaných specializovaným pracovištěm podle § 39d odst. 4 zákona",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ O VYSOCE INOVATIVNÍCH PŘÍPRAVCÍCH",
+      "content": "Specializované pracoviště předává osobám uvedeným v § 39d odst. 4 zákona údaje podle § 39d odst. 4 zákona v této struktuře:\na) informace o pacientovi, a to věk, pohlaví, základní diagnóza, současný výskyt více nemocí,\nb) diagnostické údaje o průběhu a léčbě nemoci,\nc) informace o předchozí léčbě (operace, radioterapie, chemoterapie, hormonální, jiná),\nd) identifikační údaje specializovaného pracoviště,\ne) informace o léčbě vysoce inovativním přípravkem:\n1. datum zahájení terapie,\n2. název použitého vysoce inovativního přípravku a kód přidělený Ústavem,\n3. vstupní hodnoty sledovaných parametrů v době zahájení terapie,\n4. dávkování, změny v dávkování v průběhu terapie a důvody těchto změn,\n5. nežádoucí účinky, jejich závažnost a zhodnocení jejich dopadu na pokračování léčby,\n6. datum ukončení terapie, důvod ukončení,\n7. způsob a období následného sledování po ukončení terapie."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45",
+      "chapter": "ČÁST ŠESTÁ - STRUKTURA ÚDAJŮ A NÁLEŽITOSTI ŽÁDOSTI O STANOVENÍ MAXIMÁLNÍ CENY A VÝŠE A PODMÍNEK ÚHRADY",
+      "content": "(1) Žádost o stanovení maximální ceny nebo výše a podmínek úhrady a přiloženou dokumentaci lze podat i v elektronické podobě ve formátu zveřejněném Ústavem způsobem umožňujícím dálkový přístup.\n(2) Rozsah dokumentace předkládané s žádostí o stanovení výše a podmínek úhrady přípravku musí odpovídat současným poznatkům o přípravku a obsahovat veškeré informace týkající se přípravku bez ohledu na to, zda jsou pro něj příznivé, nebo nepříznivé. Zejména musí být uvedeny všechny významné podrobnosti týkající se účinnosti, bezpečnosti a porovnání nákladů a přínosů spojených s použitím přípravku v běžné klinické praxi. V případě žádosti podané podle § 39da zákona předkládá žadatel též údaje nezbytné pro provedení posouzení podle § 39da odst. 3 zákona.\n(3) Strukturou dostupných klinických hodnocení podle § 39f odst. 6 písm. a) zákona se rozumí zejména\na) systematické přehledy,\nb) výsledky metaanalýz kontrolovaných randomizovaných klinických studií,\nc) výsledky kontrolovaných randomizovaných klinických studií,\nd) výsledky žadateli dostupných srovnávacích klinických studií, přednostně s jinými, v klinické praxi užívanými přípravky pro léčbu posuzovaných indikací, a není-li takových, proti placebu,\ne) sledování výsledků péče s použitím příslušného přípravku v podmínkách běžné klinické praxe nejlépe v České republice,\nf) výsledky dosud veřejně nepublikovaných studií, které jsou uvedeny v platném souhrnu údajů o přípravku a jsou hodnotitelné.\n(4) Žadatel předloží informace podle odstavce 3 v plném znění a též jejich stručný souhrn s uvedením základních vstupních parametrů, zjištěných výsledků a jejich statistického vyhodnocení.\n(5) Je-li součástí dokumentace expertní posudek znalce nebo vyžádá-li si takový expertní posudek Ústav nebo Ministerstvo zdravotnictví, k posudku jeho autor současně připojí čestné prohlášení, že prostudoval veškeré veřejně dostupné informace týkající se účinnosti a bezpečnosti příslušného přípravku a léčivé látky v něm obsažené a že se vyjádřil ke všem podstatným informacím, které by mohly hodnocené vlastnosti přípravku ovlivnit."
+    },
+    {
+      "provision_ref": "§ 45b",
+      "section": "45b",
+      "title": "§ 45b Pravidla pro oznamování změny oznámených cen kategorizovaných potravin",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Změnu ohlášených cen kategorizovaných potravin podle § 39za odst. 7 a § 39zc odst. 7 zákona oznamuje výrobce nebo dovozce Ústavu elektronicky.\n(2) Oznámit snížení ceny výrobce může osoba uvedená v § 39zc odst. 1 zákona v případě, že tato kategorizovaná potravina v následujícím období bude skutečně uváděna na český trh.\nPodmínky úhrady"
+    },
+    {
+      "provision_ref": "§ 45c",
+      "section": "45c",
+      "title": "§ 45c Preskripční omezení",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Je-li to s ohledem na účinnost a bezpečnost nekategorizované potraviny nebo s ohledem na veřejný zájem účelné, úhradu nekategorizované potraviny Ústav omezí pro předepisování takové nekategorizované potraviny lékařem se specializovanou způsobilostí s označením odbornosti uvedené v rozhodnutí. Ústav nekategorizovanou potravinu s preskripčním omezením v rozhodnutí označí symbolem „L“; to platí i pro označení kategorizované potraviny zařazené do úhradové skupiny podle přílohy č. 6 zákona za účelem zveřejnění v seznamu hrazených potravin pro zvláštní lékařské účely.\n(2) Potravinu pro zvláštní lékařské účely s preskripčním omezením podle odstavce 1 věty druhé je oprávněn předepsat k úhradě zdravotní pojišťovnou pouze lékař se specializovanou způsobilostí s označením odbornosti uvedené v preskripčním omezení, který má pro tuto specializovanou způsobilost uzavřenu se zdravotní pojišťovnou smlouvu o poskytování předmětné zdravotní péče, nebo jím písemně pověřený jiný lékař, nebo lékař se specializovanou způsobilostí v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie, který má pro tuto specializovanou způsobilost uzavřenu smlouvu se zdravotní pojišťovnou.\n(3) Není-li s ohledem na účinnost a bezpečnost nekategorizované potraviny její předepisování vhodné přenést na jiného lékaře než lékaře se specializovanou způsobilostí s označením odbornosti uvedené v preskripčním omezení podle odstavce 1 věty první, Ústav tuto nekategorizovanou potravinu v rozhodnutí označí symbolem „E“; to platí i pro označení kategorizované potraviny zařazené do úhradové skupiny podle přílohy č. 6 zákona za účelem zveřejnění v seznamu hrazených potravin pro zvláštní lékařské účely.\n(4) Je-li s ohledem na účinnost a bezpečnost nekategorizované potraviny nebo s ohledem na veřejný zájem účelné podmínit úhradu nekategorizované potraviny schválením zdravotní pojišťovnou, Ústav v rozhodnutí označí tuto nekategorizovanou potravinu symbolem „W“. Rozhodne-li Ústav podle věty první, rozhodne zároveň o omezení podle § 45d."
+    },
+    {
+      "provision_ref": "§ 45d",
+      "section": "45d",
+      "title": "§ 45d Indikační omezení",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Je-li to s ohledem na účinnost a bezpečnost nekategorizované potraviny nebo s ohledem na veřejný zájem účelné, Ústav úhradu nekategorizované potraviny podmíní\na) přesně uvedenou indikací včetně zahájení a ukončení léčby, popřípadě blíže určenou klinickým stavem pacienta; pokud nelze zahájení a ukončení léčby přesně vymezit, stanoví se pravidelný interval přehodnocení úspěšnosti léčby,\nb) použitím pro vyjmenované skupiny pacientů, charakterizované konkrétním onemocněním nebo klinickým stavem,\nc) selháním, kontraindikací nebo nedostatečnou účinností předchozí linie terapie, nebo\nd) množstevním omezením pro předepsání nekategorizované potraviny\n(2) Nekategorizovanou potravinu podle odstavce 1 Ústav v rozhodnutí označí symbolem „P“; to platí i pro označení indikačního omezení kategorizované potraviny zařazené do úhradové skupiny podle přílohy č. 6 zákona za účelem zveřejnění v seznamu hrazených potravin pro zvláštní lékařské účely. Potravinu pro zvláštní lékařské účely s indikačním omezením je oprávněn předepsat k úhradě zdravotní pojišťovnou lékař smluvního zdravotnického zařízení pouze v souladu s indikačním omezením."
+    },
+    {
+      "provision_ref": "§ 45e",
+      "section": "45e",
+      "title": "§ 45e Potraviny pro zvláštní lékařské účely specializované péče",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Ústav v rozhodnutí označí nekategorizovanou potravinu, jejíž použití je s ohledem na veřejný zájem účelné soustředit do specializovaných pracovišť podle § 15 odst. 10 zákona, symbolem „S“.\n(2) Nekategorizovanou potravinu označenou podle odstavce 1 účtuje jako zvlášť účtovaný přípravek zdravotní pojišťovně pouze specializované pracoviště, a to na základě smlouvy uzavřené mezi ním a zdravotní pojišťovnou; to platí i pro takto označenou kategorizovanou potravinu, která je zařazena do úhradové skupiny podle přílohy č. 6 zákona.\nPravidla pro maximální ceny nekategorizovaných potravin"
+    },
+    {
+      "provision_ref": "§ 45f",
+      "section": "45f",
+      "title": "§ 45f Přepočet zahraničních cen z cizí měny",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Ceny potravin pro zvláštní lékařské účely v cizí měně jsou přepočítávány na českou měnu čtvrtletním průměrem kurzu devizového trhu vyhlášeným Českou národní bankou za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení.\n(2) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, přepočítá Ústav ceny potravin pro zvláštní lékařské účely v cizí měně na českou měnu znovu, a to podle odstavce 1 obdobně, vždy za tomu předcházející kalendářní čtvrtletí.\n(3) V případě vydání rozhodnutí, nebo rozsudku soudu, kterým je zrušeno rozhodnutí Ústavu a věc vrácena k novému projednání, se použijí kurzy obdobně podle odstavce 1, a to za kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno nové projednání."
+    },
+    {
+      "provision_ref": "§ 45g",
+      "section": "45g",
+      "title": "§ 45g Zjištění ceny výrobce",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Rozhodným obdobím pro zjištění cen výrobce je 21 dnů ode dne zahájení správního řízení.\n(2) V případě postupu podle § 39zg odst. 7 písm. b) zákona se odstavec 1 nepoužije; písemné ujednání o nejvyšší ceně výrobce podle § 39zg odst. 7 písm. b) zákona lze předložit ve lhůtě k vyjádření se k podkladům pro rozhodnutí podle § 39g odst. 5 zákona.\n(3) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí ceny výrobce znovu, a to ve lhůtě 21 dnů."
+    },
+    {
+      "provision_ref": "§ 45h",
+      "section": "45h",
+      "title": "§ 45h Posuzování dostupnosti",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Rozhodným obdobím pro posuzování dostupnosti potraviny pro zvláštní lékařské účely je kalendářní čtvrtletí předcházející kalendářnímu čtvrtletí, ve kterém bylo zahájeno správní řízení.\n(2) Každým uplynutím celých 3 kalendářních čtvrtletí po kalendářním čtvrtletí, ve kterém bylo zahájeno správní řízení, Ústav zjistí dostupnost znovu, vždy za tomu předcházející kalendářní čtvrtletí."
+    },
+    {
+      "provision_ref": "§ 45i",
+      "section": "45i",
+      "title": "§ 45i",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "Členskými státy Evropské unie, které zveřejňují informace o cenách potravin pro zvláštní lékařské účely, jsou Finsko, Irsko, Maďarsko, Německo, Polsko, Slovensko a Španělsko (dále jen „země referenčního koše potravin“)."
+    },
+    {
+      "provision_ref": "§ 45j",
+      "section": "45j",
+      "title": "§ 45j Vyloučení zahraniční ceny výrobce",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "Pokud nejnižší cena výrobce posuzované potraviny pro zvláštní lékařské účely zjištěná v zemi referenčního koše potravin nebo v jiných členských státech Evropské unie, kde je posuzovaná potravina dostupná na základě důkazů předložených výrobcem nebo dovozcem potraviny (dále jen „referenční země“), je nižší o více než 20 % než průměr druhé a třetí zjištěné nejnižší ceny výrobce této potraviny pro zvláštní lékařské účely v ostatních členských státech Evropské unie, použije se pro stanovení maximální ceny výrobce tento průměr nebo nejvyšší cena výrobce na základě písemného ujednání podle § 39zg odst. 7 písm. b) zákona, je-li nižší než tento průměr."
+    },
+    {
+      "provision_ref": "§ 45k",
+      "section": "45k",
+      "title": "§ 45k Odchylka ve velikosti balení",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Jestliže je posuzovaná potravina pro zvláštní lékařské účely dodávána na trh v referenčních zemích pouze v odlišné velikosti balení, než je balení určené pro český trh, a odchylka ve velikosti balení přípravku není větší než 10 %, přepočte se zahraniční cena výrobce přímo úměrně na počet jednotek lékové formy posuzované potraviny pro zvláštní lékařské účely určené pro český trh.\n(2) V případě, že na trhu v referenčních zemích není posuzovaná potravina pro zvláštní lékařské účely ani s odchylkou ve velikosti balení nejvýše 10 %, lze použít i potravinu pro zvláštní lékařské účely v odlišné velikosti balení od balení určeného pro český trh s odchylkou větší.\n(3) Odstavec 2 se nepoužije, jestliže výrobce nebo dovozce posuzované potraviny pro zvláštní lékařské účely vysloví nesouhlas s použitím tohoto postupu, a to nejpozději ve lhůtě k vyjádření se k podkladům pro rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 45l",
+      "section": "45l",
+      "title": "§ 45l Zvýšení maximální ceny ve veřejném zájmu",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "Maximální cenu výrobce lze na žádost výrobce nebo dovozce potraviny pro zvláštní lékařské účely zvýšit ve veřejném zájmu podle § 17 odst. 2 zákona se souhlasem všech zdravotních pojišťoven uděleným nejpozději ve lhůtě k vyjádření se k podkladům pro rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 45m",
+      "section": "45m",
+      "title": "§ 45m",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "Kritéria pro výběr nejbližší terapeuticky porovnatelné potraviny pro zvláštní lékařské účely za účelem aplikace § 39zg odst. 7 písm. c) zákona jsou v následujícím pořadí:\na) kvalitativní obsah živin,\nb) cesta podání s rozlišením, zda je potravina pro zvláštní lékařské účely určena k podávání prostřednictvím sondy nebo bez sondy,\nc) kvantitativní obsah živin a kalorická hodnota a\nd) velikost balení."
+    },
+    {
+      "provision_ref": "§ 45n",
+      "section": "45n",
+      "title": "§ 45n Struktura údajů, způsob a forma podávání žádosti o stanovení maximální ceny a výše a podmínek úhrady nekategorizované potraviny",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Žádost o stanovení maximální ceny a výše a podmínek úhrady a přiložená dokumentace se podává v elektronické podobě ve formátu zveřejněném Ústavem způsobem umožňujícím dálkový přístup.\n(2) Rozsah dokumentace předkládané s žádostí o stanovení výše a podmínek úhrady nekategorizované potraviny musí odpovídat současným poznatkům o potravině pro zvláštní lékařské účely a obsahovat veškeré informace týkající se potraviny pro zvláštní lékařské účely bez ohledu na to, zda jsou pro ni příznivé, nebo nepříznivé. Zejména musí být uvedeny všechny významné podrobnosti týkající se účinnosti, bezpečnosti a porovnání nákladů a přínosů spojených s použitím potraviny pro zvláštní lékařské účely v běžné klinické praxi.\n(3) Žadatel předloží informace podle odstavce 2 v plném znění a též jejich stručný souhrn s uvedením základních vstupních parametrů, zjištěných výsledků a jejich statistického vyhodnocení.\n(4) Je-li součástí dokumentace expertní posudek znalce nebo vyžádá-li si takový expertní posudek Ústav nebo Ministerstvo zdravotnictví, k posudku jeho autor současně připojí čestné prohlášení, že prostudoval veškeré veřejně dostupné informace týkající se účinnosti a bezpečnosti potraviny pro zvláštní lékařské účely a že se vyjádřil ke všem podstatným informacím, které by mohly hodnocené vlastnosti potraviny pro zvláštní lékařské účely ovlivnit.\nPoskytování údajů o objemu potravin pro zvláštní lékařské účely uváděných na český trh"
+    },
+    {
+      "provision_ref": "§ 45o",
+      "section": "45o",
+      "title": "§ 45o",
+      "chapter": "ČÁST SEDMÁ - POTRAVINY PRO ZVLÁŠTNÍ LÉKAŘSKÉ ÚČELY",
+      "content": "(1) Výrobce nebo dovozce potraviny pro zvláštní lékařské účely poskytuje Ústavu údaje podle § 39zi odst. 2 zákona formou elektronického hlášení vždy za uplynulý kalendářní měsíc, a to nejpozději do pátého dne následujícího kalendářního měsíce. Výrobce nebo dovozce potraviny pro zvláštní lékařské účely hlášení poskytuje i v případě, že v příslušném kalendářním měsíci neprovedl žádnou dodávku potraviny pro zvláštní lékařské účely. Pokud výrobce nebo dovozce dodávku potraviny pro zvláštní lékařské účely na trh nezahájil, hlášení nepodává.\n(2) Výrobce nebo dovozce potraviny pro zvláštní lékařské účely poskytuje hlášení podle odstavce 1 přes komunikační rozhraní Ústavu přístupné způsobem umožňujícím dálkový přístup v otevřeném datovém formátu. Přístupové údaje a jednoznačný identifikační kód výrobce nebo dovozce potraviny pro zvláštní lékařské účely přidělí Ústav výrobci nebo dovozci potraviny pro zvláštní lékařské účely na základě jeho žádosti.\n(3) V případě, že výrobce nebo dovozce potraviny pro zvláštní lékařské účely zjistí, že uvedl v hlášení neúplné nebo nesprávné údaje, neprodleně zašle Ústavu opravu hlášení.\n(4) Hlášení podle odstavce 1 a opravné hlášení podle odstavce 3 obsahuje\na) identifikační kód výrobce nebo dovozce potraviny pro zvláštní lékařské účely přidělený Ústavem,\nb) kalendářní měsíc a rok, za který je hlášení zasláno,\nc) jednoznačný identifikátor hlášení přidělený Ústavem,\nd) identifikátor označující hlášení dodávek potravin pro zvláštní lékařské účely,\ne) informaci o tom, zda byla potravina pro zvláštní lékařské účely dodána do lékárny, zdravotnického zařízení lůžkové péče, osobě oprávněné k distribuci léčivých přípravků podle zákona o léčivech, nebo jiné osobě,\nf) kód potraviny pro zvláštní lékařské účely přidělený Ústavem,\ng) počet balení potraviny pro zvláštní lékařské účely."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "ČÁST OSMÁ - ZRUŠOVACÍ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Vyhláška č. 92/2008 Sb., o stanovení seznamu zemí referenčního koše, způsobu hodnocení výše, podmínek a formy úhrady léčivých přípravků a potravin pro zvláštní lékařské účely a náležitostech žádosti o stanovení výše úhrady, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Účinnost",
+      "chapter": "ČÁST OSMÁ - ZRUŠOVACÍ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.\n1) Směrnice Rady 89/105/EHS ze dne 21. prosince 1988 o průhlednosti opatření upravujících tvorbu cen u humánních léčivých přípravků a jejich začlenění do oblasti působnosti vnitrostátních systémů zdravotního pojištění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "referenčním přípravkem",
+      "definition": "podle jehož ceny výrobce je stanovena základní úhrada, přípravek s nejnižší zahraniční nebo českou cenou výrobce za obvyklou denní terapeutickou dávku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "referenční indikací indikace",
+      "definition": "která je společná pro všechny přípravky zařazené do referenční skupiny a od které se odvíjí stanovení základní úhrady dané referenční skupiny",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "oznámenou cenou nejvyšší tržní",
+      "definition": "cena, za kterou hodlá držitel rozhodnutí o registraci léčivého přípravku, výrobce nebo dovozce kategorizované potraviny nebo neregistrovaného léčivého přípravku používaného v rámci specifického léčebného programu uvádět na trh přípravek, který nepodléhá regulaci ceny výrobce stanovením maximální ceny",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nezávažným onemocněním onemocnění",
+      "definition": "které způsobuje jen krátkodobou mírnou poruchu zdraví",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "příčinnou léčbou onemocnění jakákoliv terapie vedoucí k nápravě",
+      "definition": "zastavení rozvoje nebo zmírnění patologických procesů zodpovědných za rozvoj onemocnění, zlepšení měřitelného parametru, který je obecně považován za významný v patogenezi příslušného onemocnění nebo vzniku případných komplikací, ke stabilizaci zdravotního stavu pacienta nebo k odstranění nebo zmírnění klinicky významných projevů onemocnění.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "oznámenou cenu",
+      "definition": "maximální cena přípravku platná do dne účinnosti cenového rozhodnutí, kterým se posuzovaný přípravek stal neregulovaný maximální cenou výrobce, pokud nebylo oznámeno ve lhůtě podle odstavce 1 jinak",
+      "source_provision": "§ 10"
+    },
+    {
+      "term": "Průměrným měsíčním objemem podle odstavce 1",
+      "definition": "jedna dvanáctina součtu údajů o objemu dodávek za posledních 12 po sobě jdoucích kalendářních měsíců",
+      "source_provision": "§ 13a"
+    },
+    {
+      "term": "Průměrným měsíčním objemem podle odstavce 1",
+      "definition": "jedna dvanáctina součtu údajů o objemu dodávek za posledních 12 po sobě jdoucích kalendářních měsíců",
+      "source_provision": "§ 13b"
+    },
+    {
+      "term": "kde US1",
+      "definition": "úhradu za jednotku lékové formy o síle pod spodní mezí intervalu, USI1 znamená úhradu za jednotku lékové formy o síle odpovídající spodní mezi intervalu, S znamená posuzovanou sílu a SI1 znamená sílu odpovídající spodní mezi intervalu",
+      "source_provision": "§ 19"
+    },
+    {
+      "term": "kde US2",
+      "definition": "úhradu za jednotku lékové formy o síle nad horní mezí intervalu, USI2 znamená úhradu za jednotku lékové formy o síle odpovídající horní mezi intervalu, S znamená posuzovanou sílu a SI2 znamená sílu odpovídající horní mezi intervalu",
+      "source_provision": "§ 19"
+    },
+    {
+      "term": "přípravek s vyšší účinností",
+      "definition": "přípravek, u kterého se při posuzování podle odstavce 1 prokáže klinicky významné",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "přípravek s vyšší bezpečností",
+      "definition": "přípravek, u kterého se při posuzování podle odstavce 1 prokáže klinicky významný",
+      "source_provision": "§ 28"
+    }
+  ]
+}

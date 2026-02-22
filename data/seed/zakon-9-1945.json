@@ -1,0 +1,33 @@
+{
+  "id": "cz:9/1945",
+  "type": "statute",
+  "title": "9/1945 Sb., Nařízení o přechodných opatřeních na českých vysokých školách",
+  "title_en": "",
+  "short_name": "9/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-06-05",
+  "in_force_date": "1945-06-06",
+  "url": "https://www.e-sbirka.cz/sb/1945/9",
+  "description": "Nařízení o přechodných opatřeních na českých vysokých školách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Právní poměry českých vysokých škol řídí se předpisy platnými dne 29. září 1938."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministr školství a osvěty učiní v přechodné době odchylkou od platných předpisů (§ 1) správní cestou všechna opatření, potřebná k zahájení a další činnosti vysokých škol a k urychlení studia, jmenovitě pokud jde o studijní úlevy pro studující, kterým bylo znemožněno studium uzavřením českých vysokých škol v letech 1939 až 1945."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti prvým dnem po vyhlášení; provede je ministr školství a osvěty."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:3419/1948",
+  "type": "statute",
+  "title": "3419/1948 Ú. l. I, Vyhláška ministerstva zdravotnictví o způsobu hlášení nemocí přenosných na lidi.",
+  "title_en": "",
+  "short_name": "3419/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-12-30",
+  "in_force_date": "1949-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/3419",
+  "description": "Vyhláška ministerstva zdravotnictví o způsobu hlášení nemocí přenosných na lidi.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Každý lékař, který zjistí onemocnění, podezření z onemocnění, vyměšování choroboplodných zárodků nebo úmrtí na přenosnou nemoc uvedenou v § 1, odst. 1 zák. č. 60/1948 Sb., jest povinen podati hlášení pro každý jednotlivý případ na tiskopisu „Oznámení přenosné nemoci“ (dále jen „Oznámení“), vydaném Státní tiskárnou v Praze, čís. skl. 700/A, jehož vzor je uveden v příloze č. 1 této vyhlášky. O osobách podezřelých z nákazy se hlášení nepodává.\n(2) „Oznámení“ je třeba vyhotoviti ve třech exemplářích. Dva z těchto exemplářů jest zaslati příslušnému okresnímu národnímu výboru do 24 hodin od zjištění skutečností uvedených v odstavci 1 a třetí ve stejné lhůtě příslušnému státnímu obvodnímu (obecnímu, městskému) lékaři. Příslušným je orgán, v jehož obvodu je místo pobytu (úmrtí) osoby onemocnělé, podezřelá z onemocnění přenosnou nemocí nebo osoby, která vyměšuje choroboplodné zárodky.\n(3) Ve městech s vlastním statutem nebo se zřízeným magistrátem se podává hlášení podle odst. 1 a 2 jen příslušnému orgánu ústředního národního výboru, t. j. pouze ve dvou exemplářích."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Je-li nebezpečí v prodlení, možno hlášení učiniti ústně, telefonicky nebo telegraficky. Do 24 hodin od takto učiněného hlášení jest nutno podati hlášení předepsané v § 1."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Nemocným ve smyslu zákona č. 60/1948 Sb., je ten, u něhož byla nemoc bezpečně zjištěna.\n(2) Z nemoci podezřelým je ten, u něhož se sice projevují některé příznaky přenosné nemoci, ale není možno bezpečně souditi na onemocnění,\n(3) Osobou vyměšující choroboplodné zárodky je ta osoba, která, ač není sama nemocna, vyměšuje zárodky infekce z poživatin, paratyfu, tyfu, přenosné uplavice nebo záškrtu.\n(4) Z nákazy podezřelým je ten, kdo vešel přímo nebo nepřímo ve styk s nákazou (s nemocným přenosnou nemocí nebo s předmětem, který chová zárodky přenosné nemoci) a neprojevují se u něho příznaky onemocnění přenosnou nemocí."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Po skončení nemoci vyplní ošetřující lékař, po případe vedoucí lékař léčebného a ošetřovacího ústavu nebo lékař, který ho zastupuje „Konečné oznámení přenosné nemoci“ (dále jen „Konečné oznámení“) vydané Státní tiskárnou v Praze, čís. skl. 700/B, jehož vzor je uveden v příloze č. 2 této vyhlášky.\n(2) O vyhotovení „Konečného oznámení“ a jeho zaslání příslušným orgánům platí obdobně ustanovení § 1, odst. 2 a 3."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Okresní národní výbor si originál došlého „Oznámeni („Konečného oznámení“) ponechá a opisy shromažďuje a odešle vždy počátkem nejblíže příštího týdne, nejpozději ve středu, statistickému oddělení Státního zdravotního ústavu k dalšímu zpracování."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Lékaři jsou povinni vyplňovati tiskopisy uvedené v §§ 1 a 4 pečlivě ve všech rubrikách. Patřičnou pozornost musí věnovati zejména změnám proti dosavadnímu způsobu hlášení, které byly provedeny na podkladě získaných zkušeností a které jsou důležité pro statistické zdravotnické hlášení."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1949.\nOznámení přenosné nemoci\n(podle § 2 zákona ze dne 20. března 1948, č. 60 Sb., o potírání nemocí přenosných na lidi).\nKonečné hlášení přenosné nemoci\n(podle §§ 1 a 2 zákona ze dne 20. března 1948, č. 60 Sb., o potírání nemoci přenosných na lidi)"
+    }
+  ],
+  "definitions": []
+}

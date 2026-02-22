@@ -1,0 +1,21 @@
+{
+  "id": "cz:42/1955",
+  "type": "statute",
+  "title": "42/1955 Sb., Vyhláška o vykonatelnosti rozhodčích výroků vydaných na území Egypta v Československé republice",
+  "title_en": "",
+  "short_name": "42/1955 Sb.",
+  "status": "in_force",
+  "issued_date": "1955-09-01",
+  "in_force_date": "1955-09-01",
+  "url": "https://www.e-sbirka.cz/sb/1955/42",
+  "description": "Vyhláška o vykonatelnosti rozhodčích výroků vydaných na území Egypta v Československé republice",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Na území Československé republiky jsou na základě vzájemnosti vykonatelné, za podmínek § 645 zákona č. 142/1950 Sb. (občanského soudního řádu), rozhodčí výroky vydané na území Egypta."
+    }
+  ],
+  "definitions": []
+}

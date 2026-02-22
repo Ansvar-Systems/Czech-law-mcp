@@ -1,0 +1,51 @@
+{
+  "id": "cz:99/1973",
+  "type": "statute",
+  "title": "99/1973 Sb., Redakční sdělení o opravě tiskových chyb 1. ve vyhlášce federálního ministerstva dopravy č. 32/1972 Sb., o podmínkách provozu vozidel na pozemních komunikacích, slovenského vydání, 2. ve vyhlášce federálního ministerstva dopravy č. 54/1973 Sb., o nepravidelné hromadné přepravě osob prováděné orgány Revolučního odborového hnutí, slovenského vydání, 3. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání",
+  "title_en": "",
+  "short_name": "99/1973 Sb.",
+  "status": "in_force",
+  "issued_date": "1973-08-30",
+  "in_force_date": "1973-08-30",
+  "url": "https://www.e-sbirka.cz/sb/1973/99",
+  "description": "Redakční sdělení o opravě tiskových chyb 1. ve vyhlášce federálního ministerstva dopravy č. 32/1972 Sb., o podmínkách provozu vozidel na pozemních komunikacích, slovenského vydání, 2. ve vyhlášce federálního ministerstva dopravy č. 54/1973 Sb., o nepravidelné hromadné přepravě osob prováděné orgány Revolučního odborového hnutí, slovenského vydání, 3. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ve vyhlášce federálního ministerstva dopravy č. 32/1972 Sb., o podmínkách provozu vozidel na pozemních komunikacích, slovenského vydání,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce federálního ministerstva dopravy č. 54/1973 Sb., o nepravidelné hromadné přepravě osob prováděné orgány Revolučního odborového hnutí, slovenského vydání,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 80 odst. 1 vyhlášky č. 32/1972 Sb. je ve druhém řádku zdola chybně vytištěno „farbu nápisu červenú“; správně má být „farbu nápisu čiernu“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 2 odst. 2 vyhlášky č. 54/1973 Sb. je v prvním řádku chybně vytištěno „služby poskytnuté organizácii“; správně má být „služby poskytnuté organizáciou“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V § 18 odst. 4 písm. b) bod 2 vyhlášky č. 80/1973 Sb. v prvním řádku vypadlo slovo „až“; text správně zní: „2. s viac než dennou až 10-dňovou periodicitou“."
+    }
+  ],
+  "definitions": []
+}

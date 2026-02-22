@@ -1,0 +1,51 @@
+{
+  "id": "cz:122/1995",
+  "type": "statute",
+  "title": "122/1995 Sb., Vyhláška Ministerstva životního prostředí, kterou se stanoví emisní limity pro lakovny se spotřebou nad 10 tun nátěrových materiálů ročně",
+  "title_en": "",
+  "short_name": "122/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-07-14",
+  "in_force_date": "1995-07-14",
+  "url": "https://www.e-sbirka.cz/sb/1995/122",
+  "description": "Vyhláška Ministerstva životního prostředí, kterou se stanoví emisní limity pro lakovny se spotřebou nad 10 tun nátěrových materiálů ročně",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Obecné podmínky pro konstrukci a provoz zařízení lakoven",
+      "content": "Pro konstrukci zařízení lakoven se použijí všechny technicky dostupné možnosti k omezení emisí organických látek. Pro účely stanovení emisních limitů se za zařízení považuje technologický celek jednoho technologického systému nátěrových hmot."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Omezení celkových emisí",
+      "content": "Emise organických látek v odpadním vzduchu z celého zařízení včetně konzervace nesmí překročit při:\n- jednobarevném lakování hodnotu 60 g/m2 lakované plochy,\n- metalizačním lakování hodnotu 120 g/m2 lakované plochy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Nastřikovací prostory",
+      "content": "V odpadním vzduchu z nastřikovacích prostorů je nejvyšší přípustná koncentrace organických látek uváděná jako celkový uhlík 50 mg/m3, pokud celkové specifické výrobní emise uváděné jako celkový uhlík překročí 35 g/m3."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Sušárny",
+      "content": "(1) V odpadním vzduchu ze sušáren nesmí hmotnostní koncentrace organických látek, uváděná jako celkový uhlík, překročit hodnotu 50 mg/m3.\n(2) V odpadních plynech (částečky laků) ze sušáren nesmí hmotnostní koncentrace tuhých znečišťujících látek překročit hodnotu 3 mg/m3."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zrušuje se bod 6.1.3. části A přílohy č. 3 opatření Federálního výboru pro životní prostředí ze dne 1. října 1991 k zákonu č. 309 ze dne 9. července 1991 o ochraně ovzduší před znečišťujícími látkami (částka 84/1991 Sb.), ve znění opatření Federálního výboru pro životní prostředí ze dne 23. června 1992 (částka 84/1992 Sb.)."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

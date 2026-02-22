@@ -1,0 +1,165 @@
+{
+  "id": "cz:329/2003",
+  "type": "statute",
+  "title": "329/2003 Sb., Vyhláška o informačním systému Státní veterinární správy",
+  "title_en": "",
+  "short_name": "329/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-09-30",
+  "in_force_date": "2003-09-30",
+  "url": "https://www.e-sbirka.cz/sb/2003/329",
+  "description": "Vyhláška o informačním systému Státní veterinární správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška v souladu s právem Evropských společenství1) upravuje\na) způsob vytváření, provozu a užívání informačního systému Státní veterinární správy (dále jen „informační systém“),\nb) registry vytvářené přímo v informačním systému a způsob přejímání registrů z jiných informačních systémů sloužících k výkonu veřejné správy,2)\nc) zásady počítačové evidence úkonů v oblasti veterinární péče,\nd) vazbu informačního systému na informační systémy Evropské unie (dále jen „Unie“) v oblasti veterinární péče."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) rozhraním informačního systému k jiným subjektům veřejné správy – soubor opatření, která určují způsob výměny dat prostřednictvím datové sítě v okruhu působnosti Ministerstva zemědělství,\nb) rozhraním informačního systému k veřejnosti – webové stránky Státní veterinární správy poskytující veřejnosti informace z oblasti veterinární péče,\nc) standardem informačního systému (dále jen „standard“) – soubor pravidel pro výkon odborných činností spojených s vytvářením, užíváním a rozvojem informačního systému,3)\nd) datovým prvkem – jednotka dat, která je v dané souvislosti považovaná nadále za nedělitelnou a je jednoznačně definována.4)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Práva a povinnosti osob při zpracování osobních údajů se řídí zvláštním zákonem.5)\n(2) Státní veterinární správa při provozování informačního systému dodržuje závazná ustanovení standardů a zajišťuje ochranu a bezpečnost informací v rámci provozovaného informačního systému. Ochrana a bezpečnost informací uložených v informačním systému se řídí zvláštními právními předpisy.6)\nZpůsob vytváření informačního systému"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Státní veterinární správa je správcem informačního systému,7) který tvoří\na) registr hospodářství a jiných subjektů podléhajících státnímu veterinárnímu dozoru,\nb) registr zvířat,\nc) registr schválených veterinárních léčivých přípravků a veterinárních přípravků,\nd) registr kontaktních míst veřejné správy pro agendu veterinární péče,\ne) registr nákaz a nemocí přenosných ze zvířat na člověka,\nf) registr veterinárních laboratoří."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Registr hospodářství obsahuje standardní údaje sloužící k identifikaci, jako jsou registrační číslo a adresa hospodářství, jméno a příjmení nebo název chovatele, rodné číslo nebo, nemá-li rodné číslo, datum narození anebo identifikační číslo chovatele, trvalý pobyt nebo sídlo chovatele (registr ekonomických subjektů,8) evidence obyvatel,9) územně identifikační registr adres), jakož i další údaje potřebné k plnění úkolů státního veterinárního dozoru, shromažďované krajskými veterinárními správami podle jednotlivých krajů.\n(2) Registr jiných subjektů podléhajících státnímu veterinárnímu dozoru obsahuje standardní údaje sloužící k identifikaci, jako jsou jméno a příjmení nebo název subjektu, rodné číslo nebo, nemá-li rodné číslo, datum narození anebo identifikační číslo subjektu, trvalý pobyt nebo sídlo subjektu (registr ekonomických subjektů, evidence obyvatel, územně identifikační registr adres), dále údaje o podniku, závodu, popřípadě jiném zařízení každého subjektu a o jeho činnosti, jakož i další údaje potřebné k plnění úkolů státního veterinárního dozoru.\n(3) Registr hospodářství je tvořen údaji přejímanými od Ministerstva zemědělství ze systému označování a evidence hospodářských zvířat podle zvláštních právních předpisů10) a údaji krajských veterinárních správ. Registr jiných subjektů podléhajících státnímu veterinárnímu dozoru vedou podle § 49 odst. 1 písm. h) zákona krajské veterinární správy a Městská veterinární správa v Praze (dále jen „krajská veterinární správa“) podle jednotlivých krajů."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Registr zvířat obsahuje údaje stanovené podle zvláštních právních předpisů.10)\n(2) Registr zvířat je tvořen údaji přejímanými od Ministerstva zemědělství a údaji krajských veterinárních správ."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Registr schválených veterinárních léčivých přípravků a veterinárních přípravků obsahuje jednak standardní údaje sloužící k identifikaci (registr ekonomických subjektů, územně identifikační registr adres), jednak další údaje vyplývající ze zákona a ze zvláštních právních předpisů.11)\n(2) Registr schválených veterinárních léčivých přípravků a veterinárních přípravků vede Ústav pro státní kontrolu veterinárních biopreparátů a léčiv.11)"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Registr kontaktních míst veřejné správy pro agendu veterinární péče obsahuje standardní údaje sloužící k identifikaci (registr ekonomických subjektů, územně identifikační registr adres); vede jej Státní veterinární správa."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Registr nákaz a nemocí přenosných ze zvířat na člověka je přejímán z evidence nákaz Mezinárodního úřadu pro nákazy (OIE) a ze systému hlášení nákaz v Unii; vychází z jimi daného rozsahu a struktury. Pro potřeby plnění úkolů veterinární péče může být rozšiřován a podrobněji členěn."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Registr veterinárních laboratoří obsahuje jednak standardní údaje sloužící k identifikaci (registr ekonomických subjektů, územně identifikační registr adres), jednak údaje týkající se povolování laboratorní diagnostické činnosti a akreditace; registr veterinárních laboratoří je veden Státní veterinární správou podle § 48 odst. 1 písm. j) bodu 6 zákona.\nEvidence úkonů"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "(1) Výběr počítačově sledovaných úkonů v oblasti veterinární péče vychází z potřeb a výsledků státního veterinárního dozoru.\n(2) Evidují se zejména údaje o\na) sledování a stavu protinákazové prevence,\nb) ohniscích nákaz,\nc) ochraně zvířat a jejich pohody,\nd) veterinárních kontrolách,\ne) prohlídkách jatečných zvířat a masa a veterinárních vyšetřeních masa volně žijící zvěře (dále jen „zvěřina“),\nf) vydaných veterinárních osvědčeních provázejících přemísťovaná zvířata a přepravované živočišné produkty (dále jen „vydaná veterinární osvědčení“),\ng) vydaných závazných posudcích a schválených postupech a zařízeních pro tepelné ošetření mléka,\nh) vstupu dovážených a provážených zásilek veterinárního zboží na území České republiky (dále jen „evidence vstupu dovážených a provážených zásilek“),\ni) výsledcích laboratorního vyšetřování vzorků."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "(1) Evidence údajů o sledování a stavu protinákazové prevence obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, druhu, data a hodiny úkonu, kontrolované osoby, kontrolovaných zvířat, spolupráce se soukromým veterinárním lékařem, odebraných vzorků, výsledků jejich vyšetření, popřípadě i přijatého opatření.\n(2) Evidence údajů o sledování a stavu protinákazové prevence se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "(1) Evidence údajů o ohniscích nákaz obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, druhu nákazy, dotčených zvířat (druhu, počtu), dotčené osoby, postupu likvidace ohniska nákazy, odebraných vzorků a výsledků jejich vyšetření.\n(2) Evidence údajů o ohniscích nákaz se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři.\n(3) Státní veterinární správa zajišťuje\na) převod dat z této databáze do příslušného informačního systému Unie (Animal Disease Notification System, ADNS),\nb) výměnu dat z této databáze s informačním systémem Integrovaného záchranného systému (operační a informační středisko integrovaného záchranného systému).12)"
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "(1) Evidence údajů o ochraně zvířat a jejich pohody obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, druhu, data a hodiny úkonu, kontrolované osoby, kontrolovaných zvířat, popřípadě i přijatého opatření.\n(2) Evidence údajů o ochraně zvířat a jejich pohody se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "(1) Evidence údajů o veterinárních kontrolách obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, data a hodiny kontroly, kontrolované osoby, předmětu kontroly, výsledku kontroly včetně přijatých opatření a udělených sankcí, odebraných vzorků a výsledků jejich vyšetření.\n(2) Kontroly jsou zaměřeny hlavně na\na) zemědělskou živočišnou prvovýrobu,\nb) výrobu potravin živočišného původu,\nc) zacházení s potravinami živočišného původu,\nd) zpracovávání technických surovin živočišného původu,\ne) neškodné odstraňování a další zpracovávání konfiskátů živočišného původu,\nf) zásilky dováženého veterinárního zboží v místech určení.\n(3) Evidence údajů o veterinárních kontrolách se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "(1) Evidence údajů o prohlídkách jatečných zvířat a masa a o veterinárních vyšetřeních zvěřiny obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). U každého jatečného zvířete (skupiny jatečných zvířat) nebo ulovené volně žijící zvěře se zaznamenávají zejména údaje týkající se totožnosti veterinárního inspektora, identifikace jatek, anebo podniku na zpracování zvěřiny, identifikace chovatele, hospodářství a jatečného zvířete, anebo honitby a jejího uživatele, data a hodiny porážky nebo ulovení, výsledku prohlídky jatečných zvířat a masa nebo veterinárního vyšetření zvěřiny, odebraných vzorků, výsledků jejich vyšetření a likvidace specifikovaného rizikového materiálu.\n(2) Evidence údajů o prohlídkách jatečných zvířat a masa a o veterinárních vyšetřeních zvěřiny se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "(1) Evidence údajů o vydaných veterinárních osvědčeních obsahuje standardní údaje sloužící k identifikaci zúčastněných osob (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, druhu a počtu zvířat, anebo druhu a množství živočišných produktů, odesilatele a příjemce zvířat nebo živočišných produktů a data odeslání.\n(2) Evidence údajů o vydaných veterinárních osvědčeních se vede podle jednotlivých krajů; příslušné údaje zaznamenávají veterinární inspektoři.\n(3) Ve stanovených případech zajišťují krajské veterinární správy vytváření zpráv pro příslušný informační systém Unie (počítačová síť ANIMO) a jejich odeslání na její centrální server."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "(1) Evidence údajů o vydaných závazných posudcích a o schválených postupech a zařízeních pro tepelné ošetření mléka obsahuje standardní údaje sloužící k identifikaci zúčastněných osob (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se stavebníka a jeho činnosti, stavby, popřípadě jiného zařízení, a jejího určení, identifikace podniku pro ošetření, popřípadě zpracovatelského podniku, příslušného technologického postupu, druhu a typu zařízení, data vydání posudku nebo schválení postupu či zařízení.\n(2) Evidenci údajů o vydaných závazných posudcích a o schválených postupech a zařízeních pro tepelné ošetření mléka vedou orgány veterinární správy, které tyto posudky a schválení vydávají."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "(1) Evidence údajů o vstupu dovážených a provážených zásilek obsahuje standardní údaje sloužící k identifikaci zásilky, dovozce a přepravce (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry). Zaznamenávají se zejména údaje týkající se totožnosti veterinárního inspektora, druhu zásilky a množství, dopravce a přepravce, státu původu a státu odesílatele, příjemce, data a hodiny vstupu na území České republiky, splnění dovozních podmínek, výsledku pohraniční veterinární kontroly, zpětného odeslání zásilky a jeho důvodů, popřípadě i přijatého opatření.\n(2) Databáze evidence údajů o vstupu dovážených a provážených zásilek obsahuje také dovozní podmínky pro zvířata a živočišné produkty, seznamy třetích zemí, popřípadě jejich částí, jakož i schválených podniků a jiných zařízení, z nichž je možno dovážet zvířata a živočišné produkty, a vzory používaných veterinárních osvědčení.\n(3) Evidence údajů o vstupu dovážených a provážených zásilek se vede na pohraniční veterinární stanici. Vedou ji veterinární inspektoři, kteří provádějí pohraniční veterinární kontrolu, prostřednictvím speciálního softwarového nástroje.\n(4) Krajské veterinární správy zajišťují vytváření zpráv pro příslušný informační systém Unie (počítačová síť ANIMO) a jejich odeslání na její centrální server."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "(1) Evidence údajů o výsledcích laboratorního vyšetření vzorků obsahuje standardní údaje sloužící k identifikaci kontrolované osoby (vazba na registr ekonomických subjektů, územně identifikační registr adres a uvedené registry), jakož i výsledky laboratorního vyšetření vzorků, prováděného v souvislosti s výkonem státního veterinárního dozoru, s plánem sledování některých látek a reziduí u zvířat a v živočišných produktech, se sledováním vybraných nákaz a nemocí přenosných ze zvířat na člověka apod. U každého vzorku a výsledku se zaznamenávají údaje týkající se totožnosti veterinárního inspektora, osoby zadavatele vyšetření, majitele vzorku, data a hodiny odběru vzorku, identifikace laboratoře, použité laboratorní metody, stanoveného laboratorního parametru a výsledku vyšetření.\n(2) Evidenci údajů o výsledcích laboratorního vyšetření vzorků vedou státní veterinární ústavy, Ústav pro státní kontrolu veterinárních biopreparátů a léčiv a laboratoře, kterým bylo vydáno pro příslušný okruh vyšetření osvědčení o akreditaci a kterým vydala Státní veterinární správa povolení k provádění veterinární laboratorní diagnostické činnosti. Údaje zaznamenávané příslušným ústavem nebo laboratoří jsou v informačním systému přeneseny do počítače příslušné krajské veterinární správy, kde speciální softwarový nástroj umožní jejich přijetí a zpracování.\nRozhraní informačního systému"
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "(1) Státní veterinární správa zřizuje ve svém informačním systému rozhraní, jehož prostřednictvím získává údaje od jiných informačních systémů a poskytuje údaje jiným informačním systémům.\n(2) Zdrojem údajů jsou tyto agendy a registry:\na) registr ekonomických subjektů (Český statistický úřad),\nb) evidence obyvatel (Ministerstvo vnitra),\nc) územně identifikační registr adres (Ministerstvo práce a sociálních věcí),\nd) registry hospodářství, chovatelů a zvířat (Ministerstvo zemědělství),\ne) informační celostátní radiační monitorovací sítě13) (Státní úřad pro jadernou bezpečnost).\n(3) Výměna údajů z registrů a evidencí úkonů se uskutečňuje zejména s příslušnými správními úřady a informačními systémy Unie.\n(4) Kódy krajů České republiky odpovídají klasifikaci územních statistických jednotek CZ-NUTS. Kódy členských států a některých přidružených zemí Unie jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "content": "Státní veterinární správa ve svém informačním systému zřizuje a provozuje rozhraní k veřejnosti, které spočívá v internetové prezentaci vybraných informací, určených pro veřejnost, prostřednictvím webových stránek.\nUstanovení společná a závěrečná"
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "Nedílnou součástí informačního systému je komunikační systém, který spojuje orgány veterinární správy a slouží k přenosu digitalizovaných údajů. Je vybudován v souladu s platnými standardy Ministerstva informatiky,2) schválenou strategií budování komunikační infrastruktury a požadavky Unie na vybudování a fungování počítačové sítě spojující orgány veterinární správy."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha k vyhlášce č. 329/2003 Sb.\nKÓDY ČLENSKÝCH STÁTŮ A NĚKTERÝCH PŘIDRUŽENÝCH ZEMÍ UNIE, URČENÉ PRO INFORMAČNÍ SYSTÉMY ADNS A ANIMO\nID státunázev státuISO kód\n01NěmeckoDE\n02FrancieFR\n03ItálieIT\n04NizozemskoNL\n05BelgieBE\n06LucemburskoLU\n07Velká BritánieGB\n08Irsko (Irská republika)IE\n09DánskoDK\n10ŘeckoEL\n11ŠpanělskoES\n12PortugalskoPT\n13RakouskoAT\n14FinskoFI\n15NorskoNO\n16ŠvédskoSE\n17IslandIS\n18AndoraAD\n20San MarinoSN\n23EstonskoEE\n26SlovinskoSI\n31MaltaMT\n1) Směrnice Rady 82/894/EHS ze dne 21.12.1982 týkající se hlášení nákaz ve Společenství.\n2) Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů.\n3) § 2 písm. f) zákona č. 365/2000 Sb.\n4) § 2 písm. g) zákona č. 365/2000 Sb.\n5) Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.\n6) Například zákon č. 101/2000 Sb., zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, § 5 odst. 2 písm. i) zákona č. 365/2000 Sb.\n7) § 2 písm. c) zákona č. 365/2000 Sb.\n8) Zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů.\n9) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů.\n10) Zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů.\nVyhláška č. 134/2001 Sb., o označování a evidenci skotu, ovcí a koz, ve znění pozdějších předpisů.\nVyhláška č. 357/2001 Sb., o označování a evidenci koní, prasat, běžců a zvěře ve farmovém chovu a o evidenci drůbeže, plemenných ryb a včel.\n11) Zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.\n12) Zákon č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.\n13) Vyhláška č. 319/2002 Sb., o funkci a organizaci celostátní radiační monitorovací sítě."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "datovým prvkem – jednotka dat",
+      "definition": "která je v dané souvislosti považovaná nadále za nedělitelnou a je jednoznačně definována.4)",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "cz:356/2023",
+  "type": "statute",
+  "title": "356/2023 Sb., Vyhláška o stanovení rozsahu vyúčtování ceny za poskytnuté služby podle druhu služby",
+  "title_en": "",
+  "short_name": "356/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-12-12",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/356",
+  "description": "Vyhláška o stanovení rozsahu vyúčtování ceny za poskytnuté služby podle druhu služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) cenovým plánem sada základních cenových, případně i kvalitativních parametrů služby, kterou účastník, který je koncovým uživatelem, popřípadě uživatelem veřejně dostupné služby elektronických komunikací, sjednává za účelem zřízení a využívání služby,\nb) volnou jednotkou jednotka služby, která je hrazena v paušální ceně za zúčtovací období,\nc) měrnou jednotkou jednotka, kterou je měřeno množství poskytnutého, spotřebovaného nebo účtovaného každého jednotlivého druhu služby,\nd) paušální cenou pravidelná cena za cenový plán za zúčtovací období, kterou účastník, který je koncovým uživatelem, popřípadě uživatelem veřejně dostupné služby elektronických komunikací, hradí bez ohledu na skutečný objem spotřeby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Náležitosti vyúčtování ceny za poskytnuté služby podle druhu služby",
+      "content": "(1) Vyúčtování ceny za poskytnuté služby přístupu k internetu nebo interpersonální komunikační služby založené na číslech (dále jen „služba“) podle každé jednotlivé služby uvedené v samostatné položce ceníku s vlastní cenou (dále jen „druh služby“), které předloží podnikatel poskytující službu (dále jen „poskytovatel“) účastníkovi, který je koncovým uživatelem, popřípadě uživatelem veřejně dostupné služby elektronických komunikací, obsahuje alespoň\na) telefonní číslo, pokud bylo pro daný druh služby přiděleno,\nb) označení sjednaného cenového plánu,\nc) vymezení zúčtovacího období datem prvního a posledního dne zúčtovacího období,\nd) údaj o čase, ve kterém byl převzat stav záznamového zařízení poskytovatele v posledním dnu zúčtovacího období, pokud k převzetí stavu nedošlo ve 24.00 hodin,\ne) rozpis jednotlivých druhů služeb v členění podle provozu v rámci České republiky, v rámci Evropské unie a mimo Evropskou unii a u interpersonální komunikační služby založené na číslech dále v členění na provoz v České republice do vlastní sítě, provoz v České republice mimo vlastní síť a ostatní provoz na čísla s přístupovými kódy ke službě nebo skupině služeb určenými charakterem služby podle právního předpisu upravujícího číslovací plány sítí a služby elektronických komunikací, s rozlišením provozu podle různé denní doby, pokud jsou odlišně zpoplatňovány, a to k jednotlivým sjednaným cenovým plánům s těmito údaji:\n1. počtem poskytnutých volných jednotek v cenovém plánu v daném zúčtovacím období s uvedením měrné jednotky,\n2. počtem poskytnutých jednorázově navýšených dodatečných jednotek k cenovému plánu v daném zúčtovacím období s uvedením měrné jednotky,\n3. počtem celkem spotřebovaných jednotek s uvedením měrné jednotky,\n4. počtem celkem účtovaných jednotek s uvedením měrné jednotky,\n5. paušální cenou za zúčtovací období v korunách českých s uvedením, zda se jedná o cenu s daní z přidané hodnoty nebo bez daně z přidané hodnoty,\n6. cenou za jednorázové navýšení dodatečných jednotek v daném zúčtovacím období v korunách českých s uvedením, zda se jedná o cenu s daní z přidané hodnoty nebo bez daně z přidané hodnoty,\n7. cenou celkem v korunách českých s uvedením, zda se jedná o cenu s daní z přidané hodnoty nebo bez daně z přidané hodnoty,\n8. sazbou daně z přidané hodnoty,\nf) informace o počtu nevyužitých jednotek převedených z minulého nebo do následujícího zúčtovacího období s uvedením měrné jednotky, pokud jsou převáděny,\ng) zúčtování záloh, přeplatků nebo nedoplatků,\nh) celkovou částku k úhradě v korunách českých tak, že se uvede celková částka bez daně z přidané hodnoty, daň z přidané hodnoty a celková částka s daní z přidané hodnoty,\ni) datum splatnosti vyúčtované částky,\nj) informace o způsobu uplatnění reklamace včetně údaje o tom, kde a v jakých lhůtách lze reklamaci uplatnit.\n(2) Náležitosti podle odstavce 1 písm. e) bodů 3 a 4 se neuvádí v případě poskytování datově neomezené služby přístupu k internetu a neomezené hlasové služby.\n(3) Je-li vyúčtování ceny podle odstavce 1 vystavováno k více než jedné přípojce, k více než jedné účastnické stanici nebo k více než jednomu telefonnímu číslu, musí obsahovat položky podle odstavce 1 písm. a) až f) ke každé z těchto přípojek, účastnických stanic nebo ke každému telefonnímu číslu. Obdobně se postupuje, je-li u jedné přípojky nebo účastnické stanice využíváno více telefonních čísel."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Vyhláška č. 135/2012 Sb., o stanovení rozsahu vyúčtování ceny podle druhu služby, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2024."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cenovým plánem sada základních cenových",
+      "definition": "případně i kvalitativních parametrů služby, kterou účastník, který je koncovým uživatelem, popřípadě uživatelem veřejně dostupné služby elektronických komunikací, sjednává za účelem zřízení a využívání služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "volnou jednotkou jednotka služby",
+      "definition": "která je hrazena v paušální ceně za zúčtovací období",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "měrnou jednotkou jednotka",
+      "definition": "kterou je měřeno množství poskytnutého, spotřebovaného nebo účtovaného každého jednotlivého druhu služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "paušální cenou pravidelná",
+      "definition": "cena za cenový plán za zúčtovací období, kterou účastník, který je koncovým uživatelem, popřípadě uživatelem veřejně dostupné služby elektronických komunikací, hradí bez ohledu na skutečný objem spotřeby.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

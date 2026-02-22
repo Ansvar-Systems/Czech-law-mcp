@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:3195/1948",
+  "type": "statute",
+  "title": "3195/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění konfiskovaných podniků do LEKA, továren na dámské prádlo a lehkou konfekci, národního podniku.",
+  "title_en": "",
+  "short_name": "3195/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-12-12",
+  "in_force_date": "1948-12-27",
+  "url": "https://www.e-sbirka.cz/ul1/1948/3195",
+  "description": "Vyhláška ministra průmyslu o začlenění konfiskovaných podniků do LEKA, továren na dámské prádlo a lehkou konfekci, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. František Lorenz, se sídlem v Bublavě,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Richter & Wustl, Se sídlem v Suniperku,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Maximilian Rost, společnost s ručením obmezeným, se sídlem v Děčíně,\nkonfiskovaných podle § 1 dekretu presidenta republiky ze dne 25. října 1945, č. 108 Sb., o konfiskaci nepřátelského majetku a Fondech národní obnovy, do LEKA, továren na dámské prádlo a lehkou konfekci, národního podniku."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:172/1952",
+  "type": "statute",
+  "title": "172/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 28 0301.",
+  "title_en": "",
+  "short_name": "172/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-07-08",
+  "in_force_date": "1961-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/172",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 28 0301.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 28 0301 „Středící důlky s vrcholovým úhlem 90° pro nápravy kolejových vozidel“ je od 1. září 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma jedná o rozměrech středicích důlků náprav tendrů, motorových vozů a vozů."
+    }
+  ],
+  "definitions": []
+}

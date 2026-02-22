@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:308/1946",
+  "type": "statute",
+  "title": "308/1946 Ú. l. I, Vyhláška Národní banky Československé o způsobu provádění některých platů mezi Československou republikou a Rumunskem.",
+  "title_en": "",
+  "short_name": "308/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-29",
+  "in_force_date": "1945-11-15",
+  "url": "https://www.e-sbirka.cz/ul1/1946/308",
+  "description": "Vyhláška Národní banky Československé o způsobu provádění některých platů mezi Československou republikou a Rumunskem.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Výměna zboží mezi Československem a Rumunskem se bude díti cestou soukromých kompensací.\n(2) Provádění soukromých kompensací jest podrobeno všeobecným předpisům o soukromých kompensacích platným v obou zemích."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Platy do Rumunska z důvodu jiného než za zboží konají se způsobem, jejž v každém jednotlivém případě určí Národní banka Československá."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Pro platy podle této vyhlášky platí obecné devisové předpisy."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Tato zatímní úprava platebního styku platí ode dne 15. listopadu 1945."
+    }
+  ],
+  "definitions": []
+}

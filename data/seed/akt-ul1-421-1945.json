@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:421/1945",
+  "type": "statute",
+  "title": "421/1945 Ú. l. I, Vyhláška Národní banky československé o způsobu vyrovnávání platů mezi Československou republikou a sterlingovou oblastí.",
+  "title_en": "",
+  "short_name": "421/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-11-25",
+  "in_force_date": "1945-11-25",
+  "url": "https://www.e-sbirka.cz/ul1/1945/421",
+  "description": "Vyhláška Národní banky československé o způsobu vyrovnávání platů mezi Československou republikou a sterlingovou oblastí.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Převody platů určených k vyrovnávání vzájemných závazků mezi Československem a sterlingovou oblastí budou prováděny prostřednictvím Národní banky Československé a Bank of England."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "(1) Dlužníci v Československu budou konati platy určené k vyrovnávání svých závazků v anglických librách prostřednictvím Národní banky československé a dlužníci ve sterlingové oblasti v korunách československých prostřednictvím Bank of England.\n(2) Přepočet obou měn bude prováděn kursem úředně stanoveným."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Pro vplaty a výplaty platí obecné devisové předpisy."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cz:222/2010",
+  "type": "statute",
+  "title": "222/2010 Sb., Nařízení vlády o katalogu prací ve veřejných službách a správě",
+  "title_en": "",
+  "short_name": "222/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-07-23",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/222",
+  "description": "Nařízení vlády o katalogu prací ve veřejných službách a správě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "DÍL 2.04",
+      "content": "Tímto nařízením se stanoví zařazení prací ve veřejných službách a správě do platových tříd zaměstnanců, jimž je za práci poskytován plat (dále jen „katalog prací“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "DÍL 2.04",
+      "content": "Katalog prací v příloze k tomuto nařízení stanoví zařazení prací do platových tříd podle jejich složitosti, odpovědnosti a namáhavosti a člení je podle druhu do povolání."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "DÍL 2.04",
+      "content": "Nařízení vlády č. 137/2009 Sb., kterým se stanoví katalog prací ve veřejných službách a správě, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "DÍL 2.04",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. října 2010.\nPříloha k nařízení vlády č. 222/2010 Sb.\nKatalog prací ve veřejných službách a správě\nA. Seznam povolání a rozpětí platových tříd\nB. Zařazení prací do povolání a platových tříd"
+    }
+  ],
+  "definitions": []
+}

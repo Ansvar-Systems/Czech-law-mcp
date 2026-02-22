@@ -1,0 +1,73 @@
+{
+  "id": "cz:94/2011",
+  "type": "statute",
+  "title": "94/2011 Sb., Nález Ústavního soudu ze dne 22. března 2011 sp. zn. Pl. ÚS 24/10 ve věci návrhu na zrušení § 97 odst. 3 a 4 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, a na zrušení vyhlášky č. 485/2005 Sb., o rozsahu provozních a lokalizačních údajů, době jejich uchovávání a formě a způsobu jejich předávání orgánům oprávněným k jejich využívání",
+  "title_en": "",
+  "short_name": "94/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-04-12",
+  "in_force_date": "2011-04-12",
+  "url": "https://www.e-sbirka.cz/sb/2011/94",
+  "description": "Nález Ústavního soudu ze dne 22. března 2011 sp. zn. Pl. ÚS 24/10 ve věci návrhu na zrušení § 97 odst. 3 a 4 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, a na zrušení vyhlášky č. 485/2005 Sb., o rozsahu provozních a lokalizačních údajů, době jejich uchovávání a formě a způsobu jejich předávání orgánům oprávněným k jejich využívání",
+  "provisions": [
+    {
+      "provision_ref": "„§ 97",
+      "section": "97",
+      "title": "„§ 97",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "(3) Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinna uchovávat provozní a lokalizační údaje, které jsou vytvářeny nebo zpracovávány při zajišťování jejích veřejných komunikačních sítí a při poskytovávání jejích veřejně dostupných služeb elektronických komunikací37b). Provozní a lokalizační údaje týkající se neúspěšných pokusů o volání je právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací povinna uchovávat pouze tehdy, jsou-li tyto údaje vytvářeny nebo zpracovávány a zároveň uchovávány nebo zaznamenávány. Právnická nebo fyzická osoba, která provozní a lokalizační údaje podle věty první a druhé uchovává, je na požádání povinna je bezodkladně poskytnout orgánům oprávněným k jejich vyžádání podle zvláštního právního předpisu. Současně je tato osoba povinna zajistit, aby s údaji podle věty první a druhé nebyl uchováván obsah zpráv. Doba uchovávání těchto provozních a lokalizačních údajů nesmí být kratší než 6 měsíců a delší než 12 měsíců. Po uplynutí této doby je osoba, která údaje podle věty první a druhé uchovává, povinna je zlikvidovat, pokud nebyly poskytnuty orgánům oprávněným k jejich vyžádání podle zvláštního předpisu nebo tento zákon nestanoví jinak (§ 90).\n(4) Rozsah provozních a lokalizačních údajů uchovávaných podle odstavce 3, dobu jejich uchovávání podle odstavce 3 a formu a způsob jejich předávání orgánům oprávněným k jejich využívání a dobu uchovávání a způsob likvidace údajů, které byly poskytnuty orgánům oprávněným k jejich vyžádání podle zvláštního právního předpisu, stanoví prováděcí právní předpis.\n37b) Směrnice Evropského parlamentu a Rady 2006/24/ES ze dne 15. března 2006 o uchovávání údajů vytvářených nebo zpracovávaných v souvislosti s poskytováním veřejně dostupných služeb elektronických komunikací nebo veřejných komunikačních sítí a o změně směrnice 2002/58/ES.“.\n24. Napadená vyhláška č. 485/2005 Sb., o rozsahu provozních a lokalizačních údajů, době jejich uchovávání a formě a způsobu jejich předávání orgánům oprávněným k jejich využívání, zní:\nMinisterstvo informatiky ve spolupráci s Ministerstvem vnitra stanoví podle § 150 odst. 3 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 290/2005 Sb. a zákona č. 361/2005 Sb., (dále jen „zákon“) k provedení § 97 odst. 3 zákona:"
+    },
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "Pro účely této vyhlášky se rozumí\na) stanicí BTS základnová stanice veřejné mobilní telefonní sítě,\nb) stanicí StartBTS základnová stanice veřejné mobilní telefonní sítě, do které je účastník alokován při zahájení komunikace,\nc) stanicí StopBTS základnová stanice veřejné mobilní telefonní sítě, do které je účastník alokován při ukončení komunikace,\nd) číslem IMEI mezinárodní identifikátor mobilního telefonního přístroje,\ne) číslem MSISDN účastnické číslo ve veřejné mobilní telefonní síti,\nf) číslem IMSI mezinárodní identifikátor účastníka veřejné mobilní telefonní sítě,\ng) destinací určení sítě zahraničního operátora,\nh) identifikátorem URI jednotný identifikátor zdroje,\ni) kódem právnické nebo fyzické osoby zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací se rozumí pořadové číslo osvědčení v evidenci podnikatelů podle § 14 zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah uchovávání provozních a lokalizačních údajů",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "(1) Právnická nebo fyzická osoba zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací (dále jen „provozovatel“) poskytuje orgánu oprávněnému k jejich vyžádání (dále jen „oprávněný orgán“) touto vyhláškou vymezené provozní a lokalizační údaje (dále jen „údaje“).\n(2) U sítí elektronických komunikací s přepojováním okruhů a pevným připojením se uchovávají\na) údaje o uskutečněné komunikaci s uvedením typu komunikace, telefonního čísla účastníka volajícího a volaného nebo identifikátoru telefonní karty pro použití ve veřejném telefonním automatu, data a času zahájení komunikace, délky komunikace, případně stavu komunikace,\nb) údaje o všech veřejných telefonních automatech s uvedením jejich telefonního čísla, evidenčního čísla, geografické souřadnice a slovního popisu umístění.\n(3) U veřejných mobilních telefonních sítí elektronických komunikací se uchovávají\na) údaje o uskutečněné komunikaci s uvedením typu komunikace, telefonního čísla účastníka volajícího a volaného, data a času zahájení komunikace, délky komunikace, čísla IMEI, čísla stanice StartBTS, popřípadě čísla stanice StopBTS, destinace a doplňkové informace,\nb) údaje o vzájemných vazbách mezi čísly MSISDN a čísly IMEI společně použitými v síti, identifikace stanice BTS a čísla IMEI, které zprostředkovaly volání bez SIM karty na číslo tísňového volání „112“, IP adresy terminálů, kterými bylo zprostředkováno odesílání zpráv SMS sítí Internet, datum a čas dobíjení kreditu u předplacených služeb, čísla dobíjecích kuponů k určitému telefonnímu číslu účastníka, telefonní číslo účastníka k určitému dobíjecímu kuponu,\nc) údaje o všech stanicích BTS s uvedením jejich čísla, geografické souřadnice, azimutu směrování antén a slovního popisu umístění stanice BTS.\n(4) U sítí elektronických komunikací s přepojováním paketů se uchovávají údaje o uskutečněné komunikaci\na) u služeb přístupu k síti s uvedením typu připojení, identifikátoru uživatelského účtu, identifikátoru zařízení uživatele služby, data a času zahájení připojení, data a času ukončení připojení, zájmových identifikátorů (například IP adresa, číslo portu), statusu události (například úspěch, neúspěch, řádné nebo mimořádné ukončení připojení), množství přenesených dat (v příchozím/v odchozím směru),\nb) u služeb přístupu ke schránkám elektronické pošty s uvedením identifikátoru zájmového uživatelského zařízení, uživatelského účtu, identifikátoru zprávy na poštovním serveru, data a času zahájení komunikace, adresy elektronické pošty odesílatele, adres elektronické pošty příjemců, identifikátoru protokolu elektronické pošty, množství přenesených dat, informace o použití zabezpečené komunikace,\nc) u služeb přenosu zpráv elektronické pošty s uvedením identifikátoru zájmového uživatelského zařízení, identifikátoru serveru elektronické pošty, data a času zahájení komunikace, adresy elektronické pošty odesílatele, adres elektronické pošty příjemců, identifikátoru protokolu elektronické pošty, množství přenesených dat, informace o použití zabezpečené komunikace,\nd) u serverových služeb s uvedením identifikátoru zájmového uživatelského zařízení, identifikátoru uživatelského účtu, data a času požadavku na službu, veškerých identifikátorů serveru (zejména IP adresa, úplné doménové jméno FQDN), požadovaných identifikátorů URI nebo typu služby, dodatečných parametrů identifikátorů URI nebo služby, použité služby, množství přenesených dat, metody a statusu požadavku na službu,\ne) u dalších služeb elektronických komunikací (zejména u služeb typu chat, usenet, instant messaging a IP telefonie) s uvedením veškerých identifikátorů komunikujících stran, transportního protokolu, data a času zahájení komunikace, data a času ukončení komunikace, použité služby, množství přenesených dat."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob předávání údajů",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "(1) O poskytnutí uchovávaných údajů oprávněný orgán žádá provozovatele prostřednictvím svého určeného kontaktního pracoviště. Provozovatel vyžádané údaje bezodkladně předává prostřednictvím svého určeného kontaktního pracoviště. Údaje podle § 2 odst. 3 písm. c) se předávají souhrnně pravidelně jednou měsíčně v aktuálním stavu k datu předání.\n(2) Komunikace mezi kontaktními pracovišti provozovatele a oprávněného orgánu probíhá přednostně způsobem umožňujícím dálkový přístup. Žádosti i údaje se předávají přednostně v elektronické podobě datových souborů. Při komunikaci kontaktních pracovišť se používá jen obecně dostupných technologií a komunikačních protokolů tak, aby řešení nebylo vázáno na určitého výrobce či dodavatele.\n(3) Nelze-li použít pro komunikaci způsob umožňující dálkový přístup nebo bylo-li by použití takového způsobu neúčelné, lze předat žádost nebo vyžádané údaje v listinné podobě nebo v podobě datových souborů na přenosném médiu.\n(4) K prokázání autentičnosti žádosti a předávaných údajů se použije\na) zaručený elektronický podpis založený na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb1); k vytváření podpisu a jeho ověření se použije formát kryptografického standardu s veřejným klíčem PKCS#7,\nb) průvodní dopis v listinné podobě obsahující číslo jednací nebo pořadové číslo žádosti, název souboru, datum, čas a způsob předání a případně i kontrolní součet nebo standardní hash souboru (například SHA-1) a podpis oprávněné osoby,\nc) dopis v listinné podobě obsahující číslo jednací a podpis oprávněné osoby, nebo\nd) v případě žádostí nebo údajů již předaných v elektronické podobě za určité období, zpravidla jednoho týdne, u nichž nebyl použit jiný způsob prokázání autentičnosti, dopis v listinné podobě obsahující číslo jednací a podpis oprávněné osoby, který se zasílá dodatečně.\n(5) Údaje o komunikaci uskutečněné pod určitým identifikátorem za určité časové období provozovatel předává oprávněnému orgánu jako\na) výpis komunikace z pevné linky, jde-li o údaje podle § 2 odst. 2 písm. a),\nb) výpis mobilní komunikace, jde-li o údaje podle § 2 odst. 3 písm. a),\nc) výpis datové komunikace, jde-li o údaje podle § 2 odst. 4.\n(6) Výpisy podle odstavce 5 se oprávněnému orgánu předávají ve strukturovaném textovém souboru, přednostně s kódováním podle znakové sady CP-1250, UTF-8 nebo ISO 8859-2. Soubory se zpracovávají samostatně ke každému jednotlivému telefonnímu číslu nebo jinému identifikátoru uvedenému v žádosti. Názvy předávaných souborů mají strukturu podle jmenné konvence uvedené v příloze.\n(7) Soubor se uvozuje jednotnou hlavičkou a má pevnou strukturu stanovenou pro daný druh sítě nebo služby nebo typu požadavku. Jednotlivé řádky se v souboru řadí chronologicky, pokud v žádosti není uveden jiný parametr řazení. Výpis podle odstavce 5 je ukončen na posledním řádku slovem „Konec“.\n(8) Na řádku se jednotlivé údaje oddělují středníkem (kód 0059 znakové sady) nebo tabulátorem (kód 0009 znakové sady), poslední údaj se ukončuje znakem CRLF (kód 0013 a 0010 znakové sady). Pokud některý z údajů není požadován nebo prokazatelně není z použité technologie zjistitelný, jeho místo ve struktuře se ponechá prázdné.\n(9) U údajů sestávajících z více hodnot se jednotlivé hodnoty oddělují znakem „|“ (kód 0166 znakové sady). Pokud je součástí předávaných údajů znak shodný s některým z výše uvedených oddělovačů nebo znak „\\“ (kód 0092 znakové sady), předřadí se před něj znak „\\“ (například „\\;“, „\\CR\\LF“, „\\\\“).\n(10) V odůvodněných případech a se souhlasem oprávněného orgánu a provozovatele je možné použít formát, strukturu a název souboru odlišně od jejich vymezení v odstavcích 6 až 9."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Doba uchovávání údajů",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "(1) Údaje se uchovávají po dobu 6 měsíců, není-li v odstavci 2 stanoveno jinak.\n(2) Údaje uvedené v části 3 bodech 3.3.4.5 a 3.3.4.6 přílohy se uchovávají po dobu 3 měsíců."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "chapter": "V. - Dikce napadených ustanovení zákona a napadené vyhlášky",
+      "content": "1) § 11 zákona č. 227/2000 Sb., o elektronickém podpisu, ve znění pozdějších předpisů«"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "stanicí StartBTS základnová stanice veřejné mobilní telefonní sítě",
+      "definition": "do které je účastník alokován při zahájení komunikace",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "stanicí StopBTS základnová stanice veřejné mobilní telefonní sítě",
+      "definition": "do které je účastník alokován při ukončení komunikace",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "kódem právnické nebo fyzické osoby zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací",
+      "definition": "pořadové číslo osvědčení v evidenci podnikatelů podle § 14 zákona.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

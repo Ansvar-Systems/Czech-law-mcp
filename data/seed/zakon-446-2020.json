@@ -1,0 +1,33 @@
+{
+  "id": "cz:446/2020",
+  "type": "statute",
+  "title": "446/2020 Sb., Usnesení vlády České republiky č. 1115 o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "446/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-10-30",
+  "in_force_date": "2020-10-30",
+  "url": "https://www.e-sbirka.cz/sb/2020/446",
+  "description": "Usnesení vlády České republiky č. 1115 o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. u všech poskytovatelů zdravotních služeb návštěvy pacientů v zdravotnických zařízeních, ve kterých se poskytuje lůžková péče, s výjimkou:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. u všech poskytovatelů zdravotních služeb přítomnost třetí osoby při porodu ve zdravotnickém zařízení v případě, že nejsou splněny tyto podmínky:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. u všech poskytovatelů sociálních služeb v zařízení domovů pro seniory a domovů se zvláštním režimem a všem odlehčovacím sociálním službám v pobytové formě (podle § 44, 49 a 50 zákona č. 108/2006 Sb., o sociálních službách) návštěv uživatelů s výjimkou:"
+    }
+  ],
+  "definitions": []
+}

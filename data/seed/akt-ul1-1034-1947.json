@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1034/1947",
+  "type": "statute",
+  "title": "1034/1947 Ú. l. I, Vyhláška ministerstva financí o uvedení cigarety Detva a Slovenského dýmkového tabáku do prodeje a o cenách těchto tabákových výrobků.",
+  "title_en": "",
+  "short_name": "1034/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-10-08",
+  "in_force_date": "1947-10-08",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1034",
+  "description": "Vyhláška ministerstva financí o uvedení cigarety Detva a Slovenského dýmkového tabáku do prodeje a o cenách těchto tabákových výrobků.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Čs. tabáková režie uvede do prodeje nový druh cigarety pod jménem Detva a nový druh dýmkového tabáku pod jménem Slovenský dýmkový tabák."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Se souhlasem nejvyššího úřadu cenového stanoví ministerstvo financí spotřebitelské ceny těchto tabákových výrobků takto:\nCigareta Detva za 1 kus—.70 Kčs.\nSlovenský dýmkový tabák za 1 balíček ve váze 50 g7.— Kčs."
+    }
+  ],
+  "definitions": []
+}

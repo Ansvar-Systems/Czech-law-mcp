@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:932/1948",
+  "type": "statute",
+  "title": "932/1948 Ú. l. I, Vyhláška ministra sociální péče o výplatě mzdy za svátek Božího Těla 1948.",
+  "title_en": "",
+  "short_name": "932/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-05-22",
+  "in_force_date": "1948-05-22",
+  "url": "https://www.e-sbirka.cz/ul1/1948/932",
+  "description": "Vyhláška ministra sociální péče o výplatě mzdy za svátek Božího Těla 1948.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Den 27. května 1948 (Božího Těla) je dnem pracovního klidu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Zaměstnancům, kteří z důvodu uvedeného v § 1 v den 27. května 1948 nepracují a nemají za tento den nárok na mzdu nebo plat, přísluší náhrada za úšlý výdělek.\n(2) Nejsou-li mzda nebo plat zaměstnanců pevně určeny podle hodin, dnů nebo delších časových období, bere se za základ pro výpočet náhrady podle odstavce 1 průměrný výdělek za poslední mzdové období.\n(3) Zaměstnancům, kteří bez dostatečné omluvy zameškají pracovní směnu (nebo její část) bezprostředně předcházející nebo následující po dni 27. května 1948, se neposkytuje náhrada za ušlý výdělek podle odstavce 1.\n(4) V podnicích nepřetržitě provozovaných se neposkytne náhrada za ušlý výdělek podle odstavce 1 rovněž těm zaměstnancům, kteří bez dostatečného důvodu nebo omluvy zameškají pracovní směnu (nebo její část), konanou v den 27. května 1948."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Domáckým dělníkům a jim na roveň postaveným domáckým živnostníkům a zprostředkovatelům domácké práce přísluší za dne 27. května 1948 1% z pracovní odměny, dosažené v posledních bezprostředně předcházejících 4 kalendářních měsících.\n(2) Pracovní odměnou se rozumí hrubá odměna bez příplatků na hotová vydání.\n(3) Podnikatelé domácké práce jsou povinni nahraditi zprostředkovatelům domácké práce částky, které tito vyplatili domáckým dělníkům a jim na roveň postaveným domáckým živnostníkům podle ustanovení odstavce 1."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Koná-li se práce v den 27. května 1948, přísluší zaměstnanci za každou v tento den odpracovanou hodinu skutečně docílený výdělek, zvýšený o zvláštní příplatek, který se rovná\na) u zaměstnance pracujícího v časové mzdě jeho skutečné hodinové mzdě,\nb) u zaměstnance pracujícího v úkolu nebo prémiové soustavě průměrnému hodinovému výdělku, jehož docílil v posledním ukončeném mzdovém zúčtovacím období,\nc) u zaměstnance s měsíčním platem 1/200 jeho hrubého měsíčního platu.\n(2) Ustanovení platných mzdových (platových) vyhlášek, platných kolektivních smluv nebo jiných ujednání o výši příplatku za práci ve dnech pracovního klidu neplatí pro den 27. května 1948.\n(3) Je-li odpadlá pracovní doba delší než doba, kterou zaměstnanec v den 27. května 1948 skutečně odpracoval, obdrží vedl odměny za odpracovanou dobu podle odstavce 1 ještě náhradu ušlého výdělku za zbývající část odpadlé doby pracovní, vypočtenou podle § 2.\n(4) Učni, který pracuje v den 27. května 1948 zvýší se stanovený týdenní (měsíční) vychovávací příspěvek o 1/48, (1/200) za každou v tento den odpracovanou hodinu.\n(5) Ustanovení odstavců 1 až 4 neplatí pro zaměstnance, jimž se proto, že v den 27. května 1948 pracovali, poskytne náhradní volný den. Za takový náhradní volný den jim přísluší náhrada podle ustanovení § 2."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ustanovení této vyhlášky se nevztahují na zaměstnance státu a svazků zájmové a územní samosprávy, jejich ústavů, podniků a fondů, jakož i ústavů, podniků a fondů jimi spravovaných, jejichž platové poměry jsou upraveny zvláštními zákonnými předpisy nebo služebními řády podle § 210, odst. 1 platového zákona ze dne 24. června 1926, č. 103 Sb., nebo podle obdoby těchto předpisů."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Vyhláška nabývá účinnosti dnem uveřejnění v Úředním listě republiky Československé a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pracovní odměnou",
+      "definition": "hrubá odměna bez příplatků na hotová vydání",
+      "source_provision": "§ 3."
+    }
+  ]
+}

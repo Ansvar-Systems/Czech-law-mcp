@@ -1,0 +1,74 @@
+{
+  "id": "cz:ul1:196/1947",
+  "type": "statute",
+  "title": "196/1947 Ú. l. I, Vyhláška ministra průmyslu o hromadné výrobě šatstva.",
+  "title_en": "",
+  "short_name": "196/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-03-04",
+  "in_force_date": "1947-03-04",
+  "url": "https://www.e-sbirka.cz/ul1/1947/196",
+  "description": "Vyhláška ministra průmyslu o hromadné výrobě šatstva.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Hromadnou výrobou šatstva ve smyslu této vyhlášky se rozumí taková výroba šatstva, která není vyráběna na míru podle přání jednotlivého zákazníka, nýbrž je vyráběna podle určitých schematických velikostí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Rozsah hromadné výroby šatstva pro jednotlivé podniky stanoví ministerstvo průmyslu, na Slovensku v dohodě s pověřenectvem průmyslu a obchodu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Rozšiřovati rozsah hromadné výroby šatstva (§ 1) nad rozsah stanovený ministerstvem průmyslu, na Slovensku v dohodě s pověřenectvem průmyslu a obchodu (§ 2), nebo pokud k stanovení tohoto rozsahu nedošlo nad stav rozsahu této výroby v den účinnosti této vyhlášky, je dovoleno jen se souhlasem ministerstva průmyslu, na Slovensku v dohodě s pověřenectvem průmyslu a obchodu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ministerstvo průmyslu, na Slovensku pověřenectvo průmyslu a obchodu, před rozhodnutím podle §§ 2 a 3 si vyžádá vyjádřeni příslušných hospodářských organisací, a to v každém případě jak organisací oboru průmyslového tak i organisací oboru řemeslného."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Rozšiřováním rozsahu výroby se rozumí zejména:\n1. u podniků, které provádí výrobu po domácku, zařízení dílenské výroby,\n2. u dílenské výroby, zvýšení počtu šicích strojů o více než 10% nad stav v den účinnosti této vyhlášky,\n3. zvýšení počtu domácích dělníků o více než 10% nad stav v den účinnosti této vyhlášky; podniky, které dne 1. ledna 1939 nebo 1. ledna 1945 zaměstnávaly větší počet dělníků než ke dni účinnosti této vyhlášky, smějí bez zvláštního povolení doplniti počet domácích dělníků na tuto výši,\n4. u dílenské výroby zvýšení počtu zaměstnanců o více než 10%."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Podnikatelé v oboru hromadné výroby šatstva jsou povinni na vyzvání ministerstva průmyslu, na Slovensku pověřenectva průmyslu a obchodu, vyplniti nejdéle do 60 dnů dvojmo dotazník o rozsahu své výroby ke dni účinnosti této vyhlášky a zaslati jej v jednom vyhotovení ministerstvu průmyslu, v jednom vyhotovení své hospodářské organisaci, jejíž je podnikatel povinným členem. Na Slovensku jsou povinni podnikatelé oboru hromadné výroby šatstva zaslati obě vyhotovení dotazníku pověřenectvu průmyslu a obchodu."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Přestupky této vyhlášky se trestají podle § 8 dekretu č. 109/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hromadnou výrobou šatstva ve smyslu této vyhlášky",
+      "definition": "taková výroba šatstva, která není vyráběna na míru podle přání jednotlivého zákazníka, nýbrž je vyráběna podle určitých schematických velikostí",
+      "source_provision": "§ 1."
+    },
+    {
+      "term": "Rozšiřováním rozsahu výroby",
+      "definition": "zejména:",
+      "source_provision": "§ 5."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:327/2006",
+  "type": "statute",
+  "title": "327/2006 Sb., Vyhláška, kterou se stanoví charakteristiky přiměřených požadavků na připojení v pevném místě k veřejné komunikační síti a na přístup v pevném místě k veřejně dostupné telefonní službě a podmínky přístupu k internetu v rámci univerzální služby",
+  "title_en": "",
+  "short_name": "327/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-06-28",
+  "in_force_date": "2012-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/327",
+  "description": "Vyhláška, kterou se stanoví charakteristiky přiměřených požadavků na připojení v pevném místě k veřejné komunikační síti a na přístup v pevném místě k veřejně dostupné telefonní službě a podmínky přístupu k internetu v rámci univerzální služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Charakteristika přiměřeného požadavku na připojení v pevném místě k veřejné komunikační síti",
+      "content": "(1) Přiměřeným požadavkem na připojení v pevném místě k veřejné komunikační síti v rámci univerzální služby (dále jen „připojení“) je požadavek na zřízení jednoho účastnického přípojného okruhu1) (dále jen „přípojný okruh“) ukončeného koncovým bodem sítě v místě bydliště, je-li uživatelem nepodnikající fyzická osoba, nebo v místě podnikání, je-li uživatelem podnikající fyzická osoba, anebo v místě sídla, je-li uživatelem právnická osoba. Poskytovatel univerzální služby, jemuž byla uložena povinnost podle § 38 odst. 2 písm. a) zákona, zřizuje tento přípojný okruh prostřednictvím jím provozované veřejné komunikační sítě nebo veřejné komunikační sítě jiného podnikatele.\n(2) Přiměřeným požadavkem podle ustanovení odstavce 1 není požadavek takového uživatele, kterému již byl přípojný okruh zřízen. To se nevztahuje na připojení v pevném místě pro zdravotně postižené osoby podle § 43 odst. 4 zákona.\n(3) Přiměřeným požadavkem podle odstavce 1 dále není požadavek na připojení v pevném místě s obtížnou dostupností nebo v pevném místě, v němž by zřízení připojení představovalo náklady značně převyšující obvyklou výši, za předpokladu, že je v daném místě dostupný signál alespoň jedné veřejné mobilní telefonní sítě. Dostupností signálu se rozumí úroveň přijímaného signálu v pevném místě uživatele, která není horší než referenční úroveň uvedená ve standardu ETSI EN 300 910 V8.5.1."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Charakteristika přiměřeného požadavku na přístup v pevném místě k veřejně dostupné telefonní službě",
+      "content": "(1) Přiměřeným požadavkem na přístup v pevném místě k veřejně dostupné telefonní službě v rámci univerzální služby (dále jen „přístup“) je požadavek na poskytnutí přístupu, který umožňuje prostřednictvím přípojného okruhu uskutečňovat přímo nebo nepřímo národní a mezinárodní telefonní volání v mluvené řeči, faksimilní komunikaci pro analogové rozhraní a přenos dat pro přístup k internetu za podmínek uvedených v § 3.\n(2) Přístup podle odstavce 1 musí umožňovat přístup k veřejně dostupné telefonní službě každého poskytovatele této služby."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Podmínky přístupu k internetu",
+      "content": "(1) Přípojný okruh musí umožňovat přenos dat rychlostmi dostačujícími pro aplikace využívané prostřednictvím úzkopásmového přístupu.\n(2) Součástí přístupu k internetu musí být rovněž možnost ověřit si skutečnou rychlost přenosu dat s minimální dobou měření 5 minut, a to přístupem z účastníkova koncového zařízení k testovacímu zařízení poskytovatele univerzální služby pro měření rychlosti přenosu dat."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2006.\n1) § 2 vyhlášky č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot, ve znění vyhlášky č. 227/2012 Sb."
+    }
+  ],
+  "definitions": []
+}

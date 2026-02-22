@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1902/1948",
+  "type": "statute",
+  "title": "1902/1948 Ú. l. I, Vyhláška ministra průmyslu o zřízení Azbestocementových závodov, národného podniku.",
+  "title_en": "",
+  "short_name": "1902/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-08-18",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1902",
+  "description": "Vyhláška ministra průmyslu o zřízení Azbestocementových závodov, národného podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. „Ferrenit“ účastinná spoločnosť, se sídlem v Nitře, Budayho 20,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Syderolit mlýnové závody na nerasty Anton a Eduard Frištacký, se sídlem v Púchově,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. „Terazzo“ stavitel’ Rudolf Peteraj a spol., se sídlem v Bratislavě, Vajnorská cesta 25."
+    }
+  ],
+  "definitions": []
+}

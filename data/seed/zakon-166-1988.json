@@ -1,0 +1,39 @@
+{
+  "id": "cz:166/1988",
+  "type": "statute",
+  "title": "166/1988 Sb., Redakční sdělení o opravě chyb 1. v zákonu č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve slovenském vydání, 2. ve vyhlášce Slovenského báňského úřadu č. 71/1988 Sb., o výbušninách, v českém a slovenském vydání, 3. ve vyhlášce Českého báňského úřadu č. 72/1988 Sb., o výbušninách, v českém a slovenském vydání, 4. v oznámení Slovenského báňského úřadu o vydání výnosu č. 2180/1988 z 11. července 1988 uveřejněném v částce 26/1988 Sb., v českém a slovenském vydání",
+  "title_en": "",
+  "short_name": "166/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-10-26",
+  "in_force_date": "1988-10-26",
+  "url": "https://www.e-sbirka.cz/sb/1988/166",
+  "description": "Redakční sdělení o opravě chyb 1. v zákonu č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve slovenském vydání, 2. ve vyhlášce Slovenského báňského úřadu č. 71/1988 Sb., o výbušninách, v českém a slovenském vydání, 3. ve vyhlášce Českého báňského úřadu č. 72/1988 Sb., o výbušninách, v českém a slovenském vydání, 4. v oznámení Slovenského báňského úřadu o vydání výnosu č. 2180/1988 z 11. července 1988 uveřejněném v částce 26/1988 Sb., v českém a slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 odst. 1 má být v poslední větě místo slova „vrchný“ slovo „hlavný“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 183 v bodě 3 má být místo „3. siedmy diel úpravy“ správně „3. šiesta časť úpravy“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V příloze č. 8 v tabulce B je v sloupci nadepsaném „Druh trhaviny“ v páté kolonce shora („v uhlí“) nesprávně uvedeno „DBT-PP, DBT I“; správně má být jen „DBT I“."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. V textu uvedeném pod písmenem a) v bodě 2 má být místo „Úprava Slovenského banského úradu“ správně uvedeno „Úprava Ústredného banského úradu“."
+    }
+  ],
+  "definitions": []
+}

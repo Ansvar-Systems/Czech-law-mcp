@@ -1,0 +1,38 @@
+{
+  "id": "cz:580/1992",
+  "type": "statute",
+  "title": "580/1992 Sb., Vyhláška ministerstva financí České republiky, kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České republiky a ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách",
+  "title_en": "",
+  "short_name": "580/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-12-15",
+  "in_force_date": "1993-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/580",
+  "description": "Vyhláška ministerstva financí České republiky, kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České republiky a ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška federálního ministerstva financí, ministerstva financí České republiky a ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách, se pro území České republiky mění a doplňuje takto:\n1. § 4 odst. 1 včetně poznámky č. 1) zní:\n„(1) Konečným spotřebitelem se pro účely cenových předpisů rozumí fyzická nebo právnická osoba, která nakupuje zboží za jiným účelem než pro podnikání.1)\n1) § 2 zákona č. 513/1991 Sb., obchodní zákoník.“.\n2. V § 4 se za odstavec 1 vkládá nový odstavec 2, který zní:\n„(2) Evidence cen, kterou je prodávající povinen uchovávat, musí obsahovat údaje, z nichž je zřejmý název, popř. druh zboží, určené podmínky, k nimž se cena vztahuje, výše ceny, za kterou je zboží prodáváno, a období, v němž se za tuto cenu prodávalo.“.\nDosavadní odstavec 2 se označuje jako odstavec 3.\n3. Poznámka č. 1) k § 5 odst. 2 se označuje jako poznámka č. 1a) a její text „§ 231“ se nahrazuje textem „§ 636“.\n4. V § 5 se za odstavec 2 vkládá nový odstavec 3, který zní:\n„(3) Označením spotřebního zboží cenou při prodeji konečnému spotřebiteli se rozumí vybavení zboží údajem o ceně připevněným viditelně na zboží nebo umístěným způsobem vylučujícím záměnu na regále, ve vitríně, na vývěsce nebo ve veřejně přístupném ceníku tak, aby měl kupující možnost seznámit se s cenou před jednáním o koupi zboží.“.\n5. V § 7 odst. 2 se ve druhé větě slovo „Současně“ nahrazuje slovy „Kromě toho“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1993."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Konečným spotřebitelem",
+      "definition": "fyzická nebo právnická osoba, která nakupuje zboží za jiným účelem než pro podnikání",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Označením spotřebního zboží cenou při prodeji konečnému spotřebiteli",
+      "definition": "vybavení zboží údajem o ceně připevněným viditelně na zboží nebo umístěným způsobem vylučujícím záměnu na regále, ve vitríně, na vývěsce nebo ve veřejně přístupném ceníku tak, aby měl kupující možnost seznámit se s cenou před jednáním o koupi zboží",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

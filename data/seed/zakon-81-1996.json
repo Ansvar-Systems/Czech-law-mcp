@@ -1,0 +1,99 @@
+{
+  "id": "cz:81/1996",
+  "type": "statute",
+  "title": "81/1996 Sb., Vyhláška Ministerstva zemědělství o způsobu výpočtu výše újmy nebo škody způsobené na produkčních funkcích lesa",
+  "title_en": "",
+  "short_name": "81/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-04-19",
+  "in_force_date": "1996-04-19",
+  "url": "https://www.e-sbirka.cz/sb/1996/81",
+  "description": "Vyhláška Ministerstva zemědělství o způsobu výpočtu výše újmy nebo škody způsobené na produkčních funkcích lesa",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Tato vyhláška stanoví způsob výpočtu výše újmy (§ 11 odst. 3 a § 35 odst. 4 lesního zákona) nebo škody (dále jen „škoda“), které vznikají\na) na lesním pozemku v důsledku\n1. trvalého odnětí plnění produkční funkce změnou druhu pozemku,\n2. dočasného odnětí plnění produkční funkce,\n3. poškození plnění produkční funkce,\nb) na lesním porostu v důsledku\n1. zničení lesního porostu,\n2. předčasného smýcení lesního porostu,\n3. snížení přírůstu lesního porostu,\n4. snížení produkce lesního porostu,\n5. snížení kvality lesního porostu,\nc) z mimořádných a nákladově náročnějších opatření při hospodaření v lesích.\n(2) Vzorce a tabulkové hodnoty uvedené v této vyhlášce jsou vztaženy na plochu 1m2. Výše takto vypočtené škody se násobí plochou v m2, na které k poškození došlo.\n(3) Celková škoda se vypočítá jako součet škod vzniklých v důsledku jednotlivých skutečností.\n(4) Vyhláška se nevztahuje na výpočet výše škod na objektech a zařízeních sloužících lesnímu hospodářství, plantážích vánočních stromků, lesních školkách a semenných plantážích.\n(5) Jednotlivé lesní dřeviny jsou sdruženy do jednotlivých skupin dřevin podle přílohy č. 1."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Škoda z trvalého odnětí plnění produkční funkce změnou druhu pozemku",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 1 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POZEMKU",
+      "content": "(1) Škoda z trvalého odnětí plnění produkční funkce změnou druhu pozemku se vypočte podle vzorce\nS1 = CPSLT - CP,\nkde\nS1 = škoda z trvalého odnětí plnění produkční funkce změnou druhu pozemku,\nCPSLT = cena lesního pozemku1) zjištěná podle SLT,\nCP = cena tohoto pozemku1) po změně jeho druhu.\n(2) Pokud změnou druhu pozemku dojde ke zvýšení ceny pozemku, škoda nevzniká."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Škoda z dočasného odnětí plnění produkční funkce",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 1 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POZEMKU",
+      "content": "Škoda z dočasného odnětí plnění produkční funkce se vypočte podle vzorce\nS2 = r,\nkde\nS2 = roční škoda z dočasného odnětí plnění produkční funkce,\nr = upravená potenciální renta z lesa, uvedená v příloze č. 2."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Škoda z poškození plnění produkční funkce",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 1 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POZEMKU",
+      "content": "Škoda z poškození plnění produkční funkce se vypočte podle vzorce\nS3 = CPSLT1- CPSLT2,\nkde\nS3 = škoda z poškození plnění produkční funkce,\nCPSLT1 = cena lesního pozemku1) pro původní SLT,\nCPSLT2 = cena lesního pozemku1) pro změněný SLT."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Škoda ze zničení lesního porostu",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "Škoda ze zničení lesního porostu se vypočte podle vzorce\nS4 = Ha - Aa,\nkde\nS4 = škoda ze zničení lesního porostu,\nHa = cena lesního porostu1) před zničením,\nAa = cena mýtní výtěže,1) která se rovná rozdílu mezi výnosem z prodeje dříví a náklady na těžbu a soustřeďování dříví ze zničeného lesního porostu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Škoda z předčasného smýcení lesního porostu",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "Škoda z předčasného smýcení lesního porostu se vypočte podle vzorce\nS5 = Ha.Mn/100,\nkde\nS5 = škoda z předčasného smýcení lesního porostu,\nHa = cena lesního porostu1) v roce vynucené těžby,\nMn = procento mýtní nezralosti, uvedené v příloze č. 3."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Škoda ze snížení přírůstu lesního porostu",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "(1) Škoda ze snížení přírůstu lesního porostu se vypočte podle vzorce\nS6.1 = (Ha+1 - Ha).K1,\nkde\nS6.1 = roční škoda ze snížení přírůstu lesního porostu,\nHa+1 = cena nepoškozeného lesního porostu1) v následujícím roce po poškození (bez uplatnění srážek dle stupňů poškození),\nHa = cena nepoškozeného lesního porostu1) v roce poškození (bez uplatnění srážek dle stupňů poškození),\nK1 = koeficient vyjadřující poměr přírůstu poškozeného a zdravého lesního porostu.\nVýraz (Ha+1 - Ha) pro lesní porosty ve věku 6 let a více se vypočte jako rozdíl ceny lesního porostu pro věkový interval následující po roce poškození a ceny lesního porostu pro věkový interval příslušný roku poškození dělený počtem roků věkového intervalu.\n(2) V poškozených mladých lesních porostech se měří přírůst výškový, ve starších lesních porostech se měří přírůst tloušťkový, zpravidla pomocí vývrtů provedených ve výšce 1,3 m nad zemí.\n(3) Pro škody působené imisemi je koeficient K1 uveden podle pásem ohrožení a stupňů poškození v příloze č. 4. V případě výpočtu výše škody pro více lesních porostů je možno postupovat tak, že se vytvoří soubory lesních porostů podle skupin lesních dřevin, pásem ohrožení a stupňů poškození. Pro takto vytvořené soubory lesních porostů se aritmetickým průměrem váženým plochou vypočte průměrný bonitní stupeň, zakmenění, věk apod.\n(4) Škoda ze snížení přírůstu lesního porostu v důsledku okusu zvěří se vypočte podle vzorce\nS6.2 = Z . K3.Np/N,\nkde\nS6.2 = roční škoda ze snížení přírůstu lesního porostu v důsledku okusu zvěří,\nZ = cena ročního přírůstu podle skupin dřevin, uvedená v příloze č. 5,\nK3 = koeficient vyjadřující míru poškození. U jehličnatých dřevin se poškození vrcholového pupenu považuje za ztrátu jednoročního přírůstu poškozené dřeviny, tj. K3 = 1,0, u listnatých dřevin se míra poškození hodnotí koeficientem K3, který je v intervalu od 0,5 do 1,0 podle druhu dřeviny a charakteru poškození,\nNp = počet okusem poškozených jedinců,\nN = stanovený minimální počet jedinců.2)"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Škoda ze snížení produkce lesního porostu",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "(1) Škoda ze snížení produkce lesního porostu v důsledku záměny dřevin se vypočte podle vzorce\nS7 = Au1/u1 - Au2/u2,\nkde\nS7 = roční škoda ze snížení produkce lesního porostu v důsledku záměny dřevin,\nAu1/u1 = cena průměrného mýtního přírůstu lesního porostu1) s cílovou skladbou dřevin (bez uplatnění srážek),\nAu2/u2 = cena průměrného mýtního přírůstu lesního porostu1) se současnou (zaměněnou nebo náhradní) skladbou dřevin (bez uplatnění srážek).\n(2) Srážku je možné uplatnit pouze z důvodu lesa nízkého."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Škoda ze snížení kvality lesního porostu",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "(1) Škoda ze snížení kvality lesního porostu v důsledku rozvoje hniloby se vypočte podle vzorce\nS8.1 = Au.K2.f.Np/N,\nkde\nS8.1 = škoda ze snížení kvality lesního porostu v důsledku rozvoje hniloby,\nAu = cena lesního porostu1) ve věku u redukovaná předpokládaným zakmeněním Bu,\nK2 = koeficient uvedený v příloze č. 6,\nf = diskontační faktor uvedený ve Věstníku Ministerstva zemědělství,\nNp = počet poškozených stromů,\nN = počet stromů celkem.\n(2) Škoda ze snížení kvality lesního porostu v důsledku zvýšeného podílu souší v imisních oblastech, požáru apod. se vypočte podle vzorce\nS8.2 = Ha.(1 - KS),\nkde\nS8.2 = škoda ze snížení kvality lesního porostu v důsledku zvýšeného podílu souší v imisních oblastech, požáru apod.,\nHa = cena lesního porostu1) v roce poškození,\nKS = koeficient, který se určí jako podíl sníženého a obvyklého zpeněžení."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Škoda na porostech lesa hospodářského způsobu výběrného",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 2 - VÝPOČET VÝŠE ŠKOD NA LESNÍM POROSTU",
+      "content": "V porostech lesa hospodářského způsobu výběrného nebo v porostech blízkých hospodářskému způsobu výběrnému se škody stanoví na základě roztřídění lesního porostu do věkových stupňů."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Škoda z mimořádných nebo nákladově náročnějších opatření",
+      "chapter": "ČÁST DRUHÁ - VÝPOČET VÝŠE ŠKOD > ODDÍL 3 - VÝPOČET ŠKOD Z MIMOŘÁDNÝCH A NÁKLADOVĚ NÁROČNĚJŠÍCH OPATŘENÍ",
+      "content": "(1) Škoda z mimořádných opatření se vypočte podle vzorce\nS9.1 = Km,\nkde\nS9.1 = škoda z mimořádných opatření,\nKm = přiměřené náklady vynaložené na mimořádné opatření.\n(2) Škoda z nákladově náročnějších opatření se vypočte podle vzorce\nS9.2 = Kz - Ko,\nkde\nS9.2 = škoda z nákladově náročnějších opatření,\nKz = přiměřené zvýšené náklady,\nKo = obvyklé náklady.\n(3) Mimořádnými opatřeními jsou zejména vynucené meliorace (odvodnění, zavodnění, hnojení), revitalizační opatření (postřiky), protierozní opatření, rekonstrukce náhradních porostů, zpřístupnění poškozených porostů, výstavba náhradních komunikací, hlídání a vyklizování požářiště, činnosti v prodlouženém období do zajištění kultury, způsobeném např. okusem zvěří a imisemi, apod. Náleží sem také náklady nutné ke zjištění výše škody, např. náklady na monitoring, biomonitoring nebo znalecké posudky.\n(4) Nákladově náročnějšími opatřeními jsou zejména těžba porostů podél elektrovodů, elektrifikovaných železnic apod."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Účinnost",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k vyhlášce č. 81/1996 Sb.\nSdružení jednotlivých lesních dřevin do jednotlivých skupin dřevin\nskupina dřevindřeviny ve skupině\nsmrkvšechny druhy smrků\njedlevšechny druhy jedlí\nborovicevšechny druhy borovic\nmodřínvšechny druhy modřínů\ndouglaskadouglaska tisolistá\nbukbuk lesní, habr obecný, všechny druhy javorů, všechny druhy lip, jírovec maďal\ndubvšechny druhy dubů, všechny druhy jilmů, ořešák královský a černý, platan javorolistý, třešeň ptačí, střemcha pozdní, hrušeň planá, jabloň lesní, ostatní listnaté tvrdé\njasanvšechny druhy jasanů, pajasan žlaznatý\nolševšechny druhy olší, kaštanovník jedlý\nosikatopol osika\nakáttrnovník akát\ntopolvšechny druhy topolů kromě osiky, všechny druhy vrb, ostatní měkké listnáče\nbřízavšechny druhy bříz, všechny druhy jeřábů\nPříloha č. 2 k vyhlášce č. 81/1996 Sb.\nUpravená potenciální renta z lesa r\nKódRenta\nSLTKč/m2\n9Z0,01\n9R0,01\n9K0,01\n8Z0,01\n8Y0,01\n8V0,01\n8T0,01\n8S0,04\n8R0,01\n8Q0,02\n8P0,03\n8N0,04\n8M0,01\n8K0,04\n8G0,07\n8F0,04\n8A0,04\n7Z0,01\n7Y0,02\n7V0,09\n7T0,04\n7S0,05\n7R0,04\n7Q0,02\n7P0,07\n7O0,09\n7N0,04\n7M0,02\n7K0,04\n7G0,07\n7F0,06\n7D0,06\n7B0,06\n6Z0,01\n6Y0,02\n6V0,11\n6T0,04\n6S0,08\n6R0,08\n6Q0,04\n6P0,07\n6O0,1\n6N0,05\n6M0,02\n6L0,04\n6K0,05\n6I0,07\n6H0,1\n6G0,09\n6F0,1\n6D0,1\n6B0,1\n6A0,07\n5Z0,02\n5Y0,04\n5W0,07\n5V0,11\n5U0,1\n5T0,04\n5S0,08\n5R0,02\n5Q0,04\n5P0,06\n5O0,1\n5N0,04\n5M0,02\n5L0,08\n5K0,06\n5J0,07\n5I0,07\n5H0,1\n5G0,09\n5F0,1\n5D0,12\n5C0,06\n5B0,1\n5A0,07\n4Z0,02\n4Y0,02\n4X0,01\n4W0,07\n4V0,13\n4S0,07\n4R0,08\n4Q0,03\n4P0,07\n4O0,1\n4N0,04\n4M0,02\n4K0,05\n4I0,06\n4H0,11\n4G0,11\n4F0,08\n4D0,1\n4C0,05\n4B0,11\n4A0,07\n3Z0,02\n3Y0,01\n3X0,01\n3W0,08\n3V0,13\n3U0,12\n3T0,03\n3S0,07\n3R0,05\n3Q0,03\n3P0,04\n3O0,09\n3N0,04\n3M0,01\n3L0,08\n3K0,03\n3J0,03\n3I0,05\n3H0,1\n3G0,08\n3F0,08\n3D0,1\n3C0,03\n3B0,1\n3A0,05\n2Z0,02\n2X0,01\n2W0,03\n2V0,07\n2T0,03\n2S0,04\n2Q0,02\n2O0,06\n2N0,02\n2M0,02\n2L0,08\n2K0,02\n2I0,02\n2H0,07\n2D0,06\n2C0,01\n2B0,06\n2A0,03\n2P0,04\n2G0,08\n1Z0,02\n1X0,01\n1V0,07\n1U0,08\n1T0,04\n1S0,03\n1Q0,02\n1P0,03\n1O0,06\n1N0,01\n1M0,03\n1L0,08\n1K0,01\n1J0,01\n1I0,02\n1H0,02\n1G0,05\n1D0,07\n1C0,01\n1B0,02\n1A0,01\n0Z0,02\n0X0,01\n0T0,08\n0R0,04\n0O0,05\n0N0,03\n0M0,02\n0K0,02\n0Y0,02\n0P0,02\n0Q0,02\n0C0,02\n0G0,07\nPříloha č. 3 k vyhlášce č. 81/1996 Sb.\nProcenta mýtní nezralosti Mn\nSkupina dřevin: smrk\nBonitní stupeň\nVěk123456789\ndo 29100100100 100100100100100100\n30 - 39788185899395979899\n40 - 49566066717781869196\n50 - 59323845505862687482\n60 - 69101624293741485464\n70 - 79006101722283343\n80 - 89000025111523\n90 - 99000000007\n100 a více000000000\nSkupina dřevin: jedle\nVěkBonitní stupeň\n123456789\ndo 29100100100100100100100100100\n30 - 39889093959798989999\n40 - 49667176808689939697\n50 - 59424956616973808590\n60 - 69192634404955636978\n70 - 790715213037455264\n80 - 8900061320283448\n90 - 99000017131932\n100 - 1090000002515\n110 a více000000000\nSkupina dřevin: borovice\nVěkBonitní stupeň\n123456789\ndo 29100100100100100100100100100\n30 - 39676972747576818590\n40 - 49545660626364697479\n50 - 59404347495051566367\n60 - 69263033353637435055\n70 - 79131720222324303742\n80 - 8926991012172529\n90 - 9900000371317\n100 a více000000000\nSkupina dřevin: modřín\nVěkBonitní stupeň\n123456789\ndo 29100100100100100100100100100\n30 - 39727578818385909398\n40 - 49576064677072798590\n50 - 59414549525457657381\n60 - 69263035373942495969\n70 - 79121721222527334354\n80 - 8915791114192837\n90 - 9900111471419\n100 - 109000000048\n110 a více000000000\nSkupina dřevin: douglaska\nBonitní stupeň\nVěk12345\ndo 29100100100100100\n30 - 394452606674\n40 - 491725344152\n50 - 5902121930\n60 - 69000010\n70 a více00000\nSkupina dřevin: buk\nVěkBonitní stupeň\n123456789\ndo 39100100100100100100100100100\n40 - 49667177818386888993\n50 - 59404757646874787986\n60 - 69212840495462676878\n70 - 7971427354250565868\n80 - 890415243038454758\n90 - 99006131927333646\n100 - 10900041017222434\n110 - 119000016111321\n120 - 129000000016\n130 a více000000000\nSkupina dřevin: dub\nVěkBonitní stupeň\n123456789\ndo 39100100100100100100100100100\n40 - 49405061707988959799\n50 - 5941630445772879396\n60 - 69009243958768587\n70 - 79000102545657279\n80 - 8900001534546368\n90 - 990000725445661\n100 - 1090000116334755\n110 - 119000009243143\n120 - 129000003152530\n130 - 13900000061114\n140 a více000000000\nSkupina dřevin: jasan\nBonitní stupeň\nVěk123\ndo 29100100100\n30 - 39708187\n40 - 49476577\n50 - 59234562\n60 - 6932446\n70 - 790530\n80 - 890016\n90 - 99005\n100 a více000\nSkupina dřevin: olše\nBonitní stupeň\nVěk12345\ndo 19100100100100100\n20 - 296774808588\n30 - 395360636669\n40 - 493543485252\n50 - 591625313737\n60 - 69210152224\n70 - 79046911\n80 a více00000\nSkupina dřevin: osika\nBonitní stupeň\nVěk123\ndo 19100100100\n20 - 29929393\n30 - 39697073\n40 - 49475053\n50 - 59263135\n60 - 69101418\n70 - 79457\n80 a více000\nSkupina dřevin: akát\nVěkBonitní stupeň\n123456789\ndo 19100100100100100100100100100\n20 - 29394449545760718086\n30 - 39162537444751586975\n40 - 4931020283439465664\n50 - 59019162228334250\n60 - 6900371321242933\n70 - 79000358111213\n80 a více000000000\nSkupina dřevin: topol\nVěkBonitní stupeň\n123456789\ndo 9100100100100100100100100100\n10 - 19353842495666778389\n20 - 2900081012151821\n30 a více000000000\nSkupina dřevin: bříza\nBonitní stupeň\nVěk123\ndo 19100100100\n20 - 29939495\n30 - 39717478\n40 - 49414248\n50 - 59141719\n60 a více000\nPříloha č. 4 k vyhlášce č. 81/1996 Sb.\nKoeficient K1 pro výpočet škody ze snížení přírůstu lesního porostu v důsledku imisí\nPásmo ohroženíStupeň poškození\nIIIIIIaIIIbIVa\nA,B0,150,350,550,750,85\nC0,050,150,350,550,75\nD0,000,050,250,450,65\nPříloha č. 5 k vyhlášce č. 81/1996 Sb.\nCena ročního přírůstu Z podle skupin dřevin v Kč/m2\nSkupina dřevinBonitní stupeň\n123456789\nsmrk0,3140,3060,2940,2730,2370,2110,1560,1050,009\njedle0,3040,2860,2830,2760,250,2130,1610,1010,076\nborovice0,2290,2140,2070,1810,1680,1260,070,0490,019\nmodřín0,2660,2630,2620,2550,2540,230,190,1360,07\ndouglaska0,3260,3120,3070,2990,28\nbuk0,3580,3490,3220,280,2490,2110,1570,0910,04\ndub0,390,3890,3460,3120,2860,2350,1850,1220,046\njasan0,2970,2590,155\nolše0,3170,310,2830,2370,188\nosika0,1810,1420,08\nakát0,2920,2890,2790,2640,2590,2040,0970,0970,097\ntopol0,4570,4260,3880,3790,350,2610,1970,1250,022\nbříza0,2140,1470,079\nPříloha č. 6 k vyhlášce č. 81/1996 Sb.\nKoeficient K2 pro výpočet škody ze snížení kvality lesního porostu v důsledku rozvoje hniloby pro skupinu dřevin smrk\nNástup škody ve věkuBonitní stupeň\n123456789\ndo 290,580,650,700,700,750,800,800,800,80\n30 - 390,550,600,650,650,700,750,750,750,75\n40 - 490,530,580,630,630,670,730,730,730,73\n50 - 590,500,550,600,600,650,700,700,700,70\n60 - 690,470,520,570,570,620,650,650,650,65\n70 - 790,440,490,540,540,580,600,600,600,60\n80 - 890,400,450,500,500,550,550,550,550,55\n90 - 990,110,130,140,150,150,200,230,250,27\n100 a více---------\nPro ostatní skupiny dřevin se koeficient K2 stanoví přiměřeně.\n1) Vyhláška Ministerstva financí č. 178/1994 Sb., o oceňování staveb, pozemků a trvalých porostů, ve znění pozdějších předpisů.\n2) Vyhláška Ministerstva zemědělství č. 82/1996 Sb., o genetické klasifikaci, obnově lesa, zalesňování a o evidenci při nakládání se semeny a sazenicemi lesních dřevin."
+    }
+  ],
+  "definitions": []
+}

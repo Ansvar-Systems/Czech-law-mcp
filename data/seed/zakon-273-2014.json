@@ -1,0 +1,45 @@
+{
+  "id": "cz:273/2014",
+  "type": "statute",
+  "title": "273/2014 Sb., Vyhláška o sestavování a předkládání informací pro informační databázi České národní banky – Centrální registr úvěrů bankami a pobočkami zahraničních bank",
+  "title_en": "",
+  "short_name": "273/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-11-25",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2014/273",
+  "description": "Vyhláška o sestavování a předkládání informací pro informační databázi České národní banky – Centrální registr úvěrů bankami a pobočkami zahraničních bank",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje obsah, formu, lhůty a způsob sestavování a předkládání informací bankami a pobočkami zahraničních bank pro potřeby informační databáze vedené Českou národní bankou podle § 38a odst. 2 zákona č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Informace o klientech a pohledávkách",
+      "content": "(1) Banka a pobočka zahraniční banky (dále jen „vykazující osoba“) sestavuje informace\na) o osobách, které nejsou bankami ani centrálními bankami, za kterými má pohledávku v souvislosti s jejich podnikatelskou činností, a\nb) o rozvahových a podrozvahových pohledávkách za osobami podle písmene a) v korunách českých i v cizí měně.\n(2) Vykazující osoba sestavuje informace podle odstavce 1 k poslednímu dni kalendářního měsíce. Informace podle odstavce 1 písm. a) předkládá vykazující osoba průběžně a informace podle odstavce 1 písm. b) do 18 dnů po skončení kalendářního měsíce, k němuž se informace o osobách a pohledávkách vztahují.\n(3) Obsah informací podle odstavce 1 je uveden v příloze k této vyhlášce.\n(4) Údaje v cizích měnách se uvedou v české měně, a to v přepočtu podle kurzu devizového trhu vyhlášeného Českou národní bankou a platného pro den sestavení datového vstupu, nestanoví-li jiný právní předpis upravující účetnictví jinak."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob předkládání informací",
+      "content": "(1) Vykazující osoba předkládá České národní bance informace podle § 2 v elektronické podobě prostřednictvím informačního systému České národní banky ve struktuře a formě odpovídající metodické a uživatelské dokumentaci dostupné na internetových stránkách České národní banky.\n(2) Informace podle odstavce 1 podepíše vykazující osoba uznávaným elektronickým podpisem.\n(3) K zajištění komunikace podle odstavce 1 sdělí vykazující osoba České národní bance kontaktní údaje osob\na) pověřených správou přístupových práv uživatelů vykazující osoby k datové komunikaci s Českou národní bankou (administrátor) a\nb) zajišťujících věcnou a technickou komunikaci s Českou národní bankou.\n(4) Vykazující osoba informuje Českou národní banku bez zbytečného odkladu o změnách údajů uvedených v odstavci 3."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Opravy chyb v informacích",
+      "content": "(1) Je-li po předložení informací podle § 2 České národní bance zjištěna chyba nebo došlo ke změně v dříve předložených informacích, předloží vykazující osoba České národní bance bez zbytečného odkladu opravené informace způsobem uvedeným v § 3 odst. 1 a 2.\n(2) Zjistí-li osoba podle § 2 odst. 1 písm. a) na základě výpisu poskytovaného Českou národní bankou1) chybu v předložených informacích, uplatní ji u vykazující osoby, která v důvodném případě předloží opravené informace České národní bance bez zbytečného odkladu způsobem uvedeným v § 3 odst. 1 a 2."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2015.\nPříloha k vyhlášce č. 273/2014 Sb.\nInformace o klientech a pohledávkách\nI. Údaje o klientovi\n1. Typ klienta\n2. Rezident/nerezident\n3. Identifikační číslo klienta (IČO)\n4. Zahraniční identifikační číslo (ZEČO)\n5. Právní forma klienta\n6. Ekonomický sektor klienta\n7. Daňové identifikační číslo\n8. Obchodní název\n9. Adresa sídla klienta v členění ulice vč. čísla popisného, město, poštovní směrovací číslo, země\n10. Kontaktní adresa klienta v členění ulice vč. čísla popisného, město, poštovní směrovací číslo, země\n11. Rodné číslo nebo datum narození klienta - fyzické osoby\n12. Jméno, příjmení, tituly klienta - fyzické osoby\n13. Interní poznámka banky\nII. Údaje o pohledávce\n1. Organizační složka banky, která poskytla pohledávku\n2. Identifikační kód klienta v CRÚ vztahujícího se k pohledávce\n3. Typ záznamu k pohledávce\n4. Číslo rámcové smlouvy\n5. Číslo pohledávky\n6. Číslo tranše\n7. Syntetický účet pohledávky\n8. Typ pohledávky\n9. Typ úvěru\n10. Odvětvová specifikace pohledávky\n11. Stav pohledávky\n12. Datum vzniku pohledávky\n13. Datum splatnosti pohledávky\n14. Dny po splatnosti\n15. Měna pohledávky\n16. Výše vzniklé pohledávky (rámce)\n17. Zůstatek pohledávky\n18. Korekce\n19. Jistina po splatnosti\n20. Úroky a poplatky po splatnosti\n21. Typ zajištění\n22. Datum odpisu\n1) § 38a odst. 5 zákona č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

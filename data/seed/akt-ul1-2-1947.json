@@ -1,0 +1,44 @@
+{
+  "id": "cz:ul1:2/1947",
+  "type": "statute",
+  "title": "2/1947 Ú. l. I, Vyhláška ministra financí o dani z obratu u jižního ovoce a u rýže.",
+  "title_en": "",
+  "short_name": "2/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-01-03",
+  "in_force_date": "1947-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/2",
+  "description": "Vyhláška ministra financí o dani z obratu u jižního ovoce a u rýže.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Dodávky, vlastní spotřeba a dovoz jižního ovoce a rýže, u nichž daňová povinnost vznikne (§ 11 zákona č. 31/1946 Sb.) v době od 1. ledna 1947 do 31. prosince 1948, podléhají dani z obratu o sazbě pouze 1%."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "(1) Jižním ovocem se podle této vyhlášky rozumí zboží sazebních čísel 9 až 18.\n(2) Rýže se podle této vyhlášky rozumí rýže neloupaná a loupaná, i rýže zlomková (saz. čís. 34).\n(3) Pro sazební příslušnost jsou rozhodné celní sazebník a vysvětlivky k němu, bez rozdílu, jde-li o dovoz či tuzemské dodávky nebo vlastní spotřebu."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1947."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Jižním ovocem se podle této vyhlášky",
+      "definition": "zboží sazebních čísel 9 až 18",
+      "source_provision": "Čl. II."
+    },
+    {
+      "term": "Rýže se podle této vyhlášky",
+      "definition": "rýže neloupaná a loupaná, i rýže zlomková (saz",
+      "source_provision": "Čl. II."
+    }
+  ]
+}

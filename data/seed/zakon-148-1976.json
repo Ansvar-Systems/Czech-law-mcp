@@ -1,0 +1,27 @@
+{
+  "id": "cz:148/1976",
+  "type": "statute",
+  "title": "148/1976 Sb., Redakční sdělení o opravě tiskových chyb ve vyhlášce ministerstva práce a sociálních věcí Slovenské socialistické republiky č. 134/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon Slovenské národní rady o působnosti orgánů Slovenské socialistické republiky v sociálním zabezpečení, v českém i slovenském vydání",
+  "title_en": "",
+  "short_name": "148/1976 Sb.",
+  "status": "in_force",
+  "issued_date": "1976-12-09",
+  "in_force_date": "1976-12-09",
+  "url": "https://www.e-sbirka.cz/sb/1976/148",
+  "description": "Redakční sdělení o opravě tiskových chyb ve vyhlášce ministerstva práce a sociálních věcí Slovenské socialistické republiky č. 134/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon Slovenské národní rady o působnosti orgánů Slovenské socialistické republiky v sociálním zabezpečení, v českém i slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 43 odst. 1 ve druhém řádku se vypouštějí slova „III. stupně“ v českém vydání, „III. stupňa“ ve slovenském vydání."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V příloze č. 1 této vyhlášky v bodě 7 tabulkové části je třeba v kolonce „Maximální výše denně Kčs“ i pod písmenem a) i pod písmenem b) doplnit „3“ v slovenském vydání."
+    }
+  ],
+  "definitions": []
+}

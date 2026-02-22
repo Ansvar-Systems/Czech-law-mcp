@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1192/1946",
+  "type": "statute",
+  "title": "1192/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu kovodělného a strojírenského.",
+  "title_en": "",
+  "short_name": "1192/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-08",
+  "in_force_date": "1948-08-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1192",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu kovodělného a strojírenského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Sigmund — Chema, akc. spol. se sídlem v Lutíně u Olomouce, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Akciová společnost, první moravská továrna na vodovody a pumpy Ant. Kunc, Hranice, se sídlem v Hranicích, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

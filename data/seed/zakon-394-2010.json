@@ -1,0 +1,21 @@
+{
+  "id": "cz:394/2010",
+  "type": "statute",
+  "title": "394/2010 Sb., Sdělení Českého statistického úřadu o aktualizaci Číselníku zemí (CZEM)",
+  "title_en": "",
+  "short_name": "394/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-12-27",
+  "in_force_date": "2010-12-27",
+  "url": "https://www.e-sbirka.cz/sb/2010/394",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Číselníku zemí (CZEM)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Český statistický úřad podle § 19 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, oznamuje s účinností od 1. ledna 2011 aktualizaci Číselníku zemí (dále jen „číselník CZEM“) vydaného sdělením Českého statistického úřadu č. 489/2003 Sb. ze dne 18. prosince 2003 a aktualizovaného sdělením č. 534/2006 Sb. ze dne 27. listopadu 2006.\nDo aktualizovaného číselníku CZEM jsou promítnuty změny k mezinárodní normě ISO 3166-1, které na svých stránkách publikuje Mezinárodní organizace pro normalizaci (ISO). Český statistický úřad dále z důvodu aktuálních potřeb uživatelů zařazuje do číselníku CZEM položku Kosovo. Změny jsou uvedeny v příloze tohoto sdělení.\nPlatné znění aktualizovaného Číselníku zemí (CZEM) bude k dispozici na internetových stránkách ČSÚ na adrese www.czso.cz.\nPříloha\nAktualizované položky Číselníku zemí (CZEM)\nTab. č. 1: Změny zavedené Mezinárodní organizací pro normalizaci (ISO)\nKód zeměČeský název zeměAnglický název zeměDruh\nN-3A-2A-3plnýzkrácenýplnýzkrácenýzměny\n068BOBOLMnohonárodní stát BolívieBolíviethe Plurinational State of BoliviaBolivia, Plurinational State of2, 3\n498MDMDAMoldavská republikaMoldavskothe Republic of MoldovaMoldova (the Republic of)2\n499MEMNEČerná HoraČerná HoraMontenegroMontenegro3\n524NPNPLNepálská federativní demokratická republikaNepálthe Federal Democratic Republic of NepalNepal3\n652BLBLMSaint BarthélemySaint BarthélemySaint BarthélemySaint Barthélemy1\n654SHSHNSvatá Helena, Ascension a Tristan da CunhaSvatá Helena, Ascension a Tristan da CunhaSaint Helena, Ascension and Tristan da CunhaSaint Helena, Ascension and Tristan da Cunha2\n663MFMAFSvatý Martin (francouzská část)Svatý Martin (francouzská část)Saint Martin (French part)Saint Martin (French part)1\n862VEVENBolívarovská republika VenezuelaVenezuelathe Bolivarian Republic of VenezuelaVenezuela, Bolivarian Republic of2\nTab. č. 2: Kosovo1)\nKód zeměČeský název zeměDruh změny\nN-3A-2A-3plnýzkrácený\n095XKXKORepublika KosovoKosovo4\nPozn. 1): Kosovo bylo do Číselníku zemí zařazeno z důvodu aktuálních potřeb uživatelů. Kódy N-3 a A-2 byly převzaty z evropské klasifikace zemí GEONOM, kód A-3 byl provizorně stanoven Českým statistickým úřadem.\nVysvětlivky:Kód země:N-3numerický trojmístný kód země\nA-2alfabetický dvoumístný kód země\nA-3alfabetický trojmístný kód země\nDruh změny:1nová položka\n2změna zkráceného názvu\n3změna plného názvu\n4nově zavedená provizorní položka"
+    }
+  ],
+  "definitions": []
+}

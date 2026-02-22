@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1004/1946",
+  "type": "statute",
+  "title": "1004/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "title_en": "",
+  "short_name": "1004/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-11",
+  "in_force_date": "1946-04-11",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1004",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Haas a Czjzek, akc. spol., se sídlem v Horním Slavkově, v rozsahu jeho znárodnění, zejména spolu s majetkovou podstatou podniku Haas a Czjzek, kom. spol., Horní Slavkov;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Heinzmann, Apfelbeck a Langl, továrna na porcelán, se sídlem v Božíčanech, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

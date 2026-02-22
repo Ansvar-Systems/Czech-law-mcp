@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:273/1947",
+  "type": "statute",
+  "title": "273/1947 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách margarinu a umělého pokrmového tuku zdejší výroby.",
+  "title_en": "",
+  "short_name": "273/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-03-28",
+  "in_force_date": "1947-03-31",
+  "url": "https://www.e-sbirka.cz/ul1/1947/273",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách margarinu a umělého pokrmového tuku zdejší výroby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za margarin a umělý pokrmový tuk zdejší výroby smějí být požadovány a placeny tyto nejvyšší ceny:\nA. Margarin:\nDruhMnožstvíNejvyšší nákupní cenaNejvyšší spotřebitelská cena\nvelkoobchodumaloobchodu\nKčsKčsKčs\nstolní margarin1 kg32.2534.5538.—\nčajový margarin1 kg34.1036.5040.—\nNejvyšší nákupní cena velkoobchodu a maloobchodu se rozumí franko prodejna odběratele.\nB. Umělý pokrmový tuk:\nDruhMnožstvíNejvyšší nákupní cenaNejvyšší spotřebitelská cena\nvelkoobchodu po příp. živnostenského spotřebitelemaloobchodu\nKčsKčsKčs\numělý pokrmový tuk1 kg38.3040.6044.—\nNejvyšší nákupní cena velkoobchodu po příp. živnostenského spotřebitele a maloobchodu se rozumí franko prodejna odběratele.\n(2) Ceny uvedené v odstavci 1 platí s obalem a s daní z obratu.\n(3) O vyrovnání cenovým rozdílů platí ustanovení § 2 vládního nařízení ze dne 21. března 1947, č. 34 Sb., kterým se činí opatření ke snížení cen některého zboží lidové potřeby a k ustálení cen důležitých statků.\n(4) Dopravuje-li velkoobchodník (živnostenský spotřebitel) nebo maloobchodník umělé jedlé tuky zaslané výrobcem do stanice přijímací z této stanice sám do své prodejny, anebo dopraví-li si je místní velkoobchodník (živnostenský spotřebitel) nebo maloobchodník sám z výrobny nebo skladu výrobce do své prodejny, je výrobce povinen jim nahraditi místní dopravné jednotnou částkou ve výši 0.10 Kčs za každý kg takto přepravovaného zboží. Táž povinnost postihuje i velkoobchodníka, pokud si místní dopravu zboží do své prodejny obstará maloobchodník sám."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nejvyšší úřad cenový může povoliti nebo naříditi výjimky z ustanovení této vyhlášky a učiniti nutná opatření k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 31. března 1947. Současně pozbývají platnosti vyhláška nejvyššího úřadu cenového ze dne 3. prosince 1945 o cenách margarinu a umělého jedlého pokrmového tuku zdejší výroby (Ú. l. I č. 145/1945, běž. č. 464) a výměry nejvyššího úřadu cenového ze dne 7. října 1946, č. j. 30.220-III/2-1946, o cenách mléčného margarinu a ze dne 5. února 1946, č. j. 27.866-III/2-1946, o náhradě za odvoz umělého tuku vlastními dopravními prostředky."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nejvyšší nákupní cena velkoobchodu a maloobchodu",
+      "definition": "franko prodejna odběratele",
+      "source_provision": "§ 1."
+    }
+  ]
+}

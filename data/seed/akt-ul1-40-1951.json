@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:40/1951",
+  "type": "statute",
+  "title": "40/1951 Ú. l. I, Vyhláška ministerstva stavebního průmyslu o zřízení Výzkumného ústavu vodohospodářského.",
+  "title_en": "",
+  "short_name": "40/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-01-16",
+  "in_force_date": "1951-01-31",
+  "url": "https://www.e-sbirka.cz/ul1/1951/40",
+  "description": "Vyhláška ministerstva stavebního průmyslu o zřízení Výzkumného ústavu vodohospodářského.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V dohodě s ministrem-předsedou státního úřadu plánovacího a ministrem financí a se souhlasem vlády zřizuji s účinností ode dne 1. ledna 1951 pro obor působnosti ministerstva stavebního průmyslu Výzkumný ústav vodohospodářský (dále jen „ústav“)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Sídlem ústavu jest Praha. Svou působnost na Slovensku vykonává ústav prostřednictvím pobočky v Bratislavě."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ústav přejímá působnost dosavadního Státního ústavu hydrologického T. G. Masaryka v Praze-Podbabě, jeho laboratoří v Brně a v Ostravě a Štátného ústavu hydrologického v Bratislavě."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Organisační řád ústavu bude vydán podle § 7 odst. 2 zákona č. 261/1949 Sb. zvláštním opatřením."
+    }
+  ],
+  "definitions": []
+}

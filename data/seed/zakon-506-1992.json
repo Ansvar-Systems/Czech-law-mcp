@@ -1,0 +1,57 @@
+{
+  "id": "cz:506/1992",
+  "type": "statute",
+  "title": "506/1992 Sb., Vyhláška Ministerstva financií Slovenskej republiky o odmenách daňových poradcov a o výške poplatku za odbornú skúšku a za vydanie osvedčenia",
+  "title_en": "",
+  "short_name": "506/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-10-30",
+  "in_force_date": "1992-10-30",
+  "url": "https://www.e-sbirka.cz/sb/1992/506",
+  "description": "Vyhláška Ministerstva financií Slovenskej republiky o odmenách daňových poradcov a o výške poplatku za odbornú skúšku a za vydanie osvedčenia",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Všeobecné ustanovenia",
+      "content": "(1) Pri uzatváraní zmluvy o poskytovaní poradenskej pomoci v oblasti daní (ďalej len „daňové poradenstvo“) sa musí daňový poradca dohodnúť s klientom na druhu odmeny.\n(2) Odmenu možno dohodnúť na celú dobu trvania poskytovania daňového poradenstva, alebo na jednotlivé úkony daňového poradenstva, alebo na poskytnutie daňového poradenstva v určitom rozsahu alebo na určitú dobu.\n(3) Do odmeny sa zahŕňajú aj výdavky na administratívne a iné práce vykonané v súvislosti s daňovým poradenstvom."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Odmena daňového poradcu",
+      "content": "(1) Odmena sa určuje\na) podľa počtu hodín účelne využitých na vybavenie veci a podľa hodinovej sadzby (hodinová odmena),\nb) paušálnou sumou (paušálna odmena).\n(2) Spôsoby určenia odmeny podľa odseku 1 sa môžu kombinovať."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Hodinová odmena",
+      "content": "(1) Základná sadzba hodinovej odmeny je 200 Kčs.\n(2) Pri poskytovaní jednoduchého poradenstva možno dohodnúť základnú sadzbu hodinovej odmeny delenú na začaté štvrťhodiny.\n(3) Daňový poradca sa môže dohodnúť s klientom\na) na znížení základnej sadzby hodinovej odmeny až na polovicu,\nb) na jej zvýšení až na trojnásobok, ak ide o vec mimoriadne náročnú alebo ak na jej vybavenie je potrebné použiť cudzie daňové právo alebo cudzí jazyk.\n(4) Ak sa dohodne daňový poradca s klientom na hodinovej odmene, je povinný informovať ho o predpokladanom časovom rozsahu prác. Na prekročenie pôvodne predpokladaného časového rozsahu prác je daňový poradca povinný klienta vopred upozorniť.\n(5) Daňový poradca je povinný predložiť klientovi pri vyúčtovaní vecnú a časovú špecifikáciu práce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Paušálna odmena",
+      "content": "(1) Paušálna odmena sa dohodne za\na) poskytovanie daňového poradenstva na určitý alebo neurčitý čas,\nb) úplné vybavenie veci alebo súboru vecí.\n(2) Výška paušálnej odmeny sa dohodne s prihliadnutím na predpokladanú vecnú a časovú náročnosť práce.\n(3) Ak daňový poradca neposkytuje daňové poradenstvo až do úplného vybavenia veci alebo súboru vecí alebo ak ho neposkytuje za celé dohodnuté obdobie, patrí mu pomerná časť dohodnutej paušálnej odmeny; v tomto prípade je povinný predložiť klientovi špecifikáciu práce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Spoločné ustanovenia",
+      "content": "Daňový poradca sa môže dohodnúť s klientom, ktorý je devízovým cudzozemcom, na odmene v takej výške, aká je obvyklá v štáte klientovho bydliska alebo sídla alebo aká sa obvykle požaduje za obdobné daňové poradenstvo v cudzine."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Poplatok za odbornú skúšku a za vydanie osvedčenia",
+      "content": "(1) Výška poplatku za vykonanie odbornej skúšky sa určuje sumou 1500 Kčs.\n(2) Za každé opakovanie skúšky z dôvodu jej neúspešnosti sa určuje výška poplatku sumou 1000 Kčs.\n(3) Výška poplatku za vydanie osvedčenia o spôsobilosti na výkon daňového poradenstva sa určuje sumou 10 000 Kčs."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnosť",
+      "content": "Táto vyhláška nadobúda účinnosť dňom vyhlásenia."
+    }
+  ],
+  "definitions": []
+}

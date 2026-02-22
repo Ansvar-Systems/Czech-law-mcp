@@ -1,0 +1,33 @@
+{
+  "id": "cz:365/2006",
+  "type": "statute",
+  "title": "365/2006 Sb., Vyhláška, kterou se zrušují některé vyhlášky vydané podle zákona o spořitelních a úvěrních družstvech",
+  "title_en": "",
+  "short_name": "365/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-07-14",
+  "in_force_date": "2006-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/365",
+  "description": "Vyhláška, kterou se zrušují některé vyhlášky vydané podle zákona o spořitelních a úvěrních družstvech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Touto vyhláškou se zrušují některé vyhlášky vydané Ministerstvem financí podle znění zákona č. 87/1995 Sb., o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, účinného do dne nabytí účinnosti zákona č. 57/2006 Sb."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se:\n1. Vyhláška č. 386/2001 Sb., o pravidlech kapitálové přiměřenosti spořitelních a úvěrních družstev.\n2. Vyhláška č. 388/2001 Sb., o pravidlech úvěrové angažovanosti spořitelních a úvěrních družstev."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2006."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:771/1948",
+  "type": "statute",
+  "title": "771/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách tříslové kůry.",
+  "title_en": "",
+  "short_name": "771/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-04-30",
+  "in_force_date": "1948-05-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/771",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách tříslové kůry.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Pro prodej tříslové kůry výrobcem stanoví se tyto nejvyšší ceny:\nkůra smrková195.—Kčs za 100 kg,\nkůra dubová285.—Kčs za 100 kg.\n(2) Ceny stanovené v odstavci 1 platí pro zdravou, suchou, řádně vyrobenou kůru dobré střední jakosti, nezplesnivělou, nepříliš šupinatou, bez borky, buď ve svitcích asi 1 m dlouhých, nebo ve zlomcích, při prodeji franko vagon nejbližší nakládací stanice i s daní z obratu.\n(3) Při prodeji tříslové kůry, která neodpovídá jakostním podmínkám uvedeným v odstavci 2, musí být poskytnuta přiměřená sleva.\n(4) Dodává-li se tříslová kůra na přání kupujícího na jiné místo než do železniční nakládací stanice a vzniknou-li tím vyšší výlohy, je prodávající oprávněn k ceně podle odstavce 1 připočítat rozdíl mezi skutečně vzniklými náklady v přípustné výši a náklady, které by vznikly s dopravou kůry do nakládací stanice a s jejím naložením do železničních vagonů.\n(5) Odváží-li si kupující kůru z místa výroby vlastními nebo jím najatými povozy nebo nákladními auty, je prodávající povinen snížit účtovanou cenu o částku odpovídající nákladům, které by mu vznikly, kdyby kůru dodal franko vagon nakládací stanice."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nebezpečí dopravy a ztrát všeho druhu nese kupující od okamžiku, kdy byla kůra odevzdána dopravě.\n(2) Výlohy s přichystáním vagonu, jakož i vážné jdou k tíži prodávajícího."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Prodávající musí odběrateli doručit do 14 dnů ode dne dodávky účet.\n(2) Dnem dodávky se rozumí den, kdy byla kůra odevzdána kupujícímu nebo dopravě, anebo připravena k odevzdání, či odeslání na výzvu kupujícího."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ceny stanovené touto vyhláškou jsou nejvyšší a je proto nutno postupovat podle příslušných ustanovení vyhlášky nejvyššího úřadu cenového ze dne 1. října 1946, č. 1832 Ú. l. I, o některých opatřeních k zajištění cen národohospodářsky oprávněných, ve znění vyhlášky ze dne 15. března 1947, č. 251 Ú. l. I."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Nejvyšší úřad cenový může povolit nebo nařídit výjimky z ustanovení této vyhlášky nebo z předpisů vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 1948. Týmž dnem se zrušuje platnost vyhlášky nejvyššího úřadu cenového ze dne 18. června 1946, č. 1437 Ú. l. I, o cenách domácí tříslové kůry."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dnem dodávky",
+      "definition": "den, kdy byla kůra odevzdána kupujícímu nebo dopravě, anebo připravena k odevzdání, či odeslání na výzvu kupujícího",
+      "source_provision": "§ 3."
+    }
+  ]
+}

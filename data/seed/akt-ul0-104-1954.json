@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:104/1954",
+  "type": "statute",
+  "title": "104/1954 Ú. l., Vyhláška úřadu pro normalisaci, kterou se vyhlašuje technická státní norma směrná ČSN 01 9999.",
+  "title_en": "",
+  "short_name": "104/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-05-20",
+  "in_force_date": "1954-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1954/104",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se vyhlašuje technická státní norma směrná ČSN 01 9999.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickou státní normou směrnou je norma ČSN 01 9999 „Přehled hodnot přirozených ztrát zboží a jiných zásob — normy mank —”"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato směrná norma obsahuje přehled hodnot přirozených ztrát zboží a jiných zásob vyhlášených pro rok 1953 jednotlivými ministerstvy.\nNorma může být používána pouze jako srovnávací materiál pro záměrné snižování hodnot přirozených ztrát uvedených v normě, a to vždy směrem k hodnotám nejnižším."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 1954."
+    }
+  ],
+  "definitions": []
+}

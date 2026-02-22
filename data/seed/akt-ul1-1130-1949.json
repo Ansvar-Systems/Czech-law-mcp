@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1130/1949",
+  "type": "statute",
+  "title": "1130/1949 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se uveřejňuje odvolání povolení uváděti některé prostředky na ochranu rostlin do oběhu.",
+  "title_en": "",
+  "short_name": "1130/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-11-26",
+  "in_force_date": "1949-11-26",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1130",
+  "description": "Vyhláška ministerstva zemědělství, kterou se uveřejňuje odvolání povolení uváděti některé prostředky na ochranu rostlin do oběhu.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Conidor,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Avenal,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Desterol,\njejichž uvádění do oběhu bylo původně povoleno fě „Selecta“ v Praze II, Dlážděná 6.\nŽádný z těchto prostředků nesmí býti nadále prodáván ani jinak uváděn do oběhu."
+    }
+  ],
+  "definitions": []
+}

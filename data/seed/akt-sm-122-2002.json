@@ -1,0 +1,38 @@
+{
+  "id": "cz:sm:122/2002",
+  "type": "statute",
+  "title": "122/2002 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Litevskou republikou",
+  "title_en": "",
+  "short_name": "122/2002 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2002-11-11",
+  "in_force_date": "2002-11-11",
+  "url": "https://www.e-sbirka.cz/sm/2002/122",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Litevskou republikou",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 4 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně.“.\n2. Článek 7 se nahrazuje tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "1. Toto Rozhodnutí vstoupí v platnost první den měsíce následujícího po obdržení pozdější diplomatické nóty potvrzující, že vnitrostátní právní požadavky pro vstup v platnost tohoto Rozhodnutí byly splněny.\n2. Jestliže toto Rozhodnutí nevstoupí v platnost v souladu s odstavcem 1 tohoto článku od 1. ledna 2001, bude od tohoto data předběžně prováděno.\nNA DŮKAZ TOHO níže podepsaní zmocněnci, jsouce k tomu řádně pověřeni, podepsali toto Rozhodnutí.\nDáno v Praze dne 27. prosince 2000 ve dvou původních vyhotoveních, každé v jazyce českém, litevském a anglickém, přičemž všechna znění jsou stejně autentická. V případě rozdílného výkladu bude rozhodující anglický text.\n*) Dohoda o volném obchodu mezi Českou republikou a Litevskou republikou ze dne 14. října 1996 byla vyhlášena pod č. 189/1997 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    }
+  ]
+}

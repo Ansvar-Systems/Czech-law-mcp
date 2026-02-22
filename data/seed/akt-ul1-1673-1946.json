@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:1673/1946",
+  "type": "statute",
+  "title": "1673/1946 Ú. l. I, Vyhláška č. 14 Svazu pro dobytek, maso a ryby o vybírání příspěvků z ryb a výrobků z ryb.",
+  "title_en": "",
+  "short_name": "1673/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-08-30",
+  "in_force_date": "1946-08-30",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1673",
+  "description": "Vyhláška č. 14 Svazu pro dobytek, maso a ryby o vybírání příspěvků z ryb a výrobků z ryb.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Chovatelé kaprů, línů, štik a candátů, v dalším „tržní ryby“, jsou povinni platiti z vylovených tržních ryb a dovozci z dovezených ryb a výrobků z ryb příspěvek ve prospěch Svazu.\n(2) Příspěvek činí\na)za tržní ryby tuzemské a dovezenéKčs 20.— za 100 kg,\nb)za dovezené mořské ryby a fillet, čerstvé, solené, sušenéKčs 20.— za 100 kg,\nc)za výrobky z ryb a solené sardeleKčs 20.— za 100 kg,\nd)za čerstvé sleděKčs 10.— za 100 kg,\ne)za slanečkyKčs 10.— za 1 sud,\npři čemž sudem se rozumí každá nádoba, která jest v dotyčné vývozní zemi v obchodě obvyklá.\n(3) Pro výpočet jest rozhodná u ryb domácího původu váha skutečného výlovku, u ryb a rybích výrobků dovezených hrubá váha zjištěná při celním odbavení."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Výše příspěvku bude předepsána Svazem na podkladě hlášení chovatelů tržních ryb Svazu po lovu o skutečném výlovku a hlášení dovozců ryb a výrobků z ryb Svazu o druhu, množství a váze dovezeného množství.\n(2) Příspěvky se předepíší zpětně ode dne 15. června 1946.\n(3) Příspěvky takto předepsané jsou splatné do 8 dnů po doručení platebního předpisu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu presidenta republiky ze dne 27. října 1945, č. 118 Sb., o opatřeních v řízení vyživovacího hospodářství."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "při čemž sudem",
+      "definition": "každá nádoba, která jest v dotyčné vývozní zemi v obchodě obvyklá",
+      "source_provision": "§ 1."
+    }
+  ]
+}

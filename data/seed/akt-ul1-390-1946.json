@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:390/1946",
+  "type": "statute",
+  "title": "390/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o nejvyšších hodnotách pro oceňování užitkových a plemenných koní.",
+  "title_en": "",
+  "short_name": "390/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-02-06",
+  "in_force_date": "1946-02-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/390",
+  "description": "Vyhláška nejvyššího úřadu cenového o nejvyšších hodnotách pro oceňování užitkových a plemenných koní.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro oceňování užitkových koní platí tyto nejvyšší hodnoty v Kčs:\nVěková třída\n12345\nJakostní\ntřídaTřída\nmohutnostiOdstávčata\n6měsíční1 roční2 letí3—9 letí chladnokr.\n3—12 letí teplokr.Starší\nkoně\nI.zvláštní třída3—8letí koně od 24.000 do 26.000\nII.a) těžká8.00012.00019.00024.00018.000\nb) střední7.00011.00018.00023.00017.000\nc) lehká6.00010.00017.00022.00015.000\nIII.a) těžká7.00011.00018.00023.00016.000\nb) střední6.00010.00017.00022.00015.000\nc) lehká5.0008.00015.00020.00013.000\nIV.a) těžká5.0009.00012.00017.00011.000\nb) střední4.0008.00011.00016.00010.000\nc) lehká3.0007.0009.00014.0008.000\nV.a) těžká4.0007.0009.00012.0007.000\nb) střední3.0006.0008.00011.0006.000\nc) lehká2.0004.0006.0009.0004.000"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro plemenné klisny platí tyto nejvyšší hodnoty v Kčs:\nVěková třída\n12345\nTřída\nplem. hodn.Třída mohutnostiOdstávčata\n6 měsíční1 roční2 leté3—9 leté chladnokr.\n3—12 leté teplokr.Starší klisny\nI.zvláštní třídapro plemenné klisny zvláštní úpravoutéto třídy do věku 12 let se stanoví nejvyšší hodnoty\nII.a) těžká12.00018.00024.00034.00024.000\nb) střední10.00016.00022.00032.00022.000\nc) lehká8.00014.00019.00029.00019.000\nIII.a) těžká9.00015.00021.00030.00021.000\nb) střední7.00013.00019.00028.00019.000\nc) lehká6.00010.00015.00024.00015.000\nIV.a) těžká5.0009.00013.00020.00013.000\nb) střední4.0008.00012.00019.00012.000\nc) lehká3.0007.00010.00018.00010.000\nV.a) těžká4.0007.00010.00013.0007.000\nb) střední3.0006.0009.00012.0006.000\nc) lehká2.0004.0007.00010.0004.000"
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nejvyšší hodnoty uvedené v §§ 1 a 2 se rozumějí za zvířata nejlepší jakosti příslušné třídy po dovršení uvedeného věku. Za koně ve stáří až do tří let smí býti hodnota po dosažení příslušné věkové třídy podle doby trvání v této věkové třídě přiměřeně zvýšena, musí však býti až do dovršení věku příští věkové třídy nižší než hodnota stanovená pro nejblíže vyšší věkovou třídu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky této vyhlášky se trestají podle ustanovení části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška, kterou se pozměňují směrnice pro oceňování užitkových koní (příloha A k vyhlášce číslo 133/1943 Sb. o zcizování koní) a směrnice pro oceňování plemenných klisen (příloha C k téže vyhlášce) nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

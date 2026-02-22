@@ -17,10 +17,22 @@
       "content": "Zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění zákona č. 189/1999 Sb., se mění takto:\n1. V § 4 odst. 2 se za větu první vkládá nová věta, která zní: „Každý je oprávněn do leteckého rejstříku nahlížet a požadovat od Úřadu opis nebo výpis zapsaných údajů nebo potvrzení, že údaj v leteckém rejstříku zapsán není.“.\n2. V § 4 odst. 2 písmeno e) zní:\n„e) zřízení zástavního práva k letadlu, součástem letadla a náhradním dílům k letadlu a jeho součástem,“.\n3. Za § 5 se vkládají nové § 5a a 5b, které znějí:"
     },
     {
+      "provision_ref": "„§ 5a",
+      "section": "5a",
+      "title": "„§ 5a",
+      "content": "(1) Žádost o zapsání zástavního práva k letadlu podává vlastník letadla spolu se zástavním věřitelem.\n(2) Žádost o zapsání zástavního práva k letadlu zapsanému v leteckém rejstříku musí obsahovat\na) obchodní jméno nebo název a sídlo nebo jméno a bydliště zástavce a zástavního věřitele,\nb) určení pohledávky, pro kterou bylo zástavní právo zřízeno, včetně výše a doby splatnosti pohledávky,\nc) označení letadla, k němuž se zřizuje zástavní právo, obsahující údaj o typu letadla, rejstříkovou značku letadla a výrobní číslo letadla.\n(3) Žádost o zapsání zástavního práva k letadlu zapsanému v leteckém rejstříku musí být doložena dokladem o zřízení zástavního práva k letadlu.\n(4) Jsou-li splněny podmínky stanovené tímto zákonem pro zápis zástavního práva do leteckého rejstříku, Úřad provede zápis a vyrozumí o tom žadatele a zástavce.\n(5) Smluvní zástavní právo k letadlu vzniká dnem zápisu zástavního práva do leteckého rejstříku podle pořadí došlých žádostí. Smluvní zástavní práva zapsaná v leteckém rejstříku před účinností tohoto zákona, pokud nadále trvají, se považují za zástavní práva vzniklá dnem, kdy byla zapsána do leteckého rejstříku.\n(6) Proti tomu, kdo jedná v důvěře v zápis zástavního práva k letadlu do leteckého rejstříku, nemůže ten, jehož se zápis týká, namítat, že zápis neodpovídá skutečnosti."
+    },
+    {
       "provision_ref": "§ 5b",
       "section": "5b",
       "title": "§ 5b",
       "content": "(1) Smlouvy o převodu vlastnického práva k letadlu musí mít písemnou formu. Převod vlastnictví a zástavního práva k letadlu zapsanému do leteckého rejstříku nabývá účinnosti dnem zápisu do leteckého rejstříku.\n(2) K převodu vlastnictví zastaveného letadla je zapotřebí souhlasu zástavního věřitele.\n(3) Zástavní věřitel, jehož zástavní právo je zapsáno v leteckém rejstříku, je při výkonu rozhodnutí oprávněn domáhat se přednostního uspokojení z prodeje letadla před jiným zástavním věřitelem, nejde-li o věřitele, jehož zástavní právo bylo v leteckém rejstříku zapsáno dříve, jakož i věřitelem, který má k letadlu právo zadržovací.\n4. V § 6 odst. 1 se za slova „v leteckém rejstříku“ vkládají slova „vlastník letadla, zástavní věřitel a osoby, jichž se zápis v leteckém rejstříku týká“ a slova „je povinen“ se nahrazují slovy „jsou povinni“.\n5. V § 6 odst. 2 se za slova „na žádost provozovatele“ vkládají slova „nebo vlastníka“.\n6. V § 6 odst. 2 se před poslední větu vkládá nová věta, která zní: „Nejde-li o prodej letadla při výkonu rozhodnutí, může Úřad provést výmaz letadla z leteckého rejstříku pouze v případě, že s výmazem vyslovili souhlas všichni držitelé práv vztahujících se k letadlu zapsanému do leteckého rejstříku.“.\n7. Za § 6 se vkládají nové § 6a a 6b, které znějí:"
+    },
+    {
+      "provision_ref": "„§ 6a",
+      "section": "6a",
+      "title": "„§ 6a",
+      "content": "Výmaz zápisu zástavního práva k letadlu zapsanému v leteckém rejstříku provede Úřad na žádost zástavního věřitele nebo z vlastního podnětu na základě dokladu prokazujícího zánik zástavního práva. O provedeném výmazu zápisu zástavního práva vyrozumí Úřad vlastníka letadla, zástavce, není-li současně vlastníkem letadla, a zástavního věřitele."
     },
     {
       "provision_ref": "§ 6b",

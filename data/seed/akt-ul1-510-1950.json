@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:510/1950",
+  "type": "statute",
+  "title": "510/1950 Ú. l. I, Vyhláška ministerstva průmyslu o vzájemnosti v oboru ochrany vynálezů vzhledem k Belgii.",
+  "title_en": "",
+  "short_name": "510/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-08-19",
+  "in_force_date": "1950-08-03",
+  "url": "https://www.e-sbirka.cz/ul1/1950/510",
+  "description": "Vyhláška ministerstva průmyslu o vzájemnosti v oboru ochrany vynálezů vzhledem k Belgii.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. prioritní lhůty, které jsou v oboru ochrany vynálezů stanoveny v článku IV Pařížské unijní úmluvy na ochranu živnostenského vlastnictví a neuplynuly do 1. září 1939 nebo počaly běžeti po tomto dni, avšak přede dnem 16. února 1946, se prodlužují do dne 30. června 1948;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. lhůty k zaplacení ročních poplatků za patent, které neuplynuly do 1. září 1939 nebo počaly běžeti po tomto dni, se prodlužují do 30. června 1948."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cz:sm:70/2000",
+  "type": "statute",
+  "title": "70/2000 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/1998 Společného výboru Dohody o volném obchodu mezi Českou republikou a Tureckou republikou pozměňující Protokol 3 týkající se pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "title_en": "",
+  "short_name": "70/2000 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2000-08-03",
+  "in_force_date": "2000-08-03",
+  "url": "https://www.e-sbirka.cz/sm/2000/70",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/1998 Společného výboru Dohody o volném obchodu mezi Českou republikou a Tureckou republikou pozměňující Protokol 3 týkající se pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 3 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve Straně.“\n2. Články 3 a 4 se nahrazují tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "1. Toto Rozhodnutí vstoupí v platnost dne 1. ledna 1999 za předpokladu, že si před tímto datem Strany vymění diplomatické nóty potvrzující jeho schválení vládou příslušné Strany.\n2. V případě, že toto Rozhodnutí nevstoupí v platnost podle odstavce 1 tohoto článku, vstoupí v platnost v den obdržení pozdější diplomatické nóty potvrzující, že proběhly všechny vnitřní legislativní procedury příslušné Strany nutné pro vstup daného Rozhodnutí v platnost.\nDáno v Praze dne 22. prosince 1998 ve dvou původních vyhotoveních, každé v jazyce anglickém, přičemž obě znění mají stejnou platnost.\n1) Lichtenštejnské knížectví tvoří celní unii se Švýcarskem a je smluvní stranou dohody o Evropském hospodářském prostoru.\n2) Kumulace dle ustanovení tohoto článku se nepoužije na materiál původem z Evropského společenství, který je uveden v seznamu Přílohy V k tomuto protokolu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "celková přidaná hodnota",
+      "definition": "všechny náklady vynaložené mimo Strany, včetně hodnoty materiálů tam použitých",
+      "source_provision": "„Článek 12"
+    }
+  ]
+}

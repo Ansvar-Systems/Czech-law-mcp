@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:571/1950",
+  "type": "statute",
+  "title": "571/1950 Ú. l. I, Vyhláška ministerstev techniky a průmyslu, kterou se odvolává závaznost normy ČSN 1430-1947 Všeobecné stavební podmínky.",
+  "title_en": "",
+  "short_name": "571/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-10-01",
+  "in_force_date": "1950-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/571",
+  "description": "Vyhláška ministerstev techniky a průmyslu, kterou se odvolává závaznost normy ČSN 1430-1947 Všeobecné stavební podmínky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Závaznost normy ČSN 1430-1947 Všeobecné stavební podmínky, stanovená vyhláškou ministerstev techniky a průmyslu č. 575/1949 Ú. l. I, kterou se stanoví závaznost některých norem stavebního oboru, se odvolává."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro smlouvy sjednané o stavbách, stavebních pracích a dodávkách před počátkem účinnosti této vyhlášky zůstávají v platnosti ustanovení normy ČSN 1430-1947 až do přizpůsobení těchto smluv novým všeobecným stavebním podmínkám."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cz:162/2008",
+  "type": "statute",
+  "title": "162/2008 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb.",
+  "title_en": "",
+  "short_name": "162/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-05-15",
+  "in_force_date": "2008-05-15",
+  "url": "https://www.e-sbirka.cz/sb/2008/162",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Příloha k nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., se mění takto:\n1. V Položce 1 část C včetně poznámek pod čarou č. 1 až 3 zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„C. ROZHLASOVÁ SLUŽBA",
+      "content": "Toto nařízení nabývá účinnosti dnem 15. května 2008.\n1) § 3 nařízení vlády č. 161/2008 Sb., o technickém plánu přechodu zemského analogového televizního vysílání na zemské digitální televizní vysílání (nařízení vlády o technickém plánu přechodu).\n2) Nařízení vlády č. 161/2008 Sb.\n3) § 2 písm. a) nařízení vlády č. 161/2008 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "V krátkovlnných rozhlasových pásmech se využíváním jednoho rádiového kmitočtu",
+      "definition": "právo využívat kterýkoli z rádiových kmitočtů využívaných podle individuálního oprávnění k využívání rádiových kmitočtů",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

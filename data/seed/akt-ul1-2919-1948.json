@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2919/1948",
+  "type": "statute",
+  "title": "2919/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Slovenských bavlnárskych závodov, národného podniku.",
+  "title_en": "",
+  "short_name": "2919/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-11-14",
+  "in_force_date": "1948-11-29",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2919",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Slovenských bavlnárskych závodov, národného podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Anton Blažek, továreň na zošlachtenie textilných surovin a odpadov, se sídlem v Sabinově,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. „Hodváb“ továrňa na spracovanie hodvábu úč. spoločnosť Považskej Bystrici, se sídlem v Povážské Bystrici,\nvesměs v rozsahu jejich znárodnění do Slovenských bavlnárskych závodov, národného podniku."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cz:167/2011",
+  "type": "statute",
+  "title": "167/2011 Sb., Sdělení Českého statistického úřadu o aktualizaci Číselníku zemí (CZEM)",
+  "title_en": "",
+  "short_name": "167/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-06-21",
+  "in_force_date": "2011-06-21",
+  "url": "https://www.e-sbirka.cz/sb/2011/167",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Číselníku zemí (CZEM)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Český statistický úřad podle § 19 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, oznamuje s účinností od 1. července 2011 aktualizaci Číselníku zemí (dále jen číselník „CZEM“) vydaného sdělením Českého statistického úřadu č. 489/2003 Sb. ze dne 18. prosince 2003 a aktualizovaného sděleními č. 534/2006 Sb. ze dne 27. listopadu 2006 a č. 394/2010 Sb. ze dne 14. prosince 2010.\nDo aktualizovaného číselníku CZEM jsou promítnuty změny k mezinárodní normě ISO 3166-1, které na svých stránkách publikuje Mezinárodní organizace pro normalizaci (ISO). Změny jsou uvedeny v příloze tohoto sdělení.\nPlatné znění aktualizovaného Číselníku zemí (CZEM) bude k dispozici na internetových stránkách ČSÚ na adrese www.czso.cz.\nPříloha\nAktualizované položky Číselníku zemí (CZEM)\n(účinnost od 1. července 2011)\nKód zeměJazyková\nverzeNázev zeměDruh\nzměny\nN-3A-2A-3plnýzkrácený\n535BQBESCZBonaire, Svatý Eustach a Saba Bonaire, Svatý Eustach a Saba 1\nENBonaire, Saint Eustatius and SabaBonaire, Saint Eustatius and Saba\n531CWCUWCZCuraçaoCuraçao1\nEN CuraçaoCuraçao\n534SXSXMCZSvatý Martin (nizozemská část)Svatý Martin (nizozemská část)1\nENSint Maarten (Dutch part)Sint Maarten (Dutch part)\n530ANANTCZNizozemské Antily Nizozemské Antily 2\nENNetherlands Antilles (the)Netherlands Antilles (the)\nVysvětlivky: Kód země:N-3numerický trojmístný kód země\nA-2alfabetický dvoumístný kód země\nA-3alfabetický trojmístný kód země\nDruh změny:1nová položka\n2rušená položka"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:136/1974",
+  "type": "statute",
+  "title": "136/1974 Sb., Redakční sdělení o opravě tiskových chyb 1. v úplném znění zákona o trestním řízení soudním (trestního řádu) č. 148/1973 Sb., slovenského vydání 2. v zákoně České národní rady č. 97/1974, o archivnictví, slovenského vydání 3. ve vyhlášce rady Východočeského krajského národního výboru v Hradci Králové č. 107/1974 Sb., kterou se určují další městské národní výbory ve Východočeském kraji stavebními úřady, slovenského vydání 4. ve vyhlášce ministerstva vnitra České socialistické republiky č. 117/1974 Sb., kterou se stanoví kritéria pro posuzování písemností jako archiválií a podrobnosti skartačního řízení, českého i slovenského vydání",
+  "title_en": "",
+  "short_name": "136/1974 Sb.",
+  "status": "in_force",
+  "issued_date": "1974-12-23",
+  "in_force_date": "1974-12-23",
+  "url": "https://www.e-sbirka.cz/sb/1974/136",
+  "description": "Redakční sdělení o opravě tiskových chyb 1. v úplném znění zákona o trestním řízení soudním (trestního řádu) č. 148/1973 Sb., slovenského vydání 2. v zákoně České národní rady č. 97/1974, o archivnictví, slovenského vydání 3. ve vyhlášce rady Východočeského krajského národního výboru v Hradci Králové č. 107/1974 Sb., kterou se určují další městské národní výbory ve Východočeském kraji stavebními úřady, slovenského vydání 4. ve vyhlášce ministerstva vnitra České socialistické republiky č. 117/1974 Sb., kterou se stanoví kritéria pro posuzování písemností jako archiválií a podrobnosti skartačního řízení, českého i slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 163 odst. 3 v 1. řádku má být místo „Obvinenému sa uznesie...“ správně „Obvinenému sa uznesenie...“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 14 odst. 1 má začátek prvé věty správně znít: „Poradným orgánom ministra vnútra...“;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. § 2 má správně znít: „Táto vyhláška nadobúda účinnosť dňom vyhlásenia.“."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. V § 5 odst. 2 v druhém řádku má být místo „po vyřazení písemnosti.“ správně „po vyřízení písemnosti.“."
+    }
+  ],
+  "definitions": []
+}

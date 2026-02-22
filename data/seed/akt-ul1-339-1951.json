@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:339/1951",
+  "type": "statute",
+  "title": "339/1951 Ú. l. I, Vyhláška ministerstva zdravotnictví o způsobu hlášení přenosných nemocí.",
+  "title_en": "",
+  "short_name": "339/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-11-21",
+  "in_force_date": "1951-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1951/339",
+  "description": "Vyhláška ministerstva zdravotnictví o způsobu hlášení přenosných nemocí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Touto vyhláškou se zjednodušuje způsob hlášení nemocí přenosných na lidi a činí se co nejpružnějším, aby tím byla dána možnost včas zavésti potřebná ochranná opatření."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Každý lékař, který zjistí onemocnění, podezření z onemocnění, vyměšování choroboplodných zárodků nebo úmrtí pří přenosných nemocech, jak je to stanoveno v § 1 odst. 1 zákona nebo v jiných předpisech vydaných podle zákona, je povinen do 24 hodin učinit hlášení pro každý jednotlivý případ na tiskopisech, které mu vydá okresní národní výbor.\n(2) Veterinář použije pro hlášení přenosných nemocí v případech uvedených v § 2 odst. 2 zákona korespondenčního lístku.\n(3) Je-li nebezpečí z prodlení, je lékař (veterinář) povinen mimo předepsané písemné hlášení ihned učinit hlášení ještě také ústně, telefonicky nebo telegraficky.\n(4) O osobách podezřelých z nákazy se hlášení nepodává, s výjimkou hlášení, že byl někdo kousnut vzteklým nebo ze vztekliny podezřelým psem."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Podle zákona se považuje\nza nemocného ten, u něhož byla přenosná nemoc bezpečně zjištěna.\nza podezřelého z onemocnění ten, u něhož se sice projevují některé příznaky přenosné nemoci, ale není možno bezpečně soudit na onemocnění,\nza podezřelého z nákazy ten, kdo vešel přímo nebo nepřímo ve styk s nákazou (s nemocným přenosnou nemocí nebo s předmětem, který chová zárodky přenosné nemoci), u něhož se však neprojevují příznaky onemocnění přenosnou nemocí.\n(2) Osobou vyměšující choroboplodné zárodky je ta osoba, která, ač není sama nemocna, vyměšuje zárodky některé pře nosné nemoci."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Skončení isolace nemocného, po případě jeho propuštění z léčebného a ošetřovacího ústavu hlásí ošetřující (ústavní) lékař na tiskopisu, který mu vydá okresní národní výbor."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Lékaři jsou povinni vyplňovat tiskopisy uvedené v §§ 2 a 4 pečlivě ve všech rubrikách."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1951; zároveň pozbývá platnosti vyhláška ministerstva zdravotnictví č. 3419/1948 Ú. l. I, o způsobu hlášení nemocí přenosných na lidi."
+    }
+  ],
+  "definitions": []
+}

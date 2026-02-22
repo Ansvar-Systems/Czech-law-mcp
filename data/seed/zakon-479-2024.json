@@ -1,0 +1,516 @@
+{
+  "id": "cz:479/2024",
+  "type": "statute",
+  "title": "479/2024 Sb., Vyhláška o bezpečnosti informačních a komunikačních systémů a dalších elektronických zařízení nakládajících s utajovanými informacemi a o některých náležitostech žádosti o uzavření smlouvy o zajištění činnosti (vyhláška o informační bezpečnosti)",
+  "title_en": "",
+  "short_name": "479/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-12-27",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/479",
+  "description": "Vyhláška o bezpečnosti informačních a komunikačních systémů a dalších elektronických zařízení nakládajících s utajovanými informacemi a o některých náležitostech žádosti o uzavření smlouvy o zajištění činnosti (vyhláška o informační bezpečnosti)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Tato vyhláška upravuje v návaznosti na předpisy Evropské unie1)\na) požadavky na informační systém nakládající s utajovanými informacemi (dále jen „informační systém“) a podmínky jeho bezpečného provozování v závislosti na stupni utajení utajovaných informací, s nimiž nakládá, a na bezpečnostním provozním módu,\nb) obsah bezpečnostní dokumentace informačního systému,\nc) náležitosti oznámení provozovatele certifikovaného informačního systému o zavedení dalších nutných bezpečnostních funkcí nebo opatření podle § 34 odst. 7 písm. c) zákona,\nd) obsah žádosti o schválení projektu bezpečnosti komunikačního systému nakládajícího s utajovanými informacemi (dále jen „komunikační systém“),\ne) náležitosti projektu bezpečnosti komunikačního systému (dále jen „projekt bezpečnosti“) a způsob a podmínky jeho schvalování podle § 35 odst. 6 zákona,\nf) způsob a podmínky provádění akreditace informačního systému cizí moci nakládajícího s utajovanými informacemi a provozovaného na území České republiky,\ng) náležitosti žádosti a opakované žádosti o certifikaci informačního systému a dokumentaci nezbytnou k provedení certifikace informačního systému,\nh) způsob a podmínky provádění certifikace nebo akreditace informačního systému, jejich opakování a obsah certifikační zprávy podle § 46 odst. 13 a\ni) vzor certifikátu informačního systému.\n(2) Tato vyhláška dále stanoví podmínky bezpečného provozování zařízení, které není součástí informačního nebo komunikačního systému (dále jen „samostatné elektronické zařízení“), a rozsah požadovaných informací podle § 36 odst. 2 písm. b) zákona.\n(3) Tato vyhláška dále stanoví náležitosti žádosti o uzavření smlouvy o zajištění činnosti podle § 52 zákona, jejímž předmětem je provádění dílčích úloh při ověřování způsobilosti informačního systému k nakládání s utajovanými informacemi."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) objektem informačního systému, komunikačního systému nebo samostatného elektronického zařízení (dále jen „systém“) pasivní prvek, který obsahuje nebo přijímá informaci,\nb) subjektem systému aktivní prvek, který způsobuje předání informace mezi objekty systému nebo změnu stavu systému,\nc) aktivem systému na základě analýzy rizik definované hardwarové a softwarové vybavení, dokumentace a informace, které jsou v systému uloženy,\nd) auditním záznamem záznam systému poskytující bližší informace o události nebo stavu systému nebo o činnosti subjektu systému,\ne) autentizací subjektu systému proces ověření předložených identifikačních znaků poskytující záruky, že prohlašovaná identita subjektu systému je pravá,\nf) autorizací subjektu systému proces udělení oprávnění subjektu systému k provádění určených operací s určenými objekty systému,\ng) informační bezpečností soubor, uspořádání a řízení bezpečnostních opatření, jejichž cílem je zajistit důvěrnost, integritu a dostupnost aktiv systému, a odpovědnost subjektů systému za jejich činnost v systému,\nh) komunikační bezpečností bezpečnostní opatření použitá k zajištění bezpečnosti informací v systému při přenosu komunikačním kanálem,\ni) komunikačním kanálem prostředí sloužící k přenosu informací mezi objekty systému, případně subjekty systému v rámci jednoho nebo několika propojených systémů,\nj) bezpečnostní událostí událost, která může způsobit bezpečnostní incident,\nk) bezpečnostním incidentem narušení informační bezpečnosti,\nl) uživatelem fyzická osoba jako subjekt systému v určité roli,\nm) rolí souhrn určených činností a potřebných oprávnění,\nn) nosičem informací zařízení s energeticky nezávislou pamětí, které je určeno výhradně pro použití v provozu systému jako jeho součást, a které není určeno k evidenci nebo doručení adresátovi jako utajovaný dokument v nelistinné podobě podle právního předpisu upravujícího administrativní bezpečnost,\no) řízením přístupu prostředky pro omezení přístupu subjektů systému k objektům systému, zajišťující, že přístup k nim získá jen oprávněný subjekt systému,\np) volitelným řízením přístupu řízení přístupu založené na kontrole přístupových práv subjektu systému k objektu systému, přičemž subjekt systému vybavený určitými přístupovými právy pro přístup k objektu systému může zvolit, které další subjekty systému autorizuje k přístupu k tomuto objektu systému, a může tak ovlivňovat tok informací mezi objekty systému, a\nq) povinným řízením přístupu řízení přístupu založené na porovnání stupně utajení utajované informace obsažené v objektu systému a úrovně oprávnění subjektu systému pro přístup k utajované informaci a zajišťující správný tok informací mezi objekty systému s různými stupni utajení nezávisle na volbě učiněné uživatelem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Bezpečnostní požadavky",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Bezpečnostní požadavky jsou požadavky na systém, jeho řízení, správu a provoz a na objekty, subjekty a aktiva systému, jejichž cílem je zajištění informační bezpečnosti v oblastech\na) počítačové a komunikační bezpečnosti,\nb) kryptografické ochrany,\nc) ochrany před únikem utajovaných informací kompromitujícím vyzařováním,\nd) administrativní bezpečnosti a organizačních opatření,\ne) personální bezpečnosti a\nf) fyzické bezpečnosti.\n(2) Bezpečnostní požadavky naplňuje provozovatel systému prostřednictvím souboru bezpečnostních opatření specifikovaného v příslušné bezpečnostní dokumentaci, která musí být autorizována odpovědnou osobou, jí pověřenou osobou nebo bezpečnostním ředitelem.\n(3) Bezpečnostní opatření musí provozovatel systému nastavit tak, aby rizika, kterým je utajovaná informace v elektronické podobě v systému vystavena, byla snížena na přijatelnou úroveň.\n(4) Bezpečnostní opatření realizuje provozovatel systému přednostně zaváděním a prováděním programově technických mechanismů systému (dále jen „bezpečnostní funkce“).\n(5) Přijatý soubor bezpečnostních opatření musí být provozovatelem systému řízen tak, aby bylo zajištěno provádění jeho návrhu, implementace, provozování, monitorování, přezkoumávání, udržování a jeho zlepšování.\n(6) Bezpečnostní opatření přijatá k zajištění informační bezpečnosti systému musí splňovat alespoň\na) bezpečnostní požadavky uvedené v této vyhlášce,\nb) bezpečnostní požadavky uvedené v právním předpise upravujícím ochranu před únikem utajovaných informací kompromitujícím vyzařováním,\nc) pravidla pro ochranu utajovaných informací uvedená v právním předpise upravujícím kryptografickou ochranu a\nd) výsledky analýzy rizik podle § 38.\nBezpečnostní požadavky v oblasti počítačové bezpečnosti"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Systémem musí být zajištěny bezpečnostní funkce\na) identifikace a autentizace subjektu systému, které musí předcházet všem jeho dalším činnostem, a musí být zajištěna ochrana důvěrnosti a integrity autentizační informace, nestanoví-li analýza rizik a popis bezpečnosti systému jinak,\nb) volitelného řízení přístupu k objektům systému na základě rozlišování a správy přístupových práv subjektu systému a jeho identity nebo členství ve skupině subjektů se shodným oprávněním,\nc) nepřetržitého zaznamenávání událostí, které mohou ovlivnit bezpečnost informací nebo systému, do auditních záznamů a zabezpečení auditních záznamů před neautorizovaným přístupem, změnou nebo zničením; zaznamenává se zejména použití identifikačních a autentizačních informací, pokus o změnu přístupových práv, vytváření nebo rušení objektů systému nebo činnost oprávněných subjektů systému ovlivňující bezpečnost informací nebo systému,\nd) schopnosti zkoumání auditních záznamů a stanovení odpovědnosti každého subjektu systému,\ne) ošetření paměťových objektů před jejich dalším použitím nebo přidělením jinému subjektu systému, které znemožní zjistit jejich předchozí obsah,\nf) ochrany důvěrnosti a integrity dat během přenosu mezi jejich zdrojem a cílem a\ng) ochrany před škodlivým kódem.\n(2) Bezpečnostní funkce uvedené v odstavci 1 se realizují pomocí identifikovatelných prostředků počítačové bezpečnosti. Úroveň popisu jejich provedení a nastavení uvedené v popisu bezpečnosti systému musí umožnit jejich nezávislé prověření a zhodnocení jejich dostatečnosti.\n(3) Mechanismy, jimiž se realizují bezpečnostní funkce uplatňující bezpečnostní politiku, musí být v celém životním cyklu systému chráněny před narušením nebo neautorizovanými změnami.\n(4) Provozovatel systému musí zajistit, aby pro nepřetržité zaznamenávání událostí a jejich vyhodnocování bylo nastaveno aktuální datum a čas po celou dobu provozu systému.\n(5) Na základě analýzy rizik se u rozsáhlých informačních nebo komunikačních systémů musí využívat technické nástroje pro zaznamenávání událostí, které umožňují i nepřetržité vyhodnocování událostí s cílem identifikace bezpečnostních incidentů včetně včasného varování určených rolí. Rozsáhlým informačním nebo komunikačním systémem se rozumí systém mající nejméně 200 uživatelů."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Bezpečnostní opatření spočívající v zavedení některých bezpečnostních funkcí počítačové bezpečnosti podle § 4 lze v odůvodněných případech nahradit použitím jiných bezpečnostních opatření personální, administrativní a fyzické bezpečnosti anebo použitím vhodných organizačních bezpečnostních opatření.\n(2) Při nahrazení bezpečnostních opatření spočívajících v zavedení bezpečnostních funkcí počítačové bezpečnosti náhradním bezpečnostním opatřením podle odstavce 1 musí být zachován účel bezpečnostní funkce a kvalita a úroveň bezpečnosti poskytované nahrazovaným bezpečnostním opatřením.\n(3) Nahrazení bezpečnostních opatření spočívajících v zavedení bezpečnostních funkcí počítačové bezpečnosti náhradním bezpečnostním opatřením podle odstavce 1 musí být popsáno a zdůvodněno v analýze rizik nebo popisu bezpečnosti systému.\nSystémově závislé bezpečnostní požadavky na informační systém odvozené z bezpečnostního provozního módu"
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Informační systémy mohou být provozovány pouze v některém z uvedených bezpečnostních provozních módů, jimiž jsou\na) bezpečnostní provozní mód dedikovaný,\nb) bezpečnostní provozní mód s nejvyšší úrovní,\nc) bezpečnostní provozní mód s nejvyšší úrovní s formálním řízením přístupu k informacím, nebo\nd) bezpečnostní provozní mód víceúrovňový.\n(2) Bezpečnostní provozní mód dedikovaný je takové prostředí, které umožňuje zpracování utajovaných informací různého stupně utajení, přičemž všechny subjekty informačního systému musí splňovat podmínky pro přístup k utajovaným informacím nejvyššího stupně utajení, se kterými je informační systém určen nakládat, a zároveň musí být oprávněny pracovat se všemi obsaženými utajovanými informacemi. V bezpečnostním provozním módu dedikovaném není zajištěna bezpečnostní funkce podle § 4 odst. 1 písm. b) a e).\n(3) Bezpečnostní provozní mód s nejvyšší úrovní je takové prostředí, které umožňuje současné zpracování utajovaných informací různého stupně utajení, ve kterém všechny subjekty informačního systému musí splňovat podmínky pro přístup k utajovaným informacím nejvyššího stupně utajení, přičemž všechny subjekty informačního systému nemusí být oprávněny pracovat se všemi obsaženými utajovanými informacemi.\n(4) Bezpečnostní provozní mód s nejvyšší úrovní s formálním řízením přístupu k informacím je takové prostředí, které odpovídá bezpečnostnímu provoznímu módu s nejvyšší úrovní, kde však formální řízení přístupu navíc předpokládá formální centrální správu kontroly přístupu.\n(5) Bezpečnostní provozní mód víceúrovňový je takové prostředí, které umožňuje současné zpracování utajovaných informací různého stupně utajení, kde všechny subjekty informačního systému nemusí splňovat podmínky přístupu k utajovaným informacím nejvyššího stupně utajení a nemusí být oprávněny pracovat se všemi utajovanými informacemi. Při provozu v bezpečnostním provozním módu víceúrovňovém musí být zajištěna bezpečnostní funkce povinného řízení přístupu subjektu informačního systému k objektům informačního systému."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Bezpečnostní funkce povinného řízení přístupu subjektů informačního systému k objektům informačního systému musí zabezpečit\na) trvalé spojení každého subjektu a objektu informačního systému s bezpečnostními příznaky, které pro subjekt informačního systému vyjadřují úrovně oprávnění přístupu subjektu informačního systému k objektům informačního systému a pro objekt informačního systému stupeň utajení utajované informace, kterou objekt informačního systému obsahuje nebo přijímá,\nb) ochranu integrity bezpečnostního příznaku,\nc) výlučné oprávnění bezpečnostního správce k provádění změn bezpečnostních příznaků subjektů i objektů informačního systému a\nd) přidělení předem definovaných hodnot bezpečnostních příznaků pro nově vytvořené objekty informačního systému a zachování bezpečnostního příznaku při kopírování objektu informačního systému.\n(2) Při uplatňování bezpečnostní funkce povinného řízení přístupu subjektů informačního systému k objektům informačního systému může subjekt informačního systému\na) číst informace v objektu informačního systému pouze tehdy, je-li jeho bezpečnostní příznak stejný nebo vyšší než bezpečnostní příznak objektu informačního systému, a\nb) zapisovat informace do objektu informačního systému pouze tehdy, je-li jeho bezpečnostní příznak stejný nebo nižší než bezpečnostní příznak objektu informačního systému.\n(3) Subjekt informačního systému může přistupovat k informaci obsažené v objektu informačního systému, jestliže jej povolují jak pravidla povinného řízení přístupu, tak pravidla volitelného řízení přístupu.\n(4) Při provozu informačního systému v bezpečnostním provozním módu víceúrovňovém musí být utajovaná informace vystupující z informačního systému přesně označena stupněm utajení a utajované informaci vstupující do informačního systému přiřazen stupeň utajení.\n(5) Při provozu informačního systému v bezpečnostním provozním módu víceúrovňovém, ve kterém se nakládá s utajovanou informací stupně utajení Přísně tajné, musí být prověřeno, zda nedochází k nežádoucí výměně informací mezi informačním systémem a okolím způsobem, který není pro komunikaci přímo určen a ani předpokládán, a při kterém dochází k obcházení bezpečnostních mechanismů informačního systému."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Bezpečnostní požadavky v oblasti komunikační bezpečnosti",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Při přenosu utajované informace komunikačním kanálem musí být zajištěna ochrana důvěrnosti a integrity této utajované informace prostřednictvím kryptografické ochrany nebo jiných vhodných bezpečnostních opatření tak, aby nebyla ohrožena informační bezpečnost.\n(2) U komunikačních kanálů, které jsou vedeny v rámci zabezpečených oblastí nebo objektů, lze přenášené utajované informace chránit kryptografickou ochranou na nižší úrovni, než je pro daný stupeň utajení přenášené utajované informace vyžadováno, nebo lze kryptografickou ochranu utajovaných informací nahradit použitím vhodných bezpečnostních opatření fyzické bezpečnosti.\n(3) V závislosti na komunikačním prostředí musí být zajištěna spolehlivá identifikace a autentizace komunikujících subjektů systému, včetně ochrany identifikačních a autentizačních dat. Tato identifikace a autentizace předchází přenosu utajované informace.\n(4) Přenos utajované informace komunikačním kanálem vedený mimo zabezpečenou oblast nebo objekt musí být chráněn pomocí kryptografického prostředku certifikovaného alespoň pro stupeň utajení přenášené utajované informace.\n(5) Při uplatnění specifických bezpečnostních opatření pro detekci narušení bezpečnosti komunikačního kanálu a bezpečnostních opatření pro zmírnění následků bezpečnostní události přijatých na základě analýzy rizik může Národní úřad pro kybernetickou a informační bezpečnost v rámci certifikace informačního systému nebo schvalování projektu bezpečnosti schválit i odlišný způsob zabezpečení, než je uveden v odstavcích 2 a 4.\n(6) Úroveň použité ochrany komunikačních kanálů podle odstavce 1 musí odpovídat úrovni ochrany požadované pro nejvyšší stupeň utajení utajovaných informací, které budou komunikačním kanálem přenášeny.\nBezpečnostní požadavky na bezpečné propojení informačních nebo komunikačních systémů"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Komunikační kanál mezi informačními nebo komunikačními systémy, které jsou určeny k nakládání s utajovanými informacemi stejných nebo různých stupňů utajení, případně je-li některý z nich určen pouze k nakládání s neutajovanými informacemi, lze zřídit pouze v případě nezbytné provozní potřeby a jestliže je stanoven způsob jeho ochrany prostřednictvím bezpečnostního rozhraní nebo jiným vhodným bezpečnostním opatřením.\n(2) Popis propojení a bezpečnostního rozhraní je součástí popisu bezpečnosti každého propojovaného informačního nebo komunikačního systému.\n(3) Propojení informačních nebo komunikačních systémů určených k nakládání s utajovanou informací odlišného stupně utajení musí být provedeno tak, aby mezi nimi bylo zabráněno přenosu utajované informace vyššího stupně utajení, než je stupeň utajení utajované informace, pro který je informační nebo komunikační systém určen.\n(4) Mezi propojenými informačními nebo komunikačními systémy musí být komponenty bezpečnostního rozhraní umístěny v zabezpečené oblasti alespoň takové kategorie, jakou je nejvyšší stupeň utajení utajované informace, se kterým je možno nakládat v některém z propojovaných informačních nebo komunikačních systémů.\n(5) Správa bezpečnostního rozhraní je zajišťována subjekty toho propojeného informačního nebo komunikačního systému, který je určen k nakládání s vyšším stupněm utajení utajovaných informací. Jsou-li propojené informační nebo komunikační systémy určeny k nakládání s utajovanými informacemi stejného stupně utajení, subjekty propojeného informačního nebo komunikačního systému zajišťující správu bezpečnostního rozhraní stanoví popis bezpečnosti systému."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Informační nebo komunikační systém nesmí být propojen s veřejnou komunikační sítí podle právního předpisu upravujícího elektronické komunikace, ledaže má pro tento účel instalované vhodné bezpečnostní rozhraní.\n(2) Bezpečnostní rozhraní podle odstavce 1 musí zamezit průniku do informačního nebo komunikačního systému a musí umožnit pouze kontrolovaný přenos informací, který nenarušuje důvěrnost, integritu a dostupnost informací a služeb tohoto sytému.\n(3) Informační nebo komunikační systém určený k nakládání s utajovanou informací stupně utajení Přísně tajné, nebo s utajovanou informací vyžadující zvláštní režim nakládání označenou textem „ATOMAL“, „SIOP“, „CRYPTO“, „BOHEMIA“ nebo „KRYPTO“, nesmí být přímo ani nepřímo propojen s veřejnou komunikační sítí.\n(4) Pokud je veřejná komunikační síť využívána výhradně k přenosu informací a přenášené utajované informace jsou chráněny příslušným certifikovaným kryptografickým prostředkem, nepovažuje se takové propojení za propojovací komunikační kanál."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Bezpečnostní požadavky na řízení kapacit a kontinuity",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Systém musí zajistit, že požadovaná utajovaná informace je přístupná na stanoveném místě, v požadované formě a v určeném časovém rozmezí.\n(2) V rámci zajištění bezpečného provozu popis bezpečnosti systému vymezuje komponenty, které lze nahradit bez omezení kontinuity jeho provozu, a dále rozsah požadované základní funkčnosti a komponenty, při jejichž selhání musí být základní funkčnost zaručena.\n(3) Provozovatel systému plánuje kapacity aktiv systému a sleduje kapacitní požadavky tak, aby nedocházelo k chybám způsobeným nedostatkem volných kapacit.\n(4) Popis bezpečnosti systému obsahuje plán na obnovení činnosti systému po havárii. V případě havárie může být opětovné uvedení do známého zabezpečeného stavu provedeno automaticky, nebo manuálně provozním správcem. Všechny činnosti, které byly provedeny pro obnovení činnosti, jsou zaznamenány do auditních záznamů chráněných před neoprávněnou modifikací nebo zničením. Pokud činnosti podle věty třetí nelze zaznamenat do auditních záznamů, zaznamenají se do provozního deníku."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Bezpečnostní požadavky na ochranu rozmístitelných nebo mobilních zařízení",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Pro rozmístitelné zařízení se v analýze rizik posuzují i rizika, která jsou spojena s prostředím, ve kterém se předpokládá použití tohoto zařízení.\n(2) Pro mobilní zařízení se v analýze rizik posuzují i rizika, která jsou spojena s dopravou na místo, kde bude zařízení používáno.\n(3) Rozmístitelné nebo mobilní zařízení obsahující utajovaný nosič informací se pro účely bezpečnostních opatření považuje za nosič informací utajovaný podle § 13 odst. 2.\nBezpečnostní požadavky na bezpečnost nosičů informací"
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Je-li nosič informací utajovaný, musí jeho stupeň utajení odpovídat nejvyššímu stupni utajení utajované informace, kterou lze na nosiči informací uchovávat.\n(2) Na nosiči informací musí být uvedeno evidenční označení podle § 42 odst. 4 písm. c) a identifikace provozovatele systému. Informace se na nosič informací vyznačují přímo, pomocí štítku, visačky nebo jiným vhodným způsobem.\n(3) V analýze rizik je identifikován nosič informací podle způsobu jeho zapojení do zařízení jako\na) vyjímatelný, pokud jej lze ze zařízení vyjmout i bez nutnosti použití nástroje, aniž by došlo k nevratnému poškození zařízení nebo k poškození ochranného prvku zařízení,\nb) vyměnitelný, pokud jej lze ze zařízení vyjmout pouze s použitím nástroje, aniž by došlo k nevratnému poškození zařízení, nebo\nc) zabudovaný, pokud jej lze ze zařízení vyjmout pouze způsobem, při němž dojde k nevratnému poškození zařízení.\n(4) V případech odůvodněných v popisu bezpečnosti systému lze evidovat a označit stupněm utajení nosič informací umístěný v zařízení nejpozději po prvním otevření zařízení. Zařízení s neevidovaným nosičem informací podle věty první musí splňovat bezpečnostní požadavky podle § 22."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Stupeň utajení nosiče informací stupně utajení Přísně tajné, Tajné nebo se zvláštním režimem nakládání nesmí být zrušen.\n(2) Stupeň utajení nosiče informací stupně utajení Přísně tajné, Tajné nebo se zvláštním režimem nakládání může být snížen, pouze pokud je prokázáno, že na něm byly během jeho dosavadního životního cyklu uloženy pouze utajované informace nižšího stupně utajení nevyžadující zvláštní režim nakládání nebo informace neutajované.\n(3) Stupeň utajení nosiče informací stupně utajení Důvěrné může být snížen nebo zrušen, pouze pokud\na) vymazání utajovaných informací z něj bylo provedeno způsobem uvedeným v § 15 odst. 1,\nb) je prokázáno, že na něm byly během jeho dosavadního životního cyklu uloženy pouze utajované informace nižšího stupně utajení nebo informace neutajované, nebo\nc) je prokázáno, že stupeň utajení utajovaných informací uložených na něm během jeho dosavadního životního cyklu byl snížen nebo zrušen.\n(4) Stupeň utajení nosiče informací stupně utajení Vyhrazené může být zrušen, pouze pokud\na) vymazání utajovaných informací z něj bylo provedeno způsobem uvedeným v § 15 odst. 1,\nb) je prokázáno, že na něm byly během jeho dosavadního životního cyklu uloženy pouze informace neutajované, nebo\nc) je prokázáno, že stupeň utajení utajovaných informací uložených na něm během jeho dosavadního životního cyklu byl zrušen.\n(5) Stupeň utajení nosiče informací obsahujícího zálohy informací se určuje podle nejvyššího stupně utajení utajovaných informací, se kterými může systém nakládat."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Vymazání utajované informace z nosiče informací, které umožňuje snížení nebo zrušení jeho stupně utajení, musí být provedeno tak, aby znemožnilo z nosiče informací opětovně získat, byť laboratorními metodami, utajovanou informaci na něm uchovanou během jeho dosavadního životního cyklu.\n(2) Postup podle odstavce 1 musí být uveden v popisu bezpečnosti systému.\n(3) Ničení nosiče informací musí být provedeno v souladu s postupy ničení nosičů informací nebo dat podle právního předpisu upravujícího fyzickou bezpečnost tak, aby znemožnilo z něho opětovně získat, byť laboratorními metodami, utajovanou informaci na něm uchovanou během jeho dosavadního životního cyklu.\n(4) Popis bezpečnosti systému stanoví řízení přístupu uživatelů k vyjímatelným nosičům informací a ke vstupně výstupním portům, přes které jsou tyto nosiče informací k zařízení připojovány.\n(5) Popis bezpečnosti systému stanoví podmínky přidělování nosiče informací jinému subjektu systému a postupy znemožňující zjistit jejich předchozí obsah.\nBezpečnostní požadavky na přístup uživatele k utajované informaci v systému"
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Uživatel musí být autorizován postupem stanoveným v popisu bezpečnosti systému.\n(2) Uživatel musí splňovat podmínky pro přístup fyzické osoby k utajované informaci stupně utajení, který se stanovuje v závislosti na nejvyšším stupni utajení utajovaných informací, se kterými může systém nakládat. Uživatel v informačním systému musí dále splňovat podmínky pro přístup fyzické osoby k utajované informaci stupně utajení, který se stanovuje v souladu s bezpečnostním provozním módem informačního systému.\n(3) Privilegovaným uživatelem se rozumí role uživatele s oprávněními, která mu kromě základního přístupu k poskytovaným službám umožňují i provádění provozní nebo bezpečnostní správy, zejména role pracovníka provozní nebo bezpečnostní správy.\n(4) Koncovým uživatelem se rozumí role uživatele s oprávněními, která mu umožňují základní přístup k poskytovaným službám a nakládání s utajovanými informacemi.\n(5) Privilegovaný uživatel musí činnost, která není bezpečnostní nebo provozní správou, provádět jako koncový uživatel."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Uživatel v dané roli má vždy oprávnění k činnostem v systému pouze v rozsahu nezbytném pro jejich provádění.\n(2) Uživatel systému, který je určen k nakládání s utajovanými informacemi stupně utajení Vyhrazené, Důvěrné nebo Tajné, v roli\na) pracovníka provozní správy s oprávněním administrátora a s oprávněním úplného řízení, nebo\nb) pracovníka bezpečnostní správy celého systému\nmusí splňovat podmínky pro přístup fyzické osoby k utajované informaci stupně utajení o jeden stupeň vyšší, nežli je nejvyšší stupeň utajení utajovaných informací, se kterými může systém nakládat.\n(3) Uživatel systému, který je určen k nakládání s utajovanými informacemi stupně utajení Přísně tajné, v roli\na) pracovníka provozní správy s oprávněním administrátora a s oprávněním úplného řízení, nebo\nb) pracovníka bezpečnostní správy celého systému\nmusí splňovat podmínky pro přístup fyzické osoby k utajované informaci stupně utajení Přísně tajné.\n(4) Splnění požadavku podle odstavce 2 se nevyžaduje u systému\na) malého rozsahu, kterým se rozumí systém mající nejvýše 30 uživatelů, nebo\nb) zpracovávajícího pouze taktické utajované informace,\njestliže systém nenakládá s utajovanou informací cizí moci Organizace Severoatlantické smlouvy a se zvážením identifikovaných rizik je v analýze rizik nebo popisu bezpečnosti systému uvedeno jako dostačující splnění podmínek pro přístup fyzické osoby k utajované informaci stupně utajení shodného s nejvyšším stupněm utajení utajovaných informací, se kterými může systém nakládat.\n(5) Uživatel v roli\na) pracovníka provozní správy systému s oprávněním administrátora a s omezeným oprávněním řízení systému, zejména správy serverů, správy aplikace nebo lokální správy, nebo\nb) pracovníka bezpečnostní správy systému zajišťujícího dílčí oblast bezpečnosti, zejména určitou bezpečnostní technologii nebo lokální správu,\nmusí splňovat podmínky pro přístup fyzické osoby k utajované informaci stupně utajení shodného s nejvyšším stupněm utajení utajovaných informací, se kterými může systém nakládat.\n(6) Roli uživatele systému je na základě autorizace přidělen jedinečný identifikátor. Roli s jedinečným identifikátorem podle věty první může využívat několik uživatelů, je-li to nezbytné pro zajištění nepřetržité dostupnosti systému nebo správy systému a je-li zaveden postup umožňující určit, který uživatel v dané době tuto roli využívá; to musí být popsáno a zdůvodněno v popisu bezpečnosti systému."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Bezpečnostní požadavky na bezpečnostní a provozní správu",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Popis bezpečnosti systému stanoví vhodnou strukturu bezpečnostní a provozní správy. V rámci struktury bezpečnostní správy zavede provozovatel systému roli bezpečnostního správce odděleně od jiných rolí správy, pokud není dále stanoveno jinak. V rámci struktury provozní správy zavede provozovatel systému roli provozního správce.\n(2) Bezpečnostní správce je uživatel v roli pracovníka správy s oprávněními, která mu kromě základního přístupu k poskytovaným službám umožňují i provádění činností k zajištění bezpečnosti systému.\n(3) Provozní správce je uživatel v roli pracovníka správy s oprávněními, která mu kromě základního přístupu k poskytovaným službám umožňují i provádění činností k zajištění požadované funkčnosti systému a řízení jeho provozu.\n(4) V případě potřeby zajistit stanovený rozsah činností k zajištění bezpečnosti nebo provozuschopnosti systému zavede provozovatel systému organizační strukturu bezpečnostních nebo provozních správců nebo další role v bezpečnostní nebo provozní správě.\n(5) Výkon bezpečnostní správy spočívá v\na) přidělování přístupových práv,\nb) správě autentizačních a autorizačních informací,\nc) správě konfigurace systému,\nd) správě a vyhodnocování auditních záznamů,\ne) aktualizaci bezpečnostní dokumentace,\nf) vedení příslušných evidencí,\ng) řešení bezpečnostních incidentů a krizových situací a vypracování zpráv o nich,\nh) zajištění školení uživatelů v oblasti bezpečnosti,\ni) kontrole dodržování bezpečnostních opatření a\nj) dalších činnostech stanovených v bezpečnostní dokumentaci.\n(6) Výkon provozní správy spočívá v provádění činností k zajištění provozuschopnosti systému a v dalších činnostech stanovených v bezpečnostní dokumentaci.\n(7) V odůvodněných případech lze v popisu bezpečnosti systému sloučit některé role bezpečnostní a provozní správy."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Bezpečnostní požadavky personální bezpečnosti při provozu systému",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Uživatel může vykonávat pouze takovou roli, kterou byl pověřen.\n(2) Pověření podle odstavce 1 může provádět pouze odpovědná osoba provozovatele systému nebo jí pověřená osoba postupem stanoveným v popisu bezpečnosti systému.\n(3) Odpovědná osoba nebo jí pověřená osoba zruší uživateli pověření\na) v případě změny jeho role,\nb) v případě ukončení pracovněprávního nebo obdobného vztahu s provozovatelem systému, nebo\nc) pokud přestal splňovat podmínky přístupu k utajované informaci podle zákona.\n(4) Uživatel může vykonávat určenou roli, pouze pokud byl proškolen ve správném užívání systému a v dodržování bezpečnostních opatření. Školení se vyžaduje dále při podstatných změnách bezpečnostních opatření bez zbytečného odkladu, jinak nejméně jednou ročně.\n(5) Přehled provedených školení, jejich obsah a seznam uživatelů, kteří školení absolvovali, včetně záznamů o prokazatelném absolvování školení, je součástí provozní bezpečnostní dokumentace. Přehled podle věty první může být veden i mimo provozní bezpečnostní dokumentaci. Způsob vedení přehledu podle věty druhé stanoví provozní bezpečnostní dokumentace."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Bezpečnostní požadavky na činnost subjektu systému",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Činnost subjektu systému lze provádět pouze postupy popsanými v provozní bezpečnostní směrnici.\n(2) Informace o činnosti subjektu systému se v auditním záznamu zaznamenává tak, aby bylo možno identifikovat narušení bezpečnosti systému nebo pokusy o ně.\nBezpečnostní požadavky na fyzickou bezpečnost"
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Aktiva systému musí být chráněna před bezpečnostními hrozbami a riziky vyplývajícími z prostředí, ve kterém jsou umístěna.\n(2) Aktiva systému musí být umístěna do prostoru, ve kterém je zajištěna fyzická ochrana před neoprávněným přístupem a poškozením a ovlivněním aktiv systému. Na základě analýzy rizik se stanovuje, která aktiva systému musí být umístěna v zabezpečené oblasti nebo objektu a požadovaná kategorie zabezpečené oblasti nebo objektu.\n(3) Způsob umístění aktiv systému stanoví popis bezpečnosti systému.\n(4) Umístění aktiv systému musí být provedeno tak, aby zamezovalo neoprávněné osobě odezírat nebo odposlouchávat utajované informace nebo informace sloužící k identifikaci a autentizaci uživatele."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Nejnižší možná míra zabezpečení zabezpečené oblasti pro umístění zařízení, v němž mohou být ukládány utajované informace, se určuje v souladu s tabulkami bodových hodnot nejnižší míry zabezpečení fyzické bezpečnosti uvedenými v právním předpise upravujícím fyzickou bezpečnost.\n(2) Bodové ohodnocení fyzické bezpečnosti zařízení, v němž mohou být ukládány utajované informace, je závislé na způsobu zajištění důvěrnosti\na) informací uložených v zařízení a\nb) autentizačních údajů uložených v autentizačních předmětech.\n(3) Bodové ohodnocení fyzické bezpečnosti podle odstavce 2 je uvedeno v příloze č. 1 k této vyhlášce.\n(4) Zařízení, v nichž mohou být ukládány utajované informace a jejich hardwarové komponenty, jsou označeny a opatřeny ochrannými prvky způsobem uvedeným v popisu bezpečnosti systému.\n(5) Ochranný prvek se umísťuje tak, aby při pokusu o rozebrání zařízení, v němž mohou být ukládány utajované informace nebo jeho hardwarové komponenty, došlo k jeho poškození.\n(6) Popis bezpečnosti systému stanoví způsob zajišťování důvěrnosti podle odstavce 2 a dále pravidla k zajištění bezpečnosti při\na) změně umístění zařízení a jeho hardwarových komponent,\nb) údržbě zařízení a jeho hardwarových komponent,\nc) provozování zařízení nebo jeho hardwarových komponent mimo prostory provozovatele systému a\nd) bezpečné likvidaci nebo opakovaném použití zařízení nebo jeho hardwarových komponent."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Bezpečnostní požadavky na administrativní bezpečnost v informačním systému",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Utajovanou informaci lze prostřednictvím informačního systému odeslat evidenčnímu místu adresáta, pouze pokud jsou na ní vyznačeny\na) stupeň utajení,\nb) evidenční označení podle právního předpisu upravujícího administrativní bezpečnost,\nc) identifikace odesílatele a\nd) datum vzniku.\n(2) Utajovaná informace doručená evidenčnímu místu adresáta prostřednictvím informačního systému musí být bez zbytečného odkladu zaevidována v elektronickém systému spisové služby sloužícím k evidenci utajovaných informací nebo v jednacím protokolu v listinné nebo elektronické podobě. Ustanovení právního předpisu upravujícího administrativní bezpečnost se použijí obdobně.\n(3) V odůvodněných případech může odpovědná osoba, jí pověřená osoba nebo bezpečnostní ředitel stanovit výjimky, kdy se postupy podle odstavců 1 a 2 nepoužijí. Pravidla pro stanovování výjimek podle věty první stanoví popis bezpečnosti systému."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Bezpečnostní požadavky na informační systém s distribuční službou",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Informační systém určený k doručování utajovaných informací mezi různými evidenčními místy musí mít\na) zřízen pro každé evidenční místo v rámci tohoto informačního systému doručovací adresu, kterou je adresa elektronické pošty nebo obdobný identifikátor distribuční služby, a\nb) veden seznam doručovacích adres všech evidenčních míst v rámci tohoto informačního systému dostupný všem uživatelům informačního systému, kteří jej nezbytně potřebují k výkonu své funkce, pracovní nebo jiné činnosti.\n(2) Způsob a podmínky doručování utajovaných informací podle odstavce 1 musí být stanoveny v popisu bezpečnosti informačního systému."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Bezpečnostní požadavky na testování a prověřování",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Soulad bezpečnostních opatření s bezpečnostní dokumentací ověřuje provozovatel systému testováním. K provedení testování nelze používat utajované informace.\n(2) Soulad bezpečnostních opatření s právními předpisy, vnitřními předpisy a dotčenými smluvními závazky a dodržování bezpečnostních opatření provozovatel systému průběžně prověřuje, u informačního systému nejpozději bezprostředně před podáním opakované žádosti o certifikaci podle § 48.\n(3) Podmínky provádění testování, podmínky prověřování podle odstavce 2 a jejich výsledky jsou součástí dokumentace k bezpečnostním testům."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Bezpečnostní požadavky na bezpečnost vývoje a instalace",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Ve vývojovém prostředí systému musí být zajištěna bezpečnost, ochrana používaných testovacích dat a prováděno bezpečnostní testování změn systému před jejich zavedením do provozu.\n(2) Postup instalace aktiv systému musí provozovatel systému organizovat tak, aby nebyla ohrožena informační bezpečnost a oslabeny bezpečnostní funkce.\n(3) V popisu bezpečnosti systému musí být stanovena zařízení nebo komponenty, které zajišťují bezpečnostní funkce nebo jsou zranitelné ve fázi instalace.\n(4) Zařízení nebo komponenty podle odstavce 3 musí být instalovány osobami splňujícími podmínky pro přístup fyzické osoby k utajované informaci nejvyššího stupně utajení utajované informace, s níž je systém určen nakládat. Ostatní zařízení nebo komponenty mohou být instalovány i osobami nesplňujícími podmínky pro přístup k utajované informaci podle věty první, pokud jsou tyto osoby pod neustálým osobním dohledem příslušného pracovníka správy a jestliže byly schváleny odpovědnou osobou provozovatele systému, jí pověřenou osobou nebo bezpečnostním ředitelem.\nBezpečnostní požadavky na bezpečnost provozu"
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Pro bezpečný provoz systému jsou v popisu bezpečnosti systému stanovena\na) práva a povinnosti uživatelů v jednotlivých rolích a\nb) provozní pravidla a postupy\n1. pro uvedení systému do provozu, ukončení provozu a obnovení provozu po selhání, chybě nebo mimořádné události,\n2. pro sledování a vyhodnocování auditních záznamů a pro ochranu přístupu k těmto auditním záznamům,\n3. pro řešení a vyhodnocování detekovaných bezpečnostních událostí a\n4. řízení a schvalování provozních změn.\n(2) Popis bezpečnosti systému obsahuje pravidla pro průběžné prověřování a vyhodnocování bezpečnosti provozu.\n(3) Provozovatel systému je povinen řídit veškeré změny v rámci provozu systému. V popisu bezpečnosti systému musí být uvedeny postupy a mechanismy, které příslušné změny umožňují."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Integrita softwarového vybavení a informací musí být chráněna před působením škodlivého kódu.\n(2) Softwarové a hardwarové vybavení systému musí být uvedeno v evidenci aktiv a smí být používáno pouze v souladu s podmínkami v uvedenými popisu bezpečnosti systému a provozní bezpečnostní směrnici.\n(3) Analýza rizik a popis bezpečnosti systému stanoví požadavky na provádění zálohování softwarového vybavení a uložených informací. Záloha musí být uložena tak, aby nemohlo dojít k jejímu poškození, zničení nebo zneužití.\n(4) Popis bezpečnosti systému stanoví postup odstranění utajovaných informací z hardwarového vybavení před jeho vyřazením z používání, případně před jeho zničením."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Servisní činnost musí provozovatel systému organizovat tak, aby nebyla ohrožena bezpečnost a nedošlo k porušení povinností ochrany utajovaných informací.\n(2) V případech, kdy hrozí možnost neoprávněného seznámení s utajovanou informací, musí být z nosičů informací přístupných při servisní činnosti bezpečně vymazány utajované informace a dálková diagnostika musí být zabezpečena před zneužitím.\n(3) Servis zařízení nebo komponent zajišťujících bezpečnostní funkce musí zajišťovat osoby splňující podmínky pro přístup fyzické osoby k utajované informaci nejvyššího stupně utajení, s níž je systém určen nakládat. Údržba ostatních zařízení nebo komponent může být prováděna i osobami nesplňujícími podmínky pro přístup k utajované informaci podle věty první, pokud jsou tyto osoby pod neustálým osobním dohledem příslušného pracovníka správy a jestliže byly schváleny odpovědnou osobou provozovatele systému, jí pověřenou osobou nebo bezpečnostním ředitelem."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) V rámci provozu systému musí provozovatel systému provádět hodnocení auditních záznamů v termínech stanovených v popisu bezpečnosti systému a při vzniku krizové situace bez zbytečného odkladu.\n(2) Auditní záznamy musí být chráněny před změnou nebo zničením a uchovávány po dobu stanovenou v popisu bezpečnosti systému, nejméně však po dobu 5 let od vzniku.\n(3) V popisu bezpečnosti systému musí být uvedena základní klasifikace krizových situací a pro každou z nich musí být specifikována činnost\na) následující bezprostředně po vzniku krizové situace zaměřená na minimalizaci škod a zajištění informací potřebných pro zjištění příčin a mechanismu vzniku krizové situace a\nb) zaměřená na likvidaci následků krizové situace včetně vymezení osobní odpovědnosti za jednotlivé úkoly.\n(4) Pro řešení krizových situací musí být v popisu bezpečnosti systému stanovena bezpečnostní opatření zaměřená na uvedení systému do stavu odpovídajícího bezpečnostní dokumentaci.\n(5) Při zvládání bezpečnostních událostí a bezpečnostních incidentů musí být\na) přijata nezbytná bezpečnostní opatření pro zajištění oznamování bezpečnostních událostí ze strany uživatelů a zajištění vedení záznamů o těchto oznámeních,\nb) zajištěno prostředí pro provádění vyhodnocování oznámených bezpečnostních událostí a bezpečnostních událostí detekovaných technickými nástroji a pro identifikaci případných bezpečnostních incidentů,\nc) provedena klasifikace bezpečnostních incidentů a přijata vhodná bezpečnostní opatření pro odvrácení a zmírnění dopadu bezpečnostních incidentů,\nd) prošetřeny a určeny příčiny bezpečnostního incidentu, vyhodnocena účinnost řešení bezpečnostního incidentu a na základě vyhodnocení stanovena nutná bezpečnostní opatření k zamezení opakování daného bezpečnostního incidentu a\ne) dokumentováno zvládání bezpečnostních incidentů.\n(6) Pro případ havárie softwarového nebo hardwarového vybavení systému musí být uveden v popisu bezpečnosti systému způsob\na) zálohování a uložení záložních nosičů informací,\nb) zajištění servisní činnosti,\nc) zajištění nouzového provozu s vyjmenováním základních funkcí systému, které musí být zachovány, a\nd) obnovy funkčnosti systému a uvedení do bezpečného stavu uvedeného v bezpečnostní dokumentaci."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "Pokud se na provozu, rozvoji nebo zajištění informační bezpečnosti podílí dodavatel, analýza rizik stanoví\na) zásady hodnocení rizik dodavatele,\nb) náležitosti smlouvy s dodavatelem, kterými jsou smluvní ujednání o úrovni dodávaných služeb, o realizaci bezpečnostních opatření a o určení vzájemné smluvní odpovědnosti, a\nc) pravidla pro ověření bezpečnostních opatření zavedených dodavatelem."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "Popis bezpečnosti systému stanoví bezpečnostní opatření zaváděná za účelem ochrany utajovaných informací po ukončení provozu systému, zejména způsob naložení s nosiči informací a uložení kryptografických prostředků, jsou-li použity."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Bezpečnostní požadavky na softwarové vybavení",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Popis bezpečnosti systému stanoví bezpečnostní funkce pro zajištění ochrany utajovaných informací zpracovávaných použitým softwarovým vybavením.\n(2) Je-li v rámci provozu použito virtualizační prostředí, musí splňovat stejné bezpečnostní požadavky jako systémy provozované na jeho platformě."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Zvláštní bezpečnostní požadavky na softwarové vybavení informačního systému",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Vyžaduje-li to činnost, pro kterou je informační systém zřízen, je v systému zajišťována nepopiratelnost provozovatelem informačního systému stanovených jednání či událostí, kterou se rozumí zajištění toho, že lze subjektu systému přičíst jím provedené předání informace nebo provedená změna stavu systému.\n(2) Má-li být součástí informačního systému elektronický systém spisové služby sloužící k evidenci utajovaných informací, musí být hodnocení bezpečnosti softwarového vybavení, kterým je realizován, součástí procesu certifikace informačního systému."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Bezpečnostní požadavky při nově identifikovaných hrozbách a zvýšení rizik",
+      "chapter": "ČÁST DRUHÁ - INFORMAČNÍ BEZPEČNOST",
+      "content": "(1) Součástí analýzy rizik a popisu bezpečnosti informačního systému je i rozhodnutí Národního úřadu pro kybernetickou a informační bezpečnost o stanovení dalších nutných bezpečnostních funkcí nebo opatření podle § 34 odst. 4 zákona, bylo-li vydáno.\n(2) Náležitosti oznámení provozovatele certifikovaného informačního systému o zavedení dalších nutných bezpečnostních funkcí nebo opatření podle § 34 odst. 4 zákona jsou\na) identifikační údaje provozovatele certifikovaného informačního systému,\nb) jednoznačný identifikátor rozhodnutí podle § 34 odst. 4 zákona a\nc) podrobnosti o zavedení bezpečnostní funkce nebo opatření, kterými jsou\n1. datum a čas zavedení,\n2. výsledek zavedení bezpečnostní funkce nebo opatření a\n3. popis problémů nebo negativních dopadů při zavádění bezpečnostní funkce nebo opatření."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Bezpečnostní dokumentaci systému tvoří\na) projektová bezpečnostní dokumentace a\nb) provozní bezpečnostní dokumentace.\n(2) Projektová bezpečnostní dokumentace obsahuje\na) bezpečnostní politiku,\nb) analýzu rizik,\nc) popis bezpečnosti systému a\nd) dokumentaci k bezpečnostním testům.\n(3) Provozní bezpečnostní dokumentace obsahuje\na) provozní bezpečnostní směrnice pro každou zavedenou roli,\nb) evidence aktiv systému, zejména nosičů informací,\nc) evidenci uživatelů,\nd) provozní deníky a\ne) další provozní bezpečnostní dokumentaci definovanou v projektové bezpečnostní dokumentaci."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Bezpečnostní politika",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Bezpečnostní politika\na) je tvořena souborem obecných pravidel a postupů, který vymezuje způsob, jakým má být zajištěna informační bezpečnost a odpovědnost uživatele za jeho činnost v systému, který je konkretizován jako bezpečnostní opatření v popisu bezpečnosti systému,\nb) obsahuje prohlášení odpovědné osoby nebo bezpečnostního ředitele o naplnění požadavků právních předpisů z oblasti ochrany utajovaných informací a\nc) stanoví způsob zajištění pravosti a nepopiratelnosti informací, je-li to nutné.\n(2) U informačního systému musí být bezpečnostní politika průběžně přezkoumávána, vyhodnocována a aktualizována, nejpozději však bezprostředně před podáním opakované žádosti o certifikaci podle § 48."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Analýza rizik",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Pro účely analýzy rizik se rozumí\na) hrozbou potenciální příčina bezpečnostního incidentu,\nb) zranitelností slabé místo aktiva systému, které může být využito hrozbou,\nc) rizikem kombinace pravděpodobnosti události a jejího následku jako souhrnu možností, že hrozba využije zranitelnost a způsobí škodu.\n(2) Analýza rizik vychází z bezpečnostní politiky a u informačního systému i ze stanoveného bezpečnostního provozního módu.\n(3) Analýza rizik obsahuje\na) provozovatelem systému stanovenou metodiku pro identifikaci a hodnocení aktiv systému a pro identifikaci a hodnocení rizik včetně stanovených kritérií pro přijatelnost rizik,\nb) identifikaci a hodnocení aktiv systému z hlediska hrozeb, zranitelností a dopadů,\nc) kvantifikaci rizik, která zohledňuje hrozby, zranitelnosti a dopady,\nd) určenou a akceptovatelnou míru rizika a\ne) přehled navržených bezpečnostních opatření.\n(4) U informačního systému musí být analýza rizik přezkoumávána, vyhodnocována a aktualizována, nejpozději však bezprostředně před podáním opakované žádosti o certifikaci podle § 48."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Popis bezpečnosti systému",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Popis bezpečnosti systému popisuje aplikaci bezpečnostních opatření navržených v analýze rizik pro splnění požadavků definovaných v bezpečnostní politice, včetně řešení kryptografické ochrany, pokud je aplikována. Popis bezpečnosti systému musí být konkrétní a přesný.\n(2) U rozsáhlých systémů lze popis bezpečnosti systému rozdělit do několika samostatných dokumentů, které popisují konkrétní řešení jednotlivých částí systému, zpravidla na úrovni poskytovaných služeb."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Dokumentace k bezpečnostním testům",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "Dokumentace k bezpečnostním testům obsahuje souhrn bezpečnostních testů a jejich výsledků z oblasti plnění bezpečnostních opatření navržených v analýze rizik a popsaných v popisu bezpečnosti systému."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Provozní bezpečnostní směrnice",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Pro každou definovanou roli v systému musí být zpracována provozní bezpečnostní směrnice.\n(2) Provozní bezpečnostní směrnice pro každou roli stanoví\na) práva uživatele v roli,\nb) povinnosti uživatele v roli,\nc) zakázané činnosti uživatele v roli a\nd) postupy spojené s povinnostmi, právy a zakázanými činnostmi podle písmen a) až c).\n(3) Provozní bezpečnostní směrnice pro roli koncového uživatele obsahuje také\na) stručný a zjednodušený popis systému včetně jeho rozsahu a případného umístění,\nb) definici a klasifikaci krizových situací včetně základního popisu toho, jak se koncový uživatel podílí na jejich řešení,\nc) definici a klasifikaci bezpečnostních událostí a incidentů včetně základního popisu toho, jak se koncový uživatel podílí na jejich řešení,\nd) definici kompromitace utajované informace při použití kryptografického prostředku včetně základního popisu toho, jak se uživatel podílí na řešení,\ne) způsob manipulace s nosiči informací a způsob jejich používání,\nf) pravidla provádění tisku a\ng) způsob používání specifického softwarového vybavení."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Evidence aktiv",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Veškerá aktiva systému musí být evidována v evidenci aktiv.\n(2) Záznam v evidenci aktiv musí obsahovat přesný název, typ, sériové nebo výrobní číslo aktiva a další informace, které umožní jednoznačnou identifikaci evidovaného aktiva.\n(3) Evidovaná hmotná aktiva musí být, kromě výjimek uvedených v bezpečnostní dokumentaci, označena tak, aby byla jednoznačně určena jejich příslušnost k systému.\n(4) Evidence nosičů informací obsahuje položky:\na) pořadové číslo,\nb) stupeň utajení nebo informaci o tom, že nosič informací je neutajovaný,\nc) evidenční označení, které tvoří zkratka stupně utajení, je-li nosič informací utajovaný, nebo zkratka informace o tom, že nosič informací je neutajovaný, pořadové číslo, rok zavedení do evidence a identifikaci provozovatele systému,\nd) datum zavedení do evidence,\ne) typ nosiče informací,\nf) jednoznačný identifikátor nosiče informací, kterým je zpravidla sériové číslo, a\ng) jméno, příjmení a podpis uživatele, kterému byl nosič informací přidělen, datum převzetí, datum vrácení nosiče informací a jméno, příjmení a podpis uživatele, kterému byl nosič informací vrácen.\n(5) Evidence nosičů informací může být vedena i samostatně mimo provozní bezpečnostní dokumentaci. Způsob vedení evidence nosičů informací podle věty první je uveden v bezpečnostní dokumentaci."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Evidence uživatelů",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Každý uživatel musí být evidován v evidenci uživatelů.\n(2) Evidence uživatelů obsahuje\na) jméno a příjmení uživatele,\nb) údaje o oznámení o splnění podmínek pro přístup k utajované informaci stupně utajení Vyhrazené, zejména datum jeho vydání; to neplatí, má-li uživatel přístup k utajované informaci stupně utajení Vyhrazené podle § 58a zákona,\nc) údaje o osvědčení fyzické osoby, bylo-li uživateli vydáno, kterými se rozumí číslo osvědčení, datum vydání, doba platnosti osvědčení a nejvyšší stupeň utajení utajovaných informací, ke kterým osvědčení umožňuje přístup,\nd) údaje o osvědčení fyzické osoby pro cizí moc, bylo-li uživateli vydáno, kterými se rozumí číslo osvědčení, datum vydání, doba platnosti osvědčení a nejvyšší stupeň utajení utajovaných informací, ke kterým osvědčení umožňuje přístup, a\ne) údaje o roli, kterou byl uživatel pověřen, zejména o rozsahu jeho oprávnění, datu pověření a datu zrušení pověření a datu proškolení podle § 19 odst. 5.\n(3) V případě, že má uživatel přístup k utajované informaci podle § 58 zákona, nebo k utajované informaci stupně utajení Vyhrazené podle § 58a zákona, jsou tyto údaje uvedeny v evidenci uživatelů."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Provozní deník",
+      "chapter": "ČÁST TŘETÍ - OBSAH DOKUMENTACE",
+      "content": "(1) Provozní deník slouží k řízení změn v systému a jejich zadokumentování. Do provozního deníku se zaznamenávají zejména změny prováděné v systému pracovníky správy.\n(2) Provozní deník lze vést i v elektronické podobě, je-li zabezpečen proti neoprávněnému přístupu nebo zásahu a prokazatelným způsobem zaznamenává všechny v něm prováděné změny."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Žádost o certifikaci informačního systému",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 1 - Certifikace informačního systému",
+      "content": "(1) Žádost o certifikaci informačního systému obsahuje\na) číslo osvědčení podnikatele s uvedením příslušného stupně utajení nebo kopii platného prohlášení podnikatele, je-li žadatelem podnikatel,\nb) jméno a příjmení kontaktní osoby žadatele a kontaktní spojení, kterým se rozumí alespoň její telefonní číslo a adresa elektronické pošty,\nc) popis účelu a rozsahu informačního systému,\nd) údaj o stupni utajení utajovaných informací, se kterými bude informační systém nakládat,\ne) údaj o stanovení bezpečnostního provozního módu informačního systému a\nf) identifikační údaje dodavatele informačního systému nebo jeho komponent ovlivňujících bezpečnost informačního systému a číslo osvědčení podnikatele s uvedením příslušného stupně utajení nebo kopii platného prohlášení podnikatele, je-li dodavatel podnikatelem.\n(2) K provedení certifikace informačního systému žadatel předloží\na) žádost o certifikaci informačního systému podle odstavce 1,\nb) projektovou bezpečnostní dokumentaci podle § 36 odst. 2,\nc) provozní bezpečnostní dokumentaci v rozsahu § 36 odst. 3 písm. a),\nd) popis bezpečnosti vývojového prostředí a\ne) další podklady obsahující informace, které by mohly mít vliv na posuzování bezpečnosti informačního systému nebo jeho provoz.\n(3) K provedení certifikace informačního systému nakládajícího s utajovanými informacemi stupně utajení Důvěrné nebo vyššího žadatel předloží podklady nezbytné k ověření způsobilosti elektrických nebo elektronických zařízení, které jsou součástí informačního systému, k ochraně před únikem utajovaných informací kompromitujícím vyzařováním.\n(4) K žádosti žadatel přiloží výsledky dílčích úloh v rámci ověřování způsobilosti informačního systému k nakládání s utajovanými informacemi, provedených orgánem státu, právnickou osobou podle § 60b zákona nebo podnikatelem na základě smlouvy o zajištění činnosti uzavřené s Národním úřadem pro kybernetickou a informační bezpečnost podle § 52 zákona, byly-li tyto dílčí úlohy provedeny.\n(5) Zpravodajská služba uvádí v žádosti podle odstavce 1 údaje podle písmen c) až f) pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu. Zpravodajská služba předkládá podklady podle odstavce 2 pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46 Způsob a podmínky provádění certifikace informačního systému",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 1 - Certifikace informačního systému",
+      "content": "(1) V rámci certifikace informačního systému posuzuje Národní úřad pro kybernetickou a informační bezpečnost\na) vhodnost navrženého souboru bezpečnostních opatření pro dosažení informační bezpečnosti informačního systému podle § 3,\nb) správnost a úplnost bezpečnostní dokumentace a\nc) správnost realizace navrženého souboru bezpečnostních opatření v daném informačním systému a její soulad s bezpečnostní dokumentací.\n(2) Certifikace informačního systému se provádí na základě předložených podkladů a provedených bezpečnostních testů. Bezpečnostní testy provádí žadatel o certifikaci informačního systému v provozním prostředí hodnoceného informačního systému za spoluúčasti Národního úřadu pro kybernetickou a informační bezpečnost, případně i dodavatele. Provádí-li bezpečnostní testy podle věty druhé zpravodajská služba, spoluúčast Národního úřadu pro kybernetickou a informační bezpečnosti se nevyžaduje.\n(3) Certifikaci informačního systému lze provádět průběžně po ukončení jednotlivých fází výstavby informačního systému nebo až po jejím dokončení, uvede-li to žadatel v žádosti o certifikaci informačního systému podle § 45.\n(4) Dojde-li v informačním systému, který byl certifikován a schválen do provozu, ke změnám uvedeným v § 51 odst. 2, provádí se pouze doplňující posouzení informačního systému v rozsahu provedených změn. Při provádění doplňujícího posouzení informačního systému se postupuje podle odstavce 1 v nezbytném rozsahu. Výsledek doplňujícího posouzení je součástí certifikační zprávy.\n(5) Vzor certifikátu informačního systému je uveden v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Certifikační zpráva",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 1 - Certifikace informačního systému",
+      "content": "Národní úřad pro kybernetickou a informační bezpečnost vydává k certifikátu informačního systému certifikační zprávu, která obsahuje\na) identifikaci informačního systému obsahující jeho název, označení verze a stupeň utajení utajovaných informací, pro který byla způsobilost informačního systému ověřena,\nb) popis informačního systému,\nc) zásady a podmínky provozování informačního systému, včetně typů změn informačního systému, které vyžadují provedení doplňujícího posouzení informačního systému, a podmínek ukončení jeho provozu,\nd) identifikaci přijatelných rizik souvisejících s provozem informačního systému a\ne) typy kryptografických prostředků, jsou-li použity, a způsob, jakým bude zajištěn výkon kryptografické ochrany v souladu s certifikační zprávou kryptografického prostředku."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Opakovaná žádost o certifikaci informačního systému",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 1 - Certifikace informačního systému",
+      "content": "(1) Opakovaná žádost o certifikaci informačního systému obsahuje\na) číslo osvědčení podnikatele s uvedením příslušného stupně utajení nebo kopii platného prohlášení podnikatele, je-li provozovatelem informačního systému podnikatel,\nb) identifikaci vydaného certifikátu informačního systému obsahující identifikaci jeho držitele, evidenční číslo, datum vydání a dobu platnosti,\nc) identifikaci informačního systému obsahující jeho název, označení verze a stupeň utajení utajovaných informací, pro který byla způsobilost informačního systému ověřena, a\nd) jméno a příjmení kontaktní osoby provozovatele informačního systému a kontaktní spojení na ni.\n(2) Opakovaná žádost o certifikaci informačního systému dále obsahuje návrh změny bezpečnostní dokumentace, pokud ji ke dni ukončení platnosti dosavadního certifikátu provozovatel informačního systému navrhuje.\n(3) Pokud v opakované žádosti provozovatel informačního systému doloží, že ke dni ukončení platnosti dosavadního certifikátu informačního systému bude informační systém provozován za podmínek stanovených v certifikační zprávě a v jeho provozování nenastaly změny, je rozsah posuzování podle § 46 odst. 1 omezen pouze na písmeno c).\n(4) Pokud v opakované žádosti provozovatel informačního systému navrhuje změnu bezpečnostní dokumentace, je rozsah posuzování podle § 46 odst. 1 písm. a) a b) omezen na tyto navrhované změny.\n(5) Pokud navrhované změny bezpečnostní dokumentace informačního systému jsou podstatné pro celkovou bezpečnost informačního systému, bude Národní úřad pro kybernetickou a informační bezpečnost postupovat jako v případě nové certifikace.\n(6) Zpravodajská služba uvádí v žádosti podle odstavce 1 údaje podle písmen c) a d) pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu. Zpravodajská služba předkládá podklady podle odstavce 2 pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 2 - Smlouva o zajištění činnosti",
+      "content": "(1) Žádost o uzavření smlouvy s Národním úřadem pro kybernetickou a informační bezpečnost o zajištění činnosti podle § 52 zákona, jejímž předmětem je provádění dílčích úloh při ověřování způsobilosti informačního systému k nakládání s utajovanými informacemi (dále jen „smlouva o zajištění činnosti“), obsahuje\na) číslo osvědčení podnikatele s uvedením příslušného stupně utajení, je-li žadatelem podnikatel,\nb) jméno a příjmení kontaktní osoby žadatele a kontaktní spojení na ni a\nc) specifikace činností, které mají být prováděny podle smlouvy o zajištění činnosti.\n(2) Žádost dle odstavce 1 obsahuje dále\na) adresu umístění pracoviště provádějícího požadované činnosti,\nb) prohlášení odpovědné osoby nebo jí pověřené osoby o splnění požadavků na fyzickou a personální bezpečnost pracoviště,\nc) rozsah požadovaných činností,\nd) údaje o personálním zabezpečení požadovaných činností a\ne) údaje o technickém a organizačním zajištění požadovaných činností."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 3 - Akreditace informačního systému",
+      "content": "(1) Akreditaci informačního systému cizí moci provádí Národní úřad pro kybernetickou a informační bezpečnost na žádost, která obsahuje prohlášení o naplnění bezpečnostních požadavků vyžadovaných bezpečnostní akreditační autoritou cizí moci podle příslušného předpisu Evropské unie2) a podle mezinárodní smlouvy3).\n(2) Pokud Národní úřad pro kybernetickou a informační bezpečnost ověří naplnění bezpečnostních požadavků vyžadovaných bezpečnostní akreditační autoritou cizí moci, předá prohlášení podle odstavce 1 bezpečnostní akreditační autoritě cizí moci.\n(3) Na základě rozhodnutí bezpečnostní akreditační autority cizí moci o akreditaci informačního systému cizí moci Národní úřad pro kybernetickou a informační bezpečnost informační systém cizí moci akredituje.\n(4) Pokud má být informační systém cizí moci používán i bezprostředně po uplynutí doby platnosti jeho akreditace, požádá jeho provozovatel o opakovanou akreditaci informačního systému podle odstavce 1 obdobně nejpozději 6 měsíců před koncem platnosti akreditace informačního systému cizí moci."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA I - Informační systém > Díl 4 - Podmínky bezpečného provozování informačního systému",
+      "content": "(1) Podmínky bezpečného provozování informačního systému spočívají v\na) dodržování bezpečnostních opatření,\nb) dodržování podmínek provozování informačního systému stanovených v certifikační zprávě a\nc) informování Národního úřadu pro kybernetickou a informační bezpečnost o významné změně týkající se provozu informačního systému, která by mohla mít vliv na informační bezpečnost.\n(2) Pokud v rámci provozu informačního systému dojde ke změně podle odstavce 1 písmene c) nebo ke změně podle § 47 písm. c), musí být taková změna bez zbytečného odkladu zohledněna v bezpečnostní dokumentaci, zejména v analýze rizik."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52 Náležitosti projektu bezpečnosti",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA II - Komunikační systém",
+      "content": "(1) Projekt bezpečnosti obsahuje bezpečnostní dokumentaci, a to alespoň v rozsahu § 36 odst. 2 písm. a) až c) a odst. 3 písm. a).\n(2) Popis bezpečnosti podle § 39 obsahuje pro komunikační systém popis\na) způsobu, jakým bude zajištěn výkon kryptografické ochrany v souladu s certifikační zprávou kryptografického prostředku,\nb) bezpečnostní správy kryptografické ochrany v souladu s certifikační zprávou kryptografického prostředku a\nc) bezpečnostních opatření a zásad provozních postupů, jejichž naplňováním bude zajištěna informační bezpečnost.\n(3) Bezpečnostní směrnice jednotlivých rolí obsahují pro komunikační systém\na) požadavky uvedené v § 41 a\nb) popis konkrétních provozních postupů pro zajištění bezpečnostní správy komunikačního systému a výkonu kryptografické ochrany.\n(4) Popis bezpečnosti komunikačního systému, který pro zajištění komunikace a řízení používá prvky výpočetní techniky, musí obsahovat popis komunikační infrastruktury a popis informační infrastruktury."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53 Žádost o schválení projektu bezpečnosti",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA II - Komunikační systém",
+      "content": "(1) Žádost o schválení projektu bezpečnosti obsahuje\na) jméno a příjmení kontaktní osoby žadatele a kontaktní spojení na ni,\nb) číslo osvědčení podnikatele s uvedením příslušného stupně utajení nebo kopii platného prohlášení podnikatele, je-li provozovatelem komunikačního systému podnikatel,\nc) název komunikačního systému a popis jeho účelu a rozsahu včetně stanovení jeho běžných provozních funkcí,\nd) údaj o stupni utajení utajovaných informací, se kterými bude komunikační systém nakládat,\ne) identifikační údaje dodavatele jednotlivých komponent komunikačního systému majících vliv na bezpečnost komunikačního systému a číslo osvědčení podnikatele s uvedením příslušného stupně utajení nebo kopii platného prohlášení podnikatele, je-li dodavatel podnikatelem, a\nf) projekt bezpečnosti.\n(2) Ke schválení projektu bezpečnosti komunikačního systému nakládajícího s utajovanými informacemi stupně utajení Důvěrné nebo vyššího žadatel předloží podklady nezbytné k ověření způsobilosti elektrických nebo elektronických zařízení, které jsou součástí komunikačního systému, k ochraně před únikem utajovaných informací kompromitujícím vyzařováním.\n(3) Pokud žadatel poskytuje jednotlivé části projektu bezpečnosti v průběhu jeho schvalování postupně, musí je předkládat v pořadí podle § 36.\n(4) Zpravodajská služba uvádí v žádosti podle odstavce 1 údaje podle písmen c) až f) pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu. Zpravodajská služba předkládá podklady podle odstavce 2 pouze v rozsahu, který neohrozí plnění jejích úkolů podle jiného právního předpisu."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54 Způsob a podmínky schvalování projektu bezpečnosti",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA II - Komunikační systém",
+      "content": "(1) V rámci schvalování projektu bezpečnosti posuzuje Národní úřad pro kybernetickou a informační bezpečnost\na) vhodnost navrženého souboru bezpečnostních opatření pro dosažení informační bezpečnosti komunikačního systému podle § 3,\nb) správnost a úplnost bezpečnostní dokumentace a\nc) správnost realizace navrženého souboru bezpečnostních opatření v daném komunikačním systému a její soulad s bezpečnostní dokumentací.\n(2) Schvalování projektu bezpečnosti se provádí posouzením podkladů předložených provozovatelem komunikačního systému a posouzením správnosti realizace projektu bezpečnosti Národním úřadem pro kybernetickou a informační bezpečnost v provozním prostředí schvalovaného komunikačního systému.\n(3) Schvalování projektu bezpečnosti lze provádět průběžně po ukončení jednotlivých fází výstavby komunikačního systému nebo až po jejím celkovém dokončení, podle požadavků žadatele, zažádá-li o to v žádosti o schválení projektu bezpečnosti podle § 53.\n(4) Zjistí-li Národní úřad pro kybernetickou a informační bezpečnost při schvalování projektu bezpečnosti způsobilost hodnoceného komunikačního systému k nakládání s utajovanými informacemi, vydá rozhodnutí o schválení projektu bezpečnosti.\n(5) Dojde-li v komunikačním systému ke změnám, které mají vliv na informační bezpečnost komunikačního systému, provádí se doplňující posouzení projektu bezpečnosti v rozsahu potřebném k posouzení provedených změn. Při provádění doplňujícího posouzení projektu bezpečnosti se postupuje obdobně jako při schvalování projektu bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "ČÁST ČTVRTÁ - CERTIFIKACE A AKREDITACE INFORMAČNÍHO SYSTÉMU A SCHVALOVÁNÍ PROJEKTU BEZPEČNOSTI > HLAVA III - Posuzování modulů",
+      "content": "(1) V rámci certifikace informačního systému nebo schvalování projektu bezpečnosti lze rozdělit existující informační nebo komunikační systém na moduly, které mohou být bez dalšího posuzování obdobně použity i v jiných informačních nebo komunikačních systémech podle § 46 nebo 54 při zachování stejné úrovně informační bezpečnosti.\n(2) Modul je funkční celek tvořený\na) softwarovým vybavením, zejména elektronickým systémem spisové služby, sloužícím k evidenci utajovaných informací,\nb) hardwarovým vybavením, zejména zástavbou kryptografického prostředku v systému, nebo\nc) kombinací softwarového a hardwarového vybavení, zejména bezpečnostním oddělovacím blokem,\njestliže má jasně definované hranice určující způsob jeho začlenění do systému.\n(3) Národní úřad pro kybernetickou a informační bezpečnost při posuzování jiného systému podle § 46 odst. 3 a § 54 odst. 1 a 2 nehodnotí modul, jestliže modul\na) byl posouzen a použit v již existujícím systému podle § 46 nebo 54 a\nb) má být obdobně použit v jiném systému ve stejné konfiguraci a za stejných podmínek jako v jiném již existujícím systému podle písmene a)."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56 Podmínky bezpečného provozování samostatného elektronického zařízení",
+      "chapter": "ČÁST PÁTÁ - SAMOSTATNÁ ELEKTRONICKÁ ZAŘÍZENÍ",
+      "content": "(1) Podmínkou bezpečného provozování samostatného elektronického zařízení podle § 36 odst. 4 zákona je zpracování bezpečnostní provozní směrnice obsahující bezpečnostní dokumentaci alespoň v rozsahu § 36 odst. 2 písm. c) a odst. 3 písm. a).\n(2) Popis bezpečnosti systému podle § 36 odst. 2 písm. c) stanoví způsob bezpečného provozování s ohledem na funkci samostatného elektronického zařízení a způsob ukládání zpracovávané utajované informace a identifikuje samostatné elektronické zařízení podle funkce jako\na) zobrazovací, které zobrazuje utajované informace,\nb) zaznamenávací, které zaznamenává utajované informace v různých formátech, zejména psací stroj s pamětí, fotoaparát, kamera nebo záznamník,\nc) kopírovací a převodní, které kopíruje nebo převádí utajované informace z jednoho formátu do druhého, a\nd) kombinované, které kombinuje funkce uvedené v písmenech a) až c).\n(3) Obsahuje-li samostatné elektronické zařízení nosič informací, pak popis bezpečnosti systému obsahuje i jeho identifikaci podle způsobu zapojení do zařízení podle § 13 odst. 3.\n(4) Pokud provozovatel samostatného elektronického zařízení provozuje více samostatných elektronických zařízení stejného typu podle funkce a způsobu integrace nosiče informací, pak může zpracovat jednu bezpečnostní provozní směrnici pro daný typ samostatného elektronického zařízení."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "ČÁST PÁTÁ - SAMOSTATNÁ ELEKTRONICKÁ ZAŘÍZENÍ",
+      "content": "Oznámení o provozovaném samostatném elektronickém zařízení podle § 36 odst. 2 písm. b) zákona obsahuje\na) identifikační údaje provozovatele samostatného elektronického zařízení a\nb) seznam provozovaných samostatných elektronických zařízení obsahující pro každé provozované samostatné elektronické zařízení\n1. typ samostatného elektronického zařízení podle § 56 odst. 2 a 3 a\n2. stupeň utajení utajovaných informací, pro něž je určeno."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58 Přechodná ustanovení",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Bezpečnostní požadavky na\na) informační systémy certifikované před účinností této vyhlášky a\nb) komunikační systémy, jejichž projekt bezpečnosti byl schválen přede dnem nabytí účinnosti této vyhlášky,\nse posuzují podle dosavadních právních předpisů.\n(2) Požadavky na ochranu utajovaných informací v elektronické podobě v samostatných elektronických zařízeních, která byla uvedena do provozu přede dnem nabytí účinnosti této vyhlášky, se řídí dosavadními právními předpisy po dobu 1 roku ode dne nabytí účinnosti této vyhlášky.\n(3) Uživatelé, kteří nesplňují podmínky pro přístup fyzické osoby k utajované informaci podle § 17 odst. 2, musí tuto podmínku splnit nejpozději do 12 měsíců ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59 Zrušovací ustanovení",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušují se:\n1. Vyhláška č. 523/2005 Sb., o bezpečnosti informačních a komunikačních systémů a dalších elektronických zařízení nakládajících s utajovanými informacemi a o certifikaci stínicích komor.\n2. Vyhláška č. 453/2011 Sb., kterou se mění vyhláška č. 523/2005 Sb., o bezpečnosti informačních a komunikačních systémů a dalších elektronických zařízení nakládajících s utajovanými informacemi a o certifikaci stínicích komor."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60",
+      "chapter": "ČÁST SEDMÁ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.\nPříloha č. 1\nFyzická bezpečnost\nPro potřeby výpočtu bodových hodnot zabezpečených oblastí, v nichž se nachází části informačního systému, komunikačního systému nebo samostatného elektronického zařízení obsahující v sobě nosiče informací, které pro uchování informace nepotřebují trvalé připojení ke zdroji elektrické energie, se použijí následující hodnoty parametru S1.\nS1\nTabulka č. 1: Bezpečnostní ekvivalent parametru S1\nHodnota S1Popis autentizace subjektu systému\n0bez autentizace*\n1identifikace jménem a autentizace heslem a systém ani data nejsou šifrovaná\n2identifikace jménem a autentizace heslem zaslaným jiným kanálem a systém ani data nejsou šifrovaná\n2autentizace předmětem s osobním identifikačním číslem (PIN) a systém ani data nejsou šifrovaná\n2autentizace pomocí biometrických charakteristik a systém ani data nejsou šifrovaná\n2identifikace jménem a autentizace heslem a celý systém nebo data jsou šifrovaná**\n3identifikace jménem a autentizace heslem zaslaným jiným kanálem a celý systém nebo data jsou šifrovaná**\n3autentizace předmětem s osobním identifikačním číslem (PIN) a celý systém nebo data jsou šifrovaná**\n3autentizace pomocí biometrických charakteristik a celý systém nebo data jsou šifrovaná**\n4autentizace předmětem s šifrovaným*** obsahem s osobním identifikačním číslem (PIN) a systém ani data nejsou šifrovaná\n4autentizace předmětem s šifrovaným*** obsahem s osobním identifikačním číslem (PIN) a přenosem a systém ani data nejsou šifrovaná\n5autentizace předmětem s šifrovaným*** obsahem s osobním identifikačním číslem (PIN) a celý systém nebo data jsou šifrovaná**\n5autentizace předmětem s šifrovaným*** obsahem s osobním identifikačním číslem (PIN) a přenosem a celý systém nebo data jsou šifrovaná**\n* pouze pro samostatná elektronická zařízení\n** způsob a mechanismus šifrování dat vyplývá z projektové bezpečnostní dokumentace\n*** kryptografické mechanismy pro šifrování předmětu vyplývají z projektové bezpečnostní dokumentace\nPříloha č. 2\nVzor certifikátu\n1) Rozhodnutí Komise (EU, Euratom) 2021/259 ze dne 10. února 2021, kterým se stanoví prováděcí pravidla pro průmyslovou bezpečnost s ohledem na utajované granty.\nRozhodnutí Rady (EU) 2013/488/EU ze dne 23. září 2013 o bezpečnostních pravidlech na ochranu utajovaných informací EU, v platném znění.\n2) Rozhodnutí Rady 2013/488/EU.\n3) Dohoda mezi smluvními stranami Severoatlantické smlouvy o bezpečnosti informací, vyhlášená pod č. 75/2001 Sb. m. s."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "objektem informačního systému",
+      "definition": "komunikačního systému nebo samostatného elektronického zařízení (dále jen „systém“) pasivní prvek, který obsahuje nebo přijímá informaci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "subjektem systému aktivní prvek",
+      "definition": "který způsobuje předání informace mezi objekty systému nebo změnu stavu systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "autorizací subjektu systému proces",
+      "definition": "udělení oprávnění subjektu systému k provádění určených operací s určenými objekty systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "informační bezpečností soubor",
+      "definition": "uspořádání a řízení bezpečnostních opatření, jejichž cílem je zajistit důvěrnost, integritu a dostupnost aktiv systému, a odpovědnost subjektů systému za jejich činnost v systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "bezpečnostní událostí událost",
+      "definition": "která může způsobit bezpečnostní incident",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "uživatelem",
+      "definition": "fyzická osoba jako subjekt systému v určité roli",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "rolí",
+      "definition": "souhrn určených činností a potřebných oprávnění",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nosičem informací",
+      "definition": "zařízení s energeticky nezávislou pamětí, které je určeno výhradně pro použití v provozu systému jako jeho součást, a které není určeno k evidenci nebo doručení adresátovi jako utajovaný dokument v nelistinné podobě podle právního předpisu upravujícího administrativní bezpečnost",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "řízením přístupu prostředky pro",
+      "definition": "omezení přístupu subjektů systému k objektům systému, zajišťující, že přístup k nim získá jen oprávněný subjekt systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Privilegovaným uživatelem",
+      "definition": "role uživatele s oprávněními, která mu kromě základního přístupu k poskytovaným službám umožňují i provádění provozní nebo bezpečnostní správy, zejména role pracovníka provozní nebo bezpečnostní správy",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "Koncovým uživatelem",
+      "definition": "role uživatele s oprávněními, která mu umožňují základní přístup k poskytovaným službám a nakládání s utajovanými informacemi",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "a) malého rozsahu, kterým",
+      "definition": "systém mající nejvýše 30 uživatelů, nebo",
+      "source_provision": "§ 17"
+    },
+    {
+      "term": "zranitelností slabé",
+      "definition": "místo aktiva systému, které může být využito hrozbou",
+      "source_provision": "§ 38"
+    },
+    {
+      "term": "c) údaje o osvědčení fyzické osoby, bylo-li uživateli vydáno, kterými",
+      "definition": "číslo osvědčení, datum vydání, doba platnosti osvědčení a nejvyšší stupeň utajení utajovaných informací, ke kterým osvědčení umožňuje přístup",
+      "source_provision": "§ 43"
+    },
+    {
+      "term": "d) údaje o osvědčení fyzické osoby pro cizí moc, bylo-li uživateli vydáno, kterými",
+      "definition": "číslo osvědčení, datum vydání, doba platnosti osvědčení a nejvyšší stupeň utajení utajovaných informací, ke kterým osvědčení umožňuje přístup, a",
+      "source_provision": "§ 43"
+    },
+    {
+      "term": "b) jméno a příjmení kontaktní osoby žadatele a kontaktní spojení, kterým",
+      "definition": "alespoň její telefonní číslo a adresa elektronické pošty",
+      "source_provision": "§ 45"
+    }
+  ]
+}

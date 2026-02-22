@@ -1,0 +1,21 @@
+{
+  "id": "cz:ul1:1080/1946",
+  "type": "statute",
+  "title": "1080/1946 Ú. l. I, Vyhláška ministra vnitra, kterou se určují obce, v nichž se voličům vydávají legitimační lístky.",
+  "title_en": "",
+  "short_name": "1080/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-25",
+  "in_force_date": "1946-04-25",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1080",
+  "description": "Vyhláška ministra vnitra, kterou se určují obce, v nichž se voličům vydávají legitimační lístky.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Podle § 22, odst. 1 zákona ze dne 11. dubna 1946, č. 67 Sb., o volbě ústavodárného Národního shromáždění, nařizuji, aby pro volbu ústavodárného Národního shromáždění místní národní výbor vydal každému voliči zároveň s hlasovacími lístky legitimační lístek v těchto obcích:\na) ve všech obcích s více než 1.000 voličů, zapsaných ve voličských seznamech,\nb) v těch obcích, jež byly zvláštním výměrem připojeny k jiným obcím jako místu volebnímu."
+    }
+  ],
+  "definitions": []
+}

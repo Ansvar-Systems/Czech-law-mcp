@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:53/1945",
+  "type": "statute",
+  "title": "53/1945 Ú. l., Vyhláška ministra průmyslu o záchranných a obnovovacích pracích v průmyslu.",
+  "title_en": "",
+  "short_name": "53/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-28",
+  "in_force_date": "1945-06-28",
+  "url": "https://www.e-sbirka.cz/ul0/1945/53",
+  "description": "Vyhláška ministra průmyslu o záchranných a obnovovacích pracích v průmyslu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Všechny průmyslové podniky poškozené válkou jsou povinny provésti neprodleně veškeré práce, které jsou nutné k tomu, aby podstata závodu (budovy a stroje) nepropadla zkáze (záchranné práce).\n(2) Naproti tomu práce na budovách a strojním zařízení podniku, které mají ráz obnovy a rekonstrukce, mohou býti provedeny jen se schválením ministerstva průmyslu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Přestupky této vyhlášky se trestají podle § 9 vládního nařízení ze dne 26. června 1943, č. 175 Sb., o oběhu zboží."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

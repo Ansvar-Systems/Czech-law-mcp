@@ -1,0 +1,807 @@
+{
+  "id": "cz:ul1:442/1945",
+  "type": "statute",
+  "title": "442/1945 Ú. l. I, Vyhláška ministra průmyslu o znárodnění podniků v zemi České a Moravskoslezské, provozovaných podle horního zákona.",
+  "title_en": "",
+  "short_name": "442/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-01",
+  "in_force_date": "1948-04-24",
+  "url": "https://www.e-sbirka.cz/ul1/1945/442",
+  "description": "Vyhláška ministra průmyslu o znárodnění podniků v zemi České a Moravskoslezské, provozovaných podle horního zákona.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Apollo, rafineria minerálnych olejov úč. spol., Bratislava;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. František Baier, Trnovany;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Báňská a hutní společnost, Karvinná-Třinec, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Barbora, hnědouhelné těžařstvo (Barbara-Braunkohlen-Gewerkschaft), Věšťany;"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Břetislav Barták, Koryčany;"
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "content": "6. František Bařtipán, Hředle;"
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "content": "7. Baťa, a. s., Zlín;"
+    },
+    {
+      "provision_ref": "Bod 8",
+      "section": "8",
+      "title": "Bod 8",
+      "content": "8. Karel Maria Brand a spol., Brno;"
+    },
+    {
+      "provision_ref": "Bod 9",
+      "section": "9",
+      "title": "Bod 9",
+      "content": "9. Franz Brislinger & Co., se sídlem v Březině, soud. okres Mor. Třebová;"
+    },
+    {
+      "provision_ref": "Bod 10",
+      "section": "10",
+      "title": "Bod 10",
+      "content": "10. Břeclavská rafinerie cukru, a. s., Všetuly;"
+    },
+    {
+      "provision_ref": "Bod 11",
+      "section": "11",
+      "title": "Bod 11",
+      "content": "11. Akciové cihelny a chemické podniky, a. s., Hodonín;"
+    },
+    {
+      "provision_ref": "Bod 12",
+      "section": "12",
+      "title": "Bod 12",
+      "content": "12. Cínové doly v severozápadních Čechách, společnost s r. o., (Zinnwalder Bergbau, Sudetenland G. m. b. H.), Sauersack;"
+    },
+    {
+      "provision_ref": "Bod 13",
+      "section": "13",
+      "title": "Bod 13",
+      "content": "13. Cinvaldské horní těžařstvo (Gewerkschaft Zinnwalder Bergbau), Altenberg;"
+    },
+    {
+      "provision_ref": "Bod 14",
+      "section": "14",
+      "title": "Bod 14",
+      "content": "14. Porzellanfabrik Concordia, Zweigniederlassung der Melitta-Werke Bentz & Sohn, Minden i. W., Lesov u Karlových Varů;"
+    },
+    {
+      "provision_ref": "Bod 15",
+      "section": "15",
+      "title": "Bod 15",
+      "content": "15. Alois Černý, Roudníček;"
+    },
+    {
+      "provision_ref": "Bod 16",
+      "section": "16",
+      "title": "Bod 16",
+      "content": "16. Česká obchodní společnost, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 17",
+      "section": "17",
+      "title": "Bod 17",
+      "content": "17. České montanní podniky, a. s., Milešov nad Vlt.;"
+    },
+    {
+      "provision_ref": "Bod 18",
+      "section": "18",
+      "title": "Bod 18",
+      "content": "18. Deuton Bergbaugesellschaft, Gewerksehaft, Praha;"
+    },
+    {
+      "provision_ref": "Bod 19",
+      "section": "19",
+      "title": "Bod 19",
+      "content": "19. Deutsche Erdöl, a. s., Berlín,"
+    },
+    {
+      "provision_ref": "Bod 20",
+      "section": "20",
+      "title": "Bod 20",
+      "content": "20. Dolové a průmyslové závody akc. spol., dř. J. D. Starck Montan-und Industriewerke A. G. vorm. Joh. Dav. Starck), Dolní Rychnov u Falknova;"
+    },
+    {
+      "provision_ref": "Bod 21",
+      "section": "21",
+      "title": "Bod 21",
+      "content": "21. J. H. Dudek Söhne Zweigniederlassung Settens, se sídlem v Drážďanech — pokud jde o závody a majetek na území československého státu;"
+    },
+    {
+      "provision_ref": "Bod 22",
+      "section": "22",
+      "title": "Bod 22",
+      "content": "22. Duchcovsko-podmokelská dráha, a. s. (Dux-Boden-bacher Eisenbahn), Karlovy Vary;"
+    },
+    {
+      "provision_ref": "Bod 23",
+      "section": "23",
+      "title": "Bod 23",
+      "content": "23. Uhelné závody Emílie, a. s, (Kohlenwerke Emilien-Schacht), Košťany u Teplic-Šanova;"
+    },
+    {
+      "provision_ref": "Bod 24",
+      "section": "24",
+      "title": "Bod 24",
+      "content": "24. Kurt Endisch, vápenky a cihelny, důl Václav, Lahošť-Duchcov (Kurt Endisch, Kalkwerke und Maschinenziegeleien, Wenzelzeche, Loosch-Dux) se sídlem v Lahošti a Duchcově;"
+    },
+    {
+      "provision_ref": "Bod 25",
+      "section": "25",
+      "title": "Bod 25",
+      "content": "25. Dr. K. Engliš ml., Velké Tresné;"
+    },
+    {
+      "provision_ref": "Bod 26",
+      "section": "26",
+      "title": "Bod 26",
+      "content": "26. Fantovy závody, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 27",
+      "section": "27",
+      "title": "Bod 27",
+      "content": "27. F. Frič a spol. se sídlem v Plzni, Kramářovy sady č. 3;"
+    },
+    {
+      "provision_ref": "Bod 28",
+      "section": "28",
+      "title": "Bod 28",
+      "content": "28. Emil Gaube a pozůstalost po Františku Rabem, Trnovany;"
+    },
+    {
+      "provision_ref": "Bod 29",
+      "section": "29",
+      "title": "Bod 29",
+      "content": "29. Arwed Grohmann a Hansjörg Grohmann, Teplice-Šanov;"
+    },
+    {
+      "provision_ref": "Bod 30",
+      "section": "30",
+      "title": "Bod 30",
+      "content": "30. Grohmannovy uhelné závody (Grohmann'sche Kohlenwerke), kom. spol., Dřínov u Jirkova;"
+    },
+    {
+      "provision_ref": "Bod 31",
+      "section": "31",
+      "title": "Bod 31",
+      "content": "31. Josef Herberstein, Libochovice;"
+    },
+    {
+      "provision_ref": "Bod 32",
+      "section": "32",
+      "title": "Bod 32",
+      "content": "32. Richard Herold, Chomutov;"
+    },
+    {
+      "provision_ref": "Bod 33",
+      "section": "33",
+      "title": "Bod 33",
+      "content": "33. Spojené Hirschovy závody, maj. Dědicové Jiřího Hirsche (Vereinigte Hirsch'sche Kohlenwerke Inh. Georg Hirsch’s Erben), Teplice-Šanov;"
+    },
+    {
+      "provision_ref": "Bod 34",
+      "section": "34",
+      "title": "Bod 34",
+      "content": "34. Adolf Holý a spol. (J. Valeš, K. Wittner a K. Urbánek), Kroučová, pošta Řevničov;"
+    },
+    {
+      "provision_ref": "Bod 35",
+      "section": "35",
+      "title": "Bod 35",
+      "content": "35. JUDr. Vojtěch Holý a spol. (Ant. a Marie Kalasovi), Chraštovice;"
+    },
+    {
+      "provision_ref": "Bod 36",
+      "section": "36",
+      "title": "Bod 36",
+      "content": "36. Hornická uhelná akciová společnost, Teplice-Šanov;"
+    },
+    {
+      "provision_ref": "Bod 37",
+      "section": "37",
+      "title": "Bod 37",
+      "content": "37. Hornické společenstvo v Miloticích u Kyjova;"
+    },
+    {
+      "provision_ref": "Bod 38",
+      "section": "38",
+      "title": "Bod 38",
+      "content": "38. Spojené hornoslezské hutní závody, a. s. (Oberhütten Vereinigte Oberschlesische Hüttenwerke), Hlivice;"
+    },
+    {
+      "provision_ref": "Bod 39",
+      "section": "39",
+      "title": "Bod 39",
+      "content": "39. Huť „Lesní brána“, a. s. pro průmysl sklářský (Waldtor-Hütte, Glasindustrie) v Malém Újezdě;"
+    },
+    {
+      "provision_ref": "Bod 40",
+      "section": "40",
+      "title": "Bod 40",
+      "content": "40. Chebská důlní akciová společnost (Egerländer Bergbau), Königswerth u Falknova;"
+    },
+    {
+      "provision_ref": "Bod 41",
+      "section": "41",
+      "title": "Bod 41",
+      "content": "41. Chebská rudná společnost s r. o. (Egerländer Erzbergbaugesellschaft m. b. H.), Horní Slavkov;"
+    },
+    {
+      "provision_ref": "Bod 42",
+      "section": "42",
+      "title": "Bod 42",
+      "content": "42. Chemické závody Ústí nad Labem — Falknov, společnost s r. o. (Chemische Werke Aussig — Falkenau), Ústí n. L.;"
+    },
+    {
+      "provision_ref": "Bod 43",
+      "section": "43",
+      "title": "Bod 43",
+      "content": "43. Christinen, uhelné těžařstvo (Christinen-Kohlengewerkschaft), Ústí n. L.;"
+    },
+    {
+      "provision_ref": "Bod 44",
+      "section": "44",
+      "title": "Bod 44",
+      "content": "44. Ant. Jaroslav Chroust, Roudníček;"
+    },
+    {
+      "provision_ref": "Bod 45",
+      "section": "45",
+      "title": "Bod 45",
+      "content": "45. Chvalovické těžařstvo, České Budějovice;"
+    },
+    {
+      "provision_ref": "Bod 46",
+      "section": "46",
+      "title": "Bod 46",
+      "content": "46. Hedvika Illingrová, Trnovany;"
+    },
+    {
+      "provision_ref": "Bod 47",
+      "section": "47",
+      "title": "Bod 47",
+      "content": "47. Jihočeské elektrárny, a. s., České Budějovice;"
+    },
+    {
+      "provision_ref": "Bod 41",
+      "section": "41",
+      "title": "Bod 41",
+      "content": "41. Vždy věrná metropolitní kapitula u sv. Víta, Praha;"
+    },
+    {
+      "provision_ref": "Bod 49",
+      "section": "49",
+      "title": "Bod 49",
+      "content": "49. Leontin Kaucký (pozůstalost) a František Cajthaml, Vejvanov, pošta Radnice;"
+    },
+    {
+      "provision_ref": "Bod 50",
+      "section": "50",
+      "title": "Bod 50",
+      "content": "50. Josef Kauer, Nýřany;"
+    },
+    {
+      "provision_ref": "Bod 51",
+      "section": "51",
+      "title": "Bod 51",
+      "content": "51. Josef Knedlhans, Stupno, pošta Břasy;"
+    },
+    {
+      "provision_ref": "Bod 52",
+      "section": "52",
+      "title": "Bod 52",
+      "content": "52. Kohle-Oel-Union von Busse, kom. spol. v Berlíně- Wilmersdorf;"
+    },
+    {
+      "provision_ref": "Bod 53",
+      "section": "53",
+      "title": "Bod 53",
+      "content": "53. Bohumil Kolář, Mínice u Kralup;"
+    },
+    {
+      "provision_ref": "Bod 54",
+      "section": "54",
+      "title": "Bod 54",
+      "content": "54. Kontinentálná priemyslová a obchodná úč. spol., Bratislava;"
+    },
+    {
+      "provision_ref": "Bod 55",
+      "section": "55",
+      "title": "Bod 55",
+      "content": "55. František Kreysa, Staňkov u Plzně;"
+    },
+    {
+      "provision_ref": "Bod 56",
+      "section": "56",
+      "title": "Bod 56",
+      "content": "56. Václav Kučera a Olga Voglová, Plzeň;"
+    },
+    {
+      "provision_ref": "Bod 57",
+      "section": "57",
+      "title": "Bod 57",
+      "content": "57. Lánsko-rakovnická kamenouhelná akciová společnost, Praha;"
+    },
+    {
+      "provision_ref": "Bod 58",
+      "section": "58",
+      "title": "Bod 58",
+      "content": "58. Larisch-Mönnichovy kamenouhelné závody a koksovna, Karvinná;"
+    },
+    {
+      "provision_ref": "Bod 59",
+      "section": "59",
+      "title": "Bod 59",
+      "content": "59. Leipold a Schnurrer, Weiden, Oberpfalz;"
+    },
+    {
+      "provision_ref": "Bod 60",
+      "section": "60",
+      "title": "Bod 60",
+      "content": "60. Fredo von Lekow, Hrbovice;"
+    },
+    {
+      "provision_ref": "Bod 61",
+      "section": "61",
+      "title": "Bod 61",
+      "content": "61. Libavské textilní závody Fischer a spol. (Liebauthaler Textilwerke Fischer & Co.), Kynšperk;"
+    },
+    {
+      "provision_ref": "Bod 62",
+      "section": "62",
+      "title": "Bod 62",
+      "content": "62. Liechtensteinské uhelné a hlinné doly, společnost s r. o. (Fürst Liechtensteinsche Kohlen- und Tonwerke, Gesellschaft m. b. H.), se sídlem v Mladějově;"
+    },
+    {
+      "provision_ref": "Bod 63",
+      "section": "63",
+      "title": "Bod 63",
+      "content": "63. Dědicové Ferdinanda Zdenko Lobkowicze, Bílina;"
+    },
+    {
+      "provision_ref": "Bod 64",
+      "section": "64",
+      "title": "Bod 64",
+      "content": "64. Lubna-rakovnické kamenouhelné doly, společnost s r. o., Lubná u Rakovníka;"
+    },
+    {
+      "provision_ref": "Bod 65",
+      "section": "65",
+      "title": "Bod 65",
+      "content": "65. Karel Meissner, Kadaň;"
+    },
+    {
+      "provision_ref": "Bod 66",
+      "section": "66",
+      "title": "Bod 66",
+      "content": "66. František Mestek, Lesov u Karlových Varů;"
+    },
+    {
+      "provision_ref": "Bod 67",
+      "section": "67",
+      "title": "Bod 67",
+      "content": "67. Methan, těžební společnost zemního plynu a nafty, společnost s r. o., Vacenovice, pošta Ratiškovice;"
+    },
+    {
+      "provision_ref": "Bod 68",
+      "section": "68",
+      "title": "Bod 68",
+      "content": "68. Lorenc a Gustav Moder, Počerny;"
+    },
+    {
+      "provision_ref": "Bod 69",
+      "section": "69",
+      "title": "Bod 69",
+      "content": "69. Bratří Mráčkové, keramické závody, a. s., Třemošná u Plzně;"
+    },
+    {
+      "provision_ref": "Bod 70",
+      "section": "70",
+      "title": "Bod 70",
+      "content": "70. Neštěmické Solvayovy závody, Solvay a spol. (Nestomitzer Solvay-Werke, Solvay und Cie.), kom. spol., Neštěmice;"
+    },
+    {
+      "provision_ref": "Bod 71",
+      "section": "71",
+      "title": "Bod 71",
+      "content": "71. Nýřanské kamenouhelné těžařstvo (Nürschaner Steinkohlengewerkschaft), Kamenný Újezd;"
+    },
+    {
+      "provision_ref": "Bod 72",
+      "section": "72",
+      "title": "Bod 72",
+      "content": "72. Kamenouhelné závody Orlová-Lazy, a. s., Orlová;"
+    },
+    {
+      "provision_ref": "Bod 73",
+      "section": "73",
+      "title": "Bod 73",
+      "content": "73. František Pelc a spol. (Berta Englová), Praha;"
+    },
+    {
+      "provision_ref": "Bod 74",
+      "section": "74",
+      "title": "Bod 74",
+      "content": "74. Karel Peller, Horní Sekyřany, pošta Heřmanova Huť;"
+    },
+    {
+      "provision_ref": "Bod 75",
+      "section": "75",
+      "title": "Bod 75",
+      "content": "75. Poldina huť, akc. spol., Praha;"
+    },
+    {
+      "provision_ref": "Bod 76",
+      "section": "76",
+      "title": "Bod 76",
+      "content": "76. Hnědouhelný závod Pomoc Boží, těžařstvo, Dubňany u Hodonína;"
+    },
+    {
+      "provision_ref": "Bod 77",
+      "section": "77",
+      "title": "Bod 77",
+      "content": "77. Pražská železářská společnost, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 78",
+      "section": "78",
+      "title": "Bod 78",
+      "content": "78. Pražský uhelný spolek, a. s. Praha;"
+    },
+    {
+      "provision_ref": "Bod 79",
+      "section": "79",
+      "title": "Bod 79",
+      "content": "79. Max Richter, Trnovany;"
+    },
+    {
+      "provision_ref": "Bod 80",
+      "section": "80",
+      "title": "Bod 80",
+      "content": "80. Werner Rinkes, Falknov nad Ohří;"
+    },
+    {
+      "provision_ref": "Bod 81",
+      "section": "81",
+      "title": "Bod 81",
+      "content": "81. Těžařstvo Ropa, Žatčany;"
+    },
+    {
+      "provision_ref": "Bod 82",
+      "section": "82",
+      "title": "Bod 82",
+      "content": "82. Rosická báňská společnost „Láska Boží“, a. s., Zastávka u Brna;"
+    },
+    {
+      "provision_ref": "Bod 83",
+      "section": "83",
+      "title": "Bod 83",
+      "content": "83. Kom. společnost Julius Rütgers a Thun-Hohenstein (Kommandit-Ges. Julius Rütgers & Thun Hohenstein), Karlovy Vary;"
+    },
+    {
+      "provision_ref": "Bod 84",
+      "section": "84",
+      "title": "Bod 84",
+      "content": "84. Hugo Salm-Reifferscheidt, Rájec;"
+    },
+    {
+      "provision_ref": "Bod 85",
+      "section": "85",
+      "title": "Bod 85",
+      "content": "85. Sasko-rudná báňská akciová společnost (Sachsenerz-Bergwerks-A. G.), Freiberg;"
+    },
+    {
+      "provision_ref": "Bod 86",
+      "section": "86",
+      "title": "Bod 86",
+      "content": "86. Sedlecké kaolinové závody, a. s. (Zettlitzer Kaolinwerke), Sedlec u Karlových Varů;"
+    },
+    {
+      "provision_ref": "Bod 87",
+      "section": "87",
+      "title": "Bod 87",
+      "content": "87. Severní dráha Ferdinandova, a. s., Mor. Ostrava;"
+    },
+    {
+      "provision_ref": "Bod 88",
+      "section": "88",
+      "title": "Bod 88",
+      "content": "88. Severočeské. elektrárny, a. s. (Nordböhmische Elektrizitätswerke), Podmokly;"
+    },
+    {
+      "provision_ref": "Bod 89",
+      "section": "89",
+      "title": "Bod 89",
+      "content": "89. Severočeské hnědouhelné doly, a. s. (Sudeteuländische Bergbau A. G.), Most;"
+    },
+    {
+      "provision_ref": "Bod 90",
+      "section": "90",
+      "title": "Bod 90",
+      "content": "90. Dr. Jan Schenkenbach, Serksdorf;"
+    },
+    {
+      "provision_ref": "Bod 91",
+      "section": "91",
+      "title": "Bod 91",
+      "content": "91. JUDr. Adolf Schwarzenberg, Hluboká n. Vlt.,;"
+    },
+    {
+      "provision_ref": "Bod 92",
+      "section": "92",
+      "title": "Bod 92",
+      "content": "92. Josef Sojek, Praha;"
+    },
+    {
+      "provision_ref": "Bod 93",
+      "section": "93",
+      "title": "Bod 93",
+      "content": "93. Karel Sperling, Praha;"
+    },
+    {
+      "provision_ref": "Bod 94",
+      "section": "94",
+      "title": "Bod 94",
+      "content": "94. Společnost pro zužitkování uhlí O. Sprinzig a spol., kom. spol., dř. Betty Sacherová v Lokti a Dr. Ing. H. Apfelbeck v Karlových Varech (Kohlenverwertungsgesellsehaft O. Sprinzig & Co. K. G. vorher Betty Sacher, Ellbogen und Dr. Ing. H. Apfelbeck), Karlovy Vary;"
+    },
+    {
+      "provision_ref": "Bod 95",
+      "section": "95",
+      "title": "Bod 95",
+      "content": "95. Steinberg Naphta Aktiengesellschaft, Zweigniederlassung Göding se sídlem ve Vídni — pokud jde o závody a majetek na území československého státu;"
+    },
+    {
+      "provision_ref": "Bod 96",
+      "section": "96",
+      "title": "Bod 96",
+      "content": "96. Jiří Sternberg, Břasy;"
+    },
+    {
+      "provision_ref": "Bod 97",
+      "section": "97",
+      "title": "Bod 97",
+      "content": "97. František Stoklas, Brno;"
+    },
+    {
+      "provision_ref": "Bod 98",
+      "section": "98",
+      "title": "Bod 98",
+      "content": "98. Středočeské kamenouhelné těžařstvo, Praha;"
+    },
+    {
+      "provision_ref": "Bod 99",
+      "section": "99",
+      "title": "Bod 99",
+      "content": "99. Středočeské těžařstvo na železnou rudu, Praha;"
+    },
+    {
+      "provision_ref": "Bod 100",
+      "section": "100",
+      "title": "Bod 100",
+      "content": "100. Svatoňovická báňská společnost, a. s., Malé Svatoňovice;"
+    },
+    {
+      "provision_ref": "Bod 101",
+      "section": "101",
+      "title": "Bod 101",
+      "content": "101. Hlubodůl „Svoboda\", společnost s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 102",
+      "section": "102",
+      "title": "Bod 102",
+      "content": "102. František Šajn a spol. (Ing. K. Köppel, A. Hönig a Ing. V. Klásek), Praha;"
+    },
+    {
+      "provision_ref": "Bod 103",
+      "section": "103",
+      "title": "Bod 103",
+      "content": "103. Antonín Šamánek, Praha;"
+    },
+    {
+      "provision_ref": "Bod 104",
+      "section": "104",
+      "title": "Bod 104",
+      "content": "104. Akciová společnost, dř. Škodovy závody, Plzeň; 105. Karel Šťastný, Praha,"
+    },
+    {
+      "provision_ref": "Bod 106",
+      "section": "106",
+      "title": "Bod 106",
+      "content": "106. Ing. H. Tenschert, Plzeň;"
+    },
+    {
+      "provision_ref": "Bod 107",
+      "section": "107",
+      "title": "Bod 107",
+      "content": "107. Teplicko-bohosudovské hnědouhelné doly Emanuel, Averbeck a spol. (Teplitz-Mariascheiner Braunkohlengruben Emanuel, Averbeck u. Comp.), Srbice;"
+    },
+    {
+      "provision_ref": "Bod 108",
+      "section": "108",
+      "title": "Bod 108",
+      "content": "108. Těžařstvo dolu Gustav (Gewerkschaft Gustav-Zechen, Goldenhöhe) se sídlem v Chodově;"
+    },
+    {
+      "provision_ref": "Bod 109",
+      "section": "109",
+      "title": "Bod 109",
+      "content": "109. Těžařstvo St. Franzisci, Hředle;"
+    },
+    {
+      "provision_ref": "Bod 110",
+      "section": "110",
+      "title": "Bod 110",
+      "content": "110. Václav Trejbal, Moštiště;"
+    },
+    {
+      "provision_ref": "Bod 111",
+      "section": "111",
+      "title": "Bod 111",
+      "content": "111. Trnovanské hnědouhelné těžařstvo (Braunkohlengewerkschaft Turn), Trnovany;"
+    },
+    {
+      "provision_ref": "Bod 112",
+      "section": "112",
+      "title": "Bod 112",
+      "content": "112. Tuhové závody Buhl-Alberti (Graphitwerke Buhl-Alberti), kom. spol.) Staré Město pod Sněžníkem;"
+    },
+    {
+      "provision_ref": "Bod 113",
+      "section": "113",
+      "title": "Bod 113",
+      "content": "113. Vacuum Oil Company, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 114",
+      "section": "114",
+      "title": "Bod 114",
+      "content": "114. Válcovny Mannesmannových trub (Mannesmannröhren-Werke), a. s., Chomutov;"
+    },
+    {
+      "provision_ref": "Bod 115",
+      "section": "115",
+      "title": "Bod 115",
+      "content": "115. Vítkovické horní a hutní těžířstvo, Moravská Ostrava;"
+    },
+    {
+      "provision_ref": "Bod 116",
+      "section": "116",
+      "title": "Bod 116",
+      "content": "116. Josefa Volínová, Obora, p. Kaznějov;"
+    },
+    {
+      "provision_ref": "Bod 117",
+      "section": "117",
+      "title": "Bod 117",
+      "content": "117. Jaromír Vorlíček, Trmice;"
+    },
+    {
+      "provision_ref": "Bod 118",
+      "section": "118",
+      "title": "Bod 118",
+      "content": "118. Oldřich Weigner a Vladimír a Jan Rosenbaumovi, Rakovník;"
+    },
+    {
+      "provision_ref": "Bod 119",
+      "section": "119",
+      "title": "Bod 119",
+      "content": "119. Ostravské kamenouhelné doly a koksovny Jana Wilczka, Slezská Ostrava;"
+    },
+    {
+      "provision_ref": "Bod 120",
+      "section": "120",
+      "title": "Bod 120",
+      "content": "120. Edina Winkelbauerová a Marie Podstatsky-Liechtensteinová, Hrádek nad Nisou;"
+    },
+    {
+      "provision_ref": "Bod 121",
+      "section": "121",
+      "title": "Bod 121",
+      "content": "121. Západočeské továrny kaolinové a šamotové a Slovenské závody magnesitové, a. s., Praha;"
+    },
+    {
+      "provision_ref": "Bod 122",
+      "section": "122",
+      "title": "Bod 122",
+      "content": "122. Západočeský báňský akciový spolek (Westböhmischer Bergbau-Aktienverein), Zbůch u Plzně;"
+    },
+    {
+      "provision_ref": "Bod 123",
+      "section": "123",
+      "title": "Bod 123",
+      "content": "123. Dr. Arnošt Zdenkovič, Praha;"
+    },
+    {
+      "provision_ref": "Bod 124",
+      "section": "124",
+      "title": "Bod 124",
+      "content": "124. Václav Zeithaml, Kříse, p. Břasy"
+    },
+    {
+      "provision_ref": "Bod 125",
+      "section": "125",
+      "title": "Bod 125",
+      "content": "125. Montanní uhelná a koksová obchodní akc. spol. (Montan Kohlen- und Koks Handels A. G.) se sídíem v Praze a"
+    },
+    {
+      "provision_ref": "Bod 126",
+      "section": "126",
+      "title": "Bod 126",
+      "content": "126. Lang a spol., společnost s r. o., Olomouc."
+    },
+    {
+      "provision_ref": "Bod 127",
+      "section": "127",
+      "title": "Bod 127",
+      "content": "127. Dědicové Roberta Berndta, podnikatelství prací bagrovacích a stavebních, Malý Újezd u Teplic-Šanova,"
+    },
+    {
+      "provision_ref": "Bod 128",
+      "section": "128",
+      "title": "Bod 128",
+      "content": "128. Schöttle & Schuster, odkrývky na dole Ležáky a Mariana, Most,"
+    },
+    {
+      "provision_ref": "Bod 129",
+      "section": "129",
+      "title": "Bod 129",
+      "content": "129. Alfred Hübscher, odkrývka na dole Karel, Cukmantl u Teplic-Šanova,"
+    },
+    {
+      "provision_ref": "Bod 130",
+      "section": "130",
+      "title": "Bod 130",
+      "content": "130. Strojírna Berndt, společnost s r. o., Malý Újezd u Teplic-Šanova,"
+    },
+    {
+      "provision_ref": "Bod 131",
+      "section": "131",
+      "title": "Bod 131",
+      "content": "131. Ledvické strojírny a skrývkové podniky, dříve Hermann Behrens, Ledvice."
+    },
+    {
+      "provision_ref": "Bod 132",
+      "section": "132",
+      "title": "Bod 132",
+      "content": "132. František Herglotz a spol., kom. společnost, Berlín, pokud jde o závody a majetek na území československého státu."
+    },
+    {
+      "provision_ref": "Bod 133",
+      "section": "133",
+      "title": "Bod 133",
+      "content": "133. Vereinigte Untertag und Schachtbau, G. m. b. H., Essen, pokud jde o závody a majetek na území československého státu.\nZnárodněním nabývá československý stát vlastnictví znárodněného podniku, a to nemovitostí, budov a zařízení sloužících provozu znárodněného podniku, veškerého příslušenství podniku, počítajíc v to všechna práva (patenty, licence, živnostenská oprávnění, známky, vzorky a pod.), směnky, cenné papíry, vkladní knížky, hotovosti a pohledávky náležející k podniku, jakož i všech hotových a nedokončených výrobků, polotovarů, zásob a hmot, které patří k podniku v den počátku účinnosti dekretu č. 100/1945 Sb. Ložisek a nalezišť surovin a movitostí a práv sloužících trvale provozu podniku se týká znárodnění, i když náležejí někomu jinému než vlastníku podniku.\nZároveň s podnikem se znárodňují v rozsahu plynoucím z ustanovení § 4, odst. 2 dekretu i veškeré pomocné podniky a pomocné závody, které tvoří se znárodněným podnikem nerozlučný hospodářský celek.\nPoněvadž znárodněný podnik náleží akciové společnosti, která jest kapitálově zvlášť silná, znárodněn byl vzhledem k ustanovením § 4, odst. 4 dekretu veškerý její majetek, jakož i podniky koncernové, u kterých jí náleží více než polovina kapitálu, nebo na které má rozhodující vliv.\nTakovým podnikem jest:\nO tom dávám věděti s účinkem doručení.\nZároveň upozorňuji, že ustanovením § 1, odst. 1, č. 1 dekretu č. 100/1945 Sb. byla znárodněna zestátněním též báňská oprávnění podle §§ 22 a 41 obecného horního zákona, jež nejsou předmětem vyhlášky podle § 1, odst. 4 tohoto dekretu. Rovněž nejsou předmětem takové vyhlášky dosavadní státní podniky provozované podle obecného horního zákona.\nZnárodněné, podniky na Slovensku, provozované podle obecného horního zákona, budou vyhlášeny ministrem průmyslu v dohodě s pověřenci pro průmysl a obchod a pro dopravu a veřejné práce."
+    }
+  ],
+  "definitions": []
+}

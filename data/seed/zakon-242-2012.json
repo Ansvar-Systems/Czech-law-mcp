@@ -1,0 +1,39 @@
+{
+  "id": "cz:242/2012",
+  "type": "statute",
+  "title": "242/2012 Sb., Vyhláška o stanovení rozsahu a formy předávané informace o narušení bezpečnosti a ztrátě integrity sítě",
+  "title_en": "",
+  "short_name": "242/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-07-04",
+  "in_force_date": "2012-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/242",
+  "description": "Vyhláška o stanovení rozsahu a formy předávané informace o narušení bezpečnosti a ztrátě integrity sítě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah předávaných informací",
+      "content": "(1) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací (dále jen „podnikatel“) při plnění povinnosti podle § 98 odst. 4 zákona o elektronických komunikacích v informaci předávané Českému telekomunikačnímu úřadu (dále jen „Úřad“) a subjektům provozujícím pracoviště pro příjem tísňového volání uvede:\na) datum a čas vzniku události,\nb) důvod omezení nebo přerušení poskytování veřejně dostupné služby elektronických komunikací,\nc) oblast a rozsah narušení veřejné komunikační sítě nebo technologických zařízení, územní rozsah omezení nebo přerušení poskytování veřejně dostupné služby elektronických komunikací a přijatá opatření k obnově sítě a poskytování služeb,\nd) druh postižené veřejně dostupné služby elektronických komunikací,\ne) druh postižené veřejné komunikační sítě,\nf) počet účastníků, popřípadě uživatelů, veřejně dostupné služby elektronických komunikací postižených událostí s uvedením, zda jim byl zachován přístup k číslům tísňového volání,\ng) předpokládanou dobu pro odstranění příčiny omezení nebo přerušení poskytování veřejně dostupné služby elektronických komunikací,\nh) jméno a příjmení osoby oprávněné jednat za podnikatele ve věci plnění informační povinnosti včetně jejích kontaktních údajů nejméně v rozsahu telefonního čísla a adresy elektronické pošty.\n(2) Podnikatel při plnění povinnosti podle § 98 odst. 4 zákona o elektronických komunikacích v informaci předávané uživatelům veřejně dostupné služby elektronických komunikací uvede nejméně údaje podle odstavce 1 písm. a), d) a g).\n(3) Podnikatel bezodkladně informuje Úřad, subjekty provozující pracoviště pro příjem tísňového volání a uživatele veřejně dostupné služby elektronických komunikací o datu a čase zprovoznění všech postižených technologických celků a o obnovení poskytování služby elektronických komunikací."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Forma předávaných informací",
+      "content": "(1) Podnikatel předá informace podle § 1 odst. 1 ve formě oznámení o narušení bezpečnosti a ztrátě integrity veřejné komunikační sítě, o přerušení poskytování veřejně dostupné služby elektronických komunikací nebo odepření přístupu k této službě. Vzor formuláře tohoto oznámení je uveden v příloze k této vyhlášce.\n(2) Podnikatel předá oznámení podle odstavce 1\na) Úřadu elektronickou poštou ve formě datové zprávy podepsané zaručeným elektronickým podpisem1) nebo prostřednictvím datové schránky nebo telefonicky, pokud nelze využít elektronickou formu komunikace,\nb) subjektům provozujícím pracoviště pro příjem tísňového volání elektronickou poštou ve formě datové zprávy podepsané uznávaným elektronickým podpisem nebo telefonicky, pokud nelze elektronickou poštu využít.\n(3) Informace podle § 1 odst. 2 podnikatel předá uživatelům veřejně dostupné služby elektronických komunikací prostřednictvím sdělení uveřejněného v hromadných sdělovacích prostředcích, způsobem umožňujícím dálkový a nepřetržitý přístup, nebo je-li to účelné vzhledem k počtu účastníků a povaze věci, jiným obdobným způsobem.\n(4) Informace podle § 1 odst. 3 předá podnikatel Úřadu, subjektům provozujícím pracoviště pro příjem tísňového volání a uživatelům veřejně dostupné služby elektronických komunikací způsobem uvedeným v odstavcích 2 a 3."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Předávání informací za krizových stavů",
+      "content": "Podnikatel, který je povinen bezodkladně informovat Úřad o ohrožení nebo narušení bezpečnosti a integrity sítě, bezpečnosti služby a omezení nebo přerušení poskytování veřejně dostupné telefonní služby, předává tyto informace Úřadu v rozsahu podle § 1 odst. 1 a 3 a ve formě podle § 2 odst. 1 a odst. 2 písm. a)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2012.\nPříloha k vyhlášce č. 242/2012 Sb.\nVzor formuláře\nOznámení o narušení bezpečnosti a ztrátě integrity veřejné komunikační sítě, o přerušení poskytování veřejně dostupné služby elektronických komunikací nebo odepření přístupu k této službě\n1) Zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

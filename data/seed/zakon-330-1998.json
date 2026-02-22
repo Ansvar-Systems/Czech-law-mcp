@@ -1,0 +1,45 @@
+{
+  "id": "cz:330/1998",
+  "type": "statute",
+  "title": "330/1998 Sb., Nařízení vlády, kterým se stanoví sazba cla a celní kvóta pro dovoz vína pocházejícího z Maďarské republiky",
+  "title_en": "",
+  "short_name": "330/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-12-22",
+  "in_force_date": "1998-12-22",
+  "url": "https://www.e-sbirka.cz/sb/1998/330",
+  "description": "Nařízení vlády, kterým se stanoví sazba cla a celní kvóta pro dovoz vína pocházejícího z Maďarské republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Ze zboží uvedeného v čísle 2204 celního sazebníku1) – víno z čerstvých hroznů, včetně vína obohaceného alkoholem, vinný mošt, jiný než čísla 2009, pocházejícího z Maďarské republiky, se uplatňuje sazba dovozního cla 10 % pro celní kvótu 20 000 hl."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zbožím pocházejícím z Maďarské republiky se rozumí zboží, které splňuje podmínky stanovené mezinárodní smlouvou.2)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Po dobu platnosti tohoto nařízení se pro zboží vymezené v § 1 a za podmínek zde vymezených nepoužijí celní sazby stanovené zvláštním právním předpisem.1)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vyhlášení.\n(2) Toto nařízení pozbývá platnosti dnem 31. března 1999.\n1) Nařízení vlády č. 312/1997 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Sdělení Ministerstva zahraničních věcí č. 54/1995 Sb., o sjednání Středoevropské dohody o oblasti volného obchodu mezi Českou republikou, Maďarskou republikou, Polskou republikou a Slovenskou republikou, Protokol č. 7, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím pocházejícím z Maďarské republiky",
+      "definition": "zboží, které splňuje podmínky stanovené mezinárodní smlouvou",
+      "source_provision": "§ 2"
+    }
+  ]
+}

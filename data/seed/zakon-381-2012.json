@@ -1,0 +1,33 @@
+{
+  "id": "cz:381/2012",
+  "type": "statute",
+  "title": "381/2012 Sb., Vyhláška, kterou se mění vyhláška Českého báňského úřadu č. 75/2002 Sb., o bezpečnosti provozu elektrických technických zařízení používaných při hornické činnosti a činnosti prováděné hornickým způsobem",
+  "title_en": "",
+  "short_name": "381/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-11-16",
+  "in_force_date": "2012-12-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/381",
+  "description": "Vyhláška, kterou se mění vyhláška Českého báňského úřadu č. 75/2002 Sb., o bezpečnosti provozu elektrických technických zařízení používaných při hornické činnosti a činnosti prováděné hornickým způsobem",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 75/2002 Sb., o bezpečnosti provozu elektrických technických zařízení používaných při hornické činnosti a činnosti prováděné hornickým způsobem, se mění takto:\n1. V § 1 odstavec 1 zní:\n„(1) Vyhláška stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu (dále jen „bezpečnost práce a provozu“) včetně bezpečnosti provozu elektrických technických zařízení (dále jen „elektrické zařízení“) používaných při hornické činnosti, činnosti prováděné hornickým způsobem1), při nakládání s výbušninami a v provozech s těmito činnostmi souvisejícími, jakými jsou zejména rozvodny, kompresorové stanice, čerpací stanice, měřicí a bezpečnostní ústředny.“.\n2. V § 7 odstavec 1 zní:\n„(1) Montáž elektrického zařízení třídy A se provádí podle projektové dokumentace zařízení. Po montáži lze elektrické zařízení uvést do provozu jen po zpracování projektové dokumentace v českém jazyce odpovídající skutečnému stavu, která obsahuje alespoň:\na) polohový plán se zakresleným rozmístěním elektrických stanic, rozvodných zařízení, spotřebičů, kabelových rozvodů, sdělovacích a bezpečnostních zařízení a prostorového vymezení vnějších vlivů prostředí, v podzemí dále s vyznačením větrních cest,\nb) technický popis a schéma zapojení elektrického zařízení s uvedením:\n1. způsobu ochrany před úrazem elektrickým proudem28), konfigurace sítí, specifikace použitých elektrických zařízení a kabelů,\n2. údajů o úbytcích napětí a zkratových poměrech,\n3. údajů o zkratuvzdorných průřezech u kabelových vedení nad 1 kV střídavých nebo 1,5 kV stejnosměrných a v prostorech podle § 4 odst. 1 písm. a),\n4. stanovených druhů nadproudových ochran a jejich nastavených hodnot,\n5. použitých přístrojů, ochranných relé a prostředků ke kontrole stavu elektrických zařízení a sítí, jejich nastavení,\n6. použitých stíněných kabelů s určením míst jejich spojení či uzemnění vodivých vrstev (ekranu),\n7. provedení a požadovaných hodnot ochranného uzemnění,\nc) podpis projektanta instalací elektrických zařízení (§ 9 odst. 7), kterým potvrzuje jeho souhlas s projektovou dokumentací, evidenční číslo osvědčení projektanta a datum podpisu,\nd) v případě provedení změn v projektové dokumentaci odpovídající skutečnému stavu podpis projektanta instalací elektrických zařízení, kterým potvrzuje souhlas s předmětnými změnami, evidenční číslo osvědčení projektanta a datum podpisu; to se nevyžaduje u změn provedených na již provozovaném elektrickém zařízení podle odstavce 5, pokud jsou splněny požadavky podle odstavce 6.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Změna vyhlášky č. 75/2002 Sb. byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu poskytování informací v oblasti technických norem a předpisů a pravidel pro služby informační společnosti, ve znění směrnice 98/48/ES."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 2012."
+    }
+  ],
+  "definitions": []
+}

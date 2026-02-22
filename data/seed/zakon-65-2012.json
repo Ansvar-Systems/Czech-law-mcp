@@ -1,0 +1,27 @@
+{
+  "id": "cz:65/2012",
+  "type": "statute",
+  "title": "65/2012 Sb., Sdělení Ministerstva práce a sociálních věcí o uložení Dodatku č. 1 a Dodatku č. 3 ke kolektivním smlouvám vyššího stupně",
+  "title_en": "",
+  "short_name": "65/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-02-29",
+  "in_force_date": "2012-02-29",
+  "url": "https://www.e-sbirka.cz/sb/2012/65",
+  "description": "Sdělení Ministerstva práce a sociálních věcí o uložení Dodatku č. 1 a Dodatku č. 3 ke kolektivním smlouvám vyššího stupně",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Dodatek č. 1 kolektivní smlouvy vyššího stupně na léta 2011–2012 platný pro rok 2012 uzavřený mezi smluvními stranami\nOdborovým svazem ECHO\na\nSvazem chemického průmyslu České republiky."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Dodatek č. 3 kolektivní smlouvy vyššího stupně uzavřený mezi smluvními stranami\nOdborovým svazem energetiky a hornictví\na\nZaměstnavatelským svazem důlního a naftového průmyslu – Společenstvo těžařů ČR."
+    }
+  ],
+  "definitions": []
+}

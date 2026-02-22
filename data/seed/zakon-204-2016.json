@@ -1,0 +1,27 @@
+{
+  "id": "cz:204/2016",
+  "type": "statute",
+  "title": "204/2016 Sb., Vyhláška, kterou se mění vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "204/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-06-29",
+  "in_force_date": "2016-07-14",
+  "url": "https://www.e-sbirka.cz/sb/2016/204",
+  "description": "Vyhláška, kterou se mění vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V příloze č. 1 k vyhlášce č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění vyhlášky č. 454/2011 Sb., bod 4.1. včetně nadpisu zní:\n„4. 1. SYSTÉM KONTROLY VSTUPU DO ZABEZPEČENÉ OBLASTI NEBO OBJEKTU\nSystém kontroly vstupu je hodnocen za předpokladu jeho realizace na všech vstupech do objektu nebo zabezpečené oblasti.\n4.1.1. Systém kontroly vstupu typ 4:\nSS6 = 4 body\nSystém kontroly vstupu typu 4 musí být certifikovaný Úřadem, splňovat minimálně stupeň 3 podle ČSN EN 60839-11-1 Poplachové a elektronické bezpečnostní systémy - Část 11-1: Elektronické systémy kontroly vstupu - Požadavky na systém a komponenty, a k přístupu je používán:\na) identifikační prvek a PIN,\nb) biometrie a PIN, nebo\nc) identifikační prvek a biometrie.\nSystém kontroly vstupu typu 4 musí být doplněn přístupovou bariérou znemožňující opakovaný přístup a zabezpečující režim „jedna transakce - jeden průchod“.\n4.1.2. Systém kontroly vstupu typ 3:\nSS6 = 3 body\nSystém kontroly vstupu typu 3 musí být certifikovaný Úřadem, splňovat minimálně stupeň 3 podle ČSN EN 60839-11-1 Poplachové a elektronické bezpečnostní systémy - Část 11-1: Elektronické systémy kontroly vstupu - Požadavky na systém a komponenty, a k přístupu je používán:\na) identifikační prvek a PIN,\nb) biometrie a PIN, nebo\nc) identifikační prvek a biometrie.\n4.1.3. Systém kontroly vstupu typ 2:\nSS6 = 2 body\nSystém kontroly vstupu typu 2 musí být certifikovaný Úřadem, splňovat minimálně stupeň 3 podle ČSN EN 60839-11-1 Poplachové a elektronické bezpečnostní systémy - Část 11-1: Elektronické systémy kontroly vstupu - Požadavky na systém a komponenty, a k přístupu je používán:\na) identifikační prvek,\nb) PIN, nebo\nc) biometrie.\nSystém kontroly vstupu typu 2, lze nahradit kontrolou vstupu, kterou nepřetržitě provádí ostraha příslušníků ozbrojených sil nebo ozbrojených sborů, a to na všech vstupech do objektu nebo zabezpečené oblasti.\n4.1.4. Systém kontroly vstupu typ 1:\nSS6 = 1 bod\nSystém kontroly vstupu typu 1 tvoří uzamykatelná mechanická zábrana na vstupu.\nPoznámka k bodu 4.1.:\nSystém kontroly vstupu typu 1 lze použít pouze na vstupu do zabezpečené oblasti kategorie Důvěrné nebo Vyhrazené.\nPři kontrole vstupu do objektu nebo zabezpečené oblasti kategorie Přísně tajné se používají zařízení sloužící k vyhledávání nebezpečných látek nebo předmětů.\nElektronický systém kontroly vstupu musí hlásit na stálé stanoviště ostrahy neoprávněný pokus nebo samotné otevření místa přístupu nebo uplynutí povolené doby po oprávněném otevření místa přístupu.\nZa certifikovaný elektronický systém kontroly vstupu lze považovat i certifikovaný poplachový zabezpečovací systém s přístupovou nadstavbou.\nRozsah zkoušek, které jsou požadovány pro certifikaci elektronického systému kontroly vstupu, je zveřejňován v certifikačním postupu Úřadu.\nInstalace elektronického systému kontroly vstupu, jeho provoz a údržba musí splňovat ČSN EN 60839-11-2 Poplachové a elektronické bezpečnostní systémy - Část 11-2: Elektronické systémy kontroly vstupu - Pokyny pro aplikace.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení."
+    }
+  ],
+  "definitions": []
+}

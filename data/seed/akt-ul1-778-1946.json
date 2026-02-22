@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:778/1946",
+  "type": "statute",
+  "title": "778/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení celostátního ústředního orgánu pro průmysl kovodělný a strojírenský.",
+  "title_en": "",
+  "short_name": "778/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-13",
+  "in_force_date": "1948-01-28",
+  "url": "https://www.e-sbirka.cz/ul1/1946/778",
+  "description": "Vyhláška ministra průmyslu o zřízení celostátního ústředního orgánu pro průmysl kovodělný a strojírenský.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku Akciová společnost dříve Škodovy závody v Plzni, se sídlem v Plzni:\na) částku Kčs 6,165.000.— na starém vkladě;\nb) budovu v Praze VIII.-Troja, Ulice Nad Kazankou čp. 234 a čp. 190 s příslušenstvím a inventářem;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku Zbrojovka Brno, a. s. se sídlem v Brně, U lazaretu 7 (podle vyhlášky ministra průmyslu ze dne 27. prosince 1945, č. 212 v Úředním listě, avšak s protokolovaným sídlem v Brně) částku Kčs 2,360.000.— na starém vkladě;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. z majetkové podstaty znárodněného podniku Českomoravské strojírny, akciová společnost, se sídlem v Praze, částku Kčs 1,475.000.— na starém vkladě."
+    }
+  ],
+  "definitions": []
+}

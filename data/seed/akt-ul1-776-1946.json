@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:776/1946",
+  "type": "statute",
+  "title": "776/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení celostátního ústředního orgánu pro průmysl energetický.",
+  "title_en": "",
+  "short_name": "776/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-13",
+  "in_force_date": "1946-03-13",
+  "url": "https://www.e-sbirka.cz/ul1/1946/776",
+  "description": "Vyhláška ministra průmyslu o zřízení celostátního ústředního orgánu pro průmysl energetický.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku Středočeské elektrárny, společnost s r. o. se sídlem v Praze:\na) částku Kčs 4,000.000 na starém vkladě;\nb) budovu v Praze II., Dittrichova ulice čp. 1968 s příslušenstvím a inventářem;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku Ústřední elektrárny a. s., se sídlem v Praze, budovu v Praze XVI., V Lesíčku čp. 665 s příslušenstvím a inventářem."
+    }
+  ],
+  "definitions": []
+}

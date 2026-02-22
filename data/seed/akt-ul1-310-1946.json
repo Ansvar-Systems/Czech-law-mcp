@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:310/1946",
+  "type": "statute",
+  "title": "310/1946 Ú. l. I, Vyhláška Svazu pro dobytek, maso a ryby o zaplacení cenových rozdílů u zásob zboží zjištěných ke dni 9. prosince 1945.",
+  "title_en": "",
+  "short_name": "310/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-29",
+  "in_force_date": "1946-01-29",
+  "url": "https://www.e-sbirka.cz/ul1/1946/310",
+  "description": "Vyhláška Svazu pro dobytek, maso a ryby o zaplacení cenových rozdílů u zásob zboží zjištěných ke dni 9. prosince 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Podniky, jimž bylo podle § 2 vyhlášky ministra výživy č. 423 Svazem uloženo pod místopřísežným prohlášením poříditi soupis zásob zboží ke dni 9. prosince 1945 ve 24 hodiny, jsou povinny částky, vyplývající z rozdílu cen tohoto zboží, odvésti Svazu na jeho šekový účet u poštovní spořitelny č. 52734 (účet „Cenový fond“)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Cenové rozdíly zjistí Svaz na podkladě místopřísežných prohlášení podniků a zjištěné částky předepíše těmto k zaplacení výměrem."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Podniky jsou povinny zaplatiti stanovený cenový rozdíl do 14 dnů od doručení výměru."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

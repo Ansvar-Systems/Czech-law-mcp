@@ -1,0 +1,33 @@
+{
+  "id": "cz:388/2024",
+  "type": "statute",
+  "title": "388/2024 Sb., Vyhláška, kterou se mění vyhláška č. 373/2016 Sb., o předávání údajů do Národního zdravotnického informačního systému, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "388/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-12-12",
+  "in_force_date": "2025-06-10",
+  "url": "https://www.e-sbirka.cz/sb/2024/388",
+  "description": "Vyhláška, kterou se mění vyhláška č. 373/2016 Sb., o předávání údajů do Národního zdravotnického informačního systému, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 373/2016 Sb., o předávání údajů do Národního zdravotnického informačního systému, ve znění vyhlášky č. 115/2019 Sb. a vyhlášky č. 389/2021 Sb., se mění takto:\n1. V § 1 odst. 2 se na konci textu písmene a) doplňují slova „pomocí datového rozhraní“.\n2. V příloze č. 1 části 1 bodu 1.1 písm. b) se slova „a sledování“ nahrazují slovy „nově zjištěného“.\n3. V příloze č. 1 části 1 nadpis bodu 1.2 zní: „Lhůta předávání údajů“.\n4. V příloze č. 1 části 1 bodu 1.2 se slova „1 měsíce“ nahrazují slovy „3 měsíců“ a slova „a údaje související s jeho léčbou a léčebnými postupy se předávají do 8 měsíců od data stanovení diagnózy. Údaje o sledování zdravotního stavu pacienta se předávají po prvním až pátém, sedmém a desátém roce sledování; dále v intervalu 5 let a též při úmrtí pacienta“ se nahrazují slovy „včetně údajů vztahujících se k onemocnění“.\n5. V příloze č. 1 nadpisu části 9 se za slovo „registr“ vkládají slova „dárců krve a“.\n6. V příloze č. 1 části 9 bodu 9.1 se za slovo „který“ vkládají slova „provedl odběr krve nebo její složky, a každý poskytovatel transfúzní služby, který“.\n7. V příloze č. 1 části 9 bodu 9.2 se za slova „předávají za“ vkládají slova „každý odběr krve nebo její složky bezprostředně po odběru a za“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pokud skutečnost rozhodná pro předávání údajů podle vyhlášky č. 373/2016 Sb., o předávání údajů do Národního zdravotnického informačního systému, ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nastala přede dnem nabytí účinnosti této vyhlášky a lhůta pro předávání těchto údajů stanovená vyhláškou č. 373/2016 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, neuplynula do dne nabytí účinnosti této vyhlášky, předají se údaje do Národního onkologického registru ve lhůtě podle vyhlášky č. 373/2016 Sb., ve znění účinném po dni nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení s výjimkou ustanovení čl. I bodů 5 až 7, která nabývají účinnosti uplynutím 6 měsíců ode dne zveřejnění sdělení Ministerstva zdravotnictví o zprovoznění Národního registru dárců krve a osob trvale vyloučených z dárcovství krve ve Sbírce zákonů a mezinárodních smluv."
+    }
+  ],
+  "definitions": []
+}

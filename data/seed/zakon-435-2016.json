@@ -1,0 +1,33 @@
+{
+  "id": "cz:435/2016",
+  "type": "statute",
+  "title": "435/2016 Sb., Vyhláška, kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "435/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-12-23",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/435",
+  "description": "Vyhláška, kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění vyhlášky č. 422/2010 Sb. a vyhlášky č. 322/2015 Sb., se mění takto:\n1. V § 1 se odstavec 4 zrušuje.\nDosavadní odstavce 5 a 6 se označují jako odstavce 4 a 5.\n2. V § 2 odst. 1 písm. b) a e) se slova „některé z hashovacích funkcí uvedených“ nahrazují slovy „hashovací funkce uvedené“.\n3. V § 2 odst. 1 písm. c) úvodní části ustanovení se slova „podle technické normy uvedené“ nahrazují slovy „stanoveném v souladu se standardem uvedeným“.\n4. V § 2 odst. 1 písm. c) bodech 2 a 3 se slova „poskytovatele certifikačních služeb“ nahrazují slovy „kvalifikovaného poskytovatele služeb vytvářejících důvěru“.\n5. V § 2 odst. 1 písm. c) bodě 2 a v § 3 odst. 5 se slova „poskytovatel certifikačních služeb“ nahrazují slovy „kvalifikovaný poskytovatel služeb vytvářejících důvěru“.\n6. V § 2 odst. 2 se slova „akreditovaný poskytovatel certifikačních služeb“ nahrazují slovy „kvalifikovaný poskytovatel služeb vytvářejících důvěru“.\n7. V § 3 odst. 2 se slovo „neumožní“ nahrazuje slovy „je oprávněn znemožnit“ a za slova „po dobu“ se vkládá slovo „až“.\n8. V § 3 odst. 3 se slovo „systémového“ zrušuje.\n9. V § 3 odst. 5 se slova „se standardem uvedeným“ nahrazují slovy „s technickými normami uvedenými“ a za text „písm. b)“ se vkládají slova „a c)“.\n10. § 6 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 6",
+      "section": "6",
+      "title": "„§ 6 Doba uložení datové zprávy v datové schránce",
+      "content": "Doba uložení datové zprávy v datové schránce činí\na) 90 dnů ode dne, kdy se do datové schránky přihlásila osoba, která má s ohledem na rozsah svého oprávnění k dokumentu obsaženému v datové zprávě přístup,\nb) 90 dnů ode dne, kdy bylo do datové schránky přistoupeno prostřednictvím elektronického systému spisové služby nebo jiné elektronické aplikace s užitím certifikátu,\nc) 3 roky ode dne, kdy byla datová zpráva dodána do datové schránky, nedojde-li k přístupu do datové schránky podle písmene a) nebo b).“.\n11. V příloze č. 2 body II a III znějí:\n„II. Hashovací funkce\nSHA-2 - 256, 384, 512 bitů (FIPS 180-4)\nIII. Standard a technické normy\na) RFC 5280: Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile\nb) ETSI EN 319 401 v2.1.1 Electronic Signatures and Infrastructures (ESI); General Policy Requirements for Trust Service Providers\nc) ETSI EN 319 411-1 v1.1.1 Electronic Signatures and Infrastructures (ESI); Policy and security requirements for Trust Service Providers issuing certificates; Part 1: General requirements“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2017."
+    }
+  ],
+  "definitions": []
+}

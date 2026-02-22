@@ -1,0 +1,33 @@
+{
+  "id": "cz:5/1953",
+  "type": "statute",
+  "title": "5/1953 Sb., Nařízení o nové organisaci vládních prací",
+  "title_en": "",
+  "short_name": "5/1953 Sb.",
+  "status": "in_force",
+  "issued_date": "1953-01-31",
+  "in_force_date": "1953-01-31",
+  "url": "https://www.e-sbirka.cz/sb/1953/5",
+  "description": "Nařízení o nové organisaci vládních prací",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Předseda vlády a jeho náměstkové tvoří předsednictvo vlády."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Předsednictvo vlády vyřizuje běžné práce vlády mezi jejími zasedáními a operativně řídí a kontroluje činnost jednotlivých členů vlády."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Činnost předsednictva vlády v podrobnostech určí vláda.\nToto vládní nařízení nabývá účinnosti dnem vyhlášení; provedou je všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

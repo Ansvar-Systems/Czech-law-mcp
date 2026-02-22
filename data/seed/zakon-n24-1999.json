@@ -1,0 +1,87 @@
+{
+  "id": "cz:n24/1999",
+  "type": "statute",
+  "title": "n24/1999 Sb., Opatření Českého statistického úřadu, kterým se doplňuje Program statistických zjišťování na rok 1999",
+  "title_en": "",
+  "short_name": "n24/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-04-23",
+  "in_force_date": "1999-04-23",
+  "url": "https://www.e-sbirka.cz/sb/1999/n24",
+  "description": "Opatření Českého statistického úřadu, kterým se doplňuje Program statistických zjišťování na rok 1999",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "„119. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:\nJednorázové šetření rozpočtových položek cen stavebních prací\nZNAČKA STATISTICKÉHO FORMULÁŘE:\nCeny Stav R 2000"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání reprezentativních údajů o položkách rozpočtů stavebních objektů pro výpočet indexu cen stavebních prací a stavebních objektů.\nCharakteristika zjišťovaných ukazatelů:\nAktuální vybrané údaje o rozpočtech stavebních objektů, které vyjadřují současný standard konstrukčního řešení a vybavenosti."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Okruh zpravodajských jednotek\nEkonomické subjekty s převažující činností v projektových pracích (OKEČ 74), ve stavební a investiční činnosti (OKEČ 45)."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: výkaz\nPoužitá metoda: výběrové zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: jednorázové zjišťování\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\nkvěten 1999 - červen 2000"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Orgán provádějící statistické zjišťování\nČeský statistický úřad"
+    },
+    {
+      "provision_ref": "Bod 120",
+      "section": "120",
+      "title": "Bod 120",
+      "content": "120. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:\nRoční výkaz o zahraniční kapitálové účasti\nZNAČKA STATISTICKÉHO FORMULÁŘE:\nIv 8-01"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání informací o přítomnosti zahraničních investorů a o výši jejich kapitálové účasti v podnicích nacházejících se na území České republiky. Údaje budou využity pro účely makroekonomické analýzy a pro účely statistiky globalizace.\nCharakteristika zjišťovaných ukazatelů:\nPodíl zahraničního investora na základním jmění nebo na hlasovacích právech (stav k 31. 12. sledovaného roku) a země původu tohoto investora."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Okruh zpravodajských jednotek\nEkonomické subjekty se zahraniční účastí."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: výkaz\nPoužitá metoda: vyčerpávající zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: roční\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\ndo 29. 2. 2000"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Orgán provádějící statistické zjišťování\nČeský statistický úřad“."
+    }
+  ],
+  "definitions": []
+}

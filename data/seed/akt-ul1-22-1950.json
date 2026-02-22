@@ -1,0 +1,29 @@
+{
+  "id": "cz:ul1:22/1950",
+  "type": "statute",
+  "title": "22/1950 Ú. l. I, Vyhláška ministerstva průmyslu a ministerstva dopravy o rozsahu činnosti hospodářských referátů krajských národních výborů a o jejich rozdělení na oddělení.",
+  "title_en": "",
+  "short_name": "22/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-10",
+  "in_force_date": "1950-01-25",
+  "url": "https://www.e-sbirka.cz/ul1/1950/22",
+  "description": "Vyhláška ministerstva průmyslu a ministerstva dopravy o rozsahu činnosti hospodářských referátů krajských národních výborů a o jejich rozdělení na oddělení.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "1. oddělení výrobní obstarává všechny věci kromě věcí dopravních;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "2. oddělení dopravní obstarává věci dopravní.\nBližší rozdělení práce provedou podle těchto zásad krajské národní výbory."
+    }
+  ],
+  "definitions": []
+}

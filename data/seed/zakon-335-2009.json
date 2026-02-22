@@ -1,0 +1,58 @@
+{
+  "id": "cz:335/2009",
+  "type": "statute",
+  "title": "335/2009 Sb., Nařízení vlády o stanovení druhů krajinných prvků",
+  "title_en": "",
+  "short_name": "335/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-10-01",
+  "in_force_date": "2009-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/335",
+  "description": "Nařízení vlády o stanovení druhů krajinných prvků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Druhy krajinných prvků",
+      "content": "(1) Druhem krajinného prvku je\na) mez,\nb) terasa,\nc) travnatá údolnice,\nd) skupina dřevin,\ne) stromořadí,\nf) solitérní dřevina.\n(2) Mezí se rozumí souvislý zatravněný útvar liniového typu, sloužící zejména ke snižování nebezpečí vodní, popřípadě větrné eroze, zpravidla vymezující hranici půdního bloku, popřípadě dílu půdního bloku. Součástí meze může být dřevinná vegetace, popřípadě kamenná zídka.\n(3) Terasou se rozumí souvislý svažitý útvar liniového typu tvořený terasovým stupněm, sloužící ke snižování nebezpečí vodní, popřípadě větrné eroze, a zmenšující sklon části svahu půdního bloku, popřípadě dílu půdního bloku, zpravidla vymezující hranici půdního bloku, popřípadě dílu půdního bloku. Součástí terasy může být dřevinná vegetace, popřípadě kamenná zídka.\n(4) Travnatou údolnicí se rozumí členitý svažitý útvar, sloužící ke snižování nebezpečí vodní, popřípadě větrné eroze, vymezující dráhu soustředěného odtoku vody z půdního bloku, popřípadě dílu půdního bloku, se zemědělskou kulturou orná půda. Součástí travnaté údolnice může být dřevinná vegetace.\n(5) Skupinou dřevin se rozumí útvar neliniového typu, tvořený nejméně 2 kusy dřevinné vegetace s nejvyšší možnou výměrou 2 000 m2. Za skupinu dřevin se nepovažuje dřevinná vegetace, která je součástí meze, terasy nebo travnaté údolnice, a dřevinná vegetace, která plní funkci lesa podle § 3 lesního zákona1).\n(6) Stromořadím se rozumí útvar liniového typu, tvořený nejméně 5 kusy dřevinné vegetace a zpravidla s pravidelně se opakujícími prvky. Za stromořadí se nepovažuje dřevinná vegetace, která je součástí meze, terasy nebo travnaté údolnice, a dřevinná vegetace, která plní funkci lesa podle § 3 lesního zákona1).\n(7) Solitérní dřevinou se rozumí izolovaně rostoucí dřevina s průmětem koruny od 8 m2 vyskytující se v zemědělsky obhospodařované krajině mimo les. Za solitérní dřevinu se nepovažuje dřevinná vegetace, která je součástí meze, terasy nebo travnaté údolnice."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. října 2009.\n1) Zákon č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mezí",
+      "definition": "souvislý zatravněný útvar liniového typu, sloužící zejména ke snižování nebezpečí vodní, popřípadě větrné eroze, zpravidla vymezující hranici půdního bloku, popřípadě dílu půdního bloku",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Terasou",
+      "definition": "souvislý svažitý útvar liniového typu tvořený terasovým stupněm, sloužící ke snižování nebezpečí vodní, popřípadě větrné eroze, a zmenšující sklon části svahu půdního bloku, popřípadě dílu půdního bloku, zpravidla vymezující hranici půdního bloku, popřípadě dílu půdního bloku",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Travnatou údolnicí",
+      "definition": "členitý svažitý útvar, sloužící ke snižování nebezpečí vodní, popřípadě větrné eroze, vymezující dráhu soustředěného odtoku vody z půdního bloku, popřípadě dílu půdního bloku, se zemědělskou kulturou orná půda",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Skupinou dřevin",
+      "definition": "útvar neliniového typu, tvořený nejméně 2 kusy dřevinné vegetace s nejvyšší možnou výměrou 2 000 m2",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Stromořadím",
+      "definition": "útvar liniového typu, tvořený nejméně 5 kusy dřevinné vegetace a zpravidla s pravidelně se opakujícími prvky",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Solitérní dřevinou",
+      "definition": "izolovaně rostoucí dřevina s průmětem koruny od 8 m2 vyskytující se v zemědělsky obhospodařované krajině mimo les",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:175/1991",
+  "type": "statute",
+  "title": "175/1991 Sb., Nařízení vlády České republiky o cenovém odvodu z cen vytěženého uhlí v České republice",
+  "title_en": "",
+  "short_name": "175/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-05-24",
+  "in_force_date": "1991-05-24",
+  "url": "https://www.e-sbirka.cz/sb/1991/175",
+  "description": "Nařízení vlády České republiky o cenovém odvodu z cen vytěženého uhlí v České republice",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Rozdílné úložné podmínky uhelných ložisek těženého uhlí vytvářejí vzhledem k jednotné úředně stanovené ceně tohoto uhlí u podniků s nižšími těžebními náklady zdroje, které jsou předmětem cenového odvodu z cen uhlí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Cenový odvod z cen uhlí (dále jen „cenový odvod“) provádějí organizace",
+      "content": "1. Společný podnik SHD, Most (SP SHD)\n2. Palivový kombinát, Vřesová (PKV)\n3. Hnědouhelné doly, Březová (HDB)\n4. Důl ČSM, Stonava (ČSM)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Cenový odvod činí na jednu tunu odbytové těžby u podniku",
+      "content": "1. SP SHD13,41 Kčs\n2. PKV11,64 Kčs\n3. HDB11,38 Kčs\n4. ČSM52,66 Kčs."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Cenový odvod je položkou snižující základ odvodu ze zisku podle § 7 odst. 3 zákona č. 156/1989 Sb., o odvodech do státního rozpočtu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Cenový odvod je splatný nejpozději do 25. dne každého měsíce z odbytové těžby za předchozí měsíc; za měsíc leden se uhradí záloha ve výši odpovídající předpokládané těžbě za tento měsíc.1) Tato záloha se zúčtuje s cenovým odvodem za měsíc prosinec. Cenový odvod se provádí na zvláštní účet státního rozpočtu České republiky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "V případě, že dojde ke změně úředně stanovené ceny těženého uhlí, organizačním změnám v uhelném průmyslu nebo k výrazné změně úložných podmínek, případně k jiným podstatným změnám, upraví výši cenového odvodu a výčet jednotlivých plátců ministerstvo financí České republiky v dohodě s ministerstvem pro hospodářskou politiku a rozvoj České republiky."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Cenový odvod se provádí od počátku roku 1991."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení.\n1) Za leden 1991 se provede odvod odpovídající skutečné těžbě za tento měsíc."
+    }
+  ],
+  "definitions": []
+}

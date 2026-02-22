@@ -1,0 +1,57 @@
+{
+  "id": "cz:30/2025",
+  "type": "statute",
+  "title": "30/2025 Sb., Vyhláška o telemedicínských zdravotních službách",
+  "title_en": "",
+  "short_name": "30/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-02-13",
+  "in_force_date": "2025-02-14",
+  "url": "https://www.e-sbirka.cz/sb/2025/30",
+  "description": "Vyhláška o telemedicínských zdravotních službách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška stanoví\na) technické požadavky na kvalitu a bezpečnost komunikace a šifrování komunikačního kanálu,\nb) způsob prokázání identity komunikujících stran,\nc) způsob projevení a záznamu souhlasu nebo nesouhlasu pacienta s nahráváním záznamu komunikace mezi poskytovatelem a pacientem."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Technické požadavky na kvalitu a bezpečnost komunikace",
+      "content": "Požadavky na kvalitu a bezpečnost komunikace při poskytování telemedicínských zdravotních služeb jsou poskytovatelem zajišťovány technickými řešeními, která jsou pro poskytovatele závazně stanovena prostřednictvím standardů elektronického zdravotnictví podle zákona o elektronizaci zdravotnictví1)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Šifrování komunikačního kanálu",
+      "content": "(1) Šifrováním se rozumí zajištění nečitelnosti komunikačního kanálu bez využití dodatečných technických prostředků.\n(2) Telemedicínské zdravotní služby poskytované telefonicky jsou poskytovány za použití šifrování komunikačního kanálu způsobem zajištěným operátorem2) použité komunikační sítě.\n(3) Telemedicínské zdravotní služby poskytované se zvukově obrazovým, zvukovým nebo obrazovým přenosem jiným než podle odstavce 2 jsou poskytovány za využití služeb elektronických komunikací zajišťujících šifrování komunikačního kanálu, které je aktivní po celou dobu poskytování zdravotních služeb.\n(4) Dálkový monitoring pacientů prováděný zdravotnickým prostředkem (dále jen „telemonitoring“) probíhá za využití šifrování komunikačního kanálu mezi tímto zdravotnickým prostředkem a poskytovatelem. Bližší podmínky šifrování komunikačního kanálu při využívání telemonitoringu stanoví standard elektronického zdravotnictví vydaný podle zákona o elektronizaci zdravotnictví1).\n(5) V případě poskytování telemedicínských zdravotních služeb jinými prostředky než podle odstavců 2 až 4 musí tyto jiné prostředky splňovat podmínku šifrování podle odstavce 1 a být v souladu s pravidly pro ochranu osobních údajů a s požadavky na kybernetickou bezpečnost podle zákona o kybernetické bezpečnosti3)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob prokázání identity komunikujících stran",
+      "content": "(1) Pacient prokazuje svou identitu\na) předem domluveným způsobem nebo\nb) s využitím elektronické identifikace podle zákona o elektronické identifikaci4).\n(2) Zdravotnický pracovník prokazuje svou identitu\na) předem domluveným způsobem nebo\nb) prostřednictvím informačního systému poskytovatele, který mu přidělil přístupové údaje do svého informačního systému podle zákona o elektronizaci zdravotnictví5).\n(3) Předem domluvený způsob musí být zaznamenán ve zdravotnické dokumentaci."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob projevení a záznamu souhlasu nebo nesouhlasu pacienta s nahráváním záznamu komunikace mezi poskytovatelem a pacientem",
+      "content": "Před zahájením poskytování telemedicínské zdravotní služby poskytovatel ověří, zda pacient souhlasí s nahráváním komunikace mezi poskytovatelem a pacientem. Projev souhlasu nebo nesouhlasu s nahráváním záznamu komunikace může pacient vyjádřit výslovně nebo jiným způsobem nevzbuzujícím pochybnost o pacientově úmyslu. O tomto projevu se provede záznam ve zdravotnické dokumentaci."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.\n1) § 38 odst. 2 písm. c) zákona č. 325/2021 Sb., o elektronizaci zdravotnictví, ve znění pozdějších předpisů.\n2) § 2 odst. 1 písm. d) zákona č. 127/2005 Sb., o elektronických komunikacích, ve znění pozdějších předpisů.\n3) Zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění pozdějších předpisů.\n4) Zákon č. 250/2017 Sb., o elektronické identifikaci, ve znění pozdějších předpisů.\n5) § 5 písm. a) bod 2 zákona č. 325/2021 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Šifrováním",
+      "definition": "zajištění nečitelnosti komunikačního kanálu bez využití dodatečných technických prostředků",
+      "source_provision": "§ 3"
+    }
+  ]
+}

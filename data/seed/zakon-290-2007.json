@@ -1,0 +1,39 @@
+{
+  "id": "cz:290/2007",
+  "type": "statute",
+  "title": "290/2007 Sb., Vyhláška o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace",
+  "title_en": "",
+  "short_name": "290/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-11-23",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/290",
+  "description": "Vyhláška o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Výše úhrady nákladů na zřízení a vedení databáze",
+      "content": "(1) Pro účely výpočtu účelně vynaložených nákladů podle § 33 odst. 4 zákona o elektronických komunikacích se za odpisy majetku považují účetní odpisy technologických zařízení využívaných pro vedení databáze, včetně serverů, nehmotného majetku, zejména licencí a softwaru, nutného k vedení databáze, a za provozní náklady takové provozní náklady, které byly vynaloženy na zřízení, údržbu a provoz těchto zařízení.\n(2) Do výpočtu účelně vynaložených nákladů podle odstavce 1 se zahrnou pouze takové náklady, o nichž vede podnikatel zajišťující připojení centra tísňové komunikace k veřejné pevné komunikační síti účetní záznamy podle zákona o účetnictví.\n(3) Výše měsíční úhrady fakturované centru tísňové komunikace, se určuje podle vzorce\nPOi\nUi =——.——. N,\nPcO\nkde:\nUi je výše měsíční úhrady účelně vynaložených nákladů podle odstavce 1 fakturovaná jednotlivému centru tísňové komunikace,\nP je počet dnů v příslušném kalendářním měsíci, kdy je databáze schopna po dobu celého dne poskytovat osobní a identifikační údaje v souladu s vyhláškou o lokalizaci a identifikaci účastníka tísňové komunikace,\nPc je počet dnů v příslušném kalendářním měsíci celkem,\nOi je počet obyvatel přiřazený k příslušnému tísňovému číslu, kterému se přisuzuje pro jednotlivá tísňová čísla následující hodnota:\npro tísňové číslo 112 počet obyvatel České republiky,\npro tísňové číslo 150 počet obyvatel České republiky,\npro tísňové číslo 155 počet obyvatel příslušného kraje, který je zřizovatelem poskytovatele zdravotnické záchranné služby tohoto kraje,\npro tísňové číslo 156 počet obyvatel obce, která je zřizovatelem příslušné obecní policie,\npro tísňové číslo 158 počet obyvatel České republiky,\nO je součet všech Oi,\nN je celková výše měsíčních nákladů podle odstavce 1.\n(4) Hodnota počtu obyvatel Oi se určuje podle Statistické ročenky České republiky vydávané Českým statistickým úřadem, aktuální v době vystavení faktury podle § 2."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob úhrady nákladů na zřízení a vedení databáze",
+      "content": "(1) Úhrada nákladů podle § 1 náleží podnikateli podle § 1 odst. 2 pouze za dobu, kdy je databáze schopna poskytovat osobní a identifikační údaje v souladu s vyhláškou o lokalizaci a identifikaci účastníka tísňové komunikace.\n(2) Fakturu podnikatel podle § 1 odst. 2 doručí kontaktnímu pracovišti, které mu určí subjekt, který provozuje centrum tísňové komunikace, do dvacátého pátého dne kalendářního měsíce následujícího po uskutečnění plnění. Fakturu za měsíc listopad doručí podnikatel podle § 1 odst. 2 nejpozději do 10. prosince téhož roku.\n(3) Splatnost faktury je 30 kalendářních dnů ode dne jejího doručení.\n(4) Přílohou faktury jsou tyto údaje a doklady:\na) výpočet výše měsíční úhrady nákladů podle § 1 odst. 3, včetně uvedení hodnot proměnných P, Pc, Oi, O a N,\nb) výpočet výše celkových nákladů N podle § 1 odst. 1,\nc) kopie dodavatelských faktur na pořízení dlouhodobého majetku podle § 1 odst. 1, včetně příloh a s vyznačením položek a jim odpovídající pořizovací ceny zařízení, jehož odpisy se zahrnují do úhrady nákladů, a výpočet odpisů majetku v návaznosti na pořizovací cenu a odpisový plán,\nd) kopie dokladů o nákladech vynaložených na zabezpečení vedení databáze prováděné vlastními zaměstnanci, zejména výkazy práce s počtem odpracovaných hodin a hodinové sazby vypočtené z posledních známých údajů z oddělené evidence nákladů a výnosů,\ne) kopie dodavatelských faktur na zabezpečení vedení databáze,\nf) přehled všech subjektů, kterým byla v příslušném kalendářním měsíci fakturována úhrada nákladů podle § 1 odst. 3, včetně uvedení odpovídajícího počtu obyvatel Oi pro příslušné tísňové číslo,\ng) přehled dnů, po které nesplňovala databáze podmínku podle odstavce 1.\n(5) Se souhlasem subjektu, který provozuje centrum tísňové komunikace, může podnikatel podle § 1 odst. 2 použít způsob doložení faktury odlišný od způsobu uvedeného v odstavci 4.\n(6) Podnikatel podle § 1 odst. 2 zašle doklady podle odstavce 4 nebo 5 jako přílohu k faktuře subjektu, který provozuje centrum tísňové komunikace, s první fakturou. V případě, že dojde v jednotlivých dokladech ke změně údajů, zašle podnikatel podle § 1 odst. 2 doklad o příslušné změně spolu s nejbližší příští fakturou.\n(7) Se souhlasem subjektu, který provozuje centrum tísňové komunikace, může podnikatel podle § 1 odst. 2 zaslat doklady k faktuře podle odstavce 4 nebo 5, případně doklad o změně údajů v jiném okamžiku, než je uvedeno v odstavci 6."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přechodná ustanovení",
+      "content": "(1) Souhrnnou fakturu obsahující vyúčtování úhrady nákladů za období od 1. července 2006 do dne předcházejícího dni nabytí účinnosti této vyhlášky doručí podnikatel subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, nejpozději do 90 dnů ode dne nabytí účinnosti této vyhlášky.\n(2) Splatnost souhrnné faktury podle odstavce 1 je 90 kalendářních dnů ode dne jejího doručení.\n(3) Pro stanovení výše úhrady za období uvedené v odstavci 1 a pro její vyúčtování platí přiměřeně § 1 a 2."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvního dne měsíce následujícího po dni jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

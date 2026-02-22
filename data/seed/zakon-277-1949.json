@@ -1,0 +1,39 @@
+{
+  "id": "cz:277/1949",
+  "type": "statute",
+  "title": "277/1949 Sb., Nařízení, kterým se vydávají některé předpisy o přístrojích na výrobu acetylenového plynu",
+  "title_en": "",
+  "short_name": "277/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-12-29",
+  "in_force_date": "1950-02-01",
+  "url": "https://www.e-sbirka.cz/sb/1949/277",
+  "description": "Nařízení, kterým se vydávají některé předpisy o přístrojích na výrobu acetylenového plynu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Přetlak plynu v přístrojích na výrobu acetylenového plynu nesmí u přístrojů pro osvětlování přesahovati 0,1 atmosféry, u přístrojů pro zvláštní technické účely 1,5 atmosféry.\n(2) Přístroje na výrobu acetylenového plynu pro zvláštní technické účely musí, pokud jde o jejich pevnost, odpovídati použitému přetlaku. Každý přístroj musí býti opatřen nejméně jedním spolehlivě účinkujícím pojišťovacím ventilem a manometrem, na němž je červenou nesmazatelnou čárkou vyznačen nejvyšší dovolený provozní přetlak, jakož i normalisovaným nástavcem pro kontrolní manometr. Výrobce je povinen před započetím výroby těchto přístrojů předložiti ve dvojím vyhotovení Technickému dozorčímu spolku, na Slovensku příslušnému krajskému národnímu výboru, k přezkoušení výpočet jejich pevnosti doložený výkresem.\n(3) Před použitím musí býti každý přístroj na výrobu acetylenového plynu pro zvláštní technické účely u výrobce podroben zkoušce vodním tlakem, který je nejméně o jednu atmosféru větší než provozní přetlak. Zkouška vodním tlakem musí býti u uživatele opakována nejméně každých pět let. Mimo to musí býti přístroj podroben u uživatele nejméně jednou za dva a půl roku vnitřní prohlídce. Zkoušky a vnitřní prohlídky provádí Technický dozorčí spolek, na Slovensku příslušný krajský národní výbor; výsledky tlakových zkoušek a vnitřních prohlídek zapisuje do certifikátu, který vystaví a dodá výrobci přístroje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Přístroje na výrobu acetylenového plynu pro zvláštní technické účely, u nichž přetlak přesahuje 0,5 atmosféry a které jsou již v provozu, musí býti do šesti měsíců od počátku účinnosti tohoto nařízení podrobeny tlakové zkoušce podle § 1, odst. 3."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ustanovení § 25 ministerského nařízení ze dne 10. září 1912, č. 185 ř. z., o výrobě a užívání acetylenu a o oběhu karbidu, a § 25 vládního nařízení ze dne 26. května 1925, č. 123 Sb., o výrobě a užívání acetylenu, jakož i o obchodu s karbidem, se zrušují."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. února 1950; provede je ministr průmyslu."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cz:450/2004",
+  "type": "statute",
+  "title": "450/2004 Sb., Vyhláška o označování výživové hodnoty potravin",
+  "title_en": "",
+  "short_name": "450/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-07-30",
+  "in_force_date": "2009-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/450",
+  "description": "Vyhláška o označování výživové hodnoty potravin",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Tato vyhláška stanoví v souladu s právem Evropských společenství1) způsob výpočtu a označování výživové (nutriční) hodnoty potravin uváděných do oběhu určených konečnému spotřebiteli nebo pro zařízení společného stravování.\n(2) Tato vyhláška se nevztahuje na\na) balené vody, které upravuje zvláštní právní předpis2),\nb) doplňky stravy, které upravuje zvláštní právní předpis3),\nc) potraviny určené pro zvláštní výživu, které upravuje zvláštní právní předpis4)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Pro účely této vyhlášky se rozumějí:\na) značením výživové hodnoty – veškeré údaje uváděné na obalu udávající\n1. energetickou hodnotu,\n2. živiny, a to bílkoviny, sacharidy, tuky, vlákninu, sodík, vitaminy nebo minerální látky, uvedené v příloze, vyskytující se v potravině ve významných množstvích; významným množstvím se rozumí hodnota vitaminů a minerálních látek vyšší než 15 % doporučené denní dávky ve 100 g nebo ve 100 ml potraviny nebo v jednom balení či jednotlivé porci potraviny. Doporučené denní dávky vitaminů a minerálních látek jsou stanoveny v příloze,\nb) výživovým tvrzením – tvrzení, jak je uvedeno v zákoně5),\nc) bílkovinou nebo bílkovinami v potravině – celkový obsah dusíku stanovený metodou podle Kjeldahla x 6,256),\nd) sacharidem – jakýkoliv sacharid, který je metabolizován člověkem, včetně vícesytných alkoholů (polyolů),\ne) cukry – všechny v potravině přítomné monosacharidy a disacharidy bez polyolů,\nf) tuky – celkové lipidy, včetně fosfolipidů,\ng) nasycenými mastnými kyselinami – mastné kyseliny bez dvojné vazby,\nh) mononenasycenými mastnými kyselinami – mastné kyseliny s jednou dvojnou cis- vazbou,\ni) polynenasycenými mastnými kyselinami – mastné kyseliny se dvěma nebo více dvojnými vazbami, které jsou oddělené cis,cis-methylenovou skupinou,\nj) vlákninou - polysacharidy s třemi nebo více monomerními jednotkami, které nejsou tráveny ani vstřebávány v tenkém střevě člověka, náležející do skupin\n1. jedlé polysacharidy přirozeně se vyskytující v přijímané potravě,\n2. jedlé polysacharidy, které byly získány z potravních surovin fyzikálními, enzymatickými nebo chemickými prostředky a které mají prospěšný fyziologický účinek prokázaný obecně uznávanými vědeckými poznatky, nebo\n3. jedlé polysacharidy, které mají prospěšný fyziologický účinek prokázaný obecně uznávanými vědeckými poznatky,\nk) průměrnou hodnotou – hodnota, která nejvhodněji vyjadřuje množství živiny v potravině s ohledem na změny ročního období, spotřebitelské zvyklosti a další faktory, které mohou způsobit kolísání aktuální hodnoty."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Výživová tvrzení se mohou týkat jen energetické hodnoty, živin uvedených v § 2 písm. a) bodu 2 a látek, které patří do některé skupiny těchto živin nebo jsou jejich složkami."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Energetická hodnota se vypočítá s použitím těchto přepočítacích koeficientů pro 1 g látky:\na) sacharidy, s výjimkou polyolů17 kJ=4 kcal\nb) polyoly10 kJ=2,4 kcal\nc) bílkoviny17 kJ=4 kcal\nd) tuky (triacylglyceroly)37 kJ=9 kcal\ne) alkohol29 kJ=7 kcal\nf) organické kyseliny13 kJ=3 kcal\ng) vláknina8 kJ=2 kcal\nh) erythritol0 kJ=0 kcal.\n(2) Přepočítací koeficient pro salatrimy, jimiž se rozumí tuky se sníženým obsahem energie řazené mezi potraviny nového typu, se stanoví pro 1 gram látky takto:\nsalatrimy 25 kJ - 6 kcal."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Uvádění výživové hodnoty je ve stanovených případech uloženo zákonem7). Jestliže je při označování potraviny uváděné do oběhu, při předkládání a nabídce této potraviny nebo v reklamě, s výjimkou obecně zaměřené reklamní akce, uvedeno výživové tvrzení, pak je uvádění výživové hodnoty povinné."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Pokud se označuje výživová hodnota, musí se údaje uvádět podle skupiny 1 nebo skupiny 2, a to v tomto pořadí:\na) skupina 1\n1. energetická hodnota,\n2. obsah bílkovin, sacharidů a tuků,\nb) skupina 2\n1. energetická hodnota,\n2. obsah bílkovin, sacharidů, cukrů, tuků, nasycených mastných kyselin, vlákniny a sodíku.\n(2) Pokud se výživové tvrzení vztahuje na cukry, nasycené mastné kyseliny, vlákninu nebo sodík, musí se údaje uvádět podle ustanovení skupiny 2. V ostatních případech se označování výživové hodnoty řídí podle skupiny 1.\n(3) Označování výživové hodnoty může zahrnovat také následující látky:\na) škrob,\nb) polyoly,\nc) mononenasycené (monoenové) mastné kyseliny,\nd) polynenasycené (polyenové) mastné kyseliny,\ne) cholesterol,\nf) minerální látky a vitaminy uvedené v příloze, přítomné v potravině ve významném množství [§ 2 písm. a) bod 2].\n(4) Pokud se uvádí výživové tvrzení, je uvedení látek nebo jejich složek, které náleží do některé skupiny živin podle odstavců 1 a 3, povinné. Pokud je uveden obsah polynenasycených (polyenových), mononenasycených (monoenových) mastných kyselin a cholesterolu, musí být rovněž udán obsah nasycených mastných kyselin."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Kde jsou uvedeny volné cukry, polyoly nebo škrob, následují tyto údaje bezprostředně po údajích o obsahu sacharidů v tomto uspořádání a v těchto jednotkách:\nsacharidyg\nz nich:\na) cukryg\nb) polyolyg\nc) škrobg.\n(2) Kde je uvedeno množství, popřípadě i typ mastných kyselin a hodnota cholesterolu, musí tyto údaje následovat bezprostředně po údaji o obsahu celkových tuků v tomto uspořádání:\ntukg\nz něho:\na) nasycené mastné kyselinyg\nb) mononenasycené mastné kyselinyg\nc) polynenasycené mastné kyselinyg\nd) cholesterolmg."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Údaje o energetické hodnotě a obsahu živin nebo jejich složek musí být vyjádřeny číselně. Přitom se použijí tyto jednotky:\na) energetická hodnota– kJ i kcal\nb) bílkoviny– g\nc) sacharidy– g\nd) tuk– g\ne) vláknina– g\nf) sodík– g\ng) cholesterol– mg\nh) vitaminy a minerály– mg nebo jednotky uvedené v příloze.\n(2) Údaje musí být uvedeny pro 100 g nebo pro 100 ml potraviny. Tyto údaje mohou být též vztaženy na podávanou dávku, jejíž množství je vyznačeno, nebo na jednu porci, pokud je uveden jejich počet v jednom balení. Údaje o vitaminech a minerálních látkách musí být též vyjádřeny v procentech doporučené denní dávky, uvedené v příloze. U vitaminů a minerálních látek se jejich množství v potravině označuje na obalu jen v případě, že toto množství převyšuje hodnotu 15 % celkové doporučené denní dávky. Údaje o procentech doporučené denní dávky vitaminů a minerálních látek mohou být provedeny i graficky.\n(3) Uváděná množství se musí vztahovat na potravinu ve stavu, v jakém je uváděna do oběhu nebo, pokud je to vhodné, na potravinu připravenou ke spotřebě podle návodu výrobce. Návod musí být připojen k výrobku a musí obsahovat podrobné pokyny pro tuto přípravu."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Hodnoty uvedené v § 7 a 8 musí být uvedeny jako průměrné, založené na výsledcích:\na) analýz výrobce potraviny,\nb) výpočtu známých nebo aktuálních průměrných hodnot použitých složek potraviny,\nc) výpočtu s použitím obecně uznávaných údajů nebo vědeckých poznatků."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "(1) Údaje podle této vyhlášky musí být na obale určeném pro spotřebitele uvedeny na jednom místě v tabulce s přiřazenými číselnými hodnotami. Kde to prostor na obale nedovoluje, uvádějí se informace v lineární formě. Tisk těchto údajů musí být proveden čitelně a nesmazatelně a musí být umístěn na dobře viditelném místě, nesmí se dodatečně přelepovat, měnit či zakrývat.\n(2) Údaje musí být uvedeny v českém jazyce. Toto ustanovení nevylučuje uvedení údajů též ve více jazycích."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Zrušuje se vyhláška č. 293/1997 Sb., o způsobu výpočtu a uvádění výživové (nutriční) hodnoty potravin a o značení údaje o možném nepříznivém ovlivnění zdraví."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2004.\nPříloha k vyhlášce č. 450/2004 Sb.\nDoporučené denní dávky vitamínů a minerálních látek\nVitamin nebo minerální látkaDoporučená denní dávka\nVitamin A800 μg\nThiamin (vitamin B1)1,1 mg\nRiboflavin (vitamin B2)1,4 mg\nVitamin B61,4 mg\nVitamin B122,5 μg\nKyselina pantothenová6 mg\nVitamin C80 mg\nVitamin D5 μg\nVitamin E12 mg\nVitamin K75 μg\nBiotin50 μg\nKyselina listová200 μg\nNiacin16 mg\nDraslík2000 mg\nFosfor700 mg\nFluoridy3,5 mg\nHořčík375 mg\nChloridy800 mg\nChrom40 μg\nJód150 μg\nMangan2 mg\nMěď1 mg\nMolybden50 μg\nSelen55 μg\nVápník800 mg\nZinek10 mg\nŽelezo14 mg\n1) Směrnice Rady 90/496/EHS ze dne 24. září 1990 o nutričním označování potravin.\nSměrnice Komise 2003/120/ES ze dne 5. prosince 2003, kterou se mění směrnice Rady 90/496/EHS o nutričním označování potravin.\nSměrnice Komise 2008/100/ES ze dne 28. října 2008, kterou se mění směrnice Rady 90/496/EHS o nutričním označování potravin, pokud jde o doporučené denní dávky, převodní faktory pro energetickou hodnotu a definice.\n2) Vyhláška č. 292/1997 Sb., o požadavcích na zdravotní nezávadnost balených vod a o způsobu jejich úpravy, ve znění vyhlášky č. 241/1998 Sb. a vyhlášky č. 465/2000 Sb.\n3) Vyhláška č. 446/2004 Sb., kterou se stanoví požadavky na doplňky stravy a na obohacování potravin potravními doplňky.\n4) Vyhláška č. 54/2004 Sb., o potravinách určených pro zvláštní výživu.\n5) § 2 písm. w) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 306/2000 Sb.\n6) ČSN ISO 1871 Zemědělské a potravinářské výrobky. Obecné pokyny pro stanovení dusíku metodou podle Kjeldahla.\n7) § 6 odst. 1 písm. m) zákona č. 110/1997 Sb., ve znění zákona č. 306/2000 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Přepočítací koeficient pro salatrimy, jimiž",
+      "definition": "tuky se sníženým obsahem energie řazené mezi potraviny nového typu, se stanoví pro 1 gram látky takto:",
+      "source_provision": "§ 4"
+    }
+  ]
+}

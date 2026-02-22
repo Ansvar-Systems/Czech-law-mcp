@@ -1,0 +1,27 @@
+{
+  "id": "cz:300/2022",
+  "type": "statute",
+  "title": "300/2022 Sb., Nařízení vlády o stanovení hodnot vnitřního výnosového procenta investic pro jednotlivé druhy obnovitelných zdrojů",
+  "title_en": "",
+  "short_name": "300/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-10-07",
+  "in_force_date": "2022-10-22",
+  "url": "https://www.e-sbirka.cz/sb/2022/300",
+  "description": "Nařízení vlády o stanovení hodnot vnitřního výnosového procenta investic pro jednotlivé druhy obnovitelných zdrojů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Hodnota vnitřního výnosového procenta investic pro jednotlivé druhy obnovitelných zdrojů",
+      "content": "Hodnota vnitřního výnosového procenta investic za dobu trvání práva na podporu je v případě výrobny elektřiny využívající energii\na) vody, větru, geotermální nebo slunečního záření 8,4 %,\nb) biomasy 8,4 %,\nc) bioplynu 8,4 %."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti patnáctým dnem po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

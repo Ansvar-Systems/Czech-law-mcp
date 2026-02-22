@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:28/1954",
+  "type": "statute",
+  "title": "28/1954 Ú. l., Vyhláška úřadu pro normalisaci, kterou se mění technické státní normy ČSN 64 2311 a ČSN 37 1600.",
+  "title_en": "",
+  "short_name": "28/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-02-02",
+  "in_force_date": "1954-01-30",
+  "url": "https://www.e-sbirka.cz/ul0/1954/28",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se mění technické státní normy ČSN 64 2311 a ČSN 37 1600.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Až do revise technické státní normy ČSN 64 2001 Lisovací hmoty tvrditelné se zvyšuje pro lisovací hmotu tvrdítelnou 311 ČSN 64 2311 hodnota nasáklivosti z 0.3% až na nejvýše 0.5%."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Čl. 37 normy ČSN 37 1600 Spojovací materiál pro elektrická svítidla se mění a bude zníti takto:\n37. Zkouška mechanické pevnosti.\na) Mechanická pevnost spojovacího materiálu pro elektrická svítidla se zkouší zkouškou v přesýpacím bubnu podle normy ČSN 34 5610 čl. 22, jehož každá dopadová plocha je vyložena tabuli tvrzeného papíru tloušťky 3 mm.\nb) Zkouší se vždy jeden vzorek, který se podrobí počtu pádů podle jeho váhy, a to podle této tabulky:\nVáha vzorku\ngPočet pádů\ndo 3050\nnad 30 do 5025\nnad 5010\nc) Zkouškou se nesmí vzorek poškodit tak, aby to vadilo jeho dalšímu užívání. Zvláště se nesmí porušit isolační díly pouzdra tak, aby byly porušeny nejmenší předepsané povrchové cesty a vzdušné vzdálenosti."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 30. ledna 1954."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:103/2010",
+  "type": "statute",
+  "title": "103/2010 Sb., Vyhláška o provedení některých ustanovení zákona o právu na informace o životním prostředí",
+  "title_en": "",
+  "short_name": "103/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-04-15",
+  "in_force_date": "2015-10-09",
+  "url": "https://www.e-sbirka.cz/sb/2010/103",
+  "description": "Vyhláška o provedení některých ustanovení zákona o právu na informace o životním prostředí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět vyhlášky",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropské unie1) a upravuje\na) témata prostorových dat,\nb) podmínky užití prostorových dat a služeb založených na prostorových datech,\nc) rozsah průběžně aktualizovaných dat velkého objemu,\nd) lhůty, ve kterých musí povinný subjekt nebo jiný poskytovatel prostorových dat vytvořit metadata k jím pořízeným prostorovým datům a službám založeným na prostorových datech,\ne) způsob vedení evidence o veřejném využívání a zpřístupňování prostorových dat."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Témata prostorových dat",
+      "content": "[K § 15a písm. a) zákona]\nTémata prostorových dat jsou uvedena v příloze č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Podmínky užití prostorových dat a služeb založených na prostorových datech",
+      "content": "[K § 15a písm. b) zákona]\n(1) Při každém užití prostorových dat a služeb založených na prostorových datech se na viditelném místě uvede označení povinného subjektu nebo jiného poskytovatele. Označením je název nebo obchodní firma, popřípadě jméno a příjmení, jde-li o fyzickou osobu, copyright nebo označení dat nemající vliv na jejich použitelnost, zejména vodoznak nebo mikroposuny dat.\n(2) Nabyvatel na požádání poskytne povinnému subjektu nebo jinému poskytovateli ukázku nových prostorových dat vytvořených nad poskytnutými prostorovými daty.\n(3) Pokud povinný subjekt nebo jiný poskytovatel poskytne prostorová data a služby založené na prostorových datech zdarma, nesmí být na straně nabyvatele cena výsledného prodávaného produktu navýšena o cenu za prostorová data ani služby založené na prostorových datech.\n(4) Prostorová data a služby založené na prostorových datech se poskytují pouze pro účel sjednaný ve smlouvě, pro další užití dat se vždy uzavírá nová licenční smlouva nebo mění platná smlouva.\n(5) Nabyvatel zajistí ochranu prostorových dat před nepovoleným používáním.\n(6) Nabyvatel může pověřit třetí stranu zpracováním prostorových dat pro potřeby nabyvatele. Pokud je nabyvatel současně zadavatelem veřejné zakázky realizované prostřednictvím třetí strany, je nabyvatel oprávněn pro účely zpracování zadávací dokumentace zpřístupnit nezbytnou část prostorových dat této třetí straně. Nabyvatel o poskytnutí dat třetí straně informuje primárního poskytovatele dat.\n(7) Prostorová data a služby založené na prostorových datech jsou pro účely výběrového řízení nebo plnění zakázky orgánů veřejné správy poskytovány zdarma.\n(8) Pokud povinný subjekt nebo jiný poskytovatel za poskytovaná prostorová data nebo služby založené na prostorových datech žádá úplatu, zpracuje podrobný přehled obsahující ceny za prostorová data a služby založené na prostorových datech a za hodinu práce při poskytování jiných služeb, než jsou služby založené na prostorových datech. Přehled cen zpřístupní povinný subjekt nebo jiný poskytovatel prostřednictvím metadat."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozsah průběžně aktualizovaných dat velkého objemu",
+      "content": "[K § 15a písm. d) zákona]\nZa průběžně aktualizovaná data velkého objemu jsou považována taková prostorová data, u kterých je nejvýše každých 10 dní aktualizováno alespoň 5 % všech entit v sadě prostorových dat, přičemž celkový objem sady prostorových dat obsahuje více než deset tisíc entit."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Lhůty pro vytvoření metadat",
+      "content": "[K § 15a písm. e) zákona]\nV případě nově vzniklých prostorových dat a služeb založených na prostorových datech vytvoří povinný subjekt nebo jiný poskytovatel metadata současně se vznikem prostorových dat nebo služeb založených na prostorových datech."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob vedení evidence o veřejném využívání a zpřístupňování prostorových dat",
+      "content": "[K § 15a písm. f) zákona]\nZpůsob vedení evidence o veřejném využívání a zpřístupňování prostorových dat je uveden v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Přechodná ustanovení",
+      "content": "Povinný subjekt nebo jiný poskytovatel prostorových dat vytvoží metadata podle § 11b odst. 4 zákona\na) do 24. prosince 2010 v případě již existujících prostorových dat, jejichž témata jsou uvedena v částech I. a II. přílohy č. 1 k této vyhlášce,\nb) do 24. prosince 2013 v případě již existujících prostorových dat, jejichž témata jsou uvedena v části III. přílohy č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem ode dne jejího vyhlášení.\nPříloha č. 1 k vyhlášce č. 103/2010 Sb.\nTÉMATA PROSTOROVÝCH DAT\nPovinné subjekty prostřednictvím geoportálu zpřístupňují prostorová data odpovídající alespoň jednomu z témat dále uvedených, která povinné subjekty tvoří, přijímají, spravují nebo aktualizují. Na geoportálu se zpřístupní i jiná prostorová data než ta, jejichž témata jsou dále uvedena, pokud o to povinný subjekt požádá a pokud jsou splněny technické požadavky. Na geoportálu se zpřístupní i prostorová data jiného poskytovatele prostorových dat, pokud o to jiný poskytovatel prostorových dat požádá nebo tak stanoví jiný právní předpis a pokud jsou splněny technické požadavky."
+    }
+  ],
+  "definitions": []
+}

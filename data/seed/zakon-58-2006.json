@@ -1,0 +1,214 @@
+{
+  "id": "cz:58/2006",
+  "type": "statute",
+  "title": "58/2006 Sb., Vyhláška o způsobu vedení samostatné evidence investičních nástrojů a evidence navazující na samostatnou evidenci investičních nástrojů",
+  "title_en": "",
+  "short_name": "58/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-03-08",
+  "in_force_date": "2008-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/58",
+  "description": "Vyhláška o způsobu vedení samostatné evidence investičních nástrojů a evidence navazující na samostatnou evidenci investičních nástrojů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Tato vyhláška upravuje způsob vedení samostatné evidence investičních nástrojů (dále jen „samostatná evidence“) a evidence navazující na samostatnou evidenci investičních nástrojů (dále jen „navazující evidence“) a podrobnosti o způsobu zasílání informací osobou vedoucí evidenci.\n(2) Navazující evidencí podle této vyhlášky je i evidence navazující na evidenci cenných papírů vedenou Českou národní bankou podle § 93 odst. 5 zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) evidencí samostatná evidence nebo navazující evidence,\nb) systémem vedení evidence hardwarové a softwarové prostředky, kterými se vytvářejí a uchovávají zápisy na majetkových účtech,\nc) příkazem projev vůle oprávněné osoby určený osobě vedoucí evidenci, k jehož provedení je třeba zápisu do evidence,\nd) zápisem do evidence jakýkoliv zápis údajů na majetkovém účtu, zejména při\n1. zřízení nebo zrušení majetkového účtu,\n2. změně údajů o osobě majitele účtu,\n3. vydání a zrušení zaknihovaného cenného papíru,\n4. připsání na účet nebo odepsání z účtu listinného cenného papíru při jeho převzetí do úschovy nebo jeho vydání z úschovy,\n5. připsání zahraničního cenného papíru na účet vedený v zahraničí pro osobu vedoucí evidenci nebo odepsání zahraničního cenného papíru z účtu vedeného v zahraničí pro osobu vedoucí evidenci,\n6. převodu nebo přechodu investičního nástroje nebo spoluvlastnického podílu na investičním nástroji,\n7. zřízení, změně nebo zániku zástavního práva k investičnímu nástroji,\n8. zápisu nebo zrušení pozastavení výkonu práva vlastníka nakládat se zaknihovaným investičním nástrojem,\n9. změně jmenovité hodnoty nebo jiných náležitostí investičního nástroje,\ne) dokumentem týkajícím se údajů zapsaných do evidence (dále jen „dokument“) příkaz k zápisu do evidence a doklady prokazující oprávnění osoby daný příkaz podat; tam, kde provedení nebo způsob provedení příkazu závisí na dalších skutečnostech, i doklady tyto skutečnosti prokazující, zejména informace o změně stavu na účtu zákazníků nebo účtu vedeném zahraniční osobou,\nf) uživatelem zaměstnanec nebo jiná osoba, která plní pro osoby vedoucí evidenci úkoly vyplývající z vedení této evidence,\ng) závěrkou provozního dne okamžik ukončení zápisů do evidence v provozním dni,\nh) smlouvou o vedení majetkového účtu smlouva uvedená v § 5 odst. 3 nebo 4,\ni) rekonciliací kontrola shody údajů zapsaných do evidence se skutečným stavem a postup odstranění zjištěných nesrovnalostí."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Organizační a technické zabezpečení vedení evidence",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Evidence se vede v elektronické podobě.\n(2) Systém vedení evidence\na) zabezpečuje uchování všech údajů, jejichž vedení v evidenci ukládá tato vyhláška,\nb) umožňuje nastavení a ověřování přístupových práv jednotlivých uživatelů,\nc) dostatečně zabezpečuje ochranu údajů vedených v evidenci proti neoprávněnému nakládání,\nd) zaznamenává informaci o tom, který uživatel údaj do evidence vložil,\ne) umožňuje pravidelné zálohování dat,\nf) umožňuje úplnou a přesnou rekonstrukci dat.\n(3) Osoba vedoucí evidenci zajistí pravidelné zálohování dat, ze kterých je možné údaje vedené v evidenci rekonstruovat. Nosiče se zaznamenanými záložními daty se uchovávají mimo budovu, v níž jsou umístěny technické prostředky systému vedení evidence, které slouží k uchovávání dat pro potřeby běžného provozu. Zálohování se provádí podle časového rozvrhu předem stanoveného osobou vedoucí evidenci, vždy však bez zbytečného odkladu po závěrce provozního dne.\n(4) Osoba vedoucí evidenci zajistí, aby nosiče se zaznamenanými záložními daty byly zabezpečeny před neoprávněnými zásahy třetích osob a před ztrátou a poškozením.\n(5) Osoba vedoucí evidenci zabezpečí, aby pro případ poruchy funkcí systému vedení evidence byl zajištěn náhradní provoz systému. Při náhradním provozu systému bude zajištěno plnění požadavků uvedených v odstavci 2.\n(6) Organizační a technické zabezpečení vedení evidence je upraveno u osoby vedoucí evidenci závazným způsobem v písemné podobě a stanoví alespoň\na) podmínky přístupu uživatelů do systému vedení evidence, rozsah přístupových práv a proces jejich nastavování, včetně způsobu rozhodování o rozsahu přístupových práv jednotlivých uživatelů a rozhodování o jejich změnách,\nb) postup a časový rozvrh zálohování dat podle odstavce 3,\nc) postup při rekonstrukci údajů vedených v evidenci ze záložních dat,\nd) způsob uchovávání dokumentů,\ne) postup při řešení situací, kdy dojde k poruše funkcí systému vedení evidence, včetně způsobu zajištění náhradního provozu,\nf) postup pro řešení situace, kdy prostředky, které jsou užívány pro vedení evidence na základě smlouvy s jinou osobou, není možné nadále užívat,\ng) postup pro opravu chyb v evidenci.\n(7) Ustanovení odstavců 1 až 6 se nepoužijí pro zahraniční osoby, které mají povolení orgánu dohledu jiného členského státu Evropské unie k poskytování investičních služeb."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Časový rozvrh příjmu a zpracování příkazů v průběhu provozního dne (dále jen „časový rozvrh provozního dne“) stanovený osobou vedoucí evidenci se uveřejňuje způsobem umožňujícím dálkový přístup po dobu trvání vedení evidence. Součástí časového rozvrhu provozního dne je stanovení závěrky provozního dne.\n(2) Zápis do navazující evidence, který vyplývá ze zápisu provedeného na účtu zákazníků, se provede bez zbytečného odkladu po provedení zápisu na účtu zákazníků, a to k provoznímu dni, ke kterému došlo k zápisu na účtu zákazníků. Obdobně se postupuje při vedení samostatné evidence zahraničních cenných papírů.\n(3) Zápis převzetí do úschovy a vydání z úschovy listinných cenných papírů se provede bez zbytečného odkladu po převzetí listinných cenných papírů do úschovy nebo vydání těchto cenných papírů z úschovy, a to k provoznímu dni, ve kterém byly cenné papíry převzaty do úschovy nebo vydány z úschovy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zřízení majetkového účtu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Osoba vedoucí evidenci při zřizování majetkového účtu ověří údaje o osobě majitele účtu zapisované do evidence. Obdobně ověří údaje o osobě majitele účtu při zápisu změny těchto údajů do evidence. Tím nejsou dotčeny povinnosti podle jiných právních předpisů1).\n(2) Osoba vedoucí samostatnou evidenci zřídí účet zákazníků pouze osobě, která prokáže, že je oprávněna vést navazující evidenci2).\n(3) Obchodník s cennými papíry nebo zahraniční osoba se sídlem ve státě, který není členským státem Evropské unie, a která poskytuje na území České republiky investiční služby prostřednictvím organizační složky podle § 28 zákona nebo investiční společnost při úschově a správě cenných papírů vydaných fondem kolektivního investování3) (dále jen „povinná osoba“) zřizuje majetkový účet vždy\na) uzavírá-li jako schovatel smlouvu o úschově listinných cenných papírů, nemá-li již uschovatel u této povinné osoby účet zřízen, a\nb) při uzavření smlouvy o poskytnutí investiční služby, v rámci jejíhož plnění mají být povinnou osobou převzaty zahraniční cenné papíry podle § 93 odst. 1 písm. c) zákona, nemá-li již zákazník u této povinné osoby účet zřízen.\n(4) V jiných případech, než které jsou uvedeny v odstavci 3, zřizuje osoba vedoucí evidenci majetkový účet na základě smlouvy s majitelem účtu nebo emitentem zaknihovaného cenného papíru, z jejíhož obsahu vyplývá osobě vedoucí evidenci závazek vůči majiteli účtu zřídit a vést majetkový účet."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Náležitosti majetkových účtů",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Účet vlastníka obsahuje zejména\na) označení účtu, které účet v evidenci jednoznačně identifikuje,\nb) údaj, že se jedná o účet vlastníka,\nc) údaje o osobě podle § 2 odst. 1 písm. j) zákona, pro kterou je veden,\nd) údaje o investičních nástrojích podle § 12 odst. 1 a 2, § 15, 18 a 21,\ne) údaje o samostatně převoditelných právech podle § 12 odst. 3.\n(2) Účet vlastníka může, je-li to sjednáno ve smlouvě o vedení majetkového účtu, vedle údajů podle odstavce 1, obsahovat údaj o spoluvlastníkovi investičního nástroje a velikosti jeho spoluvlastnického podílu.\n(3) Účet vlastníka vedený pro fyzickou osobu, které nebylo přiděleno rodné číslo, obsahuje též označení, které fyzickou osobu v evidenci jednoznačně identifikuje. Majetkový účet vedený pro právnickou osobu, které nebylo přiděleno identifikační číslo, obsahuje též označení, které ji v evidenci jednoznačně identifikuje.\n(4) Účet zákazníků obsahuje\na) údaje podle odstavce 1 písm. a) a c),\nb) údaj, že se jedná o účet zákazníků,\nc) údaje o investičních nástrojích podle § 12 odst. 1, § 15 odst. 1, § 18 odst. 1 a § 21 odst. 1,\nd) údaje o samostatně převoditelných právech podle § 12 odst. 3."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zápis do evidence",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Osoba vedoucí evidenci provádí zápisy do evidence tak, aby údaje zapsané v evidenci odpovídaly skutečnému stavu.\n(2) Osoba vedoucí evidenci před provedením zápisu do evidence ověří, zda je příkaz podán oprávněnou osobou; tam, kde provedení nebo způsob provedení příkazu závisí na dalších skutečnostech, ověří, zda tyto skutečnosti nastaly."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Výpis z majetkového účtu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Výpis z majetkového účtu obsahuje\na) údaje o osobě vedoucí evidenci, která výpis z majetkového účtu vystavila,\nb) údaje evidované na majetkovém účtu podle § 6; uvedení údajů podle § 12 odst. 1 písm. b) není třeba, je-li ve výpise z majetkového účtu uveden údaj podle § 12 odst. 1 písm. c) ve spojení s obchodní firmou, názvem nebo jménem emitenta,\nc) provozní den, ke kterému je výpis z majetkového účtu vystaven,\nd) den, ve kterém je výpis z majetkového účtu vystaven.\n(2) Vystavuje-li osoba vedoucí evidenci na základě smlouvy s majitelem majetkového účtu výpis v podobě zprávy odpovídající požadavkům mezinárodního systému pro telekomunikaci mezi finančními institucemi (SWIFT),\na) ustanovení odstavce 1 písm. a) se nepoužije; není-li osoba vedoucí evidenci odesílatelem zprávy odpovídající požadavkům SWIFT, musí být ve zprávě jako její původce označena v souladu s pravidly odpovídajícími požadavkům SWIFT,\nb) k identifikaci majitele majetkového účtu se namísto údajů o osobě podle odstavce 1 písm. b) ve spojení s § 6 odst. 1 písm. b) použije označení subjektu odpovídající požadavkům SWIFT; není-li osoba vedoucí evidenci příjemcem zprávy odpovídající požadavkům SWIFT, musí být v souladu s pravidly odpovídajícími požadavkům SWIFT ve zprávě označena jako konečný adresát,\nc) jde-li o výpis z účtu zákazníka, musí z údajů uvedených ve zprávě odpovídající požadavkům SWIFT vyplývat, že majitel účtu není vlastníkem investičních nástrojů; jde-li o výpis z účtu vlastníka, není nutné tuto skutečnost uvádět.\n(3) Pokud je výpis z majetkového účtu vystaven podle stavu k jinému okamžiku, než je závěrka provozního dne, musí být tato skutečnost ve výpise uvedena spolu s určením okamžiku, ke kterému je výpis vystaven."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zrušení majetkového účtu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Majetkový účet nelze zrušit, dokud jsou na něm evidovány investiční nástroje."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Vedení evidence, jejíž vedení není zákonem uloženo",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Osoba oprávněná vést evidenci, jejíž vedení není zákonem této osobě uloženo podle § 12c odst. 1 zákona a § 9 odst. 1 písm. b) zákona o kolektivním investování4), oznámí České národní bance,\na) že zahájí vedení evidence, a označí den, od kterého evidenci povede,\nb) že ukončí vedení této evidence, a označí den, od kterého vedení evidence ukončí,\nc) její adresu pro doručování ve věcech vedení evidence a každou její změnu. V případě zahraniční osoby oznámí také adresu na území České republiky, pokud takovou adresu zřídila."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Pro vedení evidence jiných investičních nástrojů, než jsou zaknihované cenné papíry kolektivního investování, listinné cenné papíry v úschově, zahraniční cenné papíry nebo cenné papíry v evidenci navazující na evidenci cenných papírů vedenou Českou národní bankou, se použijí ustanovení části prvé a šesté této vyhlášky a ustanovení části druhé, třetí nebo čtvrté této vyhlášky, upravující vedení evidence investičních nástrojů, které svou povahou nejblíže odpovídají těmto jiným investičním nástrojům. Při posuzování povahy jiného investičního nástroje se přihlédne zejména k významu zápisu do evidence pro vznik a trvání práv z investičního nástroje, možnosti převádět práva spojená s investičním nástrojem zápisem do evidence a k možnosti převzetí tohoto investičního nástroje třetí osobou."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Údaje evidované na majetkovém účtu o zaknihovaných cenných papírech kolektivního investování a samostatně převoditelných právech",
+      "chapter": "ČÁST DRUHÁ - EVIDENCE ZAKNIHOVANÝCH CENNÝCH PAPÍRŮ KOLEKTIVNÍHO INVESTOVÁNÍ",
+      "content": "(1) Údaji o zaknihovaných cenných papírech kolektivního investování na majetkovém účtu jsou zejména\na) druh cenného papíru,\nb) náležitosti cenného papíru stanovené jiným právním předpisem5),\nc) identifikační označení podle mezinárodního systému číslování pro identifikaci cenných papírů (ISIN); nebyl-li ISIN přidělen, jiné jednoznačné označení cenného papíru, pokud bylo přiděleno,\nd) počet kusů cenných papírů,\ne) omezení převoditelnosti cenného papíru stanovené emitentem.\n(2) Na účtu vlastníka se na základě příkazu oprávněné osoby evidují vedle údajů podle odstavce 1 údaje o\na) zástavním právu k cennému papíru a údaj o osobě zástavního věřitele podle § 2 odst. 1 písm. j) zákona,\nb) osobě oprávněné vykonávat práva spojená s cenným papírem podle § 2 odst. 1 písm. j) zákona,\nc) pozastavení výkonu práva vlastníka nakládat s cenným papírem, údaje o osobě podle § 2 odst. 1 písm. j) zákona, z jejíhož příkazu bylo nakládání s cenným papírem pozastaveno, a o době, na kterou je nakládání s cenným papírem pozastaveno,\nd) oddělení samostatně převoditelných práv od cenného papíru s uvedením, o jaké samostatně převoditelné právo se jedná, včetně jednoznačně rozlišujících údajů.\n(3) Údaji o samostatně převoditelných právech oddělených od zaknihovaného cenného papíru kolektivního investování, která se samostatně evidují na majetkovém účtu, jsou zejména\na) určení samostatně převoditelného práva uvedením\n1. ISIN; nebo nebyl-li ISIN přidělen, jiného jednoznačného označení, pokud bylo přiděleno, nebo\n2. popisu, o jaké samostatně převoditelné právo se jedná, s jednoznačně rozlišujícími údaji, včetně identifikace cenného papíru, od něhož bylo samostatně převoditelné právo odděleno, údaji podle odstavce 1 písm. b) nebo c),\nb) počet jednotek samostatně převoditelného práva, pokud rozdělení práva na jednotky připadá v úvahu."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Rekonciliace samostatné evidence a navazující evidence zaknihovaných cenných papírů kolektivního investování",
+      "chapter": "ČÁST DRUHÁ - EVIDENCE ZAKNIHOVANÝCH CENNÝCH PAPÍRŮ KOLEKTIVNÍHO INVESTOVÁNÍ",
+      "content": "(1) Osoba vedoucí samostatnou evidenci zaknihovaných cenných papírů kolektivního investování ověří po závěrce každého provozního dne, zda se celkový počet zastupitelných cenných papírů evidovaných na majetkových účtech shoduje s celkovým počtem vydaných cenných papírů a zda se celkový počet samostatně převoditelných práv oddělených od cenných papírů, které jsou evidovány na majetkových účtech, shoduje s celkovým počtem vydaných samostatně převoditelných práv.\n(2) Osoba vedoucí navazující evidenci ověří po závěrce každého provozního dne, zda se celkový počet zastupitelných cenných papírů evidovaných na majetkových účtech shoduje s počtem zastupitelných cenných papírů evidovaných na účtu zákazníků vedeném v samostatné evidenci pro osobu vedoucí navazující evidenci a zda se celkový počet samostatně převoditelných práv oddělených od cenných papírů, které jsou evidovány na majetkových účtech, shoduje s celkovým počtem samostatně převoditelných práv evidovaných na účtu zákazníků v samostatné evidenci pro osobu vedoucí navazují evidenci."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Vedení evidence emise zaknihovaných cenných papírů kolektivního investování",
+      "chapter": "ČÁST DRUHÁ - EVIDENCE ZAKNIHOVANÝCH CENNÝCH PAPÍRŮ KOLEKTIVNÍHO INVESTOVÁNÍ",
+      "content": "(1) Jsou-li v samostatné evidenci na majetkových účtech zapsány zaknihované cenné papíry kolektivního investování, osoba vedoucí samostatnou evidenci vede pro emitenta těchto cenných papírů evidenci emise.\n(2) Evidence emise zaknihovaných cenných papírů kolektivního investování obsahuje\na) údaje stanovené v § 12 odst. 1 písm. a) až c) a e),\nb) údaj o celkovém počtu cenných papírů vydaných v emisi,\nc) údaje o vlastnících cenných papírů podle § 2 odst. 1 písm. j) zákona,\nd) údaj o počtu cenných papírů jednotlivých vlastníků,\ne) údaje o spoluvlastnících cenného papíru podle § 2 odst. 1 písm. j) zákona a velikosti jejich spoluvlastnických podílů, pokud se podle § 6 odst. 2 zapisují na majetkových účtech,\nf) údaje podle § 12 odst. 2.\n(3) Údaje podle odstavce 2 písm. c) až f) jsou v evidenci emise zaznamenávány pouze při vystavení výpisu z evidence emise.\n(4) Výpis z evidence emise se vystavuje podle stavu k závěrce provozního dne, k němuž emitent o výpis z evidence požádal. Výpis z evidence emise obsahuje\na) údaj, že se jedná o výpis z evidence emise v samostatné evidenci investičních nástrojů,\nb) údaje o osobě vedoucí samostatnou evidenci podle § 2 odst. 1 písm. j) zákona, která výpis z evidence emise vystavila,\nc) údaje evidované v evidenci emise podle odstavce 2 písm. a) až e) a § 12 odst. 2 písm. a), b) a d); uvedení údajů podle § 12 odst. 1 písm. b) není třeba, je-li ve výpise z evidence emise uveden údaj podle § 12 odst. 1 písm. c) ve spojení s obchodní firmou emitenta,\nd) provozní den, ke kterému je výpis z evidence emise vystaven,\ne) den, ve kterém je výpis z evidence emise vystaven.\n(5) Výpis z evidence emise vystavený pro účely přeměny podoby zaknihovaného cenného papíru kolektivního investování obsahuje vedle údajů podle odstavce 4 údaje o pozastavení výkonu práva vlastníka nakládat s cenným papírem, údaje o osobě podle § 2 odst. 1 písm. j) zákona nebo označení soudu nebo státního orgánu, z jejichž příkazu bylo nakládání s cenným papírem pozastaveno, a o době, na kterou je nakládání s cenným papírem pozastaveno.\n(6) Osoba vedoucí navazující evidenci poskytne na žádost osoby vedoucí samostatnou evidenci pro účely výpisu z evidence emise zaknihovaných cenných papírů kolektivního investování údaje podle odstavce 3 písm. c) až f), odstavce 4 písm. d) a e) a odstavce 5.\n(7) Pro samostatně převoditelná práva oddělená od zaknihovaných cenných papírů kolektivního investování podle § 12 odst. 3 se použijí odstavce 1 až 6 obdobně."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Údaje evidované na majetkovém účtu o listinných cenných papírech v úschově",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE LISTINNÝCH CENNÝCH PAPÍRŮ V ÚSCHOVĚ",
+      "content": "(1) Údaji o listinném cenném papíru na majetkovém účtu jsou zejména\na) určení listinného cenného papíru uvedením\n1. ISIN; nebo nebyl-li ISIN přidělen, jiného jednoznačného označení cenného papíru, pokud bylo přiděleno, anebo\n2. údajů o osobě emitenta, názvu cenného papíru, druhu a formě cenného papíru, jmenovité hodnotě a právech, která cenný papír odlišují od cenných papírů, se kterými by byl jinak zastupitelný; u cenných papírů, které nejsou akciemi, obdobnými cennými papíry představujícími podíl na společnosti nebo cennými papíry vydanými fondem kolektivního investování, se identifikace doplní uvedením předmětu a splatnosti práv, která z cenného papíru vznikají,\nb) počet kusů nebo souhrnná jmenovitá hodnota listinných cenných papírů, nelze-li počet kusů určit.\n(2) Pokud je to sjednáno ve smlouvě o vedení majetkového účtu, evidují se na základě příkazu oprávněné osoby na majetkovém účtu v evidenci vedle údajů podle odstavce 1 také údaje o\na) oddělení samostatně převoditelných práv od cenného papíru s uvedením, o jaké samostatně převoditelné právo se jedná, včetně jednoznačně rozlišujících údajů,\nb) zástavním právu váznoucím na cenném papíru a o osobě zástavního věřitele."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE LISTINNÝCH CENNÝCH PAPÍRŮ V ÚSCHOVĚ",
+      "content": "Zápis převodu listinného cenného papíru do evidence provede osoba vedoucí evidenci jen tehdy, je-li prokázáno, že ke změně osoby vlastníka cenného papíru dojde na základě smlouvy o převodu nejpozději k okamžiku zápisu převodu do evidence."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Rekonciliace evidence listinných cenných papírů",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE LISTINNÝCH CENNÝCH PAPÍRŮ V ÚSCHOVĚ",
+      "content": "(1) Osoba vedoucí samostatnou evidenci pravidelně, nejméně jednou za 12 měsíců, ověřuje, zda se celkový počet zastupitelných listinných cenných papírů evidovaných na majetkových účtech shoduje s celkovým počtem zastupitelných listinných cenných papírů skutečně uložených v úschově.\n(2) Osoba vedoucí navazující evidenci pravidelně, nejméně jednou za měsíc, ověřuje, zda se celkový počet jednotlivých zastupitelných listinných cenných papírů evidovaných na majetkových účtech shoduje s počtem jednotlivých zastupitelných listinných cenných papírů evidovaných na účtu zákazníků vedeném v samostatné evidenci pro osobu vedoucí navazující evidenci."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Údaje evidované na majetkovém účtu o zahraničních cenných papírech",
+      "chapter": "ČÁST ČTVRTÁ - EVIDENCE ZAHRANIČNÍCH CENNÝCH PAPÍRŮ",
+      "content": "(1) Údaji o zahraničním cenném papíru, který je investičním nástrojem (dále jen „zahraniční cenný papír“) na majetkovém účtu v evidenci, jsou zejména\na) určení zahraničního cenného papíru uvedením\n1. ISIN; nebo nebyl-li ISIN přidělen, jiného jednoznačného označení cenného papíru, pokud bylo přiděleno, anebo\n2. údajů o osobě emitenta, názvu cenného papíru, druhu, formě a podobě cenného papíru, jmenovité hodnotě a právech, která cenný papír odlišují od cenných papírů, se kterými by byl jinak zastupitelný; u cenných papírů, které nejsou akciemi, obdobnými cennými papíry představujícími podíl na společnosti nebo cennými papíry vydanými fondem kolektivního investování, se identifikace podle předchozí věty doplní uvedením předmětu a splatnosti práv, která z cenného papíru vznikají,\nb) počet kusů nebo souhrnná jmenovitá hodnota zahraničních cenných papírů, nelze-li počet kusů určit.\n(2) Pokud je to sjednáno ve smlouvě o vedení majetkového účtu, evidují se na základě příkazu oprávněné osoby na majetkovém účtu v evidenci vedle údajů podle odstavce 1 také údaje o\na) oddělení samostatně převoditelných práv od cenného papíru s uvedením, o jaké samostatně převoditelné právo se jedná, včetně jednoznačně rozlišujících údajů,\nb) zástavním právu váznoucím na cenném papíru a o osobě zástavního věřitele."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST ČTVRTÁ - EVIDENCE ZAHRANIČNÍCH CENNÝCH PAPÍRŮ",
+      "content": "Zápis převodu zahraničního cenného papíru do evidence provede osoba vedoucí evidenci jen tehdy, je-li prokázáno, že ke změně osoby vlastníka cenného papíru dojde na základě smlouvy o převodu nejpozději k okamžiku zápisu převodu do evidence."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Rekonciliace evidence zahraničních cenných papírů",
+      "chapter": "ČÁST ČTVRTÁ - EVIDENCE ZAHRANIČNÍCH CENNÝCH PAPÍRŮ",
+      "content": "(1) Osoba vedoucí samostatnou evidenci pravidelně, nejméně jednou za měsíc, ověřuje, zda se celkový počet zastupitelných zahraničních cenných papírů evidovaných na majetkových účtech shoduje s celkovým počtem zastupitelných zahraničních cenných papírů vedených pro osobu vedoucí samostatnou evidenci na účtech v evidenci zahraničních osob.\n(2) Osoba vedoucí navazující evidenci pravidelně, nejméně jednou za měsíc, ověřuje, zda se celkový počet jednotlivých zastupitelných zahraničních cenných papírů evidovaných na majetkových účtech shoduje s počtem jednotlivých zastupitelných zahraničních cenných papírů evidovaných na účtu zákazníků vedeném v samostatné evidenci pro osobu vedoucí navazující evidenci."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Údaje evidované o cenných papírech na účtu vlastníka",
+      "chapter": "ČÁST PÁTÁ - EVIDENCE NAVAZUJÍCÍ NA EVIDENCI CENNÝCH PAPÍRŮ VEDENOU ČESKOU NÁRODNÍ BANKOU",
+      "content": "(1) Údaji o cenném papíru na účtu vlastníka jsou\na) druh cenného papíru,\nb) náležitosti zaknihovaného cenného papíru stanovené jiným právním předpisem5),\nc) ISIN; nebo nebyl-li ISIN přidělen, jiné jednoznačné označení cenného papíru, pokud bylo přiděleno,\nd) počet kusů cenného papíru nebo souhrnná jmenovitá hodnota cenných papírů.\n(2) Na základě příkazu oprávněné osoby se evidují na účtu vlastníka vedle údajů podle odstavce 1 také údaje o\na) zástavním právu k cennému papíru a o osobě zástavního věřitele,\nb) osobě oprávněné vykonávat práva spojená s cenným papírem,\nc) pozastavení výkonu práva vlastníka nakládat s cenným papírem, údaje o osobě, z jejíhož příkazu bylo nakládání s cenným papírem pozastaveno, a o době, na kterou je nakládání s cenným papírem pozastaveno.\n(3) Na účtu vlastníka lze evidovat další údaje nad rámec údajů podle odstavců 1 a 2, pokud s tím oprávněná osoba souhlasí."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Rekonciliace navazující evidence cenných papírů",
+      "chapter": "ČÁST PÁTÁ - EVIDENCE NAVAZUJÍCÍ NA EVIDENCI CENNÝCH PAPÍRŮ VEDENOU ČESKOU NÁRODNÍ BANKOU",
+      "content": "Osoba vedoucí navazující evidenci cenných papírů ověří po závěrce každého provozního dne, zda se celkový počet cenných papírů evidovaných na majetkových účtech v navazující evidenci shoduje s celkovým počtem cenných papírů evidovaných na účtu zákazníků této osoby, vedeném v evidenci Českou národní bankou."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Osoby vedoucí evidenci jsou povinny uvést způsob vedení evidence do souladu s touto vyhláškou do 6 měsíců ode dne nabytí účinnosti této vyhlášky.\n(2) Povinnost ověřit správnost údajů o osobě majitele účtu podle § 5 odst. 1 se nevztahuje na údaje o osobě majitele účtu převzaté na základě zákona z evidence zaknihovaných cenných papírů kolektivního investování vedené Střediskem cenných papírů nebo osobou oprávněnou k vedení části evidence Střediska cenných papírů.\n(3) Členským státem Evropské unie se v této vyhlášce rozumí i další státy tvořící Evropský hospodářský prostor."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Účinnost",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\n1) Například zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.\n2) Například § 4 odst. 6 zákona o podnikání na kapitálovém trhu, ve znění zákona č. 230/2008 Sb.\n3) § 9 odst. 1 zákona č. 189/2004 Sb., o kolektivním investování.\n4) Zákon č. 189/2004 Sb.\n5) Zákon č. 189/2004 Sb. a zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "systémem vedení evidence hardwarové a softwarové prostředky",
+      "definition": "kterými se vytvářejí a uchovávají zápisy na majetkových účtech",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "příkazem projev vůle oprávněné",
+      "definition": "osoby určený osobě vedoucí evidenci, k jehož provedení je třeba zápisu do evidence; zřízení nebo zrušení majetkového účtu; změně údajů o osobě majitele účtu; vydání a zrušení zaknihovaného cenného papíru; připsání na účet nebo odepsání z účtu listinného cenného papíru při jeho převzetí do úschovy nebo jeho vydání z úschovy; připsání zahraničního cenného papíru na účet vedený v zahraničí pro osobu vedoucí evidenci nebo odepsání zahraničního cenného papíru z účtu vedeného v zahraničí pro osobu vedoucí evidenci; převodu nebo přechodu investičního nástroje nebo spoluvlastnického podílu na investičním nástroji; zřízení, změně nebo zániku zástavního práva k investičnímu nástroji; zápisu nebo zrušení pozastavení výkonu práva vlastníka nakládat se zaknihovaným investičním nástrojem; změně jmenovité hodnoty nebo jiných náležitostí investičního nástroje",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "dokumentem týkajícím se údajů zapsaných do evidence (dále jen „dokument",
+      "definition": "příkaz k zápisu do evidence a doklady prokazující oprávnění osoby daný příkaz podat; tam, kde provedení nebo způsob provedení příkazu závisí na dalších skutečnostech, i doklady tyto skutečnosti prokazující, zejména informace o změně stavu na účtu zákazníků nebo účtu vedeném zahraniční osobou",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "uživatelem zaměstnanec nebo jiná",
+      "definition": "osoba, která plní pro osoby vedoucí evidenci úkoly vyplývající z vedení této evidence",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "rekonciliací kontrola shody údajů zapsaných do evidence se skutečným stavem a",
+      "definition": "postup odstranění zjištěných nesrovnalostí.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Členským státem Evropské unie se v této vyhlášce",
+      "definition": "i další státy tvořící Evropský hospodářský prostor",
+      "source_provision": "§ 23"
+    }
+  ]
+}

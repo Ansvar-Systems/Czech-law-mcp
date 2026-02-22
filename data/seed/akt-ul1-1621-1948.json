@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1621/1948",
+  "type": "statute",
+  "title": "1621/1948 Ú. l. I, Vyhláška ministryně výživy o zřízení národního podniku průmyslu pivovarského.",
+  "title_en": "",
+  "short_name": "1621/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-28",
+  "in_force_date": "1948-08-12",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1621",
+  "description": "Vyhláška ministryně výživy o zřízení národního podniku průmyslu pivovarského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Karla Trauttmansdorffa pivovar ve Staňkově,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Akciový pivovar ve Stodě,\nv rozsahu a za podmínek, které budou stanoveny dohodou ministerstva výživy s osidlovacím úřadem a Fondem národní obnovy v Praze."
+    }
+  ],
+  "definitions": []
+}

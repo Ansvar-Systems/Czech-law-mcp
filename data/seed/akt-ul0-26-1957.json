@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:26/1957",
+  "type": "statute",
+  "title": "26/1957 Ú. l., Vyhláška Ústřední rady odborů o zvýšení nemocenského při pracovní neschopnosti pro aktivní tuberkulosu.",
+  "title_en": "",
+  "short_name": "26/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-01-29",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1957/26",
+  "description": "Vyhláška Ústřední rady odborů o zvýšení nemocenského při pracovní neschopnosti pro aktivní tuberkulosu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Na zvýšení nemocenského není právní nárok. O zvýšení nemocenského rozhoduje komise národního pojištění na návrh příslušného odborného oddělení zdravotnického zařízení. Při rozhodování přihlíží komise národního pojištění k celkovým zdravotním a sociálním poměrům rodiny nemocného zaměstnance. Zvýšení nemocenského přiznává zpravidla nejdéle na dobu tří měsíců: po uplynutí této doby komise přešetří, zda trvají dále podmínky pro zvýšení nemocenského, a podle toho znovu rozhodne."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Po dobu ústavního ošetřování může být zvýšené nemocenské vypláceno jen tehdy, má-li zaměstnanec nezaopatřené dítě (děti); při rozhodování o přiznání zvýšeného nemocenského se přihlíží k sociálním poměrům rodiny zaměstnancovy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zaměstnanci, jehož pracovní neschopnost pro aktivní tuberkulosu trvá déle než jeden měsíc, může být nemocenské zvýšeno až do částky jeho čisté denní mzdy, z níž bylo nemocenské stanoveno, nejvýše však do částky 100 Kčs za pracovní den. Zvýšení může být přiznáno nejdříve od počátku druhého měsíce trvání této pracovní neschopnosti a může být poskytováno po dobu, po kterou je zaměstnanec práce neschopen pro aktivní tuberkulosu, nejdéle však do zakončení výplaty nemocenského."
+    }
+  ],
+  "definitions": []
+}

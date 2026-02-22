@@ -1,0 +1,33 @@
+{
+  "id": "cz:468/2003",
+  "type": "statute",
+  "title": "468/2003 Sb., Vyhláška o stanovení vzorce pro výpočet extraktu původní mladiny a metodách určení extraktu původní mladiny",
+  "title_en": "",
+  "short_name": "468/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-12-31",
+  "in_force_date": "2010-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/468",
+  "description": "Vyhláška o stanovení vzorce pro výpočet extraktu původní mladiny a metodách určení extraktu původní mladiny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Vzorec pro výpočet extraktu původní mladiny",
+      "content": "Extrakt původní mladiny se stanoví výpočtem podle velkého Ballingova vzorce uvedeného v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Metody určení extraktu původní mladiny",
+      "content": "Pro přesné určení extraktu původní mladiny se jako rozhodčí metoda použije destilační metoda. Při sériových analýzách je možno extrakt původní mladiny stanovit refraktometricky nebo s pomocí automatických analyzátorů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2004.\nPříloha k vyhlášce č. 468/2003 Sb.\n1. Velký Ballingův vzorec\np %= 2,0665 A+ Es 100100+1, 0665 A\n2. Vysvětlivky ke vzorci pro výpočet extraktu původní mladiny\np - extrakt původní mladiny,\nEs - hmotnostní procento skutečného (nezkvašeného) extraktu piva, které se stanoví pyknometricky, popřípadě denzitometricky, po oddestilování alkoholu a doplnění destilovanou vodou na původní hmotnost vzorku,\nA - hmotnostní procento alkoholu stanovené v destilátu pyknometricky, popřípadě denzitometricky."
+    }
+  ],
+  "definitions": []
+}

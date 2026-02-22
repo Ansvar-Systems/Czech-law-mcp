@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:204/1956",
+  "type": "statute",
+  "title": "204/1956 Ú. l., Vyhláška ministerstva energetiky o povinném hlášení výtahů k evidenci.",
+  "title_en": "",
+  "short_name": "204/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-10-01",
+  "in_force_date": "1956-10-01",
+  "url": "https://www.e-sbirka.cz/ul0/1956/204",
+  "description": "Vyhláška ministerstva energetiky o povinném hlášení výtahů k evidenci.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Aby mohl být vykonáván odborný technický dozor nad bezpečným provozem výtahů a aby bylo zajištěno provádění jejich plynulé údržby a oprav, je třeba vést evidenci počtu výtahů, jejich druhů a umístění."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1956.\n4. stavební.\n3. v hornictví,\n2. drah, na které vykonává dozor ministerstvo dopravy,\n1. vojenské správy,\nHlášení podle této vyhlášky nepodléhají výtahy"
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "5. nosné části výtahu (lana, řetězy).\n4. nosnost výtahu (v kg nebo maximální počet osob);\n3. druh výtahu (osobní, nákladní s průvodcem, nákladní bez průvodce) a počet stanic;\n2. zda je výtahu používáno, nebo zda je výtah dočasně vyřazen z provozu;\n1. přesnou adresu stanoviště výtahu s udáním okresu a kraje;\nKaždý provozovatel výtahu je povinen oznámit do 15. prosince 1956 Ústavu technického dozoru, Praha 2—Nové Město, Ve Smečkách 29, na Slovensku pobočce Ústavu technického dozoru, Bratislava, Čulenova 1 tyto údaje:"
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Povinnému hlášení výtahů k evidenci podléhají všechny elektrické a jiné motorické výtahy (včetně výtahů, které jsou dočasně mimo provoz) s dopravní výškou větší než 2 m, a to osobní i nákladní postavené v budovách a zařízeních podniků, závodů, úřadů, ústavů a ostatních organisací, jakož i soukromých vlastníků."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:150/1959",
+  "type": "statute",
+  "title": "150/1959 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují československé státní normy ČSN 72 3101 a ČSN 73 2001 (doplňky)",
+  "title_en": "",
+  "short_name": "150/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-08-01",
+  "in_force_date": "1959-08-01",
+  "url": "https://www.e-sbirka.cz/ul0/1959/150",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují československé státní normy ČSN 72 3101 a ČSN 73 2001 (doplňky)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Norma ČSN 72 3101 „Železobetonové prefabrikáty”, schválená Státním výborem pro výstavbu, je doplněk československé státní normy ČSN 72 3101, uveřejněné ve vyhlášce č. 95/1958 Ú. l. a platí pro železobetonové konstrukce vyztužené ocelí 10512 nebo 10513."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Norma ČSN 73 2001 „Projektování betonových staveb”, schválená Státním výborem pro výstavbu, je doplněk československé státní normy ČSN 73 2001, uveřejněné ve vyhlášce č. 111/1959 Ú. l. a platí pro železobetonové konstrukce vyztužené ocelí 10512 nebo 10513."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Uvedené československé státní normy (doplňky) nabývají účinnosti ode dne 1. srpna 1959.*\n* Československé státní normy vydává v plném znění Vydavatelství Úřadu pro normalizaci v Praze 3, Václavské nám. č. 19. Distribuci pro Slovensko obstarává Slovenská kniha, národní podnik, Bratislava, Fučíkova ul. č. 20."
+    }
+  ],
+  "definitions": []
+}

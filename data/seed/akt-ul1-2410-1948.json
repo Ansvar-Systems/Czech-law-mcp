@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:2410/1948",
+  "type": "statute",
+  "title": "2410/1948 Ú. l. I, Vyhláška generálního sekretariátu Hospodářské rady, kterou se stanoví další okruh podniků, pro něž vznikne povinnost říditi se závaznými směrnicemi pro provozní účetnictví průmyslových podniků, jakož i doba, od kdy tato povinnost vzniká.",
+  "title_en": "",
+  "short_name": "2410/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-10-09",
+  "in_force_date": "1948-10-09",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2410",
+  "description": "Vyhláška generálního sekretariátu Hospodářské rady, kterou se stanoví další okruh podniků, pro něž vznikne povinnost říditi se závaznými směrnicemi pro provozní účetnictví průmyslových podniků, jakož i doba, od kdy tato povinnost vzniká.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Povinnost říditi se ustanoveními vyhlášky generálního sekretariátu Hospodářské rady ze dne 8. září 1947, č. 954 Ú. l. I, kterou se vydávají závazné směrnice pro provozní účetnictví průmyslových podniků, se rozšiřuje\n1. od počátku nejbližšího účetního roku následujícího po dni zřízení podniku, na národní podniky a ústřední (oblastní) orgány národních podniků, zřízené podle\na) dekretu presidenta republiky ze dne 24. října 1945, č. 100 Sb., o znárodnění dolů a některých průmyslových podniků, ve znění zákona ze dne 28. dubna 1948, č. 114 Sb.,\nb) dekretu presidenta republiky ze dne 24. října 1945, č. 101 Sb., o znárodnění některých podniků průmyslu potravinářského, ve znění zákona ze dne 28. dubna 1948, č. 115 Sb.,\nc) zákona ze dne 28. dubna 1948, č. 121 Sb., o znárodnění ve stavebnictví,\nd) zákona ze dne 5. května 1948, č. 123 Sb., o znárodnění polygrafických podniků;\n2. od počátku, nejbližšího účetního roku následujícího po účetním roce, v němž měl podnik k rozvahovému dni alespoň 50 zaměstnanců nebo v němž jeho obrat činil alespoň 25 milionů Kčs, na ostatní průmyslové podniky kupců (obchodníků) plného práva."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Bylo-li zřízení národního podniku (§ 1, č. 1) vyhlášeno se zpětnou účinností, rozšiřuje se povinnost podle § 1 na něj od počátku účetního roku, který následuje po vyhlášení v Úředním listu, uplynula-li od něho lhůta nejméně 3 měsíců, jinak od počátku dalšího účetního roku.\n(2) Byla-li začleněna do národního podniku, pro který již vznikla povinnost říditi se vyhláškou č. 954/1947 Ú. l. I, další majetková podstata, platí ustanovení odstavce 1 přiměřeně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Průmyslovým podnikem podle § 1 se rozumí podnik podle § 2 vyhlášky generálního sekretariátu Hospodářské rady ze dne 21. srpna 1947, č. 909 Ú. l. I."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Pro průmyslové podniky uvedené v § 1, č. 2, které svou činností zasahují do dvou nebo více různých hospodářských odvětví, je směrodatným pro povinnost říditi se vyhláškou č. 954/1947 Ú. l. I jejich celkový počet zaměstnanců nebo jejich celkový obrat."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Pokud obrat je podle § 1, č. 2 rozhodný pro povinnost říditi se ustanoveními vyhlášky č. 954/1947 Ú. l. I, rozumí se jím obrat podle zákona ze dne 21. února 1946, č. 31 Sb., o dani z obratu; při tom není rozhodující ani sazba daně z obratu, ani okolnost, zda jde o obrat od daně z obratu osvobozený."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Průmyslovým podnikem podle § 1",
+      "definition": "podnik podle § 2 vyhlášky generálního sekretariátu Hospodářské rady ze dne 21",
+      "source_provision": "§ 3."
+    }
+  ]
+}

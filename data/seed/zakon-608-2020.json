@@ -1,0 +1,33 @@
+{
+  "id": "cz:608/2020",
+  "type": "statute",
+  "title": "608/2020 Sb., Vyhláška o stanovení potřebné úrovně znalosti českého jazyka a rovnocenných jazykových zkouškách pro výkon tlumočnické činnosti",
+  "title_en": "",
+  "short_name": "608/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-12-31",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/608",
+  "description": "Vyhláška o stanovení potřebné úrovně znalosti českého jazyka a rovnocenných jazykových zkouškách pro výkon tlumočnické činnosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Potřebná úroveň znalosti českého jazyka",
+      "content": "K výkonu tlumočnické činnosti se požaduje znalost jazyka alespoň na úrovni C1 podle Společného evropského referenčního rámce pro jazyky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rovnocenné jazykové zkoušky",
+      "content": "Rovnocennými jazykovými zkouškami ke zkoušce z českého jazyka jako cizího jazyka jsou\na) jednotlivá zkouška nebo zkoušky, které svým obsahem a formou odpovídají maturitní zkoušce z českého jazyka a literatury podle školského zákona1),\nb) státní jazyková zkouška všeobecná z českého jazyka, nebo\nc) státní jazyková zkouška speciální z českého jazyka."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2021.\n1) § 113 a 113a zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

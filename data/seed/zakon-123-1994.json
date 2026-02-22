@@ -1,0 +1,596 @@
+{
+  "id": "cz:123/1994",
+  "type": "statute",
+  "title": "123/1994 Sb., Sdělení Ministerstva zahraničních věcí o vyhlášení seznamu smluv sjednaných mezi bývalou Českou a Slovenskou Federativní Republikou a Německou demokratickou republikou, které pozbyly platnosti sjednocením Německa dne 3. října 1990",
+  "title_en": "",
+  "short_name": "123/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-06-10",
+  "in_force_date": "1994-06-10",
+  "url": "https://www.e-sbirka.cz/sb/1994/123",
+  "description": "Sdělení Ministerstva zahraničních věcí o vyhlášení seznamu smluv sjednaných mezi bývalou Českou a Slovenskou Federativní Republikou a Německou demokratickou republikou, které pozbyly platnosti sjednocením Německa dne 3. října 1990",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "SEZNAM",
+      "content": "1. Dohoda mezi vládou Československé republiky a vládou Německé demokratické republiky o spolupráci na úseku veterinárním ze dne 30. srpna 1955"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "SEZNAM",
+      "content": "2. Dohoda mezi vládou Československé republiky a vládou Německé demokratické republiky o spolupráci a o vzájemné pomoci v oboru celnictví ze dne 24. srpna 1956, č. 74/1957 Sb., a Protokol ze dne 24. srpna 1956"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "SEZNAM",
+      "content": "3. Československo-německá dohoda o prodlužování prioritních lhůt v oboru vynálezů a ochranných známek ze dne 26. června 1958, č. 7/1959 Sb."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "SEZNAM",
+      "content": "4. Ujednání mezi Československou komisí pro atomovou energii při Státním výboru pro rozvoj techniky a spolupráce a Úřadem pro jadernou techniku vlády Německé demokratické republiky o spolupráci Československé republiky a Německé demokratické republiky v oblasti mírového využívání jaderné energie ze dne 12. února 1960"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "SEZNAM",
+      "content": "5. Dohoda mezi vládou Československé republiky a vládou Německé demokratické republiky o hospodářské a vědeckotechnické spolupráci ze dne 16. června 1960"
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "chapter": "SEZNAM",
+      "content": "6. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o přijímání a výměně absolventů vysokých škol, studentů a žáků odborných škol ze dne 8. listopadu 1960, č. 27/1962 Sb."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "chapter": "SEZNAM",
+      "content": "7. Protokol o spolupráci a vzájemné pomoci v celních otázkách mezi Celní správou Československé socialistické republiky a Celní správou Německé demokratické republiky ze dne 29. srpna 1964"
+    },
+    {
+      "provision_ref": "Bod 8",
+      "section": "8",
+      "title": "Bod 8",
+      "chapter": "SEZNAM",
+      "content": "8. Ujednání o celních úlevách pro občany Československé socialistické republiky a Německé demokratické republiky pracující nebo studující na území druhého státu ze dne 29. srpna 1964"
+    },
+    {
+      "provision_ref": "Bod 9",
+      "section": "9",
+      "title": "Bod 9",
+      "chapter": "SEZNAM",
+      "content": "9. Dohoda mezi Ministerstvem zemědělství, lesního a vodního hospodářství Československé socialistické republiky a Zemědělskou radou Německé demokratické republiky o ochraně povolených odrůd a osivového a sadbového materiálu zemědělských plodin, zelenin, ovoce a okrasných rostlin, včetně vzorků osiva a sadby nových šlechtění, která jsou zařazena do státních odrůdových pokusů při dovozu a vývozu do Německé demokratické republiky a Československé socialistické republiky ze dne 17. října 1964"
+    },
+    {
+      "provision_ref": "Bod 10",
+      "section": "10",
+      "title": "Bod 10",
+      "chapter": "SEZNAM",
+      "content": "10. Ujednání mezi Atomovou komisí Československé socialistické republiky a Státní centrálou pro radiační ochranu Německé demokratické republiky o využívání jaderné energie pro mírové účely ze dne 11. února 1965"
+    },
+    {
+      "provision_ref": "Bod 11",
+      "section": "11",
+      "title": "Bod 11",
+      "chapter": "SEZNAM",
+      "content": "11. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci na úseku dopravy ze dne 26. března 1965"
+    },
+    {
+      "provision_ref": "Bod 12",
+      "section": "12",
+      "title": "Bod 12",
+      "chapter": "SEZNAM",
+      "content": "12. Dlouhodobá platební dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky na léta 1966-1970 ze dne 3. února 1966"
+    },
+    {
+      "provision_ref": "Bod 13",
+      "section": "13",
+      "title": "Bod 13",
+      "chapter": "SEZNAM",
+      "content": "13. Ujednání mezi Ministerstvem vnitřního obchodu Československé socialistické republiky a Ministerstvem obchodu a zásobování Německé demokratické republiky o výměně odborných pracovníků hotelů ze dne 9. listopadu 1966"
+    },
+    {
+      "provision_ref": "Bod 14",
+      "section": "14",
+      "title": "Bod 14",
+      "chapter": "SEZNAM",
+      "content": "14. Dohoda o přímé vědeckotechnické spolupráci mezi Ministerstvem lesního a vodního hospodářství Československé socialistické republiky a Vodohospodářským úřadem při ministerské radě Německé republiky ze dne 6. ledna 1968"
+    },
+    {
+      "provision_ref": "Bod 15",
+      "section": "15",
+      "title": "Bod 15",
+      "chapter": "SEZNAM",
+      "content": "15. Ujednání o přímých vztazích v oblasti vědeckotechnické spolupráce zpravodajství mezi Ústřední správou pošt a telekomunikací Československé socialistické republiky a Ministerstvem pošt a telekomunikací Německé demokratické republiky ze dne 18. ledna 1968"
+    },
+    {
+      "provision_ref": "Bod 16",
+      "section": "16",
+      "title": "Bod 16",
+      "chapter": "SEZNAM",
+      "content": "16. Dohoda mezi Ministerstvem lesního a vodního hospodářství Československé socialistické republiky a Státním výborem pro lesní hospodářství při Zemědělské radě Německé demokratické republiky o přímé vědeckotechnické spolupráci v oblasti lesního hospodářství ze dne 6. června 1968"
+    },
+    {
+      "provision_ref": "Bod 17",
+      "section": "17",
+      "title": "Bod 17",
+      "chapter": "SEZNAM",
+      "content": "17. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti pošt a telekomunikací ze dne 25. dubna 1970"
+    },
+    {
+      "provision_ref": "Bod 18",
+      "section": "18",
+      "title": "Bod 18",
+      "chapter": "SEZNAM",
+      "content": "18. Ujednání o přímých vztazích mezi Federálním ministerstvem paliv a energetiky Československé socialistické republiky a Ministerstvem pro suroviny Německé demokratické republiky v oblasti vědeckotechnické spolupráce ze dne 23. března 1971"
+    },
+    {
+      "provision_ref": "Bod 19",
+      "section": "19",
+      "title": "Bod 19",
+      "chapter": "SEZNAM",
+      "content": "19. Ujednání mezi Ministerstvem hutnictví a strojírenství Československé socialistické republiky a Ministerstvem pro zpracovatelskou strojírenskou výrobu a výrobu vozidel Německé demokratické republiky o společném postupu při výzkumu, vývoji a výrobě strojních systémů pro zemědělskou výrobu Německé demokratické republiky ze dne 7. října 1971"
+    },
+    {
+      "provision_ref": "Bod 20",
+      "section": "20",
+      "title": "Bod 20",
+      "chapter": "SEZNAM",
+      "content": "20. Smlouva mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o právní ochraně vynálezů, průmyslových vzorů a ochranných známek při hospodářské a vědeckotechnické spolupráci ze dne 14. října 1971"
+    },
+    {
+      "provision_ref": "Bod 21",
+      "section": "21",
+      "title": "Bod 21",
+      "chapter": "SEZNAM",
+      "content": "21. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti výroby a využití olefinů ze dne 12. listopadu 1971, částka 7/1972 Sb."
+    },
+    {
+      "provision_ref": "Bod 22",
+      "section": "22",
+      "title": "Bod 22",
+      "chapter": "SEZNAM",
+      "content": "22. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o společném výzkumu, vývoji a organizaci technicky vysoce náročné výroby předaného materiálu se střižní délkou nejméně 80 mm automaticky řízeným systémem strojů ze dne 2. prosince 1971"
+    },
+    {
+      "provision_ref": "Bod 23",
+      "section": "23",
+      "title": "Bod 23",
+      "chapter": "SEZNAM",
+      "content": "23. Dohoda o přímé vědeckotechnické spolupráci geodetických služeb Československé socialistické republiky a Německé demokratické republiky ze dne 26. ledna 1972"
+    },
+    {
+      "provision_ref": "Bod 24",
+      "section": "24",
+      "title": "Bod 24",
+      "chapter": "SEZNAM",
+      "content": "24. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti mezinárodní silniční dopravy ze dne 25. února 1972, č. 36/1974 Sb."
+    },
+    {
+      "provision_ref": "Bod 25",
+      "section": "25",
+      "title": "Bod 25",
+      "chapter": "SEZNAM",
+      "content": "25. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti letecké dopravy ze dne 25. února 1972, č. 30/1973 Sb."
+    },
+    {
+      "provision_ref": "Bod 26",
+      "section": "26",
+      "title": "Bod 26",
+      "chapter": "SEZNAM",
+      "content": "26. Ujednání mezi Federálním ministerstvem dopravy Československé socialistické republiky a Ministerstvem dopravy Německé demokratické republiky o vzájemném poskytování technické pomoci a jiných služeb pro vozidla v mezinárodní silniční dopravě a Prováděcí protokol ze dne 15. června 1972"
+    },
+    {
+      "provision_ref": "Bod 27",
+      "section": "27",
+      "title": "Bod 27",
+      "chapter": "SEZNAM",
+      "content": "27. Konzulární úmluva mezi Československou socialistickou republikou a Německou demokratickou republikou ze dne 22. června 1972, č. 95/1973 Sb."
+    },
+    {
+      "provision_ref": "Bod 28",
+      "section": "28",
+      "title": "Bod 28",
+      "chapter": "SEZNAM",
+      "content": "28. Dohoda o přímé hospodářské a vědeckotechnické spolupráci mezi Federálním ministerstvem zemědělství a výživy Československé socialistické republiky a Ministerstvem pro místně řízený průmysl a potravinářský průmysl Německé demokratické republiky ze dne 13. prosince 1972"
+    },
+    {
+      "provision_ref": "Bod 29",
+      "section": "29",
+      "title": "Bod 29",
+      "chapter": "SEZNAM",
+      "content": "29. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o poskytnutí úvěru k rozšíření kapacit pro výrobu velkých zalomených hřídelí v Československé socialistické republice a dodávkách velkých zalomených hřídelí z Československé socialistické republiky do Německé demokratické republiky ze dne 12. ledna 1973, částka 12/1973 Sb."
+    },
+    {
+      "provision_ref": "Bod 30",
+      "section": "30",
+      "title": "Bod 30",
+      "chapter": "SEZNAM",
+      "content": "30. Dohoda mezi Státní bankou československou a Státní bankou Německé demokratické republiky o vybavování občanů devizami na cestu při cestách do obou zemí ze dne 22. května 1973"
+    },
+    {
+      "provision_ref": "Bod 31",
+      "section": "31",
+      "title": "Bod 31",
+      "chapter": "SEZNAM",
+      "content": "31. Smlouva mezi Československou socialistickou republikou a Německou demokratickou republikou o úpravě dvojího státního občanství ze dne 10. října 1973, č. 37/1974 Sb."
+    },
+    {
+      "provision_ref": "Bod 32",
+      "section": "32",
+      "title": "Bod 32",
+      "chapter": "SEZNAM",
+      "content": "32. Ujednání o přímé vědeckotechnické spolupráci mezi Úřadem pro normalizaci a měření Československé socialistické republiky a Úřadem pro normalizaci, měření a zkoušení zboží (ASNV) při Radě ministrů Německé demokratické republiky ze dne 1. listopadu 1974"
+    },
+    {
+      "provision_ref": "Bod 33",
+      "section": "33",
+      "title": "Bod 33",
+      "chapter": "SEZNAM",
+      "content": "33. Dohoda mezi Federálním ministerstvem všeobecného strojírenství Československé socialistické republiky a Ministerstvem kovoobráběcích a zpracovatelských strojů Německé demokratické republiky a Ministerstvem lehkého průmyslu Německé demokratické republiky o dlouhodobé spolupráci ve výzkumu, vývoji a výrobě vybraných strojních systémů a vysoce efektivních strojů pro textilní, oděvní a obuvnický průmysl ze dne 5. prosince 1974, částka 18/1975 Sb."
+    },
+    {
+      "provision_ref": "Bod 34",
+      "section": "34",
+      "title": "Bod 34",
+      "chapter": "SEZNAM",
+      "content": "34. Ujednání mezi Federálním ministerstvem financí Československé socialistické republiky a Ministerstvem financí Německé demokratické republiky k Dohodě o používání zpřesněných přirážek (srážek) k úředním kurzům národních měn pro neobchodní platy ze dne 28. prosince 1974, podepsané dne 28. prosince 1974"
+    },
+    {
+      "provision_ref": "Bod 35",
+      "section": "35",
+      "title": "Bod 35",
+      "chapter": "SEZNAM",
+      "content": "35. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti zdravotnictví a lékařských věd ze dne 25. března 1975, č. 82/1975 Sb."
+    },
+    {
+      "provision_ref": "Bod 36",
+      "section": "36",
+      "title": "Bod 36",
+      "chapter": "SEZNAM",
+      "content": "36. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti cestovního ruchu ze dne 30. dubna 1975, č. 94/1975 Sb."
+    },
+    {
+      "provision_ref": "Bod 37",
+      "section": "37",
+      "title": "Bod 37",
+      "chapter": "SEZNAM",
+      "content": "37. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti vývoje a výroby zemědělských strojů ze dne 18. června 1975, částka 25/1975 Sb."
+    },
+    {
+      "provision_ref": "Bod 38",
+      "section": "38",
+      "title": "Bod 38",
+      "chapter": "SEZNAM",
+      "content": "38. Dohoda mezi Ministerstvem všeobecného strojírenství Československé socialistické republiky a Ministerstvem elektrotechniky a elektroniky Německé demokratické republiky o spolupráci při vývoji jednotného sortimentu zaměnitelných elektronických stavebních prvků, obzvláště vysoce integrovaných stavebních prvků, jakož i při vývoji polovodičových materiálů a jejich slitin ze dne 10. července 1976, částka 21/1976 Sb."
+    },
+    {
+      "provision_ref": "Bod 39",
+      "section": "39",
+      "title": "Bod 39",
+      "chapter": "SEZNAM",
+      "content": "39. Dohoda mezi Ministerstvem všeobecného strojírenství Československé socialistické republiky a Ministerstvem elektrotechniky a elektroniky Německé demokratické republiky o rozdělení práce při výzkumu, vývoji a výrobě výrobků elektronické měřicí techniky ze dne 10. července 1976, částka 21/1976 Sb."
+    },
+    {
+      "provision_ref": "Bod 40",
+      "section": "40",
+      "title": "Bod 40",
+      "chapter": "SEZNAM",
+      "content": "40. Dohoda mezi Federálním ministerstvem zahraničního obchodu Československé socialistické republiky a Ministerstvem chemického průmyslu Německé demokratické republiky o specializaci a kooperaci výroby a vzájemných dodávkách vybraných druhů chemických vláken ze dne 21. října 1976, částka 12/1977 Sb."
+    },
+    {
+      "provision_ref": "Bod 41",
+      "section": "41",
+      "title": "Bod 41",
+      "chapter": "SEZNAM",
+      "content": "41. Smlouva o přátelství, spolupráci a vzájemné pomoci mezi Československou socialistickou republikou a Německou demokratickou republikou ze dne 3. října 1977, č. 53/1978 Sb."
+    },
+    {
+      "provision_ref": "Bod 42",
+      "section": "42",
+      "title": "Bod 42",
+      "chapter": "SEZNAM",
+      "content": "42. Dohoda o spolupráci mezi prokuraturami Československé socialistické republiky a Německé demokratické republiky ze dne 29. listopadu 1977"
+    },
+    {
+      "provision_ref": "Bod 43",
+      "section": "43",
+      "title": "Bod 43",
+      "chapter": "SEZNAM",
+      "content": "43. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o bezvízovém styku a Dodatkový protokol ze dne 30. března 1978, č. 54/1978 Sb."
+    },
+    {
+      "provision_ref": "Bod 44",
+      "section": "44",
+      "title": "Bod 44",
+      "chapter": "SEZNAM",
+      "content": "44. Protokol mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o rovnocennosti dokladů o vzdělání a vědeckých hodností a titulů, které jsou vydávány nebo udělovány v Československé socialistické republice a v Německé demokratické republice, ze dne 8. června 1978, č. 89/1978 Sb."
+    },
+    {
+      "provision_ref": "Bod 45",
+      "section": "45",
+      "title": "Bod 45",
+      "chapter": "SEZNAM",
+      "content": "45. Ujednání k realizaci Dohody o vzájemném uznávání autorských listů a ostatních ochranných dokumentů pro vynálezy ve vztazích mezi úřady pro vynálezectví Československé socialistické republiky a Německé demokratické republiky ze dne 14. července 1978"
+    },
+    {
+      "provision_ref": "Bod 46",
+      "section": "46",
+      "title": "Bod 46",
+      "chapter": "SEZNAM",
+      "content": "46. Ujednání mezi federálními ministerstvy vnitra a zahraničního obchodu Československé socialistické republiky a ministerstvy státní bezpečnosti a zahraničního obchodu Německé demokratické republiky o zásadách provádění společné pasové a celní kontroly na hraničních přechodech mezi Československou socialistickou republikou a Německou demokratickou republikou ze dne 5. ledna 1979"
+    },
+    {
+      "provision_ref": "Bod 47",
+      "section": "47",
+      "title": "Bod 47",
+      "chapter": "SEZNAM",
+      "content": "47. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o kulturní a vědecké spolupráci ze dne 19. dubna 1979, č. 75/1979 Sb."
+    },
+    {
+      "provision_ref": "Bod 48",
+      "section": "48",
+      "title": "Bod 48",
+      "chapter": "SEZNAM",
+      "content": "48. Dohoda o vzájemném uznávání výsledků zkoušek státní kontroly jakosti u výrobků, které jsou předmětem výměny zboží mezi Československou socialistickou republikou a Německou demokratickou republikou ze dne 3. července 1979, č. 20/1980 Sb."
+    },
+    {
+      "provision_ref": "Bod 49",
+      "section": "49",
+      "title": "Bod 49",
+      "chapter": "SEZNAM",
+      "content": "49. Dohoda o spolupráci mezi organizacemi Československé socialistické republiky, oprávněnými k zahraničně-obchodní činnosti, a podniky zahraničního obchodu Německé demokratické republiky při výstavbě průmyslových podniků a jiných objektů v rozvojových zemích ze dne 30. října 1979"
+    },
+    {
+      "provision_ref": "Bod 50",
+      "section": "50",
+      "title": "Bod 50",
+      "chapter": "SEZNAM",
+      "content": "50. Ujednání mezi Federálním ministerstvem paliv a energetiky Československé socialistické republiky a Ministerstvem geologie Německé demokratické republiky o poskytování technické pomoci při erupcích ropy a zemního plynu ze dne 2. září 1980"
+    },
+    {
+      "provision_ref": "Bod 51",
+      "section": "51",
+      "title": "Bod 51",
+      "chapter": "SEZNAM",
+      "content": "51. Protokol č. 2 k Dohodě mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti výroby a využití olefinů ze dne 12. listopadu 1971, podepsaný dne 28. listopadu 1980"
+    },
+    {
+      "provision_ref": "Bod 52",
+      "section": "52",
+      "title": "Bod 52",
+      "chapter": "SEZNAM",
+      "content": "52. Ujednání mezi Ministerstvem elektrotechnického průmyslu Československé socialistické republiky a Ministerstvem elektrotechniky a elektroniky Německé demokratické republiky o hospodářské a vědeckotechnické spolupráci v oblasti mikroelektroniky včetně pasívních stavebních prvků, jakož i speciálního technického vybavení a speciálního a pomocného materiálu ze dne 16. prosince 1980"
+    },
+    {
+      "provision_ref": "Bod 53",
+      "section": "53",
+      "title": "Bod 53",
+      "chapter": "SEZNAM",
+      "content": "53. Dohoda mezi Federálním ministerstvem pro technický a investiční rozvoj Československé socialistické republiky a Úřadem pro normalizaci, měření a zkušebnictví ministerské rady Německé demokratické republiky o podmínkách a způsobu vzájemného uznávání výsledků státních typových zkoušek a ověřování měřidel a Prováděcí protokol ze dne 2. července 1981"
+    },
+    {
+      "provision_ref": "Bod 54",
+      "section": "54",
+      "title": "Bod 54",
+      "chapter": "SEZNAM",
+      "content": "54. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci ke snížení znečišťování ovzduší a jeho vlivu ze dne 10. listopadu 1981"
+    },
+    {
+      "provision_ref": "Bod 55",
+      "section": "55",
+      "title": "Bod 55",
+      "chapter": "SEZNAM",
+      "content": "55. Dohoda mezi Ministerstvem všeobecného strojírenství Československé socialistické republiky a Ministerstvem obráběcích a zpracovatelských strojů Německé demokratické republiky o programu dlouhodobé vědeckotechnické a hospodářské spolupráce v oblasti obráběcích a tvářecích strojů ze dne 23. března 1983"
+    },
+    {
+      "provision_ref": "Bod 56",
+      "section": "56",
+      "title": "Bod 56",
+      "chapter": "SEZNAM",
+      "content": "56. Ujednání mezi Ministerstvem elektrotechnického průmyslu Československé socialistické republiky a Ministerstvem elektrotechniky a elektroniky Německé demokratické republiky o spolupráci ve výzkumu a vývoji přístrojů a zařízení pro automatizaci technologických procesů ze dne 3. října 1983"
+    },
+    {
+      "provision_ref": "Bod 57",
+      "section": "57",
+      "title": "Bod 57",
+      "chapter": "SEZNAM",
+      "content": "57. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti obrazovek pro televizní přijímače ze dne 3. října 1983"
+    },
+    {
+      "provision_ref": "Bod 58",
+      "section": "58",
+      "title": "Bod 58",
+      "chapter": "SEZNAM",
+      "content": "58. Ujednání mezi Federálním ministerstvem pošt a telekomunikací Československé socialistické republiky a Ministerstvem pošt a telekomunikací Německé demokratické republiky o vzájemném uznávání povolení pro radioamatéry pro přenosné amatérské radiostanice občanům Československé socialistické republiky a Německé demokratické republiky ze dne 20. října 1983"
+    },
+    {
+      "provision_ref": "Bod 59",
+      "section": "59",
+      "title": "Bod 59",
+      "chapter": "SEZNAM",
+      "content": "59. Dohoda o spolupráci mezi Federálním cenovým úřadem Československé socialistické republiky a Úřadem pro ceny při Radě ministrů Německé demokratické republiky ze dne 26. dubna 1983"
+    },
+    {
+      "provision_ref": "Bod 60",
+      "section": "60",
+      "title": "Bod 60",
+      "chapter": "SEZNAM",
+      "content": "60. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti vývoje, výroby a nasazování průmyslových robotů a manipulátorů včetně kompletujících výrobků ze dne 5. dubna 1984"
+    },
+    {
+      "provision_ref": "Bod 61",
+      "section": "61",
+      "title": "Bod 61",
+      "chapter": "SEZNAM",
+      "content": "61. Protokol č. 3 k Dohodě mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti výroby a využití olefinů ze dne 12. listopadu 1971, podepsaný dne 5. dubna 1984"
+    },
+    {
+      "provision_ref": "Bod 62",
+      "section": "62",
+      "title": "Bod 62",
+      "chapter": "SEZNAM",
+      "content": "62. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci při ochraně před činy nezákonného vměšování do činnosti civilního letectví ze dne 7. listopadu 1984"
+    },
+    {
+      "provision_ref": "Bod 63",
+      "section": "63",
+      "title": "Bod 63",
+      "chapter": "SEZNAM",
+      "content": "63. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti automobilového průmyslu ze dne 14. března 1985, částka 11/1985 Sb."
+    },
+    {
+      "provision_ref": "Bod 64",
+      "section": "64",
+      "title": "Bod 64",
+      "chapter": "SEZNAM",
+      "content": "64. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci při výzkumu, vývoji a výrobě strojů na stavbu kolejí, výhybek a racionalizačních prostředků v dopravě, jakož i o jejich vzájemných dodávkách ze dne 8. července 1985, č. 82/1985 Sb."
+    },
+    {
+      "provision_ref": "Bod 65",
+      "section": "65",
+      "title": "Bod 65",
+      "chapter": "SEZNAM",
+      "content": "65. Ujednání mezi Federálním ministerstvem zahraničního obchodu Československé socialistické republiky a Ministerstvem dopravy Německé demokratické republiky o rozvoji turistických vztahů mezi Československou socialistickou republikou a Německou demokratickou republikou v letech 1986-1990 ze dne 9. července 1985"
+    },
+    {
+      "provision_ref": "Bod 66",
+      "section": "66",
+      "title": "Bod 66",
+      "chapter": "SEZNAM",
+      "content": "66. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci ve vybraných oblastech průmyslových biotechnologií ze dne 10. července 1985"
+    },
+    {
+      "provision_ref": "Bod 67",
+      "section": "67",
+      "title": "Bod 67",
+      "chapter": "SEZNAM",
+      "content": "67. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o vzájemné výměně zboží v letech 1986-1990 ze dne 25. října 1985"
+    },
+    {
+      "provision_ref": "Bod 68",
+      "section": "68",
+      "title": "Bod 68",
+      "chapter": "SEZNAM",
+      "content": "68. Program rozvoje hospodářské a vědeckotechnické spolupráce mezi Československou socialistickou republikou a Německou demokratickou republikou do roku 2000 ze dne 26. listopadu 1985"
+    },
+    {
+      "provision_ref": "Bod 69",
+      "section": "69",
+      "title": "Bod 69",
+      "chapter": "SEZNAM",
+      "content": "69. Dohoda o zásadách spolupráce v přepravě a překladu zboží zahraničního obchodu mezi Československou socialistickou republikou a Německou demokratickou republikou pro období 1986-1990 ze dne 11. prosince 1985"
+    },
+    {
+      "provision_ref": "Bod 70",
+      "section": "70",
+      "title": "Bod 70",
+      "chapter": "SEZNAM",
+      "content": "70. Plán mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti zdravotnictví a lékařských věd v letech 1986-1990 ze dne 29. ledna 1986"
+    },
+    {
+      "provision_ref": "Bod 71",
+      "section": "71",
+      "title": "Bod 71",
+      "chapter": "SEZNAM",
+      "content": "71. Pracovní plán mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o kulturní a vědecké spolupráci pro léta 1986-1990 ze dne 12. března 1986"
+    },
+    {
+      "provision_ref": "Bod 72",
+      "section": "72",
+      "title": "Bod 72",
+      "chapter": "SEZNAM",
+      "content": "72. Plán opatření pro spolupráci mezi ministerstvy školství České socialistické republiky a Slovenské socialistické republiky a Ministerstvem vysokého a odborného školství Německé demokratické republiky pro léta 1986-1990 ze dne 24. dubna 1986"
+    },
+    {
+      "provision_ref": "Bod 73",
+      "section": "73",
+      "title": "Bod 73",
+      "chapter": "SEZNAM",
+      "content": "73. Dodatek č. 1 k Dohodě mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské a vědeckotechnické spolupráci v oblasti automobilového průmyslu ze dne 14. března 1985, podepsaný dne 23. října 1986, částka 25/1986 Sb."
+    },
+    {
+      "provision_ref": "Bod 74",
+      "section": "74",
+      "title": "Bod 74",
+      "chapter": "SEZNAM",
+      "content": "74. Dodatek č. 2 k Dohodě mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o dlouhodobé hospodářské spolupráci a vědeckotechnické spolupráci v oblasti vývoje a výroby zemědělských strojů ze dne 18. června 1975, podepsaný dne 23. října 1986, částka 25/1986 Sb."
+    },
+    {
+      "provision_ref": "Bod 75",
+      "section": "75",
+      "title": "Bod 75",
+      "chapter": "SEZNAM",
+      "content": "75. Ujednání mezi Federálním ministerstvem dopravy Československé socialistické republiky a Ministerstvem dopravy Německé demokratické republiky o spolupráci při realizaci Dohody mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci při ochraně před činy nezákonného vměšování do činnosti civilního letectví ze dne 7. listopadu 1984, podepsané dne 27. ledna 1987"
+    },
+    {
+      "provision_ref": "Bod 76",
+      "section": "76",
+      "title": "Bod 76",
+      "chapter": "SEZNAM",
+      "content": "76. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti mikroelektroniky ze dne 20. května 1987"
+    },
+    {
+      "provision_ref": "Bod 77",
+      "section": "77",
+      "title": "Bod 77",
+      "chapter": "SEZNAM",
+      "content": "77. Dohoda mezi Federálním ministerstvem všeobecného strojírenství Československé socialistické republiky a Ministerstvem obráběcích a zpracovatelských strojů Německé demokratické republiky o programu dlouhodobé vědeckotechnické a hospodářské spolupráce v oblasti textilních strojů ze dne 17. června 1987, částka 26/1987 Sb."
+    },
+    {
+      "provision_ref": "Bod 78",
+      "section": "78",
+      "title": "Bod 78",
+      "chapter": "SEZNAM",
+      "content": "78. Protokol mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o změně přepočítacího koeficientu částek neobchodních platů na převoditelné ruble ze dne 28. ledna 1989"
+    },
+    {
+      "provision_ref": "Bod 79",
+      "section": "79",
+      "title": "Bod 79",
+      "chapter": "SEZNAM",
+      "content": "79. Ujednání mezi Ministerstvem vnitra Československé socialistické republiky a Ministerstvem státní bezpečnosti Německé demokratické republiky o zásadách jednostranné kontroly na hraničních přechodech mezi Československou socialistickou republikou a Německou demokratickou republikou prostřednictvím pasových orgánů Československé socialistické republiky a Německé demokratické republiky ze dne 13. března 1989"
+    },
+    {
+      "provision_ref": "Bod 80",
+      "section": "80",
+      "title": "Bod 80",
+      "chapter": "SEZNAM",
+      "content": "80. Smlouva mezi Československou socialistickou republikou a Německou demokratickou republikou o právní pomoci ve věcech občanských, rodinných a trestních ze dne 18. dubna 1989, č. 147/1990 Sb."
+    },
+    {
+      "provision_ref": "Bod 81",
+      "section": "81",
+      "title": "Bod 81",
+      "chapter": "SEZNAM",
+      "content": "81. Dohoda mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o spolupráci v oblasti ochrany životního prostředí ze dne 18. dubna 1989"
+    },
+    {
+      "provision_ref": "Bod 82",
+      "section": "82",
+      "title": "Bod 82",
+      "chapter": "SEZNAM",
+      "content": "82. Smlouva mezi Československou socialistickou republikou a Německou demokratickou republikou o spolupráci mládeže Československé socialistické republiky a Německé demokratické republiky ze dne 3. května 1989, č. 185/1989 Sb."
+    },
+    {
+      "provision_ref": "Bod 83",
+      "section": "83",
+      "title": "Bod 83",
+      "chapter": "SEZNAM",
+      "content": "83. Protokol č. 5 k Dohodě mezi vládou Československé socialistické republiky a vládou Německé demokratické republiky o výměně zboží v letech 1986-1990 ze dne 13. prosince 1989"
+    }
+  ],
+  "definitions": []
+}

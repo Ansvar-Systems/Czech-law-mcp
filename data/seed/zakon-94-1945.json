@@ -1,0 +1,33 @@
+{
+  "id": "cz:94/1945",
+  "type": "statute",
+  "title": "94/1945 Sb., Dekret presidenta republiky o úpravě některých otázek organisace a služebních a platových poměrů sboru uniformované vězeňské stráže",
+  "title_en": "",
+  "short_name": "94/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-10-23",
+  "in_force_date": "1945-10-23",
+  "url": "https://www.e-sbirka.cz/sb/1945/94",
+  "description": "Dekret presidenta republiky o úpravě některých otázek organisace a služebních a platových poměrů sboru uniformované vězeňské stráže",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Výkon správní a strážní služby v soudních věznicích a trestních ústavech obstarává sbor uniformované vězeňské stráže (SVS)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Služební a platové poměry příslušníků SVS upraví vláda nařízením podle obdoby předpisů o služebních a platových poměrech četnictva a policie s odchylkami vyplývajícími ze zvláštní povahy vězeňské správní a strážní služby a potřeby justiční správy.\n(2) Dosavadní předpisy o výkonu správní a strážní služby v soudních věznicích a trestních ústavech, pokud těmto ustanovením neodporují, zůstávají v platnosti."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento dekret nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

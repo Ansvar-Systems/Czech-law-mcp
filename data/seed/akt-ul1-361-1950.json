@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:361/1950",
+  "type": "statute",
+  "title": "361/1950 Ú. l. I, Vyhláška ministerstva průmyslu, kterou se povoluje používání detektoru kysličníku uhelnatého typu „UVVU“ v hornických závodech.",
+  "title_en": "",
+  "short_name": "361/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-15",
+  "in_force_date": "1950-06-15",
+  "url": "https://www.e-sbirka.cz/ul1/1950/361",
+  "description": "Vyhláška ministerstva průmyslu, kterou se povoluje používání detektoru kysličníku uhelnatého typu „UVVU“ v hornických závodech.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ku zjišťování kysličníku uhelnatého v hornických závodech povoluje se používati detektoru kysličníku uhelnatého typu „UVVU“."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Detektor sestává z indikační trubice, z odměrné pumpičky, která nassává ke zkoušce určené důlní větry a z barevné stupnice.\nIndikační trubice je skleněná rourka délky 100 mm o průměru 7 mm. Naplněna je žlutým indikačním silikagelem napuštěným solucí molybdenovou, síranem palladnatým a kyselinou sírovou, okolo něhož je vrstva nenapuštěného silikagelu a skelné tkaniny. Působením kysličníku uhelnatého se barví napuštěný silikagel do zelena až modrozelena.\nOdměrná pumpička je zhotovena z kovu. Prohání zkoušené větry indikační trubicí rychlostí 90 cm3/min. Prostor vymezený zdvihem pístu činí 50 cm3.\nBarevná stupnice sestává se šesti barevných proužků s udáním koncentrace kysličníku uhelnatého od 0˙001 až 0˙1%. Stupnice je napnuta na otáčivém bubnu obepínajícím tělo odměrné pumpičky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. června 1950."
+    }
+  ],
+  "definitions": []
+}

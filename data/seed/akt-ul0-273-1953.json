@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:273/1953",
+  "type": "statute",
+  "title": "273/1953 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro motorová paliva.",
+  "title_en": "",
+  "short_name": "273/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-09-03",
+  "in_force_date": "1960-11-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/273",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro motorová paliva.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "* (1) Technickými státními normami od 1. května 1953 jsou normy:\nČSN 65 6181 „Tlak par podle Reida”\nČSN 65 6163 „Zkouška na korosivní síru”.\n(2) Normy platí pro zkoušeni motorových paliv a jednají mimo jiné o účelu, podstatě, významu zkoušky a pod."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 65 6188 „Kyselost” je od 1. července 1953 technickou státní normou.\n(2) Norma platí pro zkoušení benzinů, petrolejů a pod. Jedná mimo jiné o účelu, podstatě a významu zkoušky, o postupu a spolehlivosti zkoušky.\n* Tyto normy tvoří sadu."
+    }
+  ],
+  "definitions": []
+}

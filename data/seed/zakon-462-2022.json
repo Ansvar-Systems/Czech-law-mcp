@@ -1,0 +1,27 @@
+{
+  "id": "cz:462/2022",
+  "type": "statute",
+  "title": "462/2022 Sb., Vyhláška, kterou se mění vyhláška č. 193/2009 Sb., o stanovení podrobností provádění autorizované konverze dokumentů",
+  "title_en": "",
+  "short_name": "462/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-12-30",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/462",
+  "description": "Vyhláška, kterou se mění vyhláška č. 193/2009 Sb., o stanovení podrobností provádění autorizované konverze dokumentů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 193/2009 Sb., o stanovení podrobností provádění autorizované konverze dokumentů, se mění takto:\n1. V § 2 odst. 1 se slova „systému kontaktních míst veřejné správy“ nahrazují slovy „informačního systému, jehož prostřednictvím je zajišťován výkon působnosti kontaktních míst veřejné správy,“.\n2. V § 2 odstavec 5 zní:\n„(5) Subjekt provádějící konverzi na žádost přijímá vstupy obsažené v datové zprávě a vydává výstupy obsažené v datové zprávě prostřednictvím datového úložiště elektronické aplikace informačního systému, jehož prostřednictvím je zajišťován výkon působnosti kontaktních míst veřejné správy, přístupné způsobem umožňujícím dálkový přístup.“.\n3. V příloze č. 1 bodu 1 písm. a) se text „300 x 300“ nahrazuje číslem „200“.\n4. V příloze č. 1 bodu 3 se slovo „Dokument“ nahrazuje slovem „Document“.\n5. V příloze č. 1 bodu 4 se slova „PDF (Portable Document Format) verze 1.7 a vyšší“ nahrazují slovy „PDF/A (Portable Document Format/Archive) verze 2 a vyšší“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:80/1945",
+  "type": "statute",
+  "title": "80/1945 Sb., Dekret presidenta republiky o opětném zavedení středoevropského času",
+  "title_en": "",
+  "short_name": "80/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-10-01",
+  "in_force_date": "1945-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1945/80",
+  "description": "Dekret presidenta republiky o opětném zavedení středoevropského času",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Počínajíc dnem 1. října 1945 zavádí se opět středoevropský čas.\n(2) Použivatelnost předpisů z doby nesvobody o letním čase se zrušuje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento dekret nabývá účinnosti dnem 1. října 1945; provede jej ministr vnitra v dohodě se zúčastněnými ministry."
+    }
+  ],
+  "definitions": []
+}

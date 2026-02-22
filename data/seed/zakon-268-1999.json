@@ -1,0 +1,45 @@
+{
+  "id": "cz:268/1999",
+  "type": "statute",
+  "title": "268/1999 Sb., Vyhláška Ministerstva obrany, kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí",
+  "title_en": "",
+  "short_name": "268/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-11-26",
+  "in_force_date": "2018-11-01",
+  "url": "https://www.e-sbirka.cz/sb/1999/268",
+  "description": "Vyhláška Ministerstva obrany, kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Výkonný letec",
+      "content": "Pro účely posuzování výše výsluhového příspěvku se za výkonného letce považuje\na) pilot, s výjimkou operátora bezpilotních prostředků,\nb) navigátor,\nc) palubní radiotelefonista,\nd) palubní operátor,\ne) palubní technik,\nf) palubní průvodčí,\ng) palubní zdravotnický personál letecké záchranné služby a letecké služby pátrání a záchrany,\nh) palubní střelec."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Služba zvláštní povahy nebo zvláštního stupně nebezpečnosti",
+      "content": "Službou zvláštní povahy nebo zvláštního stupně nebezpečnosti se rozumí služba vojáka zařazeného na služebním místě\na) řídícího letového provozu,\nb) výkonného výsadkáře,\nc) pyrotechnika,\nd) pomocníka pyrotechnika, který vykonává nebezpečné práce,\ne) potápěče, který vykonává speciální práce pod vodou,\nf) hasiče,\ng) spojeném s výkonem práce s výbušninami,\nh) spojeném s výkonem činnosti na zvláštním pracovišti v podzemí,\ni) stanoveném ministrem obrany ve Vojenském zpravodajství podle zákona o zpravodajských službách České republiky1),\nj) spojeném s výkonem činnosti příslušníka Speciálních sil při plnění úkolů Speciálních sil Armády České republiky, nebo\nk) vojenského policisty podle zákona o Vojenské policii,\npři jejímž výkonu trvale převažují činnosti, za které vojákovi přísluší zvláštní příplatek podle § 68c odst. 1 zákona, a to i tehdy, kdy jej z důvodu splnění nároku na jiný výhodnější příplatek nepobírá."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Postup při výplatě výsluhových náležitostí",
+      "content": "(1) Výsluhový příspěvek se vyplácí do jedenáctého dne kalendářního měsíce na běžný kalendářní měsíc.\n(2) Odbytné, odchodné a úmrtné se vyplácejí jednorázově do jedenáctého dne kalendářního měsíce následujícího po kalendářním měsíci, ve kterém na ně vznikl nárok."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1999.\n1) § 3 písm. c) a § 5 odst. 3 zákona č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění zákona č. 290/2005 Sb.\n1a) Zákon č. 124/1992 Sb., o Vojenské policii, ve znění zákona č. 39/1995 Sb. a zákona č. 213/2000 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Službou zvláštní povahy nebo zvláštního stupně nebezpečnosti",
+      "definition": "služba vojáka zařazeného na služebním místě",
+      "source_provision": "§ 2"
+    }
+  ]
+}

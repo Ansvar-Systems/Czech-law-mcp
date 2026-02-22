@@ -1,0 +1,33 @@
+{
+  "id": "cz:20/1945",
+  "type": "statute",
+  "title": "20/1945 Sb., Ústavní dekret presidenta republiky o prozatímním výkonu moci zákonodárné",
+  "title_en": "",
+  "short_name": "20/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-07-10",
+  "in_force_date": "1940-10-15",
+  "url": "https://www.e-sbirka.cz/sb/1945/20",
+  "description": "Ústavní dekret presidenta republiky o prozatímním výkonu moci zákonodárné",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Dokud nebude možno prováděti ustanovení hlavy druhé ústavní listiny z 29. února 1920 o moci zákonodárné, bude president republiky úkony, které mu ukládá par. 64 č. 1 a č. 3 úst. listiny, pokud k nim je zapotřebí souhlasu Národního shromáždění, vykonávati se souhlasem vlády."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Předpisy, jimiž se mění, ruší nebo nově vydávají zákony, budou vydávány po dobu platnosti zatímního státního zřízení v nezbytných případech presidentem republiky k návrhu vlády ve formě dekretů, které spolupodepíše předseda vlády, respektive členové vlády pověření jejich výkony."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Výkonem tohoto dekretu, který nabude účinnosti dnem jeho podepsání presidentem republiky, se pověřuje celá vláda.\nPodepsáno v Londýně, dne 15. října 1940."
+    }
+  ],
+  "definitions": []
+}

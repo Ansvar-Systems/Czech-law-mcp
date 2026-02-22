@@ -1,0 +1,33 @@
+{
+  "id": "cz:197/2000",
+  "type": "statute",
+  "title": "197/2000 Sb., Vyhláška Ministerstva dopravy a spojů o rozsahu pronájmu telekomunikačních okruhů a o jejich technických parametrech",
+  "title_en": "",
+  "short_name": "197/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-07-19",
+  "in_force_date": "2000-07-19",
+  "url": "https://www.e-sbirka.cz/sb/2000/197",
+  "description": "Vyhláška Ministerstva dopravy a spojů o rozsahu pronájmu telekomunikačních okruhů a o jejich technických parametrech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Minimální soubor a rozšířený soubor pronajímaných telekomunikačních okruhů s technickými parametry a charakteristikami jsou uvedeny v přílohách č. 1 a 2 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Informace o nabídce pronájmu telekomunikačních okruhů zveřejňovaná v Telekomunikačním věstníku1) obsahuje\na) technické charakteristiky telekomunikačních okruhů, včetně podrobné technické a funkční specifikace jejich koncových bodů,\nb) dodací podmínky pronajímaných telekomunikačních okruhů, ve kterých se uvede zejména\n1. postup objednávání,\n2. dodací lhůty,\n3. smluvní období pro pronájem telekomunikačního okruhu, včetně období minimálního, které poskytovatel služby přijme, bude-li o to žadatelem požádán,\n4. lhůty pro odstranění poruch,\n5. podmínky pro náhradní plnění služby,\nc) informace o licenčních podmínkách poskytovatele služby, které mají vliv na podmínky pro užívání pronajatého telekomunikačního okruhu, včetně doby platnosti licence,\nd) podmínky, za kterých může být omezeno nebo přerušeno poskytování služby za účelem zajištění bezpečnosti síťových operací, integrity sítě, provozní provázanosti služeb a ochrany dat v případech tísňové situace,\ne) podmínky pro připojování koncových zařízení k pronajatým telekomunikačním okruhům, včetně přehledu podmínek, které musí splňovat koncová zařízení, pokud mají být připojena k pronajatému telekomunikačnímu okruhu, a podmínek pro omezení poskytování služby v případech neplnění podmínek pro připojování koncových zařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k vyhlášce č. 197/2000 Sb.\nMinimální soubor pronajímaných telekomunikačních okruhů\nTyp okruhuTechnické charakteristiky\nSpecifikace rozhraníCharakteristika připojení\nAnalogový, telefonní, normální kvality2 drát - ČSN ETS 300 448 ed. 1\nnebo\n4 drát - ČSN ETS 300 45 ed. 12 drát - ČSN ETS 300 448 ed.1\nnebo\n4 drát -ČSN ETS 300 451 ed.1\nAnalogový, telefonní, speciální kvality2 drát - ČSN ETS 300 449 ed. 1\nnebo\n4 drát - ČSN ETS 300 452 ed. 12 drát - ČSN ETS 300 449 ed.1\nnebo\n4 drát - ČSN ETS 300 452 ed.1\nDigitální, s přenosovou rychlostí 64 kbit/sČSN ETS 300 288\nČSN ETS 300 288/A1 1)ČSN ETS 300 289\nDigitální s přenosovou rychlostí\n2048 kbit/s, nestrukturovanýČSN ETS 300 418 ed. 1ČSN ETS 300 247\nČSN ETS 300 247/A1\nDigitální, s přenosovou rychlostí\n2048 kbit/s, strukturovanýČSN ETS 300 418 ed. 1ČSN ETS 300 419 ed.1\n1) Pronajaté telekomunikační okruhy mohou být přechodně poskytovány s použitím rozhraní X.21 nebo X.21bis namísto ČSN ETS 300 288.\nPříloha č. 2 k vyhlášce č. 197/2000 Sb.\nRozšířený soubor pronajímaných telekomunikačních okruhů\nTyp okruhu Technické charakteristiky\nSpecifikace rozhraníCharakteristika připojení\nDigitální, s přenosovou rychlostí 34 368 kbit/s, strukturovanýČSN ETS 300 686 ed. 1ČSN ETS 300 687 ed. 1\nDigitální, s přenosovou rychlostí 34 368 kbit/s, nestrukturovanýČSN ETS 300 686 ed. 1ČSN ETS 300 687 ed. 1\nDigitální s přenosovou rychlostí 139 264 kbit/s, strukturovanýČSN ETS 300 686 ed. 1ČSN ETS 300 688 ed. 1\nDigitální, s přenosovou rychlostí 139 264 kbit/s, nestrukturovanýČSN ETS 300 686 ed. 1ČSN ETS 300 688 ed. 1\nDigitální, s přenosovou rychlostí 155 Mbit/s (STM-1)ITU-T G.708ITU-T G.708\n1) § 33 odst. 6 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:103/1950",
+  "type": "statute",
+  "title": "103/1950 Ú. l. I, Vyhláška ministerstva vnitra o stanovení nových úředních názvů míst.",
+  "title_en": "",
+  "short_name": "103/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-02-11",
+  "in_force_date": "1950-02-26",
+  "url": "https://www.e-sbirka.cz/ul1/1950/103",
+  "description": "Vyhláška ministerstva vnitra o stanovení nových úředních názvů míst.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V kraji Pražském:\nV okrese Praha-východ:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V kraji Hradeckém:\nV okrese Náchod:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V kraji Jihlavském:\nV okrese Havlíčkův Brod:"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. V kraji Brněnském:\nV okrese Mikulov:\nV okrese Vyškov:"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. V kraji Olomouckém:\nV okrese Přerov:"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "cz:24/1984",
+  "type": "statute",
+  "title": "24/1984 Sb., Vyhláška Českého úřadu bezpečnosti práce k zajištění bezpečnosti práce v nízkotlakých kotelnách",
+  "title_en": "",
+  "short_name": "24/1984 Sb.",
+  "status": "in_force",
+  "issued_date": "1984-03-16",
+  "in_force_date": "1984-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1984/24",
+  "description": "Vyhláška Českého úřadu bezpečnosti práce k zajištění bezpečnosti práce v nízkotlakých kotelnách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "content": "Vyhláška stanoví povinnosti organizace a jejich pracovníků při projektování, zřizování, umístění a provozu nízkotlakých kotelen (dále jen „kotelny“), v nichž je součet jmenovitých tepelných výkonů nízkotlakých kotlů (dále jen „kotle“) větší než 50 KW."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "content": "Pro účely této vyhlášky se považuje za\na) kotelnu prostor, ve kterém jsou umístěny kotle\n1. teplovodní s nejvyšší pracovní teplotou vody do 115 °C včetně,\n2. parní s konstrukčním přetlakem kotlů do 0,07 MPa včetně,\n3. kapalinové s nejvyšší pracovní teplotou kapaliny, která nepřesahuje bod varu při přetlaku 0,07 MPa.\nPřitom nerozhoduje, zda v jedné kotelně jsou kotle stejného typu;\nb) parní kotel zařízení, v němž se vyrábí pára o jmenovitém přetlaku nejvýše 0,07 MPa spalováním pevných, kapalných nebo plynných paliv, případně využívající elektrickou energii;\nc) teplovodní kotel zařízení, v němž se ohřívá voda na nejvyšší výstupní teplotu 115 °C spalováním pevných, kapalných nebo plynných paliv, případně využívající elektrickou energii;\nd) kapalinový kotel zařízení, které má trvalou kapalinovou náplň vzduchotěsně uzavřenou v kotlovém tělese;\ne) kotelní zařízení technické zařízení k výrobě páry nebo teplé vody, sestávající z kotle nebo několika kotlů a zařízení potřebné pro provoz kotle nebo s provozem související;\nf) výhřevnou (teplosměnnou) plochu plocha stěn částí kotle, kterými se předává teplo pracovní látce;\ng) jmenovitý tepelný výkon kotle množství tepla za jednotku času, které musí kotel trvale předávat teplonosné látce při předepsaných podmínkách v ustáleném stavu, při použití paliva předepsaného výrobcem;\nh) tah kotle rozdíl mezi statickým tlakem v místě vstupu spalovacího vzduchu do kotle a statickým tlakem v místě odvodu spalin z kotle;\nch) konstrukční přetlak nejvyšší přípustná hodnota přetlaku v kotli, která je základem pro pevnostní výpočet kotle;\ni) občasnou obsluhu kotle pravidelná kontrola kotle topičem ve lhůtách stanovených v návodu k obsluze a provozu kotlů a v provozním řádu kotelny;\nj) trvalou obsluhu kotle obsluha, při které se může topič jen krátkodobě vzdálit od kotle, pokud zůstane v doslechu signalizačního zařízení, které dává impuls při poklesu pracovního přetlaku pod minimální hodnotu a dosažené nejvyšší teploty výstupní vody u teplovodních kotlů a u parních kotlů při poklesu hladiny vody pod nejnižší přípustnou hranici;\nk) samostatný objekt prostorově ucelená stavba, která plní vymezenou účelovou funkci;\nl) rekonstrukci kotle zásah do celku kotle zhotoveného, při kterém se mění parametry kotle proti původnímu stavu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Projektová dokumentace kotelny",
+      "content": "(1) Projektovou dokumentaci kotelny se součtem jmenovitých tepelných výkonů kotlů větším než 1,0 MW je zpracovatel v rámci stavebního řízení povinen předložit příslušnému inspektorátu bezpečnosti práce (dále jen „inspektorát“) k posouzení.\n(2) Součástí projektové dokumentace kotelny je\na) technické řešení způsobu větrání,\nb) výpočet potřebného množství vzduchu pro spalování a\nc) výpočet účinného větrání prostoru kotelny a prostorů souvisejících s provozem kotelny."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Dokumentace kotle",
+      "content": "(1) Dodavatel je povinen ke každému kotli dodat\na) návod k jeho montáži, obsluze, provozu a údržbě a\nb) osvědčení o jakosti a úplnosti kotle.\n(2) Dokumentace kotle s jmenovitým tepelným výkonem nad 50 KW musí obsahovat též\na) výkresy sestavy kotle a jeho příslušenství,\nb) základové plány kotle,\nc) schéma potrubí a armatur s udáním jmenovitých světlostí a jmenovitých tlaků,\nd) schéma měřicích míst s udáním veličin pro měření provozních látek, schéma dálkového ovládání a regulace, popřípadě oběhu vody,\ne) schéma mazání,\nf) jakostní ukazatele napájecí a kotelní vody a\ng) seznam dokladů tvořících dokumentaci.\n(3) U kotle na plynná paliva s jmenovitým tepelným výkonem vyšším než 50 KW musí dodavatel plynového zařízení kotle dodat také revizní knihu plynového spotřebiče.1)\n(4) U kotle na kapalná paliva s jmenovitým tepelným výkonem vyšším než 50 KW musí dodavatel olejového zařízení kotle dodat také dokumentaci a předpisy pro zařízení na spalování kapalného paliva (hořák, předehřívač, olejové hospodářství apod.)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zřizování kotelen",
+      "content": "(1) Kotelny s parními nebo teplovodními kotli se součtem jmenovitých tepelných výkonů kotlů vyšším než 3,5 MW musí být zřizovány v samostatných objektech.\n(2) Kotelny se součtem jmenovitých tepelných výkonů kotlů do 3,5 MW včetně lze zřizovat i ve zvláštních místnostech, ve sklepech, v suterénech, v posledním podlaží nebo na střechách budov, umožňují-li to podmínky přísunu nebo přívodu paliva, tepelného rozvodu a stavební konstrukce budovy.\n(3) Kotelny se součtem jmenovitých tepelných výkonů kotlů vyšším než 3,5 MW a kotelny s kotli na plynná paliva se součtem jmenovitých tepelných výkonů kotlů větším než 0,5 MW musí být postaveny s lehce vybořitelnými částmi stěn do prostoru, který nezvyšuje tlakovou vlnu. Alespoň jedna stěna těchto kotelen musí být nad úrovní terénu bezprostředně sousedícího s kotelnami.\n(4) Za lehce vybořitelné části stěn se považují stavební prvky (včetně oken, dveří apod.), jejichž pevnost není větší než pevnost cihlového zdiva o tloušťce 10 cm, provedeného na vápennou maltu. Velikost lehce vybořitelných ploch ve stěnách kotelen musí činit alespoň 0,07 m2 na 1 m3 prostoru kotelen.\n(5) Pro montáž a výměnu kotlů nebo jejich částí u nových a rekonstruovaných kotelen musí být zajištěn prostor uvnitř kotelen, montážní otvor a přístupová cesta ke kotelnám, které velikostí odpovídají rozměrům kotlů, popřípadě jejich montážních bloků.\n(6) Ve výjimečných a mimořádných případech se lze odchýlit od požadavků na zřizování kotelen stanovených v odstavcích 1 až 5 po vyjádření příslušného inspektorátu a za podmínek jím stanovených."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Větrání",
+      "content": "(1) Prostory kotelen a prostory související s provozem kotelen musí být účinně větrány.2) Do prostoru, kde jsou umístěny kotle, musí být zajištěn dostatečný přívod vzduchu potřebný pro spalování a větrání neuzavíratelným otvorem u podlahy kotelen.\n(2) Přirozené větrání kotelen, jejichž podlaha je pod úrovní okolního terénu (ve sklepě, suterénu apod.), a kotelen s kotli vytápěnými plynnými palivy, musí být zajištěno nejméně jedním neuzavíratelným otvorem pro přívod vzduchu s vyústěním při podlaze kotelen. Odvod vzduchu z těchto kotelen musí být zajištěn alespoň jedním otvorem u stropu kotelen na protilehlé straně, popřípadě odvodným potrubím do venkovního prostoru tak, aby bylo zajištěno dostatečné proudění vzduchu.\n(3) V kotelnách, ve kterých jsou umístěny kotle s přirozeným tahem a které mají nucené větrání, musí být toto větrání přetlakové."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Nouzové osvětlení",
+      "content": "(1) V kotelnách s půdorysnou plochou větší než 150 m2 s trvalou obsluhou musí být instalováno nouzové osvětlení, které musí být napájeno samostatným zdrojem proudu.\n(2) Nouzovým osvětlením musí být opatřeny\na) přední stěna obsluhy kotlů,\nb) tlakoměry, tahoměry, vodoznaky, výškoměry a nálevka včetně přetlakového zařízení parního kotle,\nc) prostor pro odpopelňování,\nd) prostor plynového hospodářství,\ne) prostor zauhlovacího zařízení,\nf) prostor provozní nádrže na kapalné palivo,\ng) místo, kde je rozdělovač páry nebo teplé vody a\nh) únikové cesty po celé délce.\n(3) Nouzové osvětlení podle odstavce 2 není nutné u kotlů, u kterých dojde při výpadku elektrické energie k jejich automatickému odstavení z provozu.\n(4) Obsluhující pracovníci musí mít ruční svítilnu v použitelném stavu.\n(5) V kotelnách musí být přenosná svítidla s možností připojení na bezpečné napětí."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Tahové poměry kotlů",
+      "content": "(1) Kouřové nástavce kotlů musí být opatřeny zařízením pro měření tahu a teplot spalin.\n(2) Potřebný tah k hoření stanoví u kotlů jejich výrobce, při rekonstrukci kotlů zpracovatel projektové dokumentace."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Ochrana proti popálení",
+      "content": "Všechny povrchy v kotelnách, které jsou teplejší než 60 °C, musí být s výjimkou uzavíracích prvků, opatřeny nehořlavou izolací, pokud neslouží účelům vytápění. Uzavírací prvky musí být v takovém provedení, které vylučuje možnost popálení."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Provozní řád",
+      "content": "(1) Organizace, která provozuje kotle (dále jen „provozovatel“), je povinna vydat provozní řád kotelny (dále jen „provozní řád“) s předchozím souhlasem příslušného orgánu Revolučního odborového hnutí nebo v družstvu orgánu společenské kontroly nad bezpečností a ochranou zdraví při práci; při jeho vypracování musí vycházet z předpisů k zajištění bezpečnosti práce v kotelnách a z návodu k obsluze, provozu a údržbě kotlů.\n(2) Provozní řád stanoví počet kotlů, které může obsluhovat jeden topič, způsob obsluhy [občasná nebo trvalá – § 2 písm. i), j)] a povinnosti jednotlivých pracovníků při obsluze kotlů, zauhlování, odstraňování pevných zbytků při spalování paliva, provozu zařízení na úpravu vody a provozu olejového a plynového hospodářství a okruh osob oprávněných ke vstupu do kotelny.\n(3) Provozní řád musí řešit způsob, postup, rozsah a termíny čištění kotlů tak, aby nedošlo k poškození kotlových stěn a k ohrožení bezpečnosti pracovníků.\n(4) Provozní řád musí být v kotelně trvale vyvěšen a dodržován."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Provoz kotlů",
+      "content": "(1) Pracovníci při obsluze a provozu kotlů jsou povinni zejména\na) při provozu parních kotlů zajistit, aby hladina vody nemohla klesnout pod nejnižší ani stoupnout nad nejvyšší přípustný stav vody a při provozu teplovodních a kapalinových kotlů, aby nedošlo k překročení nejvyšší dovolené teploty a tlak byl udržován ve stanoveném rozmezí,\nb) všechny uzávěry otevírat zvolna, aby nedocházelo k tepelným nebo tlakovým rázům,\nc) pokud nejde o zvlášť konstruované přetlakové topeniště, udržovat v topeništi podtlak podle provozních pokynů výrobce,\nd) pevné zbytky po spálení paliva odstraňovat z topeniště a kotelen tak, aby neohrožovaly pracovníky v kotelnách,\ne) při zatápění, provozu a odstavování kotlů postupovat podle provozního řádu.\n(2) Nelze-li u některých kotlů návod dodavatele zajistit, zapracuje podrobné požadavky na zatápění, provoz a odstavení kotlů provozovatel do provozního řádu.\n(3) Kotle musí být ihned odstaveny z provozu\na) při ztrátě vody ve vodoznacích, jde-li o parní kotle,\nb) není-li možno parní nebo teplovodní kotle doplňovat vodou,\nc) při vzniku trhlin a větších netěsností, a to\n1. u parních kotlů, jestliže ani při zvýšeném napájení není možno udržet nejnižší přípustný stav vody v kotlích,\n2. u teplovodních a kapalinových kotlů při náhlém poklesu tlaku kapaliny,\n3. jestliže by byla ohrožena bezpečnost osob nebo zařízení,\n4. selže-li zabezpečovací zařízení,3)\nd) při deformacích výhřevných ploch kotlů, které by mohly způsobit výbuch kotlů a tím ohrozit bezpečnost osob,\ne) při výbuchu plynu v topeništi a v kouřových tazích, který způsobil poškození zazdívky, oplechování nebo vlastního tlakového celku,\nf) v případech, kdy nelze zajistit jejich spolehlivou obsluhu (např. špatná viditelnost, požár)."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Povinnosti provozovatelů",
+      "content": "Provozovatelé jsou povinni:\na) provozovat kotle v souladu s provozním řádem,\nb) stanovit v kotelnách trvalou nebo občasnou obsluhu [§ 2 písm. i), j)] s přihlédnutím zejména k výkonu kotelen, způsobu signalizace, rozsahu automatizace, druhu paliva a návodu dodavatele k provozu, obsluze a údržbě,\nc) provádět preventivní a provozní údržbu kotelen,\nd) dozírat, aby se v kotelnách nekonaly práce, které nesouvisejí s jejich provozem a údržbou, a aby se v nich nezdržovaly nepovolané osoby,\ne) zajistit obsluhu kotlů odborně a zdravotně způsobilými topiči,\nf) zajistit praktický zácvik, zkoušku a ověření znalosti topiče (§ 14),\ng) zajistit v rozsahu stanoveném příslušným ústředním orgánem4) potřebné osobní ochranné pracovní prostředky, zajistit jejich řádnou údržbu a jejich výměnu ve stanovených lhůtách, seznámit pracovníky s používáním těchto prostředků a jejich používání vyžadovat a soustavně kontrolovat,\nh) zajistit stanovené lékařské prohlídky topičů [§ 15 písm. g)],\nch) vést v kotelnách provozní deník (§ 13),\ni) označit dveře do kotelen bezpečnostní tabulkou s nesmazatelným nápisem „KOTELNA – VSTUP NEPOVOLANÝM ZAKÁZÁN“, případně dalšími bezpečnostními nápisy,5)\nj) zajistit provedení odborných prohlídek kotelen (§ 16),\nk) odstraňovat závady a nedostatky zjištěné při odborných prohlídkách kotelen a při revizích,\nl) provádět chemické rozbory napájecí a kotelní vody podle návodu k obsluze, provozu a údržbě zařízení na úpravu vody,\nm) provést potřebná opatření v případě tvoření kotelního kamene nebo nadměrného usazování kalu v kotlích,\nn) zjišťovat přítomnost kysličníku uhelnatého ve lhůtách stanovených provozním řádem (např. detekční trubičkou),\no) uschovávat provozní deník alespoň po dobu tří let."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Provozní deník",
+      "content": "(1) V každé kotelně musí být veden provozní deník.\n(2) Do provozního deníku se zapisují:\na) den a hodina zatopení v kotlích,\nb) začátek a konec každé směny,\nc) provozní údaje (tlak páry, teplota vody, množství vody apod.) v rozsahu a lhůtách stanovených provozním řádem,\nd) teplota venkovního vzduchu,\ne) údaje o závadách a poruchách a o jejich odstranění,\nf) údaje o neobvyklých jevech nebo mimořádných provozních podmínkách a o jejich odstranění,\ng) den a hodina odstavení kotlů,\nh) údaje o provedených údržbářských pracích v kotelnách,\ni) výsledky kontrol přítomnosti kysličníku uhelnatého,\nj) výsledky kontrol těsnosti rozebíratelných spojů a armatur, se kterými se manipuluje u plynového zařízení,\nk) jiné údaje potřebné pro posouzení provozu kotelny podle provozního řádu a zvláštních předpisů,6)\nl) střídání směn topičů a jejich podpisy."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Topiči",
+      "content": "(1) Topičem kotlů může být jen pracovník, který\na) je starší 18 let,\nb) prokáže potvrzením příslušného lékaře, že je tělesně a duševně způsobilý vykonávat práci topiče,\nc) má nejméně týdenní praktický zácvik,\nd) ovládá obsluhu celého kotelního zařízení a všech bezpečnostních zařízení,3) zná návod dodavatele k obsluze, provozu a údržbě kotelního zařízení a provozní řád,\ne) má osvědčení o způsobilosti topiče k samostatné obsluze kotlů podle vzoru uvedeného v příloze vydané na základě úspěšně vykonané zkoušky. Záznam o zkoušce k osvědčení může být na společném dokladu.\n(2) Zkoušku skládá topič před zkušební komisí, kterou ustanovuje a svolává provozovatel. Zkušební komise se skládá z předsedy, kterým je zástupce provozovatele, a z nejméně dvou členů, z nichž jeden musí být odborný pracovník (§ 16), u kotlů na plynná paliva kromě toho též revizní technik plynových zařízení a zástupce příslušného orgánu Revolučního odborového hnutí nebo v družstvu orgánu společenské kontroly.\n(3) Provozovatelé se mohou k provádění zkoušek sdružit, pokud provedení zkoušek pro vlastní pracovníky není hospodárné. V tomto případě se dohodnou na složení a způsobu svolávání zkušební komise.\n(4) O zkoušce musí být sepsán zápis, který je uložen u provozovatele, který zkoušku prováděl. Topičovi je v případě kladného výsledku zkoušky vydáno osvědčení, jehož vzor je uveden v příloze vyhlášky. Stejnopis osvědčení je uložen u provozovatele spolu se zápisem o zkoušce.\n(5) Při přijetí topiče do pracovního poměru je povinen provozovatel, který s topičem pracovní poměr uzavírá, pokud topič má osvědčení o způsobilosti topiče k samostatné obsluze kotlů ověřit jeho znalosti a sepsat o tomto ověření zápis."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Povinnosti topičů",
+      "content": "Topiči jsou povinni\na) udržovat obsluhované kotelní zařízení v bezpečném a řádném stavu,\nb) neprodleně ohlásit nadřízenému pracovníku každou poruchu, závadu nebo neobvyklý jev při provozu kotlů, hlášení zaznamenat v provozním deníku a dát potvrdit nadřízenému pracovníku a při nebezpečí z prodlení (§ 11 odst. 3) ihned odstavit kotel z provozu,\nc) v rozsahu a ve lhůtách stanovených v návodu výrobce k obsluze, provozu a údržbě a v provozním řádu kontrolovat tahové poměry v kotlích a stav a funkci zabezpečovacího a signalizačního zařízení, bez zásahu do automatického ovládání,\nd) trvale udržovat pořádek a čistotu v kotelnách a dbát, aby se v nich nezdržovaly nepovolané osoby,\ne) při vícesměnném provozu po ukončení směny předat kotelní zařízení svému nástupci,\nf) neprodleně hlásit nadřízenému pracovníku okolnosti, které jim podstatně ztěžují obsluhu kotlů (náhlou nevolnost apod.),\ng) podrobit se lékařským prohlídkám stanoveným zvláštními předpisy,7)\nh) zapisovat do provozního deníku údaje uvedené v § 13 odst. 2."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Odborné prohlídky kotelen",
+      "content": "(1) Provozovatel musí zajistit odborné prohlídky kotelen (dále jen „prohlídky“)\na) před uvedením kotelen do provozu,\nb) po každé generální opravě a rekonstrukci kotlů,\nc) při změně druhu paliva,\nd) vždy po jednom roce provozu kotelen,\ne) u sezónního provozu před zahájením každé sezóny.\n(2) Provedením prohlídek pověří provozovatel odborného pracovníka, který prokazatelně ovládá bezpečnostní předpisy pro provoz, obsluhu a údržbu kotelního zařízení, kotelny a bezpečnostní předpisy související (např. tepelný technik, revizní technik kotlů, energetik).\n(3) Při prohlídkách se vychází z revizních zpráv tlakových, zdvihacích, plynových a elektrických zařízení a z dalších podkladů (např. zápis o prohlídkách předchozích, provozní deník). Při prohlídkách se zjišťuje zejména vnější a vnitřní stav kotlů, stav zabezpečovacího zařízení, hořáků, čerpadel, nádrží, zařízení na úpravu vody, zauhlovacího a odpopelňovacího zařízení.\n(4) O výsledku prohlídek se vyhotoví zápis, který provozovatel uschovává po dobu pěti let."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Přechodné ustanovení",
+      "content": "Nové a rekonstruované kotelny mohou být uvedeny do provozu jen za podmínky, že nebyly předepsanými revizemi vyhrazených technických zařízení8) a prohlídkami (§ 16) zjištěny závady, které by uvedení do provozu bránily."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Zrušovací ustanovení",
+      "content": "Zrušuje se vyhláška Českého úřadu bezpečnosti práce č. 35/1976 Sb., k zajištění bezpečnosti práce v nízkotlakých kotelnách."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1984.\nPříloha k vyhlášce č. 24/1984 Sb.\nOSVĚDČENÍ o způsobilosti topiče k samostatné obsluze nízkotlakých kotlů\n1) ON 06 0711 Revizní kniha plynových spotřebičů.\n2) Směrnice ministerstva zdravotnictví ČSR – hlavní hygienik ČSR čj. HEM–340.2–30. 9. 78 z 11. května 1978, o hygienických požadavcích na pracovní prostředí uveřejněné pod č. 46/1978 Sb. Hygienické předpisy (reg. v částce 21/1978 Sb.).\n3) ČSN 06 0830 Zabezpečovací zařízení pro ústřední vytápění a ohřívání užitkové vody.\n4) Předpisy vydané ústředními orgány podle § 133 odst. 2 zákoníku práce a podle Zásad stanovených vládou ČSSR č. 251/1971.\n5) ČSN 01 8010 Bezpečnostní barvy a značky.\nČSN 01 8012 Bezpečnostní tabulky.\n6) Např. vyhláška ČÚBP č. 85/1978 Sb., o kontrolách, revizích a zkouškách plynových zařízení.\n7) Směrnice č. 49/1967 Věstníku MZ ČSR reg. v částce 2/1968 Sb., o posuzování zdravotní způsobilosti k práci, ve znění závazného opatření č. 17/1970 Věstníku MZ ČSR reg. v částce 20/1970 Sb.\n8) Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.\nVyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 19/1979 Sb., kterou se určují vyhrazená zdvihací zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.\nVyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 20/1979 Sb., kterou se určují vyhrazená elektrická zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.\nVyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 21/1979 Sb., kterou se určují vyhrazená plynová zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti."
+    }
+  ],
+  "definitions": []
+}

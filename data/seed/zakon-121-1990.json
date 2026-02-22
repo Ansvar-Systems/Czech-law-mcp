@@ -1,0 +1,69 @@
+{
+  "id": "cz:121/1990",
+  "type": "statute",
+  "title": "121/1990 Sb., Nařízení vlády České a Slovenské Federativní Republiky o pracovněprávních vztazích při soukromém podnikání občanů",
+  "title_en": "",
+  "short_name": "121/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-04-23",
+  "in_force_date": "1992-05-29",
+  "url": "https://www.e-sbirka.cz/sb/1990/121",
+  "description": "Nařízení vlády České a Slovenské Federativní Republiky o pracovněprávních vztazích při soukromém podnikání občanů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Na pracovněprávní vztahy, které vznikají při soukromém podnikání občanů, se vztahuje zákoník práce (dále jen „zákoník“), pokud toto nařízení nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Kde ze zákoníku vyplývají práva nebo povinnosti organizaci1) nebo vedoucímu organizace,2) rozumí se tím pro účely tohoto nařízení občan, který je oprávněn podnikat podle zvláštního předpisu3) (dále jen „podnikatel“)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Jestliže u podnikatele působí odborová organizace, platí pro pracovněprávní vztahy ustanovení zákoníku, která upravují působnost odborů.\nODCHYLNÉ ÚPRAVY"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Pro pracovněprávní vztahy mezi podnikatelem a pracovníkem se nepoužijí tato ustanovení zákoníku: § 9 odst. 4, § 26, § 27 odst. 1, 3, 4 a 5, § 35 odst. 3, § 65, 68, § 74 písm. b), e) a g), § 85, 140, § 176 odst. 4, § 185 odst. 1, odst. 2 část věty za středníkem a odst. 5 věta druhá, § 186, 227, § 249 až 251 a § 269 odst. 1."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Nedovoluje-li povaha práce nebo podmínky provozu, aby pracovní doba byla rozvržena rovnoměrně na jednotlivé týdny, může podnikatel s pracovníkem dohodnout rozvržení pracovní doby nerovnoměrně, popřípadě za podmínek stanovených v nařízení vlády Československé socialistické republiky4) (§ 92 odst. 3 písm. b) zákoníku) dohodnout odchylně nepřetržitý odpočinek v týdnu; průměrná pracovní doba nesmí přitom v určitém období, zpravidla čtyřtýdenním nebo v období celého kalendářního roku, přesahovat hranici stanovenou pro týdenní pracovní dobu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "Podnikatel může pracovníkům zabezpečovat stravování a vhodné nápoje přímo na pracovišti nebo v jeho blízkosti; přitom může pracovníkům poskytnout příspěvek až do výše 10 Kčs denně. Stravování podle předchozí věty musí odpovídat zásadám správné výživy."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Přechod práv a povinností z pracovněprávních vztahů",
+      "content": "Smrtí podnikatele přecházejí na jeho dědice práva a povinnosti z pracovněprávních vztahů.7)"
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. května 1990.\n1) § 8 odst. 1 zákoníku práce.\n2) § 9 odst. 1 zákoníku práce.\n3) Například zákon č. 105/1990 Sb., o soukromém podnikání občanů.\n4) § 13 nařízení vlády ČSSR č. 223/1988 Sb., kterým se provádí zákoník práce.\n7) § 12 odst. 2 zákona č. 105/1990 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kde ze zákoníku vyplývají práva nebo povinnosti organizaci1) nebo vedoucímu organizace,2",
+      "definition": "se tím pro účely tohoto nařízení občan, který je oprávněn podnikat podle zvláštního předpisu3) (dále jen „podnikatel“)",
+      "source_provision": "§ 2"
+    }
+  ]
+}

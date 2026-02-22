@@ -1,0 +1,29 @@
+{
+  "id": "cz:81/2021",
+  "type": "statute",
+  "title": "81/2021 Sb., Nález Ústavního soudu ze dne 12. ledna 2021 sp. zn. Pl. ÚS 21/19 ve věci návrhu na zrušení části § 16 odst. 1 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "81/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-02-23",
+  "in_force_date": "2021-02-23",
+  "url": "https://www.e-sbirka.cz/sb/2021/81",
+  "description": "Nález Ústavního soudu ze dne 12. ledna 2021 sp. zn. Pl. ÚS 21/19 ve věci návrhu na zrušení části § 16 odst. 1 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "„§ 16",
+      "section": "16",
+      "title": "„§ 16",
+      "chapter": "II. - Znění relevantních ustanovení zákona o půdě, včetně napadeného ustanovení",
+      "content": "(1) Za pozemky, které se podle tohoto zákona nevydávají a za které nelze poskytnout jiný pozemek, náleží peněžitá náhrada ve výši ceny odňatého pozemku stanovené podle § 28a, pokud tento zákon nestanoví jinak (§ 14 odst. 8). [...]"
+    },
+    {
+      "provision_ref": "§ 28a",
+      "section": "28a",
+      "title": "§ 28a",
+      "chapter": "II. - Znění relevantních ustanovení zákona o půdě, včetně napadeného ustanovení",
+      "content": "Pokud tento zákon nestanoví jinak, poskytují se náhrady podle tohoto zákona v cenách platných ke dni 24. června 1991, a to u věcí nemovitých v cenách podle vyhlášky č. 182/1988 Sb., ve znění vyhlášky č. 316/1990 Sb., a u věcí movitých v zůstatkových účetních cenách, u věcí movitých s nulovou zůstatkovou cenou ve výši 10 % pořizovací ceny.“"
+    }
+  ],
+  "definitions": []
+}

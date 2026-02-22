@@ -1,0 +1,162 @@
+{
+  "id": "cz:45/1995",
+  "type": "statute",
+  "title": "45/1995 Sb., Vyhláška Českého báňského úřadu o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu v dolech s nebezpečím důlních otřesů",
+  "title_en": "",
+  "short_name": "45/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-03-14",
+  "in_force_date": "1996-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1995/45",
+  "description": "Vyhláška Českého báňského úřadu o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu v dolech s nebezpečím důlních otřesů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti a kritéria pro zařazení dolů",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Tato vyhláška se vztahuje na doly s nebezpečím důlních otřesů.\n(2) Mezi doly s nebezpečím důlních otřesů se zařazují doly, ve kterých k důlnímu otřesu došlo nebo které mohou být důlním otřesem ohroženy.1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Výklad pojmů",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se považují za\na) otřesové jevy - přírodní jevy náhlého porušení horského masivu, při nichž nastanou projevy v důlních dílech bez jejich deformací nebo s jejich zjevnou nebo měřitelnou deformací. Za otřesové jevy se považují odprýskávání nebo praskavky, rázy, otřesové, pilířové nebo detonační rány a důlní otřesy\n1. odprýskávání nebo praskavky - otřesové jevy, které se projevují odprýsknutím drobných úlomků hornin z obvodu důlního díla nebo zvukově charakteristickým prasknutím, popřípadě obojím. Důlní dílo se přitom zjevně nedeformuje,\n2. rázy, otřesové, pilířové nebo detonační rány - otřesové jevy zvukově registrovatelné, při nichž ke zjevné deformaci důlních děl nedochází nebo jsou nepatrné, jsou však přístroji měřitelné. Může při nich docházet k místním výlomům uhlí nebo hornin,\n3. důlní otřesy (dále jen „otřesy“) - otřesové jevy, při nichž dochází k vysunutí nebo vyvržení hornin do důlního díla a nastane jeho zjevná, trvalá deformace,\nb) protiotřesovou prevenci - systém činností a opatření, jimiž se dociluje rozpoznání nebezpečí vzniku otřesů, zamezení jejich vzniku nebo omezení jejich následků,\nc) část horského masivu - vertikálně a horizontálně vymezená oblast v dobývacím prostoru s obdobnými přírodními vlastnostmi,\nd) prognózu vzniku otřesů - souhrn činností umožňujících stanovit náchylnost horského masivu nebo jeho části ke vzniku otřesů, stanovit stupeň nebezpečí vzniku otřesů v plánovaných, projektovaných a vedených důlních dílech a správně volit prostředky protiotřesové prevence. Prognóza vzniku otřesů se dělí na regionální a místní\n1. regionální prognózu vzniku otřesů - činnost umožňující stanovit náchylnost částí horského masivu ke vzniku otřesů na základě hodnocení přírodních a hornických podmínek a výskytu otřesových jevů,\n2. místní prognózu vzniku otřesů - souhrn činností umožňující stanovit stupeň nebezpečí vzniku otřesů v důlních dílech a účinnost aktivních prostředků protiotřesové prevence,\ne) aktivní prostředky protiotřesové prevence - souhrn činností, opatření a zařízení ke snížení rizika vzniku otřesů,\nf) pasivní prostředky protiotřesové prevence - souhrn činností, opatření a zařízení k omezení následků otřesů,\ng) chráněnou oblast - oblast, kde působící napětí v horském masivu nedosahují hodnoty, které mohou při vedení důlních děl způsobit vznik důlního otřesu,\nh) ochrannou sloj (část ložiska) - sloj, lávku sloje nebo část ložiska, jejíž vydobytí ve vhodném prostoru a čase umožňuje vést v jiné sloji nebo v jiné lávce téže sloje, případně části ložiska důlní díla v chráněné oblasti,\ni) ochrannou zónu - oblast ve sloji přiléhající k důlnímu dílu, v níž je sloj přirozeně nebo uměle natolik porušená, že není schopna střádat pružnou energii a vytváří tlumící vrstvu při uvolnění pružné energie nastřádané za touto zónou,\nj) přídatná napětí - napětí působící v horském masivu, která jsou vyšší, než odpovídají původnímu napětí v něm,\nk) ponechaný pilíř - nevydobytá část horského masivu ovlivněná báňskými pracemi, ve které se mohou koncentrovat přídatná horská napětí jiná, než odpovídají geostatickému tlaku,\nl) příznaky otřesů - pozorovatelné nebo měřitelné jevy, o nichž se na základě předchozích zkušeností z vedení důlních děl v určité části horského masivu ví, že mohou předcházet vzniku otřesů (například otřesové jevy v konkrétním důlním díle nebo charakteristický vývoj seismické aktivity)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Řízení protiotřesové prevence",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) V organizaci2) nebo její části (dále jen „organizace“) musí být zajištěna protiotřesová prevence.\n(2) V dolech s nebezpečím otřesů lze pověřit řízením protiotřesové prevence jen zaměstnance s vysokoškolským vzděláním příslušného směru3) s alespoň tříletou hornickou praxí, podle možností v dolech s nebezpečím otřesů.\n(3) V dolech s nebezpečím otřesů je nutno zajistit činnosti vedoucí k předcházení podmínek vzniku otřesů, objasňování příčin projevů otřesů a stanovit opatření pro zvýšení bezpečnosti zaměstnanců a provozu (protiotřesový režim)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zařazování částí horského masivu",
+      "chapter": "ČÁST DRUHÁ - PROTIOTŘESOVÁ PREVENCE",
+      "content": "(1) V dolech s nebezpečím otřesů je nutno považovat všechny části horského masivu za nebezpečné otřesy, pokud je podle tohoto předpisu nelze zařadit jinak.\n(2) Na základě výsledků prognózy lze vymezit části horského masivu, kde nehrozí nebezpečí otřesu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zařazování důlních děl",
+      "chapter": "ČÁST DRUHÁ - PROTIOTŘESOVÁ PREVENCE",
+      "content": "(1) Všechna důlní díla s výjimkou těch, která jsou vedena v částech horského masivu, kde nehrozí nebezpečí otřesů (§ 4 odst. 2), zařadí organizace4) do 1., 2. nebo 3. stupně nebezpečí otřesů.\n(2) Mezi důlní díla v 1. stupni nebezpečí otřesů se zařazují důlní díla, u nichž se při běžných způsobech jejich vedení bez použití aktivních a pasivních prostředků protiotřesové prevence nepředpokládá vznik otřesů.\n(3) Mezi důlní díla ve 2. stupni nebezpečí otřesů se zařazují díla, u nichž při běžných způsobech jejich vedení nelze vyloučit nebezpečí vzniku otřesů. Při nepříznivém výsledku místní prognózy, prováděné v průběhu vedení důlních děl ve 2. stupni nebezpečí otřesů, nutno použít aktivních a pasivních prostředků protiotřesové prevence.\n(4) Mezi důlní díla ve 3. stupni nebezpečí otřesů se zařazují díla, u nichž lze při jejich vedení předpokládat nebezpečí vzniku otřesů nebo v nichž se otřesy již projevily. Při vedení důlních děl ve 3. stupni nebezpečí otřesů je nutno vždy použít aktivních a pasivních prostředků protiotřesové prevence."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Prognóza vzniku otřesů",
+      "chapter": "ČÁST DRUHÁ - PROTIOTŘESOVÁ PREVENCE",
+      "content": "(1) Organizace je povinna v dostatečném předstihu zjišťovat údaje potřebné pro prognózu.\n(2) Seismickou aktivitu v dobývacím prostoru dolu je nutno sledovat a vyhodnocovat s použitím výsledků seismické aktivity celého ložiska, popřípadě pánve.\n(3) Regionální prognóza je podkladem k vymezení částí horského masivu, kde hrozí, případně nehrozí nebezpečí otřesů. Prvky regionální prognózy jsou zejména\na) litologická povaha vrstevního sledu,\nb) strukturně-tektonická a paleonapěťová analýza masivu,\nc) analýza změn mocností a vývoje slojí,\nd) existence anomálních jevů ve vývoji vrstevního sledu,\ne) fyzikálně-mechanické vlastnosti horninového masivu nebo jeho částí,\nf) hloubka uložení pod povrchem a její změny,\ng) náchylnost slojí k projevu otřesů.\n(4) Místní prognóza vychází z regionální prognózy a je podkladem pro zařazení nebo přeřazení důlních děl, pro určení míst v důlních dílech, kde lze předpokládat projev otřesu, a pro kontrolu účinnosti protiotřesových opatření.\n(5) Způsob provádění prognózy stanoví plán otvírky, přípravy a dobývání;5) situování místní prognózy, její četnost, prostředky, jakož i využití jejich výsledků upřesní technologický postup."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Prostředky protiotřesové prevence",
+      "chapter": "ČÁST DRUHÁ - PROTIOTŘESOVÁ PREVENCE",
+      "content": "(1) Při vedení hornických prací s výjimkou míst uvedených v § 13 odst. 1 musí být uplatněny aktivní a pasivní prostředky protiotřesové prevence, směřující ke snížení rizika vzniku otřesů a k omezení jejich následků. Je nutno volit postup, který nezvyšuje nebezpečí otřesů v jiných slojích nebo v jiné části horského masivu a neznemožňuje prognózu a užití prostředků protiotřesové prevence.\n(2) Aktivní prostředky se použijí při vedení důlních děl na základě výsledků prognózy. Mezi aktivní prostředky patří zejména\na) časoprostorové vedení důlních děl,\nb) trhací práce v okolních horninách a ve sloji,6)\nc) zavlažování sloje a okolních hornin,\nd) odlehčovací vrty,\ne) volba technologie vedení důlních děl,\npokud směřují k prevenci vzniku otřesů.\n(3) Pasivní prostředky k omezení účinků případného otřesu nutno realizovat při vedení důlních děl na ochranu zaměstnanců a zařízení. Pasivní prostředky jsou zejména\na) omezení počtu zaměstnanců v ohrožených oblastech,\nb) systémy odvolávání zaměstnanců při zjištění nebezpečí,\nc) znepřístupnění nepotřebných důlních děl,\nd) volba výztuže důlních děl,\ne) umístění zařízení v důlních dílech,\nf) dálkové ovládání strojů,\ng) vytváření bezpečnostních dutin nebo kompenzačních prostorů,\nh) vyvolání otřesů za nepřítomnosti lidí,\ni) ochrana a vypínání elektrických zařízení.\n(4) Použití a kombinaci aktivních a pasivních prostředků stanoví technologický postup podle výsledků prognózy."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Projektování důlních děl",
+      "chapter": "ČÁST TŘETÍ - ZÁSADY PROJEKTOVÁNÍ A VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) V projektech nových dolů a pater je vždy nutno řešit koncepci protiotřesové prevence tak, aby mohl být určen současný i prognózovaný stav ložiska nebo jeho části z hlediska nebezpečí vzniku otřesů i s využitím zkušeností z dobývání tohoto ložiska na sousedních dolech.\n(2) Plány otvírky, přípravy a dobývání musí vycházet a být v souladu s dlouhodobou koncepcí hornické činnosti v dolech s nebezpečím důlních otřesů.7) Dlouhodobá koncepce hornické činnosti musí být na těchto dolech zpracována nejméně na dobu pěti let, zohledňovat strategii protiotřesové prevence a být potvrzena obvodním báňským úřadem. Požadavek na zpracování dlouhodobé koncepce je naplněn, je-li plán otvírky, přípravy a dobývání zpracován nejméně na dobu pěti let a zohledňuje strategii protiotřesové prevence.\n(3) Organizace4) aktualizuje dlouhodobou koncepci podle změn místních podmínek, nejméně však jedenkrát ročně.\n(4) Základní preventivní opatření proti nebezpečí otřesů je nutno podle zvláštního předpisu8) řešit již v plánu otvírky, přípravy a dobývání. Přitom musí být zohledněn možný vliv ponechaných pilířů v nadloží sloje nebo slojí, pro něž je plán otvírky, přípravy a dobývání zpracován."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Koordinace prací",
+      "chapter": "ČÁST TŘETÍ - ZÁSADY PROJEKTOVÁNÍ A VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Hornická činnost v dolech s nebezpečím otřesů, v jejich částech a také mezi sousedními doly musí být koordinována i z hlediska ochrany proti otřesům.\n(2) Postup prací dvou dolů na hranici dobývacích prostorů, pokud by se mohly vzájemně nepříznivě ovlivnit z hlediska vzniku otřesů, musí být předem projednán mezi oběma doly.8)\n(3) Koordinaci prací podle odstavců 1 a 2 navrhuje obvodnímu báňskému úřadu organizace.4), 8)\n(4) Při koordinaci prací na hranici dobývacích prostorů je nutno zohlednit možnost využití přirozené hranice dobývání ke snížení nebezpečí otřesů."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Technologické postupy",
+      "chapter": "ČÁST TŘETÍ - ZÁSADY PROJEKTOVÁNÍ A VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Součástí technologického postupu pro důlní díla v horském masivu nebo jeho části s nebezpečím otřesů musí být příloha „Zvláštní opatření proti otřesům - projekt“.9)\n(2) Zvláštní opatření proti otřesům se stanoví podle místních podmínek. Obsahuje zařazení důlního díla, provádění prognózy vzniku otřesů a její situování, četnost a prostředky, jakož i využití jejich výsledků, použití aktivních a pasivních prostředků protiotřesové prevence a charakteristiku příznaků otřesů.\n(3) Technologický postup stanoví také nejvyšší přípustný počet zaměstnanců a určí přípustný souběh činností."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Poučení zaměstnanců",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "Zaměstnanci v důlních dílech s nebezpečím otřesů a technický dozor kontrolující pracoviště musí být před nástupem do těchto důlních děl prokazatelným způsobem seznámeni s možnými příznaky otřesů a pravidelně školeni o zásadách práce v důlních dílech s nebezpečím otřesů."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Omezení prací",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Jsou-li zpozorovány příznaky otřesu nebo dojde-li k projevu otřesu, musí být práce ihned zastavena a osádka odvolána. Organizace4) určí podmínky, za nichž smí být práce opět zahájeny.\n(2) Jsou-li výsledky místní prognózy prováděné při vedení důlních děl nepříznivé, lze dále vykonávat pouze práce související s protiotřesovou prevencí uvedené v technologickém postupu.\n(3) Je-li provozován porub nebo dobývka10) ve 3. stupni nebezpečí otřesů, může organizace4) povolit vedení důlních děl ve 2. a 3. stupni nebezpečí otřesů v menší vzdálenosti než 200 m od hrany porubní fronty jen na základě znaleckého posudku, který vyloučí předpoklad nebezpečí otřesu při vedení těchto důlních děl. Jsou-li vykonávány v takových důlních dílech činnosti, které nesouvisí s jejich vedením, nutno stanovit zvláštní opatření k zajištění bezpečnosti.\n(4) Ustanovení odstavce 3 se nevztahuje na práce související s provozem takového porubu nebo dobývky.\n(5) Pokud lze předpokládat, že nedochází k pravidelnému uvolňování napětí v nadloží vedeného porubu nebo dobývky, vztahuje se ustanovení odstavce 3 na vzdálenost 200 metrů od obrysu vyrubané plochy."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Vedení důlních děl",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Důlní díla zařazená do 1. stupně nebezpečí smí být vedena bez použití aktivních a pasivních prostředků protiotřesové prevence. V rozsahu stanoveném v technologickém postupu musí však být prováděna místní prognóza nebezpečí otřesů. Pokud toto nebezpečí bylo zjištěno, musí být v této oblasti důlní dílo přeřazeno podle § 5 a dále vedeno pouze za dodržení opatření stanovených pro 2. nebo 3. stupeň nebezpečí.\n(2) Důlní díla zařazená do 2. stupně nebezpečí otřesů smí být vedena jen při soustavném provádění prognózy; mají-li mít vytvořenu ochrannou zónu, pak jen je-li tato zajištěna.\n(3) Důlní díla zařazená do 3. stupně nebezpečí otřesů smí být vedena jen při soustavném provádění prognózy a používání aktivních prostředků protiotřesové prevence, i když byla zajištěna ochranná zóna, je-li tato požadována.\n(4) Účinnost aktivních prostředků protiotřesové prevence nutno ověřovat po jejich provedení."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Vedení dlouhých důlních děl",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) V dlouhých důlních dílech a prorážkách ve slojích je nutno provádět prognózu, a je-li stanovena technologickým postupem, zajišťovat potřebnou ochrannou zónu v čelbě, v bocích důlního díla a do potřebné vzdálenosti za čelbou.\n(2) Výztuž dlouhých důlních děl11) nutno volit v souladu s požadovanou únosností s ohledem na stupeň nebezpečí otřesu, stanovená protiotřesová opatření, charakter očekávaných deformačních procesů, vlastnosti a konstrukce výztuže.\n(3) Ustanovení odstavce 1 platí rovněž pro ražbu ostatních důlních děl, například výklenků, komor, trafostanic a důlních provozoven."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Vedení porubů",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Je-li technologickým postupem stanovena ochranná zóna, lze poruby vyuhlovat, jen pokud je v předpolí porubu vytvořena.\n(2) Poruby je nutno vést v široké přímočaré frontě. Rozestup mezi sousedními poruby vedenými vedle sebe na společné chodbě musí být volen tak, aby nedošlo k jejich vzájemnému nepříznivému ovlivnění.\n(3) Před přiblížením porubu k chodbám v pilíři v jeho předpolí na vzdálenost dosahu vlivu přídatného napětí od hrany porubní fronty musí být tyto chodby znepřístupněny. Ve zvláště odůvodněných případech, kdy nelze tyto chodby z provozních důvodů znepřístupnit, musí být zabezpečeny způsobem stanoveným technologickým postupem. Vstup do těchto chodeb je nutno omezit na nezbytnou míru.\n(4) Volba porubní výztuže musí umožňovat provádění opatření protiotřesové prevence stanovených v technologických postupech a být stabilní i v případě, že dojde ke ztrátě jejího styku s nadložím.12)"
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Opatření pro ostatní důlní díla",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) V již vyražených a používaných důlních dílech je nutno, zejména v souvislosti s vedením jiných důlních děl, zjišťovat ohrožení těchto děl otřesy. Rozsah ochrany před následky otřesů a interval provádění prognózy stanoví technologický postup.\n(2) Při likvidaci důlních děl nutno postupovat analogicky podle ustanovení pro dlouhá důlní díla, poruby a ostatní důlní díla."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Požadavky na elektrická zařízení",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Kabelové rozvody do 1000 V vně nevýbušných závěrů vedoucí do prostorů s nebezpečím otřesů, s výjimkou jiskrově bezpečných rozvodů, obvodů telekomunikačních a sdělovacích, obvodů roznětných vedení, osobních svítidel a elektrických obvodů důlních lokomotiv, musí být hlídány přístroji pro kontrolu izolace a při poklesu izolačního stavu pod 50 ohmů/1 V samočinně vypnuty.\n(2) Kabelové rozvody nad 1000 V v důlních dílech zařazených podle § 5 a zařazených do prostor se zvýšeným nebezpečím výbuchu metanu (SNM 2) nebo prostor se zvýšeným nebezpečím výbuchu uhelného prachu (SNP 2)13) musí být vybaveny zařízením, které zajistí vypnutí při zemním spojení.\n(3) Způsob vypínání elektrické energie oblasti ohrožené účinkem otřesů musí být řešen v havarijním plánu hlubinného dolu."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Hlášení a dokumentace otřesů",
+      "chapter": "ČÁST ČTVRTÁ - DALŠÍ OPATŘENÍ PRO VEDENÍ DŮLNÍCH DĚL",
+      "content": "(1) Každý otřes musí být hlášen příslušnému obvodnímu báňskému úřadu. Hlášeny musí být i ostatní otřesové jevy, pokud při nich došlo k úrazu.\n(2) Dokumentace vedená podle zvláštního předpisu14) musí obsahovat podrobný situační náčrt místa vzniku otřesu s přiměřeně širokým okolím podle stavu v době vzniku otřesu, stručný záznam o průběhu otřesu a o jeho následcích.\n(3) Ostatní otřesové jevy se dokumentují způsobem stanoveným organizací.4)\n(4) Na průsvitkách důlních map musí být zakresleny údaje potřebné k protiotřesové prevenci (pásma účinku ochranných slojí, ponechané pilíře v nadloží, tektonická pásma)."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Výjimky",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Pouze v případech, kdy hrozí nebezpečí z prodlení při záchraně života nebo zdraví lidí nebo při likvidaci závažné provozní nehody (havárie), se organizace může odchýlit od ustanovení této vyhlášky.\n(2) Kromě případů uvedených v odstavci 1 se může organizace od ustanovení § 3 odst. 2, § 12 odst. 3 a 5, § 13 odst. 2 a 3, § 14 odst. 3, § 15 odst. 2 a § 17 odst. 1 a 2 této vyhlášky odchýlit jen se souhlasem Českého báňského úřadu a za podmínek jím stanovených na návrh organizace4) doložený potřebnými náhradními opatřeními."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Zrušovací ustanovení",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušuje se výnos Českého báňského úřadu č. 37/1991 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu v dolech s nebezpečím důlních otřesů (č. 2/1991 Ú. v. ČR)."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Účinnost",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení, s výjimkou § 17 odst. 1, který nabývá účinnosti dnem 1. ledna 1996.\n1) § 73 odst. 1 a 2 vyhlášky Českého báňského úřadu č. 22/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem v podzemí.\n2) § 3a zákona ČNR č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona ČNR č. 542/1991 Sb.\n3) § 1 odst. 12 vyhlášky Českého báňského úřadu č. 340/1992 Sb., o požadavcích na kvalifikaci a odbornou způsobilost a o ověřování odborné způsobilosti pracovníků k hornické činnosti a činnosti prováděné hornickým způsobem a o změně některých předpisů vydaných Českým báňským úřadem k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při hornické činnosti a činnosti prováděné hornickým způsobem.\n4) § 6 odst. 1 zákona č. 61/1988 Sb.\n5) Vyhláška Českého báňského úřadu č. 104/1988 Sb., o racionálním využívání výhradních ložisek, o povolování a ohlašování hornické činnosti a ohlašování činnosti prováděné hornickým způsobem, ve znění vyhlášky Českého báňského úřadu č. 242/1993 Sb.\n6) § 101 až 107 vyhlášky Českého báňského úřadu č. 72/1988 Sb., o výbušninách, ve znění vyhlášky Českého báňského úřadu č. 173/1992 Sb.\n7) § 74 vyhlášky č. 22/1989 Sb.\nPříloha č. 3 bod 1.3.1 vyhlášky č. 104/1988 Sb., ve znění vyhlášky č. 242/1993 Sb.\n8) § 32 odst. 3 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona ČNR č. 541/1991 Sb.\n9) § 5, § 43 odst. 1 písm. g), § 59 odst. 1 písm. j) vyhlášky č. 22/1989 Sb.\n10) § 2 odst. 1 písm. y) vyhlášky č. 22/1989 Sb.\n11) § 44 vyhlášky č. 22/1989 Sb.\n12) § 260 odst. 6 vyhlášky č. 22/1989 Sb., ve znění vyhlášky č. 3/1994 Sb.\n13) § 232 odst. 1 písm. c) a § 233 odst. 1 písm. c) vyhlášky č. 22/1989 Sb.\n14) § 75 vyhlášky č. 22/1989 Sb."
+    }
+  ],
+  "definitions": []
+}

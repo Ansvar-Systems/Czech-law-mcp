@@ -1,0 +1,69 @@
+{
+  "id": "cz:ul1:369/1948",
+  "type": "statute",
+  "title": "369/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového o úplatách za živnostenské řezání a štípání palivového dříví.",
+  "title_en": "",
+  "short_name": "369/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-03-05",
+  "in_force_date": "1948-03-15",
+  "url": "https://www.e-sbirka.cz/ul1/1948/369",
+  "description": "Vyhláška nejvyššího úřadu cenového o úplatách za živnostenské řezání a štípání palivového dříví.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za živnostenské řezání a štípání palivového dříví se stanoví tyto nejvyšší úplaty:\na) Řezání:\nPočet řezůŘezání strojníŘezání ruční\nv závoděmimo závodv závoděmimo závod\nna 1 bmdo 6 prmpřes 6 prmdo 6 prmpřes 6 prmdo 2 prmpřes 2 prmdo 2 prmpřes 2 prm\n325.—23.—29.—27.—66.—64.—68.—66.—\n482.—30.—37.—35.—73.—71.—75.—73.—\nb) Štípání:\nŠtípání strojníŠtípání ruční\nDélka špalíkův závoděmimo závod\nv cmdo 6 prmpřes 6 prmdo 2 prmpřes 2 prmdo 2 prmpřes 2 prm\n2021.—19.—33.—30.—35.—32.—\n2517.—15.—29.—26.—31.—28.—\n(2) Úplaty stanovené v odstavci 1 se rozumějí za řezání 1 prm jehličnatého palivového dříví a za štípání 1 prm jehličnatého i listnatého palivového dříví.\n(3) K úplatám stanoveným v odstavci 1 se počítají tyto nejvyšší přirážky:\na)pře řezání tvrdého dříví10%\nb)při řezání odpadového dříví z bouraček, starého nábytku, vyřazených pražců, pařezí15%\nc)při štípání pařezí20%"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) V úplatách podle § 1 jsou započítány veškeré výlohy spojené s rozřezáním či rozštípáním palivového dříví, s případným přemístěním strojní soupravy nebo náčiní, jakož i přiměřený zisk a daň z obratu.\n(2) Štípáním palivového dříví ve smyslu této vyhlášky se rozumí podélné rozštípnutí palivových špalíků; při tloušťce od 10 cm musejí být špalíky alespoň rozčtvrceny.\n(3) Za podklad vyúčtování pořezaného (rozštípaného) palivového dříví slouží prostorová míra zjištěná před započetím práce."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Odpad vzniklý při živnostenském řezání a štípání palivového dříví zůstává majetkem zákazníka.\n(2) Poškození pil nebo strojů hřeby a jinými cizími tělesy je součástí podnikatelského risika, které je kryto stanovenými úplatami."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Podniky provozující řezání a štípání palivového dříví po živnostensku jsou povinny vést záznamy o množství a druhu pořezaného a rozštípaného palivového dříví tak, aby mohla být oprávněnost požadovaných úplat kdykoli prokázána. Tyto záznamy musí být uschovány po dobu alespoň 3 let, není jinak předepsána delší uschovací lhůta."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Úplaty podle této vyhlášky jsou nejvyšší a je proto nutno postupovat podle ustanovení vyhlášky nejvyššího úřadu cenového ze dne 1. října 1946, č. 1832 Ú. l. I, o některých opatřeních k zajištění cen hospodářsky odůvodněných ve znění vyhlášky ze dne 15. března 1947, č. 251 Ú. l. I."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Nejvyšší úřad cenový nebo místa jím zmocněná mohou povolit nebo nařídit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem 15. března 1948.\n(2) Týmž dnem se zrušují veškeré individuální výměry, jimž byly upraveny úplaty za řezání palivového dříví po živnostensku."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Štípáním palivového dříví ve smyslu této vyhlášky",
+      "definition": "podélné rozštípnutí palivových špalíků; při tloušťce od 10 cm musejí být špalíky alespoň rozčtvrceny",
+      "source_provision": "§ 2."
+    }
+  ]
+}

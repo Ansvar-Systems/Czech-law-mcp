@@ -1,0 +1,39 @@
+{
+  "id": "cz:212/2001",
+  "type": "statute",
+  "title": "212/2001 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví podrobnosti pro přípravu a uskutečňování kombinované výroby elektřiny a tepla",
+  "title_en": "",
+  "short_name": "212/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-06-29",
+  "in_force_date": "2001-06-29",
+  "url": "https://www.e-sbirka.cz/sb/2001/212",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví podrobnosti pro přípravu a uskutečňování kombinované výroby elektřiny a tepla",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví podrobnosti pro přípravu a uskutečňování kombinované výroby elektřiny a tepla v nových zdrojích tepla nebo elektřiny a v rekonstruovaných zdrojích vyrábějících dosud jen teplo nebo jen elektřinu nebo elektřinu a teplo odděleným způsobem."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pravidla pro navrhování zařízení pro kombinovanou výrobu elektřiny a tepla ve zdrojích tepla a výrobnách elektřiny",
+      "content": "(1) Každý nový zdroj tepla nebo rekonstruovaný zdroj tepla o součtovém výkonu vyšším než 5 MWt vyrábějící teplo spalováním plynného, tuhého nebo kapalného paliva se vybaví zařízením, které vyrábí současně elektřinu v kombinovaném cyklu. Takovým zařízením je kogenerační jednotka s pístovým motorem a tepelnými výměníky, parní kotel a soustrojí s parní protitlakou nebo kondenzační odběrovou turbinou, soustrojí s plynovou turbinou a s kotlem na odpadní teplo, popř. kombinace soustrojí s plynovou a parní turbinou a s kotlem tvořící paroplynový cyklus, nebo palivový článek.\n(2) Zařízením na výrobu elektřiny se vybaví též parní výtopna, bez ohledu na druh spalovaného paliva, jejíž kotle mají parametry páry podstatně vyšší, než je nutné pro teplonosnou látku dodávanou ze zdroje pro vytápění nebo jiné účely.\n(3) U zařízení pro kombinovanou výrobu elektřiny a tepla podle odstavců 1 a 2 je nezbytné, aby jeho instalovaný tepelný výkon odpovídal alespoň minimálnímu požadovanému tepelnému výkonu na výstupu ze zdroje, jehož je součástí.\n(4) Zařízení pro kombinovanou výrobu elektřiny a tepla může mít nižší výkon, než odpovídá minimálnímu požadovanému tepelnému výkonu zdroje podle odstavce 3, prokáže-li se v energetickém auditu oprávněnost tohoto řešení optimalizačním výpočtem. V takovém případě se použije instalace zařízení s elektrickým výkonem, který odpovídá alespoň vlastní spotřebě elektřiny ve zdroji, jehož je součástí.\n(5) Každá výrobna elektřiny podle § 7 odst. 2 zákona, s výjimkou zdrojů elektřiny určených pro nepravidelný krátkodobý provoz, sloužících výhradně nebo převážně ke krytí vlastní spotřeby provozovatele a zařízení pro nouzové napájení jaderných elektráren, se za účelem využití vyrobeného tepla k zásobování objektů v okolí nebo přilehlého území teplem pro vytápění, přípravu teplé užitkové vody a jiné účely vybaví zařízením, které v závislosti na instalované výrobní technologii využije\na) tepelnou energii páry z protitlaku nebo z odběru parní turbiny,\nb) odpadní teplo plynové turbiny,\nc) odpadní teplo pístového spalovacího motoru, nebo\nd) odpadní teplo palivového článku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Při zpracování dokumentace stavby a energetického auditu se použijí\na) hodnoty minimální účinnosti užití energie při výrobě elektřiny a tepelné energie uvedené ve zvláštním právním předpisu,1)\nb) metoda dělení nákladů kombinované výroby na elektřinu a na tepelnou energii uvedenou ve zvláštním právním předpisu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení, s výjimkou § 3 písm. b), který nabývá účinnosti dnem 1. ledna 2002.\n1) Vyhláška č. 150/2001 Sb., kterou se stanoví minimální účinnost užití energie při výrobě elektřiny a tepelné energie."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:250/1990",
+  "type": "statute",
+  "title": "250/1990 Sb., Vyhláška federálního ministerstva financí o způsobu úhrady nákladů na vyrovnávací příspěvek plátcům příspěvku",
+  "title_en": "",
+  "short_name": "250/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-06-18",
+  "in_force_date": "1990-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/250",
+  "description": "Vyhláška federálního ministerstva financí o způsobu úhrady nákladů na vyrovnávací příspěvek plátcům příspěvku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úhrada nákladů na příspěvek1)",
+      "content": "(1) Plátci2) použijí k úhradě příspěvku oprávněným osobám prostředky státního rozpočtu federace.\n(2) Prostředky k úhradě příspěvků čerpají plátci jednou měsíčně vždy před jimi stanoveným výplatním termínem3) jednou souhrnnou částkou pro všechny oprávněné osoby ze zvláštních účtů federálního ministerstva financí otevřených u poboček Komerční banky a Všeobecné úvěrové banky v krajských městech příkazem k inkasu předkládaným prostřednictvím svého peněžního ústavu. Na příkazu k inkasu plátce uvede příslušné číslo účtu z přehledu uvedeného v příloze této vyhlášky odpovídající jeho místní krajské příslušnosti a dále konstantní symbol 6418 a ve variabilním symbolu počet oprávněných osob, na který se příspěvek čerpá. Příkaz k inkasu předloží plátce svému peněžnímu ústavu minimálně 2 dny před stanoveným výplatním termínem příspěvku.\n(3) Prostředky k úhradě příspěvku čerpají plátci, s výjimkou uvedenou v odstavci 4, ve prospěch svého běžného účtu.\n(4) Ústřední orgány, národní výbory všech stupňů a ostatní rozpočtové organizace čerpají prostředky k úhradě příspěvku ve prospěch svého účtu cizích prostředků."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob účtování",
+      "content": "Při účtování nároků na příspěvek, jeho příjmu ze státního rozpočtu na běžný účet nebo na účet cizích prostředků a při jeho výplatě použijí plátci syntetických účtů účtové třídy 2 a 8, a to účtů 201, 209, 210, 249,4) 255,5) 256, 259,4) 856,6) 8587) nebo 8998) uvedených v účtových osnovách pro příslušný druh organizace."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1990.\nPříloha vyhlášky č. 250/1990 Sb.\nPřehled zvláštních účtů federálního ministerstva financí pro čerpání příspěvků plátci v příslušném kraji\nPro Hlavní město Prahu1943-92129-011\nPro Středočeský kraj1943-2124-111\nPro Jihočeský kraj1943-2123-231\nPro Západočeský kraj1943-2123-311\nPro Severočeský kraj1943-2128-411\nPro Východočeský kraj1943-2122-511\nPro Jihomoravský kraj1943-2124-621\nPro Severomoravský kraj1943-2128-761\nPro Hlavní město SR Bratislavu1943-2123-012\nPro Západoslovenský kraj1943-2128-112\nPro Středoslovenský kraj1943-2127-312\nPro Východoslovenský kraj1943-2126-512\n1) § 1 zákonného opatření předsednictva Federálního shromáždění č. 206/1990 Sb.\n2) § 4 zákonného opatření předsednictva Federálního shromáždění č. 206/1990 Sb.\n3) Zálohy na plat za příslušný měsíc, v němž nárok na výplatu příspěvku vznikl, nebo zúčtování platu za předchozí měsíc.\n4) Pouze úřady důchodového zabezpečení v případě poukazů příspěvků důchodcům prostřednictvím organizací spojů.\n5) Pouze národní výbory v případě, že provádí výplaty oprávněným osobám na základě žádosti.\n6) Je-li plátcem organizace účtující podle účtové osnovy pro společenské a ostatní organizace.\n7) Je-li plátcem organizace účtující podle účtové osnovy pro hospodářské organizace a pro peněžní a pojišťovací ústavy.\n8) Je-li plátcem organizace účtující podle účtové osnovy pro rozpočtové organizace."
+    }
+  ],
+  "definitions": []
+}

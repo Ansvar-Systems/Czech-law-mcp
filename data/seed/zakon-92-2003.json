@@ -1,0 +1,21 @@
+{
+  "id": "cz:92/2003",
+  "type": "statute",
+  "title": "92/2003 Sb., Sdělení Českého statistického úřadu o změně v Klasifikaci zemí (CZ-GEONOM)",
+  "title_en": "",
+  "short_name": "92/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-04-07",
+  "in_force_date": "2003-04-07",
+  "url": "https://www.e-sbirka.cz/sb/2003/92",
+  "description": "Sdělení Českého statistického úřadu o změně v Klasifikaci zemí (CZ-GEONOM)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Změna v CZ-GEONOM:\nVýchodní Timor – změna alfabetického kódu – nový kód TL (dříve TP).\nZměna CZ-GEONOM bude zapracována do platného znění CZ-GEONOM, který bude k dispozici na nosiči v elektronické podobě v odboru informačních služeb Českého statistického úřadu, Josefská 6, Praha 1 nebo na internetových stránkách ČSÚ (www.czso.cz)."
+    }
+  ],
+  "definitions": []
+}

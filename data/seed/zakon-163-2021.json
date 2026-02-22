@@ -1,0 +1,51 @@
+{
+  "id": "cz:163/2021",
+  "type": "statute",
+  "title": "163/2021 Sb., Vyhláška, kterou se mění vyhláška č. 30/2017 Sb., k provedení zákona o centrální evidenci účtů",
+  "title_en": "",
+  "short_name": "163/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-04-14",
+  "in_force_date": "2021-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/163",
+  "description": "Vyhláška, kterou se mění vyhláška č. 30/2017 Sb., k provedení zákona o centrální evidenci účtů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 30/2017 Sb., k provedení zákona o centrální evidenci účtů, se mění takto:\n1. V § 1 odstavec 1 zní:\n„(1) Tato vyhláška upravuje podrobnosti náležitostí, strukturu, formát a způsob předání nebo doručení\na) informace o vzniku, změně nebo opravě údaje předávané k zápisu do centrální evidence účtů podle § 5 odst. 1 zákona o centrální evidenci účtů (dále jen „zákon“) a\nb) oznámení identifikátorů datových schránek a jejich změn.“.\n2. § 2 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 2",
+      "section": "2",
+      "title": "„§ 2 Datový soubor",
+      "content": "(1) Pro účely této vyhlášky se datovým souborem rozumí elektronické seskupení údajů s předem definovanými datovými strukturami.\n(2) Formát a struktura datového souboru jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek.“.\n3. § 3 se včetně nadpisu zrušuje.\n4. Nadpis § 4 zní:\n„Informace o vzniku, změně nebo opravě údajů v centrální evidenci účtů“.\n5. V § 4 odstavec 1 zní:\n„(1) Instituce předává České národní bance každý pracovní den informaci o vzniku, změně nebo opravě údajů v rozsahu podle § 4 zákona sestavením výkazu CEU (ČNB) 10-99 „Denní přehled změn“.“.\n6. V § 4 odst. 2 se slovo „změny“ nahrazuje slovy „údaje o vzniku, změně nebo opravě“, slovo „úvěrovou“ se zrušuje, za slovo „institucí“ se vkládají slova „nebo k bezpečnostním schránkám pronajímaným úvěrovou institucí“ a slova „klienta podle § 4 písm. d)“ se nahrazují slovy „klienta nebo skutečného majitele klienta podle § 4 písm. d) a e)“.\n7. V § 4 odst. 4 se za slovo „účtu“ vkládají slova „nebo u jedné bezpečnostní schránky“ a za slovo „klienta“ se vkládají slova „nebo skutečného majitele klienta“.\n8. V § 4 odst. 5 se slovo „úvěrové“ zrušuje, slova „k žádné změně vztahující se“ se nahrazují slovy „k žádnému vzniku, změně nebo opravě údaje vztahujícího se“ a za slovo „účtům“ se vkládají slova „nebo k pronajímaným bezpečnostním schránkám“.\n9. V § 4 odst. 6 se slova „úvěrová“ a „úvěrové“ zrušují.\n10. § 5 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 5",
+      "section": "5",
+      "title": "„§ 5 Formát a způsob předávání údajů",
+      "content": "(1) Instituce předává České národní bance výkaz podle § 4 v elektronické podobě jako datovou zprávu ve formátu a struktuře datového souboru.\n(2) Datová zpráva podle odstavce 1 je předávána prostředky umožňujícími dálkový přístup prostřednictvím internetového aplikačního nebo uživatelského rozhraní sběrného systému České národní banky.\n(3) Datovou zprávu podle odstavce 1 podepíše instituce uznávaným elektronickým podpisem kontaktní osoby nebo zapečetí uznávanou elektronickou pečetí instituce.\n(4) Instituce sdělí České národní bance jméno, adresu pracoviště, telefonní číslo a adresu elektronické pošty kontaktní osoby. O změnách těchto údajů informuje instituce Českou národní banku bez zbytečného odkladu.“.\n11. § 6 se včetně nadpisu zrušuje.\n12. V § 8 odst. 1 se za slovo „účet“ vkládají slova „, jednu bezpečnostní schránku“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "První předání údajů v rozsahu podle čl. XXXVI bodů 2 a 3 zákona č. 527/2020 Sb., kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů, a další související zákony, zákony související s přijetím zákona o evidenci skutečných majitelů a zákon č. 186/2016 Sb., o hazardních hrách, ve znění pozdějších předpisů, kterým instituce začne plnit povinnost podle § 5 odst. 1 zákona č. 300/2016 Sb., ve znění účinném ode dne nabytí účinnosti zákona č. 527/2020 Sb., instituce provede podle § 4 odst. 1 a § 5 vyhlášky č. 30/2017 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2021."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky se datovým souborem",
+      "definition": "elektronické seskupení údajů s předem definovanými datovými strukturami",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

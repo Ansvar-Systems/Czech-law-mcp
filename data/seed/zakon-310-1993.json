@@ -1,0 +1,51 @@
+{
+  "id": "cz:310/1993",
+  "type": "statute",
+  "title": "310/1993 Sb., Vyhláška ministerstva práce a sociálních věcí o úhradě za poskytování sociální péče ve zdravotnických zařízeních",
+  "title_en": "",
+  "short_name": "310/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-12-23",
+  "in_force_date": "1994-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/310",
+  "description": "Vyhláška ministerstva práce a sociálních věcí o úhradě za poskytování sociální péče ve zdravotnických zařízeních",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Za poskytování sociální péče ve zdravotnickém zařízení hradí část nákladů:\na) občan ve výši 55 Kč denně,\nb) příslušný okresní úřad1) ve výši 245 Kč denně za jednoho občana."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Úhrada podle § 1 písm. a) se nevyžaduje od občana mladšího 18 let.\n(2) V případech uvedených v odstavci 1 hradí příslušný okresní úřad1) část nákladů ve výši 300 Kč denně za jednoho občana."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Úhrada podle § 1 písm. a) se nevyžaduje za dny pobytu občana mimo zdravotnické zařízení. Za den pobytu mimo zdravotnické zařízení se považuje den, kdy občan pobývá mimo zdravotnické zařízení a neodebral žádné jídlo."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Úhrada podle § 1 nebo § 2 odst. 2 se platí měsíčně zdravotnickému zařízení, ve kterém je občan umístěn, a je splatná nejpozději do osmi dnů od konce kalendářního měsíce, za který náleží."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Skončí-li poskytování sociální péče ve zdravotnickém zařízení v průběhu kalendářního měsíce a úhrada podle § 1 nebo § 2 odst. 2 byla již za celý tento měsíc zaplacena, vrátí zdravotnické zařízení úhradu za dny, kdy sociální péče nebyla poskytována. Podle předchozí věty se postupuje obdobně, byla-li úhrada podle § 1 písm. a) zaplacena i za dny pobytu občana mimo zdravotnické zařízení."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1994.\n1) § 44 odst. 2 zákona ČNR č. 114/1988 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení, ve znění zákona č. 307/1993 Sb."
+    }
+  ],
+  "definitions": []
+}

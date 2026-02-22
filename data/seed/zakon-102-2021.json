@@ -1,0 +1,27 @@
+{
+  "id": "cz:102/2021",
+  "type": "statute",
+  "title": "102/2021 Sb., Usnesení vlády České republiky č. 202 o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "102/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-02-26",
+  "in_force_date": "2021-02-26",
+  "url": "https://www.e-sbirka.cz/sb/2021/102",
+  "description": "Usnesení vlády České republiky č. 202 o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. vycházka bude umožněna za podmínky, že uživatel bezprostředně po návratu bude umístěn do oddělených prostor a do 72 hodin od ukončení vycházky bude proveden první antigenní POC test, který bude zopakován za další 3 až 4 dny; umístění do oddělených prostor bude ukončeno v případě negativních výsledků obou testů,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. uživatel sociálních služeb používá v průběhu vycházky ochranné prostředky dýchacích cest (nos, ústa), kterým je respirátor nebo obdobný prostředek (vždy bez výdechového ventilu) naplňující minimálně všechny technické podmínky a požadavky (pro výrobek), včetně filtrační účinnosti alespoň 94 % dle příslušných norem (např. FFP2, KN95), zdravotnická obličejová maska nebo obdobný prostředek naplňující minimálně všechny technické podmínky a požadavky (pro výrobek) normy ČSN EN 14683+AC, které brání šíření kapének."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:377/2023",
+  "type": "statute",
+  "title": "377/2023 Sb., Vyhláška, kterou se mění vyhláška č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, ve znění vyhlášky č. 22/2022 Sb.",
+  "title_en": "",
+  "short_name": "377/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-12-20",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/377",
+  "description": "Vyhláška, kterou se mění vyhláška č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, ve znění vyhlášky č. 22/2022 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 6 odst. 2 větě poslední vyhlášky č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, ve znění vyhlášky č. 22/2022 Sb., se za slova „číslo účastníka tísňové komunikace“ vkládají slova „ , mezinárodní identifikátor účastníka mobilní komunikační sítě,“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2024."
+    }
+  ],
+  "definitions": []
+}

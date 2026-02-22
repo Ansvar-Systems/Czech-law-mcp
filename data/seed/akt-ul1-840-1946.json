@@ -1,0 +1,62 @@
+{
+  "id": "cz:ul1:840/1946",
+  "type": "statute",
+  "title": "840/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o tvoření cen slanečků dovezených z ciziny.",
+  "title_en": "",
+  "short_name": "840/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-26",
+  "in_force_date": "1946-03-27",
+  "url": "https://www.e-sbirka.cz/ul1/1946/840",
+  "description": "Vyhláška nejvyššího úřadu cenového o tvoření cen slanečků dovezených z ciziny.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Nejvýše přípustná prodejní cena dovozcova při prodeji slanečků dovozcem velkorozdělovači se tvoří:\na) z pořizovací ceny, t. j. z ceny za zboží podle účtu skutečně zaplacené a zvýšené o náklady spojené s nákupem a dovozem zboží až do skladu dovozcova;\nb) z obchodního rozpětí, které činí nejvýše:\nu silně solených sleďů (s obsahem přes 20% soli)Kčs 115.—\nu slanečků-matjesů (s obsahem nejvýše 20% soli)Kčs 140.—\nza 1/1 sud nebo 2/2 sudy;\nc) z prokazatelného nájemného za uložení slanečků v chladírně;\nd) z daně z obratu.\n(2) Při prodeji dovozcem malorozdělovači smějí se zvýšit obchodní rozpětí uvedená v odst. 1, písm. b) u silně solených sleďů až na 140 Kčs a u slanečků-matjesů až na 170 Kčs, pokud jde o prodeje méně než 10/1 sudů silně solených sleďů nebo 10/2 slanečků-matjesů.\n(3) Prodejní cena dovozce se rozumí při odběru v místě dovozce z jeho skladu, jinak franko vagon železniční stanice dovozce, s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvýše přípustná prodejní cena velkorozdělovačova se tvoří:\na) z nákupní ceny, t. j. z ceny za zboží podle účtu skutečně zaplacené;\nb) z nákladů železniční přepravy zboží, a to ze stanice dovozce do stanice velkorozdělovače a ze stanice velkorozdělovače do stanice odběratele;\nc) z obchodního rozpětí, které činí nejvýše Kčs 125.— za 1/1 sud nebo 2/2 sudy;\nd) z daně z obratu.\n(2) Prodejní cena velkorozdělovačova se rozumí při prodeji v místě franko sklad odběratele, jinak franko železniční stanice odběratele, s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Nejvýše přípustná prodejní cena malorozdělovačova se tvoří:\na) z nákupní ceny, t. j. z ceny za zboží podle účtu skutečně zaplacené;\nb) z nákladů železniční přepravy ze stanice dovozce do stanice malorozdělovače při odběru od dovozce;\nc) z obchodního rozpětí, které činí nejvýše Kčs 340.— za 1/1 sud nebo 2/2 sudy;\nd) z daně z obratu.\n(2) Spotřebitelskou cenu za 1 slanečka vypočítá malorozdělovač tak, že bude dělit cenu podle odstavce 1 za celý sud počtem kusů v sudu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Nejvyšší úřad cenový může povolit nebo nařídit výjimky z ustanovení této vyhlášky, nebo z předpisů vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle čtvrté části vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem po vyhlášení. Týmž dnem se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 7. října 1942, běž. č. 959 o nejvyšších obchodních rozpětích pro dovozce, velkorozdělovače a malorozdělovače slanečků dovezených z ciziny (Ú. l. č. 239/1942)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prodejní cena dovozce",
+      "definition": "při odběru v místě dovozce z jeho skladu, jinak franko vagon železniční stanice dovozce, s daní z obratu",
+      "source_provision": "§ 1."
+    },
+    {
+      "term": "Prodejní cena velkorozdělovačova",
+      "definition": "při prodeji v místě franko sklad odběratele, jinak franko železniční stanice odběratele, s daní z obratu",
+      "source_provision": "§ 2."
+    }
+  ]
+}

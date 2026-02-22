@@ -1,0 +1,86 @@
+{
+  "id": "cz:304/2004",
+  "type": "statute",
+  "title": "304/2004 Sb., Vyhláška, kterou se stanoví druhy a podmínky použití přídatných a pomocných látek při výrobě potravin",
+  "title_en": "",
+  "short_name": "304/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-05-18",
+  "in_force_date": "2005-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/304",
+  "description": "Vyhláška, kterou se stanoví druhy a podmínky použití přídatných a pomocných látek při výrobě potravin",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro účely této vyhlášky a v souladu s právem Evropských společenství1) se rozumějí\na) barvivy látky získané chemickou syntézou a/nebo z potravin a dalších složek přírodního původu extrakcí fyzikální či chemické povahy, která má za následek selektivní oddělení barevné látky,\nb) pomocnými látkami látky používané při výrobě z technologických důvodů; nestávají se součástí potraviny, ale v konečném výrobku se mohou vyskytovat ve stopovém toxikologicky nevýznamném množství,\nc) rozpouštědlem látka pro rozpouštění potraviny nebo kterékoliv její složky včetně jakékoliv kontaminující látky přítomné v této potravině nebo na této potravině,\nd) extrakčním rozpouštědlem rozpouštědlo, které se používá při extrakčním procesu uplatňovaném během výroby potravinových surovin, potravin, při extrakci složek potravin a které je během dalšího postupu odstraněno. Použití rozpouštědla může vést k neúmyslné, ale technicky nevyhnutelné přítomnosti residuálních množství této látky či jejich derivátů v potravině nebo její složce,\ne) nezpracovanými potravinami potraviny, které neprošly žádným technologickým pochodem, který by způsobil podstatnou změnu jejich původního stavu. Potraviny však mohou být očištěné, dělené, loupané, zbavené skořápek, mleté, řezané, krájené, upravené, chlazené, zmrazené, bez ohledu na to, zda jsou nebalené, balené, nebo zda se jedná o potraviny nebo suroviny v ochranné atmosféře,\nf) správnou výrobní praxí doporučené postupy při výrobě potravin podle zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Výrobci nebo dovozci smějí vyrábět nebo dovážet takové pomocné látky, které nepředstavují zdravotní nebezpečí pro spotřebitele."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Přídatné látky upravené v § 2 písm. j) zákona, které se smějí vyskytovat v potravinách, a jejich kód, pod kterým jsou označovány v číselném systému Evropské unie, jejich členění do kategorií, limity a další podmínky jejich použití a označování na obalech stanoví příloha č. 1.\n(2) Extrakční rozpouštědla náležející mezi pomocné látky, která lze použít při výrobě potravin a potravinářských surovin, limity, další podmínky jejich použití a označování stanoví příloha č. 2."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Přechodné ustanovení",
+      "content": "Potraviny, které byly vyrobeny a uvedeny do oběhu přede dnem účinnosti této vyhlášky se posuzují podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 20. května 2004.\nPříloha č. 1 k vyhlášce č. 304/2004 Sb.\nPŘÍDATNÉ LÁTKY"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "** Deserty – pro účely této vyhlášky",
+      "definition": "drobné potravinářské výrobky sladké chuti určené ke konzumaci po hlavním jídle (cukrářské výrobky, mražené krémy, pudinky apod",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "*** Snacky - pro účely této vyhlášky",
+      "definition": "drobné potravinářské výrobky obvykle na bázi obilovin nebo brambor určené zejména ke konzumaci mezi hlavními jídly (většinou slané chuti)",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Pod pojmem „výrobek se sníženým obsahem energie“ se v této části",
+      "definition": "výrobek, u kterého snížení obsahu využitelné energie představuje nejméně 30 % využitelné energie poskytované podobným výrobkem",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Pod slovy „výrobek bez přidaného cukru“ se v této části",
+      "definition": "výrobek, ke kterému nebyly při výrobě přidány monosacharidy, disacharidy a jiné potraviny, používané pro své sladivé vlastnosti",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "* Deserty",
+      "definition": "drobné potravinářské výrobky sladké chuti určené ke konzumaci po hlavním jídle (cukrářské výrobky, mražené krémy, pudinky apod",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "*** Snacky",
+      "definition": "drobné potravinářské výrobky obvykle na bázi obilovin nebo brambor určené zejména ke konzumaci mezi hlavními jídly (většinou slané chuti)",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "* Jednotkou",
+      "definition": "počet ks jedinců na anglickou libru (453,59 g)",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "* Hexanem se ve smyslu této vyhlášky",
+      "definition": "směs acyklických nasycených uhlovodíků obsahujících 6 uhlíkových atomů a který destiluje mezi 64 °C a 70 °C",
+      "source_provision": "§ 5"
+    }
+  ]
+}

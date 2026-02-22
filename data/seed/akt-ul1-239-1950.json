@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:239/1950",
+  "type": "statute",
+  "title": "239/1950 Ú. l. I, Redakční sdělení ministerstva vnitra o opravě tiskových chyb ve vyhlášce ministerstev výživy a vnitřního obchodu č. 210/1950 Ú. l. I, o cenách ovocných vín.",
+  "title_en": "",
+  "short_name": "239/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-04-12",
+  "in_force_date": "1950-04-12",
+  "url": "https://www.e-sbirka.cz/ul1/1950/239",
+  "description": "Redakční sdělení ministerstva vnitra o opravě tiskových chyb ve vyhlášce ministerstev výživy a vnitřního obchodu č. 210/1950 Ú. l. I, o cenách ovocných vín.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 má býti místo „výroba“ správně uvedeno „výrobu“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 3 odst. 3 má býti místo „cukru skutečně požitého“ správně uvedeno „cukru skutečně použitého“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V § 16 odst 1 má býti místo „Vyhláška nejvyššího úřadu cenového č. 1256/1948 Ú. l. I“, správně uvedeno „Vyhláška nejvyššího úřadu cenového č. 1236/1948 Ú. l. I,“."
+    }
+  ],
+  "definitions": []
+}

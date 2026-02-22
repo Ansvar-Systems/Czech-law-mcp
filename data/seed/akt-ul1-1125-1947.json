@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1125/1947",
+  "type": "statute",
+  "title": "1125/1947 Ú. l. I, Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "title_en": "",
+  "short_name": "1125/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-11-07",
+  "in_force_date": "1948-07-28",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1125",
+  "description": "Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. podniku První akciový pivovar v Chebu,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. firmy Ilka, spojené továrny na likéry, akc. spol. v Chebu, v rozsahu, který bude stanoven dohodou ministra výživy s osidlovacím úřadem — Fondem národní obnovy v Praze."
+    }
+  ],
+  "definitions": []
+}

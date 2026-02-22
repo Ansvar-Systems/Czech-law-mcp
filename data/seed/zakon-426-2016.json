@@ -1,0 +1,141 @@
+{
+  "id": "cz:426/2016",
+  "type": "statute",
+  "title": "426/2016 Sb., Nařízení vlády o posuzování shody rádiových zařízení při jejich dodávání na trh",
+  "title_en": "",
+  "short_name": "426/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-12-23",
+  "in_force_date": "2026-04-28",
+  "url": "https://www.e-sbirka.cz/sb/2016/426",
+  "description": "Nařízení vlády o posuzování shody rádiových zařízení při jejich dodávání na trh",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Toto nařízení zapracovává příslušný předpis Evropské unie1) a upravuje technické požadavky na rádiová zařízení, které musí splňovat při uvedení na trh nebo do provozu, podmínky a postupy při jejich dodávání na trh a způsoby posuzování shody.\n(2) Toto nařízení se nevztahuje na rádiová zařízení stanovená v příloze č. 1 k tomuto nařízení.\n(3) Na rádiová zařízení se nevztahuje nařízení vlády o posuzování shody elektrických zařízení určených pro používání v určitých mezích napětí při jejich dodávání na trh, s výjimkou technických požadavků podle § 3 odst. 1 písm. a)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely tohoto nařízení se třídou rádiových zařízení rozumí označení určité kategorie rádiových zařízení, která se pokládají za podobná, a rádiová rozhraní2), pro která jsou tato rádiová zařízení určena."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Technické požadavky",
+      "content": "(1) Rádiové zařízení musí být konstruováno tak, aby byla zajištěna\na) ochrana zdraví a bezpečnosti osob a domácích zvířat a ochrana majetku v rozsahu základních požadavků bezpečnostních zásad pro elektrická zařízení určená pro používání v určitých mezích napětí, avšak bez použití mezní hodnoty napětí, a\nb) úroveň elektromagnetické kompatibility v rozsahu požadavků pro výrobky z hlediska elektromagnetické kompatibility.\n(2) Rádiové zařízení musí být dále konstruováno tak, aby účelně využívalo kmitočtového spektra a podporovalo jeho účelné využívání.\n(3) Rádiová zařízení v kategoriích nebo třídách stanovených prováděcím aktem v přenesené pravomoci na základě čl. 44 směrnice Evropského parlamentu a Rady 2014/53/EU ze dne 16. dubna 2014 o harmonizaci právních předpisů členských států týkajících se dodávání rádiových zařízení na trh a zrušení směrnice 1999/5/ES musí být Českým telekomunikačním úřadem zveřejněna v Telekomunikačním věstníku formou sdělení a musí být konstruována tak, aby\na) fungovala společně s příslušenstvím jiným než nabíjecí zařízení kategorie a třídy rádiových zařízení uvedené v části I přílohy č. 8 k tomuto nařízení,\nb) fungovala společně s jinými rádiovými zařízeními prostřednictvím sítí elektronických komunikací,\nc) je bylo možné připojit k rozhraním vhodného typu po celé Evropské unii stanoveného prováděcím aktem v přenesené pravomoci na základě čl. 44 směrnice Evropského parlamentu a Rady 2014/53/EU,\nd) neměla nepříznivý vliv na síť elektronických komunikací nebo její provoz a nezneužívala zdroje sítě elektronických komunikací,\ne) byla zajištěna ochrana osobních údajů a soukromí uživatele a účastníka služby elektronických komunikací,\nf) byla zajištěna ochrana před podvodem,\ng) byl umožněn přístup k tísňové komunikaci,\nh) bylo usnadněno jejich používání zdravotně postiženým uživatelům a\ni) bylo zajištěno nahrání softwaru do rádiového zařízení v případě, že byl prokázán soulad této kombinace softwaru a rádiového zařízení s jinými právními předpisy3).\n(4) Rádiová zařízení spadající do kategorie nebo třídy uvedené v části I přílohy č. 8 k tomuto nařízení musí být konstruována tak, aby splňovala technické požadavky týkající se nabíjecích kapacit stanovené v části II přílohy č. 8 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Dodávání zařízení na trh a uvádění do provozu",
+      "content": "(1) Rádiové zařízení může být dodáno na trh nebo uvedeno do provozu, pouze je-li provedeno tak, aby za předpokladu, že je řádně instalováno, udržováno a používáno pro účely, pro které je určeno, splňovalo požadavky tohoto nařízení.\n(2) Na veletrzích, výstavách a při obdobném předvádění lze předvádět rádiové zařízení, které není ve shodě s tímto nařízením, pokud je z viditelného označení jasné, že toto rádiové zařízení není ve shodě a nesmí být dodáváno na trh nebo uváděno do provozu, dokud nebude uvedeno do shody. Při předvádění musí být přijata opatření4) zabraňující škodlivé interferenci, elektromagnetickému rušení5) a ohrožení zdraví a bezpečnosti osob nebo domácích zvířat nebo ohrožení majetku.\nVýrobce"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Výrobce při uvádění rádiového zařízení na trh zajistí, aby bylo navrženo a vyrobeno v souladu s § 3, vypracuje technickou dokumentaci stanovenou v příloze č. 5 k tomuto nařízení (dále jen „technická dokumentace“) a provede nebo nechá provést příslušný postup posuzování shody stanovený v § 10.\n(2) Výrobce zajistí, aby bylo rádiové zařízení konstruováno tak, aby je bylo možné provozovat alespoň v jednom členském státě Evropské unie (dále jen „členský stát“), aniž by došlo k porušení požadavků na využívání rádiového spektra.\n(3) Pokud byl soulad rádiového zařízení s technickými požadavky postupem posuzování shody prokázán, vypracuje výrobce EU prohlášení o shodě a umístí označení CE podle § 14.\n(4) Výrobce uchovává technickou dokumentaci a EU prohlášení o shodě po dobu 10 let od uvedení rádiového zařízení na trh.\n(5) Výrobce zajistí, aby bylo na rádiovém zařízení, které uvedl na trh, uvedeno číslo typu nebo série, sériové číslo anebo jiný prvek umožňující jeho identifikaci nebo v případech, kdy to velikost nebo povaha rádiového zařízení neumožňuje, aby byla požadovaná informace uvedena na obalu nebo v dokladu přiloženém k rádiovému zařízení.\n(6) Výrobce uvede na rádiovém zařízení nebo není-li to možné, na obalu nebo v dokladu přiloženém k rádiovému zařízení v jazyce srozumitelném konečným uživatelům a orgánu dozoru své jméno nebo obchodní firmu, popřípadě ochrannou známku, a adresu pro doručování. Adresa pro doručování musí být adresou místa, na kterém lze výrobce skutečně zastihnout."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Výrobce zajistí, aby v jazyce snadno srozumitelném spotřebiteli a konečným uživatelům byl k rádiovému zařízení přiložen návod a bezpečnostní informace. Návod musí obsahovat informace nutné k tomu, aby bylo možné rádiové zařízení používat k určenému účelu, s tím, že jejich součástí musí být také popis příslušenství nebo součástí, včetně softwaru, které umožňují použít rádiové zařízení k určenému účelu. Návody, bezpečnostní informace a jakákoli označení musí být jasné, srozumitelné a snadno pochopitelné.\n(2) V případě rádiového zařízení, které záměrně vysílá rádiové vlny, jsou součástí návodu a bezpečnostních informací informace o\na) všech kmitočtových pásmech, ve kterých rádiové zařízení pracuje, a\nb) maximálním radiofrekvenčním výkonu vysílaném v kmitočtovém pásmu, ve kterém je rádiové zařízení provozováno.\n(3) V případě rádiových zařízení spadajících do kategorie a třídy uvedené v části I přílohy č. 8 k tomuto nařízení jsou součástí návodu informace o technických požadavcích týkajících se nabíjecích kapacit a kompatibilních nabíjecích zařízení těchto rádiových zařízení v souladu s částí II přílohy č. 8 k tomuto nařízení. Informace o technických požadavcích týkajících se nabíjecích kapacit a kompatibilních nabíjecích zařízení zobrazí výrobce rovněž na štítku, jehož vzor je stanoven v části IV přílohy č. 8 k tomuto nařízení. Štítek musí být umístěn v návodu a na obalu nebo přilepen k obalu ve formě nálepky. Nemá-li rádiové zařízení obal, musí být štítek ve formě nálepky přilepen na rádiovém zařízení. Při dodávání rádiového zařízení spotřebitelům a dalším konečným uživatelům musí být štítek zobrazen viditelně a čitelně a v případě prodeje na dálku umístěn v blízkosti údaje o ceně. Neumožňuje-li to velikost nebo povaha rádiového zařízení, může být štítek vytištěn jako samostatný dokument přiložený k rádiovému zařízení.\n(4) Výrobce zajistí, aby byla ke každému rádiovému zařízení přiložena kopie EU prohlášení o shodě nebo zjednodušené EU prohlášení o shodě. Poskytuje-li se pouze zjednodušené EU prohlášení o shodě, musí obsahovat adresu internetových stránek, na které lze získat úplné znění EU prohlášení o shodě.\n(5) V případě, že pro rádiové zařízení platí omezení jeho uvádění do provozu nebo další požadavky pro povolení jeho používání, musí být z informací na obalu možné zjistit členské státy nebo zeměpisnou oblast členského státu, kde jsou tato omezení uvádění do provozu nebo tyto požadavky na povolení používání v platnosti. Tyto informace musí být doplněny do návodu k rádiovému zařízení.\n(6) Výrobce provádí za účelem ochrany zdraví a bezpečnosti konečných uživatelů zkoušky vzorků rádiových zařízení dodaných na trh a jiná šetření, je-li to potřebné vzhledem k rizikům, která rádiové zařízení představuje. Tyto zkoušky a šetření se provádí v rozsahu potřebném pro potvrzení nebo vyvrácení rizika, které představuje rádiové zařízení vzhledem k výrobcem určenému účelu použití. Výrobce vede evidenci stížností, nevyhovujících rádiových zařízení a rádiových zařízení, která stáhl z oběhu, a průběžně o těchto činnostech informuje distributory.\n(7) Výrobce zajistí, aby byly zavedeny postupy, prostřednictvím kterých sériově vyráběná rádiová zařízení zůstanou ve shodě s požadavky stanovenými tímto nařízením i v případech, kdy dojde ke změnám návrhu nebo parametrů rádiového zařízení nebo ke změnám harmonizovaných norem nebo jiných technických specifikací, na jejichž základě se shoda rádiového zařízení prohlašuje."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zplnomocněný zástupce",
+      "content": "Zplnomocněný zástupce uchovává EU prohlášení o shodě a technickou dokumentaci pro potřeby orgánu dozoru po dobu 10 let od uvedení rádiového zařízení na trh."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Dovozce",
+      "content": "(1) Dovozce před uvedením rádiového zařízení na trh zajistí, aby výrobce provedl postup posuzování shody uvedený v § 11 a aby bylo rádiové zařízení konstruováno tak, aby jej bylo možné provozovat alespoň v 1 členském státě, aniž by došlo k porušení požadavků na využívání rádiového spektra. Dále dovozce zajistí, aby výrobce vypracoval technickou dokumentaci, umístil na rádiové zařízení označení CE, přiložil k němu požadované doklady a splnil požadavky stanovené v § 5 odst. 5 a 6 a v § 6 odst. 1, 2, 4 a 5.\n(2) Dovozce uvede na rádiovém zařízení nebo není-li to možné, na obalu nebo v dokladu přiloženém k rádiovému zařízení v jazyce srozumitelném konečným uživatelům a orgánu dozoru své jméno nebo obchodní firmu, popřípadě ochrannou známku, a adresu pro doručování.\n(3) Dovozce zajistí, aby byl k rádiovému zařízení přiložen návod a bezpečnostní informace v českém jazyce.\n(4) Dovozce po dobu 10 let od uvedení rádiového zařízení na trh uchovává kopii EU prohlášení o shodě pro potřeby orgánu dozoru a zajistí, aby orgánu dozoru byla na jeho žádost předložena technická dokumentace.\n(5) Dovozce provádí za účelem ochrany zdraví a bezpečnosti konečných uživatelů zkoušky vzorků rádiových zařízení dodaných na trh a jiná šetření, je-li to potřebné vzhledem k rizikům, která rádiové zařízení představuje. Tyto zkoušky a šetření se provádí v rozsahu potřebném pro potvrzení nebo vyvrácení rizika, které představuje rádiové zařízení vzhledem k výrobcem určenému účelu použití. Dovozce vede evidenci stížností, nevyhovujících rádiových zařízení a rádiových zařízení, která stáhl z oběhu, a průběžně o těchto činnostech informuje distributory.\n(6) Dovozce zajistí, aby v důsledku skladovacích a přepravních podmínek nedošlo k narušení shody rádiového zařízení s požadavky stanovenými tímto nařízením.\n(7) Dovozce při uvedení rádiového zařízení uvedeného v části I přílohy č. 8 k tomuto nařízení na trh zajistí, aby byly splněny požadavky podle § 6 odst. 3."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Distributor",
+      "content": "(1) Distributor před dodáním rádiového zařízení na trh ověří, zda\na) rádiové zařízení nese označení CE,\nb) jsou k rádiovému zařízení přiloženy požadované doklady, návod a bezpečnostní informace v českém jazyce a\nc) výrobce a dovozce splnili požadavky stanovené v § 5 odst. 2, 5 a 6, § 6 odst. 1, 2, 4 a 5 a v § 7 odst. 2.\n(2) Distributor při dodávání rádiového zařízení uvedeného v části I přílohy č. 8 k tomuto nařízení na trh zajistí, aby byly splněny požadavky podle § 6 odst. 3."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Doba pro identifikaci hospodářského subjektu",
+      "content": "Hospodářský subjekt po dobu 10 let od dodání rádiového zařízení na trh uchovává údaje, pomocí kterých lze na žádost orgánu dozoru určit hospodářský subjekt, který mu rádiové zařízení dodal nebo kterému rádiové zařízení dodal."
+    },
+    {
+      "provision_ref": "§ 10a",
+      "section": "10a",
+      "title": "§ 10a",
+      "content": "(1) Nabízí-li hospodářský subjekt spotřebitelům a dalším konečným uživatelům možnost, aby si pořídili rádiové zařízení spolu s nabíjecím zařízením, musí spotřebitelům a dalším konečným uživatelům nabídnout také možnost pořídit si toto rádiové zařízení bez nabíjecího zařízení.\n(2) Hospodářský subjekt zajistí, aby byl při dodávání rádiového zařízení spotřebitelům a dalším konečným uživatelům zobrazen na obalu nebo přilepen k obalu ve formě nálepky piktogram znázorňující, že rádiové zařízení obsahuje nebo neobsahuje nabíjecí zařízení. Piktogram musí být zobrazen viditelně a čitelně a v případě prodeje na dálku musí být umístěn v blízkosti údaje o ceně. Vzor piktogramu je stanoven v části III přílohy č. 8 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Postupy posuzování shody",
+      "content": "(1) Výrobce provádí posuzování shody rádiového zařízení s technickými požadavky stanovenými v § 3. Výrobce při posuzování shody zohlední veškeré zamýšlené podmínky používání rádiového zařízení a v případě technického požadavku stanoveného v § 3 odst. 1 písm. a) a § 3 odst. 4 také rozumně předvídatelné podmínky jeho používání. Pokud může mít rádiové zařízení různé konfigurace, musí posouzení shody potvrdit, zda rádiové zařízení splňuje technické požadavky stanovené v § 3 ve všech možných konfiguracích.\n(2) Posuzování shody s technickými požadavky podle § 3 odst. 1 písm. a) a b) se provede\na) interním řízením výroby (modul A) stanoveným v příloze č. 2 k tomuto nařízení,\nb) EU přezkoušením typu (modul B) a shodou s typem založenou na interním řízení výroby (modul C) stanovenými v příloze č. 3 k tomuto nařízení, nebo\nc) shodou založenou na úplném zabezpečování kvality (modul H) stanovenou v příloze č. 4 k tomuto nařízení.\n(3) Použil-li výrobce při posuzování shody rádiového zařízení s technickými požadavky stanovenými v § 3 odst. 2 a 3 harmonizované normy, na které byly odkazy zveřejněny v Úředním věstníku Evropské unie, posouzení shody se provede\na) interním řízením výroby (modul A) stanoveným v příloze č. 2 k tomuto nařízení,\nb) EU přezkoušením typu (modul B) a shodou s typem založenou na interním řízení výroby (modul C) stanovenými v příloze č. 3 k tomuto nařízení, nebo\nc) shodou založenou na úplném zabezpečování kvality (modul H) stanovenou v příloze č. 4 k tomuto nařízení.\n(4) Pokud výrobce při posuzování shody rádiového zařízení s technickými požadavky stanovenými v § 3 odst. 2 a 3 částečně nebo vůbec nepoužil harmonizované normy, na které byly odkazy zveřejněny v Úředním věstníku Evropské unie, nebo pokud tyto harmonizované normy nejsou stanoveny, posouzení shody se provede\na) EU přezkoušením typu (modul B) a shodou s typem založenou na interním řízení výroby (modul C) stanovenými v příloze č. 3 k tomuto nařízení, nebo\nb) shodou založenou na úplném zabezpečování kvality (modul H) stanovenou v příloze č. 4 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Předpoklad shody",
+      "content": "Pokud je rádiové zařízení ve shodě s harmonizovanými normami nebo jejich částmi, na které byly zveřejněny odkazy v Úředním věstníku Evropské unie, které se rádiového zařízení týkají, má se za to, že je ve shodě s technickými požadavky stanovenými v § 3, na které se tyto normy nebo jejich části vztahují."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 EU prohlášení o shodě",
+      "content": "(1) EU prohlášení o shodě prokazuje splnění technických požadavků stanovených v § 3 a vypracovává se podle vzoru stanoveného v příloze č. 6 k tomuto nařízení.\n(2) EU prohlášení o shodě obsahuje prvky stanovené v bodech 1 až 8 přílohy č. 6 k tomuto nařízení, popřípadě doplňující informace stanovené v bodě 9 přílohy č. 6 k tomuto nařízení, pokud nejsou způsobilé vyvolat klamavý dojem. EU prohlášení o shodě musí být průběžně aktualizováno. EU prohlášení o shodě se přeloží do jazyka nebo jazyků požadovaných členským státem, v němž se rádiové zařízení uvádí nebo dodává na trh.\n(3) Zjednodušené EU prohlášení o shodě obsahuje prvky stanovené v příloze č. 7 k tomuto nařízení a musí být průběžně aktualizováno. Zjednodušené EU prohlášení o shodě musí být přeloženo do jazyka nebo jazyků požadovaných členským státem, ve kterém se rádiové zařízení uvádí nebo dodává na trh. Úplné znění EU prohlášení o shodě je dostupné na internetových stránkách, jejichž adresa je uvedena ve zjednodušeném EU prohlášení o shodě v jazyce nebo jazycích požadovaných členským státem, ve kterém se rádiové zařízení uvádí nebo dodává na trh.\n(4) Pokud se na rádiové zařízení vztahuje více harmonizačních předpisů Evropské unie, stanovujících vypracování EU prohlášení o shodě, vypracovává se jediné EU prohlášení o shodě s odkazy na všechny tyto předpisy. Toto jediné EU prohlášení o shodě může mít podobu složky tvořené prohlášeními o shodě vydanými k jednotlivým předpisům."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Označení CE a jiné označování",
+      "content": "(1) Označení CE se umístí na rádiové zařízení před jeho uvedením na trh.\n(2) Označení CE se viditelně, čitelně a nesmazatelně umístí na rádiové zařízení nebo jeho výrobní štítek, ledaže by to povaha rádiového zařízení neumožňovala. Označení CE se rovněž viditelně a čitelně umístí na obalu, pokud je v něm rádiové zařízení dodáváno6).\n(3) Velikost označení CE, které je na rádiové zařízení umístěno, může být vzhledem k povaze rádiových zařízení a za předpokladu, že zůstane viditelné a čitelné, menší než 5 mm.\n(4) Použije-li se postup posouzení shody stanovený v příloze č. 4 k tomuto nařízení, za označením CE následuje identifikační číslo oznámeného subjektu. Identifikační číslo oznámeného subjektu musí mít stejnou velikost jako označení CE. Identifikační číslo oznámeného subjektu umístí oznámený subjekt anebo podle jeho pokynů výrobce nebo jeho zplnomocněný zástupce."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Technická dokumentace",
+      "content": "(1) Technická dokumentace musí obsahovat alespoň údaje stanovené v příloze č. 5 k tomuto nařízení.\n(2) Technická dokumentace se vypracovává před uvedením rádiového zařízení na trh a musí být průběžně aktualizována.\n(3) Technická dokumentace a korespondence týkající se postupů při EU přezkoušení typu musí být vypracovány v 1 z úředních jazyků členského státu, ve kterém je oznámený subjekt usazen, nebo v jazyce oznámenému subjektu snadno srozumitelném.\n(4) Není-li technická dokumentace vypracována v souladu s požadavky tohoto nařízení, může orgán dozoru výrobce nebo dovozce požádat, aby ve stanovené lhůtě nechal provést zkoušku subjektem, který je přijatelný pro orgán dozoru, za účelem ověření souladu s technickými požadavky stanovenými v § 3."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Formální nedostatky",
+      "content": "Za formální nedostatek se považuje, pokud\na) označení CE bylo umístěno v rozporu s čl. 30 nařízení Evropského parlamentu a Rady (ES) č. 765/2008, kterým se stanoví požadavky na akreditaci a dozor nad trhem týkající se uvádění výrobků na trh a kterým se zrušuje nařízení (EHS) č. 339/93, nebo s § 14,\nb) označení CE nebylo umístěno,\nc) identifikační číslo oznámeného subjektu nebylo umístěno nebo bylo umístěno v rozporu s § 14,\nd) EU prohlášení o shodě nebylo vypracováno,\ne) EU prohlášení o shodě nebylo vypracováno v souladu s tímto nařízením,\nf) technická dokumentace chybí nebo je neúplná,\ng) k rádiovému zařízení nejsou přiloženy informace uvedené v § 6 odst. 1 až 4, EU prohlášení o shodě nebo informace o omezení použití,\nh) výrobce nezaregistruje typ rádiového zařízení,\ni) informace uvedené v § 5 odst. 5 a 6 nebo v § 8 odst. 2 chybějí, jsou nesprávné nebo neúplné,\nj) nejsou splněny požadavky stanovené v § 10,\nk) štítek nesplňuje požadavky podle § 6 odst. 3 nebo není umístěn, přilepen, zobrazen nebo vytištěn v souladu s § 6 odst. 3,\nl) hospodářský subjekt nenabízí podle § 10a odst. 1 spotřebitelům a dalším konečným uživatelům možnost, aby si pořídili rádiové zařízení spolu s nabíjecím zařízením nebo bez nabíjecího zařízení, nebo\nm) piktogram nesplňuje požadavky podle § 10a odst. 2 nebo není umístěn, přilepen nebo zobrazen v souladu s § 10a odst. 2."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Přechodné ustanovení",
+      "content": "Rádiová zařízení splňující požadavky nařízení vlády č. 426/2000 Sb., kterým se stanoví technické požadavky na rádiová a na telekomunikační koncová zařízení, ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, mohou být nadále dodávána na trh a uváděna do provozu, pokud byla uvedena na trh přede dnem 13. června 2017."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Zrušovací ustanovení",
+      "content": "Zrušují se:\n1. Nařízení vlády č. 426/2000 Sb., kterým se stanoví technické požadavky na rádiová a na telekomunikační koncová zařízení.\n2. Nařízení vlády č. 483/2002 Sb., kterým se mění nařízení vlády č. 426/2000 Sb., kterým se stanoví technické požadavky na rádiová a na telekomunikační koncová zařízení.\n3. Část dvanáctá nařízení vlády č. 251/2003 Sb., kterým se mění některá nařízení vlády vydaná k provedení zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.\nPříloha č. 1 k nařízení vlády č. 426/2016 Sb.\nZAŘÍZENÍ, NA KTERÁ SE TOTO NAŘÍZENÍ NEVZTAHUJE\n1. Rádiová zařízení využívaná pro amatérskou radiokomunikační službu7), pokud nejsou tato zařízení dodávána na trh. Za nedodávané na trh se považují:\na) rádiové stavebnice určené k sestavení a používání radioamatéry,\nb) rádiová zařízení upravená radioamatéry pro vlastní potřebu,\nc) zařízení sestavená radioamatéry, která slouží k vědeckým a experimentálním účelům v souvislosti s amatérskou službou.\n2. Zařízení, která jsou lodní výstrojí8).\n3. Letecké vybavení, pokud toto vybavení spadá do oblasti působnosti přímo použitelného předpisu Evropské unie upravujícího společná pravidla v oblasti civilního letectví9) a je určeno výlučně pro použití ve vzduchu:\na) letadla, kromě bezpilotních letadel, a jejich motory, vrtule, letadlové části a nezastavěné vybavení,\nb) bezpilotní letadla a jejich motory, vrtule, letadlové části a nezastavěné vybavení, jejichž návrh byl certifikován v souladu s přímo použitelným předpisem Evropské unie upravujícím společná pravidla v oblasti civilního letectví11) a jež jsou určeny k provozu pouze na frekvencích přidělených na základě Radiokomunikačního řádu Mezinárodní telekomunikační unie pro chráněné letecké použití.\n4. Na míru vytvořené vývojové soupravy určené pro profesionály výhradně k použití pro tyto účely ve výzkumných a vývojových zařízeních.\n5. Rádiová zařízení výlučně používaná k činnostem, které se týkají veřejné bezpečnosti, obrany, bezpečnosti státu, a k činnostem státu v oblasti trestního práva.\nPříloha č. 2 k nařízení vlády č. 426/2016 Sb.\nINTERNÍ ŘÍZENÍ VÝROBY (MODUL A)\n1. Interní řízení výroby je postupem posuzování shody, kterým výrobce plní povinnosti stanovené v bodech 2, 3 a 4 a na vlastní odpovědnost zaručuje a prohlašuje, že dané rádiové zařízení splňuje technické požadavky stanovené v § 3.\n2. Technická dokumentace\nVýrobce vypracuje technickou dokumentaci v souladu s § 15.\n3. Výroba\nVýrobce přijme opatření, aby výrobní proces a jeho kontrola zajišťovaly shodu vyráběných rádiových zařízení s technickou dokumentací a s technickými požadavky stanovenými v § 3.\n4. Označení CE a EU prohlášení o shodě\n4.1 Výrobce umístí označení CE podle § 14 na každé rádiové zařízení, které splňuje požadavky tohoto nařízení.\n4.2 Výrobce vypracuje pro každý typ rádiového zařízení písemné EU prohlášení o shodě a po dobu 10 let od uvedení rádiového zařízení na trh je společně s technickou dokumentací uchovává pro potřebu orgánu dozoru. V EU prohlášení o shodě je uvedeno rádiové zařízení, pro které bylo vypracováno. Kopie EU prohlášení o shodě se na požádání poskytne orgánu dozoru.\n5. Zplnomocněný zástupce\nPovinnosti výrobce stanovené v bodě 4 mohou být jeho jménem a na jeho odpovědnost splněny jeho zplnomocněným zástupcem, pokud jsou uvedeny v pověření.\nPříloha č. 3 k nařízení vlády č. 426/2016 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely tohoto nařízení se třídou rádiových zařízení",
+      "definition": "označení určité kategorie rádiových zařízení, která se pokládají za podobná, a rádiová rozhraní2), pro která jsou tato rádiová zařízení určena",
+      "source_provision": "§ 2"
+    }
+  ]
+}

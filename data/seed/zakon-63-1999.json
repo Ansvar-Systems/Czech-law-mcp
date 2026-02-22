@@ -1,21 +1,49 @@
 {
   "id": "cz:63/1999",
   "type": "statute",
-  "title": "Zákon č. 63/1999 Sb., kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a o změně dalších zákonů",
+  "title": "63/1999 Sb., Zákon, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a o změně dalších zákonů",
   "title_en": "",
   "short_name": "63/1999 Sb.",
   "status": "in_force",
   "issued_date": "1999-04-09",
-  "in_force_date": "1999-04-09",
-  "url": "https://www.e-sbirka.cz/sb/1999/63/2017-01-01",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1999/63",
   "description": "Zákon, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a o změně dalších zákonů",
   "provisions": [
     {
-      "provision_ref": "§ 40",
-      "section": "40",
-      "title": "§ 40",
-      "chapter": "„ČÁST PÁTÁ - DOSTIHOVÉ SÁZKY",
-      "content": "(1) K provozování dostihových sázek podle § 2 písm. k) pověří stát zpravidla organizaci, která je osobou oprávněnou v oblasti chovu koní dostihových plemen.\n(2) Výtěžek z dostihových sázek lze použít pouze pro účely dotací výkonnostních zkoušek koní dostihových plemen, dotací chovu koní dostihových plemen nebo pro jiné související účely.“.\n26. V § 42 se slovo „výtěžku“ nahrazuje slovy „části výtěžku“.\n27. V § 43 odstavec 7 zní:\n„(7) Loterie a jiné podobné hry, které nesplňují všechny podmínky tohoto zákona, nelze povolit.“.\n28. V § 48 odst. 1 písm. c) se slovo „výtěžku“ nahrazuje slovy „část výtěžku“.\n29. V § 48 odst. 1 písm. c) se na konci textu písmena c) čárka vypouští a doplňují se tato slova: „nebo poruší ustanovení § 1 odst. 4,“."
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "ČÁST DRUHÁ - ZMĚNA ZÁKONA Č. 586/1992 SB., O DANÍCH Z PŘÍJMŮ, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ",
+      "content": "1. V § 4 odst. 1 písm. f) se slova „, s výjimkou ceny ze spotřebitelské soutěže,2c)“ včetně poznámky pod čarou č. 2c) zrušují."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "ČÁST DRUHÁ - ZMĚNA ZÁKONA Č. 586/1992 SB., O DANÍCH Z PŘÍJMŮ, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ",
+      "content": "2. V § 19 odst. 1 písm. g) se slova „písm. a)“ zrušují."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "ČÁST DRUHÁ - ZMĚNA ZÁKONA Č. 586/1992 SB., O DANÍCH Z PŘÍJMŮ, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ",
+      "content": "3. V § 36 odst. 2 písm. b) bodě 1 se slova „včetně spotřebitelské soutěže2c)“ zrušují."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "ČÁST TŘETÍ - ZMĚNA ZÁKONA Č. 368/1992 SB., O SPRÁVNÍCH POPLATCÍCH, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ",
+      "content": "1. V položce 20 se písmeno g) zrušuje."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "ČÁST TŘETÍ - ZMĚNA ZÁKONA Č. 368/1992 SB., O SPRÁVNÍCH POPLATCÍCH, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ",
+      "content": "2. V položce 20 v poznámkách se bod 4 zrušuje."
     }
   ],
   "definitions": []

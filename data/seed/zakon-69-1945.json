@@ -1,0 +1,27 @@
+{
+  "id": "cz:69/1945",
+  "type": "statute",
+  "title": "69/1945 Sb., Dekret presidenta republiky o přeložení vysoké školy báňské z Příbramě do Moravské Ostravy",
+  "title_en": "",
+  "short_name": "69/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-09-20",
+  "in_force_date": "1945-09-20",
+  "url": "https://www.e-sbirka.cz/sb/1945/69",
+  "description": "Dekret presidenta republiky o přeložení vysoké školy báňské z Příbramě do Moravské Ostravy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vysoká škola báňská se překládá počátkem studijního roku 1945/46 z Příbramě do Moravské Ostravy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento dekret nabývá účinnosti dnem vyhlášení; provede jej ministr školství a osvěty."
+    }
+  ],
+  "definitions": []
+}

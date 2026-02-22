@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2030/1948",
+  "type": "statute",
+  "title": "2030/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění konfiskovaných podniků do OBUSU, národního podniku.",
+  "title_en": "",
+  "short_name": "2030/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-04",
+  "in_force_date": "1948-08-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2030",
+  "description": "Vyhláška ministra průmyslu o začlenění konfiskovaných podniků do OBUSU, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Erich Fisker, továrna na kůže, se sídlem ve Štětí nad Lab., spr. okr. Dubá,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. F. E. Pilz, kom. společnost, koželužna, se sídlem v Hrádku n. N., spr. okr. Liberec-venkov,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Carl Röhmisch, se sídlem v Krásné Lípě, spr. okr. Rumburk, konfiskovaných podle § 1 dekretu presidenta republiky ze dne 25. října 1945, č. 108 Sb., o konfiskaci nepřátelského majetku a Fondech národní obnovy, do OBUSU, národního podniku."
+    }
+  ],
+  "definitions": []
+}

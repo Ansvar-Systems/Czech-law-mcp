@@ -1,0 +1,27 @@
+{
+  "id": "cz:155/2019",
+  "type": "statute",
+  "title": "155/2019 Sb., Sdělení Energetického regulačního úřadu o celkovém počtu odběrných míst zákazníků odebírajících elektřinu a o celkovém množství plynu spotřebovaném v České republice v roce 2018",
+  "title_en": "",
+  "short_name": "155/2019 Sb.",
+  "status": "in_force",
+  "issued_date": "2019-06-27",
+  "in_force_date": "2019-06-27",
+  "url": "https://www.e-sbirka.cz/sb/2019/155",
+  "description": "Sdělení Energetického regulačního úřadu o celkovém počtu odběrných míst zákazníků odebírajících elektřinu a o celkovém množství plynu spotřebovaném v České republice v roce 2018",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Celkový počet odběrných míst zákazníků odebírajících elektřinu ke dni 31. prosince 2018 činil 6 037 791."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Celková spotřeba plynu v České republice v roce 2018 činila 86 903 254,925 MWh."
+    }
+  ],
+  "definitions": []
+}

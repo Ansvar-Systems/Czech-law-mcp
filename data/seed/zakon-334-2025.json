@@ -1,0 +1,78 @@
+{
+  "id": "cz:334/2025",
+  "type": "statute",
+  "title": "334/2025 Sb., Vyhláška o Portálu Národního úřadu pro kybernetickou a informační bezpečnost a požadavcích na některé úkony",
+  "title_en": "",
+  "short_name": "334/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-09",
+  "in_force_date": "2025-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/334",
+  "description": "Vyhláška o Portálu Národního úřadu pro kybernetickou a informační bezpečnost a požadavcích na některé úkony",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) formát a způsob ohlášení regulované služby podle § 6 odst. 1 zákona,\nb) obsahové náležitosti, formát a způsob hlášení kybernetického bezpečnostního incidentu, průběžné zprávy o podstatných změnách stavu zvládání kybernetického bezpečnostního incidentu, průběžné zprávy o aktuálním stavu zvládání kybernetického bezpečnostního incidentu a závěrečné zprávy o vyřešení kybernetického bezpečnostního incidentu,\nc) formát a způsob hlášení údajů osob poskytujících služby registrace doménových jmen podle § 34 odst. 1 zákona a\nd) technické a organizační podmínky používání Portálu Národního úřadu pro kybernetickou a informační bezpečnost (dále jen „Portál Úřadu“), obsahové náležitosti, formát, strukturu a způsob provedení úkonů podle § 45 odst. 2 zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Portál Úřadu",
+      "content": "(1) Přístup do Portálu Úřadu se provádí prostřednictvím internetových stránek Úřadu po přihlášení pomocí přihlašovacích údajů.\n(2) Úřad v rámci Portálu Úřadu umožní provedení nebo podání\na) ohlášení regulované služby podle § 6 odst. 1 zákona,\nb) ohlášení změny regulované služby podle § 9 odst. 1 a § 26 odst. 1 zákona,\nc) žádosti o zrušení registrace regulované služby podle § 10 odst. 2 zákona,\nd) hlášení údajů podle § 11 zákona,\ne) hlášení incidentů podle § 15 a 16 zákona,\nf) oznámení provedení reaktivního protiopatření podle § 23 odst. 6 zákona a\ng) hlášení informací o dodavatelích podle § 31 odst. 1 písm. c) zákona."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Druhy hlášených údajů",
+      "content": "(1) Druhy hlášených údajů se pro účely této vyhlášky rozumí registrační údaje, kontaktní údaje a doplňující údaje.\n(2) Registračními údaji se rozumí\na) identifikační údaje poskytovatele regulované služby, kterými jsou jeho název, identifikační číslo osoby, bylo-li mu přiděleno, sídlo, případně adresa hlavní provozovny a dalších provozoven v jiných členských státech, a\nb) seznam poskytovaných regulovaných služeb a splněných podmínek významnosti poskytovatele podle vyhlášky upravující regulované služby.\n(3) Kontaktními údaji se rozumí\na) identifikační údaje fyzické osoby, která je oprávněna jednat za poskytovatele regulované služby ve věcech upravených zákonem, a\nb) funkce nebo pracovní zařazení, telefonní číslo a adresa elektronické pošty fyzické osoby, která je oprávněna jednat za poskytovatele regulované služby ve věcech upravených zákonem.\n(4) Doplňujícími údaji se rozumí\na) doménová jména a rozsahy IP adres, které jsou využívány k poskytování regulované služby,\nb) informace o geografickém rozšíření regulované služby a o jejím přeshraničním poskytování a\nc) informace o členství poskytovatele regulované služby v koncernu a o jeho účasti v komunitě pro sdílení informací v oblasti kybernetické bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Hlášení kybernetického bezpečnostního incidentu",
+      "content": "(1) Hlášení kybernetického bezpečnostního incidentu poskytovatelem regulované služby obsahuje\na) identifikační údaje poskytovatele regulované služby,\nb) doplňující údaje k zasaženým aktivům,\nc) informace o kybernetickém bezpečnostním incidentu, zejména datum a čas zjištění, stav řešení incidentu, pravděpodobnou příčinu incidentu, popis incidentu a indikátory kompromitace, jsou-li tyto informace dostupné,\nd) informace vymezující dopad incidentu, zejména funkční dopad, odhad rozsahu a počtu zasažených aktiv nebo osob, čas a zdroje potřebné k obnově poskytování zasažené služby, lokaci incidentu, citlivost zasažených dat a případný přeshraniční dopad incidentu, jsou-li tyto informace dostupné, a\ne) informace o reakci na kybernetický bezpečnostní incident, zejména o požadované podpoře ze strany Úřadu, přijatých a probíhajících opatřeních ke zmírnění následků a výčtu subjektů, které byly v souvislosti s incidentem informovány.\n(2) V rámci hlášení kybernetického bezpečnostního incidentu může poskytovatel regulované služby provést\na) prvotní hlášení podle § 16 odst. 1 zákona,\nb) oznámení incidentu podle § 16 odst. 3 písm. a) zákona,\nc) podání průběžné zprávy o podstatných změnách stavu zvládání kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. b) zákona,\nd) podání závěrečné zprávy o vyřešení kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. c) zákona a\ne) podání průběžné zprávy o aktuálním stavu zvládání kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. c) zákona.\n(3) Průběžná zpráva o podstatných změnách stavu zvládání kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. b) zákona obsahuje informace o doposud učiněných krocích ke zvládání incidentu a informace o případných nových skutečnostech.\n(4) Závěrečná zpráva o vyřešení kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. c) zákona obsahuje aktualizované informace podle odstavce 1.\n(5) Průběžná zpráva o aktuálním stavu zvládání kybernetického bezpečnostního incidentu podle § 16 odst. 3 písm. c) zákona obsahuje informace o doposud učiněných krocích ke zvládání incidentu, informace o případných nových skutečnostech, plánované kroky k vyřešení incidentu a vysvětlení, z jakého důvodu doposud nedošlo k jeho vyřešení.\n(6) Hlásí-li poskytovatel regulované služby kybernetický bezpečnostní incident v souladu s § 16 odst. 4 zákona jinak než prostřednictvím Portálu Úřadu, uplatní se obsahové náležitosti podle odstavce 1 obdobně.\n(7) Hlásí-li kybernetický bezpečnostní incident prostřednictvím internetových stránek Úřadu dobrovolný ohlašovatel podle § 15 odst. 5 zákona, který není poskytovatel regulované služby, obsahuje hlášení\na) identifikační a kontaktní údaje ohlašovatele nebo jiné kontaktní osoby,\nb) identifikaci a popis informačního systému nebo služby zasažené kybernetickým bezpečnostním incidentem,\nc) informace o kybernetickém bezpečnostním incidentu, zejména datum a čas zjištění, druh hrozby nebo základní příčinu, která incident spustila, odhad rozsahu zasažení systémů, odhad počtu zasažených uživatelů, podrobný popis incidentu a případný přeshraniční dopad incidentu, jsou-li tyto informace dostupné, a\nd) informace o reakci na kybernetický bezpečnostní incident, zejména stav zvládání incidentu a přijatá a probíhající opatření ke zmírnění následků."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Obsahové náležitosti některých úkonů",
+      "content": "(1) Ohlášení regulované služby podle § 6 zákona nebo pro ohlášení změny regulované služby podle § 9 a 26 zákona obsahuje registrační údaje, případně jejich změnu.\n(2) Žádost o zrušení registrace regulované služby podle § 10 odst. 2 zákona obsahuje\na) registrační údaje regulované služby, o jejíž výmaz je žádáno, a\nb) odůvodnění žádosti o výmaz.\n(3) Hlášení údajů podle § 11 zákona obsahuje\na) identifikační údaje poskytovatele regulované služby,\nb) kontaktní údaje a\nc) doplňující údaje.\n(4) Oznámení provedení reaktivního protiopatření podle § 23 odst. 6 zákona obsahuje\na) identifikační údaje poskytovatele regulované služby,\nb) doplňující údaje relevantní s ohledem na obsah reaktivního protiopatření,\nc) identifikace reaktivního protiopatření a\nd) informaci o provedení reaktivního protiopatření a jeho výsledku.\n(5) Hlášení informací o dodavatelích podle § 31 odst. 1 písm. c) zákona obsahuje\na) identifikační údaje poskytovatele regulované služby,\nb) identifikační údaje dodavatele bezpečnostně významné dodávky,\nc) identifikaci bezpečnostně významné dodávky,\nd) identifikaci kritické části stanoveného rozsahu, do níž směřuje bezpečnostně významná dodávka,\ne) identifikaci regulované služby, k níž se váže bezpečnostně významná dodávka, a\nf) informaci o vztahu poskytovatele regulované služby s dodavatelem."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Hlášení údajů osob poskytujících služby registrace doménových jmen",
+      "content": "Údaje podle § 34 zákona se hlásí prostřednictvím formuláře uveřejněného na internetových stránkách Úřadu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. listopadu 2025."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Druhy hlášených údajů",
+      "definition": "registrační údaje, kontaktní údaje a doplňující údaje",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "identifikační",
+      "definition": "údaje poskytovatele regulované služby, kterými jsou jeho název, identifikační číslo osoby, bylo-li mu přiděleno, sídlo, případně adresa hlavní provozovny a dalších provozoven v jiných členských státech, a",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "funkce nebo pracovní zařazení",
+      "definition": "telefonní číslo a adresa elektronické pošty fyzické osoby, která je oprávněna jednat za poskytovatele regulované služby ve věcech upravených zákonem.",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "doménová jména a rozsahy IP adres",
+      "definition": "které jsou využívány k poskytování regulované služby",
+      "source_provision": "§ 3"
+    }
+  ]
+}

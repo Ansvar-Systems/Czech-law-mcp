@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:110/1956",
+  "type": "statute",
+  "title": "110/1956 Ú. l., Vyhláška úřadu pro normalisaci o změně vyhlášky č. 81/1956 Ú. l., kterou se zrušují některé technické podmínky, a čísel technických státních norem ČSN 56 1210 a ČSN 56 1211.",
+  "title_en": "",
+  "short_name": "110/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-05-31",
+  "in_force_date": "1956-06-15",
+  "url": "https://www.e-sbirka.cz/ul0/1956/110",
+  "description": "Vyhláška úřadu pro normalisaci o změně vyhlášky č. 81/1956 Ú. l., kterou se zrušují některé technické podmínky, a čísel technických státních norem ČSN 56 1210 a ČSN 56 1211.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technické podmínky\nTP 2 — 7 — 52\nTP 2 — 21 — 52\nTP 2 — 22 — 52\nTP 2 — 47 — 52\nzrušené vyhláškou Úřadu pro normalisaci č. 81/1956 Ú. l. platí na dále."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "S platností od 1. dubna 1956 se mění číslo technické státní normy ČSN 56 1210 „Pšeničné pečivo tukové pro nemocnice, sanatoria a léčebné ústavy” na\nČSN 56 1120\na technické státní normy ČSN 56 1211 „Karlovarský suchar vodový” na\nČSN 56 1121."
+    }
+  ],
+  "definitions": []
+}

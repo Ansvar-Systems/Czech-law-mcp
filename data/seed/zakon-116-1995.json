@@ -1,0 +1,45 @@
+{
+  "id": "cz:116/1995",
+  "type": "statute",
+  "title": "116/1995 Sb., Nařízení vlády, kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání",
+  "title_en": "",
+  "short_name": "116/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-07-14",
+  "in_force_date": "1995-07-14",
+  "url": "https://www.e-sbirka.cz/sb/1995/116",
+  "description": "Nařízení vlády, kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Geodetické referenční systémy",
+      "content": "(1) Závaznými geodetickými referenčními systémy1) pro zeměměřické činnosti jsou\na) světový geodetický referenční systém 1984 (závazná zkratka „WGS84“),\nb) evropský terestrický referenční systém (závazná zkratka „ETRS“),\nc) souřadnicový systém Jednotné trigonometrické sítě katastrální (závazná zkratka „S-JTSK“),\nd) souřadnicový systém 1942 (závazná zkratka „S-42“),\ne) výškový systém baltský - po vyrovnání (závazná zkratka „Bpv“),\nf) tíhový systém 1995 (závazná zkratka „S-Gr95“).\n(2) Při zpřesnění závazných geodetických referenčních systémů na základě nových měření a výpočtů se v jejich názvu a závazné zkratce mění nebo doplňuje letopočet.\n(3) Technické parametry závazných geodetických referenčních systémů jsou definovány v příloze č. 1 tohoto nařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Státní mapová díla",
+      "content": "(1) Závaznými státními mapovými díly jsou\na) katastrální mapy,2)\nb) Státní mapa 1:5000 - odvozená,\nc) Základní mapa České republiky 1:10 000, 1:25 000, 1:50 000, 1:100 000 a 1:200 000,\nd) Mapa České republiky 1:500 000,\ne) vojenské topografické mapy 1:25 000, 1:50 000, 1:100 000, 1:200 000, 1:500 000 a 1:1 000 000,\nf) tématická mapová díla vytvořená pro celé území státu na podkladě Základní mapy České republiky uvedené v písmenu c),\ng) tématická mapová díla vytvořená pro celé území státu na podkladě vojenských topografických map uvedených v písmenu e).\n(2) Státní mapová díla uvedená v odstavci 1 písm. a), b), c), d) a f) se zobrazují v geodetickém referenčním systému podle § 1 odst. 1 písm. c) a e).\n(3) Státní mapová díla uvedená v odstavci 1 písm. e) a g) se zobrazují v geodetickém referenčním systému podle § 1 odst. 1 písm. a), d) a e)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Užití a forma státních mapových děl",
+      "content": "(1) Státní mapová díla podle § 2 odst. 1 písm. a), b), c), d) a f) jsou určena pro veřejné užití.\n(2) Státní mapová díla podle § 2 odst. 1 písm. e) a g) jsou určena pro potřeby obrany státu.\n(3) Státní mapová díla jsou vytvářena, obnovována a vydávána v grafické formě nebo v digitální formě."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Přechodná ustanovení",
+      "content": "(1) Geodetický referenční výškový systém jadranský lze používat při vyhotovování zeměměřických podkladů a dokumentací využívaných ve veřejném zájmu pro výkon státní správy nejpozději do roku 2000 v lokalitách uvedených v příloze č. 2 tohoto nařízení.\n(2) Státní mapová díla uvedená v § 2 odst. 1 písm. e) a g) lze do roku 2005 použít též pro účely veřejného užití, pokud zvláštní zákon nestanoví jinak.3)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k nařízení vlády č. 116/1995 Sb.\nTechnické parametry závazných geodetických referenčních systémů\n1. Světový geodetický referenční systém 1984 je na území České republiky definován\na) technologiemi kosmické geodézie s primárními konstantami a = 6378137 m, GM = 3986005 × 108m3s-2, J2 = 108263 × 10-8, ω = 7292115 × 10-11rad s-1 a odvozenou konstantou f = 1:298,257223563, kde „a“ je délka hlavní poloosy hladinového elipsoidu, „GM“ je geocentrická gravitační konstanta, „J2“ je dynamické zploštění Země, „ω“ je nominální úhlová rychlost rotace Země a „f“ je zploštění hladinového elipsoidu,\nb) Mercatorovým univerzálním konformním válcovým zobrazením v 6o poledníkových pásech,\nc) souborem vyrovnaných souřadnic výchozích bodů nadřazené sítě nultého řádu.\n2. Evropský terestrický referenční systém je na území České republiky definován\na) technologiemi kosmické geodézie a konstantami, které jsou součástí programů mezinárodních zpracovatelských center,\nb) referenčním rámcem vybraných bodů Jednotné trigonometrické sítě katastrální, jejichž pravoúhlé geocentrické souřadnice byly vztaženy k evropskému terestrickému referenčnímu rámci (European Terrestrial Reference Frame), epoše 1989.0,\nc) elipsoidem geodetického referenčního systému 1980 s konstantami a = 6378137 m, f = 1:298,257222101, kde „a“ je délka hlavní poloosy a „f“ je zploštění.\n3. Souřadnicový systém Jednotné trigonometrické sítě katastrální je definován\na) Besselovým elipsoidem s parametry a = 6377397,15508 m, b = 6356078,96290 m, kde „a“ je délka hlavní poloosy, „b“ je délka vedlejší poloosy,\nb) Křovákovým konformním kuželovým zobrazením v obecné poloze,\nc) souborem souřadnic bodů z vyrovnání trigonometrických sítí.\n4. Souřadnicový systém 1942 je definován\na) Krasovského elipsoidem s parametry a=6378245m, f = 1:298,3, kde „a“ je délka hlavní poloosy, „f“ je zploštění,\nb) Gaussovým příčným konformním válcovým zobrazením v 6° poledníkových pásech v Krügerově úpravě,\nc) souborem souřadnic bodů z mezinárodního vyrovnání astronomicko-geodetických sítí.\n5. Výškový systém baltský - po vyrovnání je definován\na) výchozím výškovým bodem, kterým je nula stupnice mořského vodočtu v Kronštadtu,\nb) souborem normálních výšek z mezinárodního vyrovnání nivelačních sítí.\n6. Tíhový systém 1995 je definován\na) hladinou a rozměrem sítě, které jsou odvozeny z absolutních tíhových měření v mezinárodní gravimetrické síti,\nb) souborem hodnot tíhového zrychlení z vyrovnání mezinárodní sítě.\nPříloha č. 2 k nařízení vlády č. 116/1995 Sb.\nSeznam lokalit, ve kterých lze používat geodetický výškový systém jadranský do roku 2000\na) poříční polygonové pořady na území České republiky,\nb) revír Ostravsko-karvinských dolů, a.s., v okresech Karviná a Frýdek-Místek,\nrevír Sokolovské uhelné akciové společnosti ve Vřesové,\nrevír Diamo, s.p., ve Stráži pod Ralskem,\nc) okresy Praha-západ a Plzeň-město,\nd) hlavní město Praha, Plzeň, Hodonín, Kroměříž, Nové Město na Moravě a Žďár nad Sázavou.\n1) § 2 písm. b) zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením.\n2) § 27 písm. g) zákona ČNR č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon).\n3) Zákon č. 102/1971 Sb., o ochraně státního tajemství, ve znění zákona č. 383/1990 Sb. a zákona č. 558/1991 Sb."
+    }
+  ],
+  "definitions": []
+}

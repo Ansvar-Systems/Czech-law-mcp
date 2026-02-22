@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:44/1949",
+  "type": "statute",
+  "title": "44/1949 Ú. l. I, Vyhláška ministra průmyslu o vynětí části majetkových podstat národních podniků průmyslu chemického a jejich převedení do působnosti ministra vnitřního obchodu.",
+  "title_en": "",
+  "short_name": "44/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-08",
+  "in_force_date": "1949-01-08",
+  "url": "https://www.e-sbirka.cz/ul1/1949/44",
+  "description": "Vyhláška ministra průmyslu o vynětí části majetkových podstat národních podniků průmyslu chemického a jejich převedení do působnosti ministra vnitřního obchodu.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Kmenové jmění Stalinových závodů, národního podniku snižuje se ke dni 1. ledna 1949 o čistou hodnotu majetkové podstaty vyňaté z uvedeného národního podniku podle oddílu A/II, a to v bilanční hodnotě vykázané v jeho rozvaze ke dni 31. prosince 1948."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Kmenové jmění Slovenských rafinerií minerálnych olejov, národného podniku, snižuje se ke dni 1. ledna 1949 o čistou hodnotu majetkové podstaty vyňaté z uvedeného národního podniku podle oddílu A/III, a to v bilanční hodnotě vykázané v jeho rozvaze ke dni 31. prosince 1948."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Kmenové jmění Lučebných a farmaceutických závodov, národného podniku snižuje se ke dni 1. ledna 1949 o čistou hodnotu majetkové podstaty vyňaté z uvedeného národního podniku podle oddílu A/IV, a to v bilanční hodnotě vykázané v jeho rozvaze ke dni 31. prosince 1948."
+    }
+  ],
+  "definitions": []
+}

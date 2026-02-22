@@ -582,6 +582,59 @@ function extractFallbackAmendmentProvisions(fragments: FragmentRecord[]): SeedPr
   return out;
 }
 
+function extractGenericTextProvision(fragments: FragmentRecord[]): SeedProvision[] {
+  const contentParts: string[] = [];
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    if (shouldIgnore(type) || isStructuralType(type)) continue;
+    if (type === 'Paragraf' || type === 'Clanek') continue;
+
+    const text = xhtmlToText(fragment.xhtml);
+    if (text.length === 0) continue;
+    contentParts.push(text);
+  }
+
+  const content = contentParts.join('\n').trim();
+  if (content.length === 0) return [];
+
+  return [
+    {
+      provision_ref: 'Text',
+      section: '1',
+      title: 'Text',
+      content,
+    },
+  ];
+}
+
+function extractRawTextFallbackProvision(fragments: FragmentRecord[]): SeedProvision[] {
+  const contentParts: string[] = [];
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    if (type.startsWith('Virtual_')) continue;
+
+    const text = xhtmlToText(fragment.xhtml);
+    if (text.length === 0) continue;
+    contentParts.push(text);
+  }
+
+  const content = contentParts.join('\n').trim();
+  if (content.length === 0) return [];
+
+  return [
+    {
+      provision_ref: 'Text',
+      section: '1',
+      title: 'Text',
+      content,
+    },
+  ];
+}
+
 export function parseLawSeed(
   targetLaw: TargetLaw,
   detail: DocumentDetailResponse,
@@ -691,6 +744,12 @@ export function parseLawSeed(
 
   if (provisions.length === 0) {
     provisions.push(...extractFallbackAmendmentProvisions(fragments));
+  }
+  if (provisions.length === 0) {
+    provisions.push(...extractGenericTextProvision(fragments));
+  }
+  if (provisions.length === 0) {
+    provisions.push(...extractRawTextFallbackProvision(fragments));
   }
 
   const definitions = extractDefinitions(provisions, fragments);

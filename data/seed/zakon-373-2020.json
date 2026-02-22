@@ -1,0 +1,57 @@
+{
+  "id": "cz:373/2020",
+  "type": "statute",
+  "title": "373/2020 Sb., Vyhláška o stanovení rozsahu údajů a způsobu jejich zápisu do rejstříku vedeného podle zákona o podpoře sportu",
+  "title_en": "",
+  "short_name": "373/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-09-17",
+  "in_force_date": "2020-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/373",
+  "description": "Vyhláška o stanovení rozsahu údajů a způsobu jejich zápisu do rejstříku vedeného podle zákona o podpoře sportu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje rozsah údajů, které sportovní organizace žádající o podporu ze státního rozpočtu podle § 6b odst. 1 písm. a) zákona a osoby žádající o podporu ze státního rozpočtu, které nejsou sportovní organizací podle § 6b odst. 1 písm. b) nebo c) zákona, zapisují do rejstříku, a způsob jejich zápisu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Osoba žádající o podporu",
+      "content": "Osobou žádající o podporu se pro účely této vyhlášky rozumí sportovní organizace anebo jiná osoba, která podala žádost o podporu sportu formou dotace ze státního rozpočtu podle zákona, od okamžiku podání žádosti o podporu do okamžiku nabytí právní moci rozhodnutí o žádosti."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zapisované údaje a způsob jejich zápisu",
+      "content": "(1) Osoba žádající o podporu podle § 6b odst. 1 písm. a) zákona zapíše do rejstříku prostřednictvím internetové aplikace kromě údajů stanovených v § 3e odst. 2 zákona tyto údaje:\na) název sportovního zařízení nebo jeho obecné pojmenování,\nb) typ sportovního zařízení,\nc) adresu sportovního zařízení, je-li přidělena, obec a poštovní směrovací číslo, není-li adresa přidělena, a\nd) název, sídlo a identifikační číslo sportovní organizace, které je osoba žádající o podporu členem.\n(2) Osoba žádající o podporu podle § 6b odst. 1 písm. b) zákona zapíše do rejstříku prostřednictvím internetové aplikace tyto údaje:\na) název a sídlo, jde-li o právnickou osobu,\nb) jméno, popřípadě jména a příjmení a adresu místa pobytu, jde-li o fyzickou osobu, popřípadě obchodní firmu a sídlo, jde-li o podnikající fyzickou osobu,\nc) identifikační číslo, pokud bylo přiděleno, a\nd) údaje o sportovním zařízení, které je předmětem žádosti o podporu ze státního rozpočtu, v rozsahu:\n1. název sportovního zařízení nebo jeho obecné pojmenování,\n2. typ sportovního zařízení,\n3. právní titul, na základě kterého osoba žádající o podporu disponuje sportovním zařízením,\n4. adresa sportovního zařízení, je-li adresa přidělena, obec a poštovní směrovací číslo, není-li adresa přidělena.\n(3) Osoba žádající o podporu podle § 6b odst. 1 písm. c) zákona zapíše do rejstříku prostřednictvím internetové aplikace tyto údaje:\na) název a sídlo, jde-li právnickou osobu,\nb) jméno, popřípadě jména a příjmení a adresu místa pobytu, jde-li o fyzickou osobu, popřípadě obchodní firmu a sídlo, jde-li o podnikající fyzickou osobu,\nc) identifikační číslo, pokud bylo přiděleno,\nd) název významné sportovní akce mimořádné důležitosti,\ne) druh sportu nebo druhy sportů významné sportovní akce mimořádné důležitosti,\nf) místo konání významné sportovní akce mimořádné důležitosti,\ng) datum konání významné sportovní akce mimořádné důležitosti a\nh) název organizace přidělující pořádání významné sportovní akce mimořádné důležitosti podle § 2 odst. 7 zákona."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Změny údajů a způsob jejich zápisu",
+      "content": "Osoba žádající o podporu zapisuje do rejstříku prostřednictvím internetové aplikace změny zapsaných údajů."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zrušovací ustanovení",
+      "content": "Vyhláška č. 134/2018 Sb., o stanovení formátu a struktury datové zprávy, jejímž prostřednictvím sportovní organizace a žadatelé o podporu zapisují údaje do rejstříku, který slouží k vedení údajů o sportovních organizacích, sportovcích, trenérech a sportovních zařízeních, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 2020."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Osobou žádající o podporu",
+      "definition": "sportovní organizace anebo jiná osoba, která podala žádost o podporu sportu formou dotace ze státního rozpočtu podle zákona, od okamžiku podání žádosti o podporu do okamžiku nabytí právní moci rozhodnutí o žádosti",
+      "source_provision": "§ 2"
+    }
+  ]
+}

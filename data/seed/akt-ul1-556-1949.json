@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:556/1949",
+  "type": "statute",
+  "title": "556/1949 Ú. l. I, Vyhláška ministerstva pošt o nové úpravě československých terminálních poplatků v mezinárodním balíkovém styku.",
+  "title_en": "",
+  "short_name": "556/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-05-11",
+  "in_force_date": "1949-05-11",
+  "url": "https://www.e-sbirka.cz/ul1/1949/556",
+  "description": "Vyhláška ministerstva pošt o nové úpravě československých terminálních poplatků v mezinárodním balíkovém styku.",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1.",
+      "section": "1",
+      "title": "Článek 1.",
+      "content": "S účinností od 1. července 1949 stanoví se terminální poplatky (příchodní i odchodní) náležející československé poštovní správě za poštovní balíky mezinárodního styku takto:\n0.50 zl. fr. za balík do1 kg;\n0.70 zl. fr. za balík přes1 kg až do 3 kg;\n0.85 zl. fr. za balík přes3 kg až do 5 kg;\n1.50 zl. fr. za balík přes5 kg až do 10 kg;\n2.25 zl. fr. za balík přes10 kg až do 15 kg;\n3.— zl. fr. za balík přes10 kg až do 20 kg."
+    },
+    {
+      "provision_ref": "Článek 2.",
+      "section": "2",
+      "title": "Článek 2.",
+      "content": "Podle právě platného přepočítacího kursu zlatého franku na československé koruny pro poštovní styk s cizinou (1 zl. fr. = 16.50 Kčs) činí poplatky uvedené v čl. 1 v korunách československých (Kčs):\n8.20 Kčs za balík do1 kg;\n11.50 Kčs za balík přes1 kg až do 3 kg;\n14.— Kčs za balík přes3 kg až do 5 kg;\n24.70 Kčs za balík přes5 kg až do 10 kg;\n37.10 Kčs za balík přes10 kg až do 15 kg;\n49.50 Kčs za balík přes15 kg až do 20 kg"
+    },
+    {
+      "provision_ref": "Článek 3.",
+      "section": "3",
+      "title": "Článek 3.",
+      "content": "Touto novou úpravou mění se i úhrnné poplatky za poštovní balíky do ciziny. Nové poplatky se uveřejňují v opravě č. 16 k balíkovému sazebníku (A 22) příp. opravou č. 2 k balíkovému sadzobníku."
+    }
+  ],
+  "definitions": []
+}

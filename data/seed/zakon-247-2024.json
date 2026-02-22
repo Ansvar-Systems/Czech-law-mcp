@@ -1,0 +1,45 @@
+{
+  "id": "cz:247/2024",
+  "type": "statute",
+  "title": "247/2024 Sb., Vyhláška o technických a bezpečnostních požadavcích na elektronické dražební systémy",
+  "title_en": "",
+  "short_name": "247/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-08-22",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/247",
+  "description": "Vyhláška o technických a bezpečnostních požadavcích na elektronické dražební systémy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) V elektronickém dražebním systému musí být\na) veškerá komunikace mezi účastníky elektronické dražby (dále jen „dražba“) a elektronickým dražebním systémem zajišťována zabezpečeným šifrovaným způsobem pomocí síťového protokolu, kryptografických algoritmů a serverového certifikátu, které jsou aktuálně odolné,\nb) čas synchronizován s koordinovaným světovým časem,\nc) přizpůsobováno zobrazení obsahu internetové stránky, kde dražba probíhá, je-li zobrazena v mobilním zařízení, a to pomocí responzivního designu internetové stránky nebo mobilní verze internetové stránky,\nd) prováděna autentizace osob přihlašujících se do něj,\ne) na adrese internetové stránky, kde dražba probíhá, účastník dražby označován bezvýznamovým identifikátorem, který je mu náhodně přidělen pro každou jednotlivou dražbu,\nf) zpracovávány a s přesností nejméně na setinu sekundy zaznamenávány elektronické úkony dražebníka a účastníka dražby a elektronické úkony automaticky provedené elektronickým dražebním systémem a\ng) prováděna automatická aktualizace údajů na adrese internetové stránky, kde dražba probíhá, a to do 5 sekund poté, co dojde k jejich změně.\n(2) Serverový certifikát podle odstavce 1 písm. a) musí být vydán uznávanou certifikační autoritou, být platný a odpovídat všem doménovým jménům, která elektronický dražební systém využívá.\n(3) Synchronizace systémového času s koordinovaným světovým časem podle odstavce 1 písm. b) se musí provádět alespoň jednou za 24 hodin.\n(4) Autentizace osob podle odstavce 1 písm. d) musí být provedena alespoň zadáním uživatelského jména a hesla. Uživatelské jméno je pro každou osobu jedinečné a je tvořeno nejméně 6 znaky. Heslo je tvořeno nejméně 12 znaky a obsahuje nejméně 1 velké písmeno, 1 malé písmeno, 1 číslici a 1 speciální znak. Hesla musejí být uložena v elektronickém dražebním systému pouze v kódované podobě pomocí aktuálně odolného kryptografického algoritmu.\n(5) Elektronický dražební systém nesmí umožňovat zásah do průběhu dražby, který je v rozporu se zákonem o veřejných dražbách."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Úplnost a integrita evidence požadavků příchozích na adresu internetové stránky, kde dražba probíhá, musejí být zajištěny dodavatelem hostingových služeb nebo dodavatelem internetového připojení, kteří jsou osobami odlišnými od dražebníka a od provozovatele elektronického dražebního systému.\n(2) Dostupnost internetové stránky, kde dražba probíhá, musí být kontrolována prostřednictvím k tomu zřízené služby, která ji provádí z jiného zeměpisného umístění, než je umístění kontrolované internetové stránky. Poskytovatel této služby musí být odlišný od dražebníka a od provozovatele elektronického dražebního systému."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Elektronický dražební systém musí být možné použít v běžně dostupném elektronickém zařízení a bezplatně poskytované a aktuálně podporované verzi internetového prohlížeče bez potřeby instalace dalších aplikací s výjimkou běžných rozšíření prohlížeče. Informace o minimální konfiguraci elektronického zařízení, se kterým se lze zúčastnit dražby, musí být uvedena ve veřejně přístupné části elektronického dražebního systému.\n(2) Dokumenty musejí být v elektronickém dražebním systému zveřejňovány ve formátu PDF/A.\n(3) Ve veřejně přístupné části elektronického dražebního systému musí být dostupná uživatelská příručka, ve které jsou podrobně popsány důležité funkcionality tohoto systému.\n(4) Elektronický dražební systém musí umožňovat přístup k adrese internetové stránky, kde dražba proběhla, a to nejméně po dobu 1 roku od ukončení dražby."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Na internetové stránce, kde dražba probíhá, se elektronickým dražebním systémem musí veřejnosti zobrazovat\na) informace o době zbývající do zahájení dražby a o aktuálním čase,\nb) historie podaných nabídek včetně označení účastníků dražby jejich bezvýznamovým identifikátorem,\nc) výše poslední nabídky, a to samostatně mimo historii podaných nabídek, a\nd) informace o zbývající době, během které lze podávat nabídky.\n(2) Internetová stránka, kde dražba probíhá, musí být veřejnosti dostupná bez nutnosti registrace do elektronického dražebního systému."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2025."
+    }
+  ],
+  "definitions": []
+}

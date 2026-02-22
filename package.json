@@ -44,6 +44,7 @@
     "ingest:all:index": "node --import tsx scripts/ingest.ts --all-laws --index-only",
     "ingest:all": "node --import tsx scripts/ingest.ts --all-laws --skip-existing",
     "ingest:opendata": "node --import tsx scripts/ingest-open-data.ts",
+    "ingest:backfill-empty": "node --import tsx scripts/backfill-empty-seeds.ts",
     "coverage:all-laws": "node --import tsx scripts/all-laws-coverage.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",

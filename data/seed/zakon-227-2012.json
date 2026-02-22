@@ -1,0 +1,45 @@
+{
+  "id": "cz:227/2012",
+  "type": "statute",
+  "title": "227/2012 Sb., Vyhláška, kterou se mění vyhláška č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot",
+  "title_en": "",
+  "short_name": "227/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-06-29",
+  "in_force_date": "2012-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/227",
+  "description": "Vyhláška, kterou se mění vyhláška č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot, se mění takto:\n1. § 1 včetně poznámky pod čarou č. 1 zní:"
+    },
+    {
+      "provision_ref": "„§ 1",
+      "section": "1",
+      "title": "„§ 1",
+      "content": "Tato vyhláška upravuje na základě práva Evropské unie1) parametry kvality univerzální služby a jejich mezní hodnoty.\n1) Směrnice Evropského parlamentu a Rady 2002/22/ES o univerzální službě a právech uživatelů týkajících se sítí a služeb elektronických komunikací (směrnice o univerzální službě). Směrnice Evropského parlamentu a Rady 2009/136/ES, kterou se mění směrnice 2002/22/ES o univerzální službě a právech uživatelů týkajících se sítí a služeb elektronických komunikací, směrnice 2002/58/ES o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací a nařízení (ES) č. 2006/2004 o spolupráci mezi vnitrostátními orgány příslušnými pro vymáhání dodržování zákonů na ochranu zájmů spotřebitele.“.\n2. § 2 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 2",
+      "section": "2",
+      "title": "„§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí účastnickým přípojným okruhem (dále jen „přípojný okruh“) komunikační cesta spojující koncový bod sítě s přípojným bodem telefonní ústředny, popřípadě dálkového koncentrátoru, sestávající z účastnického přípojného vedení včetně k němu příslušejícího technického zařízení nezbytného pro uskutečňování volání; přípojným bodem se rozumí hlavní rozvaděč.“.\n3. V § 3 odst. 1 písmena a) až c) znějí:\n„a) doba, za kterou je zřízeno připojení v pevném místě k veřejné komunikační síti,\nb) četnost poruch přípojných okruhů,\nc) doba, za kterou je porucha odstraněna,“.\n4. V § 3 odst. 1 písmeno h) zní:\n„h) míra pohotovosti veřejných telefonních automatů nebo jiných obdobných technických prostředků umožňujících přístup k veřejně dostupné telefonní službě (dále jen „veřejný telefonní automat“).“.\n5. V § 3 odstavec 2 zní:\n„(2) Doba, za kterou je zřízeno připojení v pevném místě k veřejné komunikační síti, je doba ode dne, kdy uživatel podal žádost o připojení, do okamžiku zprovoznění koncového bodu sítě v pevném místě; za zprovoznění připojení v pevném místě se považuje rovněž převod užívacích práv ke koncovému bodu sítě stávajícího přípojného okruhu na jiného účastníka.“.\n6. V § 3 odst. 3 se slova „vztažená na účastnické přípojné vedení je poměr počtu“ nahrazují slovy „přípojných okruhů je počet“ a slova „k průměrnému počtu účastnických přípojných vedení“ se nahrazují slovy „vztažený k 100 přípojných okruhů“.\n7. V § 3 odst. 4 se slova „Doba odstranění poruchy“ nahrazují slovy „Doba, za kterou je porucha odstraněna,“.\n8. V § 3 odst. 7 se za slova „vyúčtování ceny za“ vkládají slova „veřejně dostupné“.\n9. Příloha k vyhlášce č. 162/2005 Sb. včetně poznámky pod čarou č. 2 zní:\n„Příloha k vyhlášce č. 162/2005 Sb.\nStanovené mezní hodnoty parametrů kvality univerzální služby ve veřejné komunikační síti\n1234\nParametr podleParametrJednotkaStanovená mezní hodnota\n§ 3 odst. 1 písm. a)Doba, za kterou je zřízeno připojení v pevném místě k veřejné komunikační sítiPočet dnů, během nichž bylo zprovozněno připojení\n- v 95% případů≤ 10 kalendářních dnů\n- v 99% případů≤ 15 kalendářních dnů\nProcento případů zprovozněných připojení v době dohodnuté s uživatelem100 %\n§ 3 odst. 1 písm. b)Četnost poruch přípojných okruhůČetnost poruch vztažená k 100 přípojných okruhů za rok≤ 10 /rok\n§ 3 odst. 1 písm. c)Doba, za kterou je porucha odstraněnaDoba odstranění\n- 80 % poruch≤ 6 hodin\n- 95 % poruch≤ 12 hodin\nna přípojném okruhu\nProcento případů odstranění poruchy na přípojném okruhu v době dohodnuté s účastníkem100 %\nDoba odstranění\n- 80 % poruch≤ 6 hodin\n- 95 % poruch≤ 12 hodin\nvšech ostatních, s výjimkou poruch na přípojném okruhu\nProcento případů odstranění poruchy, s výjimkou poruchy na přípojném okruhu, v době dohodnuté s účastníkem100 %\n§ 3 odst. 1 písm. d)Doba, za kterou je sestaveno spojeníPrůměrná doba, za kterou bylo sestaveno spojení\n- u národních volání≤ 6s\n- u mezinárodních volání2)≤ 10s\nDoba, za kterou bylo sestaveno 95% spojení\n- u národních volání≤ 12s\n- u mezinárodních volání2)≤ 18s\n§ 3 odst. 1 písm. e)Míra neúspěšnosti sestavení spojeníPoměr vyjádřený v procentech\na) u národních volání≤ 2,5 %\nb) u mezinárodních volání2)≤ 4%\n§ 3 odst. 1 písm. f)Četnost reklamací na vyúčtování cenyPoměr vyjádřený v procentech≤ 0,5 %\n§ 3 odst. 1 písm. g)Doba přihlášení obsluhy pracoviště informačních služeb o telefonních číslechPrůměrná doba přihlášení obsluhy pracoviště≤ 8s\nPoměr počtu přihlášení obsluhy pracoviště v době do 20 s k celkovému počtu volání vyjádřený v procentech≥ 98 %\n§ 3 odst. 1 písm. h)Míra pohotovosti veřejných telefonních automatůPoměr vyjádřený v procentech≥ 91,5 %\n2) Uvedené hodnoty u mezinárodních volání jsou doporučené.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2012."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky",
+      "definition": "účastnickým přípojným okruhem (dále jen „přípojný okruh“) komunikační cesta spojující koncový bod sítě s přípojným bodem telefonní ústředny, popřípadě dálkového koncentrátoru, sestávající z účastnického přípojného vedení včetně k němu příslušejícího technického zařízení nezbytného pro uskutečňování volání; přípojným bodem se rozumí hlavní rozvaděč",
+      "source_provision": "„§ 2"
+    }
+  ]
+}

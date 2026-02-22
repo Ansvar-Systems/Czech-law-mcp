@@ -1,0 +1,33 @@
+{
+  "id": "cz:101/1951",
+  "type": "statute",
+  "title": "101/1951 Sb., Vyhláška o stažení některých drobných mincí",
+  "title_en": "",
+  "short_name": "101/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-12-26",
+  "in_force_date": "1951-12-26",
+  "url": "https://www.e-sbirka.cz/sb/1951/101",
+  "description": "Vyhláška o stažení některých drobných mincí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Mince po 1 Kčs ze zinku a po 10 h ze zinku vydané do roku 1945, jakož i mědizinkové mince po 10 h vydané do roku 1945 na Slovensku, přestanou být zákonným platidlem dnem 31. prosince 1951."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Od 1. ledna 1952 do 31. ledna 1952 budou Státní banka československá a poštovní úřady vyměňovat mince uvedené v § 1 u svých pokladen. Po 31. lednu 1952 jest jakákoliv výměna těchto mincí vyloučena."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

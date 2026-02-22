@@ -1,0 +1,39 @@
+{
+  "id": "cz:24/1983",
+  "type": "statute",
+  "title": "24/1983 Sb., Vyhláška Státní arbitráže Československé socialistické republiky o základních podmínkách dodávky sběrných surovin",
+  "title_en": "",
+  "short_name": "24/1983 Sb.",
+  "status": "in_force",
+  "issued_date": "1983-03-11",
+  "in_force_date": "1990-05-01",
+  "url": "https://www.e-sbirka.cz/sb/1983/24",
+  "description": "Vyhláška Státní arbitráže Československé socialistické republiky o základních podmínkách dodávky sběrných surovin",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět a rozsah úpravy",
+      "content": "(1) Tato vyhláška upravuje hospodářské závazky vznikající při přípravě dodávek a při dodávkách sběrných surovin včetně neprůmyslového kovového odpadu a polotovarů z nich upravených (dále jen „sběrné suroviny“)1) dodávaných organizacemi Sběrné suroviny.\n(2) Vyhláška se nevztahuje na dodávky pro vývoz a z dovozu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Záruční doba",
+      "content": "(k § 135 a § 198 odst. 1 zákona)\nZáruční doba činí u dodávek\na) papíru sběrového,\nb) textilu sběrového,\nc) lehkých kožek,\nd) peří sběrového\njeden měsíc od splnění dodávky."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Práva z odpovědnosti za vady",
+      "content": "(k § 201 odst. 1 zákona)\nOdběratel, kterému bylo plněno vadně, má právo\na) požadovat přiměřenou slevu, jde-li o plnění, které si ponechá nebo\nb) požadovat v rozsahu vadného plnění buď nové bezvadné plnění nebo – není-li to možné – požadovat zrušení smlouvy."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1983.\n1) § 1 vyhlášky ministerstva vnitra České socialistické republiky č. 118/1971 Sb., o hospodaření se sběrnými surovinami, ve znění vyhlášek ministerstva vnitra České socialistické republiky č. 109/1974 Sb. a č. 137/1978 Sb.\n§ 1 vyhlášky ministerstva vnitra Slovenské socialistické republiky č. 12/1972 Sb., o hospodaření se sběrnými surovinami, ve znění vyhlášek ministerstva vnitra Slovenské socialistické republiky č. 110/1974 Sb. a č. 138/1978 Sb.\n§ 1 vyhlášky ministerstva hutního průmyslu a rudných dolů č. 106/1960 Sb., o hospodaření s kovovým odpadem."
+    }
+  ],
+  "definitions": []
+}

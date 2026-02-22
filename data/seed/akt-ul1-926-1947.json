@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:926/1947",
+  "type": "statute",
+  "title": "926/1947 Ú. l. I, Vyhláška ministra průmyslu o zřízení „Dynamocarbonu“, národního podniku.",
+  "title_en": "",
+  "short_name": "926/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-09-02",
+  "in_force_date": "1947-09-02",
+  "url": "https://www.e-sbirka.cz/ul1/1947/926",
+  "description": "Vyhláška ministra průmyslu o zřízení „Dynamocarbonu“, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Dynamocarbon, továrna na uhlíkové kartáče, Rudolf Glaser, se sídlem v Trnovanech, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Ringsdorff-Werke K. G., se sídlem v Mehlem, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

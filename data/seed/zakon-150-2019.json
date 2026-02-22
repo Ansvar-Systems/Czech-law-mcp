@@ -1,0 +1,45 @@
+{
+  "id": "cz:150/2019",
+  "type": "statute",
+  "title": "150/2019 Sb., Vyhláška o hlášení bezpečnostních a provozních rizik v oblasti platebního styku",
+  "title_en": "",
+  "short_name": "150/2019 Sb.",
+  "status": "in_force",
+  "issued_date": "2019-06-27",
+  "in_force_date": "2019-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2019/150",
+  "description": "Vyhláška o hlášení bezpečnostních a provozních rizik v oblasti platebního styku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví rozsah, formu, lhůty a způsob poskytování informací osobami oprávněnými poskytovat platební služby o bezpečnostních a provozních rizicích, kterým jsou v souvislosti s poskytováním platebních služeb vystaveny."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Hlášení bezpečnostních a provozních rizik",
+      "content": "Osoba oprávněná poskytovat platební služby informuje Českou národní banku o bezpečnostních a provozních rizicích, kterým je v souvislosti s poskytováním platebních služeb vystavena. Informace obsahují\na) aktualizovaný a komplexní seznam rizik funkcí, procesů a aktiv, které jsou spojeny s poskytovanými platebními službami a které byly v souvislosti s posouzením rizik identifikovány a klasifikovány,\nb) popis bezpečnostních opatření ke zmírnění bezpečnostních a provozních rizik zjištěných v rámci výše uvedeného hodnocení podle písmene a),\nc) popis kontrolních mechanismů zavedených v reakci na výše uvedené hodnocení bezpečnostních a provozních rizik podle písmene a),\nd) zhodnocení, zda opatření přijatá ke zmírnění bezpečnostních a provozních rizik a kontrolní mechanismy zavedené v reakci na tato rizika jsou dostatečně účinná."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Forma, lhůty a způsob poskytování informací",
+      "content": "(1) Osoba oprávněná poskytovat platební služby informuje Českou národní banku o bezpečnostních a provozních rizicích prostřednictvím internetového rozhraní České národní banky pro sběr informačních povinností ve formátu xls nebo xlsx, a to prostřednictvím formuláře, jehož vzor je uveden v příloze k této vyhlášce.\n(2) Osoba oprávněná poskytovat platební služby informuje Českou národní banku podle odstavce 1 o bezpečnostních a provozních rizicích vždy do 30. dubna za předchozí kalendářní rok."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Přechodné ustanovení",
+      "content": "Informace o bezpečnostních a provozních rizicích v rozsahu podle § 2 za kalendářní rok 2018 poskytne osoba oprávněná poskytovat platební služby do 30. září 2019."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2019.\nPříloha k vyhlášce č. 150/2019 Sb.\nHlášení bezpečnostních a provozních rizik souvisejících s poskytováním platebních služeb"
+    }
+  ],
+  "definitions": []
+}

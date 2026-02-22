@@ -1,0 +1,45 @@
+{
+  "id": "cz:77/1984",
+  "type": "statute",
+  "title": "77/1984 Sb., Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči",
+  "title_en": "",
+  "short_name": "77/1984 Sb.",
+  "status": "in_force",
+  "issued_date": "1984-08-03",
+  "in_force_date": "1984-09-01",
+  "url": "https://www.e-sbirka.cz/sb/1984/77",
+  "description": "Vyhláška ministerstva práce a sociálních věcí České socialistické republiky o změně vyhlášky ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 52/1973 Sb., kterou se provádějí některá ustanovení zákona o pěstounské péči, se mění a doplňuje takto:\n1. § 4 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 4",
+      "section": "4",
+      "title": "„§ 4 Povinná školní docházka",
+      "content": "K § 5 odst. 1 zákona\nZa povinnou školní docházku se považuje též období školních prázdnin navazujících na ukončení období školního vyučování školního roku, v němž dítě dokončí plnění povinné školní docházky, pokud v této době nevstoupilo do trvalého zaměstnání, popřípadě nezačalo vykonávat jinou trvalou pracovní činnost.“.\n2. § 5 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 5",
+      "section": "5",
+      "title": "„§ 5 Soustavná příprava dítěte na budoucí povolání",
+      "content": "K § 5 odst. 2 písm. a) zákona\nSoustavná příprava dítěte na budoucí povolání se pro účely zákona posuzuje podle předpisů o nemocenském pojištění pracovníků v pracovním poměru.“.1)"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 1984.\n1) § 1 vyhlášky Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky č. 78/1984 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "povinnou školní docházku",
+      "definition": "též období školních prázdnin navazujících na ukončení období školního vyučování školního roku, v němž dítě dokončí plnění povinné školní docházky, pokud v této době nevstoupilo do trvalého zaměstnání, popřípadě nezačalo vykonávat jinou trvalou pracovní činnost",
+      "source_provision": "„§ 4"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:52/2007",
+  "type": "statute",
+  "title": "52/2007 Sb., Vyhláška o postupech atestačních středisek při posuzování způsobilosti k realizaci vazeb informačních systémů veřejné správy prostřednictvím referenčního rozhraní",
+  "title_en": "",
+  "short_name": "52/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-03-22",
+  "in_force_date": "2007-03-22",
+  "url": "https://www.e-sbirka.cz/sb/2007/52",
+  "description": "Vyhláška o postupech atestačních středisek při posuzování způsobilosti k realizaci vazeb informačních systémů veřejné správy prostřednictvím referenčního rozhraní",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví postupy atestačních středisek při posuzování způsobilosti k realizaci vazeb informačních systémů veřejné správy (dále jen „realizace vazeb“) prostřednictvím referenčního rozhraní."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob posuzování způsobilosti",
+      "content": "(1) Posuzování způsobilosti k realizaci vazeb prostřednictvím referenčního rozhraní sestává ze dvou částí\na) zkoušky,\nb) stanovení výsledku zkoušky.\n(2) Atestační středisko zahájí posuzování způsobilosti k realizaci vazeb prostřednictvím referenčního rozhraní posouzením, zda žadatel o atestaci (dále jen „žadatel“) předal údaje o dostupnosti informačního systému veřejné správy podle zvláštního právního předpisu1) do informačního systému o informačních systémech veřejné správy2)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zkouška",
+      "content": "(1) Atestační středisko posuzuje v průběhu zkoušky tato hlediska\na) soulad realizace vazby s technickou dokumentací služby3),\nb) soulad datových prvků použitých při realizaci vazby s datovými prvky vyhlášenými prostřednictvím informačního systému o datových prvcích4).\n(2) Při provádění zkoušky podle odstavce 1 písm. a) atestační středisko\na) ověřuje, zda je vazba informačního systému veřejné správy, který je předmětem atestace, v souladu s technickou dokumentací služby3) pro všechny postupy uvedené v technické dokumentaci služby, kterými lze požádat o službu nebo informaci, nebo pro část těchto postupů, a\nb) posuzuje soulad\n1. odpovědi informačního systému veřejné správy na žádost o službu nebo informaci, včetně chybových hlášení, pokud při realizaci vazby dojde k jejich výskytu, s dokumentací služby5),\n2. realizace vazby s dokumentací služby5),\n3. způsobu zajištění bezpečnosti poskytované služby a rozsahu přístupových oprávnění a jejich případných omezení pro jednotlivé oprávněné uživatele služby s bezpečnostní politikou služby6).\n(3) Atestační středisko při posuzování způsobilosti k realizaci vazeb prostřednictvím referenčního rozhraní musí využívat údaje z informačního systému o informačních systémech veřejné správy2) a informačního systému o datových prvcích4)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zaznamenávání údajů v průběhu zkoušky",
+      "content": "(1) Atestační středisko zaznamenává údaje o zjištěních, ke kterým dospělo v průběhu zkoušky, do protokolu o provedené zkoušce podle § 6d odst. 4 zákona (dále jen „protokol“), a to ke každému posuzovanému hledisku podle § 3 odst. 1 zvlášť.\n(2) Atestační středisko do protokolu uvádí\na) vyjádření „splněno“ nebo „nesplněno“, přičemž vyjádření „nesplněno“ uvede, pokud\n1. realizace vazby není v souladu s technickou dokumentací služby, nebo\n2. nejsou při uskutečnění vazby použity vyhlášené datové prvky,\nb) obchodní firmu nebo název, sídlo a doručovací adresu žadatele,\nc) výčet všech dokumentů, které byly k posouzení předloženy, včetně označení jejich verze, počtu stran a data jejich schválení žadatelem,\nd) název a sídlo atestačního střediska, které provedlo zkoušku,\ne) jméno nebo jména a příjmení fyzické osoby, která jménem atestačního střediska zkoušku provedla, nebo zaměstnance atestačního střediska, který řídil provedení atestační zkoušky,\nf) datum zahájení zkoušky a datum jejího ukončení,\ng) popis průběhu zkoušky; pokud byla vazba ověřována pouze pro část postupů uvedených v technické dokumentaci služby, kterými lze požádat o službu nebo informaci, výčet těchto postupů,\nh) zjištění podle odstavce 1,\ni) výsledek provedené zkoušky a jeho odůvodnění podle § 5,\nj) jméno nebo jména a příjmení zaměstnance atestačního střediska, který je oprávněn ke schválení protokolu o provedené zkoušce, jeho podpis a datum schválení protokolu,\nk) datum provedení další zkoušky.\n(3) Atestační středisko uchovává protokol a dokumentaci podle § 3 odst. 2 po dobu nejméně 10 let od data vydání atestu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Postup při stanovení výsledku zkoušky",
+      "content": "(1) Na základě zjištění učiněných při posouzení v průběhu zkoušky atestační středisko stanoví celkový výsledek zkoušky.\n(2) Výsledek zkoušky „splňuje“ stanoví atestační středisko v případě, že v průběhu posuzování podle § 3 odst. 1 uvedlo do protokolu výrok „splněno“ ke všem posuzovaným hlediskům nebo žadatel zjištěné nedostatky v průběhu posuzování odstranil.\n(3) Výsledek zkoušky „nesplňuje“ stanoví atestační středisko v případě, že v průběhu posuzování podle § 3 odst. 1 uvedlo do protokolu výrok „nesplněno“ alespoň k jednomu posuzovanému hledisku nebo nedošlo ve smyslu § 2 odst. 2 k předání údajů podle zvláštního právního předpisu1).\n(4) V odůvodnění výsledku zkoušky atestační středisko uvede\na) k výsledku zkoušky „splňuje“ konstatování, že v průběhu posuzování neshledalo žádné nedostatky nebo žadatel zjištěné nedostatky odstranil, a popis odstraněných nedostatků,\nb) k výsledku zkoušky „nesplňuje“ popis zjištěných nedostatků."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\n1) Vyhláška č. 528/2006 Sb., o formě a technických náležitostech předávání údajů do informačního systému, který obsahuje základní informace o dostupnosti a obsahu zpřístupněných informačních systémů veřejné správy (vyhláška o informačním systému o informačních systémech veřejné správy).\n2) § 4 odst. 1 písm. h) zákona č. 365/2000 Sb., ve znění zákona č. 81/2006 Sb.\n3) § 2 odst. 3 vyhlášky č. 53/2007 Sb., o technických a funkčních náležitostech uskutečňování vazeb mezi informačními systémy veřejné správy prostřednictvím referenčního rozhraní (vyhláška o referenčním rozhraní).\n4) § 4 odst. 1 písm. i) zákona č. 365/2000 Sb., ve znění zákona č. 81/2006 Sb.\n5) § 2 odst. 3 písm. b) vyhlášky č. 53/2007 Sb.\n6) § 2 odst. 3 písm. c) vyhlášky č. 53/2007 Sb."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:27/1963",
+  "type": "statute",
+  "title": "27/1963 Sb., Vládní nařízení o doplnění soustavy zákonných peněz mincemi po 50 haléřích",
+  "title_en": "",
+  "short_name": "27/1963 Sb.",
+  "status": "in_force",
+  "issued_date": "1963-03-30",
+  "in_force_date": "1963-03-30",
+  "url": "https://www.e-sbirka.cz/sb/1963/27",
+  "description": "Vládní nařízení o doplnění soustavy zákonných peněz mincemi po 50 haléřích",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Soustava zákonných peněz se doplňuje mincemi po 50 haléřích."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

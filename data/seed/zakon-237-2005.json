@@ -1,0 +1,39 @@
+{
+  "id": "cz:237/2005",
+  "type": "statute",
+  "title": "237/2005 Sb., Vyhláška, kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů",
+  "title_en": "",
+  "short_name": "237/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-06-17",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/237",
+  "description": "Vyhláška, kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Touto vyhláškou se stanoví výše technicky zdůvodněných ztrát vzniklých při dopravě a skladování minerálních olejů a způsob jejich výpočtu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Výpočet výše technicky zdůvodněných ztrát",
+      "content": "(1) Výše technicky zdůvodněných ztrát vzniklých při dopravě minerálních olejů je dána součinem množství minerálních olejů dopravovaných v režimu podmíněného osvobození od daně1) nebo množství dopravovaných minerálních olejů osvobozených od daně2) a stanoveného koeficientu ztrát při dopravě.\n(2) Výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů se vypočte podle vzorce uvedeného v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Koeficienty ztrát",
+      "content": "(1) Koeficient ztrát při dopravě činí\na) 0,0026 pro minerální oleje uvedené v § 45 odst. 1 písm. a) zákona,\nb) 0,0020 pro minerální oleje uvedené v § 45 odst. 1 písm. b), c), d), e), f) a g) zákona,\nc) 0,0026 pro minerální oleje uvedené v § 45 odst. 2 písm. b), d), e), g), h), i), l) a m) zákona,\nd) 0,0020 pro minerální oleje uvedené v § 45 odst. 2 písm. c), f), j) a k) zákona,\ne) 0,0020 pro minerální oleje uvedené v § 45 odst. 3 písm. a), b), f), g), i) a k) zákona.\n(2) Koeficient ztrát při skladování činí\na) 0,0030 pro minerální oleje uvedené v § 45 odst. 1 písm. a) zákona,\nb) 0,0020 pro minerální oleje uvedené v § 45 odst. 1 písm. b) zákona,\nc) 0,0008 pro minerální oleje uvedené v § 45 odst. 1 písm. c) a d) zákona,\nd) 0,0060 pro minerální oleje uvedené v § 45 odst. 1 písm. e), f) a g) zákona,\ne) 0,0020 pro minerální oleje uvedené v § 45 odst. 2 písm. c), f), j) a k) zákona,\nf) 0,0030 pro minerální oleje uvedené v § 45 odst. 2 písm. b), d), e), g), h), i), l) a m) zákona,\ng) 0,0020 pro minerální oleje uvedené v § 45 odst. 3 písm. a), b) a k) zákona,\nh) 0,0030 pro minerální oleje uvedené v § 45 odst. 3 písm. f), g) a i) zákona."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2005.\nPříloha k vyhlášce č. 237/2005 Sb.\nVýpočet výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů\nVýše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů se vypočte podle následujícího vzorce:\nA=P+V2+Z1+ZZ2*k,\nkde\nA je výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů,\nP je množství minerálních olejů přijatých do daňového skladu nebo do skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, za zdaňovací období,\nV je množství minerálních olejů vyskladněných z daňového skladu nebo ze skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, za zdaňovací období,\nZ1 je evidované množství minerálních olejů skladovaných v daňovém skladu nebo ve skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, k prvnímu dni zdaňovacího období,\nZ2 je evidované množství minerálních olejů skladovaných v daňovém skladu nebo ve skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, k poslednímu dni zdaňovacího období,\nk je koeficient ztrát při skladování podle § 3 odst. 2.\n1) § 24 a 25 zákona č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 217/2005 Sb.\n2) § 50 zákona č. 353/2003 Sb., ve znění zákona č. 217/2005 Sb."
+    }
+  ],
+  "definitions": []
+}

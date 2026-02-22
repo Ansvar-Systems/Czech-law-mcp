@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1259/1946",
+  "type": "statute",
+  "title": "1259/1946 Ú. l. I, Vyhláška ministra průmyslu zřizující národní podnik průmyslu kovodělného a strojírenského.",
+  "title_en": "",
+  "short_name": "1259/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-16",
+  "in_force_date": "1947-07-26",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1259",
+  "description": "Vyhláška ministra průmyslu zřizující národní podnik průmyslu kovodělného a strojírenského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku První brněnská strojírenská společnost, se sídlem v Brně, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Bruna, společnost s r. o. pro stavbu strojů, Brno, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. majetkovou podstatu podniku Brno-Královopolská továrna na stroje a vagony, se sídlem v Brně, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. majetkovou podstatu podniku Gefia a. s., Praha, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

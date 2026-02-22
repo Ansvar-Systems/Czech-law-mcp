@@ -1,0 +1,33 @@
+{
+  "id": "cz:131/1980",
+  "type": "statute",
+  "title": "131/1980 Sb., Redakční sdělení o opravě tiskových chyb ve vyhlášce ministerstva školství Slovenské socialistické republiky č. 104/1980 Sb.,o přijímání ke studiu na vysokých školách a ve vyhlášce ministerstva školství Slovenské socialistické republiky č. 105/1980 Sb.,o studiu na vysokých školách (studijní předpisy), slovenského vydání",
+  "title_en": "",
+  "short_name": "131/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-09-26",
+  "in_force_date": "1980-09-26",
+  "url": "https://www.e-sbirka.cz/sb/1980/131",
+  "description": "Redakční sdělení o opravě tiskových chyb ve vyhlášce ministerstva školství Slovenské socialistické republiky č. 104/1980 Sb.,o přijímání ke studiu na vysokých školách a ve vyhlášce ministerstva školství Slovenské socialistické republiky č. 105/1980 Sb.,o studiu na vysokých školách (studijní předpisy), slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Na straně 478 ve vyhlášce č. 104/1980 Sb. chybí pod čarou poznámka č. 2), která zní: „§ 120 ods. 1 písm. a) zákona č. 84/1972 Zb. o objavoch, vynálezoch, zlepšovacích návrhoch a priemyselných vzoroch.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Ve vyhlášce č. 105/1980 Sb. v § 35 odst. 8 v předposledním řádku je nesprávné znění: „škola uvedie v diplome aj titul podľa § 44 ods. 3 a“. Správně má znít: „škola uvedie v diplome aj titul podľa § 44 ods. 3 alebo“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V příloze č. 8 vyhlášky č. 105/1980 Sb. je v označení druhu diplomu ve druhém řádku nesprávně uveden odstavec citovaného paragrafu, a to: „(§ 46 ods. 1 zákona)“. Správně má znít: „(§ 46 ods. 1 a 2 zákona)“."
+    }
+  ],
+  "definitions": []
+}

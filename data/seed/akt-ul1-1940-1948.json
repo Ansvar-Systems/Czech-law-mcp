@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1940/1948",
+  "type": "statute",
+  "title": "1940/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Thonetu, závodů na ohýbaný nábytek, národního podniku.",
+  "title_en": "",
+  "short_name": "1940/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-04",
+  "in_force_date": "1948-08-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1940",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Thonetu, závodů na ohýbaný nábytek, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Josef Bartoň, Turnov-Daliměřice čp. 82, se sídlem v Turnově-Daliměřicích,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Válek a Šér, továrna na nábytek v Holešově, se sídlem v Holešově,\nvesměs v rozsahu jejich znárodnění, do Thonetu, závodů na ohýbaný nábytek, národního podniku."
+    }
+  ],
+  "definitions": []
+}

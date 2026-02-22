@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:715/1946",
+  "type": "statute",
+  "title": "715/1946 Ú. l. I, Vyhláška ministra vnitra o stanovení lhůt pro úpravu prvních voličských seznamů.",
+  "title_en": "",
+  "short_name": "715/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-02",
+  "in_force_date": "1946-03-02",
+  "url": "https://www.e-sbirka.cz/ul1/1946/715",
+  "description": "Vyhláška ministra vnitra o stanovení lhůt pro úpravu prvních voličských seznamů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Lhůta pro vyložení k námitkovému řízení.",
+      "content": "První voličské seznamy, sestavené podle zák. č. 28/1946 Sb. se vyloží dne 16. března 1946 (první den vyložení) po dalších 15 dnů t. j. do 31. března 1946 (poslední den vyložení) k veřejnému nahlédnutí (§ 8 zákona) a k podávání námitek (§ 9 zákona)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Lhůta pro rozhodování o námitkách.",
+      "content": "(1) O námitkách rozhoduje místní národní výbor svou reklamační komisí ve lhůtě počínající dnem 1. dubna 1946 a končící dnem 15. dubna 1946 (poslední den lhůty).\n(2) Nejpozději do 8 dnů po uplynutí této lhůty, tedy nejpozději do 23. dubna 1946 (poslední den lhůty) předloží místní národní výbor oba stejnopisy prvních voličských seznamů s námitkami, odvoláními a vyjádřeními nadřízenému národnímu výboru."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Lhůta pro rozhodování o odvoláních.",
+      "content": "(1) Nadřízený národní výbor rozhodne podle § 10, odst. 2 zákona o odvoláních svou odvolací komisí do 8 dnů ode dne, kdy ho došly voličské seznamy. Byly-li mu tedy seznamy doručeny v poslední den lhůty dne 23. dubna 1946, musí býti o odvoláních rozhodnuto v krajním případě nejpozději dne 1. května 1946 (poslední den lhůty).\n(2) V téže lhůtě nutno vrátiti místnímu národnímu výboru stejnopisy voličských seznamů s vyznačenými opravami."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Lhůta pro uzavření voličských seznamů a pořízení jejich opisů.",
+      "content": "Stejnopisy prvních voličských seznamů musí býti podle § 10, odst. 5 zákona uzavřeny a jejich ověřené opisy pořízeny nejpozději dne 6. května 1946 (poslední den lhůty)."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Lhůta pro vyložení upravených voličských seznamů.",
+      "content": "Upravené a uzavřené voličské seznamy se vyloží k veřejnému nahlédnutí podle § 10, odst. 5 zákona dne 7. května 1946 (první den vyložení) po dalších 8 dnů do 15. května 1946 (poslední den vyložení)."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Lhůty v této vyhlášce uvedené neprodlužují se ani tehdy, připadne-li poslední den lhůty na neděli, den sváteční nebo památný."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Nedodrží-li místní národní výbor některou ze lhůt v této vyhlášce stanovených, může nadřízený orgán učiniti příslušná opatření na náklad obce."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Kde se v této vyhlášce mluví o národních výborech, jest tím též rozuměti správní komise."
+    }
+  ],
+  "definitions": []
+}

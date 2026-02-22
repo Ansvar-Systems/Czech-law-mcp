@@ -1,0 +1,51 @@
+{
+  "id": "cz:221/2004",
+  "type": "statute",
+  "title": "221/2004 Sb., Vyhláška, kterou se stanoví seznamy nebezpečných chemických látek a nebezpečných chemických přípravků, jejichž uvádění na trh je zakázáno nebo jejichž uvádění na trh, do oběhu nebo používání je omezeno",
+  "title_en": "",
+  "short_name": "221/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-04-29",
+  "in_force_date": "2008-06-27",
+  "url": "https://www.e-sbirka.cz/sb/2004/221",
+  "description": "Vyhláška, kterou se stanoví seznamy nebezpečných chemických látek a nebezpečných chemických přípravků, jejichž uvádění na trh je zakázáno nebo jejichž uvádění na trh, do oběhu nebo používání je omezeno",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V příloze č. 1 této vyhlášky se stanoví v souladu s právem Evropských společenství1) seznam nebezpečných chemických látek (dále jen „látky“) a nebezpečných chemických přípravků (dále jen „přípravky“), jejichž uvádění na trh je zakázáno."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "V části I přílohy č. 2 této vyhlášky se stanoví v souladu s právem Evropských společenství1) seznam nebezpečných látek a nebezpečných přípravků, jejichž uvádění na trh, do oběhu nebo používání je omezeno. V části II přílohy č. 2 této vyhlášky se stanoví v souladu s právem Evropských společenství1) seznam nebezpečných látek a nebezpečných přípravků podle jejich skupin, jejichž uvádění na trh, do oběhu nebo používání je omezeno."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Nebezpečné látky a přípravky uvedené na trh nebo do oběhu v souladu s požadavky vyhlášky č. 301/1998 Sb., kterou se stanoví seznam chemických látek a chemických přípravků, jejichž výroba, uvádění na trh a používání je omezeno, ve znění vyhlášky č. 390/2000 Sb., mohou zůstat v oběhu do 31. prosince 2004."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se:\n1. Vyhláška č. 301/1998 Sb., kterou se stanoví seznam chemických látek a chemických přípravků, jejichž výroba, uvádění na trh a používání je omezeno.\n2. Vyhláška č. 390/2000 Sb., kterou se mění vyhláška č. 301/1998 Sb., kterou se stanoví seznam chemických látek a chemických přípravků, jejichž výroba, uvádění na trh a používání je omezeno."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.\nPříloha č. 1 k vyhlášce č. 221/2004 Sb.\nSeznam nebezpečných látek a přípravků, jejichž uvádění na trh je zakázáno.\nPořad. číslo Název látky CAS č.\n1. Polychlorované bifenyly (PCB) a přípravky (včetně odpadních olejů), které je obsahují v množství vyšším než 0,005 % hmot. (s výjimkou monochlorovaných a dichlorovaných bifenylů) 1336-36-3\n2. Polychlorované terfenyly (PCT) a přípravky (včetně odpadních olejů), které je obsahují\nv množství vyšším než 0,005 % hmot. 61788-88-8\n3. Azbestová vlákna\na) krocidolit 12001-28-4\nb) amosit 12172-73-5\nc) anthofylit 77536-67-5\nd) aktinolit 77536-66-4\ne) tremolit 77536-68-6\n4. Dichlor(dichlor-2-methylbenzyl)benzen (směs isomerů) (obchodní název: Ugilec 141) 76523-60-6\n5.Chlor(chlorbenzyl)methylbenzen (směs isomerů) (obchodní název: Ugilec 121)\n6. Brom(brombenzyl)methylbenzen (směs isomerů) (obchodní název: DBBT) 99688-47-8\nVysvětlivky: CAS - Chemical Abstract Service\nPříloha č. 2 k vyhlášce č. 221/2004 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Předmětem pro péči o děti",
+      "definition": "jakýkoli výrobek určený pro usnadnění usínání, zklidnění, hygienu, krmení dětí nebo k cucání dětmi",
+      "source_provision": "§ 5"
+    }
+  ]
+}

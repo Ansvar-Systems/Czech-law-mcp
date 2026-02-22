@@ -1,0 +1,33 @@
+{
+  "id": "cz:100/1920",
+  "type": "statute",
+  "title": "100/1920 Sb., Nařízení vlády o zvýšení tax zkoušky pro uchazeče o oprávnění ku koncesovaným živnostem stavebním.",
+  "title_en": "",
+  "short_name": "100/1920 Sb.",
+  "status": "in_force",
+  "issued_date": "1920-02-25",
+  "in_force_date": "1920-02-25",
+  "url": "https://www.e-sbirka.cz/sb/1920/100",
+  "description": "Nařízení vlády o zvýšení tax zkoušky pro uchazeče o oprávnění ku koncesovaným živnostem stavebním.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Zkušební taxy, které dle § 14 ministerského nařízení ze dne 27. prosince 1893, č. 195 ř. z., povinni jsou zaplatiti uchazeči o oprávnění stavitele, mistra zednického, tesařského, kamenického a studnařského, zvyšují se o 100% dosavadního svého obnosu, stanoveného ministerským nařízením ze dne 11. dubna 1894, č. 72 ř. z."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V témž poměru zvyšují se také částky připadající ze zkušebních tax na členy zkušebních komisí a úředního sluhu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nařízení toto, jež nabývá účinnosti dnem vyhlášení, nevztahuje se na zkoušky již započaté. Výkonem nařízení pověřuje se ministr průmyslu, obchodu a živností."
+    }
+  ],
+  "definitions": []
+}

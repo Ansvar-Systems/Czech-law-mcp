@@ -1,0 +1,95 @@
+{
+  "id": "cz:387/2001",
+  "type": "statute",
+  "title": "387/2001 Sb., Vyhláška Ministerstva financí o pravidlech likvidity a platební schopnosti spořitelních a úvěrních družstev",
+  "title_en": "",
+  "short_name": "387/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-11-09",
+  "in_force_date": "2001-11-09",
+  "url": "https://www.e-sbirka.cz/sb/2001/387",
+  "description": "Vyhláška Ministerstva financí o pravidlech likvidity a platební schopnosti spořitelních a úvěrních družstev",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška stanoví pravidla pro systém řízení peněžních toků spořitelních a úvěrních družstev (dále jen „družstevní záložna“) tak, aby byly schopné průběžně plnit své závazky řádně a včas."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Řízením krátkodobé likvidity se rozumí řízení likvidity do jednoho roku.\n(2) Řízením střednědobé a dlouhodobé likvidity se rozumí řízení likvidity v období delším než jeden rok.\n(3) Likvidním rizikem se rozumí stav, kdy družstevní záložna má větší objem splatných závazků než objem splatných pohledávek v určitém čase, a tento stav může zapříčinit neschopnost družstevní záložny plnit své závazky řádně a včas.\n(4) Klasifikovaným aktivem se rozumí taková pohledávka družstevní záložny, u které se prokázala neschopnost dlužníka uhradit svůj závazek vůči družstevní záložně v řádném termínu a výši nebo se tato neschopnost dá vážně předpokládat."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Za účelem trvalého dodržování schopnosti družstevní záložny plnit své závazky řádně a včas (dále jen „platební schopnost“) provádí družstevní záložna zejména řízení likvidity."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Základní způsob řízení likvidity družstevní záložny je založen na plánování příjmů a výdajů peněžních prostředků v budoucnosti."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Za časová pásma pro výpočet ukazatele vyváženosti aktiv a pasiv se rozumí období\na) do 3 měsíců,\nb) od 3 měsíců do 1 roku,\nc) 1 až 2 roky,\nd) 2 až 5 let,\ne) 5 let a více.\n(2) Za splatná aktiva v jednotlivých časových pásmech se považují:\na) peníze,\nb) úvěry členům,\nc) úvěry obcím,\nd) vklady u bank,\ne) vklady u jiných družstevních záložen,\nf) úvěry poskytnuté jiným družstevním záložnám,\ng) půjčky Zajišťovacímu fondu družstevních záložen (dále jen „Fond“),\nh) jiné pohledávky vůči třetím osobám,\ni) cenné papíry,\nj) majetkové účasti,\nk) jiná stálá aktiva,\nl) ostatní aktiva.\n(3) Za splatná pasiva v jednotlivých časových pásmech se považují:\na) vklady členů,\nb) úvěry od bank,\nc) vklady jiných družstevních záložen,\nd) úvěry od jiných družstevních záložen,\ne) jiné vklady,\nf) jiné závazky vůči třetím osobám,\ng) základní kapitál,\nh) ostatní pasiva.\n(4) Jednotlivá aktiva a pasiva se do časových pásem přiřazují zejména podle\na) data splatnosti aktiv a pasiv s pevnou lhůtou splatnosti,\nb) předpokládaného vývoje pasiv s pevnou lhůtou splatnosti s přihlédnutím k pravděpodobnosti, v jakém rozsahu obnoví věřitelé své vklady v době splatnosti,\nc) zvyklosti vkladatelů netermínovaných vkladů,\nd) stupně likvidity aktiv podle jejich prodejnosti,\ne) velikosti vkladů jednotlivých vkladatelů.\n(5) Klasifikovaná aktiva družstevní záložna pro účely řízení likvidity eviduje samostatně, přičemž tato aktiva nejsou zahrnuta do aktiv přiřazovaných do časových pásem.\n(6) Za rychle likvidní aktiva se pro účely řízení likvidity považují:\na) peníze,\nb) státní dluhopisy a dluhopisy, za které stát převzal záruku,\nc) dluhopisy emitované Českou národní bankou,\nd) dluhopisy vydané centrálními bankami členských zemí Organizace pro hospodářskou spolupráci a rozvoj se státní zárukou,\ne) vklady u bank,\nf) jiné dluhopisy nabyté se souhlasem Úřadu pro dohled nad družstevními záložnami (dále jen „Úřad“), u kterých lze důvodně předpokládat možnost odprodeje na kapitálovém trhu bez realizace ztráty.\n(7) Z rychle likvidních aktiv družstevní záložna vyloučí jakákoli aktiva, která jsou zatížena právy třetích osob."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Ukazatel kumulované vyváženosti aktiv a pasiv daného časového pásma se stanoví jako podíl součtu splatných aktiv a součtu splatných pasiv daného a všech předcházejících časových pásem, přičemž se uvádí v procentuálním vyjádření."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Družstevní záložna je povinna dosáhnout nejpozději do 31. 12. 2001 a po tomto datu nadále dosahovat hodnotu ukazatele kumulované vyváženosti aktiv a pasiv v každém z časových pásem uvedených v § 5 odst. 1 písm. a) až c) nejméně 45 %.\n(2) Družstevní záložna je povinna dosáhnout nejpozději do 30. 6. 2002 a po tomto datu nadále dosahovat hodnotu ukazatele kumulované vyváženosti aktiv a pasiv v každém z časových pásem uvedených v § 5 odst. 1 písm. a) až c) nejméně 70 %.\n(3) Družstevní záložna, která dosáhla požadovaných hodnot ukazatelů vyváženosti aktiv a pasiv před termínem uvedeným v odstavci 1 nebo 2, není oprávněna učinit žádný úkon směřující ke snížení hodnoty vyváženosti aktiv a pasiv pod tuto hodnotu.\n(4) Družstevní záložna je povinna dosáhnout nejpozději k 31. 12. 2001 a po tomto datu nadále dosahovat hodnotu rychle likvidních aktiv ve výši nejméně 15 % z objemu všech vkladů vedených družstevní záložnou.\n(5) V případě, kdy udržování rozsahu rychle likvidních aktiv podle odstavce 4 by vedlo k hodnotě ukazatele kumulované vyváženosti aktiv a pasiv v časových pásmech podle § 5 odst. 1 písm. a) a b) přesahující 102 %, je družstevní záložna oprávněna udržovat pouze takovou výši rychle likvidních aktiv, která zabezpečuje nepoklesnutí hodnoty uvedených ukazatelů pod úroveň 102 %."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Každá družstevní záložna vytvoří organizační opatření vedoucí k efektivnímu řízení likvidity. V rámci tohoto je družstevní záložna povinna do 3 měsíců od nabytí účinnosti této vyhlášky vypracovat vlastní vnitřní předpis obsahující nejméně plán řízení likvidity za\na) stavu normálních podmínek činnosti družstevní záložny v členění na\n1. řízení krátkodobé likvidity,\n2. řízení střednědobé a dlouhodobé likvidity;\nb) stavu likvidního rizika družstevní záložny."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Řízením krátkodobé likvidity",
+      "definition": "řízení likvidity do jednoho roku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Řízením střednědobé a dlouhodobé likvidity",
+      "definition": "řízení likvidity v období delším než jeden rok",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Likvidním rizikem",
+      "definition": "stav, kdy družstevní záložna má větší objem splatných závazků než objem splatných pohledávek v určitém čase, a tento stav může zapříčinit neschopnost družstevní záložny plnit své závazky řádně a včas",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Klasifikovaným aktivem",
+      "definition": "taková pohledávka družstevní záložny, u které se prokázala neschopnost dlužníka uhradit svůj závazek vůči družstevní záložně v řádném termínu a výši nebo se tato neschopnost dá vážně předpokládat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Za časová pásma pro výpočet ukazatele vyváženosti aktiv a pasiv",
+      "definition": "období",
+      "source_provision": "§ 5"
+    }
+  ]
+}

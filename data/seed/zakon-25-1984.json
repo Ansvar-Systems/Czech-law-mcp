@@ -1,0 +1,129 @@
+{
+  "id": "cz:25/1984",
+  "type": "statute",
+  "title": "25/1984 Sb., Vyhláška Slovenského úradu bezpečnosti práce na zaistenie bezpečnosti práce v nízkotlakových kotolniach",
+  "title_en": "",
+  "short_name": "25/1984 Sb.",
+  "status": "in_force",
+  "issued_date": "1984-03-16",
+  "in_force_date": "1984-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1984/25",
+  "description": "Vyhláška Slovenského úradu bezpečnosti práce na zaistenie bezpečnosti práce v nízkotlakových kotolniach",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "content": "Vyhláška ustanovuje povinnosti organizáciám a ich pracovníkom pri projektovaní, zriaďovaní, umiestňovaní a prevádzke nízkotlakových kotolní (ďalej len „kotolne“), v ktorých je súčet menovitých tepelných výkonov nízkotlakových kotlov (ďalej len „kotly“) väčší ako 50 KW."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základné pojmy",
+      "content": "Na účely tejto vyhlášky sa považuje za\na) kotolňu priestor, v ktorom sú umiestnené kotly\n1. teplovodné s najvyššou pracovnou teplotou vody do 115 °C vrátane,\n2. parné s konštrukčným pretlakom kotlov do 0,07 MPa vrátane,\n3. kvapalinové, ktorých pracovná teplota kvapaliny neprevyšuje bod varu pri pretlaku 0,07 MPa.\nPritom nie je rozhodujúce, či v jednej kotolni sú kotly rovnakého typu;\nb) parný kotol zariadenie, v ktorom sa vyrába para s menovitým pretlakom najviac 0,07 MPa spaľovaním pevných, kvapalných alebo plynných palív, prípadne využívajúce elektrickú energiu;\nc) teplovodný kotol zariadenie, v ktorom sa ohrieva voda na najvyššiu výstupnú teplotu 115 °C spaľovaním pevných, kvapalných alebo plynných palív, prípadne využívajúce elektrickú energiu;\nd) kvapalinový kotol zariadenie, ktoré má trvalú kvapalinovú náplň vzduchotesne uzavretú v kotlovom telese;\ne) kotlové zariadenie technické zariadenie na výrobu pary alebo teplej vody, pozostávajúce z kotla alebo niekoľkých kotlov a zariadenia potrebného pre prevádzku kotla alebo s prevádzkou súvisiace;\nf) výhrevnú (teplonosnú) plochu stien častí kotla, ktorými sa odovzdáva teplo pracovnej látke;\ng) menovitý tepelný výkon kotla množstvo tepla za jednotku času, ktoré musí kotol trvalo odovzdávať teplonosnej látke pri predpísaných podmienkach v ustálenom stave, pri použití paliva predpísaného výrobcom;\nh) ťah kotla rozdiel medzi statickým tlakom v mieste vstupu spaľovacieho vzduchu do kotla a statickým tlakom v mieste odvodu spalín z kotla;\nch) konštrukčný pretlak najvyššia prípustná hodnota pretlaku v kotle, ktorá je základom pre pevnostný výpočet kotla;\ni) občasnú obsluhu kotla pravidelná kontrola kotla kuričom v lehotách určených v návode na obsluhu a prevádzku kotlov a v prevádzkovom poriadku kotolne;\nj) trvalú obsluhu kotla obsluha, pri ktorej sa môže kurič len krátkodobo vzdialiť od kotla, pokiaľ zostane v dosluchu signalizačného zariadenia, ktoré dáva impulz pri poklese pracovného pretlaku pod minimálnu hodnotu a pri dosiahnutej najvyššej teplote výstupnej vody pri teplovodných kotloch a pri parných kotloch pri poklese hladiny vody pod najnižšiu prípustnú hranicu;\nk) samostatný objekt priestorovo ucelená stavba, ktorá plní vymedzenú účelovú funkciu;\nl) rekonštrukciu kotla zásah do celku kotla už zhotoveného, pri ktorom sa menia parametre kotla oproti pôvodnému stavu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Projektová dokumentácia kotolne",
+      "content": "(1) Projektovú dokumentáciu kotolne so súčtom menovitých tepelných výkonov kotlov väčším ako 1,0 MW je spracovateľ v rámci stavebného konania povinný predložiť príslušnému inšpektorátu bezpečnosti práce (ďalej len „inšpektorát“) na posúdenie.\n(2) Súčasťou projektovej dokumentácie kotolne je:\na) technické riešenie spôsobu vetrania,\nb) výpočet množstva vzduchu potrebného na spaľovanie,\nc) výpočet účinného vetrania priestoru kotolne a priestorov súvisiacich s prevádzkou kotolne."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Dokumentácia kotla",
+      "content": "(1) Dodávateľ je povinný ku každému kotlu dodať\na) návod na jeho montáž, obsluhu, prevádzku a údržbu,\nb) osvedčenie o akosti a úplnosti kotla.\n(2) Dokumentácia kotla s menovitým tepelným výkonom nad 50 KW musí obsahovať tiež:\na) výkresy zostavy kotla a jeho príslušenstva,\nb) základové plány kotla,\nc) schému potrubí a armatúr s udaním menovitých svetlostí a menovitých tlakov,\nd) schému meracích miest s udaním veličín na meranie prevádzkových látok, schému diaľkového ovládania a regulácie, prípadne schému obehu vody,\ne) schému mazania,\nf) akostné ukazovatele napájacej a kotlovej vody,\ng) zoznam dokladov tvoriacich dokumentáciu.\n(3) Pri kotloch na plynné palivá s menovitým tepelným výkonom vyšším ako 50 KW musí dodávateľ plynového zariadenia kotla dodať tiež revíznu knihu plynového spotrebiča.1)\n(4) Pri kotli na kvapalné palivá s menovitým tepelným výkonom vyšším ako 50 KW musí dodávateľ kvapalinového zariadenia kotla dodať tiež dokumentáciu a predpisy zariadenia pre spaľovanie kvapalného paliva (horák, predhrievač, olejové hospodárstvo a pod.)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zriaďovanie kotolní",
+      "content": "(1) Kotolne s parnými alebo teplovodnými kotlami so súčtom menovitých tepelných výkonov kotlov vyšším ako 3,5 MW musia byť zriadené v samostatných objektoch.\n(2) Kotolne so súčtom menovitých tepelných výkonov kotlov do 3,5 MW vrátane možno zriaďovať aj v osobitných miestnostiach, pivniciach, suterénoch, posledných poschodiach alebo na strechách budov, ak to umožňujú podmienky prísunu alebo prívodu paliva, tepelného rozvodu a stavebnej konštrukcie budovy.\n(3) Kotolne so súčtom menovitých tepelných výkonov kotlov väčším ako 3,5 MW a kotolne s kotlami na plynné palivá so súčtom menovitých tepelných výkonov kotlov väčším ako 0,5 MW musia byť vybudované s ľahko vybúrateľnými časťami stien do priestoru, ktorý nezvyšuje tlakovú vlnu. Aspoň jedna stena týchto kotolní musí byť nad úrovňou terénu bezprostredne susediaceho s kotolňami.\n(4) Za ľahko vybúrateľné časti stien sa považujú stavebné prvky (vrátane okien, dverí a pod.), ktorých pevnosť nie je väčšia ako pevnosť tehlového muriva hrúbky 10 cm, vyhotoveného na vápennú maltu. Veľkosť ľahko vybúrateľných plôch v stenách kotolní musí byť aspoň 0,07 m2 na 1 m3 priestoru kotolní.\n(5) Pre montáž a výmenu kotlov alebo ich častí pri nových a rekonštruovaných kotloch musí byť zaistený priestor vo vnútri kotolní, montážny otvor a prístupová cesta ku kotolniam, ktoré veľkosťou zodpovedajú rozmerom kotlov, prípadne ich montážnych blokov.\n(6) Vo výnimočných a mimoriadnych prípadoch sa možno odchýliť od požiadaviek na zriaďovanie kotolní uvedených v odsekoch 1 až 5 po vyjadrení príslušného inšpektorátu a za podmienok ním určených."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Vetranie",
+      "content": "(1) Priestory kotolní a priestory súvisiace s prevádzkou kotolní musia byť účinne vetrané.2) Do priestoru, v ktorom sú umiestnené kotly, musí byť zabezpečený dostatočný prívod vzduchu potrebného na spaľovanie a vetranie neuzatvárateľným otvorom pri podlahe kotolní.\n(2) Prirodzené vetranie kotolní, ktorých podlaha je pod úrovňou okolitého terénu (v pivniciach, suteréne a pod.), a kotolní s kotlami vykurovanými plynnými palivami musí byť zabezpečené najmenej jedným neuzatvárateľným otvorom pre prívod vzduchu s vyústením pri podlahe kotolní. Odvod vzduchu z týchto kotolní musí byť zabezpečený aspoň jedným otvorom pri strope kotolní na protiľahlej strane, prípadne odvodným potrubím do vonkajšieho priestoru tak, aby sa zabezpečilo dostatočné prúdenie vzduchu.\n(3) V kotolniach, v ktorých sú umiestnené kotly s prirodzeným ťahom a ktoré majú nútené vetranie, musí byť toto vetranie pretlakové."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Núdzové osvetlenie",
+      "content": "(1) V kotolniach s pôdorysnou plochou väčšou ako 150 m2 s trvalou obsluhou musí byť inštalované núdzové osvetlenie, ktoré musí byť napájané samostatným zdrojom prúdu.\n(2) Núdzové osvetlenie musí byť\na) na prednej strane obsluhy kotlov,\nb) na tlakomeroch, ťahomeroch, vodoznakoch, výškomeroch a nalievkach vrátane pretlakového zariadenia parného kotla,\nc) v priestoroch na odpopoľňovanie,\nd) v priestoroch plynového hospodárstva,\ne) v priestore zauhľovacieho zariadenia,\nf) v priestore prevádzkovej nádrže na kvapalné palivo,\ng) na mieste, kde je rozdeľovač pary alebo teplej vody,\nh) na únikových cestách po celej dĺžke.\n(3) Núdzové osvetlenie podľa odseku 2 nie je potrebné pri kotloch, ak pri prerušení dodávky elektrickej energie dôjde k automatickému odstaveniu kotlov z prevádzky.\n(4) Obsluhujúci pracovníci musia mať k dispozícii ručnú lampu v použiteľnom stave.\n(5) V kotolniach musia byť prenosné lampy s možnosťou pripojenia na bezpečné napätie."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Ťahové pomery kotlov",
+      "content": "(1) Dymové nadstavce kotlov musia mať zariadenie na meranie ťahu a teplôt spalín.\n(2) Potrebný ťah na horenie určí pri kotloch ich výrobca, pri rekonštrukcii kotlov spracovateľ projektovej dokumentácie."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Ochrana proti popáleniu",
+      "content": "Všetky povrchy v kotolniach, ktoré sú teplejšie ako 60 °C, musia byť s výnimkou uzatváracích prvkov chránené nehorľavou izoláciou, ak neslúžia na účely vykurovania. Uzatváracie prvky musia byť vyhotovené tak, aby sa zabránilo popáleniu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Prevádzkový poriadok",
+      "content": "(1) Organizácia, ktorá má v prevádzke kotly (ďalej len „prevádzkovateľ“), je povinná vydať prevádzkový poriadok kotolne (ďalej len „prevádzkový poriadok“) s predchádzajúcim súhlasom príslušného orgánu Revolučného odborového hnutia alebo v družstve orgánu spoločenskej kontroly nad bezpečnosťou a ochranou zdravia pri práci; pri jeho vypracovaní musí vychádzať z predpisov na zaistenie bezpečnosti práce v kotolniach a z návodu na obsluhu, prevádzku a údržbu kotlov.\n(2) V prevádzkovom poriadku sa určí, koľko kotlov môže obsluhovať jeden kurič, spôsob obsluhy [občasná alebo trvalá – § 2 písm. i), j)] a povinnosti jednotlivých pracovníkov pri obsluhe kotlov, zauhľovaní, odstraňovaní pevných zvyškov pri spaľovaní paliva, prevádzke zariadenia na úpravu vody a prevádzke kvapalinového a plynového hospodárstva a okruh osôb oprávnených k vstupu do kotolne.\n(3) V prevádzkovom poriadku sa určí spôsob, postup, rozsah a termíny čistenia kotlov tak, aby nedošlo k poškodeniu kotlových stien a k ohrozeniu bezpečnosti pracovníkov.\n(4) Prevádzkový poriadok musí byť v kotolni trvalo vyvesený a dodržiavaný."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Prevádzka kotlov",
+      "content": "(1) Pracovníci pri obsluhe a prevádzke kotlov sú povinní najmä:\na) pri prevádzke parných kotlov zabezpečiť, aby hladina vody nemohla klesnúť pod najnižší ani stúpnuť nad najvyšší prípustný stav vody a aby pri prevádzke teplovodných a kvapalinových kotlov nedošlo k prekročeniu najvyššej dovolenej teploty a tlak bol udržiavaný v určenom rozpätí,\nb) všetky uzávery otvárať zvoľna, aby nedochádzalo k tepelným alebo tlakovým nárazom,\nc) ak nejde o osobitne skonštruované pretlakové kúrenisko, udržiavať v kúrenisku podtlak podľa prevádzkových pokynov výrobcu,\nd) pevné zvyšky po spálení paliva odstraňovať z kúreniska a kotolní tak, aby neohrozovali pracovníkov v kotolniach,\ne) pri zakurovaní, prevádzke a odstavovaní kotlov postupovať podľa návodu dodávateľa na obsluhu a prevádzku kotlov a podľa prevádzkového poriadku.\n(2) Ak nemožno pri niektorých kotloch zaobstarať návod dodávateľa, uvedie prevádzkovateľ požiadavky na zakurovanie, prevádzku a odstavovanie kotlov do prevádzkového poriadku.\n(3) Kotly sa musia okamžite odstaviť z prevádzky\na) pri strate vody vo vodoznakoch, ak ide o parné kotly,\nb) ak nemožno parné alebo teplovodné kotly dopĺňať vodou,\nc) pri vzniku trhlín a väčších netesností,\n1. pri parných kotloch, ak ani pri zvýšenom napájaní nemožno udržať najnižší prípustný stav vody v kotloch,\n2. pri teplovodných a kvapalinových kotloch pri náhlom poklese tlaku kvapaliny,\n3. keby bola ohrozená bezpečnosť osôb alebo zariadení,\n4. keď zlyhá zabezpečovacie zariadenie,3)\nd) pri deformáciách výhrevných plôch kotlov, ktoré by mohli spôsobiť výbuch kotlov a tým ohroziť bezpečnosť osôb,\ne) pri výbuchu plynu v kúrenisku a v dymových ťahoch, ktorý spôsobil poškodenie výmurovky, oplechovania alebo vlastného tlakového celku,\nf) keď nemožno zabezpečiť ich spoľahlivú obsluhu (napr. zlá viditeľnosť, požiar)."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Povinnosti prevádzkovateľov",
+      "content": "Prevádzkovatelia sú povinní:\na) prevádzkovať kotly v súlade s prevádzkovým poriadkom,\nb) určiť v kotolniach trvalú alebo občasnú obsluhu [§ 2 písm. i),j)] s prihliadnutím najmú na výkon kotolní, spôsob signalizácie, rozsah automatizácie, druh paliva a na návod dodávateľa na prevádzku, obsluhu a údržbu,\nc) vykonávať preventívnu a prevádzkovú údržbu kotolní,\nd) dozerať, aby sa v kotolniach nevykonávali práce, ktoré nesúvisia s ich prevádzkou a údržbou, a aby sa v nich nezdržiavali nepovolané osoby,\ne) zabezpečiť obsluhu kotlov odborne a zdravotne spôsobilými kuričmi,\nf) zabezpečiť praktický zácvik, skúšku a overovanie vedomostí kuriča (§ 14),\ng) zabezpečiť v rozsahu určenom príslušnými nadriadenými orgánmi potrebné osobné ochranné pracovné prostriedky, zabezpečiť ich údržbu a výmenu v určených lehotách, oboznámiť pracovníkov s ich používaním a ich používanie vyžadovať a sústavne kontrolovať,\nh) zabezpečiť určené lekárske prehliadky kuričov [§ 15 písm. g)],\nch) viesť v kotolniach prevádzkový denník (§ 13),\ni) označiť dvere do kotolní bezpečnostnou tabuľkou s nezmazateľným nápisom „KOTOLŇA – NEZAMESTNANÝM VSTUP ZAKÁZANÝ“, prípadne ďalšími bezpečnostnými nápismi,4)\nj) zabezpečiť vykonanie odborných prehliadok kotolní (§ 16),\nk) odstraňovať závady a nedostatky zistené pri odborných prehliadkach kotolní a pri revíziách,\nl) vykonávať chemické rozbory napájacej a kotlovej vody podľa návodu na obsluhu, prevádzku a údržbu zariadenia na úpravu vody,\nm) vykonávať potrebné opatrenia v prípade tvorenia kotlového kameňa alebo nadmerného usadzovania kalu v kotloch,\nn) zisťovať prítomnosť kysličníka uhoľnatého v lehotách určených prevádzkovým poriadkom (napr. detekčnou trubičkou),\no) uschovávať prevádzkový denník aspoň po dobu troch rokov."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Prevádzkový denník",
+      "content": "(1) V každej kotolni sa musí viesť prevádzkový denník.\n(2) Do prevádzkového denníka sa zapisujú:\na) deň a hodina zakúrenia v kotloch,\nb) začiatok a koniec každej smeny,\nc) prevádzkové údaje (tlak pary, teplota vody, množstvo vody a pod.) v rozsahu a lehotách určených prevádzkovým poriadkom,\nd) teplota vonkajšieho vzduchu,\ne) údaje o závadách a poruchách a o ich odstránení,\nf) údaje o neobvyklých javoch alebo mimoriadnych prevádzkových podmienkach a o ich odstránení,\ng) deň a hodina odstavenia kotlov,\nh) údaje o vykonaných údržbárskych prácach v kotolniach,\ni) výsledky kontrol prítomnosti kysličníka uhoľnatého,\nj) výsledky kontrol tesnosti rozoberateľných spojov a armatúr, s ktorými sa manipuluje pri plynovom zariadení,\nk) iné údaje potrebné na posúdenie prevádzky kotolne podľa prevádzkového poriadku a osobitných predpisov,5)\nl) striedanie smien kuričov a ich podpisy."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Kuriči",
+      "content": "(1) Kuričom kotlov môže byť len pracovník, ktorý\na) je starší ako 18 rokov,\nb) preukáže potvrdením príslušného lekára, že je telesne a duševne spôsobilý vykonávať prácu kuriča,\nc) má aspoň týždenný praktický zácvik,\nd) ovláda obsluhu celého kotlového zariadenia a všetky bezpečnostné zariadenia,3) pozná návod dodávateľa na obsluhu, prevádzku a údržbu kotlového zariadenia a prevádzkový poriadok,\ne) má osvedčenie o spôsobilosti kuriča na samostatnú obsluhu kotlov podľa vzoru uvedeného v prílohe, vydané na základe úspešne vykonanej skúšky; záznam o skúške k osvedčeniu môže byť na spoločnom doklade.\n(2) Skúšku skladá kurič pred skúšobnou komisiou, ktorú ustanovuje a zvoláva prevádzkovateľ. Skúšobná komisia sa skladá z predsedu, ktorým je zástupca prevádzkovateľa, a z najmenej dvoch členov, z ktorých jeden musí byť odborný pracovník (§ 16), pri kotloch na plynné palivá okrem toho tiež revízny technik plynových zariadení a zástupca príslušného orgánu Revolučného odborového hnutia alebo v družstve orgánu spoločenskej kontroly.\n(3) Prevádzkovatelia sa môžu na vykonanie skúšok združiť, ak vykonanie skúšok pre vlastných pracovníkov nie je hospodárne. V takom prípade sa dohodnú o zložení a spôsobe zvolávania skúšobnej komisie.\n(4) O skúške sa spíše zápisnica, ktorá je uložená u prevádzkovateľa, u ktorého sa skúška vykonala. Kuričovi sa v prípade kladného výsledku skúšky vydá osvedčenie, ktorého vzor je uvedený v prílohe. Rovnopis osvedčenia je uložený u prevádzkovateľa spolu so zápisnicou o skúške.\n(5) Pri prijatí kuriča do pracovného pomeru je povinný prevádzkovateľ, ktorý s kuričom uzatvára pracovný pomer, pokiaľ kurič má osvedčenie o spôsobilosti kuriča na samostatnú obsluhu kotlov, overiť jeho vedomosti a spísať o tom zápisnicu."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Povinnosti kuričov",
+      "content": "Kuriči sú povinní\na) udržiavať obsluhované zariadenie kotolne v bezpečnom a riadnom stave,\nb) bezodkladne ohlásiť nadriadenému pracovníkovi každú poruchu, závadu alebo neobvyklý jav pri prevádzke kotlov, hlásenie zaznamenať v prevádzkovom denníku a dať potvrdiť nadriadenému pracovníkovi a pri nebezpečenstve z omeškania (§ 11 ods. 3) kotol okamžite odstaviť z prevádzky,\nc) v rozsahu a lehotách určených v návode výrobcu na obsluhu, prevádzku a údržbu a v prevádzkovom poriadku kontrolovať ťahové pomery v kotloch a stav a funkciu zabezpečovacieho a signalizačného zariadenia, bez zásahu do automatického ovládania,\nd) trvale udržiavať poriadok a čistotu v kotolniach a dbať na to, aby sa v nich nezdržiavali nepovolané osoby,\ne) pri viacsmennej prevádzke po skončení smeny odovzdať kotlové zariadenie svojmu nástupcovi,\nf) bezodkladne hlásiť nadriadenému pracovníkovi okolnosti, ktoré im podstatne sťažujú obsluhu kotlov (náhla nevoľnosť a pod.),\ng) podrobiť sa lekárskym prehliadkam určeným osobitnými predpismi,6)\nh) zapisovať do prevádzkového denníka údaje uvedené v § 13 ods. 2."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Odborné prehliadky kotolní",
+      "content": "(1) Prevádzkovateľ musí zabezpečiť odborné prehliadky kotolní (ďalej len „prehliadky“):\na) pred uvedením kotolne do prevádzky,\nb) po každej generálnej oprave a rekonštrukcii kotlov,\nc) pri zmene druhu paliva,\nd) vždy po jednom roku prevádzky kotolní,\ne) pri sezónnej prevádzke pred začiatkom každej sezóny.\n(2) Vykonaním prehliadok poverí prevádzkovateľ odborného pracovníka, ktorý preukázateľne ovláda bezpečnostné predpisy pre prevádzku, obsluhu a údržbu kotlového zariadenia, kotolne a súvisiace bezpečnostné predpisy (napr. tepelný technik, revízny technik kotlov, energetik).\n(3) Pri prehliadkach sa vychádza z revíznych správ tlakových, zdvíhacích, elektrických a plynových zariadení a z ďalších podkladov (napr. zápisnica o predchádzajúcich prehliadkach, prevádzkový denník). Pri prehliadkach sa zisťuje najmä vonkajší a vnútorný stav kotlov, stav zabezpečovacieho zariadenia, horákov, čerpadiel, nádrží, zariadenia na úpravu vody, zauhľovacieho a odpopoľňovacieho zariadenia.\n(4) O výsledku prehliadok sa vyhotoví zápisnica, ktorú prevádzkovateľ uschováva po dobu päť rokov."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Prechodné ustanovenie",
+      "content": "Nové a rekonštruované kotolne môžu byť uvedené do prevádzky iba vtedy, ak neboli predpísanými revíziami vyhradených technických zariadení7) a prehliadkami (§ 16) zistené závady, ktoré by uvedeniu do prevádzky bránili."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Zrušovacie ustanovenie",
+      "content": "Zrušuje sa vyhláška Slovenského úradu bezpečnosti práce č. 36/1976 Zb. na zaistenie bezpečnosti práce v nízkotlakových kotolniach."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Účinnosť",
+      "content": "Táto vyhláška nadobúda účinnosť 1. aprílom 1984.\nPríloha vyhlášky č. 25/1984 Zb.\nOSVEDČENIE o spôsobilosti kuriča na samostatnú obsluhu nízkotlakých kotlov\n1) ON 06 0711 Revízna kniha plynových spotrebičov.\n2) Úprava Ministerstva zdravotníctva SSR – hlavný hygienik SSR č. Z–1629/1978–B/3–06 zo 14. 2. 1978 o hygienických požiadavkách na pracovné prostredie uverejnená vo Vestníku Ministerstva zdravotníctva SSR č. 7/1978 (registrovaná v čiastke 20/1978 Zb.).\n3) ČSN 06 0830 Zabezpečovacie zariadenie pre ústredné vykurovanie a ohrievanie úžitkovej vody.\n4) ČSN 01 8010 Bezpečnostné farby a značky.\nČSN 01 8012 Bezpečnostné tabuľky.\n5) Napr. vyhláška Slovenského úradu bezpečnosti práce č. 86/1978 Zb. o kontrolách, revíziách a skúškach plynových zariadení.\n6) Smernice č. 17/1970 Vestníka Ministerstva zdravotníctva SSR o posudzovaní zdravotnej spôsobilosti na prácu (registrované v čiastke 24/1970 Zb.).\n7) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré požiadavky na zaistenie ich bezpečnosti.\nVyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré požiadavky na zaistenie ich bezpečnosti.\nVyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré požiadavky na zaistenie ich bezpečnosti.\nVyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré požiadavky na zaistenie ich bezpečnosti."
+    }
+  ],
+  "definitions": []
+}

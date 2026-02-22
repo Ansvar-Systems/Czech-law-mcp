@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:116/1952",
+  "type": "statute",
+  "title": "116/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 44 1301.",
+  "title_en": "",
+  "short_name": "116/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-05-23",
+  "in_force_date": "1952-06-07",
+  "url": "https://www.e-sbirka.cz/ul0/1952/116",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 44 1301.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 44 1301 „Vzorkování tuhých paliv“ je od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma platí pro vzorkování tuhých paliv z celkové váhy do 500 tun. Vedle názvosloví norma určuje jednotlivé způsoby vzorkování a popisuje jeho provádění."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:238/1993",
+  "type": "statute",
+  "title": "238/1993 Sb., Nařízení vlády, kterým se pro účely zákona o daních z příjmů stanoví zařízení na výrobu biologicky rozložitelných látek",
+  "title_en": "",
+  "short_name": "238/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-09-15",
+  "in_force_date": "1993-09-15",
+  "url": "https://www.e-sbirka.cz/sb/1993/238",
+  "description": "Nařízení vlády, kterým se pro účely zákona o daních z příjmů stanoví zařízení na výrobu biologicky rozložitelných látek",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Zařízením na výrobu biologicky rozložitelných (degradovatelných) látek se pro účely zákona o daních z příjmů1) rozumí stroj nebo technologická jednotka, na které se vyrábějí biologicky rozložitelné látky, jejichž doba rozkladu je kratší než polovina doby rozkladu srovnatelných látek, které tímto zařízením nebyly upraveny, nejvýše však 5 let.\n(2) Za biologicky rozložitelné látky se nepovažují přírodní látky a materiály, které jsou svou povahou rozložitelné bez dalších úprav, například potraviny, krmiva, dřevo, papír."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Splnění podmínek podle § 1 odst. 1 tohoto nařízení se prokazuje certifikátem státní zkušebny2) a osvědčením ministerstva životního prostředí vydaným na základě předloženého certifikátu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení.\n1) Zákon České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona ČNR č. 35/1993 Sb., zákona č. 96/1993 Sb. a zákona č. 157/1993 Sb.\n2) § 4 zákona České národní rady č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví.\n§ 24b zákona č. 30/1968 Sb., o státním zkušebnictví, ve znění pozdějších předpisů.\nVyhláška Úřadu pro normalizaci a měření č. 101/1988 Sb., o certifikaci výrobků."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zařízením na výrobu biologicky rozložitelných (degradovatelných) látek",
+      "definition": "stroj nebo technologická jednotka, na které se vyrábějí biologicky rozložitelné látky, jejichž doba rozkladu je kratší než polovina doby rozkladu srovnatelných látek, které tímto zařízením nebyly upraveny, nejvýše však 5 let",
+      "source_provision": "§ 1"
+    }
+  ]
+}

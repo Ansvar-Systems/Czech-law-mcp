@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:222/1948",
+  "type": "statute",
+  "title": "222/1948 Ú. l. I, Vyhláška ministerstva zdravotnictví o nákazových příspěvcích pro rok 1948.",
+  "title_en": "",
+  "short_name": "222/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-02-12",
+  "in_force_date": "1948-02-27",
+  "url": "https://www.e-sbirka.cz/ul1/1948/222",
+  "description": "Vyhláška ministerstva zdravotnictví o nákazových příspěvcích pro rok 1948.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Nákazové příspěvky, které mají odváděti majitelé zvířat, po případě včelstev, se stanoví pro rok 1948 v této výši:\na)za každého jednokopytníka staršího 1 rokuKčs 20.—,\nb)za každý kus skotu starší 3 měsícůKčs 10.—,\nc)za každého vepře staršího 6 týdnůKčs 5.—,\nd)za každé včelstvoKčs 1.—."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro příspěvkovou povinnost je rozhodným skutečný počet svírat a včelstev, za něž se mají příspěvky odváděti, zjištěný úředním sčítáním zvířat ke dni 1. ledna 1948 a nejbližším úředním sčítáním včelstev. Do stanoveného počtu se počítají též zvířata a včelstva, která v den úředního sčítání přechodně nebyla přítomna."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Obec propočte příspěvkovou povinnost majitelů zvířat a zapíše ji do příspěvkového výkazu I podle vzoru přílohy B nařízení ministra vnitra č. 263/1943 Sb.; vybere nákazové příspěvky odvoláním nenapadané a odvede je po srážce odměny pro obec podle § 6 téhož nařízení do 31. března 1948 nákazové pokladně při ministerstvu zdravotnictví na šekový účet poštovní spořitelny č 42.308.\n(2) Ustanovení odstavce 1 se netýká majitelů včelstev; způsob odvádění nákazových příspěvků za včelstva se stanoví zvláště."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

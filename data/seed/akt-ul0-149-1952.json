@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:149/1952",
+  "type": "statute",
+  "title": "149/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro protahovací nástroje.",
+  "title_en": "",
+  "short_name": "149/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-17",
+  "in_force_date": "1952-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/149",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro protahovací nástroje.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickými státními normami jsou od 1. srpna 1952 normy:\nČSN 22 1801„Protahováky (protahovací trny). Všeobecná část“,\nČSN 22 1802„Stopky protahováků na drážky pro pera“,\nČSN 22 1810„Protahováky na drážky pro pera“,\nČSN 22 1890„Podložky k protahovákům na drážky pro pera“\nTyto normy jsou směrné."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma ČSN 22 1801 jedná o názvosloví a roztřídění protahováků, obsahuje směrnice pro jejich konstrukci a výrobu, stanoví technické požadavky a jedná o přejímání, dodávání a způsobu balení.\nNorma ČSN 22 1810 stanoví tvar a rozměry protahováků na drážky pro pera, normy ČSN 22 1802 a 22 1890 pak stanoví tvary a rozměry jejich stopek a příslušných podložek k protahovákům."
+    }
+  ],
+  "definitions": []
+}

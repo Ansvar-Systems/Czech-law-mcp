@@ -1,0 +1,106 @@
+{
+  "id": "cz:329/2006",
+  "type": "statute",
+  "title": "329/2006 Sb., Vyhláška, kterou se stanoví bližší požadavky na elektronické prostředky, elektronické nástroje a elektronické úkony při zadávání veřejných zakázek",
+  "title_en": "",
+  "short_name": "329/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-06-28",
+  "in_force_date": "2006-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/329",
+  "description": "Vyhláška, kterou se stanoví bližší požadavky na elektronické prostředky, elektronické nástroje a elektronické úkony při zadávání veřejných zakázek",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje bližší požadavky týkající se elektronických prostředků, elektronických nástrojů, elektronických úkonů při zadávání veřejných zakázek."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pojmy",
+      "content": "Pro účely této vyhlášky se rozumí\na) elektronickou adresou údaj v elektronické podobě, který jednoznačně označuje místo (objekt) na internetu,\nb) internetovou adresou zadavatele elektronická adresa dálkově přístupného internetového prostoru, prostřednictvím kterého zadavatel poskytuje v zadávacím řízení informace,\nc) veřejným klíčem jedinečná elektronická data, která jednoznačně odpovídají soukromému klíči a mohou sloužit dodavateli k zašifrování obsahu nabídky podle této vyhlášky,\nd) soukromým klíčem jedinečná elektronická data, která jednoznačně odpovídají veřejnému klíči a mohou sloužit zadavateli k odtajnění obsahu nabídky podle této vyhlášky,\ne) certifikátem veřejného klíče datová zpráva, která důvěryhodným způsobem spojuje veřejný klíč se zadavatelem, slouží k přenášení veřejného klíče a může sloužit k ověřování identity zadavatele a jeho internetové adresy,\nf) elektronickým úkonem úkon jednající osoby provedený prostřednictvím elektronického nástroje,\ng) systémovým stavem stav, ve kterém se v daném okamžiku nebo intervalu nachází elektronický nástroj, a který odpovídá jedné ze tří možných hodnot:\n1. v provozu,\n2. mimo provoz,\n3. jiný stav definovaný okruhem možných funkčních stavů nástroje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Elektronické úkony při zadávání veřejných zakázek",
+      "content": "(1) V zadávacím řízení určí zadavatel oprávněné osoby, které jsou za zadavatele oprávněné činit v tomto řízení elektronické úkony, zejména poskytování zadávací dokumentace, výzvy k účasti nebo podání nabídek a předběžných nabídek, poskytování dodatečných informací nebo potvrzování doručení nabídek a předběžných nabídek, otevírání nabídek a pozvání k jednání o nabídkách.\n(2) Činí-li zadavatel v zadávacím řízení elektronický úkon vůči určitému dodavateli, musí být tento úkon opatřen platným zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu1) oprávněné osoby zadavatele nebo platnou elektronickou značkou založenou na kvalifikovaném systémovém certifikátu1) zadavatele podle zvláštního právního předpisu.\n(3) Kvalifikované certifikáty a kvalifikované systémové certifikáty používané podle odstavce 2 musí obsahovat\na) náležitosti stanovené zvláštním právním předpisem2), vyjma možnosti obsahovat pseudonym podepisující osoby, a\nb) označení pracovního zařazení oprávněné osoby nebo internetové adresy zadavatele.\n(4) Ověření platnosti zaručeného elektronického podpisu nebo elektronické značky se provádí obdobně podle zvláštního právního předpisu3)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Poskytování zadávací dokumentace dodavatelům",
+      "content": "(1) Zadávací dokumentaci, kterou zadavatel poskytuje prostřednictvím elektronických nástrojů, poskytuje zadavatel formou dálkového přístupu na své internetové adrese bez předchozí žádosti, nebo ji poskytuje na základě písemné žádosti dodavatele.\n(2) Poskytuje-li zadavatel zadávací dokumentaci dálkovým přístupem na internetové adrese zadavatele bez předchozí žádosti, zajistí, aby\na) každý se mohl ujistit o identitě zadavatele případně i o identitě provozovatele internetové adresy zadavatele formou certifikátu veřejného klíče zadavatele vydaného k internetové adrese zadavatele, prostřednictvím které poskytuje zadávací dokumentaci,\nb) zadávací dokumentace byla chráněna proti neoprávněné změně a\nc) zadávací dokumentace byla ve stanovené lhůtě přístupná na internetové adrese zadavatele nepřetržitě.\n(3) Poskytuje-li zadavatel zadávací dokumentaci na základě písemné žádosti dodavatele, zadavatel zajistí, aby zadávací dokumentace byla\na) poskytnuta jen na základě platně doručené žádosti, jejíž zaručený elektronický podpis byl úspěšně ověřen,\nb) chráněna proti neoprávněné změně podle § 3 odst. 2 a\nc) opatřená zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu1) oprávněné osoby zadavatele nebo elektronickou značkou založenou na kvalifikovaném systémovém certifikátu1) zadavatele, byla poskytnuta formou odeslání na požadovanou elektronickou adresu dodavatele nebo formou individuálního zpřístupnění zadávací dokumentace prostřednictvím internetové adresy zadavatele.\n(4) Zadavatel zajistí, že dojde k zaznamenání času poskytnutí zadávací dokumentace."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Poskytování dodatečných informací",
+      "content": "Na poskytování dodatečných informací k zadávacím podmínkám se použije § 4 obdobně."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Podávání a doplňování nabídek a předběžných nabídek",
+      "content": "(1) Zadavatel uveřejňuje ve vyhlášení, případně ve výzvě, elektronickou adresu pro podávání nabídky, předběžné nabídky, žádostí o účast a podávání aukčních hodnot (dále jen „nabídka“).\n(2) Dodavatel chrání podané nabídky před neoprávněným čtením formou šifrování jejich obsahu.\n(3) Za účelem šifrování obsahu nabídky poskytuje zadavatel dodavatelům prostřednictvím internetové adresy zadavatele nebo zasláním na základě vyžádání certifikát veřejného klíče.\n(4) Zadavatel zajistí, aby:\na) veřejný klíč určený k šifrování obsahu nabídek jednoznačně odpovídal soukromému klíči zadavatele a\nb) nebylo možné za vynaložení přiměřených prostředků certifikát veřejného klíče padělat.\n(5) Stanoví-li zadavatel v souladu se zákonem lhůtu pro podávání nabídky, zajistí, aby nabídka podaná na adresu podle odstavce 1:\na) před uplynutím stanovené lhůty byla dále zpracována v souladu s touto vyhláškou a uložena v nezměněné podobě do doby jejího otevření; zadavatel zároveň odešle dodavateli na jeho elektronickou adresu oznámení o jejím doručení a\nb) po uplynutí stanovené lhůty byla označena jako nepřijatelná; zadavatel v takovém případě odešle dodavateli na jeho elektronickou adresu oznámení o této skutečnosti.\n(6) Zadavatel zaznamenává čas podání nabídky podle odstavce 2.\n(7) Po podání nabídky zadavatel ověří platnost zaručeného elektronického podpisu3) dodavatele a výsledek ověření zaznamená k doručené nabídce. Se záznamem o ověření platnosti zaručeného elektronického podpisu se dále zachází obdobně jako s identifikátorem elektronické podatelny podle zvláštního právního předpisu3)."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Otevírání nabídek",
+      "content": "(1) Zadavatel nebo osoby oprávněné k otevírání nabídek zajistí odtajnění obsahu nabídek s využitím soukromého klíče.\n(2) Zadavatel zajistí, aby\na) nebylo možné za vynaložení přiměřených prostředků soukromý klíč padělat a\nb) soukromý klíč byl chráněn proti neoprávněnému přístupu.\n(3) Zadavatel zajistí, aby odtajnění nabídek s využitím soukromého klíče prováděly oprávněné osoby tak, aby\na) odtajnění nabídek mohly provést vždy dvě nebo více oprávněných osob z jejich celkového počtu,\nb) nebylo možné použít soukromý klíč k odtajnění nabídek jiným způsobem, než součinností oprávněných osob.\n(4) Zadavatel dále zajistí, aby elektronický nástroj neumožnil odtajnění nabídky před lhůtou stanovenou k jejímu otevření. Čas odtajnění nabídky je zaznamenán.\n(5) Elektronická nabídka, po jejím otevření, přečtení, posouzení nebo hodnocení, musí zůstat uložena u zadavatele jen v její zašifrované podobě.\n(6) Soukromý klíč určený k odtajnění nabídek musí zadavatel zajistit proti ztrátě a neoprávněnému přístupu po celou dobu platnosti odpovídajícího certifikátu veřejného klíče."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Pořizování záznamů o elektronických úkonech",
+      "content": "(1) Zadavatel provádí elektronické úkony podle této vyhlášky prostřednictvím elektronických nástrojů.\n(2) Zadavatel musí vytvářet záznamy o provedených elektronických úkonech a veškerých dalších činnostech elektronického nástroje. Součástí těchto záznamů musí být alespoň\na) určení elektronického úkonu nebo další činnosti nástroje,\nb) čas provedení úkonu nebo činnosti,\nc) identifikace osoby, která elektronický úkon provedla nebo činnost nástroje zahájila,\nd) záznam o případném nestandardním výsledku úkonu nebo další činnosti nástroje.\n(3) Kromě záznamů podle odstavce 2 musí zadavatel zaznamenávat i informace o systémovém stavu elektronického nástroje a synchronizaci času podle § 9.\n(4) Veškeré údaje podle odstavců 1 až 3 musí být chráněny proti neoprávněnému přístupu, změně a zničení."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zaznamenávání času",
+      "content": "(1) Vyžaduje-li tato vyhláška nebo zákon zaznamenání času elektronického úkonu (dále jen „časová informace“), použije zadavatel jako zdroj časové informace:\na) měřidlo času, které je kalibrované podle zvláštního právního předpisu4), nebo\nb) musí být časová informace poskytovaná operačním systémem zadavatele navázána na zdroj reprodukující světový koordinovaný čas UTC například na státní etalon času a frekvence nebo pomocí přijímače Global Positioning System (GPS).\n(2) Zadavatel dokládá splnění povinnosti podle odstavce 1 písm. a) kalibračním listem4) a povinnosti podle odstavce 1 písm. b) dokumentem dokládajícím nejistotu, s níž je časová informace navázána na čas UTC spolu s technickou dokumentací dokládající způsob tohoto navázání.\n(3) Zadavatel synchronizuje měřidlo času nebo čas měřený operačním systémem podle odstavce 1 s koordinovaným světovým časem alespoň jedenkrát za 24 hodin v průběhu zadávacího řízení.\n(4) Synchronizace podle odstavce 3 musí být zadavatelem zajištěna i v případě výskytu přestupné sekundy.\n(5) Měřidlo času podle odstavce 1 písm. a) musí být zadavatelem chráněno proti neoprávněným zásahům, které by mohly změnit jeho technické nebo metrologické vlastnosti zajišťované kalibrací podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2006.\n1) Zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů.\n2) § 12 a § 12a zákona o elektronickém podpisu.\n3) Vyhláška č. 496/2004 Sb., o elektronických podatelnách.\n4) Zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších přepisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektronickou adresou",
+      "definition": "údaj v elektronické podobě, který jednoznačně označuje místo (objekt) na internetu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "veřejným klíčem jedinečná elektronická data",
+      "definition": "která jednoznačně odpovídají soukromému klíči a mohou sloužit dodavateli k zašifrování obsahu nabídky podle této vyhlášky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "soukromým klíčem jedinečná elektronická data",
+      "definition": "která jednoznačně odpovídají veřejnému klíči a mohou sloužit zadavateli k odtajnění obsahu nabídky podle této vyhlášky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "certifikátem veřejného klíče datová zpráva",
+      "definition": "která důvěryhodným způsobem spojuje veřejný klíč se zadavatelem, slouží k přenášení veřejného klíče a může sloužit k ověřování identity zadavatele a jeho internetové adresy",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "elektronickým úkonem úkon jednající",
+      "definition": "osoby provedený prostřednictvím elektronického nástroje",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "systémovým stavem",
+      "definition": "stav, ve kterém se v daném okamžiku nebo intervalu nachází elektronický nástroj, a který odpovídá jedné ze tří možných hodnot:; v provozu; mimo provoz; jiný stav definovaný okruhem možných funkčních stavů nástroje.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

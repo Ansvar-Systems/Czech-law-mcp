@@ -1,0 +1,45 @@
+{
+  "id": "cz:51/1997",
+  "type": "statute",
+  "title": "51/1997 Sb., Nařízení vlády, kterým se stanoví preferenční sazba cla pro dovoz některých zemědělských a potravinářských výrobků pocházejících z Evropské unie",
+  "title_en": "",
+  "short_name": "51/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-03-28",
+  "in_force_date": "1997-03-28",
+  "url": "https://www.e-sbirka.cz/sb/1997/51",
+  "description": "Nařízení vlády, kterým se stanoví preferenční sazba cla pro dovoz některých zemědělských a potravinářských výrobků pocházejících z Evropské unie",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Ze zboží uvedeného v příloze k tomuto nařízení se vyměřuje clo podle preferenčních celních sazeb v rámci celních kvót stanovených v příloze, pokud zboží pochází z Evropské unie."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zbožím pocházejícím z Evropské unie se rozumí zboží, které splňuje podmínky stanovené zvláštním předpisem.1)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Po dobu platnosti tohoto nařízení se pro zboží vymezené v § 1 a za podmínek zde vymezených nepoužijí celní sazby stanovené v nařízení vlády č. 301/1996 Sb., celní sazebník."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vyhlášení.\n(2) Toto nařízení pozbývá platnosti dnem 31. prosince 1997.\nPříloha k nařízení vlády č. 51/1997 Sb.\nPodpoložka, položka nebo číslo sazebníkuNázev zbožíPreferenční\ncelní sazba Evrop. unieCelní kvóta\n(t)\n\n0303 79 11Kapřibez cla100\n0405 10\n0405 20 90\n0405 90Máslo15 %25\n\n0602 90 30\n0602 90 91\n0602 90 99Sazenice zeleniny a jahodníků\nKvetoucí rostliny s poupaty nebo květy s výjimkou kaktusů\nOstatní pokojové rostlinybez cla170\n\n1005 90 00Kukuřice ostatní5 %5000\n1516 20Rostlinné tuky a olejebez cla2000\n1517 10 90Margarín10 %530\n1601Uzenky, salámy a podobné výrobky z masa, drobů nebo krve; potravinové přípravky na podkladě těchto výrobků12 %115\n1) Sdělení Ministerstva zahraničních věcí č. 7/1995 Sb., o sjednání Evropské dohody zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé, Protokol č. 4."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím pocházejícím z Evropské unie",
+      "definition": "zboží, které splňuje podmínky stanovené zvláštním předpisem",
+      "source_provision": "§ 2"
+    }
+  ]
+}

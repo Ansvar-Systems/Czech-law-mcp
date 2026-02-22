@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1044/1949",
+  "type": "statute",
+  "title": "1044/1949 Ú. l. I, Vyhláška Ústřední národní pojišťovny o změně obvodů okresních národních pojišťoven.",
+  "title_en": "",
+  "short_name": "1044/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-10-20",
+  "in_force_date": "1949-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1044",
+  "description": "Vyhláška Ústřední národní pojišťovny o změně obvodů okresních národních pojišťoven.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Zrušuje se ustanovení § 3, odst. 2 vyhlášky ŮNP ze dne 10. června 1949, č. 679 Ú. l. I, o změně obvodů a sídel okresních národních pojišťoven.\n(2) § 3, odst. 3 vyhlášky č. 679/1949 Ú. l. I se označuje číslem 2."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zrušuje se okresní národní pojišťovna ve Velkém Meziříčí; obvod působnosti ONP v Třebíči se rozšiřuje na okres Velké Meziříčí."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Touto vyhláškou se mění příloha vyhlášky Ústřední národní pojišťovny č. 679 Ú. l. I/1949, takto:\nčíslo běžnéčíslo kat.sídlo ONPobvod tvoří okresy\n930910TřebíčTřebíč, Velké Meziříčí\n940912se škrtá"
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1949."
+    }
+  ],
+  "definitions": []
+}

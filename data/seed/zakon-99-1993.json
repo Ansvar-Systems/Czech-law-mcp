@@ -1,0 +1,33 @@
+{
+  "id": "cz:99/1993",
+  "type": "statute",
+  "title": "99/1993 Sb., Nařízení vlády o zavedení letního času v letech 1993 a 1994",
+  "title_en": "",
+  "short_name": "99/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-03-19",
+  "in_force_date": "1993-03-19",
+  "url": "https://www.e-sbirka.cz/sb/1993/99",
+  "description": "Nařízení vlády o zavedení letního času v letech 1993 a 1994",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Počátek a konec letního času v letech 1993 a 1994",
+      "content": "(1) Letní čas se zavádí v roce 1993 dnem 28. března a v roce 1994 dnem 27. března. V těchto dnech o druhé hodině středoevropského času se posunou hodiny na třetí hodinu letního času.\n(2) Letní čas končí v roce 1993 dnem 26. září a v roce 1994 dnem 25. září. V těchto dnech o třetí hodině letního času se posunou hodiny na druhou hodinu středoevropského času."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vliv zavedení letního času na stanovenou týdenní pracovní dobu",
+      "content": "(1) Stanovená týdenní pracovní doba u pracovníků, jimž počátek letního času v letech 1993 a 1994 připadne do jejich pracovní směny, pokud se tato pracovní směna v důsledku zavedení letního času zkrátí, bude v příslušném týdnu o jednu hodinu kratší.\n(2) Stanovená týdenní pracovní doba u pracovníků, jimž konec letního času v letech 1993 a 1994 připadne do jejich pracovní směny, pokud se tato pracovní směna v důsledku ukončení letního času prodlouží, bude v příslušném týdnu o jednu hodinu delší."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}
