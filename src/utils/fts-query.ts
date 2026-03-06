@@ -9,8 +9,10 @@
  * Removes characters that have special meaning in FTS5 syntax.
  */
 export function sanitizeFtsInput(input: string): string {
+  // Preserve trailing * on words (FTS5 prefix search) but strip other special chars
   return input
-    .replace(/['"(){}[\]^~*:]/g, ' ')
+    .replace(/['"(){}[\]^~:]/g, ' ')
+    .replace(/\*(?!\s|$)/g, ' ')    // strip * unless at end of word
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -49,4 +51,15 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
   }
 
   return variants;
+}
+
+/**
+ * Build a SQL LIKE pattern from search terms.
+ * Used as a final fallback when FTS5 returns no results.
+ * Example: "penalty offence" -> "%penalty%offence%"
+ */
+export function buildLikePattern(query: string): string {
+  const terms = query.trim().split(/\s+/).filter(t => t.length > 0);
+  if (terms.length === 0) return '%';
+  return `%${terms.join('%')}%`;
 }
