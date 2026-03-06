@@ -1,0 +1,27 @@
+{
+  "id": "cz:171/1975",
+  "type": "statute",
+  "title": "171/1975 Sb., Vyhláška ministerstva zemědělství a výživy Slovenské socialistické republiky a ministerstva kultury Slovenské socialistické republiky, kterou se mění výčet zvěře",
+  "title_en": "",
+  "short_name": "171/1975 Sb.",
+  "status": "in_force",
+  "issued_date": "1975-12-30",
+  "in_force_date": "1975-12-30",
+  "url": "https://www.e-sbirka.cz/sb/1975/171",
+  "description": "Vyhláška ministerstva zemědělství a výživy Slovenské socialistické republiky a ministerstva kultury Slovenské socialistické republiky, kterou se mění výčet zvěře",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Nové druhy zvěře",
+      "content": "Výčet zvěře uvedený v § 19 odst. 1 zákona se rozšiřuje o tyto druhy:\na) zvěř užitková:\norebice horská (Alectoris graeca),\nježek - všechny druhy rodu Erinaceus;\nb) zvěř škodná:\nsysel obecný (Citellus cltellus),\nkřeček polní (Cricetus cricetus)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,219 @@
+{
+  "id": "cz:ul1:594/1950",
+  "type": "statute",
+  "title": "594/1950 Ú. l. I, Vyhláška státního úřadu plánovacího, kterou se vydávají závazné směrnice pro provozní účetnictví komunálních podniků.",
+  "title_en": "",
+  "short_name": "594/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-10-14",
+  "in_force_date": "1950-10-14",
+  "url": "https://www.e-sbirka.cz/ul1/1950/594",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vydávají závazné směrnice pro provozní účetnictví komunálních podniků.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Komunální podniky (dále jen „podniky“) musí vést provozní účetnictví organisované podle této vyhlášky, aby se v nich mohlo uskutečnit v plném rozsahu hospodaření podle rozpočtu. Provozní účetnictví musí tudíž poskytovat podklady zejména pro\na) soustavné snižování nákladů a kontrolu hospodaření s hlediska vnitřního provozu podniku,\nb) sestavování podnikového rozpočtu a rozpočetní kontrolu,\nc) sestavování v kontrolu kalkulací."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V provozním účetnictví se musí\na) podrobně sledovat náklady a výnosy (§ 5),\nb) zjišťovat hospodářský výsledek za každé zúčtovací období (§ 24),\nc) sledovat stav a změny\naa) zásob,\nbb) aktivních a pasivních složek, vyplývajících z časového rozlišování nákladů a výnosů (§ 9)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) V provozním účetnictví se může použít formy účtové, tabulkové nebo kombinace obou.\n(2) Pro kontrolu formální správnosti provozního účetnictví je třeba, aby z účetních zápisů každého střediska vyplývala alespoň úhrnně podvojnost."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Při organisaci provozního účetnictví se musí vycházet za směrné účtové osnovy pro komunální podniky (§ 1 vyhlášky generálního sekretariátu Hospodářské rady č. 312/1949 Ú. l. I, kterou se vydávají závazné směrnice pro finanční účetnictví komunálních podniků, ve znění vyhlášky státního úřadu plánovacího č. 468/1950 Ú. l. I, (dále jen „směrná účtová osnova“) s použitím jednoho ze způsobů uvedených v odstavci 2.\n(2) Při organisaci provozního účetnictví se musí použít\na) účtových tříd 4 až 7 směrné účtové osnovy s tímto obsahem:\núčtová třída 4 — náklady\núčtová třída 5 — výnosy\núčtová třída 6 — časové rozlišování nákladů a výnosů\núčtová třída 7 — zásoby a spojovací účty;\nb) nebo týchž účtových tříd a účtových skupin, které jsou stanoveny ve směrné účtové osnově pro zachycování nákladů a výnosů, aktiv a pasiv.\nNáklady a výnosy."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "V provozním účetnictví se zúčtovávají náklady a výnosy rozčleněné na jednotlivé druhy (nákladové a výnosové druhy) podle středisek (§§ 14 až 16), s nimiž souvisí; přitom se musí v provozním účetnictví zúčtovávat i druhotné náklady a vnitropodnikové výnosy, vyplývající zejména z vnitropodnikových výkonů, které si střediska vzájemně poskytují. V rámci středisek je možno zúčtovávat náklady a výnosy ještě podle podnikových výkonů (§ 19)."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Při členění nákladů na jednotlivé druhy je třeba dbát, aby při hospodaření podle rozpočtu bylo možno sledovat hospodaření každého střediska a podrobně zjišťovat jeho hospodárnost.\n(2) Pro členění nákladů každého střediska na druhy v provozním účetnictví jsou rozhodující účtové skupiny, na něž je rozdělena účtová třída 3 směrné účtové osnovy. Podle potřeb provozního účetnictví je v něm dovoleno\na) podrobněji členit náklady zachycované na jednotlivých účtech nebo podúčtech v účtové třídě 3 finančního účetnictví,\nb) slučovat náklady zachycované ve finančním účetnictví v účtových skupinách 30— platy a 31 — mzdy a pokládat přitom tyto účtové skupiny za jednu účtovou skupinu,\nc) slučovat v rámci téže účtové skupiny náklady zachycované na několika účtech nebo podúčtech v účtových skupinách 32 až 39 finančního účetnictví; účtové skupiny 33 a 34 se přitom pokládají za jednu účtovou skupinu."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Pro členění výnosů každého střediska na druhy v provozním účetnictví jsou rozhodující účtové skupiny, na něž je rozdělena účtová třída 8 směrné účtové osnovy. Podle potřeb provozního účetnictví je v něm dovoleno\na) podrobněji členit výnosy zachycované na jednotlivých účtech nebo podúčtech v účtové třídě 8 finančního účetnictví,\nb) slučovat v rámci téže účtové skupiny výnosy zachycované na několika účtech nebo podúčtech v účtové třídě 8 finančního účetnictví; účtové skupiny 80 až 85 se přitom pokládají za jednu účtovou skupinu."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "V provozním účetnictví se musí zachytit v každém zúčtovacím období všechny náklady a výnosy; nejsou-li zachyceny ve finančním účetnictví v jednotlivých zúčtovacích obdobích některé náklady a výnosy, musí se o ně doplnit účetní zápisy provozního účetnictví."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Náklady a výnosy se musí zúčtovat v každém zúčtovacím období částkou, která se hospodářsky týká příslušného období (časové rozlišování)."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "V provozním účetnictví se musí provádět věcné rozlišování nákladů a výnosů zachycováním a zúčtováním kalkulačních úroků.\nAktiva a pasiva."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "Aktivní a pasivní složky, o nichž se účtuje v provozním účetnictví, se zachycují podle středisek, která za ně odpovídají."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "content": "(1) Aktivní a pasivní složky, vyplývající z časového rozlišování nákladů a výnosů v zúčtovacích obdobích, se musí rozčlenit podle nákladových a výnosových druhů provozního účetnictví.\n(2) V provozním účetnictví je dovoleno slučovat přechodné a dohadné položky a pokládat účtové skupiny 27 a 28 finančního účetnictví za jednu účtovou skupinu."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "Při organisaci provozního účetnictví podle způsobu uvedeného v § 4 odst. 2 písm. a) se musí v účtové třídě 7 vyhradit účtové skupiny 70 až 78 pro účtování o zásobách a účtová skupina 79 pro spojovací účty.\nStřediska."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14.",
+      "content": "(1) Aby se mohlo uskutečnit hospodaření podle rozpočtu ve všech složkách podniku, musí se celý podnik rozdělit na střediska.\n(2) Při rozdělení podniku na střediska je třeba brát zřetel na předmět činnosti a velikost podniku; přitom jsou s přihlédnutím k ustanovením §§ 15 a 16 rozhodující zejména hlediska odpovědnostní, místní a účetně technická."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "content": "(1) V podniku, po případě podle organisační výstavby v jeho úsecích nebo závodech, se musí zřídit potřebný počet středisek (je-li pro ně náplň)\na) provozních,\nb) materiálových,\nc) správních,\nd) neutrálních.\n(2) V podniku, po případě v úseku nebo v závodě, který se skládá z více samostatně organizovaných a místně oddělených provozoven, se musí zřídit pro každou provozovnu samostatné provozní středisko. Je-li však provozovna organisačně rozdělena na několik samostatných útvarů, nastává povinnost zřídit potřebný počet středisek podle odstavce 1.\n(3) Provozní střediska se pojmenují podle oboru jejich činnosti (na př. hostinec, zahradnictví, autodrožky)."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "(1) V podniku, který má samostatně organisovanou odbytovou činnost, se musí zřídit kromě středisek uvedených v § 15 odst. 1 též potřebný počet středisek odbytových.\n(2) V podniku, který nemá samostatně organisované sklady a v němž je opatřování materiálu organisačně spojeno s činností provozních středisek, není třeba zřizovat samostatné středisko materiálové."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "Na neutrálním středisku se musí zejména zúčtovat\na) rozdíly, vyplývající z věcného rozlišování nákladů a výnosů v provozním účetnictví,\nb) náklady závislé na hospodářském výsledku podniku."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18.",
+      "content": "V podniku se musí vést seznam (seznamy) středisek, v němž je třeba uvést datum, ke kterému byl sestaven a vyznačovat případné změny s uvedením data, kdy byly provedeny."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19. Podnikové výkony.",
+      "content": "Podnikovými výkony v podniku se rozumějí služby (na př. výkony poslužných oborů, pronajímání bytu, osobní přeprava, provedené opravy) a výrobky, při čemž nerozhoduje, zda jsou tyto služby nebo výrobky určeny pro odbyt (odbytové podnikové výkony) nebo pro použití ve vlastním podniku (vnitropodnikové výkony).\nVedení provozního účetnictví."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20.",
+      "content": "Účetní zápisy provozního účetnictví se provádějí v účetních knihách, které mohou být vázané nebo vedené jako volné listy."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "Účetní zápisy lze provádět v provozním účetnictví\na) zachycováním účetních případů jednotlivě nebo\nb) zachycením stejnorodých účetních případů hromadně alespoň za každé zúčtovací období."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "(1) V každém zúčtovacím období se musí převzít do provozního účetnictví alespoň všechny peněžní částky, které byly zachyceny v témž zúčtovacím období v účtových, třídách 1, 3 a 8 finančního účetnictví.\n(2) Převzetí peněžních částek z finančního účetnictví do provozního účetnictví se musí provést tak, aby se neznemožnil ve finančním účetnictví převod celoročních zůstatků\na) z rozvahových účtů nebo podúčtů na účet rozvažný konečný,\nb) z výsledkových účtů nebo podúčtů na účet hospodářského výsledku.\nUzávěrka v provozním účetnictví."
+    },
+    {
+      "provision_ref": "§ 23.",
+      "section": "23",
+      "title": "§ 23.",
+      "content": "(1) V provozním účetnictví se musí zjišťovat za každé zúčtovací období hospodářský výsledek jednotlivých středisek.\n(2) Z hospodářských výsledků jednotlivých středisek se musí zjišťovat za každé zúčtovací období hospodářský výsledek podniku. Skládá-li se podnik z více úseků, závodů nebo provozoven, rozdělených dále na střediska, musí se z hospodářských výsledků nižších organisačních útvarů zjišťovat postupně hospodářský výsledek vyšších organisačních útvarů (na př. z hospodářských výsledků středisek hospodářské výsledky provozoven, z nich hospodářské výsledky závodů, z nich hospodářské výsledky úseků a z nich hospodářský výsledek podniku).\n(3) Hospodářský výsledek podniku (úseku nebo závodu) se musí rozlišit na provozní a neprovozní.\n(4) Do neprovozního hospodářského výsledku patří výsledky neutrálního střediska."
+    },
+    {
+      "provision_ref": "§ 24.",
+      "section": "24",
+      "title": "§ 24.",
+      "content": "Zúčtovacím obdobím v provozním účetnictví může být nejvýše jeden měsíc s výjimkou jednoduchých bytových a vodárenských podniků, v nichž může být zúčtovacím obdobím nejvýše jedno čtvrtletí."
+    },
+    {
+      "provision_ref": "§ 25.",
+      "section": "25",
+      "title": "§ 25.",
+      "content": "Hospodářské výsledky středisek, provozoven, závodů, úseků i podniku, zjištěné za jednotlivá zúčtovací období, je třeba shrnout v celkový přehled za jednotlivá čtvrtletí a za celý účetní rok, při čemž se musí hospodářské výsledky závodů, úseků a podniku rozlišit na provozní a neprovozní."
+    },
+    {
+      "provision_ref": "§ 26.",
+      "section": "26",
+      "title": "§ 26.",
+      "content": "(1) Hospodářský výsledek podniku za celý účetní rok, zjištěný podle ustanovení § 25, musí souhlasit s hospodářským výsledkem podniku, zjištěným v témž účetním roce ve finančním účetnictví.\n(2) Zůstatky účtů časového rozlišování se musí koncem účetního roku odsouhlasit se zůstatky příslušných rozvahových účtů finančního účetnictví; případné rozdíly se musí v provozním účetnictví zúčtovat výsledkově."
+    },
+    {
+      "provision_ref": "§ 27.",
+      "section": "27",
+      "title": "§ 27.",
+      "content": "V podniku — skládá-li se z více úseků nebo závodů i v jednotlivých úsecích nebo závodech — se musí ke konci každého zúčtovacího období sestavit přehled stavu aktiv a pasiv zachycovaných v provozním účetnictví. Tento přehled lze doplnit z finančního účetnictví o stavy aktiv a pasiv nezachycovaných v provozním účetnictví a sestavit tak celkový přehled aktiv a pasiv ke dni uzávěrky."
+    },
+    {
+      "provision_ref": "§ 28.",
+      "section": "28",
+      "title": "§ 28.",
+      "content": "Uzávěrka provozního účetnictví se musí provést co nejdříve po uplynutí každého zúčtovacího období, aby se provozního účetnictví mohlo využívat k včasným opatřením v podniku, v úsecích, V závodech, ve střediscích i na pracovištích, směřujícím k pohotovému odstraňování případných závad a k dosažení co nejlepších výsledků podniku při plnění „jednotného hospodářského plánu."
+    },
+    {
+      "provision_ref": "§ 29.",
+      "section": "29",
+      "title": "§ 29. Účetní doklady v provozním účetnictví.",
+      "content": "(1) Účetní zápisy, prováděné v provozním účetnictví ve spojitosti s převzetím peněžních částek z finančního účetnictví (§ 22), je možno doložit účetními doklady finančního účetnictví.\n(2) K účetním zápisům, prováděným v provozním účetnictví podle §§ 8 až 10, je třeba pořídit samostatné účetní doklady, pokud je nelze doložit účetními doklady mzdového nebo skladního účetnictví. Přitom lze účetní zápisy, jimiž se zachycují peněžní částky, stanovené pro jednotlivá zúčtovací období rozvrhem nebo podle klíče, doložit hromadnými účetními doklady pro více nebo všechna zúčtovací období téhož účetního roku, jestliže se nezměnily podklady pro výpočet těchto peněžních částek.\n(3) Pokud z účetních dokladů, uvedených v odstavcích 1 a 2, nebo z jiných účetních dokladů nevyplývá způsob zúčtování nákladů a výnosů podle středisek, po případě v rámci středisek i podle podnikových výkonů, musí se sestavit alespoň přehled zásad, podle nichž se zúčtují náklady a výnosy v provozním účetnictví.\nUstanovení všeobecná a závěrečná."
+    },
+    {
+      "provision_ref": "§ 30.",
+      "section": "30",
+      "title": "§ 30.",
+      "content": "(1) Účetní knihy, které obsahují účetní zápisy provozního účetnictví, musí se uschovávat po dobu 10 let, počítajíc od uplynutí účetního roku, v kterém byl v nich proveden poslední účetní zápis.\n(2) Pro úschovu samostatných účetních dokladů provozního účetnictví (§ 29 odst. 2) stanoví se podle § 19 odst. 3 vládního nařízení č. 205/1946 Sb. lhůta tří let od uplynutí účetního roku, jehož se týkají."
+    },
+    {
+      "provision_ref": "§ 31.",
+      "section": "31",
+      "title": "§ 31.",
+      "content": "Při organisaci a vedení provozního účetnictví se musí dbát zásady hospodárnosti."
+    },
+    {
+      "provision_ref": "§ 32.",
+      "section": "32",
+      "title": "§ 32.",
+      "content": "Státní úřad plánovací určí podle ustanovení § 3 zákona č. 116/1946 Sb. vyhláškou v příslušném úředním listě, kdy vznikne pro určitý okruh podniků povinnost řídit se ustanoveními této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 33.",
+      "section": "33",
+      "title": "§ 33.",
+      "content": "Státní úřad plánovací může v případech zřetele hodných povolit nebo nařídit výjimku z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 34.",
+      "section": "34",
+      "title": "§ 34.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

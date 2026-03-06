@@ -1,0 +1,21 @@
+{
+  "id": "cz:82/2008",
+  "type": "statute",
+  "title": "82/2008 Sb., Sdělení Ministerstva životního prostředí o evropsky významných lokalitách, které nebyly zařazeny do evropského seznamu",
+  "title_en": "",
+  "short_name": "82/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-03-05",
+  "in_force_date": "2008-03-05",
+  "url": "https://www.e-sbirka.cz/sb/2008/82",
+  "description": "Sdělení Ministerstva životního prostředí o evropsky významných lokalitách, které nebyly zařazeny do evropského seznamu",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "kód lokality název lokality\nCZ0213054 Pískovna v Kelských Větrušicích\nCZ0213088 Vysoká Libyně\nCZ0213786 Horní Stakory\nCZ0312039 Lštění\nCZ0312042 Nad Dvorcem\nCZ0313108 Věžiště\nCZ0313133 Žďárské louky\nCZ0313139 Záhostice - potok\nCZ0313811 Hrbků rybník\nCZ0315003 Odměny u rybníka Svět\nCZ0420005 Louky pod Louchovem\nCZ0420156 Louky u Volyně\nCZ0523670 Častolovice - zámek\nCZ0533315 Truhličky\nCZ0613331 Šimkovský rybník\nCZ0613821 Rejznarka\nCZ0620039 Za Dyjí\nCZ0622176 Pod rybníkem\nCZ0623705 Hostim-zámek\nCZ0713386 Nad kostelíčkem\nCZ0813453 Lom u Marburku\nCZ0813477 Žermanický lom"
+    }
+  ],
+  "definitions": []
+}

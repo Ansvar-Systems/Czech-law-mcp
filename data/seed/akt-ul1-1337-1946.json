@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1337/1946",
+  "type": "statute",
+  "title": "1337/1946 Ú. l. I, Vyhláška ministerstva financí o devisových bankách v zemích České a Moravskoslezské.",
+  "title_en": "",
+  "short_name": "1337/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-21",
+  "in_force_date": "1946-05-15",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1337",
+  "description": "Vyhláška ministerstva financí o devisových bankách v zemích České a Moravskoslezské.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Devisovými bankami ve smyslu § 6, odst. 1 devisového zákona jsou tyto peněžní ústavy se sídlem v zemi České nebo Moravskoslezské:\nLegiobanka, národní podnik,\nMoravská banka, národní podnik,\nPoštovní spořitelna v Praze,\nPražská úvěrní banka, národní podnik,\nZemědělská banka, národní podnik a\nŽivnostenská banka, národní podnik."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. května 1946."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cz:ul1:580/1947",
+  "type": "statute",
+  "title": "580/1947 Ú. l. I, Vyhláška generálního sekretariátu Hospodářské rady, kterou se vydávají závazné směrnice pro investiční účetnictví.",
+  "title_en": "",
+  "short_name": "580/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-06-07",
+  "in_force_date": "1947-06-07",
+  "url": "https://www.e-sbirka.cz/ul1/1947/580",
+  "description": "Vyhláška generálního sekretariátu Hospodářské rady, kterou se vydávají závazné směrnice pro investiční účetnictví.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Úkoly investičního účetnictví.",
+      "chapter": "Část první.",
+      "content": "Soustavné zápisy finančního účetnictví o investicích, s výjimkou investic ve stavbě, se musí v podnicích podrobněji rozvésti a doplniti v investičním účetnictví, aby toto poskytovalo zejména\na) podrobnou evidenci o složení, stavu a změnách investic, jakož i podklady pro jejich kontrolu,\nb) podklady pro výpočet, zúčtování a kontrolu odpisů z hodnoty investic,\nc) podklady pro pravidelný soupis majetku a kapitálu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Poměr investičního účetnictví k finančnímu účetnictví.",
+      "chapter": "Část první.",
+      "content": "(1) Součet peněžních částek účtovaných v investičním účetnictví musí souhlasiti navzájem se součtem peněžních částek účtovaných v účtových skupinách, po případě na účtech finančního účetnictví, v nichž se zachycuje investiční majetek.\n(2) Investiční účetnictví je třeba uspořádati podle účtových skupin, po případě podle účtů finančního účetnictví, v nichž se zachycuje investiční majetek.\nObsah investičního účetnictví."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "chapter": "Část první.",
+      "content": "(1) Investice se zachycují v zápisech investičního účetnictví jednotlivě, aby pro každou z nich byly zřejmé údaje podle § 5, s výjimkou uvedenou v odstavci 2.\n(2) Hromadně je dovoleno zachycovati investice stejného druhu a stejné podnikové upotřebitelnosti, jsou-li pořízeny v témž účetním roce a je-li každá z nich samostatným celkem, jehož pořizovací hodnota nepřesahuje jednotlivě Kčs 5000. Při tom je nutno, aby z těchto zápisů bylo možno zjistiti počet (množství) hromadně zachycovaných investic."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "chapter": "Část první.",
+      "content": "Zápisy investičního účetnictví se provádějí v účetních knihách, které mohou býti buď vázané nebo vedené jako volné listy."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "chapter": "Část první.",
+      "content": "Zápisy investičního účetnictví musí obsahovati údaje popisné a údaje, týkající se hodnoty investic."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "chapter": "Část první.",
+      "content": "(1) Popisné údaje musí obsahovati aspoň\na) označení příslušné účtové skupiny, po případě účtu finančního účetnictví,\nb) označení druhu a totožnosti (popis) investice,\nc) datum pořízení investice, po případě datum, od kdy se investice používá,\nd) záznam o umístění investice nebo záznam, od kdy a v kterém středisku se investice používá,\ne) jméno vypůjčitele nebo nájemce, jakož i nájemné, jestliže jsou investice půjčeny nebo pronajaty.\n(2) U investic, zachycovaných hromadně (§ 3, odst. 2), není třeba uváděti údaje podle odstavce 1. písm. d) a e)."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "chapter": "Část první.",
+      "content": "(1) Údaje, týkající se hodnoty investic, musí obsahovati aspoň\na) předpokládanou podnikovou upotřebitelnost,\nb) pořizovací hodnotu a její změny s odvoláním na příslušné účetní doklady finančního účetnictví,\nc) odpisovou základnu,\nd) částku odpisů, účtovanou v jednotlivých účetních letech,\ne) součet oprávek ke konci každého účetního roku.\n(2) V zápisech o investicích, u nichž není třeba prováděti pravidelně odpisy z důvodu opotřebení nebo znehodnocení, stačí z údajů obsažených v odstavci 1 uvésti pořizovací hodnotu a její změny."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "chapter": "Část první.",
+      "content": "V zápisech o vyřazených investicích je třeba zaznamenati datum jejich vyřazení a odvolání na příslušné účetní doklady finančního účetnictví."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "chapter": "Část první.",
+      "content": "Užívá-li se v podniku vypůjčených nebo najatých investic, je třeba vésti o nich zvláštní evidenci přiměřeně podle ustanovení § 6, doplněnou údaji o jejich vlastníku, jakož i o nájemném."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10. Ustanovení přechodná.",
+      "chapter": "Část druhá.",
+      "content": "(1) Údaje, požadované podle ustanovení § 6, odst. 1, písm. c) a § 7, odst. 1, písm. c) až e), které nelze při zavedení investičního účetnictví zjistiti, není třeba uváděti.\n(2) Investice, které jsou v podniku při zavedení investičního účetnictví a jejichž hodnota je již odepsána, lze vésti hromadně podle stejného druhu a stejné podnikové upotřebitelnosti v evidenční hodnotě po Kčs 1."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "chapter": "Část třetí.",
+      "content": "V podnicích s malým počtem investic, v nichž se splní všechny náležitosti této vyhlášky v účtových skupinách, na účtech nebo podúčtech finančního účetnictví, není třeba soustavné zápisy podrobněji rozvésti a doplniti v investičním účetnictví."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "chapter": "Část třetí.",
+      "content": "Účetní knihy, které obsahují zápisy investičního účetnictví, se musí uschovávati po dobu deseti let, počítajíc od uplynutí účetního roku, kdy byl v nich proveden poslední zápis."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13.",
+      "chapter": "Část třetí.",
+      "content": "Generální sekretariát Hospodářské rady určí podle ustanovení § 3 zákona č. 116/1946 Sb., vyhláškou v Úředním listě republiky Československé a v Úředním věstníku, kdy vznikne pro určitý okruh podniků povinnost říditi se ustanoveními této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14.",
+      "chapter": "Část třetí.",
+      "content": "Generální sekretariát Hospodářské rady může v případech zřetele hodných povoliti výjimku z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "chapter": "Část třetí.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

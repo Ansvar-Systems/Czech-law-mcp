@@ -1,0 +1,155 @@
+{
+  "id": "cz:2/1994",
+  "type": "statute",
+  "title": "2/1994 Sb., Vyhláška Českého báňského úřadu, kterou se stanoví podmínky pro stavbu a provoz důlního požárního vodovodu",
+  "title_en": "",
+  "short_name": "2/1994 Sb.",
+  "status": "in_force",
+  "issued_date": "1994-01-18",
+  "in_force_date": "1994-01-18",
+  "url": "https://www.e-sbirka.cz/sb/1994/2",
+  "description": "Vyhláška Českého báňského úřadu, kterou se stanoví podmínky pro stavbu a provoz důlního požárního vodovodu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška se vztahuje na stavbu a provoz důlního požárního vodovodu v hlubinných dolech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Výklad pojmů",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se považuje za\na) požární vodu voda, která je v případě vzniku důlního požáru určena k jeho uhašení,\nb) důlní požární vodovod přívod a rozvod požární vody,\nc) svislé důlní dílo jáma, šibík a také úklonné důlní dílo ústící na povrch."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Základní ustanovení",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Důlní požární vodovod musí být rozveden a dimenzován tak, aby z něj bylo možno odebírat množství požární vody podle § 4.\n(2) Důlní požární vodovod může být používán i pro přívod technologické vody a pro účely ochrany dolu proti výbuchu uhelného prachu.\n(3) Důlní požární vodovod musí být chráněn proti zamrznutí.\n(4) Požární voda nesmí obsahovat částice o rozměru větším než 1,2 mm."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Parametry důlního požárního vodovodu",
+      "chapter": "ČÁST DRUHÁ - TECHNICKÉ POŽADAVKY",
+      "content": "Důlní požární vodovod musí být dimenzován tak, aby umožnil\na) na uhelných dolech ve všech používaných a přístupných důlních dílech, na ostatních dolech v místech uvedených v § 13 odst. 2 písm. a) dodávku požární vody v množství nejméně 400 l.min-1 při hydraulickém přetlaku za průtoku 0,25 MPa, přičemž hydrostatický přetlak na konci potrubí nesmí být nižší než 0,4 MPa,\nb) v plynujících dolech II. třídy nebezpečí pro případ havárie přivést k požářišti způsobem uvedeným v havarijním plánu množství vody určené tímto plánem, nejméně však 900 l.min-1 při dodržení tlaku podle písmene a)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Výpočet vodovodní sítě v dole",
+      "chapter": "ČÁST DRUHÁ - TECHNICKÉ POŽADAVKY",
+      "content": "Dimenzi jednotlivých potrubních větví pro požadované parametry průtoku a tlaku je možno určit podle nomogramu pro určení odporů v používaném ocelovém potrubí podle přílohy č. 1. Tento nomogram je sestaven podle Lummertova vzorce při současném součiniteli tření λ = 0,047. U potrubí provozovaného více roků musí být zohledněno zvyšování součinitele tření."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Propojování důlního požárního vodovodu a výtlačného potrubí",
+      "chapter": "ČÁST DRUHÁ - TECHNICKÉ POŽADAVKY",
+      "content": "(1) Výtlačné řady hlavních čerpacích stanic musí mít možnost pohotového propojení s důlním požárním vodovodem. Možný způsob propojení je uveden v příloze č. 1, obrázek č. 1.\n(2) Případ poruchy přívodu požární vody z povrchu do dolu musí být řešen v havarijním plánu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Materiál",
+      "chapter": "ČÁST DRUHÁ - TECHNICKÉ POŽADAVKY",
+      "content": "(1) Pro důlní požární vodovod se používá ocelových trub.\n(2) Tvarovky musí být zhotoveny z materiálů stejných nebo lepších vlastností, než má materiál trub.\n(3) Spojení se provádí přírubovými spoji nebo svařováním.\n(4) Těsnění přírubových spojů se stanoví s ohledem na hydrostatický tlak v potrubí a odolnost proti účinkům kapalin, koroze a tepla.\n(5) Požární armatury musí být z nejiskřivého materiálu, který odolává korozi a vlivům důlního prostředí.\n(6) Požární armatury a hadice musí odolat meznímu tlaku (§ 10)."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Potrubí v jámě",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "Vodovodní potrubí v jámě musí být dimenzováno na tlak, který se rovná součtu tlaku na ohlubni jámy nebo přepadové jímce a hydrostatického tlaku v daném místě. Upevnění potrubí musí být provedeno podle zvláštního předpisu.1)"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Protipožární zajištění svislých důlních děl",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "(1) Všechny vtažné jámy a všechny šibíky s úpadním vedením větrů musí být vybaveny protipožárními zkrápěcími věnci.\n(2) Protipožárními zkrápěcími věnci se nevybavují ty výdušné jámy a výdušné šibíky, které určí závodní dolu se souhlasem obvodního báňského úřadu.\n(3) Protipožární zkrápěcí věnce se budují složené ze dvou stupňů. První stupeň je určen pro okamžitý zásah proti ohni po jeho zjištění a musí být dimenzován jen na takový objemový průtok vody, aby aeromotorický tlak vyvolaný padající vodou nezpůsobil nežádoucí změny v proudění větrů, pumpování nebo přetížení hlavních nebo výpomocných ventilátorů apod. Druhý stupeň musí být dimenzován na nejvyšší dosažitelný průtok.\n(4) Jestliže se výpočtem a zhodnocením účinků padající vody prokáže, že použití druhého stupně protipožárního zkrápěcího věnce nezpůsobí nežádoucí změny v proudění větrů a neohrozí větrací zařízení, lze v jamách a šibících zabudovat jen jeden stupeň dimenzovaný jako druhý stupeň.\n(5) Velikost aeromotorického tlaku vyvolaného padající vodou se vypočte podle vzorců:\nΔp= 16,4 . q8,9+v Pa,\nΔpL=Δp.L.10-2 Pa,\nkde\nΔp je tlak vyvolaný padající vodou na 100 m hloubky v Pa,\nΔpL je tlak v libovolné hloubce jámy nebo šibíku v Pa,\nL je hloubka jámy nebo šibíku v m,\nq je průtok padající vody v l.min-1 na 1m2 průřezu jámy nebo šibíku,\nv je rychlost větrního proudu v jámě nebo šibíku v m.s-1.\n(6) Počet stupňů protipožárních zkrápěcích věnců se určuje na základě výpočtu velikosti aeromotorického tlaku vyvolaného padající vodou a zhodnocení účinků padající vody na větrní síť a na větrací zařízení. Správnost výpočtů se ověří praktickou zkouškou nebo modelováním.\n(7) K protipožárnímu zkrápěcímu věnci prvního stupně musí být zajištěn přívod vody o objemovém průtoku stanoveném výpočtem, k protipožárnímu zkrápěcímu věnci druhého stupně o objemovém průtoku nejméně 50 l.min-1 na 1 m2 průřezu jámy nebo šibíku.\n(8) Protipožární zkrápěcí věnce (oba stupně) se umísťují\na) ve vtažných jamách pod požárními poklopy co nejblíže ohlubni jámy,\nb) v šibících s úpadně vedeným větrním proudem co nejblíže k vyústění šibíku na nejvyšší patro,\nc) ve výdušných jamách a v šibících s dovrchně vedeným větrním proudem s nejvyšší rychlostí větrů 10 m.s-1 jako ve vtažných jamách.\n(9) Přívod vody k protipožárním zkrápěcím věncům se ovládá pomocí uzavíracích šoupátek ručně. U prvního stupně protipožárních zkrápěcích věnců a u protipožárního zkrápěcího věnce podle odstavce 4 lze vedle ručního ovládání použít také automatického ovládání s rozmístěním čidel v takových místech a vzdálenostech, aby byl vznik požáru bezpečně indikován a zařízení uvedeno v činnost. Šoupátka se umísťují tak, aby v případě požáru byla snadno přístupná. Pro možnost kontroly průtoku vody se za šoupátkem ve směru proudu umísťuje tlakoměr. Je-li použito dvou stupňů protipožárních zkrápěcích věnců, musí být na tlakoměru protipožárního zkrápěcího věnce prvního stupně vyznačen nejvýše přípustný tlak odpovídající objemovému průtoku vody pro první stupeň. Tento tlak při použití protipožárních zkrápěcích věnců prvního stupně nesmí být překročen.\n(10) Uzavírací šoupátka musí být označena informačními štítky a musí být vhodným způsobem zajištěna proti zneužití.\n(11) Funkční schopnost zkrápěcího zařízení se musí pravidelně, nejdéle po 6 měsících, kontrolovat. Objemový průtok vody se kontroluje měřidlem umístěným za šoupátkem ve směru proudu. Kontrolu musí provádět k tomu určený pracovník. O kontrole musí být veden záznam, ve kterém se uvede výsledek kontroly a opatření pro odstranění zjištěných nedostatků."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Mezní tlak",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "Musí být učiněna taková technická opatření, aby nedošlo ke zvýšení tlaku vody v potrubí nad hodnotu mezního tlaku. Hodnota mezního tlaku je dána nejnižší hodnotou jmenovitého tlaku použitých požárních hadic a armatur, který je u konopných hadic 1,2 MPa, u izolovaných hadic 1,37 MPa a u nástěnného hydrantu 1,6 MPa."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Redukční stanice a jímky",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "(1) Tlak v důlním požárním vodovodu může být v případě potřeby redukován pomocí redukční stanice nebo jímky.\n(2) Redukční stanice musí být umístněna na přístupném místě. Manipulaci s redukční stanicí musí být nepovolaným osobám zamezeno.\n(3) Pokud je k redukci tlaku použito jímek, musí být upraveny tak, aby bylo zajištěno plynulé zásobování vodou podle § 4. Doporučený obsah jedné jímky je 5 m3. Jímka může mít i více částí vzájemně propojených."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Pojistné ventily",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "Za obtokem redukční stanice musí být namontovány pojistné ventily s nastaveným přetlakem menším, než je hodnota mezního tlaku."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Umístění odboček pro připojení požárních hadic",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "(1) K zajištění odběru požární vody musí být potrubí důlního požárního vodovodu opatřeno odbočkami s nástěnnými hydranty pro napojení požárních hadic. Nástěnný hydrant 52, případně 75 se připojuje vodotěsně na závitové hrdlo příslušného vodovodního potrubí. Sklon hrdla se nastavuje podle místních podmínek tak, aby při použití nedocházelo k lomu připojené požární hadice.\n(2) Odbočky s nástěnnými hydranty musí být\na) na všech dolech\n1. u ústí štoly nebo úpadnice, pokud je hlavním důlním dílem,\n2. na ohlubni jámy,\n3. v každém nárazišti jámy a šibíku,\n4. u skladů a ve skladech výbušnin,\n5. u skladů hořlavin,\n6. na místech určených závodním dolu po projednání s revírní báňskou záchrannou stanicí,\nb) na uhelných dolech také\n1. u všech podzemních provozoven (komor), a to asi 5 až 10 m před vchodem na vtažné straně,\n2. na chodbách s pásovou dopravou ve vzdálenostech nejvíce po 50 m,\n3. na všech ostatních provozovaných chodbách a jiných používaných dlouhých důlních dílech ve vzdálenostech nejvíce po 200 m,\n4. u stěnových porubů a čeleb ražených dlouhých důlních děl nejvíce 50 m od porubu (čelby) na vtažné i výdušné straně,\n5. na chodbách s pásovou dopravou s úklonem větším než 5 ° ve vzdálenostech nejvíce 40 m,\n6. u otvírkových děl procházejících slojí náchylnou k samovznícení 20 m před nafáráním sloje, další po 50 m a poslední ve vzdálenosti 20 m za přechodem důlního díla plným profilem do horniny,\n7. 5 m od posledního pásového výložníku ve směru proti proudění důlních větrů,\n8. na konci každé větve důlního požárního vodovodu,\n9. na přípravných a porubních chodbách pro komory nejvíce 50 m od čelby nebo komory,\n10. na počátku a na konci samostatného větrního oddělení.\nV plynujících dolech II. třídy nebezpečí se na odbočky ventilů na počátku a na konci samostatného větrního oddělení a na nárazištích připojují nástěnné hydranty 75.\n(3) Havarijní plán určí místa s vysokým nebezpečím požáru. V těchto místech musí být také zajištěna možnost odběru požární vody a rozmístěny hadicové skříně."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Armatury a hadicové skříně",
+      "chapter": "ČÁST TŘETÍ - DŮLNÍ POŽÁRNÍ VODOVOD V DŮLNÍCH DÍLECH",
+      "content": "(1) Uzavírací armatury se umísťují za každým odbočením větve potrubní sítě ve všech směrech. Kromě toho se umísťují pro větší operativnost uzavírací šoupátka ve vzdálenostech asi 500 až 800 m od odboček jednotlivých větví.\n(2) Výtokové hrdlo nástěnného hydrantu musí být lehce přístupné.\n(3) Hadicová přenosná skříň musí být zhotovena z nehořlavého materiálu a musí obsahovat alespoň toto vybavení:\na) požární hadice s navázanými půlspojkami 52 x 20 3 ks,\nb) hákový klíč na spojky a šroubení 1 ks,\nc) objímky na hadice 5 ks,\nd) proudnici clonovou nebo mlhovou 1 ks.\nV plynujících dolech II. třídy nebezpečí musí hadicová přenosná skříň umístěná v místech podle § 13 odst. 2 poslední věty obsahovat také redukční polospojku pro přechod ze šroubení C 52 na B 75."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Kontrola důlního požárního vodovodu",
+      "chapter": "ČÁST ČTVRTÁ - KONTROLY, MĚŘENÍ A ZNAČENÍ",
+      "content": "Kontrola2) stavu potrubí a všeho příslušenství rozvodu vody sestává zejména z kontroly\na) zda je důlní požární vodovod pod tlakem,\nb) všech přírubových a závitových spojů na těsnost,\nc) všech armatur v síti, jejichž správná funkce se udržuje úpravou, případně výměnou ucpávek, protáčením a mazáním vřeten, čištěním dosedacích ploch a podobně,\nd) obsahu hadicových skříní,\ne) jímek a redukčních stanic včetně pojistných ventilů."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Způsob kontroly tlaku a množství",
+      "chapter": "ČÁST ČTVRTÁ - KONTROLY, MĚŘENÍ A ZNAČENÍ",
+      "content": "(1) K měření množství a tlaku vody v důlním požárním vodovodu se použije T-kus opatřený kontrolním tlakoměrem s rozsahem 0 až 1,5 MPa a clonou o průměru 21 mm nebo 32 mm podle přílohy č. 2, která je součástí této vyhlášky. Měřící T-kus opatřený pevnou spojkou 52 nebo pevnou spojkou 75 za použití přechodu 75/52 se napojí přímo na nástěnný hydrant.\n(2) Hydraulický tlak se měří při úplném otevření nástěnného hydrantu. Hodnota tlaku se na kontrolním tlakoměru odečte po jejím ustálení po úplném otevření hydrantu. Množství vody, které proteče clonou o průměru 21 a 32 mm při různých tlacích, se vyhodnotí podle tabulky uvedené v příloze č. 3, která je součástí této vyhlášky.\n(3) O výsledku těchto kontrol a opatřeních k odstranění závad musí být učiněn záznam.\n(4) Místa fyzického měření dodávaného množství podle § 4 odst. 1 písm. b) určí podle místních podmínek závodní dolu."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Značení",
+      "chapter": "ČÁST ČTVRTÁ - KONTROLY, MĚŘENÍ A ZNAČENÍ",
+      "content": "(1) K označení potrubí3) důlního požárního vodovodu postačí tmavě červené pruhy o šíři 20 cm ve vzdálenostech po 30 m. Označení musí být také u každé odbočky a armatury.\n(2) Hadicové skříně musí být natřeny červeným nátěrem a označeny bílým nápisem „hadicová skříň“ o výšce písmen 10 cm nebo bílým „H“ o výšce 20 cm."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Přechodná ustanovení",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Povinnosti uvedené v § 9 odst. 2 a odst. 6 v poslední větě musí být splněny nejpozději do 31. prosince 1994."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Výjimky",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Český báňský úřad může ve výjimečných případech povolit výjimky z ustanovení § 4, § 6 odst. 1, § 7 odst. 1 a 5, § 9 odst. 1, § 13 a § 14 odst. 4, a to na žádost podanou spolu s návrhem náhradních opatření."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Účinnost",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1\n1 - Důlní požární vodovod\n2 - Výtlačné potrubí provozní\n3 - Výtlačné potrubí záložní\n4 - Tlakoměr\n5 - Uzavírací šoupátko\n6 - Redukční ventil\n7 - Pojišťovací ventil\n8 - Ruční regulační ventil\nObr. 1. Schéma propojení důlního požárního vodovodu a výtlačného potrubí\nNOMOGRAM PRO URČENÍ ODPORŮ V POUŽÍVANÉM OCELOVÉM POTRUBÍ (PODLE LUMMERTOVA VZORCE)\nPříloha č. 2\nT-kus pro měření hydraulického tlaku\nPOŘ. Č.\nSOUČÁSTINÁZEV SOUČÁSTI\n1T - KUS - OCEL.TRUBKA ZÁVIT. G2 S NÁTRUBKEM M 20 × 1,5\n2PLÁŠŤ PEVNÉ SPOJKY\n3CLONA - OCEL\n4TĚSNĚNÍ - USEŇ\n5KONTROLNÍ TLAKOMĚR 100 - 0/1,6 MPa\nPříloha č. 3\nTabulka pro vyhodnocení průtoku vody\nHydraulický přetlak za průtoku (MPa)Průtok (l.min-1) clonou o průměru\n21 mm32 mm\n0,10169370\n0,20384750\n0,25454880\n0,30511960\n0,355591040\n0,406001100\n0,456371170\n0,50670\n0,55700\n0,60727\n0,65751\n0,70775\n0,75796\n0,80810\n0,85835\n0,90853\n0,95870\n1,00886\n1,05900\n1) Vyhláška Českého báňského úřadu č. 22/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem v podzemí, ve znění pozdějších předpisů.\n2) § 173 odst. 2 vyhlášky č. 22/1989 Sb.\n3) § 222 odst. 3 vyhlášky č. 22/1989 Sb."
+    }
+  ],
+  "definitions": []
+}

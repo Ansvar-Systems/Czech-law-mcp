@@ -1,0 +1,33 @@
+{
+  "id": "cz:80/2020",
+  "type": "statute",
+  "title": "80/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "80/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-13",
+  "in_force_date": "2020-03-13",
+  "url": "https://www.e-sbirka.cz/sb/2020/80",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. s účinností ode dne 14. března 2020 od 6:00 hod. přítomnost veřejnosti v provozovnách poskytovatelů služeb – bazény a turistická informační centra,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. s účinností ode dne 14. března 2020 od 6:00 hod. přítomnost veřejnosti v provozovnách poskytovatelů služeb – vnitřní i venkovní sportoviště s účastí přesahující ve stejný čas 30 osob,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. s účinností od 14. března 2020 od 6:00 hod. se zakazuje maloobchodní prodej na tržnicích a tržištích (např. SAPA)."
+    }
+  ],
+  "definitions": []
+}

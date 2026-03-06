@@ -1,0 +1,33 @@
+{
+  "id": "cz:66/1963",
+  "type": "statute",
+  "title": "66/1963 Sb., Vládní nařízení o úpravě působnosti ve věcech cestovních pasů",
+  "title_en": "",
+  "short_name": "66/1963 Sb.",
+  "status": "in_force",
+  "issued_date": "1963-09-07",
+  "in_force_date": "1963-09-07",
+  "url": "https://www.e-sbirka.cz/sb/1963/66",
+  "description": "Vládní nařízení o úpravě působnosti ve věcech cestovních pasů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Diplomatické pasy a služební pasy pro pracovníky zahraniční služby vydává ministerstvo zahraničních věcí.\n(2) Působnost ve věcech ostatních cestovních pasů a cestovních dokladů přechází z ministerstva zahraničních věcí na ministerstvo vnitra."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se vládní nařízení č. 125/1951 Sb."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

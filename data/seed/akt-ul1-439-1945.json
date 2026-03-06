@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:439/1945",
+  "type": "statute",
+  "title": "439/1945 Ú. l. I, Vyhláška ministra vnitra o osvobození některých divadelních představení od dávky ze zábav.",
+  "title_en": "",
+  "short_name": "439/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-01",
+  "in_force_date": "1945-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1945/439",
+  "description": "Vyhláška ministra vnitra o osvobození některých divadelních představení od dávky ze zábav.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. divadelní představení převážně uměleckého nebo lidově vzdělávacího charakteru, pořádaná provozovateli, kteří jsou uznáni ministerstvem školství a osvěty (stát, země, města a družstva měst, Ústřední rada odborů, Svaz České mládeže, Družstvo divadel práce a Obec divadelních pracovníků a návštěvníků Lidové divadlo)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. činoherní představení těch ochotnických spolků a organisací, které jsou sdruženy v Ústředním výboru českého divadelního ochotnictva.\nOsvobození platí jen pro představení, která se konají před sedadly a při nichž je vyloučeno podávání pokrmů a nápojů, jakož i kouření a která nejsou spojena s tanečními zábavami."
+    }
+  ],
+  "definitions": []
+}

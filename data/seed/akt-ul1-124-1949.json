@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:124/1949",
+  "type": "statute",
+  "title": "124/1949 Ú. l. I, Vyhláška ministerstva národní obrany o povolávání lékařů I. zálohy a náhradní zálohy ke služebnímu cvičení v r. 1949.",
+  "title_en": "",
+  "short_name": "124/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-15",
+  "in_force_date": "1949-01-15",
+  "url": "https://www.e-sbirka.cz/ul1/1949/124",
+  "description": "Vyhláška ministerstva národní obrany o povolávání lékařů I. zálohy a náhradní zálohy ke služebnímu cvičení v r. 1949.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ti lékaři, kteří vykonali presenční službu nebo výcvik v náhradní záloze v zemi České a Moravskoslezské již před okupací a na Slovensku před 5. květnem 1945, jestliže nevykonali aspoň jedno cvičení před 1. květnem 1938, nebo výjimečnou činnou službu v r. 1944/45 podle § 27 br. př. v celkové délce aspoň 6 měsíců anebo dvě cvičení po 1. březnu 1946 v celkové délce aspoň 6 neděl;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. příslušníci náhradní zálohy, kteří vykonali pětiměsíční vojenský výcvik až po 5. květnu 1945 a nemají po něm dvě cvičení v celkové délce aspoň 6 neděl;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. příslušníci náhradní zálohy, kteří byli odvedeni na Slovensku v r. 1944 při opětovném odvodu a kteří podle § 83, 1, c) br. př. byli zařaděni do náhradní zálohy, aniž konali vojenský výcvik.\nPovoláváni nebudou příslušníci čs. armády v zahraničí a jiní účastníci národního boje za osvobození, na něž se vztahuje ustanovení § 18 zák. č. 255/1946 Sb.\nDobrovolné cvičení mohou lékaři vykonat podle § 181 br. př. jen se souhlasem ministerstva národní obrany."
+    }
+  ],
+  "definitions": []
+}

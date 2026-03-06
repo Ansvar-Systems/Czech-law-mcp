@@ -1,0 +1,27 @@
+{
+  "id": "cz:132/1950",
+  "type": "statute",
+  "title": "132/1950 Sb., Nařízení, jímž se obec Roudnička připojuje k Hradci Králové",
+  "title_en": "",
+  "short_name": "132/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-09-29",
+  "in_force_date": "1950-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1950/132",
+  "description": "Nařízení, jímž se obec Roudnička připojuje k Hradci Králové",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Obec Roudnička se připojuje k městu Hradec Králové."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. října 1950; provede je ministr vnitra."
+    }
+  ],
+  "definitions": []
+}

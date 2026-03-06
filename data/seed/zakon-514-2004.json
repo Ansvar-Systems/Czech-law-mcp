@@ -1,0 +1,33 @@
+{
+  "id": "cz:514/2004",
+  "type": "statute",
+  "title": "514/2004 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 289/2002 Sb., kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o platech",
+  "title_en": "",
+  "short_name": "514/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-10-01",
+  "in_force_date": "2004-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/514",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 289/2002 Sb., kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o platech",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Příloha č. 1 k nařízení vlády č. 289/2002 Sb., kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o platech, zní:\n„Příloha č. 1 k nařízení vlády č. 289/2002 Sb.\nDatová struktura údajů o zaměstnanci podle § 2 odst. 1\nČísloNázev ukazateleIdentifikátor1)\na) identifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo zaměstnavatele (IČ)AA0017\n3.Fyzická osoba - kódAA0126\n4.Rok - ročník (rok narození)AA0231\n5.Pohlaví osoby - kódAA0211\n6.Stupeň nejvyššího dosaženého vzdělání - kódAA0223\n7.Kód státuAA0033\n8.Kód zařízení bez vlastního IČAA0113\nb) údaje o právním vztahu\n9.ZaměstnáníAA0013\n10.Zaměstnanec ve státní správěAA0125\n11.Druh právního vztahu - kódAA0130\n12.Týdenní pracovní dobaAA0131\n13.Doba zaměstnáníAA0225\n14.Doba dlouhodobé nepřítomnosti v zaměstnáníAA0216\nc) údaje o pracovní době\n15.Odpracovaná doba včetně přesčasové práceAA0132\n16.Práce přesčasAA0133\n17.Neodpracovaná doba s náhradou platu celkemAA0134\n18.Neodpracovaná doba s náhradou platu - dovolenáAA0135\n19.Koeficient průměrného evidenčního stavu zaměstnance přepočtenýAA0136\n20.Kód evidenčního stavu zaměstnance k poslednímu dni sledovaného obdobíAA0137\nd) údaje o přiznaných složkách platu\n21.Platová třída zaměstnanceAA0127\n22.Platový stupeň zaměstnanceAA0128\n23.Druh platového tarifu - kódAA0129\n24.Platový tarif přiznanýAA0138\n25.Příplatek osobní přiznanýAA0139\n26.Příplatek za vedení přiznanýAA0140\n27.Příplatek za zastupování přiznanýAA0141\n28.Příplatky zvláštní přiznané celkemAA0142\n29.Příplatek hodnostní přiznanýAA0143\ne) údaje o vyplacených prostředcích\n30.Celkový plat zúčtovaný k výplatěAA0144\n31.Platový tarif zúčtovaný k výplatěAA0145\n32.Plat za práci ve svátek zúčtovaný k výplatěAA0146\n33.Plat za práci přesčas zúčtovaný k výplatěAA0147\n34.Plat při výkonu jiné práce zúčtovaný k výplatěAA0148\n35.Další platy zúčtované k výplatěAA0160\n36.Doplatek do minimální mzdy zúčtovaný k výplatěAA0162\n37.Příplatky celkem zúčtované k výplatěAA0150\n38.Příplatek za práci přesčas zúčtovaný k výplatěAA0239\n39.Příplatek za práci v sobotu a v neděli zúčtovaný k výplatěAA0240\n40.Příplatek ze vedení zúčtovaný k výplatěAA0151\n41.Příplatek za zastupování zúčtovaný k výplatěAA0152\n42.Příplatek osobní zúčtovaný k výplatěAA0153\n43.Příplatky zvláštní zúčtované k výplatěAA0154\n44.Příplatky hodnostní zúčtované k výplatěAA0155\n45.Příplatky ostatní zúčtované k výplatěAA0156\n46.Odměny zúčtované k výplatěAA0157\n47.Ostatní složky platu jinde nespecifikované zúčtované k výplatěAA0163\n48.Odměna za pracovní pohotovost celkem zúčtovaná k výplatě celkemAA0161\n49.Odměna za pracovní pohotovost na pracovišti zúčtovaná k výplatěAA0237\n50.Odměna za pracovní pohotovost mimo pracoviště zúčtovaná k výplatěAA0238\n51.Náhrady platu celkem zúčtované k výplatěAA0158\n52.Náhrady za dovolenou zúčtované k výplatěAA0159\n53.Průměrný hodinový výdělek pro pracovně právní účelyAA0165\n54.Nezdanitelná částka základu daně celkemAA0166\n55.Pojistné na veřejné zdravotní pojištění - odvedenéAA0167\n56.Pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti - odvedenéAA0168\n57.Datum (sběru dat)AA0110\nf) ostatní údaje\n58.Kód postavení v zaměstnáníAA0091\n59.Počet dnů nemociAA0210\n60.Evidenční dny v zaměstnáníAA0218\n61.Doba absenceAA0219\n62.Místo pracovištěAA0690\n1) Identifikátorem se rozumí popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný standardem informačních systémů veřejné správy, uveřejněným ve Věstníku Ministerstva informatiky, vydaným podle zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 517/2002 Sb.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. října 2004."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Identifikátorem",
+      "definition": "popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný standardem informačních systémů veřejné správy, uveřejněným ve Věstníku Ministerstva informatiky, vydaným podle zákona č",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:3/2007",
+  "type": "statute",
+  "title": "3/2007 Sb., Vyhláška o celostátním dopravním informačním systému",
+  "title_en": "",
+  "short_name": "3/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-01-05",
+  "in_force_date": "2007-03-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/3",
+  "description": "Vyhláška o celostátním dopravním informačním systému",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Informace mající vliv na bezpečnost a plynulost provozu na pozemních komunikacích",
+      "content": "Informacemi, které mají vliv na bezpečnost a plynulost provozu na pozemních komunikacích, jsou informace o\na) okamžité hustotě a rychlosti dopravního proudu v lokalizovaném úseku pozemní komunikace,\nb) dopravních nehodách, pokud vytváří překážku provozu nebo pokud šetření nebo odstraňování následků dopravní nehody brání plynulému provozu na pozemní komunikaci,\nc) požáru vozidel a jejich nákladů na tělese pozemní komunikace nebo v jeho bezprostřední blízkosti,\nd) požáru objektů v blízkosti pozemní komunikace, pokud mohou ohrozit provoz na pozemní komunikaci,\ne) uzavírkách a objížďkách na pozemní komunikaci1),\nf) zvláštním užívání pozemní komunikace2), pokud na základě vydaného rozhodnutí dojde k omezení provozu na pozemní komunikaci nebo pokud se po pozemní komunikaci nebo v jejím bezprostředním okolí pohybuje zvýšené množství chodců,\ng) překážce provozu na pozemní komunikaci3),\nh) opravách a údržbě pozemní komunikace4),\ni) stavu sjízdnosti a závadách ve sjízdnosti pozemní komunikace5),\nj) úsecích pozemních komunikací v zimním období neudržovaných6),\nk) meteorologické situaci a povětrnostních podmínkách, které mají vliv na průjezdnost pozemní komunikace, sjízdnost pozemní komunikace, bezpečný pohyb vozidel na pozemní komunikaci nebo omezení viditelnosti7),\nl) haváriích sítí8) v tělese pozemní komunikace nebo bezprostřední blízkosti pozemní komunikace,\nm) poruchách součástí a příslušenství pozemní komunikace9),\nn) čekacích dobách způsobených administrativními nebo jinými opatřeními,\no) nařízeném aktuálním omezení průjezdnosti pozemní komunikace pro určité typy vozidel,\np) omezení parkování, například z důvodu blokového čištění,\nq) obsazenosti záchytných parkovišť,\nr) nebezpečí z důvodu jiné mimořádné situace."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob sběru informací majících vliv na bezpečnost a plynulost provozu na pozemních komunikacích",
+      "content": "(1) Policie České republiky, obecní policie, silniční správní úřady, správci pozemních komunikací a Hasičský záchranný sbor České republiky (dále jen „poskytovatelé informací“) sbírají bezodkladně a nepřetržitě informace podle odstavců 2 až 6, které spadají do jejich působnosti nebo předmětu činnosti, a to na základě zjištění nebo hlášení svých zaměstnanců a také prostřednictvím dopravních zařízení, zařízení pro provozní informace a informačních systémů v dopravě, pokud je vlastní nebo provozují. Poskytovatelé informací mohou sbírat i další informace podle § 1, které nespadají do jejich působnosti nebo předmětu činnosti, o nichž se dozví nebo které získají.\n(2) Policie České republiky sbírá z celého území České republiky informace podle § 1 písm. a) až c), g), l) až o) a r), a to prostřednictvím svého informačního systému.\n(3) Obecní policie sbírá z území obce nebo obcí, pro jejichž území vykonává svou působnost, informace podle § 1 písm. a) až c), g), l), m), o) a r), a to prostřednictvím univerzálního systému vybudovaného v rámci celostátního dopravního informačního systému.\n(4) Silniční správní úřady sbírají z pozemních komunikací, v jejichž věcech vykonávají svou působnost, informace podle § 1 písm. e), f), j) a p), a to prostřednictvím Centrální evidence pozemních komunikací10).\n(5) Správci pozemních komunikací, kteří spravují dálnice, rychlostní silnice nebo silnice I., II. a III. tříd, a správci místních komunikací sbírají informace podle § 1 písm. a), h), i), k), m) a q), a to prostřednictvím informačního systému správy a údržby vybudovaného v rámci celostátního dopravního informačního systému z pozemních komunikací, které spravují.\n(6) Hasičský záchranný sbor České republiky sbírá informace podle § 1 písm. b) až d), l) a r), a to z území krajů prostřednictvím informačních systémů krajských operačních a informačních středisek11)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob předávání informací majících vliv na bezpečnost a plynulost provozu na pozemních komunikacích",
+      "content": "(1) Poskytovatelé informací předávají informace sebrané podle § 2 odst. 1 do celostátního dopravního informačního systému v elektronické podobě prostřednictvím datové sítě.\n(2) Poskytovatelé informací přednostně využívají pro digitální geografickou lokalizaci místa události nebo jevu topografické mapy státního mapového díla12) vedené v geodetickém referenčním systému WGS 8413).\n(3) Předávaná informace obsahuje\na) datum a čas vzniku, případně ohlášení sledované události nebo jevu,\nb) datum a čas ukončení nebo předpokládaného ukončení sledované události nebo jevu, případně dobu platnosti informace,\nc) typ, podtyp a rozsah podle číselníků definovaných a používaných v celostátním dopravním informačním systému v souladu s mezinárodními standardy pro dopravní a cestovní informace podle ČSN EN ISO 14819-214),\nd) geografickou lokalizaci místa události nebo jevu v digitální formě s využitím státních mapových děl,\ne) ovlivněný jízdní směr na pozemní komunikaci,\nf) popis přijatých opatření, případně popis aktuální situace na místě vyvolané sledovanou událostí nebo jevem,\ng) datum a čas pořízení informace a údaj o poskytovateli informace, případně jeho zaměstnanci, který informaci pořídil.\n(4) Pokud poskytovatel informací není schopen v rámci svojí působnosti nebo předmětu činnosti sebrat a předat všechny údaje podle odstavce 3 nebo je předat ve formátu podle odstavce 3 písm. c), předává informaci jako neúplnou v rozsahu údajů, které má k dispozici."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob zveřejňování informací majících vliv na bezpečnost a plynulost provozu na pozemních komunikacích",
+      "content": "(1) Informace předávané do celostátního dopravního informačního systému jako neúplné podle § 3 odst. 4 jsou v systému pro účely zveřejnění ověřovány doplněním chybějících údajů podle § 3 odst. 3.\n(2) Ministerstvo dopravy nebo jím pověřená osoba zveřejňuje informace podle § 1 způsobem umožňujícím dálkový přístup, včetně zveřejnění na Portálu veřejné správy, a pro informační systémy poskytovatelů informací a orgánů veřejné správy také prostřednictvím referenčního datového rozhraní."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. března 2007.\n1) § 24 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích.\n2) § 25 odst. 6 zákona č. 13/1997 Sb., ve znění pozdějších předpisů.\n3) § 2 písm. ee) zákona č. 361/2000 Sb.\n4) § 9 vyhlášky č. 104/1997 Sb., kterou se provádí zákon o pozemních komunikacích.\n5) § 26 odst. 1 a 6 zákona č. 13/1997 Sb.\n6) § 27 odst. 6 zákona č. 13/1997 Sb., ve znění zákona č. 80/2006 Sb.\n7) Například § 26 odst. 5 zákona č. 13/1997 Sb.\n8) § 24 odst. 8 zákona č. 13/1997 Sb.\n9) Například § 13 písm. a), b), c) zákona č. 13/1997 Sb., ve znění zákona č. 102/2000 Sb.\n10) § 29a zákona č. 13/1997 Sb., ve znění zákona č. 80/2006 Sb.\n11) § 5 odst. 1 zákona č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů.\n12) Například § 3 odst. 1 písm. e) nařízení vlády č. 430/2006 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla a zásady jejich používání.\n13) § 2 odst. 1 písm. a) nařízení vlády č. 430/2006 Sb.\n14) ČSN EN ISO 14819-2 Dopravní a cestovní informace (TTI) – Zprávy TTI předávané kódováním dopravních zpráv – Část 2: Kódy událostí a informací pro Rádiový datový systém – Kanál dopravních zpráv (RDS-TMC)."
+    }
+  ],
+  "definitions": []
+}

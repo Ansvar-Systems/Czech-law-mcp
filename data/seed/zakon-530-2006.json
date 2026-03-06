@@ -1,0 +1,57 @@
+{
+  "id": "cz:530/2006",
+  "type": "statute",
+  "title": "530/2006 Sb., Vyhláška o postupech atestačních středisek při posuzování dlouhodobého řízení informačních systémů veřejné správy",
+  "title_en": "",
+  "short_name": "530/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-12-06",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/530",
+  "description": "Vyhláška o postupech atestačních středisek při posuzování dlouhodobého řízení informačních systémů veřejné správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví postupy atestačních středisek při posuzování dlouhodobého řízení informačních systémů veřejné správy podle § 6d odst. 1 písm. b) zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Posuzování dlouhodobého řízení informačních systémů veřejné správy sestává ze dvou částí, kterými jsou\na) zkouška,\nb) stanovení výsledku zkoušky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Atestační středisko posuzuje dlouhodobé řízení informačních systémů veřejné správy na základě dokumentů, které mu žadatel o atestaci (dále jen „žadatel“), se kterým má atestační středisko uzavřenou smlouvu o provedení atestace, předkládá k provedení atestace; posuzování zahájí po předložení těchto dokumentů.\n(2) Posuzovanými dokumenty podle odstavce 1 jsou vždy\na) informační koncepce podle § 5a odst. 2 zákona,\nb) provozní dokumentace podle § 5a odst. 3 zákona v rozsahu stanoveném jiným právním předpisem1)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zkouška",
+      "content": "Atestační středisko posuzuje v průběhu zkoušky\na) úplnost informační koncepce; atestační středisko posuzuje, zda informační koncepce má stanovenou strukturu a náležitosti podle jiného právního předpisu1),\nb) úplnost provozní dokumentace; atestační středisko posuzuje, zda provozní dokumentace má stanovené náležitosti podle jiného právního předpisu1),\nc) obsah a logickou konzistenci informační koncepce a provozní dokumentace; atestační středisko posuzuje, zda informační koncepce a provozní dokumentace nejsou vnitřně rozporné,\nd) kvalitu řízení informačního systému veřejné správy; atestační středisko posuzuje, zda skutečnosti uvedené v informační koncepci a provozní dokumentaci jsou v souladu s technickými požadavky na informační systémy veřejné správy, požadavky na strukturování dat v informačních systémech veřejné správy a požadavky na dekomponování informačních systémů veřejné správy stanovenými jiným právním předpisem1),\ne) vyhodnocování dodržování informační koncepce; atestační středisko posuzuje, zda žadatel vyhodnocuje dodržování informační koncepce a\nf) aktuálnost informační koncepce; atestační středisko posuzuje, zda informace uvedené v informační koncepci odpovídají skutečnému stavu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zaznamenávání údajů v průběhu zkoušky",
+      "content": "(1) Atestační středisko zaznamenává údaje o zjištěních, ke kterým dospělo v průběhu zkoušky, do protokolu o provedené zkoušce podle § 6d odst. 4 zákona (dále jen „protokol“).\n(2) Údaje o zjištěních podle odstavce 1 atestační středisko zaznamenává do protokolu ve strukturované formě, a to ke každému posuzovanému hledisku podle § 4; atestační středisko uvede v protokolu vyjádření\na) splněno,\nb) splněno s výhradou, nebo\nc) nesplněno.\n(3) V protokolu se uvádí\na) název, adresa sídla a identifikátor orgánu veřejné moci, a nebyl-li identifikátor orgánu veřejné moci přidělen, identifikační číslo osoby žadatele,\nb) výčet všech dokumentů, které byly k posouzení předloženy, včetně označení jejich verze, počtu stran a data jejich schválení žadatelem,\nc) název a sídlo atestačního střediska, které provedlo zkoušku,\nd) jméno nebo jména a příjmení fyzické osoby, která jménem atestačního střediska zkoušku provedla, nebo zaměstnance atestačního střediska, který řídil provedení atestační zkoušky,\ne) datum zahájení zkoušky a datum jejího ukončení,\nf) datum provedení další zkoušky,\ng) popis průběhu zkoušky,\nh) zjištění podle odstavců 1 a 2,\ni) výsledek provedené zkoušky a jeho odůvodnění podle § 6,\nj) jméno nebo jména a příjmení zaměstnance atestačního střediska, který je oprávněn ke schválení protokolu o provedené zkoušce, jeho podpis a datum schválení protokolu.\n(4) Atestační středisko uchovává protokol a dokumentaci podle § 3 odst. 2 po dobu nejméně 10 let od data vydání atestu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Postup při stanovení výsledku zkoušky",
+      "content": "(1) Na základě zjištění učiněných při posuzování atestační středisko stanoví výsledek zkoušky. Atestační středisko stanoví celkový výsledek zkoušky, který charakterizuje zjištění, která byla v průběhu zkoušky učiněna.\n(2) Výsledek zkoušky „splňuje“ stanoví atestační středisko v případě, že v průběhu posuzování podle § 4 neshledalo žádné nedostatky nebo žadatel zjištěné nedostatky v průběhu posuzování odstranil.\n(3) Výsledek zkoušky „splňuje s výhradou“ stanoví atestační středisko v případě, že v průběhu posuzování podle § 4 shledalo splnění požadavků na úplnost informační koncepce podle § 4 písm. a), na úplnost provozní dokumentace podle § 4 písm. b), na vyhodnocování dodržování informační koncepce podle § 4 písm. e) a na aktuálnost informační koncepce podle § 4 písm. f), ale neshledalo splnění požadavku na\na) obsah a logickou konzistenci podle § 4 písm. c), nebo\nb) kvalitu řízení informačního systému veřejné správy podle § 4 písm. d),\npřičemž žadatel zjištěné nedostatky podle písmen a) a b) v průběhu posuzování neodstranil.\n(4) Výsledek zkoušky „nesplňuje“ stanoví atestační středisko v případě, že v průběhu posuzování podle § 4 neshledalo splnění požadavku na\na) úplnost informační koncepce podle § 4 písm. a),\nb) úplnost provozní dokumentace podle § 4 písm. b),\nc) obsah a logickou konzistenci podle § 4 písm. c) v takovém rozsahu, že zjištěné nedostatky brání uplatnění informační koncepce,\nd) vyhodnocování dodržování informační koncepce podle § 4 písm. e), nebo\ne) aktuálnost informační koncepce podle § 4 písm. f),\npokud žadatel zjištěné nedostatky podle písmen a) až e) v průběhu posuzování neodstranil.\n(5) V odůvodnění výsledku zkoušky atestační středisko uvede\na) k výsledku zkoušky „splňuje“ konstatování, že v průběhu posuzování neshledalo žádné nedostatky nebo žadatel zjištěné nedostatky odstranil, a popis odstraněných nedostatků,\nb) k výsledku zkoušky „splňuje s výhradou“ nebo „nesplňuje“ popis zjištěných nedostatků, jejich předpokládaný vliv na dlouhodobé řízení informačních systémů veřejné správy, a je-li výsledek zkoušky „splňuje s výhradou“, údaj, které zjištěné nedostatky žadatel v průběhu posuzování odstranil, pokud tak žadatel v průběhu posuzování učinil."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2007.\n1) Vyhláška č. 360/2023 Sb., o dlouhodobém řízení informačních systémů veřejné správy."
+    }
+  ],
+  "definitions": []
+}

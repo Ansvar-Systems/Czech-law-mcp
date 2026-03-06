@@ -1,0 +1,27 @@
+{
+  "id": "cz:111/1948",
+  "type": "statute",
+  "title": "111/1948 Sb., Vyhláška o úlevách z visové povinnosti ve styku s Polskem",
+  "title_en": "",
+  "short_name": "111/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-05-29",
+  "in_force_date": "1948-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1948/111",
+  "description": "Vyhláška o úlevách z visové povinnosti ve styku s Polskem",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Visová povinnost pro majitele diplomatických cestovních pasů polských se zrušuje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 1948."
+    }
+  ],
+  "definitions": []
+}

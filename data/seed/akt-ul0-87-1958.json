@@ -1,0 +1,48 @@
+{
+  "id": "cz:ul0:87/1958",
+  "type": "statute",
+  "title": "87/1958 Ú. l., Vyhláška ministerstva automobilového průmyslu a zemědělských strojů, kterou se rozšiřuje seznam výrobků, na něž se vztahuje vyhláška č. 44/1957 Ú. l., o jakostním značkování některých výrobků.",
+  "title_en": "",
+  "short_name": "87/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-06-19",
+  "in_force_date": "1958-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/87",
+  "description": "Vyhláška ministerstva automobilového průmyslu a zemědělských strojů, kterou se rozšiřuje seznam výrobků, na něž se vztahuje vyhláška č. 44/1957 Ú. l., o jakostním značkování některých výrobků.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Seznam výrobků vyráběných v podnicích ministerstva automobilového průmyslu a zemědělských strojů, které jsou výrobci povinni označovat pro tuzemsko značkou jakosti (příloha k vyhlášce č. 44/1957 Ú. l.), se rozšiřuje o výrobky, uvedené v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1958; pro výrobky označené v příloze hvězdičkou, dnem 1. října 1958.\nPříloha k vyhláške č. 87/1958 Ú. l.\nSeznam dalších výrobků, na něž se vztahuje vyhláška ministerstva automobilového průmyslu a zemědělských strojů č. 44/1957 Ú. l.\n2) Tyto výrobky podléhají současně povinnému zkoušení podle vyhlášky č. 78/1955 Ú. l., o povinném zkoušení a kontrole elektrotechnických výrobků, materiálu a pomůcek.\n1) Zkratkou „Jablonec nad Nisou” se rozumí Kovotechna, národní podnik, autorizovaná zkušebna v Jablonci nad Nisou.\nZkratkou „Brno” se rozumí Kovotechna, národní podnik, autorizovaná zkušebna v Brně.\nZkratkou „Piešťany” se rozumí Kovotechna, národní podnik, autorizovaná zkušebna v Piešťanech (pro výrobky podniků se sídlem na Slovensku).\nZkratkou „EZÚ Praha-Troja” se rozumí Elektrotechnický zkušební ústav v Praze.\nDruh výrobkuPříslušná autorizovaná zkušebna (ve zkratce)1)\nPlynové průtokové ohřívače vodyBrno\nPlynová kamna konvekčníBrno\nLihové vařičeBrno\nŠroubovákyJablonec nad Nisou\nDláta a struhy na dřevoJablonec nad Nisou\nMísicí bateriePiešťany\nDětská vozítkaJablonec nad Nisou\nJízdní kolaJablonec nad Nisou\nTypisovaná kovová kuchyněJablonec nad Nisou\nŠroubové klíčeJablonec nad Nisou\nPlynoměry membránovéBrno\nPlynové chladničkyBrno\nKovové sporáky na tuhá paliva pro domácnostBrno\nKovová kamna na tuhá paliva pro domácnostBrno\nKleště štípacíJablonec nad Nisou\nNádobí nerez InoxydablePiešťany, Brno\nStáčecí metryPiešťany\nOcelová pravítka, úhelníky, trojúhelníkyPiešťany\nElektrické sporáky2)EZÚ Praha-Troja\nElektrické trouby2)EZÚ Praha-Troja\nElektrické vařiče2)EZÚ Praha-Troja\n*Šicí stroje pro domácnost [též elektrické]2)Brno\n*Strojní šicí jehly do šicích strojů pro domácnostBrno\n*RýsovadlaPiešťany\n*Visací zámkyJablonec nad Nisou"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zkratkou „Jablonec nad Nisou”",
+      "definition": "Kovotechna, národní podnik, autorizovaná zkušebna v Jablonci nad Nisou",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Zkratkou „Brno”",
+      "definition": "Kovotechna, národní podnik, autorizovaná zkušebna v Brně",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Zkratkou „Piešťany”",
+      "definition": "Kovotechna, národní podnik, autorizovaná zkušebna v Piešťanech (pro výrobky podniků se sídlem na Slovensku)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Zkratkou „EZÚ Praha-Troja”",
+      "definition": "Elektrotechnický zkušební ústav v Praze",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cz:43/1975",
+  "type": "statute",
+  "title": "43/1975 Sb., Vyhláška Ústřední rady odborů, kterou se vydávají směrnice o pravomocech odborových orgánů v souvislosti s organizací výrobních hospodářských jednotek a jejich statuty, schválené usnesením předsednictva ÚRO ze dne 5. února 1975",
+  "title_en": "",
+  "short_name": "43/1975 Sb.",
+  "status": "in_force",
+  "issued_date": "1975-04-29",
+  "in_force_date": "1975-04-29",
+  "url": "https://www.e-sbirka.cz/sb/1975/43",
+  "description": "Vyhláška Ústřední rady odborů, kterou se vydávají směrnice o pravomocech odborových orgánů v souvislosti s organizací výrobních hospodářských jednotek a jejich statuty, schválené usnesením předsednictva ÚRO ze dne 5. února 1975",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část I.",
+      "content": "1. Příslušný orgán Revolučního odborového hnutí"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část I.",
+      "content": "2. Příslušným orgánem Revolučního odborového hnutí je:\na) u výrobních hospodářských jednotek řízených federálními ústředními orgány státní správy příslušný ústřední výbor odborového svazu,\nb) u výrobních hospodářských jednotek řízených republikovými ústředními orgány státní správy příslušný český, popř. slovenský výbor odborového svazu,\nc) u národních podniků (podniků, účelových organizací, koncernových podniků a koncernových účelových organizací) řízených výrobní hospodářskou jednotkou v působnosti federálních ústředních orgánů státní správy příslušný ústřední výbor odborového svazu,\nd) u národních podniků (podniků, účelových organizací, koncernových podniků a koncernových účelových organizací) řízených výrobní hospodářskou jednotkou v působnosti republikových ústředních orgánů státní správy příslušný český, popř. slovenský výbor odborového svazu."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část I.",
+      "content": "3. Ústřední výbor odborového svazu (český, popř. slovenský výbor odborového svazu) může zmocnit k úkonům podle bodu 1 nižší svazový orgán."
+    }
+  ],
+  "definitions": []
+}

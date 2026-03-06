@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:145/1950",
+  "type": "statute",
+  "title": "145/1950 Ú. l. I, Vyhláška ministerstva výživy, kterou se prodlužuje platnost vyhlášky nejvyššího úřadu cenového o cenách mléka a mléčných výrobků.",
+  "title_en": "",
+  "short_name": "145/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-03-03",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/145",
+  "description": "Vyhláška ministerstva výživy, kterou se prodlužuje platnost vyhlášky nejvyššího úřadu cenového o cenách mléka a mléčných výrobků.",
+  "provisions": [
+    {
+      "provision_ref": "Článek I.",
+      "section": "I",
+      "title": "Článek I.",
+      "content": "Platnost vyhlášky nejvyššího úřadu cenového č. 271/1947 Ú. l. I, o cenách mléka a mléčných výrobků, ve znění vyhlášky č. 3558/1948 Ú. l. I a vyhlášky č. 725/1949 Ú. l. I se prodlužuje do konce roku 1950."
+    },
+    {
+      "provision_ref": "Článek II.",
+      "section": "II",
+      "title": "Článek II.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1950."
+    }
+  ],
+  "definitions": []
+}

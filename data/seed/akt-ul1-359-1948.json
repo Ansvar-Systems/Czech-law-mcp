@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:359/1948",
+  "type": "statute",
+  "title": "359/1948 Ú. l. I, Vyhláška ministryně průmyslu o začlenění účastí znárodněných podniků do Československých závodů kovodělných a strojírenských, národního podniku.",
+  "title_en": "",
+  "short_name": "359/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-03-05",
+  "in_force_date": "1948-03-20",
+  "url": "https://www.e-sbirka.cz/ul1/1948/359",
+  "description": "Vyhláška ministryně průmyslu o začlenění účastí znárodněných podniků do Československých závodů kovodělných a strojírenských, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku Akciová společnost dříve Škodovy závody v Plzni, se sídlem v Plzni, účast na podniku Omnipol, akciová společnost, Praha;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku Akciová společnost pro automobilový průmysl, se sídlem v Praze, účast na podniku Omnipol, akciová společnost, Praha."
+    }
+  ],
+  "definitions": []
+}

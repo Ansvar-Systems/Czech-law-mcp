@@ -1,0 +1,93 @@
+{
+  "id": "cz:ul1:408/1949",
+  "type": "statute",
+  "title": "408/1949 Ú. l. I, Vyhláška ministerstva výživy o výrobě a odbytu kvasného octa.",
+  "title_en": "",
+  "short_name": "408/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-03-16",
+  "in_force_date": "1949-03-16",
+  "url": "https://www.e-sbirka.cz/ul1/1949/408",
+  "description": "Vyhláška ministerstva výživy o výrobě a odbytu kvasného octa.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Kvasným octem se rozumí ocet vyrobený octovým kvašením\na) zředěného čistého lihu nebo surového lihu bramborového (přírodní kvasný ocet lihový),\nb) lihově zkvašených zápar obilních, sladových nebo škrobových (ocet obilní nebo sladový),\nc) hroznového neb ovocného vína (ocet vinný neb ovocný)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kvasný ocet smí býti dodáván pro přímou spotřebu pouze o kyselosti 8%, pro průmysl potravinářský také o kyselosti vyšší, nejméně však o kyselosti 8%."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Množství lihu a ostatních surovin na výrobu kvasného octa pro jednotlivé výrobce kvasného octa (v dalším jen „výrobci“) stanoví a rozvrhuje Československý průmysl lihovarský a drožďařský, národní podnik (v dalším jen „ústřední ředitelství“).\n(2) Líh na výrobu kvasného octa přidělí výrobcům Československý monopol lihový podle pokynů ústředního ředitelství."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Výrobci jsou povinni vésti podle pokynů ústředního ředitelství\na) provozní knihy o výrobě kvasného octa a o spotřebě surovin,\nb) seznam odběratelů,\nc) záznamy o výdeji kvasného octa.\n(2) Velkodistribuční podnik, zaps. spol. s r. o. jest povinen vésti seznam odběratelů a záznamy o nákupu a výdeji kvasného octa.\n(3) Provozní knihy, seznam odběratelů a záznamy podle odstavců 1 a 2 jest uschovati po dobu tří let."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Výrobci jsou povinni podávati měsíčně ústřednímu ředitelství podle jeho pokynů hlášení o množství kvasného octa vyrobeného, nakoupeného a dodaného."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Výrobci jsou povinni říditi se příkazy ústředního ředitelství."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Odběratelé kvasného octa jsou povinni vrátiti včas dodavateli zapůjčené nádoby (sudy, demijony, láhve a pod.) nepoškozené, jinak jest dodavatel oprávněn zastaviti dodávky kvasného octa až do vrácení nádob."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "(1) Prováděním technologické a analytické kontroly octáren se pověřuje ústřední ředitelství.\n(2) Výrobci jsou povinni upraviti výrobu tak, aby byly odstraněny závady zjištěné při kontrole podle odstavce 1.\n(3) Náklady spojené s prováděním kontroly podle odstavce 1 hradí ústřední ředitelství."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Distribuci kvasného octa upraví Velkodistribuční podnik, zaps. spol. s r. o. v dohodě s ústředním ředitelstvím se schválením ministerstva výživy v dohodě s ministerstvem vnitřního obchodu."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Vyhláška ministra výživy ze dne 31. prosince 1946, č. 37 Ú. l. I z roku 1947, o výrobě a odbytu kvasného octa, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu č. 118/1945 Sb. ve znění zákona č. 274/1948 Sb."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kvasným octem",
+      "definition": "ocet vyrobený octovým kvašením",
+      "source_provision": "§ 1."
+    }
+  ]
+}

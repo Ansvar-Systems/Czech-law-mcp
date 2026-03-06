@@ -1,0 +1,45 @@
+{
+  "id": "cz:12/1999",
+  "type": "statute",
+  "title": "12/1999 Sb., Vyhláška Národního bezpečnostního úřadu o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků",
+  "title_en": "",
+  "short_name": "12/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-01-21",
+  "in_force_date": "1999-12-28",
+  "url": "https://www.e-sbirka.cz/sb/1999/12",
+  "description": "Vyhláška Národního bezpečnostního úřadu o zajištění technické bezpečnosti utajovaných skutečností a certifikaci technických prostředků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví způsob použití technických prostředků při ochraně utajovaných skutečností, certifikaci technických prostředků a náležitosti certifikátů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Certifikace technických prostředků",
+      "content": "(1) Certifikace technických prostředků je proces ověřování shody technických prostředků určených pro ochranu utajovaných skutečností s bezpečnostními standardy Úřadu. Vymezení a jednotlivé druhy technických prostředků stanoví zvláštní právní předpis.1a)\n(2) K certifikaci technického prostředku předkládá žadatel následující dokumenty:\na) žádost o certifikaci technického prostředku opatřenou seznamem dokumentů,\nb) specifikaci technického prostředku a uživatelského prostředí,\nc) uvedení požadované kategorie technického prostředku podle § 5 této vyhlášky,\nd) prohlášení o nezávadnosti či shodě technického prostředku,\ne) prohlášení o stejném složení a provedení technického prostředku,\nf) posudek vystavený pověřenou organizací.1b)\n(3) S dokumenty uvedenými v odstavci 2 předkládá žadatel také technický prostředek, který má být certifikován, pokud si to Úřad vyžádá.\n(4) Certifikát technického prostředku, jehož vzor je uveden v příloze, obsahuje\na) identifikační číslo certifikátu technického prostředku,\nb) jednoznačné typové určení prostředku,\nc) údaje o výrobci technického prostředku,\nd) údaje o držiteli certifikátu technického prostředku,\ne) stupeň utajení, pro který byla schválena způsobilost technického prostředku podle § 5 této vyhlášky,\nf) dobu platnosti certifikátu technického prostředku,\ng) datum vydání certifikátu technického prostředku.\n(5) Úřad lze požádat o vydání nového certifikátu technického prostředku nejméně 30 dní před uplynutím doby jeho platnosti."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Kategorizace technických prostředků",
+      "content": "(1) Technické prostředky se podle stupně utajení utajovaných skutečností, k jejichž ochraně se používají, zařazují do těchto kategorií:\na) „V“ - technické prostředky k ochraně utajovaných skutečností stupně utajení „Vyhrazené“,\nb) „D“ - technické prostředky k ochraně utajovaných skutečností stupně utajení „Důvěrné“,\nc) „T“ - technické prostředky k ochraně utajovaných skutečností stupně utajení „Tajné“,\nd) „PT“ - technické prostředky k ochraně utajovaných skutečností stupně utajení „Přísně tajné“.\n(2) Ve Věstníku Úřadu bude průběžně zveřejňován seznam certifikovaných technických prostředků."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Použití jednotlivých kategorií technických prostředků při zajišťování ochrany objektů a zabezpečených oblastí v rámci objektové bezpečnosti stanoví zvláštní předpis.1a)"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 12/1999 Sb.\nCertifikát\n1a) Vyhláška č. 339/1999 Sb., o objektové bezpečnosti.\n1b) § 53 odst. 2 zákona č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění zákona č. 164/1999 Sb."
+    }
+  ],
+  "definitions": []
+}

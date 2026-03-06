@@ -1,0 +1,39 @@
+{
+  "id": "cz:331/1998",
+  "type": "statute",
+  "title": "331/1998 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Federálního ministerstva zahraničního obchodu č. 560/1991 Sb., o podmínkách vydávání úředního povolení k dovozu a vývozu zboží a služeb, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "331/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-12-22",
+  "in_force_date": "1998-12-22",
+  "url": "https://www.e-sbirka.cz/sb/1998/331",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Federálního ministerstva zahraničního obchodu č. 560/1991 Sb., o podmínkách vydávání úředního povolení k dovozu a vývozu zboží a služeb, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 560/1991 Sb., o podmínkách vydávání úředního povolení k dovozu a vývozu zboží a služeb, ve znění vyhlášek Ministerstva průmyslu a obchodu č. 130/1993 Sb., č. 300/1993 Sb., č. 88/1994 Sb., č. 175/1994 Sb., č. 192/1995 Sb., č. 156/1996 Sb., č. 115/1997 Sb., č. 233/1997 Sb., č. 56/1998 Sb., č. 141/1998 Sb. a č. 261/1998 Sb., se mění takto:\n1. V příloze A/I části I se před položku „1701 třtinový nebo řepný cukr a chemicky čistá sacharóza – původem ze Slovenské republiky“ doplňují tyto položky:\n„1001 90 99 10pšenice potravinářská – původem z Maďarské republiky do 30. 4. 19991tuna\n1001 90 99 20pšenice krmná – charakterizovaná objemovou hmotností v rozsahu 740 - 760 g/l,\nobsahem mokrého lepku v sušině nižším než 20 % a obsahem dusíkatých látek\nvyšším než 13 % - původem z Maďarské republiky 80 000tuna\nz toho: do 31. 12. 1998\ndo 31. 1. 1999\ndo 28. 2. 1999\ndo 31. 3. 1999\ndo 30. 4. 199915 000\n15 000\n15 000\n15 000\n20 000tuna\ntuna\ntuna\ntuna\ntuna\n1001 90 99 90pšenice ostatní – původem z Maďarské republiky do 30. 4. 19991tuna“.\n2. V příloze A/II části II se v položce 1001 za slova „pšenice a sourež“ vkládají slova „s výjimkou položky 1001 90 99 10 – pšenice potravinářská – původem z Maďarské republiky, 1001 90 99 10 – pšenice krmná původem z Maďarské republiky a 1001 90 99 90 – pšenice ostatní původem z Maďarské republiky“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Zbožím původem z Maďarské republiky se rozumí zboží, které splňuje podmínky stanovené zvláštním zákonem, pokud z mezinárodní úmluvy, jíž je Česká republika vázána, nevyplývá jinak."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím původem z Maďarské republiky",
+      "definition": "zboží, které splňuje podmínky stanovené zvláštním zákonem, pokud z mezinárodní úmluvy, jíž je Česká republika vázána, nevyplývá jinak",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

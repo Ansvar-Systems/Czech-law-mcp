@@ -1,0 +1,39 @@
+{
+  "id": "cz:2/2013",
+  "type": "statute",
+  "title": "2/2013 Sb., Vyhláška o obsahových náležitostech žádosti o povolení domácí porážky skotu mladšího 24 měsíců nebo jelenovitých z farmového chovu a obsahových náležitostech jejího ohlašování",
+  "title_en": "",
+  "short_name": "2/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-01-07",
+  "in_force_date": "2013-01-07",
+  "url": "https://www.e-sbirka.cz/sb/2013/2",
+  "description": "Vyhláška o obsahových náležitostech žádosti o povolení domácí porážky skotu mladšího 24 měsíců nebo jelenovitých z farmového chovu a obsahových náležitostech jejího ohlašování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje obsahové náležitosti žádosti chovatele o povolení k provádění domácích porážek skotu mladšího 24 měsíců nebo jelenovitých z farmového chovu (dále jen „domácí porážka“) a obsahové náležitosti ohlašování domácí porážky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obsahové náležitosti žádosti",
+      "content": "Žádost o povolení k provádění domácích porážek obsahuje kromě náležitostí podle správního řádu1)\na) telefonní nebo e-mailové spojení na chovatele,\nb) adresu hospodářství, popřípadě jiné určení místa, kde se nachází hospodářství, pokud adresu nelze uvést,\nc) registrační číslo hospodářství."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Obsahové náležitosti ohlášení",
+      "content": "Ohlášení domácí porážky obsahuje kromě náležitostí uvedených v § 2\na) datum a čas domácí porážky,\nb) počet, druh a identifikační číslo poráženého zvířete a v případě skotu také datum narození,\nc) způsob neškodného odstranění specifikovaného rizikového materiálu2), jde-li o porážení skotu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\n1) § 37 odst. 2 a § 45 odst. 1 zákona č. 500/2004 Sb., správní řád.\n2) Příloha V bod 1 písm. a) nařízení Evropského parlamentu a Rady (ES) č. 999/2001 ze dne 22. května 2001 o stanovení pravidel pro prevenci, tlumení a eradikaci některých přenosných spongiformních encefalopatií, v platném znění."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:169/1952",
+  "type": "statute",
+  "title": "169/1952 Ú. l., Vyhláška ministra financí, kterou se mění a doplňuje vyhláška o placení inkasními příkazy.",
+  "title_en": "",
+  "short_name": "169/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-07-05",
+  "in_force_date": "1952-07-09",
+  "url": "https://www.e-sbirka.cz/ul0/1952/169",
+  "description": "Vyhláška ministra financí, kterou se mění a doplňuje vyhláška o placení inkasními příkazy.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Vyhláška ministra financí č. 373/1951 Ú. l. I, o placení inkasními příkazy, se mění a doplňuje takto:\n1. Ustanovení § 5 odst. 1 věty předposlední zní:\n„Státní banka československá, Investiční banka, národní podnik, a ústavy lidového peněžnictví mohou povolit výjimky z povinnosti přikládat k inkasnímu příkazu fakturu.“\n2. Ustanovení § 6 odst. 1 věty poslední se zrušuje.\n3. Ustanovení § 6 odst. 5 se zrušuje.\n4. Ustanovení § 7 odst. 1 zní:\n„(1) Vrátí-li odběratel fakturu, protože neobsahuje podstatné náležitosti podle vyhlášek o fakturování a placení, nebo uplatní-li v platební lhůtě námitky (nároky z odpovědnosti za vady, reklamace), přikáže peněžnímu ústavu, se kterým je ve spojení, aby úhradu fakturované částky buď zcela nebo zčásti neprovedl. Částečný zákaz placení faktury nesmí být dán, nepřesahuje-li částka, o niž má být konečná částka faktury snížena, 100 Kčs. Nárok na vrácení částek nepřevyšujících 100 Kčs lze uplatnit pouze reklamací u dodavatele.“\n5. Do § 21 odst. 3 se vkládá za písm. f) další ustanovení písm. g), které zní:\n„g) den splatnosti penále.“\n6. Do oddílu IX se před § 23 vkládá nový § 22a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 22a.",
+      "section": "22a",
+      "title": "„§ 22a.",
+      "content": "(1) Základní inkasní příkaz a místní inkasní příkaz nesmí být vystaven na částku nižší než 5000 Kčs. V hospodářsky odůvodněných případech může být tato částka snížena dohodou dodavatele se Státní bankou československou nebo Investiční bankou, národním podnikem, až na 1000 Kčs. Nedojde-li k dohodě, rozhodne ministerstvo financí k návrhu ministerstva, jehož dohledu podléhá dodavatel.\n(2) Omezení podle odstavce 1 se nevztahuje na vybírání penále základním inkasním příkazem.“"
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "V době od 9. do 31. července 1952 mohou být bez zvláštní dohody (§ 22a odst. 1) vystavovány základní inkasní příkazy a místní inkasní příkazy na částky od 1000 do 5000 Kčs."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 9. července 1952; vztahuje se na placení faktur a vyúčtování penále, vydaných počínajíc tímto dnem."
+    }
+  ],
+  "definitions": []
+}

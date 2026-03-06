@@ -1,0 +1,39 @@
+{
+  "id": "cz:19/2001",
+  "type": "statute",
+  "title": "19/2001 Sb., Nařízení vlády, kterým se stanoví prozatímní ochranné opatření na dovoz některých výrobků do České republiky",
+  "title_en": "",
+  "short_name": "19/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-01-10",
+  "in_force_date": "2001-01-10",
+  "url": "https://www.e-sbirka.cz/sb/2001/19",
+  "description": "Nařízení vlády, kterým se stanoví prozatímní ochranné opatření na dovoz některých výrobků do České republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) U zboží uvedeného v celním sazebníku1) v podpoložkách 1702 3010 - Isoglukóza, 1702 4010 - Isoglukóza, 1702 6010 - Isoglukóza a 1702 9030 - Isoglukóza se sazba dovozního cla stanovená celním sazebníkem1) nebo mezinárodní smlouvou2) zvyšuje o 70.\n(2) U zboží uvedeného v celním sazebníku1) v podpoložkách 1702 3059 - Ostatní a 1702 3099 - Ostatní se sazba dovozního cla stanovená celním sazebníkem1) nebo mezinárodní smlouvou2) zvyšuje o 60.\n(3) U zboží uvedeného v celním sazebníku1) v podpoložce 1702 9099 - Ostatní se sazba dovozního cla stanovená celním sazebníkem1) nebo mezinárodní smlouvou2) zvyšuje o 90.\n(4) U zboží uvedeného v celním sazebníku1) v podpoložkách 2106 9030 - Z isoglukózy a 2106 9059 - Ostatní se sazba dovozního cla stanovená celním sazebníkem1) nebo mezinárodní smlouvou2) zvyšuje o 100."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Ustanovení § 1 odst. 1 se nevztahuje na dovoz zboží pocházející ze Slovenské republiky, na které se vztahuje zvláštní právní předpis.3)\n(2) Zbožím podle odstavce 1 se rozumí zboží, které splňuje podmínky stanovené mezinárodní smlouvou.4)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vyhlášení.\n(2) Toto nařízení pozbývá platnosti dnem 28. července 2001.\n1) Nařízení vlády č. 441/2000 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Sdělení Ministerstva zahraničních věcí č. 54/1995 Sb., o sjednání Středoevropské dohody o volném obchodu - Protokol č. 7, v platném znění.\nSdělení Ministerstva zahraničních věcí č. 189/1997 Sb., o sjednání Dohody o volném obchodu mezi Českou republikou a Litevskou republikou - Protokol č. 4, v platném znění.\nSdělení Ministerstva zahraničních věcí č. 237/1993 Sb., o sjednání Smlouvy o vytvoření celní unie mezi Českou republikou a Slovenskou republikou.\n3) Nařízení vlády č. 185/2000 Sb., kterým se stanoví výrobky, jež mohou být dováženy do České republiky nebo vyváženy z České republiky jen na základě licence podle zákona č. 62/2000 Sb., o některých opatřeních při vývozu nebo dovozu výrobků a o licenčním řízení a o změně některých zákonů, ve znění nařízení vlády č. 446/2000 Sb. a nařízení vlády č. 495/2000 Sb.\n4) Sdělení Ministerstva zahraničních věcí č. 28/1997 Sb., o sjednání Dohody mezi vládou České republiky a vládou Slovenské republiky, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím podle odstavce 1",
+      "definition": "zboží, které splňuje podmínky stanovené mezinárodní smlouvou",
+      "source_provision": "§ 2"
+    }
+  ]
+}

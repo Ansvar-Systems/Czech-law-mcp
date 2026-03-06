@@ -1,0 +1,39 @@
+{
+  "id": "cz:127/2020",
+  "type": "statute",
+  "title": "127/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "127/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-23",
+  "in_force_date": "2020-03-23",
+  "url": "https://www.e-sbirka.cz/sb/2020/127",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. lze u zaměstnanců, jejichž pracovněprávní vztah vznikne ode dne vyhlášení tohoto opatření, nahradit čestným prohlášením, jehož vzor je uveden v příloze 1 tohoto opatření:\na) zdravotní průkaz podle § 19 odst. 2 zákona č. 258/2000 Sb., ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a\nb) posouzení zdravotní způsobilosti osoby ucházející se o zaměstnání dle zákona č. 373/2011 Sb., o specifických zdravotních službách, ve znění pozdějších předpisů,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. není u zaměstnanců potřeba provádět periodické lékařské prohlídky ve smyslu ustanovení § 11 vyhlášky č. 79/2013 Sb., o provedení některých ustanovení zákona č. 373/2011 Sb., o specifických zdravotních službách, (vyhláška o pracovnělékařských službách a některých druzích posudkové péče), ve znění pozdějších předpisů,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. platnost povolení k zaměstnání a povolení a víz k pobytu vydaných do dne vyhlášení tohoto opatření osobám v pracovněprávním vztahu k zaměstnavatelům, kteří poskytují služby na základě dohody dle § 308 zákona č. 262/2006 Sb., zákoník práce, v platném znění, nebo na základě jiné smlouvy, se prodlužuje na dobu do 60 dnů po skončení nouzového stavu, za předpokladu, že jsou ke dni vyhlášení tohoto opatření platné,"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. se nemusí u zabalených potravin dodržovat další požadavky pro uvádění na trh stanovené prováděcím právním předpisem;"
+    }
+  ],
+  "definitions": []
+}

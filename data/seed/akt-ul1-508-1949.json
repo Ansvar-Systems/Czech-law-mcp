@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:508/1949",
+  "type": "statute",
+  "title": "508/1949 Ú. l. I, Vyhláška ministerstva zdravotnictví o hlášení tuberkulosy.",
+  "title_en": "",
+  "short_name": "508/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-04-22",
+  "in_force_date": "1949-04-22",
+  "url": "https://www.e-sbirka.cz/ul1/1949/508",
+  "description": "Vyhláška ministerstva zdravotnictví o hlášení tuberkulosy.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "1. Aktivní tuberkulosou se rozumí každá forma tuberkulosy, kde lékař nemůže podat spolehlivý důkaz o tom, že choroba je definitivně zhojena, t. j. že neprojevuje známky aktivity. Projevy a známky aktivity jsou zejména:\na) všeobecné příznaky:\núbytek na váze, nechuť k jídlu, únavnost, noční poty;\nb) funkční příznaky, ukazující na poruchu dýchacího ústrojí; kašel, vykašlávání, zejména krve, bolesti v prsou (hlavně na podkladě pleuritickém) a zvláště pak zvýšené teploty:\nc) znaky objektivně zjistitelné:\nobjektivně naměřená zvýšená teplota, odchylná sedimentace, zjištěný nález fysikální a roentgenový, zjištěný nález laryngeální, a správné, opakované a systematické vyšetřování sputa event. laryng. výtěru.\n2. Při hlášení úmrtí je nutno ohlásiti nejen ty osoby, u nichž byla tuberkulosa bezprostřední příčinou smrti, nýbrž i ty osoby, které zemřely z příčin jiných (různé choroby, úrazy, sebevraždy atd.)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "1. Hlášení jest podati pro každý jednotlivý případ uvedený v § 1, odst. 1 na dvojitém tiskopise „Hlášení tuberkulosy“ (dále jen „hlášení“), vydaném Státní tiskárnou v Praze čís. skl. 706/A, jehož vzor je uveden v příloze této vyhlášky jako tiskopis č. 1. Tento tiskopis, v obou částech vyplněný, jest zaslati příslušnému ústavu národního zdraví, který jej předá příslušné protituberkulosní poradně (dále jen „poradně“) — do 3 dnů od zjištění některé z rozhodných skutečností, uvedených v § 1, odst. 1 zákona č. 61/1948 Sb. Příslušným je ten ústav nár. zdraví (poradna), v jehož obvodu má hlášená osoba trvalé bydliště."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "1. Lékaři, uvedení v § 2, odst. 1 zákona č. 61/1948 Sb., jsou povinni podati hlášení i tehdy, byl-li již nemocný před tím ohlášen lékařem jiným.\n2. Vedoucí lékař v léčebných a ošetřovacích ústavech, nebo lékař, který ho zastupuje, jakož i přednostové ústavů výchovných, kárných, vězeňských nebo jim podobných jsou povinni hlásit každé přijetí a propuštění nemocného tuberkulosou z ústavu. Toto hlášení se podává rovněž na předepsaných tiskopisech, uvedených v § 2.\n3. Pro hlášení veterinářů jest použiti tiskopisu č. 2, jehož vzor je uveden v příloze této vyhlášky (čís. sklad. 706/B Státní tiskárny v Praze)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "1. Poradna přešetří zdravotní stav hlášené osoby, vyplní příslušné rubriky na obou částech tiskopisu, a to na „Hlášení tuberkulosy“ (tisk. č. 1) rubriku č. 7, na „Hlášení veterináře“ (tisk. č. 2) rubriku č. 2, a ponechá si pouze jejich první části. Druhé části shromažďuje a zasílá pak statistickému oddělení státního zdravotního ústavu vždy nejpozději do 5. dne následujícího měsíce. „Připomínku“ z tiskopisu č. 2 odesílá poradna úřednímu veterináři jen tehdy, je-li hlášeno onemocnění u zvířat (rubrika č. 3 tiskopisu č. 2). Pak se odpojí vždy z druhé části tiskopisu, a statistické oddělení státního zdravotního ústavu dostává hlášení bez této připomínky úřednímu veterináři.\n2. Číselný výkaz o celkovém počtu hlášených osob, u kterých jde skutečně o tuberkulosu, předloží poradna týdně prostřednictvím ředitele ÚNZ zdravotnímu referátu Okresního národního výboru."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nHlášení tuerkulosy\nHlašení veterináře o zdroji tubekulosy\nAdresní část tiskopisu č. 1 a č. 2"
+    }
+  ],
+  "definitions": []
+}

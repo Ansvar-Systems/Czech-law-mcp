@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:1081/1947",
+  "type": "statute",
+  "title": "1081/1947 Ú. l. I, Vyhláška ministra průmyslu o omezení používání podšívek při hromadné výrobě některého šatstva.",
+  "title_en": "",
+  "short_name": "1081/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-10-23",
+  "in_force_date": "1947-10-23",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1081",
+  "description": "Vyhláška ministra průmyslu o omezení používání podšívek při hromadné výrobě některého šatstva.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Při hromadné výrobě pánských, jinošských a chlapeckých jarních raglánů smí býti použito tělové podšívky pouze do půli těla."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Při hromadné výrobě obleků v třetí jakostní třídě a chlapeckých obleků nesmí býti používáno podšívek z umělého hedvábí."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Hromadnou výrobou podle §§ 1 a 2 se rozumí taková výroba, která se neprovozuje na míru podle přání a objednávky jednotlivého zákazníka, nýbrž seriově podle určitých schematických velikostí."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ustanovení této vyhlášky se nevztahuje na hromadnou výrobu šatstva určenou pro vývoz, jakož i na dámskou konfekci."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Výjimky z ustanovení této vyhlášky povoluje ministerstvo průmyslu, na Slovensku pověřenectvo průmyslu a obchodu."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle § 8 dekretu č. 109/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a pozbývá ji dnem 31. prosince 1948."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hromadnou výrobou podle §§ 1 a 2",
+      "definition": "taková výroba, která se neprovozuje na míru podle přání a objednávky jednotlivého zákazníka, nýbrž seriově podle určitých schematických velikostí",
+      "source_provision": "§ 3."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:89/1962",
+  "type": "statute",
+  "title": "89/1962 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "89/1962 Sb.",
+  "status": "in_force",
+  "issued_date": "1962-09-05",
+  "in_force_date": "1962-09-05",
+  "url": "https://www.e-sbirka.cz/sb/1962/89",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 třetí řádka vládního nařízení č. 60/1962 Sb. se vypouští čárka mezi slovy: „Pomocné stráže a Pohraniční stráže“, takže tato řádka zní správně: „armády, členům Pomocné stráže Pohraniční stráže“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V úvodní větě vyhlášky ministerstva vnitra č. 75/1962 Sb. se opravuje tisková chyba, takže tato věta zní správně: „Ministerstvo vnitra stanoví podle § 6 odst. 1 vládního nařízení č. 1/1952 Sb., o hořlavinách a výbušinách.“"
+    }
+  ],
+  "definitions": []
+}

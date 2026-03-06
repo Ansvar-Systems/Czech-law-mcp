@@ -1,0 +1,100 @@
+{
+  "id": "cz:21/1968",
+  "type": "statute",
+  "title": "21/1968 Sb., Vyhláška ministra zahraničních věcí o Úmluvě o výsadách a imunitách mezinárodních odborných organizací",
+  "title_en": "",
+  "short_name": "21/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-03-01",
+  "in_force_date": "1968-03-01",
+  "url": "https://www.e-sbirka.cz/sb/1968/21",
+  "description": "Vyhláška ministra zahraničních věcí o Úmluvě o výsadách a imunitách mezinárodních odborných organizací",
+  "provisions": [
+    {
+      "provision_ref": "Článek I",
+      "section": "I",
+      "title": "Článek I",
+      "content": "Definice a rozsah"
+    },
+    {
+      "provision_ref": "Článek II",
+      "section": "II",
+      "title": "Článek II",
+      "chapter": "Oddíl 2",
+      "content": "Právnická osobnost"
+    },
+    {
+      "provision_ref": "Článek III",
+      "section": "III",
+      "title": "Článek III",
+      "chapter": "Oddíl 3",
+      "content": "Majetek, fondy a aktiva"
+    },
+    {
+      "provision_ref": "Článek IV",
+      "section": "IV",
+      "title": "Článek IV",
+      "chapter": "Oddíl 10",
+      "content": "Usnadnění spojení"
+    },
+    {
+      "provision_ref": "Článek V",
+      "section": "V",
+      "title": "Článek V",
+      "chapter": "Oddíl 12",
+      "content": "Zástupci členských států"
+    },
+    {
+      "provision_ref": "Článek VII",
+      "section": "VII",
+      "title": "Článek VII",
+      "chapter": "Oddíl 23",
+      "content": "Zneužití výsady"
+    },
+    {
+      "provision_ref": "Článek VIII",
+      "section": "VIII",
+      "title": "Článek VIII",
+      "chapter": "Oddíl 25",
+      "content": "Laissez-passer"
+    },
+    {
+      "provision_ref": "Článek IX",
+      "section": "IX",
+      "title": "Článek IX",
+      "chapter": "Oddíl 30",
+      "content": "Urovnávání sporů"
+    },
+    {
+      "provision_ref": "Článek X",
+      "section": "X",
+      "title": "Článek X",
+      "chapter": "Oddíl 32",
+      "content": "Přílohy a provádění jednotlivými odbornými organizacemi"
+    },
+    {
+      "provision_ref": "Článek XI",
+      "section": "XI",
+      "title": "Článek XI",
+      "chapter": "Oddíl 40",
+      "content": "Závěrečná ustanovení"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Úmluva",
+      "definition": "ve vztahu ke kterékoli odborné organizaci standardní ustanovení, jak jsou upravena konečným (nebo revidovaným) textem přílohy předané touto organizací podle ustanovení oddílů 36 a 38",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "schůze svolaná odbornou organizací",
+      "definition": "schůze: 1",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "vedoucí sekretariátu",
+      "definition": "hlavního výkonného úředníka příslušné odborné organizace, ať je označen jako „generální ředitel“ nebo jinak",
+      "source_provision": "Článek I"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:185/2000",
+  "type": "statute",
+  "title": "185/2000 Sb., Nařízení vlády, kterým se stanoví výrobky, jež mohou být dováženy do České republiky nebo vyváženy z České republiky jen na základě licence podle zákona č. 62/2000 Sb., o některých opatřeních při vývozu nebo dovozu výrobků a o licenčním řízení a o změně některých zákonů",
+  "title_en": "",
+  "short_name": "185/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-06-30",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/185",
+  "description": "Nařízení vlády, kterým se stanoví výrobky, jež mohou být dováženy do České republiky nebo vyváženy z České republiky jen na základě licence podle zákona č. 62/2000 Sb., o některých opatřeních při vývozu nebo dovozu výrobků a o licenčním řízení a o změně některých zákonů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Seznamy výrobků, které mohou být dováženy do České republiky nebo vyváženy z České republiky jen na základě licence podle zákona, jsou uvedeny:\na) pro dovoz\n1. na základě automatické licence v příloze č. 1 k tomuto nařízení,\n2. na základě neautomatické licence v příloze č. 3 k tomuto nařízení;\nb) pro vývoz\n1. na základě automatické licence v příloze č. 2 k tomuto nařízení,\n2. na základě neautomatické licence v příloze č. 4 k tomuto nařízení;\nc) pro dovoz nebo vývoz na základě bezpečnostní licence v příloze č. 5 k tomuto nařízení.\n(2) V přílohách č. 1 až 5 k tomuto nařízení jsou rovněž stanoveny podmínky, za nichž lze dovoz nebo vývoz výrobků uskutečnit, náležitosti žádostí o udělení licencí a v přílohách č. 6 a 7 jsou uvedeny vzory žádostí o udělení licencí.\n(3) Při dovozu nebo vývozu výrobků se předkládá celnímu úřadu originál licence."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Do 31. prosince 2000 se nevyžaduje licence pro dovoz výrobků ze Slovenské republiky, uvedených v částech I až VI přílohy č. 1, a licence pro vývoz výrobků do Slovenské republiky, uvedených v částech I až VI přílohy č. 2."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. července 2000.\nPříloha č. 1 k nařízení vlády č. 185/2000 Sb.\nSEZNAM VÝROBKŮ,\nkteré mohou být dováženy do České republiky jen na základě automatické licence"
+    }
+  ],
+  "definitions": []
+}

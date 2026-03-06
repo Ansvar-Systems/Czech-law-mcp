@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:174/1952",
+  "type": "statute",
+  "title": "174/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 65 1237.",
+  "title_en": "",
+  "short_name": "174/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-07-08",
+  "in_force_date": "1952-09-09",
+  "url": "https://www.e-sbirka.cz/ul0/1952/174",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 65 1237.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 65 1237 „Kyselina sírová technická“ jest od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Kromě názvosloví vytyčuje norma zejména technické požadavky, pojednává o zkouškách, o vzorkování, balení a dopravě technické kyseliny sírové a pod."
+    }
+  ],
+  "definitions": []
+}

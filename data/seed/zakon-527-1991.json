@@ -1,0 +1,45 @@
+{
+  "id": "cz:527/1991",
+  "type": "statute",
+  "title": "527/1991 Sb., Vyhláška ministerstva zdravotnictví České republiky, kterou se mění vyhláška ministerstva zdravotnictví České republiky č. 48/1991 Sb., o očkování proti přenosným nemocem",
+  "title_en": "",
+  "short_name": "527/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-12-19",
+  "in_force_date": "1992-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/527",
+  "description": "Vyhláška ministerstva zdravotnictví České republiky, kterou se mění vyhláška ministerstva zdravotnictví České republiky č. 48/1991 Sb., o očkování proti přenosným nemocem",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška ministerstva zdravotnictví České republiky č. 48/1991 Sb., o očkování proti přenosným nemocem, se mění takto:\n1. § 2 odst. 2 zní:\n„(2) Při negativním výsledku tuberkulínové zkoušky ve druhém a čtrnáctém roce věku se děti přeočkují proti tuberkulóze. Ve druhém roce věku dítěte se však tuberkulínová zkouška provede jen u dětí, které nemají prokazatelnou jizvu po očkování provedeném v novorozeneckém období.“.\n2. § 12 zní:"
+    },
+    {
+      "provision_ref": "„§ 12",
+      "section": "12",
+      "title": "„§ 12",
+      "content": "(1) U dětí narozených v době od 1. ledna 1991, které mají trvalý pobyt ve Středočeském, Východočeském a Jihočeském kraji, se neprovádí nadále základní očkování proti tuberkulóze. Tyto děti se podrobí též ve čtvrtém a šestém roce života a dále při podezření na infekci nebo onemocnění tuberkulózou intradermální tuberkulínové zkoušce. Ve stejném intervalu se provede tuberkulínová zkouška také u dětí narozených v těchto krajích od 1. dubna 1986 do 31. prosince 1990, které nebyly očkovány proti tuberkulóze.\n(2) U dětí uvedených v odstavci 1 se provede základní očkování proti tuberkulóze, jestliže:\na) změní místo trvalého pobytu mimo kraje uvedené v odstavci 1;\nb) rodiče nebo jiné osoby, které mají dítě v trvalé péči, požádají provedení očkování proti tuberkulóze;\nc) dítě je ohroženo rizikem tuberkulózy (například dítě v kontaktu s tuberkulózním nemocným, dítě cizinců, dítě rodičů, u nichž lze očekávat častou migraci, dítě z oblasti s vysokým výskytem tuberkulózy);\nd) výsledek intradermální tuberkulínové zkoušky byl ve věku 14 let negativní.“.\n3. § 13 se vypouští.\n4. Za § 14 se vkládá nový § 14a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 14a",
+      "section": "14a",
+      "title": "„§ 14a",
+      "content": "Pokud se v této vyhlášce používá pojem dítě, rozumí se jím osoba ve věku do 18 let.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1992."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dítě",
+      "definition": "jím osoba ve věku do 18 let",
+      "source_provision": "„§ 14a"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cz:ul0:55/1954",
+  "type": "statute",
+  "title": "55/1954 Ú. l., Vyhláška ministerstva místního hospodářství o tvorbě cen v autoopravnách.",
+  "title_en": "",
+  "short_name": "55/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-03-13",
+  "in_force_date": "1954-03-15",
+  "url": "https://www.e-sbirka.cz/ul0/1954/55",
+  "description": "Vyhláška ministerstva místního hospodářství o tvorbě cen v autoopravnách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Rozsah platnosti.",
+      "content": "(1) Tato vyhláška upravuje tvorbu cen za úkony prováděné v podnicích místního průmyslu a komunálního hospodářství a v podnicích družstevních a soukromých, pokud obstarávají údržbu motorových vozidel (autoopravny).\n(2) Pro úkony, jejichž cena je stanovena v ceníku vydaném ministerstvem místního hospodářství, platí ceny uvedené v tomto ceníku.\n(3) Ceny stanovené touto vyhláškou lze účtovat jen za odborně provedené úkony."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Stanovení ceny.",
+      "content": "Ceny úkonů tvoří součet jednicových nákladů, režijních nákladů, zisku, zvláštních nákladů a daně z výkonů, po případě daně z obratu, podle kalkulačního vzorce, který je uveden v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Jednicové náklady.",
+      "content": "(1) Jednicové náklady jsou zejména cena jednicového materiálu, jednicové mzdy a zvláštní jednicové náklady.\n(2) Cena jednicového materiálu je náklad na suroviny součástky a pomocný materiál v množství potřebném ke zhotovení výrobku nebo provedení údržbářského výkonu. Jednicový materiál smí být do kalkulace dosazován jen v plánované pořizovací ceně nebo účtován za maloobchodní ceny, jestliže tyto ceny existují.\nPlánovaná pořizovací cena, která se rovná váženému průměru skutečných pořizovacích cen za výchozí období, zahrnuje nákupní cenu a náklady souvisící s nabytím materiálu. Maloobchodní cenou rozumí se cena uvedená v ceníku maloobchodních cen příslušné odbytové organisace. Cenu pomocného materiálu lze též vyjádřit průměrnou hodnotou nebo poměrem k cenám ostatního jednicového materiálu, jestliže to povaha výkonu vyžaduje. Tímto kalkulačním postupem se však nesmí zvýšit ceny výkonů.\n(3) Jednicovými mzdami se rozumějí hrubé mzdy skutečně vyplacené za zhotovení výrobku nebo za údržbářský výkon. Jednicové mzdy úkolové nebo časové musí být ve shodě s platnými mzdovými předpisy. Jednicovou mzdou učně je vychovávací příspěvek odpovídající době odpracované učněm na výkonu, zvýšený o 30%."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Režijní náklady.",
+      "content": "(1) Režijní náklady tvoří režijní náklady materiálové, režijní náklady výrobní, dále pak režijní náklady správní a odbytové.\n(2) Režijními náklady materiálovými se rozumějí náklady souvisící nepřímo s opatřováním materiálu, jeho přijímáním, skladováním, vydáváním a pod.\nPatří sem zejména:\na) náklady osobní (na př.: plat skladníka, nakupovače a sil zaměstnaných ve skladu a nákupním oddělení, po případě poměrný díl nákladů, pokud se tito zaměstnanci zabývají zmíněnou činností jen částečně),\nb) náklady věcné (na př.: pojistné zásob, škody na materiálu, náklad na evidenci materiálu, náklad na meziskladové přemísťování materiálu a dopravné ze skladu na místo potřeby).\nRežijní náklady materiálové se vyjadřují poměření k ceně jednicového materiálu.\n(3) Režijními náklady výrobními jsou všechny náklady nutné k provozu výrobního střediska při šetrném a hospodárném vedení podniku, které nejsou zahrnuty v jednicových nákladech v materiálové režii a ve správní a odbytové režii. Režijní náklady výrobní jsou vyjádřeny poměrem k jednicovým mzdám. Výše tohoto poměru se řídí činnosti střediska. Podle své činnosti třídí se střediska do dvou skupin:\na) střediska s činností převážně montážní,\nb) střediska výrobní (zabývající se výrobou součástek pro motorová vozidla).\nPoměr režijních nákladů je odstupňován pro obě skupiny v kalkulačním vzorci.\n(4) Režijními náklady správními se rozumějí náklady, souvisící s odbytem výrobku nebo zvláštního výkonu, vyjma jednicové náklady odbytové. Úhrn režie správní a odbytové se vyjadřuje poměrem k úhrnu ostatních nákladů (mimo zvláštní náklady) v kalkulačním vzorci."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Zisková přirážka.",
+      "content": "Výše zisku se stanoví ziskovou přirážkou z vlastní ceny úkonu."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Zvláštní náklady",
+      "content": "Náklady, které se podle své povahy započítávají do ceny bez režijní přirážky, označují se jako „zvláštní náklady”. Sem patří na příklad náklady zasílací a cestovné montérů.\nSpolečná a závěrečná ustanovení."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Ceny utvořené podle této vyhlášky jsou cenami nejvyššími; správy podniků jsou povinny dbát zásad hospodárného vedeni podniku.\n(2) Jestliže režijní náklady převyšují hodnoty stanovené touto vyhláškou, nutno předložit ministerstvu místního hospodářství žádost o jejich schválení, žádost musí být doložena kalkulačními podklady. Vystačí-li podnik s výrobní režii nižší, než je uvedena v kalkulačním vzorci, smí započítávat výrobní režii jen ve skutečné výši. Podniky jsou povinny za tím účelem sestavit režijní náklady podle hospodářského výsledku předcházejícího roku a zjistit procento těchto nákladů v poměru k jednicovým mzdám."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Ministerstvo místního hospodářství může po dohodě s Ústředním svazem výrobních družstev stanovit nebo povolit výjimky z této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. března 1954.\nPříloha k vyhlášce č. 55/1954 Ú. l.\nKalkulační vzorec.\n1. Jednicový materiál včetně daně z obratu.\n2. Materiálová přirážka 6% z položky 1.\n3. Jednicová mzda.\n4. Výrobní režie\na) střediska s činnosti převážně montážní 10% z jednicových mezd,\nb) střediska výrobního 150% z jednicových mezd.\n5. Zvláštní jednicové náklady.\n6. Součet položek 1 až 5.\n7. Režie správní a odbytová 5% z položky 6.\n8. Součet.\n9. Zisk 50% z položky 8.\n10. Zvláštní náklady.\n11. Součet.\n12. Daň z výkonů.\n13. Součet."
+    }
+  ],
+  "definitions": []
+}

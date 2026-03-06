@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:456/1949",
+  "type": "statute",
+  "title": "456/1949 Ú. l. I, Vyhláška ministerstva techniky o typovém plánu pro stavbu malých domků.",
+  "title_en": "",
+  "short_name": "456/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-04-01",
+  "in_force_date": "1949-04-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/456",
+  "description": "Vyhláška ministerstva techniky o typovém plánu pro stavbu malých domků.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Pro obytné stavby malých přízemních domků se vydává typový plán, podle něhož se rozvrhuje stavba do dvou etap:\na) v I. etapě se provede stavba domku s jedním bytem o obytné kuchyni a ložnici s jednoduchým příslušenstvím, o celkové užitkové ploše 46 m2;\nb) v II. etapě lze provést přístavbu k tomuto domku, obsahující druhou ložnici, podsklepenou spíž a předsíň, a upravit původní příslušenství; celková užitková plocha zvětšeného domku bude 65.25 m2.\n(2) Technický popis typového plánu a provádění stavby, jakož i informativní plány jsou připojeny jako příloha této vyhlášky. Podrobné stavební plány může oprávněný stavebník koupit u krajských architektonických atelierů československých stavebních závodů, národního podniku, v sídlech krajských národních výborů."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Krajský národní výbor rozhodne podle pokynů vydaných ministerstvem techniky o tom, zda, kde a v jakém počtu se mají stavět malé domky. Pro stavby těchto domků je závazný typový plán uvedený v § 1.\n(2) Krajský národní výbor může výjimečně povolit odchylku od závaznosti podle odstavce 1, vyžadují-li to terenní nebo zastavovací poměry stavebního pozemku anebo docílí-li se tím podstatné úspory stavebnin. Ministerstvo techniky může vydat krajským národním výborům podrobnější předpisy o povolování těchto odchylek."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Pro stavby domků uvedených v § 1 se stanoví tato nejvyšší přípustná spotřeba stavebnin:\na) pro I. etapu [§ 1, odst. 1, písm. a)]:\nocelkg155.—\nplechkg34.—\ncementt5.7\ncihlykusy10,000,—\ndřevo: tesařském36.5\ntruhlářském31.3\nb) pro II etapu [§ 1, odst. 1, písm. b)]:\nocelkg85,—\nplechkg16.—\ncementt3,5\ncihlykusy5,500,—\ndřevo: tesařském32.85\ntruhlářském30.80\n(2) Pro údaje uvedené v odstavci 1 platí\na) ocel se rozumí se všemi pomocnými a spojovacími součástmi;\nb) cihly jsou normálního formátu; při použití tvárnic se počet úměrně zmenší."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha vyhlášky č. 456/1949 Ú. l. I.\nTechnický popis.\nStavba se provádí ve dvou etapách.\nV I. etapě se vystaví jádro domku o obytné kuchyni a ložnici s příslušenstvím (předsíň, komora a nesplachovací záchod se žumpou, přístupný z bytu otevřeným přístřeškem).\nV II. etapě se doplní jádro domku přístavbou druhé ložnice podsklepené spíže a předsíně s dalším vchodem. Při tom se upraví používání původního příslušenství tak, že předsíň se přemění v koupelnu a prádelnu a po případě se zavede vodovod. Přístřešek lze uzavřít zasklenou stěnou. Nejvhodnější situování přístřešku je na stranu severní nebo severozápadní.\nDomek je přízemní, na základech z lomového kamene nebo betonu, vyzděný z cihel nebo tvárnic, s podlahou 30 cm nad terénem, s isolací proti zemní vlhkosti, nepodsklepený až na prostor spíže a má sedlovou střechu.\nObytné místnosti jsou opatřeny dřevěnou palubovou podlahou, příslušenství podlahou cementovou; krov je typisovaný fošinkový (hřebíkový), krytina je tašková.\nPočítá se s elektrickou instalaci, v II. etapě po případě s vodovodem a se zřízením kanalisace pro odvodnění koupelny a prádelny do trativodu.\nPoužije se typových oken, dveří, kování, hotových, překladů dveřních a okenních.\nVýměra užitkové plochy:\nI. etapa:II. etapa:\npředsíň5.65 m2předsíň2.40 m2\nobývací kuchyň22.80 m2obývací kuchyň22.80 m2\nložnice12.70 m2ložnice12.70 m2\nložnice14.20 m2\nkoupelna - prádelna5.65 m2\nspíž2.65 m2\nkomora3.85 m2uhlí3.85 m2\nzáchod1.00 m2záchod1.00 m2\ncelková užitková\nplocha46.00 m265.24 m2"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) ocel",
+      "definition": "se všemi pomocnými a spojovacími součástmi;",
+      "source_provision": "§ 3."
+    }
+  ]
+}

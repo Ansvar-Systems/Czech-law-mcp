@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1781/1946",
+  "type": "statute",
+  "title": "1781/1946 Ú. l. I, Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "title_en": "",
+  "short_name": "1781/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-09-21",
+  "in_force_date": "1946-09-21",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1781",
+  "description": "Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Měšťanský pivovar v Plzni v rozsahu jeho znárodnění s výjimkou\na) částky K 1,000.000.— na starém vkladě.\nb) pozemkové parcely č. kat. 1735/2 a části parcely č. kat. 1854 v Plzni IV. — Karlovarská třída, ve výměře 24 a 04 m2 (668.40 plošných sáhů), označené na polohopisném geometrickém plánu Ing. Karla Hory, úř. aut. civ. geometra v Plzni ze dne 1. února 1947, č. j. 15/1946 písmenou „a“, nemovitostí zapsaných vesměs ve vložce č. 85/IV. poz. knihy pro kat. území Plzeň."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Plzeňské akciové pivovary v Plzni v rozsahu jeho znárodnění s výjimkou částky K 500.000.— na starém vkladě."
+    }
+  ],
+  "definitions": []
+}

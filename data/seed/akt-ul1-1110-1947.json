@@ -1,0 +1,123 @@
+{
+  "id": "cz:ul1:1110/1947",
+  "type": "statute",
+  "title": "1110/1947 Ú. l. I, Vyhláška ministra sociální péče o dávce z uhlí.",
+  "title_en": "",
+  "short_name": "1110/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-11-04",
+  "in_force_date": "1947-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1110",
+  "description": "Vyhláška ministra sociální péče o dávce z uhlí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za uhlí, jež báňský podnikatel spotřebuje k vedení a udržování svého závodu [§ 71, písm. a) zákona], se pokládá uhlí potřebné:\na) k těžení (pro základku, zaplavování a pod.), k úpravě a nakládání uhlí,\nb) k přímému zhodnocení uhlí v důlním podniku,\nc) k pohonu strojů, k vytápění a osvětlování provozních budov a provozních prostranství a dílen, provozovaných při dole podle horního zákona, sloužících výlučně jeho provozu,\nd) k přípravným pracím konaným podle horního zákona a k zavedení provozu dolu,\ne) k udržení provozu dolu.\n(2) Spotřebuje-li se uhlí k účelům uvedeným v odstavci 1, avšak odebírá-li se od jiného dolu, nevybírá se dávka z uhlí, učiní-li podnikatelé obou dolů po vydání nebo převzetí uhlí, avšak před splatností dávky z uhlí revírnímu báňskému úřadu ve třech stejnopisech písemné oznámení, z něhož je patrno množství, druh uhlí jakož i místo a čas vydání nebo převzetí uhlí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "§ 1 platí také, jsou-li provozní práce prováděny za úplatu jiným podnikatelem."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Vyrábí-li se uhlím energie, která se spotřebuje částečně pro účely, pro něž se dávka z uhlí nevybírá, stanoví revírní báňský úřad díl uhlí, z něhož se dávka z uhlí nevybírá. Nelze-li stanovení provésti přesně, provede je revírní báňský úřad podle řádného uvážení.\n(2) Úmluvy o bývalé uhelné dani, které byly sjednány s finančními úřady, platí při nezměněných provozních poměrech až do nového ustanovení."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Revírní báňský úřad má pro stanovení podle § 3, odst. 1 užíti těchto pravidel:\na) Průměrná spotřeba uhlí na vyrobenou kWh odpovídá podílu ze spotřebovaného množství uhlí určitého druhu a z počtu vyrobených kWh (t. j, měřených na svorkách generátoru). Tímto číslem se násobí množství elektrické energie, jež bylo vydáno k účelům osvobozeným od dávky z uhlí. K tomu se připočte díl energie, jenž na tuto energii připadá z celkové energie spotřebované k provozu elektrárny.\nb) Nelze-li však spotřebu uhlí zjistiti způsobem udaným pod a), předpokládá se\npři výrobě centrály kWh za měsícprůměrná spotřeba tepelná na vydanou kWh\ndo149.999 kWh14.000}tepelných\njednotek\n(kalorií)\nod 150.000do449.999 kWh14.000—11.000\nod 450.000do749.999 kWh11.000—10.000\nod 750.000do1,499.999 kWh10.000— 9.700\nod 1,500.000do2,999.999 kWh9.700— 9.300\nod 3,000.000do5,999.999 kWh9.300— 9.100\nod 6,000.000do10,000.000 kWh9.100— 9.000\na přes 10,000.000 kWh9.000\nMnožství spotřebovaných kalorií odečte se z grafického diagramu, nebo se vypočte zvlášť pro jednotlivý případ.\nTopí-li na př. elektrická centrála, vydávající měsíčně 900.000 kWh, uhlím o 6000 kaloriích na 1 kg, vypočte se spotřeba uhlí na 1 kWh takto:\n900.000 kWh je mezi 750.000 a 1,499.999 kWh (okrouhle 1,500.000 kWh).\nRozpětí měsíční proudové dodávky od 750.000 do 1,499.999 (okrouhle 1,500.000), t. j. 750.000 kWh, odpovídá rozpětí tepelné spotřeby od 10.000 do 9700, t. j. 300 kalorií.\nJe tudíž interpolační podíl\n300750.000=0,0004.\nTímto jest násobiti rozdíl mezi 1,500.000 a 900.000, t. j. 600.000×0,0004 = 240, a výsledek připočísti k nižší hranici tepelné spotřeby, nebo násobiti rozdíl mezi 900.000 a 750.000, t. j. 150.000×0,0004 = 60 a tento výsledek odečísti od vyšší hranice tepelné spotřeby. Oběma způsoby se získá stejný výsledek: Tepelná spotřeba je: 9700 + 240 = 10.000 — 60 = 9940 kalorií. Tento výsledek je děliti obsahem tepelných jednotek 6000 u používaneho uhlí, čímž se zjistí (9940: 6000) 1,66 kg jako spotřeba uhlí na 1 kWh.\nc) Tepelnou hodnotu užívaných druhů uhlí stanoví revírní báňský úřad na základě kalorimetrických měření. Užívá-li se v centrále více druhů uhlí s různou tepelnou hodnotou, vezme se za základ výpočtu průměrná tepelná hodnota, na př. při spotřebě 2000 q uhlí po 6000 kal. a 7000 q po 4000 kal. na 1 kg činí průměrná tepelná hodnota 40,000.000 (= 2000 × 6000 + 7000 × 4000) : 9000 (= 2000 + 7000) = 4444 kalorií na 1 kg.\nd) Vyrábí-li se elektrická energie také jinými prostředky než uhlím, zmenší se tepelná spotřeba na kWh v poměru energie vyrobené uhlím k veškeré vyrobené energii. Podnikatel jest povinen učiniti taková opatření, aby bylo možno stanoviti množství energie nevyrobené uhlím. V pochybnosti stanoví revírní báňský úřad podle řádného uvážení poměr energie vyrobené uhlím k energii vyrobené jinými prostředky. Spotřeba uhlí na elektrickou energii se vypočte podle písm. a), b) a c).\ne) Elektrická energie dodaná k účelům podléhajícím dávce z uhlí se odečte na počitadle v elektrárně a násobí se uhlím potřebným na jednu kWh."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Odebírá-li báňský podnikatel elektrickou provozní energii vyrobenou uhlím od elektrárny položené mimo jeho důl, může si dávku z uhlí připadající na tuto provozní energii vypočísti podle § 4 a v měsíčním výkazu sraziti, byť i tato elektrárna spotřebovala uhlí z rozličných dolů.\n(2) Odebírá-li více dolů, jež tvoří hospodářský celek téhož podnikatele, elektrickou energii z jedné elektrárny, jež výhradně nebo převážně pro ně vyrábí elektrickou energii, je možno pokládati tyto doly za jeden závod také pro výpočet podle § 4 a pro jejich dodávky uhlí do elektrárny."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Revírní báňský úřad jest oprávněn stanoviti výši dávky z uhlí paušálně,\na) nedá-li se spotřeba podle § 3 rozděliti,\nb) není-li možné zjištění spotřeby uhlí jakož i výroby a spotřeby elektrické energie v elektrárně.\n(2) Revírní báňský úřad může v dohodě s báňským podnikatelem a s Ústřední bratrskou pokladnou v Praze — na Slovensku s Ústřední sociální pojišťovnou v Bratislavě — stanoviti paušální kvotu podle množství a druhu uhlí, odpovídající spotřebě na jednu kWh elektrické energie. Paušální kvota může býti vždy po uplynutí jednoho roku přezkoušena."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Podle § 71, písm. b) zákona se nevybírá dávka z uhlí, jež se odebírá:\na) z dolu, na němž jest nebo byla oprávněná osoba zaměstnána,\nb) z jiného dolu téhož podnikatele, tvoří-li doly hospodářský celek,\nc) z jiného dolu, učiní-li podnikatelé obou dolů po vydání nebo převzetí uhlí, ale před splatností dávky z uhlí, revírnímu báňskému úřadu ve třech stejnopisech písemné oznámení, z něhož jest patrné množství a druh jakož i místo a čas převzetí uhlí."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "(1) Plátce dávky z uhlí jest povinen vyhotoviti měsíční výkazy o uhlí podléhajícím dávce z uhlí. Měsíční výkazy pro báňské podnikatele musí obsahovati aspoň tyto údaje: Podnik (závod), počáteční a konečnou zásobu uhlí (koksu, briket atd.), dodávky jiných závodů, odpočet uhlí (koksu, briket atd.) dávky prostého, množství uhlí dávce podléhající a výpočet dávky z uhlí, pro dovozce: firmu, která uhlí dováží, množství uhlí (koksu, briket atd.) dovezeného a výpočet dávky z uhlí. Jest vždy vyhotoviti tři stejnopisy.\n(2) Dva stejnopisy měsíčních výkazů jest předložiti revírnímu báňskému úřadu do 25. dne kalendářního měsíce, následujícího po dni vzniku platební povinnosti.\n(3) Plátce dávky z uhlí jest povinen uschovati jeden stejnopis měsíčního výkazu po dobu jednoho roku."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Báňský podnikatel a dovozce uhlí jsou povinni při odevzdání uhlí k odvozu vyhotoviti záznamy o odbytu uhlí, z nichž jest patrno:\na) jméno podnikatele,\nb) místo určení,\nc) den odevzdání uhlí,\nd) množství uhlí,\ne) druh uhlí."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Dovozce uhlí jest kromě toho povinen vésti záznamy, z nichž jest patrno:\na) jméno dodavatele,\nb) původ uhlí,\nc) množství uhlí,\nd) druh uhlí,\ne) den dovozu."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "Báňský podnikatel jest povinen vésti zvláštní záznamy:\n1. o uhlí spotřebovaném pro výrobu energie, jež musejí obsahovati:\na) množství a druh spotřebovaného uhlí,\nb) způsob upotřebení uhlí,\nc) množství energie vyrobené uhlím,\nd) způsob upotřebení energie;\n2. o upotřebení deputátního uhlí, jež musejí obsahovati:\na) jméno oprávněného,\nb) roční výměru deputátu,\nc) jednotlivé dodávky deputátu;\n3. o dodávkách uhlí ústavům a zařízením uvedeným v § 71, písm. c) zákona, jež musejí obsahovati:\na) údaj, komu bylo uhlí dodáno,\nb) množství a druh dodaného uhlí."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "content": "(1) Elektrárny dodávající elektrickou energii pro hornický provoz, jsou povinny vésti záznamy, z nichž je patrno:\na) původ uhlí,\nb) množství uhlí,\nc) druh uhlí,\nd) kalorická hodnota uhlí,\ne) doba dodání uhlí do elektrárny,\nf) spotřeba podle jednotlivých druhů uhlí,\ng) množství elektrické energie vyrobené uhlím,\nh) množství elektrické energie vyrobené jinými prostředky než uhlím,\ni) způsob spotřeby vyrobené elektrické energie.\n(2) Výpočty o spotřebě uhlí použitého k výrobě elektrické energie pro provoz dolu tvoří zvláštní přílohu měsíčního výkazu (§ 8) a musejí býti podnikatelem elektrárny potvrzeny."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13.",
+      "content": "Jestliže osoba povinná k placení dávky z uhlí opomine předepsané hlášení nebo překáží jejímu přezkoušení, může revírní báňský úřad k návrhu Ústřední bratrské pokladny v Praze — na Slovensku Ústřední sociální pojišťovny v Bratislavě — stanoviti dávku z uhlí podle řádného uvážení."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14.",
+      "content": "Revírní báňský úřad může v odůvodněných případech k návrhu Ústřední bratrské pokladny v Praze — na Slovensku Ústřední sociální pojišťovny v Bratislavě — naříditi, aby plátce dávky z uhlí zaplatil zálohu ve výši částky připadající průměrně na jeden měsíc"
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "content": "Dávka z uhlí a zálohy se platí Ústřední bratrské pokladně v Praze — na Slovensku Ústřední sociální pojišťovně v Bratislavě."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16.",
+      "content": "Příslušným jest revírní báňský úřad, v jehož okresu jest závod, v němž se uhlí dobývá nebo zpracuje (zhodnocuje). Dováži-li se uhlí do Československé republiky, jest příslušný ten revírní báňský úřad, v jehož okresu jest závod (bydliště) dovozce."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "(1) Revírní báňský úřad provádí šetření potřebná pro své přezkoušení a rozhodnutí. Revírní báňský úřad může dovoliti Ústřední bratrské pokladně v Praze — na Slovensku Ústřední sociální pojišťovně v Bratislavě — účast na svém šetření. Podnikateli a Ústřední bratrské pokladně v Praze — na Slovensku Ústřední sociální pojišťovně v Bratislavě — poskytne revírní báňský úřad příležitost, aby se k výsledku šetření vyjádřili.\n(2) Revírní báňský úřad zašle Ústřední bratrské pokladně v Praze — na Slovensku Ústřední sociální pojišťovně v Bratislavě — jeden opis měsíčních výkazů, které mu byly předloženy."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem 1. ledna 1947, na Slovensku dnem 1. dubna 1947.\n(2) Výnos býv. ministra hospodářství a práce ze dne 22. března 1943 (Ú. l. č. 74/1943. běž. č. 216) o sanační dávce z uhlí se dnem 1. ledna 1947 zrušuje."
+    }
+  ],
+  "definitions": []
+}

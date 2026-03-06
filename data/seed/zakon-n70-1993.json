@@ -1,0 +1,27 @@
+{
+  "id": "cz:n70/1993",
+  "type": "statute",
+  "title": "n70/1993 Sb., Redakční sdělení o opravě chyb v zákonu č. 283/1993 Sb. a ve sdělení ministerstva zahraničních věcí č. 281/1993 Sb.",
+  "title_en": "",
+  "short_name": "n70/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-12-23",
+  "in_force_date": "1993-12-23",
+  "url": "https://www.e-sbirka.cz/sb/1993/n70",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 283/1993 Sb. a ve sdělení ministerstva zahraničních věcí č. 281/1993 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v zákonu č. 283/1993 Sb., o státním zastupitelství\nV § 44 odst. 3 má místo „od dne účinnosti“ správně být „do dne účinnosti“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve sdělení ministerstva zahraničních věcí č. 281/1993 Sb., o sjednání Dohody mezi vládou České republiky a vládou Republiky Kazachstán o obchodně-ekonomických vztazích a spolupráci v oblasti vědy a techniky\nJako signatář Dohody za vládu Kazašské Republiky má být správně uveden „Syzdyk Džumatajevič Abišev“."
+    }
+  ],
+  "definitions": []
+}

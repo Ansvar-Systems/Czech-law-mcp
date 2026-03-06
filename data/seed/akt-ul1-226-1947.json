@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:226/1947",
+  "type": "statute",
+  "title": "226/1947 Ú. l. I, Vyhláška ministra vnitřního obchodu o úpravě obchodu korkovým linoleem.",
+  "title_en": "",
+  "short_name": "226/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-03-15",
+  "in_force_date": "1947-03-15",
+  "url": "https://www.e-sbirka.cz/ul1/1947/226",
+  "description": "Vyhláška ministra vnitřního obchodu o úpravě obchodu korkovým linoleem.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Distribuci korkového linolea v zemích České a Moravskoslezské provádí ministerstvo vnitřního obchodu.\n(2) Korkovým linoleem se rozumí výrobek, jehož hlavní součástí jest polymerovaný lněný olej neboli linoxyn a korková drť s přísadou minerální barvy.\n(3) Linoleum vyráběné z jiných hmot (náhražkové linoleum} nepodléhá ustanovením této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Korkové linoleum může býti spotřebitelům vydáváno a těmito odebíráno jen na základě odběrního oprávnění (poukazů k odběru korkového linolea).\n(2) Spotřebitel jest povinen odevzdati poukaz obchodníkovi při vydání zboží a potvrditi na něm příjem zboží.\n(3) Poukazy k odběru korkového linolea vystavuje ministerstvo vnitřního obchodu.\n(4) Poukaz jest platný 6 měsíců. Jeho platnost může býti výjimečně prodloužena v odůvodněných případech o další tři měsíce."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Obchodníci korkovým linoleem jsou povinni:\n1. ohlásiti ministerstvu vnitřního obchodu dovoz korkového linolea z celní ciziny do 3 dnů po obdržení zboží s uvedením počtu m2 a ceny;\n2. vésti přesné záznamy o nákupu, prodeji a stavu zásob korkového linolea;\n3. hlásiti ministerstvu vnitřního obchodu do 5. ledna, 5. dubna, 5. července a 5. října zásoby korkového linolea podle stavu ke konci předcházejícího kalendářního čtvrtletí;\n4. vrátiti ministerstvu vnitřního obchodu nejpozději do 5. dne každého měsíce poukazy k odběru korkového linolea, přijaté od spotřebitelů v předcházejícím měsíci."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Korkového linolea smí býti použito výhradně k účelu, na který bylo povoleno."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ministerstvo vnitřního obchodu může povoliti v odůvodněných případech výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky ustanoveni této vyhlášky a předpisů podle ní vydaných se trestají podle § 9 vládního nařízení č. 175/1943 Sb."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské.\n(2) Zároveň pozbývají platnosti (použivatelnosti) všechny dosavadní předpisy, pokud odporují této vyhlášce."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Korkovým linoleem",
+      "definition": "výrobek, jehož hlavní součástí jest polymerovaný lněný olej neboli linoxyn a korková drť s přísadou minerální barvy",
+      "source_provision": "§ 1."
+    }
+  ]
+}

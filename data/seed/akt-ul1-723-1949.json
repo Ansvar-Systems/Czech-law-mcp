@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:723/1949",
+  "type": "statute",
+  "title": "723/1949 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se zakazuje lovit ryby elektřinou.",
+  "title_en": "",
+  "short_name": "723/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-07-02",
+  "in_force_date": "1949-07-02",
+  "url": "https://www.e-sbirka.cz/ul1/1949/723",
+  "description": "Vyhláška ministerstva zemědělství, kterou se zakazuje lovit ryby elektřinou.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Lovit ryby elektřinou se zakazuje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministerstvo zemědělství může z tohoto zákazu povolit výjimky pro účely umělého chovu ryb a pro účely vědecké, z důvodů hospodářských a kontrolních."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Jednání a opomenutí příčící se ustanovením léto vyhlášky se trestá podle § 2 zák. č. 80/1948 Sb."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

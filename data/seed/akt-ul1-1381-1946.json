@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1381/1946",
+  "type": "statute",
+  "title": "1381/1946 Ú. l. I, Vyhláška č. III předsedy Trhového sdružení lesního a dřevařského hospodářství o uvolnění odbytu jehličnatého řeziva, jehličnatého tesaného dříví, pražců a překližek.",
+  "title_en": "",
+  "short_name": "1381/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-06-01",
+  "in_force_date": "1946-06-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1381",
+  "description": "Vyhláška č. III předsedy Trhového sdružení lesního a dřevařského hospodářství o uvolnění odbytu jehličnatého řeziva, jehličnatého tesaného dříví, pražců a překližek.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) K odbytu (koupi, směně, súčtování, dohodě, věnování a pod.) jehličnatého řeziva, jehličnatého tesaného dříví, pražců do 12 cm výšky a překližek včetně truhlářských desek není třeba nákupních listů ve smyslu § 1, odst. 1 vyhlášky předsedy Trhového sdružení lesního a dřevařského hospodářství (v dalším Trhové sdružení) ze dne 11. listopadu 1945 (Ú. l. č. 422). Ustanovení bližších pokynů (1) k uvedené vyhlášce platí ohledně těchto druhů dříví přiměřeně dále, pokud neodporují ustanovením prvé věty.\n(2) Nákupní listy, vydané Trhovým sdružením na druhy dříví uvedené v odstavci (1), jakož i výměry, kterými byl předepsán určitý výtěžek jehličnatého řeziva, pozbývají platnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Závody dřevařského hospodářství zabývající se po živnostensku pilařským zpracováním kulatiny, pokud zpracují ročně více než 100 plm kulatiny, jsou povinny vyrobiti na každý 1 plm pilařsky zpracované jehličnaté kulatiny nejméně 6 bm důlních krajinek.\n(2) Důlními krajinkami se rozumí řezivo (i neomítané) v tloušťkách 18, 20, 24 neb 26 mm oboustranně po celé délce dotčené pilou o nejmenší délce 1.20 m a o nejmenší šířce 10 cm měřeno na užší straně ložné plochy.\n(3) O splnění výroby a dodávek důlních krajinek pro důlní účely v lesním hospodářském roce 1945/46 jsou povinny dřevoopracující závody vésti záznamy podle bližších pokynů (1) k vyhlášce uvedené v § 1 a na vyzvání Trhového sdružení jejich věrohodnost prokázati patřičnými doklady."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Důlními krajinkami",
+      "definition": "řezivo (i neomítané) v tloušťkách 18, 20, 24 neb 26 mm oboustranně po celé délce dotčené pilou o nejmenší délce 1",
+      "source_provision": "§ 2."
+    }
+  ]
+}

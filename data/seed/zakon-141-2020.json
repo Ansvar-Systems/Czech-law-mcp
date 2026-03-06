@@ -1,0 +1,27 @@
+{
+  "id": "cz:141/2020",
+  "type": "statute",
+  "title": "141/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "141/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-30",
+  "in_force_date": "2020-03-30",
+  "url": "https://www.e-sbirka.cz/sb/2020/141",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ministru zdravotnictví zorganizovat spolupráci orgánů ochrany veřejného zdraví s vojáky podle bodu I. tohoto usnesení,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ministru obrany zajistit nasazení vojáků v činné službě s technikou podle bodu I. tohoto usnesení.\nProvedou:\nministři zdravotnictví,\nobrany"
+    }
+  ],
+  "definitions": []
+}

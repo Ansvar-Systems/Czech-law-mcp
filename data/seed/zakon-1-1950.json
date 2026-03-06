@@ -1,0 +1,33 @@
+{
+  "id": "cz:1/1950",
+  "type": "statute",
+  "title": "1/1950 Sb., Nařízení o zrušení zemských finančních pokladen",
+  "title_en": "",
+  "short_name": "1/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-01-26",
+  "in_force_date": "1950-01-26",
+  "url": "https://www.e-sbirka.cz/sb/1950/1",
+  "description": "Nařízení o zrušení zemských finančních pokladen",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Zemské finanční pokladny v Praze, Brně a Opavě se zrušují. Jejich likvidaci provede ústřední státní pokladna republiky Československé."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Opatření k přípravě zrušení zemských finančních pokladen a přenesení jejich působnosti, učiněná přede dnem počátku účinnosti tohoto nařízení, se považují za učiněná podle tohoto nařízení."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr financí."
+    }
+  ],
+  "definitions": []
+}

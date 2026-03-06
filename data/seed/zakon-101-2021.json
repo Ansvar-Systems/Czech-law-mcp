@@ -1,0 +1,39 @@
+{
+  "id": "cz:101/2021",
+  "type": "statute",
+  "title": "101/2021 Sb., Usnesení vlády České republiky č. 201 o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "101/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-02-26",
+  "in_force_date": "2021-02-26",
+  "url": "https://www.e-sbirka.cz/sb/2021/101",
+  "description": "Usnesení vlády České republiky č. 201 o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. zakazuje u všech poskytovatelů zdravotních služeb návštěvy pacientů v zdravotnických zařízeních na pracovištích, na kterých se poskytuje akutní lůžková péče, ve kterých se poskytuje lůžková péče, s výjimkou:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. omezuje u všech poskytovatelů zdravotních služeb návštěvy pacientů v zdravotnických zařízeních na pracovištích, na kterých se poskytuje dlouhodobá nebo následná lůžková péče, tak, že návštěvu lze připustit pouze za podmínky, že osoba navštěvující pacienta se podrobí před zahájením návštěvy POC testu na přítomnost antigenu viru SARS CoV-2, a to s negativním výsledkem; tento požadavek se nevztahuje na osoby, které absolvovaly nejpozději 48 hodin před zahájením návštěvy RT-PCR vyšetření nebo POC test na přítomnost antigenu viru SARS CoV-2 s negativním výsledkem a doloží o tom doklad, a na osoby, které v době 90 dnů přede dnem návštěvy prodělaly onemocnění COVID-19 a doloží o tom doklad; osoba navštěvující pacienta, která splní některou z uvedených podmínek, může vykonat návštěvu za podmínky, že po dobu návštěvy používá osobní ochranné pomůcky dýchacích cest, a to minimálně respirátor třídy FFP2 nebo KN95 bez výdechového ventilu [s výjimkou dětí do dvou let věku, které nemusí mít ochranný prostředek dýchacích cest, a s výjimkou dětí od dvou do patnácti let věku, pokud mají jiný ochranný prostředek dýchacích cest (nos, ústa), který brání šíření kapének], a při dodržení dalších režimových opatření poskytovatele,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. zakazuje u všech poskytovatelů zdravotních služeb přítomnost třetí osoby při porodu ve zdravotnickém zařízení v případě, že nejsou splněny tyto podmínky:"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. u všech poskytovatelů sociálních služeb v zařízení domovů pro seniory a domovů se zvláštním režimem a všem odlehčovacím sociálním službám v pobytové formě (podle § 44, 49 a 50 zákona č. 108/2006 Sb., o sociálních službách) omezuje návštěvy uživatelů tak, že návštěvu lze připustit pouze za podmínky, že osoba navštěvující uživatele se podrobí před zahájením návštěvy POC testu na přítomnost antigenu viru SARS CoV-2, a to s negativním výsledkem; tento požadavek se nevztahuje na osoby, které absolvovaly nejpozději 48 hodin před zahájením návštěvy RT-PCR vyšetření nebo POC test na přítomnost antigenu viru SARS CoV-2 s negativním výsledkem a doloží o tom doklad, a na osoby, které v době 90 dnů přede dnem návštěvy prodělaly onemocnění COVID-19 a doloží o tom doklad; osoba navštěvující uživatele, která splní některou z uvedených podmínek, může vykonat návštěvu za podmínky, že po dobu návštěvy používá osobní ochranné pomůcky dýchacích cest, a to minimálně respirátor třídy FFP2 nebo KN95 bez výdechového ventilu [s výjimkou dětí do dvou let věku, které nemusí mít ochranný prostředek dýchacích cest, a s výjimkou dětí od dvou do patnácti let věku, pokud mají jiný ochranný prostředek dýchacích cest (nos, ústa), který brání šíření kapének], a při dodržení dalších režimových opatření poskytovatele; v případě návštěv uživatelů v terminálním stadiu nevyléčitelného onemocnění lze návštěvu připustit za podmínky, že osoba navštěvující uživatele dodržuje režimová opatření poskytovatele."
+    }
+  ],
+  "definitions": []
+}

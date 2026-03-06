@@ -1,0 +1,51 @@
+{
+  "id": "cz:72/1974",
+  "type": "statute",
+  "title": "72/1974 Sb., Vyhláška federálního ministerstva práce a sociálních věcí k provedení některých ustanovení zákona o mateřském příspěvku",
+  "title_en": "",
+  "short_name": "72/1974 Sb.",
+  "status": "in_force",
+  "issued_date": "1974-07-25",
+  "in_force_date": "1984-09-01",
+  "url": "https://www.e-sbirka.cz/sb/1974/72",
+  "description": "Vyhláška federálního ministerstva práce a sociálních věcí k provedení některých ustanovení zákona o mateřském příspěvku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro nárok na mateřský příspěvek je žena povinna se podrobovat v době těhotenství pravidelné péči o těhotné ženy ve zdravotnických zařízeních. K prvnímu vyšetření je žena povinna se dostavit nejpozději do konce 16. týdne těhotenství, pokud dodržení této lhůty nebránily vážné zdravotní důvody ženy, a dále se podrobovat odbornému vyšetření podle pokynů lékaře. Příslušnost zdravotnického zařízení se řídí zvláštními předpisy.1)"
+    },
+    {
+      "provision_ref": "§ 1a",
+      "section": "1a",
+      "title": "§ 1a",
+      "content": "Za povinnou školní docházku se považuje též období školních prázdnin navazujících na ukončení období školního vyučování školního roku, v němž dítě dovrší poslední rok povinné školní docházky, pokud dítě v této době nevstoupilo do trvalého zaměstnání, popřípadě nezačalo vykonávat jinou trvalou pracovní činnost."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Žena, která v době pobírání mateřského příspěvku přiznaného orgánem příslušným podle § 11 odst. 1 zákona porodí další dítě, popřípadě převezme dítě do trvalé péče nahrazující mateřskou péči, a není ke dni porodu tohoto dítěte (převzetí dítěte) již účastna nemocenského pojištění (zabezpečení v nemoci, nemocenské péče v ozbrojených silách), uplatňuje nárok na mateřský příspěvek v nové výši u okresního národního výboru příslušného podle § 10 odst. 1 písm. e) a § 11 odst. 2 zákona.\n(2) V žádosti o mateřský příspěvek je žena povinna uvést orgán, který rozhodl o dosavadním mateřském příspěvku. Okresní národní výbor vyrozumí tento orgán o svém rozhodnutí o mateřském příspěvku. Došlo-li po dni, od něhož byl přiznán mateřský příspěvek v nové výši, k výplatě dosavadního mateřského příspěvku, zúčtuje okresní národní výbor vyplacené částky na nově přiznaném mateřském příspěvku.\n(3) Mezi orgány rozhodujícími o mateřském příspěvku podle § 11 odst. 1 a 2 zákona se částky vyplacené na mateřském příspěvku navzájem neuhrazují, i když mateřský příspěvek vyplatil nepříslušný orgán."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Mateřský příspěvek se nezahrnuje do příjmu rozhodného pro poskytování\na) služeb sociálního zabezpečení, s výjimkou příspěvků uvedených v § 4 odst. 1 a 2 zákona,\nb) příspěvku na výživu,2)\nc) sociálního stipendia studujícím na středních a vysokých školách,\nd) příplatku k podnikovému stipendiu na manželku, která nemůže být výdělečně činná,\ne) příspěvku vojákovi na úhradu za užívání bytu a služby s tím spojené,\nf) bezplatného stravování a ubytování učňů a mladistvých pracovníků,\ng) přídavků na děti, výchovného a sirotčího důchodu.\n(2) K mateřskému příspěvku se nepřihlíží při stanovení výše úhrady nákladů na péči poskytovanou v některých zařízeních pro mládež3) a výše příplatku za péči poskytovanou v jeslích, ani při stanovení výše poplatků za stravování poskytované v mateřských školách a ve školních jídelnách pro základní devítileté školy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 4 a 5 vyhlášky č. 42/1966 Sb., o poskytování léčebně preventivní péče.\n2) § 19 vládního nařízení č. 59/1964 Sb., o úkolech národních výborů při péči o děti, ve znění nařízení vlády ČSSR č. 99/1971 Sb.\n3) Vyhláška č. 124/1967 Sb., o částečné úhradě nákladů na péči poskytovanou v některých zařízeních pro mládež."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "povinnou školní docházku",
+      "definition": "též období školních prázdnin navazujících na ukončení období školního vyučování školního roku, v němž dítě dovrší poslední rok povinné školní docházky, pokud dítě v této době nevstoupilo do trvalého zaměstnání, popřípadě nezačalo vykonávat jinou trvalou pracovní činnost",
+      "source_provision": "§ 1a"
+    }
+  ]
+}

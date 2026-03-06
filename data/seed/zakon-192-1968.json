@@ -1,0 +1,129 @@
+{
+  "id": "cz:192/1968",
+  "type": "statute",
+  "title": "192/1968 Sb., Vyhláška ministerstva zahraničních věcí o Dohodě o výsadách a imunitách Mezinárodní agentury pro atomovou energii",
+  "title_en": "",
+  "short_name": "192/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-12-29",
+  "in_force_date": "1968-12-29",
+  "url": "https://www.e-sbirka.cz/sb/1968/192",
+  "description": "Vyhláška ministerstva zahraničních věcí o Dohodě o výsadách a imunitách Mezinárodní agentury pro atomovou energii",
+  "provisions": [
+    {
+      "provision_ref": "Článek I",
+      "section": "I",
+      "title": "Článek I",
+      "content": "Definice"
+    },
+    {
+      "provision_ref": "Článek II",
+      "section": "II",
+      "title": "Článek II",
+      "chapter": "Oddíl 1",
+      "content": "Právní způsobilost"
+    },
+    {
+      "provision_ref": "Článek III",
+      "section": "III",
+      "title": "Článek III",
+      "chapter": "Oddíl 2",
+      "content": "Majetek, fondy a aktiva"
+    },
+    {
+      "provision_ref": "Článek IV",
+      "section": "IV",
+      "title": "Článek IV",
+      "chapter": "Oddíl 9",
+      "content": "Výhody ve spojení"
+    },
+    {
+      "provision_ref": "Článek V",
+      "section": "V",
+      "title": "Článek V",
+      "chapter": "Oddíl 11",
+      "content": "Zástupci členských států"
+    },
+    {
+      "provision_ref": "Článek VI",
+      "section": "VI",
+      "title": "Článek VI",
+      "chapter": "Oddíl 16",
+      "content": "Úředníci"
+    },
+    {
+      "provision_ref": "Článek VII",
+      "section": "VII",
+      "title": "Článek VII",
+      "chapter": "Oddíl 22",
+      "content": "Experti vysílaní Agenturou"
+    },
+    {
+      "provision_ref": "Článek VIII",
+      "section": "VIII",
+      "title": "Článek VIII",
+      "chapter": "Oddíl 25",
+      "content": "Zneužití výsady"
+    },
+    {
+      "provision_ref": "Článek IX",
+      "section": "IX",
+      "title": "Článek IX",
+      "chapter": "Oddíl 27",
+      "content": "Laissez ▬ passer"
+    },
+    {
+      "provision_ref": "Článek X",
+      "section": "X",
+      "title": "Článek X",
+      "chapter": "Oddíl 32",
+      "content": "Urovnání sporů"
+    },
+    {
+      "provision_ref": "Článek XI",
+      "section": "XI",
+      "title": "Článek XI",
+      "chapter": "Oddíl 34",
+      "content": "Výklad"
+    },
+    {
+      "provision_ref": "Článek XII",
+      "section": "XII",
+      "title": "Článek XII",
+      "chapter": "Oddíl 37",
+      "content": "Závěrečná ustanovení"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agentura",
+      "definition": "Mezinárodní agenturu pro atomovou energii",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "Výraz „Agentura",
+      "definition": "Mezinárodní agenturu pro atomovou energii",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "schůze svolaná Agenturou",
+      "definition": "schůze:",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "V oddílech 12, 13, 14 a 27 se výrazem „schůze svolaná Agenturou",
+      "definition": "schůze:",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "úředníci Agentury",
+      "definition": "generálního ředitele a všechen personál Agentury s výjimkou personálu najímaného v místě a placeného hodinovou mzdou",
+      "source_provision": "Článek I"
+    },
+    {
+      "term": "Pro účely článku VI a IX výraz „úředníci Agentury",
+      "definition": "generálního ředitele a všechen personál Agentury s výjimkou personálu najímaného v místě a placeného hodinovou mzdou",
+      "source_provision": "Článek I"
+    }
+  ]
+}

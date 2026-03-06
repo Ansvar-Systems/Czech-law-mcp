@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:200/1955",
+  "type": "statute",
+  "title": "200/1955 Ú. l., Vyhláška ministerstva kultury o zrušení slev při prodeji neperiodických publikací.",
+  "title_en": "",
+  "short_name": "200/1955 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1955-11-03",
+  "in_force_date": "1955-09-01",
+  "url": "https://www.e-sbirka.cz/ul0/1955/200",
+  "description": "Vyhláška ministerstva kultury o zrušení slev při prodeji neperiodických publikací.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Slevy při prodeji neperiodických publikací spotřebitelům, ať již jsou to jednotlivci anebo rozpočtové, hospodářské nebo jiné organisace se nadále neposkytují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Slevou se rozumí jakékoliv snížení ceny, která byla stanovena příslušným orgánem nebo vypočtena podle platných cenových předpisů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 1955."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Slevou",
+      "definition": "jakékoliv snížení ceny, která byla stanovena příslušným orgánem nebo vypočtena podle platných cenových předpisů",
+      "source_provision": "§ 2."
+    }
+  ]
+}

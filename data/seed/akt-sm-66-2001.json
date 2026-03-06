@@ -1,0 +1,38 @@
+{
+  "id": "cz:sm:66/2001",
+  "type": "statute",
+  "title": "66/2001 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Estonskou republikou",
+  "title_en": "",
+  "short_name": "66/2001 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2001-08-03",
+  "in_force_date": "2001-08-03",
+  "url": "https://www.e-sbirka.cz/sm/2001/66",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Estonskou republikou",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 2 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně.“.\n2. Článek 7 se nahrazuje tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "1. Toto Rozhodnutí vstoupí v platnost dne 1. ledna 2001 za předpokladu, že si před tímto datem Strany vymění diplomatické nóty potvrzující jeho schválení vládou příslušné Strany.\n2. V případě, že toto Rozhodnutí nevstoupí v platnost podle odstavce 1 tohoto článku, bude od 1. ledna 2001 předběžně prováděno a vstoupí v platnost dnem doručení pozdější diplomatické nóty potvrzující jeho schválení vládou příslušné Strany.\nDáno v Praze dne 21. listopadu 2000 ve dvou původních vyhotoveních, každé v jazyce anglickém, přičemž obě znění mají stejnou platnost.\n1) Dohoda o volném obchodu mezi Českou republikou a Estonskou republikou ze dne 19. dubna 1996 byla vyhlášena pod č. 53/1998 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    }
+  ]
+}

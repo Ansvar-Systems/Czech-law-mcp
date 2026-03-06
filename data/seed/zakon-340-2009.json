@@ -1,0 +1,33 @@
+{
+  "id": "cz:340/2009",
+  "type": "statute",
+  "title": "340/2009 Sb., Nařízení vlády o zvýšení zvláštního příspěvku k důchodu",
+  "title_en": "",
+  "short_name": "340/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-10-08",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/340",
+  "description": "Nařízení vlády o zvýšení zvláštního příspěvku k důchodu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Výše zvláštního příspěvku k důchodu činí\na) u oprávněného uvedeného v § 5 odst. 1 písm. a) a c) zákona částku 2 676 Kč měsíčně,\nb) u oprávněného uvedeného v § 5 odst. 1 písm. b) zákona a vdovy nebo vdovce uvedených v § 5 odst. 2 zákona částku 1 338 Kč měsíčně."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zvláštní příspěvek k důchodu, který byl přiznán ode dne spadajícího do období před 1. lednem 2010, se vyplácí ve výši podle § 1 od splátky důchodu, s nímž se vyplácí, splatné po 31. prosinci 2009."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2010."
+    }
+  ],
+  "definitions": []
+}

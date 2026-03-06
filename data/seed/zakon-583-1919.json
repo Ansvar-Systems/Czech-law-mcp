@@ -1,0 +1,33 @@
+{
+  "id": "cz:583/1919",
+  "type": "statute",
+  "title": "583/1919 Sb., Nařízení vlády, kterým se zřizuje odbor architektury na české vysoké škole technické v Brně.",
+  "title_en": "",
+  "short_name": "583/1919 Sb.",
+  "status": "in_force",
+  "issued_date": "1919-11-13",
+  "in_force_date": "1919-11-13",
+  "url": "https://www.e-sbirka.cz/sb/1919/583",
+  "description": "Nařízení vlády, kterým se zřizuje odbor architektury na české vysoké škole technické v Brně.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Na české vysoké škole technické v Brně zřizuje se odbor architektury."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "První ročník budiž otevřen ve studijním roce 1919/20, ostatní postupně v letech následujících tak, aby ve studijním roce 1924/25 bylo studium architektury úplným."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nařízení toto nabývá účinnosti dnem vyhlášení. Provede je ministr školství a národní osvěty."
+    }
+  ],
+  "definitions": []
+}

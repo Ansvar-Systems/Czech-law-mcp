@@ -1,0 +1,27 @@
+{
+  "id": "cz:78/1975",
+  "type": "statute",
+  "title": "78/1975 Sb., Usnesení vlády Slovenské socialistické republiky o výjimečném zkrácení nepřetržitého odpočinku v týdnu",
+  "title_en": "",
+  "short_name": "78/1975 Sb.",
+  "status": "in_force",
+  "issued_date": "1975-07-17",
+  "in_force_date": "1975-07-17",
+  "url": "https://www.e-sbirka.cz/sb/1975/78",
+  "description": "Usnesení vlády Slovenské socialistické republiky o výjimečném zkrácení nepřetržitého odpočinku v týdnu",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. není-li z provozních důvodů možné poskytnout pracovníku nepřetržitý odpočinek v týdnu v trvání alespoň 32 hodin (§ 92 zákoníku práce), může vedoucí organizace rozvrhnout pracovní dobu tak, že doba tohoto odpočinku bude činit nejméně 24 hodiny\na) při sezónních a kampaňových pracích,\nb) při pracích v dopravě, v kulturních zařízeních a v nepřetržitých provozech\ns podmínkou, že na jednotlivé pracovníky připadne nepřetržitý odpočinek v trvání alespoň 32 hodin nejméně jednou za tři týdny;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. při pracích, u nichž je pracovní doba nerovnoměrně rozvržena na období celého kalendářního roku, a v zemědělství může vedoucí organizace rozvrhnout na základě směrnic ústředního orgánu (§ 85 odst. 2 zákoníku práce) pracovní dobu tak, že nepřetržitý odpočinek v trvání nejméně 32 hodin připadne na jednotlivé pracovníky jednou za dva týdny."
+    }
+  ],
+  "definitions": []
+}

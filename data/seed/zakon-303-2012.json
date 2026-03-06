@@ -1,0 +1,33 @@
+{
+  "id": "cz:303/2012",
+  "type": "statute",
+  "title": "303/2012 Sb., Vyhláška, kterou se mění vyhláška č. 502/2005 Sb., o stanovení způsobu vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje",
+  "title_en": "",
+  "short_name": "303/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-09-14",
+  "in_force_date": "2012-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/303",
+  "description": "Vyhláška, kterou se mění vyhláška č. 502/2005 Sb., o stanovení způsobu vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Příloha č. 3 k vyhlášce č. 502/2005 Sb., o stanovení způsobu vykazování množství elektřiny při společném vykazování biomasy a neobnovitelného zdroje, zní:\n„Příloha č. 3 k vyhlášce č. 502/2005 Sb.\nZpůsob výpočtu množství elektřiny vyrobené společným spalováním biomasy a neobnovitelného zdroje energie\n(1) Při výrobě elektrické energie současným spalováním biomasy a neobnovitelného zdroje energie se množství elektřiny z obnovitelného zdroje stanovuje podle vzorce\nEoze=∑i=1nMozei∑i=1nMozei+∑i=1nMfosi×Esv-Evl MWh\nkde\ni pořadové číslo kotle ve skupině\nn počet kotlů ve skupině.\n(2) V případě, že do společné parní sběrnice pracují jak kotle spoluspalující biomasu a neobnovitelné zdroje současně v jednom kotli, tak i kotle s paralelním spalováním obnovitelných zdrojů, tedy kotle spalující pouze biomasu, stanoví se množství elektřiny z paralelního spalování obnovitelných zdrojů a množství elektřiny ze spoluspalování podle vzorce\nEoze-paralel=∑j=1mQvyr,oze-paralelj∑i=1nQvyri×Esv-Evl MWh\nEoze-spolu=Eoze-Eoze-paralel MWh\nkde\ni pořadové číslo kotle ve skupině\nn počet kotlů ve skupině\nj pořadové číslo kotle s paralelním spalováním, tj. kotle ve skupině spalujícího výhradně biomasu\nm počet kotlů s paralelním spalováním, tj. počet kotlů ve skupině spalujících výhradně biomasu.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pro vykazování množství elektřiny vyrobené společným spalováním biomasy a neobnovitelného zdroje energie ve výrobnách uvedených do provozu do dne nabytí účinnosti této vyhlášky se použije způsob výpočtu množství elektřiny vyrobené společným spalováním biomasy a neobnovitelného zdroje energie podle přílohy č. 3 k vyhlášce č. 502/2005 Sb., o stanovení způsobu vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje, ve znění účinném do dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

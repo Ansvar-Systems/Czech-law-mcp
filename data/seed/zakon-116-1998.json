@@ -1,0 +1,33 @@
+{
+  "id": "cz:116/1998",
+  "type": "statute",
+  "title": "116/1998 Sb., Nařízení vlády, kterým se provádí zákon č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád)",
+  "title_en": "",
+  "short_name": "116/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-05-21",
+  "in_force_date": "1998-05-21",
+  "url": "https://www.e-sbirka.cz/sb/1998/116",
+  "description": "Nařízení vlády, kterým se provádí zákon č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Průměrným výdělkem se rozumí průměrný výdělek zjišťovaný podle zvláštního zákona1) pro pracovněprávní účely.\n(2) Nelze-li průměrný výdělek určit podle odstavce 1, vychází se při jeho určení z okolností jednotlivého případu, zejména z daňového přiznání."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení.\n1) § 275 zákoníku práce.\n§ 17 zákona č. 1/1992 Sb., o mzdě, odměně za pracovní pohotovost a o průměrném výdělku, ve znění zákona č. 74/1992 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Průměrným výdělkem",
+      "definition": "průměrný výdělek zjišťovaný podle zvláštního zákona1) pro pracovněprávní účely",
+      "source_provision": "§ 1"
+    }
+  ]
+}

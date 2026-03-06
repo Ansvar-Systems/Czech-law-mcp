@@ -1,0 +1,27 @@
+{
+  "id": "cz:52/1946",
+  "type": "statute",
+  "title": "52/1946 Sb., Zákon, kterým se prohlašuje den 7. března za památný den",
+  "title_en": "",
+  "short_name": "52/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-03-26",
+  "in_force_date": "1946-03-26",
+  "url": "https://www.e-sbirka.cz/sb/1946/52",
+  "description": "Zákon, kterým se prohlašuje den 7. března za památný den",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "7. březen, den narozenin presidenta-Osvoboditele T. G. Masaryka, jest památným dnem republiky Československé."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

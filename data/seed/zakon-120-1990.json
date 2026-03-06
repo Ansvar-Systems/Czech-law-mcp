@@ -1,0 +1,27 @@
+{
+  "id": "cz:120/1990",
+  "type": "statute",
+  "title": "120/1990 Sb., Zákon, kterým se upravují některé vztahy mezi odborovými organizacemi a zaměstnavateli",
+  "title_en": "",
+  "short_name": "120/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-04-23",
+  "in_force_date": "2007-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/120",
+  "description": "Zákon, kterým se upravují některé vztahy mezi odborovými organizacemi a zaměstnavateli",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V případě, kdy právní předpisy zakládají oprávnění Revolučního odborového hnutí, se tato oprávnění za podmínek uvedených v zákoníku práce vztahují na odborové organizace a orgány vytvořené na základě svobodného odborového sdružování."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

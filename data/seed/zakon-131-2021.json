@@ -1,0 +1,27 @@
+{
+  "id": "cz:131/2021",
+  "type": "statute",
+  "title": "131/2021 Sb., Usnesení vlády České republiky č. 296 o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "131/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-03-18",
+  "in_force_date": "2021-03-18",
+  "url": "https://www.e-sbirka.cz/sb/2021/131",
+  "description": "Usnesení vlády České republiky č. 296 o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. vycházka bude umožněna za podmínky, že uživatel bezprostředně po návratu bude umístěn do oddělených prostor a do 72 hodin od ukončení vycházky bude proveden první antigenní POC test, který bude zopakován za další 3 až 4 dny; umístění do oddělených prostor bude ukončeno v případě negativních výsledků obou testů. Postup podle předchozí věty se nevztahuje na osoby, které mají vystavený certifikát Ministerstva zdravotnictví ČR o provedeném očkování proti onemocnění COVID-19, a od aplikace druhé dávky očkovací látky v případě dvoudávkového schématu podle souhrnu údajů o léčivém přípravku (dále jen „SPC“) uplynulo nejméně 14 dní, nebo od aplikace první dávky očkovací látky v případě jednodávkového schématu podle SPC uplynulo nejméně 14 dnů, a očkovaná osoba nejeví žádné příznaky onemocnění COVID-19,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. uživatel sociálních služeb používá v průběhu vycházky ochranné prostředky dýchacích cest (nos, ústa), kterým je respirátor nebo obdobný prostředek (vždy bez výdechového ventilu) naplňující minimálně všechny technické podmínky a požadavky (pro výrobek), včetně filtrační účinnosti alespoň 94 % dle příslušných norem (např. FFP2, KN95), zdravotnická obličejová maska nebo obdobný prostředek naplňující minimálně všechny technické podmínky a požadavky (pro výrobek) normy ČSN EN 14683+AC, které brání šíření kapének;"
+    }
+  ],
+  "definitions": []
+}

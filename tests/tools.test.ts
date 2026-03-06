@@ -1,17 +1,22 @@
 /**
  * Core tool tests for Czech Law MCP.
  * Tests against the built database (data/database.db).
+ *
+ * Requires the 1.2 GB database file — skipped automatically in CI
+ * or any environment where data/database.db is absent.
  */
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import Database from '@ansvar/mcp-sqlite';
 import { resolve } from 'path';
+import { existsSync } from 'fs';
 import { getProvision } from '../src/tools/get-provision.js';
 import { searchLegislation } from '../src/tools/search-legislation.js';
 import { listSources } from '../src/tools/list-sources.js';
 
 const DB_PATH = resolve(import.meta.dirname, '..', 'data', 'database.db');
+const HAS_DB = existsSync(DB_PATH);
 
-describe('Czech Law MCP Tools', () => {
+describe.skipIf(!HAS_DB)('Czech Law MCP Tools', () => {
   let db: InstanceType<typeof Database>;
 
   beforeAll(() => {
@@ -26,9 +31,14 @@ describe('Czech Law MCP Tools', () => {
     it('returns source metadata and database stats', async () => {
       const result = await listSources(db);
       expect(result.results).toBeDefined();
-      expect(result.results.database.document_count).toBe(10);
+      expect(result.results.database.document_count).toBeGreaterThanOrEqual(10);
       expect(result.results.database.provision_count).toBeGreaterThanOrEqual(4000);
       expect(result.results.database.tier).toBe('free');
+    });
+
+    it('has populated legal definitions from real statutes', () => {
+      const row = db.prepare('SELECT COUNT(*) as count FROM definitions').get() as { count: number };
+      expect(Number(row.count)).toBeGreaterThanOrEqual(150);
     });
   });
 

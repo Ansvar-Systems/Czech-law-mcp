@@ -1,0 +1,45 @@
+{
+  "id": "cz:69/2010",
+  "type": "statute",
+  "title": "69/2010 Sb., Zákon o vlastnictví letiště Praha-Ruzyně",
+  "title_en": "",
+  "short_name": "69/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-03-24",
+  "in_force_date": "2025-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/69",
+  "description": "Zákon o vlastnictví letiště Praha-Ruzyně",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Letiště Praha-Ruzyně a nemovité věci k němu náležející smí být jen ve vlastnictví České republiky (dále jen „stát“), anebo právnických osob se sídlem ve státě, v nichž má stát stoprocentní majetkovou účast (stoprocentní podíl)2).\n(2) Pro účely tohoto zákona se rozumí\na) letištěm Praha-Ruzyně a nemovitými věcmi k němu náležejícími\n1. letištní pozemky,\n2. dráhy určené ke vzletům a přistávání letadel na letišti Praha-Ruzyně bez zřetele na jejich stavebně technické provedení a\n3. dráhy a plochy určené k pohybům a stáním letadel souvisejícím s jejich vzlety a přistáváním na letišti Praha-Ruzyně bez zřetele na jejich stavebně technické provedení,\nb) letištním pozemkem pozemek zapsaný u letiště Praha-Ruzyně v evidenci letišť vedené Úřadem pro civilní letectví podle zákona upravujícího civilní letectví,\nc) právnickou osobou se sídlem ve státě, v níž má stát stoprocentní majetkovou účast, též osoba, ve které má stát stoprocentní majetkovou účast prostřednictvím jiné právnické osoby."
+    },
+    {
+      "provision_ref": "§ 1a",
+      "section": "1a",
+      "title": "§ 1a",
+      "content": "Letištní pozemky mohou být ve prospěch třetí osoby zatíženy právem stavby. Právo stavby ani stavba vyhovující právu stavby se nestávají součástí letiště Praha-Ruzyně a nemovitých věcí k němu náležejících. Ustanovení § 1254 občanského zákoníku se v takovém případě nepoužije."
+    },
+    {
+      "provision_ref": "§ 1b",
+      "section": "1b",
+      "title": "§ 1b",
+      "content": "(1) Vlastník letištního pozemku, který není právnickou osobou se sídlem ve státě, ve které má stát stoprocentní majetkovou účast, je povinen v případě úplatného převodu vlastnického práva k takovému letištnímu pozemku, jej přednostně nabídnout ke koupi\na) provozovateli letiště Praha-Ruzyně, je-li současně právnickou osobou se sídlem ve státě, ve které má stát stoprocentní majetkovou účast, a vlastníkem nadpoloviční většiny výměry letištních pozemků a\nb) České republice – Ministerstvu financí.\n(2) Provozovatel letiště nebo Česká republika – Ministerstvo financí může na základě nabídky vlastníka letištního pozemku uplatnit právo na přednostní koupi letištního pozemku, a to za cenu obvyklou a nelze-li cenu obvyklou určit, za tržní hodnotu.\n(3) Provozovatel letiště nebo Česká republika – Ministerstvo financí, jsou povinni ve lhůtě 6 měsíců od doručení nabídky oznámit vlastníku letištního pozemku, že nabídku koupě přijímají, jinak právo na přednostní koupi letištního pozemku vůči jeho vlastníku, který nabídku učinil, zaniká.\n(4) Nesplní-li vlastník letištního pozemku povinnost podle odstavce 1, je právní jednání, kterým převedl vlastnictví k letištnímu pozemku na jinou osobu neplatné.\n(5) Odstavce 1 až 4 se pro podíl na letištním pozemku použijí obdobně."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení.\n2) Čl. 11 odst. 2 Listiny základních práv a svobod."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "právnickou osobou se sídlem ve státě",
+      "definition": "v níž má stát stoprocentní majetkovou účast, též osoba, ve které má stát stoprocentní majetkovou účast prostřednictvím jiné právnické osoby.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

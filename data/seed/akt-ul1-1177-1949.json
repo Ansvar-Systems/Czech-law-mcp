@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1177/1949",
+  "type": "statute",
+  "title": "1177/1949 Ú. l. I, Vyhláška ministerstev techniky a průmyslu, kterou se stanoví závaznost dalších norem stavebního oboru.",
+  "title_en": "",
+  "short_name": "1177/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-12-15",
+  "in_force_date": "1949-12-15",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1177",
+  "description": "Vyhláška ministerstev techniky a průmyslu, kterou se stanoví závaznost dalších norem stavebního oboru.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ustanovení § 1 vyhlášky ministerstev techniky a průmyslu č. 575/1949 Ú. l. I, kterou se stanoví závaznost některých norem stavebního oboru, se doplňuje tak, že s výhradou ustanovení § 2 se stanoví všeobecná závaznost těchto dalších norem stavebního oboru, vydaných Československou společností normalisační (dále jen „normy“):\nČSN 1184-1949 „Voštinové pálené cihly“,\nČSN 1185-1949 „Plné pálené cihly lehčené“,\nČSN 1445-1949 „Pálené tašky“,\nČSN 1446-1949 „Půdovky“,\nČSN 1450-1949 „Výpočet tepelných ztrát budov při navrhování ústředního vytápění“ a\nČSN 1581-1949 „Šamotové a dinasové cihly a tvárnice základní“."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Závaznost norem uvedených v § 1 se nevztahuje na dodávky určené pro vývoz, pokud objednavatel požaduje zboží odchylných vlastností."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti u normy ČSN 1450 dnem 1. ledna 1950; téhož dne nabývá u ostatních norem účinnosti pro výrobu, kdežto pro odbavení zásob zboží dříve vyrobeného nabývá u norem ČSN 1184, 1185, 1445 a 1446 účinnosti dnem 1. března 1950 a u normy ČSN 1581 dnem 1. prosince 1950."
+    }
+  ],
+  "definitions": []
+}

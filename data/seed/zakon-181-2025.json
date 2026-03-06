@@ -1,0 +1,33 @@
+{
+  "id": "cz:181/2025",
+  "type": "statute",
+  "title": "181/2025 Sb., Vyhláška, kterou se mění vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání, ve znění vyhlášky č. 180/2017 Sb.",
+  "title_en": "",
+  "short_name": "181/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-06-17",
+  "in_force_date": "2025-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/181",
+  "description": "Vyhláška, kterou se mění vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání, ve znění vyhlášky č. 180/2017 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání, ve znění vyhlášky č. 180/2017 Sb., se mění takto:\n1. V § 1 se za text „§ 129 odst. 1“ vkládají slova „nebo § 129a odst. 1“.\n2. V § 2 odstavec 1 zní:\n„(1) Formulář Úřad zpřístupní prostřednictvím informačního systému veřejné správy ve formě online HTML (HyperText Markup Language) formuláře s výstupem ve formátu PDF (Portable Document Format). Formulář je možné odeslat také z informačního systému osoby vykonávající komunikační činnost prostřednictvím rozhraní pro aplikační programy (API) po autentizaci na základě API klíče vydaného Úřadem.“.\n3. V § 2 se odstavec 3 zrušuje.\nDosavadní odstavec 4 se označuje jako odstavec 3.\n4. V § 2 odst. 3 se za slovo „je“ vkládají slova „v případě podání na adresu elektronické pošty“ a na konci textu odstavce se doplňují slova „ , v případě jiného elektronického podání 100 MB“.\n5. Příloha zní:\n„Příloha\nVzor elektronického formuláře návrhu na rozhodnutí sporu podle § 129 odst. 1 nebo podle § 129a odst. 1 zákona, který se týká povinnosti účastníka, popřípadě uživatele, k peněžitému plnění\n“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Formulář podle vyhlášky č. 360/2010 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, lze využít pro podání návrhu na rozhodnutí sporu nejpozději do 30. července 2026."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2025."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:191/1998",
+  "type": "statute",
+  "title": "191/1998 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 169/1995 Sb., kterou se stanoví podrobnosti o podmínkách dodávek elektřiny a o způsobu výpočtu škody vzniklé dodavateli neoprávněným odběrem elektřiny, ve znění vyhlášky č. 196/1996 Sb.",
+  "title_en": "",
+  "short_name": "191/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-08-07",
+  "in_force_date": "1998-08-07",
+  "url": "https://www.e-sbirka.cz/sb/1998/191",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 169/1995 Sb., kterou se stanoví podrobnosti o podmínkách dodávek elektřiny a o způsobu výpočtu škody vzniklé dodavateli neoprávněným odběrem elektřiny, ve znění vyhlášky č. 196/1996 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 169/1995 Sb., kterou se stanoví podrobnosti o podmínkách dodávek elektřiny a o způsobu výpočtu škody vzniklé dodavateli neoprávněným odběrem elektřiny, ve znění vyhlášky č. 196/1996 Sb., se mění takto:\n1. Příloha č. 2 zní:\n„Příloha č. 2 k vyhlášce č. 169/1995 Sb.\nZpůsob výpočtu podílu odběratele na nákladech dodavatele spojených se zajištěním požadovaného příkonu\nVýše podílu odběratele na nákladech dodavatele spojených se zajištěním požadovaného příkonu se určí takto:\nN = Z + (P - S).J /Kč/,\nkde:\nN – výše podílu odběratele v Kč\nZ – základní podíl odběratele v Kč podle níže uvedené tabulky\nP – požadovaná hodnota rezervovaného příkonu vyjádřená:\na) u odběratelů kategorie A a B v kW\nb) u odběratelů kategorie C a D v A\nPoznámka:\nPři volbě požadované hodnoty rezervovaného příkonu platí tato omezení:\n1. Požadovaná hodnota rezervovaného příkonu musí být shodná s normalizovaným stupněm jistícího prvku před měřicím zařízením.\n2. Pro odběratele kategorie D typu bytová spotřeba do 25 A včetně, typu rekreační objekty do 16 A včetně a typu ostatní do 6 A včetně je uplatněn pouze základní podíl (N = Z).\nS – stávající hodnota rezervovaného příkonu u odběratelů kategorií A a B vyjádřená v kW a u odběratelů kategorií C a D vyjádřená v A, přičemž pro dané odběrné místo musí být splněna podmínka:\nS < P\nU odběratelů kategorie D bude za S dosazeno Smin\nSmin – hodnota, do níž se uplatňuje pouze úhrada základního podílu podle § 5 odst. 7.\nJ – jednotkový podíl odběratele na účelně vynaložených nákladech dodavatele spojených se zajištěním požadovaného příkonu podle níže uvedené tabulky:\nKategorie odběrateleTyp spotřebyJZSmin\nA1 800 Kč/kW00\nB1 800 Kč/kW00\nCdo hodnoty 16 A vč.900 Kč/A00\nnad hodnotu 16 A1 800 Kč/A00\nDBytová spotřeba25 A\ndo hodnoty 25 A vč0450 Kč\ndo hodnoty 35 A vč.450 Kč/A450 Kč\nnad hodnotu 35 A1 350 Kč/A450 Kč\nDRekreační objekty16 A\ndo hodnoty 16 A vč.01 350 Kč\nnad hodnotu 16 A1 350 Kč/A1 350 Kč\nDOstatní – garáže, zahrádky apod.6A\ndo hodnoty 6 A vč.01 350 Kč\nnad hodnotu 6 A1 350 Kč/A1 350 Kč“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

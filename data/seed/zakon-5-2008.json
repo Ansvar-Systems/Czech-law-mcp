@@ -1,0 +1,27 @@
+{
+  "id": "cz:5/2008",
+  "type": "statute",
+  "title": "5/2008 Sb., Vyhláška o seznamu účinných látek",
+  "title_en": "",
+  "short_name": "5/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-01-23",
+  "in_force_date": "2008-01-23",
+  "url": "https://www.e-sbirka.cz/sb/2008/5",
+  "description": "Vyhláška o seznamu účinných látek",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropských společenství1) a upravuje seznam účinných látek. Látky zařazené do seznamu jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2009, s výjimkou položky č. 2 přílohy k této vyhlášce, která nabývá účinnosti dnem 1. března 2009.\nPříloha k vyhlášce č. 5/2008 Sb.\nSeznam účinných látek\nČísloObecný\nnázevNázev podle\nIUPAC\nIdentifikační číslaMinimální\nčistota\núčinné látky\nv biocidním\npřípravku\npři jeho\nuvedení\nna trh\n[g/kg]Datum zařazeníLhůta, po které nesmí být na trh\nuváděn přípravek stanoveného\ntypu na základě oznámení podle\n§ 35 odst. 1 nebo 2 zákona\n(s výjimkou obsahujících více\nnež jednu účinnou látku, pro něž\nbudou lhůty dosažení souladu\ns § 35 odst. 1 nebo 2 zákona\nstanoveny v posledních\nrozhodnutích o zařazení, pokud\njde o jejich účinné látky)Datum skončení\nplatnosti zařazeníTyp\npřípravku\n1SulfurylfluoridSulfurylfluorid\nč. ES: 220-281-5\nč. CAS: 2699-79-8> 9941. ledna 200931. prosince 201031. prosince 20188\n2DichlofluanidN-(Dichlorofluoromethylthio)-N',N'-dimethyl-N-fenylsulfamid\nEC No: 214-118-7\nCAS No: 1085-98-9> 9601. března 200928. února 201128. února 20198\n1) Směrnice Komise 2006/140/ES ze dne 20. prosince 2006, kterou se mění směrnice Evropského parlamentu a Rady 98/8/ES za účelem zařazení účinné látky sulfurylfluorid do přílohy I uvedené směrnice.\nSměrnice Komise 2007/20/ES ze dne 3. dubna 2007, kterou se mění směrnice Evropského parlamentu a Rady 98/8/ES za účelem zařazení účinné látky dichlofluanid do přílohy I uvedené směrnice."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": "cz:235/2013",
+  "type": "statute",
+  "title": "235/2013 Sb., Vyhláška o předkládání výkazů České národní bance statisticky významnými vykazujícími osobami pro účely sestavení statistiky platební bilance, investiční pozice a dluhové služby vůči zahraničí",
+  "title_en": "",
+  "short_name": "235/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-08-02",
+  "in_force_date": "2013-08-17",
+  "url": "https://www.e-sbirka.cz/sb/2013/235",
+  "description": "Vyhláška o předkládání výkazů České národní bance statisticky významnými vykazujícími osobami pro účely sestavení statistiky platební bilance, investiční pozice a dluhové služby vůči zahraničí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje v návaznosti na přímo použitelné předpisy Evropské unie1) obsah, formu, lhůty a způsob sestavování a předkládání výkazů České národní bance osobami zařazenými do okruhu statisticky významných vykazujících osob (dále jen „vykazující osoba“) a stanoví okruh vykazujících osob, které disponují informacemi potřebnými pro sestavení statistiky platební bilance, investiční pozice a dluhové služby vůči zahraničí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) výkazem strukturovaný soubor údajů, které mají věcné a formální vazby,\nb) datovým souborem elektronické seskupení údajů výkazu s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Okruh vykazujících osob",
+      "content": "(1) Výkazy sestavuje a předkládá vykazující osoba,\na) která je tuzemským investorem s přímou investicí v zahraničí a výše jeho podílu na podnikání zahraniční společnosti nebo objem úvěrů poskytnutých nebo přijatých v rámci jeho přímé investice v zahraničí ke konci kalendářního roku dosáhne alespoň 2 500 000 Kč,\nb) která je tuzemskou společností s přímou investicí zahraničního investora a výše podílu zahraničního investora na jejím podnikání nebo objem úvěrů poskytnutých nebo přijatých v rámci jeho přímé investice v tuzemsku ke konci kalendářního roku dosáhne alespoň 25 000 000 Kč,\nc) u které celkový roční objem aktiv nebo pasiv ve vztahu k zahraničí ke konci kalendářního roku dosáhne alespoň 200 000 000 Kč, nebo\nd) u které celkový roční objem finančních úvěrů poskytnutých nebo přijatých ve vztahu k zahraničí ke konci kalendářního roku dosáhne alespoň 100 000 000 Kč.\n(2) Vykazující osoba, která náleží do sektoru vládních institucí podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii2), sestavuje a předkládá pouze výkaz PB (ČNB) 42-04 „Splátkový kalendář dlouhodobých finančních úvěrů přijatých ze zahraničí“ podle § 6 odst. 1 písm. b).\n(3) Předkládání výkazů podle této vyhlášky se nevztahuje na vykazující osoby, které pravidelně sestavují a předkládají výkazy České národní bance podle jiných právních předpisů upravujících výkaznictví, které stanoví předávání údajů České národní bance obdobných údajům požadovaným touto vyhláškou."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Výkazy za oblast přímých investic",
+      "content": "(1) Vykazující osoba podle § 3 odst. 1 písm. a) k poslednímu dni každého kalendářního roku sestavuje výkaz PB (ČNB) 71-01 „Roční výkaz o stavu přímých investic v zahraničí“.\n(2) Vykazující osoba podle § 3 odst. 1 písm. b) k poslednímu dni každého kalendářního roku sestavuje výkaz PB (ČNB) 72-01 „Roční výkaz o stavu přímých investic v tuzemsku“.\n(3) Výkazy podle odstavců 1 a 2 vykazující osoba předkládá České národní bance vždy do 31. července následujícího kalendářního roku.\n(4) Obsah výkazů podle odstavců 1a 2 je stanoven v příloze č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Výkaz za oblast aktiv a pasiv ve vztahu k zahraničí",
+      "content": "(1) Vykazující osoba podle § 3 odst. 1 písm. c) k poslednímu dni každého kalendářního čtvrtletí sestavuje a předkládá České národní bance výkaz PB (ČNB) 43-04 „Vybraná aktiva a pasiva vůči zahraničí“, a to vždy do 25 dnů následujících po skončení čtvrtletí.\n(2) Obsah výkazu podle odstavce 1 je stanoven v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Výkazy za oblast finančních úvěrů",
+      "content": "(1) Vykazující osoba podle § 3 odst. 1 písm. d)\na) k poslednímu dni každého kalendářního měsíce sestavuje a předkládá České národní bance výkaz PB (ČNB) 41-12 „Finanční úvěry a účty v zahraničí“, a to vždy do 25 dnů následujícího měsíce,\nb) k poslednímu dni každého kalendářního čtvrtletí sestavuje a předkládá České národní bance výkaz PB (ČNB) 42-04 „Splátkový kalendář dlouhodobých finančních úvěrů přijatých ze zahraničí“, a to vždy do 25 dnů následujících po skončení čtvrtletí.\n(2) Obsah výkazů podle odstavce 1 je stanoven v příloze č. 3 k této vyhlášce.\nZpůsob sestavování výkazů"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Výkazy podle § 4 sestavuje vykazující osoba vyplněním elektronického formuláře. Pro sestavování výkazů podle § 5 a 6 vykazující osoba vytváří z údajů svého informačního systému datový soubor s hodnotami údajů, který předává jako součást datové zprávy3) České národní bance."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Vykazující osoba postupuje při sestavování výkazů na základě údajů z vlastního účetnictví a podle pravidel pro sestavování účetní závěrky4) a dalších podkladů platných ke dni sestavení výkazu.\n(2) Pro oceňování vykazovaných údajů se používají způsoby stanovené právním předpisem upravujícím vedení účetnictví5).\n(3) Pro přepočet údajů v cizích měnách na údaje vykazované v české měně použije vykazující osoba kurz devizového trhu vyhlášený Českou národní bankou pro den sestavení výkazu, nejedná-li se o údaje o transakcích ve vztahu k zahraničí, kdy se použije kurz devizového trhu vyhlášený pro den uskutečnění transakce, nebo pro den, kdy bylo o transakci účtováno, anebo lze použít průměrný kurz za vykazované období. Pro přepočet údajů v cizích měnách, pro něž Česká národní banka nevyhlašuje kurz devizového trhu, postupuje vykazující osoba podle pravidel pro sestavování účetní závěrky4).\nZpůsob a forma předkládání výkazů"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "(1) Výkazy podle § 4 předkládá vykazující osoba České národní bance zasláním vyplněného elektronického formuláře prostřednictvím internetové aplikace České národní banky pro sběr informačních povinností.\n(2) Výkazy podle § 5 a 6 předkládá vykazující osoba České národní bance v elektronické podobě jako datové zprávy a ve struktuře a formě datových souborů, které jsou dostupné prostřednictvím\na) programové aplikace České národní banky pro sběr dat od nebankovních subjektů (SDNS), která je dostupná způsobem umožňujícím dálkový přístup, nebo\nb) vlastní programové aplikace vykazující osoby, která používá pro předání výkazu webové služby České národní banky pro sběr dat (SDNS-WS)."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "(1) Pokud jsou předložené výkazy správné a úplné, Česká národní banka prostřednictvím programové aplikace uvedené v § 9 potvrdí vykazující osobě jejich přijetí.\n(2) Požaduje-li to Česká národní banka, vykazující osoba provede opravu nesprávných nebo neúplných výkazů, opravené výkazy ve stanovené lhůtě předloží České národní bance způsobem stanoveným v § 9 a v případě potřeby poskytne požadované vysvětlení.\n(3) Pokud vykazující osoba zjistí, že údaje dříve předloženého výkazu nejsou správné, provede prostřednictvím programové aplikace uvedené v § 9 opravu dat tohoto výkazu a v případě potřeby i dat výkazů souvisejících a neprodleně uvědomí o provedení, rozsahu a obsahu oprav Českou národní banku."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "(1) Neprodleně po zařazení do okruhu vykazujících osob sdělí vykazující osoba České národní bance jména a příjmení nejméně 2 kontaktních osob a adresu pracoviště, telefonní číslo a adresu elektronické pošty těchto osob.\n(2) Vykazující osoba sdělí České národní bance bez zbytečného odkladu každou změnu údajů podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zrušovací ustanovení",
+      "content": "Zrušuje se:\n1. Vyhláška č. 34/2003 Sb., kterou se stanoví rozsah, období, lhůty a způsob plnění oznamovací povinnosti podle devizového zákona.\n2. Vyhláška č. 351/2003 Sb., kterou se mění vyhláška č. 34/2003 Sb., kterou se stanoví rozsah, období, lhůty a způsob plnění oznamovací povinnosti podle devizového zákona.\n3. Vyhláška č. 33/2006 Sb., kterou se mění vyhláška č. 34/2003 Sb., kterou se stanoví rozsah, období, lhůty a způsob plnění oznamovací povinnosti podle devizového zákona, ve znění vyhlášky č. 351/2003 Sb."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem po dni jejího vyhlášení.\nPříloha č. 1 k vyhlášce č. 235/2013 Sb.\nObsah výkazů za oblast přímých investic\nI. Roční výkaz o stavu přímých investic v zahraničí - PB (ČNB) 71-01\nVýkaz PB (ČNB) 71-01 „Roční výkaz o stavu přímých investic v zahraničí“ se sestavuje k poslednímu dni kalendářního roku. Výkaz obsahuje statisticky členěné rozvahové údaje a doplňkové údaje o transakcích a pozicích týkajících se aktiv nebo pasiv ve vztahu k zahraničí.\n1. Výkaz obsahuje statisticky členěné základní rozvahové údaje o vykazující osobě, údaje o zahraniční společnosti s přímou investicí vykazující osoby a o další společnosti v zahraničí, na jejímž podnikání se vykazující osoba podílí. Vykazuje se celková bilanční suma, základní kapitál, kapitálové fondy, fondy tvořené ze zisku, hospodářský výsledek a jejich statisticky členěné složky.\n2. Dále se vykazují statisticky členěné úvěry a půjčky poskytnuté nebo přijaté mezi vykazující osobou a zahraniční společností, na jejímž podnikání se podílí, a ostatní aktiva a pasiva vůči zahraničí.\n3. Výkaz obsahuje údaje o podílu vykazující osoby na základním kapitálu zahraniční společnosti, dividendy, podíly na zisku a splatné úroky z poskytnutých a přijatých úvěrů. Dále obsahuje údaje o podílu zahraniční společnosti na základním kapitálu vykazující osoby (zpětná investice).\n4. Uvedené složky aktiv a pasiv a doplňkových údajů jsou členěny v závislosti na své ekonomické podstatě, zejména podle země sídla zahraničního subjektu a klasifikace ekonomické činnosti.\nII. Roční výkaz o stavu přímých investic v tuzemsku - PB (ČNB) 72-01\nVýkaz PB (ČNB) 72-01 „Roční výkaz o stavu přímých investic v tuzemsku“ se sestavuje k poslednímu dni kalendářního roku. Výkaz obsahuje statisticky členěné rozvahové údaje a doplňkové údaje o transakcích a pozicích týkajících se aktiv nebo pasiv ve vztahu k zahraničí.\n1. Výkaz obsahuje statisticky členěné základní rozvahové údaje o přímém zahraničním investorovi, údaje o vykazující osobě a o další společnosti v tuzemsku, na jejímž podnikání se vykazující osoba podílí. Vykazuje se bilance, základní kapitál, kapitálové fondy, fondy tvořené ze zisku, hospodářský výsledek a jejich statisticky členěné složky.\n2. Dále se vykazují statisticky členěné úvěry a půjčky poskytnuté nebo přijaté mezi vykazující osobou nebo společností v tuzemsku, na jejímž podnikání se vykazující osoba podílí, a přímým zahraničním investorem nebo zahraniční společností ovládanou stejným (vrcholovým) investorem, a ostatní aktiva a pasiva vůči zahraničí.\n3. Výkaz obsahuje údaje o podílu zahraničního investora na základním kapitálu vykazující osoby, dividendy, podíly na zisku a splatné úroky z poskytnutých a přijatých úvěrů. Dále obsahuje údaje o podílu vykazující osoby na základním kapitálu zahraničního přímého investora (zpětná investice). Výkaz dále obsahuje údaje o společnosti v zahraničí, která vykazující osobu přímo nebo nepřímo ovládá (vrcholový investor), údaje o zahraniční společnosti ovládané stejným (vrcholovým) investorem a údaje o podílu vykazující osoby na podnikání společnosti v tuzemsku.\n4. Uvedené složky aktiv a pasiv a doplňkových údajů jsou členěny v závislosti na své ekonomické podstatě, zejména podle země sídla zahraničního subjektu a klasifikace ekonomické činnosti.\nPříloha č. 2 k vyhlášce č. 235/2013 Sb.\nObsah výkazu za oblast aktiv a pasiv ve vztahu k zahraničí\nVybraná aktiva a pasiva vůči zahraničí - PB (ČNB) 43-04\nVýkaz PB (ČNB) 43-04 „Vybraná aktiva a pasiva vůči zahraničí“ se sestavuje k poslednímu dni čtvrtletí. Výkaz obsahuje statisticky členěné údaje o transakcích a pozicích týkajících se aktiv nebo pasiv ve vztahu k zahraničí.\n1. Vývozní pohledávky a dovozní závazky\nV této části výkaz obsahuje údaje o vývozních pohledávkách a dovozních závazcích za zboží a služby. Uvedené složky aktiv a pasiv jsou členěny zejména podle splatnosti, typu a země sídla zahraničního subjektu a podle měny. Vykazují se stavy, transakce a netransakční změny.\n2. Splátkový kalendář dlouhodobých dovozních závazků\nV této části se vykazují budoucí splátky jistiny. Údaje jsou členěny zejména podle typu a země sídla zahraničního subjektu a měny závazku.\n3. Údaje o přímých zahraničních investicích\nV této části výkaz obsahuje údaje o společnosti v zahraničí, ve které má vykazující osoba majetkový podíl, údaje o společnosti v tuzemsku se zahraniční majetkovou účastí, údaje o společnosti v zahraničí, která vykazující osobu přímo nebo nepřímo ovládá (vrcholový investor), údaje o dividendách, podílech na zisku a tantiémách. Uvedené složky aktiv a pasiv jsou členěny zejména podle směru investice na investice v tuzemsku a investice v zahraničí, země sídla zahraničního subjektu a klasifikace ekonomické činnosti. Podle typů sledovaných veličin se vykazují stavy, transakce, transakční a netransakční změny.\n4. Finanční deriváty\nÚdaje o finančních derivátech jsou členěny zejména na mimoburzovní a burzovní a podle země sídla zahraničního subjektu. Vykazují se stavy a transakce.\n5. Zahraniční cenné papíry\nÚdaje o zahraničních cenných papírech jsou členěny zejména podle kódu cenného papíru, země emitenta, druhu cenných papírů. Vykazují se počty kusů, stavy a výnosy.\nPříloha č. 3 k vyhlášce č. 235/2013 Sb.\nObsah výkazů za oblast finančních úvěrů\nI. Finanční úvěry a účty v zahraničí - PB (ČNB) 41-12\nVýkaz PB (ČNB) 41-12 „Finanční úvěry a účty v zahraničí“ se sestavuje k poslednímu dni měsíce. Výkaz obsahuje statisticky členěné údaje o transakcích a pozicích týkajících se aktiv nebo pasiv ve vztahu k zahraničí.\n1. Finanční úvěry\nV této části výkaz obsahuje údaje o finančních úvěrech poskytnutých do zahraničí a přijatých ze zahraničí. Údaje jsou členěny zejména podle splatnosti, typu zahraničního subjektu, země sídla zahraničního subjektu nebo mezinárodní organizace, měny, garance vlády. Podle typů sledovaných veličin se vykazují stavy, transakce, úroky, ostatní změny (například změny v ocenění).\n2. Účty v zahraničí\nV této části výkaz obsahuje údaje o stavu na účtech v zahraničí. Údaje jsou členěny zejména podle typu a země sídla zahraničního subjektu a podle měny. Vykazují se stavy a úroky.\nII. Splátkový kalendář dlouhodobých finančních úvěrů přijatých ze zahraničí - PB (ČNB) 42-04\nVýkaz PB (ČNB) 42-04 „Splátkový kalendář dlouhodobých finančních úvěrů přijatých ze zahraničí“ se sestavuje k poslednímu dni čtvrtletí. Výkaz obsahuje údaje o předpokládaných budoucích splátkách dlouhodobých finančních úvěrů přijatých ze zahraničí. Vykazování budoucích splátek finančních úvěrů zahrnuje splátky jistiny a splátky úroků v členění podle typu a země sídla zahraničního subjektu a měny úvěru.\n1) Článek 5 Protokolu o Statutu Evropského systému centrálních bank a Evropské centrální banky.\nNařízení Rady (ES) č. 2533/98 ze dne 23. listopadu 1998 o shromažďování statistických informací Evropskou centrální bankou, v platném znění.\nNařízení Evropského parlamentu a Rady (ES) č. 184/2005 ze dne 12. ledna 2005 o statistice Společenství týkající se platební bilance, mezinárodního obchodu službami a přímých zahraničních investic, v platném znění.\n2) Nařízení Evropského parlamentu a Rady (EU) č. 549/2013 ze dne 21. května 2013 o Evropském systému národních a regionálních účtů v Evropské unii.\n3) § 2 písm. d) zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů.\n4) Vyhláška č. 500/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou podnikateli účtujícími v soustavě podvojného účetnictví, ve znění pozdějších předpisů.\n5) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "výkazem strukturovaný soubor údajů",
+      "definition": "které mají věcné a formální vazby",
+      "source_provision": "§ 2"
+    }
+  ]
+}

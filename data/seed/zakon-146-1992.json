@@ -1,0 +1,51 @@
+{
+  "id": "cz:146/1992",
+  "type": "statute",
+  "title": "146/1992 Sb., Vyhláška Státní banky československé o podmínkách, za kterých lze reprodukovat bankovky, mince, šeky, cenné papíry a platební karty a vyrábět předměty, které je úpravou napodobují",
+  "title_en": "",
+  "short_name": "146/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-04-09",
+  "in_force_date": "1992-04-09",
+  "url": "https://www.e-sbirka.cz/sb/1992/146",
+  "description": "Vyhláška Státní banky československé o podmínkách, za kterých lze reprodukovat bankovky, mince, šeky, cenné papíry a platební karty a vyrábět předměty, které je úpravou napodobují",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Není-li dále stanoveno jinak, lze bankovky, mince, šeky, cenné papíry a platební karty (dále jen „symboly peněz“) reprodukovat pouze se souhlasem Státní banky československé."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Reprodukovat bankovky lze bez souhlasu, jde-li o:\na) jednostranné černobílé reprodukce, jestliže jejich délka při zachování poměru stran nepřesahuje polovinu délky reprodukované bankovky nebo je nejméně o polovinu větší než délka reprodukované bankovky,\nb) jednostranné barevné reprodukce,\n1. jejichž délka při zachování poměru stran nepřesahuje třetinu délky reprodukované bankovky nebo je nejméně dvojnásobná než délka reprodukované bankovky,\n2. jestliže jsou reprodukovány části bankovek nepřesahující polovinu plochy obrazce reprodukované bankovky tak, aby z jednotlivých částí nebylo možné složit bankovku celou,\n3. na kterých delší a kratší strana reprodukované bankovky svírají úhel nejméně o 20° odlišný od pravého úhlu.\n(2) Bez souhlasu lze dále pořizovat:\na) grafické vyobrazení mincí,\nb) reprodukce cestovních šeků, a to za stejných podmínek jako reprodukce bankovek,\nc) grafické vyobrazení platebních karet.\n(3) Šeky, s výjimkou šeků cestovních, a cenné papíry lze reprodukovat se souhlasem vydávající banky nebo jiné vydávající osoby. Tohoto souhlasu není třeba, jsou-li reprodukce zřetelně označeny nápisem „OPIS“, „KOPIE“ nebo „REPRODUKCE“.\n(4) Šekem se pro účely této vyhlášky rozumí nevyplněný i vyplněný tiskopis šeku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Předměty napodobující symboly peněz lze vyrábět bez souhlasu, jsou-li vyráběny z jiného materiálu, který je s původním materiálem nezaměnitelný, například mince z jiného materiálu než z kovu, bankovky, šeky a cenné papíry z jiného materiálu než z papíru, platební karty, z jiného materiálu než z papíru, plastu nebo kovu.\n(2) Ustanovením odstavce 1 nejsou dotčeny právní předpisy o autorských právech, ochranných známkách a průmyslových vzorech,1) ani mezinárodní smlouvy, kterými je Česká a Slovenská Federativní Republika vázána, pokud napodobované symboly peněz požívají ochrany z titulu práv v těchto právních předpisech a mezinárodních smlouvách upravených."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Reprodukce symbolů peněz nebo výroba předmětů, které je úpravou napodobují, v rozporu s touto vyhláškou je výroba neoprávněná.2)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Zákon č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon), ve znění zákona č. 89/1990 Sb.\nZákon č. 174/1988 Sb., o ochranných známkách.\nZákon č. 527/1990 Sb., o vynálezech, průmyslových vzorech a zlepšovacích návrzích.\n2) § 27 zákona České národní rady č. 200/1990 Sb., o přestupcích.\n§ 27 zákona Slovenské národní rady č. 372/1990 Sb., o přestupcích."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Šekem",
+      "definition": "nevyplněný i vyplněný tiskopis šeku",
+      "source_provision": "§ 2"
+    }
+  ]
+}

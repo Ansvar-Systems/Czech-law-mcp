@@ -1,0 +1,45 @@
+{
+  "id": "cz:12/1950",
+  "type": "statute",
+  "title": "12/1950 Sb., Nařízení o přesunech působnosti v oboru zemědělského úvěru",
+  "title_en": "",
+  "short_name": "12/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-02-27",
+  "in_force_date": "1950-03-01",
+  "url": "https://www.e-sbirka.cz/sb/1950/12",
+  "description": "Nařízení o přesunech působnosti v oboru zemědělského úvěru",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Přejímání státní záruky za zemědělský úvěr a jeho příslušenství podle § 8 zákona č. 43/1948 Sb., o zemědělském úvěru (dále jen „zákon“), se přenáší v rozsahu dále uvedeném z působnosti ministerstev zemědělství a financí na krajské a okresní národní výbory."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Krajskému národnímu výboru přísluší přejímat státní záruku za zemědělský úvěr dlouhodobý (§ 5 zákona) do částky 50.000 Kčs, poskytovaný zemědělcům uvedeným v § 2 písm. a), b) a d) zákona, pokud výměra podniku nepřesahuje 20 ha, s výjimkou úvěru na stavební investice a na nákup půdy."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Okresnímu národnímu výboru přísluší přejímat státní záruku za zemědělský úvěr krátkodobý (§ 4 zákona) do částky 50.000 Kčs, poskytovaný zemědělcům uvedeným v § 2 písm. a), b) a d) zákona, pokud výměra podniku nepřesahuje 20 ha."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Působnost okresních zemědělských úvěrových komisí podle §§ 15 až 17 zákona se přenáší na okresní národní výbory.\n(2) Stálá rozhodčí komise (§§ 18 a 19 zákona) se zrušuje."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. března 1950; provedou je ministři zemědělství, vnitra a financí."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:503/1950",
+  "type": "statute",
+  "title": "503/1950 Ú. l. I, Vyhláška ministerstva výživy, kterou se zrušují předpisy o přemisťování potravin.",
+  "title_en": "",
+  "short_name": "503/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-08-15",
+  "in_force_date": "1950-08-15",
+  "url": "https://www.e-sbirka.cz/ul1/1950/503",
+  "description": "Vyhláška ministerstva výživy, kterou se zrušují předpisy o přemisťování potravin.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vyhlášky minista výživy č. 532/1945 Ú. l. I, o zákazu přemisťování hroznového vína, ovoce, zeleniny, lesních plodů a hub ze Slovenska do českých zemí, a č. 163/1947 Ú. l. I, o některých omezeních přemisťování potravin, poživatin, nápojů a krmiv, se zrušují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen v českých zemích."
+    }
+  ],
+  "definitions": []
+}

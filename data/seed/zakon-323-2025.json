@@ -1,0 +1,326 @@
+{
+  "id": "cz:323/2025",
+  "type": "statute",
+  "title": "323/2025 Sb., Zákon o jednotném měsíčním hlášení zaměstnavatele",
+  "title_en": "",
+  "short_name": "323/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-03",
+  "in_force_date": "2027-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/323",
+  "description": "Zákon o jednotném měsíčním hlášení zaměstnavatele",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Tento zákon upravuje jednotné měsíční hlášení jako prostředek, kterým zaměstnavatel vůči některým orgánům veřejné moci souhrnně plní své povinnosti sdělovat údaje o sobě a o svých zaměstnancích vyplývající mu z tohoto zákona nebo jiného právního předpisu.\n(2) Tento zákon dále upravuje\na) způsob sdělování hlášených údajů a údajů vedených v evidenci zaměstnavatelů a evidenci zaměstnanců,\nb) předávání hlášených údajů a údajů vedených v evidenci zaměstnavatelů a evidenci zaměstnanců některým orgánům veřejné moci,\nc) vzájemnou komunikaci některých orgánů veřejné moci a zaměstnavatelů při sdělování hlášených údajů a údajů vedených v evidenci zaměstnavatelů a evidenci zaměstnanců,\nd) evidování hlášených údajů a údajů o zaměstnavatelích a zaměstnancích a jejich uchovávání."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Zaměstnavatel",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Zaměstnavatelem se pro účely tohoto zákona rozumí\na) zaměstnavatel podle zákoníku práce,\nb) zaměstnavatel podle zákona o nemocenském pojištění,\nc) zaměstnavatel podle zákona o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti,\nd) zaměstnavatel podle zákona o organizaci a provádění sociálního zabezpečení,\ne) plátce daně z příjmů fyzických osob ze závislé činnosti podle zákona o daních z příjmů, nebo\nf) zaměstnavatel podle zákona o zaměstnanosti."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zaměstnanec",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Zaměstnancem se pro účely tohoto zákona rozumí\na) zaměstnanec podle zákona o nemocenském pojištění,\nb) zaměstnanec podle zákona o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti,\nc) fyzická osoba, kterou zaměstnavatel podle zákona o organizaci a provádění sociálního zabezpečení zaměstnává nebo k níž je ve vztahu, který zakládá účast na důchodovém pojištění,\nd) poplatník daně z příjmů fyzických osob ze závislé činnosti podle zákona o daních z příjmů, nebo\ne) zaměstnanec podle zákoníku práce.\n(2) Zahraničním zaměstnancem se pro účely tohoto zákona rozumí fyzická osoba uvedená v § 87 odst. 1 zákona o zaměstnanosti."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zaměstnání",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Zaměstnáním se pro účely tohoto zákona rozumí\na) základní pracovněprávní vztah podle zákoníku práce,\nb) služební poměr podle zákona o státní službě,\nc) služební poměr příslušníků bezpečnostních sborů a vojáků v činné službě, nebo\nd) jiný právní vztah, s nímž je spojena povinnost zaměstnavatele sdělovat údaje některým orgánům veřejné moci způsobem stanoveným tímto zákonem.\n(2) Je-li mezi zaměstnavatelem a zaměstnancem více právních vztahů podle odstavce 1, považuje se za zaměstnání jednotlivě každý z nich.\n(3) Dnem nástupu zaměstnance do zaměstnání se pro účely tohoto zákona rozumí\na) den nástupu do zaměstnání podle zákona o nemocenském pojištění,\nb) den nástupu k výkonu práce podle zákona o zaměstnanosti, nelze-li použít den podle písmene a),\nc) den, kdy pro účely zákona o daních z příjmů vznikla zaměstnavateli povinnost poskytovat zaměstnanci plnění, nelze-li použít den podle písmene a) nebo b), nebo\nd) den, kdy zaměstnavatel pro účely zákona o daních z příjmů poprvé poskytl plnění zaměstnanci, nelze-li použít den podle písmen a) až c)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Hlášené údaje a jejich uživatelé",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Hlášenými údaji se pro účely tohoto zákona rozumí údaje, které je zaměstnavatel povinen podle tohoto zákona nebo jiného právního předpisu sdělovat prostřednictvím jednotného měsíčního hlášení.\n(2) Hlášené údaje využívají v rozsahu své působnosti uživatelé údajů, jimiž jsou\na) Ministerstvo práce a sociálních věcí (dále jen „ministerstvo“),\nb) Česká správa sociálního zabezpečení,\nc) územní správa sociálního zabezpečení,\nd) Institut posuzování zdravotního stavu,\ne) Úřad práce České republiky,\nf) orgán Finanční správy České republiky,\ng) Ministerstvo financí,\nh) Český statistický úřad,\ni) Ministerstvo spravedlnosti a\nj) Ministerstvo školství, mládeže a tělovýchovy."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Jednotné měsíční hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Jednotné měsíční hlášení je elektronické podání, kterým zaměstnavatel sděluje hlášené údaje.\n(2) Zaměstnavatel sděluje v jednotném měsíčním hlášení údaje za kalendářní měsíc, pokud jiný právní předpis nestanoví jinak.\n(3) Jednotné měsíční hlášení se skládá z části\na) souhrnné, která obsahuje údaje vztahující se k zaměstnavateli,\nb) pojistné, která obsahuje údaje o souhrnné výši pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti odváděného zaměstnavatelem, a\nc) individualizované, která se skládá ze součástí obsahujících údaje vztahující se k jednotlivým zaměstnancům a jednotlivým zaměstnáním.\n(4) Vláda nařízením stanoví\na) údaje, které jsou zaměstnavatelem sdělovány prostřednictvím jednotného měsíčního hlášení,\nb) období, za které je hlášený údaj sdělován."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Lhůta pro podání jednotného měsíčního hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Jednotné měsíční hlášení je zaměstnavatel povinen podat ve lhůtě od prvního do dvacátého dne kalendářního měsíce bezprostředně následujícího po kalendářním měsíci, ke kterému se toto hlášení vztahuje.\n(2) Zaměstnavatel je povinen podat jednotné měsíční hlášení naposledy za období, v němž\na) skončilo zaměstnání jeho posledního zaměstnance,\nb) přestal být zaměstnavatelem, nebo\nc) po skončení zaměstnání zúčtoval zaměstnanci dodatečně příjmy."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Způsob a den podání",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Zaměstnavatel činí podání podle tohoto zákona pouze elektronicky prostřednictvím\na) informačního systému datových schránek do datové schránky České správy sociálního zabezpečení,\nb) elektronické aplikace portálu České správy sociálního zabezpečení, nebo\nc) datového rozhraní České správy sociálního zabezpečení; tento způsob nelze použít, jde-li o plnění evidenčních povinností podle § 17.\n(2) Podání podle tohoto zákona je učiněno dnem, kdy došlo České správě sociálního zabezpečení.\n(3) Česká správa sociálního zabezpečení zveřejní způsobem umožňujícím dálkový přístup identifikátor datové schránky určené k činění podání podle tohoto zákona.\n(4) Je-li podání podle tohoto zákona zasláno uživateli údajů podle § 5 odst. 2 písm. a) nebo c) až j), nepoužije se § 12 správního řádu. Tento uživatel údajů informuje zaměstnavatele o neúčinnosti takového podání a o povinnosti učinit podání způsobem podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Formát a struktura podání",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Zaměstnavatel je povinen učinit podání podle tohoto zákona ve stanoveném formátu a struktuře.\n(2) Strukturou podání se pro účely tohoto zákona rozumí\na) obsahová struktura podání, ze které vyplývají podrobnosti a uspořádání údajů a dalších náležitostí podání požadovaných tímto zákonem nebo jiným právním předpisem,\nb) datová struktura podání, která odpovídá stanovenému formátu a stanovené obsahové struktuře podání podle tohoto zákona.\n(3) Česká správa sociálního zabezpečení určí a zveřejní způsobem umožňujícím dálkový přístup datovou strukturu podání podle tohoto zákona.\n(4) Vláda nařízením stanoví formát a obsahovou strukturu podání podle tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Technická vada podání",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Technickou vadou podání podle tohoto zákona je\na) podání jednotného měsíčního hlášení před započetím lhůty podle § 7 odst. 1,\nb) nedodržení formátu podání,\nc) nedodržení struktury podání, způsobuje-li nemožnost automatizovaného zpracování podání, nebo\nd) nedodržení způsobu podání podle § 8 odst. 1.\n(2) Podání obsahující technickou vadu je neúčinné.\n(3) Česká správa sociálního zabezpečení upozorní zaměstnavatele bez zbytečného odkladu na to, že z jeho strany bylo učiněno podání obsahující technickou vadu, pro kterou je toto podání neúčinné."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Formální vada podání",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Formální vadou podání podle tohoto zákona je vada, která\na) se týká požadované struktury nebo obsahu podání,\nb) je zjištěna na základě automatizované kontroly související s jeho přijetím a\nc) není technickou vadou.\n(2) Okruh formálních vad podání podle odstavce 1 písm. b) určí Česká správa sociálního zabezpečení a zveřejní ho způsobem umožňujícím dálkový přístup.\n(3) Obsahuje-li jednotné měsíční hlášení nebo opravné hlášení formální vadu v\na) souhrnné části, je tato část hlášení neúčinná,\nb) pojistné části, je tato část hlášení neúčinná,\nc) individualizované části, je v této části neúčinná její součást obsahující údaje vztahující se k zaměstnanci a zaměstnání, jehož se týkají údaje, u nichž byla zjištěna tato vada.\n(4) Obsahuje-li souhrnná část nebo součást individualizované části jednotného měsíčního hlášení nebo opravného hlášení formální vadu, která se týká pouze údaje určeného jinému uživateli údajů, než je orgán Finanční správy České republiky, je tato souhrnná část nebo součást hlášení účinná v rozsahu údajů určených orgánu Finanční správy České republiky.\n(5) Obsahuje-li jiné podání podle tohoto zákona, než je jednotné měsíční hlášení nebo opravné hlášení, formální vadu, je toto podání neúčinné.\n(6) Vláda může nařízením stanovit, které méně závažné formální vady podání podle tohoto zákona nezpůsobí neúčinnost části podání nebo součásti jeho individualizované části.\n(7) Česká správa sociálního zabezpečení upozorní zaměstnavatele bez zbytečného odkladu na to, že z jeho strany bylo učiněno podání obsahující formální vadu, a na následek, který tato vada způsobuje."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Výzva k podání jednotného měsíčního hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Česká správa sociálního zabezpečení neprodleně po uplynutí lhůty pro podání jednotného měsíčního hlášení vyzve zaměstnavatele k jeho podání, pokud hlášení\na) obsahuje technickou vadu nebo formální vady způsobující, že je toto hlášení neúčinné jako celek, nebo\nb) dosud nebylo podáno.\n(2) Zaměstnavatel je povinen jednotné měsíční hlášení podat v náhradní lhůtě 8 dnů ode dne doručení výzvy podle odstavce 1.\n(3) Výzva k podání jednotného měsíčního hlášení obsahuje\na) identifikaci zaměstnavatele,\nb) identifikaci případných vad způsobujících jeho neúčinnost a\nc) poučení o důsledcích spojených s nepodáním jednotného měsíčního hlášení v náhradní lhůtě.\n(4) Nepodal-li na základě výzvy podle odstavce 1 zaměstnavatel jednotné měsíční hlášení nebo obsahuje-li jednotné měsíční hlášení podané na základě této výzvy technickou vadu nebo formální vady způsobující, že je toto hlášení neúčinné, vyzve Česká správa sociálního zabezpečení opětovně zaměstnavatele k podání jednotného měsíčního hlášení podle odstavce 1, a to i opakovaně, lze-li to považovat za účelné"
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Výzva k podání opravného hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Česká správa sociálního zabezpečení neprodleně po uplynutí lhůty pro podání jednotného měsíčního hlášení vyzve zaměstnavatele k podání opravného hlášení, pokud jednotné měsíční hlášení obsahuje formální vadu pouze části nebo součásti tohoto hlášení.\n(2) Zaměstnavatel je povinen opravné hlášení podat ve lhůtě 8 dnů ode dne doručení výzvy.\n(3) Výzva k podání opravného hlášení obsahuje\na) identifikaci zaměstnavatele,\nb) identifikaci vad způsobujících neúčinnost části nebo součásti podaného jednotného měsíčního hlášení a\nc) poučení o důsledcích spojených s nepodáním opravného hlášení ve stanovené lhůtě.\n(4) Nepodal-li na základě výzvy podle odstavce 1 zaměstnavatel opravné hlášení nebo obsahuje-li opravné hlášení podané na základě této výzvy technickou vadu nebo formální vadu, vyzve Česká správa sociálního zabezpečení opětovně zaměstnavatele k podání opravného hlášení podle odstavce 1, a to i opakovaně, lze-li to považovat za účelné."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Opravné hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "(1) Opravné hlášení je elektronické podání, kterým zaměstnavatel doplní nebo změní údaje obsažené v jím podaném jednotném měsíčním hlášení nebo opravném hlášení.\n(2) Opravné hlášení podává zaměstnavatel na základě\na) výzvy České správy sociálního zabezpečení k podání opravného hlášení,\nb) výzvy nebo jiného upozornění ze strany uživatele údajů, nebo\nc) vlastního zjištění.\n(3) Opravné hlášení lze podat nejpozději do 10 let od konce kalendářního roku, ve kterém byl zaměstnavatel povinen podat jednotné měsíční hlášení, které je opravováno."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Informování uživatelů údajů o výzvě týkající se jednotného měsíčního hlášení",
+      "chapter": "ČÁST DRUHÁ - JEDNOTNÉ MĚSÍČNÍ HLÁŠENÍ, OPRAVNÉ HLÁŠENÍ A JINÁ PODÁNÍ",
+      "content": "Uživatelé údajů jsou prostřednictvím datového rozhraní ministerstva neprodleně informováni o\na) vydání výzvy k podání jednotného měsíčního hlášení,\nb) vydání výzvy k podání opravného hlášení včetně obsahu této výzvy,\nc) upuštění od vydání opakované výzvy k podání jednotného měsíčního hlášení nebo\nd) upuštění od vydání opakované výzvy k podání opravného hlášení."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Evidence zaměstnavatelů",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Evidencí zaměstnavatelů se pro účely tohoto zákona rozumí evidence, ve které jsou vedeny údaje o zaměstnavatelích pro potřebu jednotného měsíčního hlášení.\n(2) Údaje vedené v evidenci zaměstnavatelů využívají\na) ministerstvo a Česká správa sociálního zabezpečení k plnění úkolů v jejich působnosti podle tohoto zákona nebo jiného právního předpisu, který stanoví povinnost sdělovat příslušné údaje prostřednictvím jednotného měsíčního hlášení,\nb) uživatelé údajů k plnění úkolů v jejich působnosti podle jiného právního předpisu.\n(3) Pro účely této části se za zaměstnavatele považuje též fyzická nebo právnická osoba od počátku patnáctého dne před předpokládaným dnem nástupu k výkonu práce jeho prvního zaměstnance do dne tohoto nástupu; nenastoupila-li k výkonu práce u této fyzické nebo právnické osoby žádná fyzická osoba, považuje se za zaměstnavatele do dne, v němž splní svou oznamovací povinnost podle § 17 odst. 5.\n(4) Vláda nařízením stanoví údaje, které jsou zaměstnavatelem sdělovány pro účely vedení evidence zaměstnavatelů."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Povinnost zaevidovat zaměstnavatele a mzdovou účtárnu",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Zaměstnavatel je povinen přihlásit se do evidence zaměstnavatelů nejpozději 2 pracovní dny přede dnem, ve kterém má nastoupit k výkonu práce první zaměstnanec, nejdříve však 15 dnů před tímto dnem.\n(2) Zaměstnavatel je povinen ve lhůtě podle odstavce 1 přihlásit do evidence zaměstnavatelů též každou svou mzdovou účtárnu. Mzdovou účtárnou se pro účely tohoto zákona rozumí mzdová účtárna podle zákona o nemocenském pojištění. Současně s jejím přihlášením je povinen uvést též okruh zaměstnanců, pro které mzdová účtárna vede evidenci mezd nebo platů. Je-li mzdová účtárna zřízena až po podání přihlášky zaměstnavatele do evidence zaměstnavatelů podle odstavce 1, přihlásí zaměstnavatel mzdovou účtárnu do 8 dnů ode dne jejího zřízení.\n(3) Zaměstnavatel je povinen oznámit změnu údajů zapsaných v evidenci zaměstnavatelů do 8 dnů ode dne, kdy se o této změně dozvěděl.\n(4) Při zrušení mzdové účtárny, která byla zapsána v evidenci zaměstnavatelů, je zaměstnavatel povinen ji odhlásit, a to do 8 dnů ode dne zrušení mzdové účtárny.\n(5) Přihlásí-li se zaměstnavatel do evidence zaměstnavatelů a žádná fyzická osoba, kterou měl zaměstnávat, k výkonu práce nenastoupila, je zaměstnavatel povinen tuto skutečnost oznámit nejpozději do 8 dnů ode dne, v němž taková osoba měla u tohoto zaměstnavatele nastoupit k výkonu práce.\n(6) Zaměstnavatel je povinen odhlásit se z evidence zaměstnavatelů ve lhůtě 8 dnů ode dne, kdy přestal být zaměstnavatelem posledního zaměstnance.\n(7) Nesplní-li zaměstnavatel ve stanovené lhůtě povinnost přihlásit sebe nebo svoji mzdovou účtárnu do evidence zaměstnavatelů, oznámit změnu údajů zapsaných v této evidenci nebo odhlásit sebe nebo svoji mzdovou účtárnu z této evidence, a ani na výzvu České správy sociálního zabezpečení tuto povinnost nesplní, provede Česká správa sociálního zabezpečení toto přihlášení, odhlášení nebo změnu z moci úřední."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Evidence zaměstnanců",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Evidencí zaměstnanců se pro účely tohoto zákona rozumí evidence, ve které jsou vedeny údaje o zaměstnancích pro potřebu jednotného měsíčního hlášení.\n(2) Údaje vedené v evidenci zaměstnanců využívají\na) ministerstvo a Česká správa sociálního zabezpečení v rozsahu nezbytném k plnění úkolů v jejich působnosti podle tohoto zákona nebo jiného právního předpisu, který stanoví povinnost sdělovat příslušné údaje prostřednictvím jednotného měsíčního hlášení,\nb) uživatelé údajů v rozsahu nezbytném k plnění úkolů v jejich působnosti podle jiného právního předpisu.\n(3) Pro účely této části se zaměstnancem rozumí též fyzická osoba od počátku patnáctého dne před předpokládaným dnem nástupu k výkonu práce u zaměstnavatele.\n(4) Vláda nařízením stanoví údaje, které jsou zaměstnavatelem sdělovány pro účely vedení evidence zaměstnanců."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Povinnost zaevidovat zaměstnance",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Zaměstnavatel je povinen přihlásit svého zaměstnance do evidence zaměstnanců\na) nejpozději před okamžikem nástupu tohoto zaměstnance k výkonu práce, nejdříve však může tohoto zaměstnance přihlásit ve lhůtě 8 dnů před předpokládaným dnem nástupu zaměstnance do zaměstnání,\nb) ve lhůtě 8 dnů ode dne, kdy\n1. zaměstnavateli vznikla povinnost poskytovat zaměstnanci plnění, nelze-li použít den podle písmene a), nebo\n2. zaměstnavatel poprvé poskytl plnění zaměstnanci, nelze-li použít den podle písmene a) nebo den podle bodu 1.\n(2) Nejde-li o zahraničního zaměstnance, může zaměstnavatel přihlásit zaměstnance do evidence zaměstnanců podle odstavce 1 písm. a) jen částečně (dále jen „částečné přihlášení“). Při částečném přihlášení zaměstnavatel uvede údaje v rozsahu jméno, příjmení, rodné příjmení, rodné číslo, místo narození, státní občanství zaměstnance a předpokládaný den nástupu zaměstnance do zaměstnání a variabilní symbol zaměstnavatele. Ostatní údaje stanovené pro přihlášení zaměstnance do evidence zaměstnanců je zaměstnavatel povinen oznámit ve lhůtě 8 dnů ode dne, kdy tento zaměstnanec nastoupil k výkonu práce.\n(3) Pro přihlášení zaměstnance do evidence zaměstnanců podle odstavce 1 písm. a) nebo odstavce 2 je zaměstnavatel oprávněn od zaměstnance požadovat sdělení údajů stanovených pro přihlášení nebo částečné přihlášení do evidence zaměstnanců ještě před okamžikem jeho nástupu k výkonu práce; tyto údaje zaměstnavatel smí použít jen k tomuto účelu.\n(4) Nenastoupila-li fyzická osoba k výkonu práce, je zaměstnavatel povinen oznámit tuto skutečnost bez zbytečného odkladu, nejpozději však do 8 dnů od předpokládaného dne nástupu k výkonu práce.\n(5) Zaměstnavatel je povinen oznámit změnu evidovaného údaje o svém zaměstnanci do 8 dnů ode dne, kdy se o této změně dozvěděl.\n(6) Zaměstnavatel je povinen odhlásit svého zaměstnance z evidence zaměstnanců ve lhůtě 8 dnů ode dne, kdy\na) skončilo jeho zaměstnání,\nb) zaměstnavateli skončila povinnost poskytovat zaměstnanci plnění, nelze-li použít den podle písmene a), nebo\nc) zaměstnavatel přestal poskytovat plnění zaměstnanci, nelze-li použít den podle písmene a) nebo b).\n(7) Vykonává-li zaměstnanec u zaměstnavatele více zaměstnání, je zaměstnavatel povinen plnit povinnosti podle odstavců 1, 2 a 4 až 6 obdobně pro každé z těchto zaměstnání.\n(8) Nesplní-li zaměstnavatel ve stanovené lhůtě povinnost přihlásit zaměstnance do evidence zaměstnanců, oznámit změnu údajů zapsaných v této evidenci nebo odhlásit zaměstnance z této evidence, a zaměstnavatel ani na výzvu České správy sociálního zabezpečení tuto povinnost nesplní, provede Česká správa sociálního zabezpečení toto přihlášení, odhlášení nebo změnu z moci úřední."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Osobní identifikační číslo",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Osobní identifikační číslo je jednoznačný numerický bezvýznamový identifikátor, který ministerstvo přiděluje fyzické osobě za účelem její identifikace v informačních systémech ministerstva. Fyzické osobě lze přidělit pouze jedno osobní identifikační číslo.\n(2) Nebylo-li osobní identifikační číslo přiděleno ministerstvem již dříve, přiděluje se při prvním přihlášení fyzické osoby jako zaměstnance zaměstnavatelem do evidence zaměstnanců. Osobní identifikační číslo se přiděluje bez časového omezení a je neměnné.\n(3) Písemnost obsahující osobní identifikační číslo doručí Česká správa sociálního zabezpečení zaměstnavateli bez zbytečného odkladu po přihlášení zaměstnance do evidence zaměstnanců, nebo po jeho přidělení.\n(4) Přidělené osobní identifikační číslo je zaměstnavatel povinen uvádět na všech podáních podle tohoto zákona, která se zaměstnance týkají, s výjimkou přihlášení zaměstnance do evidence zaměstnanců tímto zaměstnavatelem."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Identifikátor zaměstnání",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Identifikátor zaměstnání je jednoznačný numerický bezvýznamový identifikátor, který slouží k identifikaci každého zaměstnání zaměstnance vedeného v evidenci zaměstnanců.\n(2) Identifikátor zaměstnání přiděluje Česká správa sociálního zabezpečení pro každé zaměstnání zaměstnance při přihlášení zaměstnance do evidence zaměstnanců po sdělení všech údajů stanovených pro toto přihlášení.\n(3) Písemnost obsahující identifikátor zaměstnání doručí Česká správa sociálního zabezpečení zaměstnavateli bez zbytečného odkladu po jeho přidělení.\n(4) Identifikátor zaměstnání je zaměstnavatel povinen uvádět při sdělování všech údajů, které se týkají toho zaměstnání zaměstnance, k jehož identifikaci byl identifikátor zaměstnání přidělen."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Variabilní symbol",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Variabilním symbolem se pro účely tohoto zákona rozumí jednoznačný numerický bezvýznamový identifikátor, který přiděluje zvlášť zaměstnavateli a zvlášť jeho mzdové účtárně územní správa sociálního zabezpečení za účelem jejich identifikace v informačních systémech územní správy sociálního zabezpečení a České správy sociálního zabezpečení.\n(2) Variabilní symbol se zaměstnavateli a jeho mzdové účtárně přiděluje při jejich přihlášení do evidence zaměstnavatelů, nebyl-li přidělen již dříve. Variabilní symbol se přiděluje bez časového omezení a je neměnný.\n(3) Písemnost obsahující variabilní symbol doručí územní správa sociálního zabezpečení tomu, komu byl přidělen, bez zbytečného odkladu po jeho přihlášení do evidence zaměstnavatelů, nebo po jeho přidělení.\n(4) Přidělený variabilní symbol jsou zaměstnavatel a jeho mzdová účtárna povinni uvádět na všech podáních podle tohoto zákona, která se jich týkají."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Systém evidence jednotného měsíčního hlášení",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Systém evidence jednotného měsíčního hlášení se využívá ke shromažďování, ukládání a zpřístupňování\na) hlášených údajů,\nb) údajů z evidence zaměstnavatelů a evidence zaměstnanců,\nc) informací týkajících se nakládání s údaji podle písmen a) a b).\n(2) Systém evidence jednotného měsíčního hlášení zahrnuje evidenci zaměstnavatelů a evidenci zaměstnanců a je součástí Integrovaného informačního systému Ministerstva práce a sociálních věcí."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Správce systému evidence jednotného měsíčního hlášení",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Správcem systému evidence jednotného měsíčního hlášení je ministerstvo.\n(2) Správce systému evidence jednotného měsíčního hlášení zajišťuje\na) zpřístupnění hlášených údajů uživatelům údajů,\nb) informování uživatelů údajů o vydání výzvy týkající se jednotného měsíčního hlášení a výsledku navazujícího postupu,\nc) zpřístupnění údajů z evidence zaměstnavatelů a evidence zaměstnanců uživatelům údajů.\n(3) Správcem hlášených údajů je ministerstvo. Správcem údajů vedených v evidenci zaměstnavatelů a evidenci zaměstnanců je Česká správa sociálního zabezpečení. Správou údajů se rozumí jejich zpracovávání."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Uchovávání údajů",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "Ministerstvo uchovává hlášené údaje a další údaje vedené v systému evidence jednotného měsíčního hlášení po dobu 20 let bezprostředně následujících po kalendářním roce, v němž byl daný údaj poprvé zpřístupněn uživatelům údajů."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Zpřístupnění údajů uživatelům údajů",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Ministerstvo zpřístupní údaje ze systému evidence jednotného měsíčního hlášení uživatelům údajů bez zbytečného odkladu po automatizované kontrole vad podání, a to prostřednictvím datového rozhraní ministerstva.\n(2) Obsahuje-li jednotné měsíční hlášení formální vadu, jsou uživatelům údajů zpřístupněny jen ty části nebo součásti jednotného měsíčního hlášení, které jsou bez formálních vad. Ostatní části nebo součásti měsíčního hlášení jsou uživatelům údajů zpřístupněny neprodleně po podání opravného hlášení nebo odstranění jeho vad.\n(3) Obsahuje-li souhrnná část nebo součást individualizované části jednotného měsíčního hlášení formální vadu, která se týká pouze údaje určeného jinému uživateli údajů, než je orgán Finanční správy České republiky, a kterou se nepodařilo odstranit na základě výzvy k podání opravného hlášení, je tato souhrnná část nebo součást hlášení zpřístupněna orgánu Finanční správy České republiky v rozsahu jemu určených údajů neprodleně po marném uplynutí lhůty k podání opravného hlášení.\n(4) Jednotlivým uživatelům údajů jsou údaje ze systému evidence jednotného měsíčního hlášení zpřístupněny jen v rozsahu a k účelu stanovenému jiným právním předpisem."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Sdělování údajů",
+      "chapter": "ČÁST TŘETÍ - EVIDENCE",
+      "content": "(1) Zaměstnavateli se ze systému evidence jednotného měsíčního hlášení poskytují jen ty údaje, které mu umožní kontrolu správnosti a úplnosti jím sdělovaných údajů.\n(2) Údaje ze systému evidence jednotného měsíčního hlášení se nesdělují třetí osobě. Tyto údaje sděluje třetí osobě uživatel údajů, jehož věcné působnosti se daný údaj týká, a to v mezích a na základě jiného právního předpisu.\n(3) S jednorázovým souhlasem zaměstnance se ze systému evidence jednotného měsíčního hlášení poskytují poskytovatelům spotřebitelského úvěru pro účely posouzení úvěruschopnosti spotřebitele podle zákona o spotřebitelském úvěru údaje o příjmu zaměstnance ze zaměstnání za období 12 kalendářních měsíců předcházejících kalendářnímu měsíci, v němž došlo k udělení souhlasu zaměstnance, a identifikační údaje zaměstnavatelů, u kterých zaměstnanec v tomto období pracoval.\n(4) Ze systému evidence jednotného měsíčního hlášení lze sdělit údaje jinému orgánu veřejné moci, pouze pokud\na) je nelze získat od uživatele údajů, jehož věcné působnosti se tento údaj týká, a\nb) tomu nebrání povinnost mlčenlivosti podle jiného právního předpisu.\n(5) Úřední osoby, státní zaměstnanci a zaměstnanci v ministerstvu a v České správě sociálního zabezpečení jsou při správě hlášených údajů v systému evidence jednotného měsíčního hlášení povinni zachovávat mlčenlivost o skutečnostech, se kterými se seznámili při plnění těchto povinností nebo v přímé souvislosti s nimi. Při správě hlášených údajů jsou vázáni povinností mlčenlivosti v rozsahu, v jakém jsou touto povinností vázány úřední osoby nebo zaměstnanci uživatelů údajů podle jiného právního předpisu."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Přestupky",
+      "chapter": "ČÁST ČTVRTÁ - PŘESTUPKY",
+      "content": "(1) Fyzická, právnická nebo podnikající fyzická osoba se jako zaměstnavatel dopustí přestupku tím, že\na) v rozporu s § 7 odst. 1 nebo § 34 odst. 1 nepodá jednotné měsíční hlášení ve stanovené lhůtě,\nb) podá jednotné měsíční hlášení nebo opravné hlášení, které je po uplynutí lhůty pro jeho podání neúčinné v některé části nebo součásti podle § 11 odst. 3,\nc) v rozporu s § 12 odst. 2 nebo § 13 odst. 2 nepodá na základě výzvy České správy sociálního zabezpečení jednotné měsíční hlášení nebo opravné hlášení ve stanovené lhůtě,\nd) v rozporu s § 17 odst. 1 nebo § 35 odst. 1 se nepřihlásí ve stanovené lhůtě do evidence zaměstnavatelů,\ne) v rozporu s § 17 odst. 2 nebo § 35 odst. 2 nepřihlásí ve stanovené lhůtě svou mzdovou účtárnu do evidence zaměstnavatelů,\nf) v rozporu s § 17 odst. 3 neoznámí ve stanovené lhůtě změnu údajů vedených v evidenci zaměstnavatelů,\ng) v rozporu s § 17 odst. 4 neodhlásí ve stanovené lhůtě svou mzdovou účtárnu z evidence zaměstnavatelů,\nh) v rozporu s § 17 odst. 5 po přihlášení do evidence zaměstnavatelů neoznámí ve stanovené lhůtě, že žádná fyzická osoba u něho nenastoupila k výkonu práce,\ni) v rozporu s § 17 odst. 6 se neodhlásí ve stanovené lhůtě z evidence zaměstnavatelů,\nj) v rozporu s § 19 odst. 1 nebo § 35 odst. 3 nepřihlásí ve stanovené lhůtě svého zaměstnance do evidence zaměstnanců nebo uvede v přihlášce do evidence zaměstnanců nesprávný údaj,\nk) v rozporu s § 19 odst. 2 po částečném přihlášení zaměstnance neoznámí ve stanovené lhůtě ostatní údaje stanovené pro přihlášení do evidence zaměstnanců,\nl) v rozporu s § 19 odst. 4 po přihlášení nebo částečném přihlášení zaměstnance neoznámí ve stanovené lhůtě, že fyzická osoba u něho nenastoupila k výkonu práce,\nm) v rozporu s § 19 odst. 5 neoznámí ve stanovené lhůtě změnu údajů vedených v evidenci zaměstnanců,\nn) v rozporu s § 19 odst. 6 neodhlásí ve stanovené lhůtě svého zaměstnance z evidence zaměstnanců,\no) v rozporu s § 39 odst. 3 se nepřihlásí do evidence zaměstnavatelů nejpozději do 15. dubna 2026,\np) v rozporu s § 39 odst. 2 písm. a) nebo § 39 odst. 4 nebo 5 nesdělí České správě sociálního zabezpečení do 30. dubna 2026 způsobem podle § 8 odst. 1 údaje ve stanoveném formátu a obsahové struktuře, nebo\nq) v rozporu s § 39 odst. 2 písm. b) nebo § 39 odst. 3 nepřihlásí svého zaměstnance do evidence zaměstnanců.\n(2) Za přestupek lze uložit pokutu do výše\na) 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. f), h) nebo k) až m),\nb) 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), g), i) nebo n) až q),\nc) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) nebo j), nebo\nd) násobku počtu zaměstnanců zaměstnavatele, kteří jsou evidováni v evidenci zaměstnanců v poslední den období, za které mělo být jednotné měsíční hlášení nebo opravné hlášení podáno, a částky 5 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) až c)."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Společné ustanovení o přestupcích",
+      "chapter": "ČÁST ČTVRTÁ - PŘESTUPKY",
+      "content": "(1) K řízení o přestupku podle tohoto zákona jsou příslušné územní správy sociálního zabezpečení.\n(2) O odvolání proti rozhodnutí o přestupku rozhoduje Česká správa sociálního zabezpečení.\n(3) Územní správa sociálního zabezpečení, aniž zahájí řízení, věc usnesením odloží též tehdy, jestliže již samotné zjištění skutku a upozornění osoby podezřelé ze spáchání přestupku postačí k její nápravě, nebo škodlivý následek byl odstraněn.\n(4) Pro místní příslušnost územní správy sociálního zabezpečení k rozhodování o přestupcích se použije § 83 odst. 4 písm. a) zákona o nemocenském pojištění obdobně.\n(5) Pokutu vybírá a vymáhá územní správa sociálního zabezpečení, která ji uložila."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Promlčecí doba u přestupků",
+      "chapter": "ČÁST ČTVRTÁ - PŘESTUPKY",
+      "content": "(1) Promlčecí doba u přestupků činí\na) 3 roky, nebo\nb) 5 let, jde-li o\n1. přestupek, za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 50 000 Kč, nebo\n2. přestupek podle § 28 odst. 1 písm. a) až c), pokud horní hranice sazby pokuty stanovená podle § 28 odst. 2 písm. d) činí alespoň 50 000 Kč.\n(2) Byla-li promlčecí doba přerušena, odpovědnost za přestupek zaniká nejpozději\na) 5 let od jeho spáchání, nebo\nb) 7 let od jeho spáchání, jde-li o přestupek podle odstavce 1 písm. b)."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Zvláštní ustanovení o jednotném měsíčním hlášení v případě příslušníků bezpečnostních sborů a vojáků v činné službě",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ > HLAVA I - Zvláštní ustanovení v případě příslušníků bezpečnostních sborů a vojáků v činné službě",
+      "content": "(1) Z důvodů ochrany utajovaných informací a zvláštních postupů k utajení a zajištění bezpečnosti spravuje ministerstvo hlášené údaje o příslušnících Bezpečnostní informační služby, Policie České republiky, Hasičského záchranného sboru České republiky, Generální inspekce bezpečnostních sborů, Úřadu pro zahraniční styky a informace a vojácích v činné službě ve zvláštním úložišti podle zákona o kybernetické bezpečnosti.\n(2) Údaje o příslušnících bezpečnostních sborů poskytují Bezpečnostní informační služba, Policie České republiky, Hasičský záchranný sbor České republiky, Generální inspekce bezpečnostních sborů a Úřad pro zahraniční styky a informace ministerstvu prostřednictvím Ministerstva vnitra.\n(3) Údaje o vojácích v činné službě ministerstvu poskytuje Ministerstvo obrany.\n(4) Údaje o příslušnících podle odstavce 1 nebo o vojácích v činné službě se poskytují pouze\na) ministerstvu,\nb) Ministerstvu vnitra,\nc) Ministerstvu obrany,\nd) Úřadu práce České republiky,\ne) orgánu Finanční správy České republiky,\nf) Ministerstvu financí,\ng) Českému statistickému úřadu,\nh) poskytovatelům spotřebitelského úvěru v rozsahu a způsobem podle § 27 odst. 3, nebo\ni) Ministerstvu spravedlnosti.\n(5) Vláda nařízením stanoví zvláštní obsahovou strukturu podání podle tohoto zákona týkajících se příslušníků bezpečnostních sborů a vojáků v činné službě podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Zvláštní ustanovení o evidenci zaměstnavatelů a evidenci zaměstanců v případě příslušníků bezpečnostních sborů a vojáků v činné službě",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ > HLAVA I - Zvláštní ustanovení v případě příslušníků bezpečnostních sborů a vojáků v činné službě",
+      "content": "Evidenci zaměstnavatelů a evidenci zaměstnanců vede a údaje v nich spravuje pro účely zpracování jednotného měsíčního hlášení o příslušnících bezpečnostních sborů a vojácích v činné službě ministerstvo v úložišti podle § 31 odst. 1. Osobní identifikační číslo a variabilní symbol pro tyto účely přiděluje a doručuje ministerstvo."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ > HLAVA II - Zvláštní postupy k utajení a zajištění bezpečnosti",
+      "content": "(1) Pro účely utajení činnosti zpravodajských služeb České republiky, Policie České republiky, Vojenské policie, Generální inspekce bezpečnostních sborů a ozbrojených sil České republiky a zajištění bezpečnosti jejich příslušníků a vojáků v činné službě lze použít zvláštní postupy při plnění úkolů stanovených tímto zákonem.\n(2) Zvláštní postupy podle odstavce 1 mohou použít\na) příslušníci\n1. zpravodajské služby České republiky,\n2. Policie České republiky,\n3. Generální inspekce bezpečnostních sborů a\n4. Hasičského záchranného sboru České republiky,\nb) vojáci v činné službě zařazení\n1. ve Vojenské policii, nebo\n2. v ozbrojených silách České republiky,\nc) zpravodajské služby České republiky, Policie České republiky, Vojenská policie, Generální inspekce bezpečnostních sborů, Hasičský záchranný sbor České republiky, ministerstvo, Ministerstvo vnitra a Ministerstvo obrany.\n(3) Zvláštní postupy podle odstavce 1 stanoví vláda usnesením."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Zvláštní ustanovení o jednotném měsíčním hlášení za měsíce leden až březen 2026",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ > HLAVA III - Zvláštní ustanovení o jednotném měsíčním hlášení a o evidenci zaměstnavatelů a evidenci zaměstnanců v období do 30. června 2026",
+      "content": "(1) Za měsíce leden až březen 2026 je zaměstnavatel povinen podat jednotné měsíční hlášení ve lhůtě od 1. dubna 2026 do 30. června 2026. Za každý kalendářní měsíc se jednotné měsíční hlášení podává samostatně.\n(2) Povinnost podle odstavce 1 se nevztahuje na zaměstnavatele uvedeného v § 123o odst. 1 zákona č. 582/1991 Sb., ve znění zákona č. 395/2024 Sb., který podal jednotné měsíční hlášení zaměstnavatele za měsíce leden až březen 2026 podle části jedenácté zákona č. 582/1991 Sb., ve znění účinném přede dnem 1. dubna 2026."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Zvláštní ustanovení o evidenci zaměstnavatelů a evidenci zaměstnanců v období od 1. dubna 2026 do 30. června 2026",
+      "chapter": "ČÁST PÁTÁ - ZVLÁŠTNÍ USTANOVENÍ > HLAVA III - Zvláštní ustanovení o jednotném měsíčním hlášení a o evidenci zaměstnavatelů a evidenci zaměstnanců v období do 30. června 2026",
+      "content": "(1) V období od 1. dubna 2026 do 30. června 2026 je zaměstnavatel povinen přihlásit se do evidence zaměstnavatelů ve lhůtě 8 dnů ode dne nástupu do zaměstnání prvního zaměstnance, pokud je dnem nástupu zaměstnance do zaměstnání nejdříve 1. duben 2026. Má-li zaměstnavatel zaměstnat zahraničního zaměstnance, je povinen se přihlásit do evidence zaměstnavatelů nejpozději před okamžikem nástupu tohoto zaměstnance.\n(2) Zaměstnavatel je povinen ve lhůtě podle odstavce 1 přihlásit do evidence zaměstnavatelů též každou svou mzdovou účtárnu. Současně s jejím přihlášením je povinen uvést též okruh zaměstnanců, pro které mzdová účtárna vede evidenci mezd nebo platů. Je-li mzdová účtárna zřízena až po podání přihlášky zaměstnavatele do evidence zaměstnavatelů podle věty první, běží lhůta 8 dnů k jejímu přihlášení ode dne jejího zřízení.\n(3) V období od 1. dubna 2026 do 30. června 2026 je zaměstnavatel povinen přihlásit svého zaměstnance do evidence zaměstnanců\na) ve lhůtě 8 dnů ode dne, kdy\n1. zaměstnanec nastoupil do zaměstnání,\n2. zaměstnavateli vznikla povinnost poskytovat zaměstnanci plnění, nelze-li použít den podle bodu 1, nebo\n3. zaměstnavatel poprvé poskytl plnění zaměstnanci, nelze-li použít den podle bodu 1 nebo 2,\nb) v den, kdy předal žádost o dávku nemocenského pojištění územní správě sociálního zabezpečení, uplatnil-li zaměstnanec nárok na výplatu dávky nemocenského pojištění dříve, než zaměstnavatel tohoto zaměstnance přihlásil do evidence zaměstnanců podle písmene a), nebo\nc) nejpozději před okamžikem nástupu tohoto zaměstnance k výkonu práce, jde-li o zahraničního zaměstnance."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Výkon práv a plnění povinností zaměstnavatelem s více mzdovými účtárnami",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Má-li zaměstnavatel 2 nebo více mzdových účtáren, vykonává práva a plní povinnosti zaměstnavatele podle tohoto zákona, s výjimkou evidenčních povinností podle § 17 nebo 19, každá mzdová účtárna zvlášť, a to za okruh zaměstnanců, pro které vede evidenci mezd nebo platů."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Doručování zaměstnavateli",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Písemnost podle tohoto zákona se zasílá zaměstnavateli do jeho datové schránky.\n(2) Nemá-li zaměstnavatel zpřístupněnu datovou schránku, zasílá se písemnost prostřednictvím elektronické aplikace portálu České správy sociálního zabezpečení, a to jejím zpřístupněním v této aplikaci.\n(3) Písemnost, která byla zpřístupněna v elektronické aplikaci portálu České správy sociálního zabezpečení, je doručena okamžikem, kdy se do této aplikace zaměstnavatel přihlásí. Nepřihlásí-li se do této aplikace zaměstnavatel ve lhůtě 10 dnů ode dne, kdy byla písemnost v této aplikaci zpřístupněna, považuje se písemnost za doručenou uplynutím posledního dne této lhůty."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Uživatelská podpora České správy sociálního zabezpečení při zpracování údajů",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Česká správa sociálního zabezpečení poskytuje zaměstnavatelům uživatelskou podporu při\na) sdělování hlášených údajů a údajů vedených v evidenci zaměstnavatelů a evidenci zaměstnanců,\nb) odstraňování zjištěných nedostatků podání."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Přechodná ustanovení",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Příslušný orgán Finanční správy České republiky sdělí České správě sociálního zabezpečení nejpozději do 15 dnů ode dne nabytí účinnosti tohoto ustanovení zákona jím evidované registrační údaje plátce daně z příjmů fyzických osob ze závislé činnosti, které je zaměstnavatel povinen sdělit při svém přihlášení do evidence zaměstnavatelů podle tohoto zákona. To platí pouze pro plátce daně z příjmů fyzických osob ze závislé činnosti, který k této dani podal vyúčtování za kalendářní rok 2023 nebo 2024, nebo který byl zaregistrován jako plátce daně v roce 2025 nebo v prvním čtvrtletí roku 2026, anebo který před 1. dubnem 2026 podal u příslušného orgánu Finanční správy České republiky přihlášku k registraci plátce daně z příjmů ze závislé činnosti, o které nebylo před 1. dubnem 2026 rozhodnuto. Česká správa sociálního zabezpečení na základě tohoto sdělení přihlásí plátce daně podle věty první a druhé z moci úřední do registru zaměstnavatelů podle zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění účinném před 1. dubnem 2026.\n(2) V případě, že plátce daně z příjmů fyzických osob ze závislé činnosti splňuje podmínku pro přihlášení do registru zaměstnavatelů z moci úřední podle odstavce 1 a od 1. dubna 2026 je zaměstnavatelem podle § 2, je povinen do 30. dubna 2026\na) sdělit České správě sociálního zabezpečení způsobem podle § 8 odst. 1 údaje ve stanoveném formátu a obsahové struktuře, které je zaměstnavatel povinen sdělit při svém přihlášení do evidence zaměstnavatelů podle tohoto zákona a které jako plátce daně z příjmů fyzických osob ze závislé činnosti neuvedl jako registrační údaj, a\nb) přihlásit svého zaměstnance do evidence zaměstnanců.\n(3) Zaměstnavatel, který zaměstnává zaměstnance před 1. dubnem 2026, je povinen, trvá-li toto zaměstnání alespoň ještě 1. dubna 2026, přihlásit se do evidence zaměstnavatelů podle tohoto zákona nejpozději do 15. dubna 2026, není-li již přihlášen do registru zaměstnavatelů podle § 93 zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, nebo nesplňuje-li podmínku pro přihlášení do registru zaměstnavatelů z moci úřední podle odstavce 1. Takový zaměstnavatel je povinen přihlásit svého zaměstnance do evidence zaměstnanců ve lhůtě 8 dnů ode dne, kdy mu byla doručena písemnost obsahující variabilní symbol.\n(4) Je-li zaměstnavatel veden v registru zaměstnavatelů podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, alespoň 31. března 2026, a 1. dubna 2026 je tento zaměstnavatel zaměstnavatelem podle tohoto zákona, je povinen do 30. dubna 2026 sdělit České správě sociálního zabezpečení způsobem podle § 8 odst. 1 údaje ve stanoveném formátu a obsahové struktuře, které tento zaměstnavatel sděluje při svém přihlášení do evidence zaměstnavatelů podle tohoto zákona a které Česká správa sociálního zabezpečení neeviduje v registru zaměstnavatelů podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026.\n(5) Je-li zaměstnanec veden v registru pojištěnců podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, alespoň 1 den v období od 1. ledna 2026 do 31. března 2026, a v tomto období je tento zaměstnanec zaměstnancem podle tohoto zákona, je jeho zaměstnavatel povinen od 1. do 30. dubna 2026 sdělit České správě sociálního zabezpečení způsobem podle § 8 odst. 1 údaje ve stanoveném formátu a obsahové struktuře, které tento zaměstnavatel sděluje při přihlášení zaměstnance do evidence zaměstnanců podle tohoto zákona a které Česká správa sociálního zabezpečení neeviduje v registru pojištěnců podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026.\n(6) Česká správa sociálního zabezpečení sdělí do 15. dubna 2026 zaměstnavateli, který je veden v registru zaměstnavatelů podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, alespoň 31. března 2026 a 1. dubna 2026 je tento zaměstnavatel veden v evidenci zaměstnavatelů podle tohoto zákona, u zaměstnance, který byl veden v registru pojištěnců podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, alespoň 1 den v období od 1. ledna 2026 do 31. března 2026, osobní identifikační číslo a identifikátor zaměstnání, a to prostřednictvím elektronické aplikace portálu České správy sociálního zabezpečení. Osobní identifikační číslo a identifikátor zaměstnání tohoto zaměstnance jsou zaměstnavateli doručeny okamžikem přihlášení zaměstnavatele do aplikace podle věty první. Nepřihlásí-li se zaměstnavatel do této aplikace ve lhůtě 10 dnů od zpřístupnění osobního identifikačního čísla a identifikátoru zaměstnání v této aplikaci, považuje se osobní identifikační číslo a identifikátor zaměstnání za doručené posledním dnem této lhůty.\n(7) Údaje, které jsou vedeny v registru zaměstnavatelů a v registru pojištěnců podle zákona č. 187/2006 Sb., ve znění účinném před 1. dubnem 2026, lze od 1. dubna 2026 využívat též pro účely evidence zaměstnavatelů a evidence zaměstnanců podle tohoto zákona.\n(8) Ze systému evidence jednotného měsíčního hlášení se poskytovatelům spotřebitelského úvěru poskytují údaje v rozsahu a způsobem podle § 27 odst. 3 nejdříve za měsíc leden 2026; o tyto údaje lze žádat nejdříve 1. července 2026.\n(9) Jde-li o příslušníky Bezpečnostní informační služby, Úřadu pro zahraniční styky a informace, Generální inspekce bezpečnostních sborů, Hasičského záchranného sboru České republiky, Policie České republiky a vojáky v činné službě, postupuje se podle tohoto zákona od 1. ledna 2027 s výjimkou zvláštních postupů k utajení upravených v § 33."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Účinnost",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2026, s výjimkou ustanovení\na) § 39 odst. 1, které nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení,\nb) § 16 odst. 3, § 17 odst. 1, 2 a 5, § 18 odst. 3 a § 19 odst. 1 až 4, která nabývají účinnosti dnem 1. července 2026, a\nc) § 5 odst. 2 písm. i) a j) a § 31 odst. 4 písm. i), která nabývají účinnosti dnem 1. ledna 2027."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zahraničním zaměstnancem",
+      "definition": "fyzická osoba uvedená v § 87 odst",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Hlášenými údaji",
+      "definition": "údaje, které je zaměstnavatel povinen podle tohoto zákona nebo jiného právního předpisu sdělovat prostřednictvím jednotného měsíčního hlášení",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Evidencí zaměstnavatelů",
+      "definition": "evidence, ve které jsou vedeny údaje o zaměstnavatelích pro potřebu jednotného měsíčního hlášení",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "Evidencí zaměstnanců",
+      "definition": "evidence, ve které jsou vedeny údaje o zaměstnancích pro potřebu jednotného měsíčního hlášení",
+      "source_provision": "§ 18"
+    },
+    {
+      "term": "Pro účely této části se zaměstnancem",
+      "definition": "též fyzická osoba od počátku patnáctého dne před předpokládaným dnem nástupu k výkonu práce u zaměstnavatele",
+      "source_provision": "§ 18"
+    },
+    {
+      "term": "Variabilním symbolem",
+      "definition": "jednoznačný numerický bezvýznamový identifikátor, který přiděluje zvlášť zaměstnavateli a zvlášť jeho mzdové účtárně územní správa sociálního zabezpečení za účelem jejich identifikace v informačních systémech územní správy sociálního zabezpečení a České správy sociálního zabezpečení",
+      "source_provision": "§ 22"
+    }
+  ]
+}

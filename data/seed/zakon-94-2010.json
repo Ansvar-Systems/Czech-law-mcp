@@ -1,0 +1,51 @@
+{
+  "id": "cz:94/2010",
+  "type": "statute",
+  "title": "94/2010 Sb., Vyhláška o některých veterinárních a hygienických požadavcích na přepravu a zpracování vedlejších živočišných produktů",
+  "title_en": "",
+  "short_name": "94/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-04-08",
+  "in_force_date": "2012-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/94",
+  "description": "Vyhláška o některých veterinárních a hygienických požadavcích na přepravu a zpracování vedlejších živočišných produktů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje v návaznosti na přímo použitelný předpis Evropské unie1) veterinární a hygienické požadavky na\na) barevné označování obalů, nádob a vozidel využívaných ke shromažďování (sběru) a přepravě různých kategorií vedlejších produktů živočišného původu2) (dále jen „vedlejší živočišné produkty“), jakož i zpracovaných produktů3),\nb) přepravu hnoje,\nc) zpracování některých vedlejších živočišných produktů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Barevné označování obalů, nádob a vozidel využívaných ke shromažďování (sběru) a přepravě vedlejších živočišných produktů",
+      "content": "(1) Obaly, nádoby nebo vozidla, určená ke shromažďování (sběru) nebo k přepravě materiálů\na) kategorie 1, se označují černou barvou,\nb) kategorie 2, s výjimkou hnoje a obsahu trávicího traktu, se označují žlutou barvou,\nc) kategorie 3, se označují zelenou barvou s vysokým obsahem modré, aby bylo zajištěno zřetelné odlišení od ostatních barev.\n(2) Barevné označení musí být zřetelné a po dobu shromažďování (sběru) a přepravy nesmazatelné. Umísťuje se na povrchu nebo části povrchu obalu, nádoby nebo vozidla, popřípadě na etiketě či symbolu k nim připojené."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přeprava hnoje",
+      "content": "Hnůj4), který je přepravován na území České republiky v rámci hospodářství nebo mezi hospodářstvím a místem určení, v němž má být využit, nemusí být provázen obchodním dokladem ani veterinárním osvědčením5) a obal, nádoba nebo vozidlo, v němž je přepravován, nemusí být slovně označen slovem „hnůj“6)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Výjimka ze standardů stanovených přímo použitelným předpisem Evropské unie",
+      "content": "Provozovateli zařízení na kompostování vedlejších živočišných produktů, zařízení na výrobu bioplynu nebo jiného technického zařízení (dále jen „žadatel“) povolí krajská veterinární správa na základě žádosti použití jiných standardních parametrů zpracování vedlejších živočišných produktů7) než stanovených v nařízení Evropského parlamentu a Rady (ES) č. 1774/2002, pokud žadatel prokáže splnění podmínek stanovených v příloze VI kapitole II části C bodu 13a a v příloze VIII kapitole III oddílu II části A bodu 5 písm. c) tohoto nařízení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zrušovací ustanovení",
+      "content": "Vyhláška č. 295/2003 Sb., o konfiskátech živočišného původu, jejich neškodném odstraňování a dalším zpracovávání, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvním dnem druhého měsíce následujícího po dni jejího vyhlášení.\n7) Příloha VI kapitola II část C bod 13a a příloha VIII kapitola III oddíl II část A bod 5 písm. c) nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n6) Čl. 7 bod 6 a příloha II kapitola I bod 2 písm. b) bod iv) nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n5) Čl. 7 bod 6 a příloha II kapitola III nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n4) Příloha I bod 37 nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n3) Příloha I bod 44 nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n2) Čl. 2 bod 1 písm. a) nařízení Evropského parlamentu a Rady (ES) č. 1774/2002.\n1) Nařízení Evropského parlamentu a Rady (ES) č. 1774/2002 ze dne 3. října 2002 o hygienických pravidlech pro vedlejší produkty živočišného původu, které nejsou určeny pro lidskou spotřebu, v platném znění."
+    }
+  ],
+  "definitions": []
+}

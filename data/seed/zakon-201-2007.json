@@ -1,0 +1,21 @@
+{
+  "id": "cz:201/2007",
+  "type": "statute",
+  "title": "201/2007 Sb., Sdělení Českého statistického úřadu o aktualizaci Klasifikace územních statistických jednotek (CZ-NUTS)",
+  "title_en": "",
+  "short_name": "201/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-08-01",
+  "in_force_date": "2007-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/201",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace územních statistických jednotek (CZ-NUTS)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Český statistický úřad podle § 19 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, sděluje s účinností od 1. ledna 2008 zavedení aktualizované Klasifikace územních statistických jednotek (dále jen „klasifikace CZ-NUTS“).\nAktualizovaná klasifikace CZ-NUTS je vydávána pro statistické účely. Její struktura, kódy a názvy územních jednotek jsou shodné se zněním uvedeným v příloze nařízení Komise (ES) č. 105/2007 ze dne 1. února 2007, kterým se mění přílohy nařízení Evropského parlamentu a Rady (ES) č. 1059/2003 o zavedení společné klasifikace územních statistických jednotek (NUTS).\nAktualizovaná klasifikace CZ-NUTS zahrnuje alfanumerické kódy a názvy statistických územních jednotek vytvořených na území České republiky pro potřeby statistických zjišťování. V aktualizované klasifikaci CZ-NUTS dochází od 1. ledna 2008 k následujícím změnám:\n– ruší se úroveň NUTS 4 (okresy);\n– mění se kód NUTS 3 u dvou krajů:\n– Vysočina – nově CZ063 (místo stávajícího kódu CZ061),\n– Jihomoravský kraj – nově CZ064 (místo stávajícího kódu CZ062).\nÚplná aktualizovaná klasifikace CZ-NUTS je uvedena v příloze tohoto sdělení. Klasifikace CZ-NUTS bude k dispozici v elektronické podobě v odboru informačních služeb Českého statistického úřadu, Na padesátém 81, Praha 10 a rovněž bude zveřejněna (včetně všech souvisejících informací) na internetových stránkách ČSÚ na adrese www.czso.cz.\nNařízení Evropského parlamentu a Rady (ES) č. 1059/2003 je závazné v celém rozsahu a přímo použitelné ve všech členských státech včetně aktualizací jeho příloh nařízeními Komise. Z toho důvodu nebudou další aktualizace klasifikace CZ-NUTS uveřejňovány ve Sbírce zákonů.\nPříloha\nKód NUTS 0 NUTS 1 NUTS 2 NUTS 3\nstát území oblast kraj\nCZ Česká republika\nCZ0 Česká republika\nCZ01 Praha\nCZ010 Hlavní město Praha\nCZ02 Střední Čechy\nCZ020 Středočeský kraj\nCZ03 Jihozápad\nCZ031 Jihočeský kraj\nCZ032 Plzeňský kraj\nCZ04 Severozápad\nCZ041 Karlovarský kraj\nCZ042 Ústecký kraj\nCZ05 Severovýchod\nCZ051 Liberecký kraj\nCZ052 Královéhradecký kraj\nCZ053 Pardubický kraj\nCZ06 Jihovýchod\nCZ063 Vysočina\nCZ064 Jihomoravský kraj\nCZ07 Střední Morava\nCZ071 Olomoucký kraj\nCZ072 Zlínský kraj\nCZ08 Moravskoslezsko\nCZ080 Moravskoslezský kraj\nCZZ Extra-Regio\nCZZZ Extra-Regio\nCZZZZ Extra-Regio"
+    }
+  ],
+  "definitions": []
+}

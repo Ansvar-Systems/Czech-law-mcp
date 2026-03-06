@@ -1,0 +1,81 @@
+{
+  "id": "cz:ul1:67/1950",
+  "type": "statute",
+  "title": "67/1950 Ú. l. I, Vyhláška ministerstva výživy o označování lahvového vína a nápojů vínu podobných.",
+  "title_en": "",
+  "short_name": "67/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-26",
+  "in_force_date": "1950-01-26",
+  "url": "https://www.e-sbirka.cz/ul1/1950/67",
+  "description": "Vyhláška ministerstva výživy o označování lahvového vína a nápojů vínu podobných.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vínem lahvovým se rozumí hroznové (révové) víno vyškolené, které se prodává v lahvích odborně uzavřených."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Lahvové víno musí býti označeno takto:\na) u domácího vína musí býti udána obec nebo oblast, ve které víno bylo vyrobeno,\nb) u cizozemského vína země původu,\nc) zcelené víno domácího i cizozemského původu, jež nemá nárok na užší zeměpisné označení, jest podle původu označiti jako „bílé víno domácí“, „červené víno cizozemské“, „maďarské víno“ a pod.,\nd) u vína domácího i cizozemského musí býti na lahvích vyznačeno čitelným písmem jméno nebo firma a místo hlavního sídla toho, kdo víno plnil do lahví nebo na jehož účet bylo víno plněno.\n(2) Označení podle odstavce 1 musí býti napsáno na hlavním štítku láhve čitelným a nesmazatelným písmem nejméně 0.5 cm vysokým, které nesmí býti zakryto jakoukoli ozdobou.\n(3) Domácí víno jest povinen označiti výrobce, cizozemské víno ten, kdo je uvádí do obchodu.\n(4) Vinařské oblasti [odstavec 1 písm. a)] určí ministerstvo výživy v dohodě s ministerstvem zemědělství."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Označení vína podle § 2 odst. 1 a 2 může býti doplněno:\na) jménem hroznové odrůdy, ze které bylo víno vyrobeno,\nb) označením ročníku, ze kterého víno pochází; u vína, jež je vyrobeno nebo zceleno z různých odrůd, nebo které jest získáno zcelením různých ročníků, jest označení odrůdy (ročníku) přípustné jen tehdy, činí-li podíl odrůdy (ročníku) 2/3 celkového množství a udává-li ráz vína."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Vína slazená, desertní a kořeněná, vyrobená podle zákonných předpisů, musí býti označena tak, aby bylo zřejmé, že jde o víno vyrobené s přídavkem cukru, alkoholu, koření nebo jiným dovoleným způsobem."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Víno šumivé vyrobené kvašením v lahvích je dovolena označiti jako takové.\n(2) Víno šumivé vyrobené sycením kyselinou uhličitou musí býti označeno čitelným nápisem vysokým nejméně 0.5 cm. „Uměle sycené kyselinou uhličitou.“"
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Nápoje vínu podobné, jejichž výroba jest dovolena, musí býti označeny tak, aby bylo zřejmé, o jaké nápoje jde."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "O označování nápojů vinu podobných platí obdobné ustanovení § 2 odst. 1—3."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Sporné případy týkající se označování vína z révy vinna a nápojů vínu podobných rozhodne ministerstvo výživy."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle ustanovení §§ 8 a 9 dekretu presidenta republiky č. 118/1945 Sb., ve snění zákona č. 274/1948 Sb."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen v zemích českých."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vínem lahvovým",
+      "definition": "hroznové (révové) víno vyškolené, které se prodává v lahvích odborně uzavřených",
+      "source_provision": "§ 1."
+    }
+  ]
+}

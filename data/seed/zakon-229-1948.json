@@ -1,0 +1,51 @@
+{
+  "id": "cz:229/1948",
+  "type": "statute",
+  "title": "229/1948 Sb., Nařízení, kterým se prohlašuje závaznost některých norem",
+  "title_en": "",
+  "short_name": "229/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-10-14",
+  "in_force_date": "1948-10-14",
+  "url": "https://www.e-sbirka.cz/sb/1948/229",
+  "description": "Nařízení, kterým se prohlašuje závaznost některých norem",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "S výhradou ustanovení § 2 se prohlašují za závazné tyto normy vydané Československou společností normalisační, po případě též Elektrotechnickým svazem československým (dále jen „normy“):\nČSN ESČ 231-1948 Hospodárná elektrisace v budovách a v zemědělství,\nČSN 1440-1948 Litinové odpadní trouby a tvarovky,\nČSN 1090-1948 Předpisy o betonových stavbách. Část I. Navrhování betonových staveb. (II. revidované vydání),\nČSN 1510-1948 Stavební oceli a\nČSN 2042-1948 Dřevěné zárubně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Ustanovení I. dílu vyhlášky ministra techniky ze dne 16. března 1948, č. 676 Ú. l. I, kterou se vydávají pokyny a směrnice pro navrhování a provádění pozemních staveb a prohlašuje závaznost některých norem, o výhradách a omezeních stanovených se zřetelem na nutné úspory hmot a stavebních nákladů, zůstávají nedotčena.\n(2) Pokud obsah některé z norem je v rozporu s pokyny nebo směrnicemi vydanými podle § 15 zák. č. 42/1947 Sb., po případě ve znění zákona č. 177/1948 Sb., nebo s jinými předpisy, platí tyto pokyny, směrnice nebo jiné předpisy. Odporují-li si normy navzájem, platí norma prohlášená za závaznou později."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Stavební plány, které budou předloženy k projednání podle stavebního řádu nebo statutu po 15. říjnu 1948, nesmějí být v rozporu s obsahem norem, a při stavbách prováděných podle těchto plánů jest dbáti norem."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Povolovat odchylky od obsahu norem přísluší\na) pokud odchylka má vliv na nosnost konstrukcí a bezpečnost stavby (na př. jakost stavebních hmot a její kontrola, dovolená namáhání, zatížení a ostatní předpoklady statického výpočtu, předepsaný způsob provádění nosných konstrukcí), ministerstvu techniky,\nb) v ostatních případech stavebnímu úřadu."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Zrušuje se\na) pro železobetonové konstrukce ustanovení I. dílu, části IV, oddílu I, písm. C (Statický výpočet a dovolená namáhání), č. 23 až 26 vyhlášky ministra techniky č. 676/1948 Ú. l. I s výjimkou ustanovení, podle něhož při konstrukcích pro klidné užitelné zatížení do 250 kg/m2 (včetně) smí napětí betonové výztuže s ocelí 10002 a 10370 (čl. 35 ČSN 1090-1948) dostoupiti i při zatížení hlavním 1400 kg/cm2, pro zatížení hlavní a vedlejší se však dovolená namáhání téže výztuže 1400 kg/cm2 nezvyšují, a\nb) ustanovení II. dílu vyhlášky ministra techniky č. 676/1948 Ú. l. I, pokud jím byla prohlášena za závaznou norma ČSN 1090-1931 Předpisy o betonových stavbách I. Navrhování."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

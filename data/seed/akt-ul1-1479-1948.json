@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1479/1948",
+  "type": "statute",
+  "title": "1479/1948 Ú. l. I, Vyhláška ministra pošt, kterou se určuje doba zahájení činnosti ředitelství pošt v Olomouci.",
+  "title_en": "",
+  "short_name": "1479/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-17",
+  "in_force_date": "1948-07-17",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1479",
+  "description": "Vyhláška ministra pošt, kterou se určuje doba zahájení činnosti ředitelství pošt v Olomouci.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ředitelství pošt v Olomouci zahájí činnost dne 1. srpna 1948."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tímto dnem se ruší inspekční správa ředitelství pošt v Brně, se sídlem v Olomouci."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

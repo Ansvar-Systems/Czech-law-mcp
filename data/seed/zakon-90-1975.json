@@ -1,0 +1,21 @@
+{
+  "id": "cz:90/1975",
+  "type": "statute",
+  "title": "90/1975 Sb., Vyhláška federálního ministerstva dopravy o podmínkách provozu vozidel na pozemních komunikacích",
+  "title_en": "",
+  "short_name": "90/1975 Sb.",
+  "status": "in_force",
+  "issued_date": "1975-08-22",
+  "in_force_date": "1986-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1975/90",
+  "description": "Vyhláška federálního ministerstva dopravy o podmínkách provozu vozidel na pozemních komunikacích",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "(2) Palivo používané k pohonu vozidel\na) s benzínovým motorem nesmí obsahovat více než 0,78 g olova na 1 l paliva,\nb) s naftovým motorem nesmí obsahovat více než 4 g (s tolerancí + 1 g) síry na 1 kg paliva."
+    }
+  ],
+  "definitions": []
+}

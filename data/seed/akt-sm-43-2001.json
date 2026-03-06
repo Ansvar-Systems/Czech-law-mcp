@@ -1,0 +1,38 @@
+{
+  "id": "cz:sm:43/2001",
+  "type": "statute",
+  "title": "43/2001 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Lotyšskou republikou",
+  "title_en": "",
+  "short_name": "43/2001 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2001-05-22",
+  "in_force_date": "2001-05-22",
+  "url": "https://www.e-sbirka.cz/sm/2001/43",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Rozhodnutí č. 1/2000 Společného výboru Dohody o volném obchodu mezi Českou republikou a Lotyšskou republikou",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 3 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně.“.\n2. Článek 7 se nahrazuje tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "1. Toto Rozhodnutí vstoupí v platnost dne 1. ledna 2001 za předpokladu, že si před tímto datem Strany vymění diplomatické nóty potvrzující jeho schválení v souladu s vnitrostátními legislativními pravidly příslušné Strany.\n2. V případě, že toto Rozhodnutí nevstoupí v platnost podle odstavce 1 tohoto článku, vstoupí v platnost první den měsíce následujícího po doručení pozdější diplomatické nóty potvrzující jeho schválení v souladu s vnitrostátními legislativními pravidly příslušné Strany.\nDáno v Praze dne 14. prosince 2000 ve dvou původních vyhotoveních, každé v jazyce anglickém, přičemž obě znění mají stejnou platnost."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Straně",
+      "source_provision": "Článek 1"
+    }
+  ]
+}

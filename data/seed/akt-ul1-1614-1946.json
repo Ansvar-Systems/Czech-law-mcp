@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1614/1946",
+  "type": "statute",
+  "title": "1614/1946 Ú. l. I, Vyhláška ministerstva sociální péče o úpravě pojistného pro Léčebný fond veřejných zaměstnanců.",
+  "title_en": "",
+  "short_name": "1614/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-08-10",
+  "in_force_date": "1946-09-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1614",
+  "description": "Vyhláška ministerstva sociální péče o úpravě pojistného pro Léčebný fond veřejných zaměstnanců.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pojistné u Léčebného fondu veřejných zaměstnanců se stanoví od 1. září 1946 na 3% ze stálých požitků služebních, odpočivných nebo zaopatřovacích, nejvýše však na 150 Kčs měsíčně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Z pojistného hradí zaměstnavatel dvě třetiny, zaměstnanec (pojištěnec) jednu třetinu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pojistné, připadající na zaměstnance se zaokrouhluje na celé koruny, a to tak, že částky do 50 h se nepočítají a částky přes 50 h se počítají celou korunou."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Toto opatření nabývá účinnosti dnem 1. září 1946 a platí v zemi České a Moravskoslezské. Zároveň se zrušuje použivatelnost vyhlášky ministerstva hospodářství a práce ze dne 4. prosince 1943 (Ú. l. č. 288/1943, běž. č. 868)."
+    }
+  ],
+  "definitions": []
+}

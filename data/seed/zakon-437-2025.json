@@ -1,0 +1,68 @@
+{
+  "id": "cz:437/2025",
+  "type": "statute",
+  "title": "437/2025 Sb., Vyhláška o registru výpustí ze zdrojů znečištění do vod povrchových",
+  "title_en": "",
+  "short_name": "437/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-10-31",
+  "in_force_date": "2025-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/437",
+  "description": "Vyhláška o registru výpustí ze zdrojů znečištění do vod povrchových",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) rozsah a způsob vedení registru výpustí,\nb) rozsah a způsob stanovení území v blízkosti provozů s integrovaným povolením k vypouštění odpadních vod do vod povrchových,\nc) rozsah údajů a způsob jejich zjišťování, předávání a vkládání do registru výpustí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) identifikací výpustí činnost prováděná v terénu za účelem zjišťování údajů o polohovém určení výpustí a dalších informací o nich,\nb) polohovým určením výpusti souřadnice bodu, které určují polohu evidovaného prvku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob vedení registru výpustí",
+      "content": "Údaje evidované podle této vyhlášky se předávají a vkládají do registru výpustí ve struktuře, která umožňuje sdílení dat prostřednictvím stanoveného referenčního, sdíleného a bezpečného rozhraní1), a to způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozsah a způsob stanovení území v blízkosti provozů s integrovaným povolením k vypouštění odpadních vod do vod povrchových",
+      "content": "(1) Územím v blízkosti provozů s integrovaným povolením k vypouštění odpadních vod do vod povrchových je úsek vodního toku nacházející se ve vzdálenosti jednoho říčního kilometru proti proudu a pěti říčních kilometrů po proudu od místa výpusti odpadních vod z provozů s integrovaným povolením2) k vypouštění odpadních vod do vod povrchových.\n(2) Za území v blízkosti provozů s integrovaným povolením k vypouštění odpadních vod do vod povrchových se považují také úseky přítoků do vodního toku v území vymezeném podle odstavce 1 ve vzdálenosti jednoho říčního kilometru od soutoku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Rozsah a způsob předávání a vkládání údajů do registru výpustí",
+      "content": "(1) Do registru výpustí jsou předávány a vkládány údaje o výpustech, které jsou stavbami, kterými jsou nebo mohou být do vod povrchových vypouštěny zejména odpadní vody, důlní vody, čerpané znečištěné podzemní vody nebo vody, případně závadné látky, odtékající z uceleného provozního území, kde je nakládáno se závadnými látkami, nebo vyústění dešťové kanalizace. Do registru výpustí nejsou předávány a vkládány údaje o výpustech, které jsou potrubím s vnitřním průměrem menším než 100 mm.\n(2) V případě výpustí podle § 19a odst. 3 písm. b) vodního zákona se do registru výpustí vkládají také údaje o výpustech nacházejících se v zakrytých úsecích vodních toků vedených v uzavřeném profilu a v úsecích vodních toků přechodně tekoucích přirozenými dutinami pod zemským povrchem.\n(3) Rozsah údajů vkládaných do registru výpustí a subjekty, které tyto údaje do registru výpustí vkládají, jsou stanoveny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob a rozsah zjišťování údajů",
+      "content": "(1) Souřadnice se určují v referenčním souřadnicovém systému Jednotné trigonometrické sítě katastrální (S-JTSK).\n(2) V úsecích vodních toků tvořících státní hranici se zjišťují pouze údaje o výpustech nacházejících se na území České republiky."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. listopadu 2025.\nPříloha\nRozsah údajů předávaných a vkládaných do registru výpustí\nÚdajÚdaj do jednotlivých částí (etap) registru výpustí předává/vkládáPoznámka\n§ 19a odst.3 písm. a)§ 19a odst.3 písm. b)§ 19a odst.3 písm. c)§ 19a odst.3 písm. d)\n1.Jedinečný identifikátor výpusti přidělený v registru výpustíMŽPMŽPMŽPMŽP\n2.Identifikační číslo místa vypouštění vod, přidělené příslušným správcem povodí pro potřeby vodohospodářské bilanceMŽP---\n3.Druh výpusti (jednotná, splašková nebo dešťová kanalizace / jiná výpusť)VPÚ/IPPCVPÚ/IPPCVPÚVPÚ\n4.Název místa vypouštění vodMŽPSPSPVPÚUvést, pokud je k dispozici.\n5.Popis výpusti (charakter výpusti, případně materiál, tvar, rozměr)MŽPSPSPVPÚ\n6.Název subjektu – vlastníkMŽPVPÚ/IPPCVPÚVPÚ\n7.IČO subjektu vlastníka, pokud bylo udělenoMŽPVPÚ/IPPCVPÚVPÚ\n8.Název a IČO subjektu provozovatele, pokud bylo uděleno – provozovatelMŽP---Pouze v případě výpustí podle § 19a odst. 3 písm. a) vodního zákona.\n9.Souřadnice X místa vypouštění vod v souřadnicovém systému jednotné trigonometrické sítě katastrální (S-JTSK)MŽPSPSPVPÚV případě zjištění nesouladu s polohou výpusti v terénu ze strany VPÚ nebo SP je informováno MŽP.\n10.Souřadnice Y místa vypouštění vod v souřadnicovém systému jednotné trigonometrické sítě katastrální (S-JTSK)MŽPSPSPVPÚV případě zjištění nesouladu s polohou výpusti v terénu ze strany VPÚ nebo SP je informováno MŽP.\n11.Číslo hydrologického pořadí místa vypouštění vod (identifikace vodního toku podle příslušností k povodím)MŽPMŽPMŽPMŽP\n12.Identifikační číslo vodního toku podle Centrální evidence vodních liniíMŽPSPSPVPÚ\n13.Název vodního toku dle Centrální evidence vodních liniíMŽPSPSPVPÚ\n14.Břeh místa vypouštění vodMŽPSPSPVPÚ\n15.Kód katastrálního území místa vypouštění vodMŽPMŽPMŽPMŽP\n16.Název katastrálního území místa vypouštění vodMŽPMŽPMŽPMŽP\n17.Název úřadu, který vydal rozhodnutí o povolení k nakládání s vodamiMŽPVPÚ/IPPCVPÚVPÚ\n18.Číslo jednací rozhodnutí o povolení k nakládání s vodamiMŽPVPÚ/IPPCVPÚVPÚ\n19.Povolené množství vypouštěných vod z platného rozhodnutí o povolení k nakládání s vodamiMŽP---Pouze v případě výpustí podle § 19a odst. 3 písm. a) vodního zákona.\n20.Druh vypouštěných vodMŽP---Pouze v případě výpustí podle § 19a odst. 3 písm. a) vodního zákona.\n21.Výpust s přímou vazbou na zařízení IPPC [Ano/Ne]IPPCIPPC--\n22.Zvlášť nebezpečné závadné látky, nebezpečné závadné látky nebo prioritní nebezpečné látky ve vypouštěné vodě podle platného rozhodnutí o povolení k nakládání s vodami [Ano/Ne]VPÚ/IPPCVPÚ/IPPCVPÚVPÚ\n23.Seznam zvlášť nebezpečných závadných látek, nebezpečných závadných látek nebo prioritních nebezpečných látek ve vypouštěné vodě podle platného rozhodnutí o povolení k nakládání s vodamiVPÚ/IPPCVPÚ/IPPCVPÚVPÚ\n24.Fotografie výpustiMŽPSPSPVPÚJen pro výpusti, u kterých je pořízení fotografie technicky možné.\nVysvětlivky:\nMŽP - Ministerstvo životního prostředí\nSP - správce povodí\nVPÚ - vodoprávní úřad\nIPPC - úřad vydávající povolení podle zákona o integrované prevenci\n1) Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých zákonů, ve znění pozdějších předpisů.\n2) Zákon č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "identifikací výpustí",
+      "definition": "činnost prováděná v terénu za účelem zjišťování údajů o polohovém určení výpustí a dalších informací o nich",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "polohovým určením výpusti souřadnice bodu",
+      "definition": "které určují polohu evidovaného prvku.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

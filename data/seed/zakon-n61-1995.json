@@ -1,0 +1,33 @@
+{
+  "id": "cz:n61/1995",
+  "type": "statute",
+  "title": "n61/1995 Sb., Redakční sdělení o opravě chyb v zákonu č. 160/1995 Sb., ve vyhlášce č. 251/1995 Sb. a ve vyhlášce č. 268/1995 Sb.",
+  "title_en": "",
+  "short_name": "n61/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-12-15",
+  "in_force_date": "1995-12-15",
+  "url": "https://www.e-sbirka.cz/sb/1995/n61",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 160/1995 Sb., ve vyhlášce č. 251/1995 Sb. a ve vyhlášce č. 268/1995 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v zákonu č. 160/1995 Sb., kterým se mění a doplňují některé zákony v souvislosti s přijetím zákona o důchodovém pojištění\nV čl. I bodu 6 v § 145e chybějící odstavec 5 zní:\n„(5) Denní vyměřovací základ zjištěný při vzniku pracovní neschopnosti platí po celou dobu jejího trvání, a to i tehdy, přechází-li tato neschopnost do následujícího kalendářního roku.“,\nv čl. II bodu 50 má místo „§ 8 odst. 2 větě třetí,“ správně být „§ 8a odst. 2 větě třetí,“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Ministerstva kultury č. 251/1995 Sb., kterou se mění vyhláška Ministerstva kultury (České republiky č. 476/1992 Sb., o prohlášení území historických jader vybraných měst za památkové zóny\nV čl. I bodu 1 v popisu hranic městské památkové zóny v Jablonném v Podještědí má místo „... přetíná p. č. 260/2, 1363 a Panenský potok p. č. 1468, sleduje jej k jihu, na rohu p. č. 1049/4 přechází potok p. č. 1363, vede přes p. č. 614, 215/1, 214/3 a dále podél p. č. 495, 213/1, 256, 257, 216/6, přes p. č. 216/2, 216/3, 359/2, ...“ správně být „... přetíná p. č. 260/2 a Panensky potok p. č. 1468, sleduje jej k jihu, na rohu p. č. 1049/4 přechází potok p. č. 1363, vede přes p. č. 614, 215/1, 214/3 a dále podél p. č. 495, 213/1, 356, 357, 216/6, přes p. č. 216/2, 216/3, 359/2,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. ve vyhlášce (České národní banky č. 268/1995 Sb., o vydání bankovek po 500 Kč vzoru 1995\nV § 4 odst. 2 má v návětí místo „se liší od lícní strany bankovky vzoru 1993“ správně byt „se liší od rubové strany bankovky vzoru 1993“."
+    }
+  ],
+  "definitions": []
+}

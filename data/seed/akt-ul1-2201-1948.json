@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2201/1948",
+  "type": "statute",
+  "title": "2201/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných energetických zařízení do Středočeských elektráren, národního podniku.",
+  "title_en": "",
+  "short_name": "2201/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-25",
+  "in_force_date": "1948-09-09",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2201",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných energetických zařízení do Středočeských elektráren, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. obci Doksany, spr. okr. Roudnice nad Labem,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. společnosti Ringhoffer, veřejná obchodní společnost, Velké Popovice, spr. okr. Jílové."
+    }
+  ],
+  "definitions": []
+}

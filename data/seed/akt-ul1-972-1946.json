@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:972/1946",
+  "type": "statute",
+  "title": "972/1946 Ú. l. I, Vyhláška č. 7/1946 Svazu pro hospodaření obilím o zániku platnosti některých odběrních listů z 10. a dřívějších přídělových období.",
+  "title_en": "",
+  "short_name": "972/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-06",
+  "in_force_date": "1946-04-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/972",
+  "description": "Vyhláška č. 7/1946 Svazu pro hospodaření obilím o zániku platnosti některých odběrních listů z 10. a dřívějších přídělových období.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Odběrní listy na pšeničnou krupici (typ 550), pšeničnou mouku hrubou (typ 550), pšeničnou mouku hladkou (typ 1050) a žitnou mouku (typ 1370) z 10. a dřívějších přídělových období, pokud na ně nebylo dosud zboží vydáno, pozbývají platnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Velkorozdělovači ohlásí Svazu do 15. dubna 1946 celkové množství jednotlivých druhů zboží, které na propadlé odběrní listy nebylo dodáno."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Porušení ustanovení této vyhlášky se stíhá podle platných předpisů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:309/1946",
+  "type": "statute",
+  "title": "309/1946 Ú. l. I, Vyhláška Národní banky Československé o způsobu vyrovnávání platů mezi Československou republikou a Královstvím Švédským.",
+  "title_en": "",
+  "short_name": "309/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-29",
+  "in_force_date": "1946-11-17",
+  "url": "https://www.e-sbirka.cz/ul1/1946/309",
+  "description": "Vyhláška Národní banky Československé o způsobu vyrovnávání platů mezi Československou republikou a Královstvím Švédským.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Převody platu určených k vyrovnávání vzájemných závazků mezi Československem a Švédskem budou prováděny prostřednictvím Národní banky Československé a Sveriges Riksbank."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Platy za československé zboží vyvezené do Švédská, jakož i ostatní platy ze Švédska do Československa budou skládány švédskými dlužníky ve švédských korunách ve prospěch účtu Národní banky Československé vedeného ve švédských korunách u Sveriges Riksbank, Stockholm."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Dlužníci v Československu budou konati platy za dodávky švédského zboží, jakož i jiné platy prostřednictvím účtu Národní banky Československé uvedeného v čl. 2."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Pro platy podle této vyhlášky platí obecné devisové předpisy."
+    },
+    {
+      "provision_ref": "Čl. 5.",
+      "section": "5",
+      "title": "Čl. 5.",
+      "content": "Tato úprava platebního styku platí počínajíc dnem 17. listopadu 1945."
+    }
+  ],
+  "definitions": []
+}

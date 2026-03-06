@@ -1,0 +1,33 @@
+{
+  "id": "cz:122/1945",
+  "type": "statute",
+  "title": "122/1945 Sb., Dekret presidenta republiky o zrušení německé university v Praze",
+  "title_en": "",
+  "short_name": "122/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-11-15",
+  "in_force_date": "1939-11-17",
+  "url": "https://www.e-sbirka.cz/sb/1945/122",
+  "description": "Dekret presidenta republiky o zrušení německé university v Praze",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Německá universita v Praze, která zanikla 5. května 1945, prvním dnem povstání pražského lidu, se navždy zrušuje jako ústav nepřátelský českému národu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vědecké ústavy a jejich zařízení, jakož i veškerý majetek německé university v Praze připadají universitě Karlově."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento dekret nabývá účinnosti dnem 17. listopadu 1939; provede jej ministr školství a osvěty."
+    }
+  ],
+  "definitions": []
+}

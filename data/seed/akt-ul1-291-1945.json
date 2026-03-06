@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:291/1945",
+  "type": "statute",
+  "title": "291/1945 Ú. l. I, Vyhláška čís. 2/1945 Svazu pro chmel, slad a pivo o příspěvkovém řádu pro rok 1945.",
+  "title_en": "",
+  "short_name": "291/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-10-04",
+  "in_force_date": "1945-10-04",
+  "url": "https://www.e-sbirka.cz/ul1/1945/291",
+  "description": "Vyhláška čís. 2/1945 Svazu pro chmel, slad a pivo o příspěvkovém řádu pro rok 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Příspěvkový řád platný pro rok 1944 (vyhláška čís. 25 Svazu pro chmel, slad a pivo ze dne 5. února 1944, běž. č. 84, Ú. l. č. 31/1944) se prodlužuje i na rok 1945."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

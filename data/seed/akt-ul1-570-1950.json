@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:570/1950",
+  "type": "statute",
+  "title": "570/1950 Ú. l. I, Vyhláška státního úřadu plánovacího, kterou se zrušují předpisy o cenových doložkách.",
+  "title_en": "",
+  "short_name": "570/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-10-01",
+  "in_force_date": "1950-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/570",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se zrušují předpisy o cenových doložkách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Veškeré předpisy, jimiž se ukládá povinnost opatřovati účty, nabídky a pod. cenovými doložkami, jejichž znění jest upraveno v § 5 odst. 2 vyhlášky nejvyššího úřadu cenového č. 1832/1946 Ú. l. I, o některých opatřeních k zajištění cen hospodařsky odůvodněných, pozbývají platnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

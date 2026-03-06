@@ -1,0 +1,45 @@
+{
+  "id": "cz:445/2001",
+  "type": "statute",
+  "title": "445/2001 Sb., Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "title_en": "",
+  "short_name": "445/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-12-31",
+  "in_force_date": "2002-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2001/445",
+  "description": "Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Sazby stravného",
+      "content": "(1) Sazby stravného podle § 5 odst. 1 zákona činí\na) 57 Kč až 69 Kč, trvá-li pracovní cesta 5 až 12 hodin,\nb) 87 Kč až 105 Kč, trvá-li pracovní cesta déle než 12 hodin, nejvýše však 18 hodin,\nc) 136 Kč až 163 Kč, trvá-li pracovní cesta déle než 18 hodin.\n(2) Sazba stravného podle § 5 odst. 3 zákona činí 57 Kč."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Sazby základních náhrad za používání silničních motorových vozidel",
+      "content": "Sazba základní náhrady za 1 km jízdy podle § 7 odst. 2 zákona činí\na) 0,90 Kč u jednostopých vozidel a tříkolek,\nb) 3,40 Kč u osobních silničních motorových vozidel."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Průměrné ceny pohonných hmot",
+      "content": "Výše průměrné ceny za 1 litr pohonné hmoty podle § 7 odst. 5 věty druhé zákona činí\na) 25,90 Kč u benzinu automobilového 91 O Speciál,\nb) 25,80 Kč u benzinu automobilového 91 O Normal,\nc) 26,20 Kč u benzinu automobilového 95 O Super,\nd) 29,20 Kč u benzinu automobilového 98 O Super plus,\ne) 22,80 Kč u motorové nafty."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se vyhláška č. 448/2000 Sb., kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2002."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cz:76/2008",
+  "type": "statute",
+  "title": "76/2008 Sb., Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb.",
+  "title_en": "",
+  "short_name": "76/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-02-29",
+  "in_force_date": "2008-03-15",
+  "url": "https://www.e-sbirka.cz/sb/2008/76",
+  "description": "Zákon, kterým se mění zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 137/2006 Sb., o veřejných zakázkách, ve znění zákona č. 110/2007 Sb., se mění takto:\n1. V § 2 odst. 3 písm. a) se slova „v § 12 odst. 4“ nahrazují slovy „v prováděcím právním předpisu podle § 12 odst. 1 pro veřejné zakázky na stavební práce“.\n2. V § 2 odst. 3 písm. b) se slova „v § 12 odst. 3 písm. b)“ nahrazují slovy „v prováděcím právním předpisu podle § 12 odst. 1 pro veřejné zakázky na služby“.\n3. § 12 zní:"
+    },
+    {
+      "provision_ref": "„§ 12",
+      "section": "12",
+      "title": "„§ 12 Veřejná zakázka podle výše předpokládané hodnoty",
+      "content": "(1) Nadlimitní veřejnou zakázkou se rozumí veřejná zakázka, jejíž předpokládaná hodnota podle § 13 bez daně z přidané hodnoty dosáhne nejméně finančního limitu stanoveného prováděcím právním předpisem pro jednotlivé kategorie zadavatelů a druhy veřejných zakázek, případně kategorie dodávek nebo služeb. Tento prováděcí právní předpis stanoví rovněž seznam zboží pořizovaného Českou republikou – Ministerstvem obrany, pro které platí zvláštní finanční limit, a výši tohoto limitu.\n(2) Podlimitní veřejnou zakázkou se rozumí veřejná zakázka, jejíž předpokládaná hodnota činí v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby nejméně 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce nejméně 6 000 000 Kč bez daně z přidané hodnoty a nedosáhne finančního limitu podle odstavce 1.\n(3) Veřejnou zakázkou malého rozsahu se rozumí veřejná zakázka, jejíž předpokládaná hodnota nedosáhne v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce 6 000 000 Kč bez daně z přidané hodnoty.“.\nPoznámka pod čarou č. 1 se zrušuje.\n4. V § 18 odst. 1 písm. d) se slova „jde o výzkum a vývoj“ nahrazují slovy „jejich předmětem jsou služby ve výzkumu a vývoji“.\n5. V § 26 odst. 5 se číslo „6“ nahrazuje číslem „3“.\n6. V § 63 odst. 7 se slova „, nejde-li o veřejnou zakázku na služby, jejímž převažujícím předmětem je poskytování finančních, poradenských či konzultačních služeb“ zrušují.\n7. V § 101 odst. 7 se číslo „4“ nahrazuje číslem „5“.\n8. V § 102 odst. 1 se slova „v § 12 odst. 3“ nahrazují slovy „prováděcím právním předpisem podle § 12 odst. 1 pro veřejné zakázky na služby“.\n9. V § 102 odst. 2 písm. a) se slova „o) až r)“ nahrazují slovy „p) až r)“.\n10. V § 103 odst. 4 písm. b) se slova „s § 27 odst. 6“ nahrazují slovy „s § 23 odst. 6“.\n11. V § 111 odst. 2 se číslo „3“ nahazuje číslem „2“.\n12. V § 143 odst. 3 písm. d) se slova „c) až i)“ nahrazují slovy „c) až h)“.\n13. V § 147 odst. 5 větě druhé se slova „a vyhlášení je odesláno faxem, činí lhůta podle odstavce 4 rovněž 5 dnů“ nahrazují slovy „, musí být oznámení zadávacího řízení odesláno faxem nebo elektronickými prostředky; v takovém případě činí lhůta podle odstavce 4 rovněž 5 dnů“.\n14. V § 159 odst. 1 se slova „§ 12 odst. 2 písm. a) a b) bodu 2“ nahrazují slovy „§ 12 odst. 1“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Zadávací řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění účinném do dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nadlimitní veřejnou zakázkou",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota podle § 13 bez daně z přidané hodnoty dosáhne nejméně finančního limitu stanoveného prováděcím právním předpisem pro jednotlivé kategorie zadavatelů a druhy veřejných zakázek, případně kategorie dodávek nebo služeb",
+      "source_provision": "„§ 12"
+    },
+    {
+      "term": "Podlimitní veřejnou zakázkou",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota činí v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby nejméně 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce nejméně 6 000 000 Kč bez daně z přidané hodnoty a nedosáhne finančního limitu podle odstavce 1",
+      "source_provision": "„§ 12"
+    },
+    {
+      "term": "Veřejnou zakázkou malého rozsahu",
+      "definition": "veřejná zakázka, jejíž předpokládaná hodnota nedosáhne v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby 2 000 000 Kč bez daně z přidané hodnoty nebo v případě veřejné zakázky na stavební práce 6 000 000 Kč bez daně z přidané hodnoty",
+      "source_provision": "„§ 12"
+    }
+  ]
+}

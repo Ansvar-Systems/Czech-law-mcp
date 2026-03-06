@@ -1,0 +1,21 @@
+{
+  "id": "cz:94/1970",
+  "type": "statute",
+  "title": "94/1970 Sb., Redakční sdělení o opravě tiskové chyby",
+  "title_en": "",
+  "short_name": "94/1970 Sb.",
+  "status": "in_force",
+  "issued_date": "1970-10-15",
+  "in_force_date": "1970-10-15",
+  "url": "https://www.e-sbirka.cz/sb/1970/94",
+  "description": "Redakční sdělení o opravě tiskové chyby",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V oznámení o vydání Směrnic Slovenské správy geodézie a kartografie v částce 21/1970 Sb. na str. 336 v slovenském vydání je tisková chyba. V bodě 1 místo „č. 3-372/1969“ má být správně „č. 3-472/1969“."
+    }
+  ],
+  "definitions": []
+}

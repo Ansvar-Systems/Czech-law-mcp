@@ -1,0 +1,27 @@
+{
+  "id": "cz:469/2021",
+  "type": "statute",
+  "title": "469/2021 Sb., Vyhláška, kterou se mění vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňového volání",
+  "title_en": "",
+  "short_name": "469/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-12-14",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/469",
+  "description": "Vyhláška, kterou se mění vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňového volání",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňového volání, se mění takto:\n1. V názvu vyhlášky se slova „tísňového volání“ nahrazují slovy „tísňové komunikace“.\n2. V § 1 odstavce 1 až 3 znějí:\n„(1) Pro účely výpočtu účelně vynaložených nákladů podle § 33 odst. 4 zákona o elektronických komunikacích se za odpisy majetku považují účetní odpisy technologických zařízení využívaných pro vedení databáze, včetně serverů, nehmotného majetku, zejména licencí a softwaru, nutného k vedení databáze, a za provozní náklady takové provozní náklady, které byly vynaloženy na zřízení, údržbu a provoz těchto zařízení.\n(2) Do výpočtu účelně vynaložených nákladů podle odstavce 1 se zahrnou pouze takové náklady, o nichž vede podnikatel zajišťující připojení centra tísňové komunikace k veřejné pevné komunikační síti účetní záznamy podle zákona o účetnictví.\n(3) Výše měsíční úhrady fakturované centru tísňové komunikace, se určuje podle vzorce\nUi=PPc.OiO.N,\nkde:\nUi je výše měsíční úhrady účelně vynaložených nákladů podle odstavce 1 fakturovaná jednotlivému centru tísňové komunikace,\nP je počet dnů v příslušném kalendářním měsíci, kdy je databáze schopna po dobu celého dne poskytovat osobní a identifikační údaje v souladu s vyhláškou o lokalizaci a identifikaci účastníka tísňové komunikace,\nPc je počet dnů v příslušném kalendářním měsíci celkem,\nOi je počet obyvatel přiřazený k příslušnému tísňovému číslu, kterému se přisuzuje pro jednotlivá tísňová čísla následující hodnota:\npro tísňové číslo 112 počet obyvatel České republiky,\npro tísňové číslo 150 počet obyvatel České republiky,\npro tísňové číslo 155 počet obyvatel příslušného kraje, který je zřizovatelem poskytovatele zdravotnické záchranné služby tohoto kraje,\npro tísňové číslo 156 počet obyvatel obce, která je zřizovatelem příslušné obecní policie,\npro tísňové číslo 158 počet obyvatel České republiky,\nO je součet všech Oi,\nN je celková výše měsíčních nákladů podle odstavce 1.“.\nPoznámky pod čarou č. 1 až 3 se zrušují.\n3. V § 2 odst. 1 se za slovo „podnikateli“ vkládají slova „podle § 1 odst. 2“ a slova „o předávání údajů pro účely tísňových volání3)“ se nahrazují slovy „o lokalizaci a identifikaci účastníka tísňové komunikace“.\n4. V § 2 se odstavec 2 zrušuje.\nDosavadní odstavce 3 až 8 se označují jako odstavce 2 až 7.\n5. V § 2 odst. 2 se za slovo „podnikatel“ vkládají slova „podle § 1 odst. 2“ a slova „pracoviště pro příjem volání na čísla tísňového volání“ se nahrazují slovy „centrum tísňové komunikace“.\n6. V § 2 odst. 4 písm. c) se slova „v souvislosti se zřízením a vedením databáze“ nahrazují slovy „podle § 1 odst. 1“.\n7. V § 2 odst. 4 písm. f) se za slovo „příslušném“ vkládá slovo „kalendářním“ a slova „číslo tísňového volání“ se nahrazují slovy „tísňové číslo“.\n8. V § 2 odst. 5 se slova „pracoviště pro příjem volání na čísla tísňového volání“ nahrazují slovy „centrum tísňové komunikace“, za slovo „podnikatel“ se vkládají slova „podle § 1 odst. 2“ a slova „odstavci 5“ se nahrazují slovy „odstavci 4“.\n9. V § 2 odst. 6 se za slovo „podnikatel“ vkládají slova „podle § 1 odst. 2“, slova „5 nebo 6“ se nahrazují slovy „4 nebo 5“ a slova „pracoviště pro příjem volání na čísla tísňového volání“ se nahrazují slovy „centrum tísňové komunikace“.\n10. V § 2 odst. 7 se slova „pracoviště pro příjem volání na čísla tísňového volání“ nahrazují slovy „centrum tísňové komunikace“, za slovo „podnikatel“ se vkládají slova „podle § 1 odst. 2“, slova „5 nebo 6“ se nahrazují slovy „4 nebo 5“ a slova „odstavci 7“ se nahrazují slovy „odstavci 6“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2022."
+    }
+  ],
+  "definitions": []
+}

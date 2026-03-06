@@ -1,0 +1,44 @@
+{
+  "id": "cz:ul0:85/1954",
+  "type": "statute",
+  "title": "85/1954 Ú. l., Vyhláška ministerstva spojů, kterou se mění a doplňuje rozhlasový řád.",
+  "title_en": "",
+  "short_name": "85/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-04-29",
+  "in_force_date": "1954-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1954/85",
+  "description": "Vyhláška ministerstva spojů, kterou se mění a doplňuje rozhlasový řád.",
+  "provisions": [
+    {
+      "provision_ref": "ČI. I.",
+      "section": "I",
+      "title": "ČI. I.",
+      "content": "Vyhláška č. 357/1951 Ú. l. I, kterou se vydává rozhlasový řád, se mění a doplňuje takto:\n1. Ustanovení § 1 zní:\n„(1) Rozhlasovou přijímací stanicí (dále jen „přijímač”) se rozumí jakékoli zařízení sloužící k zachycení a reprodukci rozhlasového vysílání, určeného přímo širokému okruhu posluchačů, s výjimkou reproduktorů rozhlasu po drátě.\n(2) V případech uvedených v § 3 odst. 2 a v § 4 odst. 1 poslední větě se považují za přijímače též reprodukční zařízení (reproduktory, sluchátka a pod.), připojená na přijímač.”\n2. Ustanovení § 7 odst. 1 zní:\n„(1) Antény přijímačů a přípojná vedení reprodukčních zařízení musí být od jiných telekomunikačních zařízení vzdáleny a odděleny tak, aby nepůsobily na tato telekomunikační zařízení rušivě. V podrobnostech platí předpisy vydané Úřadem pro normalisaci (Elektrotechnické předpisy Úřadu pro normalisaci, po případě Předpisy Elektrotechnického svazu československého).”\n3. Ustanovení § 18 zní:"
+    },
+    {
+      "provision_ref": "„§ 18.",
+      "section": "18",
+      "title": "„§ 18.",
+      "content": "(1) Tato vyhláška platí obdobně pro televisní přijímací stanice.\n(2) Televisní přijímací stanicí se rozumí jakékoli zařízení sloužící k zachycení a reprodukci televisního vysílání, určeného přímo širokému okruhu účastníků.\n(3) Ke zřízení a provozování každé televisní přijímací stanice je třeba — s výjimkou uvedenou v § 4 odst. 3 — samostatného povolení.”"
+    },
+    {
+      "provision_ref": "ČI. II.",
+      "section": "II",
+      "title": "ČI. II.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 1954."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rozhlasovou přijímací stanicí (dále jen „přijímač”",
+      "definition": "jakékoli zařízení sloužící k zachycení a reprodukci rozhlasového vysílání, určeného přímo širokému okruhu posluchačů, s výjimkou reproduktorů rozhlasu po drátě",
+      "source_provision": "ČI. I."
+    },
+    {
+      "term": "Televisní přijímací stanicí",
+      "definition": "jakékoli zařízení sloužící k zachycení a reprodukci televisního vysílání, určeného přímo širokému okruhu účastníků",
+      "source_provision": "„§ 18."
+    }
+  ]
+}

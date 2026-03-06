@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1824/1946",
+  "type": "statute",
+  "title": "1824/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách kuchyňské soli pro živnostenské spotřebitele a velkospotřebitele.",
+  "title_en": "",
+  "short_name": "1824/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-10-04",
+  "in_force_date": "1946-10-04",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1824",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách kuchyňské soli pro živnostenské spotřebitele a velkospotřebitele.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Při prodeji kuchyňské soli živnostenským spotřebitelům a velkospotřebitelům smějí býti požadovány a účtovány nejvýše tyto ceny:\na) při dodávkách na vagony v množství nejméně 10.000 kg najednou platné monopolní prodejní ceny.\nb) při dodávkách na pytle v množství nejméně 50 kg najednou platné maloobchodní ceny.\nc) při prodeji v drobném v množství pod 50 kg platné spotřebitelské ceny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

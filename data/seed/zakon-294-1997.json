@@ -1,0 +1,57 @@
+{
+  "id": "cz:294/1997",
+  "type": "statute",
+  "title": "294/1997 Sb., Vyhláška Ministerstva zdravotnictví o mikrobiologických požadavcích na potraviny, způsobu jejich kontroly a hodnocení",
+  "title_en": "",
+  "short_name": "294/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-12-12",
+  "in_force_date": "1999-05-20",
+  "url": "https://www.e-sbirka.cz/sb/1997/294",
+  "description": "Vyhláška Ministerstva zdravotnictví o mikrobiologických požadavcích na potraviny, způsobu jejich kontroly a hodnocení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "(1) Tato vyhláška stanoví mikrobiologické požadavky na potraviny určené k uvedení do oběhu, způsob jejich kontroly a způsob hodnocení potravin z mikrobiologického hlediska.\n(2) Mikrobiologické požadavky na balenou pitnou vodu, balenou stolní vodu, balenou kojeneckou vodu a balenou přírodní minerální vodu stanoví zvláštní předpis.1)\nMikrobiologické požadavky a mikrobiologické vyšetřování"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Potraviny uvedené do oběhu musí vyhovovat mikrobiologickým požadavkům stanoveným v částech 1 a 2 přílohy této vyhlášky.\n(2) Pro kontrolu a hodnocení, zda potraviny vyhovují mikrobiologickým požadavkům, se v částech 1 a 2 přílohy stanoví počet vzorků, skupin a druhů mikroorganismů, jejich tolerované a mezní hodnoty. Nižší počet vzorků, než je uveden v části 2 přílohy, může být odebírán jen za podmínek stanovených v části 1 přílohy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Vzorky se odebírají náhodným výběrem, kterým se pro účely této vyhlášky rozumí výběr, při kterém libovolný vzorek kontrolované šarže má stejnou pravděpodobnost, že bude vybrán. V epidemiologicky závažných případech a při haváriích se vzorky odebírají výběrem záměrným, kterým se pro účely této vyhlášky rozumí výběr, do něhož jsou zahrnuty vzorky s určitým záměrem, a pravděpodobnost, že libovolný vzorek kontrolované šarže bude vybrán, není stejná.\n(2) Pokud se pro způsob výběru vzorků potravin k mikrobiologickému zkoušení, způsob jejich odběru, hmotnost nebo objem, způsob jejich přepravy do laboratoří a metody mikrobiologického zkoušení použijí jiné metody, než které stanoví české technické normy, musí být při jejich použití doloženo, že jsou co do záchytnosti, přesnosti a reprodukovatelnosti výsledků ekvivalentní metodě podle české technické normy.2)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Hodnocení potravin z mikrobiologického hlediska",
+      "content": "(1) Potraviny se z mikrobiologického hlediska hodnotí jako nevhodné k danému účelu, se sníženou užitnou hodnotou nebo omezenou trvanlivostí, jestliže byly překročeny tolerované hodnoty stanovené pro jednotlivé druhy, skupiny nebo podskupiny potravin v části 2 přílohy, avšak nebyly překročeny nejvyšší mezní hodnoty stanovené v části 1 tabulce č. 1 část A. a B. a v tabulce č. 2.\n(2) Potraviny se z mikrobiologického hlediska hodnotí jako zdravotně závadné, jestliže:\na) byly překročeny nejvyšší mezní hodnoty počtu mikroorganismů stanovené v části 1 tabulce č. 1 část A. a B. přílohy,\nb) nejvyšší mezní hodnoty pro bakteriální toxiny a mykotoxiny stanovené v části 1 tabulce č. 2 přílohy,\nc) byly zjištěny mikroorganismy a mikrobiální metabolity působící onemocnění z potravin jiné než stanovené v části 1 v tabulkách č. 1 a 2 přílohy, a to v množství, které by mohlo ohrozit zdraví lidí,\nd) nebyly splněny podmínky obchodní sterility nebo\ne) byly zjištěny nežádoucí změny způsobené mikrobiální činností, popřípadě nežádoucí růst mikroorganismů.\n(3) Obchodní sterilitou podle odstavce 2 písm. d) se pro účely této vyhlášky rozumí nepřítomnost životaschopných mikroorganismů, které by se mohly za podmínek oběhu množit (část 1 bod 8 přílohy) a nepřítomnost mikroorganismů vyvolávajících onemocnění z potravin.\nZávěrečná ustanovení"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zrušuje se výnos Ministerstva zdravotnictví a sociálních věcí České socialistické republiky - hlavního hygienika ČSR, uveřejněný pod č. 75/1990 ve sbírce Hygienické předpisy, o mikrobiologických požadavcích na poživatiny a jejich obaly, a oznámený v částce 71/1991 Sb."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 294/1997 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vzorky se odebírají náhodným výběrem, kterým",
+      "definition": "výběr, při kterém libovolný vzorek kontrolované šarže má stejnou pravděpodobnost, že bude vybrán",
+      "source_provision": "§ 3"
+    }
+  ]
+}

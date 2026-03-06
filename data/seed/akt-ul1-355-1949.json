@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:355/1949",
+  "type": "statute",
+  "title": "355/1949 Ú. l. I, Vyhláška ministerstva financí o zrušení delegace berních správ k vyměřování zvláštní daně výdělkové.",
+  "title_en": "",
+  "short_name": "355/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-02-19",
+  "in_force_date": "1949-03-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/355",
+  "description": "Vyhláška ministerstva financí o zrušení delegace berních správ k vyměřování zvláštní daně výdělkové.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ustanovení § 1 a § 2, odst. 1, věty první a druhé vyhlášky ministerstva financí ze dne 12. prosince 1945, č. 634 Ú. l. I, o delegaci berních správ k vyměřování zvláštní daně výdělkové v zemích České a Moravskoslezské se zrušují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem, kterým se okresní národní výbory ujmou výkonu finanční správy."
+    }
+  ],
+  "definitions": []
+}

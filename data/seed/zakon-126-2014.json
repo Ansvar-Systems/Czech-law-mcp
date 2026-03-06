@@ -1,0 +1,33 @@
+{
+  "id": "cz:126/2014",
+  "type": "statute",
+  "title": "126/2014 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 507/2004 Sb., kterým se stanoví rozsah a způsob poskytování údajů do informačního systému o služebním příjmu, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "126/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-07-09",
+  "in_force_date": "2014-07-24",
+  "url": "https://www.e-sbirka.cz/sb/2014/126",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 507/2004 Sb., kterým se stanoví rozsah a způsob poskytování údajů do informačního systému o služebním příjmu, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Přílohy č. 1 až 3 nařízení vlády č. 507/2004 Sb., kterým se stanoví rozsah a způsob poskytování údajů do informačního systému o služebním příjmu, znějí:\n„Příloha č. 1 k nařízení vlády č. 507/2004 Sb.\nDatová struktura údajů o příslušníkovi\nČísloNázev ukazateleIdentifikátor\na) identifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo osoby (IČO)AA0017\n3.Fyzická osoba - kódAA0126\n4.Rok - ročník (rok narození)AA0231\n5.Pohlaví osoby - kódAA0211\n6.Stupeň nejvyššího dosaženého vzdělání - kódAA0223\n7.Stupeň invalidityAA0085\n8.Kód státuAA0033\n9.Místo obvyklého výkonu službyAA0690\n10.Kód zařízení bez vlastního IČOAA0113\nb) údaje o právním vztahu\n11.Kód postavení v zaměstnáníAA0091\n12.Zaměstnání příslušníka - kódAA0013\n13.Druh právního vztahu - kódAA0130\n14.Základní doba služby v týdnuAA0131\n15.Doba trvání služebního poměruAA0225\nc) údaje o době služby\n16.Evidenční dny ve služběAA0218\n17.Počet hodin nepřítomnosti ve služběAA0744\n18.Vykonaná doba služby včetně služby přesčasAA0132\n19.Doba služby přesčasAA0133\n20.Neodsloužená doba s poskytnutím služebního příjmu celkemAA0134\n21.Neodsloužená doba s poskytnutím služebního příjmu - dovolenáAA0135\n22.Koeficient průměrného evidenčního stavu příslušníka přepočtenýAA0136\n23.Kód evidenčního stavu příslušníka k poslednímu dni sledovaného obdobíAA0137\n24.Datum vynětí z evidenčního stavuAA0568\nd) údaje o neschopnosti ke službě a karanténě\n25.Počet hodin neschopnosti ke službě a karantényAA0745\n26.Počet hodin neschopnosti ke službě bez nemocenskéhoAA1587\ne) údaje o přiznaných složkách služebního příjmu\n27.Tarifní třída příslušníkaAA0127\n28.Tarifní stupeň příslušníkaAA0128\n29.Druh základního tarifu - kódAA0129\n30.Stupeň řízeníAA1591\n31.Skupina prací podle míry ztěžujících vlivů pracovních podmínekAA1594\n32.Základní tarif přiznanýAA0138\n33.Příplatek osobní přiznanýAA0139\n34.Příplatek za vedení přiznanýAA0140\n35.Příplatky zvláštní přiznanéAA0142\n36.Příplatek za službu ve ztíženém pracovním prostředí přiznanýAA1595\n37.Příplatky ostatní přiznanéAA0749\nf) údaje o vyplacených prostředcích\n38.Celkový služební příjem zúčtovaný k výplatěAA0144\n39.Základní tarif zúčtovaný k výplatěAA0145\n40.Služební příjem za službu přesčas zúčtovaný k výplatěAA0147\n41.Služební příjem za dobu, kdy nelze vykonávat službuAA0148\n42.Doplatek do minimální mzdy zúčtovaný k výplatěAA0162\n43.Příplatky celkem zúčtované k výplatěAA0150\n44.Příplatek za vedení zúčtovaný k výplatěAA0151\n45.Příplatek osobní zúčtovaný k výplatěAA0153\n46.Příplatky zvláštní zúčtované k výplatěAA0154\n47.Příplatky ostatní zúčtované k výplatěAA0156\n48.Odměny zúčtované k výplatěAA0157\n49.Ostatní složky služebního příjmu jinde nespecifikované zúčtované k výplatěAA0163\n50.Odměna za služební pohotovost celkem zúčtovaná k výplatě celkemAA0161\n51.Odměna za služební pohotovost na služebně zúčtovaná k výplatěAA0237\n52.Odměna za služební pohotovost mimo služebnu zúčtovaná k výplatěAA0238\n53.Služební příjem ve zvláštních případech zúčtovaný k výplatěAA0158\n54.Služební příjem při zastupování na jiném služebním místěAA0152\n55.Služební příjem při zařazení do činné zálohy zúčtovaný k výplatěAA0710\n56.Služební příjem při zařazení do zálohy pro studující zúčtovaný k výplatěAA0711\n57.Služební příjem při zařazení do zálohy zvláštní zúčtovaný k výplatěAA0712\n58.Služební příjem při neschopnosti ke službě zúčtovaný k výplatěAA0713\n59.Služební příjem při zproštění výkonu služby zúčtovaný k výplatěAA0714\n60.Služební příjem za dobu dovolené zúčtovaný k výplatěAA0159\n61.Služební příjem za dobu služebního volna zúčtovaný k výplatěAA0715\n62.Průměrný hodinový výdělek pro pracovně právní účelyAA0165\nPříloha č. 2 k nařízení vlády č. 507/2004 Sb.\nDatová struktura údajů o bezpečnostním sboru\nČísloNázev ukazateleIdentifikátor\na) identifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo osoby (IČO)AA0017\n3.Kód zařízení bez vlastního IČOAA0113\n4.Právní forma ekonomického subjektuAA0019\n5.NUTS okresuAA0179\n6.Kolektivní smlouvaAA0676\n7.Datum (sběru dat)AA0110\nb) údaje stanovené\n8.Počet příslušníků rozpočtovanýAA0116\n9.Objem prostředků na služební příjmy příslušníkůAA0123\nc) údaje o počtu příslušníků\n10.Průměrný evidenční počet příslušníků přepočtenýAA0114\n11.Evidenční počet příslušníků - fyzických osobAA0115\nd) údaje o vyplacených prostředcích\n12.Služební příjmy příslušníků včetně mimorozpočtových zdrojůAA0118\n13.Mimorozpočtové zdroje na platby celkemAA0119\nPříloha č. 3 k nařízení vlády č. 507/2004 Sb.\nDatová struktura údajů o bezpečnostním sboru\nČísloNázev ukazateleIdentifikátor*)\na) údaj stanovený\n1.Objem prostředků na služební příjmy příslušníkůAA0123\nb) údaj o počtu zaměstnanců\n2.Průměrný evidenční počet příslušníků přepočtenýAA0114\nc) údaje o vyplacených prostředcích\n3.Služební příjmy příslušníků včetně mimorozpočtových zdrojůAA0118\n4.Mimorozpočtové zdroje celkemAA0119\nVysvětlivka:\n*) Identifikátorem se rozumí popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "*) Identifikátorem",
+      "definition": "popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

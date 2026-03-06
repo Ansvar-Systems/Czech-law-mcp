@@ -1,0 +1,27 @@
+{
+  "id": "cz:421/2008",
+  "type": "statute",
+  "title": "421/2008 Sb., Vyhláška, kterou se stanoví nákladové indexy věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2009",
+  "title_en": "",
+  "short_name": "421/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-12-08",
+  "in_force_date": "2009-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/421",
+  "description": "Vyhláška, kterou se stanoví nákladové indexy věkových skupin pojištěnců veřejného zdravotního pojištění pro rok 2009",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Nákladové indexy pro přerozdělování pojistného na všeobecné zdravotní pojištění pro rok 2009 jsou stanoveny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2009.\nPříloha k vyhlášce č. 421/2008 Sb.\nNákladové indexy pro přerozdělování pojistného na všeobecné zdravotní pojištění pro rok 2009\nVěková skupina\npojištěnců Nákladové indexy podle pohlaví\npojištěnců\nod do muži ženy\n0 5 1,5571 1,3786\n5 10 0,9218 0,8114\n10 15 0,8769 0,9025\n15 20 0,7671 1,0000\n20 25 0,6728 1,0255\n25 30 0,7671 1,3902\n30 35 0,8360 1,4636\n35 40 0,9338 1,4092\n40 45 1,1294 1,4963\n45 50 1,4096 1,7988\n50 55 1,9339 2,2165\n55 60 2,6490 2,5023\n60 65 3,3648 2,9802\n65 70 4,0844 3,5299\n70 75 4,9315 4,1753\n75 80 5,4344 4,6763\n80 85 5,4993 4,8753\n85 a více 5,4074 5,2152"
+    }
+  ],
+  "definitions": []
+}

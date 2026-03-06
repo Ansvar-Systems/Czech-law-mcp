@@ -1,0 +1,110 @@
+{
+  "id": "cz:267/2020",
+  "type": "statute",
+  "title": "267/2020 Sb., Vyhláška o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance",
+  "title_en": "",
+  "short_name": "267/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-06-04",
+  "in_force_date": "2025-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/267",
+  "description": "Vyhláška o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví rozsah, strukturu, formu, způsob a lhůty předkládání informací České národní bance podle § 41 odst. 3 zákona o České národní bance a pro oznamování údajů podle § 15 odst. 6, § 462 až 464, § 466 odst. 1, 2 a 4, § 468 a § 469 písm. b) zákona o investičních společnostech a investičních fondech\na) obhospodařovatelem investičního fondu a zahraničního investičního fondu, který má povolení k činnosti udělené Českou národní bankou nebo který je zahraniční osobou1) (dále jen „obhospodařovatel“),\nb) osobou srovnatelnou s obhospodařovatelem zapsanou v seznamu vedeném Českou národní bankou2) (dále jen „správce majetku“) a\nc) hlavním administrátorem investičního fondu a zahraničního investičního fondu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) vykazující osobou osoba, která předkládá výkazy podle této vyhlášky,\nb) výkazem strukturovaný soubor údajů vytvořený vykazující osobou,\nc) datovým souborem elektronické seskupení údajů s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, zpracovávány a předávány jako celek,\nd) údaji předkládanými za obhospodařovaný fond i údaje předkládané samostatně za každý jednotlivý vytvořený podfond nebo zařízení srovnatelné s podfondem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Výkazy investiční společnosti a samosprávného investičního fondu jako obhospodařovatele",
+      "content": "(1) Investiční společnost předkládá za svou osobu s údaji k poslednímu dni kalendářního čtvrtletí do\na) 35 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 50 dnů po skončení kalendářního roku, k němuž se vztahují, tyto výkazy:\n1. OFZ (ČNB) 10-04 „Rozvaha“ a\n2. OFZ (ČNB) 20-04 „Výkaz zisku a ztráty“,\nb) 40 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 55 dnů po skončení kalendářního roku, k němuž se vztahují, tyto výkazy:\n1. OFZ (ČNB) 50-04 „Souhrnné informace“ a\n2. OFZ (ČNB) 60-04 „Hlášení o plnění podmínek pro výkon činnosti“.\n(2) Samosprávný investiční fond kolektivního investování předkládá za svou osobu výkazy podle odstavce 1 písm. b).\n(3) Samosprávný investiční fond kvalifikovaných investorů předkládá za svou osobu s údaji k poslednímu dni kalendářního roku do 55 dnů po skončení kalendářního roku, k němuž se vztahují, výkazy podle odstavce 1 písm. b)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Výkazy fondu kolektivního investování",
+      "content": "(1) Obhospodařovatel fondu kolektivního investování nebo srovnatelného zahraničního investičního fondu předkládá za každý takový obhospodařovaný fond do\na) 30 dnů po skončení kalendářního měsíce, k němuž se vztahuje, výkaz OFZ (ČNB) 11-12 „Cenné papíry emitované obhospodařovaným fondem“ s údaji k poslednímu dni kalendářního měsíce,\nb) 35 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 50 dnů po skončení kalendářního roku, k němuž se vztahují, tyto výkazy s údaji k poslednímu dni kalendářního čtvrtletí:\n1. OFZ (ČNB) 10-04 „Rozvaha“ a\n2. OFZ (ČNB) 20-04 „Výkaz zisku a ztráty“,\nc) 40 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 55 dnů po skončení kalendářního roku, k němuž se vztahuje, výkaz OFZ (ČNB) 31-04 „Struktura investičních nástrojů v majetku obhospodařovaného fondu“ s údaji k poslednímu dni kalendářního čtvrtletí.\n(2) Pokud obhospodařovaný fond podle odstavce 1 vytváří podfondy nebo zařízení srovnatelná s podfondem, obhospodařovatel předkládá za každý podfond takového obhospodařovaného fondu výkazy podle odstavce 1 písm. a) až c) a za celý obhospodařovaný fond výkazy podle odstavce 1 písm. b) bez zahrnutí údajů za vytvořené podfondy.\n(3) Obhospodařovatel speciálního fondu nemovitostí nebo srovnatelného zahraničního investičního fondu předkládá za tento fond do 40 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 55 dnů po skončení kalendářního roku, k němuž se vztahuje, výkaz OFZ (ČNB) 40-04 „Údaje o nemovitostech“ s údaji k poslednímu dni kalendářního čtvrtletí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Výkazy fondu kvalifikovaných investorů",
+      "content": "(1) Obhospodařovatel fondu kvalifikovaných investorů nebo srovnatelného zahraničního investičního fondu předkládá za každý takový obhospodařovaný fond do konce čtvrtého měsíce po skončení kalendářního roku, k němuž se vztahují, tyto výkazy s údaji k poslednímu dni kalendářního roku:\na) OFZ (ČNB) 10-04 „Rozvaha“,\nb) OFZ (ČNB) 20-04 „Výkaz zisku a ztráty“ a\nc) OFZ (ČNB) 34-01 „Hlášení fondu kvalifikovaných investorů“.\n(2) Pokud obhospodařovaný fond podle odstavce 1 vytváří podfondy nebo zařízení srovnatelná s podfondem, obhospodařovatel předkládá za každý podfond takového obhospodařovaného fondu výkazy podle odstavce 1 písm. a) až c) a za celý obhospodařovaný fond výkazy podle odstavce 1 písm. a) a b) bez zahrnutí údajů za vytvořené podfondy."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Výkazy alternativního fondu",
+      "content": "(1) Obhospodařovatel, který je oprávněn přesáhnout rozhodný limit podle § 16 odst. 1 zákona o investičních společnostech a investičních fondech, předkládá výkaz OFZ (ČNB) 33-04 „Hlášení nadlimitního správce alternativního fondu“ a jednotlivě za každý alternativní fond výkaz OFZ (ČNB) 35-04 „Hlášení o alternativním fondu nadlimitního správce“, a to ve lhůtách podle čl. 110 odst. 3 nařízení Komise v přenesené pravomoci (EU) č. 231/20133).\n(2) Obhospodařovatel, který není oprávněn přesáhnout rozhodný limit podle § 16 odst. 1 zákona o investičních společnostech a investičních fondech, předkládá výkaz OFZ (ČNB) 36-01 „Hlášení podlimitního správce alternativního fondu“ a jednotlivě za každý alternativní fond výkaz OFZ (ČNB) 37-01 „Hlášení o alternativním fondu podlimitního správce“, a to do konce prvního měsíce po skončení kalendářního roku."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Výkazy v ostatních případech",
+      "content": "(1) Obhospodařovatel předkládá za každý obhospodařovaný fond do konce prvního měsíce po skončení kalendářního roku, k němuž se vztahuje, výkaz OFZ (ČNB) 70-01 „Klíčové informace“ s údaji k poslednímu dni kalendářního roku.\n(2) Správce majetku předkládá výkaz OFZ (ČNB) 36-01 „Hlášení podlimitního správce alternativního fondu“ a jednotlivě za každý spravovaný alternativní fond nebo obdobné zařízení výkaz OFZ (ČNB) 37-01 „Hlášení o alternativním fondu podlimitního správce“, a to do konce prvního měsíce po skončení kalendářního roku.\n(3) Správce majetku předkládá za svou osobu do konce šestého měsíce po skončení kalendářního roku výkaz OFZ (ČNB) 15-01 „Zpráva auditora“."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Výkazy hlavního administrátora",
+      "content": "Hlavní administrátor předkládá za svou osobu s údaji k poslednímu dni kalendářního čtvrtletí do\na) 35 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 50 dnů po skončení kalendářního roku, k němuž se vztahují, tyto výkazy:\n1. OFZ (ČNB) 10-04 „Rozvaha“ a\n2. OFZ (ČNB) 20-04 „Výkaz zisku a ztráty“,\nb) 40 dnů po skončení 1., 2. a 3. kalendářního čtvrtletí a do 55 dnů po skončení kalendářního roku, k němuž se vztahuje, výkaz OFZ (ČNB) 50-04 „Souhrnné informace“."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Společná ustanovení",
+      "content": "(1) Obsah výkazů podle § 3 až 8 je uveden v příloze k této vyhlášce.\n(2) Údaje obsažené ve výkazech podle této vyhlášky vycházejí s přihlédnutím k jejich povaze z právních předpisů upravujících vedení účetnictví a sestavování účetní závěrky4) nebo z mezinárodních účetních standardů upravených právem Evropské unie5).\n(3) Údaje v cizích měnách se uvedou ve výkazech podle této vyhlášky v české měně, a to v přepočtu podle kurzu devizového trhu vyhlášeného Českou národní bankou a platného pro den sestavení výkazu. Měny, které nejsou obsaženy v kurzech devizového trhu vyhlášených Českou národní bankou, se přepočítávají oficiálním středním kurzem centrální banky příslušné země, popřípadě aktuálním kurzem mezibankovního trhu k americkému dolaru nebo euru."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Způsob a forma předkládání výkazů",
+      "content": "(1) Vykazující osoba předkládá České národní bance výkazy podle § 3 až 8 v elektronické podobě jako datové zprávy ve formátu a struktuře datových souborů.\n(2) Datové zprávy podle odstavce 1 jsou předávány prostředky umožňujícími dálkový přístup prostřednictvím internetového aplikačního nebo uživatelského rozhraní sběrného systému České národní banky.\n(3) Datovou zprávu podle odstavce 1 podepíše vykazující osoba uznávaným elektronickým podpisem kontaktní osoby.\n(4) Vykazující osoba sdělí České národní bance jména, adresu pracoviště, telefonní číslo a adresu elektronické pošty kontaktních osob. O změnách těchto údajů informuje vykazující osoba Českou národní banku bez zbytečného odkladu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Opravy chyb ve výkazech",
+      "content": "(1) Je-li po předložení výkazů České národní bance zjištěna chyba v údajích výkazu, předloží vykazující osoba České národní bance bez zbytečného odkladu opravený výkaz. Pokud oprava ovlivní údaje i v jiných výkazech nebo výkazy k dalším časovým obdobím, opraví vykazující osoba též všechny tyto navazující výkazy.\n(2) Pokud dojde ve výkazu sestaveném k poslednímu dni kalendářního roku ke změně vykazovaného údaje na základě ověření účetní závěrky auditorem, vykazující osoba předloží výkaz opětovně s opravenými údaji, nejpozději do 30 dnů po auditu účetní závěrky. Pokud oprava ovlivní údaje v jiném výkazu nebo výkazech k dalším časovým obdobím, opraví vykazující osoba též všechny tyto navazující výkazy.\n(3) Opravené výkazy vykazující osoba předloží ve lhůtě podle odstavce 1 nebo 2 České národní bance způsobem podle § 10 společně s informací o obsahu a důvodu opravy."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Přechodná ustanovení",
+      "content": "(1) Pro povinnost sestavit a předložit výkazy, které se vztahují k období přede dnem nabytí účinnosti této vyhlášky, se použije vyhláška č. 249/2013 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.\n(2) Výkaz podle § 7 odst. 1 této vyhlášky předloží obhospodařovatel poprvé za kalendářní rok následující po dni podle čl. 32 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 1286/20146)."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Zrušovací ustanovení",
+      "content": "Vyhláška č. 249/2013 Sb., o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2020.\nPříloha k vyhlášce č. 267/2020 Sb.\nObsah výkazů předkládaných obhospodařovatelem a hlavním administrátorem České národní bance\n1. OFZ (ČNB) 10-04 „Rozvaha“\nVýkaz obsahuje údaje o finanční situaci vykazující osoby a obhospodařovaného fondu.\n2. OFZ (ČNB) 20-04 „Výkaz zisku a ztráty“\nVýkaz obsahuje údaje o výsledcích hospodaření vykazující osoby a obhospodařovaného fondu. Údaje jsou vykazovány od počátku roku do konce sledovaného období.\n3. OFZ (ČNB) 11-12 „Cenné papíry emitované obhospodařovaným fondem“\nVýkaz obsahuje údaje o počtu a objemu cenných papírů vydaných obhospodařovaným fondem, včetně údajů o jejich emisi a odkupech, údaje o struktuře emitovaných cenných papírů podle tříd a údaje o počtu investorů.\n4.OFZ (ČNB) 31-04 „Struktura investičních nástrojů v majetku obhospodařovaného fondu“\nVýkaz obsahuje údaje o jednotlivých investičních nástrojích v majetku fondu, výpočet celkové expozice fondu a hodnotu zajištění v jednotlivých cizích měnách.\n5. OFZ (ČNB) 33-04 „Hlášení nadlimitního správce alternativního fondu“\nVýkaz obsahuje údaje týkající se obhospodařovatele a část údajů o speciálním fondu a fondu kvalifikovaných investorů podle přílohy IV nařízení Komise v přenesené pravomoci (EU) č. 231/2013.\n6. OFZ (ČNB) 34-01 „Hlášení fondu kvalifikovaných investorů“\nVýkaz obsahuje údaje o počtu a objemu cenných papírů vydaných fondem kvalifikovaných investorů, včetně údajů o jejich emisi a odkupech, údaje o struktuře emitovaných cenných papírů podle tříd a údaje o počtu investorů.\n7. OFZ (ČNB) 35-04 „Hlášení o alternativním fondu nadlimitního správce“\nVýkaz obsahuje část údajů o speciálním fondu a fondu kvalifikovaných investorů podle přílohy IV nařízení Komise v přenesené pravomoci (EU) č. 231/2013.\n8. OFZ (ČNB) 36-01 „Hlášení podlimitního správce alternativního fondu“\nVýkaz obsahuje údaje podle přílohy IV nařízení Komise v přenesené pravomoci (EU) č. 231/2013 týkající se obhospodařovatele a část údajů o speciálním fondu, fondu kvalifikovaných investorů a o majetku spravovaném správcem.\n9. OFZ (ČNB) 37-01 „Hlášení o alternativním fondu podlimitního správce“\nVýkaz obsahuje část údajů podle přílohy IV nařízení Komise v přenesené pravomoci (EU) č. 231/2013 o speciálním fondu, fondu kvalifikovaných investorů a o majetku spravovaném správcem.\n10. OFZ (ČNB) 40-04 „Údaje o nemovitostech“\nVýkaz obsahuje údaje o nemovitostech a účastech v nemovitostních společnostech, do kterých fond investuje. Údaje o nemovitostech zahrnují základní identifikační údaje o nemovitostech v majetku nemovitostního fondu a nemovitostní společnosti a kvantitativní údaje o nemovitosti v majetku nemovitostního fondu a nemovitostní společnosti. Údaje o účastech speciálního fondu nemovitostí na nemovitostní společnosti zahrnují zejména údaje o vlastním kapitálu nemovitostní společnosti, o výši majetkové účasti fondu na nemovitostní společnosti, reálných hodnotách účastí a zápůjčkách.\n11. OFZ (ČNB) 50-04 „Souhrnné informace“\nVýkaz obsahuje základní identifikační a klasifikační údaje o vykazující osobě. V případě investiční společnosti vykonávající činnost svěřenského správce svěřenského fondu, který není investičním fondem, jsou vykazovány také souhrnné údaje o spravovaných svěřenských fondech.\n12. OFZ (ČNB) 60-04 „Hlášení o plnění podmínek pro výkon činnosti“\nVýkaz obsahuje informace o struktuře kapitálu, minimálních požadavcích na kapitál a o složení aktiv podle likvidnosti.\n13. OFZ (ČNB) 70-01 „Klíčové informace“\nVýkaz obsahuje informace o retailových investičních produktech a o tvůrcích těchto produktů předkládané retailovým investorům podle nařízení Evropského parlamentu a Rady (EU) č. 1286/2014. V případě investičních produktů jsou vykazovány vybrané údaje nutné k jejich systematizaci z hlediska druhu, výnosnosti, rizikovosti, délky jejich držby a dalších relevantních kategorií. Údaje jsou vykazovány až na úrovni jednotlivých tříd účastnických cenných papírů vydávaných fondem. V případě fondů, které nespadají do působnosti nařízení Evropského parlamentu a Rady (EU) č. 1286/2014, protože jsou dostupné pouze profesionálním zákazníkům, výkaz obsahuje informaci o tom, že daný fond do působnosti nařízení Evropského parlamentu a Rady (EU) č. 1286/2014 nespadá.\n14. OFZ (ČNB) 15-01 „Zpráva auditora“\nVýkaz obsahuje zprávu auditora o dodržení limitu na počet investorů podle § 15 odst. 6 zákona o investičních společnostech a investičních fondech.\n1) § 14 odst. 1 nebo 2 zákona č. 240/2013 Sb., o investičních společnostech a investičních fondech, ve znění pozdějších předpisů.\n2) § 15 a § 596 písm. f) zákona č. 240/2013 Sb.\n3) Nařízení Komise v přenesené pravomoci (EU) č. 231/2013 ze dne 19. prosince 2012, kterým se doplňuje směrnice Evropského parlamentu a Rady 2011/61/EU, pokud jde o výjimky, obecné podmínky provozování činnosti, depozitáře, pákový efekt, transparentnost a dohled.\n4) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\nVyhláška č. 501/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou bankami a jinými finančními institucemi, ve znění pozdějších předpisů.\n5) Článek 2 nařízení Evropského parlamentu a Rady (ES) č. 1606/2002 ze dne 19. července 2002 o uplatňování mezinárodních účetních standardů.\n6) Nařízení Evropského parlamentu a Rady (EU) č. 1286/2014 ze dne 26. listopadu 2014 o sdělení klíčových informací týkajících se strukturovaných retailových investičních produktů a pojistných produktů s investiční složkou, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vykazující osobou",
+      "definition": "osoba, která předkládá výkazy podle této vyhlášky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "údaji předkládanými za obhospodařovaný fond i",
+      "definition": "údaje předkládané samostatně za každý jednotlivý vytvořený podfond nebo zařízení srovnatelné s podfondem.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

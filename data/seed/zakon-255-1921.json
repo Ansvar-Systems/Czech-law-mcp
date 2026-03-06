@@ -1,0 +1,33 @@
+{
+  "id": "cz:255/1921",
+  "type": "statute",
+  "title": "255/1921 Sb., Zákon, kterým se zavádí 24hodinové počítání času.",
+  "title_en": "",
+  "short_name": "255/1921 Sb.",
+  "status": "in_force",
+  "issued_date": "1921-08-04",
+  "in_force_date": "1921-06-24",
+  "url": "https://www.e-sbirka.cz/sb/1921/255",
+  "description": "Zákon, kterým se zavádí 24hodinové počítání času.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro službu vojenskou a pro podniky sloužící veřejné dopravě (železnice, paroplavbu, poštu, telegrafy, telefony a pod.) zavádí se počínaje dnem 1. června 1921 24hodinové počítání času tím způsobem, že hodiny počítají se od půlnoci k půlnoci."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vláda se zmocňuje zavésti nařízením toto počítání času i v ostatních oborech života ve státě."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zákon tento stává se ihned účinným a provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

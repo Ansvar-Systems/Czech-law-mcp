@@ -1,0 +1,45 @@
+{
+  "id": "cz:355/2004",
+  "type": "statute",
+  "title": "355/2004 Sb., Vyhláška, kterou se stanoví forma, lhůta a způsob uveřejňování kurzu investičního nástroje přijatého k obchodování na regulovaném trhu a způsob informování Komise pro cenné papíry o využívání vnitřních informací a o manipulaci s trhem",
+  "title_en": "",
+  "short_name": "355/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-06-08",
+  "in_force_date": "2004-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/355",
+  "description": "Vyhláška, kterou se stanoví forma, lhůta a způsob uveřejňování kurzu investičního nástroje přijatého k obchodování na regulovaném trhu a způsob informování Komise pro cenné papíry o využívání vnitřních informací a o manipulaci s trhem",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje\na) formu, lhůtu a způsob uveřejňování kurzu investičního nástroje přijatého k obchodování na regulovaném trhu (§ 43 odst. 2 zákona),\nb) způsob informování Komise pro cenné papíry (dále jen „Komise“) o důvodném podezření organizátora regulovaného trhu,1) že obchod uzavřený na jím organizovaném regulovaném trhu byl uzavřen s využitím vnitřní informace nebo že může být považován za manipulaci s trhem (§ 127 zákona)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Forma a způsob uveřejňování kurzů",
+      "content": "(1) Organizátor regulovaného trhu uveřejňuje aktuální kurz investičního nástroje [§ 43 odst. 1 písm. a) zákona] v elektronické formě\na) prostřednictvím svého automatizovaného obchodního systému, nebo\nb) prostřednictvím systému umožňujícího dálkový přístup.\n(2) Organizátor regulovaného trhu uveřejňuje závěrečný kurz investičního nástroje [§ 43 odst. 1 písm. b) zákona] v kurzovním lístku\na) ve všech svých obchodních místech a\nb) prostřednictvím systému umožňujícího dálkový přístup.\n(3) Jestliže bylo pro část obchodního dne, za který se uveřejňuje aktuální kurz investičního nástroje, pozastaveno obchodování s tímto investičním nástrojem, uvede se tato skutečnost jako součást uveřejňované informace o aktuálním kurzu investičního nástroje.\n(4) Jestliže bylo pro obchodní den, za který se uveřejňuje závěrečný kurz investičního nástroje, pozastaveno obchodování s tímto investičním nástrojem, uvede se tato skutečnost jako součást uveřejňované informace o závěrečném kurzu investičního nástroje.\n(5) Organizátor regulovaného trhu umožní po skončení obchodního dne uveřejnit závěrečný kurz investičního nástroje otištěním v alespoň jednom celostátně distribuovaném deníku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Lhůta pro uveřejňování kurzů",
+      "content": "(1) Organizátor regulovaného trhu uveřejňuje způsobem podle § 2 odst. 1 písm. a) informace bez zbytečného odkladu po každé změně aktuálního kurzu investičního nástroje.\n(2) Organizátor regulovaného trhu uveřejňuje způsobem podle § 2 odst. 1 písm. b) informace se zpožděním nejvýše 15 minut po každé změně aktuálního kurzu investičního nástroje.\n(3) Organizátor regulovaného trhu uveřejňuje způsobem podle § 2 odst. 2 informace nejpozději k okamžiku zahájení následujícího obchodního dne."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob informování Komise o podezření ze zneužití trhu",
+      "content": "(1) Organizátor regulovaného trhu informuje o důvodném podezření podle § 127 věty druhé zákona telefonicky organizační útvar Komise, do jehož působnosti v souladu s organizačním řádem Komise náleží výkon dozoru nad činností organizátora regulovaného trhu, a to na telefonní číslo, které Komise uveřejní ve Věstníku Komise pro cenné papíry.\n(2) Organizátor regulovaného trhu předá Komisi odůvodnění svého podezření podle odstavce 1 nejpozději 1 hodinu před tím, než v obchodní den následující po dni informování Komise podle odstavce 1 umožní s investičním nástrojem, jehož se podezření týká, uzavírání obchodů podle § 42 odst. 1 písm. a) zákona. Součástí tohoto odůvodnění jsou též informace z automatizovaného obchodního systému organizátora regulovaného trhu, na základě kterých organizátor regulovaného trhu pojal své podezření.\n(3) Organizátor regulovaného trhu předá Komisi informace podle odstavce 2 v elektronické formě prostřednictvím pevného telekomunikačního okruhu,2) v případě jeho nefunkčnosti na pevném nosiči dat nebo zprávou elektronické pošty opatřenou zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb.3)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2004.\n1) § 37 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.\n2) § 2 odst. 16 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů, ve znění pozdějších předpisů.\n3) § 11 zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

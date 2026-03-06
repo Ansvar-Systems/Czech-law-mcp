@@ -1,0 +1,27 @@
+{
+  "id": "cz:8/2024",
+  "type": "statute",
+  "title": "8/2024 Sb., Vyhláška o pravidlech pro výpočet minimálního limitu pojistného plnění pro pojištění odpovědnosti za škodu způsobenou při poskytování mobilní aplikace pro prokazování",
+  "title_en": "",
+  "short_name": "8/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-01-19",
+  "in_force_date": "2024-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/8",
+  "description": "Vyhláška o pravidlech pro výpočet minimálního limitu pojistného plnění pro pojištění odpovědnosti za škodu způsobenou při poskytování mobilní aplikace pro prokazování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Pravidla pro výpočet minimálního limitu pojistného plnění",
+      "content": "(1) Minimální limit pojistného plnění na jeden rok pro pojištění odpovědnosti za škodu způsobenou při poskytování mobilní aplikace pro prokazování (dále jen „minimální limit pojistného plnění“) se vypočte ze základu pro výpočet minimálního limitu pojistného plnění ve výši 25 000 000 Kč (dále jen „základ pro výpočet“).\n(2) Minimální limit pojistného plnění při poskytování mobilní aplikace pro prokazování pro počet\na) do 100 000 prokazujících je roven dvojnásobku základu pro výpočet,\nb) od 100 001 do 500 000 prokazujících je roven trojnásobku základu pro výpočet,\nc) od 500 001 prokazujících je roven součtu trojnásobku základu pro výpočet a základu pro výpočet za každých dalších započatých 500 000 prokazujících nad 500 000 prokazujících."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 2024."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:130/2005",
+  "type": "statute",
+  "title": "130/2005 Sb., Vyhláška, kterou se mění vyhláška Ministerstva spravedlnosti č. 331/2001 Sb., o centrální evidenci exekucí",
+  "title_en": "",
+  "short_name": "130/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-04",
+  "in_force_date": "2005-04-04",
+  "url": "https://www.e-sbirka.cz/sb/2005/130",
+  "description": "Vyhláška, kterou se mění vyhláška Ministerstva spravedlnosti č. 331/2001 Sb., o centrální evidenci exekucí",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 331/2001 Sb., o centrální evidenci exekucí, se mění takto:\n1. V § 1 odstavec 2 zní:\n„(2) Exekutor do evidence elektronicky zapisuje a z evidence elektronicky vymazává pravomocné usnesení soudu o\na) nařízení exekuce a o pověření exekutora provedením exekuce,\nb) zastavení exekuce a\nc) odkladu exekuce.“.\n2. § 3 zní:"
+    },
+    {
+      "provision_ref": "„§ 3",
+      "section": "3",
+      "title": "„§ 3",
+      "content": "(1) Pravomocné usnesení o nařízení exekuce a o pověření exekutora provedením exekuce zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy usnesení nabylo právní moci.\n(2) Zaniklo-li pověření exekutora k provedení exekuce z důvodů uvedených v § 51 zákona, zapíše exekutor bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy pověření k provedení exekuce zaniklo, do evidence údaj o tom, že jeho pověření zaniklo, spolu s uvedením důvodu zániku.“.\n3. § 4 se zrušuje.\n4. § 5 zní:"
+    },
+    {
+      "provision_ref": "„§ 5",
+      "section": "5",
+      "title": "„§ 5",
+      "content": "Pravomocné usnesení soudu o zastavení exekuce a pravomocné usnesení soudu o odkladu exekuce zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy usnesení nabyla právní moci.“.\n5. Za § 5 se vkládá nový § 5a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 5a",
+      "section": "5a",
+      "title": "„§ 5a",
+      "content": "(1) Změnu údaje obsaženého v evidenci zapíše exekutor do evidence bez zbytečného odkladu, nejdéle do deseti dnů poté, kdy se o změně dozvěděl.\n(2) Po uplynutí šedesáti dnů ode dne, kdy bylo exekuční řízení skončeno nebo pravomocně zastaveno, provede exekutor bez zbytečného odkladu, nejdéle do deseti dnů výmaz všech údajů týkajících se nařízené exekuce z evidence.“.\n6. V § 6 nadpis zní: „Přechodné ustanovení“.\n7. V § 6 se odstavce 1 až 4 zrušují a zároveň se zrušuje označení odstavce 5."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Údaje týkající se exekuce pravomocně nařízené přede dnem účinnosti této vyhlášky, nebylo-li přede dnem účinnosti této vyhlášky exekuční řízení skončeno nebo pravomocně zastaveno, zapíše exekutor do evidence do třiceti dnů ode dne účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:150/1945",
+  "type": "statute",
+  "title": "150/1945 Ú. l., Vyhláška ministerstva zemědělství, kterou se prohlašují některá území za ohrožená mandelinkou bramborovou.",
+  "title_en": "",
+  "short_name": "150/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-08-11",
+  "in_force_date": "1945-08-11",
+  "url": "https://www.e-sbirka.cz/ul0/1945/150",
+  "description": "Vyhláška ministerstva zemědělství, kterou se prohlašují některá území za ohrožená mandelinkou bramborovou.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za území ohrožená se prohlašují obvody politických okresů:\nAš, Falknov, Cheb, Karlovy Vary, Kraslice, Loket, Mariánské Lázně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

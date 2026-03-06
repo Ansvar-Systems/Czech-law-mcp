@@ -1,0 +1,39 @@
+{
+  "id": "cz:386/2015",
+  "type": "statute",
+  "title": "386/2015 Sb., Vyhláška o náležitostech kryptografických klíčů a autentizačního certifikátu",
+  "title_en": "",
+  "short_name": "386/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-12-28",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/386",
+  "description": "Vyhláška o náležitostech kryptografických klíčů a autentizačního certifikátu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Kryptografické klíče odpovídající autentizačnímu certifikátu, který lze zapsat do kontaktního elektronického čipu občanského průkazu, se vytvářejí a užívají s využitím algoritmu RSA s délkou klíče 2048 bitů v souladu se standardem PKCS #1 v2.2: RSA Cryptography Standard ze dne 27. října 2012."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Autentizační certifikát, který lze zapsat do kontaktního elektronického čipu občanského průkazu, obsahuje\na) jméno, popřípadě jména, a příjmení držitele občanského průkazu,\nb) zvláštní znaky držitele občanského průkazu, vyžaduje-li to účel autentizačního certifikátu,\nc) obchodní firmu nebo název nebo jméno, popřípadě jména, a příjmení subjektu, který autentizační certifikát vydal, a stát, ve kterém je usazen,\nd) číslo autentizačního certifikátu unikátní u subjektu, který autentizační certifikát vydal, a\ne) údaje o počátku a konci platnosti autentizačního certifikátu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Autentizační certifikát, který lze zapsat do kontaktního elektronického čipu občanského průkazu, se vytváří a užívá s využitím hashovací funkce SHA-2 s délkou hashe 256 bitů, 384 bitů nebo 512 bitů v souladu se standardem FIPS PUB 180-4: Secure Hash Standard ze srpna 2015 a s využitím algoritmu RSA s délkou klíče 2048 bitů v souladu se standardem PKCS #1 v2.2: RSA Cryptography Standard ze dne 27. října 2012.\n(2) Autentizační certifikát, který lze zapsat do kontaktního elektronického čipu občanského průkazu, se vytváří, ukládá a užívá ve formátu stanoveném v souladu se standardem RFC 5280: Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile z května 2008.\n(3) Kryptografické klíče a žádost o vydání autentizačního certifikátu se generují prostřednictvím kontaktního elektronického čipu občanského průkazu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016."
+    }
+  ],
+  "definitions": []
+}

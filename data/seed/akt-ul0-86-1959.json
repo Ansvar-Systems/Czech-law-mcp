@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:86/1959",
+  "type": "statute",
+  "title": "86/1959 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "title_en": "",
+  "short_name": "86/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-05-06",
+  "in_force_date": "1959-05-06",
+  "url": "https://www.e-sbirka.cz/ul0/1959/86",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "* Normy\nČSN 34 7403„Silové vodiče s polyvinylchloridovou izolací”\nČSN 34 7420„Jednožilový vodič s polyvinylchloridovou izolací”\nČSN 34 7423„Několikažilový můstkový vodič s polyvinylchloridovou izolací”\nČSN 34 7440„Lehká šňůra s izolací a pláštěm z polyvinylchloridu”\nČSN 34 7445„Plochá šňůra s polyvinylchloridovou izolací”\nČSN 34 7453„Strojní lano na nízké napětí s polyvinylchloridovou izolací”\nplatí pro silové vodiče pro rozvod, jejichž izolační obal je z měkčeného polyvinylchloridu (PVC). Normy ČSN 34 7403 a ČSN 34 7420 nahrazují normy týchž čísel z června 1953, uveřejněné ve vyhlášce č. 227/1953 Ú. l. a normy ČSN 34 7440 a ČSN 34 7445 nahrazují normy týchž čísel ze října 1955, uveřejněné ve vyhlášce č. 210/1955 Ú. l."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Norma ČSN 66 8063 „Stanovení teploty vzduchu (Zkoušení)“ platí pro zkoušení teploty vzduchu všech druhů výbušin."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Uvedené československé státní normy nabývají účinnosti ode dne 1. června 1959.**\n* Tyto normy tvoří sadu.\n** Československé státní normy vydává v plném znění Vydavatelství Úřadu pro normalizaci v Praze 3, Václavské nám. č. 19. Distribuci pro Slovensko obstarává Slovenská kniha, národní podnik, Bratislava, Fučíkova ul. č. 20."
+    }
+  ],
+  "definitions": []
+}

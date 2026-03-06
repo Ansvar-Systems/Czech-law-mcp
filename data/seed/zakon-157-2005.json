@@ -1,0 +1,115 @@
+{
+  "id": "cz:157/2005",
+  "type": "statute",
+  "title": "157/2005 Sb., Vyhláška o náležitostech přihlášky ke zkoušce k prokázání odborné způsobilosti k obsluze vysílacích rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy odborné způsobilosti, o způsobu provádění zkoušek, o druzích průkazů odborné způsobilosti a době jejich platnosti",
+  "title_en": "",
+  "short_name": "157/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-28",
+  "in_force_date": "2023-08-23",
+  "url": "https://www.e-sbirka.cz/sb/2005/157",
+  "description": "Vyhláška o náležitostech přihlášky ke zkoušce k prokázání odborné způsobilosti k obsluze vysílacích rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy odborné způsobilosti, o způsobu provádění zkoušek, o druzích průkazů odborné způsobilosti a době jejich platnosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro účely této vyhlášky se rozumí\na) stanicí rádiové zařízení jako jeden nebo několik vysílačů nebo soubor vysílačů a přijímačů, včetně jejich příslušenství potřebných na daném stanovišti k výkonu dané radiokomunikační služby,\nb) operátorem osoba obsluhující stanici,\nc) letadlovou stanicí pohyblivá stanice letecké pohyblivé služby jiná než stanice záchranného prostředku umístěná na palubě letadla. Za umístění na palubě letadla se považuje též jiné umístění stanice, které umožňuje její použití pro komunikaci dálkově řídícího pilota bezpilotního letadla6),\nd) leteckou stanicí pozemní stanice letecké pohyblivé služby, v některých případech může být letecká stanice umístěna například na palubě lodi nebo na plošině na moři,\ne) pozemskou stanicí stanice umístěná buď na povrchu Země nebo v hlavní části zemské atmosféry a určená pro spojení:\n1. s jednou nebo několika družicovými stanicemi, či\n2. s jednou nebo několika stanicemi téhož druhu pomocí jedné nebo několika odrazných družic nebo jiných předmětů v kosmu,\nf) letadlovou pozemskou stanicí pohyblivá pozemská stanice družicové letecké pohyblivé služby umístěná na palubě letadla. Za umístění na palubě letadla se považuje též jiné umístění stanice, které umožňuje její použití pro komunikaci dálkově řídícího pilota bezpilotního letadla6),\ng) leteckou pozemskou stanicí pozemská stanice družicové pevné služby nebo v některých případech družicové letecké pohyblivé služby umístěná v určitém pevném bodě na souši k realizaci modulačního spoje pro družicovou leteckou pohyblivou službu,\nh) radiotelefonní službou na vnitrozemských vodních cestách pohyblivá radiokomunikační služba mezi pobřežními stanicemi a lodními stanicemi nebo mezi lodními stanicemi navzájem nebo mezi pobřežními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu vnitrozemské plavby1),\ni) lodní stanicí pohyblivá stanice námořní pohyblivé služby nebo radiotelefonní služby na vnitrozemských vodních cestách umístěná na palubě plavidla, které není trvale zakotveno, kromě stanice záchranného prostředku,\nj) pobřežní stanicí pozemní stanice námořní pohyblivé služby nebo radiotelefonní služby na vnitrozemských vodních cestách,\nk) systémem GMDSS (Global Maritime Distress and Safety System) celosvětový námořní tísňový a bezpečnostní systém zajišťující rádiové spojení v rámci námořní pohyblivé služby,\nl) amatérskou radiokomunikační službou radiokomunikační služba pro sebevzdělávání, vzájemná spojení a technická studia, prováděná amatéry, tedy řádně oprávněnými osobami zajímajícími se o radiotechniku pouze z osobní záliby a nevýdělečně,\nm) radiokomunikačním provozem navazování, vedení a ukončování rádiového spojení,\nn) radiotelefonní službou radiokomunikační pohyblivá služba nebo družicová pohyblivá služba zajišťující radiotelefonní provoz,\no) radiotelefonním provozem provoz zajišťující přenos radiotelefonních hovorů,\np) radiotelefonním hovorem telefonní hovor pocházející z pohyblivé stanice nebo z pohyblivé pozemské stanice nebo jim určený, přenášený na své cestě zčásti nebo zcela radiokomunikačními kanály pohyblivé služby nebo družicové pohyblivé služby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Druhy průkazů odborné způsobilosti",
+      "content": "Vydávají se tyto druhy průkazů odborné způsobilosti:\na) všeobecný průkaz radiotelefonisty letecké pohyblivé služby opravňující jeho držitele k obsluze letadlové stanice, letadlové pozemské stanice, letecké stanice nebo letecké pozemské stanice v radiotelefonní službě,\nb) omezený průkaz radiotelefonisty letecké pohyblivé služby opravňující jeho držitele k obsluze letadlové stanice, letadlové pozemské stanice, letecké stanice nebo stanice pro komunikaci dálkově řídících pilotů bezpilotních letadel v radiotelefonní službě využívající rádiové kmitočty přidělené výhradně letecké pohyblivé službě nebo letecké pohyblivé družicové službě, pokud ovládání stanice spočívá jen v obsluze jednoduchých vnějších ovládacích prvků, a to pouze na území České republiky. Při obsluze letecké stanice nesmí být poskytovány letové provozní služby,\nc) všeobecný průkaz operátora námořní pohyblivé služby (GOC – General Operator's Ceritificate) opravňující jeho držitele k obsluze lodní stanice, lodní pozemské stanice nebo pobřežní stanice využívající všechna kmitočtová pásma systému GMDSS,\nd) omezený průkaz operátora námořní pohyblivé služby (ROC – Restricted Operator's Ceritificate) opravňující jeho držitele k obsluze lodní stanice nebo pobřežní stanice využívajících kmitočtová pásma velmi krátkých vln systému GMDSS,\ne) všeobecný průkaz radiotelefonisty námořní pohyblivé radiotelefonní služby opravňující jeho držitele k obsluze lodní stanice nebo pobřežní stanice v námořní pohyblivé službě, bez použití prvků systému GMDSS,\nf) omezený průkaz radiotelefonisty námořní pohyblivé radiotelefonní služby opravňující jeho držitele k obsluze lodní stanice v námořní pohyblivé službě ve vzdálenosti do 20 námořních mil od linie odlivu oficiálně uznávané pobřežním státem využívající pouze kmitočtová pásma velmi krátkých vln bez použití prvků systému GMDSS, pokud ovládání stanice spočívá jen v obsluze jednoduchých vnějších ovládacích prvků,\ng) průkaz pozemního radiotelegrafisty opravňující jeho držitele k obsluze radiotelegrafní nebo radiotelefonní stanice pozemní radiokomunikační služby využívající kmitočtová pásma krátkých vln,\nh) průkaz HAREC (Harmonised Amateur Radio Examination Certificate) operátora třídy A opravňující jeho držitele k obsluze stanice amatérské radiokomunikační služby,\ni) průkaz NOVICE (včetně CEPT Novice Amateur Radio Licence) operátora třídy N opravňující jeho držitele k obsluze stanice amatérské radiokomunikační služby,\nj) všeobecný průkaz operátora námořní pohyblivé služby (LRC – Long Range Certificate) opravňující jeho držitele k obsluze lodní stanice, využívající všechna kmitočtová pásma systému GMDSS, která nemá podmínku vybavení systémem GMDSS,\nk) omezený průkaz operátora námořní pohyblivé služby (SRC – Short Range Certificate) opravňující jeho držitele k obsluze lodní stanice, využívající kmitočtová pásma velmi krátkých vln systému GMDSS, která nemá podmínku vybavení systémem GMDSS,\nl) omezený průkaz radiotelefonisty vnitrozemské vodní plavby opravňující jeho držitele k obsluze lodní nebo pobřežní stanice na vnitrozemských vodních cestách v rámci radiotelefonní služby, pokud ovládání stanice spočívá jen v obsluze jednoduchých vnějších ovládacích prvků."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Náležitosti přihlášky ke zkoušce odborné způsobilosti",
+      "content": "(1) Písemná přihláška ke zkoušce odborné způsobilosti musí obsahovat\na) jméno a příjmení žadatele,\nb) datum a místo narození,\nc) státní příslušnost,\nd) bydliště a\ne) požadovaný druh odborné způsobilosti.\n(2) Přihláška ke zkoušce odborné způsobilosti k obsluze stanic uvedených\na) v § 2 písm. c) a d) musí být doložena dokladem o absolvování kurzu systému GMDSS a praktického výcviku v použití komunikační techniky v rámci systému GMDSS v rozsahu požadavků podle rozhodnutí CEPT v aktuálním znění2) a mezinárodní smlouvy, kterou je Česká republika vázána3), který žadateli vystaví školicí středisko uznané organizací IMO, a dokladem o dosažení středního odborného vzdělání,\nb) v § 2 písm. j) a k) musí být doložena dokladem o absolvování praktického výcviku v použití komunikační techniky v rámci systému GMDSS v rozsahu požadavků doporučení CEPT v aktuálním znění4) a mezinárodní smlouvy, kterou je Česká republika vázána3), který žadateli vystaví školicí středisko uznané Ministerstvem dopravy České republiky,\nc) v § 2 písm. a) až g), j) až l) musí být doložena fotografií; pro technické provedení fotografie se obdobně použije ustanovení zvláštního právního předpisu o požadavcích na technické provedení fotografie pro vydání občanského průkazu5)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozsah znalostí ke zkoušce odborné způsobilosti",
+      "content": "(1) Český telekomunikační úřad (dále jen „Úřad“) ověřuje při zkoušce odborné způsobilosti znalosti žadatele z\na) radiokomunikačních předpisů,\nb) radiokomunikačního provozu a\nc) elektrotechniky a radiotechniky.\n(2) Požadované znalosti podle odstavce 1 musí odpovídat standardům znalostí uvedených v doporučeních mezinárodních organizací ITU8), CEPT9), IMO10), ICAO11), nebo IARU12) (Region 1) pro danou odbornou způsobilost.\n(3) Součástí zkoušky k obsluze stanic uvedených\na) v § 2 písm. a), c), d), e), f), j) a k) je ověření znalosti radiotelefonní komunikace v anglickém jazyce zahrnující leteckou nebo námořní frazeologii,\nb) v § 2 písm. b) je ověření znalosti radiotelefonní komunikace v českém jazyce zahrnující leteckou frazeologii,\nc) v § 2 písm. g) je praktická zkouška z telegrafie; na žádost žadatele Úřad umožní vykonat zkoušku z telegrafie i žadateli, který požaduje její vykonání v rámci zkoušky k obsluze stanic uvedených v § 2 písm. h) a i),\nd) v § 2 písm. l) je ověření znalosti radiotelefonní komunikace v českém jazyce zahrnující námořní frazeologii."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob provádění zkoušek odborné způsobilosti",
+      "content": "(1) Odbornou způsobilost osob k obsluze stanic ověřuje zkušební komise Úřadu. Členy zkušební komise a jejího předsedu jmenuje a odvolává předseda Rady Úřadu.\n(2) Zkouška před Úřadem je písemná, pokud tato vyhláška pro konkrétní případy nestanoví i zkoušku ústní nebo praktickou.\n(3) Písemná zkouška se koná formou testu. Otázky v testu musí odpovídat rozsahu znalostí uvedenému v § 4 odst. 2. Ke každé otázce v testu jsou přiřazeny 3 odpovědi, z nichž jedna je vždy správná. Za správně zodpovězenou otázku se považuje otázka, u níž byla vybrána a označena jen jedna správná odpověď.\n(4) Ústní zkouška se koná pro ověření znalostí podle § 4 odst. 3 písm. a) a b), praktická pro ověření znalostí podle § 4 odst. 3 písm. c).\n(5) Zkouška se koná zpravidla v sídle Úřadu.\n(6) Datum, čas, dobu trvání a místo konání zkoušky vyhlašuje Úřad. Zkouška se může konat nejdříve po uplynutí 30 dnů ode dne jejího vyhlášení přihlášku ke zkoušce však může uchazeč podat nejpozději 20 dnů před termínem konání zkoušky, který uchazeč požaduje.\n(7) Úřad vyrozumí písemně uchazeče o datu, času, době trvání a místu konání zkoušky nejméně 14 dnů přede dnem jejího konání.\n(8) Znění všech otázek pro písemné testy v členění podle odborné způsobilosti podle § 2 včetně správných odpovědí k jednotlivým otázkám a osnovy ústních zkoušek Úřad uveřejňuje na elektronické úřední desce (§ 125 odst. 3 zákona) a na svých internetových stránkách."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Průběh a hodnocení výsledku zkoušky odborné způsobilosti",
+      "content": "(1) Předseda zkušební komise řídí zkoušku a sleduje její průběh.\n(2) Výsledek zkoušky znalostí podle § 4 odst. 1 a 3 se hodnotí odděleně, stupněm „prospěl“ nebo „neprospěl“.\n(3) Zkouška se zahajuje písemným testem. Je-li žadatel z písemného testu hodnocen stupněm „neprospěl“, nesmí pokračovat v další části zkoušky podle § 4 odst. 3. Požádá-li žadatel, který neprospěl v písemném testu, o jeho opakovaní, umožní mu Úřad písemný test opakovat nejdříve za 60 dnů ode dne jeho neúspěšného konání. Požádá-li žadatel, který neprospěl v ústní nebo praktické části zkoušky, o její opakovaní, umožní mu Úřad ústní nebo praktickou část zkoušky opakovat bez nutnosti opakování písemného testu, a to nejdříve v nejbližším termínu vyhlášené zkoušky, ne však dříve než 14 dnů ode dne neúspěšného vykonání ústní nebo praktické části zkoušky.\n(4) Uchazeč zkoušku složil, jestliže prokázal předepsané znalosti a byl hodnocen stupněm „prospěl“ ve zkoušce znalostí podle § 4 odst. 1 a 3.\n(5) Pokud uchazeč zkoušku nesložil do doby 6 měsíců ode dne zahájení písemné zkoušky, může vykonat novou zkoušku jen na základě podání nové přihlášky podle § 3.\n(6) Výsledek zkoušek zapíše zkušební komise do protokolu o zkoušce. Vyplněný písemný test, podepsaný žadatelem je přílohou tohoto protokolu. Každý protokol musí být potvrzen podpisem předsedy zkušební komise.\n(7) O výsledku zkoušky zkušební komise bezodkladně uchazeče vyrozumí."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Vydání průkazu odborné způsobilosti",
+      "content": "(1) Prokázáním odborné způsobilosti (§ 26 odst. 4 Zákona) se rozumí úspěšné vykonání zkoušky.\n(2) Průkaz odborné způsobilosti uvedený\na) v § 2 písm. a) až g), j) až l) se vydává dvojjazyčně, v českém a anglickém jazyce. Musí obsahovat\n1. jméno a příjmení držitele průkazu,\n2. datum narození držitele průkazu,\n3. číslo průkazu,\n4. ustanovení, že držitel průkazu prokázal znalosti požadované doporučením ITU, ICAO, IMO nebo CEPT,\n5. datum vydání a dobu platnosti průkazu,\n6. fotografii držitele průkazu a jeho podpis,\n7. název Úřadu,\nb) v § 2 písm. h) se vydává čtyřjazyčně, v českém, německém, francouzském a anglickém jazyce. Musí obsahovat\n1. jméno a příjmení držitele průkazu,\n2. datum narození držitele průkazu,\n3. číslo průkazu,\n4. ustanovení, že držitel průkazu prokázal znalosti požadované doporučením CEPT,\n5. datum vydání a dobu platnosti průkazu,\n6. název Úřadu,\nc) v § 2 písm. i) se vydává čtyřjazyčně, v českém, německém, francouzském a anglickém jazyce. Musí obsahovat\n1. údaj o tom, že se jedná o dokument, který odpovídá CEPT Novice Amateur Licence,\n2. ustanovení, že držitel průkazu prokázal znalosti požadované doporučením CEPT7),\n3. jméno a příjmení držitele průkazu,\n4. datum narození držitele průkazu,\n5. číslo průkazu,\n6. datum vydání a dobu platnosti průkazu,\n7. název Úřadu.\n(3) Vzory průkazů odborné způsobilosti uvedených v § 2 Úřad uveřejní na elektronické úřední desce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Doba a rozsah platnosti průkazů odborné způsobilosti",
+      "content": "(1) Doba platnosti průkazu odborné způsobilosti uvedeného\na) v § 2 písm. h) a i) je neomezená,\nb) v § 2 písm. a), b), e) až g), j) až l) je deset let při prvním vydání; po uplynutí první doby platnosti je doba platnosti průkazu pět let,\nc) v § 2 písm. c) a d) je pět let při prvním vydání; po uplynutí první doby platnosti je doba platnosti průkazu pět let.\n(2) Žadatel o prodloužení doby platnosti průkazu uvedeného v § 2 písm. a) až g), j) až l) doloží žádost potvrzením, že po dobu platnosti průkazu vykonával nejméně jeden rok činnost operátora stanice, k jejíž obsluze je uvedený druh průkazu třeba.\n(3) V případě ztráty, poškození nebo zničení průkazu odborné způsobilosti vydá Úřad na základě písemné žádosti jeho držitele duplikát."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2005.\n1) Vyhláška č. 138/2000 Sb., o radiotelefonním provozu na vnitrozemských vodních cestách.\n2) Rozhodnutí CEPT ERC/DEC/(99)01 [The harmonised examination syllabi for the General Operator's Certificate (GOC) and the Restricted Operator's Certificate (ROC)] v aktuálním znění z 3. července 2015.\n3) Mezinárodní úmluva o normách výcviku, kvalifikace a strážní služby námořníků (STCW), 1978, oznámená pod č. 53/1995 Sb.\n4) Doporučení CEPT ERC/REC 31-04 [Harmonized CEPT examination procedures for the Short Range Certificate (SRC) for non-soals vessels] v aktuálním znění z října 2009 a doporučení CEPT/ERC/REC 31-05E [Harmonized examination procedures for maritime radio operator's certificates appropriate to vessels which use the frequencies and techniques of the global maritime distress and safety system on a non-compulsory basis] z 10. února 1994 v aktuálním znění.\n5) Vyhláška č. 281/2021 Sb., k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech.\n6) Vyhláška č. 105/2010 Sb., o plánu přidělení kmitočtových pásem (národní kmitočtová tabulka).\n7) Doporučení CEPT ECC/REC (05)06 [CEPT Novice Radio Amateur Licence] z 27. května 2016 v aktuálním znění a Zpráva ERC/REP 032 [Amateur Radio Novice Examination Syllabus and Amateur Radio Novice Examination certificate within CEPT and non-CEPT countries] v aktuálním znění z října 2016.\n8) ITU (International Telecommunication Union) Mezinárodní telekomunikační unie.\n9) CEPT (Conférence Européene des Administrations des Postes et des Télécommunications) Evropská konference poštovních a telekomunikačních správ.\n10) IMO (International Maritime Organization) Mezinárodní námořní organizace.\n11) ICAO (International Civil Aviation Organization) Mezinárodní organizace pro civilní letectví.\n12) IARU (International Amateur Radio Union) Mezinárodní radioamatérská unie."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "stanicí rádiové",
+      "definition": "zařízení jako jeden nebo několik vysílačů nebo soubor vysílačů a přijímačů, včetně jejich příslušenství potřebných na daném stanovišti k výkonu dané radiokomunikační služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "operátorem",
+      "definition": "osoba obsluhující stanici",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "leteckou stanicí pozemní stanice letecké pohyblivé služby",
+      "definition": "v některých případech může být letecká stanice umístěna například na palubě lodi nebo na plošině na moři",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "pozemskou stanicí stanice umístěná buď na povrchu Země nebo v hlavní části zemské atmosféry a určená pro",
+      "definition": "spojení:; s jednou nebo několika družicovými stanicemi, či; s jednou nebo několika stanicemi téhož druhu pomocí jedné nebo několika odrazných družic nebo jiných předmětů v kosmu",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "radiotelefonní službou na vnitrozemských vodních cestách pohyblivá radiokomunikační",
+      "definition": "služba mezi pobřežními stanicemi a lodními stanicemi nebo mezi lodními stanicemi navzájem nebo mezi pobřežními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu vnitrozemské plavby1)",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "systémem GMDSS (Global Maritime Distress and Safety System) celosvětový námořní tísňový a bezpečnostní",
+      "definition": "systém zajišťující rádiové spojení v rámci námořní pohyblivé služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "amatérskou radiokomunikační službou radiokomunikační",
+      "definition": "služba pro sebevzdělávání, vzájemná spojení a technická studia, prováděná amatéry, tedy řádně oprávněnými osobami zajímajícími se o radiotechniku pouze z osobní záliby a nevýdělečně",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "radiokomunikačním provozem navazování",
+      "definition": "vedení a ukončování rádiového spojení",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "radiotelefonní službou radiokomunikační pohyblivá",
+      "definition": "služba nebo družicová pohyblivá služba zajišťující radiotelefonní provoz",
+      "source_provision": "§ 1"
+    }
+  ]
+}

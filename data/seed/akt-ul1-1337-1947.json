@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:1337/1947",
+  "type": "statute",
+  "title": "1337/1947 Ú. l. I, Vyhláška ministra vnitřního obchodu o oběhu některého elektrotechnického instalačního materiálu.",
+  "title_en": "",
+  "short_name": "1337/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-12-25",
+  "in_force_date": "1947-12-25",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1337",
+  "description": "Vyhláška ministra vnitřního obchodu o oběhu některého elektrotechnického instalačního materiálu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Elektrotechnický instalační materiál, uvedený v příloze vyhlášky, smějí výrobci a dovozci dodávati jen velkoobchodníkům a maloobchodníkům, oprávněným obchodovati s tímto materiálem, a uznaným paritní komisí, koncesovaným elektrotechnikům a výrobním závodům, těmto však jen pro jejich vlastní potřebu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Velkoobchodníci smějí elektrotechnický instalační materiál dodávati jen maloobchodníkům, oprávněným obchodovati s tímto materiálem a uznaným paritní komisí, koncesovaným elektrotechnikům a výrobním závodům, těmto však jen pro jejich vlastní potřebu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ustanovení vyhlášky se nevztahují na elektrotechnický instalační materiál dovezený z ciziny, který byl ministerstvem zahraničního obchodu určen k zvláštním účelům, ani na materiál určený k vývozu, kterému jest podle § 2 vyhlášky ministra průmyslu a ministra vnitřního obchodu ze dne 3. června 1947, č. 603, Ú. l. I, o zajištění dodávek kovoprůmyslových výrobků, vyhrazeno přednostní dodávkové pořadí."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Za účelem kontroly elektrotechnického instalačního materiálu, uvedeného v příloze této vyhlášky, a jeho rozdělování mezi velko- a maloobchodníky, uznané paritní komisí, koncesované elektrotechniky a výrobní závody (u těchto jen pro jejich vlastní potřebu), se zřizuje při ministerstvu vnitřního obchodu poradní sbor, sestávající po jednom ze zástupců ministerstva průmyslu, ministerstva zahraničního obchodu, pověřenstva průmyslu a obchodu, Hospodářské skupiny velkoobchodu a zahraničního obchodu (odborné skupiny elektro), Sdružení elektrovelkoobchodníků, Hospodářské skupiny maloobchodu (odborné skupiny elektro), Hospodářské skupiny zprostředkovatelů, Jednoty společenstev elektrotechniků, Hospodářské skupiny průmyslu železa a kovů (odborné skupiny elektro), Československých závodů kovodělných a strojírenských, Československých závodů energetických, Obchodní a živnostenské komory v Praze a Revolučního odborového hnutí — Svazu zaměstnanců v distribuci.\n(2) Každého člena zastupuje v jeho nepřítomnosti jeden náhradník.\n(3) Schůze sboru svolává ministerstvo vnitřního obchodu, jehož zástupce jest též předsedou sboru."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Hromadění zásob zboží, uvedeného v příloze této vyhlášky, nad míru tříměsíční potřeby podniku, zejména za účelem zdržování oběhu zboží, není dovoleno."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle § 9 vl. nař. č. 175/1943 Sb."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a pozbývá jí dnem 31. prosince 1948; platí v zemích České a Moravskoslezské.\nPříloha k vyhlášce\nministra vnitřního obchodu\nze dne 28. listopadu 1947\no oběhu některého elektrotechnického instalačního materiálu.\nElektrotechnickým instalačním materiálem ve smyslu této vyhlášky se rozumějí:\n1. spínače na a pod omítkou do 25 A,\n2. zásuvky na a pod omítku do 25 A (jen spodky),\n3. venkovní zásuvky trojfázové (motorové), a to spodky i vidlice,\n4. pojistkový materiál do 60 A, kromě patron a zátek."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,113 @@
+{
+  "id": "cz:285/1948",
+  "type": "statute",
+  "title": "285/1948 Sb., Nařízení, kterým se vydává sazebník všeobecné daně",
+  "title_en": "",
+  "short_name": "285/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-12-28",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1948/285",
+  "description": "Nařízení, kterým se vydává sazebník všeobecné daně",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vydávám sazebník všeobecné daně podle přílohy tohoto nařízení, která je jeho součástí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1949.\nPříloha nařízení č. 285/1948 Sb.\nSAZEBNÍK VŠEOBECNÉ DANĚ\nPřehled:Str.\nOddíl Apro pravidelné vybírání daně1627\nOddíl Bpro paušální vybírání daně u soukromých a družstevních podniků výrobních a poslušných1767\nOddíl Cpro paušální vybírání daně u zemědělců1771\nOddíl Dpro přepravu a výkony s přepravou souvisící, jakož i pro spediční a skladištní výkony prováděné za úplatu1777"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mysliveckým hospodářem",
+      "definition": "vlastník honitby, který chce vykonávati právo myslivosti sám, pachtýř honitby jakož i osoba, která byla vlastníkem nebo pachtýřem honitby (společenstevní i vlastní) pověřena výkonem práva myslivosti",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Výrobcem",
+      "definition": "podnik, který drůbež, zvěřinu, konservuje nebo upravuje, na př",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Rozdělovačem",
+      "definition": "podnik, který nakupuje ryby od chovatelů, aby je dále prodával",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "pivo výčepní",
+      "definition": "pivo, které se prodává jako pivo výčepní a odpovídá mladince nejvýše 10° S měřených při 14° R; za ležák se pokládá pivo, které",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Textília",
+      "definition": "národní podnik velkoobchodní, zřízený vyhláškou ministra vnitřního obchodu ze dne 30",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Vesna",
+      "definition": "národní podnik velkoobchodní, zřízený vyhláškou ministra vnitřního obchodu",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Oděvní průmysl",
+      "definition": "národní podnik průmyslový, zřízený vyhláškou ministra průmyslu ze dne 7",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Odeva",
+      "definition": "národní podnik průmyslový, zřízený vyhláškou ministra průmyslu ze dne 28",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Pod označením „Textília",
+      "definition": "národní podnik velkoobchodní, zřízený vyhláškou ministra vnitřního obchodu ze dne 30",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Pod označením „Vesna",
+      "definition": "národní podnik velkoobchodní, zřízený vyhláškou ministra vnitřního obchodu",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Pod označením „Oděvní průmysl",
+      "definition": "národní podnik průmyslový, zřízený vyhláškou ministra průmyslu ze dne 7",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Pod označením „Odeva",
+      "definition": "národní podnik průmyslový, zřízený vyhláškou ministra průmyslu ze dne 28",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Přírodním hedvábím",
+      "definition": "hedvábí bource morušového (hedvábníka), bource dubového (hedvábí tusah, tussové) a jiných bourců, vlákna kyjovky podobná hedvábí (hedvábí byssové, lasturové) a hedvábí odpadkové (floretové, chappové)",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Přibroušením",
+      "definition": "přibroušení na dvou protilehlých stranách za účelem vyzkoušení čistoty skla",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Spotřebitelem se v položkách 1050 až 1053",
+      "definition": "každý, kdo má zboží k jinému účelu, než aby je ve svém podniku zcizil nebo zpracoval nebo si je dal zpracovat ve mzdě nebo po domácku",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Spotřebitelem se tu",
+      "definition": "též ten, kdo nabývá výkonu pro svou osobní potřebu",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Drobnou přepravou osob a zavazadel",
+      "definition": "výdělečná přeprava osob a zavazadel, provozovaná silničnimi motorovými vozidly, jimiž lze přepravit nejvýše osm osob počítajíc v to řidiče nebo vozidly se zvířecím potahem",
+      "source_provision": "§ 2."
+    }
+  ]
+}

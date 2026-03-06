@@ -1,0 +1,57 @@
+{
+  "id": "cz:388/2025",
+  "type": "statute",
+  "title": "388/2025 Sb., Vyhláška o formulářových podáních pro daň z nemovitých věcí",
+  "title_en": "",
+  "short_name": "388/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-10-09",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/388",
+  "description": "Vyhláška o formulářových podáních pro daň z nemovitých věcí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) obsahovou strukturu listinného nebo elektronického formulářového podání pro daň z nemovitých věcí a\nb) formát elektronického formulářového podání pro daň z nemovitých věcí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obsahová struktura formulářového podání",
+      "content": "Obsahová struktura přiznání k dani z nemovitých věcí včetně pokynů k jejímu vyplnění je uvedena v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Formát formulářového podání",
+      "content": "Formulářové podání podle § 2 lze elektronicky podat pouze ve formátu XML."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Společná ustanovení",
+      "content": "Tiskopis formulářového podání vydaný Ministerstvem financí nebo datová struktura formulářového podání zveřejněná správcem daně se považují za odpovídající obsahové struktuře podle § 2 také v případě, že\na) textová část je v jiném než českém jazyce,\nb) obsahuje odlišný údaj o časovém období,\nc) obsahuje odchylky v části obsahu, jejímž předmětem není požadavek na uvedení povinně sdělovaných údajů,\nd) se od této obsahové struktury odchyluje v důsledku obvyklých technologických postupů výroby tiskopisu nebo\ne) se od této obsahové struktury v nezbytném rozsahu odchyluje v důsledku úpravy stanovené zákonem nebo přímo použitelným předpisem Evropské unie."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Přechodné ustanovení",
+      "content": "Pro daňová přiznání k dani z nemovitých věcí na zdaňovací období, která započala přede dnem nabytí účinnosti této vyhlášky, se použije vyhláška č. 456/2020 Sb., o formulářových podáních pro daň z nemovitých věcí, ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Zrušovací ustanovení",
+      "content": "Zrušují se:\n1. Vyhláška č. 456/2020 Sb., o formulářových podáních pro daň z nemovitých věcí.\n2. Část druhá vyhlášky č. 437/2021 Sb., kterou se mění některé vyhlášky o formulářových podáních při správě daní.\n3. Vyhláška č. 328/2023 Sb., kterou se mění vyhláška č. 456/2020 Sb., o formulářových podáních pro daň z nemovitých věcí, ve znění vyhlášky č. 437/2021 Sb.\n4. Vyhláška č. 297/2024 Sb., kterou se mění vyhláška č. 456/2020 Sb., o formulářových podáních pro daň z nemovitých věcí, ve znění pozdějších předpisů."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.\nPříloha"
+    }
+  ],
+  "definitions": []
+}

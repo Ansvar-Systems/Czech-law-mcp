@@ -1,0 +1,21 @@
+{
+  "id": "cz:611/2006",
+  "type": "statute",
+  "title": "611/2006 Sb., Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstev obcí",
+  "title_en": "",
+  "short_name": "611/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-12-28",
+  "in_force_date": "2006-12-28",
+  "url": "https://www.e-sbirka.cz/sb/2006/611",
+  "description": "Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstev obcí",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "obecokreskraj\nHORNÍ KAMENICEDomažlicePlzeňský\nOHRAZENICEPříbramStředočeský\nKŘIMOVChomutovÚstecký\nBOŘENOVICEKroměřížZlínský\nSUŠICEUherské Hradiště"
+    }
+  ],
+  "definitions": []
+}

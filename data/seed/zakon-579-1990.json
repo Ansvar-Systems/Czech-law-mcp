@@ -1,0 +1,33 @@
+{
+  "id": "cz:579/1990",
+  "type": "statute",
+  "title": "579/1990 Sb., Nařízení vlády České republiky o úlevách na domovní dani",
+  "title_en": "",
+  "short_name": "579/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-12-29",
+  "in_force_date": "1991-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/579",
+  "description": "Nařízení vlády České republiky o úlevách na domovní dani",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Poplatníkům, kterým je vyměřována domovní daň podle nájemného a ceny užívání, se domovní daň snižuje tak, aby po snížení činila ze základu daně do 6000 Kčs 15 % a z vyššího základu 20 %."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Obec, která spravuje domovní daň, sníží poplatníkům uvedeným v § 1 základ domovní daně o náklady vynaložené na stavební opravy, rekonstrukce a modernizace zdaňovaných budov. Základ daně se sníží ve dvou letech následujících po provedení opravy vždy o 50 % uvedených nákladů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1991."
+    }
+  ],
+  "definitions": []
+}

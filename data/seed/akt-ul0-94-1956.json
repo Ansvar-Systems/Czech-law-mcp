@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:94/1956",
+  "type": "statute",
+  "title": "94/1956 Ú. l., Vyhláška Státního výboru pro výstavbu o normách stavebních lhůt objektů hromadné bytové výstavby.",
+  "title_en": "",
+  "short_name": "94/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-05-12",
+  "in_force_date": "1956-05-15",
+  "url": "https://www.e-sbirka.cz/ul0/1956/94",
+  "description": "Vyhláška Státního výboru pro výstavbu o normách stavebních lhůt objektů hromadné bytové výstavby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro plánování, projektování a provádění bytové výstavby platí závazné normy stavebních lhůt uvedené v příloze této vyhlášky. Tyto normy jsou maximální a platí pro objekty, jejichž stavba bude zahájena po dni 15. května 1956."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Objektem hromadné výstavby se rozumí prostorově nebo funkčně oddělená část stavby, jejíž provedení vyžaduje buď typový projekt (vypracovaný podle typisačních podkladů) nebo opakovaný projekt.\n(2) Normy stavebních lhůt uvedená v § 1 platí pro objekt o pěti běžně používaných sekcích u obytných domů dvoutraktových nebo o třech běžně používaných sekcích u obytných domů třítaktových. Je-li objekt větší (menší) o jednu nebo více sekcí, prodlužuje se (zkracuje se) stavební lhůta za každou sekci o 9 %. Obsahuje-li objekt sektorovou kotelnu, prodlužuje se stavební lhůta o 9 %."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Stavební lhůta objektu je doba od počátku přípravných prací na staveništi objektu až po jeho úplné dokončení (včetně vnějších omítek, vchodu z veřejné komunikace a všech přípojek). Přípravné práce na staveništi jsou práce na výstavbě provozních zařízení, nutné pro zahájení všech prací na objektu. Ve stavební lhůtě objektu není tedy zahrnuta doba potřebná na výstavbu sociálního zařízení."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. května 1956.\nPříloha k vyhlášce č. 94/1956 Ú. l.\nNormy stavebních lhůt objektů hromadné bytové výstavby.\nCharakteristika objektůNorma v měsících pro výstavbu zahajovanou v roce\n195619571958\n1.Jedno- a dvoupodlažní budovy do 2.000 m3 obestavěného prostoru, zděné, s dílci o váze do 600 kg554\n2.Dvou- a třípodlažní objekty do 10.000 m3 obestavěného prostoru\na)budovy zděné, s dílci a panely o váze do 2.000 kg1098\nb)budovy montované z kvádrů, dílců a panelů o váze do 2.000 kg986½\n3.Čtyř- a pětipodlažní objekty do 14.000 m3 obestavěného prostoru\na)budovy zděné, s dílci a panely o váze do 2.000 kg121110\nb)budovy montované z kvádrů, dílců a panelů o váze do 2.000 kg11108\nc)budovy montované z velkých kompletovaných dílců a panelů o váze přes 2.000 kg5½55\n4.Šesti- až osmipodlažní objekty do 18.000 m3 obestavěného prostoru\na)budovy zděné, s dílci a panely o váze do 2.000 kg.151311\nb)budovy montované z kvádrů, dílců a panelů o váze do 2.000 kg13½11½9\nc)budovy montované z velkých kompletovaných dílců a panelů o váze přes 2.000 kg——5½\n5.Šesti- až devítipodlažní objekty do 25.000 m3 obestavěného prostoru\na)budovy zděné, s dílci a panely o váze do 2.000 kg171512\nb)budovy montované z kvádrů, dílců a panelů o váze do 2.000 kg1513½9½"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Objektem hromadné výstavby",
+      "definition": "prostorově nebo funkčně oddělená část stavby, jejíž provedení vyžaduje buď typový projekt (vypracovaný podle typisačních podkladů) nebo opakovaný projekt",
+      "source_provision": "§ 2."
+    }
+  ]
+}

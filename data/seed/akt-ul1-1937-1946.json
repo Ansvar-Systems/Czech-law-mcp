@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:1937/1946",
+  "type": "statute",
+  "title": "1937/1946 Ú. l. I, Vyhláška ministra sociální péče o výplatě mzdy za dny 1. a 2. listopadu 1946.",
+  "title_en": "",
+  "short_name": "1937/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-11-05",
+  "in_force_date": "1946-10-31",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1937",
+  "description": "Vyhláška ministra sociální péče o výplatě mzdy za dny 1. a 2. listopadu 1946.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Den 2. listopadu 1946 je dnem pracovního klidu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Za pracovní dobu, která proto odpadla, obdrží zaměstnanci od zaměstnavatele náhradu ušlého výdělku.\n(2) Není-li mzda (plat) zaměstnance pevně určena podle hodin, dnů nebo delších pracovních období, jest pro stanovení ušlého výdělku rozhodný průměrný výdělek posledního mzdového období, jež skončilo před účinností této vyhlášky.\n(3) Nárok podle odst. 1 nemají zaměstnanci, kteří zameškali práci bez dostatečné omluvy v poslední pracovní den přede dnem, za který by jim nárok příslušel, nebo v první pracovní den po něm.\n(4) Zaměstnanci, který pracuje v den uvedený v § 1, přísluší místo příplatku jinak stanoveného 100% příplatek k pracovnímu výdělku, jehož v tento den docílil."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Osobám, zaměstnaným v domácké práci přísluší za den, uvedený v § 1, 1% z pracovní odměny docílené v období od 1. července do 30. září 1946.\n(2) Pracovní odměnou se rozumí úplata za práci bez srážky daní a příspěvků sociálního pojištění, avšak po srážce podílu na režijních výplatách.\n(3) Zprostřekovatelé domácké práce [§ 2, odst. 1, písm. c) vlád. nař. č. 261/1942 Sb.] mají vůči podnikateli domácké práce nárok na náhradu částek, které podle této vyhlášky vyplatí."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Ustanovení vyhlášky ze dne 22. října 1946 o výplatě mzdy za dny 23. října a 1. listopadu 1946 (Ú. l. I č. 189/1946, běž. č. 1905), pokud se týkají dne 1. listopadu 1946, se ruší.\n(2) Rovněž se pro den 1. listopadu 1946 ruší ustanovení jednotlivých mzdových (platových) vyhlášek a jiných platných mzdových (platových) úprav a ujednání, pokud se týkají příplatku za práci sváteční (práci ve dnech pracovního klidu)."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Nárok podle této vyhlášky nepřísluší osobám, které pozbyly československého státního občanství podle dekretu presidenta republiky ze dne 2. srpna 1945, č. 33 Sb., o úpravě československého státního občanství osob národnosti německé a maďarské, s výjimkou osob, na něž se vztahuje § 1, odst. 3 dekretu, a osob, které jest podle §§ 2 a 4 dekretu považovati za československé státní občany."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Ustanovení této vyhlášky se nevztahují na zaměstnance státu a svazků zájmové a územní samosprávy, jejich ústavů, podniků a fondů, jakož i ústavů, podniků a fondů jimi spravovaných, jejichž platové poměry jsou upraveny zvláštními zákonnými předpisy nebo služebními řády podle § 210, odst. 1 platového zákona ze dne 24. června 1926, č. 103 Sb., nebo podle obdoby těchto předpisů."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 31. října 1946 a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pracovní odměnou",
+      "definition": "úplata za práci bez srážky daní a příspěvků sociálního pojištění, avšak po srážce podílu na režijních výplatách",
+      "source_provision": "§ 3."
+    }
+  ]
+}

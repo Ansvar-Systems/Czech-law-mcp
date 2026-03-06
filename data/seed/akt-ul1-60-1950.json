@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:60/1950",
+  "type": "statute",
+  "title": "60/1950 Ú. l. I, Vyhláška ministerstva práce a sociální péče, kterou se stanoví výše příspěvků na zařízení umožňující mladistvým první nastoupení do práce.",
+  "title_en": "",
+  "short_name": "60/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-21",
+  "in_force_date": "1950-01-21",
+  "url": "https://www.e-sbirka.cz/ul1/1950/60",
+  "description": "Vyhláška ministerstva práce a sociální péče, kterou se stanoví výše příspěvků na zařízení umožňující mladistvým první nastoupení do práce.",
+  "provisions": [
+    {
+      "provision_ref": "Článek I.",
+      "section": "I",
+      "title": "Článek I.",
+      "content": "Jednorázová příspěvky na opatření zařízení, Jež jsou způsobilá umožniti mladistvým první nastoupení do práce, mohou býti povoleny z účelového jmění pro podpory při včleňování do práce až do výše 100% nutných úhrnných nákladů."
+    },
+    {
+      "provision_ref": "Článek II.",
+      "section": "II",
+      "title": "Článek II.",
+      "content": "Ustanovení bodu 7 prováděcího výnosu č. 722/1943 Ú. l. k vládnímu nařízení č. 250/1943 Sb. se ruší."
+    },
+    {
+      "provision_ref": "Článek III.",
+      "section": "III",
+      "title": "Článek III.",
+      "content": "Tato vyhláška nabývá účinností dnem vyhlášení; platí jen v českých zemích."
+    }
+  ],
+  "definitions": []
+}

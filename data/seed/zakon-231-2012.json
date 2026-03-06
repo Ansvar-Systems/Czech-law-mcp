@@ -1,0 +1,57 @@
+{
+  "id": "cz:231/2012",
+  "type": "statute",
+  "title": "231/2012 Sb., Vyhláška, kterou se stanoví obchodní podmínky pro veřejné zakázky na stavební práce",
+  "title_en": "",
+  "short_name": "231/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-07-04",
+  "in_force_date": "2012-09-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/231",
+  "description": "Vyhláška, kterou se stanoví obchodní podmínky pro veřejné zakázky na stavební práce",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Tato vyhláška stanoví bližší požadavky na úpravu podstatných náležitostí obchodních podmínek, které je veřejný zadavatel povinen stanovit v zadávací dokumentaci veřejných zakázek na stavební práce.\n(2) Tato vyhláška se použije v případě veřejných zakázek na stavební práce, jejichž příslušnou dokumentaci zpracovanou v rozsahu stanoveném jiným právním předpisem1) (dále jen „příslušná dokumentace“) v podrobnosti pro zadávání stavby se soupisem stavebních prací, dodávek a služeb s výkazem výměr (dále jen „soupis prací“) zabezpečuje veřejný zadavatel.\n(3) Veřejný zadavatel může stanovit i další obchodní podmínky, které tato vyhláška neupravuje, ale vždy přiměřeně k předmětu plnění a podmínkám této vyhlášky. V takovém případě odůvodní stanovení obchodních podmínek s ohledem na své potřeby. Toto odůvodnění je součástí odůvodnění veřejné zakázky podle § 156 zákona o veřejných zakázkách."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Pro účely této vyhlášky se rozumí zhotovitelem dodavatel po uzavření smlouvy na plnění veřejné zakázky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Vymezení lhůt",
+      "content": "Obchodní podmínky vždy vymezí\na) dobu předání a převzetí staveniště,\nb) dobu zahájení stavebních prací,\nc) lhůtu pro dokončení stavebních prací,\nd) lhůtu pro předání a převzetí díla,\ne) počátek běhu záruční lhůty."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Předání a převzetí",
+      "content": "(1) Obchodní podmínky obsahují ujednání o předání a převzetí příslušné dokumentace.\n(2) Obchodní podmínky stanoví způsob předání a převzetí díla."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Obchodní podmínky stanoví\na) podmínky pro změnu subdodavatele, prostřednictvím kterého zhotovitel prokazoval v zadávacím řízení kvalifikaci,\nb) způsob zajištění řádného plnění,\nc) podmínky předání a převzetí staveniště,\nd) způsob zabezpečení zařízení staveniště a lhůtu pro odstranění zařízení staveniště a vyklizení staveniště po předání a převzetí díla,\ne) zásady kontroly zhotovitelem prováděných prací, stanovení organizace kontrolních dnů a postup při kontrole konstrukcí, které budou dalším postupem zakryty,\nf) délku záruční lhůty."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 2012.\n1) Vyhláška č. 230/2012 Sb., kterou se stanoví podrobnosti vymezení předmětu veřejné zakázky na stavební práce a rozsah soupisu stavebních prací, dodávek a služeb s výkazem výměr."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky",
+      "definition": "zhotovitelem dodavatel po uzavření smlouvy na plnění veřejné zakázky",
+      "source_provision": "§ 2"
+    }
+  ]
+}

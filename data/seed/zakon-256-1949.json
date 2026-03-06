@@ -1,0 +1,33 @@
+{
+  "id": "cz:256/1949",
+  "type": "statute",
+  "title": "256/1949 Sb., Nařízení, kterým se Státní sázková kancelář prohlašuje za samostatný podnik spravovaný podle zásad obchodního hospodaření",
+  "title_en": "",
+  "short_name": "256/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-12-21",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1949/256",
+  "description": "Nařízení, kterým se Státní sázková kancelář prohlašuje za samostatný podnik spravovaný podle zásad obchodního hospodaření",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Z podniku Státní loterie se vylučuje Státní sázková kancelář a prohlašuje se za samostatný podnik spravovaný podle zásad obchodního hospodaření."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V ustanovení § 1 vládního nařízení ze dne 25. září 1924, č. 206 Sb., kterým se provádí zákon o úpravě hospodaření ve státních závodech, ústavech a zařízeních, jež převahou nemají plniti úkoly správní, ve znění pozdějších předpisů, se ve výpočtu podniků spravovaných podle zásad obchodního hospodaření připojuje jako další podnik Státní sázková kancelář."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1950; provede je ministr financí."
+    }
+  ],
+  "definitions": []
+}

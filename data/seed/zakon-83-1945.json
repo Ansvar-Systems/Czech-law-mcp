@@ -1,0 +1,39 @@
+{
+  "id": "cz:83/1945",
+  "type": "statute",
+  "title": "83/1945 Sb., Dekret presidenta republiky o úpravě branné povinnosti osob povolaných, jakož i dobrovolně nastoupivších do činné služby",
+  "title_en": "",
+  "short_name": "83/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-10-10",
+  "in_force_date": "1945-10-10",
+  "url": "https://www.e-sbirka.cz/sb/1945/83",
+  "description": "Dekret presidenta republiky o úpravě branné povinnosti osob povolaných, jakož i dobrovolně nastoupivších do činné služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Osoby, které nebyly vojenskými osobami v záloze, náhradní záloze a na trvalé dovolené a které konaly nebo konají službu v československé armádě v zahraničí, v 1. československé armádě na Slovensku a v partyzánských oddílech, pokud nebyly odvedeny, sluší pokládati za odvedené dnem jejich vstupu do příslušného vojenského nebo partyzánského útvaru."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Osoby, které nebyly vojenskými osobami v záloze, náhradní záloze a na trvalé dovolené a které podle mobilisačních vyhlášek národních výborů nebo jiných velitelství v zemích České a Moravskoslezské byly povolány do činné služby a skutečně ji nastoupily, sluší pokládati za příslušníky branné moci dnem presentace (nastoupením činné služby) a jejich služba po dobu války se pokládá za službu válečnou ve smyslu ustanovení § 28, odst. 1, písm. b) branného zákona."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Osoby, které nebyly vojenskými osobami v záloze, náhradní záloze a na trvalé dovolené a které podle mobilisační vyhlášky ministra národní obrany byly na Slovensku povolány k činné službě a skutečně ji nastoupily, sluší pokládati za odvedené podle ustanovení § 28, odst. 1, písm. c) a d) branného zákona, a to dnem presentace (nastoupením činné služby)."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tento dekret nabývá účinnosti dnem vyhlášení; provede jej ministr národní obrany."
+    }
+  ],
+  "definitions": []
+}

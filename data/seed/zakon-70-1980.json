@@ -1,0 +1,33 @@
+{
+  "id": "cz:70/1980",
+  "type": "statute",
+  "title": "70/1980 Sb., Vyhláška Ministerstva spravodlivosti Slovenskej socialistickej republiky, ktorou sa ustanovuje paušálna suma trov trestného konania",
+  "title_en": "",
+  "short_name": "70/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-06-20",
+  "in_force_date": "1980-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1980/70",
+  "description": "Vyhláška Ministerstva spravodlivosti Slovenskej socialistickej republiky, ktorou sa ustanovuje paušálna suma trov trestného konania",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Paušálna suma trov trestného konania, ktoré znáša štát a sú uvedené v ustanoveniach § 152 ods. 1 písm. c) a § 153 ods. 1 Trestného poriadku, je\n1. v trestnom konaní, v ktorom bol vydaný trestný rozkaz, ktorý sa stal právoplatným, 500 Kčs,\n2. v ostatných trestných konaniach,\na) ak sa nepribral znalec, 800 Kčs,\nb) ak sa pribral znalec1) z iného odboru ako psychiatrie, 1200 Kčs,\nc) ak sa pribrali znalci z odboru psychiatrie, 1800 Kčs."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Zrušuje sa vyhláška ministra spravodlivosti Slovenskej socialistickej republiky č. 64/1970 Zb., ktorou sa ustanovuje paušálna suma trov trestného konania.\n(2) Ustanovenia § 1 sa nevzťahujú na trovy trestného konania vo veciach, ktoré boli právoplatne skončené do 30. júna 1980."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Táto vyhláška nadobúda účinnosť 1. júlom 1980.\n1) Pribratím znalca sa rozumie aj vyžiadanie posudku štátneho orgánu alebo štátneho ústavu podľa § 110 Trestného poriadku, nie však jeho odborné vyjadrenie podľa § 105 ods. 1 vety 2 Trestného poriadku."
+    }
+  ],
+  "definitions": []
+}

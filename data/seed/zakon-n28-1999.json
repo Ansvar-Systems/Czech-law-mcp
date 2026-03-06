@@ -1,0 +1,64 @@
+{
+  "id": "cz:n28/1999",
+  "type": "statute",
+  "title": "n28/1999 Sb., Opatření Českého statistického úřadu k zavedení klasifikace územních statistických jednotek",
+  "title_en": "",
+  "short_name": "n28/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-05-18",
+  "in_force_date": "1999-05-18",
+  "url": "https://www.e-sbirka.cz/sb/1999/n28",
+  "description": "Opatření Českého statistického úřadu k zavedení klasifikace územních statistických jednotek",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "1. Úvod\nUsnesením vlády České republiky č. 707/1998 k návrhu na vymezení územních jednotek NUTS v ČR pro potřeby statistické, analytické a pro potřeby Evropské unie (EU) vláda doporučila předsedovi ČSÚ, aby po dohodě se Statistickým úřadem Evropských společenství (Eurostatem) vymezil statistické územní jednotky NUTS na území České republiky. Český statistický úřad proto vypracoval Klasifikaci územních statistických jednotek CZ-NUTS na podkladě metodických principů vytvořených Eurostatem. Označení CZ v názvu klasifikace znamená národní verzi mezinárodního standardu NUTS."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "2. Metodické principy mezinárodní klasifikace NUTS\nKlasifikace NUTS (La Nomenclature des Unités Territoriales Statistiques) byla zavedena Statistickým úřadem Evropských společenství ve spolupráci s ostatními orgány EU pro potřeby klasifikování jednotné unifikované struktury územních jednotek.\nKlasifikace NUTS se využívá ke statistickému monitorování a k analýzám sociální a ekonomické situace v regionech a pro potřeby přípravy, realizace a hodnocení regionální politiky.\nOd roku 1988 je klasifikace NUTS používána v legislativě EU (Council Regulation No 2052/88 a navazující předpisy) zejména pro úkoly spojené s čerpáním ze Strukturálních fondů EU.\nKlasifikace obsahuje 6 úrovní NUTS (NUTS 0, NUTS 1, NUTS 2, NUTS 3, NUTS 4 a NUTS 5), které představují velikostní skupiny. Vymezení jednotlivých úrovní NUTS je charakterizováno počtem obyvatel a rozlohou.\nTřídění NUTS je kombinací alfabetického a číselného kódu. Kromě NUTS 0 a NUTS 5 se u každé položky používá 1 místo. Tam, kde počet kódovaných položek překročí 10 pozic, používá se čísel 1 až 9 a dále se používají písmena bez háčků a čárek. To znamená, že číslo A = 10, B = 11 atd. U NUTS 0 se používá dvoumístný alfabetický kód státu podle číselníku zemí."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "3. Klasifikace CZ-NUTS\nVláda usnesením č. 707/1998 doporučila vymezit statistické územní jednotky na území ČR ve shodě s vymezením NUTS v rámci EU. Proto je klasifikace CZ-NUTS vypracována na podkladě metodických principů a standardu Eurostatu.\nNa základě ústavního zákona č. 347/1997 Sb. bude ČR dělena od 1. 1. 2000 na 14 krajů - vyšších územních samosprávných celků (VÚSC). Průměrná velikost těchto krajů je v porovnání s průměrem NUTS 2 za EU menší co do počtu obyvatel 2,5krát, co do rozlohy 4krát. Tyto kraje jsou proto zařazeny do úrovně NUTS 3. Pro potřeby poskytování dat, zejména k čerpání Strukturálních fondů EU, je v tomto případě nutné vytvořit sdružené kraje, tzv. oblasti na úrovni NUTS 2. Vytvoření této úrovně NUTS 2 v podmínkách ČR má ryze statistický charakter.\nPři vymezování územních jednotek NUTS se brala v úvahu zejména tato hlediska:\na) respektování velikosti územních jednotek dle doporučení EU,\nb) respektování principu skladebnosti a vztahu na administrativně správní dělení státu,\nc) podobnost jednotek nižšího řádu vytvářejících jednotku řádu vyššího,\nd) zabezpečení souboru dat a informací požadovaných ze strany EU,\ne) uplatňování pravomoci zastupitelských sborů a orgánů státní správy na úrovni kraje (VÚSC).\nRozhodujícím pro sdružování krajů do oblastí (NUTS 2) byla jejich velikost měřená počtem obyvatelstva, aby byla zajištěna porovnatelnost údajů za oblasti NUTS 2 v ČR s oblastmi stejné úrovně NUTS v EU. V ČR to má být územní jednotka, jejíž počet obyvatelstva je vyšší než 1 milion. Přitom z hlediska využití pro vnitrostátní komparace bylo užitečné sledovat i relativně rovnoměrné rozdělení obyvatelstva do oblastí NUTS 2.\nVymezení územních jednotek NUTS schválené vládou bylo zasláno Eurostatu k posouzení. Eurostat rozdělení územních jednotek v ČR přijal, tzn. na úrovni NUTS 1 je jedna územní jednotka, NUTS 2 je 8 územních jednotek a na úrovni NUTS 3 je 14 územních jednotek.\nPodle výše uvedených principů byla stanovena konstrukce klasifikace CZ-NUTS."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "4. Předmět klasifikace CZ-NUTS\nPředmětem klasifikace CZ-NUTS je klasifikování územních jednotek v ČR podle principů vytvořených v rámci EU.\nKlasifikace má 6 úrovní NUTS s následujícím významem:"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "5. Konstrukce klasifikace CZ-NUTS\nPro třídění je v klasifikaci CZ-NUTS využita kombinace alfabetického a číselného kódu."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "6. Využití klasifikace CZ-NUTS\nKlasifikace CZ-NUTS je určena především pro statistické účely, dále pro potřeby analytické a pro potřeby poskytování údajů ve vztahu k EU, zejména pro úkoly spojené s čerpáním z tzv. Strukturálních fondů."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "chapter": "KLASIFIKACE ÚZEMNÍCH STATISTICKÝCH JEDNOTEK CZ-NUTS",
+      "content": "7. Vazba na předchozí číselník\nOpatřením ČSÚ ze dne 5. října 1995 byl zaveden Číselník krajů a okresů - ČKO (částka 69/1995 Sb.), který se klasifikací CZ-NUTS nahrazuje.\nVazba kódů krajů a okresů CZ-NUTS a kódů krajů a okresů ČKO je uvedena v části III. této klasifikace.\nPřehled skupin (NUTS 2 - oblasti):\nPřehled podskupin (NUTS 3 - kraje):\nČlenění v tabulce je uvedeno do úrovně NUTS 4, protože kód pro NUTS 5 se přebírá z číselníku základních územních jednotek - ZÚJ (číselníku obcí).\nKód NUTS 0NUTS 1NUTS 2NUTS 3NUTS 4\nČRČROblastKrajOkres\nCZČR\nCZ0ČR\nCZ01Praha\nCZ011Hl. m. Praha\nCZ0111Praha 1\nCZ0112Praha 2\nCZ0113Praha 3\nCZ0114Praha 4\nCZ0115Praha 5\nCZ0116Praha 6\nCZ0117Praha 7\nCZ0118Praha 8\nCZ0119Praha 9\nCZ0111APraha 10\nCZ011BPraha 11\nCZ011CPraha 12\nCZ011DPraha 13\nCZ011EPraha 14\nCZ011FPraha 15\nCZ02Střední Čechy\nCZ021Středočeský kraj\nCZ0211Benešov\nCZ0212Beroun\nCZ0213Kladno\nCZ0214Kolín\nCZ0215Kutná Hora\nCZ0216Mělník\nCZ0217Mladá Boleslav\nCZ0218Nymburk\nCZ0219Praha-východ\nCZ021APraha-západ\nCZ021BPříbram\nCZ021CRakovník\nCZ03Jihozápad\nCZ031Budějovický kraj\nCZ0311České Budějovice\nCZ0312Český Krumlov\nCZ0313Jindřichův Hradec\nCZ0314Písek\nCZ0315Prachatice\nCZ0316Strakonice\nCZ0317Tábor\nCZ032Plzeňský kraj\nCZ0321Domažlice\nCZ0322Klatovy\nCZ0323Plzeň-město\nCZ0324Plzeň-jih\nCZ0325Plzeň-sever\nCZ0326Rokycany\nCZ0327Tachov\nCZ04Severozápad\nCZ041Karlovarský kraj\nCZ0411Cheb\nCZ0412Karlovy Vary\nCZ0413Sokolov\nCZ042Ústecký kraj\nCZ0421Děčín\nCZ0422Chomutov\nCZ0423Litoměřice\nCZ0424Louny\nCZ0425Most\nCZ0426Teplice\nCZ0427Ústí nad Labem\nCZ05Severovýchod\nCZ051Liberecký kraj\nCZ0511Česká Lípa\nCZ0512Jablonec nad Nisou\nCZ0513Liberec\nCZ0514Semily\nCZ052Královéhradecký kra\nCZ0521Hradec Králové\nCZ0522Jičín\nCZ0523Náchod\nCZ0524Rychnov nad Kněžnou\nCZ0525Trutnov\nCZ053Pardubický kraj\nCZ0531Chrudim\nCZ0532Pardubice\nCZ0533Svitavy\nCZ0534Ústí nad Orlicí\nCZ06Jihovýchod\nCZ061Jihlavský kraj\nCZ0611Havlíčkův Brod\nCZ0612Jihlava\nCZ0613Pelhřimov\nCZ0614Třebíč\nCZ0615Žďár nad Sázavou\nCZ062Brněnský kraj\nCZ0621Blansko\nCZ0622Brno-město\nCZ0623Brno-venkov\nCZ0624Břeclav\nCZ0625Hodonín\nCZ0626Vyškov\nCZ0627Znojmo\nCZ07Střední Morava\nCZ071Olomoucký kraj\nCZ0711Jeseník\nCZ0712Olomouc\nCZ0713Prostějov\nCZ0714Přerov\nCZ0715Šumperk\nCZ072Zlínský kraj\nCZ0721Kroměříž\nCZ0722Uherské Hradiště\nCZ0723Vsetín\nCZ0724Zlín\nCZ08Ostravsko\nCZ081Ostravský kraj\nCZ0811Bruntál\nCZ0812Frýdek-Místek\nCZ0813Karviná\nCZ0814Nový Jičín\nCZ0815Opava\nCZ0816Ostrava-město\nV tabulce je uveden převodník kódů krajů a okresů podle CZ-NUTS na kódy podle bývalého Číselníku krajů a okresů (ČKO).\nKód NUTS Název územíZkratka okresuDřívější kód\n(kraj + okres)(ČKO)\nCZ011Hl. m. Praha31\nCZ0111Praha 13101\nCZ0112Praha 23102\nCZ0113Praha 33103\nCZ0114Praha 43104\nCZ0115Praha 53105\nCZ0116Praha 63106\nCZ0117Praha 73107\nCZ0118Praha 83108\nCZ0119Praha 93109\nCZ011APraha 103110\nCZ011BPraha 11-\nCZ011CPraha 12-\nCZ011DPraha 13-\nCZ011EPraha 14-\nCZ011FPraha 15-\nCZ021Středočeský kraj32\nCZ0211BenešovBN3201\nCZ0212BerounBE3202\nCZ0213KladnoKD3203\nCZ0214KolínKO3204\nCZ0215Kutná HoraKH3205\nCZ0216MělníkME3206\nCZ0217Mladá BoleslavMB3207\nCZ0218NymburkNB3208\nCZ0219Praha-východPY3209\nCZ021APraha-západPZ3210\nCZ021BPříbramPB3211\nCZ021CRakovníkRA3212\nCZ031Budějovický kraj-\nCZ0311České BudějoviceCB3301\nCZ0312Český KrumlovCK3302\nCZ0313Jindřichův HradecJH3303\nCZ0314PísekPI3305\nCZ0315PrachaticePT3306\nCZ0316StrakoniceST3307\nCZ0317TáborTA3308\nCZ032Plzeňský kraj-\nCZ0321DomažliceDO3401\nCZ0322KlatovyKT3404\nCZ0323Plzeň-městoPM3405\nCZ0324Plzeň-jihPJ3406\nCZ0325Plzeň-severPS3407\nCZ0326RokycanyRO3408\nCZ0327TachovTC3410\nCZ041Karlovarský kraj-\nCZ0411ChebCH3402\nCZ0412Karlovy VaryKV3403\nCZ0413SokolovSO3409\nCZ042Ústecký kraj-\nCZ0421DěčínDC3502\nCZ0422ChomutovCV3503\nCZ0423LitoměřiceLT3506\nCZ0424LounyLN3507\nCZ0425MostMO3508\nCZ0426TepliceTP3509\nCZ0427Ústí nad LabemUL3510\nCZ051Liberecký kraj-\nCZ0511Česká LípaCL3501\nCZ0512Jablonec nad NisouJN3504\nCZ0513LiberecLI3505\nCZ0514SemilySM3608\nCZ052Královéhradecký kraj-\nCZ0521Hradec KrálovéHK3602\nCZ0522JičínJC3604\nCZ0523NáchodNA3605\nCZ0524Rychnov nad KněžnouRK3607\nCZ0525TrutnovTU3610\nCZ053Pardubický kraj-\nCZ0531ChrudimCR3603\nCZ0532PardubicePU3606\nCZ0533SvitavySY3609\nCZ0534Ústí nad OrlicíUO3611\nCZ061Jihlavský kraj-\nCZ0611Havlíčkův BrodHB3601\nCZ0612JihlavaJI3707\nCZ0613PelhřimovPE3304\nCZ0614TřebíčTR3710\nCZ0615Žďár nad SázavouZR3714\nCZ062Brněnský kraj-\nCZ0621BlanskoBK3701\nCZ0622Brno-městoBM3702\nCZ0623Brno-venkovBI3703\nCZ0624BřeclavBV3704\nCZ0625HodonínHO3706\nCZ0626VyškovVY3712\nCZ0627ZnojmoZN3713\nCZ071Olomoucký kraj-\nCZ0711JeseníkJE3811\nCZ0712OlomoucOC3805\nCZ0713ProstějovPV3709\nCZ0714PřerovPR3808\nCZ0715ŠumperkSU3809\nCZ072Zlínský kraj-\nCZ0721KroměřížKM3708\nCZ0722Uherské HradištěUH3711\nCZ0723VsetínVS3810\nCZ0724ZlínZL3705\nCZ081Ostravský kraj-\nCZ0811BruntálBR3801\nCZ0812Frýdek-MístekFM3802\nCZ0813KarvináKI3803\nCZ0814Nový JičínNJ3804\nCZ0815OpavaOP3806\nCZ0816Ostrava-městoOV3807"
+    }
+  ],
+  "definitions": []
+}

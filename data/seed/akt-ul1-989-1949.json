@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:989/1949",
+  "type": "statute",
+  "title": "989/1949 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách cukrářských výrobků a zmrzliny.",
+  "title_en": "",
+  "short_name": "989/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-09-29",
+  "in_force_date": "1949-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/989",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách cukrářských výrobků a zmrzliny.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Ceny cukrářských výrobků a zmrzliny přípustné k 30. září 1949 smějí být od 1. října 1949 zvýšeny jen o rozdíl cen při výrobě použitého cukru, tuku, marmelády, mandlí, hrozinek a vajec, nakoupených na volném trhu, a o rozdíl v ceně mouky.\n(2) Ostatní kalkulační položky, jakož i obchodní rozpětí a po případě poskytované slevy přípustné k 30. září 1949 nesmějí být měněny a zůstanou v dosavadní nominelní výši.\n(3) Pro soukromý sektor není všeobecná daň podle sazebníku B zákona ze dne 21. prosince 1948, Sb. č. 283, kalkulační položkou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro nové druhy zboží, nevyráběného k 30. září 1949, smějí být k cenám surovin připočteny režijní přirážky, obchodní rozpětí a případné slevy v nominelní výši srovnatelného výrobku k 30. září 1949."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Všechny podniky, vyrábějící cukrářské výrobky a zmrzlinu jsou povinny vésti receptní knihu, do niž je třeba zapsat o každém vyrobeném druhu zboží:\na) složení výrobku (použité suroviny),\nb) množství a ceny použitých surovin,\nc) vyrobené množství hotových výrobků (kg, litry, počet a váha kusů),\nd) obchodní rozpětí, po případě poskytované slevy,\ne) spotřebitelskou cenu za prodejní jednotku."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1949."
+    }
+  ],
+  "definitions": []
+}

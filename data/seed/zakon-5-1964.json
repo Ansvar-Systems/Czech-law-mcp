@@ -1,0 +1,39 @@
+{
+  "id": "cz:5/1964",
+  "type": "statute",
+  "title": "5/1964 Sb., Vyhláška ministra financí, kterou se stanoví výše státního příspěvku pro družstevní bytovou výstavbu zahajovanou od 1. ledna 1964",
+  "title_en": "",
+  "short_name": "5/1964 Sb.",
+  "status": "in_force",
+  "issued_date": "1964-01-23",
+  "in_force_date": "1964-01-23",
+  "url": "https://www.e-sbirka.cz/sb/1964/5",
+  "description": "Vyhláška ministra financí, kterou se stanoví výše státního příspěvku pro družstevní bytovou výstavbu zahajovanou od 1. ledna 1964",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Průměrný státní příspěvek podle § 7 odst. 1 vyhlášky ministra financí č. 94/1959 Ú. l., o financování, úvěrování a kontrole družstevní a podnikové bytové výstavby, na 1 byt v družstevní bytové výstavbě zahájené počínajíc 1. lednem 1964 činí 18 090 Kčs.*)\n(2) Státní příspěvek poskytovaný stavebním bytovým družstvům se stanoví podle velikosti bytů takto:\nVelikost bytu Výše státního příspěvku v Kčs\nUžitková plocha bytu v m2**) Počet obytných místností nejméně\ndo 30 1 9 900\nnad 30 do 44 1 12 900\nnad 44 do 60 2 17 500\nnad 60 do 70 2 21 300\nnad 70 do 80 3 23 200\nnad 80 3 25 500\nNejsou-li splněny oba ukazatele velikosti bytu stanovené pro přiznání příspěvku v určité výši, poskytne se příslušný nižší státní příspěvek.\n(3) Vyžadují-li to zájmy řízení bytové politiky v kraji, mohou krajské národní výbory stanovit státní příspěvek jednotně pro celý kraj v jiné výši nebo jej odstupňovat podle velikosti bytu jinak, než je uvedeno v odstavci 2.\n(4) Krajské národní výbory poskytnou na státních příspěvcích vcelku částku vyšší nebo nižší, než odpovídá průměru 18 090 Kčs na 1 byt (odstavec 1), podle toho, jaká je skutečná velikost družstevních bytů, jejichž výstavba se v kraji v běžném roce zahajuje. Přitom však úhrn státních příspěvků poskytnutých v kraji nesmí - ani v případě použití ustanovení odstavce 3 - překročit částku, která by na družstevní bytovou výstavbu příslušela podle velikosti bytů a sazeb uvedených v odstavci 2."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ruší se platnost vyhlášky ministra financí č. 130/1962 Sb., o státním příspěvku pro družstevní bytovou výstavbu, pokud jde o družstevní bytovou výstavbu zahajovanou po 31. prosinci 1963."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n*) Tj. ve výši 30 % průměrného nákladu na byt plánovaného ve státní výstavbě s připočtením nákladu na projekt a pozemek. Náplň rozpočtového nákladu na byt v objektu je vymezena pokyny Státní plánovací komise č. 250 715/62 - SM 6 ze dne 21. února 1962.\n**) Užitkovou plochou bytu se zde rozumí plocha ve smyslu projektových ČSN."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "**) Užitkovou plochou bytu se zde",
+      "definition": "plocha ve smyslu projektových ČSN",
+      "source_provision": "§ 3"
+    }
+  ]
+}

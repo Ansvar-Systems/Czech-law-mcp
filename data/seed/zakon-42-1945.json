@@ -1,0 +1,57 @@
+{
+  "id": "cz:42/1945",
+  "type": "statute",
+  "title": "42/1945 Sb., Nařízení o poskytnutí dovolené zaměstnaným posluchačům vysokých škol",
+  "title_en": "",
+  "short_name": "42/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-08-27",
+  "in_force_date": "1945-08-27",
+  "url": "https://www.e-sbirka.cz/sb/1945/42",
+  "description": "Nařízení o poskytnutí dovolené zaměstnaným posluchačům vysokých škol",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Zaměstnancům, kteří pro uzavření vysokých škol dne 17. listopadu 1939 musili přerušiti své studium na některé tuzemské vysoké škole a chtějí je nyní dokončiti, poskytne zaměstnavatel na jejich žádost neplacenou dovolenou. Až do ukončení studií, stane-li se tak nejdéle do jednoho roku od nástupu dovolené, zachovává se těmto zaměstnancům jejich pracovní (služební) poměr, pokud trval dne 1. května 1945.\n(2) Ukončením studií podle odstavce 1 rozumí se výkon zkoušek, potřebných pro přijetí na místo, pro něž se vyžaduje předběžné vysokoškolské vzdělání.\n(3) O dovolenou požádá zaměstnanec nejpozději do 30. září 1945. Žádost doloží potvrzením vysoké školy o tom, že jsou splněny předpoklady, uvedené v odstavci 1 a že žadatel je zapsán jako řádný posluchač na této škole nebo je ve stavu závěrečných zkoušek.\n(4) Práva a povinnosti, vyplývající z pracovního (služebního) poměru zaměstnanců, uvedených v předcházejících odstavcích, odpočívají po dobu dovolené. Po dobu této dovolené (§ 3) zůstává však nedotčena pojistná povinnost veřejnoprávního nemocenského a důchodového pojištění. Pojistné platí celé zaměstnavatel. Výši pojistného stanoví ministr ochrany práce a sociální péče vyhláškou v Úředním listě. Ve veřejnoprávním pensijním zaopatření je doba neplacené dovolené (odst. 1) započitatelná pro nárok na odpočivné (zaopatřovací) platy a jejich výměru."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Je-li nebezpečí, že by okamžitým odchodem zaměstnance na dovolenou nastaly vážné poruchy v řádném chodu závodu (úřadu, ústavu) a tím byl ohrožen důležitý veřejný zájem, může okresní úřad ochrany práce odložiti na žádost zaměstnavatele nástup dovolené nejdéle o jeden měsíc ode dne, kdy o ni zaměstnanec požádal."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Zaměstnanec, jemuž byla poskytnuta dovolená podle § 1, odst. 1, a který uplatňuje nárok na zachování pracovního (služebního) poměru, je povinen vrátiti se do 14 dnů po ukončení studií.\n(2) Nevrátí-li se zaměstnanec ve lhůtě, stanovené v odstavci 1, má se za to, že jeho dosavadní pracovní (služební) poměr zanikl dnem ukončení studií, leč by mu bylo včasné nastoupení práce znemožněno z důležitého důvodu bez jeho zavinění. V tomto případě nutno zaměstnavatele včas vyrozuměti. Důležitost důvodu posoudí okresní úřad ochrany práce.\n(3) Před ukončením studií může býti pracovní (služební) poměr, založený soukromoprávní smlouvou, zrušen jen se souhlasem okresního úřadu ochrany práce."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Zaměstnavatel, který jedná proti předpisům tohoto nařízení, dopouští se trestného činu, který stíhají okresní úřady ochrany práce podle míry zavinění pořádkovou pokutou až do výše 10.000.-K nebo okresní národní výbory na návrh okresního úřadu ochrany práce správními tresty a to pokutou až do výše 100.000.-K nebo vězením do jednoho roku nebo oběma těmito tresty.\n(2) Ustanovení odstavce 1 se nevztahuje na veřejnoprávní zaměstnavatele."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Předpisy a ujednání pro zaměstnance příznivější zůstávají nedotčeny."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Toto nařízení platí jen v zemích českých, nabývá účinnosti dnem vyhlášení a vztahuje se i na dobu od 1. června 1945; provede je ministr ochrany práce a sociální péče v dohodě se zúčastněnými ministry."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ukončením studií podle odstavce 1",
+      "definition": "se výkon zkoušek, potřebných pro přijetí na místo, pro něž se vyžaduje předběžné vysokoškolské vzdělání",
+      "source_provision": "§ 1."
+    }
+  ]
+}

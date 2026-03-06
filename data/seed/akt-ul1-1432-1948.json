@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1432/1948",
+  "type": "statute",
+  "title": "1432/1948 Ú. l. I, Vyhláška ministra průmyslu o zřízení MITOPU, továren na plst národního podniku.",
+  "title_en": "",
+  "short_name": "1432/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-04",
+  "in_force_date": "1948-09-30",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1432",
+  "description": "Vyhláška ministra průmyslu o zřízení MITOPU, továren na plst národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. „Arpo“ Arnauer Polierscheiben-Erzeugung Inh. Olga Dolak, se sídlem v Hostinném, spr. okr. Vrchlabí;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Staroehrenberská továrna na plsť Rudolf Focke ml., se sídlem ve Starých Křečanech;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Továrna na plsť, Ema Janderová a Jindřich Jandera, se sídlem v Ústí nad Orlicí;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Továrny na plstě M. Lauermann a spol., se sídlem ve Šluknově."
+    }
+  ],
+  "definitions": []
+}

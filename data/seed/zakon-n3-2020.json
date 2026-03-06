@@ -1,0 +1,33 @@
+{
+  "id": "cz:n3/2020",
+  "type": "statute",
+  "title": "n3/2020 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "n3/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-16",
+  "in_force_date": "2020-03-16",
+  "url": "https://www.e-sbirka.cz/sb/2020/n3",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "„4. s účinností ode dne 16. března 2020 od 6:00 hod. do dne 24. března 2020 provoz samoobslužných prádelen a čistíren,“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Bod 2 v usnesení vlády ze dne 15. března 2020 č. 220, vyhlášeném pod č. 90/2020 Sb., správně zní:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "„2. ministru zdravotnictví informovat a metodicky vést osoby uvedené v bodu 4 v procesu zajišťování poskytování péče podle bodu 1,“."
+    }
+  ],
+  "definitions": []
+}

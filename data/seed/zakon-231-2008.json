@@ -1,0 +1,39 @@
+{
+  "id": "cz:231/2008",
+  "type": "statute",
+  "title": "231/2008 Sb., Vyhláška, kterou se mění vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací",
+  "title_en": "",
+  "short_name": "231/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-06-30",
+  "in_force_date": "2008-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/231",
+  "description": "Vyhláška, kterou se mění vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, se mění takto:\n1. V § 5 odst. 6 se za slova „podle § 4 odst. 2“ vkládají slova „s mezinárodním přestupným znakem podle § 4 odst. 3“.\n2. V § 7 odstavec 2 zní:\n„(2) Lehce zapamatovatelným číslem se pro účely této vyhlášky rozumí každé telefonní číslo ve formátech uvedených v příloze č. 1 a každé třímístné, čtyřmístné, pětimístné zkrácené telefonní číslo nebo evropské harmonizované číslo.“.\n3. V § 8 se věta druhá nahrazuje větou „Po volbě kódu volby operátora nebo při nastaveném kódu předvolby operátora se při uskutečňování národního volání volí a předává telefonní číslo bez mezinárodního přestupného znaku podle § 4 odst. 3 a bez kódu země podle § 4 odst. 2.“.\n4. § 9 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 9",
+      "section": "9",
+      "title": "„§ 9 Mezinárodní identifikátor účastníka mobilní telefonní sítě",
+      "content": "(1) Mezinárodní identifikátor účastníka mobilní telefonní sítě identifikuje účastníka v mobilní telefonní síti podle doporučení Mezinárodní telekomunikační unie ITU-T E.212.\n(2) Mezinárodní identifikátor účastníka mobilní telefonní sítě se skládá z kódu země mobilní telefonní sítě, kódu mobilní telefonní sítě a identifikačního čísla účastníka mobilní telefonní sítě. Pro Českou republiku je stanoven kód země mobilní telefonní sítě 230. Formát mezinárodního identifikátoru účastníka mobilní telefonní sítě je uveden v příloze č. 1.“.\n5. V § 25 se slovo „mobilní“ zrušuje.\n6. V příloze č. 1 v bodě 4.5 Zkrácená telefonní čísla pro přístup ke službám s kódem SAC=15 v popisu čísla 153 se slova „dopravní tísňové volání“ nahrazují slovy „národní tísňové volání“.\n7. V příloze č. 1 v bodě 6 Přístupové kódy k síti elektronických komunikací se u DNe 976, v části popisu Síť elektronických komunikací, za slova „Přístup k“ vkládají slova „veřejné datové síti a k“.\n8. V příloze č. 1 v bodě 7 Přístupové kódy ke službě elektronických komunikací v poznámce u přístupového kódu ke službě SAC=800 se slova „určuje poskytovatele přístupu ke službě na účet volaného“ zrušují.\n9. V příloze č. 1 v bodě 7 Přístupové kódy ke službě elektronických komunikací text poznámky u přístupového kódu ke službě SAC=908 zní: „Kombinace číslic A, B určuje výši ceny za jedno volání, včetně DPH.“.\n10. V příloze č. 1 bod 9 zní:\n„9. Přístupové kódy k neveřejným telefonním sítím a neveřejným komunikačním sítím\nPřístupové kódy Druh neveřejných sítí Poznámka\n9500 až 9599 Přístup k neveřejným telefonním sítím Délka telefonního čísla je 9 číslic.\n972 až 974 Přístup k neveřejným telefonním sítím Délka telefonního čísla je 9 číslic.\n975 Rezerva přístupu k neveřejným telefonním sítím\n980 Přístup k virtuální neveřejné telefonní síti (VPN) Délka telefonního čísla je 9 až 12 číslic.\n981 až 982 Rezerva pro přístup k virtuální neveřejné telefonní síti (VPN)\n983 Přístup k virtuální neveřejné telefonní síti (VPN) Délka telefonního čísla je 7 číslic.\n984 až 988 Rezerva pro přístup k virtuální neveřejné komunikační síti (VPN)\n9890 až 9899 Přístup k virtuální neveřejné komunikační síti (VPN) Délka telefonního čísla je 9 číslic.\n990 až 999 Rezerva\n“.\n11. V příloze č. 1 v bodě 11 v nadpisu se slovo „veřejné“ zrušuje.\n12. V příloze č. 1 v bodě 11 v popisu MCC se slovo „veřejné“ zrušuje.\n13. V příloze č. 1 v bodě 11 v popisu MNC se slovo „veřejné“ zrušuje.\n14. V příloze č. 4 v bodě 2 Formát kódu signalizačního zařízení bodu přechodové signalizační sítě se signalizačním systémem č. 7 v poznámce se slovo „mezinárodního“ zrušuje."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti 1. července 2008."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Lehce zapamatovatelným číslem",
+      "definition": "každé telefonní číslo ve formátech uvedených v příloze č",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

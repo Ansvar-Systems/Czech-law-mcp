@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1201/1946",
+  "type": "statute",
+  "title": "1201/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu dřevozpracujícího.",
+  "title_en": "",
+  "short_name": "1201/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-09",
+  "in_force_date": "1948-08-04",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1201",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu dřevozpracujícího.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku J. Schowanek, se sídlem v Albrechticích u Jablonce nad Nisou, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Družstvo pro export dříví a dřevěných výrobků, zapsané společenstvo s r. o., se sídlem v Praze;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou, podstatu podniku Lineol-závody, Wiederholz a spol., komanditní společnost, továrna na hračky a kovové zboží, se sídlem v Jihlavě, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

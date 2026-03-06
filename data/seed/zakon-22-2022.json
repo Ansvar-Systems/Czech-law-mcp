@@ -1,0 +1,50 @@
+{
+  "id": "cz:22/2022",
+  "type": "statute",
+  "title": "22/2022 Sb., Vyhláška, kterou se mění vyhláška č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, a vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "22/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-02-04",
+  "in_force_date": "2022-02-04",
+  "url": "https://www.e-sbirka.cz/sb/2022/22",
+  "description": "Vyhláška, kterou se mění vyhláška č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, a vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna vyhlášky o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání",
+      "content": "Vyhláška č. 267/2017 Sb., o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání, se mění takto:\n1. V názvu vyhlášky, nadpisu § 2, § 2 odst. 2 a 4 a v § 7 odst. 2 se slova „volajícího“ nahrazují slovy „účastníka tísňové komunikace“.\n2. V § 1 písm. b) se slova „volající při zahájení hovoru“ nahrazují slovy „účastník tísňové komunikace při jejím uskutečnění“.\n3. V § 1 písm. e) se slova „číslo tísňového volání“ nahrazují slovy „tísňové číslo“ a slova „pracovištěm příjmu tísňového volání“ se nahrazují slovy „centrem tísňové komunikace“.\n4. V § 2 odst. 1 se slova „a příjmení,“ nahrazují slovem „příjmení“.\n5. V § 2 odst. 3 písm. b) se slova „z registru územní identifikace“ nahrazují slovy „ze základního registru územní identifikace, adres a nemovitostí (dále jen „registr územní identifikace“)“.\n6. Nadpis § 3 zní:\n7. Skupinový nadpis nad § 4 zní:\n8. V § 4 odstavec 1 zní:\n„(1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací umožňující koncovým uživatelům volání prostřednictvím veřejné pevné komunikační sítě předává centru tísňové komunikace při každé tísňové komunikaci systémovou signalizací podle síťového plánu signalizace veřejných komunikačních sítí vydaného Českým telekomunikačním úřadem podle § 62 zákona o elektronických komunikacích (dále jen „síťový signalizační plán“) telefonní číslo, ze kterého se tato komunikace uskutečňuje.“.\n9. V § 4 odst. 2 se slovo „subjekt“ nahrazuje slovy „centrum tísňové komunikace“ a slova „bylo uskutečněno volání na číslo tísňového volání“ se nahrazují slovy „byla uskutečněna tísňová komunikace“.\n10. V § 5 odst. 1 a § 10 odst. 2 se slovo „subjektu“ nahrazuje slovy „centru tísňové komunikace“.\n11. V § 5 odst. 2 se slova „tísňovém volání“ nahrazují slovy „tísňové komunikaci“ a slova „bylo tísňové volání uskutečněno“ se nahrazují slovy „byla tísňová komunikace uskutečněna“.\n12. § 6 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 6",
+      "section": "6",
+      "title": "„§ 6 Lokalizace geografické polohy účastníka tísňové komunikace ve veřejných mobilních komunikačních sítích",
+      "chapter": "ČÁST PRVNÍ - Změna vyhlášky o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání - „Předávání údajů podnikateli, který vede databázi“. - „Předávání údajů z databáze centru tísňové komunikace“.",
+      "content": "(1) V případě tísňové komunikace prostřednictvím volání z veřejné mobilní komunikační sítě předává podnikatel poskytující veřejně dostupnou interpersonální komunikační službu založenou na číslech centru tísňové komunikace údaje určující\na) index oblasti,\nb) geografickou polohu základnové stanice účastníka tísňové komunikace v systému WGS84, nebo\nc) geografickou polohu těžiště sektoru poslední známé základnové stanice účastníka tísňové komunikace v systému WGS84.\n(2) Na základě vyžádání ze strany centra tísňové komunikace v rámci jednotlivé tísňové komunikace předává podnikatel zajišťující veřejnou mobilní komunikační síť, v jehož síti tísňová komunikace vznikla, geografickou polohu základnové stanice účastníka tísňové komunikace v systému WGS84 nebo geografické označení identifikovaného sektoru základnové stanice v systému WGS84, včetně azimutu směrování antén, a to přenosem po datové síti. K identifikaci účastníka tísňové komunikace použije centrum tísňové komunikace telefonní číslo účastníka tísňové komunikace anebo identifikátor mobilního telekomunikačního zařízení.“.\n13. V § 7 odst. 1 se slova „podle § 6“ nahrazují slovy „podle § 6 odst. 1“.\n14. V § 7 odst. 2 se slovo „subjekt“ nahrazuje slovy „centrum tísňové komunikace“.\n15. V § 8 se slovo „subjektu“ nahrazuje slovy „centru tísňové komunikace“.\n16. § 9 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 9",
+      "section": "9",
+      "title": "„§ 9 Lokalizace geografické polohy účastníka tísňové komunikace prostřednictvím internetu",
+      "chapter": "ČÁST PRVNÍ - Změna vyhlášky o lokalizaci a identifikaci volajícího při volání na čísla tísňových volání - „Předávání údajů podnikateli, který vede databázi“. - „Předávání údajů z databáze centru tísňové komunikace“.",
+      "content": "Neumožní-li veřejná pevná nebo veřejná mobilní komunikační síť zprostředkující tísňovou komunikaci prostřednictvím internetu lokalizovat účastníka tísňové komunikace podle § 2 nebo 6, postupuje centrum tísňové komunikace při lokalizaci v součinnosti s příslušným podnikatelem zajišťujícím tuto síť za účelem předání existujících nezbytných informací pro lokalizaci účastníka tísňové komunikace.“.\n17. V § 10 odst. 1 se slova „na příslušné specializované pracoviště subjektu, které je uzpůsobeno pro příjem volání eCall“ se nahrazují slovy „na nejvhodnější centrum tísňové komunikace určené pro příjem služby eCall“ a slova „zajišťující připojení pracoviště pro příjem eCall volání“ se nahrazují slovy „zajišťující připojení centra tísňové komunikace určeného pro příjem služby eCall“.\n18. V § 10 odst. 2 se slovo „subjektu“ nahrazuje slovy „centru tísňové komunikace“.\n19. Nadpis § 11 zní:\n20. V § 11 se slova „jednotné evropské číslo tísňového volání 112“ nahrazují slovy „tísňová čísla“ a slovo „subjektu“ se nahrazuje slovy „centru tísňové komunikace“.\n21. V příloze se na konci textu bodu 4 doplňují slova „přidělené podnikateli poskytujícího hlasovou komunikační službu v pevné komunikační síti“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST DRUHÁ - Změna vyhlášky o číslovacích plánech sítí a služeb elektronických komunikací",
+      "content": "Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění vyhlášky č. 231/2008 Sb., vyhlášky č. 267/2009 Sb., vyhlášky č. 53/2011 Sb. a vyhlášky č. 124/2012 Sb., se mění takto:\n1. V § 1 odst. 1, v § 3, v § 10 odst. 1 a v § 13 odst. 3 se slova „veřejných telefonních sítí“ nahrazují slovy „veřejných komunikačních sítí“.\n2. V § 4 odst. 3 se slova „veřejných pevných telefonních sítí“ nahrazují slovy „veřejných pevných komunikačních sítí“ a slova „veřejných mobilních telefonních sítí“ se nahrazují slovy „veřejných mobilních komunikačních sítí“.\n3. V nadpisu § 5 se slova „veřejných telefonních sítích“ nahrazují slovy „veřejných komunikačních sítích“.\n4. V § 5 odst. 2 se slova „veřejnou pevnou telefonní sít“ nahrazují slovy „veřejnou pevnou komunikační sít“ a slova „veřejnou mobilní telefonní sít“ se nahrazují slovy „veřejnou mobilní komunikační sít“.\n5. V § 9, 25, 27a a v příloze č. 1 se slovo „telefonní“ nahrazuje slovem „komunikační“.\n6. V § 10 odst. 1 se slova „veřejných telefonních sítí“ nahrazují slovy „veřejných komunikačních sítí“, slova „veřejné pevné telefonní sítě“ se nahrazují slovy „veřejné pevné komunikační sítě“ a slova „veřejné mobilní telefonní sítě“ se nahrazují slovy „veřejné mobilní komunikační sítě“.\n7. V § 10 se doplňuje odstavec 6, který zní:\n„(6) Jednotné evropské tísňové číslo 112 a zkrácená telefonní čísla s kódem SAC = 15 se nepřidělují.“.\n8. V § 26 se slovo „sítí“ nahrazuje slovem „sítích“ a na konci textu věty se doplňují slova „, to neplatí pro tísňová čísla“.\n9. V příloze č. 1 se slova „veřejně dostupnou telefonní službu“ nahrazují slovy „hlasovou komunikační službu“ a slova „veřejně dostupné telefonní služby“ se nahrazují slovy „hlasové komunikační služby“.\n10. V příloze č. 1 bodě 4.1 se slova „číslo tísňového volání“ nahrazují slovy „tísňové číslo“.\n11. V příloze č. 1 bodě 6 se řádek přístupového kódu 61 nahrazuje řádky 610 až 614 a 615 až 619, které znějí:\n„ 610 až 614Veřejná mobilní komunikační síťPoskytování služeb elektronických komunikací jiných, než jsou interpersonální komunikační služby, na celém území Evropské unie1).\n615 až 619Rezerva pro veřejnou mobilní komunikační síť\n\n“.\nPoznámka pod čarou č. 1 zní:\n„1) Čl. 93 odst. 4 směrnice Evropského parlamentu a Rady (EU) 2018/1972 ze dne 11. prosince 2018, kterou se stanoví evropský kodex pro elektronické komunikace.“.\n12. V příloze č. 1 bodě 6 se text „702 až 705“ nahrazuje textem „702 až 719“ a text „706 až 719 Rezerva pro veřejné mobilní sítě“ se zrušuje.\n13. V příloze č. 3 se slova „volání na čísla tísňových volání“ nahrazují slovy „tísňové komunikace prostřednictvím volání“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

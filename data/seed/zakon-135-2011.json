@@ -1,0 +1,39 @@
+{
+  "id": "cz:135/2011",
+  "type": "statute",
+  "title": "135/2011 Sb., Ústavní zákon, kterým se mění ústavní zákon č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 176/2001 Sb.",
+  "title_en": "",
+  "short_name": "135/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-05-25",
+  "in_force_date": "2011-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/135",
+  "description": "Ústavní zákon, kterým se mění ústavní zákon č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 176/2001 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V čl. 1 bodu 10 ústavního zákona č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 176/2001 Sb., se slovo „Vysočina“ nahrazuje slovy „Kraj Vysočina“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pokud je v dosavadních právních předpisech uveden jako název kraje pojem „Vysočina“, rozumí se tím „Kraj Vysočina“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento ústavní zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce následujícího po jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vysočina",
+      "definition": "„Kraj Vysočina“",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

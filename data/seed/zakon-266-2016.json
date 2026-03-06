@@ -1,0 +1,33 @@
+{
+  "id": "cz:266/2016",
+  "type": "statute",
+  "title": "266/2016 Sb., Vyhláška, kterou se mění vyhláška č. 296/2015 Sb., o technicko-ekonomických parametrech pro stanovení výkupních cen pro výrobu elektřiny a zelených bonusů na teplo a o stanovení doby životnosti výroben elektřiny a výroben tepla z obnovitelných zdrojů energie (vyhláška o technicko-ekonomických parametrech)",
+  "title_en": "",
+  "short_name": "266/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-08-19",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/266",
+  "description": "Vyhláška, kterou se mění vyhláška č. 296/2015 Sb., o technicko-ekonomických parametrech pro stanovení výkupních cen pro výrobu elektřiny a zelených bonusů na teplo a o stanovení doby životnosti výroben elektřiny a výroben tepla z obnovitelných zdrojů energie (vyhláška o technicko-ekonomických parametrech)",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Čl. I. bod 3. části Výrobny elektřiny přílohy k vyhlášce č. 296/2015 Sb., o technicko-ekonomických parametrech pro stanovení výkupních cen pro výrobu elektřiny a zelených bonusů na teplo a o stanovení doby životnosti výroben elektřiny a výroben tepla z obnovitelných zdrojů energie (vyhláška o technicko-ekonomických parametrech), zní:\n„3. Měrné investiční náklady a roční využití instalovaného výkonu:\nCharakteristika výrobny elektřinyMěrné investiční náklady\n[Kč/kWe]Průměrné roční využití instalovaného výkonu za dobu životnosti\n[kWhe/kWe]Horní hranice rozsahu ročního využití instalovaného výkonu\n[kWhe/kWe]\nMalá vodní elektrárna v nových lokalitách< 130 000> 4 0004 800\nMalá vodní elektrárna ve stávajících lokalitách nebo rekonstruovaná< 105 000> 4 0004 800\nPozn.: V případě ročního využití instalovaného výkonu se jedná o netto hodnotu, tzn. sníženou o technologickou vlastní spotřebu elektřiny.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pro výrobny elektřiny uvedené do provozu přede dnem nabytí účinnosti této vyhlášky se použijí hodnoty technicko-ekonomických parametrů podle vyhlášky č. 296/2015 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2017."
+    }
+  ],
+  "definitions": []
+}

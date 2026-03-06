@@ -1,0 +1,45 @@
+{
+  "id": "cz:276/2004",
+  "type": "statute",
+  "title": "276/2004 Sb., Vyhláška, kterou se mění vyhláška č. 343/2002 Sb., o postupu a podmínkách při zveřejnění průběhu přijímacího řízení na vysokých školách",
+  "title_en": "",
+  "short_name": "276/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-05-05",
+  "in_force_date": "2004-05-05",
+  "url": "https://www.e-sbirka.cz/sb/2004/276",
+  "description": "Vyhláška, kterou se mění vyhláška č. 343/2002 Sb., o postupu a podmínkách při zveřejnění průběhu přijímacího řízení na vysokých školách",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 343/2002 Sb., o postupu a podmínkách při zveřejnění průběhu přijímacího řízení na vysokých školách, se mění takto:\n1. V § 1 písmena a) a b) znějí:\n„a) úplné zadání zkušebních otázek či příkladů, které jsou součástí přijímací zkoušky nebo její části, a u otázek s výběrem odpovědi správné řešení,\nb) kritéria pro vyhodnocení a postup, jakým byl stanoven výsledek přijímací zkoušky nebo její části, včetně postupu vedoucího k sestavení pořadí uchazečů podle výsledků přijímací zkoušky (§ 49 odst. 1 zákona o vysokých školách), a“.\n2. V § 2 písmeno d) zní:\n„d) termíny a podmínky, za nichž je možno nahlédnout do všech materiálů, které mají význam pro rozhodování o přijetí ke studiu podle § 50 odst. 6 zákona o vysokých školách,“.\n3. V § 4 odst. 3 se ve jmenovateli vzorce výraz „n“ nahrazuje výrazem „n (n –1)“.\n4. V § 4 se doplňuje odstavec 6, který zní:\n„(6) Informace podle odstavce 1 písm. f) se nezveřejní, pokud počet uchazečů, kteří se zúčastnili písemné přijímací zkoušky, je menší než 100. Informace podle odstavce 1 písm. d) až e) se nezveřejní, pokud počet uchazečů, kteří se zúčastnili písemné přijímací zkoušky, je menší než 5.“.\n5. § 5 včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 5",
+      "section": "5",
+      "title": "„§ 5 Zveřejnění výsledků přijímacího řízení",
+      "content": "(1) Vysoká škola nebo fakulta zveřejní údaje uvedené v § 1 až 4 do 15 dnů po skončení přijímacího řízení na internetových stránkách vysoké školy nebo fakulty. Údaje uvedené v § 1 písm. b) a § 2 a 3 se zveřejní též na úřední desce vysoké školy nebo fakulty a ve výroční zprávě o činnosti vysoké školy nebo fakulty za příslušný kalendářní rok.\n(2) Ve výroční zprávě vysoké školy nebo fakulty se též zveřejní adresa internetové stránky, na které jsou zveřejněny údaje podle odstavce 1.\n(3) Ve výroční zprávě vysoké školy se zveřejní údaje podle § 3 v členění podle jednotlivých fakult vysoké školy a studijních programů uskutečňovaných těmito fakultami a podle studijních programů uskutečňovaných vysokou školou. Ve výroční zprávě vysoké školy se rovněž zveřejní adresy internetových stránek podle odstavce 2 v členění podle jednotlivých fakult.“.\n6. Za § 5 se vkládá nový § 5a, který včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 5a",
+      "section": "5a",
+      "title": "„§ 5a Společné ustanovení",
+      "content": "Pokud se v této vyhlášce používá pojem „vysoká škola nebo fakulta“, rozumí se tím pro účely této vyhlášky „fakulta“, jedná-li se o úpravu postupu při zveřejnění údajů o průběhu řízení o přijetí ke studiu ve studijním programu uskutečňovaném fakultou; v ostatních případech se pojmem „vysoká škola nebo fakulta“ pro účely této vyhlášky rozumí „vysoká škola“.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vysoká škola nebo fakulta",
+      "definition": "pro účely této vyhlášky „fakulta“, jedná-li se o úpravu postupu při zveřejnění údajů o průběhu řízení o přijetí ke studiu ve studijním programu uskutečňovaném fakultou; v ostatních případech se pojmem „vysoká škola nebo fakulta“ pro účely této vyhlášky rozumí „vysoká škola“",
+      "source_provision": "„§ 5a"
+    }
+  ]
+}

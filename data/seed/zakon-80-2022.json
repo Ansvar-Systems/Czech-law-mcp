@@ -1,0 +1,39 @@
+{
+  "id": "cz:80/2022",
+  "type": "statute",
+  "title": "80/2022 Sb., Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů CZ-DRG",
+  "title_en": "",
+  "short_name": "80/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-04-08",
+  "in_force_date": "2022-04-08",
+  "url": "https://www.e-sbirka.cz/sb/2022/80",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů CZ-DRG",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Metodika sestavení hospitalizačního případu v systému CZ-DRG, verze 5.0, platná verze softwaru CZ-DRG Pre-grouper, verze 5.0, a doprovodné metodické pokyny:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Definiční manuál klasifikačního systému CZ-DRG, verze 5.0, platná verze softwaru CZ-DRG Grouper, verze 5.0, a doprovodné metodické pokyny:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Pravidla kódování diagnóz v systému CZ-DRG, verze 5.0."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Metodika výpočtu relativních vah v systému CZ-DRG, verze 5.0, a doprovodné metodické pokyny:\nZa vydání a distribuci výše uvedených materiálů odpovídá Ministerstvo zdravotnictví České republiky, Palackého náměstí 4, 128 01 Praha 2. Ústav zdravotnických informací a statistiky ČR je servisní organizací pro klasifikaci CZ-DRG.\nDefiniční manuál a další metodiky, stejně jako software Pre-Grouper a Grouper pro klasifikaci CZ-DRG, verze 5.0, lze obdržet v elektronické podobě postupem uvedeným na webových stránkách www.mzcr.cz. Závazné metodické materiály a číselníky pro použití v rámci klasifikace CZ-DRG, verze 5.0, jsou rovněž zveřejněné na těchto webových stránkách. Veškeré relevantní informace, včetně metodických materiálů a zpráv z datových analýz jsou rovněž publikovány na portálu projektu DRG Restart http://drg.uzis.cz."
+    }
+  ],
+  "definitions": []
+}

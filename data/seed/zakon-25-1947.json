@@ -1,0 +1,45 @@
+{
+  "id": "cz:25/1947",
+  "type": "statute",
+  "title": "25/1947 Sb., Nařízení o započtení vojenské služby do právní služby kandidátů advokacie",
+  "title_en": "",
+  "short_name": "25/1947 Sb.",
+  "status": "in_force",
+  "issued_date": "1947-02-27",
+  "in_force_date": "1947-02-27",
+  "url": "https://www.e-sbirka.cz/sb/1947/25",
+  "description": "Nařízení o započtení vojenské služby do právní služby kandidátů advokacie",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Vojenská služba se započítává do právní služby předepsané pro zápis do seznamu advokátů polovinou.\n(2) Kandidátům advokacie, kterým bude zkrácena doba právní služby, předepsaná pro zápis do seznamu advokátů, podle § 5, odst. 1 zákona ze dne 16. října 1946, č. 201 Sb., o úpravě některých otázek týkajících se advokacie, se započítá vojenská služba podle tohoto nařízení jen, pokud tím nebude doba předepsané právní služby u advokáta zkrácena celkem o více než 1 1/2 roku.\n(3) Kandidátům advokacie, kterým bude zkrácena doba právní služby, předepsaná pro zápis do seznamu advokátů, podle § 5, odst. 2 uvedeného zákona, se započítá vojenská služba podle tohoto nařízení jen, pokud tím nebude doba předepsané právní služby u advokáta zkrácena celkem o více než 3 roky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vojenskou službou podle tohoto nařízení se rozumí služba presenční a vojenský výcvik příslušníků náhradní zálohy v československé branné moci; k době, o niž byla vojenská služba prodloužena z trestu, se nepřihlíží."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Vládní nařízení ze dne 3. července 1936, č. 224 Sb., o započtení vojenské služby presenční do právní praxe kandidátů advokacie, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské; provede je ministr spravedlnosti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vojenskou službou podle tohoto nařízení",
+      "definition": "služba presenční a vojenský výcvik příslušníků náhradní zálohy v československé branné moci; k době, o niž byla vojenská služba prodloužena z trestu, se nepřihlíží",
+      "source_provision": "§ 2."
+    }
+  ]
+}

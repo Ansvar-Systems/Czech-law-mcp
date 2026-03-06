@@ -1,0 +1,38 @@
+{
+  "id": "cz:105/2010",
+  "type": "statute",
+  "title": "105/2010 Sb., Vyhláška o plánu přidělení kmitočtových pásem (národní kmitočtová tabulka)",
+  "title_en": "",
+  "short_name": "105/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-04-19",
+  "in_force_date": "2025-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/105",
+  "description": "Vyhláška o plánu přidělení kmitočtových pásem (národní kmitočtová tabulka)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Plán přidělení kmitočtových pásem (národní kmitočtová tabulka) je stanoven v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2010.\nPříloha k vyhlášce č. 105/2010 Sb.\nPlán přidělení kmitočtových pásem\n(národní kmitočtová tabulka)\nObsah\nKapitola 1\nI. Význam zkratek\nII. Vymezení pojmů\nOddíl I. Všeobecné pojmy\nOddíl II. Správa kmitočtů\nOddíl III. Radiokomunikační služby\nOddíl IV. Rádiové stanice a soustavy\nOddíl V. Provozní pojmy\nOddíl VI. Vlastnosti vysílání a rádiových zařízení\nOddíl VII. Sdílení kmitočtů\nOddíl VIII. Technické pojmy ve vztahu k družicím\nKapitola 2 - Kmitočtová pásma\nKapitola 3 - Technické vlastnosti stanic\nKapitola 4 - Přidělování a využívání kmitočtů\nKapitola 5 - Kmitočtová přidělení\nOddíl I. Regiony a pásma\nOddíl II. Kategorie služeb a přidělení\nOddíl III. Poznámky Řádu\nOddíl IV. Plán přidělení kmitočtových pásem v České republice (národní kmitočtová tabulka)\nOddíl V. Národní kmitočtová tabulka\nKapitola 1\nI. Význam zkratek\nACS Automatický spojovací systém [Automatic connection system]\nADS-B Automatický dohledový systém [Automatic Dependent Surveillance - Broadcast]\nAIS Automatický identifikační systém [Automatic Identification System]\nAMS(R)S Družicová letecká pohyblivá (R) služba [Aeronautical Mobile-Satellite (R) Service]\n(CS) Ústava ITU [Constitution of the ITU]\n(CV) Úmluva ITU [Convention of the ITU]\nEESS Služba družicového průzkumu Země [Earth Exploration-Satellite Service]\ne.i.r.p. Ekvivalentní izotropicky vyzářený výkon [Equivalent Isotropically Radiated Power]\nEHF Extra krátké vlny [Extra High Frequency]\nepfd Ekvivalentní hodnota hustoty výkonného toku\ne.r.p. Efektivní vyzářený výkon [Effective Radiated Power]\nGMDSS Světový námořní tísňový a bezpečnostní systém [Globál Maritime Distress and Safety System]\nGSO Geostacionární oběžná dráha [Geo Stationary Orbit]\nHAPS Stanice na platformě ve velké výšce [High Altitude Platform Station]\nHDFSS Aplikace s velkou hustotou přenosů v družicové pevné službě [High Density Fixed Satellite Service]\nHF Krátké vlny [High Frequency]\nILS Soustava pro přistávání pomocí přístrojů [Instrument Landing System]\nIMT Mezinárodní mobilní telekomunikace [International Mobile Telecommunications]\nISM Průmyslové, vědecké a lékařské aplikace [Industry, Science and Medical Application]\nITU Mezinárodní telekomunikační unie [International Telecommunication Union]\nITU-R Sektor radiokomunikací ITU [ITU Radiocommunication Sector]\nLF Dlouhé vlny [Low Frequency]\nMF Střední vlny [Medium Frequency]\nMIFR Základní mezinárodní registr kmitočtů [Master International Frequency Register]\nMLS Mikrovlnná přistávací soustava [Microwave Landing System]\nMSI Námořní bezpečnostní informace [Maritime Safety Information]\nNAVTEX Celosvětový systém pro vysílání námořních navigačních, meteorologických a varovných zpráv [Navigational telex]\nNAVDAT Navigační data (vysílaný obsah obdobný jako NAVTEX) [Navigational data]\nNGSO Negeostacionární oběžná dráha [Non Geo Stationary Orbit]\n(OR) Mimo národní a mezinárodní letové cesty [Off-route]\npfd Hustota výkonového toku [Power Flux Density]\nPVRS Plán využití rádiového spektra\n(R) Národní a mezinárodní letové cesty [Route]\nRev. Revidovaný dokument\nRNSS Družicová radionavigační služba [Radionavigation-satellite service]\nSART Transpondér pro účely pátrání a záchrany [Search And Rescue Transponder]\nSHF Super krátké vlny [Super High Frequency]\nSIT Družicový interaktivní terminál [Satellite Interactive Terminal]\nUHF Ultra krátké vlny [Ultra High Frequency]\nUTC Koordinovaný světový čas [Universal Time Coordinated]\nVHF Velmi krátké vlny [Very High Frequency]\nVLBI Radioastronomické pozorování spektrálních čar [Very Long Baseline Interferometry]\nVLF Velmi dlouhé vlny [Very Low Frequency]\nII. Vymezení pojmů\n(Článek 1 Radiokomunikačního řádu ITU)\nÚvod\n1.1 Níže uvedené pojmy jsou definovány pro účely plánu přidělení kmitočtových pásem. Pojmy shodné s těmi, které jsou obsaženy v Příloze k Ústavě Mezinárodní telekomunikační unie, jsou označeny „(CS)“ a v Příloze k Úmluvě Mezinárodní telekomunikační unie (Ženeva 1992) „(CV)“.\nPoznámka 1: Pojem vyznačený kurzívou znamená to, že je sám tento pojem v této kapitole definován.\nPoznámka 2: Názvosloví definovaná v příslušných předpisech (normách) České republiky nejsou zde uvedenými pojmy dotčena.\nPoznámka 3: Pro účely zkrácení textu slovo „kmitočet“ znamená „rádiový kmitočet“ s výjimkou kmitočtů nad 3000 GHz, které nejsou rádiovými kmitočty dle Radiokomunikačního řádu ITU (dále jen „Řád“). Stejně tak slovo „pásmo“ znamená „kmitočtové pásmo“."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "kmitočet",
+      "definition": "„rádiový kmitočet“ s výjimkou kmitočtů nad 3000 GHz, které nejsou rádiovými kmitočty dle Radiokomunikačního řádu ITU (dále jen „Řád“)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "pásmo",
+      "definition": "„kmitočtové pásmo“",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cz:43/1980",
+  "type": "statute",
+  "title": "43/1980 Sb., Zákon, kterým se mění a doplňuje trestní zákon a trestní řád",
+  "title_en": "",
+  "short_name": "43/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-04-24",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1980/43",
+  "description": "Zákon, kterým se mění a doplňuje trestní zákon a trestní řád",
+  "provisions": [
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění zákona č. 57/1965 Sb., zákona č. 58/1969 Sb., zákona č. 149/1969 Sb., zákona č. 48/1973 Sb. a zákona č. 29/1978 Sb. se mění a doplňuje takto:\n1.V § 2 odst. 3 se na konci připojují slova „nebo podle vyhlášené mezinárodní smlouvy.“.\n2.V hlavě dvacáté čtvrté se za oddíl třetí vkládá oddíl čtvrtý, který včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "§ 384a",
+      "section": "384a",
+      "title": "§ 384a",
+      "chapter": "„Oddíl čtvrtý - Rozhodování podle mezinárodních smluv",
+      "content": "Jestliže je podle vyhlášené mezinárodní smlouvy třeba rozhodnout o výkonu trestního rozsudku cizího státu, soud rozhoduje ve veřejném zasedání rozsudkem. Řízení koná soud příslušný podle § 14 až 19.“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "„Oddíl čtvrtý - Rozhodování podle mezinárodních smluv",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cz:427/2005",
+  "type": "statute",
+  "title": "427/2005 Sb., Sdělení Českého statistického úřadu o zavedení Klasifikace hospitalizovaných pacientů (IR-DRG)",
+  "title_en": "",
+  "short_name": "427/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-10-25",
+  "in_force_date": "2005-10-25",
+  "url": "https://www.e-sbirka.cz/sb/2005/427",
+  "description": "Sdělení Českého statistického úřadu o zavedení Klasifikace hospitalizovaných pacientů (IR-DRG)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Klasifikace IR-DRG (International Refined Diagnosis Related Groups – Mezinárodní zpřesněné skupiny vztažené k diagnóze) umožňuje klasifikovat pacienty v akutní nemocniční péči na základě jejich klinické podobnosti a srovnatelnosti nákladů na jejich nemocniční pobyt.\nPro klasifikaci IR-DRG se pro rok 2006 vydává definiční manuál, verze 003.2006 (formát pdf) a program pro automatizované kódování podle této klasifikace (tzv. grouper), česká verze 003.2006. Za vydání a distribuci výše uvedené verze definičního manuálu a grouperu IR-DRG odpovídá Institut pro postgraduální vzdělávání ve zdravotnictví, Ruská 85, 100 05 Praha 10, který je současně servisní organizací pro zajišťování veškerých činností souvisejících s definičním manuálem a grouperem IR-DRG.\nDefiniční manuál a grouper IR-DRG lze obdržet v elektronické podobě postupem uvedeným na webových stránkách www.nrc.ipvz.cz."
+    }
+  ],
+  "definitions": []
+}

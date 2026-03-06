@@ -1,0 +1,39 @@
+{
+  "id": "cz:237/1946",
+  "type": "statute",
+  "title": "237/1946 Sb., Nařízení o vyměření náhrady poštovného za zásilky v soudním řízení",
+  "title_en": "",
+  "short_name": "237/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-12-28",
+  "in_force_date": "1947-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1946/237",
+  "description": "Nařízení o vyměření náhrady poštovného za zásilky v soudním řízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Výměrek, jímž se stanoví výše náhrady poštovného, které bylo zaplaceno zálohou ze státní pokladny, určí se, pokud není níže stanoveno jinak, podle počtu řadových čísel spisu soudní věci, v níž bylo poštovné státem zaplaceno."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Výměrek činí:\n1. v civilním řízení sporném 30 Kčs do prvých tří řadových čísel, a počínajíc čtvrtým řadovým číslem 50 Kčs za každých dalších započatých deset řadových čísel;\n2. v řízení upomínacím 20 Kčs; zahájí-li se po podání odporu řízení sporné, platí ustanovení č. 1;\n3. v řízení exekučním a zajišťovacím:\na) na jmění nemovité:\naa) nuceným zřízením zástavního práva nebo vnucenou správou 70 Kčs za každých započatých deset řadových čísel,\nbb) nucenou dražbou 100 Kčs za každých započatých deset řadových čísel,\nb) na movité věci hmotné 15 Kčs do prvých tří řadových čísel, a počínajíc čtvrtým řadovým číslem 30 Kčs za každých dalších započatých deset řadových čísel,\nc) ve všech ostatních případech 30 Kčs do prvých tří řadových čísel, a počínajíc čtvrtým řadovým číslem 40 Kčs za každých dalších započatých deset řadových čísel;\n4. v řízení o návrhu na prohlášení konkursu 30 Kčs, v řízení konkursním a vyrovnacím 120 Kčs, v obou případech za každých započatých deset řadových čísel;\n5. v řízení knihovním:\na) ve věcech, které se zapisují do knihovního deníku, 50 Kčs za každé číslo deníku, doručuje-li se nejvýše deseti účastníkům, 100 Kčs však, doručuje-li se více než deseti účastníkům,\nb) ve všech ostatních věcech 30 Kčs za každých započatých deset řadových čísel;\n6. v řízení pozůstalostním 60 Kčs za každých započatých deset řadových čísel, vyjmouc řadová čísla vzniklá z činnosti notáře jako soudního komisaře;\n7. v řízení poručenském a opatrovnickém 25 Kčs za každých započatých deset řadových čísel;\n8. v ostatním řízení nesporném 30 Kčs za každých započatých deset řadových čísel;\n9. v řízení trestním 30 Kčs za každých započatých deset řadových čísel."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Určuje-li se výměrek podle počtu řadových čísel, je pro jeho stanovení rozhodný počet řadových čísel v době, kdy bylo vydáno rozhodnutí, kterým se věc pravomocně ukončuje, nebo v době, kdy se jako ukončená odškrtne z rejstříku; v řízení poručenském a opatrovnickém se stanoví výměrek, pokud se věc dříve neskončí, vždy po dovršení padesáti řadových čísel."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1947; provede je ministr spravedlnosti."
+    }
+  ],
+  "definitions": []
+}

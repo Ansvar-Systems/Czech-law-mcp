@@ -1,0 +1,57 @@
+{
+  "id": "cz:296/2005",
+  "type": "statute",
+  "title": "296/2005 Sb., Vyhláška o centrální evidenci dotací a návratných finančních výpomocí",
+  "title_en": "",
+  "short_name": "296/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-07-25",
+  "in_force_date": "2005-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/296",
+  "description": "Vyhláška o centrální evidenci dotací a návratných finančních výpomocí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška upravuje obsah a rozsah údajů, které je poskytovatel povinen zaznamenat v centrální evidenci dotací a návratných finančních výpomocí poskytovaných ze státního rozpočtu (dále jen „centrální evidence“), a dále postupy a lhůty, které je poskytovatel povinen plnit."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Obsah a rozsah údajů o příjemcích dotací a návratných finančních výpomocí poskytnutých ze státního rozpočtu se stanoví v příloze č. 1 k této vyhlášce.\n(2) Obsah a rozsah údajů o dotacích a návratných finančních výpomocích poskytnutých ze státního rozpočtu se stanoví v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Poskytovatel zaznamená údaje o dotacích a návratných finančních výpomocích poskytnutých ze státního rozpočtu a o jejich příjemcích v elektronické podobě do datových souborů. Datové soubory poskytovatel zaznamená do centrální evidence prostřednictvím zabezpečené automatizované webové služby Ministerstva financí.\n(2) Poskytovatel dotace nebo návratné finanční výpomoci ze státního rozpočtu, který všechny povinné údaje stanovené touto vyhláškou zaznamenává do jiného resortního informačního systému, může předávat tyto údaje do centrální evidence prostřednictvím tohoto systému."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Poskytovatel zaznamená údaje o dotacích a návratných finančních výpomocích poskytnutých ze státního rozpočtu a o jejich příjemcích ve lhůtách do 24. dne kalendářního měsíce následujícího po ukončení prvního, druhého a třetího kalendářního čtvrtletí a do 31. března po ukončení čtvrtého čtvrtletí každého kalendářního roku.\n(2) Poskytovatel zaznamená údaje o dotacích ze státního rozpočtu poskytnutých do rozpočtů územních samosprávných celků ve lhůtě do 31. března po ukončení kalendářního roku, ve kterém byly dotace ze státního rozpočtu poskytnuty."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Přechodné ustanovení",
+      "content": "Poskytovatel zaznamenává poprvé údaje o návratných finančních výpomocích poskytnutých ze státního rozpočtu a o jejich příjemcích do centrální evidence za celý rok 2005 v termínu do 31. března 2006."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2005.\nPříloha č. 1 k vyhlášce č. 296/2005 Sb.\nÚdaje o příjemcích dotací a návratných finančních výpomocí poskytnutých ze státního rozpočtu\nNázev položkyP/N1)Identifikátor2)\nIdentifikační čísloPAA0017\nRodné číslo občanaPAA0001\nRodné číslo cizincePAA0009\nKód státu podle státní příslušnosti příjemceP3)AA0033\nKód právní formy subjektuPAA0019\nNázev právnické osobyPAA0020\nPříjmeníPAA0075\nJménoPAA0074\nTitul před jménemNAA0010\nTitul za jménemNAA0011\nKód státu podle sídla/trvalého pobytu příjemceP3)AA0033\nPředávací kód části obcePAA0175\nPředávací kód městské části/městského obvoduPAA0176\nNázev ulice a veřejného prostranstvíPAA0063\nČíslo popisné nebo číslo evidenčníPAA0065\nAA0066\nČíslo orientačníNAA0067\nPoštovní směrovací čísloPAA0038\nPředávací kód adresy stavebního objektuNAA0109\nKvalifikátor adresyPAA0039\nAdresa uvedená textověPAA0739\nFaxové číslo, telefonní čísloNAA0050\nE-mailNAA0666\nVysvětlivky:\n1) P – povinné údaje; N – nepovinné údaje\n2) Identifikátorem se rozumí popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný standardem informačních systémů veřejné správy, uveřejněným ve Věstníku Ministerstva informatiky, vydaným podle zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 517/2002 Sb.\n3) Povinné pouze pro cizince nebo zahraniční právnické osoby.\nPříloha č. 2 k vyhlášce č. 296/2005 Sb.\nÚdaje o dotacích a návratných finančních výpomocích poskytnutých ze státního rozpočtu\nNázev položkyP/N1)Identifikátor2)\nKód poskytovatelePAA0716\nKód titulu (dotace/návratná finanční výpomoc)PAA0717\nKód finančního zdrojePAA0720\nEvidenční číslo (smlouva/rozhodnutí)PFormát AA0105\nDatum podání žádostíNFormát AA0110\nŽádaná výše finančních prostředkůNFormát AA0112\nDatum poskytnutí dotace/návratné finanční výpomociPFormát AA0110\nPoskytnutá výše dotace/návratné finanční výpomociPFormát AA0112\nKód krytí finančních prostředků4)PAA0743\nIndikátor úročení návratné finanční výpomociP3)AA0719\nDatum splácení návratné finanční výpomociP3)Formát AA0110\nSplácená výše návratné finanční výpomociP3)Formát AA0112\nČerpaná výše dotace k 31.12. daného rokuPFormát AA0112\nSpotřebovaná dotacePFormát AA0112\nIndikátor návratnostiPAA0722\nČíslo ukazatele státního rozpočtuPAA0723\nČíslo položky rozpočtové skladbyPAA0724\nČíslo paragrafu rozpočtové skladbyPAA0725\nRok5)PAA0231\nIndikátor proplácení přes Národní fondPAA0726\nKód typu operace s finančními prostředkyNAA0727\nVariabilní symbolNAA0043\nKonstantní symbolNAA0042\nČíslo účtu poskytovateleNFormát AA0046\nIdentifikační kód banky poskytovateleNAA0045\nČíslo účtu příjemceNFormát AA0046\nIdentifikační kód banky příjemceNAA0045\nIdentifikační číslo dotace/návratné finanční výpomociNAA0728\nKód klasifikace územních statistických jednotekNAA0177; AA0178\nAA0179; AAC013\nPopis území realizaceNAA0730\nIndikátor dotace/návratné finanční výpomociPAA0731\nNázev dokumentuPAA0732\nObsah dokumentu předpisuNAA0733\nVysvětlivky:\n1) P – povinné údaje; N – nepovinné údaje\n2) Identifikátorem se rozumí popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný standardem informačních systémů veřejné správy, uveřejněným ve Věstníku Ministerstva informatiky, vydaným podle zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 517/2002 Sb.\n3) Povinný údaj pro finanční návratné výpomoci.\n4) Kód krytí finančních prostředků - klasifikace, která je poskytovateli vymezena číselníkem pro členění finančních prostředků na poskytnuté dotace nebo návratné finanční výpomoci zejména podle § 44 ods. 2 zákona č. 218/2000 Sb.\n5) Rozpočtové období, ve kterém jsou finanční prostředky rozpočtovány nebo poskytovány (u víceletých titulů)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Identifikátorem",
+      "definition": "popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný standardem informačních systémů veřejné správy, uveřejněným ve Věstníku Ministerstva informatiky, vydaným podle zákona č",
+      "source_provision": "§ 6"
+    }
+  ]
+}

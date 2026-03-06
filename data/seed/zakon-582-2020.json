@@ -1,0 +1,59 @@
+{
+  "id": "cz:582/2020",
+  "type": "statute",
+  "title": "582/2020 Sb., Vyhláška o rozsahu, formě a způsobu předávání informací pro zajištění srovnávacího nástroje",
+  "title_en": "",
+  "short_name": "582/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-12-31",
+  "in_force_date": "2021-01-15",
+  "url": "https://www.e-sbirka.cz/sb/2020/582",
+  "description": "Vyhláška o rozsahu, formě a způsobu předávání informací pro zajištění srovnávacího nástroje",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Informace pro zajištění srovnávacího nástroje předává podnikatel poskytující veřejně dostupnou službu elektronických komunikací (dále jen „povinný subjekt“) Českému telekomunikačnímu úřadu (dále jen „Úřad“) k těmto druhům služeb pro spotřebitele:\na) mobilní volání, kterým se rozumí hlasová komunikační služba, textová zpráva SMS a datová služba v mobilním telefonním přístroji zpoplatňované jak paušální částkou, tak s využitím předplacených karet,\nb) mobilní internet, kterým se rozumí mobilní datová služba jiná než uvedená v písmenu a) zpoplatňovaná jak paušální částkou, tak s využitím předplacených karet,\nc) volání v pevném místě, kterým se rozumí hlasová komunikační služba poskytovaná prostřednictvím veřejné pevné telefonní sítě s využitím geografických i negeografických čísel,\nd) internet v pevném místě, kterým se rozumí datová služba poskytovaná prostřednictvím kabelových i bezdrátových sítí, včetně mobilních sítí, pokud je mobilita služby omezena,\ne) televize, kterou se rozumí služba šíření televizního vysílání prostřednictvím kabelových i bezdrátových sítí poskytovaná za úplatu.\n(2) Povinný subjekt předává Úřadu rovněž informaci o nabídce, jejíž součástí je alespoň 1 ze služeb podle odstavce 1 v kombinaci s jinou službou, službami nebo jiným plněním (dále jen „balíček“).\n(3) Podrobný rozsah informací předávaných podle odstavců 1 a 2 je uveden v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Povinný subjekt předává Úřadu informace podle § 1 vyplněním formuláře dostupného na serveru provozovaném Úřadem nebo nahráním CSV souboru v šabloně dostupné na tomto serveru.\n(2) Přístupové údaje pro přístup k serveru poskytne Úřad po registraci povinného subjektu.\n(3) Povinný subjekt předává informace podle § 1 nejpozději do jednoho měsíce od jejich změny."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.\nPříloha k vyhlášce č. 582/2020 Sb.\nRozsah informací k jednotlivým druhům služeb\n1. Mobilní volání\n1.1. obchodní označení služby\n1.2. ceny za jednotku hlasové komunikační služby do různých směrů a v různé denní době\n1.3. paušální cena za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n1.4. počty jednotek hlasové komunikační služby do různých směrů obsažených v paušální ceně za zúčtovací období\n1.5. tarifikace hlasového volání\n1.6. ceny za textovou zprávu SMS do různých směrů\n1.7. počty jednotek textových zpráv SMS do různých směrů obsažených v paušální ceně za zúčtovací období\n1.8. cena za jednotku datové služby\n1.9. počet jednotek datové služby obsažených v paušální ceně za zúčtovací období\n1.10. účtovací jednotka datové služby\n1.11. cena za počet jednotek hlasové komunikační služby, textových zpráv SMS a datové služby, které lze jednorázově dokoupit ke stávající službě\n1.12. počet jednotek hlasové komunikační služby, textových zpráv SMS a datové služby, které lze jednorázově dokoupit ke stávající službě\n1.13. typ smlouvy, například se závazkem, bez závazku, paušální nebo předplacené\n1.14. typ koncového uživatele, například bez omezení, věkově podmíněn nebo zdravotně podmíněn\n1.15. odhadovaná maximální rychlost stahování dat v Mbit/s v případě, kdy má nabízená služba nastaveno rychlostní omezení\n1.16. odhadovaná maximální rychlost vkládání dat v Mbit/s v případě, kdy má nabízená služba nastaveno rychlostní omezení\n1.17. inzerovaná rychlost stahování dat v Mbit/s\n1.18. inzerovaná rychlost vkládání dat v Mbit/s\n1.19. doba trvání nabídky\n1.20. omezující podmínky pro využívání služby, například omezení rychlosti po dosažení datového limitu, povinný odběr jiné služby mimo sektor elektronických komunikací, délka závazku nebo omezení využití z důvodu technologie\n1.21. adresu internetové stránky s nabídkou služby\n2. Mobilní internet\n2.1. obchodní označení služby\n2.2. paušální cena za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n2.3. počet jednotek datové služby obsažených v paušální ceně za zúčtovací období\n2.4. cena za počet jednotek datové služby, které lze jednorázově dokoupit ke stávající službě\n2.5. počet jednotek datové služby, které lze jednorázově dokoupit ke stávající službě\n2.6. typ smlouvy, například se závazkem, bez závazku, paušální nebo předplacené\n2.7. typ koncového uživatele, například bez omezení, věkově podmíněn nebo zdravotně podmíněn\n2.8. odhadovaná maximální rychlost stahování dat v Mbit/s v případě, kdy má nabízená služba nastaveno rychlostní omezení\n2.9. odhadovaná maximální rychlost vkládání dat v Mbit/s v případě, kdy má nabízená služba nastaveno rychlostní omezení\n2.10. inzerovaná rychlost stahování dat v Mbit/s\n2.11. inzerovaná rychlost vkládání dat v Mbit/s\n2.12. doba trvání nabídky\n2.13. omezující podmínky pro využívání služby, například omezení rychlosti po dosažení datového limitu, povinný odběr jiné služby mimo sektor elektronických komunikací, délka závazku nebo omezení využití z důvodu technologie\n2.14. adresu internetové stránky s nabídkou služby\n3. Volání v pevném místě\n3.1. obchodní označení služby\n3.2. ceny za jednotku hlasového volání do různých směrů a v různé denní době\n3.3. paušální cena za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n3.4. počty jednotek hlasového volání do různých směrů obsažených v paušálu za zúčtovací období\n3.5. tarifikace hlasového volání\n3.6. cena za počet jednotek hlasového volání, které lze jednorázově dokoupit ke stávající službě\n3.7. počet jednotek hlasového volání, které lze jednorázově dokoupit ke stávající službě\n3.8. typ smlouvy, například se závazkem nebo bez závazku\n3.9. typ koncového uživatele, například bez omezení, věkově podmíněn nebo zdravotně podmíněn\n3.10. doba trvání nabídky\n3.11. omezující podmínky pro využívání služby, například délka závazku nebo omezení využití z důvodu technologie\n3.12. adresu internetové stránky s nabídkou služby\n4. Internet v pevném místě\n4.1. obchodní označení služby\n4.2. paušální cena za inzerovanou rychlost stahování a odesílání dat za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n4.3. paušální cena za počet jednotek datové služby za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n4.4. počet jednotek datové služby obsažených v paušální ceně za zúčtovací období\n4.5. cena za počet jednotek datové služby, které lze jednorázově dokoupit ke stávající službě\n4.6. počet jednotek datové služby, které lze jednorázově dokoupit ke stávající službě\n4.7. typ smlouvy, například se závazkem nebo bez závazku\n4.8. typ koncového uživatele, například bez omezení, věkově podmíněn nebo zdravotně podmíněn\n4.9. inzerovaná rychlost stahování dat v Mbit/s\n4.10. inzerovaná rychlost vkládání dat v Mbit/s\n4.11. běžně dostupná rychlost stahování dat v Mbit/s\n4.12. běžně dostupná rychlost vkládání dat v Mbit/s\n4.13. doba trvání nabídky\n4.14. omezující podmínky pro využívání služby, například délka závazku nebo omezení využití z důvodu technologie\n4.15. adresu internetové stránky s nabídkou služby\n5. Televize\n5.1. obchodní označení služby\n5.2. paušální cena za počet televizních programů za zúčtovací období, případně zvýhodněná paušální cena a doba jejího trvání\n5.3. počet televizních programů obsažených v paušální ceně za zúčtovací období\n5.4. cena za počet televizních programů, které lze dokoupit ke stávající službě\n5.5. počet televizních programů, které lze dokoupit ke stávající službě\n5.6. počet a výčet programů ve vysokém rozlišení\n5.7. počet a výčet rozhlasových programů\n5.8. typ smlouvy uvedením, zda jde o smlouvu se závazkem nebo bez závazku\n5.9. typ koncového uživatele, například bez omezení, věkově podmíněn nebo zdravotně podmíněn\n5.10. další kvalitativní parametry, například možnost pozastavení sledování, videotéka, televize v mobilu nebo počet zařízení, na kterých lze televizi sledovat současně\n5.11. způsob šíření signálu, například přes internetový protokol, kabelová nebo satelitní televize\n5.12. doba trvání nabídky\n5.13. omezující podmínky pro využívání služby, například délka závazku\n5.14. adresu internetové stránky s nabídkou služby\n6. Balíčky\nPokud je služba nabízena v balíčku, uvede povinný subjekt takovou informaci u jednotlivé služby podle bodu 1 až 5 spolu s adresou internetové stránky s nabídkou balíčku.\n7. Geografická dostupnost jednotlivých služeb\n7.1. Povinný subjekt u jednotlivých služeb volání v pevném místě, internetu v pevném místě a televize uvede jejich dostupnost na úrovni:\na) adresního místa, evidovaného v Registru územní identifikace, adres a nemovitostí, nebo\nb) ulice, nebo\nc) území obce či městské části nebo městského obvodu v případě statutárních měst a hlavního města Prahy.\n7.2. Za dostupnou podle předchozího odstavce se považuje služba, kterou je povinný subjekt schopen aktivovat nejpozději ve lhůtě 30 dnů od uplatnění žádosti o poskytnutí služby.\nV případě podle písmena b) musí být podmínka podle první věty splněna pro 75 % adresních míst dané ulice.\nV případě podle písmena c) musí být podmínka podle první věty splněna pro 75 % adresních míst území obce či městské části nebo městského obvodu v případě statutárních měst a hlavního města Prahy."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) mobilní volání, kterým",
+      "definition": "hlasová komunikační služba, textová zpráva SMS a datová služba v mobilním telefonním přístroji zpoplatňované jak paušální částkou, tak s využitím předplacených karet",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "b) mobilní internet, kterým",
+      "definition": "mobilní datová služba jiná než uvedená v písmenu a) zpoplatňovaná jak paušální částkou, tak s využitím předplacených karet",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "c) volání v pevném místě, kterým",
+      "definition": "hlasová komunikační služba poskytovaná prostřednictvím veřejné pevné telefonní sítě s využitím geografických i negeografických čísel",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "d) internet v pevném místě, kterým",
+      "definition": "datová služba poskytovaná prostřednictvím kabelových i bezdrátových sítí, včetně mobilních sítí, pokud je mobilita služby omezena",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "e) televize, kterou",
+      "definition": "služba šíření televizního vysílání prostřednictvím kabelových i bezdrátových sítí poskytovaná za úplatu",
+      "source_provision": "§ 1"
+    }
+  ]
+}

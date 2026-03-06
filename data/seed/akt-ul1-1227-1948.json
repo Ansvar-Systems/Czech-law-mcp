@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1227/1948",
+  "type": "statute",
+  "title": "1227/1948 Ú. l. I, Vyhláška ministra průmyslu o zřízení TENY, pletáren, národního podniku.",
+  "title_en": "",
+  "short_name": "1227/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-01",
+  "in_force_date": "1948-07-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1227",
+  "description": "Vyhláška ministra průmyslu o zřízení TENY, pletáren, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Nestmann a Blank, továrna na pletené a stávkové zboží, Oldřichov u Duchcova, se sídlem v Oldřichově u Duchcova;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. F. W. Pilz, továrna na pletené a valchované zboží, Česká Kamenice, se sídlem v České Kamenici."
+    }
+  ],
+  "definitions": []
+}

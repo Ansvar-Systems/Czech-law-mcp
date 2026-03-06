@@ -1,0 +1,72 @@
+{
+  "id": "cz:240/2021",
+  "type": "statute",
+  "title": "240/2021 Sb., Vyhláška o ochraně zemědělské půdy před erozí",
+  "title_en": "",
+  "short_name": "240/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-06-23",
+  "in_force_date": "2027-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/240",
+  "description": "Vyhláška o ochraně zemědělské půdy před erozí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(2) Tato vyhláška se nepoužije pro hodnocení erozního ohrožení na pozemcích, na nichž je založena a pěstována trvalá kultura podle nařízení Evropského parlamentu a Rady (EU) č. 1307/20131), evidovaná podle právního předpisu, kterým se stanoví podrobnosti evidence využití půdy podle uživatelských vztahů2), nebo na nichž jsou pěstovány zeleninové druhy, jahodník, léčivé, aromatické nebo kořeninové rostliny."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) monitoringem eroze zemědělské půdy elektronická aplikace, která slouží k hlášení, evidenci a vyhodnocování jednotlivých erozních událostí, vymezování jednotlivých erozně uzavřených celků a posuzovaných ploch,\nb) posuzovanou plochou plocha zemědělské půdy, která je předmětem hodnocení erozního ohrožení zemědělské půdy, vymezená v monitoringu eroze zemědělské půdy na základě opakované erozní události jako průnik\n1. erozně uzavřeného celku s dílem půdního bloku kultury standardní orná půda2), úhor2) nebo travní porost2), jedná-li se o zemědělskou půdu evidovanou v evidenci půdy podle zákona o zemědělství3), nebo\n2. erozně uzavřeného celku s pozemky zemědělsky obhospodařovanými s druhem pozemku orná půda, jedná-li se o půdu neevidovanou v evidenci půdy podle zákona o zemědělství3),\nd) erozním procesem uvolnění, transport a ukládání transportované půdy,\nh) zemědělským subjektem vlastník nebo jiná osoba oprávněná užívat posuzovanou plochu,"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Půdy nevhodné pro změnu trvalého travního porostu na ornou půdu",
+      "content": "Půdy nevhodné pro změnu trvalého travního porostu na ornou půdu jsou\na) půdy nacházející se na plochách, kde nižší než přípustné míry erozního ohrožení nelze docílit prostřednictvím opatření uvedených v § 7 odst. 1 písm. a) a b); pro hodnocení erozního ohrožení za účelem identifikace půd nevhodných pro změnu trvalého travního porostu na ornou půdu se použije postup uvedený v § 5,\nb) půdy s hloubkou půdního profilu do 30 cm,\nc) půdy, na nichž jsou navržena nebo realizována technická opatření ke snížení erozního ohrožení uvedená v § 7 odst. 1 písm. c),"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob hodnocení erozního ohrožení",
+      "content": "(2) Orgány ochrany zemědělského půdního fondu při hodnocení erozního ohrožení posuzovaných ploch vycházejí z údajů o opakovaných erozních událostech zaznamenaných v monitoringu eroze zemědělské půdy.\n(3) Zemědělský subjekt může oznámit orgánu ochrany zemědělského půdního fondu změnu skutečností, které mohou mít dopad na vymezení posuzované plochy a způsob hodnocení erozního ohrožení posuzované plochy."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Opatření ke snížení erozního ohrožení",
+      "content": "a) organizační opatření, jimiž jsou\n1. vhodné umístění pěstovaných plodin, včetně ochranného zatravnění,\n2. pásové střídání plodin,\nc) technická opatření, jimiž jsou"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2021.\n* Platí pouze pro půdy o sklonitosti > 12 stupňů, tj. HPJ 40, 41. Pro půdy s kódem 8 a 9 je hloubka půdy v garantované vrstvě ve výpočtu eroze nastavena jako mělká z principu předběžné opatrnosti.\nPodrobná charakteristika BPEJ a HPJ je uvedena ve vyhlášce č. 227/2018 Sb., o charakteristice bonitovaných půdně ekologických jednotek a postupu pro jejich vedení a aktualizaci.\nVýpočet ohrožení zemědělských půd vodní erozí a hodnocení účinnosti navrhovaných protierozních opatření vychází z Univerzální rovnice ztráty půdy, která má tvar\nG = R · K · L · S · C · P\nPřekročení míry erozního ohrožení vyjadřuje erozní ohrožení zemědělské půdy, při kterém je překročena přípustná ztráta půdy erozí. Pro účely vyhlášky jde o stav, kdy je v protierozní kalkulačce na hodnocené ploše překročen maximálně přípustný součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření. Pro účely vyhlášky je vyjádřeno ve tvaru\nC . P > Cp . Pp.\nNepřekročení míry erozního ohrožení je vyjádřeno vztahem, který vyjadřuje erozní ohrožení zemědělské půdy, při kterém není překročena přípustná ztráta půdy erozí. Pro účely vyhlášky jde o stav, kdy v protierozní kalkulačce není na hodnocené ploše překročen maximálně přípustný součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření\nC . P ≤ Cp . Pp,\npřičemž hodnota součinu Cp . Pp představuje součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření, při jehož překročení dojde k překročení přípustné ztráty půdy erozí. Protierozní kalkulačka jej definuje na základě vztahu\nCp . Pp = Gp / (R . K . L . S),\nkde veličiny použité ve vzorcích jsou\nG = průměrná dlouhodobá ztráta půdy erozí (t.ha-1.rok-1),\nGp= přípustná ztráta půdy erozí (t.ha-1.rok-1) vztažená k hloubce půdy, definována jako maximální velikost eroze půdy, která dovoluje dlouhodobě a ekonomicky dostupně udržovat dostatečnou úroveň úrodnosti půdy,\nR = faktor erozní účinnosti deště, vyjádřený v závislosti na kinetické energii a intenzitě erozně nebezpečných dešťů (MJ.ha-1.cm.h-1.rok-1),\nK = faktor erodovatelnosti půdy, vyjádřený v závislosti na textuře a struktuře ornice, obsahu organické hmoty a propustnosti půdního profilu (t.h.MJ-1.cm-1),\nL = faktor délky svahu, vyjadřující vliv nepřerušené délky svahu na velikost ztráty půdy erozí (bezrozměrný – poměr smyvu ke smyvu na jednotkovém pozemku délky 22,13 m),\nS = faktor sklonu svahu vyjadřující vliv sklonu svahu na velikost ztráty půdy erozí (bezrozměrný – poměr smyvu ke smyvu na jednotkovém pozemku sklonu 9 %),\nC* = faktor ochranného vlivu vegetace vyjádřený v závislosti na vývoji vegetace a použité agrotechnice,\nP = faktor účinnosti protierozních opatření,\nCp. Pp = přípustný součin faktoru ochranného vlivu vegetace a účinnosti protierozních opatření vzhledem k přípustné míře erozního ohrožení.\nSoučin veličin Cp a Pp nabývá hodnot 0 až 1, přičemž\nVysvětlivka:\n**) Mediánová hodnota je zjistitelná pro posuzovanou plochu ve výpočtu eroze.\n1) Čl. 4 odst. 1 písm. g) nařízení Evropského parlamentu a Rady (EU) č. 1307/2013 ze dne 17. prosince 2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky a kterým se zrušují nařízení Rady (ES) č. 637/2008 a nařízení Rady (ES) č. 73/2009, v platném znění.\n2) Nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění pozdějších předpisů.\n3) Zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů.\n4) Čl. 44 odst. 4 nařízení Evropského parlamentu a Rady (EU) č. 1307/2013 ze dne 17. prosince 2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky a kterým se zrušují nařízení Rady (ES) č. 637/2008 a nařízení Rady (ES) č. 73/2009, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "monitoringem eroze zemědělské půdy elektronická aplikace",
+      "definition": "která slouží k hlášení, evidenci a vyhodnocování jednotlivých erozních událostí, vymezování jednotlivých erozně uzavřených celků a posuzovaných ploch",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "posuzovanou plochou plocha zemědělské půdy",
+      "definition": "která je předmětem hodnocení erozního ohrožení zemědělské půdy, vymezená v monitoringu eroze zemědělské půdy na základě opakované erozní události jako průnik; erozně uzavřeného celku s dílem půdního bloku kultury standardní orná půda2), úhor2) nebo travní porost2), jedná-li se o zemědělskou půdu evidovanou v evidenci půdy podle zákona o zemědělství3), nebo; erozně uzavřeného celku s pozemky zemědělsky obhospodařovanými s druhem pozemku orná půda, jedná-li se o půdu neevidovanou v evidenci půdy podle zákona o zemědělství3)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "erozním procesem uvolnění",
+      "definition": "transport a ukládání transportované půdy",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zemědělským subjektem vlastník nebo jiná",
+      "definition": "osoba oprávněná užívat posuzovanou plochu",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:148/1952",
+  "type": "statute",
+  "title": "148/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 38 0110.",
+  "title_en": "",
+  "short_name": "148/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-17",
+  "in_force_date": "1952-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/148",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 38 0110.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 38 0110 „Provozní a plánovací názvosloví pro energetické výrobny“ je od 1. července 1952 technickou státní normou; tato norma jest směrná."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma pojednává v názvosloví o základních pojmech používaných v energetických výrobnách pro účely provozní a plánovací."
+    }
+  ],
+  "definitions": []
+}

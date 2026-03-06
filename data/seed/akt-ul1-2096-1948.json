@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2096/1948",
+  "type": "statute",
+  "title": "2096/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách polského uhlí.",
+  "title_en": "",
+  "short_name": "2096/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-13",
+  "in_force_date": "1948-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2096",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách polského uhlí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Prodejní ceny uhlí dováženého z Polska se stanoví takto:\na)uhlí hrubé, změní30—120 mmKčs 490.—,\nb)uhlí střední, zrnění10— 30 mmKčs 480.—,\nc)uhlí prachové, zrnění0— 10 mmKčs 320.—\nza 1 tunu franko československo-polská hranice, včetně daně z obratu, avšak bez sanační dávky a příspěvku pro Ústřední rozdělovnu uhlí."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. srpna 1948. Týmž dnem se zrušuje platnost vyhlášky nejvyššího úřadu cenového ze dne 28. července 1947, č, 784 Ú. l. I, o cenách polského uhlí."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:746/1949",
+  "type": "statute",
+  "title": "746/1949 Ú. l. I, Vyhláška ministerstva práce a sociální péče o zřízení společných závodních rad u poštovních úřadů.",
+  "title_en": "",
+  "short_name": "746/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-07-12",
+  "in_force_date": "1949-07-12",
+  "url": "https://www.e-sbirka.cz/ul1/1949/746",
+  "description": "Vyhláška ministerstva práce a sociální péče o zřízení společných závodních rad u poštovních úřadů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za samostatný závod (se společnou závodní radou) se považuje v podniku Československá pošta podle obdoby ustanovení § 3, odst. 3 dekretu presidenta republiky č. 104/1945 Sb. okrskový poštovní úřad spolu s pobočnými poštovními úřady, jemu přičleněnými."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí na celém území státu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "samostatný závod (se společnou závodní radou",
+      "definition": "v podniku Československá pošta podle obdoby ustanovení § 3, odst",
+      "source_provision": "§ 1."
+    }
+  ]
+}

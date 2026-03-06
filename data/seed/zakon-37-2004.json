@@ -1,0 +1,42 @@
+{
+  "id": "cz:37/2004",
+  "type": "statute",
+  "title": "37/2004 Sb., Zákon o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě)",
+  "title_en": "",
+  "short_name": "37/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-02-05",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/37",
+  "description": "Zákon o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě)",
+  "provisions": [
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o některých podmínkách podnikání v oblasti cestovního ruchu",
+      "content": "Zákon č. 159/1999 Sb., o některých podmínkách podnikání v oblasti cestovního ruchu a o změně zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění zákona č. 39/2004 Sb., se mění takto:\n1. Nadpis nad § 6 zní: „Povinné pojištění záruky“.\n2. V § 6 odst. 1 se za slovo „pojištění“ doplňují slova „záruky pro případ úpadku cestovní kanceláře“.\n3. V § 6 odst. 2 se slova „použijí se pro povinné smluvní pojištění ustanovení části osmé hlavy patnácté oddílu prvého až čtvrtého občanského zákoníku.“ nahrazují slovy „řídí se povinné pojištění záruky příslušnými ustanoveními zvláštního zákona.10a)“.\nPoznámka pod čarou č. 10a) zní:\n„10a) Zákon č. 37/2004 Sb., o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě).“."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Právní vztahy vzniklé z pojistných smluv uzavřených přede dnem nabytí účinnosti tohoto zákona se řídí dosavadními právními předpisy.\n(2) Pokud se v právních předpisech v souvislosti se životním pojištěním užívá pojem „odbytné“, rozumí se jím „odkupné“ podle tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73",
+      "chapter": "ČÁST SEDMÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2005, s výjimkou ustanovení § 23 odst. 4 až 6, § 30, 42, 63, § 64 až 67 a § 70, která nabývají účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "odbytné",
+      "definition": "jím „odkupné“ podle tohoto zákona",
+      "source_provision": "§ 72"
+    }
+  ]
+}

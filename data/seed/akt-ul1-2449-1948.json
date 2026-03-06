@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2449/1948",
+  "type": "statute",
+  "title": "2449/1948 Ú. l. I, Vyhláška ministerstva pošt o zvýšení váhy psaní, dopravovaných ve vnitřním československém styku.",
+  "title_en": "",
+  "short_name": "2449/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-10-14",
+  "in_force_date": "1948-10-29",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2449",
+  "description": "Vyhláška ministerstva pošt o zvýšení váhy psaní, dopravovaných ve vnitřním československém styku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Váha psaní dopravovaných ve vnitřním československém styku, se zvyšuje od 1. listopadu 1948 z 1 kg na 2 kg."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Poplatek za psaní o váze 1 kg do 2 kg se stanoví v místní dopravě na 12 Kčs, v další dopravě na 18 Kčs."
+    }
+  ],
+  "definitions": []
+}

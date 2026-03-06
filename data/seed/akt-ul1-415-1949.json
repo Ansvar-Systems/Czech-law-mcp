@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:415/1949",
+  "type": "statute",
+  "title": "415/1949 Ú. l. I, Vyhláška Ústřední národní pojišťovny o změně obvodů a sídel okresních národních pojišťoven.",
+  "title_en": "",
+  "short_name": "415/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-03-19",
+  "in_force_date": "1949-03-19",
+  "url": "https://www.e-sbirka.cz/ul1/1949/415",
+  "description": "Vyhláška Ústřední národní pojišťovny o změně obvodů a sídel okresních národních pojišťoven.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Okresní národní pojišťovna v Hlučíně se zrušuje. Obvod působnosti Okresní národní pojišťovny v Ostravě se rozšiřuje na správní okres Hlučín.\n(2) Toto opatření nabývá účinnosti dnem 1. prosince 1948."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Okresní národní pojišťovna v Kaplici se zrušuje. Obvod působnosti Okresní národní pojišťovny v Českých Budějovicích se rozšiřuje na správní okres Kaplice.\n(2) Toto opatření nabývá účinnosti dnem 1. února 1949."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Příloha vyhlášky Ústřední národní pojišťovny ze dne 30. července 1948, str. 2761 Ú. l. II, o zřízení okresních národních pojišťoven a stanovení jejich obvodů a sídel, se mění takto:\nBěž. čís.Sídlo okresní národní pojišťovnyObvod tvoří správní okresy\n10.České BudějoviceČeské Budějovice, Týn n. Vlt., Kaplice.\n36.se škrtá.\n107.se škrtá.\n126.OstravaOstrava, Bílovec, Hlučín."
+    }
+  ],
+  "definitions": []
+}

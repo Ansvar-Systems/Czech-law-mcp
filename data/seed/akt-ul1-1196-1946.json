@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1196/1946",
+  "type": "statute",
+  "title": "1196/1946 Ú. l. I, Vyhláška ministra vnitra, kterou se prohlašuje den 9. května 1946 za den pracovního klidu.",
+  "title_en": "",
+  "short_name": "1196/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-09",
+  "in_force_date": "1946-05-09",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1196",
+  "description": "Vyhláška ministra vnitra, kterou se prohlašuje den 9. května 1946 za den pracovního klidu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Den 9. května 1946 je dnem pracovního klidu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Na tento den se vztahují ustanovení § 4 zákona ze dne 3. dubna 1925, č. 65 Sb., o svátcích a památných dnech republiky Československé, ve znění vládního nařízení č. 63/1939 Sb."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 9. května 1946."
+    }
+  ],
+  "definitions": []
+}

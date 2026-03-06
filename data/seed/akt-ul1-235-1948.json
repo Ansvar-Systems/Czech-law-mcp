@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:235/1948",
+  "type": "statute",
+  "title": "235/1948 Ú. l. I, Vyhláška ministra sociální péče o úpravě odměn za broušení skelné imitace drahokamů a polodrahokamů (kvadrantní broušení) po domácku.",
+  "title_en": "",
+  "short_name": "235/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-02-13",
+  "in_force_date": "1947-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/235",
+  "description": "Vyhláška ministra sociální péče o úpravě odměn za broušení skelné imitace drahokamů a polodrahokamů (kvadrantní broušení) po domácku.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Působnost.",
+      "chapter": "A. Všeobecná část.",
+      "content": "Vyhláška se vztahuje:\n1. místně:na země Českou a Moravskoslezskou,\n2. odborně:na broušení skelné imitace drahokamů a polodrahokamů (kvadrantní broušení) po domácku,\n3. osobněna všechny domácké dělníky, podnikatele domácké práce a zprostředkovatele (faktory)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Odměny od kusu.",
+      "chapter": "A. Všeobecná část.",
+      "content": "(1) Domáckým dělníkům platí se odměny od kusu, uvedené v části B, za každý tucet bezvadně zpracovaného zboží.\n(2) Odměny od kusu za předměty a práce v seznamu odměn od kusu neuvedené nebo od nich se lišící, vypočtou se tak, aby domácký dělník průměrného výkonu dosáhl hodinového výdělku ve výši Kčs 10.—.\n(3) Podnikatelé domácké práce a domáčtí dělníci použijí za účelem výpočtu odměn od kusu zprostředkování Úřadovny Ústředny pro domáckou práci v Jablonci n. Nisou, pověřené ministerstvem sociální péče pro sklářskou domáckou výrobu. Proti rozhodnutí přepočítávače může se podati odvolání ministerstvu sociální péče, které rozhodne s konečnou platností. Toto ustanovení platí též pro takové příkazy, které jsou skrytými kupními obchody."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Příplatek na režii.",
+      "chapter": "A. Všeobecná část.",
+      "content": "(1) Domáčtí dělníci, kteří pracují zpravidla sami nebo se svými rodinnými příslušníky, obdrží vedle odměny na úhradu nákladů za opotřebení náčiní pracovních potřeb, udržování brusu, vytápění a osvětlování pracoviště příplatek ve výši 30% k odměnám od kusu.\n(2) Zprostředkovatelé (faktoři) obdrží k odměnám od kusu uvedeným v části B nebo vypočteným podle § 2, odst. 2 na úhradu svých nákladů v provozovně a mimo provozovnu (sociální břemena), s výjimkou příplatků na režii připadajících na domácké dělníky, placení dovolené a svátků, příplatek ve výši 20%."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Výplata odměn.",
+      "chapter": "A. Všeobecná část.",
+      "content": "Výplata odměn děje se ihned po odvedení zboží, nejpozději následující soboty."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Ustanovení o nejvyšších odměnách.",
+      "chapter": "A. Všeobecná část.",
+      "content": "(1) Pokud se v době účinnosti této vyhlášky platí vyšší odměny než tato stanoví, jest podnikatel domácké práce nebo zprostředkovatel (faktor) povinen snížiti tyto vyšší odměny na výši stanovenou vyhláškou.\n(2) Podnikatelé domácké práce a domáčtí pracovníci smějí se napříště dohodnouti jen na odměnách, vyplývajících z této vyhlášky. Jiné odměny nesmějí býti ani nabízeny ani žádány.\n(3) Výjimky z těchto ustanovení může povoliti na návrh ministerstvo sociální péče.\n(4) Kdo proti těmto ustanovením jedná nebo je obchází, bude potrestán podle platných předpisů."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Závěrečná a přechodná ustanovení.",
+      "chapter": "A. Všeobecná část.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem 1. prosince 1947\n(2) Zároveň se tímto ruší vyhláška ze dne 31. července 1943, č. 590 Ú. l."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Tímto způsobem stanoví se také odměny od kusu za práce zabrušovací (zabrušováním",
+      "definition": "se broušení mačkané suroviny, která řádně ostřihaná je co do rozměrů větší než požadovaná velikost broušeného kamene) a za práce jednotlivé (tím se rozumí broušení méně než 1 tuctu téhož tvaru, velikosti a výbrusu)",
+      "source_provision": "§ 6."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:214/2001",
+  "type": "statute",
+  "title": "214/2001 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví vymezení zdrojů energie, které budou hodnoceny jako obnovitelné",
+  "title_en": "",
+  "short_name": "214/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-06-29",
+  "in_force_date": "2001-06-29",
+  "url": "https://www.e-sbirka.cz/sb/2001/214",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví vymezení zdrojů energie, které budou hodnoceny jako obnovitelné",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Touto vyhláškou se vymezují zdroje energie, které budou hodnoceny jako obnovitelné ve vztahu na poskytování dotací ze státního rozpočtu podle § 5 odst. 4 písm. e) zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obnovitelné zdroje energie pro výrobu elektřiny",
+      "content": "Obnovitelným zdrojem pro výrobu elektřiny jsou:\na) vodní energie v zařízeních do 10 MWe,\nb) sluneční energie,\nc) větrná energie,\nd) biomasa v zařízeních do 5 MWe,\ne) bioplyn,\nf) palivové články,\ng) geotermální energie."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Obnovitelné zdroje energie pro výrobu tepelné energie",
+      "content": "Obnovitelným zdrojem pro výrobu tepelné energie jsou:\na) sluneční energie,\nb) geotermální energie,\nc) biomasa v zařízeních do 20 MWt,\nd) bioplyn,\ne) palivové články."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

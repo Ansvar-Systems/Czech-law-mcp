@@ -1,0 +1,21 @@
+{
+  "id": "cz:123/2011",
+  "type": "statute",
+  "title": "123/2011 Sb., Vyhláška Ministerstva vnitra o vyhlášení nových voleb do zastupitelstva obce",
+  "title_en": "",
+  "short_name": "123/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-05-12",
+  "in_force_date": "2011-05-12",
+  "url": "https://www.e-sbirka.cz/sb/2011/123",
+  "description": "Vyhláška Ministerstva vnitra o vyhlášení nových voleb do zastupitelstva obce",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "obecokreskraj\nKratochvilkaBrno-venkovJihomoravský"
+    }
+  ],
+  "definitions": []
+}

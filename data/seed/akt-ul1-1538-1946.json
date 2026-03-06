@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:1538/1946",
+  "type": "statute",
+  "title": "1538/1946 Ú. l. I, Vyhláška č. 18/1946 Svazu pro hospodaření obilím o soupisu zásob rýže a zaplacení cenových rozdílů.",
+  "title_en": "",
+  "short_name": "1538/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-07-20",
+  "in_force_date": "1946-07-20",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1538",
+  "description": "Vyhláška č. 18/1946 Svazu pro hospodaření obilím o soupisu zásob rýže a zaplacení cenových rozdílů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Velkorozdělovači rýže jakéhokoliv původu jsou povinni ohlásiti Svazu nejpozději do 31. července 1946 zásobu rýže podle stavu dne 21. července 1946 ve 24 hodiny.\n(2) Velkorozdělovači a malorozdělovači rýže jakéhokoliv původu jsou povinni zaplatiti Svazu ze zásob rýže podle stavu dne 21. července 1946 ve 24 hodiny jako rozdíl mezi cenami rýže platnými do 21. července 1946 a mezi cenami platnými po tomto dni částky stanovené v § 2.\n(3) Zásobou podle odstavce 1 a 2 se rozumí i to množství rýže, které bylo před 22. červencem 1946 odevzdáno k dopravě na adresu velkorozdělovače nebo malorozdělovače a došlo po 21. červenci 1946.\n(4) Povinnost uvedená v odstavci 1 a 2 se nevztahuje na zásoby, které nepřevyšovaly u jednotlivých malorozdělovačů dne 21. července 1946 ve 24 hodiny dohromady množství 20 kg; jinak se vztahuje povinnost podle odstavce 1 a 2 vždy na celou zásobu. Prodejny a pobočné závody se pokládají pro posuzování výše zásob podle tohoto odstavce za samostatné rozdělovače."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Cenový rozdíl činí u 100 kg:\nu velkorozdělovačeKčs 290.—,\nt. j. rozdíl mezi dosavadní nákupní cenouKčs 460.—\na novou cenouKčs 760.—,\nu malorozdělovačeKčs 335.—,\nt. j. rozdíl mezi dosavadní nákupní cenouKčs 515.—\na novou cenouKčs 850.—.\nZlomkovou rýži jest při placení cenových rozdílů posuzovati jako rýži normální jakosti.\n(2) Částky příslušející Svazu z cenových rozdílů uvedených v odstavci 1 jest zaplatiti nejpozději do 31. srpna 1946 Svazu výhradně na jeho účet u poštovní spořitelny č. 71.600 — „Účet cenových rozdílů“."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pro porušení ustanovení této vyhlášky může Svaz podle platných předpisů uložiti pořádkovou pokutu, pokud se neukládá trest správními úřady v trestním řízení správním."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zásobou podle odstavce 1 a 2",
+      "definition": "i to množství rýže, které bylo před 22",
+      "source_provision": "§ 1."
+    }
+  ]
+}

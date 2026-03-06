@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:1487/1948",
+  "type": "statute",
+  "title": "1487/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách včelího medu domácího původu.",
+  "title_en": "",
+  "short_name": "1487/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-17",
+  "in_force_date": "1948-08-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1487",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách včelího medu domácího původu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Nejvyšší ceny včelího medu domácího původu stanoví se takto:\nA. Prodejní cena výrobce:\na) při dodávce obvodové sběrně pro med a vosk\n(velkorozdělovači) za zboží volnéKčs 60.—\nfranko sklad místního sběrače,\nb) při dodávce spotřebiteli:\nza zboží volnéKčs 77.—,\nza zboží plněnéKčs 78.—\nfranko sklad prodávajícího, při zásilkách franko odesílací stanice.\nB. Prodejní cena velkorozdělovače:\nPři dodávce obvodovou sběrnou pro med a vosk (velkorozdělovačem) malorozdělovači nebo zpracovávajícímu průmyslu:\nza zboží volnéKčs 70.50,\nza zboží plněnéKčs 72.—.\nTato cena se rozumí v místě ze skladu prodávajícího, při zásilkách drahou franko odesílací stanice.\nC. Cena spotřebitelská:\na) Při prodeji malorozdělovačem nebo obvodovou sběrnou pro med a vosk (velkorozdělovačem) spotřebiteli, loko sklad prodávajícího\nza zboží volné nebo plněnéKčs 80.—.\nb) Při prodeji obvodovou sběrnou pro med a vosk (velkorozdělovačem) velkospotřebiteli při odběru nejméně 25 kg medu najednou ze skladu prodávajícího, při zásilkách drahou franko odesílací stanice:\nza zboží volnéKčs 72.—,\nza zboží plněnéKčs 74.—.\n(2) Ceny stanovené v odstavci 1 se rozumějí za 1 kg čisté váhy včelího medu nejlepší jakosti, odborně ošetřeného, bez nádob, s daní z obratu, při dodávce volného zboží s plněním do nádob. Cena medu odborně neošetřeného je o Kčs 5.— za 1 kg nižší.\n(3) Za zboží horší jakosti je třeba poskytnout přiměřenou srážku z ceny podle vzájemné dohody. Ve sporných případech rozhodne Svaz pro drůbež, vejce a med."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Při dodávkách medu ve velkém v nádobách prodávajícího smí prodávající účtovat zvlášť částku připadající na nádoby ve výši pořizovacích nákladů. Kupující je povinen na požádání prodávajícího vrátit nádoby do 8 dnů po převzetí zboží na účet prodávajícího franko odesílací stanice. Po správném vrácení a převzetí nádob vrátí prodávající zaúčtovanou zálohu za nádoby do 8 dnů kupujícímu.\n(2) Za půjčení dopravních nádob při dodávkách medu ve velkém smí prodávající účtovat kupujícímu zvlášť částku Kčs 0.30 za 1 kg dodaného medu. Budou-li nádoby zapůjčené pro dodávku medu vráceny kupujícím nevyčištěné, je prodávající oprávněn účtovat za jejich vyčištění Kčs 0.40 za 1 kg dodaného medu.\n(3) Při prodeji medu v drobném v nádobách dodaných prodávajícím smí prodávající požadovat za nádobu přiměřenou zálohu až do výše pořizovacího nákladu. Vrátí-li kupující nádobu nepoškozenou, je prodávající povinen vrátit tuto zálohu beze srážky.\n(4) Při prodeji medu v pergamenových (papírových a jiných) nádobách, které se nevracejí, je prodávající oprávněn připočíst k prodejní ceně medu částku odpovídající pořizovací hodnotě této nádoby:\n(5) Při dodávkách medu plněného v nádobách do 1 kg, smí se med prodávati jen po 1/8, ¼, ½ a 1 kg čisté váhy medu. Nádoby musí býti opatřeny nálepkou a těmito údaji:\n1. původ medu,\n2. čistá váha medu,\n3. cena medu,\n4. přesná adresa firmy, která provedla plnění."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nejvyšší úřad cenový může k provedení této vyhlášky vydati potřebné předpisy a nařídit nebo povolit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 1948. Zároveň se zrušuje vyhláška nejvyššího úřadu cenového ze dne 3. prosince 1945, č. 466 Ú. l. I, o nejvyšších cenách včelího medu domácího původu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Tato cena",
+      "definition": "v místě ze skladu prodávajícího, při zásilkách drahou franko odesílací stanice",
+      "source_provision": "§ 1."
+    }
+  ]
+}

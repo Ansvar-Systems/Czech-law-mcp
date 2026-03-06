@@ -1,0 +1,39 @@
+{
+  "id": "cz:299/2012",
+  "type": "statute",
+  "title": "299/2012 Sb., Vyhláška o obsahu kyseliny erukové v některých potravinách",
+  "title_en": "",
+  "short_name": "299/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-09-13",
+  "in_force_date": "2012-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/299",
+  "description": "Vyhláška o obsahu kyseliny erukové v některých potravinách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropské unie1) a stanoví přípustný obsah kyseliny erukové jako toxikologicky významné látky v některých potravinách."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Přípustný obsah kyseliny erukové v některých potravinách",
+      "content": "Obsah kyseliny erukové\na) v olejích, tucích a jejich směsích, které jsou určeny k lidské spotřebě,\nb) v potravinách, k nimž byly přidány oleje, tuky nebo jejich směsi,\nnesmí překročit 5 % z celkového množství mastných kyselin v tukové složce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Vyhláška č. 305/2004 Sb., kterou se stanoví druhy kontaminujících a toxikologicky významných látek a jejich přípustné množství v potravinách, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 2012.\n1) Směrnice Rady č. 76/621/EHS ze dne 20. července 1976, kterou se stanoví nejvyšší množství kyseliny erukové v olejích a tucích určených jako takových k lidské spotřebě a v potravinách obsahujících oleje nebo tuky."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1040/1947",
+  "type": "statute",
+  "title": "1040/1947 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků hornických do „Československých dolů, národního podniku“.",
+  "title_en": "",
+  "short_name": "1040/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-10-08",
+  "in_force_date": "1947-10-08",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1040",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků hornických do „Československých dolů, národního podniku“.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Hornická obchodní společnost s r. o. v Praze;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Lang a spol., společnost s r. o., Olomouc v rozsahu jejich znárodnění do „Československých dolů, národního podniku“."
+    }
+  ],
+  "definitions": []
+}

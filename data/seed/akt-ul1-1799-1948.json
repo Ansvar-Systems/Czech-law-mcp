@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1799/1948",
+  "type": "statute",
+  "title": "1799/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Kovolisu, národního podniku.",
+  "title_en": "",
+  "short_name": "1799/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-01",
+  "in_force_date": "1948-08-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1799",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Kovolisu, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. R. Kreisel, výroba kovového zboží, se sídlem v Turnově,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Alois Rieger, se sídlem v Hradci Králové IV (Kukleny), ul. Knížete Václava, čp. 667,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Antonín Vichr, továrna kovového zboží, se sídlem v Praze Strašnicích, Černokostelecká silnice č. 1168,\nvesměs v rozsahu jejich znárodnění, do Kovolisu, národního podniku."
+    }
+  ],
+  "definitions": []
+}

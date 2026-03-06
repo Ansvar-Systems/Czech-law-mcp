@@ -1,0 +1,33 @@
+{
+  "id": "cz:161/1964",
+  "type": "statute",
+  "title": "161/1964 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "161/1964 Sb.",
+  "status": "in_force",
+  "issued_date": "1964-07-08",
+  "in_force_date": "1964-07-08",
+  "url": "https://www.e-sbirka.cz/sb/1964/161",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 64 odst. 5 řádek 3 zákona č. 101/1964 Sb. opravuje se tisková chyba ve slovech: „daň důchodu“, takže tato slova zní správně „daň z důchodu“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 95 odst. 1 řádek 3 zákona č. 103/1964 Sb. opravuje se tisková chyba ve slovech: „splatné ode dne smrti“, takže tato slova zní správně: „splatné do dne smrti“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V § 11 odst. 2 vyhlášky č. 105/1964 Sb. opravuje se tisková chyba, takže toto ustanovení zní správně:\n„(2) Vdovský důchod se vyměřuje ze starobního (invalidního) důchodu jednotlivě hospodařícího rolníka, čítajíc v to i zvýšení důchodu podle § 12 odst. 1.“"
+    }
+  ],
+  "definitions": []
+}

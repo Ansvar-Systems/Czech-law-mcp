@@ -1,0 +1,45 @@
+{
+  "id": "cz:15/1996",
+  "type": "statute",
+  "title": "15/1996 Sb., Vyhláška Ministerstva financí, kterou se stanoví podmínky pro vrácení spotřební daně zaplacené v cenách topných olejů lehkých",
+  "title_en": "",
+  "short_name": "15/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-01-26",
+  "in_force_date": "1996-01-26",
+  "url": "https://www.e-sbirka.cz/sb/1996/15",
+  "description": "Vyhláška Ministerstva financí, kterou se stanoví podmínky pro vrácení spotřební daně zaplacené v cenách topných olejů lehkých",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška stanoví podmínky pro vrácení spotřební daně (dále jen „daň“), způsob vrácení daně a způsob prokazování nároku na vrácení daně zaplacené v cenách topných olejů lehkých (dále jen „topný olej“) prokazatelně použitých pro vytápění nebo výrobu tepelné energie nebo výrobu elektrické energie."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Oprávněné osoby a vznik nároku na vrácení daně",
+      "content": "(1) Nárok na vrácení daně mají právnické i fyzické osoby, které počínaje dnem 1. ledna 1996 nakoupily1) topný olej za cenu obsahující daň platnou v den nákupu a použily ho pro výrobu tepelné energie (kód Standardní klasifikace produkce 40.30.11)2) nebo pro výrobu elektrické energie (kód Standardní klasifikace produkce 40.10.1)2) nebo výhradně pro účely vytápění.\n(2) Nárok na vrácení daně vzniká dnem spotřeby topného oleje nakoupeného za cenu obsahující daň pro účely stanovené v odstavci 1."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Žádost o vrácení daně",
+      "content": "(1) Nárok na vrácení daně se uplatní v žádosti, kterou právnická nebo fyzická osoba uvedená v § 2 odst. 1 (dále jen „žadatel“) podá u místně příslušného finančního úřadu.3)\n(2) Žádost se podává vždy jednou za uplynulý kalendářní měsíc. Za každý kalendářní měsíc je třeba uplatnit nárok na vrácení daně zvlášť.\n(3) V žádosti se uvede\na) obchodní jméno, sídlo, adresa provozovny, kde byl topný olej spotřebován, a daňové identifikační číslo4) žadatele u právnických osob, jméno a příjmení žadatele, případně obchodní jméno, bydliště a daňové identifikační číslo nebo rodné číslo u fyzických osob (nebylo-li přiděleno daňové identifikační číslo),\nb) kalendářní měsíc spotřeby topného oleje,\nc) údaj o množství topného oleje skutečně spotřebovaného pro účely stanovené v § 2 odst. 1 za kalendářní měsíc spotřeby topného oleje v tunách v členění na výrobu tepelné energie, výrobu elektrické energie a vytápění,\nd) údaj o normě spotřeby topného oleje v agregátu, kde se topný olej spaluje, odpovídající údaji uvedenému v dokumentaci výrobce tohoto agregátu,\ne) údaj o době, kdy byl agregát spalující topný olej v provozu, za kalendářní měsíc spotřeby topného oleje v hodinách,\nf) částka nároku na vrácení daně v Kč; částka nároku na vrácení daně se vypočte vynásobením množství spotřebovaného topného oleje v tunách sazbou daně platné v den jeho nákupu; při přepočtu množství spotřebovaného topného oleje v objemových jednotkách na váhové jednotky se použije vzorec uvedený v odstavci 5,\ng) podpis žadatele u fyzických osob a u právnických osob podpis statutárního orgánu a razítko.\n(4) K žádosti se připojí písemný doklad podle § 3 zákona potvrzující, že spotřebovaný topný olej byl pořízen za cenu obsahující daň, včetně výše zaplacené daně a data nákupu topného oleje.\n(5) Pokud údaj na dokladu podle odstavce 4 je uveden v objemových jednotkách, převede ho žadatel na váhové jednotky podle vzorce:\n„množství v litrech ×0,9101000=množství v tunách.“"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Vrácení daně",
+      "content": "Při vrácení daně se postupuje obdobně jako při vypořádání daňového přeplatku.5) Částka vrácení daně musí odpovídat částce daně zaplacené v ceně spotřebovaného topného oleje."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinosti dnem vyhlášení.\n1) § 409 zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.\n§ 588 zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.\n2) Opatření Českého statistického úřadu ze dne 1. listopadu 1993 č. j. 1174/93-3010 k zavedení Standardní klasifikace produkce.\n3) § 4 zákona ČNR č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.\n4) § 33 zákona ČNR č. 337/1992 Sb., ve znění pozdějších předpisů.\n5) § 64 zákona ČNR č. 337/1992 Sb., ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

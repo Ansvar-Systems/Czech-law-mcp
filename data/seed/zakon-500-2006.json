@@ -1,0 +1,188 @@
+{
+  "id": "cz:500/2006",
+  "type": "statute",
+  "title": "500/2006 Sb., Vyhláška o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti",
+  "title_en": "",
+  "short_name": "500/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-11-28",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/500",
+  "description": "Vyhláška o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Tato vyhláška podrobněji upravuje náležitosti obsahu územně analytických podkladů, obsahu územně plánovací dokumentace, včetně náležitostí dokladů spojených s jejich pořizováním, vyhodnocením vlivů na udržitelný rozvoj území a aktualizací územně plánovací dokumentace, a podkladů pro evidenci územně plánovací činnosti. Tato vyhláška dále upravuje podrobnosti jednotného standardu územně plánovací dokumentace."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Pro účely této vyhlášky se rozumí\na) výkresem veřejně prospěšných staveb, opatření a asanací výkres ploch, koridorů nebo pozemků určených pro umístění navrhovaných veřejně prospěšných staveb, veřejně prospěšných opatření, veřejných prostranství, staveb a opatření k zajišťování obrany a bezpečnosti státu a pro asanaci území, ve kterých lze práva k pozemkům a stavbám vyvlastnit nebo ke kterým lze uplatnit předkupní právo (§ 101 stavebního zákona),\nb) koordinačním výkresem výkres zahrnující navržené řešení, neměněný současný stav a důležitá omezení v území, zejména limity využití území (§ 26 odst. 1 stavebního zákona),\nc) schématem výkres, ve kterém se zjednodušenou formou zobrazují jevy v měřítku menším, než je stanoveno pro jednotlivé nástroje územního plánování,\nd) urbanistickou kompozicí cílevědomá skladba vybraných prostorů, částí urbánních a krajinných prvků za účelem vytváření a ochrany jejich vzájemných harmonických vztahů, například pohledových horizontů, panoramatu, urbanistických a pohledových os, průhledů, dominant, přiměřeného měřítka a proporcí.\n(2) Úplné znění územně plánovací dokumentace obsahuje textovou a grafickou část územně plánovací dokumentace, ve znění platném po aktualizaci zásad územního rozvoje, změně územního plánu nebo regulačního plánu, a z odůvodnění koordinační výkres celého území kraje nebo celého území obce anebo celé plochy řešené regulačním plánem. V případě územního plánu pro vymezenou část území hlavního města Prahy úplné znění obsahuje textovou a grafickou část územního plánu, ve znění platném po změně územního plánu, a z odůvodnění koordinační výkres pro celou vymezenou část území hlavního města Prahy.\n(3) Strojově čitelným formátem pro potřeby územně plánovací činnosti se rozumí formát datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury. Prostorová data se vedou v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální a referenčním Výškovém systému baltském – po vyrovnání."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Mapové a další podklady pro územně plánovací činnost",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Mapovým podkladem pro zpracování územně plánovacích podkladů a územně plánovací dokumentace (dále jen „mapový podklad“) jsou katastrální mapa, Státní mapa, Základní mapa České republiky a Mapa České republiky1).\n(2) Mapovým podkladem jsou dále základní báze geografických dat, tematická státní mapová díla a digitální mapa veřejné správy. Při územně plánovací činnosti se jako další mapový podklad používá digitální technická mapa obce, je-li k dispozici. Mapovým podkladem pro pořízení regulačního plánu může být též polohopisné a výškopisné zaměření řešeného území.\n(3) Pro účely územního plánování je možné mapový podklad doplnit na základě skutečností zjištěných vlastním průzkumem území; záznam o provedeném doplnění se ukládá u pořizovatele.\n(4) Není-li státní mapové dílo17) v digitální formě k dispozici, lze s využitím státního mapového díla vytvořit mapový podklad v digitální formě."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - ÚZEMNĚ ANALYTICKÉ PODKLADY",
+      "content": "(1) Územně analytické podklady pořizované úřadem územního plánování (dále jen „územně analytické podklady obcí“) a územně analytické podklady pořizované krajským úřadem (dále jen „územně analytické podklady kraje“) obsahují\na) podklady pro rozbor udržitelného rozvoje území,\nb) rozbor udržitelného rozvoje území,\nc) údaje o území, zjištění vyplývající z průzkumů území, další důležité dostupné informace a případně data vzniklá analýzou shromážděných informací (dále jen „databáze územně analytických podkladů“).\n(2) Podklady pro rozbor udržitelného rozvoje území zahrnují\na) zjištění a vyhodnocení stavu a vývoje území, jeho hodnot a limity využití území, to vše v členění zejména na\n1. širší územní vztahy,\n2. prostorové a funkční uspořádání území,\n3. struktura osídlení,\n4. sociodemografické podmínky a bydlení,\n5. příroda a krajina,\n6. vodní režim a horninové prostředí,\n7. kvalita životního prostředí,\n8. zemědělský půdní fond a pozemky určené k plnění funkcí lesa,\n9. občanská vybavenost včetně její dostupnosti a veřejná prostranství,\n10. dopravní a technická infrastruktura včetně jejich dostupnosti,\n11. ekonomické a hospodářské podmínky,\n12. rekreace a cestovní ruch,\n13. bezpečnost a ochrana obyvatel,\nb) zjištění a vyhodnocení záměrů na provedení změn v území.\n(3) Rozbor udržitelného rozvoje území zahrnuje\na) zjištění a vyhodnocení pozitiv a negativ v území v členění zejména na\n1. širší územní vztahy,\n2. prostorové a funkční uspořádání území,\n3. struktura osídlení,\n4. sociodemografické podmínky a bydlení,\n5. příroda a krajina,\n6. vodní režim a horninové prostředí,\n7. kvalita životního prostředí,\n8. zemědělský půdní fond a pozemky určené k plnění funkcí lesa,\n9. občanská vybavenost včetně její dostupnosti a veřejná prostranství,\n10. dopravní a technická infrastruktura včetně jejich dostupnosti,\n11. ekonomické a hospodářské podmínky,\n12. rekreace a cestovní ruch,\n13. bezpečnost a ochrana obyvatel,\nb) vyhodnocení územních podmínek a potenciálů jednotlivých pilířů udržitelného rozvoje území, a to pro příznivé životní prostředí, pro hospodářský rozvoj a pro soudržnost společenství obyvatel, včetně jejich vzájemných vazeb a trendů vývoje území,\nc) určení problémů k řešení v územně plánovacích dokumentacích, případně v územních studiích, zahrnující zejména požadavky na zmírnění nebo omezení urbanistických, dopravních a hygienických závad, vzájemných střetů záměrů na provedení změn v území a střetů těchto záměrů s limity využití území a s hodnotami v území, na odstranění nebo zmírnění vlivů negativ v území, na využití potenciálů rozvoje území a na snížení nevyváženého vztahu podmínek pro příznivé životní prostředí, pro hospodářský rozvoj a pro soudržnost společenství obyvatel.\n(4) Databáze územně analytických podkladů je průběžně aktualizována a je tvořena sledovanými jevy podle přílohy č. 1 k této vyhlášce. Databáze územně analytických podkladů obcí je zpracována minimálně v rozsahu podle části A přílohy č. 1 k této vyhlášce, a to v podrobnosti a rozsahu nezbytném pro pořizování územních plánů a regulačních plánů. Databáze územně analytických podkladů kraje je zpracována podle přílohy č. 1 k této vyhlášce v podrobnosti a rozsahu nezbytném pro pořizování zásad územního rozvoje. Krajský úřad může poskytnout při zpracování databáze územně analytických podkladů součinnost úřadům územního plánování ve svém správním obvodu.\n(5) Údaj o území obsahuje textovou část, která zahrnuje popis údaje o území, a geografická data zpracovaná ve strojově čitelném formátu. Správnost poskytnutého údaje o území se potvrzuje v pasportu údaje o území, jehož obsah je stanoven v příloze č. 2 k této vyhlášce. Poskytovatel údaje o území může údaje o území včetně pasportu údaje o území poskytnout úřadům územního plánování z důvodu efektivnosti prostřednictvím krajského úřadu, který o ně může požádat v rozsahu svého správního obvodu a následně je poskytnout úřadům územního plánování ve svém správním obvodu.\n(6) Grafická část územně analytických podkladů se zpracovává zpravidla v rámci pořízení úplné aktualizace územně analytických podkladů. Grafická část podkladů pro rozbor udržitelného rozvoje území územně analytických podkladů obsahuje výkres hodnot území, zahrnující hodnoty kulturní, přírodní a civilizační, výkres limitů využití území a výkres záměrů na provedení změn v území. Grafická část rozboru udržitelného rozvoje území územně analytických podkladů obsahuje výkres problémů k řešení v územně plánovacích dokumentacích, případně v územních studiích (dále jen „problémový výkres“). Územně analytické podklady mohou být doplněny dalšími výkresy, schématy, tabulkami, grafy či kartogramy.\n(7) V územně analytických podkladech pro území hlavního města Prahy je možno sloučit obsah územně analytických podkladů obcí a územně analytických podkladů kraje."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - ÚZEMNĚ ANALYTICKÉ PODKLADY",
+      "content": "(1) Územně analytické podklady kraje se předkládají k projednání zastupitelstvu kraje v rozsahu rozboru udržitelného rozvoje území nebo jeho aktualizace.\n(2) Součástí územně analytických podkladů obcí je doklad o jejich projednání s obcemi. Součástí územně analytických podkladů kraje je doklad o jejich projednání v zastupitelstvu kraje.\n(3) Obsah dokladu o projednání územně analytických podkladů je stanoven v příloze č. 3 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA I - ZÁSADY ÚZEMNÍHO ROZVOJE",
+      "content": "(1) Zásady územního rozvoje obsahují textovou a grafickou část. Náležitosti obsahu zásad územního rozvoje, včetně jejich odůvodnění, jsou stanoveny v příloze č. 4 k této vyhlášce. Pro zásady územního rozvoje hlavního města Prahy se použije příloha č. 4 k této vyhlášce obdobně, nevylučuje-li to povaha věci.\n(2) Výkresy, které jsou součástí grafické části zásad územního rozvoje, se vydávají v měřítku 1 : 100 000 nebo v odůvodněných případech 1 : 50 000, popřípadě 1 : 200 000. Výkres širších vztahů se zpracovává a vydává v měřítku 1 : 500 000. Výkresy obsahují jevy zobrazitelné v daném měřítku. Ve výkresech se vyznačí hranice řešeného území.\n(3) Obsah a struktura vyhodnocení vlivů zásad územního rozvoje na udržitelný rozvoj území jsou stanoveny v příloze č. 5 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA I - ZÁSADY ÚZEMNÍHO ROZVOJE",
+      "content": "(1) Zásady územního rozvoje, včetně jejich grafické části, i jejich aktualizace se opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který zásady územního rozvoje nebo jejich aktualizaci vydal,\nb) datum nabytí účinnosti zásad územního rozvoje nebo jejich aktualizace,\nc) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka.\n(2) Úplné znění zásad územního rozvoje, včetně jejich grafické části, se po vydání aktualizace zásad územního rozvoje opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který poslední aktualizaci vydal,\nb) pořadové číslo poslední aktualizace,\nc) datum nabytí účinnosti poslední aktualizace,\nd) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zpráva o uplatňování zásad územního rozvoje obsahuje",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA I - ZÁSADY ÚZEMNÍHO ROZVOJE",
+      "content": "a) vyhodnocení uplatňování zásad územního rozvoje,\nb) problémy k řešení v zásadách územního rozvoje vyplývající z územně analytických podkladů,\nc) vyhodnocení souladu zásad územního rozvoje s územním rozvojovým plánem a politikou územního rozvoje,\nd) vyhodnocení vlivů na udržitelný rozvoj území vyplývajících z uplatňování zásad územního rozvoje z hlediska jejich možných nepředvídaných dopadů, včetně potřeby opatření na jejich odvrácení, zmírnění nebo kompenzaci,\ne) vyhodnocení potřeby pořízení aktualizace zásad územního rozvoje nebo nových zásad územního rozvoje,\nf) požadavky na zpracování aktualizace zásad územního rozvoje a na vyhodnocení vlivů na udržitelný rozvoj území, je-li vyžadováno, nebo požadavky na zpracování nových zásad územního rozvoje a na vyhodnocení vlivů na udržitelný rozvoj území,\ng) návrhy na aktualizaci územního rozvojového plánu nebo politiky územního rozvoje."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA II - ÚZEMNÍ PLÁN",
+      "content": "(1) Podkladem pro zadání územního plánu jsou územně analytické podklady, doplňující průzkumy a rozbory, popřípadě územní studie.\n(2) Obsah zadání územního plánu je stanoven v příloze č. 6 k této vyhlášce.\n(3) Pokud je v zadání územního plánu uloženo zpracování variant řešení, obsahuje zadání požadavky a podmínky pro jejich posuzování."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA II - ÚZEMNÍ PLÁN",
+      "content": "(1) Územní plán obsahuje textovou a grafickou část. Náležitosti obsahu územního plánu, včetně jeho odůvodnění, jsou stanoveny v příloze č. 7. Pro územní plán vojenského újezdu se použije příloha č. 7 přiměřeně. Pro územní plán hlavního města Prahy se struktura textové části územního plánu uvedená v příloze č. 7 použije přiměřeně, pokud z povahy věci nelze postupovat obdobně.\n(2) Výkresy, které jsou součástí grafické části územního plánu, se zpracovávají nad mapovým podkladem v měřítku katastrální mapy nebo v měřítku 1 : 5 000 a vydávají se v měřítku 1 : 5 000 nebo 1 : 10 000. Pro zvlášť rozsáhlá území lze výkres základního členění území a samostatné výkresy koncepce uspořádání krajiny a koncepce veřejné infrastruktury vydat v měřítku 1 : 25 000. Pokud je územní plán s prvky regulačního plánu zpracován pro vymezenou část území obce, lze tuto část územního plánu vydat jako samostatný výkres v měřítku katastrální mapy. Výkres širších vztahů se zpracovává a vydává v měřítku výkresu ploch a koridorů zásad územního rozvoje, případně v měřítku 1 : 50 000 nebo 1 : 25 000. Výkresy obsahují jevy zobrazitelné v daném měřítku. Ve výkresech se vyznačí hranice řešeného území.\n(3) Výkresy územního plánu vojenského újezdu se zpracovávají nad Státní mapou v měřítku 1 : 5 000 a vydávají v měřítku, které stanoví Ministerstvo obrany v zadání územního plánu.\n(4) Obsah a struktura vyhodnocení vlivů územního plánu na udržitelný rozvoj území jsou stanoveny v příloze č. 5 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA II - ÚZEMNÍ PLÁN",
+      "content": "(1) Územní plán, včetně jeho grafické části, i jeho změna se opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který územní plán nebo jeho změnu vydal,\nb) datum nabytí účinnosti územního plánu nebo jeho změny,\nc) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka.\n(2) Úplné znění územního plánu, včetně jeho grafické části, se po vydání poslední změny územního plánu opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který poslední změnu vydal,\nb) pořadové číslo poslední změny,\nc) datum nabytí účinnosti poslední změny,\nd) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Zpráva o uplatňování územního plánu obsahuje",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA II - ÚZEMNÍ PLÁN",
+      "content": "a) vyhodnocení uplatňování územního plánu,\nb) problémy k řešení v územním plánu vyplývající z územně analytických podkladů,\nc) vyhodnocení souladu územního plánu s nadřazenou územně plánovací dokumentací a politikou územního rozvoje,\nd) vyhodnocení potřeby vymezení nových zastavitelných ploch podle § 55 odst. 4 stavebního zákona,\ne) vyhodnocení vlivů na udržitelný rozvoj území vyplývajících z uplatňování územního plánu z hlediska jejich možných nepředvídaných dopadů, včetně potřeby opatření na jejich odvrácení, zmírnění nebo kompenzaci,\nf) vyhodnocení potřeby pořízení změny územního plánu nebo nového územního plánu,\ng) pokyny pro zpracování návrhu změny územního plánu nebo nového územního plánu v rozsahu zadání změny územního plánu nebo zadání územního plánu, je-li vyhodnocení podle písmene f) kladné,\nh) návrhy na aktualizaci zásad územního rozvoje."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Podnět k pořízení regulačního plánu",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA III - REGULAČNÍ PLÁN",
+      "content": "(1) Podnět k pořízení regulačního plánu se podává na formuláři, jehož obsahové náležitosti jsou stanoveny v příloze č. 8 k této vyhlášce.\n(2) K podnětu k pořízení regulačního plánu se připojí přílohy uvedené v části B přílohy č. 8 k této vyhlášce včetně návrhu zadání regulačního plánu, jehož obsah je stanoven v příloze č. 9 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Žádost o vydání regulačního plánu",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA III - REGULAČNÍ PLÁN",
+      "content": "(1) Žádost o vydání regulačního plánu se podává na formuláři, jehož obsahové náležitosti jsou stanoveny v příloze č. 10 k této vyhlášce.\n(2) K žádosti o vydání regulačního plánu žadatel připojí přílohy uvedené v části B přílohy č. 10 k této vyhlášce včetně návrhu regulačního plánu, jehož obsah je stanoven v příloze č. 11 k této vyhlášce, dohody o parcelaci, jejíž obsah je stanoven v příloze č. 12 k této vyhlášce, a návrhu plánovací smlouvy, jejíž obsah je stanoven v příloze č. 13 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA III - REGULAČNÍ PLÁN",
+      "content": "(1) Regulační plán obsahuje textovou a grafickou část. Náležitosti obsahu regulačního plánu, včetně jeho odůvodnění, jsou stanoveny v příloze č. 11 k této vyhlášce.\n(2) Výkresy, které jsou součástí grafické části regulačního plánu, se zpracovávají a vydávají zpravidla v měřítku 1 : 1 000, popřípadě 1 : 500, s výjimkou výkresu veřejně prospěšných staveb, opatření a asanací, který se zpracovává a vydává v měřítku katastrální mapy. Výkres širších vztahů se zpracovává a vydává v měřítku hlavního výkresu územního plánu. Výkresy obsahují jevy zobrazitelné v daném měřítku. Ve výkresech se vyznačí hranice řešeného území. Regulační plán, který nenahrazuje územní rozhodnutí, lze vydat v měřítku 1 : 2 000."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST TŘETÍ - ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE > HLAVA III - REGULAČNÍ PLÁN",
+      "content": "(1) Regulační plán, včetně jeho grafické části, i jeho změna se opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který regulační plán nebo jeho změnu vydal,\nb) datum nabytí účinnosti regulačního plánu nebo jeho změny,\nc) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka.\n(2) Úplné znění regulačního plánu, včetně jeho grafické části, se po vydání poslední změny regulačního plánu opatří záznamem o účinnosti, který obsahuje\na) označení správního orgánu, který poslední změnu vydal,\nb) pořadové číslo poslední změny,\nc) datum nabytí účinnosti poslední změny,\nd) jméno a příjmení, funkci a podpis oprávněné úřední osoby pořizovatele, otisk úředního razítka."
+    },
+    {
+      "provision_ref": "§ 21a",
+      "section": "21a",
+      "title": "§ 21a",
+      "chapter": "ČÁST ČTVRTÁ - JEDNOTNÝ STANDARD ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE",
+      "content": "(1) Standardizovanými částmi územně plánovací dokumentace jsou\na) standardizované jevy,\nb) předávaná data.\n(2) Požadavky na strukturu standardizovaných jevů jsou požadavky na jejich datovou strukturu určující označení vrstev, jejich geometrii a vlastnosti.\n(3) Požadavky na strukturu předávaných dat zahrnují požadavky na uspořádání a označení složek a souborů a požadavky na zeměpisné usazení, barevnou hloubku a rozlišení rastrových dat.\n(4) Výkresy a schémata v rastrové podobě se předávají v zeměpisném usazení souřadnicového systému Jednotné trigonometrické sítě katastrální s barevnou hloubkou 24 bit v rozlišení 300 dpi.\n(5) Metadata obsahují údaje o názvu dokumentu, řešeném území, zpracovateli, druhu dokumentu a jeho změnách a aktualizacích, o etapě pořizování, měřítku a technologii zpracování, časové reference k předávaným datům a specifikaci předávaných jevů, které nejsou standardizovány.\n(6) Soulad územně plánovací dokumentace s jednotným standardem prokáže pořizovatel v jejím odůvodnění dokladem z elektronického kontrolního nástroje, který Ministerstvo pro místní rozvoj zpřístupní bezplatně způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 21b",
+      "section": "21b",
+      "title": "§ 21b Jednotný standard územního plánu",
+      "chapter": "ČÁST ČTVRTÁ - JEDNOTNÝ STANDARD ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE",
+      "content": "(1) Standardizované jevy územního plánu jsou\na) řešené území,\nb) zastavěné území,\nc) zastavitelné plochy,\nd) plochy přestavby,\ne) plochy změn v krajině,\nf) plochy s rozdílným způsobem využití,\ng) koridory dopravní a technické infrastruktury,\nh) plochy a koridory územních rezerv,\ni) plochy a koridory, ve kterých je rozhodování o změnách v území podmíněno uzavřením dohody o parcelaci, zpracováním územní studie nebo vydáním regulačního plánu,\nj) veřejně prospěšné stavby, opatření a asanace,\nk) územní systém ekologické stability,\nl) systém sídelní zeleně,\nm) systém významných veřejných prostranství,\nn) vymezení částí územního plánu s prvky regulačního plánu.\n(2) Požadavky na strukturu standardizovaných jevů územního plánu jsou stanoveny v přílohách č. 19 a 20 k této vyhlášce.\n(3) Požadavky na grafické vyjádření standardizovaných jevů územního plánu, s výjimkou ploch s rozdílným způsobem využití, jsou stanoveny v příloze č. 21 k této vyhlášce. Požadavky na grafické vyjádření ploch s rozdílným způsobem využití jsou stanoveny v příloze č. 22 k této vyhlášce.\n(4) Standardizované jevy hlavního výkresu použité též v samostatných výkresech se v těchto výkresech zobrazují přiměřeně s přihlédnutím k měřítku daného výkresu. Standardizované jevy hlavního výkresu se zobrazují shodně i v koordinačním výkresu.\n(5) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat územního plánu jsou stanoveny v příloze č. 23 k této vyhlášce.\n(6) Hlavní město Praha se může v odůvodněných případech odchýlit od požadavků této vyhlášky na grafické vyjádření a strukturu ploch s rozdílným způsobem využití."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST PÁTÁ - EVIDENCE ÚZEMNĚ PLÁNOVACÍ ČINNOSTI",
+      "content": "(1) Podkladem pro zápis do evidence územně plánovací činnosti jsou průběžně vyplňované registrační listy územně plánovací dokumentace a územní studie.\n(2) Formuláře registračních listů jsou obsahem příloh č. 14 až 18 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST ŠESTÁ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Při pořízení prvních zásad územního rozvoje není součástí jejich odůvodnění vyhodnocení podle části II. odst. 1 písm. c) přílohy č. 4; součástí jejich odůvodnění, kromě ostatních údajů stanovených v příloze č. 4, jsou dále\na) údaje o splnění zadání,\nb) výčet záměrů splňujících hledisko aktuálnosti a kritérium jejich nadmístního významu, převzatých bez věcné změny z platných územních plánů velkých územních celků do zásad územního rozvoje (§ 187 odst. 2 stavebního zákona),\nc) výkres záměrů převzatých bez věcné změny z platných územních plánů velkých územních celků do zásad územního rozvoje (§ 187 odst. 2 stavebního zákona).\n(2) Zadání územního plánu a zadání regulačního plánu obsahuje požadavky vyplývající z částí územního plánu velkého územního celku, které nepozbyly platnosti (§ 187 odst. 7 a § 189 odst. 2 stavebního zákona).\n(3) Zadání regulačního plánu schvalované zastupitelstvem obce obsahuje požadavky vyplývající z územního plánu obce nebo územního plánu sídelního útvaru, které nepozbyly platnosti (§ 189 odst. 2 stavebního zákona).\n(4) Odůvodnění územního plánu obsahuje vyhodnocení souladu s požadavky vyplývajícími z částí územního plánu velkého územního celku, které nepozbyly platnosti (§ 187 odst. 7 stavebního zákona).\n(5) Odůvodnění regulačního plánu obsahuje vyhodnocení souladu s požadavky vyplývajícími z územního plánu velkého územního celku, územního plánu obce nebo územního plánu sídelního útvaru, které nepozbyly platnosti."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST SEDMÁ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2007.\nPříloha č. 1 k vyhlášce č. 500/2006 Sb.\nObsah datové báze územně analytických podkladů"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "výkresem veřejně prospěšných staveb",
+      "definition": "opatření a asanací výkres ploch, koridorů nebo pozemků určených pro umístění navrhovaných veřejně prospěšných staveb, veřejně prospěšných opatření, veřejných prostranství, staveb a opatření k zajišťování obrany a bezpečnosti státu a pro asanaci území, ve kterých lze práva k pozemkům a stavbám vyvlastnit nebo ke kterým lze uplatnit předkupní právo (§ 101 stavebního zákona)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "koordinačním výkresem výkres zahrnující navržené řešení",
+      "definition": "neměněný současný stav a důležitá omezení v území, zejména limity využití území (§ 26 odst. 1 stavebního zákona)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "schématem výkres",
+      "definition": "ve kterém se zjednodušenou formou zobrazují jevy v měřítku menším, než je stanoveno pro jednotlivé nástroje územního plánování",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "urbanistickou kompozicí cílevědomá skladba vybraných prostorů",
+      "definition": "částí urbánních a krajinných prvků za účelem vytváření a ochrany jejich vzájemných harmonických vztahů, například pohledových horizontů, panoramatu, urbanistických a pohledových os, průhledů, dominant, přiměřeného měřítka a proporcí.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Strojově čitelným formátem pro potřeby územně plánovací činnosti",
+      "definition": "formát datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:n31/1999",
+  "type": "statute",
+  "title": "n31/1999 Sb., Redakční sdělení o opravě chyb ve vyhlášce č. 76/1999 Sb. a ve vyhlášce č. 91/1999 Sb.",
+  "title_en": "",
+  "short_name": "n31/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-06-03",
+  "in_force_date": "1999-06-03",
+  "url": "https://www.e-sbirka.cz/sb/1999/n31",
+  "description": "Redakční sdělení o opravě chyb ve vyhlášce č. 76/1999 Sb. a ve vyhlášce č. 91/1999 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ve vyhlášce Národního bezpečnostního úřadu č. 76/1999 Sb., o zajištění kryptografické ochrany utajovaných skutečností, provádění certifikace kryptografických prostředků a náležitostech certifikátu\nV názvu vyhlášky mají slova za čárkou správně znít: „provádění certifikace kryptografických prostředků a náležitostech certifikátu“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Ministerstva zdravotnictví č. 91/1999 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 294/1997 Sb., o mikrobiologických požadavcích na potraviny, způsobu jejich kontroly a hodnocení\nV článku I bodě 10 položka Staphylococcus aureus má správně znít:\n„Staphylococcus aureus 525.1022.103“;\nv článku I bodě 26 položka Plísně má správně znít:\n„Plísně52103104“."
+    }
+  ],
+  "definitions": []
+}

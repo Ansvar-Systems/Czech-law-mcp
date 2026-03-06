@@ -1,0 +1,68 @@
+{
+  "id": "cz:ul1:1442/1946",
+  "type": "statute",
+  "title": "1442/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách lesních plodů domácího původu.",
+  "title_en": "",
+  "short_name": "1442/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-06-22",
+  "in_force_date": "1946-06-23",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1442",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách lesních plodů domácího původu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Lesními plody podle této vyhlášky jsou borůvky, brusinky, lesní maliny, lesní jahody, ostružiny, jeřabiny lesní a sladké, šípky, trnky, bobule jalovce, dřínky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší ceny lesních plodů se stanoví takto:\nDruh lesních plodinborůvkybrusinkylesní malinylesní jahodyostružinyjeřabinyšípkytrnkyjalovecdřínky\nlesnísladké\nza 100 kg:KčsKčsKčsKčsKčsKčsKčsKčsKčsKčsKčs\nnejvyšší cena sběračská900.—1100.—1000.—1000.—850.—200.—400.—500.—360.—800.—300.—\nodměna vykupovače100.—100.—100.—100.—100.—60.—60.—60.—60.—60.—60.—\nobchodní rozpětí velkoobchodu80.—80.—80.—80.—80.—50.—50.—50.—50.—50.—50.—\npaušální dopravné80.—80.—80.—80.—80.—80.—80.—80.—80.—80.—80.—\nobchodní rozpětí maloobchodu250.—250.—250.—250.—250.—120.—120.—120.—120.—120.—120.—\nnejvyšší cena spotřebitelská za 1 kg14.1016.1015.1015.1013.605.107.108.106.7011.106.10\n(2) Nejvyšší cena sběračská se rozumí bez obalu, franko skladiště vykupovače.\n(3) Při prodeji lesních plodů podnikům k zpracování rozumí se cena franko sklad prodávajícího. Skutečné dopravní výlohy od prodávajícího ke zpracovateli hradí v tomto případě odběratel."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Nebudou-li při některých dodávkách zboží zúčastněny některé obchodní stupně uvedené v § 2, odst. 1, je nutno z výpočtu prodejní ceny vyloučit rozpětí na ně připadající.\n(2) V stanovených odměnách a výdělkových sazbách je zahrnuta i náhrada za vyschnutí a zkažení."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Nejvyšší ceny uvedené v § 2, odst. 1 platí pro zboží jakostní třídy A.\n(2) Za zboží jakostní třídy B smějí býti požadovány a placeny nejvýše sběračské ceny o 20% nižší. Ceny spotřebitelské se snižují v tomto případě o rozdíl mezi nejvyšší cenou sběračskou jakostní třídy A a B.\n(3) Zboží jakostní třídy A je zboží čerstvé, zdravé, nepřezrálé, suché, bez listí; zboží jakostní třídy B je zboží drobné, ne zcela čerstvé, po případě přezrálé, avšak způsobilé k požívání nebo k zpracování."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Není-li v této vyhlášce jinak stanoveno, je použíti o tvoření cen lesních plodů ustanovení nařízení předsedy nejvyššího úřadu cenového ze dne 23. července 1942, č. 264 Sb., o tvoření cen v obchodu s čerstvým zbožím a se sušenými plody (nařízení o čerstvém zboží ve znění vyhlášky nejvyššího úřadu cenového ze 6. května 1946, běž. č. 1177 (Ú. l. I č. 78/1946)."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů teto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem po vyhlášení.\nTýmž dnem se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 26. června 1943, běž. č. 443, o cenách lesních plodů domácího původu (Ú. l. č. 148/1943)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nejvyšší cena sběračská",
+      "definition": "bez obalu, franko skladiště vykupovače",
+      "source_provision": "§ 2."
+    },
+    {
+      "term": "Při prodeji lesních plodů podnikům k zpracování",
+      "definition": "se cena franko sklad prodávajícího",
+      "source_provision": "§ 2."
+    }
+  ]
+}

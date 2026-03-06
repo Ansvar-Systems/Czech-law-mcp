@@ -1,0 +1,21 @@
+{
+  "id": "cz:93/2003",
+  "type": "statute",
+  "title": "93/2003 Sb., Sdělení Českého statistického úřadu o zavedení Číselníku objektů s čísly domovními (ČOBJ-D)",
+  "title_en": "",
+  "short_name": "93/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-04-07",
+  "in_force_date": "2003-04-07",
+  "url": "https://www.e-sbirka.cz/sb/2003/93",
+  "description": "Sdělení Českého statistického úřadu o zavedení Číselníku objektů s čísly domovními (ČOBJ-D)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Číselník ČOBJ-D obsahuje identifikátor, územní identifikaci a lokalizaci stavebních objektů vymezených čísly domovními na území České republiky. Identifikátorem se rozumí identifikace stavebního objektu, zavedená a spravovaná ČSÚ. Územní identifikaci stavebního objektu tvoří řetězec kódu části obce (šestimístného), typu čísla domovního (jednomístného) a čísla domovního (pětimístného). Typ čísla domovního nabývá hodnoty 1 pro čísla popisná, hodnoty 2 pro čísla evidenční a hodnoty 3 pro čísla náhradní. Lokalizaci stavebního objektu představuje dvojice souřadnic X (osmimístná) a Y (sedmimístná) definičního bodu stavebního objektu s číslem domovním. Prostorovým referenčním systémem je systém jednotné trigonometrické sítě katastrální. Všechny stavební objekty s výše uvedenou identifikací, zejména garáže, nemusí být lokalizovány.\nČíselník ČOBJ-D bude k dispozici na nosiči v elektronické podobě v odboru informačních služeb Českého statistického úřadu, Josefská 6, Praha 1."
+    }
+  ],
+  "definitions": []
+}

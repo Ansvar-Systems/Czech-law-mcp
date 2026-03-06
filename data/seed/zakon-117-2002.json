@@ -1,0 +1,60 @@
+{
+  "id": "cz:117/2002",
+  "type": "statute",
+  "title": "117/2002 Sb., Vyhláška Ministerstva životního prostředí o rozsahu a způsobu vedení evidence obalů a ohlašování údajů z této evidence",
+  "title_en": "",
+  "short_name": "117/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-04-09",
+  "in_force_date": "2002-04-09",
+  "url": "https://www.e-sbirka.cz/sb/2002/117",
+  "description": "Vyhláška Ministerstva životního prostředí o rozsahu a způsobu vedení evidence obalů a ohlašování údajů z této evidence",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Základní pojmy",
+      "content": "Pro účely této vyhlášky se rozumí\na) účetním dokladem - účetní doklad (např. faktura, dodací list), který potvrzuje množství obalů uvedených na trh nebo do oběhu, nebo množství zpětně odebraných obalů, popřípadě též způsob naložení s nimi,\nb) vratným obalem - vratný opakovaně použitelný obal, pro který je opakované použití organizačně zajištěno způsobem podle bodu B.1 nebo B.2 přílohy č. 2 k zákonu o obalech,\nc) energetickým využitím - spalování odpadů z obalů, jestliže použitý odpad nepotřebuje po vlastním zapálení ke spalování podpůrné palivo a vznikající teplo se použije pro potřebu vlastní nebo dalších osob, nebo jestliže se odpad použije jako palivo nebo jako přídavné palivo v zařízeních na výrobu energie nebo materiálů za podmínek stanovených právními předpisy o ochraně ovzduší; energetickým využitím není spalování odpadů z obalů obsažených ve směsném komunálním odpadu,\nd) kombinovaným obalem na nápoje - obal, v němž podíl papíru tvoří alespoň 70 % hmotnosti obalu a je určen pro přímý styk s nápojem."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah a způsob vedení evidence obalů",
+      "content": "(1) Evidence množství a vlastností obalů uvedených na trh nebo do oběhu a z toho množství vratných obalů se vede v rozsahu a způsobem stanoveným v příloze č. 1 nebo jiným stejně průkazným způsobem.\n(2) Evidence množství zpětně odebraných obalů a z toho množství vratných obalů a evidence způsobu, jak bylo naloženo se zpětně odebranými použitými obaly, se vede v rozsahu a způsobem stanoveným v příloze č. 2 nebo jiným stejně průkazným způsobem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Rozsah a způsob ohlašování údajů z evidence obalů",
+      "content": "(1) Ohlašování množství a vlastností obalů uvedených na trh nebo do oběhu a z toho množství vratných obalů se provádí vyplněním výkazu množství obalů uvedených na trh nebo do oběhu, jehož vzor je uveden v příloze č. 3, a jeho předložením Ministerstvu životního prostředí (dále jen „ministerstvo“).\n(2) Ohlašování množství zpětně odebraných obalů a z toho množství vratných obalů a ohlašování způsobu, jak bylo naloženo se zpětně odebranými použitými obaly, se provádí vyplněním výkazu množství zpětně odebraných obalů a jejich využití, jehož vzor je uveden v příloze č. 4, a jeho předložením ministerstvu.\n(3) Ohlašování množství vratných obalů, které se evidují podle této vyhlášky, se provádí vyplněním výkazu množství vratných obalů, jehož vzor je uveden v příloze č. 5, a jeho předložením ministerstvu.\n(4) Výkazy vyplněné údaji podle odstavců 1 až 3 se zasílají za uplynulý kalendářní rok vždy nejpozději do 15. února ministerstvu v písemné a elektronické podobě nebo způsobem podle zvláštního právního předpisu.1)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k vyhlášce č. 117/2002 Sb.\nPříloha č. 2 k vyhlášce č. 117/2002 Sb.\nPříloha č. 3 k vyhlášce č. 117/2002 Sb.\nPříloha č. 4 k vyhlášce č. 117/2002 Sb.\nPříloha č. 5 k vyhlášce č. 117/2002 Sb.\n1) Zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "účetním dokladem - účetní doklad (např. faktura",
+      "definition": "dodací list), který potvrzuje množství obalů uvedených na trh nebo do oběhu, nebo množství zpětně odebraných obalů, popřípadě též způsob naložení s nimi",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "vratným obalem - vratný opakovaně použitelný obal",
+      "definition": "pro který je opakované použití organizačně zajištěno způsobem podle bodu B.1 nebo B.2 přílohy č. 2 k zákonu o obalech",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "energetickým využitím - spalování odpadů z obalů",
+      "definition": "jestliže použitý odpad nepotřebuje po vlastním zapálení ke spalování podpůrné palivo a vznikající teplo se použije pro potřebu vlastní nebo dalších osob, nebo jestliže se odpad použije jako palivo nebo jako přídavné palivo v zařízeních na výrobu energie nebo materiálů za podmínek stanovených právními předpisy o ochraně ovzduší; energetickým využitím není spalování odpadů z obalů obsažených ve směsném komunálním odpadu",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "kombinovaným obalem na nápoje - obal",
+      "definition": "v němž podíl papíru tvoří alespoň 70 % hmotnosti obalu a je určen pro přímý styk s nápojem.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

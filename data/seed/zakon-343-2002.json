@@ -1,0 +1,57 @@
+{
+  "id": "cz:343/2002",
+  "type": "statute",
+  "title": "343/2002 Sb., Vyhláška Ministerstva školství, mládeže a tělovýchovy o postupu a podmínkách při zveřejnění průběhu přijímacího řízení na vysokých školách",
+  "title_en": "",
+  "short_name": "343/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-07-30",
+  "in_force_date": "2004-05-05",
+  "url": "https://www.e-sbirka.cz/sb/2002/343",
+  "description": "Vyhláška Ministerstva školství, mládeže a tělovýchovy o postupu a podmínkách při zveřejnění průběhu přijímacího řízení na vysokých školách",
+  "provisions": [
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(6) Informace podle odstavce 1 písm. f) se nezveřejní, pokud počet uchazečů, kteří se zúčastnili písemné přijímací zkoušky, je menší než 100. Informace podle odstavce 1 písm. d) až e) se nezveřejní, pokud počet uchazečů, kteří se zúčastnili písemné přijímací zkoušky, je menší než 5.\n(5) Pokud přijímací zkouška sestává z několika samostatně vyhodnocovaných částí, ustanovení odstavců 1 až 4 se vztahují na jednotlivé části písemné přijímací zkoušky obdobně a základní statistické charakteristiky se zveřejňují za celou přijímací zkoušku i za každou samostatně vyhodnocovanou část; má-li přijímací zkouška více variant, zveřejňují se charakteristiky i za každou variantu každé části přijímací zkoušky i za každou variantu celkově.\n(4) Decilové hranice výsledku zkoušky vyjádřené d1, d2, d3, d4, d5, d6, d7, d8, d9 jsou hranice stanovené tak, že rozdělují uchazeče seřazené podle výsledku zkoušky do stejně velkých skupin, přičemž d5 je medián. Medián vyjadřuje prostřední hodnotu z výsledků zkoušek dosažených uchazeči.\nstd= ∑i=1nx1-x-2n n-1 ,, kde xi jsou výsledky zkoušky jednotlivých uchazečů, x- je aritmetický průměr výsledků zkoušky a n je počet účastníků zkoušky.\n(3) Směrodatná odchylka výsledků písemné přijímací zkoušky podle odstavce 1 písm. e) se vypočte podle vzorce\nx-= ∑i=1nxin ,kde xi jsou výsledky zkoušky jednotlivých uchazečů a n je počet účastníků zkoušky.\n(2) Průměrný výsledek písemné přijímací zkoušky podle odstavce 1 písm. d) se stanoví jako aritmetický průměr výsledků zkoušky podle vzorce\nf) decilové hranice výsledku zkoušky.\ne) směrodatná odchylka výsledků písemné přijímací zkoušky,\nd) průměrný výsledek písemné přijímací zkoušky,\nc) nejlepší skutečně dosažený výsledek písemné přijímací zkoušky,\nb) nejlepší možný výsledek písemné přijímací zkoušky,\na) počet uchazečů, kteří se zúčastnili písemné přijímací zkoušky,\n(1) Za základní statistické charakteristiky písemné přijímací zkoušky podle § 1 písm. c) se považuje:"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "e) termín skončení přijímacího řízení.\nd) termíny a podmínky, za nichž je možno nahlédnout do všech materiálů, které mají význam pro rozhodování o přijetí ke studiu podle § 50 odst. 6 zákona o vysokých školách,\nc) termín vydání rozhodnutí o případné žádosti o přezkoumání rozhodnutí,\nb) termín vydání rozhodnutí o přijetí ke studiu,\na) termín zahájení a ukončení přijímacích zkoušek, včetně přijímacích zkoušek v náhradním termínu, pokud byly v daném období součástí přijímacího řízení,\nVysoká škola nebo fakulta zveřejní o přijímacím řízení vždy tyto informace:\nInformace o konání přijímacího řízení"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "c) základní statistické charakteristiky písemné přijímací zkoušky nebo její části uvedené v § 4.\nb) kritéria pro vyhodnocení a postup, jakým byl stanoven výsledek přijímací zkoušky nebo její části, včetně postupu vedoucího k sestavení pořadí uchazečů podle výsledků přijímací zkoušky (§ 49 odst. 1 zákona o vysokých školách), a\na) úplné zadání zkušebních otázek či příkladů, které jsou součástí přijímací zkoušky nebo její části, a u otázek s výběrem odpovědi správné řešení,\nVysoká škola nebo fakulta zveřejní informace o konaných přijímacích zkouškách podle jednotlivých studijních programů a jejich studijních oborů. Jako součást informace o písemných přijímacích zkouškách a o písemných částech přijímacích zkoušek se uvedou:\nInformace o přijímacích zkouškách"
+    },
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Postup a podmínky při zveřejnění průběhu přijímacího řízení\nTato vyhláška nabývá účinnosti dnem 1. září 2002.\nÚčinnost"
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Pokud se v této vyhlášce používá pojem „vysoká škola nebo fakulta“, rozumí se tím pro účely této vyhlášky „fakulta“, jedná-li se o úpravu postupu při zveřejnění údajů o průběhu řízení o přijetí ke studiu ve studijním programu uskutečňovaném fakultou; v ostatních případech se pojmem „vysoká škola nebo fakulta“ pro účely této vyhlášky rozumí „vysoká škola“.\nSpolečné ustanovení"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "f) počet uchazečů přijatých celkem.\ne) počet uchazečů přijatých ke studiu, bez uvedení počtu uchazečů přijatých ke studiu až na základě výsledku přezkoumání původního rozhodnutí (§ 50 odst. 5 a 7 zákona o vysokých školách),\nd) počet uchazečů, kteří nesplnili podmínky přijetí,\nc) počet uchazečů, kteří splnili podmínky přijetí,\nb) počet uchazečů, kteří se zúčastnili přijímacích zkoušek, včetně přijímacích zkoušek v náhradním termínu,\na) počet podaných přihlášek a přihlášených uchazečů,\nVysoká škola nebo fakulta zveřejní informace o výsledcích přijímacího řízení podle jednotlivých studijních programů, a člení-li se studijní program na studijní obory, pak i podle oborů, a to alespoň:\nInformace o výsledcích přijímacího řízení"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vysoká škola nebo fakulta",
+      "definition": "pro účely této vyhlášky „fakulta“, jedná-li se o úpravu postupu při zveřejnění údajů o průběhu řízení o přijetí ke studiu ve studijním programu uskutečňovaném fakultou; v ostatních případech se pojmem „vysoká škola nebo fakulta“ pro účely této vyhlášky rozumí „vysoká škola“",
+      "source_provision": "§ 6"
+    }
+  ]
+}

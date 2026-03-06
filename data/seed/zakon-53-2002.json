@@ -1,0 +1,57 @@
+{
+  "id": "cz:53/2002",
+  "type": "statute",
+  "title": "53/2002 Sb., Vyhláška Ministerstva zdravotnictví, kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky použití látek přídatných, pomocných a potravních doplňků",
+  "title_en": "",
+  "short_name": "53/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-02-15",
+  "in_force_date": "2004-05-20",
+  "url": "https://www.e-sbirka.cz/sb/2002/53",
+  "description": "Vyhláška Ministerstva zdravotnictví, kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky použití látek přídatných, pomocných a potravních doplňků",
+  "provisions": [
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(3) Potravní doplňky uvedené v příloze č. 4 lze použít k obohacování potravin nejvýše do hodnoty stanoveného procentuálního podílu referenční dávky. Používání potravních doplňků neuvedených v příloze č. 4 stanoví zvláštní právní předpis.5)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(4) Potravní doplňky,6) které lze použít k obohacování potravin, jejich formy, limity a další podmínky jejich použití a označování stanoví příloze č. 4."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(3) U látek, které se používají buď jako potravní doplněk, nebo jako přídatná látka, se čistota a identita hodnotí podle účelu, pro který byla látka při výrobě potraviny použita."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Zrušuje se vyhláška č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb., vyhlášky č. 323/1999 Sb. a vyhlášky č. 274/2000 Sb."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Přechodné ustanovení",
+      "content": "Potraviny vyrobené a uvedené do oběhu přede dnem účinnosti této vyhlášky se posuzují podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. března 2002.\nPříloha č. 4 k vyhlášce č. 53/2002 Sb.\nPOTRAVNÍ DOPLŇKY"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hexanem se ve smyslu této vyhlášky",
+      "definition": "směs acyklických nasycených uhlovodíků obsahujících 6 uhlíkových atomů",
+      "source_provision": "§ 8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:63/2010",
+  "type": "statute",
+  "title": "63/2010 Sb., Vyhláška, kterou se mění vyhláška č. 16/2009 Sb., o obsahu a rozsahu kvalifikace pro výkon fyzické ostrahy a služby soukromého detektiva",
+  "title_en": "",
+  "short_name": "63/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-03-05",
+  "in_force_date": "2010-03-05",
+  "url": "https://www.e-sbirka.cz/sb/2010/63",
+  "description": "Vyhláška, kterou se mění vyhláška č. 16/2009 Sb., o obsahu a rozsahu kvalifikace pro výkon fyzické ostrahy a služby soukromého detektiva",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 16/2009 Sb., o obsahu a rozsahu kvalifikace pro výkon fyzické ostrahy a služby soukromého detektiva, se mění takto:\n1. V § 6 odstavec 2 zní:\n„(2) Osvědčením o odborné kvalifikaci se pro účely prokázání odborné kvalifikace žadatele o koncesi nebo odpovědného zástupce rozumí pro koncesovanou živnost\na) ostraha majetku a osob osvědčení pro dílčí kvalifikaci strážný,\nb) služby soukromých detektivů osvědčení pro dílčí kvalifikaci detektiv koncipient,\nkteré není starší 5 let, bylo vydáno autorizovanou osobou a splňuje náležitosti podle odstavce 1.“.\n2. V § 6 se doplňuje odstavec 3, který zní:\n„(3) Osvědčením o odborné kvalifikaci se pro účely prokázání odborné kvalifikace osoby uvedené v § 1 písm. a) bodu 2 rozumí pro koncesovanou živnost\na) ostraha majetku a osob osvědčení pro dílčí kvalifikaci strážný,\nb) služby soukromých detektivů osvědčení pro dílčí kvalifikaci detektiv koncipient,\nkteré není starší 10 let, bylo vydáno autorizovanou osobou a splňuje náležitosti podle odstavce 1.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Osvědčením o odborné kvalifikaci",
+      "definition": "pro koncesovanou živnost",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "cz:18/2014",
+  "type": "statute",
+  "title": "18/2014 Sb., Vyhláška o stanovení podmínek postupu při elektronické dražbě",
+  "title_en": "",
+  "short_name": "18/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-01-30",
+  "in_force_date": "2014-01-30",
+  "url": "https://www.e-sbirka.cz/sb/2014/18",
+  "description": "Vyhláška o stanovení podmínek postupu při elektronické dražbě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška upravuje podmínky postupu při provádění elektronických dražeb."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení základních pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) elektronickým dražebním systémem internetová aplikace umožňující provádění elektronických dražeb,\nb) elektronickým úkonem v elektronické dražbě úkon účastníka dražby, dražebníka nebo licitátora provedený prostřednictvím elektronického dražebního systému,\nc) identifikátorem bezvýznamové označení, které je účastníkovi dražby náhodně přiděleno v rámci každé elektronické dražby a slouží k jeho jednoznačnému rozlišení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Registrace účastníka dražby",
+      "content": "(1) Účastník dražby se do elektronické dražby registruje prostřednictvím žádosti přes elektronický dražební systém. Dražebník je povinen bez zbytečného odkladu po obdržení této žádosti zaslat účastníkovi dražby na adresu jeho elektronické pošty podrobnosti týkající se účasti na elektronické dražbě, zejména pak základní informace o elektronické dražbě, o způsobu prokázání totožnosti účastníka dražby a způsobu složení dražební jistoty, pokud je požadována.\n(2) Elektronické dražby se může účastnit pouze účastník dražby, který splnil povinnosti vyplývající ze zákona a této vyhlášky a byl zapsán do seznamu účastníků dražby. O zapsání do seznamu účastníků dražby informuje dražebník každého účastníka dražby bez zbytečného odkladu na adresu jeho elektronické pošty."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Detail dražby",
+      "content": "(1) Detail dražby je uveřejněn na adrese ve veřejné datové síti, kde elektronická dražba probíhá.\n(2) Z detailu dražby musí být možné získat informace v rozsahu stanoveném dražební vyhláškou, dále znalecký posudek předmětu dražby a v případě, kdy došlo k upuštění od dražby, také oznámení o upuštění od dražby. Na detailu dražby se zároveň zobrazuje doba zbývající do zahájení elektronické dražby a aktuální čas. Po zahájení elektronické dražby se na detailu dražby zobrazuje historie učiněných podání včetně označení účastníků dražby prostřednictvím jejich identifikátoru, výše dosažené ceny a zbývající doba, během které lze činit podání."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Průběh elektronické dražby",
+      "content": "(1) Elektronická dražba je zahájena prohlášením o zahájení dražby, které se zobrazí v elektronickém dražebním systému.\n(2) Při činění podání musí být účastník dražby před odesláním svého podání dotázán elektronickým dražebním systémem, zda chce skutečně učinit podání v takové výši, která je zobrazena elektronickým dražebním systémem nebo kterou zadal do odpovídajícího pole v elektronickém dražebním systému.\n(3) Před uplynutím doby, během které lze zvyšovat podání, se zobrazují následující výzvy a prohlášení:\na) v okamžiku, kdy do uplynutí doby, během které lze činit podání, zbývají 3 minuty, je účastníkům dražby zobrazena výzva „Poprvé pro účastníka dražby (označení identifikátoru účastníka dražby, který učinil nejvyšší podání)“,\nb) v okamžiku, kdy do uplynutí doby, během které lze činit podání, zbývají 2 minuty, je účastníkům dražby zobrazena výzva „Podruhé pro účastníka dražby (označení identifikátoru účastníka dražby, který učinil nejvyšší podání)“,\nc) v okamžiku, kdy do uplynutí doby, během které lze činit podání, zbývá 1 minuta, je účastníkům dražby zobrazeno prohlášení „Neučiní-li někdo z přítomných účastníků dražby podání vyšší, než bylo podání naposled učiněné účastníkem dražby (označení identifikátoru účastníka dražby, který učinil nejvyšší podání), udělím mu příklep“.\n(4) V okamžiku, kdy uplyne doba, během které lze činit podání, je účastníkům dražby zobrazena výzva „Potřetí pro účastníka dražby (označení identifikátoru účastníka dražby, který učinil nejvyšší podání)“ a přijímání dalších podání je zastaveno.\n(5) V průběhu elektronické dražby provádí licitátor kontrolu dostupnosti adresy ve veřejné datové síti, kde elektronická dražba probíhá, prostřednictvím k tomu zřízené služby. V případě, že na základě sledování dostupnosti adresy ve veřejné datové síti bude prokazatelně doloženo omezení přístupu k elektronickému dražebnímu systému v délce přesahující 1 minutu, je licitátor povinen prodloužit dobu, během které lze činit podání, minimálně o 1 hodinu. O této skutečnosti je licitátor povinen bez zbytečného odkladu informovat každého účastníka dražby na jeho adresu elektronické pošty.\n(6) Je-li v posledních 5 minutách před uplynutím doby, během které lze činit podání, učiněno podání účastníkem dražby, posouvá se čas pro příjem dalších podání o 5 minut od okamžiku posledního podání, a to i opakovaně. Uplyne-li od posledního podání 5 minut, aniž by bylo učiněno další podání, příjem podání je zastaven. Odstavec 3 se použije obdobně.\n(7) Bez zbytečného odkladu po uplynutí doby, během které lze činit podání, udělí licitátor příklep účastníkovi dražby, který učinil nejvyšší podání, čímž je elektronická dražba skončena. Na detailu dražby se zobrazí informace o udělení příklepu, výše ceny dosažené vydražením a označení identifikátoru vydražitele. Informaci o ukončení dražby zároveň odešle licitátor každému účastníkovi dražby na jeho adresu elektronické pošty."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Záznam o průběhu elektronické dražby",
+      "content": "(1) Dražebník neprodleně po ukončení elektronické dražby vyhotoví záznam o průběhu elektronické dražby, který obsahuje alespoň\na) označení předmětu dražby, dražebníka, licitátora a vydražitele,\nb) údaje o provedených elektronických úkonech účastníků dražby a o elektronických úkonech dražebníka včetně elektronických úkonů licitátora,\nc) čas provedení elektronického úkonu nebo činnosti uvedený s rozlišením na setinu sekundy,\nd) identifikátor osoby, která elektronický úkon provedla nebo činnost elektronického dražebního systému zahájila včetně identifikace její IP (Internet Protocol) adresy,\ne) záznam o případném chybovém výsledku elektronického úkonu nebo další činnosti elektronického dražebního systému.\n(2) Veškeré údaje podle odstavce 1 musejí být chráněny proti neoprávněnému přístupu, změně a zničení."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Požadavky na elektronické dražební systémy",
+      "content": "(1) Elektronický dražební systém musí\na) zajišťovat veškerou komunikaci mezi účastníky dražby a elektronickým dražebním systémem zabezpečeným (šifrovaným) způsobem pomocí protokolu HTTPS (Hypertext Transfer Protocol Secure) a serverového certifikátu; použitý serverový certifikát musí být vydán důvěryhodnou a nezávislou certifikační autoritou, být platný a odpovídat všem doménovým jménům, které elektronický dražební systém využívá,\nb) být provozován v prostředí, které umožňuje pořizovat evidenci požadavků příchozích na adresu ve veřejné datové síti, kde elektronická dražba probíhá; úplnost a integrita této evidence musí být garantována nezávislým dodavatelem hostingových služeb, případně dodavatelem internetového připojení, kteří jsou osobami odlišnými od dražebníka,\nc) zajišťovat dostatečnou ochranu, zejména před vstupem osob, které k tomu nejsou oprávněny. Autentizace osob je založena minimálně na zadání uživatelského jména a hesla, které je tvořeno sekvencí alespoň šesti znaků; přístupová hesla účastníků dražby musejí být uložena v elektronickém dražebním systému pouze v kódované podobě pomocí bezpečného algoritmu typu hash,\nd) zajišťovat udržování přesného času pomocí pravidelné synchronizace. Časová informace musí být poskytována zdrojem reprodukujícím světový koordinovaný čas UTC (Coordinated Universal Time); synchronizace času elektronického dražebního systému s koordinovaným světovým časem se provádí alespoň jedenkrát za 24 hodin,\ne) zpracovávat a zaznamenávat veškeré elektronické úkony s rozlišením na setinu sekundy,\nf) provádět automatickou aktualizaci údajů na detailu dražby, a to takovým způsobem, aby o provedených změnách, zejména o uskutečněných příhozech, byli účastníci dražby informováni nejpozději do 10 sekund od jejich uskutečnění,\ng) zabezpečovat, aby dražebník nebo licitátor neměl možnost vykonávat elektronické úkony za účastníka dražby,\nh) zajistit pracovníkům ministerstva pověřeným kontrolou dálkový přístup v obdobném rozsahu jako účastníkům dražby bez možnosti se elektronické dražby aktivně zúčastnit,\ni) zabezpečovat ochranu dat takovým způsobem, který umožní jejich uložení a zálohování tak, aby nedošlo k jejich ztrátě či manipulaci s údaji,\nj) zajišťovat externí kontrolu dostupnosti adresy ve veřejné datové síti, kde elektronická dražba probíhá; kontrola je zajišťována prostřednictvím k tomu zřízené služby, která ji provádí z jiného geografického umístění, než je umístění této adresy ve veřejné datové síti, a to pravidelně minimálně každou minutu; provádí ji poskytovatel této služby, který je odlišný od dražebníka.\n(2) Používání elektronického dražebního systému musí být dostupné běžnými nástroji elektronické komunikace. Pro použití elektronického dražebního systému musí postačovat aktuálně bezplatně poskytovaná verze internetového prohlížeče bez potřeby instalace dalších speciálních aplikací s výjimkou běžných rozšíření prohlížeče, jako je Java, Flash nebo Adobe Reader. Informace o minimální konfiguraci počítače, se kterým se lze zúčastnit elektronické dražby, uvede dražebník ve veřejně přístupné části elektronického dražebního systému.\n(3) Dokumenty se v elektronickém dražebním systému zveřejňují ve formátu PDF (Portable Document Format).\n(4) Elektronický dražební systém nesmí obsahovat takové funkcionality, které umožňují narušit průběh elektronické dražby.\n(5) Ve veřejně přístupné části elektronického dražebního systému musí být k dispozici uživatelská příručka, ve které jsou podrobně popsány důležité funkcionality systému.\n(6) Elektronický dražební systém umožňuje nepřetržitý dálkový přístup k informacím o ukončených elektronických dražbách v rozsahu definovaném v § 4, a to nejméně 1 rok od jejich ukončení."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Přechodné ustanovení",
+      "content": "Dražebník, který zahájil provoz elektronického dražebního systému přede dnem nabytí účinnosti této vyhlášky, může elektronické dražby vyhlášené nejpozději do 30. dubna 2014 dokončit podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektronickým úkonem v elektronické dražbě úkon účastníka dražby",
+      "definition": "dražebníka nebo licitátora provedený prostřednictvím elektronického dražebního systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "identifikátorem bezvýznamové označení",
+      "definition": "které je účastníkovi dražby náhodně přiděleno v rámci každé elektronické dražby a slouží k jeho jednoznačnému rozlišení.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

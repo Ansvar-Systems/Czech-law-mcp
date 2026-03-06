@@ -1,0 +1,27 @@
+{
+  "id": "cz:50/2003",
+  "type": "statute",
+  "title": "50/2003 Sb., Vyhláška, kterou se mění vyhláška č. 440/2001 Sb., o odškodnění bolesti a ztížení společenského uplatnění",
+  "title_en": "",
+  "short_name": "50/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-02-28",
+  "in_force_date": "2003-02-28",
+  "url": "https://www.e-sbirka.cz/sb/2003/50",
+  "description": "Vyhláška, kterou se mění vyhláška č. 440/2001 Sb., o odškodnění bolesti a ztížení společenského uplatnění",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V příloze č. 1 vyhlášky č. 440/2001 Sb., o odškodnění bolesti a ztížení společenského uplatnění, položka T31 zní:\n„T31 Popálení, poleptání a omrzliny podle rozsahu stupně postižení\nI. st.II. st.III. st.\nT310méně než 0,25 % povrchu těla0515\nT31010,25 % – méně než 1 % povrchu těla51075\nT3111 % – méně než 5 % povrchu těla2550150\nT3125 % – méně než 10 % povrchu těla50100300\nT31310 % – méně než 20 % povrchu těla100200600\nT31420 % – méně než 30 % povrchu těla150300900\nT31530 % – méně než 40 % povrchu těla2004001200\nT31640 % – méně než 50 % povrchu těla2505001500\nT31750 % – méně než 60 % povrchu těla3006001800\nT31860 % – méně než 70 % povrchu těla3507002100\nT31970 % a více povrchu těla4008002400“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

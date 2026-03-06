@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:230/1951",
+  "type": "statute",
+  "title": "230/1951 Ú. l. I, Vyhláška ministerstva potravinářského průmyslu o vyrovnávání vyšších a nižších výtěžků v mlékárenském průmyslu.",
+  "title_en": "",
+  "short_name": "230/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-06-19",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1951/230",
+  "description": "Vyhláška ministerstva potravinářského průmyslu o vyrovnávání vyšších a nižších výtěžků v mlékárenském průmyslu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vyšší a nižší výtěžky v mlékárenském průmyslu se vyrovnávají podle vyhlášky ministerstva potravinářského průmyslu č. 99/1951 Ú. l. I, o vyrovnávání vyšších a nižších výtěžků v potravinářském průmyslu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vyhláška ministerstva výživy č. 321/1946 Ú. l. I, o vyrovnávacím fondu mléčného průmyslu, ve znění vyhlášky ministerstva výživy č. 288/1950 Ú. l. I, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška platí jen v českých krajích a nabývá účinnosti dnem 1. ledna 1951."
+    }
+  ],
+  "definitions": []
+}

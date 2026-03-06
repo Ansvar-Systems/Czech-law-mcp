@@ -1,0 +1,45 @@
+{
+  "id": "cz:7/1953",
+  "type": "statute",
+  "title": "7/1953 Sb., Nariadenie, ktorým sa zrušujú a zriaďujú niektoré povereníctva a upravuje ich pôsobnosť",
+  "title_en": "",
+  "short_name": "7/1953 Sb.",
+  "status": "in_force",
+  "issued_date": "1953-01-31",
+  "in_force_date": "1953-01-31",
+  "url": "https://www.e-sbirka.cz/sb/1953/7",
+  "description": "Nariadenie, ktorým sa zrušujú a zriaďujú niektoré povereníctva a upravuje ich pôsobnosť",
+  "provisions": [
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Podrobné vymezení úkolů jednotlivých pověřenectev v souvislosti s přesuny působnosti, prováděnými podle tohoto nařízení, provede vláda."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "„Na Slovensku vykonává předseda, který řídí Státní úřad pro věci církevní, svou působnost zásadně prostřednictvím Slovenského úřadu pro věci církevní, řízeného předsedou, kterého jmenuje vláda.“\nUstanovení § 4 zákona č. 217/1949 Sb., kterým se zřizuje Státní úřad pro věci církevní, se mění a zní:"
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Z Pověřenectva školství, věd a umění se zřizuje pověřenectvo školství a osvěty, které plní úkoly v oboru působnosti ministerstva školství a osvěty."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zrušuje se pověřenectvo informací a osvěty a pověřenectvo spravedlnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zřizuje se pověřenectvo stavebních hmot, které plní zejména dosavadní úkoly pověřenectva stavebního průmyslu v oboru stavebních hmot."
+    }
+  ],
+  "definitions": []
+}

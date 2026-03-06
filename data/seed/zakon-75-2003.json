@@ -1,0 +1,44 @@
+{
+  "id": "cz:75/2003",
+  "type": "statute",
+  "title": "75/2003 Sb., Vyhláška o stanovení názvosloví ingrediencí kosmetických prostředků",
+  "title_en": "",
+  "short_name": "75/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-03-27",
+  "in_force_date": "2003-03-27",
+  "url": "https://www.e-sbirka.cz/sb/2003/75",
+  "description": "Vyhláška o stanovení názvosloví ingrediencí kosmetických prostředků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška stanoví seznam látek syntetického nebo přírodního původu používaných ve složení kosmetického prostředku (dále jen „ingredience“) podle názvosloví v International Nomenclature for Cosmetic Ingredients. Příloha k této vyhlášce upravuje identifikaci ingrediencí, a to v oddílu I seznam ingrediencí s výjimkou parfemačních a aromatických surovin, v oddílu II seznam parfemačních a aromatických surovin a pravidla tvorby názvů podle International Nomenclature for Cosmetic Ingredients. Seznam stanoví údaje o ingrediencích používaných v kosmetických prostředcích, omezení a podmínkách jejich použití. Využívá se též pro uvedení funkce kosmetického prostředku a pro uvedení seznamu přísad na kosmetickém prostředku, jeho obalu, samolepce nebo příbalovém listu podle zvláštního právního předpisu.1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Touto vyhláškou nejsou dotčeny hygienické požadavky na složení a vlastnosti kosmetického prostředku a ostatní požadavky na značení kosmetického prostředku upravené zvláštním právním předpisem.1)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha k vyhlášce č. 75/2003 Sb.\nSeznam ingrediencí kosmetických prostředků, jejich názvosloví, funkce a podmínky použití"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Číselné označení uvedené v závorkách u alternativních chemických názvů ethoxylovaných sloučenin",
+      "definition": "průměrný počet molů ethylenoxidu v molekule, například POLYETHYLENE GLYCOL (20 000)",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Není-li číslo uzavřeno v závorkách",
+      "definition": "molekulovou hmotnost, například POLYETHYLENE GLYCOL 20 000",
+      "source_provision": "§ 3"
+    }
+  ]
+}

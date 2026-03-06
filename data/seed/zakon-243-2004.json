@@ -1,0 +1,51 @@
+{
+  "id": "cz:243/2004",
+  "type": "statute",
+  "title": "243/2004 Sb., Nařízení vlády o stanovení některých podrobností a bližších podmínek při poskytování jednotné platby na plochu zemědělské půdy pro rok 2004",
+  "title_en": "",
+  "short_name": "243/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-04-30",
+  "in_force_date": "2004-11-25",
+  "url": "https://www.e-sbirka.cz/sb/2004/243",
+  "description": "Nařízení vlády o stanovení některých podrobností a bližších podmínek při poskytování jednotné platby na plochu zemědělské půdy pro rok 2004",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví některé podrobnosti a bližší podmínky při poskytování jednotné platby na plochu zemědělské půdy pro rok 2004 (dále jen „platba“), jejichž úpravu bezprostředně závazné předpisy Evropských společenství1) (dále jen „předpisy Evropských společenství“) členským státům Evropské unie přikazují nebo umožňují provést."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Žadatel",
+      "content": "Žadatelem o platbu (dále jen „žadatel“) je fyzická nebo právnická osoba, která vlastním jménem a na vlastní odpovědnost zemědělsky obhospodařuje zemědělskou půdu, která je na žadatele vedena v evidenci využití zemědělské půdy podle uživatelských vztahů (§ 3a a 3b zákona) (dále jen „evidence“)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Žádost o platbu",
+      "content": "(1) Žádost o platbu (dále jen „žádost“) se podává Státnímu zemědělskému intervenčnímu Fondu2) (dále jen „Fond“) na jím vydaném formuláři do 15. května 2004.\n(2) Pokud žadatel pěstuje konopí na některém z půdních bloků (§ 3a odst. 3 zákona) nebo na některém z dílů půdních bloků (§ 3a odst. 4 zákona) uvedených v žádosti, připojí k žádosti uznávací list3) o uznání osiva konopí a prohlášení, ve kterém se zaváže, že Fondu neprodleně oznámí začátek kvetení konopí na některém z půdních bloků nebo na některém z dílů půdních bloků uvedených v žádosti podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Podmínky pro obdržení platby",
+      "content": "(1) Platba se poskytne na zemědělskou půdu, která je k 30. dubnu 2004 na žadatele vedena v evidenci a je žadatelem v období od 1. května 2004 do 31. srpna 2004 zemědělsky obhospodařována.\n(2) Minimální výměra, na kterou lze poskytnout platbu podle odstavce 1, musí činit nejméně 1 ha zemědělské půdy, a to podle údajů vedených v evidenci na základě předchozí evidence (§ 3a a 3b zákona).\n(3) Platba podle odstavce 1 se poskytne, splňuje-li žadatel podmínky v rozsahu stanoveném předpisy Evropských společenství1) a zaváže-li se dodržovat dobré zemědělské a environmentální podmínky.\n(4) Dobrými zemědělskými a environmentálními podmínkami se pro účely tohoto nařízení rozumí nerušení krajinných ani jiných prvků bránících zejména větrné nebo vodní erozi půdy (například meze, terasy, větrolamy, zatravněné údolnice a polní cesty využívající přirozené svažitosti, respektující vrstevnice, popřípadě doprovázené příkopy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.\n(2) Toto nařízení pozbývá platnosti dnem 30. dubna 2005.\n1) Nařízení Rady (ES) č. 2199/2003 ze dne 16. prosince 2003, určující přechodná ustanovení pro aplikaci nařízení Rady (ES) č. 1259/99 týkajících se jednotné platby na plochu pro rok 2004 pro Českou republiku, Estonsko, Kypr, Lotyšsko, Litvu, Maďarsko, Maltu, Polsko, Slovinsko a Slovensko.\nNařízení Rady (ES) č. 1259/1999 ze dne 17. května 1999, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky.\nNařízení Komise (ES) č. 2419/2001 ze dne 11. prosince 2001, kterým se stanoví prováděcí pravidla pro integrovaný administrativní a kontrolní systém pro některé režimy podpor Společenství zavedený nařízením Rady (EHS) č. 3508/92.\n2) Zákon č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb. a zákona č. 85/2004 Sb.\n3) § 4 odst. 9 zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dobrými zemědělskými a environmentálními podmínkami",
+      "definition": "nerušení krajinných ani jiných prvků bránících zejména větrné nebo vodní erozi půdy (například meze, terasy, větrolamy, zatravněné údolnice a polní cesty využívající přirozené svažitosti, respektující vrstevnice, popřípadě doprovázené příkopy",
+      "source_provision": "§ 4"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "cz:35/1957",
+  "type": "statute",
+  "title": "35/1957 Sb., Zákon o technické normalisaci",
+  "title_en": "",
+  "short_name": "35/1957 Sb.",
+  "status": "in_force",
+  "issued_date": "1957-07-24",
+  "in_force_date": "1957-08-15",
+  "url": "https://www.e-sbirka.cz/sb/1957/35",
+  "description": "Zákon o technické normalisaci",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Technická normalisace",
+      "chapter": "ČÁST PRVNÍ - Základní ustanovení",
+      "content": "Technickou normalisací je zjišťování a stanovení co možná nejmenšího počtu technických řešení opakovaného případu, která jsou za daných předpokladů pro národní hospodářství ze všech možných nebo užívaných řešení nejvýhodnější, a to zejména s hlediska hospodárnosti, jakosti a bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Technické normy",
+      "chapter": "ČÁST PRVNÍ - Základní ustanovení",
+      "content": "(1) Výsledek zjišťování a stanovení technických řešení podle § 1, vyhlášený podle tohoto zákona, jsou technické normy.\n(2) Technické normy jsou státní, úsekové a podnikové normy, jakož i technické podmínky. Technickými normami jsou i další druhy norem, které Státní úřad pro vynálezy a normalisaci (dále jen Úřad) po dohodě se zúčastněnými ústředními úřady a orgány vyhlásí za technické normy podle tohoto zákona.\n(3) Technické normy platí pro každého, jehož se týkají; státní normy platí v rozsahu celostátním, úsekové v rozsahu působnosti ústředního úřadu, podnikové v rozsahu podniku; technické podmínky platí pro účastníky, kteří je ujednali."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Závaznost technických norem",
+      "chapter": "ČÁST PRVNÍ - Základní ustanovení",
+      "content": "(1) Pokud není technická norma označena jako doporučená, je závazná.\n(2) Ze závaznosti technické normy lze povolit výjimku v odůvodněných případech."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - Orgány",
+      "content": "(1) Ústředním orgánem státní správy v oboru technické normalisace je Státní úřad pro vynálezy a normalisaci se sídlem v Praze. Úřad metodicky řídí tvorbu technických norem, projednává a schvaluje návrhy státních norem s výjimkou norem uvedených v odstavci 2 a vyhlašuje všechny státní normy.\n(2) Státní výbor pro výstavbu řídí metodicky a obsahově zpracování norem pro výstavbu (normy projektové, normy a směrnice pro územní plánování a ostatní normy pro výstavbu, určené vždy v jednotném státním plánu normalisačních prací) a projednává i schvaluje návrhy těchto norem. Tyto normy vyhlašuje Úřad.\n(3) Řízení normalisační činnosti v jednotlivých odvětvích národního hospodářství přísluší příslušným ústředním úřadům a v oboru působnosti jednotlivých organisací vedoucím těchto organisací.\n(4) Kde se v tomto zákoně uvádí organisace, rozumějí se tím, pokud z povahy věci neplyne něco jiného, hospodářské organisace jakož i organisace rozpočtové."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - Orgány",
+      "content": "(1) Poradním orgánem předsedy Úřadu je komise expertů. Její úkoly stanoví předseda Úřadu.\n(2) Členům komise expertů přísluší za provedené práce odměna podle směrnic, které vydá předseda Úřadu v dohodě s ministrem financí."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST DRUHÁ - Orgány",
+      "content": "Organisace jsou povinny vyhovět dožádání Úřadu, zúčastnit se na požádání spolupráce s Úřadem, předložit nebo zapůjčit potřebné dokumenty, sdělit výsledky zkoušek a jiných zjištění."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST TŘETÍ - Tvorba norem",
+      "content": "Základem normalisační činnosti je jednotný státní plán normalisačních prací, který stanoví normalisační úkoly a jejich nositele; plán sestavuje Úřad ve spolupráci s ostatními ústředními úřady a orgány."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST TŘETÍ - Tvorba norem",
+      "content": "(1) Návrh technické normy musí být vypracován a projednán v oboru působnosti nositele úkolu tak, aby odpovídal požadavkům § 1.\n(2) Současně s návrhem technické normy musí být vypracován návrh opatření, jimiž bude zajištěno zavedení, dodržování nebo používání normy."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST TŘETÍ - Tvorba norem",
+      "content": "Projednanou a schválenou technickou normu vyhlásí s výjimkou uvedenou v § 4 odst. 1 organisace příslušná ke schválení normy. Způsob vyhlašování státních norem stanoví předseda Úřadu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST TŘETÍ - Tvorba norem",
+      "content": "Návrh na revisi, změnu, přechodná ustanovení nebo na zrušení technické normy nebo jejích částí se projednává stejným způsobem jako návrh nové normy."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST ČTVRTÁ - Povinnost organisací a pracujících",
+      "content": "(1) Pečovat o rozvoj technické normalisace je záležitostí organisací a pracujících.\n(2) Organisace a každý, jehož je to pracovním úkolem, jsou povinni dbát, aby normy byly bez průtahů projednávány, vyhlašovány, plánovitě zaváděny tak, aby mohly být vyráběny předměty, na něž se norma vztahuje, a to od doby její účinnosti, dále aby normy byly dodržovány a používány."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST ČTVRTÁ - Povinnost organisací a pracujících",
+      "content": "Organisace jsou povinny ve vydávaných cenících, katalozích a pod. označovat normalisované výrobky způsobem stanoveným ve vyhlášené příslušné technické normě."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST ČTVRTÁ - Povinnost organisací a pracujících",
+      "content": "Normy, jež slouží k účelům obrany státu, jsou tajné. Mimo to jsou tajné normy, které v jiném státním zájmu prohlásí za tajné příslušná organisace."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST ČTVRTÁ - Povinnost organisací a pracujících",
+      "content": "(1) Kdo byl pověřen úkoly podle tohoto zákona nebo se jakkoli účastní na jejich provádění, je povinen zachovat mlčenlivost o závažných skutečnostech, o nichž se dozvěděl při výkonu svých povinností.\n(2) Povinnost podle předchozího odstavce nezaniká ukončením činnosti nebo pracovního poměru."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST PÁTÁ - Ustanovení zvláštní, přechodná a závěrečná",
+      "content": "Podrobné předpisy k provedení tohoto zákona, zejména o obsahu a závaznosti norem, o povolování výjimek ze závaznosti, o tvorbě a odchylkách v tvorbě norem, o plánování normalisačních prací, o působnosti orgánů a o dozoru nad zaváděním, dodržováním a používáním norem, vydá vláda nařízením."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST PÁTÁ - Ustanovení zvláštní, přechodná a závěrečná",
+      "content": "Na technické normy vyhlášené podle dosavadních předpisů se vztahují ustanovení tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST PÁTÁ - Ustanovení zvláštní, přechodná a závěrečná",
+      "content": "(1) Zrušují se předpisy, které odporují tomuto zákonu, zejména vládní nařízení č. 45/1951 Sb., o technické normalisaci.\n(2) Působnost Státního výboru pro výstavbu v oboru technické normalisace podle ustanovení § 2 odst. 2 vládního nařízení č. 1/1956 Sb., o zřízení Státního výboru pro výstavbu, Ústřední správy pro bytovou a občanskou výstavbu a Oblastní správy pro bytovou a občanskou výstavbu na Slovensku, zůstává zachována.\n(3) Pokud jde o ustanovení § 5 zák. č. 35/1953 Sb., o státním požárním dozoru a požární ochraně, i ustanovení § 15 odst. 1 vládního nařízení č. 95/1953 Sb., o organisaci státního požárního dozoru a požární ochrany, ruší se pravomoc orgánů ministerstva vnitra schvalovat a vyhlašovat státní normy."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST PÁTÁ - Ustanovení zvláštní, přechodná a závěrečná",
+      "content": "Tento zákon nabývá účinnosti dnem 15. srpna 1957; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

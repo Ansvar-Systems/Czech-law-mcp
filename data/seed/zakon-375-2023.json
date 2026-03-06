@@ -1,0 +1,27 @@
+{
+  "id": "cz:375/2023",
+  "type": "statute",
+  "title": "375/2023 Sb., Vyhláška, kterou se mění vyhláška č. 359/2020 Sb., o měření elektřiny",
+  "title_en": "",
+  "short_name": "375/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-12-20",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/375",
+  "description": "Vyhláška, kterou se mění vyhláška č. 359/2020 Sb., o měření elektřiny",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 359/2020 Sb., o měření elektřiny, se mění takto:\n1. V § 4 odst. 2 písm. b) a e) a § 21 odst. 3 se číslo „10“ nahrazuje číslem „50“.\n2. V § 5 odst. 1 písm. a) až c) a § 8 odst. 1 se za slova „činného výkonu“ vkládají slova „nebo hodnoty činné energie“.\n3. V § 5 odst. 2 písm. b) a c) se číslo „10“ nahrazuje číslem „50“.\n4. V § 7 odst. 4 se na konci textu věty první doplňují slova „ , a to nejvýše za 36 měsíců předcházejících zjištění závadného stavu“.\n5. V § 7 odst. 5 se slova „nebo ze samoodečtu“ zrušují.\n6. V § 7 odst. 6 se slovo „let,“ nahrazuje slovem „let.“ a slova „samoodečty pro“ se nahrazují slovy „Samoodečty pro“.\n7. V § 21 se odstavec 3 zrušuje.\nDosavadní odstavce 4 až 6 se označují jako odstavce 3 až 5.\n8. V § 21 odst. 5 se slova „u výrobny elektřiny s instalovaným výkonem do 10 kW připojené k distribuční soustavě na napěťové hladině do 1 kV nejpozději do 1. července 2024“ zrušují.\n9. V § 23 odst. 1 písm. a) se za text „c),“ vkládají slova „§ 5 odst. 2 písm. b) a c), § 5 odst. 3,“.\n10. V § 23 odst. 1 písm. b) se text „ , § 5 odst. 3“ nahrazuje textem „písm. a)“.\n11. V příloze č. 4 se za tabulku „Minimální požadavky na rozhraní elektroměru pro komunikaci s nadřazenými prvky infrastruktury (např. centrála, koncentrátor, gateway)“ na samostatný řádek vkládá věta „V případě využití privátní komunikační sítě (např. PLC nebo privátní rádio), mohou být mechanismy pro zajištění integrity a klíčového managementu na rozhraní elektroměru nahrazeny jiným adekvátním zabezpečením této komunikace na nižší vrstvě OSI.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2024, s výjimkou ustanovení čl. I bodů 2, 3 a 7, která nabývají účinnosti dnem 1. července 2024."
+    }
+  ],
+  "definitions": []
+}

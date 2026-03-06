@@ -1,0 +1,51 @@
+{
+  "id": "cz:152/1948",
+  "type": "statute",
+  "title": "152/1948 Sb., Zákon o volbě presidenta republiky",
+  "title_en": "",
+  "short_name": "152/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-06-13",
+  "in_force_date": "1948-06-13",
+  "url": "https://www.e-sbirka.cz/sb/1948/152",
+  "description": "Zákon o volbě presidenta republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Presidenta republiky volí Národní shromáždění."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "K platnosti volby je třeba, aby v čas volby byla ve schůzi přítomna nadpoloviční většina poslanců."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Volba se koná ve veřejné schůzi bez rozpravy.\n(2) Pro tuto schůzi platí jednací řád Národního shromáždění, pokud tento zákon neustanovuje jinak."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Při první volbě rozhoduje třípětinová většina přítomných poslanců.\n(2) Nedosáhne-li se tohoto výsledku při první volbě, koná se volba druhá.\n(3) Nedosáhne-li nikdo ani při druhé volbě třípětinové většiny, koná se užší volba mezi dvěma kandidáty, kteří při druhé volbě dostanou největší počet hlasů; při rovnosti hlasů se určí losem, který kandidát má být pojat do užší volby.\n(4) Hlasy odevzdané při užší volbě někomu jinému nežli některému z obou kandidátů pojatých do této volby jsou neplatné.\n(5) V užší volbě je zvolen ten z kandidátů, který dostane větší počet hlasů; při rovnosti hlasů rozhoduje los."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Před první volbou může skupina nejméně 100 poslanců navrhnout společného kandidáta na úřad presidenta republiky. Je-li podán jen jeden takový návrh, vykoná se první volba zdvižením ruky nebo povstáním.\n(2) Jinak se při volbě presidenta republiky hlasuje lístky."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

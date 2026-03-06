@@ -1,0 +1,223 @@
+{
+  "id": "cz:5/2011",
+  "type": "statute",
+  "title": "5/2011 Sb., Vyhláška o vymezení hydrogeologických rajonů a útvarů podzemních vod, způsobu hodnocení stavu podzemních vod a náležitostech programů zjišťování a hodnocení stavu podzemních vod",
+  "title_en": "",
+  "short_name": "5/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-01-11",
+  "in_force_date": "2016-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/5",
+  "description": "Vyhláška o vymezení hydrogeologických rajonů a útvarů podzemních vod, způsobu hodnocení stavu podzemních vod a náležitostech programů zjišťování a hodnocení stavu podzemních vod",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "HLAVA I - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropské unie1) a upravuje:\na) způsob vymezení hydrogeologických rajonů, vymezení útvarů podzemních vod,\nb) způsob hodnocení stavu podzemních vod a\nc) náležitosti programů zjišťování a hodnocení stavu podzemních vod."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "chapter": "HLAVA I - ÚVODNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) znečišťující látkou látka, která může ohrozit jakost podzemních vod,\nb) vstupem znečišťující látky do podzemních vod přímé nebo nepřímé zavedení znečišťující látky do podzemních vod v důsledku lidské činnosti,\nc) normou jakosti podzemní vody norma environmentální kvality, vyjádřená jako koncentrace určité znečišťující látky nebo skupiny látek nebo hodnota ukazatele znečištění v podzemní vodě, která by neměla být překročena z důvodu ochrany lidského zdraví a životního prostředí,\nd) prahovou hodnotou norma environmentální kvality, která je uvedena v tabulce č. 1 přílohy č. 5 této vyhlášky,\ne) referenční hodnotou hodnota koncentrace znečišťující látky nebo ukazatele znečištění v podzemních vodách, jejíž překročení indikuje vliv lidské činnosti a zhoršenou jakost těchto vod,\nf) významným a trvalým vzestupným trendem jakékoli statisticky a z hlediska životního prostředí významné zvýšení koncentrace znečišťující látky nebo skupiny látek nebo hodnoty ukazatele znečištění podzemních vod, u nichž je nutné zvrátit tento trend a stanovit počátek zvratu tohoto trendu v souladu s § 9 a částí B přílohy č. 2 k této vyhlášce,\ng) úrovní pozadí koncentrace látky nebo hodnota ukazatele, která odpovídá nulové či velmi nízké antropogenní změně ve srovnání s nenarušenými podmínkami,\nh) přirozenou koncentrací koncentrace látky nebo hodnota ukazatele, která odpovídá podmínkám, které nejsou ovlivněny lidskou činností,\ni) výchozí úrovní průměrná roční hodnota výsledků programů zjišťování stavu podzemních vod alespoň z let 2007 a 2008 nebo, v případě látek identifikovaných po uplynutí uvedených let, v průběhu prvního období, pro něž je dostupné reprezentativní období monitorovacích údajů,\nj) monitorovacím místem typu A místo odběru vzorků podzemní vody nebo vody bezprostředně vyvěrající z pramenů nebo místo, kde je umístěno stabilní zařízení uzpůsobené ke sledování stavu hladin či úrovní hladin podzemní vody nebo vydatnosti pramenů, a na které se nevztahuje povolení k nakládání s vodami,\nk) monitorovacím místem typu B místo odběru vzorků podzemní vody nebo vody bezprostředně vyvěrající z pramenů nebo místo, kde je umístěno stabilní zařízení uzpůsobené ke sledování stavu hladin či úrovní hladin podzemní vody nebo vydatnosti pramenů, a na které se vztahuje povolení k nakládání s vodami2),\nl) monitorovací sítí podzemních vod soubor monitorovacích míst podle písmen i) a j), který je stanoven v příslušném programu monitoringu,\nm) sítí zjišťování stavu podzemních vod soubor monitorovacích míst podle písmen i) a j), jejichž výsledky se využijí pro hodnocení stavu útvarů podzemních vod a jakosti podzemních vod,\nn) kontaminačním mrakem soustředěný shluk znečišťujících látek, které se mohou šířit v podzemních vodách."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Vymezení hydrogeologických rajonů",
+      "chapter": "HLAVA II - VYMEZENÍ HYDROGEOLOGICKÝCH RAJONŮ A VYMEZENÍ ÚTVARŮ PODZEMNÍCH VOD",
+      "content": "(1) Hydrogeologické rajony jsou vymezeny na základě přírodních charakteristik, zejména podle hydrogeologických poměrů, typu zvodnění a oběhu podzemních vod.\n(2) Hydrogeologické rajony jsou složeny z jednoho či více útvarů podzemních vod.\n(3) Seznam hydrogeologických rajonů je uveden v příloze č. 6 této vyhlášky.\n(4) Údaje o hranicích a umístění hydrogeologických rajonů jsou evidovány v souladu s § 22 odst. 4 písm. a) vodního zákona."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Vymezení útvarů podzemních vod",
+      "chapter": "HLAVA II - VYMEZENÍ HYDROGEOLOGICKÝCH RAJONŮ A VYMEZENÍ ÚTVARŮ PODZEMNÍCH VOD",
+      "content": "(1) Seznam útvarů podzemních vod je uveden v příloze č. 6 této vyhlášky.\n(2) Útvary podzemních vod jsou vymezeny v hloubkové svrchní, základní a hlubinné vrstvě.\n(3) Údaje o hranicích a umístění útvarů podzemních vod jsou evidovány v souladu s § 22 odst. 4 písm. a) vodního zákona."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Hodnocení stavu podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "Hodnocení stavu podzemních vod sestává z\na) hodnocení stavu útvarů podzemních vod,\nb) hodnocení významných a trvalých vzestupných trendů a kontaminačních mraků a\nc) hodnocení jakosti podzemních vod."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob hodnocení stavu útvarů podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení stavu útvarů podzemních vod spočívá v hodnocení jejich chemického a kvantitativního stavu.\n(2) Pro hodnocení stavu útvarů podzemních vod se využívají výsledky získané ze sítě zjišťování stavu podzemních vod, analýz všeobecných a vodohospodářských charakteristik povodí a hodnocení dopadů lidské činnosti na stav útvarů podzemních vod.\n(3) Hodnocení stavu útvarů podzemních vod přeshraničního charakteru probíhá ve spolupráci dotčených stran v rámci mezinárodních komisí3).\n(4) Při grafickém znázornění se dobrý stav útvarů podzemních vod označuje zelenou barvou a nevyhovující stav červenou barvou."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Způsob hodnocení chemického stavu útvarů podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení chemického stavu útvarů podzemních vod se provádí pro všechny útvary podzemních vod jedenkrát za šest let postupem definovaným v příloze č. 3 k této vyhlášce.\n(2) Hodnocení chemického stavu rizikových útvarů podzemních vod se provádí minimálně pro všechny znečišťující látky, které k takovému označení přispívají.\n(3) K hodnocení chemického stavu útvarů podzemních vod se používají normy jakosti podzemní vody. Pokud správce povodí či pověřený odborný subjekt podle § 21 odst. 4 vodního zákona s ohledem na výsledky zjišťování a hodnocení stavu podzemních vod u daného útvaru podzemních vod předpokládá, že by normy jakosti podzemní vody mohly zmařit dosažení environmentálních cílů týkajících se souvisejících útvarů povrchových vod uvedených v § 23a vodního zákona nebo vést k významnému zhoršení ekologické nebo chemické kvality těchto útvarů nebo k významnému poškození suchozemských ekosystémů, které jsou na útvaru podzemních vod přímo závislé, zavede v souladu s tabulkou č. 1 přílohy č. 5 této vyhlášky přísnější prahové hodnoty. Programy a opatření vztahující se k těmto prahovým hodnotám se uplatňují rovněž pro činnosti upravené v § 33 vodního zákona a nařízením vlády o stanovení zranitelných oblastí a akčním programu10).\n(4) Výsledky hodnocení chemického stavu útvarů podzemních vod se vyjadřují klasifikací dobrý nebo nevyhovující."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Způsob hodnocení kvantitativního stavu útvarů podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení kvantitativního stavu útvarů podzemních vod se provádí pro všechny útvary podzemních vod jedenkrát za šest let postupem definovaným v příloze č. 4 této vyhlášky.\n(2) Výsledky hodnocení kvantitativního stavu útvarů podzemních vod se vyjádří klasifikací dobrý nebo nevyhovující."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Způsob hodnocení významného a trvalého vzestupného trendu a hodnocení kontaminačních mraků",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení významného a trvalého vzestupného trendu se provádí pro znečišťující látky, skupiny znečišťujících látek anebo hodnoty ukazatelů znečištění zjištěné v rizikových útvarech podzemních vod jedenkrát za šest let za podmínek definovaných částí A přílohy č. 2 k této vyhlášce.\n(2) Výsledky hodnocení významného a trvalého vzestupného trendu se vyjádří jako identifikovaný či neidentifikovaný významný a trvalý vzestupný trend.\n(3) Pro identifikovaný významný a trvalý vzestupný trend se stanoví počátek zvratu tohoto trendu v souladu s částí B přílohy č. 2 k této vyhlášce jako procentní podíl úrovně norem jakosti podzemních vod stanovených v tabulce č. 1 přílohy č. 1 k této vyhlášce a prahových hodnot.\n(4) Při identifikaci významného a trvalého vzestupného trendu znečišťujících látek, které se vyskytují přirozeně i vlivem lidské činnosti, se přihlédne k výchozím úrovním a pokud existují, k údajům shromážděným před začátkem příslušných programů monitoringu.\n(5) Pro hodnocení významného a trvalého vzestupného trendu se používají data z provozního monitoringu a situačního monitoringu, přičemž se určí rok nebo období, od kterého se identifikace trendu zaznamenává.\n(6) Podkladem pro hodnocení významných a trvalých vzestupných trendů je zejména hodnocení jakosti podzemních vod a hodnocení vývoje jakosti podzemních vod.\n(7) Hodnocení kontaminačních mraků se provádí jedenkrát za šest let pro všechny kontaminační mraky, které mohou ohrozit cíle ochrany vod jako složky životního prostředí, a spočívá v hodnocení trendů znečišťujících látek v nich identifikovaných.\n(8) Výsledkem hodnocení trendů znečišťujících látek v kontaminačních mracích podle odstavce 7 jsou informace o směru šíření kontaminačních mraků, jejich vlivu na chemický stav útvarů podzemních vod a riziko, které mohou představovat pro lidské zdraví a životní prostředí.\n(9) Při grafickém znázornění se významný a trvalý vzestupný trend znečišťujících látek označuje černou tečkou, počátek zvratu významného a trvalého vzestupného trendu se označuje modrou tečkou."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Způsob hodnocení jakosti podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení jakosti podzemních vod se provádí jedenkrát za rok pro jednotlivá monitorovací místa postupem definovaným částí A přílohy č. 5 k této vyhlášce.\n(2) K hodnocení jakosti se použijí referenční hodnoty stanovené v příloze č. 5 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Způsob hodnocení vývoje jakosti podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Hodnocení vývoje jakosti podzemních vod se provádí jedenkrát za tři roky pro jednotlivá monitorovací místa postupem definovaným částí B přílohy č. 5 k této vyhlášce.\n(2) Výsledkem hodnocení vývoje jakosti podzemních vod je stoupající, klesající nebo neměnný trend koncentrací jednotlivých znečišťujících látek nebo jejich ukazatelů."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zajištění systému kvality",
+      "chapter": "HLAVA III",
+      "content": "Zjišťování stavu podzemních vod provádějí laboratoře, které:\na) mají zavedený systém kvality v souladu se zákonem o technických požadavcích na výrobky4) a v souladu s ČSN EN ISO/IEC 17025,\nb) se účastní programů mezilaboratorních porovnávacích zkoušek organizovaných k tomu akreditovanými organizacemi (ISO/IEC 43 - 1), které pokrývají celý rozsah ukazatelů, které v rámci zjišťování stavu vod daná laboratoř sleduje, a\nc) národnímu akreditačnímu orgánu prokazují způsobilost prováděním analýz dostupných referenčních materiálů typických pro odebrané vzorky, které obsahují přiměřené hodnoty koncentrací ve vztahu k příslušným normám environmentální kvality."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Minimální pracovní kritéria metod analýz",
+      "chapter": "HLAVA III",
+      "content": "(1) Minimální pracovní kritéria pro veškeré používané metody mají na úrovni příslušných norem jakosti podzemních vod a prahových hodnot kombinovanou rozšířenou nejistotu měření (U2k) 50 % nebo nižší. Mez stanovitelnosti je rovna nebo nižší 30 % odpovídající normy jakosti podzemních vod a prahových hodnot.\n(2) Jestliže pro daný ukazatel neexistuje příslušná norma jakosti podzemních vod nebo neexistuje metoda analýzy, která splňuje minimální pracovní kritéria podle odstavce 1, sledování takového ukazatele bude prováděno nejlepší dostupnou technikou nevyžadující nepřiměřené náklady. Zdůvodnění a popis použité nejlepší dostupné techniky se uvede v příslušném programu monitoringu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Zpracování výsledků analýz chemických ukazatelů",
+      "chapter": "HLAVA III",
+      "content": "(1) Rozsah analýzy chemických ukazatelů je dán účelem jednotlivých programů monitoringu.\n(2) Pro zajištění přijatelné míry správnosti a přesnosti se pro účely hodnocení stavu vod s příslušnými normami jakosti podzemních vod bere v úvahu kombinovaná rozšířená nejistota měření (U2k).\n(3) Pokud se hodnoty ukazatelů v daném vzorku nacházejí pod mezí stanovitelnosti, výsledky měření se pro výpočet průměrných hodnot stanoví na polovinu hodnoty příslušné meze stanovitelnosti.\n(4) Pokud se průměrná hodnota výsledků měření vypočtená postupem podle odstavce 3 nachází pod mezí stanovitelnosti, uvedená hodnota se označuje jako menší než mez stanovitelnosti.\n(5) Odstavec 3 se nepoužije v případě normy jakosti podzemních vod pro pesticidy celkem stanovené v příloze č. 1 k této vyhlášce nebo v případech, kdy se jedná o ukazatel, který je součástí celkového součtu dané skupiny ukazatelů včetně jejich rozpadových či reakčních produktů nebo metabolitů. V tomto případě se výsledek pod mezí stanovitelnosti nezapočítává a do celkového součtu se započítávají pouze hodnoty jednotlivých ukazatelů ve skupině nad mezí stanovitelnosti."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Monitorovací sítě podzemních vod",
+      "chapter": "HLAVA III",
+      "content": "(1) Monitorovací síť podzemních vod se navrhuje v souladu s Rámcovým programem zjišťování a hodnocení stavu vod a chráněných území České republiky (dále jen „Rámcový program monitoringu“) a podle účelu se dělí na:\na) monitorovací síť chemického stavu podzemních vod,\nb) monitorovací síť kvantitativního stavu podzemních vod.\n(2) Monitorovací síť chemického stavu podzemních vod se navrhuje tak, aby poskytla souvislý přehled o jakosti podzemních vod v dílčím povodí, umožnila identifikovat významné a trvalé vzestupné trendy znečišťujících látek a umožnila hodnotit chemický stav útvarů podzemních vod podle této vyhlášky.\n(3) Monitorovací síť kvantitativního stavu podzemních vod se navrhuje tak, aby:\na) poskytla spolehlivé údaje k vyhodnocení kvantitativního stavu útvarů podzemních vod nebo skupin útvarů podzemních vod podle této vyhlášky, včetně vyhodnocení využitelného množství podzemních vod, přírodních zdrojů, režimů hladin a vydatností podzemních vod,\nb) obsahovala počet reprezentativních monitorovacích míst a četnost měření v rozsahu, který umožní stanovit průběh hladiny podzemních vod, odhad směru a velikosti proudění podzemních vod, režim hladin a vydatnost v každém útvaru podzemních vod nebo skupině útvarů podzemních vod se zřetelem na krátkodobou a dlouhodobou proměnlivost jejich doplňování,\nc) pro rizikové útvary podzemních vod zajistila takovou hustotu monitorovacích míst a četnost měření, která umožní vyhodnocení vlivu odběrů a vypouštění na režim hladin a vydatností podzemních vod a na související útvary povrchových vod, vodní a suchozemské ekosystémy,\nd) pro útvary podzemních vod, které mají přeshraniční charakter, zajistila počet monitorovacích míst a četnost měření, který umožní stanovit odhad směru a velikosti proudění podzemní vody a zjištění ovlivnění režimu hladin a vydatnosti podzemních vod."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Programy pro zjišťování a hodnocení stavu podzemních vod",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "(1) Programy pro zjišťování a hodnocení stavu podzemních vod jsou:\na) Rámcový program monitoringu,\nb) Program monitoringu podzemních vod,\nc) Programy průzkumného monitoringu.\n(2) Program monitoringu podzemních vod podle odstavce 1 písm. b) se skládá z:\na) Programu situačního monitoringu podzemních vod,\nb) Programu provozního monitoringu podzemních vod,\nc) Programu monitoringu kvantitativního stavu podzemních vod.\n(3) Subjekt zajišťující programy zjišťování a hodnocení stavu podzemních vod podle schválených programů monitoringu hodnotí v intervalech nepřesahujících tři roky průběh a plnění jednotlivých programů monitoringu.\n(4) Program situačního monitoringu podzemních vod, Program provozního monitoringu podzemních vod a Program monitoringu kvantitativního stavu podzemních vod se aktualizují nejpozději do šesti let od jejich schválení, a to nejpozději ke dni 31. října předcházejícího kalendářního roku.\nProgram monitoringu podzemních vod"
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Program situačního monitoringu podzemních vod",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "(1) Program situačního monitoringu vychází z Rámcového programu monitoringu a je podkladem zejména pro\na) doplnění a ověření výsledků analýz všeobecných a vodohospodářských charakteristik povodí a zhodnocení dopadů lidské činnosti na stav podzemních vod,\nb) hodnocení chemického stavu všech útvarů podzemních vod a identifikaci významných a trvalých vzestupných trendů znečišťujících látek,\nc) hodnocení dlouhodobého vývoje jakosti způsobeného změnami přírodních podmínek,\nd) hodnocení jakosti podzemních vod,\ne) vedení vodní bilance,\nf) účelné a efektivní návrhy na aktualizaci ostatních programů monitoringu,\ng) plánování v oblasti vod,\nh) mezinárodní monitorovací programy a pro potřeby spolupráce v mezinárodních oblastech povodí,\ni) návrhy programů opatření podle § 26 vodního zákona.\n(2) Program situačního monitoringu stanoví zejména:\na) monitorovací síť chemického stavu podzemních vod, včetně seznamu monitorovacích míst,\nb) seznam sledovaných ukazatelů, četnost jejich sledování pro každé monitorovací místo, včetně požadavků na spolehlivost a přesnost výsledků, přičemž na všech monitorovacích místech jsou bez výjimky sledovány ukazatele: obsah kyslíku, hodnota pH, vodivost, dusičnany a amonné ionty.\n(3) Na vybraných monitorovacích místech rizikových útvarů podzemních vod jsou sledovány ukazatele, které k takovému označení útvaru podzemních vod přispívají. Vybraným monitorovacím místem se v tomto smyslu rozumí monitorovací místo, které může postihnout vliv lidské činnosti identifikované v rámci zhodnocení vlivů a dopadů na stav podzemních vod.\n(4) Na vybraných monitorovacích místech útvarů podzemních vod přeshraničního charakteru jsou sledovány ty ukazatele, které se vztahují k ochraně všech způsobů využívání daného útvaru podzemních vod závislých na proudění vody. Tyto ukazatele jsou stanoveny v rámci spolupráce v mezinárodních komisích3).\n(5) Program situačního monitoringu se navrhuje na základě analýz všeobecných a vodohospodářských charakteristik povodí a zhodnocení dopadů lidské činnosti na stav podzemních vod pro každé období platnosti plánů povodí."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Program provozního monitoringu podzemních vod",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "(1) Program provozního monitoringu podzemních vod vychází z Rámcového programu monitoringu a je podkladem zejména pro:\na) hodnocení chemického stavu rizikových útvarů podzemních vod a identifikaci významných a trvalých vzestupných trendů znečišťujících látek,\nb) hodnocení jakosti podzemních vod,\nc) vedení vodní bilance,\nd) plánování v oblasti vod,\ne) mezinárodní monitorovací programy a pro potřeby spolupráce v mezinárodních oblastech povodí a\nf) návrhy programů opatření podle § 26 vodního zákona.\n(2) Program provozního monitoringu stanoví zejména:\na) monitorovací síť chemického stavu podzemních vod, včetně seznamu monitorovacích míst,\nb) seznamy sledovaných ukazatelů a četnost jejich sledování pro každé monitorovací místo, včetně požadavků na spolehlivost a přesnost výsledků, přičemž:\n1. na monitorovacích místech příslušného rizikového útvaru podzemních vod jsou sledovány ukazatele znečišťujících látek, které k takovému označení útvaru podzemních vod vedou,\n2. na monitorovacích místech, kde výsledky hodnocení jakosti naznačují, že bylo dosaženo 75% úrovně norem jakosti stanovených v příloze č. 1 této vyhlášky a prahových hodnot, jsou sledovány ukazatele znečišťujících látek, pro které bylo této úrovně dosaženo.\n(3) Program provozního monitoringu je prováděn v letech, kdy není prováděn Program situačního monitoringu."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Program monitoringu kvantitativního stavu podzemních vod",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "(1) Program monitoringu kvantitativního stavu podzemních vod vychází z Rámcového programu monitoringu a je podkladem pro:\na) hodnocení kvantitativního stavu útvarů podzemních vod,\nb) hodnocení režimu hladin a vydatností pramenů podzemních vod, včetně jejich dlouhodobých trendů a rovnováhy mezi doplňováním a odběry podzemních vod,\nc) vyhodnocení přírodních zdrojů podzemních vod,\nd) vedení vodní bilance podle § 22 vodního zákona,\ne) plánování v oblasti vod,\nf) návrhy programů opatření podle § 26 vodního zákona.\n(2) Program monitoringu kvantitativního stavu podzemních vod stanoví zejména:\na) monitorovací síť kvantitativního stavu podzemních vod, včetně seznamu monitorovacích míst a jejich počtu,\nb) četnost sledování hladin a vydatností pramenů pro každé monitorovací místo."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Programy průzkumného monitoringu",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "(1) Programy průzkumného monitoringu vycházejí z Rámcového programu monitoringu a stanoví:\na) důvody pro zavedení průzkumného monitoringu, cíle průzkumného monitoringu a jeho vazby na ostatní programy monitoringu,\nb) vymezení monitorovacích míst,\nc) seznamy sledovaných ukazatelů a četnost jejich sledování pro každé monitorovací místo.\n(2) Programy průzkumného monitoringu se uplatní:\na) tam, kde se vyskytly mimořádné jevy a nejsou známy jejich příčiny,\nb) v případě, že výsledky situačního monitoringu a hodnocení trendů indikují pravděpodobnost nedosažení dobrého stavu vod a daný vodní útvar dosud nebyl zahrnut do Programu provozního monitoringu,\nc) za účelem zjištění velikosti a dopadů havarijního znečištění, nebo\nd) za účelem poskytnutí informací pro zřízení programu opatření k dosažení cílů ochrany vod.\n(3) Programy průzkumného monitoringu se zpracovávají podle potřeby, vždy ve vazbě na útvary podzemních vod.\n(4) Podnět k zavedení průzkumného monitoringu dává správce povodí podle § 54 vodního zákona, Česká inspekce životního prostředí, obec s rozšířenou působností nebo pověřený odborný subjekt podle § 21 odst. 4 vodního zákona."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Účinnost",
+      "chapter": "HLAVA IV - NÁLEŽITOSTI PROGRAMŮ ZJIŠŤOVÁNÍ A HODNOCENÍ STAVU PODZEMNÍCH VOD",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem po dni jejího vyhlášení.\nPříloha č. 1 k vyhlášce č. 5/2011 Sb.\nNormy jakosti a způsob stanovení prahových hodnot"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "znečišťující látkou látka",
+      "definition": "která může ohrozit jakost podzemních vod",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "normou jakosti podzemní vody norma environmentální kvality",
+      "definition": "vyjádřená jako koncentrace určité znečišťující látky nebo skupiny látek nebo hodnota ukazatele znečištění v podzemní vodě, která by neměla být překročena z důvodu ochrany lidského zdraví a životního prostředí",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "prahovou hodnotou norma environmentální kvality",
+      "definition": "která je uvedena v tabulce č. 1 přílohy č. 5 této vyhlášky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "úrovní pozadí koncentrace látky nebo hodnota ukazatele",
+      "definition": "která odpovídá nulové či velmi nízké antropogenní změně ve srovnání s nenarušenými podmínkami",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přirozenou koncentrací koncentrace látky nebo hodnota ukazatele",
+      "definition": "která odpovídá podmínkám, které nejsou ovlivněny lidskou činností",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "monitorovacím místem typu A",
+      "definition": "místo odběru vzorků podzemní vody nebo vody bezprostředně vyvěrající z pramenů nebo místo, kde je umístěno stabilní zařízení uzpůsobené ke sledování stavu hladin či úrovní hladin podzemní vody nebo vydatnosti pramenů, a na které se nevztahuje povolení k nakládání s vodami",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "monitorovacím místem typu B",
+      "definition": "místo odběru vzorků podzemní vody nebo vody bezprostředně vyvěrající z pramenů nebo místo, kde je umístěno stabilní zařízení uzpůsobené ke sledování stavu hladin či úrovní hladin podzemní vody nebo vydatnosti pramenů, a na které se vztahuje povolení k nakládání s vodami2)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kontaminačním mrakem soustředěný shluk znečišťujících látek",
+      "definition": "které se mohou šířit v podzemních vodách.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "* Pesticidy",
+      "definition": "přípravky podle § 2 odst",
+      "source_provision": "§ 21"
+    },
+    {
+      "term": "Pesticidy celkem",
+      "definition": "úhrn všech jednotlivých pesticidů, které byly zjištěny a jejichž množství bylo zjištěno podle § 7 až 15 této vyhlášky",
+      "source_provision": "§ 21"
+    },
+    {
+      "term": "** „Pesticidy celkem",
+      "definition": "úhrn všech jednotlivých pesticidů, které byly zjištěny a jejichž množství bylo zjištěno podle § 7 až 15 této vyhlášky",
+      "source_provision": "§ 21"
+    },
+    {
+      "term": "počátek zvratu trendu",
+      "definition": "dosažení koncentrace znečišťující látky na úrovni 75% hodnoty norem jakosti podzemních vod uvedených v tabulce č",
+      "source_provision": "§ 21"
+    }
+  ]
+}

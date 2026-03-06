@@ -1,0 +1,21 @@
+{
+  "id": "cz:ul1:275/1950",
+  "type": "statute",
+  "title": "275/1950 Ú. l. I, Vyhláška ministra financí o přepočítacích kursech cizozemských hodnot na koruny československé pro účely poplatků a daně z obohacení.",
+  "title_en": "",
+  "short_name": "275/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-04-29",
+  "in_force_date": "1950-05-14",
+  "url": "https://www.e-sbirka.cz/ul1/1950/275",
+  "description": "Vyhláška ministra financí o přepočítacích kursech cizozemských hodnot na koruny československé pro účely poplatků a daně z obohacení.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Argentina100arg. pesos=555.56Kčs\nBelgie100franků=100.—Kčs\nBrazílie100cruizeiros=272.035Kčs\nBulharsko100leva=17.54Kčs\nDánsko100korun=723.888Kčs\nEgypt1libra=144.—Kčs\nFinsko100marek=21.83Kčs\nFrancie100franků=14.286Kčs\nHolandsko100zlatých=1315.789Kčs\nItálie100lir=8.20Kčs\nIsland100korun=446.86Kčs\nKanada1dolar=45.46Kčs\nMaďarsko100forintů=425.90Kčs\nMexiko100pesos=578.035Kčs\nNorsko100korun=700.—Kčs\nPortugalsko100escudos=175.—Kčs\nRakousko100šilinků=347.222Kčs\nRumunsko100lei=33.33Kčs\nSpojené státy americké1dolar=50.—Kčs\nŠvédsko100korun=966.517Kčs\nŠvýcarsko100franků=1143.43Kčs\nTurecko100liber=1785.71Kčs\nVelká Britannie1libra sterlingů=140.—Kčs"
+    }
+  ],
+  "definitions": []
+}

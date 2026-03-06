@@ -49,8 +49,8 @@ export async function listSources(
           url: 'https://www.e-sbirka.cz',
           license: 'Government terms for official public legislation (e-Sbirka)',
           coverage:
-            'Selected Czech statutes (privacy, cybersecurity, communications, civil and criminal law) ' +
-            'ingested from official e-Sbirka consolidated text endpoints.',
+            'Official Czech legislation via e-Sbirka API. Repository includes a curated fully-seeded corpus ' +
+            'and all-laws discovery/indexing mode (ZAKON + ZAKONUST).',
           languages: ['cs'],
         },
       ],

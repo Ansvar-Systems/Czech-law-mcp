@@ -1,0 +1,39 @@
+{
+  "id": "cz:3/1965",
+  "type": "statute",
+  "title": "3/1965 Sb., Vyhláška ministerstva financí, kterou se stanoví výše státního příspěvku pro družstevní bytovou výstavbu zahajovanou od 1. ledna 1965",
+  "title_en": "",
+  "short_name": "3/1965 Sb.",
+  "status": "in_force",
+  "issued_date": "1965-01-20",
+  "in_force_date": "1967-06-21",
+  "url": "https://www.e-sbirka.cz/sb/1965/3",
+  "description": "Vyhláška ministerstva financí, kterou se stanoví výše státního příspěvku pro družstevní bytovou výstavbu zahajovanou od 1. ledna 1965",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Příspěvek podle § 1 odst. 1 vyhlášky č. 191/1964 Sb., o finanční, úvěrové a jiné pomoci družstevní bytové výstavbě a výstavbě rodinných domků, na výstavbu družstevních bytových domů zahajovanou 1. lednem 1965 stanoví se podle velikosti bytů takto:\nVelikost bytu Výše státního příspěvku na 1 byt v Kčs\nUžitková plocha bytu v m2*) Počet obytných místností nejméně\ndo 30 1 9 200\nnad 30 do 44 1 12 200\nnad 44 do 60 2 16 700\nnad 60 do 70 2 20 400\nnad 70 do 80 3 22 300\nnad 80 3 24 700\nNejsou-li splněny oba ukazatele velikosti bytu stanovené pro přiznání příspěvku v určité výši, poskytne se příslušný nižší příspěvek.\n(2) Vyžadují-li to zájmy řízení bytové politiky v kraji, mohou krajské národní výbory stanovit příspěvek v jiné výši nebo jej odstupňovat podle velikosti bytu jinak, než je uvedeno v odstavci 1, avšak jednotně pro celý kraj. Přitom úhrn příspěvků poskytnutých v kraji nesmí překročit částku, která by na družstevní bytovou výstavbu příslušela podle velikosti bytů a sazeb uvedených v odstavci 1."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ruší se platnost vyhlášky č. 5/1964 Sb., kterou se stanoví výše státního příspěvku pro družstevní bytovou výstavbu zahajovanou od 1. ledna 1964, pokud jde o družstevní bytovou výstavbu zahajovanou po 31. prosinci 1964."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n*) Užitkovou plochou bytu se zde rozumí plocha ve smyslu projektových československých státních norem (ČSN).\n*) Za výstavbu úplnou svépomocí se považuje výstavba ve vlastní režii družstva, prováděná bez nároku na plánované kapacity stavební výroby s výjimkou provedení některých prací, nejvýše však v rozsahu 20 % rozpočtové ceny objektu (§ 4 a 12 vyhlášky č. 191/1964 Sb.).\n**) § 5 odst. 1 písm. b) vyhlášky č. 191/1964 Sb.\n***) Pokyny Státní plánovací komise čj. 250715/62-SM 6 z 21. února 1962 o vymezení obsahové náplně rozpočtové ceny bytu v objektu.\n†) Tj. vybavení nebo provedení nad standard určený příslušnými platnými typovými podklady (včetně rozpočtů).\n††) Na rok 1965 limity rozpočtových nákladů pro tyto formy družstevní bytové výstavby (bez nákladu na projekt) stanovila krajským národním výborům Státní komise pro investiční výstavbu pod č. j. 13/16 141/64 z 20. října 1964."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "*) Užitkovou plochou bytu se zde",
+      "definition": "plocha ve smyslu projektových československých státních norem (ČSN)",
+      "source_provision": "§ 3"
+    }
+  ]
+}

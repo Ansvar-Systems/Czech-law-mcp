@@ -1,0 +1,358 @@
+{
+  "id": "cz:386/1990",
+  "type": "statute",
+  "title": "386/1990 Sb., Vyhláška Ministerstva zdravotníctva Slovenskej republiky o správnej výrobnej praxi, riadení akosti humánnych liečiv a prostriedkov zdravotníckej a obalovej techniky",
+  "title_en": "",
+  "short_name": "386/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-09-27",
+  "in_force_date": "1990-09-27",
+  "url": "https://www.e-sbirka.cz/sb/1990/386",
+  "description": "Vyhláška Ministerstva zdravotníctva Slovenskej republiky o správnej výrobnej praxi, riadení akosti humánnych liečiv a prostriedkov zdravotníckej a obalovej techniky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Účel vyhlášky",
+      "chapter": "PRVÁ ČASŤ - ÚVODNÉ USTANOVENIA",
+      "content": "Táto vyhláška ustanovuje v súlade s najnovšími poznatkami vedy a techniky a potrebami zdravotníctva zásady správnej výrobnej praxe, riadenia akosti humánnych liečiv a prostriedkov zdravotníckej a obalovej techniky (ďalej len „správna výrobná prax“).1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah platnosti",
+      "chapter": "PRVÁ ČASŤ - ÚVODNÉ USTANOVENIA",
+      "content": "Podľa tejto vyhlášky sú povinné postupovať orgány a organizácie, ktoré vyrábajú, pripravujú, balia, kontrolujú, distribuujú, skladujú a uchovávajú liečivá a diagnostiká, pomocné látky, prostriedky zdravotníckej a obalovej techniky2) (ďalej len „organizácie“) a pracovníci týchto orgánov a organizácií."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Základné pojmy",
+      "chapter": "PRVÁ ČASŤ - ÚVODNÉ USTANOVENIA",
+      "content": "(1) Východiskovou látkou je každá látka používaná vo výrobe, bez ohľadu na to, či je v konečnom výrobku prítomná.\n(2) Medziproduktom sa rozumie každý materiál alebo zmes materiálov, ktoré sa musia podrobiť ďalším výrobným činnostiam.\n(3) Nerozplneným produktom sa rozumie každý produkt, ktorý prešiel všetkými stupňami spracovania okrem rozplnenia a adjustácie.\n(4) Kontaminácia je mikrobiologické, chemické a mechanické znečistenie východiskovej látky, medziproduktu, nerozplneného alebo hotového produktu.\n(5) Validácia je činnosť, ktorou sa dokazuje, že určitý materiál, proces, postup, činnosť, zariadenie alebo mechanizmus používané vo výrobe alebo kontrole dosahujú a budú dosahovať žiadaných a zamýšľaných výsledkov.\n(6) Šaržou sa rozumie množstvo výrobkov pripravených v jednom výrobnom cykle; podstatným znakom šarže je jej rovnorodosť.\n(7) Sústredená príprava liečiv a diagnostík (ďalej len „liečivá“) je hromadná príprava v šaržiach vykonávaná v zariadeniach lekárenskej služby.\n(8) Karanténou sa pre účely tejto vyhlášky rozumie stav východiskových látok, medziproduktov alebo produktov uložených oddelene, označených alebo prípadne uložených v pamäti počítača tak, aby bolo zrejmé, že sú práve v štádiu kontroly a čaká sa na rozhodnutie o ich vhodnosti na spracovanie alebo distribúciu.\n(9) Stabilitou sa rozumie vlastnosť východiskovej látky, medziproduktu alebo hotového výrobku zachovať si v stanovených medziach v určitej lehote a za určených podmienok uchovávania rovnaké akostné znaky, ktoré mala východisková látka, medziprodukt alebo hotový výrobok v čase výroby.\n(10) Atestom sa rozumie osvedčenie uvádzajúce odkaz na skúšobný protokol, že liečivo, pomocná látka, prostriedky zdravotníckej a obalovej techniky boli preskúšané a prepustené ako vyhovujúce.\n(11) Prostriedkami zdravotníckej techniky sa pre účely tejto vyhlášky rozumejú predmety, pomôcky a nástroje, ktoré sú určené do tela alebo na telo človeka, pri ošetrovaní človeka, antikoncepcii alebo diagnóze.\n(12) Diagnostikami pre účely tejto vyhlášky sa rozumejú látky podané človeku za účelom stanovenia diagnózy choroby a laboratórne diagnostiká.\n(13) Hygienické zóny sú priestory o rôznych stupňoch čistoty s definovanou úpravou vzduchu, s predpísanými sanitačnými a hygienickými postupmi.\n(14) Prostriedky obalovej techniky sú predmety a pomôcky z rôznych materiálov, ktoré prichádzajú do priameho styku s liečivom a slúžia na jeho uchovávanie a ochranu pred pôsobením vonkajších vplyvov.\n(15) Technologický reglement je súbor pravidiel určujúci spôsob výroby a rozsah jej kontroly pre štandardnú veľkosť šarže v záujme zabezpečenia požadovanej štandardnej akosti a vedenia výroby.\n(16) Priebežné výrobné kontroly sú skúšky, kontroly a merania vykonávané v priebehu výroby, vrátane adjustácie, ktoré zabezpečujú, že výsledný produkt bude vyhovovať príslušnej akostnej norme."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Pri výrobe, kontrole, plnení, balení, skladovaní, distribúcii, pri manipulácii so surovinami, medziproduktami, nerozplnenými produktami, obalmi, hotovými výrobkami môžu pracovať len pracovníci, ktorých kvalifikácia, morálna zodpovednosť a zdravotný stav zaručujú splnenie požiadaviek kladených na uvedené činnosti.\n(2) Organizácia je povinná určiť vedúceho pracovníka zodpovedného za výrobu a vedúceho pracovníka zodpovedného za riadenie akosti a je povinná vylúčiť akékoľvek zásahy do ich pôsobnosti. Funkcia vedúceho pracovníka zodpovedného za výrobu je nezlučiteľná s funkciou vedúceho pracovníka zodpovedného za riadenie akosti."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Vedúci pracovník zodpovedný za výrobu zodpovedá za akosť výrobkov, za výrobnú oblasť, za stav vybavenia a zariadenia, výrobné činnosti, za vykonávanie priebežnej výrobnej kontroly, za výrobnú dokumentáciu.\n(2) Vedúci pracovník zodpovedný za riadenie akosti zodpovedá za oblasť riadenia akosti a kontroly, za stav prístrojov a zariadení kontroly, za vypracovávanie a vedenie kontrolnej dokumentácie, za dodržiavanie všetkých predpísaných kontrolných postupov.\n(3) Vedúci pracovník zodpovedný za výrobu a vedúci pracovník zodpovedný za riadenie akosti spoločne vypracovávajú systém kontroly zabezpečujúci akosť, najmä priebežných výrobných kontrol."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Vedúci pracovníci zodpovední za výrobu až do funkcie hlavného majstra a vedúci pracovníci zodpovední za riadenie akosti musia mať:\na) ukončené vysokoškolské vzdelanie farmaceutické alebo iné vysokoškolské vzdelanie príslušného odboru s požadovanou ďalšou špecializáciou určenou Ministerstvom zdravotníctva Slovenskej republiky,3)\nb) najmenej trojročnú prax vo výrobe alebo kontrole.\n(2) U ostatných odborných a vedúcich pracovníkov vo výrobe je organizácia oprávnená považovať predpísané vzdelanie za splnené len v prípade, že pracovník má vzdelanie takého smeru, ktoré zodpovedá jeho činnosti.\n(3) Organizácia je povinná zabezpečiť sústavné vzdelávanie a výcvik pracovníkov4) z hľadiska správnej výrobnej praxe podľa ich odbornosti a overovať úroveň získaných znalostí a zručnosti."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "Organizácia je povinná zabezpečiť, aby pracovníci s prenosnými chorobami, s otvorenými poraneniami na nekrytom povrchu tela a bacilonosiči nepracovali pri výrobe liečiv a prostriedkov zdravotníckej a obalovej techniky a je povinná zabezpečiť, aby sa na týchto pracoviskách nezdržiavali.\nPriestory"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Liečivá, pomocné látky, prostriedky zdravotníckej a obalovej techniky sa vyrábajú a skladujú v miestnostiach, ktoré konštrukčným riešením, veľkosťou, počtom, usporiadaním a zariadením sú vhodne prispôsobené a umožňujú výrobu, skladovanie, kontrolu, balenie a distribúciu liečiv, pomocných látok, prostriedkov zdravotníckej a obalovej techniky podľa tejto vyhlášky.\n(2) Organizácia je povinná zabezpečiť projekt, stavbu a umiestnenie budov tak, aby sa predchádzalo kontaminácii z vonkajšieho prostredia. Vo výrobných a skladovacích priestoroch sa musia vykonať účinné opatrenia na zabránenie zámenám, kontamináciám, vstupu nepovolaným osobám, vnikaniu hmyzu, zvierat a hromadeniu odpadov. Výrobné a skladovacie priestory musia byť v súlade s požiadavkami na ich režim čistoty rozčlenené do hygienických zón.2)\n(3) Podlahy, steny a stropy musia byť podľa požiadaviek na hygienické zóny nepriepustné, hladké, bez výstupkov, prasklín a štrbín, umývateľné a musia odolávať dezinfekčným prostriedkom. Styčné plochy medzi stenami a podlahou, ako i rohy plôch musia byť zaoblené. Potrubie, ventilačné otvory a inštalácie musia byť umiestnené tak, aby nevznikali nečistiteľné výklenky. Osvetlenie, vykurovanie a vzduchotechnické zariadenie nesmú byť konštruované tak, aby svojou konštrukciou negatívne ovplyvňovali produkty počas výroby a skladovania. Odsávacie vzduchotechnické zariadenie je potrebné inštalovať tak, aby škodliviny zachytilo pokiaľ možno na mieste ich vzniku. Odťahové vedenie nesmie nepriaznivo ovplyvňovať vzduchotechnické pomery.\n(4) Pre špeciálne účely, napríklad pre výrobu a spracovanie antibiotík, hormónov, biotechnologickými metódami pripravovaných látok, vysoko toxických alebo infekčných látok musia byť zriadené oddelené uzavreté priestory projektované pre tieto účely."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Priestory pre výrobu a kontrolu sterilných produktov musia okrem požiadaviek uvedených v § 8\na) byť upravené a zabezpečené tak, aby sa zabránilo kontaminácii mikroorganizmami a mechanickými nečistotami,\nb) byť oproti okolitým priestorom v pretlaku zaistenom prívodom filtrovaného vzduchu a trvale meranom. Priestory sú zabezpečené signalizačným zariadením, ktoré zvukovo ohlasuje poruchy vzduchotechniky,\nc) mať vedenie elektrickej inštalácie ako i všetky ostatné potrubia vedené na povrchu zakryté. Vyhrievanie v miestnostiach musí byť nepriame a odpad v miestnosti pre aseptickú výrobu nesmie byť priamo spojený s kanalizáciou.\n(2) Príprava materiálov, vlastná výroba, plnenie a sterilizácia sa vykonávajú v oddelených priestoroch, a pokiaľ to zabezpečenie akosti vyžaduje vykonávajú sa v laminárnom prúdení.\n(3) Pre aseptickú výrobu a plnenie prípravkov nesterilizovateľných v konečnej liekovej forme je potrebné zabezpečiť osobitný priestor zodpovedajúcej triedy čistoty, aby sa zamedzila možnosť akejkoľvek sekundárnej mikrobiálnej kontaminácii.\n(4) Prístup pracovníkov a prísun materiálu do priestorov pre výrobu a kontrolu sterilných produktov je umožnený len cez priepuste vybavené tak, aby vhodným spôsobom zabraňovali kontaminácii mikroorganizmami a mechanickými nečistotami.\n(5) Investičné zámery, projektované úlohy a projekty dotýkajúce sa výroby, prípravy, kontroly, distríbúcie, skladovania liečiv, pomocných látok, prostriedkov zdravotníckej a obalovej techniky schvaľuje z hľadiska správnej výrobnej praxe Ministerstvo zdravotníctva Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Zariadenia, stroje a prístroje",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Vo výrobe sa musia používať len zariadenia, stroje a prístroje zabezpečujúce požadovanú akosť liečiv a ostatných výrobkov. Umiestnenie zariadení, strojov a prístrojov musí byť usporiadané tak, aby vylúčilo zámeny, kontaminácie a vynechanie výrobných činností. Zariadenia, stroje a prístroje musia ako celok i v častiach umožňovať dôkladné a ľahké čistenie, prípadne potrebnú sterilizáciu, najmä pred začatím výroby iného výrobku.\n(2) Zariadenia a prístroje používané vo výrobe a kontrole sa musia pravidelne overovať a validovať. O tejto činnosti sa musí viesť dokumentácia. Pre zabezpečenie jednotnosti a presnosti meradiel platia osobitné predpisy.5)\n(3) O čistení, údržbe zariadení, strojov a prístrojov sa musia viesť záznamy.\n(4) Trvale inštalované potrubia (ventily) musia byť zreteľne označené, na aký účel slúžia."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Hygienické opatrenia",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Osoby vstupujúce do výrobných priestorov sú povinné používať ochranné odevy a pomôcky primerané výrobným procesom.\n(2) Vo výrobných priestoroch je zakázané konzumovať jedlá, piť nápoje, fajčiť a správať sa v rozpore so zásadami osobnej hygieny.\n(3) Organizácie sú povinné vydať sanitačné a hygienické predpisy pre činnosť pracovníkov pred ich vstupom do výrobných a manipulačných priestorov a po dobu výroby a manipulácie s produktami.\n(4) Sanitačné a hygienické predpisy predpisujú spôsob vykonávania pravidelnej očisty a dezinfekcie výrobných priestorov a zariadení. Ich dodržiavanie sa pravidelne kontroluje. Uskutočnenie a kontrola každej sanitačnej činnosti sa písomne dokumentuje."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Výrobná dokumentácia",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Výrobnú dokumentáciu tvoria\na) technologický reglement,\nb) technické normy,6)\nc) výrobný príkaz a príkaz na balenie pre každú jednotlivú šaržu,\nd) štandardné pracovné postupy,\ne) test stability,7)\nf) záznamy o výrobe šarží,\ng) záznamy o priebežných výrobných kontrolách.\n(2) Výrobná dokumentácia každej šarže musí\na) určiť názov, akosť a množstvo všetkých surovín, medziproduktov a obalov, ktoré majú byť použité pri výrobe,\nb) určiť jednoznačne technologické postupy,\nc) určiť normované a skutočné výťažky vo všetkých výrobných stupňoch,\nd) určiť podrobné pokyny a upozornenia pre výrobu a skladovanie medziproduktov, nerozplnených produktov a hotových výrobkov,\ne) určiť akosť, prípadne akostné znaky medziproduktov, nerozplnených a hotových výrobkov s podrobnými pokynmi na ich hodnotenie (kontrolu),\nf) byť v súlade s ostatnými normami, ktoré ju doplňujú alebo sú jej nadriadené,\ng) používať medzinárodné alebo československé názvy liečiv a pomocných látok.\n(3) Technologický reglement a naň nadväzujúce časti výrobnej dokumentácie musí zodpovedať súčasnému stavu výroby a kontroly, podlieha revízii najneskôr po piatich rokoch.\n(4) Záznam o výrobe šarže určenej výrobným príkazom a príkazom na balenie obsahuje tieto údaje\na) názov výrobku, číslo šarže, normovanú a skutočnú veľkosť šarže,\nb) názov, dátum a čas výroby každého výrobného stupňa (každej výrobnej fázy),\nc) množstvo každého východiskového a obalového materiálu použitého pri výrobe a čísla prepúšťacích atestov,\nd) výrobný postup a podrobnosti o výrobe, vrátane uvedenia použitého technologického zariadenia a dosiahnutých výťažkoch na každom výrobnom stupni v porovnaní s normotvornými výťažkami,\ne) záznam o vykonaných priebežných výrobných kontrolách a získaných výsledkoch,\nf) záznamy o vykonaných kontrolách čistoty priestorov a výrobného zariadenia pred začatím, prípadne po ukončení výroby a balenia šarže,\ng) čitateľné podpisy operátorov a osoby zodpovednej za výrobnú činnosť s uvedením dátumu,\nh) všetky analytické záznamy vzťahujúce sa na šaržu,\ni) rozhodnutie o prepustení alebo zamietnutí šarže s dátumom a podpisom pracovníka zodpovedného za toto rozhodnutie,\nj) v prípade externej výroby dokumentácie externého výrobcu.\n(5) Výrobná dokumentácia sa vedie tak, aby priebeh výroby a kontroly každej šarže výrobku bolo možné ľahko spätne rekonštruovať. Výrobná dokumentácia sa archivuje po dobu jedného roka od uplynutia lehoty exspirácie alebo lehoty použiteľnosti výrobku."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Výrobné postupy",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Liečivá, pomocné látky a prostriedky zdravotníckej a obalovej techniky sa musia vyrábať v súlade s Československým liekopisom, so schváleným technologickým reglementom a technickými normami. Výroba musí zodpovedať požiadavkám, za ktorých bol výrobok registrovaný alebo povolený do výroby. Liečivá, na ktorých výrobu dáva súhlas hlavný hygienik Slovenskej republiky, musia zodpovedať ním určeným podmienkam.8) Všetky zmeny, vrátane zavádzania vynálezov a zlepšovacích návrhov do hromadnej výroby podliehajú novému schváleniu Ministerstva zdravotníctva Slovenskej republiky.9)\n(2) Organizácia výroby musí zabraňovať zámene, vynechaniu predpísanej činnosti alebo narušeniu výrobku kontamináciou a musí prispievať k reprodukcii stále rovnakej určenej akosti overovanej priebežnými výrobnými kontrolami.\n(3) V priebehu výroby musia byť výrobné zariadenie, stroje a prístroje, nádoby a obaly označené údajmi potrebnými na identifikáciu vyrábanej šarže a vykonávaného výrobného stupňa.\n(4) Výroba prebieha v šaržiach.\n(5) Výrobné činnosti, osobitne pri novej výrobe, musia byť validované.\n(6) Pred začiatkom každej výrobnej činnosti sa overuje totožnosť spracovávaných surovín, čistota priestorov a zariadení, výskyt materiálov, ktoré nie sú potrebné pre pripravovanú činnosť. Informácie o denných činnostiach sa na každom výrobnom oddelení zapisujú.\n(7) Organizácia je povinná udržovať systém informácií, ktorý umožňuje získať prehľad o všetkých produktoch, ktoré by mohli byť postihnuté opakujúcou sa chybou alebo zlyhaním vo výrobných postupoch."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Suroviny a obalové prostriedky",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Suroviny a obalové prostriedky sa po prevzatí karanténne skladujú alebo karanténne označujú, vzorkujú, identifikujú, skúšajú na predpísanú akosť, prepúšťajú alebo zamietajú, označujú, skladujú a vydávajú tak, aby nemohlo dôjsť v priebehu uvedených činností k zámene, kontaminácii alebo k spracovaniu neprepustených materiálov.\n(2) Nevyhovujúce suroviny a obalové prostriedky sa nápadne označujú a musia byť oddelene uložené. Nesmú sa použiť na výrobu.\n(3) Suroviny pre výrobu parenterálnych liečiv nesmú mať doklady o prepustení šarže staršie ako dva roky, ak nie je ustanovené inak."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Označovanie a balenie",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Jednotlivé šarže liečiv sa označujú a balia až po náležitom preskúšaní a prepustení na balenie zodpovedným pracovníkom.\n(2) Baliace operácie sa musia vykonávať tak, aby sa zabránilo zámenám výrobkov alebo baliaceho materiálu.\n(3) Hotové liečivá sa označujú na obaloch podľa príslušných predpisov.2), 10)"
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Externá výroba",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "V prípade, že vykonanie niektorého stupňa výrobného procesu je zverené externému zmluvnému partnerovi alebo prebieha v priestoroch inej organizácie, musia byť splnené podmienky pre výrobu ustanovené touto vyhláškou. Externý výrobca sa uvádza v zázname o výrobe príslušnej šarže."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Skladovanie, distribúcia a reklamácia",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > I. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI HROMADNEJ VÝROBE",
+      "content": "(1) Liečivá sa skladujú a uchovávajú za podmienok ustanovených osobitnými predpismi2), 10) tak, aby boli jednotlivé šarže od seba oddelené.\n(2) Vedenie záznamu o distribúcii každej šarže výrobku musí v prípade potreby umožňovať rýchle a úplné vyradenie výrobnej šarže z použitia.\n(3) Organizácia, ktorá je oboznámená o poškodení zdravia, nepriaznivej reakcii, nežiadúcich vedľajších účinkoch a závadách v akosti liečiv a prostriedkov zdravotníckej techniky, je povinná toto bezodkladne oznámiť Ministerstvu zdravotníctva Slovenskej republiky a Štátnemu ústavu pre kontrolu liečiv (ďalej len „Štátny ústav“).\n(4) V prípade uznanej reklamácie je organizácia povinná vykonať všetky nevyhnutné opatrenia na zabránenie ďalšej výroby, distribúcie a použitia chybných výrobkov a opakovania reklamovanej chyby."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Pracovníci",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Organizácia je povinná zabezpečiť, aby pri sústredenej príprave liečiv v lekárňach a ostatných zariadeniach lekárenskej služby ústavov národného zdravia (ďalej len „lekárenská služba“)11) mohli pracovať len pracovníci, ktorých kvalifikácia, pracovná morálka a zdravotný stav zaručujú splnenie ďalej ustanovených požiadaviek na ich činnosť.\n(2) Organizácia je povinná určiť vedúceho pracovníka zodpovedného za výrobu a vedúceho pracovníka zodpovedného za riadenie akosti a je povinná vylúčiť akékoľvek zásahy do ich pôsobnosti. Týmito vedúcimi pracovníkmi sú\na) vedúci lekárnik samostatného zariadenia lekárenskej služby (výrobne liečiv, výrobne infúznych roztokov) alebo\nb) vedúci oddelenia prípravy sterilných liekov, oddelenia prípravy liekov a liečivých prípravkov, prípadne oddelenia pre prípravu liekov a oddelenia pre prípravu liečivých prípravkov, alebo\nc) vedúci oddelenia kontroly liečiv a prípravy skúmadiel, prípadne lekárnik-kvalitár na pracovisku kontroly liečiv.\n(3) Kvalifikačné predpoklady pracovníkov lekárenskej služby, ich ďalšie vzdelávanie a odborné riadenie ich činnosti upravujú osobitné predpisy.12)"
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Rozbory a unifikácia receptúry",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Lekárenská služba vykonáva rozbory receptúry za účelom získania podkladov pre možné presuny prípravy individuálne pripravovaných liekov do zariadení, v ktorých sa budú pripravovať sústredene v šaržiach.\n(2) Rozborom sa podrobujú lekárske predpisy, žiadanky zdravotníckych zariadení, ostatné požiadavky a podklady o elaborácii. Predmetom rozborov je najmä priemerný počet individuálne pripravovaných liekov, náročnosť prípravy a frekvencia pripravovaných liečiv podľa liekových a aplikačných foriem. Do rozborov sa zahŕňajú činnosti všetkých, prípadne vybraných lekární v okrese podľa sledovaného účelu a rozsahu zamýšľanej sústredenej prípravy. Výsledkom hodnotenia rozborov je unifikácia receptúry na lieky optimálneho zloženia s uplatnením súčasných poznatkov vo farmakoterapii a technológii.\n(3) Unifikované predpisy sa zahŕňajú do súboru receptárov, do ktorých sa vyberajú predpisy s najväčšou početnosťou výskytu a s overenou stabilitou. Receptáre schvaľujú a vydávajú riaditelia ústavov národného zdravia."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Pracovisko so sústredenou prípravou liečiv",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Povolenie na sústredenú prípravu liečiv vydáva riaditeľ príslušného ústavu národného zdravia. Riaditeľ lekárenskej služby určuje pracovisko a rozsah sústredenej prípravy.\n(2) Pri vytvorení podmienok pre sústredenú prípravu a zásobovanie väčších územných celkov sa môžu ústavy národného zdravia dohodnúť na sústredení prípravy liečiv pre zabezpečenie zdravotníckych služieb na území presahujúcom rámec jedného okresu.\n(3) Sústredenie prípravy liečiv nesmie byť na úkor dostupnosti lieku, naopak, musí sledovať skrátenie doby od predloženia lekárskeho predpisu chorým do vydania lieku chorému.\n(4) Pre pracoviská lekárenskej služby určené na sústredenú prípravu liečiv sa vydávajú po prerokovaní s príslušnými krajskými odborníkmi pre odbory galenickej farmácie a farmaceutickej analytiky, prevádzkové poriadky obsahujúce opatrenia na dodržiavanie predpísaných pracovných postupov, kontrolných metodík, pracovného režimu a sanitácie."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Priestory a vybavenie",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Priestory pre sústredenú prípravu liečiv musia vyhovovať účelu, pre ktorý sú zriadené. Pri určovaní potrebných priestorov sa vychádza z príslušných ustanovení typizačných smerníc13) s prihliadnutím na predpokladaný objem a frekvenciu prípravy. Priestorom pre vlastnú prípravu a kontrolu musia kapacitne zodpovedať aj ďalšie prevádzkové priestory, najmä priestory pre uchovávanie liečivých a pomocných látok, hotových prípravkov a obalov.\n(2) Priestory pre sústredenú prípravu liečiv musia umožňovať riadne a účelné umiestnenie prístrojov a zariadení, vylučovať riziko zámeny, znemožňovať vzájomné znečisťovanie, vylučovať porušovanie predpísaných technologických postupov a zaručovať všestrannú ochranu liečiv a pracovníkov. Musia umožňovať ľahké čistenie a dezinfekciu a spĺňať podmienky ochrany čistoty ovzdušia.\n(3) Vybavenie prístrojovou a ostatnou lekárenskou technikou musí spĺňať požiadavky na akosť a bezpečnosť pripravovaných liečiv."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Dokumentácia",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Receptúra na liečivý prípravok je určená Československým liekopisom alebo iným predpisom, prípadne je uvedená v schválenom receptári.\n(2) Pre každé liečivo musí byť vypracovaný technologický predpis, ktorý určuje spôsob prípravy liečiva a rozsah jej kontroly. Obsahuje názov prípravku, aplikačnú formu, zloženie, zariadenie a postup prípravy. Technologický predpis vydáva na návrh vedúceho pracovníka zodpovedného za prípravu liečiv a po schválení krajským odborníkom pre odbor galenickej farmácie riaditeľ lekárenskej služby.\n(3) Súčasťou technologického predpisu je záväzný kontrolný predpis, ktorý obsahuje kontrolné metodiky vrátane podmienok sterility, stanovenie doby použiteľnosti, určenia obalu a náležitostí označenia. Záväzný kontrolný predpis vrátane kontrolných metodík vydáva na návrh vedúceho pracovníka zodpovedného za kontrolu akosti a po schválení krajským odborníkom pre odbor farmaceutickej analytiky riaditeľ lekárenskej služby.\n(4) O sústredenej príprave liečiv sa vedú záznamy, ktoré umožňujú spätné sledovanie všetkých technologických postupov a činností. Obsahujú údaje o použití liečivých a pomocných látok, obaloch, vrátane čísla atestu a množstva, špecifické údaje o príprave, celkovom množstve prípravku, počte balení, údaje o priebežných výrobných kontrolách vrátane čísla prepúšťacieho protokolu, dátum a podpisy zodpovedných pracovníkov."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Príprava liečiv",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Príprava liečiv musí prebiehať v súlade s Československým liekopisom, technickou normou a schváleným technologickým postupom.\n(2) Všetky činnosti pri sústredenej príprave liečiv sa vykonávajú pod stálym dozorom zodpovedných odborných pracovníkov. Pred začatím prípravy musí byť zabezpečená čistota a správna funkcia prístrojov a zariadení, ktoré sa použijú, a nevyhnutné opatrenia proti kontaminácii a zámenám.\n(3) Liečivá v sústredenej príprave sa pripravujú v šaržiach."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Označovanie a balenie",
+      "chapter": "DRUHÁ ČASŤ - VŠEOBECNÉ PODMIENKY SPRÁVNEJ VÝROBNEJ PRAXE > II. ODDIEL - SPRÁVNA VÝROBNÁ PRAX PRI SÚSTREDENEJ PRÍPRAVE LIEČIV V ZARIADENIACH LEKÁRENSKEJ SLUŽBY",
+      "content": "(1) Každé balenie prípravku sa musí náležite označiť. Označenie musí obsahovať v súlade s požiadavkami Československého liekopisu, prípadne ďalších záväzných noriem latinský alebo slovenský názov, pri ostatných prípravkoch zloženie, ďalej šaržu a lehotu použiteľnosti, prípadne exspirácie.\n(2) Údaj o šarži obsahuje číselný znak dňa, mesiaca, roka, prípadne ďalšie orientačné označenie, ak sa v tom istom dni pripraví viacero šarží. Číslo šarže sa musí zhodovať s číslom záznamu o sústredenej príprave (§ 22 ods. 4)."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Predmet kontroly",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Predmetom kontroly sú\na) liečivá,\nb) pomocné látky,\nc) prostriedky zdravotníckej techniky a\nd) prostriedky obalovej techniky."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Orgány a zariadenia pre kontrolu",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Orgánmi a zariadeniami pre kontrolu sú\na) organizácie (§ 2),\nb) Štátny ústav."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Obsah a rozsah kontroly",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Pri kontrole akosti liečiv, pomocných látok, prostriedkov zdravotníckej a obalovej techniky sa overuje\na) zloženie, kompletnosť balenia, označovanie, skladovanie, uchovávanie a úplnosť záznamov o výrobe, príprave a kontrole,\nb) vzhľad, totožnosť, čistota, obsah účinných, prípadne pomocných látok, mikrobiologická nezávadnosť, prípadne sterilita, nepyrogenita, neškodnosť, účinnosť a stabilita.\n(2) Overovanie akosti rádioaktívnych liečiv vrátane dovážaných liečiv upravujú technické normy a Československý liekopis.\n(3) Pri kontrole zloženia, kompletnosti balenia, označovania liečiv, pomocných látok a prostriedkov zdravotníckej a obalovej techniky sa zisťuje, či sa uvádzajú do obehu podľa požiadaviek Československého liekopisu, rozhodnutí o registrácii14) a technických noriem.\n(4) Pri kontrole skladovania a uchovávania sa zisťuje,\na) či skladovanie a uchovávanie sa vykonáva podľa požiadaviek osobitných predpisov,2),10)\nb) či sú vyradené liečivá, pomocné látky, prostriedky zdravotníckej a obalovej techniky, ktoré prekročili exspiráciu alebo lehotu použiteľnosti alebo na vyradenie ktorých dal pokyn príslušný orgán.\n(5) Pri kontrole sa vykonáva aj priebežný dohľad a inšpekcia dodržiavania správnej výrobnej praxe v technologicko-vývojovom, výrobnom a kontrolnom procese, vrátane skladového hospodárstva a pomocných prevádzok."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Spôsob kontroly",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Pri kontrole liečiv, t. j. totožnosti, čistoty, obsahu účinných látok, mikrobiologickej nezávadnosti, sterility, nepyrogenity, neškodnosti, účinnosti a stability sa používajú metódy uvedené v Československom liekopise, zahraničných liekopisoch, registračných dokladoch a technických normách, metódy určené Ministerstvom zdravotníctva Slovenskej republiky alebo Štátnym ústavom.\n(2) Účinnosť liečiva sa po kontrole uskutočnenej metódami uvedenými v odseku 1 s vyhovujúcim výsledkom skúša tiež klinickými metódami,\na) ak povinnosť vykonať skúšanie klinickou metódou ukladá technická norma alebo\nb) ak ju nariadi v mimoriadnych prípadoch Ministerstvo zdravotníctva Slovenskej republiky.\n(3) Skúšanie účinnosti liečiva klinickými metódami vykonávajú pracoviská určené Ministerstvom zdravotníctva Slovenskej republiky.\n(4) Pri nariadení skúšania liečiva klinickými metódami podľa odseku 2 písm. b) určí Ministerstvo zdravotníctva Slovenskej republiky, prípadne ním poverený orgán tiež postup pri vykonávaní kontroly.\n(5) Vyhovujúce výsledky skúšania liečiva klinickými metódami sú nevyhnutnou podmienkou pre prepustenie šarže liečiva, ak to ukladá technická norma alebo ak je to nariadenie podľa odseku 2 písm. b).\n(6) Pri kontrole prostriedkov zdravotníckej a obalovej techniky sa používajú metódy uvedené v registračných dokladoch a technických normách, metódy určené Ministerstvom zdravotníctva Slovenskej republiky alebo Štátnym ústavom."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Súčinnosť pri kontrole",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Vedúci pracovníci vo výrobných a zásobovacích organizáciách, ako aj zariadeniach pre prípravu alebo úpravu a výdaj liečiv, prostriedkov zdravotníckej a obalovej techniky sú povinní poskytnúť pracovníkom vykonávajúcim kontrolu požadovanú súčinnosť, vrátane odovzdania vzoriek liečiv, prostriedkov zdravotníckej a obalovej techniky.\nKontrola vo výrobe"
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Vo výrobe liečiv vykonáva organizácia sústavnú kontrolno-rozborovú činnosť výroby, zisťuje príčiny prípadných závad a navrhuje opatrenia na nápravu.\n(2) Súčasťou kontrolnej činnosti výrobnej organizácie je\na) vypracovávanie písomných pokynov pre skúšanie a analýzu, metodické vedenie priebežnej výrobnej kontroly, vyhodnocovanie záznamov o výrobe šarží,\nb) hodnotenie stability hotových výrobkov, východiskových materiálov a medziproduktov,\nc) navrhovanie dátumov exspirácií a lehoty použiteľnosti liečiv, prípadne aj spôsob ich skladovania na základe výsledkov testov stability,\nd) schvaľovanie vnútropodnikových predpisov pre hygienu a sanitáciu,\ne) prešetrovanie reklamácií na akosť výrobkov, skúmanie ich príčin, evidovanie reklamácií a navrhovanie opatrení na nápravu,\nf) určovanie postupu pri odbere vzoriek a rozsah odberu,\ng) posudzovanie vhodných podmienok pre skladovanie surovín, medziproduktov, nerozplnených produktov a hotových výrobkov, ako aj výrobkov neprepustených, pozastavených, nevyhovujúcich alebo uložených karanténne,\nh) vykonávanie revízií podnikových noriem najmenej raz za päť rokov, uplatňovanie návrhov na zmeny, doplnky, prípadne revíziu štátnych noriem.\n(3) Organizácia zodpovedá za prepustenie alebo neprepustenie skúšaných materiálov a určuje, či akosť surovín, obalov, medziproduktov, nerozplnených produktov a hotových výrobkov zodpovedá Československému liekopisu, zahraničným liekopisom a technickým normám.\n(4) Hotový výrobok sa môže expedovať len na základe výsledkov kontrol, ktoré potvrdzujú jeho vyhovujúcu akosť. Prepúšťacia dokumentácia hotového výrobku obsahuje vyhodnotenie výrobných podmienok, výsledky priebežných výrobných kontrol, preverenie výrobnej dokumentácie, výsledky medzioperačných a výstupných kontrol a posúdenie hotového konečného balenia."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Akosť výrobkov sa kontroluje v rámci vstupnej, medzioperačnej a výstupnej technickej kontroly akosti.\n(2) Úlohou technickej kontroly je\na) kontrolovať každú šaržu východiskových surovín a obalov pre výrobu a prepúšťať šaržu na spracovanie na základe vyhovujúcich výsledkov,\nb) kontrolovať medziprodukty v rozsahu potrebnom z hľadiska akosti konečného výrobku,\nc) kontrolovať každú šaržu výrobku v určenom rozsahu, vypracovávať na základe vyhovujúcich výsledkov kontroly protokoly a predkladať ich ako súčasť podkladov pre prepustenie šarže,\nd) viesť o vykonaní každej kontroly záznamy a spísať o nej protokol.\n(3) Vystavené prepúšťacie doklady východiskových látok nesmú byť staršie ako päť rokov. Pre výrobu parenterálnych liečiv nesmú byť doklady o prepustení staršie ako dva roky. Ak uplynie táto doba, možno po preskúšaní vystaviť nový protokol (atest), ak všetky kontrolné skúšky preukážu vyhovujúcu akosť. Použiteľnosť východiskových látok na základe nového protokolu (atestu) musí byť časovo obmedzená.\n(4) Technická kontrola musí pri chemických a fyzikálno-chemických skúškach vychádzať, ak nie je určené inak, minimálne z dvoch navážok, prípadne z dvoch vzájomne sa overujúcich stanovení. Pri iných skúškach je povinná vychádzať minimálne z dvoch súbežne vykonaných kontrolných stanovení.\n(5) Protokol musí obsahovať poradové číslo, dátum vyhotovenia, názov kontrolovaného materiálu, číslo výrobnej šarže, prípadne iné identifikačné označenie, ďalej všetky zistené údaje, výsledky kontroly s uvedením príslušnej technickej normy (predpisu), podľa ktorej bol kontrolovaný výrobok skúšaný, podpis pracovníka, ktorý kontrolu vykonal, a podpis zodpovedného pracovníka.\n(6) Výrobná organizácia je povinná uchovávať protokoly o kontrole šesť rokov, referenčné vzorky hotových výrobkov expedovaných odberateľovi podľa stanovených podmienok najmenej po dobu jedného roku od uplynutia exspirácie alebo lehoty použiteľnosti v množstve potrebnom na vykonanie najmenej dvoch úplných analýz."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Kontrola v zásobovaní",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Organizácia, ktorá preberá, skladuje a expeduje hromadne vyrábané liečivé prípravky, diagnostické prípravky a prostriedky zdravotníckej a obalovej techniky, je povinná vykonávať senzorickú kontrolu výrobkov, a to nielen pri ich preberaní, ale aj v priebehu skladovania. Výber vzoriek sa vykonáva náhodne z každej šarže. V prípade podozrenia na nevyhovujúcu akosť je organizácia povinná zabezpečiť preskúšanie a overenie akosti.\n(2) Zásobovacia organizácia, ktorá rozvažuje, rozplňuje, vyrába, balí a označuje liečivá, je povinná zabezpečiť ich kontrolu a prepustenie podľa § 30 a 31.\n(3) Organizácia môže dodávať len účinné a pomocné látky, ktoré boli kontrolované a uznané za vyhovujúce. Každé jednotlivé balenie účinných a pomocných látok musí mať náležité označenie, číslo šarže a číslo atestu technickej kontroly, kontrolného laboratória alebo Štátneho ústavu.\n(4) Protokol o kontrole prípravkov vyrobených vo výrobniach infúznych roztokov alebo liečivých prípravkov je organizácia povinná uchovávať tri roky a referenčné vzorky prípravkov vyrobených vo výrobniach infúznych roztokov alebo liečivých prípravkov je organizácia povinná uchovávať dva mesiace od uplynutia lehoty použiteľnosti (exspirácie).\n(5) Každý skúšobný protokol vystavený na účinné a pomocné látky je organizácia povinná uchovávať najmenej päť rokov.\n(6) Atest vystavený zásobovacou organizáciou platí ako vstupné a výstupné overenie akosti na území Slovenskej republiky.\nKontrola v laboratóriách pre kontrolu liečiv"
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Laboratórium pre kontrolu liečiv (ďalej len „laboratórium“)\na) vykonáva kontrolu liečiv dodávaných lekárenskej službe a ďalším zariadeniam liečebno-preventívnej starostlivosti, hromadne vyrábané liečivé prípravky kontroluje v rozsahu určenom Ministerstvom zdravotníctva Slovenskej republiky,\nb) vykonáva náhodnú kontrolu liečiv a diagnostík pripravovaných a uchovávaných v lekárenskej službe do zásoby a liekov pripravovaných podľa lekárskeho predpisu a predpisu veterinárneho lekára, kontroluje ich uchovávanie, sleduje ich akosť, vedie evidenciu zistených závad a navrhuje opatrenia na ich odstránenie,\nc) vykonáva náhodnú kontrolu liečiv v zariadeniach liečebno-preventívnej starostlivosti a dohliada na ich správne uchovávanie,\nd) vykonáva poradenskú činnosť pre lekárenskú službu v otázkach akosti liečiv,\ne) vykonáva náhodnú kontrolu dodržiavania hygienického režimu v lekárenskej službe,\nf) metodicky vedie odbornú činnosť pracovníkov kontroly, vykonáva inštruktáže a školenia,\ng) podieľa sa na príprave technických noriem, kontrolných metód a Československého liekopisu a na riešení výskumných úloh."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) O každej kontrole vykonanej laboratóriom sa musí napísať skúšobný protokol (ďalej len „protokol“) a vystaviť atest. Protokol podpisuje vedúci laboratória alebo jeho zástupca a pracovník vykonávajúci kontrolu, atest podpisuje vedúci laboratória. Protokol musí obsahovať meno výrobcu, označenie pracoviska sústredenej prípravy, prípadne meno toho, kto liek pripravoval, meno osoby, ktorá odobrala vzorku, a dátum odberu vzorky, názov a zloženie lieku, pri sústredenej príprave číslo šarže a veľkosť šarže, prípadne dátum prípravy a odvolávku na skúšobný predpis (ČsL, ČSN a pod.) a všetky náležitosti podľa tejto vyhlášky. Laboratórium je povinné uchovávať skúšobný protokol najmenej päť rokov, vzorky účinných a pomocných látok jeden rok od vykonanej kontroly, vzorky liečiv s určenou lehotou použiteľnosti najmenej dva mesiace od jej uplynutia a vzorky liekov pripravovaných podľa predpisu lekára najmenej tri mesiace od vykonanej kontroly.\n(2) Vystavený atest účinných a pomocných látok nesmie byť starší ako päť rokov s výnimkou účinných a pomocných látok určených pre parenterálne použitie, kde nesmie byť starší ako dva roky. Po uplynutí tejto lehoty môže byť vystavený laboratóriom nový atest len po novom overení akosti. Platnosť nového atestu musí byť pri obmedzenej stabilite časovo ohraničená.\n(3) Atest vystavený kontrolným laboratóriom platí na území Slovenskej republiky ako vstupné a výstupné overenie akosti."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Kontrola v ostatných zariadeniach lekárenskej služby",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Na prípravu liekov v lekárenskej službe sa môžu používať len liečivá a pomocné látky, ktorých akosť bola prekontrolovaná a uznaná za vyhovujúcu.\n(2) Každé zariadenie lekárenskej služby musí overiť vzhľad a totožnosť pri účinných a pomocných látkach a liečivých prípravkoch určených na prípravu liekov, a to pri každom balení pred jeho uložením. Pri každej šarži účinnej a pomocnej látky, ktorá je určená na prípravu liekov pre parenterálne použitie, sa musí vykonať skúška na čistotu a stanovenie obsahu, prípadne skúška na mikrobiologickú čistotu a nepyrogenitu. Všetky balenia, ktoré prešli vstupnou kontrolou, musia byť označené údajom o vlastnom overení.\n(3) Každé balenie účinnej a pomocnej látky určenej na prípravu liekov pre parenterálne použitie musí byť preskúšané v lekárni na totožnosť a vzhľad.\n(4) Pri liečivách pripravovaných zariadením lekárenskej služby sústredene sa vykonáva kontrola v oddelení kontroly liečiv a prípravy skúmadiel alebo na pracovisku kontroly liečiv pri každej šarži v rozsahu stanovenom Československým liekopisom, technickou normou alebo záväzným kontrolným predpisom. Vedúci pracovník zodpovedný za kontrolu pripravených liečiv zodpovedá za prepustenie alebo neprepustenie šarže liečiva. Z každej pripravenej šarže sa musí uchovávať referenčná vzorka v množstve potrebnom pre dve opakované analýzy. Referenčné vzorky je potrebné uchovávať dva mesiace po uplynutí lehoty použiteľnosti.\n(5) Pri liekoch pripravených zariadením lekárenskej služby individuálne sa vykonáva náhodná kontrola v laboratóriách alebo v oddelení kontroly liečiv a prípravy skúmadiel, prípadne ju vykonáva na pracovisku kontroly liečiv lekárnik-kvalitár.\n(6) V každom zariadení lekárenskej služby sa vykonáva kontrola označovania a uchovávania liečiv. Lekárenská služba je rovnako povinná náhodne overovať alebo zabezpečovať overovanie akosti uchovávaných liečiv.\n(7) V prípadoch, keď sú liečivá dodávané lekárenskej službe inými dodávateľmi ako zásobovacou organizáciou bez platného atestu, je lekárenská služba povinná preskúšať alebo zabezpečiť preskúšanie akosti preberaných liečiv.\n(8) O vykonanej kontrole liečiv pripravených sústredene sa vypracováva protokol (§ 34) a pri individuálne pripravených liekoch je zariadenie lekárenskej služby povinné napísať záznam, ktorý obsahuje\na) dátum vykonania skúšky,\nb) označenie (názov), prípadne predpísané zloženie liečiva, celkové kontrolované množstvo (počet balení), meno dodávateľa alebo meno toho, kto liek pripravoval, a dátum prípravy liečiva,\nc) výsledok skúšky,\nd) podpis skúšajúceho.\n(9) Protokoly a záznamy o vykonanej kontrole sa uchovávajú tri roky.\n(10) Lekárnik, ktorý liek vydáva, ho pred vydaním identifikuje makroskopicky, pričom sa hlavne presvedčí o liekovej forme, celkovom množstve, charakteristických znakoch a o lehote použiteľnosti, pokiaľ je uvedená.\n(11) Ak zariadenie lekárenskej služby pripravuje zásobné roztoky a triturácie obsahujúce veľmi silne a silne účinné liečivá, musí zabezpečiť overenie ich akosti.\nDohľad a inšpekcia správnej výrobnej praxe"
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Dohľad a inšpekciu správnej výrobnej praxe vykonávajú\na) organizácie,\nb) Ministerstvo zdravotníctva Slovenskej republiky.\n(2) Vrcholným orgánom dohľadu a inšpekcie správnej výrobnej praxe na území Slovenskej republiky pri humánnych liečivách je Ministerstvo zdravotníctva Slovenskej republiky, ktoré zabezpečuje výkon dohľadu a inšpekcie a vydávanie osvedčenia o akosti pre zahraničný obchod prostredníctvom Štátneho ústavu."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Organizácie sú povinné ustanoviť podľa podmienok, druhu a rozsahu činnosti organizácie inšpektora alebo inšpekčné skupiny správnej výrobnej praxe zložené z kvalifikovaných pracovníkov (ďalej len „inšpektori“) podriadených vedúcemu (riaditeľovi) organizácie, vytvoriť im podmienky pre činnosť a pomáhať im pri plnení ich úloh."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Inšpektori Štátneho ústavu sú oprávnení\na) vstúpiť a vykonávať prehliadky na pozemkoch, v budovách, dopravných prostriedkoch a všetkých zariadeniach, ktoré slúžia pre výrobu, kontrolu a skladovanie liečiv, pomocných látok a prostriedkov zdravotníckej a obalovej techniky,\nb) požadovať od pracovníkov kontrolovaných organizácií, aby im boli predložené podklady o výrobe, nazerať do podkladov o výrobe, kontrole, pôvode, skladovaní, uchovávaní, balení a distribúcii liečiv, nazerať do odborných propagačných a informačných materiálov. Z týchto podkladov si inšpektori môžu urobiť odpisy, výpisy, fotokópie, môžu požiadať o vydanie originálnych dokladov. Môžu zhotovovať fotografické snímky za účelom dokumentácie preverovanej situácie,\nc) prizvať k výkonu dohľadu a inšpekcie správnej výrobnej praxe ďalších odborníkov,\nd) vyžadovať od organizácie všetky potrebné informácie,\ne) spolupracovať s orgánmi hygienickej služby v konaniach o vydávaní záväzných posudkov15) pri vykonávaní dozoru16) a ďalej v otázkach hygieny a sanitácie výrobných priestorov a zariadení,\nf) požadovať podľa vlastného výberu vzorky prostriedkov zdravotníckej techniky alebo ich častí, vzorky liečiv, ich medziproduktov, pomocných látok, východiskových surovín a obalových materiálov, prípadne vzorky odobrať,\ng) používať laboratóriá kontrolovaných organizácií a ich zariadení.\n(2) Inšpektori Štátneho ústavu a organizácie sú povinní\na) vykonávať dohľad a inšpekciu správnej výrobnej praxe podľa svojich odborných znalostí, efektívne a hospodárne so snahou o maximálnu objektivitu a odhalenie príčin zistených nedostatkov a ich odstránení.\nb) písomne upozorňovať na nevyhnutnosť vykonať neodkladné opatrenia na odstránenie zistených nedostatkov a kontrolovať ich plnenie,\nc) zastaviť výrobu a expedíciu výrobkov, ak boli závažným spôsobom porušené ustanovenia tejto vyhlášky, najmä pri vzniku\n1. nebezpečenstva kontaminácie účinnými látkami\n2. veľkého rizika výskytu zámeny alebo\n3. iného ohrozenia zdravia."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Štátny ústav",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Štátny ústav zabezpečuje v odbore lekárskych vied, farmaceutických vied a zdravotníctva v súlade s plánom výskumu vedeckovýskumnú a kontrolnú činnosť hodnotenia bezpečnosti, účinnosti a akosti liečiv, pomocných látok, prostriedkov zdravotníckej a obalovej techniky a vykonáva hlavnú odbornú kontrolu liečiv vrátane dohľadu a inšpekcie správnej výrobnej praxe.\nKontrola dovážaných liečiv"
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Kontrolu dovážaných liečiv vykonávajú\na) pri liečivách určených na spracovanie v organizáciách farmaceutického priemyslu organizácia, ktorá liečivá od dovozcu preberá,\nb) pri liečivách určených na spracovanie v lekárenskej službe a zásobovacích organizáciách Štátny ústav v spolupráci s kontrolnými laboratóriami, prípadne laboratóriá pri liečivách určených Ministerstvom zdravotníctva Slovenskej republiky,\nc) pri hromadne vyrábaných liečivých prípravkoch Štátny ústav.\n(2) Pri liečivách dovezených od výrobcov dodržiavajúcich správnu výrobnú prax môže byť pravidelná kontrola nahradená osvedčením o akosti liečiva vystaveným orgánmi kontrolujúcimi dodržiavanie správnej výrobnej praxe v krajine exportujúceho výrobcu. Osvedčenie o akosti posudzuje Štátny ústav."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Kontrole podlieha každá šarža dovezeného liečiva po dobu dvoch rokov od začiatku dovozu. Rozsah kontroly po uplynutí tohto času určí Štátny ústav. Pri liečivách dovážaných na základe členstva v medzinárodnom certifikačnom systéme sa postupuje v súlade s týmto systémom.\n(2) Zásobovacia organizácia je povinná dodať potrebné množstvo vzoriek na vykonanie príslušných kontrolných skúšok.\n(3) Pri neregistrovaných hromadne vyrábaných liečivých prípravkoch určuje požiadavky na akosť Štátny ústav pred uskutočnením dovozu.\n(4) Štátny ústav je povinný v prípadoch, v ktorých vykonal kontrolu dovezených liečiv, oznámiť jej výsledok zásobovacej organizácii."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Povinnosť vykonávať kontrolu dovážaných liečiv sa nevzťahuje na\na) registrované liečivá dovezené v množstve, ktoré nepresahuje pri tabletách, dražé a tobolkách 5000 kusov, pri injekciách 500 kusov, pri čapíkoch, tekutých liekových formách, mastiach a zásypoch 500 balení,\nb) jednotlivé darčekové zásielky liekov zo zahraničia priamo na adresu chorého,\nc) liečivá dovezené ako vzorky výhradne pre potrebu vedeckých, výskumných a kontrolných ústavov alebo zariadení liečebno-preventívnej starostlivosti v rámci predklinického a klinického skúšania liečiv."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Kontrola vyvážaných liečiv",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Pri vyvážaných liečivách a prostriedkoch zdravotníckej techniky vydáva atest výrobná organizácia.\n(2) Výrobná organizácia je povinná dodať vývozcovi požadovanú sprievodnú dokumentáciu i protokol o kontrole, vopred hlásiť každú zmenu zloženia, balenia, označenia, úpravy alebo podobné zmeny a vyžiadať si k nim súhlas vývozcu.\n(3) Okrem dokumentácie uvedenej v odseku 2 odovzdáva výrobná organizácia na žiadosť vývozcu i osvedčenie o akosti liečiva alebo prostriedkov zdravotníckej techniky vydané Štátnym ústavom alebo osvedčenie o akosti šarže liečiva alebo prostriedkov zdravotníckej techniky určené pre zahraničného odberateľa."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Osvedčovanie akosti liečiv a prostriedkov zdravotníckej techniky pre zahraničný obchod",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "(1) Osvedčenie o akosti liečiva a prostriedkov zdravotníckej techniky je záväznou zdravotníckou požiadavkou17) a potvrdzuje pre účely zahraničného obchodu, že\na) liečivo alebo prostriedky zdravotníckej techniky sú vyrobené v organizácii, ktorá je povinná dodržiavať správnu výrobnú prax a ktorá podlieha dohľadu a inšpekcii správnej výrobnej praxe podľa tejto vyhlášky,\nb) liečivo alebo prostriedky zdravotníckej techniky sú v Českej a Slovenskej Federatívnej Republike registrované, distribuované a používané, prípadne odôvodňuje, prečo distribuované a používané nie sú.\n(2) Podkladom pre vydanie osvedčenia o akosti liečiva alebo prostriedkov zdravotníckej techniky sú\na) výsledky dohliadacej a inšpekčnej činnosti Štátneho ústavu zamerané na dodržiavanie správnej výrobnej praxe vo výrobných organizáciách,\nb) posudok inšpektora výrobnej organizácie o splnení podmienok správnej výrobnej praxe pri výrobe a kontrole liečiva alebo prostriedkov zdravotníckej techniky.\n(3) Osvedčenie o akosti šarže vydáva Štátny ústav alebo z jeho poverenia organizácia, ak\na) Štátny ústav vydal osvedčenie o akosti platné pre príslušné liečivo alebo pre prostriedok zdravotníckej techniky,\nb) inšpektor výrobnej organizácie vydal posudok o plnení podmienok správnej výrobnej praxe pri výrobe a kontrole šarže,\nc) príslušný orgán štátu, do ktorého sa vývoz uskutočňuje, vyžaduje vydanie osvedčenia o akosti pre šaržu.\n(4) Osvedčovanie akosti liečiv a prostriedkov zdravotníckej techniky vykonávané podľa tejto vyhlášky nevylučuje možnosť vykonávania certifikácie výrobkov podľa osobitných predpisov18) príslušnými štátnymi skúšobňami."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Náklady na kontrolu liečiv",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Náklady na kontrolu liečiv, ktorú vykonáva Štátny ústav a kontrolné laboratóriá, sa hradia takto\na) náklady na kontrolu liečiv, ktoré podliehajú povinnej kontrole Štátneho ústavu, sú súčasťou ceny výrobku a hradí ich výrobná organizácia,\nb) náklady na kontrolu dovážaných liečiv vrátane vzoriek hradí zásobovacia organizácia, náklady na kontrolu vyvážaných liečiv hradí výrobná organizácia,\nc) náklady spojené s odberom vzoriek, s vykonávaním rozborov a cenu odobratých vzoriek hradí ten, kto o vykonanie kontroly požiadal,\nd) náklady spojené s kontrolou liečiv, ktoré sa museli preskúšať na základe upozornenia zdravotníckych organizácií na nežiadúce účinky po aplikácii, hradí dodávateľ alebo výrobca, a to len vtedy, keď sa zistilo, že liečivá sú nevyhovujúce,\ne) pri náhodnom odbere vzoriek hradí ich cenu kontrolované zariadenie s výnimkou vzoriek hromadne vyrábaných liečivých prípravkov odobratých v zásobovacej organizácii, ktorých ceny hradí výrobná organizácia, ak ide o hromadne vyrábané liečivé prípravky v záručnej dobe,\nf) úhrada za práce vyplývajúce z náhodnej kontroly Štátneho ústavu alebo kontrolného laboratória sa nepožaduje, s výnimkou hromadne vyrábaných liečivých prípravkov v záručnej dobe v prípade nálezu s nevyhovujúcim výsledkom, kedy náklady hradí dodávateľ (výrobca),\ng) náklady na skúšky a hodnoty odobratých vzoriek v prípade oprávnenej reklamácie odberateľa hradí dodávateľ (výrobca)."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46 Kontrola v odboroch pôsobnosti Federálneho ministerstva obrany, Federálneho ministerstva vnútra a Ministerstva vnútra Slovenskej republiky",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Kontrola liečiv, prostriedkov zdravotníckej a obalovej techniky v zariadeniach Federálneho ministerstva obrany, Federálneho ministerstva vnútra a Ministerstva vnútra Slovenskej republiky sa riadi osobitnými predpismi. Štátny ústav vykonáva vrcholnú odbornú kontrolu takýchto liečiv, prostriedkov zdravotníckej a obalovej techniky len na žiadosť príslušného orgánu Federálneho ministerstva obrany, Federálneho ministerstva vnútra a Ministerstva vnútra Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Platnosť atestov vydaných v Českej republike",
+      "chapter": "TRETIA ČASŤ - KONTROLA LIEČIV, POMOCNÝCH LÁTOK, PROSTRIEDKOV ZDRAVOTNÍCKEJ A OBALOVEJ TECHNIKY",
+      "content": "Atesty vystavené na liečivá, prostriedky zdravotníckej a obalovej techniky a na pomocné látky kontrolnými laboratóriami alebo Štátnym ústavom pre kontrolu liečiv Českej republiky platia aj na území Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Zrušovacie ustanovenie",
+      "chapter": "ŠTVRTÁ ČASŤ - ZÁVEREČNÉ USTANOVENIA",
+      "content": "Zrušuje sa úprava Ministerstva zdravotníctva Slovenskej socialistickej republiky zo 17. 2. 1975 č. Z-9417/1974-C/3 o kontrole liečiv, registrovaná v čiastke 22/1975 Zb. (uverejnená pod č. 1/1975 Vestníka Ministerstva zdravotníctva Slovenskej socialistickej republiky)."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Účinnosť",
+      "chapter": "ŠTVRTÁ ČASŤ - ZÁVEREČNÉ USTANOVENIA",
+      "content": "Táto vyhláška nadobúda účinnosť dňom vyhlásenia.\n1) Touto vyhláškou sú transformované do čs. právneho poriadku Zásady správnej výrobnej praxe vo výrobe a riadení akosti liečiv prijaté dokumentom Svetového zdravotníckeho zhromaždenia 28. 65 v roku 1975.\n2) Československý liekopis - štvrté vydanie, ktorého záväznosť v Slovenskej republike je ustanovená vyhláškou Ministerstva zdravotníctva SR č. 32/1987 Zb.\n3) Vyhláška Ministerstva zdravotníctva SSR č. 79/1981 Zb. o zdravotníckych pracovníkoch a iných odborných pracovníkoch v zdravotníctve.\n4) § 141 Zákonníka práce.\n5) Zákon č. 35/1962 Zb. o mierovej službe v znení zákona č. 57/1975 Zb. a predpisov vydaných na jeho vykonanie.\n6) Zákon č. 96/1964 Zb., o technickej normalizácii.\nVyhláška Úradu pre normalizáciu a meranie č. 97/1964 Zb., ktorou sa vykonáva zákon o technickej normalizácii.\n7) ČSN 86 2002 Stabilita liečiv - Základné ustanovenia.\n8) Vyhláška Ministerstva zdravotníctva SSR č. 72/1987 Zb. o registrácii hromadne vyrábaných liečivých prípravkov.\n§ 62 ods. 1 a § 71 ods. 2 písm. c) zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.\n9) § 62 ods. 1 zákona č. 20/1966 Zb.\n10) ON 86 2000 Hromadne vyrábané liečivé prípravky.\n11) § 20 vyhlášky Ministerstva zdravotníctva SSR č. 19/1975 Zb. o sústave zdravotníckych zariadení.\n12) Úprava Ministerstva zdravotníctva SSR z 28. 8. 1980 č. Z-6300/1980-C/4 o platových pomeroch zdravotníckych pracovníkov, registrovaná v čiastke 2/1981 Zb. (uverejnená pod č. 5/1980 Vestníka MZ SSR), v znení úpravy z 21. 4. 1983 č. Z-1291/1983-C/4, registrovanej v čiastke 3/1984 Zb. (uverejnenej pod č. 18/1983 Vestníka MZ SSR), úpravy z 21. 9. 1983 č. Z-5884/1983-C/4, registrovanej v čiastke 3/1984 Zb. (uverejnenej pod č. 20/1983 Vestníka MZ SSR), úpravy z 20. 11. 1984 č. Z-8938/1984-C/4, registrovanej v čiastke 10/1985 Zb. (uverejnenej pod č. 29/1984 Vestníka MZ SSR), a výnosu z 28. 12. 1988 č. 4774/1988-C/4, registrovaného v čiastke 10/1988 Zb. (uverejneného pod č. 15/1988 Vestníka MZSV SSR).\n13) Typizačné smernice pre zdravotnícke stavby — lekárne a vysunuté pracoviská lekární.\n14) § 6 vyhlášky Ministerstva zdravotníctva SSR č. 72/1987 Zb.\n15) § 4 zákona č. 20/1966 Zb.\n16) § 71 ods. 2 písm. d) zákona č. 20/1966 Zb.\n17) § 70 ods. 1 písm. b) zákona č. 20/1966 Zb.\n18) § 24a až 24d zákona č. 30/1968 Zb. o štátnom skúšobníctve v znení zákona č. 54/1987 Zb."
+    }
+  ],
+  "definitions": []
+}

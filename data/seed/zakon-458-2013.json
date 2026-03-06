@@ -1,0 +1,33 @@
+{
+  "id": "cz:458/2013",
+  "type": "statute",
+  "title": "458/2013 Sb., Nařízení vlády o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech",
+  "title_en": "",
+  "short_name": "458/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-12-31",
+  "in_force_date": "2021-05-18",
+  "url": "https://www.e-sbirka.cz/sb/2013/458",
+  "description": "Nařízení vlády o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Seznam výchozích a pomocných látek a jejich roční množstevní limity jsou uvedeny v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení bylo oznámeno v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, v platném znění."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2014.\nPříloha k nařízení vlády č. 458/2013 Sb.\nSeznam výchozích a pomocných látek a jejich roční množstevní limity\nVýchozí nebo pomocná látkaČíslo CASRoční limitní množství (kg)\n1,4-Butandiol110-63-40\nGama-butyrolakton96-48-00"
+    }
+  ],
+  "definitions": []
+}

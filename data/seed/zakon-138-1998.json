@@ -1,0 +1,39 @@
+{
+  "id": "cz:138/1998",
+  "type": "statute",
+  "title": "138/1998 Sb., Nařízení vlády o ochraně ústavních činitelů České republiky",
+  "title_en": "",
+  "short_name": "138/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-06-25",
+  "in_force_date": "2005-01-13",
+  "url": "https://www.e-sbirka.cz/sb/1998/138",
+  "description": "Nařízení vlády o ochraně ústavních činitelů České republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Trvalá ochrana se poskytuje ústavnímu činiteli České republiky, který vykonává ústavní funkci:\na) prezidenta republiky,\nb) předsedy Poslanecké sněmovny,\nc) předsedy Senátu,\nd) předsedy vlády.\n(2) Trvalá ochrana se poskytuje rovněž těmto členům vlády:\na) ministru zahraničních věcí,\nb) ministru vnitra,\nc) ministru spravedlnosti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Ministr vnitra stanoví rozsah ochrany ústavního činitele České republiky v závislosti na bezpečnostní situaci a možné míře jeho ohrožení.\n(2) Ochranou podle odstavce 1 se rozumí bezpečnostní opatření prováděná Policií České republiky k zajištění nerušeného výkonu funkce ústavního činitele České republiky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ochranou podle odstavce 1",
+      "definition": "bezpečnostní opatření prováděná Policií České republiky k zajištění nerušeného výkonu funkce ústavního činitele České republiky",
+      "source_provision": "§ 2"
+    }
+  ]
+}

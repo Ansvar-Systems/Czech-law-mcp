@@ -1,0 +1,87 @@
+{
+  "id": "cz:525/2005",
+  "type": "statute",
+  "title": "525/2005 Sb., Vyhláška o provádění certifikace při zabezpečování kryptografické ochrany utajovaných informací",
+  "title_en": "",
+  "short_name": "525/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-12-29",
+  "in_force_date": "2012-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/525",
+  "description": "Vyhláška o provádění certifikace při zabezpečování kryptografické ochrany utajovaných informací",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Náležitosti žádosti o certifikaci kryptografického prostředku",
+      "content": "(K § 49 odst. 1 zákona)\n(1) Žádost o certifikaci kryptografického prostředku obsahuje\na) identifikaci žadatele\n1. obchodní firmou, popřípadě názvem, sídlem a identifikačním číslem, je-li žadatelem právnická osoba,\n2. obchodní firmou, popřípadě jménem a příjmením, případně odlišujícím dodatkem, trvalým pobytem a místem podnikání, liší-li se od trvalého pobytu, datem narození a identifikačním číslem, je-li žadatelem fyzická osoba, která je podnikatelem, nebo\n3. názvem, sídlem, identifikačním číslem a jménem a příjmením odpovědné osoby, jde-li o orgán státu,\nb) jméno a příjmení kontaktního zaměstnance žadatele a kontaktní spojení na něj,\nc) číslo platného osvědčení podnikatele a stupeň utajení utajované informace, pro přístup k níž osvědčení podnikatele opravňuje, je-li žadatelem podnikatel,\nd) obchodní název a úplné typové označení kryptografického prostředku,\ne) určení kryptografického prostředku (účel užití a stupeň utajení, pro který má být kryptografický prostředek používán),\nf) obchodní firmu, sídlo či místo podnikání výrobce kryptografického prostředku,\ng) způsob zajištění výroby a distribuce klíčového materiálu.\n(2) K certifikaci kryptografického prostředku Evropské unie nebo některého jejího členského státu anebo Organizace Severoatlantické smlouvy, který je určen k ochraně utajovaných informací, žadatel předkládá žádost podle odstavce 1 a kopii certifikátu nebo obdobného dokumentu vydaného certifikačním orgánem Evropské unie nebo příslušným národním certifikačním orgánem jejího členského státu anebo Organizací Severoatlantické smlouvy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Náležitosti žádosti o certifikaci kryptografického pracoviště",
+      "content": "(K § 50 odst. 1 zákona)\nŽádost o certifikaci kryptografického pracoviště obsahuje\na) identifikaci žadatele podle § 1 odst. 1 písm. a),\nb) jméno a příjmení kontaktního zaměstnance žadatele a kontaktní spojení na něj,\nc) číslo platného osvědčení podnikatele a stupeň utajení utajované informace, pro přístup k níž osvědčení podnikatele opravňuje, je-li žadatelem podnikatel,\nd) identifikaci kryptografického pracoviště (název, adresa a umístění),\ne) určení kryptografického pracoviště (účel užití),\nf) určení kategorie kryptografického pracoviště podle vyhlášky o zajištění kryptografické ochrany utajovaných informací3),\ng) seznam přikládané dokumentace nezbytné k provedení certifikace kryptografického pracoviště."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Náležitosti opakované žádosti o certifikaci kryptografického prostředku",
+      "content": "(K § 49 zákona)\nOpakovaná žádost o certifikaci kryptografického prostředku obsahuje\na) identifikaci žadatele podle § 1 odst. 1 písm. a),\nb) úplnou identifikaci vydaného certifikátu (držitel certifikátu, evidenční číslo, datum vydání, doba platnosti),\nc) identifikaci certifikovaného kryptografického prostředku (obchodní název, typové označení, variantní provedení, určení, název a sídlo výrobce kryptografického prostředku),\nd) jméno a příjmení kontaktního zaměstnance žadatele a kontaktní spojení na něj,\ne) odůvodnění opakované žádosti."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Náležitosti opakované žádosti o certifikaci kryptografického pracoviště",
+      "content": "(K § 50 zákona)\nOpakovaná žádost o certifikaci kryptografického pracoviště obsahuje\na) identifikaci žadatele podle § 1 odst. 1 písm. a),\nb) úplnou identifikaci vydaného certifikátu (držitel certifikátu, evidenční číslo, název kryptografického pracoviště, datum vydání, doba platnosti),\nc) identifikaci kryptografického pracoviště (podrobná specifikace určení a umístění pracoviště),\nd) odůvodnění opakované žádosti."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Dokumentace nezbytná k provedení certifikace kryptografického prostředku",
+      "content": "(K § 49 zákona)\n(1) K provedení certifikace kryptografického prostředku se v jejím průběhu předkládá kryptografický prostředek, dokumentace a ostatní podklady nezbytné pro její provedení.\n(2) Seznam dokumentace a ostatních podkladů, jejich formu a obsah stanovuje bezpečnostní standard, který Národní bezpečnostní Úřad (dále jen „Úřad“) poskytne žadateli. Časový plán předložení dokumentace a ostatních podkladů nezbytných pro provedení certifikace poskytne Úřad žadateli.\n(3) Pro provedení certifikace kryptografického prostředku je zejména požadována dokumentace obsahující\na) určení a vymezení způsobu použití kryptografického prostředku,\nb) typ uživatelského prostředí a systémové začlenění kryptografického prostředku,\nc) technický popis a návod k obsluze kryptografického prostředku,\nd) požadavky na instalaci a testování kryptografického prostředku,\ne) platná osvědčení kryptografického prostředku nebo již vydané certifikáty,\nf) popis řešení a struktury použitých kryptografických klíčů,\ng) blokové schéma a popis kryptografického prostředku s vyznačením součinnostních vazeb jednotlivých jeho částí.\n(4) Úřad po skončení certifikace vrátí navrhovateli poskytnutý kryptografický prostředek, technické prostředky, materiály a originální technickou dokumentaci kryptografického prostředku. Ostatní podklady předložené k certifikaci se žadateli o certifikaci nevracejí."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Dokumentace nezbytná k provedení certifikace kryptografického pracoviště",
+      "content": "(K § 50 zákona)\n(1) K žádosti o certifikaci kryptografického pracoviště se přikládá\na) dokumentace zabezpečení fyzické bezpečnosti kryptografického pracoviště, v rozsahu stanoveném ve zvláštním právním předpisu1),\nb) dokumentace provozně-bezpečnostního zabezpečení kryptografického pracoviště,\nc) prohlášení odpovědné osoby nebo jí pověřené osoby o splnění požadavků na fyzickou a personální bezpečnost kryptografického pracoviště.\n(2) Dokumentace přiložená k žádosti o certifikaci a případně další vyžádané doplňující podklady potřebné k provedení certifikace se žadateli nevracejí."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Vzor certifikátu kryptografického prostředku a obsah certifikační zprávy",
+      "content": "(K § 46 odst. 7 a 13 zákona)\n(1) Vzor certifikátu kryptografického prostředku je uveden v příloze č. 1 k této vyhlášce.\n(2) Přílohou certifikátu kryptografického prostředku je certifikační zpráva, která obsahuje\na) požadavky na výrobu, dopravu a servis kryptografického prostředku,\nb) specifikaci kryptografického prostředku,\nc) výsledky certifikačního řízení,\nd) ekvivalentní hodnotu parametru S1 podle zvláštního právního předpisu1),\ne) podmínky provozování kryptografického prostředku,\nf) případná omezení podmiňující platnost certifikátu kryptografického prostředku."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Vzor certifikátu kryptografického pracoviště a obsah certifikační zprávy",
+      "content": "(K § 46 odst. 8 a 13 zákona)\n(1) Vzor certifikátu kryptografického pracoviště je uveden v příloze č. 2 k této vyhlášce.\n(2) Přílohou certifikátu kryptografického pracoviště je certifikační zpráva, která obsahuje\na) jednoznačné určení kryptografického pracoviště,\nb) podmínky provozování kryptografického pracoviště,\nc) rozsah případných změn, které podmiňují platnost certifikátu kryptografického pracoviště."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Způsob a podmínky provádění certifikace kryptografického prostředku",
+      "content": "(K § 49 zákona)\n(1) Úřad stanovuje pořadí, ve kterém je prováděna certifikace kryptografických prostředků, její rozsah a způsob provedení.\n(2) Certifikace kryptografického prostředku je rozdělena do samostatně uzavíraných etap, které provádí odborná pracoviště Úřadu, odborné pracoviště orgánu státu, právnické osoby, nebo podnikající fyzické osoby. Na základě výsledků hodnocení etap vydá Úřad rozhodnutí. Samostatně jsou hodnoceny\na) předložená žádost o certifikaci kryptografického prostředku, kryptografický prostředek a přiložená dokumentace,\nb) kryptologické parametry kryptografického prostředku,\nc) technické parametry kryptografického prostředku,\nd) výroba klíčových materiálů a jejich distribuce,\ne) požadavky na výrobu, provozování a ochranu kryptografického prostředku,\nf) požadavky na začlenění kryptografického prostředku do komunikačního nebo informačního systému,\ng) použitelnost pro ochranu utajovaných informací České republiky, Evropské unie, nebo Organizace Severoatlantické smlouvy.\n(3) Úřad vede evidenci certifikovaných kryptografických prostředků. K certifikovanému kryptografickému prostředku se vede certifikační spis, do kterého se zakládá žádost o provedení certifikace, dokumentace a ostatní podklady poskytnuté žadatelem, další vyžádané doplňující podklady potřebné k provedení certifikace, certifikační zpráva a kopie vydaného certifikátu.\n(4) Skartační lhůta certifikačního spisu začíná běžet uplynutím doby platnosti certifikátu.\n(5) Pro certifikaci kryptografického prostředku prováděnou na základě opakované žádosti podle § 3 platí odstavce 1 až 4 obdobně."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Způsob a podmínky provádění certifikace kryptografického pracoviště",
+      "content": "(K § 50 zákona)\n(1) Úřad stanovuje pořadí, ve kterém je prováděna certifikace kryptografických pracovišť, její rozsah a způsob provedení.\n(1) Žádost o uzavření smlouvy o zajištění činnosti2) obsahuje\na) identifikaci žadatele podle § 1 odst. 1 písm. a),\nb) číslo platného osvědčení podnikatele a stupeň utajení utajované informace, pro přístup k níž osvědčení podnikatele opravňuje, je-li žadatelem podnikatel,\nc) jméno a příjmení kontaktního zaměstnance žadatele a kontaktní spojení na něj,\nd) rozsah přikládané dokumentace.\n(2) K žádosti podle odstavce 1 se přikládá dokumentace obsahující\na) adresu umístění pracoviště provádějícího požadované činnosti,\nb) prohlášení odpovědné osoby nebo jí pověřené osoby o splnění požadavků na fyzickou a personální bezpečnost pracoviště,\nc) rozsah požadovaných činností,\nd) personální zabezpečení požadovaných činností,\ne) technické a organizační zajištění požadovaných činností.\n1) Vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků.\n2) § 46 odst. 15 a § 52 zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.\n3) § 36 vyhlášky č. 432/2011 Sb., o zajištění kryptografické ochrany utajovaných informací.\nkryptografického pracoviště\nCERTIFIKÁT\nPříloha č. 2 k vyhlášce č. 525/2005 Sb.\nkryptografického prostředku\nCERTIFIKÁT\nPříloha č. 1 k vyhlášce č. 525/2005 Sb.\nTato vyhláška nabývá účinnosti dnem 1. ledna 2006.\nÚčinnost"
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "(K § 52 zákona)\nNáležitosti žádosti orgánu státu nebo podnikatele o uzavření smlouvy o zajištění činnosti"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "(5) Pro certifikaci kryptografického pracoviště prováděnou na základě opakované žádosti podle § 4 platí odstavce 1 až 4 obdobně.\n(4) Skartační lhůta certifikačního spisu začíná běžet uplynutím doby platnosti certifikátu kryptografického pracoviště.\n(3) Úřad vede evidenci certifikovaných kryptografických pracovišť. K certifikovanému kryptografickému pracovišti se vede certifikační spis, do kterého se zakládá žádost o certifikaci, dokumentace a ostatní podklady poskytnuté žadatelem, další vyžádané doplňující podklady potřebné k provedení certifikace, certifikační zpráva a kopie vydaného certifikátu.\ne) výsledek kontroly kryptografického pracoviště ze strany Úřadu.\nd) splnění požadavků na fyzickou a personální bezpečnost kryptografického pracoviště,\nc) provozně-bezpečnostní zabezpečení kryptografického pracoviště podle specifikace kategorie kryptografického pracoviště,\nb) účel kryptografického pracoviště a jeho technické vybavení,\na) předložená žádost o certifikaci kryptografického pracoviště a předložená dokumentace,\n(2) Certifikace kryptografického pracoviště je rozdělena do samostatně uzavíraných etap, které provádí odborná pracoviště Úřadu, odborné pracoviště orgánu státu, právnické osoby, nebo podnikající fyzické osoby. Na základě výsledků hodnocení etap vydá Úřad rozhodnutí. Samostatně jsou hodnoceny"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cz:ul0:140/1953",
+  "type": "statute",
+  "title": "140/1953 Ú. l., Vyhláška státního úřadu plánovacího o zajištění podkladů pro přepravní plánování v železniční dopravě.",
+  "title_en": "",
+  "short_name": "140/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-05-19",
+  "in_force_date": "1953-05-20",
+  "url": "https://www.e-sbirka.cz/ul0/1953/140",
+  "description": "Vyhláška státního úřadu plánovacího o zajištění podkladů pro přepravní plánování v železniční dopravě.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Odběratelé vozových zásilek po železnici jsou povinni poskytovat údaje a podklady potřebné pro sestavení návrhů nákladkových a přepravních plánů tak, aby je odesilatelé zásilek obdrželi včas, t. j. nejpozději 7 dnů přede dnem, do kterého musí odesilatel podle platných ustanovení předložit návrhy přepravního plánu příslušné správě dráhy nebo do kterého musí předložit dílčí návrh nákladkového plánu nadřízenému ministerstvu (hlavní správě); údaje, které je dovoleno uvádět až v objednávkách vozů, je nutno dodat odesilatelům nejpozději 3 dny přede dnem příslušné objednávky vozů\n(2) Odesilatelem se rozumí závod, podnik nebo jiná hospodářská jednotka, která sestavuje a železnici předkládá konečný návrh přepravního plánu. Odběratelem se rozumí příjemce zásilek, po případě jeho nadřízená jednotka, která rozhoduje o stanici určení, době přepravy a o jiných okolnostech týkajících se přepravy zásilek."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Odběratel, který poskytl podklady pro přepravní plány tak pozdě, že odesilatel proto nemůže příslušné přepravy pojmout do návrhu přepravního plánu a může je uskutečnit pouze jako neplánované na podkladě dostatečné objednávky vozů\na) nemá vůči odesilateli nárok na penále a na pokuty pro opožděné dodání ani nárok na náhradu škody, jestliže odesilatel připravil své výrobky k odeslání a pokusil se podat zásilku k přepravě jako neplánovanou před uplynutím dodací lhůty a železnice mu včas nepřistavila vůz;\nb) je povinen uhradit odesilateli poplatek za dodatečnou objednávku vozů, po případě jiné tarifní poplatky a pokuty s tím souvisící, byla-li neplánovaná přeprava skutečně provedena.\n(2) Kromě toho je odběratel povinen nahradit odesilateli výlohy, které mu vznikly proto, že nemohl dodávku ve smluvené dodací lhůtě uskutečnit."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Odběratel, který změní dodatečně své dopravní disposice a tím poruší plnění přepravního plánu, je povinen uhradit odesilateli pokuty, které mu železnice vyúčtuje za neplnění přepravního plánu a, byla-li přeprava původně plánovaná provedena v důsledku změny disposic jako neplánovaná, i poplatek za dodatečnou objednávku vozů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Odběratel může požadovat náhradu výdajů, které mu vznikly podle ustanovení § 2 odst. 1 písm. b), odst. 2 a § 3, od těch hospodářských jednotek nebo orgánů, které mu včas neposkytly potřebné údaje, ačkoliv o to požádal."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ustanovení §§ 2 a 4 platí obdobně i v případě, že odběratel neposkytne včas podklady pro zahrnutí dodávky do nákladkového plánu a že přeprava nebude proto provedena ve smluvené dodací lhůtě."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Sporné nebo pochybné případy rozhoduje státní arbitráž podle příslušných předpisů."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Podrobnější předpisy k provedení této vyhlášky vydají podle potřeby příslušná ministerstva v základních podmínkách dodávky s přihlédnutím k organisaci odbytu a zásobování v jednotlivých sektorech."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 20. května 1953."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Odesilatelem",
+      "definition": "závod, podnik nebo jiná hospodářská jednotka, která sestavuje a železnici předkládá konečný návrh přepravního plánu",
+      "source_provision": "§ 1."
+    }
+  ]
+}

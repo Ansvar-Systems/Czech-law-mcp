@@ -1,0 +1,81 @@
+{
+  "id": "cz:502/2005",
+  "type": "statute",
+  "title": "502/2005 Sb., Vyhláška o stanovení způsobu vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje",
+  "title_en": "",
+  "short_name": "502/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-12-23",
+  "in_force_date": "2012-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/502",
+  "description": "Vyhláška o stanovení způsobu vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví při společném spalování biomasy a neobnovitelného zdroje způsob vykazování množství elektřiny z obnovitelných zdrojů, způsob vykazování skutečného nabytí množství biomasy a její kvalitu a způsob vykazování skutečného využití veškeré nabyté biomasy pro účely výroby elektřiny."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "content": "Pro účely této vyhlášky se rozumí\na) spoluspalováním – společné spalování biomasy a neobnovitelného zdroje energie ve stejném kotli,\nb) paralelním spalováním – společné spalování biomasy a neobnovitelného zdroje, při kterém se oba druhy paliv spalují odděleně v samostatných kotlích dodávajících vyrobené teplo do společné parní sběrnice, ze které se uskutečňuje odběr tepla pro výrobu elektřiny.\nVykazování výroby elektřiny společným spalováním biomasy a neobnovitelného zdroje"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Pro účely vykazování množství elektřiny při společném spalování biomasy a neobnovitelného zdroje jsou stanoveny parametry, jejichž označení, popis a způsob zjišťování jsou upraveny v příloze č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Pokud je elektřina z obnovitelných zdrojů vyráběná společným spalováním biomasy a neobnovitelného zdroje energie a je vykazována za účelem poskytnutí podpory formou zelených bonusů podle § 4 odst. 7 zákona o podpoře využívání obnovitelných zdrojů, vykazují se údaje o skutečném množství elektřiny vyrobené při společném spalování biomasy a neobnovitelného zdroje, kvalitě a skutečném využití množství energie obsažené v neobnovitelném zdroji energie a v biomase pro účely výroby elektřiny a souhrnná energetická bilance v měsíčním výkazu, jehož vzor je upraven v příloze č. 2 k této vyhlášce. Vzor měsíčního výkazu o výrobě elektřiny ze zdroje spalujícího společně biomasu a neobnovitelný zdroj je Energetickým regulačním úřadem rovněž poskytován způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Údaje v měsíčním výkazu podle přílohy č. 2 k této vyhlášce se vyplňují zvlášť pro každou skupinu kotlů a turbogenerátorů napojených na společnou parní sběrnici, ze které se uskutečňuje odběr tepla pro výrobu podporované elektřiny z obnovitelných zdrojů energie.\n(2) Pokud je více parních sběrnic vzájemně propojitelných, ale po vykazované období prokazatelně oddělených z hlediska přenosu teplonosné látky, vykazují se údaje jen za tu oddělenou část sběrnice, do které pracují kotle spalující biomasu a ze které se uskutečňuje odběr tepla pro výrobu podporované elektřiny z obnovitelných zdrojů energie.\n(3) Pokud je více parních sběrnic vzájemně propojitelných, ale prokazatelně oddělených z hlediska přenosu teplonosné látky jen během části vykazovaného období, mohou se údaje vykazovat odděleně a samostatně za období s propojenými a za období s oddělenými sběrnicemi, pokud je možné věrohodně doložit časový průběh oddělení nebo propojení parních sběrnic i hodnoty sledovaných údajů během těchto období; jinak se údaje vykazují za celou skupinu kotlů a turbogenerátorů napojených na všechny části propojitelné sběrnice."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Údaje podle § 4 se vykazují na základě věrohodných a kontrolovatelných podkladů, kterými jsou\na) doklady o měření množství a kvality biomasy skutečně využité pro účely výroby elektřiny společným spalováním biomasy a neobnovitelného zdroje a množství elektřiny vyrobené z obnovitelných zdrojů,\nb) dodavatelské smlouvy a dodavatelské listy k uskutečněným dodávkám paliva,\nc) doklady o dodávkách a převzetí paliv s vyznačeným množstvím a kvalitou paliv,\nd) doklady prokazující obsah vody u jednotlivých dodávek biomasy a způsob jejího stanovení,\ne) doklady o druhu, parametrech a množství spalovaných paliv v jednotlivých kotlích, o výrobě tepla na kotlích a o množství vyráběné elektřiny ve výrobně, nebo\nf) výpočty podle § 7 a 8."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Množství elektřiny z obnovitelných zdrojů vyrobené společným spalováním biomasy a neobnovitelného zdroje energie se vypočítá jako poměrná část celkově vyrobené elektřiny způsobem, který je upravený v příloze č. 3 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Množství energie obsažené v biomase a neobnovitelných zdrojích skutečně využitých pro výrobu elektřiny při jejich společném spalování se stanoví na základě spotřeby paliv využitých ve vykazovaném období a jejich výhřevnosti způsobem podle přílohy č. 4 k této vyhlášce. Pro tuhou biomasu s hmotnostním podílem organických látek v sušině vyšším než 50 % a s obsahem vody nižším než 20 % se při výpočtu použije hodnota výhřevnosti paliva 5 MJ/kg."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "(1) Pokud se skutečné parametry biomasy podstatným způsobem odlišují od hodnot stanovených v § 8, postupuje výrobce při výpočtu výhřevnosti paliva obsažené v biomase podle přílohy č. 5 k této vyhlášce a při výpočtu použije hodnotu obsahu vody v biomase zjištěnou na základě měření.\n(2) Výrobce při stanovení hodnoty obsahu vody v biomase měřením používá takové vzorkování biomasy, výběr a množství reprezentativních vzorků biomasy, sledování spotřeby biomasy a množství energie v palivech spotřebovaných v jednotlivých kotlích při společném spalování biomasy a neobnovitelného zdroje, aby výsledkem měření bylo zjištění hodnot, o jejichž správnosti nejsou důvodné pochybnosti.\n(3) O provedeném měření zpracuje výrobce protokol, ve kterém zaznamená všechny kroky, které při stanovení hodnoty obsahu vody v biomase měřením provedl, a označí doklady, ze kterých vycházel. Výrobce uchovává protokol o provedeném měření a doklady použité při vzorkování biomasy, výběru vzorků a sledování spotřeby po dobu 5 let."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Měsíční výkaz o výrobě elektřiny ze zdrojů spalujících společně biomasu a neobnovitelný zdroj předává výrobce provozovateli přenosové nebo příslušné regionální distribuční soustavy do dvacátého dne následujícího kalendářního měsíce. Na vyžádání předá výrobce kopii měsíčního výkazu rovněž Energetickému regulačnímu úřadu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha č. 1 k vyhlášce č. 502/2005 Sb.\nPoužité parametry, jejich zkratky a významy\nZnačkaJednotkaNázevVýznam\nEoze(MWh)Elektřina vyrobená z obnovitelných zdrojůElektřina vyrobená z obnovitelných zdrojů ve výrobně naměřená v předávacím místě výrobny a sítě provozovatele distribuční soustavy nebo přenosové soustavy, nebo svorková výroba elektřiny snížená o technologickou vlastní spotřebu elektřiny, v případě společného spalování biomasy a neobnovitelného zdroje poměrná část celkově vyrobené elektřiny pocházející z obnovitelných zdrojů.\nStanovuje se výpočtem způsobem uvedeným v příloze 3.\nEoze-spolu(MWh)Elektřina ze spoluspalování obnovitelných zdrojůElektřina z obnovitelných zdrojů, nebo její poměrná část, vyrobená spoluspalováním obnovitelných a neobnovitelných zdrojů energie ve stejném kotli.\nStanovuje se výpočtem způsobem uvedeným v příloze 3.\nEoze-paralel(MWh)Elektřina z paralelního spalování obnovitelných zdrojůElektřina z obnovitelných zdrojů, nebo její poměrná část, vyrobená při paralelním spalování z obnovitelných zdrojů využitých pouze v kotli, ve kterém se spaluje samostatně výhradně biomasa.\nStanovuje se výpočtem způsobem uvedeným v příloze 3.\nEsv(MWh)Svorková výroba elektřinyCelková výroba elektřiny měřená na svorkách generátorů instalovaných ve výrobně.\nStanovuje se měřením.\nEvl(MWh)Technologická vlastní spotřeba elektřinySpotřeba elektrické energie na výrobu elektřiny při výrobě elektřiny nebo elektřiny a tepla v hlavním výrobním zařízení i pomocných provozech, které jsou na výrobě přímo zúčastněné, včetně ztrát v rozvodu vlastní spotřeby i ztrát na zvyšovacích transformátorech pro dodávku do přenosové nebo nadřazené distribuční soustavy, je-li fakturační měření instalováno na jejich primární straně.\nStanovuje se měřením nebo jiným kontrolovatelným způsobem.\nHtd(%)Obsah vodíkuObsah vodíku vztažený k hmotnosti paliva v bezvodém stavu. Použije se hodnota 5,5%, pokud tím nedojde ke zkreslení skutečnosti. Jinak se obsah vodíku stanoví normalizovaným postupem měření laboratoří akreditovanou podle zvláštního právního předpisu1) na reprezentativních vzorcích každého použitého druhu paliva.\nSoze(t, tis. m3)Spotřeba paliva – obnovitelného zdroje energieSpotřebované množství biomasy v kotli při společném spalování s neobnovitelným zdrojem energie pro výrobu elektřiny nebo elektřiny a tepla za dané období.\nStanovuje se normalizovaným postupem měření. Pokud měření spotřeby paliva zahrnuje i sklad paliva, zohlední se při stanovení spotřeby paliva v daném období i změna zásob paliva na skladě.\nSfos(t, tis. m3)Spotřeba fosilního paliva – neobnovitelného zdroje energieSpotřebované množství neobnovitelného zdroje energie v kotli při společném spalování s biomasou pro výrobu elektřiny nebo elektřiny a tepla za dané období.\nStanovuje se normalizovaným postupem měření. Pokud měření spotřeby paliva zahrnuje i sklad paliva, zohlední se při stanovení spotřeby paliva v daném období i změna zásob paliva na skladě.\nMoze(GJ)Množství energie obsažené v biomase spotřebované v kotliMnožství energie obsažené ve všech podporovaných druzích biomasy spotřebovaných v kotli spalujícím biomasu nebo spoluspalujícím biomasu a neobnovitelný zdroj energie pro výrobu elektřiny nebo elektřiny a tepla.\nStanovuje se výpočtem způsobem uvedeným v příloze č. 4.\nMfos(GJ)Množství energie obsažené ve fosilním palivu spotřebovaném v kotliMnožství energie obsažené ve všech druzích fosilních paliv spotřebovaných v kotli.\nStanovuje se výpočtem způsobem uvedeným v příloze č. 4.\nQvyr(GJ)Vyrobené teplo na výstupu z kotleCelkové množství tepelné energie vyrobené v kotli za vykazované časové období.\nStanovuje se na základě měření nebo postupem podle zvláštního právního předpisu2).\nQvyr,oze(GJ)Teplo vyrobené z biomasyPoměrné množství tepla vyrobeného spalováním biomasy. Stanovuje se výpočtem způsobem uvedeným v příloze 3.\nQvyr,oze-paralel(GJ)Teplo vyrobené z biomasy při paralelním spalování v kotli spalujícím pouze biomasuMnožství tepla vyrobeného z biomasy při paralelním spalování v kotli, ve kterém se spaluje výhradně biomasa.\nStanovuje se na základě měření nebo postupem podle zvláštního právního předpisu2).\nQvyr,fosel(GJ)Teplo vyrobené z fosilních paliv spotřebované pro výrobu elektřinyCelkové množství tepla vyrobeného spalováním fosilních paliv, jež je spotřebováno na výrobu elektřiny.\nStanovuje se výpočtem způsobem uvedeným v příloze č. 3.\nQvyrtep(GJ)Teplárenské teploU kombinované výroby elektřiny a tepla část z celkového množství tepla vyrobeného v kotlích dané skupiny kotlů určená pro spotřebu mimo výrobnu elektřiny a tepla.\nStanovuje se měřením nebo výpočtem nevzbuzujícím důvodné pochybnosti.\nWtr(%)Obsah vodyCelkový hmotnostní obsah vody v palivu v původním stavu. Stanovuje se normalizovaným postupem měření reprezentativních vzorků paliva\nMnožství reprezentativních vzorků paliva a jejich konkrétní výběr pro měření se provádí tak, aby naměřené hodnoty obsahu vody vzorků způsobem nevzbuzujícím důvodné pochybnosti odrážely skutečnost.\nqnetr(MJ/kg, MJ/m3)Výhřevnost palivaPrůměrná výhřevnost paliva v původním stavu spotřebovaného na výrobu elektřiny za vykazované období.\nStanovuje se výpočtem pro každý druh paliva způsobem uvedeným v příloze č. 4 na základě zjištěných hodnot obsahu vody, spalného tepla a obsahu vodíku.\nqspald(MJ/kg, MJ/m3)Spalné teploSpalné teplo paliva v bezvodém stavu.\nStanovuje se normalizovaným postupem měření laboratoří akreditovanou podle zvláštního právního předpisu1) na reprezentativních vzorcích každého použitého druhu paliva. Pokud tím nedojde ke zkreslení skutečnosti je možné pro standardizovaná paliva využít hodnot stanovených obdobným způsobem dodavatelem paliva.\nPříloha č. 2 k vyhlášce č. 502/2005 Sb.\nVzor\nMěsíční výkaz o výrobě elektřiny ze zdroje spalujícího společně biomasu a neobnovitelný zdroj\nPříloha č. 3 k vyhlášce č. 502/2005 Sb.\nZpůsob výpočtu množství elektřiny vyrobené společným spalováním biomasy a neobnovitelného zdroje energie\n(1) Při výrobě elektrické energie současným spalováním biomasy a neobnovitelného zdroje energie se množství elektřiny z obnovitelného zdroje stanovuje podle vzorce\nEoze=∑i=1nMozei∑i=1nMozei+∑i=1nMfosi×Esv-Evl MWh\nkde\ni pořadové číslo kotle ve skupině\nn počet kotlů ve skupině.\n(2) V případě, že do společné parní sběrnice pracují jak kotle spoluspalující biomasu a neobnovitelné zdroje současně v jednom kotli, tak i kotle s paralelním spalováním obnovitelných zdrojů, tedy kotle spalující pouze biomasu, stanoví se množství elektřiny z paralelního spalování obnovitelných zdrojů a množství elektřiny ze spoluspalování podle vzorce\nEoze-paralel=∑j=1mQvyr,oze-paralelj∑i=1nQvyri×Esv-Evl MWh\nEoze-spolu=Eoze-Eoze-paralel MWh\nkde\ni pořadové číslo kotle ve skupině\nn počet kotlů ve skupině\nj pořadové číslo kotle s paralelním spalováním, tj. kotle ve skupině spalujícího výhradně biomasu\nm počet kotlů s paralelním spalováním, tj. počet kotlů ve skupině spalujících výhradně biomasu.\nPříloha č. 4 k vyhlášce č. 502/2005 Sb.\nPostup při výpočtu množství energie obsažené v neobnovitelném zdroji energie a v biomase\n(1) Množství energie obsažené v palivu pro výpočet podílu biomasy na celkové spotřebě paliv pro výrobu elektřiny za dané období se stanoví podle vzorce\nMoze=qnetr×Soze GJ\nMfos=qnetr×Sfos GJ\n(2) Výhřevnost qrnet se přitom vypočte podle vzorce uvedeného v příloze 5 k této vyhlášce.\nPříloha č. 5 k vyhlášce č. 502/2005 Sb.\nZpůsob výpočtu výhřevnosti paliva\n(1) Výhřevnost qrnet pro tuhá paliva se stanoví podle vzorce\nqnetr=qspald-0,218×Htd×100-Wtr100-0,02442×Wtr MJ/kg\n(2) Pro plynná a kapalná paliva se výhřevnost stanovuje v souladu s technickou normou1). Nelze-li stanovit pro plynná nebo kapalná paliva výhřevnost podle technické normy, může být stanovena jiným způsobem, nevzbuzujícím důvodné pochybnosti.\n1) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.\n2) Vyhláška č. 150/2001Sb., kterou se stanoví minimální účinnost užití energie při výrobě elektřiny a tepelné energie.\n1) Například ČSN 38 5521, ČSN 65 6169."
+    }
+  ],
+  "definitions": []
+}

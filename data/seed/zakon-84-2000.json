@@ -1,0 +1,33 @@
+{
+  "id": "cz:84/2000",
+  "type": "statute",
+  "title": "84/2000 Sb., Vyhláška Ministerstva dopravy a spojů o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby",
+  "title_en": "",
+  "short_name": "84/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-04-04",
+  "in_force_date": "2002-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/84",
+  "description": "Vyhláška Ministerstva dopravy a spojů o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Odborná způsobilost k provozování vodní dopravy se prokazuje osvědčením o úspěšně vykonané zkoušce z předmětů uvedených v příloze složené před Státní plavební správou (dále jen „plavební správa“) a dokladem o vykonání pětileté praxe v oboru vodní dopravy uznaným plavební správou.\n(2) Praxí v oboru vodní dopravy se rozumí činnost v oblasti\na) odborného řízení v provozu vnitrozemské vodní dopravy, nebo\nb) lodního provozu osoby, která získala průkaz způsobilosti vůdce plavidla,1) které není malým plavidlem.\n(3) Zkouška se skládá před nejméně tříčlennou zkušební komisí ustanovenou plavební správou. O zkoušce se vyhotoví protokol podepsaný členy komise. Podmínkou pro vykonání zkoušky je prokázání totožnosti žadatele."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni vyhlášení.\nPříloha k vyhlášce č. 84/2000 Sb.\nZkušební předměty pro získání odborné způsobilosti k provozování vodní dopravy a jejich náplň\n1. Vnitrozemská vodní doprava\na) opatření stanovená právními předpisy, týkající se provozu na vodních cestách a jeho bezpečnosti,\nb) předcházení plavebních nehod a opatření, která mají být podniknuta v případě nehody,\nc) opatření týkající se přepravy osob a věcí na vnitrozemských vodních cestách mimo území České republiky.\n2. Základy závazkového a pracovního práva, jejichž znalosti jsou důležité pro provozování vnitrozemské vodní dopravy\na) obchodně závazkové vztahy v dopravě,\nb) dopravní kontrakty, zvláště odpovědnost dopravce,\nc) obchodní společnosti,\nd) pracovněprávní předpisy a sociální zabezpečení.\n3. Obchodní a finanční řízení podnikání\na) obchodní smlouvy,\nb) kalkulace ceny nákladů,\nc) systém cen,\nd) účetnictví,\ne) pojištění, poplatky,\nf) celní řízení,\ng) obchod s devizovými prostředky,\nh) marketing.\n4. Provozování vodní dopravy\na) opatření vztahující se k započetí a provozování činnosti,\nb) systém nájmu (charter),\nc) dopravní dokumenty.\n5. Technické standarty vodní dopravy\na) technická charakteristika lodí,\nb) výběr lodí,\nc) doby nakládky/vykládky,\nd) užívání povrchových vod k plavbě.\n1) Vyhláška č. 224/1995 Sb., o způsobilosti osob k vedení a obsluze plavidel."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Praxí v oboru vodní dopravy",
+      "definition": "činnost v oblasti",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cz:ul0:104/1959",
+  "type": "statute",
+  "title": "104/1959 Ú. l., Vyhláška ministerstva zdravotnictví o úhradách za preventivní a léčebnou péči poskytovanou státem osobám, které nemají nárok na bezplatnou péči",
+  "title_en": "",
+  "short_name": "104/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-06-08",
+  "in_force_date": "1959-06-08",
+  "url": "https://www.e-sbirka.cz/ul0/1959/104",
+  "description": "Vyhláška ministerstva zdravotnictví o úhradách za preventivní a léčebnou péči poskytovanou státem osobám, které nemají nárok na bezplatnou péči",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Stát poskytuje preventivní a léčebnou péči osobám, které nemají nárok na její bezplatné poskytnutí, za úhradu, jež představuje, zejména pokud jde o péči v lůžkových zařízeních (ústavní péči), u československých občanů jen částečnou náhradu vynaložených nákladů. Výše úhrady je stanovena v sazebníku, který tvoří přílohu této vyhlášky.\n(2) úhradou podle odstavce 1 se rozumí\na) náhrada za stanovený úkon nebo pokud jde o ústavní péči, ošetřovací sazba za jeden den, přičemž den nástupu do ústavní péče a den odchodu z ní se počítají dohromady za jeden den,\nb) náhrada dopravních nákladů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Vedle úhrady uvedené v § 1 se ještě vybírá úhrada za vydané léky a jiné zdravotnické potřeby, pokud nejde o léky a jiné zdravotnické potřeby poskytnuté při ústavní péči nebo pokud použití léku nebo jiné zdravotnické potřeby není součástí úkonu, za který se platí úhrada. Úhrada za léky a jiné zdravotnické potřeby se vybírá ve výši stanovené v cenících státních maloobchodních cen, popřípadě maloobchodních cen."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Pro řízení o úhradách podle §§ 1 a 2 platí vyhláška ministerstva zdravotnictví č. 164/1958 Ú. l., kterou se stanoví rozsah a podmínky poskytování preventivní a léčebné péče (léčebný řád), zejména ustanovení §§ 3 až 13 a 78 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "O úhradách za lázeňskou péči a o příplatcích, jež se výjimečně platí za péči poskytnutou osobám, kterým jinak náleží bezplatná ambulantní a ústavní péče, platí zvláštní předpisy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zrušují se předpisy, pokud odporují úpravě obsažené v předcházejících ustanoveních; zejména se zrušují\n1. vyhláška ministerstva zdravotnictví č. 234/1950 Ú. l., kterou se stanoví výše ošetřovného ve státních léčebných a ošetřovacích ústavech v Československé republice za osoby, které nemají nárok na ústavní péči podle zákona č. 99/1948 Sb., o národním pojištění, ve znění zákona č. 269/1949 Sb.,\n2. vyhláška ministra zdravotnictví č. 105/1953 Ú. l., o úhradách za ambulantní preventivní a léčebnou péči poskytovanou státem osobám, které nemají nárok na bezplatnou péči,\n3. předpisy o denních ošetřovacích sazbách za ústavní léčení cizích státních příslušníků ve zdravotnických zařízeních státní zdravotní správy (instrukce ministerstva zdravotnictví reg. č. 121/P-1956 ve znění instrukce ministerstva zdravotnictví reg. č. 216/P-1956)."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Tato vyhláška nabývá účinnosti ode dne vyhlášení.\nPříloha k vyhlášce č. 104/1959 Ú. l.\nSazebník"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "c) Dobou noční",
+      "definition": "doba od 19",
+      "source_provision": "§ 6"
+    },
+    {
+      "term": "Sazba",
+      "definition": "za 1 den pobytu v ústavu",
+      "source_provision": "§ 6"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:123/1997",
+  "type": "statute",
+  "title": "123/1997 Sb., Nařízení vlády, kterým se zvyšují částky životního minima",
+  "title_en": "",
+  "short_name": "123/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-06-04",
+  "in_force_date": "1997-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1997/123",
+  "description": "Nařízení vlády, kterým se zvyšují částky životního minima",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Částka životního minima, která se považuje podle zákona o životním minimu1) za potřebnou k zajištění výživy a ostatních základních osobních potřeb občana,2) činí měsíčně\na) 1480 Kč, jde-li o dítě do 6 let věku,\nb) 1640 Kč, jde-li o dítě od 6 do 10 let věku,\nc) 1940 Kč, jde-li o dítě od 10 do 15 let věku,\nd) 2130 Kč, jde-li o nezaopatřené dítě od 15 do 26 let věku,\ne) 2020 Kč u ostatních občanů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Částka životního minima, která se považuje podle zákona o životním minimu1) za potřebnou k zajištění nezbytných nákladů na domácnost,3) činí měsíčně\na) 1020 Kč, jde-li o jednotlivce,\nb) 1330 Kč, žijí-li v domácnosti dvě osoby,\nc) 1650 Kč, žijí-li v domácnosti tři nebo čtyři osoby,\nd) 1860 Kč, žije-li v domácnosti pět nebo více osob."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. července 1997.\n1) Zákon č. 463/1991 Sb., o životním minimu, ve znění zákona ČNR č. 10/1993 Sb., zákona č. 84/1993 Sb. a zákona č. 118/1995 Sb.\n2) § 3 odst. 2 zákona č. 463/1991 Sb.\n3) § 3 odst. 3 zákona č. 463/1991 Sb."
+    }
+  ],
+  "definitions": []
+}

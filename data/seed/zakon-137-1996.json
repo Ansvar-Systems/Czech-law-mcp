@@ -1,0 +1,39 @@
+{
+  "id": "cz:137/1996",
+  "type": "statute",
+  "title": "137/1996 Sb., Zákon, kterým se mění a doplňuje zákon č. 117/1995 Sb., o státní sociální podpoře",
+  "title_en": "",
+  "short_name": "137/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-05-24",
+  "in_force_date": "1996-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1996/137",
+  "description": "Zákon, kterým se mění a doplňuje zákon č. 117/1995 Sb., o státní sociální podpoře",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Zákon č. 117/1995 Sb., o státní sociální podpoře, se mění a doplňuje takto:\n1. V § 5 odst. 2 písm. c) se za slova „důchodového zabezpečení,“ vkládají tato slova: „s výjimkou zvýšení důchodu pro bezmocnost,“.\n2. V § 11 odst. 3 se vypouštějí slova „které uzavřelo sňatek, pokud jeho manželem není také nezaopatřené dítě, nebo“.\n3. V § 12 písm. a) se na konci čárka nahrazuje středníkem a připojují se tato slova: „za studium na středních a vysokých školách v České republice se považuje též studium na středních a vysokých školách v cizině, pokud podle rozhodnutí Ministerstva školství, mládeže a tělovýchovy je postaveno na roveň studia na středních a vysokých školách v České republice,“.\n4. V § 23 odst. 2 se za větu první vkládá tato věta: „Pro výpočet srovnávací částky platí § 51 odst. 6 obdobně.“.\n5. § 27 odst. 2 zní:\n„(2) Za dojíždění dítěte z místa obce, kde je hlášeno k trvalému pobytu, do místa sídla školy se považuje také dojíždění z jedné části obce do druhé části této obce, není-li mezi těmito částmi obce provozována městská linková osobní doprava.“;\n§ 27 se doplňuje odstavci 3 a 4, které znějí:\n„(3) Pokud dítě plní povinnou školní docházku studiem na střední škole, považuje se pro účely příspěvku na dopravu za dítě plnící povinnou školní docházku.\n(4) Příspěvek na dopravu nenáleží za měsíce červenec a srpen.“.\n6. V § 28 odst. 1 písm. a) a v § 28 odst. 2 písm. a) se za slova „o dítě“ vkládají tato slova: „mladší 15 let“.\n7. V § 28 odst. 1 písm. b) a v § 28 odst. 2 písm. b) se za slova „o dítě, které“ vkládají tato slova: „plní povinnou školní docházku a dosáhlo 15 let nebo které“.\n8. V § 28 odst. 3 se slova „60 km“ nahrazují slovy „100 km“.\n9. V § 28 odst. 1 až 3 se za slova „místa sídla školy“ vkládají tato slova: „nebo její součásti“.\n10. V § 28 se za odstavec 2 vkládá nový odstavec 3, který zní:\n„(3) Při dojíždění do školy do ciziny se považuje za sídlo školy místo silničního nebo železničního hraničního přechodu, kde dítě opouští území České republiky. Pokud nelze při dojíždění do školy do ciziny stanovit sídlo školy způsobem uvedeným v předchozí větě, náleží dítěti příspěvek na dopravu odpovídající vzdálenosti 200 km.“.\nDosavadní odstavce 3 až 5 se označují jako odstavce 4 až 6.\n11. § 51 se doplňuje novým odstavcem 6, který zní:\n„(6) Nedosahuje-li dávka uvedená v § 2 písm. a) bodech 2 až 4 částky 50 Kč za kalendářní měsíc, zvyšuje se na tuto částku.“.\n12. § 74 se doplňuje novým odstavcem 5, který zní:\n„(5) Podmínku trvalého pobytu může Ministerstvo práce a sociálních věcí v odůvodněných případech prominout.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Podle tohoto zákona, s výjimkou ustanovení čl. I bodů 4 až 8, 11 a 12, se postupuje při posuzování nároků na dávky státní sociální podpory nejdříve od 1. ledna 1996."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 1996."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dojíždění dítěte z místa obce, kde je hlášeno k trvalému pobytu, do místa sídla školy",
+      "definition": "také dojíždění z jedné části obce do druhé části této obce, není-li mezi těmito částmi obce provozována městská linková osobní doprava",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

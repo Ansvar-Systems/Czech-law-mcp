@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:227/1951",
+  "type": "statute",
+  "title": "227/1951 Ú. l. I, Vyhláška státního úřadu plánovacího o tvoření cen za suroviny, pomocné látky a neupotřebené obaly předávané mezi podniky.",
+  "title_en": "",
+  "short_name": "227/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-06-19",
+  "in_force_date": "1951-07-01",
+  "url": "https://www.e-sbirka.cz/ul1/1951/227",
+  "description": "Vyhláška státního úřadu plánovacího o tvoření cen za suroviny, pomocné látky a neupotřebené obaly předávané mezi podniky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Plánování nákladů a jejich snižování vyžaduje, aby vlastní náklady byly pokud možno oproštěny od vedlejších položek, které s výrobou nebo s distribucí přímo nesouvisí nebo které nelze plánovat."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Za suroviny, pomocné látky a neupotřebené obaly, které výrobní nebo distribuční podnik předává jinému výrobnímu nebo distribučnímu podniku téhož nebo jiného odvětví (dále jen „přebytečné zásoby“), smí předávající podnik fakturovat nejvýše ceny, které odpovídají jejich prodejní ceně z výroby, po případě prodejní ceně vykupovačově, platné v den převodu zásob zboží. Na tyto převody se vztahují obecně platné dodací podmínky,\n(2) U zboží dovezeného z ciziny fakturuje se cena předávací, za kterou výsadní společnost pro zahraniční obchod dodává zboží tuzemským odběratelům.\n(3) O fakturování a placení za přebytečné zásoby platí směrnice pro fakturování a placení za zboží a výkony."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Ustanovení této vyhlášky se vztahují na převody přebytečných zásob mezi národními, komunálními nebo družstevními podniky, s výjimkou převodů v rámci předávání výrobních programů, které budou upraveny příslušnými ministerstvy."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška, nabývá účinnosti dnem 1. července 1951."
+    }
+  ],
+  "definitions": []
+}

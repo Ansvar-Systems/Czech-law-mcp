@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1096/1946",
+  "type": "statute",
+  "title": "1096/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu textilního a oděvnického.",
+  "title_en": "",
+  "short_name": "1096/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-27",
+  "in_force_date": "1946-04-27",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1096",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu textilního a oděvnického.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku František Gabler, se sídlem v Krnově, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Grohmann & Co., se sídlem ve Vrbně, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

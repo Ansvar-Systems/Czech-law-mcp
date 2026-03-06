@@ -1,0 +1,75 @@
+{
+  "id": "cz:ul1:205/1950",
+  "type": "statute",
+  "title": "205/1950 Ú. l. I, Vyhláška ministerstva vnitřního obchodu o sběru, výkupu a úpravě peří.",
+  "title_en": "",
+  "short_name": "205/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-03-30",
+  "in_force_date": "1950-04-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/205",
+  "description": "Vyhláška ministerstva vnitřního obchodu o sběru, výkupu a úpravě peří.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Peří použité i nepoužité z drůbeže a ptactva mohou získávati sběrem a výkupem v zemích českých toliko Sběrné suroviny, národní podnik a na Slovensku Sber, národný podnik (dále jen „pověřené národní podniky“)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Osoby a podniky, které získávají peří ze zvířat jimi chovaných, zabitých nebo ulovených, jakož i vlastníci jiného peří jsou povinni peří zajistit, aby nepodléhalo zkáze a prodat je pověřeným národním podnikům, pokud je nepoužijí ve svých domácnostech nebo pro vybavení příslušníků vlastní rodiny nebo pokud se nejedná o peří, které je vlastnictvím Ústředí pro hospodaření se zemědělskými výrobky, na Slovensku Družstva pre hospodarenie poľnohospodárskymi výrobkami, nebo jejich členských podniků (drůbežářských podniků a výkrmen) a jimi zpracováno."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) K plnění polštářů, duchen, prošívaných přikrývek a jiných lůžkovin smí býti použito jen peří odborně upraveného.\n(2) Odbornou úpravou peří se rozumí zbavení peří nečistot, praní vodou za použití mycích a bělicích prostředků a sterilisace parou. Odbornou úpravou peří není pouhé napaření peří bez předchozího praní."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Odbornou úpravu peří, které přichází do oběhu, provádějí toliko pověřené národní podniky.\n(2) Ustanovení odst. 1 neplatí pro peří, které získávají drůbežářské podniky Ústředí pro hospodaření se zemědělskými výrobky, na Slovensku Družstva pre hospodarenie pol'nohospodárskymi výrobkami a zpracují je ve vlastních podnicích."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Spotřebitelům může býti prodáváno jen peří odborně upravené a v původním balení, plombované podle standartních vzorků ve smyslu vyhlášky NÚC č. 721/1949 Ú. l. I, o cenách peří, po případě vyhlášky povereníctva výživy č. 853/1949 Ú. v. o cenách peří."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Ustanovení §§ 3, 4 a 5 se nevztahují na spotřebitele, kteří mají peří z vlastního chovu drůbeže."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Ustanoveními této vyhlášky nejsou dotčeny předpisy o potírání přenosných nemocí a opatření veterinární a zdravotní, pokud jde o nakládání s peřím z drůbeže a ptactva stiženého nákazou nebo z ní podezřelého."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Přestupky této vyhlášky se trestají podle § 10 vl. nař. č. 88/1949 Sb., po případě podle § 4 zák. č. 160/1949 Sb."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1950."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Odbornou úpravou peří",
+      "definition": "zbavení peří nečistot, praní vodou za použití mycích a bělicích prostředků a sterilisace parou",
+      "source_provision": "§ 3."
+    }
+  ]
+}

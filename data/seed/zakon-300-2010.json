@@ -1,0 +1,33 @@
+{
+  "id": "cz:300/2010",
+  "type": "statute",
+  "title": "300/2010 Sb., Vyhláška, kterou se mění vyhláška č. 475/2005 Sb., kterou se provádějí některá ustanovení zákona o podpoře využívání obnovitelných zdrojů, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "300/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-10-29",
+  "in_force_date": "2010-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/300",
+  "description": "Vyhláška, kterou se mění vyhláška č. 475/2005 Sb., kterou se provádějí některá ustanovení zákona o podpoře využívání obnovitelných zdrojů, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V příloze č. 3 k vyhlášce č. 475/2005 Sb., kterou se provádějí některá ustanovení zákona o podpoře využívání obnovitelných zdrojů, ve znění vyhlášky č. 364/2007 Sb. a vyhlášky č. 409/2009 Sb., tabulka v části Fotovoltaika zní:\n„Charakteristika výrobnyCelkové měrné investiční náklady [Kč/kWp]Roční využití instalovaného špičkového výkonu [kWh/kWp]\nDo 30 kWp včetně< 75 000> 980\n30 kWp až 100 kWp včetně< 60 000> 1 000\nNad 100 kWp< 55 000> 1 000\n\n“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pro výrobny uvedené do provozu do dne nabytí účinnosti této vyhlášky platí indikativní hodnoty technických a ekonomických parametrů podle dosavadní přílohy č. 3 k vyhlášce č. 475/2005 Sb., kterou se provádějí některá ustanovení zákona o podpoře využívání obnovitelných zdrojů, ve znění vyhlášky č. 364/2007 Sb. a vyhlášky č. 409/2009 Sb."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. listopadu 2010."
+    }
+  ],
+  "definitions": []
+}

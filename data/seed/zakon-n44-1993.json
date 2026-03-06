@@ -1,0 +1,27 @@
+{
+  "id": "cz:n44/1993",
+  "type": "statute",
+  "title": "n44/1993 Sb., Opatření Českého statistického úřadu, kterým se stanoví statistické ukazatele Tržby za prodej vlastních výrobků, služeb a zboží a Změna stavu nedokončené výroby ke konci čtvrtletí proti jeho počátku a způsob jejich získávání",
+  "title_en": "",
+  "short_name": "n44/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-08-13",
+  "in_force_date": "1993-08-13",
+  "url": "https://www.e-sbirka.cz/sb/1993/n44",
+  "description": "Opatření Českého statistického úřadu, kterým se stanoví statistické ukazatele Tržby za prodej vlastních výrobků, služeb a zboží a Změna stavu nedokončené výroby ke konci čtvrtletí proti jeho počátku a způsob jejich získávání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Tržby za prodej vlastních výrobků, služeb a zboží\nObsah tohoto ukazatele odpovídá údajům vedeným zpravodajskými jednotkami na účtech 601, 602 a 604 nebo na skupinovém syntetickém účtu 600 a účtu 604.1) Údaje pro tento ukazatel vykazují zpravodajské jednotky, které vyplňují podle programu statistických zjišťování na rok 1993 výkaz P 3-04.2)\nÚdaje se vykazují v oddílu 177 uvedeného výkazu takto:\na) do řádku 01 se doplní název ukazatele Tržby za prodej vlastních výrobků, služeb a zboží (text je možno zkrátit),\nb) v řádku 01, sloupec 1 se uvede údaj v tis. Kč vztahující se ke sledovanému čtvrtletí,\nc) v řádku 01, sloupec 2 se uvede údaj v tis. Kč vztahující se ke stejnému čtvrtletí minulého roku."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Změna stavu nedokončené výroby ke konci čtvrtletí proti jeho počátku Obsah tohoto ukazatele odpovídá údajům vedeným zpravodajskými jednotkami na účtu 611.1) Údaje pro tento ukazatel budou vykazovat pouze zpravodajské jednotky, které realizují dodávky staveb, jejich stavebních a technologických částí, včetně montáže stavebních objektů a provozních souborů a které se zdaňují 5 % sazbou daně z přidané hodnoty.\nÚdaje se vykazují v oddílu 177 uvedeného výkazu takto:\na) do řádku 02 se doplní název ukazatele Změna stavu nedokončené výroby,\nb) v řádku 02, sloupec 1 se uvede údaj v tis. Kč vztahující se ke sledovanému čtvrtletí,\nc) v řádku 02, sloupec 2 se uvede údaj v tis. Kč vztahující se ke stejnému čtvrtletí minulého roku.\nPři vykazování údajů za stejné čtvrtletí minulého roku zpravodajské jednotky přepočtou tyto údaje do metodiky a organizace sledovaného čtvrtletí. Údaje pro ukazatele Tržby za prodej vlastních výrobků, služeb a zboží a Změna stavu nedokončené výroby ke konci čtvrtletí proti jeho počátku vykáží zpravodajské jednotky poprvé za 3. čtvrtletí roku 1993, ve lhůtě k doručení výkazu P 3-04."
+    }
+  ],
+  "definitions": []
+}

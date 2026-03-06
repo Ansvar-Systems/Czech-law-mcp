@@ -1,0 +1,29 @@
+{
+  "id": "cz:163/2009",
+  "type": "statute",
+  "title": "163/2009 Sb., Nález Ústavního soudu ze dne 21. dubna 2009 ve znění opravného usnesení ze dne 27. května 2009 ve věci návrhu na zrušení ustanovení § 394 odst. 2 části věty za středníkem a § 93 odst. 2 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)",
+  "title_en": "",
+  "short_name": "163/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-06-09",
+  "in_force_date": "2009-06-09",
+  "url": "https://www.e-sbirka.cz/sb/2009/163",
+  "description": "Nález Ústavního soudu ze dne 21. dubna 2009 ve znění opravného usnesení ze dne 27. května 2009 ve věci návrhu na zrušení ustanovení § 394 odst. 2 části věty za středníkem a § 93 odst. 2 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)",
+  "provisions": [
+    {
+      "provision_ref": "§ 394",
+      "section": "394",
+      "title": "§ 394",
+      "chapter": "III. - Dikce napadeného ustanovení právního předpisu",
+      "content": "[...]\n(2) Zpětvzetí návrhu na povolení oddlužení vezme insolvenční soud na vědomí rozhodnutím, které se doručuje osobě, která návrh podala, dlužníku, insolvenčnímu správci a věřitelskému výboru; odvolání proti němu není přípustné.\n[...]"
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93",
+      "chapter": "III. - Dikce napadeného ustanovení právního předpisu",
+      "content": "[...]\n(2) Odvolání proti rozhodnutí podle odstavce 1 odvolací soud projedná a rozhodne o něm nejpozději do 2 měsíců poté, co mu bylo předloženo soudem prvního stupně; ustanovení § 92 tím není dotčeno."
+    }
+  ],
+  "definitions": []
+}

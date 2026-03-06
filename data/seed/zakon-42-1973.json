@@ -1,0 +1,27 @@
+{
+  "id": "cz:42/1973",
+  "type": "statute",
+  "title": "42/1973 Sb., Vyhláška Federálního statistického úřadu, kterou se mění příloha k vyhlášce č. 186/1968 Sb., o zavedení jednotné evidence pracujících",
+  "title_en": "",
+  "short_name": "42/1973 Sb.",
+  "status": "in_force",
+  "issued_date": "1973-04-30",
+  "in_force_date": "1973-04-30",
+  "url": "https://www.e-sbirka.cz/sb/1973/42",
+  "description": "Vyhláška Federálního statistického úřadu, kterou se mění příloha k vyhlášce č. 186/1968 Sb., o zavedení jednotné evidence pracujících",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V souvislosti s programem racionalizace informačních soustav se ruší příloha k vyhlášce č. 186/1968 Sb., o zavedení jednotné evidence pracujících, a nahrazuje se novou přílohou tohoto znění:\nPříloha k vyhlášce č. 186/1968 Sb.\nSoustava ukazatelů jednotné evidence pracujících se člení do těchto tříd:\n0 Ukazatele o organizaci\n1 Identifikační a rodná data pracovníka\n2 Školní vzdělání a kvalifikace pracovníka\n3 Ukazatele o pracovním zařazení pracovníka v organizaci\n4 Ostatní ukazatele osobní agendy (vnitřní ukazatele organizace)\n5 Ukazatele nemocenského pojištění\n6 Ukazatele mzdové agendy a důchodového zabezpečení\n7 Ukazatele mzdové agendy - výplaty\n8 Ukazatele sociálních dávek\n9 Ukazatele mzdové agendy - srážky\nUkazatele jednotné evidence pracujících se dělí podle těchto skupin pracujících:\nA Pracující ve státním a družstevním sektoru (bez JZD)1)\nB Trvale činní v JZD2)\nC Jednotlivě hospodařící rolníci\nD Samostatně hospodařící (mimo zemědělství)\nE Domáčtí dělníci\nF Pracovníci na přechodnou potřebu3)\nG Učni ve státním a družstevním sektoru (bez JZD)\nH Učni v JZD\nSeznam závazných ukazatelů jednotné evidence pracujících\nČíslo ukazatele Název ukazatele Skupina pracujících4)\nABCDEFGH\n001 Číslo organizace / / / / / / / /\n002 Sídlo organizace / / / / / / / /\n003 Sídlo trvalého pracoviště / / - - / / / /\n101 Příjmení, jméno, akademický titul, hodnost, rodné jméno / / / / / / / /\n104 Rodné číslo / / / / / / / /\n105Rodinný stav / / / / / / / /\n106Národnost / / / / / / / /\n107 Trvalé bydliště / / / / / / / /\n201 Nejvyšší dosažené vzdělání // / / / - / /\n202 Obor dosaženého školního vzdělání - učební obor / / / / / __ / /\n301 Datum vzniku pracovního (učebního) poměru / / - - / / / /\n302 Důvod příchodu pracovníka do organizace / / - - / / / /\n303 Zaměstnání vykonávané v organizaci / / - / / / - -\n304 Druh činnosti / / - - - - - -\n306 Mzdové zařazení / / - - // - -\n307 Splnění požadované kvalifikace / - - - - - - -\n308 Změněná pracovní schopnost / / / / / / / /\n309 Datum ukončení pracovního (učebního) poměru / / - - / / / /\n310 Důvod ukončení pracovního (učebního) poměru / / - - / - / /\n311 Druh vynětí z evidenčního počtu / / - - / / - -\n312 Skupina pracujících / / / / / / / /\n314 Druh pracovního poměru / / - - / / - -\n501 Počet dětí, na něž je nárok na přídavky na děti / / / / / / / /\n601 Zákonný týdenní pracovní úvazek / / - - - - - -\n602 Mzdová sazba - základní plat / - - / / - / -\n605 Druh důchodu pracovníka / / / / / / / /\n606 Pracovní kategorie pro důchodové zabezpečení / / - / - / / /\n650 Počet odpracovaných hodin / - - - - - - -\n660 Počet neodpracovaných hodin / - - - - - - -\n671 Počet kalendářních dnů doby zaměstnání za sledované období / - - - - - / -\n672 Počet kalendářních dnů, po které pracovník vykonával zaměstnání zařazené do jednotlivých pracovních kategorií pro důchodové zabezpečení / / -/ - / / /\n681 Počet kalendářních dnů, za něž byly vyplaceny dávky nemocenského pojištění / / / / / / / /\n682 Počet kalendářních dnů ostatních náhradních dob pro důchodové zabezpečení / / -- / / / /\n683 Počet kalendářních dnů služby v ozbrojených silách / / / / / / - -\n710 Základní časové mzdy, platy a úkolové mzdy / - - - / - / -\n720 Příplatky a doplatky ke mzdě / - - - / - - -\n730 Prémie a odměny / / - - / - - -\n740 Podíly na hospodářských výsledcích / / - - / - - -\n750 Náhrady mezd / / - - / - - -\n760 Ostatní osobni výdaje / - - - / - - -\n770 Výplaty nezahrnované do mzdových prostředků / - - - / - - -\n780 Výplaty nezahrnované do hrubé mzdy pro účely důchodového zabezpečení / - - - / - - -\n791 Úhrn hrubých příjmů (č. 710 až 770) / / - - / // /\n792 Celková mzda (č. 710 až 750) / / - - / - / /\n793 Hrubá mzda pro důchodové zabezpečeni (= 792 + 760 - 780) / / / / / / / /\n810 Dávky nemocenského pojištění / / - - / / / /\n820 Přídavky na děti / / / / / / / /\n910 Daň ze mzdy / / - - / / / -\nU nově přijatých pracovníků vedou organizace ještě tyto ukazatele:\n004 Číslo organizace předchozího zaměstnání / / / / / / / /\n005 Sídlo předchozího trvalého pracoviště / / / / / / / /\n313 Zaměstnání vykonávané v předchozí organizaci / / / / / / / /\n319 Datum ukončení předchozího zaměstnání / / / / / / / /"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Na stálou potřebu, na pracovním místě, které má být trvale obsazeno.\n2) Týká se jak členů JZD, tak i pracovníků v pracovním poměru k JZD.\n3) Na sezónu nebo kampaň nebo výjimečně na jinou krátkodobou časově omezenou potřebu nad 6 dní do 1 měsíce.\n4) Případy, pro něž je vedení ukazatele předepsáno, jsou vyznačeny šikmou svislou čarou (/), případy, kdy ukazatel není předepsán, jsou vyznačeny pomlčkou (-)."
+    }
+  ],
+  "definitions": []
+}

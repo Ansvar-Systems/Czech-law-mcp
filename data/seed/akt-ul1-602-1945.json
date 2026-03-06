@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:602/1945",
+  "type": "statute",
+  "title": "602/1945 Ú. l. I, Vyhláška ministra zemědělství, kterou se vydávají předpisy pro výrobu surového dříví v lese.",
+  "title_en": "",
+  "short_name": "602/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-19",
+  "in_force_date": "1945-12-19",
+  "url": "https://www.e-sbirka.cz/ul1/1945/602",
+  "description": "Vyhláška ministra zemědělství, kterou se vydávají předpisy pro výrobu surového dříví v lese.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V zemích České a Moravskoslezské platí pro výrobu, měření a druhování dříví v lesích předpisy uvedené v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nedodržování předpisů uvedených v příloze této vyhlášky se trestá podle ustanovení § 2 vl. nař. čís. 55/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Dosavadní předpisy o výrobě měření a druhování dříví v lesích se zrušují."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha\nk vyhlášce ministra zemědělství, kterou se vydávají předpisy pro výrobu surového dříví v lese.\nPředpisy pro výrobu surového dříví v lese.\nZkratky (pr. s k. = průměr s kůrou, b. k. = bez kůry, prm = prostorový metr, plm = plnometr)."
+    }
+  ],
+  "definitions": []
+}

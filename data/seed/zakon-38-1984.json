@@ -1,0 +1,45 @@
+{
+  "id": "cz:38/1984",
+  "type": "statute",
+  "title": "38/1984 Sb., Redakční sdělení o opravě tiskových chyb 1. v zákoně č. 45/1983 Sb. – úplném znění hospodářského zákoníku, jak vyplývá z pozdějších zákonných změn a doplňků, a) v českém vydání, b) ve slovenském vydání a 2. v zákoně č. 147/1983 Sb., o zbraních a střelivu, v českém vydání",
+  "title_en": "",
+  "short_name": "38/1984 Sb.",
+  "status": "in_force",
+  "issued_date": "1984-04-18",
+  "in_force_date": "1984-04-18",
+  "url": "https://www.e-sbirka.cz/sb/1984/38",
+  "description": "Redakční sdělení o opravě tiskových chyb 1. v zákoně č. 45/1983 Sb. – úplném znění hospodářského zákoníku, jak vyplývá z pozdějších zákonných změn a doplňků, a) v českém vydání, b) ve slovenském vydání a 2. v zákoně č. 147/1983 Sb., o zbraních a střelivu, v českém vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v zákoně č. 45/1983 Sb. – úplném znění hospodářského zákoníku, jak vyplývá z pozdějších zákonných změn a doplňků,\na) v českém vydání,\nb) ve slovenském vydání a"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. v zákoně č. 147/1983 Sb., o zbraních a střelivu, v českém vydání"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1.a) § 17 odst. 2 část první věty za středníkem má správně znít: „pro jejich právní úkony a závazkové vztahy platí obdobně ustanovení tohoto zákona a jiných právních předpisů, týkající se socialistických organizací.“;\nv přehledu hospodářského zákoníku na str. 309 v části třetí, hlavě druhé má paragrafování správně znít: „§ 94–96“;"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1.b) § 171 odst. 3 věta první má správně znít:\n„Výrobky, ktoré neboli dodané ani do konca roka, v ktorom mali byť podľa zmluvy dodané, je dodávateľ povinný dodať v nasledujúcom roku.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. § 14 odst. 1 část věty za hranatou závorku má správně znít: „a její kinetická energie dosahuje....“."
+    }
+  ],
+  "definitions": []
+}

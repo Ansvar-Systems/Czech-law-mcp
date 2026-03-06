@@ -1,0 +1,81 @@
+{
+  "id": "cz:ul1:102/1947",
+  "type": "statute",
+  "title": "102/1947 Ú. l. I, Vyhláška ministra výživy o výrobě a odbytu droždí.",
+  "title_en": "",
+  "short_name": "102/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-01-30",
+  "in_force_date": "1947-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/102",
+  "description": "Vyhláška ministra výživy o výrobě a odbytu droždí.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Množství melasy pro výrobu droždí stanoví pro jednotlivé výrobce ministerstvo výživy po slyšení Hospodářské skupiny lihovarského průmyslu Ústředního svazu čsl. průmyslu, která je též přiděluje. Ostatní suroviny určené pro výrobu droždí rozvrhuje podle pokynů ministerstva výživy Hospodářská skupina lihovarského průmyslu Ústředního svazu čsl. průmyslu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Droždím (kvasnicemi) se rozumí lihovarské kvasnice a také t. zv. pivovarské kvasnice, vyrobené v drožďárnách, jakož i veškeré jiné kvasnice, jmenovitě vinné, pokud jsou nějakým způsobem, na př. propíráním, slazením anebo jinak uzpůsobeny k tomu, aby lihovarské kvasnice ve spotřebě nahrazovaly. K těmto nepatří kvasnice vyrobené v pivovarech k účelům pivovarským a t. zv. odpadové pivovarské kvasnice ve smyslu vyhlášky předsedy vlády ze dne 8. června 1940, č. 227 Sb., o úpravě výroby a získávání vedlejších výrobků a odpadů průmyslu sladařského a pivovarského."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zcizování přidělených surovin pro výrobu droždí v nezpracovaném stavu se zakazuje."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Velkospotřebitelé (pekaři, cukráři, výrobci trvanlivého pečiva, vojsko a jiné kasernované útvary — SNB a pod. — hostince a pod. podniky, závodní kuchyně, ústavy a pod.) maloobchodníci a rozdělovači droždí smějí droždí pro svoji potřebu odebírati pouze u svých dosavadních dodavatelů.\n(2) Změna dodavatele droždí může se státi jen po předchozím schválení Svazu československých drožďáren v Praze podle pokynů ministerstva výživy."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Výrobci droždí a rozdělovači droždí jsou povinni dodávati droždí podle pokynů Svazu čsl. drožďáren vydaných se souhlasem ministerstva výživy.\n(2) Dodávky droždí k průmyslovému a živnostenskému zpracováni pro jiné podniky než uvedené v § 4 se smějí uskutečniti jen po předchozím souhlasu Svazu čsl. drožďáren se schválením ministerstva výživy."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Výrobci droždí a rozdělovači droždí jsou povinni vésti záznamy o výrobě, dovozu, nákupu a výdeji zboží.\n(2) Výrobci droždí jsou povinni předkládati Svazu čsl. drožďáren nejpozději do 5. každého měsíce „Hlášení o výrobě a odbytu droždí“ za uplynulý měsíc na tiskopise vydaném Svazem čsl. drožďáren.\n(3) Výrobci, případně rozdělovači droždí jsou povinni uschovati záznamy a opisy hlášení (odstavec 1 a 2) i s doklady po dobu tří let."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Ministerstvo výživy může povoliti v odůvodněných případech výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Vyhláška ministra výživy ze dne 6. listopadu 1945 o odběru droždí od 7. příd. období (Ú. l. I č. 130/1945, běž. č. 381) se zrušuje."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu č. 118/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1947."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Droždím (kvasnicemi",
+      "definition": "lihovarské kvasnice a také t",
+      "source_provision": "§ 2."
+    }
+  ]
+}

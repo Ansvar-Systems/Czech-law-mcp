@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:19/1952",
+  "type": "statute",
+  "title": "19/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 02 2301, ČSN 02 2311, ČSN 02 2315, ČSN 02 2380.",
+  "title_en": "",
+  "short_name": "19/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-01-24",
+  "in_force_date": "1952-02-08",
+  "url": "https://www.e-sbirka.cz/ul0/1952/19",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 02 2301, ČSN 02 2311, ČSN 02 2315, ČSN 02 2380.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Normy ČSN 02 2301, ČSN 02 2311, ČSN 02 2315, ČSN 02 2380 „Drobné nýty“ jsou od 1. ledna 1952 technickými státními normami."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Normy obsahují údaje o rozměrech, materiálu a způsobu provedení."
+    }
+  ],
+  "definitions": []
+}

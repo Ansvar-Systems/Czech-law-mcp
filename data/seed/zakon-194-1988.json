@@ -1,0 +1,827 @@
+{
+  "id": "cz:194/1988",
+  "type": "statute",
+  "title": "194/1988 Sb., Zákon o působnosti federálních ústředních orgánů státní správy",
+  "title_en": "",
+  "short_name": "194/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-12-14",
+  "in_force_date": "1990-07-19",
+  "url": "https://www.e-sbirka.cz/sb/1988/194",
+  "description": "Zákon o působnosti federálních ústředních orgánů státní správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ústřední orgány státní správy, v jejichž čele stojí člen vlády Československé socialistické republiky (dále jen „federální ministerstva“) vykonávají v oblastech jim svěřených státní správu v rozsahu působnosti federace. Jejich předním úkolem je podílet se na tvorbě jednotné státní politiky Československé socialistické republiky a ve své působnosti ji uskutečňovat."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva jako součást jednotného výkonného řídícího centra odpovídají ve své působnosti za jednotné zabezpečování strategických cílů a záměrů hospodářského a sociálního rozvoje. Základní funkce řízení hospodářského a sociálního rozvoje uplatňují prostřednictvím komplexních státních plánů hospodářského a sociálního rozvoje Československé socialistické republiky (dále jen „státní plány“), obecně závazných právních předpisů, cílevědomého zdokonalování hospodářského mechanismu a usměrňování vývoje ekonomiky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva se ve věcech národohospodářského plánování podílejí na tvorbě souhrnné prognózy a stanovení dlouhodobých cílů a základních směrů vědeckotechnického, hospodářského a sociálního rozvoje a na vypracování návrhů státních plánů.\n(2) Federální ministerstva v případech stanovených zákonem plní úkoly při uskutečňování státních plánů a při usměrňování vývoje ekonomiky.\n(3) Federální ministerstva analyzují vývoj plnění záměrů, cílů a proporcí státního plánu v oblasti své působnosti. Při usměrňování vývoje ekonomiky uplatňují, popřípadě navrhují uplatnění nástrojů národohospodářského řízení v souladu se státním pětiletým plánem, a to podle povahy své působnosti buď při plnění průřezových funkcí, nebo při řízení národohospodářských odvětví a komplexů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva se ve věcech státní finanční a cenové politiky podílejí na tvorbě koncepcí finanční a cenové politiky a činí opatření pro jejich zabezpečení, vypracovávají podklady pro návrh státního rozpočtu federace a návrh plánu vývoje cen, vypracovávají podklady pro návrhy finančně ekonomických nástrojů a kontrolují ve své působnosti dodržování finanční a cenové kázně."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva se ve věcech vědeckotechnického a investičního rozvoje podílejí na tvorbě koncepce vědní a vědeckotechnické politiky včetně oblasti průmyslových práv a koncepce státní investiční politiky a zabezpečují jejich uskutečňování. Podílejí se na základě zákona na tvorbě a schvalování technických norem, na provádění státního zkušebnictví a na zvyšování jakosti výrobků, prací a služeb."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva se podílejí na vypracovávání koncepce tvorby a ochrany životního prostředí a zabezpečují podmínky pro její uskutečňování."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva se podílejí na tvorbě koncepce státní politiky zaměstnanosti, státní mzdové politiky, produktivity práce a efektivního využívání pracovních sil a na jejím uskutečňování; zpracovávají podklady pro návrhy pravidel usměrňování mzdových prostředků a provádějí mzdovou kontrolu.\n(2) Federální ministerstva se podílejí na tvorbě státní sociální politiky a pečují o rozvoj sociálních činností organizací zejména na úseku bezpečnosti, hygieny a ochrany zdraví při práci a péče o pracovní podmínky pracujících."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva se v oblasti vnějších ekonomických vztahů podílejí na tvorbě koncepce zapojení odvětví a oborů do mezinárodní dělby práce, zejména socialistické ekonomické integrace, a na jejím uskutečňování."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva vytvářejí podmínky pro rozvoj podnikatelské činnosti a hospodářské soutěže a přijímají protimonopolní opatření.\n(2) Federální ministerstva jsou zakladateli státních podniků, vykonávají vůči nim funkci orgánů hospodářského řízení za podmínek a v rozsahu stanoveném zákonem a kontrolují jejich hospodářskou a sociální činnost.\n(3) Federální ministerstva zřizují podle zvláštních předpisů další socialistické organizace; za podmínek stanovených v těchto předpisech řídí a kontrolují jejich činnost.\n(4) Federální ministerstva jako zakladatelé, popřípadě zřizovatelé socialistických organizací jsou povinna dbát o racionální organizační strukturu výrobně technické, vědeckovýzkumné a oběhové základny a o její soulad s hlavními směry rozvoje národního hospodářství.\n(5) Federální ministerstva poskytují socialistickým organizacím informace o stavu a záměrech vývoje ekonomiky odvětví a oborů, o stavu a tendencích vývoje světové ekonomiky a o záměrech sociálního rozvoje, vývoje životního prostředí a hospodaření s přírodními zdroji."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva v oblasti své působnosti sledují a vyhodnocují uplatňování a působení nástrojů hospodářského mechanismu a předkládají návrhy na jejich zdokonalování.\n(2) Federální ministerstva vykonávají v oblasti své působnosti kontrolu jako nedílnou součást své řídící, organizátorské a koncepční činnosti."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva pečují na svém úseku o náležitou právní úpravu patřící do působnosti federace. Připravují návrhy zákonů Federálního shromáždění a nařízení vlády Československé socialistické republiky. Na základě zákonů Federálního shromáždění a v jejich mezích vydávají obecně závazné právní předpisy, jsou-li k tomu zákonem zmocněna. Sledují a v rámci své působnosti kontrolují, jak se tyto předpisy uplatňují, vyhodnocují jejich účinnost a přijímají potřebná opatření."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva zabezpečují ve své působnosti úkoly související se sjednáváním mezinárodních smluv, s rozvojem mezistátních styků a mezinárodní spolupráce v hospodářské a vědeckotechnické oblasti i v dalších oblastech. Federální ministerstva zabezpečují ve své působnosti úkoly, které vyplývají pro Československou socialistickou republiku z mezinárodních smluv, jakož i z členství v mezinárodních organizacích."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Federální ministerstva odpovídají ve své působnosti za úkoly v oblasti obrany a bezpečnosti Československé socialistické republiky. V rozsahu stanoveném zákonem činí opatření nutná k zabezpečení potřeb ozbrojených sil a k přípravě státních orgánů, socialistických organizací a občanů k obraně. Připravují potřebné návrhy a předkládají je vládě Československé socialistické republiky, popřípadě Radě obrany státu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva se aktivně podílejí na plnění úkolů jednotného výkonného řídícího centra; přitom jsou povinna vzájemně úzce spolupracovat, vyměňovat si informace a podklady a koordinovat svoji činnost s cílem dosáhnout jednotného, komplexního, efektivního a účinného zabezpečování cílů a záměrů hospodářského a sociálního rozvoje.\n(2) Federální ministerstva jsou povinna o své činnosti pravidelně informovat veřejnost."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva jsou povinna soustavně spolupracovat s příslušnými orgány republik zejména při přípravě, tvorbě a realizaci jednotné státní hospodářské a sociální politiky, návrhů zákonů Federálního shromáždění a dalších obecně závazných právních předpisů, mezinárodních smluv, nástrojů hospodářského mechanismu, opatření k usměrňování vývoje ekonomiky a dalších významných opatření vlády Československé socialistické republiky. Využívají jejich rozborů, koncepcí rozvoje jednotlivých odvětví a jiných podkladů. Opírají se o jejich zkušenosti a zabývají se jejich podněty.\n(2) Federální ministerstva při plnění úkolů ve věcech patřících do společné působnosti federace a republik a při zabezpečování dalších významných úkolů socialistického státu jsou povinna postupovat v úzké součinnosti s ústředními orgány státní správy republik, a to zejména v těch oblastech výkonu státní správy a plnění průřezových funkcí v jednotném řídícím centru, kde je tato součinnost potřebná pro úspěšnou realizaci strategických záměrů a cílů jednotné státní politiky Československé socialistické republiky. Za tím účelem zejména:\na) společně s příslušnými ústředními orgány státní správy republik zpracovávají návrhy státních plánů a státních rozpočtů;\nb) v součinnosti s příslušnými ústředními orgány státní správy republik zpracovávají návrhy koncepcí finanční a cenové politiky, vědní a vědeckotechnické politiky a státní investiční politiky, tvorby a ochrany životního prostředí, státní politiky zaměstnanosti a státní mzdové politiky, sociální politiky, zemědělské politiky a politiky výživy lidu a zahraničně obchodní politiky ve věcech zabezpečujících uspokojování potřeb vnitřního trhu v republikách a potřeb odvětví řízených republikovými orgány;\nc) ve spolupráci s příslušnými ústředními orgány státní správy republik zpracovávají návrhy zásad státní politiky v oblastech uskutečňování základních funkcí socialistického státu, především v oblasti zahraniční politiky, vnitřního pořádku a bezpečnosti státu ve věcech týkajících se zabezpečení potřeb republik;\nd) ve spolupráci s příslušnými ústředními orgány státní správy republik zpracovávají návrhy koncepcí státní politiky národohospodářských komplexů, odvětví a oborů ve věcech týkajících se potřeb odvětví řízených orgány republik.\n(3) Federální ministerstva sledují plnění úkolů vyplývajících z jednotného uplatňování státní politiky federace a dbají v součinnosti s příslušnými orgány republik o zevšeobecňování pozitivních zkušeností a o odstraňování případných nedostatků. Projednávají s nimi opatření, která je třeba v tomto směru učinit.\n(4) Federální ministerstva mohou vyžadovat podklady a další údaje, které potřebují pro svou činnost, od příslušných orgánů republik. V rozsahu a způsobem stanoveným tímto zákonem a zvláštními předpisy mohou po dohodě s orgány republik požadovat podklady a další údaje od socialistických a jiných organizací v působnosti republik. Federální ministerstva poskytují příslušným orgánům republik podklady a další údaje, potřebné pro jejich činnost."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) V zájmu jednotného zabezpečování státní politiky federace dbají federální ministerstva v dohodě s orgány republik o souladný rozvoj těch oblastí, které patří do působnosti republik. Federální ministerstva vytvářejí podmínky pro koordinaci řešení otázek společného zájmu, které vyplývají z potřeby jednotného zabezpečování státní politiky federace na celém území Československé socialistické republiky.\n(2) V zájmu efektivního rozvoje jednotné československé ekonomiky zabezpečují federální ministerstva v souladu se státními plány i potřeby odvětví řízených orgány republik. Odvětví jednotné československé ekonomiky, řízená orgány republik, zabezpečují v souladu se státními plány též potřeby odvětví řízených federálními orgány."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) V zájmu jednotného uskutečňování státní politiky na celém území Československé socialistické republiky zabezpečují členové vlády Československé socialistické republiky spolu s příslušnými členy vlád republik vzájemnou součinnost a koordinaci.\n(2) Členové vlády Československé socialistické republiky projednávají návrhy opatření v oblasti společné působnosti Československé socialistické republiky a obou republik před jejich předložením vládě Československé socialistické republiky se členy vlád republik, pokud se jich navrhovaná opatření dotýkají; nedosáhne-li se dohody, informují vládu Československé socialistické republiky, která rozhodne."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "(1) Federální ministerstva informují veřejnost o návrzích závažných opatření týkajících se zejména životní úrovně, ochrany zdraví, sociálních a kulturních potřeb občanů.\n(2) Federální ministerstva plní své úkoly v součinnosti s Československou akademií věd, využívají ve své činnosti poznatků dalších vědeckých institucí a pracovišť vědeckovýzkumné základny a zapojují je zejména do prací na řešení problémů koncepční povahy."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo pro strategické plánování je ústředním orgánem státní správy České a Slovenské Federativní Republiky pro dlouhodobou strategii hospodářského a sociálního rozvoje."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo pro strategické plánování společně s ústředními orgány pro národohospodářskou strategii republik a ve spolupráci s ústředními orgány federace a republik koordinuje přípravu strategie hospodářského a sociálního rozvoje České a Slovenské Federativní Republiky, vypracovává její návrhy a předkládá je vládě České a Slovenské Federativní Republiky.\n(2) Federální ministerstvo pro strategické plánování v procesu přípravy a tvorby strategie hospodářského a sociálního rozvoje České a Slovenské Federativní Republiky vypracovává zejména návrhy:\na) základních směrů, věcných a systémových podmínek hospodářského a sociálního rozvoje a státní politiky strukturálních změn;\nb) koncepcí rozvoje vědy a vědeckotechnické politiky;\nc) koncepce ekonomického zabezpečení obranyschopnosti a bezpečnosti státu;\nd) dlouhodobých koncepcí zapojení československé ekonomiky do světové ekonomiky;\ne) hlavních záměrů v oblasti životních podmínek a životní úrovně obyvatelstva."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo pro strategické plánování vyhodnocuje uskutečňování strategie hospodářského a sociálního rozvoje České a Slovenské Federativní Republiky, jakož i opatření přijatá k její realizaci a jejich účinnost.\nFederální výbor pro životní prostředí"
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální výbor pro životní prostředí je ústředním orgánem státní správy České a Slovenské Federativní Republiky pro oblast životního prostředí."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální výbor pro životní prostředí v úzké součinnosti s ústředními orgány republik pro životní prostředí a dalšími federálními ústředními orgány státní správy a ústředními orgány státní správy republik zpracovává návrh státní ekologické politiky a způsoby její realizace. Po projednání ve vládách republik předkládá návrh této politiky vládě České a Slovenské Federativní Republiky.\n(2) Federální výbor pro životní prostředí v úzké součinnosti s ústředními orgány republik pro životní prostředí a s dalšími ústředními orgány federace a republik způsob realizace státní ekologické politiky, zejména:\na) navrhuje programy realizace státní ekologické politiky, včetně vybraných staveb k ochraně životního prostředí, převážně financovaných z rozpočtu federace;\nb) koordinuje v návaznosti na mezinárodní dohody celostátní informační systém o životním prostředí;\nc) podněcuje a podporuje řešení vybraných vědeckých a technických problémů v oblasti životního prostředí;\nd) navrhuje ekonomické nástroje realizace státní ekologické politiky.\n(3) Federální výbor pro životní prostředí koordinuje plnění úkolů na úseku územního plánování a stavebního řádu ve věcech, které se svými důsledky dotýkají obou republik, anebo které se dotýkají zájmů sousedních států.\n(4) Federální výbor pro životní prostředí uskutečňuje mezinárodní spolupráci v působnosti federace a koordinuje mezinárodní spolupráci v působnosti republik.\n(5) Federálnímu výboru pro životní prostředí podléhá státní dozor nad jadernou bezpečností.\nFederální ministerstvo zahraničních věcí"
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničních věcí je ústředním orgánem státní správy Československé socialistické republiky pro oblast zahraniční politiky."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničních věcí zabezpečuje vztahy Československé socialistické republiky k ostatním státům a k mezinárodním organizacím. Řídí, koordinuje a zabezpečuje provádění zahraniční politiky Československé socialistické republiky. Dbá o uplatňování zájmů zahraniční politiky Československé socialistické republiky v činnosti všech orgánů federace i republik."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničních věcí\na) zajišťuje ochranu práv a zájmů Československé socialistické republiky a jejich občanů v zahraničí;\nb) řídí československé zastupitelské úřady v zahraničí;\nc) plní úkoly při zabezpečování styků s orgány cizích států v Československé socialistické republice a v zahraničí;\nd) plní úkoly při správě majetku československého státu v zahraničí."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničních věcí plní v rozsahu stanoveném vládou Československé socialistické republiky úkoly při zabezpečování mezinárodních styků ve věcech, které patří do výlučné působnosti republik."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničních věcí\na) koordinuje, popřípadě zabezpečuje přípravu sjednávání a vnitrostátního projednávání mezinárodních smluv;\nb) zabezpečuje vyhlašování mezinárodních smluv, jimiž je Československá socialistická republika vázána;\nc) sleduje dodržování a provádění mezinárodních smluv z hlediska uplatňování zájmů zahraniční politiky Československé socialistické republiky.\nFederální ministerstvo národní obrany"
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo národní obrany je ústředním orgánem státní správy Československé socialistické republiky pro zabezpečování obrany Československé socialistické republiky a orgánem pro řízení a vedení Československé lidové armádě a pro řízení civilní obrany."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo národní obrany odpovídá za uskutečňování koncepce branné politiky Československé socialistické republiky a navrhuje potřebná opatření vládě Československé socialistické republiky, Radě obrany státu a prezidentu Československé socialistické republiky jako vrchnímu veliteli ozbrojených sil."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo národní obrany vypracovává\na) návrh zásad řízení obrany Československé socialistické republiky a koordinuje činnost ústředních orgánů a socialistických organizací při přípravě k obraně;\nb) návrh komplexního plánu výstavby Československé lidové armády;\nc) základní úkoly přípravy občanů k obraně Československé socialistické republiky a navrhuje opatření k jejich realizaci;\nd) koncepci, zaměření a hlavní úkoly civilní obrany."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo národní obrany\na) řídí výstavbu Československé lidové armády a zabezpečuje její všestrannou připravenost a nepřetržité velení vojskům;\nb) rozpracovává použití Československé lidové armády za branné pohotovosti státu a řídí vojenskou zpravodajskou službu;\nc) zabezpečuje nedotknutelnost vzdušného prostoru Československé socialistické republiky a koordinaci vojenského letového provozu s civilním letovým provozem;\nd) vypracovává opatření k zabezpečení Československé lidové armády všemi druhy výzbroje, bojové techniky a materiálu; provádí u dodavatelských organizací kontrolu jakosti výrobků určených pro zabezpečení obrany státu."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo národní obrany\na) organizuje a provádí opatření k mobilizaci Československé lidové armády, k vedení evidence občanů podléhajících branné povinnosti a k vedení evidence věcných prostředků, které budou za branné pohotovosti poskytnuty pro potřebu ozbrojených sil Československé socialistické republiky;\nb) povolává občany Československé socialistické republiky k plnění branné povinnosti a v rozsahu své působnosti stanoví způsob výkonu této povinnosti.\nFederální ministerstvo vnitra"
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra je ústředním orgánem státní správy Československé socialistické republiky pro oblast vnitřního pořádku a bezpečnosti pokud zvláštní zákon nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo vnitra vypracovává návrh koncepce bezpečnostní politiky Československé socialistické republiky a ve vymezeném rozsahu zabezpečuje její uskutečňování.\n(2) Federální ministerstvo vnitra řídí ve vymezeném rozsahu Sbor národní bezpečnosti a je orgánem pro velení Pohraniční stráži a vojskům ministerstva vnitra."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra při uskutečňování bezpečnostní politiky\na) připravuje zaměření hlavních úkolů Sboru národní bezpečnosti, Pohraniční stráže a vojsk ministerstva vnitra;\nb) připravuje zásady organizace Sboru národní bezpečnosti, Pohraniční stráže a vojsk ministerstva vnitra;\nc) stanoví zásady jednotného výkonu služby ve Sboru národní bezpečnosti a zabezpečuje rozvoj metod a prostředků bezpečnostní práce a jejich sjednocování;\nd) stanoví zásady soustavy politické a odborné přípravy příslušníků Sboru národní bezpečnosti, Pohraniční stráže a vojáků vojsk ministerstva vnitra;\ne) stanoví zdravotnické zabezpečení příslušníků Sboru národní bezpečnosti, Pohraniční stráže a vojáků vojsk ministerstva vnitra;\nf) vytváří předpoklady pro účast organizací a občanů na realizaci bezpečnostní politiky."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra navrhuje vládě Československé socialistické republiky\na) opatření k jednotnému provádění bezpečnostní politiky;\nb) základní zásady organizační výstavby a celkové početní stavy Sboru národní bezpečnosti a Pohraniční stráže."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra plní úkoly při ochraně státních hranic Československé socialistické republiky."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo vnitra zabezpečuje výkon státní správy ve věcech\na) vydávání cestovních dokladů, povolování vstupu na území Československé socialistické republiky a povolování pobytu cizinců;\nb) státních hranic, jejich vyměřování, vyznačování, udržování a vedení hraničního dokumentárního díla;\nd) státních symbolů Československé socialistické republiky.\n(2) Federální ministerstvo vnitra navrhuje právní úpravu ochrany státního, hospodářského a služebního tajemství a kontroluje její dodržování a metodicky řídí a kontroluje šifrovou službu."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra zajišťuje zamezení přepravy, dovozu a šíření věcí zahraničního původu, jejichž obsah je v rozporu s právem chráněnými zájmy nebo porušuje mezinárodní smlouvy."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo vnitra zajišťuje jednotnou telekomunikační síť Sboru národní bezpečnosti, Pohraniční stráže a vojsk ministerstva vnitra.\nFederální ministerstvo financí"
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí je ústředním orgánem státní správy Československé socialistické republiky pro oblast financí a cen."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí odpovídá za tvorbu koncepce finanční a rozpočtové politiky Československé socialistické republiky a ve vymezeném rozsahu zabezpečuje její uskutečňování."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí\na) vypracovává zásady finanční a rozpočtové politiky Československé socialistické republiky na pětileté období jako součást přípravy pětiletého státního plánu;\nb) navrhuje vládě Československé socialistické republiky rámcové zásady dotační a odpisové politiky, jakož i úpravu odvodů, daní a poplatků ve vymezeném rozsahu;\nc) navrhuje vládě Československé socialistické republiky úpravu způsobu zabezpečení příjmů státního rozpočtu federace, čerpání jeho výdajů a vztahů mezi státním rozpočtem federace a státními rozpočty republik a úpravu zásad rozpočtového hospodaření."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo financí předkládá vládě Československé socialistické republiky\na) ve spolupráci se Státní plánovací komisí návrh pětiletého rozpočtového výhledu federace;\nb) návrh státního rozpočtu federace;\nc) návrh státního závěrečného účtu federace.\n(2) Federální ministerstvo financí předkládá vládě Československé socialistické republiky přehled o souhrnu pětiletých rozpočtových výhledů, státních rozpočtů a státních závěrečných účtů za Československou socialistickou republiku.\n(3) Federální ministerstvo financí\na) vypracovává návrh finanční části státních plánů (ve vazbě na úhrnný finanční plán);\nb) provádí rozbory finančního hospodaření za Československou socialistickou republiku podle podkladů poskytovaných mu federálními orgány a orgány republik v rozsahu dohodnutém s ústředními orgány státní správy republik pro finance.\n(4) Federální ministerstvo financí vydává na základě tohoto zákona obecně závazné právní předpisy o způsobu odpisování základních prostředků všech socialistických organizací."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí zajišťuje jednotné provádění a uplatňování zákonů Federálního shromáždění o odvodech a daních, jakož i zákonů o poplatcích, které mají vztah k zahraničí nebo souvisí s výkonem působnosti orgánů federace."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí\na) vykonává dohled nad prováděním devizového monopolu Československé socialistické republiky;\nb) navrhuje vládě Československé socialistické republiky ve spolupráci s federálním ministerstvem zahraničního obchodu a federálním ministerstvem zahraničních věcí koncepci a ekonomické podmínky v oblasti poskytovaných a přijímaných vládních úvěrů ve vnějších vztazích; společně s federálním ministerstvem zahraničního obchodu zabezpečuje jejich uskutečňování;\nc) se Státní bankou československou předkládá vládě Československé socialistické republiky návrhy na úpravy devizového hospodářství."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí předkládá se Státní bankou československou vládě Československé socialistické republiky návrhy zásad pro stanovování kursů československé koruny k cizím měnám."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí zajišťuje zpracování finančních, měnových a devizových otázek vyplývajících z účasti Československé socialistické republiky v Radě vzájemné hospodářské pomoci a připravuje návrhy na postup československých delegací v orgánech Rady vzájemné hospodářské pomoci v těchto otázkách."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí navrhuje a v rozsahu zmocnění daného vládou Československé socialistické republiky stanoví v dohodě s federálním ministerstvem zahraničního obchodu, Státní plánovací komisí, Federálním cenovým úřadem a Státní bankou československou finančně ekonomické nástroje v zahraničním obchodě a způsob uplatňování finančně ekonomických vztahů souvisejících s prováděním zahraničního obchodu, pokud ovlivňují státní rozpočty; rozpočtuje tyto vztahy a zabezpečuje jejich uplatňování ve vztahu k organizacím řízeným federálními orgány."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo financí\na) určuje jednotné zásady organizace a výkonu finanční kontroly;\nb) provádí revize hospodaření federálních orgánů, federálních fondů a organizací řízených federálními orgány.\n(2) Federální ministerstvo financí stanoví podmínky pro výkon auditorské činnosti u podniků se zahraniční majetkovou účastí a pověřuje osoby nebo organizace výkonem funkce auditorů."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo financí vykonává působnost ve věcech účetnictví, rozpočetnictví, kalkulací a účetního výkaznictví včetně dohledu v rozsahu stanoveném zákonem.\n(2) Federální ministerstvo financí odpovídá za koncepci a rozvoj soustavy informací pro státní rozpočty a její propojení s ostatními celostátními informačními soustavami.\nFederální ministerstvo zahraničního obchodu"
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničního obchodu je ústředním orgánem státní správy Československé socialistické republiky pro oblast hospodářských styků se zahraničím."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo zahraničního obchodu odpovídá za tvorbu koncepce zahraničně obchodní politiky Československé socialistické republiky a zajišťuje její provádění ve styku s příslušnými orgány jiných států.\n(2) Federální ministerstvo zahraničního obchodu řídí a kontroluje provádění zahraničně obchodní politiky Československé socialistické republiky.\n(3) Federální ministerstvo zahraničního obchodu zajišťuje ve spolupráci s federálním ministerstvem financí a Státní bankou československou soulad zahraničně obchodní politiky s devizovou politikou."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničního obchodu vypracovává souhrnné podklady pro státní plány v oblasti zahraničního obchodu včetně podkladů pro koordinaci státních plánů s plány členských států Rady vzájemné hospodářské pomoci."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničního obchodu stanoví v souladu se zásadami státní cenové politiky a se zahraničně obchodní politikou pravidla pro provádění cenové politiky v zahraničně obchodní oblasti."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo zahraničního obchodu vykonává působnost ve věcech celnictví, celní politiky a celních tarifů. Zvláštní složkou federálního ministerstva zahraničního obchodu pro výkon této působnosti je Ústřední celní správa.\nFederální ministerstvo práce a sociálních věcí"
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo práce a sociálních věcí je ústředním orgánem státní správy Československé socialistické republiky pro oblast práce, mzdové a sociální politiky."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo práce a sociálních věcí odpovídá za tvorbu koncepce a zásad politiky zaměstnanosti, produktivity práce, efektivního využívání pracovních sil, jejich reprodukce a kvalifikace, mzdové politiky a sociální politiky Československé socialistické republiky a dbá o jejich uskutečňování."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo práce a sociálních věcí vypracovává souhrnné podklady pro státní plány v oblasti práce, mzdové a sociální politiky."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo práce a sociálních věcí předkládá vládě Československé socialistické republiky návrhy\na) jednotných zásad pracovněprávních vztahů;\nb) zásad sociálních a personálních činností organizací, rozvoje účasti pracujících na řízení a uzavírání kolektivních smluv;\nc) podmínek k vytváření plné zaměstnanosti, k systému regulace rozmisťování pracovních sil a k vytváření společensky potřebných pracovních míst;\nd) rozsahu a podmínek odborné přípravy a zaměstnávání cizích státních příslušníků v Československé socialistické republice a zásad zaměstnávání československých občanů v zahraničí."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo práce a sociálních věcí předkládá vládě Československé socialistické republiky\na) návrhy jednotných zásad mzdové politiky včetně usměrňování mzdového vývoje a hodnotí jejich účinnost;\nb) návrhy zásad poskytování naturálních požitků a náhrad výdajů spojených s výkonem práce.\n(2) Federální ministerstvo práce a sociálních věcí upravuje ve vztahu k federálním orgánům a organizacím řízeným federálními orgány poskytování odměn občanům mimo pracovní poměr, pokud to nepatří do působnosti jiného orgánu."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo práce a sociálních věcí předkládá vládě Československé socialistické republiky návrhy směřující k plnění úkolů federace v oblasti sociální politiky, zejména ve věcech důchodového a nemocenského zabezpečení, sociální péče, společenské péče o rodinu a vytváření příznivých podmínek pro rozvoj populace.\nFederální ministerstvo hospodářství"
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo hospodářství je ústředním orgánem státní správy České a Slovenské Federativní Republiky pro uskutečňování strategie hospodářského a sociálního rozvoje a realizaci státní hospodářské, zejména strukturální politiky."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo hospodářství\na) v úzké součinnosti s příslušnými orgány republik koordinuje přípravu státní strukturální, zejména průmyslové, energetické, zemědělské, výživové a surovinové politiky, vypracovává její návrhy a předkládá je vládě České a Slovenské Federativní Republiky;\nb) rozpracovává koncepci státní investiční politiky včetně její realizace a zabezpečení státní expertizy u investičních akcí, u nichž mají být použity finanční zdroje z rozpočtu federace;\nc) formuluje státní podnikatelské záměry a priority, vyhlašuje konkursní řízení na státní zakázky a obecně podporuje podnikatelskou činnost;\nd) navrhuje a koordinuje programy a projekty k realizaci státní vědeckotechnické politiky včetně způsobů jejich financování, nákupu licencí a zabezpečení soustavy vědeckých, technických a ekonomických informací;\ne) při realizaci stabilizační politiky uplatňuje v mezích stanovených zákonem vůči jednotlivým subjektům nástroje přímé regulace;\nf) předkládá vládě návrhy na použití prostředků přímé zahraniční pomoci a koordinuje a vyhodnocuje návrhy na umístění zahraničních investic."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo hospodářství vypracovává koncepci tvorby a využívání státních hmotných rezerv.\n(2) Federální ministerstvo hospodářství navrhuje při tvorbě a realizaci hospodářské politiky opatření potřebná pro zabezpečení obrany a bezpečnosti státu."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo hospodářství dále\na) zajišťuje v oblasti energetiky mezinárodní spolupráci České a Slovenské Federativní Republiky i v návaznosti na ni stanoví zásady rozvoje zařízení pro přenos elektrické energie;\nb) stanoví zásady rozvoje tranzitní soustavy zemního plynu v souladu s mezinárodními závazky České a Slovenské Federativní Republiky;\nc) organizuje a řídí státní službu pro drahé kovy;\nd) vykonává v rozsahu stanoveném zákonem státní správu ve věcech výroby, dovozu a uvádění do oběhu prostředků k ochraně rostlin, ochrany práv k odrůdám rostlin a plemenům zvířat;\ne) zabezpečuje jednotné provádění státního zkušebnictví a normalizace a dále řešení mezinárodních normalizačních úkolů."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo hospodářství schvaluje na úseku těžby a zpracování radioaktivních surovin projektování a financování geologických prací podle zvláštních předpisů, přezkoumává a schvaluje výpočty jejich zásob a vydává na základě tohoto zákona obecně závazné právní předpisy o jejich klasifikaci, odpisech a evidenci."
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo hospodářství na základě tohoto zákona vydává obecně závazné právní předpisy na úseku\na) vědeckotechnického rozvoje, výzkumné a vývojové základny;\nb) projektové přípravy staveb, státní expertizy a vyhodnocování staveb;\nc) investorské, projektové, inženýrské a typizační činnosti.\nFederální úřad pro hospodářskou soutěž"
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro hospodářskou soutěž je ústředním orgánem státní správy České a Slovenské Federativní Republiky pro podporu a ochranu hospodářské soutěže."
+    },
+    {
+      "provision_ref": "§ 79",
+      "section": "79",
+      "title": "§ 79",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro hospodářskou soutěž dohlíží na dodržování pravidel hospodářské soutěže stanovených zvláštním zákonem."
+    },
+    {
+      "provision_ref": "§ 80",
+      "section": "80",
+      "title": "§ 80",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální úřad pro hospodářskou soutěž\na) sleduje vývoj soutěže na trhu a provádí rozbory trhu z hlediska hospodářské soutěže;\nb) sleduje hospodářskou činnost podnikatelských subjektů, aby nedocházelo ke zneužívání jejich monopolního nebo dominantního postavení;\nc) zjišťuje případy narušení hospodářské soutěže a v rozsahu stanoveném zvláštním zákonem rozhoduje o nápravě a postihu.\n(2) Federální úřad pro hospodářskou soutěž v rozsahu stanoveném zvláštním zákonem\na) schvaluje smlouvy o sloučení podnikatelských subjektů nebo jejich hospodářských činností nebo o spolupráci týkající se hospodářské soutěže;\nb) přijímá protimonopolní opatření.\nFederální ministerstvo dopravy a spojů"
+    },
+    {
+      "provision_ref": "§ 85",
+      "section": "85",
+      "title": "§ 85",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů je ústředním orgánem státní správy Československé socialistické republiky pro oblast dopravy stanovenou tímto zákonem a pro oblast spojů."
+    },
+    {
+      "provision_ref": "§ 86",
+      "section": "86",
+      "title": "§ 86",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů odpovídá za tvorbu koncepce dopravní a spojové politiky Československé socialistické republiky a v rozsahu své působnosti zabezpečuje její uskutečňování. Federální ministerstvo dopravy a spojů vypracovává ve spolupráci s příslušnými ústředními orgány návrh programu snižování dopravní náročnosti národního hospodářství."
+    },
+    {
+      "provision_ref": "§ 87",
+      "section": "87",
+      "title": "§ 87",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů organizuje a řídí jednotnou soustavu spojů, železniční dopravu, civilní letectví, říční dopravu, pokud zabezpečuje též zahraniční přepravu, a správu dálnic."
+    },
+    {
+      "provision_ref": "§ 88",
+      "section": "88",
+      "title": "§ 88",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo dopravy a spojů na základě zvláštních předpisů\na) stanoví podmínky technické způsobilosti dopravních prostředků, dopravních cest a dopravních a spojových zařízení a postup a podmínky pro schvalování jejich typů;\nb) stanoví podmínky způsobilosti pracovníků k výkonu činností v dopravě a ve spojích.\n(2) Federální ministerstvo dopravy a spojů koordinuje zapojení československé dopravní a spojové soustavy do mezinárodní dopravní a spojové sítě."
+    },
+    {
+      "provision_ref": "§ 89",
+      "section": "89",
+      "title": "§ 89",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů v rámci stanovených zásad státní cenové politiky stanoví mezinárodní tarify v dopravě a spojích, předkládá návrhy vnitrostátních tarifů a cen v dopravě a ve spojích a po schválení je vyhlašuje."
+    },
+    {
+      "provision_ref": "§ 90",
+      "section": "90",
+      "title": "§ 90",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů stanoví\na) na základě zákona pravidla provozu v jednotlivých druzích dopravy s výjimkou pravidel silničního provozu;\nb) jednotná pravidla pro výkon poštovního, telekomunikačního a radiokomunikačního provozu a provozu poštovní novinové služby a činností s tím souvisejících."
+    },
+    {
+      "provision_ref": "§ 91",
+      "section": "91",
+      "title": "§ 91",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů řídí odbornou přípravu a zabezpečuje mobilizační a bojovou připravenost železničního vojska."
+    },
+    {
+      "provision_ref": "§ 92",
+      "section": "92",
+      "title": "§ 92",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů řídí ozbrojené sbory v dopravě."
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo dopravy a spojů vydává poštovní známky a jiné poštovní ceniny a vykonává dozor nad jejich provedením a tiskem."
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo dopravy a spojů řídí a vykonává přímo nebo prostřednictvím organizací pověřených na základě zákona státní správu a státní odborný dozor ve věcech\na) drah celostátních a vleček;\nb) civilního letectví;\nc) dálnic;\nd) vnitrozemské a námořní plavby;\ne) pošt;\nf) telekomunikací;\ng) radiokomunikací;\nh) dodržování přidělených kmitočtů nebo kmitočtových pásem.\n(2) Federální ministerstvo dopravy a spojů vykonává přímo nebo prostřednictvím organizací pověřených na základě zákona státní odborný technický dozor ve věcech všech drah, vnitrozemské plavby, civilního letectví a zařízení jednotné telekomunikační sítě.\n(3) Federální ministerstvo dopravy a spojů plní funkci námořního úřadu Československé socialistické republiky, speciálního stavebního úřadu pro dálnice, leteckého úřadu Československé socialistické republiky a státní inspekce telekomunikací.\n(4) Federální ministerstvo dopravy a spojů zřizuje pro řízení spojů nezbytné orgány, které ve stanoveném rozsahu vykonávají správní a hospodářské funkce na území republik.\nFederální ministerstvo kontroly"
+    },
+    {
+      "provision_ref": "§ 95",
+      "section": "95",
+      "title": "§ 95",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly je ústředním orgánem státní správy České a Slovenské Federativní Republiky pro oblast kontroly."
+    },
+    {
+      "provision_ref": "§ 96",
+      "section": "96",
+      "title": "§ 96",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo kontroly kontroluje federální ústřední orgány státní správy, orgány jim podřízené, organizace jimi zřízené nebo založené a organizace zřízené federálním zákonem.\n(2) Federální ministerstvo kontroly kontroluje podle pokynů vlády\na) jak jsou plněny povinnosti vyplývající ze zákonů, ostatních obecně závazných právních předpisů a opatření na jejich základě vydaná;\nb) úroveň vyřizování stížností, podnětů a petic občanů a závažné z nich prověřuje.\n(3) Při výkonu kontrolní činnosti federální ministerstvo kontroly zkoumá zákonnost, účelnost a hospodárnost."
+    },
+    {
+      "provision_ref": "§ 97",
+      "section": "97",
+      "title": "§ 97",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly kontroluje v oblasti obrany a ve věcech bezpečnosti svěřených do působnosti federace plnění povinností vyplývajících organizacím ze zákonů, ostatních obecně závazných právních předpisů a opatření vydaných na jejich základě."
+    },
+    {
+      "provision_ref": "§ 98",
+      "section": "98",
+      "title": "§ 98",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly kontroluje v součinnosti s věcně příslušnými federálními ústředními orgány státní správy, zda jakost výrobků, prací a služeb státních podniků jimi založených odpovídá obecně závazným právním předpisům a opatřením vydaným na jejich základě a technickým normám, zejména z hlediska ochrany životního prostředí, ochrany spotřebitele a ochrany dobrého jména tuzemské produkce v zahraničí."
+    },
+    {
+      "provision_ref": "§ 99",
+      "section": "99",
+      "title": "§ 99",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly kontroluje v součinnosti s příslušnými orgány republik u orgánů a organizací řízených orgány republik v případech uvedených v § 97, jak jsou prováděna opatření federálních orgánů."
+    },
+    {
+      "provision_ref": "§ 99a",
+      "section": "99a",
+      "title": "§ 99a",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Kontrolní působnost podle § 96 vykonává federální ministerstvo kontroly v obdobném rozsahu vůči organizacím pověřeným zákonem Federálního shromáždění plněním úkolů v oblasti státní správy."
+    },
+    {
+      "provision_ref": "§ 99b",
+      "section": "99b",
+      "title": "§ 99b",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Kontrolní působnost federálního ministerstva kontroly se nevztahuje na činnost politických stran, politických hnutí, občanských sdružení, odborových organizací a orgánů, družstev a dalších družstevních organizací, jakož i jiných nestátních organizací s výjimkou kontroly nakládání s prostředky poskytnutými jim ze státního rozpočtu federace, popřípadě z federálních účelových fondů."
+    },
+    {
+      "provision_ref": "§ 99c",
+      "section": "99c",
+      "title": "§ 99c",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly\na) v oblasti působnosti federace usměrňuje činnost orgánů na úseku kontroly;\nb) koordinuje svoji činnost s ostatními ústředními orgány státní správy vykonávajícími kontrolu a s příslušnými orgány republik pro kontrolu;\nc) upozorňuje ostatní státní orgány na porušování zákonů, ostatních obecně závazných právních předpisů a opatření vydaných na jejich základě."
+    },
+    {
+      "provision_ref": "§ 99d",
+      "section": "99d",
+      "title": "§ 99d",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo kontroly podle požadavků předsednictva Federálního shromáždění\na) předkládá zprávy o poznatcích ze své kontrolní činnosti;\nb) provádí kontrolu pro plnění úkolů Federálního shromáždění a jeho orgánů, zejména v souvislosti s projednáváním státního rozpočtu a státního závěrečného účtu federace a s prošetřováním stížností, návrhů a petic podaných Federálnímu shromáždění;\nc) opatřuje podklady pro kontrolní činnost Federálního shromáždění, jeho orgánů a poslanců a vyjadřuje se k těmto podkladům."
+    },
+    {
+      "provision_ref": "§ 60a",
+      "section": "60a",
+      "title": "§ 60a",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí odpovídá za tvorbu koncepce cenové politiky Československé socialistické republiky a v rozsahu své působnosti zabezpečuje její uskutečňování."
+    },
+    {
+      "provision_ref": "§ 60b",
+      "section": "60b",
+      "title": "§ 60b",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí vypracovává\na) zásady cenové politiky jako součást přípravy státního pětiletého plánu a zabezpečuje její jednotné provádění;\nb) souhrnné podklady pro státní plány v oblasti cen a návrhy plánů vývoje cen."
+    },
+    {
+      "provision_ref": "§ 60c",
+      "section": "60c",
+      "title": "§ 60c",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí navrhuje vládě Československé socialistické republiky\na) pravidla státního řízení cen,\nb) ceny a cenové limity (dále jen „ceny“) výrobků výkonů, prací a služeb (dále jen „výrobky“) a změny cen, jejichž stanovení si vláda Československé socialistické republiky vyhradí."
+    },
+    {
+      "provision_ref": "§ 60d",
+      "section": "60d",
+      "title": "§ 60d",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí vydává na základě tohoto zákona a podle zásad stanovených vládou Československé socialistické republiky obecně závazné právní předpisy pro tvorbu, změny, kontrolu a evidenci cen."
+    },
+    {
+      "provision_ref": "§ 60e",
+      "section": "60e",
+      "title": "§ 60e",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální ministerstvo financí\na) řídí a koordinuje přípravu a uskutečňování opatření vlády Československé socialistické republiky v oblasti cen;\nb) provádí rozbory vývoje a působení cen;\nc) určuje, které podklady potřebné pro státní řízení cen předkládají orgány a organizace.\n(2) Federální ministerstvo financí\na) stanoví ceny národohospodářsky významných výrobků v rozsahu určením vládou československé socialistické republiky;\nb) schvaluje změny cen v rozsahu a za podmínek stanovených vládou Československé socialistické republiky;\nc) může v rámci své působnosti v tvorbě cen pověřit jiné orgány a po předchozí dohodě s příslušnými ústředními orgány i organizace stanovením nebo sjednáním cen výrobků, popřípadě jejich změny;\nd) ukládá organizacím na základě zvláštních předpisů obvody prostředků do státního rozpočtu."
+    },
+    {
+      "provision_ref": "§ 60f",
+      "section": "60f",
+      "title": "§ 60f",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí koordinuje plány a stanoví rozhodující úkoly v kontrole cen; má právo vyžadovat od orgánů republik s cenovou působností provedení zvláštních cenových kontrol k ověření správnosti podkladů předkládaných organizacemi pro cenová opatření."
+    },
+    {
+      "provision_ref": "§ 60g",
+      "section": "60g",
+      "title": "§ 60g",
+      "chapter": "ČÁST PRVNÍ - FEDERÁLNÍ ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY, V JEJICHŽ ČELE STOJÍ ČLEN VLÁDY ČESKOSLOVENSKÉ SOCIALISTICKÉ REPUBLIKY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální ministerstvo financí odpovídá za koncepci a rozvoj soustavy informaci pro státní řízení cen a její propojení s ostatními celostátními informačními soustavami."
+    },
+    {
+      "provision_ref": "§ 108",
+      "section": "108",
+      "title": "§ 108",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Na působnost federálních ústředních orgánů státní správy uvedených v této části zákona se přiměřeně vztahují ustanovení § 1 až 16 a § 18 tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 109",
+      "section": "109",
+      "title": "§ 109",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální statistický úřad je ústředním orgánem státní správy Československé socialistické republiky pro oblast sociálně ekonomických informací."
+    },
+    {
+      "provision_ref": "§ 110",
+      "section": "110",
+      "title": "§ 110",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Federální statistický úřad vykonává působnost v oblasti sociálně ekonomických informací o všech odvětvích národního hospodářství a o všech úsecích společenského života v rozsahu stanoveném zákonem.\n(2) Federální statistický úřad zajišťuje propojení jednotné soustavy sociálně ekonomických informací s ostatními celostátními informačními soustavami a zajišťuje vzájemnou koordinaci tvorby, propojení a funkce všech celostátních informačních soustav; přitom postupuje v součinnosti s ústředními orgány, které tyto informační soustavy řídí.\nSpráva federálních hmotných rezerv"
+    },
+    {
+      "provision_ref": "§ 113",
+      "section": "113",
+      "title": "§ 113",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Správa federálních hmotných rezerv je ústředním orgánem státní správy Československé socialistické republiky pro plánování, tvorbu, ochraňování a používání federálních hmotných rezerv, pro úkoly na úseku státních rezerv vytvářených v rámci hospodářských mobilizačních příprav národního hospodářství a pro tvorbu koncepcí, analýzu a usměrňování oběhových procesů v národním hospodářství."
+    },
+    {
+      "provision_ref": "§ 114",
+      "section": "114",
+      "title": "§ 114",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Správa federálních hmotných rezerv v součinnosti se Státní plánovací komisí předkládá vládě Československé socialistické republiky\na) návrhy nomenklatury, cílových a nesnižitelných stavů materiálů federálních hmotných rezerv;\nb) návrhy pravidel tvorby, ochraňování, financování, rozmisťování, používání a kontroly federálních hmotných rezerv;\nc) návrhy pravidel plánování, rozpočtování, financování, ochraňování, obhospodařování, používání a kontroly státních rezerv pro hospodářské mobilizační přípravy národního hospodářství.\n(2) Správa federálních hmotných rezerv\na) pověřuje socialistické organizace určené ústředními orgány státní správy k ochraňování federálních hmotných rezerv;\nb) rozhoduje podle pravidel stanovených vládou Československé socialistické republiky o zápůjčkách federálních hmotných rezerv socialistickým organizacím;\nc) používá podle pravidel stanovených vládou Československé socialistické republiky federální hmotné rezervy při konjunkturálních výkyvech cen na světových trzích.\n(3) Správa federálních hmotných rezerv analyzuje vývoj oběhu zboží, usměrňuje a koordinuje rozvoj skladování, manipulace s materiálem a balení.\nFederální úřad pro vynálezy"
+    },
+    {
+      "provision_ref": "§ 115",
+      "section": "115",
+      "title": "§ 115",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro vynálezy je ústředním orgánem státní správy Československé socialistické republiky pro oblast průmyslových práv, objevů a zlepšovacích návrhů."
+    },
+    {
+      "provision_ref": "§ 116",
+      "section": "116",
+      "title": "§ 116",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro vynálezy\na) navrhuje cíle a zásady jednotné státní politiky v oblasti průmyslových práv včetně zahraniční a vypracovává návrh koncepce rozvoje v oblasti průmyslových práv a opatření k jejímu zabezpečení;\nb) rozhoduje o udělení ochrany na předměty průmyslových práv;\nc) vede ústřední fond světové patentové literatury a zajišťuje budování, výměnu a zpřístupňování fondu informací z oblasti průmyslových práv.\nFederální úřad pro normalizaci a měření"
+    },
+    {
+      "provision_ref": "§ 117",
+      "section": "117",
+      "title": "§ 117",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro normalizaci a měření je ústředním orgánem státní správy Československé socialistické republiky pro oblast technické normalizace, měrové služby a státního zkušebnictví."
+    },
+    {
+      "provision_ref": "§ 118",
+      "section": "118",
+      "title": "§ 118",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Federální úřad pro normalizaci a měření\na) řídí technickou normalizaci, měrovou službu a státní zkušebnictví v rozsahu stanoveném zákonem a vypracovává celostátní koncepce rozvoje těchto činností;\nb) řídí tvorbu státních technických norem a tyto schvaluje;\nc) zabezpečuje jednotnost a přesnost stanovených měřidel a měření a soustavné zvyšování jejich technické úrovně a zabezpečuje výkon státní měrové služby v rozsahu stanoveném zákonem;\nd) zabezpečuje výkon státního zkušebnictví, řídí a kontroluje činnost státních zkušeben a stanoví státním zkušebnám povinnost zadávat některé speciální zkoušky jiným organizacím.\nČeskoslovenská komise pro atomovou energii"
+    },
+    {
+      "provision_ref": "§ 119",
+      "section": "119",
+      "title": "§ 119",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "(1) Československá komise pro atomovou energii je ústředním orgánem státní správy Československé socialistické republiky pro oblast atomové energie.\n(2) Předsedu, místopředsedu a ostatní členy Československé komise pro atomovou energii jmenuje a odvolává vláda Československé socialistické republiky."
+    },
+    {
+      "provision_ref": "§ 120",
+      "section": "120",
+      "title": "§ 120",
+      "chapter": "ČÁST DRUHÁ - DALŠÍ FEDERÁLNÍ ORGÁNY ÚSTŘEDNÍ ORGÁNY STÁTNÍ SPRÁVY > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ",
+      "content": "Československá komise pro atomovou energii\na) vypracovává podklady z oblasti mírového využívání jaderné energie pro návrhy státní vědní a vědeckotechnické politiky včetně návrhů na její zabezpečení;\nb) podílí se na vypracování návrhu československého jaderného programu a jeho zabezpečení; v rámci této činnosti zabezpečuje potřeby národního hospodářství v izotopové produkci a vybraných přístrojích jaderné techniky;\nc) vykonává státní dozor nad jadernou bezpečností jaderných zařízení podle zvláštních předpisů;\nd) vykonává státní dozor nad jadernými materiály včetně jejich kontroly a evidence;\ne) v rozsahu své působnosti zabezpečuje závazky Československé socialistické republiky z mezinárodních smluv týkajících se jaderné bezpečnosti jaderných zařízení."
+    },
+    {
+      "provision_ref": "§ 121",
+      "section": "121",
+      "title": "§ 121",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Podrobnější vymezení úkolů federálních ministerstev a dalších federálních ústředních orgánů státní správy, zásad jejich činnosti a vnitřní organizace upraví statuty, které schvaluje vláda Československé socialistické republiky."
+    },
+    {
+      "provision_ref": "§ 122",
+      "section": "122",
+      "title": "§ 122",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Federální ministerstva a další federální ústřední orgány státní správy se ve veškeré své činnosti řídí ústavními a ostatními zákony a dalšími obecně závaznými právními předpisy a usneseními vlády Československé socialistické republiky a jejího předsednictva."
+    },
+    {
+      "provision_ref": "§ 123",
+      "section": "123",
+      "title": "§ 123",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Federální ministerstva a další federální ústřední orgány státní správy dbají, aby stavy jejich pracovníků odpovídaly stanoveným působnostem a aby se přiměřeně skládaly z občanů obou republik, a vytvářejí pro to všestranné podmínky."
+    },
+    {
+      "provision_ref": "§ 124",
+      "section": "124",
+      "title": "§ 124",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Ustanovení § 52 odst. 4, § 75, 77 a 104 o vydávání obecně závazných právních předpisů na základě tohoto zákona pozbývají účinnosti dnem 31. prosince 1992."
+    },
+    {
+      "provision_ref": "§ 125",
+      "section": "125",
+      "title": "§ 125",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Pokud se v dosavadních právních předpisech užívá názvů Úřad pro vynálezy a objevy a Úřad pro normalizaci a měření, rozumí se jimi Federální úřad pro vynálezy a Federální úřad pro normalizaci a měření."
+    },
+    {
+      "provision_ref": "§ 126",
+      "section": "126",
+      "title": "§ 126",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušuje se:\n1. § 2 zákonného opatření předsednictva Národního shromáždění č. 69/1964 Sb., o Správě státních hmotných rezerv;\n2. § 12 odst. 1, druhá věta a odst. 2 zákona č. 96/1964 Sb., o technické normalizaci;\n3. § 5 zákona č. 30/1968 Sb., o státním zkušebnictví, ve znění zákona č. 54/1987 Sb.;\n4. § 4 odst. 3 zákona č. 170/1968 Sb., o některých opatřeních souvisejících s federativním uspořádáním státu;\n5. zákon č. 133/1970 Sb., o působnosti federálních ministerstev, ve znění zákona č. 158/1973 Sb., zákonného opatření předsednictva Federálního shromáždění č. 17/1976 Sb. a zákonů č. 149/1979 Sb. a č. 115/1983 Sb.;\n6. § 142 odst. 1, § 143 a 144 zákona č. 84/1972 Sb., o objevech, vynálezech, zlepšovacích návrzích a průmyslových vzorech;\n7. zákon č. 37/1972 Sb., o okresních a krajských zemědělských správách."
+    },
+    {
+      "provision_ref": "§ 127",
+      "section": "127",
+      "title": "§ 127",
+      "chapter": "ČÁST TŘETÍ - SPOLEČNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1989."
+    }
+  ],
+  "definitions": []
+}

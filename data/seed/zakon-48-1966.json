@@ -1,0 +1,27 @@
+{
+  "id": "cz:48/1966",
+  "type": "statute",
+  "title": "48/1966 Sb., Zákon Slovenské národní rady o změně zákona Slovenské národní rady o volbách do Slovenské národní rady",
+  "title_en": "",
+  "short_name": "48/1966 Sb.",
+  "status": "in_force",
+  "issued_date": "1966-06-30",
+  "in_force_date": "1966-06-30",
+  "url": "https://www.e-sbirka.cz/sb/1966/48",
+  "description": "Zákon Slovenské národní rady o změně zákona Slovenské národní rady o volbách do Slovenské národní rady",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Doplňovací volby do Slovenské národní rady se mohou konat i v pracovní den."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:408/2004",
+  "type": "statute",
+  "title": "408/2004 Sb., Vyhláška, kterou se stanoví náležitosti žádosti o souhlas Ministerstva financí s vydáním komunálních dluhopisů a příloh k žádosti",
+  "title_en": "",
+  "short_name": "408/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-07-08",
+  "in_force_date": "2004-07-08",
+  "url": "https://www.e-sbirka.cz/sb/2004/408",
+  "description": "Vyhláška, kterou se stanoví náležitosti žádosti o souhlas Ministerstva financí s vydáním komunálních dluhopisů a příloh k žádosti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Žádost územního samosprávného celku (dále jen „žadatel“) o udělení předchozího souhlasu Ministerstva financí s vydáním komunálních dluhopisů (dále jen „souhlas“) obsahuje\na) údaje o žadateli, kterými jsou úplný název žadatele, jeho sídlo a identifikační číslo,\nb) název dluhopisu, který musí obsahovat slova „komunální dluhopis“,\nc) informaci o současné finanční situaci žadatele včetně údajů o stavu zadluženosti,\nd) ekonomický rozbor důvodů vydání komunálních dluhopisů a jeho dopadů na hospodářskou a finanční situaci žadatele po celou dobu splatnosti dluhopisů,\ne) zdůvodnění záměru vydat komunální dluhopisy,\nf) prohlášení, že je schopen dostát závazkům vyplývajícím z komunálních dluhopisů, pro něž je požadován souhlas,\ng) předpokládaný emisní kurz, případně způsob jeho stanovení,\nh) předpokládanou celkovou jmenovitou hodnotu emise,\ni) předpokládané datum emise,\nj) data splatnosti dluhopisu a výnosu z něho,\nk) informaci, zda žadatel hodlá požádat o přijetí dluhopisu k obchodování na regulovaném nebo volném trhu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Přílohou žádosti o souhlas je\na) poslední dva zastupitelstvem projednané a schválené závěrečné účty žadatele včetně zpráv o výsledcích přezkoumání hospodaření,\nb) rozpočtový výhled, včetně promítnutí splátky nebo splátek jistin krátkodobých a dlouhodobých závazků,\nc) rozhodnutí zastupitelstva žadatele o emisi komunálních dluhopisů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

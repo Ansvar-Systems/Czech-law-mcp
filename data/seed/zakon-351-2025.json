@@ -1,0 +1,51 @@
+{
+  "id": "cz:351/2025",
+  "type": "statute",
+  "title": "351/2025 Sb., Nařízení vlády o stanovení seznamu nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost, a o náležitostech lékařského posudku podle zákona o zbraních a střelivu a podle zákona o munici",
+  "title_en": "",
+  "short_name": "351/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-19",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/351",
+  "description": "Nařízení vlády o stanovení seznamu nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost, a o náležitostech lékařského posudku podle zákona o zbraních a střelivu a podle zákona o munici",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví\na) seznam nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost\n1. bezpečně nakládat se zbraní nebo střelivem a\n2. k výkonu konkrétních činností při nakládání s municí nebo při pyrotechnickém průzkumu, a\nb) náležitosti lékařského posudku vydávaného pro účely zákona o zbraních a střelivu nebo zákona o munici."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Seznam nemocí, vad nebo stavů",
+      "content": "Seznam nemocí, vad nebo stavů podle § 1 písm. a) je uveden v příloze č. 1 k tomuto nařízení, přičemž se používá označení podle Mezinárodní klasifikace nemocí 10. revize (MKN-10).\nLékařský posudek"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Lékařský posudek má náležitosti lékařského posudku podle vyhlášky o zdravotnické dokumentaci1).\n(2) Jako účel vydání lékařského posudku se uvede posouzení zdravotní způsobilosti posuzované osoby k\na) bezpečnému nakládání se zbraní nebo střelivem,\nb) výkonu konkrétních činností při nakládání s municí nebo při pyrotechnickém průzkumu, nebo\nc) oběma účelům uvedeným v písmenech a) a b).\n(3) Obsahem lékařského posudku je dále prohlášení posuzujícího lékaře, že nahlédl do\na) lékového záznamu posuzované osoby, nevyslovila-li posuzovaná osoba nesouhlas s možností nahlížet na údaje zobrazující se prostřednictvím jejího lékového záznamu, a\nb) emergentního záznamu posuzované osoby."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Lékařský posudek se vydá po předložení prohlášení posuzované osoby o jejím zdravotním stavu.\n(2) Vzor prohlášení posuzované osoby o jejím zdravotním stavu je uveden v příloze č. 2 k tomuto nařízení.\n(3) Posuzující poskytovatel zdravotních služeb zohlední při posuzování způsobilosti k činnostem uvedeným v § 1 písm. a) z hlediska omezujících nemocí, vad nebo stavů skutečný negativní vliv zdravotního stavu posuzované osoby na schopnost bezpečně nakládat se zbraní nebo střelivem anebo na schopnost vykonávat konkrétní činnosti při nakládání s municí nebo při pyrotechnickém průzkumu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2026.\nPříloha č. 1\nSeznam nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost k bezpečnému nakládání se zbraní nebo střelivem anebo k výkonu konkrétních činností při nakládání s municí nebo při pyrotechnickém průzkumu"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "f) poruchy sebehodnocení, kterými",
+      "definition": "narušené schopnosti přiměřeně hodnotit své tělesné a psychické možnosti, například sebepřeceňování, silácké chování, nadměrný sklon riskovat a předvádět se",
+      "source_provision": "§ 5"
+    }
+  ]
+}

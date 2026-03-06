@@ -1,0 +1,39 @@
+{
+  "id": "cz:301/2025",
+  "type": "statute",
+  "title": "301/2025 Sb., Vyhláška o procentním podílu jednotlivých obcí na částech celostátního hrubého výnosu daně z přidané hodnoty a daní z příjmů",
+  "title_en": "",
+  "short_name": "301/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-08-20",
+  "in_force_date": "2025-09-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/301",
+  "description": "Vyhláška o procentním podílu jednotlivých obcí na částech celostátního hrubého výnosu daně z přidané hodnoty a daní z příjmů",
+  "provisions": [
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Vyhláška č. 250/2024 Sb., o procentním podílu jednotlivých obcí na částech celostátního hrubého výnosu daně z přidané hodnoty a daní z příjmů, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Procento, kterým se jednotlivé obce podílejí na části celostátního hrubého výnosu daně podle § 4 odst. 1 písm. h) zákona o rozpočtovém určení daní, je uvedeno ve sloupci 11 přílohy k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Procento, kterým se jednotlivé obce podílejí na části celostátního hrubého výnosu daní podle § 4 odst. 1 písm. b) až f) zákona o rozpočtovém určení daní a výnosu záloh a daně podle § 4 odst. 1 písm. i) zákona o rozpočtovém určení daní, je uvedeno ve sloupci 9 přílohy k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Celkové procento, kterým se obce s výjimkou hlavního města Prahy, Plzně, Ostravy a Brna podílejí na části celostátního hrubého výnosu daní podle § 4 odst. 1 písm. b) až f) zákona o rozpočtovém určení daní a výnosu záloh a daně podle § 4 odst. 1 písm. i) zákona o rozpočtovém určení daní, činí 52,910155 %."
+    }
+  ],
+  "definitions": []
+}

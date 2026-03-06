@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:225/1945",
+  "type": "statute",
+  "title": "225/1945 Ú. l., Vyhláška nejvyššího úřadu cenového o cenách zeleniny, která nebude dodávána do sběren.",
+  "title_en": "",
+  "short_name": "225/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-09-11",
+  "in_force_date": "1945-09-12",
+  "url": "https://www.e-sbirka.cz/ul0/1945/225",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách zeleniny, která nebude dodávána do sběren.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za zeleninu, která pěstitelům zbude po splnění předepsane dodávky a nebude podle § 1 vyhlášky ministra výživy a ministra změdělství ze dne 22. srpna 1945, běž. č. 172/1945 (Úř. l. č. 81/1945) dodána sběrně, mohou pěstitelé počítati nejvýše tyto ceny:\na) při prodeji velkoobchodníkům pěstitelskou cenu stanovenou nejvyšším úřadem cenovým;\nb) při prodeji maloobchodníkům pěstitelskou cenu s přirážkou 10%;\nc) při prodeji velkospotřebiteli pěstitelskou cenu s přirážkou 15%;\nd) při prodeji spotřebiteli pěstitelskou cenu s přirážkou 20%."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Stejné ceny smějí účtovati pěstitelé zeleniny v oněch soudních okresech, v nichž podle § 4 zmíněné vyhlášky ministra výživy a ministra zemědělství mohou prodávati zeleninu volně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ceny podle § 1 mohou pěstitelé v okresích s dodávkou povinností požadovati teprve tehdy, když splní předepsaný kontingent, což musí prokázati potvrzením sběrny."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Obchodníci, kterým pěstitelé dodali zeleninu podle § 1 a § 2 této vyhlášky, mohou při dalším tvoření cen požadovati pouze stanovená obchodní rozpětí."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem po vyhlášení."
+    }
+  ],
+  "definitions": []
+}

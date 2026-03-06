@@ -1,0 +1,27 @@
+{
+  "id": "cz:139/1988",
+  "type": "statute",
+  "title": "139/1988 Sb., Redakční sdělení o opravě chyb 1. v zákonu č. 94/1988 Sb., o bytovém, spotřebním a výrobním družstevnictví, ve slovenském vydání, a 2. ve vyhlášce federálního ministerstva financí č. 119/1988 Sb., o hospodaření s národním majetkem, v českém a slovenském vydání",
+  "title_en": "",
+  "short_name": "139/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-09-01",
+  "in_force_date": "1988-09-01",
+  "url": "https://www.e-sbirka.cz/sb/1988/139",
+  "description": "Redakční sdělení o opravě chyb 1. v zákonu č. 94/1988 Sb., o bytovém, spotřebním a výrobním družstevnictví, ve slovenském vydání, a 2. ve vyhlášce federálního ministerstva financí č. 119/1988 Sb., o hospodaření s národním majetkem, v českém a slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. § 67 správně zní: „Ustanovenia § 25 až 44 tohto zákona sa vzťahujú primerane na družstevné podniky.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V českém vydání:\na) § 6 písm. b) správně zní:\n„b) pečovat o údržbu národního majetku a provádět jeho opravy,“;\nb) chybějící ustanovení § 6 písm. c) zní:\n„c) pečovat o využívání národního majetku k plnění úkolů a nakládat s ním v souladu s těmito úkoly,“;"
+    }
+  ],
+  "definitions": []
+}

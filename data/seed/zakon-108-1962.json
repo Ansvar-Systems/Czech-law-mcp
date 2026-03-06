@@ -1,0 +1,69 @@
+{
+  "id": "cz:108/1962",
+  "type": "statute",
+  "title": "108/1962 Sb., Vyhláška ministerstva školství a kultury o soukromém vyučování v oboru umění a v oboru cizích jazyků",
+  "title_en": "",
+  "short_name": "108/1962 Sb.",
+  "status": "in_force",
+  "issued_date": "1962-11-17",
+  "in_force_date": "1962-11-17",
+  "url": "https://www.e-sbirka.cz/sb/1962/108",
+  "description": "Vyhláška ministerstva školství a kultury o soukromém vyučování v oboru umění a v oboru cizích jazyků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Soukromé vyučování",
+      "content": "(1) Soukromé vyučování v oborech umění a cizích jazyků, které se provádí za úplatu, lze povolit jen tehdy, není-li vyučování v příslušném oboru zajištěno ve vzdělávacích zařízeních veřejných institucí.\n(2) Za soukromé vyučování podle odstavce 1 se nepovažují opakovací hodiny (kondice), které poskytují žáci a studenti škol jiným žákům a studentům."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Soukromé vyučování v oborech umění",
+      "content": "(1) Oprávnění k soukromému vyučování v oborech umění může být uděleno pouze tomu, kdo\na) již má oprávnění k soukromému vyučování v některém oboru umění a vykonává je nejméně deset let,\nb) má potřebnou odbornou způsobilost pro příslušný obor umění a\nc) je starší padesáti let.\n(2) Odbornou způsobilostí podle odstavce 1 se rozumí dokončené studium na příslušné umělecké škole nebo jinak získané vzdělání v příslušném oboru."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Soukromé vyučování v oboru cizích jazyků",
+      "content": "Oprávnění k soukromému vyučování v oboru cizích jazyků může být uděleno uchazeči, který dokončil studium příslušných jazyků na vysoké škole nebo jinak prokáže odbornou způsobilost k vyučování těmto jazykům.\nUstanovení společná"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Oprávnění k soukromému vyučování uděluje na žádost uchazeče okresní národní výbor, v jehož obvodu uchazeč působí nebo hodlá působit.\n(2) Uchazeči, kterým bylo povoleno soukromě vyučovat podle dosavadních předpisů, mohou požádat o udělení oprávnění podle této vyhlášky do tří měsíců ode dne počátku její účinnosti. Nepodají-li žádost, jejich oprávnění po uplynutí této lhůty zaniká. Jinak oprávnění zaniká po uplynutí jednoho měsíce po právoplatnosti rozhodnutí o odnětí oprávnění."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Okresní národní výbor může odejmout oprávnění k soukromému vyučování\na) je-li vyučování v příslušném oboru zajištěno veřejnými institucemi; není-li vyučující zároveň do těchto zařízení převzat, popř. neobstará-li mu okresní národní výbor jiné přiměřené zaměstnání, stanoví vhodnou lhůtu k zániku oprávnění zejména s ohledem na žáky vyučujícího,\nb) zjistí-li se ve vyučování vážné nedostatky odborné nebo politické,\nc) nesplní-li vyučující daňovou povinnost, nebo\nd) neprovozuje-li vyučující soukromé vyučování po dobu delší než 1 rok, pokud nejde o případ zvláštního zřetele hodný (choroba, veřejné úkoly apod.)."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) Odborný dozor na soukromé vyučování vykonává okresní národní výbor; vede též evidenci vyučujících.\n(2) Vyučující je povinen podávat okresnímu národnímu výboru pravidelné zprávy o své činnosti ve lhůtách, které okresní národní výbor stanoví.\n(3) Soukromí učitelé nejsou oprávněni vydávat svým žákům jakákoli vysvědčení ani jiné veřejné listiny."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "V jednotlivých a odůvodněných případech může ministerstvo školství a kultury, zejména na návrh okresního národního výboru, povolit v dohodě s ústředním výborem Odborového svazu zaměstnanců školství a kultury odchylky od ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Nařízení ministra kultury č. 10/1956 Sb., kterým se vydávají předpisy o odborné způsobilosti vyučovat jednotlivým oborům umění, a o udělování a odnětí oprávnění k soukromému vyučování v oboru umění, je zrušeno.\n(2) Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Odbornou způsobilostí podle odstavce 1",
+      "definition": "dokončené studium na příslušné umělecké škole nebo jinak získané vzdělání v příslušném oboru",
+      "source_provision": "§ 2"
+    }
+  ]
+}

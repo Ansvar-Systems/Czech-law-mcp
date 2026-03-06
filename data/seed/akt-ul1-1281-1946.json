@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1281/1946",
+  "type": "statute",
+  "title": "1281/1946 Ú. l. I, Vyhláška ministra průmyslu zřizující národní podnik průmyslu kovodělného a strojírenského.",
+  "title_en": "",
+  "short_name": "1281/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-17",
+  "in_force_date": "1948-03-05",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1281",
+  "description": "Vyhláška ministra průmyslu zřizující národní podnik průmyslu kovodělného a strojírenského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku „MESSAP“ Deutsche Meβapparate, G. m. b. H., se sídlem v Hamburku, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Kovodělné závody Rachmann, maj. Vilém Rachmann, kom. spol. (Rachmann Metallwerke, Inhaber Wilhelm Rachmann, K. G.), se sídlem v Boru u České Lípy, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

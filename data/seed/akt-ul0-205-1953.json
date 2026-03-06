@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:205/1953",
+  "type": "statute",
+  "title": "205/1953 Ú. l., Vyhláška ministra zdravotnictví o povinném hlášení zhoubných nádorů.",
+  "title_en": "",
+  "short_name": "205/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-07-11",
+  "in_force_date": "1953-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/205",
+  "description": "Vyhláška ministra zdravotnictví o povinném hlášení zhoubných nádorů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) V zájmu včasného odborného léčeni osob onemocnělých zhoubnými nádory a v zájmu řádné evidence těchto osob se povinně hlásí:\na) každé odůvodněné podezření na onemocnění zhoubným nádorem,\nb) každé zjištěné onemocnění a každá recidiva onemocnění zhoubným nádorem,\nc) každé úmrtí osoby nemocné zhoubným nádorem,\nd) pathologicko-anatomická diagnosa ve všech případech, kdy byl zjištěn při pitvě zhoubný nádor něho nebyl-li pitevní nález v souladu s klinickou diagnosou, která zněla na zhoubný nádor.\n(2) Ohlašovací povinnost se vztahuje na všechny zhoubné nádory, včetně nádorů mízních a krvetvorných tkání (č. 200 až 205 podrobné mezinárodní klasifikace nemocí)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Hlášením podle § 1 je povinen:\na) v zařízeních preventivní a léčebné péče vedoucí lékař příslušného oddělení, po případě lékař jím pověřený,\nb) ošetřující lékař nebo jiný lékař, který pojal odůvodněné podezření na onemocnění, zjistil onemocnění či recidivu nebo provedl prohlídku osoby zemřelé na zhoubný nádor,\nc) každý lékař, který provedl pitvu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Hlášení se podává na předepsaném tiskopise*) ve třech vyhotoveních onkologickému oddělení krajské nemocnice se střediskem (dříve oddělení léčby zářením) příslušnému podle trvalého bydliště nemocného, a to do 3 dnů od vzniku podezření na onemocnění, od zjištění onemocnění nebo od úmrtí nebo pitvy osoby nemocné zhoubným nádorem; je-li nutno podezření na onemocnění ověřit histologickým nálezem, prodlužuje se lhůta k podání hlášení na 14 dnů.\n(2) V krajích, kde není zřízeno při krajské nemocnici se střediskem onkologické oddělení, posílá se hlášení onkologické poradně, která se zřizuje při ústředním roentgenu krajské nemocnice se střediskem."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Onkologické oddělení, po případě onkologická poradna (dále jen „oddělení”) učiní na podkladě došlého hlášení opatření, aby nemocný nebo podezřelý z onemocnění byl co nejdříve řádně vyšetřen a aby se mu dostalo, pokud je to třeba, odborného léčení. Podle své evidence a podle vyžádaných zpráv doplňuje oddělení, údaje na hlášeních a vyřazuje hlášení duplicitní.\n(2) První vyhotovení hlášení ověřených a přešetřených během kalendářního měsíce odešle oddělení hromadně nejpozději do 10. dne následujícího měsíce ministerstvu zdravotnictví.**) Přitom všechna hlášení která došla do 31. prosince kalendářního roku, musí být ověřena a přešetřena tak, aby jejich první vyhotovení byla odeslána nejpozději do 10. února následujícího roku. Druhé a třetí vyhotovení hlášení si oddělení ponechá pro vlastní evidenci."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Odchylky ve způsobu hlášení, pokud je jich třeba v důsledku odchylné organisace onkologické služby na území hlavního města Prahy a ve slovenských krajích povoluje ministerstvo zdravotnictví."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1953.\n*) Skladové číslo N 687 Publikačního ústavu ministerstva vnitra v Praze.\n**) Středisku pro zdravotnickou statistiku v Praze II, Malá štěpánská č. 13."
+    }
+  ],
+  "definitions": []
+}

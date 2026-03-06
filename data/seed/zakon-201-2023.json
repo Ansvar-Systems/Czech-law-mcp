@@ -1,0 +1,27 @@
+{
+  "id": "cz:201/2023",
+  "type": "statute",
+  "title": "201/2023 Sb., Vyhláška, kterou se mění vyhláška č. 84/1996 Sb., o lesním hospodářském plánování, ve znění vyhlášky č. 186/2022 Sb.",
+  "title_en": "",
+  "short_name": "201/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-06-27",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/201",
+  "description": "Vyhláška, kterou se mění vyhláška č. 84/1996 Sb., o lesním hospodářském plánování, ve znění vyhlášky č. 186/2022 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 84/1996 Sb., o lesním hospodářském plánování, ve znění vyhlášky č. 186/2022 Sb., se mění takto:\n1. V příloze č. 6 části V odstavec 2 zní:\n„2. Odhad variability Ŷc se spočítá podle vzorce\nV^(Y^c)=1n2–n2-1∑x∈ s2M(x)M¯22 Yc(x) – Y^c2, (9)\nkde n2 je velikost výběru, tedy počet lokalit referenční inventarizační sítě s alespoň jednou plochou umístěnou do daného strata. Člen M̅2 označuje průměrný počet ploch na jednu lokalitu strata, jejichž střed se nachází na přístupné a schůdné porostní půdě. Počítá se podle rovnice:\nM¯2=Σx∈s2M(x)n2. (10)\n\n“.\n2. V příloze č. 6 části XI tabulka 1 zní:\n„Tabulka 1: Maximální CBP [m3/ha/rok], hroubí bez kůry\nNadmořská výška středu inventarizační plochy\n[m n. m.] Příslušnost středu inventarizační plochy k ekologické řadě typologického systému\nextrémníkyseláživnáobohacená humusemobohacená vodouoglejenápodmáčenárašelinná\npod 40058,39,78,25,3\n400 do 70011,19,711,1\n700 a výš9,7\n\n“.\n3. V příloze č. 6 části XII odstavec 5 zní:\n„5. Hodnota koeficientu nesouladu mezi těžbou vykazovanou lesní hospodářskou evidencí a těžbou odhadnutou postupem podle části X. se stanoví následovně:\nft={minTLHET^SPI;1když q > 0.900.825 ve všech ostatních případech,(23)\nkde q představuje podíl ploch, na kterých byla úspěšně provedena opakovaná identifikace kmenů hroubí z celkového počtu ploch náležících do přístupné a schůdné porostní půdy v současné inventarizaci. TLHE je údaj o těžbě získaný z lesní hospodářské evidence za období od předchozí inventarizace a pro území přístupné a schůdné porostní půdy v okamžiku předchozí inventarizace. T̂SPI je odhad celkové těžby od předchozí inventarizace provedený postupem podle části X.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2024."
+    }
+  ],
+  "definitions": []
+}

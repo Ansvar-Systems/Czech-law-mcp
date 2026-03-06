@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:705/1947",
+  "type": "statute",
+  "title": "705/1947 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků hornických do „Příbramských rudných dolů, národního podniku“.",
+  "title_en": "",
+  "short_name": "705/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-07-08",
+  "in_force_date": "1947-07-08",
+  "url": "https://www.e-sbirka.cz/ul1/1947/705",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků hornických do „Příbramských rudných dolů, národního podniku“.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Libčické těžařstvo Zlatodůl Libčice, v Libčicích;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Závody Hermanna Göringa, doly na niklovou rudu (Steyrische Bergbau- und Eisenbahngesellschaft der Reichswerke „Hermann Göring“ Nickelerzbergbau), se sídlem v Křemži u Českých Budějovic\nv rozsahu jejich znárodnění do „Příbramských rudných dolů, národního podniku“."
+    }
+  ],
+  "definitions": []
+}

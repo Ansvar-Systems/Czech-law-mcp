@@ -1,0 +1,27 @@
+{
+  "id": "cz:80/1999",
+  "type": "statute",
+  "title": "80/1999 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 175/1997 Sb., kterým se stanoví technické požadavky na jednoduché tlakové nádoby",
+  "title_en": "",
+  "short_name": "80/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-05-04",
+  "in_force_date": "1999-05-04",
+  "url": "https://www.e-sbirka.cz/sb/1999/80",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 175/1997 Sb., kterým se stanoví technické požadavky na jednoduché tlakové nádoby",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 175/1997 Sb., kterým se stanoví technické požadavky na jednoduché tlakové nádoby, se mění takto:\n1. V § 3 odst. 3 písm. b) se slovo „menší“ nahrazuje slovy „není větší“.\n2. V příloze č. 1 se v bodě 1.1.1. písm. cb) symbol „ł“ nahrazuje symbolem „≥“ a symbol „Ł“ symbolem „<“.\n3. V příloze č. 1 se v bodě 1.1.1. písm. cc) na konci čtvrtého řádku zrušuje pomlčka a na pátém řádku se číselný symbol „10 °C“ nahrazuje číselným symbolem „-10 °C“.\n4. V příloze č. 1 se v bodě 1.1.2. písm. bb) nahrazuje symbol „ł“ symbolem „≥“.\n5. V příloze č. 1 bod 2. zní:\n„2. Navrhování nádob\nPři navrhování nádoby musí být výrobcem\na) stanoveny podle účelu použití následující hodnoty:\n1. nejnižší pracovní teplota Tmin,\n2. nejvyšší pracovní teplota Tmax,\n3. nejvyšší pracovní přetlak PS.\nJe-li zvolená nejnižší pracovní teplota vyšší než -10 °C, musí být požadované vlastnosti materiálu zaručeny pro -10 °C,\nb) vzaty v úvahu také následující požadavky:\n1. musí být možné provádět kontrolu vnitřního povrchu,\n2. musí být možné nádoby vyprázdnit,\n3. mechanické vlastnosti musí být zachovány po celou dobu stanovené životnosti nádoby,\n4. nádoby musí být, s ohledem na jejich předepsané používání, dostatečně chráněny proti korozi,\nc) vzata v úvahu skutečnost, že za předpokládaných podmínek používání\n1. nebudou nádoby vystaveny napětím, která by mohla ohrozit jejich bezpečnost při používání,\n2. nebude vnitřní přetlak trvale přesahovat nejvyšší pracovní přetlak PS, přechodně však může být překročen až o 10 %.\nObvodové a podélné svarové spoje musí být provedeny plně provařenými svary nebo svary rovnocennými. Klenutá dna, s výjimkou den polokulových, musí mít válcový lem.“.\n6. V příloze č. 2 se v bodě 1. písm. b) a c) nahrazuje slovo „teplotu“ slovem „teplota“.\n7. V příloze č. 2 se v bodě 1. písm. e) nahrazuje slovo „značku“ slovem „značka“.\n8. V příloze č. 2 se v bodě 4.2. v prvním řádku číselný symbol „5,65, So“ nahrazuje číselným symbolem „5,65.So1/2“.\n9. V příloze č. 2 se v bodě 4.2. ve druhém řádku symbol „-“ nahrazuje symbolem „=“.\n10. V příloze č. 2 se v bodě 4.2. v pátém řádku vkládá před slovo „pracovní“ slovo „nejvyšší“.\n11. V příloze č. 2 se v bodě 4.2. v sedmém až dvanáctém řádku nahrazuje symbol „N.mm-2“ symbolem „N.mm-2“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

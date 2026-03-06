@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:400/1945",
+  "type": "statute",
+  "title": "400/1945 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách zelené a sušené čekanky.",
+  "title_en": "",
+  "short_name": "400/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-11-17",
+  "in_force_date": "1945-11-17",
+  "url": "https://www.e-sbirka.cz/ul1/1945/400",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách zelené a sušené čekanky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pevná cena zelené čekanky při prodeji pěstitelem jest Kčs 93.— za 100 kg čisté váhy i s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Sušárna platí pěstiteli mimo cenu ještě za dovoz k váze sušárny, nebo ke skládce sušárny, nebo k nakládací stanici pěstitele, částku Kčs 0.60 za každých 100 kg a 1 km. Pro výpočet kilometrů se vzdálenost měří od středu obce pěstitele. Přesahuje-li započatý kilometr 500 metrů, počítá se za celý kilometr.\n(2) Pěstiteli v místě sušárny nahrazuje sušárna dovoz částkou Kčs 0.60 za 100 kg čisté váhy.\n(3) Náklady dopravného zelené čekanky po železnici nese sušárna. Náklady spojené s naložením do vagonů nese sušárna v místech, kde má vlastní váhu nebo skládku. V jiných místech tyto náklady nese pěstitel. Za tuto činnost náleží pěstiteli náhrada 20 haléřů za 100 kg čekanky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pevná cena za 100 kg sušené čekanky jest Kčs 490.—, franko nakládací stanice sušárny, včetně daně z obratu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Cena za čekankovou drť činí dvě třetiny ceny sušené čekanky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky této vyhlášky se trestají podle čtvrté části vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem uveřejnění.\n(2) Současně se ruší pěstitelská premie, která byla stanovena v § 2 vyhlášky býv. ministra zemědělství a lesnictví ze dne 6. dubna 1944, č. 85 Sb. Ostatní ustanoveni této vyhlášky zůstávají nadále v platnosti."
+    }
+  ],
+  "definitions": []
+}

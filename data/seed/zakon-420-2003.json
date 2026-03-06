@@ -1,0 +1,36 @@
+{
+  "id": "cz:420/2003",
+  "type": "statute",
+  "title": "420/2003 Sb., Zákon, kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony",
+  "title_en": "",
+  "short_name": "420/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-12-12",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/420",
+  "description": "Zákon, kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony",
+  "provisions": [
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o Všeobecné zdravotní pojišťovně České republiky",
+      "content": "V zákoně č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, ve znění zákona č. 305/1997 Sb. a zákona č. 127/1998 Sb., se § 11 včetně poznámky pod čarou č. 11) zrušuje."
+    },
+    {
+      "provision_ref": "Čl. V",
+      "section": "V",
+      "title": "Čl. V",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o resortních, oborových, podnikových a dalších zdravotních pojišťovnách",
+      "content": "V zákoně č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách, ve znění zákona č. 127/1998 Sb., se § 20 včetně nadpisu a poznámky pod čarou č. 19) zrušuje."
+    },
+    {
+      "provision_ref": "Čl. VI",
+      "section": "VI",
+      "title": "Čl. VI",
+      "chapter": "ČÁST ČTVRTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2004."
+    }
+  ],
+  "definitions": []
+}

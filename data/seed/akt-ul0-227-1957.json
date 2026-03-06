@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:227/1957",
+  "type": "statute",
+  "title": "227/1957 Ú. l., Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalisaci, vyhlašují tyto změny a doplňky některých československých státních norem:",
+  "title_en": "",
+  "short_name": "227/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-12-13",
+  "in_force_date": "1957-12-13",
+  "url": "https://www.e-sbirka.cz/ul0/1957/227",
+  "description": "Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalisaci, vyhlašují tyto změny a doplňky některých československých státních norem:",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro třídění odpadu ocelí podle chemického složení platí třídy odpadu, uvedené pro jednotlivé značky ocelí v ČSN 42 0031 z března 1957, uveřejněné ve vyhlášce č. 101/1957 Ú. l., V návrhu revise normy ČSN 42 0075 jsou již třídy odpadu ocelí opraveny podle ČSN 42 0031 z března 1957."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V československé státní normě ČSN 42 1210 „Vzorkování technického železa pro chemický rozbor“, uveřejněné ve vyhlášce č. 193/1956 Ú. l., se doplňují tyto články:\nZa článek 25 se vkládá tato nová věta:\n„Tento článek se netýká surového železa slévárenského“.\nPro surové železo slévárenské, se zařazuje nový článek 25a, který zní:\n„Z každé jednotlivé vagonové zásilky, která smí obsahovat pouze surové slévárenské železo jedné značky (viz ČSN 42 1221) se odebere z různých míst vagonu nejméně 10 housek. Vzorek se odrazí kladivem ze střední části housky.“\nZa článek 26 se vkládá nový odstavec tohoto znění:\n„Zjistí-li se, že se nejedná o jednu značku surového slévárenského železa, provede se u jednotlivě odebraných 10 vzorků surového slévárenského železa kontrolní chemický rozbor na obsah křemíku. Se zřetelem na normu ČSN 42 2115 nesmí rozdíl stanovení křemíku jednotlivých vzorků míti větší úchylky než ± 0,25 % Si.“"
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "V československé státní normě ČSN 42 1290 „Odpadové suroviny pro kuplovny“, uveřejněné ve vyhlášce č. 42/1956 Ú. l., se mění článek 15, který zní:\n„Chemické složení odpadových surovin jednotlivých jakostí, uvedené v příslušných tabulkách, je směrnicí pro spotřebitele a pro dodavatele.“\nV tabulce II a III se mění skupiny kusovitostí 8 a 9 takto:\n„8 třísky briketované,\n9 třísky jinak upravené.“\nDo článku 40 se vkládá nový odstavec tohoto znění:\n„Neupravené třísky ze šedé, tvárné a temperované litiny se dodávají a vykupují jako vsázkový materiál pro vysoké pece (viz ČSN 42 0032).“\nU třídy odpadové suroviny K 04 (Zlomková šedá litina obyčejná) se opravuje nejvyšší obsah síry na 0,15 % (dosud 0,80 %)."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Československá státní norma ČSN 42 2110 „Železo surové ocelárenské“, uveřejněná ve vyhlášce č. 53/1955 Ú. l., se doplňuje dalším druhem surového železa ocelárenského:\nOznačeníSiMnPS\n42 2110.9\n*)max\n1,50 %0,60\naž\n1,50 %\n**)max\n0,40 %max\n0,07 %\n*)Surové železo ocelárenské 42 2110.9 je určeno pro ocelárny pracující rudným pochodem.\n**)Překročení horní meze (1,50 %) manganu není důvodem k zamítnutí dodávky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "V československé státní normě ČSN 42 2115 „Železo surové slévárenské“, uveřejněné ve vyhlášce č. 53/1955 Ú. l., se ruší na straně 2 poslední odstavec „Přechodné ustanovení“.\nU surového železa slévárenského jakosti 42 2115.30 až 42 2115.39 se v posledním sloupci materiálového listu pro obsah síry uvede „max 0,05 %“ (dosud max 0,06 %). Slova „(viz přechodné ustanovení)“ se škrtají."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Ve Vydavatelství Státního úřadu pro vynálezy a normalisaci vyšla s platností od 1. prosince 1957 změna k československé státní normě ČSN 79 5886 „Lyžařská obuv“, uveřejněná ve vyhlášce č. 223/1955 Ú. l."
+    }
+  ],
+  "definitions": []
+}

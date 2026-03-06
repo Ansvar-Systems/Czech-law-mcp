@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:2103/1948",
+  "type": "statute",
+  "title": "2103/1948 Ú. l. I, Vyhláška ministerstva sociální péče o povinnosti hlášení některých osob, podléhajících všeobecné pracovní povinnosti.",
+  "title_en": "",
+  "short_name": "2103/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-14",
+  "in_force_date": "1948-09-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2103",
+  "description": "Vyhláška ministerstva sociální péče o povinnosti hlášení některých osob, podléhajících všeobecné pracovní povinnosti.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Všichni muži ve věku od 16 do 55 let a ženy ve věku od 18 do 45 let jsou povinni se osobně hlásiti u okresního úřady ochrany práce (pobočky), v jehož obvodě mají své bydliště nebo pobyt, pokud nejsou této povinnosti zproštěni podle ustanovení následujícího odstavce.\n(2) Povinnosti hlášení nepodléhají:\na) vojenské osoby v činné službě;\nb) osoby, které pro nemoc nebo tělesnou či duševní vadu jsou trvale nezpůsobilé k práci a mohou tuto skutečnost doložiti vysvědčením úředního lékaře nebo lékaře ústavu, v němž jsou ošetřovány;\nc) osoby, které jsou v řádném pracovním (služebním) poměru, v němž podléhají povinnému nemocenskému pojištění, skutečně pracují a jsou plně zaměstnány, a osoby stavu duchovního;\nd) osoby, které jsou v řádném učebním poměru;\ne) samostatně hospodařící zemědělci a jejich rodinní příslušníci, kteří jsou v zemědělství plně zaměstnáni;\nf) osoby, které jsou plně zaměstnány provozem živnosti, která byla úřadem schválena nebo jejíž odpoveď byla úřadem vzata na vědomí nebo provozují svobodné povolání, které je plně zaměstnává, a jsou členy příslušné zájmové organisace, jakož i jejich rodinní příslušníci, kteří jsou v této živnosti (v svobodném povolání) plně zaměstnáni;\ng) posluchači vysokých škol, kteří řádně pokračují ve studiu nebo se připravují ke zkouškám, a žáci dosavadních středních a odborných škol, veřejných nebo s právem veřejnosti (škol třetího stupně podle zákona č. 95/1948 Sb.);\nh) ženy od počátku třetího měsíce těhotenství až do konce třetího měsíce následujícího po slehnutí, dále ženy, které pečují alespoň o jedno dítě mladší 15 let, a ženy, které samy obstarávají domácnost a pečují alespoň o jednoho příslušníka této domácnosti;\nch) členové cizích zastupitelských úřadů a příslušníci jejich rodin.\n(3) Za plně zaměstnanou (odstavec 2) se považuje osoba, která pracuje nejméně 48 hodin týdně, pokud v jejím oboru nebo závodě není stanoven nebo není obvyklá kratší pracovní doba, a koná při tom práci, kterou v této době obyčejně vykonává řádný pracovník týchž tělesných a duševních schopností a téhož nebo podobného druhu povolání.\n(4) Osoby podléhající povinnosti hlášení v den účinnosti této vyhlášky, jsou povinny se hlásiti do 15 dnů ode dne její účinnosti. Osoby, které dosáhnou rozhodující věkové hranice po účinnosti vyhlášky a nejsou osvobozeny podle odstavce 2, a osoby, jejichž důvod osvobození podle téhož odstavce zanikne před dosažením věkové hranice, kdy již nepodléhají hlášení podle odstavce 1, jsou povinny se hlásiti do 3 dnů ode dne, kdy dosáhly věkové hranice, v níž podléhají povinnosti hlášení, nebo kdy zanikne důvod, jenž je zprošťoval povinnosti hlášení.\n(5) Osoby, podléhající povinnosti hlášení, které jsou v domácím nebo ústavním léčení, jsou povinny — pokud se nemohou hlásiti osobně — hlásiti se písemně. Musí však k hlášení připojiti osvědčení ošetřujícího lékaře."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Okresní úřady ochrany práce mohou blíže upraviti dobu hlášení v stanovené 15 denní lhůtě a vyhlásiti ji způsobem v místě obvyklým."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Jednání a opominutí, příčící se ustanovením této vyhlášky, se stíhají podle § 23 dekretu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 1948 a platí v zemích České a Moravskoslezské. Dnem její účinnosti pozbývá platnosti vyhláška ministra ochrany práce a sociální péče ze dne 17. října 1945, č. 328 Ú. l. I."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "plně zaměstnanou (odstavec 2",
+      "definition": "osoba, která pracuje nejméně 48 hodin týdně, pokud v jejím oboru nebo závodě není stanoven nebo není obvyklá kratší pracovní doba, a koná při tom práci, kterou v této době obyčejně vykonává řádný pracovník týchž tělesných a duševních schopností a téhož nebo podobného druhu povolání",
+      "source_provision": "§ 1."
+    }
+  ]
+}

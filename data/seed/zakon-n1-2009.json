@@ -1,0 +1,21 @@
+{
+  "id": "cz:n1/2009",
+  "type": "statute",
+  "title": "n1/2009 Sb., Sdělení Ministerstva vnitra o opravě tiskové chyby v zákoně č. 150/2009 Sb.",
+  "title_en": "",
+  "short_name": "n1/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-06-29",
+  "in_force_date": "2009-06-29",
+  "url": "https://www.e-sbirka.cz/sb/2009/n1",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskové chyby v zákoně č. 150/2009 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V čl. I bodě 7 v příloze k zákonu č. 107/2006 Sb. má místo vzorce „MP = (4-k+1CN AN – 1)*100“ správně být vzorec „MP=CN/AN4-k+1-1*100“."
+    }
+  ],
+  "definitions": []
+}

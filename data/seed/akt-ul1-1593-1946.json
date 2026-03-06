@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1593/1946",
+  "type": "statute",
+  "title": "1593/1946 Ú. l. I, Vyhláška ministra výživy o znárodnění některých podniků průmyslu potravinářského.",
+  "title_en": "",
+  "short_name": "1593/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-08-06",
+  "in_force_date": "1946-08-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1593",
+  "description": "Vyhláška ministra výživy o znárodnění některých podniků průmyslu potravinářského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Mlýn v Kralupech n. Vlt., náležející firmě Mlýnské závody, akc. společnost v Praze II., Václavské náměstí č. 25,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Mlýn v Palhanci u Opavy, náležející firmě M. Herber, parní mlýn v Palhanci u Opavy.\nZnárodněním nabyl Československý stát vlastnictví znárodněných podniků v rozsahu stanoveném § 4 dekretu presidenta republiky č. 101/1945 Sb."
+    }
+  ],
+  "definitions": []
+}

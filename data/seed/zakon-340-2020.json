@@ -1,0 +1,33 @@
+{
+  "id": "cz:340/2020",
+  "type": "statute",
+  "title": "340/2020 Sb., Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "340/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-08-11",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/340",
+  "description": "Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 4 odst. 2 úvodní části ustanovení vyhlášky č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění vyhlášky č. 56/2010 Sb. a vyhlášky č. 62/2012 Sb., se číslo „0,9241“ nahrazuje číslem „0,9302“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pro výpočet rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění za kalendářní roky 2019 a předcházející se použije výše koeficientu podle § 4 odst. 2 vyhlášky č. 76/2005 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2021."
+    }
+  ],
+  "definitions": []
+}

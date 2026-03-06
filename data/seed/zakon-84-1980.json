@@ -1,0 +1,33 @@
+{
+  "id": "cz:84/1980",
+  "type": "statute",
+  "title": "84/1980 Sb., Vyhláška federálního ministerstva zahraničního obchodu, kterou se vydává celní sazebník neobchodního zboží",
+  "title_en": "",
+  "short_name": "84/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-07-15",
+  "in_force_date": "1984-09-01",
+  "url": "https://www.e-sbirka.cz/sb/1980/84",
+  "description": "Vyhláška federálního ministerstva zahraničního obchodu, kterou se vydává celní sazebník neobchodního zboží",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Dovážené neobchodní zboží (dále jen „zboží“) podléhá clu, které se vyměřuje podle sazeb stanovených celním sazebníkem neobchodního zboží uvedeným v příloze.\n(2) Vyměřuje-li se clo z neobchodního zboží podle ceny, je základem tuzemská maloobchodní cena stejného nebo podobného zboží."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se vyhláška ministerstva zahraničního obchodu č. 6/1969 Sb., o paušálu cla a náhradní dávky za daň z obratu z věcí dovážených bez úplaty."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. července 1980.\nPříloha k vyhlášce č. 84/1980 Sb.\nCelní sazebník neobchodního zboží\nPoložkaPojmenování zbožíSazba\n1Poživatiny, obiloviny, okopaniny, pícniny a nealkoholické nápojebez cla\n2Alkoholické nápoje\na) lihoviny40 % z ceny\nb) ostatní alkoholické nápoje10 % z ceny\n3Tabák a tabákové výrobky20 % z ceny\n4Průmyslové zboží\na) motorová vozidla s obsahem\n– do 1600 cm325 Kčs à 1 cm3\n– od 1601 cm3 do 1800 cm330 Kčs à 1 cm3\n– od 1801 cm3 výše 35 Kčs à 1 cm3\nb) součásti motorových vozidel 50 % z ceny\nc) dětské hračky, sportovní nářadí a sportovní potřeby všeho druhu 10 % z ceny\nd) kalkulačky stolní, kapesní, náramkové a náhrdelníkové (i s časoměrným zařízením),\nosobní počítače, mikropočítače, nejsou-li součástí jiného zařízení,\na stavebnice mikroelektronických obvodů a součástek pro sebevzdělávání a hry15 % z ceny\ne) ostatní průmyslové zboží 30 % z ceny\n5Knihy, tiskoviny, časopisy, hudebniny, nálepky a mince ke sběratelským účelům, spisy, diapozitivy, fotografie, poštovní známkybez cla\n6Ostatní zboží v tomto sazebníku výslovně nejmenované40 % z ceny"
+    }
+  ],
+  "definitions": []
+}

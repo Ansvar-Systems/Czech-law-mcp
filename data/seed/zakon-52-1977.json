@@ -1,0 +1,33 @@
+{
+  "id": "cz:52/1977",
+  "type": "statute",
+  "title": "52/1977 Sb., Redakční sdělení o opravě tiskových chyb v Oznámení o vydání obecných právních předpisů v částce 15/1977 Sbírky zákonů, slovenského vydání",
+  "title_en": "",
+  "short_name": "52/1977 Sb.",
+  "status": "in_force",
+  "issued_date": "1977-09-05",
+  "in_force_date": "1977-09-05",
+  "url": "https://www.e-sbirka.cz/sb/1977/52",
+  "description": "Redakční sdělení o opravě tiskových chyb v Oznámení o vydání obecných právních předpisů v částce 15/1977 Sbírky zákonů, slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "„1. úpravu č. 1900/1977 z 29. apríla 1977, ktorou sa povoľuje používať pri trhacích prácach banské časované (polsekundové) elektrické rozbušky DeP-N s Cu dutinkou,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. úpravu č. 1901/1977 z 27. apríla 1977, ktorou sa povoľuje používať pri trhacích prácach banské časované (štvrťsekundové) elektrické rozbušky DeD-N s Cu dutinkou,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. úpravu č. 1902/1977 z 3. mája 1977, ktorou sa povoľuje používať pri trhacích prácach banské časované (polsekundové) elektrické rozbušky DeP-N s Al dutinkou.“."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:429/2021",
+  "type": "statute",
+  "title": "429/2021 Sb., Vyhláška, kterou se mění vyhláška č. 208/2017 Sb., kterou se stanoví rozsah technických parametrů pro zařízení, jejichž prostřednictvím jsou provozovány hazardní hry, požadavků na ochranu a uchovávání herních a finančních dat a jejich technické parametry",
+  "title_en": "",
+  "short_name": "429/2021 Sb.",
+  "status": "in_force",
+  "issued_date": "2021-11-30",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2021/429",
+  "description": "Vyhláška, kterou se mění vyhláška č. 208/2017 Sb., kterou se stanoví rozsah technických parametrů pro zařízení, jejichž prostřednictvím jsou provozovány hazardní hry, požadavků na ochranu a uchovávání herních a finančních dat a jejich technické parametry",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 208/2017 Sb., kterou se stanoví rozsah technických parametrů pro zařízení, jejichž prostřednictvím jsou provozovány hazardní hry, požadavků na ochranu a uchovávání herních a finančních dat a jejich technické parametry, se mění takto:\n1. V § 2 odst. 2 se věta druhá zrušuje.\n2. V § 8 odst. 1 se slova „jedinečným identifikačním štítkem ve formě registrační známky vydávané“ nahrazují slovy „registrační známkou podle vyhlášky upravující výstupní dokumenty v oblasti hazardních her (dále jen „registrační známka“) vydávanou“.\n3. V § 8 odst. 2 se slova „pevně připevněna“ nahrazují slovem „přilepena“.\n4. V § 8 se doplňuje odstavec 3, který zní:\n„(3) Lepidlo použité k nalepení registrační známky a materiál použitý k výrobě registrační známky musí mít takové vlastnosti, aby nemohlo dojít k odlepení registrační známky bez jejího porušení, a to ani vlivem povětrnostních nebo jiných vnějších vlivů.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodná ustanovení",
+      "content": "1. Po dobu 1 roku ode dne nabytí účinnosti této vyhlášky lze namísto registrační známky splňující podmínky podle § 8 odst. 3 vyhlášky č. 208/2017 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, použít registrační známku vyrobenou přede dnem nabytí účinnosti této vyhlášky.\n2. Na registrační známku vydanou podle vyhlášky č. 208/2017 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, se po dobu její platnosti hledí, jako by splňovala podmínky podle této vyhlášky, pokud je přilepena do dne nabytí účinnosti této vyhlášky na koncové zařízení nebo samostatně stojící generátor náhodných čísel, které jsou přede dnem nabytí účinnosti této vyhlášky provozovány jako součást zařízení."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2022."
+    }
+  ],
+  "definitions": []
+}

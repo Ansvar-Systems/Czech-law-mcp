@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:715/1949",
+  "type": "statute",
+  "title": "715/1949 Ú. l. I, Vyhláška ministerstva výživy o zřizování mlýnů, rozšiřování jejich výrobní schopnosti a strojních a stavebních změnách ve mlýnech.",
+  "title_en": "",
+  "short_name": "715/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-07-01",
+  "in_force_date": "1949-07-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/715",
+  "description": "Vyhláška ministerstva výživy o zřizování mlýnů, rozšiřování jejich výrobní schopnosti a strojních a stavebních změnách ve mlýnech.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Mlýnem podle této vyhlášky se rozumí podnik, který je zařízen na zpracování nebo opracování obilí (pšenice, žita, ječmene, ovsa, kukuřice, pohanky, čiroku, prosa), rýže nebo luštěnin na mlýnské výrobky. Mlýnem není výrobna zařízená výhradně na drcení obilí a luštěnin ke krmným účelům (šrotovník) pro spotřebu vlastního hospodářství."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Ke zřizování nového mlýna jest zapotřebí souhlasu ministerstva výživy.\n(2) K provedení jakékoliv změny nebo výměny zařízení mlýna a každé stavební změny mlýnské provozovny je zapotřebí souhlasu\na) ministerstva výživy, jde-li o mlýny provozované národními podniky nebo družstvy nebo mlýny, které podle určení ministerstva výživy jsou důležité pro obchodní mletí;\nb) krajského národního výboru, jde-li o mlýny ostatní.\n(3) Krajský národní výbor řídí se při výkonu své pravomoci podle odstavce 2, písm. b) směrnicemi, jež vydá ministerstvo výživy."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Živnostenský úřad může zavésti řízení a uděliti schválení podle hlavy III. živnostenského řádu (zákona) jen tehdy, bylo-li již dáno povolení potřebné podle této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Československé mlýny, n. p. se pověřují, aby vedly evidenci a prováděly kontrolu výrobní schopnosti mlýnů uvedených v § 2, odst. 2, písm. a); evidenci a kontrolu ostatních mlýnů obstarávají krajské národní výbory.\n(2) Podrobnější ustanoveni o vedení evidence, provádění kontroly podle odst. 1 a o projednávání žádosti podaných podle této vyhlášky vydá ministerstvo výživy zvláštními směrnicemi."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky této vyhlášky se trestají podle § 8 dekretu presidenta republiky, č. 118/1945 Sb., ve znění zákona č. 274/1948 Sb."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Dnem nabytí účinnosti této vyhlášky pozbývají platností ustanovení § 5 vyhlášky bývalého Svazu pro hospodaření obilím, kterou se upravuje tržní řád pro obilí, mlýnské výrobky, krmiva a některé další zboží pro hospodářský rok 1948/1949 (Ú. l. I, č. 1663/1948).\n(2) Tato vyhláška nabývá účinnosti dnem 1. července 1949 a platí jen v zemích českých."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mlýnem podle této vyhlášky",
+      "definition": "podnik, který je zařízen na zpracování nebo opracování obilí (pšenice, žita, ječmene, ovsa, kukuřice, pohanky, čiroku, prosa), rýže nebo luštěnin na mlýnské výrobky",
+      "source_provision": "§ 1."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:340/2008",
+  "type": "statute",
+  "title": "340/2008 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 19/2003 Sb., kterým se stanoví technické požadavky na hračky",
+  "title_en": "",
+  "short_name": "340/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-09-12",
+  "in_force_date": "2008-09-12",
+  "url": "https://www.e-sbirka.cz/sb/2008/340",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 19/2003 Sb., kterým se stanoví technické požadavky na hračky",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V příloze č. 3 nařízení vlády č. 19/2003 Sb., kterým se stanoví technické požadavky na hračky, se doplňuje bod 7, který včetně nadpisu a poznámek pod čarou č. 10 a 11 zní:\n„7. Magnetické hračky\nMagnetické hračky musí být opatřeny upozorněním s následujícím textem:\n„Pozor! Tato hračka obsahuje magnety nebo magnetické části. Magnety přitahující se k sobě navzájem nebo ke kovovému předmětu uvnitř lidského těla mohou způsobit vážné nebo smrtelné zranění. V případě spolknutí či vdechnutí magnetů vyhledejte okamžitou lékařskou pomoc.“ nebo textem rovnocenného snadno srozumitelného znění, které jasně sděluje tentýž obsah.\nUpozornění musí být jasně viditelné a čitelné, zřetelně napsané na obalu či jinak připevněné k magnetické hračce tak, aby je spotřebitel dobře viděl v okamžiku nákupu, a uvedeno v českém jazyce.\nZa magnetickou hračku se považuje hračka, která obsahuje jeden nebo více magnetů či jednu nebo více magnetických částí, jejichž tvar a velikost umožňují jejich spolknutí10) a které jsou dostupné dětem11).\n10) Článek 1 alinea třetí Rozhodnutí Komise 2008/329/ES ze dne 21. dubna 2008, kterým se členským státům ukládá povinnost zajistit, aby byly magnetické hračky uváděné nebo dodávané na trh označeny upozorněním na zdravotní a bezpečnostní rizika, která představují – text s významem pro EHP.\n11) Článek 1 alinea čtvrtá Rozhodnutí Komise 2008/329/ES ze dne 21. dubna 2008, kterým se členským státům ukládá povinnost zajistit, aby byly magnetické hračky uváděné nebo dodávané na trh označeny upozorněním na zdravotní a bezpečnostní rizika, která představují – text s významem pro EHP.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Magnetické hračky, které již byly uvedeny na trh a nejsou označeny požadovaným upozorněním, nesmějí být po nabytí účinnosti tohoto nařízení nabízeny nebo prodávány. Magnetické hračky, které nejsou označeny požadovaným upozorněním, musí být staženy z trhu."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "magnetickou hračku",
+      "definition": "hračka, která obsahuje jeden nebo více magnetů či jednu nebo více magnetických částí, jejichž tvar a velikost umožňují jejich spolknutí10) a které jsou dostupné dětem11)",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

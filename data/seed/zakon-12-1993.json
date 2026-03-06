@@ -1,0 +1,33 @@
+{
+  "id": "cz:12/1993",
+  "type": "statute",
+  "title": "12/1993 Sb., Vyhláška ministerstva financí České republiky, kterou se provádějí některá ustanovení zákona České národní rady č. 338/1992 Sb., o dani z nemovitostí",
+  "title_en": "",
+  "short_name": "12/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-12-31",
+  "in_force_date": "1993-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1993/12",
+  "description": "Vyhláška ministerstva financí České republiky, kterou se provádějí některá ustanovení zákona České národní rady č. 338/1992 Sb., o dani z nemovitostí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Od daně ze staveb se za osvobozené podle § 9 odst. 1 písm. k) zákona považují stavby veřejně přístupných památkových objektů ve vlastnictví státu prohlášené za kulturní památku1) a dále stavby veřejně přístupných památkových objektů ve vlastnictví právnických a fyzických osob prohlášené za kulturní památku,1) které jsou přístupné z důvodů výchovně vzdělávacích na základě písemné smlouvy uzavřené mezi ministerstvem kultury České republiky a vlastníkem. Ve smlouvě musí být uveden časový a prostorový rozsah zpřístupnění a stanoven jeho režim v souladu s památkovou hodnotou a dalšími způsoby využití objektu.\n(2) Od daně ze staveb se za osvobozené podle § 9 odst. 1 písm. m) zákona považují stavby sloužící výlučně\na) k umístění a provozu veřejné monitorovací sítě zajišťující informace o stavu jednotlivých složek životního prostředí financované z prostředků státních rozpočtů nebo rozpočtu obcí,\nb) k úpravě odpadů2) pro jejich další využití,\nc) k asanaci a rekultivaci skládek odpadů,3)\nd) k asanaci kontaminovaných pozemků, podzemních vod a objektů,\ne) pro třídění a sběr odpadů,\nf) pro tepelné, biologické, chemické a fyzikální zneškodňování odpadů,\ng) pro skládky odpadů splňující podmínky stanovené pro provoz skládky zvláštními předpisy,4)\nh) provozu malých vodních elektráren do výkonu 1 MW,\nch) pro generátory s větrným pohonem,\ni) pro generátory bioplynu včetně systémů jejich využití, pokud je získaná energie dodávána do sítě nebo dalším spotřebitelům,\nj) pro zdroje využívající geotermální energie včetně tepelných čerpadel, které dodávají teplo spotřebitelům,\nk) jako funkční sluneční kolektory,\nl) jako zdroje energie z biomasy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Od daně z pozemků se za osvobozené podle § 4 odst. 1 písm. g) zákona považují pozemky tvořící jeden funkční celek se stavbou památkových objektů vymezených v § 1 odst. 1 této vyhlášky.\n(2) Od daně z pozemků se za osvobozené podle § 4 odst. 1 písm. h) zákona považují pozemky tvořící jeden funkční celek se stavbami\na) vymezenými § 1 odst. 2 písm. a) až j) této vyhlášky,\nb) sloužícími výlučně pro čistírny odpadních vod,\nc) sloužícími soustavě horkovodních a parovodních zařízení centralizovaného zásobování teplem5) pro veřejný rozvod."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1993.\n1) Zákon ČNR č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů.\n2) Např. zákon č. 238/1991 Sb., o odpadech, nařízení vlády České republiky č. 513/1992 Sb., o podrobnostech nakládání s odpady.\n3) Vyhláška ministerstva životního prostředí České republiky č. 401/1991 Sb., o programech odpadového hospodářství.\n4) Např. zákon č. 138/1973 Sb., o vodách (vodní zákon), ve znění pozdějších předpisů.\n5) Zákon č. 89/1987 Sb., o výrobě, rozvodu a spotřebě tepla."
+    }
+  ],
+  "definitions": []
+}

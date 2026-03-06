@@ -1,0 +1,57 @@
+{
+  "id": "cz:36/2023",
+  "type": "statute",
+  "title": "36/2023 Sb., Nařízení vlády o formátu a vzoru formulářového podání pro odvod z nadměrných příjmů a o ověření údajů uváděných ve vyúčtování odvodu z nadměrných příjmů",
+  "title_en": "",
+  "short_name": "36/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-02-10",
+  "in_force_date": "2024-02-03",
+  "url": "https://www.e-sbirka.cz/sb/2023/36",
+  "description": "Nařízení vlády o formátu a vzoru formulářového podání pro odvod z nadměrných příjmů a o ověření údajů uváděných ve vyúčtování odvodu z nadměrných příjmů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví\na) formát a vzor formulářového podání pro hlášení zálohy na odvod a vyúčtování odvodu z nadměrných příjmů,\nb) okruh údajů uváděných ve vyúčtování odvodu z nadměrných příjmů za druhé odvodové období, u kterých se ověřuje jejich správnost a úplnost, a rozsah jejich ověření."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vzory formulářových podání",
+      "content": "(1) Vzor hlášení zálohy na odvod za druhé odvodové období a vyúčtování odvodu z nadměrných příjmů za první odvodové období je uveden v příloze č. 1 k tomuto nařízení.\n(2) Vzor vyúčtování odvodu z nadměrných příjmů za druhé odvodové období je uveden v příloze č. 2 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Formát formulářového podání",
+      "content": "Formulářové podání lze elektronicky podat pouze ve formátu XML."
+    },
+    {
+      "provision_ref": "§ 3a",
+      "section": "3a",
+      "title": "§ 3a Okruh ověřovaných údajů",
+      "content": "Auditor ověřuje správnost a úplnost údajů uvedených poplatníkem odvodu z nadměrných příjmů ve vyúčtování odvodu z nadměrných příjmů za druhé odvodové období v oddílu G."
+    },
+    {
+      "provision_ref": "§ 3b",
+      "section": "3b",
+      "title": "§ 3b Rozsah ověření údajů",
+      "content": "(1) Auditor ověřuje správnost a úplnost údajů podle § 3a v rozsahu prověrky poskytující omezenou jistotu o předmětu ověření postupem podle mezinárodního auditorského standardu upravujícího ověřovací zakázky, které nejsou auditem ani prověrkou historických finančních informací1).\n(2) Ověření správnosti a úplnosti údajů podle odstavce 1 potvrdí auditor ve zprávě o jejich ověření.\n(3) Pro ověření správnosti a úplnosti údajů podle § 3a auditor použije pro plánování a provádění ověřovací zakázky významnost (materialitu) ve výši 3 % z tržního příjmu poplatníka odvodu z nadměrných příjmů stanoveného ve vyúčtování odvodu z nadměrných příjmů za druhé odvodové období v oddílu G."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Společné ustanovení",
+      "content": "Energetický regulační úřad zveřejní vzor formulářového podání pro hlášení zálohy na odvod a pro vyúčtování odvodu z nadměrných příjmů na svých internetových stránkách způsobem umožňujícím vyplnění a podání hlášení zálohy na odvod a vyúčtování odvodu elektronicky ve stanovené struktuře a formátu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.\nPříloha č. 1 k nařízení vlády č. 36/2023 Sb.\nVzor hlášení zálohy na odvod a vyúčtování odvodu z nadměrných příjmů\nPříloha č. 2\n1) Mezinárodní standard pro ověřovací zakázky ISAE 3000 – Ověřovací zakázky, které nejsou auditem ani prověrkou historických finančních informací."
+    }
+  ],
+  "definitions": []
+}

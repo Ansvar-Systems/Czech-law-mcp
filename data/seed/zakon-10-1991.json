@@ -1,0 +1,105 @@
+{
+  "id": "cz:10/1991",
+  "type": "statute",
+  "title": "10/1991 Sb., Vyhláška federálního ministerstva dopravy o podmínkách provozu silničních motorových vozidel poháněných stlačeným plynem",
+  "title_en": "",
+  "short_name": "10/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-02-01",
+  "in_force_date": "1991-02-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/10",
+  "description": "Vyhláška federálního ministerstva dopravy o podmínkách provozu silničních motorových vozidel poháněných stlačeným plynem",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "content": "Tato vyhláška stanoví podmínky pro provoz silničních motorových vozidel, u nichž je motorovým palivem stlačený zemní plyn nebo bioplyn s objemovým podílem metanu nad 85 %, případně jiné směsi uhlovodíků s kritickými teplotami nižšími než 263 K (-10°C) (dále jen „vozidla poháněná stlačeným plynem“) a podmínky pro provedení, provoz a údržbu jejich plynového zařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vozidla poháněná stlačeným plynem",
+      "chapter": "ČÁST PRVNÍ - PODMÍNKY PROVOZU VOZIDEL POHÁNĚNÝCH STLAČENÝM PLYNEM",
+      "content": "(1) Vozidla poháněná stlačeným plynem musí splňovat podmínky stanovené pro provoz vozidel na pozemních komunikacích zvláštními předpisy1) a podmínky pro provedení plynového zařízení a jeho zabudování do vozidla podle části druhé této vyhlášky. Vozidlo dále musí být\na) vybaveno provozuschopným hasícím přístrojem schváleného typu,2) bezpečnostními pokyny a návodem postupu v případě dopravní nehody,\nb) opatřeno snadno přístupným odpojovačem akumulátoru umožňujícím přerušení všech elektrických obvodů bez použití nástrojů,\nc) zřetelně označeno podle zvláštních předpisů,3) a to v kabině vozidla tak, aby označení bylo viditelné z místa řidiče, na vnějších bočních částech karoserie a na zádi vozidla; označení musí být umístěno tak, aby neomezovalo výhled z místa řidiče,\nd) pravidelně podrobováno technické prohlídce podle zvláštních předpisů;4) první technická prohlídka musí být provedena nejpozději jeden rok po uvedení vozidla do provozu, popř. od schválení technické způsobilosti vozidla po změně pohonu motoru, každá následující prohlídka pak nejpozději do jednoho roku od předchozí.\n(2) Emise škodlivin výfukových plynů u vozidel poháněných stlačeným plynem nesmí překročit hodnoty stanovené zvláštními předpisy.5) U vozidel s přestavěným pohonem motoru platí hodnoty stanovené těmito předpisy pro motor před jeho přestavbou.\n(3) U vozidel s klasickým druhem pohonu lze provést změnu pohonu na pohon stlačeným plynem jen se souhlasem výrobce nebo znalce nebo orgánu státní správy určeného v řízení o schválení technické způsobilosti vozidla při změně jeho podstatné části.6) Při montáži musí být dodržen postup stanovený v technické dokumentaci plynového zařízení. Firma, která provedla úpravu vozidla, je povinna dodat k vozidlu technický popis plynového zařízení, návod k obsluze a údržbě, bezpečnostní pokyny a doklady o výsledcích zkoušek plynového zařízení a tlakových nádob.\n(4) Pro schválení technické způsobilosti vozidel poháněných stlačeným plynem platí obdobně předpisy o schvalování technické způsobilosti motorových vozidel k provozu na pozemních komunikacích.7)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Provoz vozidel poháněných stlačeným plynem",
+      "chapter": "ČÁST PRVNÍ - PODMÍNKY PROVOZU VOZIDEL POHÁNĚNÝCH STLAČENÝM PLYNEM",
+      "content": "(1) Při provozu a obsluze vozidel poháněných stlačeným plynem musí být dodrženy tyto podmínky\na) při úniku plynu a poruše plynového zařízení musí být neprodleně uzavřeny uzavírací ventily tlakových nádob; uzavírací ventily musí být uzavřeny i po ukončení pracovní směny vozidla,\nb) v kabině vozidla, při plnění tlakových nádob, ošetření a údržbě vozidla je zakázáno kouřit a zacházet s otevřeným ohněm,\nc) obsah plynových nádob je dovoleno vypouštět jen do volného prostoru, kde nehrozí vznícení vypouštěného plynu nebo do nádob k tomu určených,\nd) je zakázáno vjíždět do uzavřených skladovacích, garážních a obdobných prostorů, u nichž není výslovně vjezd vozidel poháněných stlačeným plynem dovolen,\ne) před vjezdem do opravny nebo do společné garáže musí být odpovědný pracovník tohoto objektu informován o tom, že vozidlo je poháněno stlačeným plynem,\nf) tlakové nádoby na vozidle nesmí být vystaveny působení vnějších zdrojů tepla,\ng) v případě, že v průběhu jízdy (provozu) vozidla vznikne závada uvedená v § 12 odst. 2 písm. a) až e), musí být vozidlo ihned odstaveno a učiněna bezpečnostní opatření.\n(2) Provozovatel vozidla poháněného stlačeným plynem je povinen zajistit, aby řidiči a jiné osoby obsluhující vozidla byli seznámeni s podmínkami uvedenými v odstavci 1, s bezpečnostními pokyny a s návodem postupu v případě dopravní nehody."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Plynové tlakové nádoby a jejich výstroj",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Jako nádrže na plyn lze používat jen tlakové nádoby (dále jen „nádoby“), které odpovídají zvláštním předpisům.8)\n(2) Nádoby se mohou spojovat do baterií, přičemž každá nádoba musí být opatřena samostatným průtokovým pojistným ventilem (t. zn. „nadprůtokovou pojistkou“) a uzavíracím ventilem.\n(3) Nádoby nebo baterie nádob musí být s konstrukcí vozidla pevně spojeny tak, aby při nárazu se zpomalením 20 g v podélném a 8 g ve svislém nebo příčném směru nedošlo k narušení pevnosti úchytu nádob a připojených armatur a potrubí. Pevnost spojení lze prokázat výpočtem.\n(4) Uzavírací ventily, armatury a propojovací plynová potrubí mezi jednotlivými nádobami musí být chráněny proti poškození. Nádoby, jejich armatury, propojovací plynová potrubí a spoje musí být umístěny tak, aby nevyčnívaly přes obrysy vozidla a byly chráněny před nárazem, sálavým teplem a slunečním zářením.\n(5) Přípojka pro plnění nádob musí být opatřena uzavíracím ventilem a uzavírací zátkou. Uzavírací zátka musí být zajištěna proti ztrátě, např. řetízkem pevně spojeným s konstrukcí. Plnění musí být kontrolovatelné manometrem umístěným na vozidle, který může sloužit zároveň jako ukazatel množství plynu v nádobách.\n(6) Dodatečné navařování nosných nebo přídavných konstrukcí na nádoby není dovoleno."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Regulátory tlaku",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Regulátor tlaku musí prokazatelně odolávat nejvyššímu možnému vstupnímu tlaku.\n(2) Materiál použitý na výrobu redukčních ventilů musí být odolný proti působení plynu použitého pro pohon vozidla, musí bezpečně odolávat provozním a zkušebním tlakům a provozním podmínkám na vozidle.\n(3) Redukční ventily a regulátory musí být umístěny v takové vzdálenosti od částí vozidla, které vyzařují teplo (zejména výfukového potrubí) nebo musí být chráněny tak, aby nebyly překročeny maximální dovolené teploty, které pro redukční ventily a regulátory stanoví jejich výrobce.\n(4) Regulátory musí být provedeny tak, aby nedovolily průtok plynu do motoru, je-li motor vozidla v klidu. Ovládací a regulační prvky musí být výrobcem upraveny tak, aby se zamezilo nežádoucí manipulaci, s výjimkou prvků pro seřizování volnoběžných otáček."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Plynové rozvody a potrubí",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Plynové rozvody a potrubí včetně všech spojů musí být odolné proti působení použitého plynu. Mechanicky musí vyhovovat provozním podmínkám vozidla a maximálnímu provoznímu a zkušebnímu tlaku plynu.\n(2) Pro nízkotlaké spoje (do 100 kPa) lze použít jen normalizovaných hadic určených pro stlačený plyn uvedený v § 1 nebo jiných normalizovaných hadic9) se souhlasem jejich výrobce. Hadicové spoje musí být dokonale těsné, a je-li pro spoje použito páskových sponek, musí být každý spoj opatřen nejméně dvěma sponkami.\n(3) Ocelové trubky musí být vcelku nebo spojeny svařováním. Závitové spoje se zářezovými kroužky10) jsou přípustné jen pro armatury a rozebíratelné části rozvodů.\n(4) Potrubí a hadice musí být umístěny a upevněny tak, aby nedošlo k jejich poškození vibracemi nebo třením součástí o sebe a musí být chráněny proti korozi a proti sálavému teplu. Prostory, jimiž je vedeno plynové potrubí, musí být plynotěsně odděleny od kabiny řidiče, prostoru pro cestující nebo uzavřeného ložného prostoru a musí být bezpečně odvětrány do volného prostoru. Poloměr zakřivení ohýbaných ocelových trubek musí být větší než pětinásobek jejich vnějšího průměru. Úchyty a průvleky plynového potrubí musí být provedeny tak, aby potrubí nemohlo být mechanicky poškozeno dotykem s pevnými částmi vozidla. Vnější povrch kovového potrubí musí být žlutý.\n(5) Přímé přivaření potrubí a rozvodů k nosné konstrukci nádob nebo konstrukci vozidla není dovoleno. Veškeré spoje a potrubí musí být přístupné a kontrolovatelné. Plynové potrubí a hadice musí být umístěny v takové vzdálenosti od zářiče tepla, aby nedošlo k narušení funkce plynového zařízení. V případě potřeby musí být provedeno účinné stínění proti tepelnému sálání a bezpečný odvod plynu mimo vozidlo.\n(6) Potrubní rozvody musí umožňovat snadné vyprázdnění kterékoliv nádoby nebo baterie."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Směšovací zařízení a jeho regulační prvky",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Směšovací zařízení musí být bezpečně upevněno a nesmí být umístěno před čističi vzduchu.\n(2) Vozidlo poháněné stlačeným plynem, které je upraveno také na alternativní pohon kapalným palivem (automobilovým benzinem nebo motorovou naftou), musí být konstrukčně upraveno tak, aby nemohlo být provozováno současně na plynné a kapalné palivo, s výjimkou zapalovací dávky motorové nafty u vznětových motorů."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Armatury",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Prostory, ve kterých jsou umístěny vysokotlaké armatury, vysokotlaké plynové rozvody a redukční zařízení, musí být plynotěsně odděleny od kabiny řidiče, prostoru pro cestující nebo uzavřeného ložného prostoru vozidla. Odvětrávací potrubí musí ústit v místě, ve kterém se nenacházejí části vozidla, které by mohly způsobit zapálení unikajícího plynu a vnikání do kabiny a prostoru pro cestující. Veškeré armatury musí být snadno přístupné.\n(2) Startovací zařízení se spalováním nebo žhavením v sacím potrubí musí být při provozu na plyn samočinně vyřazeno z provozu."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Schvalování technické způsobilosti plynového zařízení",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Technická způsobilost plynového zařízení hromadně vyráběného nebo dováženého musí být schválena podle zvláštních předpisů.11) Výroba jednotlivého plynového zařízení je zakázána.\n(2) V dokumentaci pro schválení technické způsobilosti plynového zařízení musí být předložena technická dokumentace plynového zařízení, návod k obsluze a údržbě, bezpečnostní pokyny, údaje o maximálním tlaku, doklad o ověření vhodnosti pro daný plyn a doklady o tom, že prvky plynového zařízení, které podléhají schválení podle předpisů o státním zkušebnictví, byly schváleny příslušnou autorizovanou zkušebnou."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Tehnické kontroly plynového zařízení",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Plynové zařízení musí být po jeho namontování do vozidla a po každé jeho opravě nebo rekonstrukci podrobeno technické kontrole. U vozidel v provozu musí být zajištěna pravidelná technická kontrola plynového zařízení, a to vždy nejpozději do jednoho roku od předchozí kontroly a dále tehdy, bylo-li vozidlo déle než tři měsíce mimo provoz. Technické kontroly se provádějí podle technologického postupu stanoveného výrobcem plynového zařízení; součástí technické kontroly je vždy zkouška těsnosti a pevnosti.\n(2) K provádění technických kontrol je oprávněn výrobce plynového zařízení nebo firma, která provedla jeho zabudování do vozidla. Provozovatel vozidla poháněného stlačeným plynem vede o technických kontrolách evidenci. Pro periodické zkoušky tlakových nádob plynového zařízení platí zvláštní předpisy.12)"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Údržba plynového zařízení",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "Údržba plynového zařízení se provádí podle návodu jeho výrobce."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Technická nezpůsobilost plynového zařízení",
+      "chapter": "ČÁST DRUHÁ - PROVEDENÍ PLYNOVÉHO ZAŘÍZENÍ",
+      "content": "(1) Při zjištění závady plynového zařízení musí být pohon stlačeným plynem ihned vyřazen z provozu.\n(2) Za závady podle odstavce 1 se pokládají zejména:\na) unikání plynu z kterékoli části plynového zařízení a porucha odvětrávacího systému,\nb) trvalé odpouštění plynu pojistnými ventily,\nc) trhlina nebo poškození, které by mohly způsobit unikání plynu,\nd) porucha redukčního zařízení, regulátoru tlaku, směšovače, tlakoměru, uzavíracích ventilů a upevnění nádob,\ne) dochází-li k průtoku plynu do směšovače při vypnutém motoru,\nf) překročení přípustných limitů škodlivých exhalací ve výfukových plynech.\n(3) Pohon stlačeným plynem musí být vyřazen z provozu také tehdy, jestliže nebude provedena periodická zkouška tlakových nádob nebo technická kontrola plynového zařízení v předepsané lhůtě."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 1991.\n1) Vyhláška federálního ministerstva dopravy č. 41/1984 Sb., o podmínkách provozu vozidel na pozemních komunikacích.\n2) § 78 odst. 2 vyhlášky federálního ministerstva dopravy č. 41/1984 Sb.\n3) ČSN 018014 Tabulky k označování prostorů s tlakovými nádobami na plyny.\n4) § 83 vyhlášky ministerstva vnitra č. 145/1956 Ú. l. (Ú. v.), o provozu na silnicích.\n5) § 39 vyhlášky federálního ministerstva dopravy č. 41/1984 Sb.\n6) § 77 vyhlášky ministerstva vnitra č. 145/1956 Ú. l. (Ú. v.).\n7) § 3 vyhlášky federálního ministerstva dopravy č. 41/1984 Sb.\n§ 75 vyhlášky ministerstva vnitra č. 145/1956 Ú. l. (Ú. v.).\n§ 77 vyhlášky ministerstva vnitra č. 145/1956 Ú. l. (Ú. v.).\n8) Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb.\nVyhláška Slovenského úřadu bezpečnosti práce a Slovenského báňského úřadu č. 23/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 84/1982 Sb.\nČSN 07 8304 - Kovové tlakové nádoby k dopravě plynů. Provozní pravidla.\nČSN 07 8305 - Kovové tlakové nádoby k dopravě plynů. Technická pravidla.\n9) ČSN 63 5384 Hadice. Hadice na benziny a oleje.\nPracovný pretlak statický 1,0 MPa.\nČSN 63 5387 Hadice. Hadice pro oleje.\nPracovní přetlak statický 0,3 MPa.\nČSN 63 5388 Hadice. Hadice pro oleje.\nPracovní přetlak statický 0,5 MPa až 2,0 MPa.\n10) ČSN 23 7656 Strojárske skrutkovanie. Zárezné krúžky. Konštrukcia a základné rozmery (obsahuje ST SEV 2635-80).\nČSN 13 7658 Strojárske skrutkovanie. Tesniace kuželíky. Konštrukcia a základné rozmery (obsahuje ST SEV 2636-80).\n11) § 4 vyhlášky federálního ministerstva dopravy č. 41/1984 Sb.\n12) ČSN 07 8305 Kovové tlakové nádoby k dopravě plynů. Technická pravidla."
+    }
+  ],
+  "definitions": []
+}

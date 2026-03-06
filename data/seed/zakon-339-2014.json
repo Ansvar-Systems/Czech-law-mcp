@@ -1,0 +1,39 @@
+{
+  "id": "cz:339/2014",
+  "type": "statute",
+  "title": "339/2014 Sb., Vyhláška o stanovení odůvodněných nákladů a maximální výše úhrady nákladů služeb poskytovaných držitelem dokladů pro účely důchodového pojištění",
+  "title_en": "",
+  "short_name": "339/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-12-29",
+  "in_force_date": "2015-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2014/339",
+  "description": "Vyhláška o stanovení odůvodněných nákladů a maximální výše úhrady nákladů služeb poskytovaných držitelem dokladů pro účely důchodového pojištění",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Odůvodněné náklady",
+      "content": "Odůvodněnými náklady držitele dokladů spojenými s plněním povinností podle § 35a odst. 6 zákona se rozumí náklady na\na) vyhledání dokladu zaměstnavatele uloženého u držitele dokladů,\nb) pořízení výpisu nebo opisu dokladu zaměstnavatele,\nc) pořízení kopie dokladu zaměstnavatele,\nd) potvrzování shody pořízeného opisu nebo kopie dokladu zaměstnavatele s dokladem zaměstnavatele uloženým u držitele dokladů,\ne) poštovné.\nMaximální výše úhrady"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Maximální výše úhrady nákladů spojených s vyhledáním, pořízením výpisu, opisu nebo kopie dokladu zaměstnavatele a nákladů spojených s potvrzováním shody pořízeného opisu nebo kopie dokladu zaměstnavatele s dokladem zaměstnavatele uloženým u držitele dokladů, které je oprávněn požadovat držitel dokladů, jsou uvedeny v sazebníku, který je obsažen v příloze k této vyhlášce.\n(2) Náklady za použitou poštovní službu se hradí ve výši skutečných nákladů podle platného ceníku použitého provozovatele poštovních služeb."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Maximální výše úhrady za uložení dokladů zaměstnavatele v listinné podobě podle § 35a odst. 8 zákona se stanoví do 210 Kč za jeden i započatý běžný metr dokladů za rok a za uložení dokladů zaměstnavatele v digitální podobě do 210 Kč za jeden i započatý GB kapacity za rok."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2015.\nPříloha k vyhlášce č. 339/2014 Sb.\nSazebník maximální výše úhrad nákladů spojených s poskytováním služeb držitelem dokladů\nA. Vyhledání dokladu zaměstnavatele uloženého u držitele dokladů\nÚhrada za vyhledání dokladu zaměstnavatele uloženého u držitele dokladů i v případě negativního nálezu činí nejvýše 100 Kč/ hod.\nB. Pořízení výpisu nebo opisu dokladu zaměstnavatele"
+    }
+  ],
+  "definitions": []
+}

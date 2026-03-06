@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:1204/1946",
+  "type": "statute",
+  "title": "1204/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků na Slovensku.",
+  "title_en": "",
+  "short_name": "1204/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-09",
+  "in_force_date": "1948-10-30",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1204",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků na Slovensku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Akciová spoločnosť Nobel-Bickford, Bratislava, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Dynamona úč. spol., Bratislava, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. majetkovou podstatu podniku Úč. spol. Dynamit-Nobel, se sídlem v Bratislavě, v rozsahu jeho znárodnění s výjimkou:\na) částky Kčs 250.000 na starém vkladě;\nb) účasti na podniku „Agfa-foto“ spol. s r. o., se sídlem v Bratislavě;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. majetkovou podstatu podniku Chemický priemysel úč. spol., se sídlem v Bratislavě, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. majetkovou podstatu podniku Priadelňa umelého hodvábu, úč. spol., se sídlem v Senici, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "content": "6. majetkovou podstatu podniku Východoslovenská chemická továreň, úč. spol., se sídlem v Kostolanech nad Hornádom, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

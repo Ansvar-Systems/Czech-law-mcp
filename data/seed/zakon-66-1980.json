@@ -1,0 +1,39 @@
+{
+  "id": "cz:66/1980",
+  "type": "statute",
+  "title": "66/1980 Sb., Vyhláška ministerstva spravedlnosti České socialistické republiky, kterou se stanoví paušální částka nákladů trestního řízení",
+  "title_en": "",
+  "short_name": "66/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-06-12",
+  "in_force_date": "1980-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1980/66",
+  "description": "Vyhláška ministerstva spravedlnosti České socialistické republiky, kterou se stanoví paušální částka nákladů trestního řízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Paušální částka nákladů trestního řízení, jež nese stát, uvedený v § 152 odst. 1 písm. c) a § 153 odst. 1 trestního řádu, činí\na) v trestním řízení, v němž došlo k vydání trestního příkazu, který zůstal v právní moci, 500 Kčs,\nb) v ostatních trestních řízeních,\n1. nebyl-li přibrán znalec, 800 Kčs,\n2. byl-li přibrán znalec z jiného oboru než psychiatrie, 1200 Kčs,1)\n3. byli-li přibráni znalci psychiatři, 1800 Kčs.1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Zrušuje se vyhláška ministra spravedlnosti České socialistické republiky č. 61/1970 Sb., kterou se stanoví paušální částka nákladů trestního řízení.\n(2) Ustanovení § 1 se nevztahuje na náklady trestních řízení pravomocně skončených do 30. června 1980."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1980.\n1) Přibráním znalce se rozumí i vyžádání posudku od státního orgánu nebo státního ústavu podle § 110 trestního řádu, nikoliv však jeho odborného vyjádření podle § 105 odstavce 1 druhé věty trestního řádu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Přibráním znalce",
+      "definition": "i vyžádání posudku od státního orgánu nebo státního ústavu podle § 110 trestního řádu, nikoliv však jeho odborného vyjádření podle § 105 odstavce 1 druhé věty trestního řádu",
+      "source_provision": "§ 3"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:341/1950",
+  "type": "statute",
+  "title": "341/1950 Ú. l. I, Vyhláška ministerstva financí, kterou se stanoví podrobnosti o povinnosti plátců vésti záznamy o vyplacených honorářích a o sražené a odvedené dani a o povinnosti vydávati příjemcům potvrzení.",
+  "title_en": "",
+  "short_name": "341/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-07",
+  "in_force_date": "1950-06-07",
+  "url": "https://www.e-sbirka.cz/ul1/1950/341",
+  "description": "Vyhláška ministerstva financí, kterou se stanoví podrobnosti o povinnosti plátců vésti záznamy o vyplacených honorářích a o sražené a odvedené dani a o povinnosti vydávati příjemcům potvrzení.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Podniky, které vyplácejí honoráře podrobené dani z literární a umělecké činnosti (§ 3 zákona o dani z literární a umělecké činnosti), jsou povinny za účelem evidence a kontroly daně soustřeďovati všechny jimi vyplacené honoráře (splátky nebo zálohy na honoráře)\na) na jediném účtě nebo podúčtě finančního účetnictví nebo\nb) v samostatném deníku vyplacených honorářů nebo\nc) ve zvláštním mimoúčetním záznamu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Budou-li vyplacené honoráře zachycovány na účtě nebo podúčtě finančního účetnictví, platí toto:\n1. Vyplácejí-li se pouze honoráře, které mají povahu nákladu a vyplácejí se hotově a najednou, stačí, budou-li soustřeďovány na samostatném účtě nebo podúčtě v účtové skupině 36 (v peněžních podnicích v účtové skupině 64);\n2. vyplácejí-li se pouze honoráře, které mají povahu investic nebo zásoby a vyplácejí se hotově a najednou, stačí, budou-li soustřeďovány na jednom účtě nebo podúčtě v účtových třídách 0 a 1 (v peněžních podnicích v účtových třídách 0 a 3);\n3. vyplácejí-li se honoráře obojího druhu, t. j. jak honoráře mající povahu nákladu, tak honoráře mající povahu investice nebo zásoby, nebo vyplácejí-li se honoráře v zálohách či splátkách, buďtež účtovány všechny hrubé výplaty honorářů (splátek, záloh) na vrub samostatného účtu nebo podúčtu v účtové skupině 26 (v peněžních podnicích na samostatném podúčtě k účtu 387) a odtud rozúčtovávány podle druhů na vrub účtových tříd 0, 1 a 3 (v peněžních podnicích na vrub účtových tříd 0 nebo 6), po případě — šlo-li by o splátky nebo zálohy — na vrub příslušného účtu v účtových skupinách 24 a 25 (v peněžních podnicích zůstanou splátky i zálohy na podúčtě k účtu 387, který se uzavírá účtem rozvažným konečným)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pro evidenci o sražené a odvedené dani z literární a umělecké činnosti zřídí podniky v účtovém rozvrhu samostatný podúčet k účtu 255 pojmenovaný „finanční referáty národních výborů — daň z literární a umělecké činnosti“ (v peněžních podnicích podúčet k účtu 581 pojmenovaný „daně a příspěvky vybírané srážkou — daň z literární a umělecké činnosti“). Tyto podúčty lze po případě nahraditi samostatným účtem v saldokontu k účtu 255 (v peněžních podnicích k účtu 581). Ve prospěch tohoto podúčtu musí podniky účtovati při výplatě honoráře (splátky, zálohy) částku daně a na jeho vrub odvedenou částku daně z literární a umělecké činnosti."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Plátci, kteří nejsou povinni organisovati finanční účetnictví podle předpisů vydaných na základě zákona č. 116/1946 Sb., upraví záznamy tak, aby mohly sloužiti evidenci a kontrole vyplacených honorářů a sražené a odvedené daně."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Plátci jsou povinni při výplatě honoráře (splátky, zálohy) vydávati příjemcům potvrzení o tom, kolik činí smluvený hrubý honorář (splátka, záloha) a kolik bylo na dani sraženo."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Plátci jsou povinni předkládati hlášení o vyplacených honorářích a o sražené a odvedené dani okresnímu (obvodnímu, jednotnému, ústřednímu) národnímu výboru, v jehož obvodu je sídlo vyplácející pokladny, na tiskopise, který obdrží u příslušného okresního národního výboru."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

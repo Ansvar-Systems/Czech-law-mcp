@@ -1,0 +1,39 @@
+{
+  "id": "cz:31/1962",
+  "type": "statute",
+  "title": "31/1962 Sb., Vyhláška Ústřední rady odborů, kterou se stanoví spotřební materiálové normy, ceny a finanční limity pro základní dietní jídla v závodním stravování",
+  "title_en": "",
+  "short_name": "31/1962 Sb.",
+  "status": "in_force",
+  "issued_date": "1962-03-29",
+  "in_force_date": "1962-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1962/31",
+  "description": "Vyhláška Ústřední rady odborů, kterou se stanoví spotřební materiálové normy, ceny a finanční limity pro základní dietní jídla v závodním stravování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Spotřební materiálové normy pro základní dietní jídla",
+      "content": "Závodní jídelny a závodní dietní jídelny se řídí při přípravě základních dietních jídel spotřebními materiálovými normami, které vydalo ministerstvo vnitřního obchodu pro dietní stravování v restauracích a jídelnách.*)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Ceny",
+      "content": "Strávníci, kteří se stravují dietně v závodních jídelnách nebo závodních dietních jídelnách, platí za základní dietní jídla připravená podle spotřebních materiálových norem pro základní dietní jídla tyto ceny:\nDruh diety:Kčs\nžaludeční - šetřící4,30\nžaludeční - dráždivá4,30\nprotisklerotická4,-\nžlučníková4,30\njaterní4,30\nbezpurinová4,-\nredukční3,50\ndiabetická5,20\nneslaná3,50\nvýživná5,40"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Finanční limity",
+      "content": "Pro spotřebu potravin na jedno jídlo podle spotřebních materiálových norem pro základní dietní jídla a pro jednotlivé skupiny diet stanoví se tyto průměrné roční finanční limity:\nDruh diety:Finanční limit na jedno jídlo v maloobchodních cenách Kčs\nžaludeční - šetřící4,65\nžaludeční - dráždivá4,65\nprotisklerotická4,35\nžlučníková4,65\njaterní4,65\nbezpurinová4,35\nredukční3,85\ndiabetická5,55\nneslaná3,85\nvýživná5,75"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1962.\n*) Dietní jídla a jejich normy - Vydavatelství obchodu - Praha - 1961."
+    }
+  ],
+  "definitions": []
+}

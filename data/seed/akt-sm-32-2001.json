@@ -1,0 +1,38 @@
+{
+  "id": "cz:sm:32/2001",
+  "type": "statute",
+  "title": "32/2001 Sb. m. s., Sdělení Ministerstva zahraničních věcí o přijetí Rozhodnutí č. 2/2001 Rady přidružení EU - ČR ze dne 23. 01. 2001 pozměňující Protokol 4 k Evropské dohodě s Českou republikou týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "title_en": "",
+  "short_name": "32/2001 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2001-04-18",
+  "in_force_date": "2001-04-18",
+  "url": "https://www.e-sbirka.cz/sm/2001/32",
+  "description": "Sdělení Ministerstva zahraničních věcí o přijetí Rozhodnutí č. 2/2001 Rady přidružení EU - ČR ze dne 23. 01. 2001 pozměňující Protokol 4 k Evropské dohodě s Českou republikou týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol 4 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Společenství nebo České republice.“.\n2. Článek 7 se nahrazuje tímto:"
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "Toto Rozhodnutí vstoupí v platnost dnem jeho přijetí.\nBude se provádět s účinkem od 1. ledna 2001.\nDáno v Bruselu 23. ledna 2001.\n*) Evropská dohoda zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé ze dne 4. října 1993 byla vyhlášena pod č. 7/1995 Sb.\n**) Rozhodnutí č. 3/96 Rady přidružení, přidružení mezi Evropskými společenstvími a jejich členskými státy na jedné straně a Českou republikou na straně druhé, z 29.11.1996 o změně Protokolu 4 k Evropské dohodě zakládající přidružení mezi Evropskými společenstvími a jejich členskými státy na jedné straně a Českou republikou na straně druhé podepsané dne 12. prosince 1996 bylo vyhlášeno pod č. 67/1997 Sb.\n***) Rozhodnutí č. 6/98 Rady přidružení mezi Evropskými společenstvími a jejich členskými státy na jedné straně a Českou republikou na straně druhé ze dne 21. prosince 1998 o změně Protokolu 4 k Evropské dohodě zakládající přidružení mezi Evropskými společenstvími a jejich členskými státy na jedné straně a Českou republikou na straně druhé bylo vyhlášeno pod č. 75/1999 Sb.\n****) Rozhodnutí č. 3/1999 Rady přidružení EU - ČR z 15. prosince 1999 pozměňující Protokol 4 týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce k Evropské dohodě EU - ČR bylo vyhlášeno pod č. 16/2000 Sb. m. s.\n7) Pro zvláštní podmínky vztahující se na výrobky vyrobené ze směsi textilních materiálů, viz úvodní poznámka 7.“."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Společenství nebo České republice",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článcích 3 a 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Společenství nebo České republice",
+      "source_provision": "Článek 1"
+    }
+  ]
+}

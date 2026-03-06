@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:319/1949",
+  "type": "statute",
+  "title": "319/1949 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách ovocných jamů.",
+  "title_en": "",
+  "short_name": "319/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-02-05",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/319",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách ovocných jamů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ovocným jamem ve smyslu této vyhlášky se rozumí kašovitá pomazánka, vyrobená z ovocné pulpy podle předpisů Svazu zahradnicko-vinařského."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší ceny ovocných jamů jsou tyto:\nPři prodejiZa 1/1 kg sklenici o čisté váze jamu 1 kgZa 1/2 kg sklenici o čisté váze jamu 0.5 kgZa 1/4 kg sklenici o čisté váze jamu 0.25 kgZa 1/10 kg sklenici o čisté váze jamu 0.10 kgZa 1/1 kg jamu plněného do větších obalů než 1 kg\nKčsKčsKčsKčsKčs\nVelkoobchodu24.3012.806.703.0422.54\nmaloobchodu33.4017.509.204.1530.90\nspotřebiteli38.6020.3010.704.8035.80\n(2) Ceny stanovené v odstavci 1 se rozumějí jen za zboží bezvadné jakosti, při hotovém placení beze srážek, s obalem vyjma bedny nebo containery, v nichž se zboží zasílá. Ceny při prodeji velkoobchodu a maloobchodu (velkospotřebiteli) se rozumějí franko stanice příjemce, při dodávkách v miste franko sklad odběratele.\n(3) Ceny při prodeji výrobním podnikem velkoobchodu se rozumějí bez všeobecné daně, kterou výrobní podnik účtuje odděleně. Ceny při prodeji maloobchodu a ceny spotřebitelské se rozumějí s všeobecnou daní.\n(4) O zálohování obalů platí ustanovení vyhlášky nejvyššího úřadu cenového ze dne 5. listopadu 1948, č. 2657, Ú. I. I., o náhradách při vrácení některých obalů a jiných zařízení používaných pro dopravu zboží.\n(5) Odeberou-li velkoobchod, maloobchod nebo velkospotřebitel zboží od výrobního podniku vlastními dopravními prostředky, poskytne jim výrobní podnik náhradu za dopravné podle stanovených sazeb. Při odběru v místě činí paušální náhrada za dopravné 10 Kčs za 100 kg zboží. Stejné náhrady příslušejí maloobchodu a velkospotřebitelům, odebírají-li zboží od velkoobchodu vlastními dopravními prostředky.\n(6) Velkospotřebitelé (závodní kuchyně, restaurace, nemocnice a pod.) nakupují ovocné jamy za nákupní ceny maloobchodu. Intendanční sklady nakupují ovocné jamy za ceny velkoobchodní."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Výrobní podniky jsou povinni vyznačit na obalech, ve kterých se jam prodává, firmu, nebo obchodní značku výrobce, druh jamu, jeho čistou váhu a spotřebitelskou cenu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem vyhlášení.\n(2) Současně se zrušuje vyhláška nejvyššího úřadu cenového ze dne 1. února 1947, č. 122 Ú. l. I, o cenách ovocných jamů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ovocným jamem ve smyslu této vyhlášky",
+      "definition": "kašovitá pomazánka, vyrobená z ovocné pulpy podle předpisů Svazu zahradnicko-vinařského",
+      "source_provision": "§ 1."
+    }
+  ]
+}

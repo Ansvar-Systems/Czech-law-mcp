@@ -1,0 +1,57 @@
+{
+  "id": "cz:390/2003",
+  "type": "statute",
+  "title": "390/2003 Sb., Nařízení vlády, kterým se stanoví pravidla použití příjmů Pozemkového fondu České republiky k podpoře obnovy včelstev",
+  "title_en": "",
+  "short_name": "390/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-11-18",
+  "in_force_date": "2003-11-18",
+  "url": "https://www.e-sbirka.cz/sb/2003/390",
+  "description": "Nařízení vlády, kterým se stanoví pravidla použití příjmů Pozemkového fondu České republiky k podpoře obnovy včelstev",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Pozemkový fond České republiky převede částku 80 000 000 Kč k podpoře obnovy včelstev za včelstva uhynulá v důsledku nepříznivého zimního období roku 20031) (dále jen „obnovená včelstva“) Českému svazu včelařů (dále jen „Svaz“).\n(2) Zimním obdobím roku 2003 se rozumí období od 24. prosince 2002 do 21. března 2003."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Podpora k obnově včelstev (dále jen „podpora“) se poskytne fyzické, popřípadě právnické osobě, která\na) oznámila Svazu ke dni 1. května 2003 počet včelstev, která uhynula v důsledku nepříznivého zimního období roku 2003 (dále jen „uhynulá včelstva“),\nb) požádala ve stanovené lhůtě (§ 3) Svaz o podporu a v žádosti o poskytnutí podpory uvedla počet obnovených včelstev.\n(2) Podpora se rovněž poskytne fyzické, popřípadě právnické osobě, která\na) požádá ve stanovené lhůtě (§ 3) Svaz o podporu,\nb) oznámí Svazu nejpozději ke dni podání žádosti o poskytnutí podpory počet uhynulých včelstev a počet obnovených včelstev.\n(3) Počet uhynulých včelstev se prokazuje\na) potvrzením vystaveným příslušným veterinárním lékařem, nebo\nb) písemnou svědeckou výpovědí třetí osoby.\n(4) Podpora se poskytne na základě písemné žádosti a čestného prohlášení, jejichž vzor je uveden v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Žádost o poskytnutí podpory (dále jen „žádost“) podává fyzická, popřípadě právnická osoba podle vzoru uvedeného v příloze k tomuto nařízení, a to ve lhůtě do 15 dnů ode dne nabytí účinnosti tohoto nařízení. Žádost se podává základní organizační jednotce Svazu, jejíž je členem, nebo v případě, že není členem Svazu, základní organizační jednotce Svazu, v jejímž územním obvodu jsou umístěna její obnovená včelstva."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Podporu poskytne Svaz fyzické, popřípadě právnické osobě prostřednictvím své základní organizační jednotky, a to ve stejné výši na každé obnovené včelstvo, nejvýše však do 1 500 Kč na 1 obnovené včelstvo."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Svaz do 31. prosince 2003 předloží Pozemkovému fondu České republiky vyúčtování prostředků vynaložených na obnovu včelstev podle tohoto nařízení a do 30. dubna 2004 vrátí případné nevyčerpané prostředky Pozemkovému fondu České republiky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení.\nPříloha k nařízení vlády č. 390/2003 Sb.\n1) § 15 odst. 6 písm. c) zákona č. 569/1991 Sb., o Pozemkovém fondu České republiky, ve znění zákona č. 253/2003 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zimním obdobím roku 2003",
+      "definition": "období od 24",
+      "source_provision": "§ 1"
+    }
+  ]
+}

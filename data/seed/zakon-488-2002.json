@@ -1,0 +1,27 @@
+{
+  "id": "cz:488/2002",
+  "type": "statute",
+  "title": "488/2002 Sb., Nařízení vlády, kterým se stanoví, že nebude uplatněno dodatečné clo na dovoz některých zemědělských výrobků pro kalendářní rok 2002",
+  "title_en": "",
+  "short_name": "488/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-11-26",
+  "in_force_date": "2002-11-26",
+  "url": "https://www.e-sbirka.cz/sb/2002/488",
+  "description": "Nařízení vlády, kterým se stanoví, že nebude uplatněno dodatečné clo na dovoz některých zemědělských výrobků pro kalendářní rok 2002",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "U zboží uvedeného v celním sazebníku1) v podpoložce 0806 10 90 – Ostatní, jehož objem dovozů překročil spouštěcí úroveň stanovenou zvláštním právním předpisem,2) se neuplatní dodatečné clo."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení.\n1) Nařízení vlády č. 480/2001 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Nařízení vlády č. 273/2002 Sb., kterým se stanoví spouštěcí úrovně objemu dovozů pro jednotlivé zemědělské výrobky a skupiny zemědělských výrobků pro kalendářní rok 2002."
+    }
+  ],
+  "definitions": []
+}

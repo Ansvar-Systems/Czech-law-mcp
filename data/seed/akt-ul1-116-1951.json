@@ -1,0 +1,356 @@
+{
+  "id": "cz:ul1:116/1951",
+  "type": "statute",
+  "title": "116/1951 Ú. l. I, Vyhláška státního úřadu plánovacího, kterou se vydávají první závazné směrnice k zásadám pro jednotné oceňování v podnikovém početnictví.",
+  "title_en": "",
+  "short_name": "116/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-03-07",
+  "in_force_date": "1951-03-07",
+  "url": "https://www.e-sbirka.cz/ul1/1951/116",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vydávají první závazné směrnice k zásadám pro jednotné oceňování v podnikovém početnictví.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Pojem, stanovení a účel plánované ceny.",
+      "chapter": "Část první. - Základní ceny. > Oddíl první. - Plánovaná cena.",
+      "content": "(1) Plánovanou cenou (na př. plánovanou nákupní cenou, plánovanou pořizovací cenou) se rozumí peněžní částka, které má být docíleno nebo použito při činnosti podniku v plánovacím (rozpočetním) období.\n(2) Plánovaná cena se stanoví pro vnitropodnikové účely za podmínek obsažených v podnikovém plánu. Podkladem pro plánovanou cenu jsou ceny stanovené cenotvornými orgány pro rozpočetní období, a není-li jich, ceny předpokládané v rozpočetním období se zřetelem ke skutečným cenám v době sestavování rozpočtu (po případě průměry uvedených cen).\n(3) Podle odstavce 2 se plánovaná pořizovací cena nakupovaného majetku, jíž má být docíleno v rozpočetním období, stanoví na př. podle předběžné kalkulace na podkladě prodejní ceny z výroby; plánovaná pořizovací cena majetku vlastní výroby, jíž má být docíleno v rozpočetním období, se stanoví podle předběžné kalkulace nákladů; jako plánované nákupní ceny se na př. použije přímo prodejní ceny z výroby.\n(4) Plánovanou cenou se oceňuje v rozpočetnictví a v předběžné kalkulaci při peněžním vyjadřování úkolů, které podniku připadají při provádění a plnění plánu v rozpočetním období. Pokud tak stanoví předpisy o oceňování, oceňuje se plánovanou cenou též v jiných oborech podnikového početnictví, zejména jde-li o kontrolu plnění podnikového plánu, o kontrolu hospodaření podniku a o zjišťování hospodárnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Oprava plánované ceny.",
+      "chapter": "Část první. - Základní ceny. > Oddíl první. - Plánovaná cena.",
+      "content": "Plánovaná cena se stanoví pro roční rozpočetní období. Přestane-li plánovaná cena plnit svůj účel zejména proto, že se změní podklady, podle nichž byla stanovena, opraví se i během tohoto období, avšak jen k počátku příštího čtvrtletního rozpočetního období; u zásob se tato oprava provede, jen když ji nařídí nebo schválí orgán nadřízený podniku."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Zaokrouhlování plánované ceny.",
+      "chapter": "Část první. - Základní ceny. > Oddíl první. - Plánovaná cena.",
+      "content": "Zaokrouhlování plánované ceny je přípustné jen při jejím stanovení, a to pokud je účelné z důvodu jejího hospodárného používání a pokud se jím podstatně neovlivňují údaje potřebné pro sestavení, provádění a kontrolu plnění podnikového plánu. Tato hlediska jsou rozhodná také pro posouzení míry zaokrouhlení."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Úschova dokladů o stanovení plánované ceny.",
+      "chapter": "Část první. - Základní ceny. > Oddíl první. - Plánovaná cena.",
+      "content": "Doklady (i s výpočty), podle nichž byla plánovaná cena stanovena, je třeba v podniku uschovávat po dobu jednoho roku od konce ročního rozpočetního období, jehož se týkají. Pokud jsou pro úschovu dokladů stanoveny jinými předpisy delší lhůty, zůstávají nedotčeny."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "chapter": "Část první. - Základní ceny. > Oddíl druhý. - Skutečná cena.",
+      "content": "(1) Skutečnou cenou (na př. skutečnou nákupní cenou, skutečnou pořizovací cenou) se rozumí peněžní částka, které bylo docíleno nebo použito v běžném (účetním, zúčtovacím) období.\n(2) Skutečná cena se zjišťuje nebo odvozuje\na) z uskutečněného hospodářského styku podniku (na př. jde-li o nákup zboží), nebo\nb) ze skutečností nastalých v podniku (na př. jde-li o investici vlastní výroby), nebo\nc) z uskutečněného hospodářského styku podniku i ze skutečností nastalých v podniku (na př. jde-li o investici pořízenou zčásti koupí a zčásti vlastní výrobou).\n(3) Skutečnou cenou se oceňuje v účetnictví, pro účetní závěrky a ve výsledné kalkulaci, pokud není pro tyto případy stanoveno použití jiných cen."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "chapter": "Část první. - Základní ceny. > Oddíl třetí. - Reprodukční cena.",
+      "content": "(1) Reprodukční cenou se rozumí peněžní částka, kterou by bylo třeba vynaložit v den, k němuž se oceňuje, na opatření stejného majetku, jako je majetek oceňovaný, po případě majetku s ním srovnatelného. Podle možných způsobů opatření se oceňuje majetek reprodukční pořizovací (nebo nákupní) cenou majetku nakupovaného nebo reprodukční pořizovací cenou majetku vlastní výroby.\n(2) Pří zjišťování reprodukční ceny oceňovaného majetku se přihlédne k jeho stavu v den, k němuž se oceňuje. V reprodukční ceně majetku je tedy již vyjádřeno případné jeho opotřebení nebo jiné znehodnocení.\n(3) Reprodukční pořizovací cena investičního majetku opotřebeného nebo jinak znehodnoceného se vyjadřuje reprodukční pořizovací cenou stejného, po případě s ním srovnatelného, nového investičního majetku a odpovídajícími oprávkami.\n(4) Reprodukční cenou se oceňuje majetek pro zahajovací rozvahu a ve zvláštních případech (§§ 32 a 33 vládního nařízení)."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "chapter": "Část první. - Základní ceny. > Oddíl čtvrtý. - Výklad některých pojmů.",
+      "content": "V předpisech pro jednotné oceňování v podnikovém početnictví se ve smyslu vládního nařízení používá pojmů\na) „stanovení“ nebo „stanovit“ ve spojitosti s plánovanými cenami (na př. stanovení plánované pořizovací ceny) nebo ve spojitosti s oceňováním v rozpočetnictví a v předběžné kalkulaci (stanovení pasiv, nákladů nebo výnosů),\nb) „zjišťování“ nebo „zjišťovat“ ve spojitosti se skutečnými cenami (na př. zjišťování skutečné pořizovací ceny) nebo ve spojitosti s oceňováním v účetnictví a ve výsledné kalkulaci (zjišťování pasiv, nákladů nebo výnosů)."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8. Pojem nákupní ceny.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl první. - Nákupní cena",
+      "content": "(1) Nákupní cenou se rozumí peněžní částka, která má být vynaložena (plánovaná nákupní cena) nebo byla vynaložena (skutečná nákupní cena), nebo peněžní částka, kterou by bylo třeba vynaložit (reprodukční nákupní cena) na koupi majetku.\n(2) Náklady souvisící s koupí majetku (na př. nákupní provise, nákupní režie) se do této ceny nezapočítávají.\n(3) Při dodávkách mezi obchodními podniky patřícími k témuž odbytovému stupni se do nákupní ceny nezapočítává část obchodního rozpětí vyčerpaná dodavatelem.\n(4) Všeobecná nákupní daň, jejímž výběrčím je dodavatel, je součástí nákupní ceny."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9. Stanovení plánované nákupní ceny.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl první. - Nákupní cena",
+      "content": "(1) Při stanovení plánované nákupní ceny nutno brát zřetel na slevy a jiné srážky (na př. odečtením slevy na množství, rabatu, skonta v zahraničním obchodě), a to i v případě, že jejich poskytnutí je vázáno na splnění určitých podmínek (na př. na placení v určité lhůtě). Podobně je nutno brát zřetel na přirážky (na př. připočtením přirážky na množství).\n(2) Plánovaná nákupní cena obchodního zboží nakupovaného v tuzemsku a určeného pro vývoz se v podnicích určených nebo zřízených pro provozování zahraničního obchodu (dále jen „podniky zahraničního obchodu“) rovná jednotné prodejní ceně z výroby stanovené pro rozpočetní období; není-li této ceny, stanoví se plánovaná nákupní cena podle příslušných ustanovení § 1 odst. 2. Plánovaná nákupní cena dováženého obchodního zboží se v těchto podnicích stanoví na podkladě obvyklé parity."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10. Zjišťování skutečné nákupní ceny.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl první. - Nákupní cena",
+      "content": "(1) Při zjišťování skutečné nákupní ceny se vychází z faktury dodavatele nebo z jiného dokladu o koupi; na srážky uvedené v § 9 odst. 1 (i když byly poskytnuty dodatečně) se bere zřetel jen v případech, že byly využity. Zahrnuje-li celková peněžní částka uvedená v dokladu (dále jen „fakturovaná cena“) některé náklady souvisící s nabytím (§ 11 odst. 2) a jsou-li tyto náklady z dokladu zjistitelné, odečtou se při zjišťování nákupní ceny od fakturované ceny.\n(2) Skutečná nákupní cena obchodního zboží nakupovaného v tuzemsku a určeného pro vývoz se v podnicích zahraničního obchodu rovná skutečné prodejní ceně z výroby. Skutečná nákupní cena dováženého obchodního zboží se v těchto podnicích zjišťuje na podkladě smluvené parity."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11. Pořizovací cena nakupovaného majetku.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl druhý. - Pořizovací cena.",
+      "content": "(1) Pořizovací cena nakupovaného majetku zahrnuje nákupní cenu a náklady souvisící s nabytím; rozumí se ji peněžní částka, za kterou majetek vstupuje do podniku (na př. do hlavního skladu) nebo na jiné místo určené podnikem (na př. nakoupený materiál se dodává přímo na staveniště, přímo do podniku pracujícího ve mzdě).\n(2) K nákladům souvisícím s nabytím patří:\na) náklady přímo souvisící s koupí majetku, na př. nakupní provise v zahraničním obchodě, část obchodního rozpětí vyčerpaná dodavatelem (§ 8 odst. 3),\nb) náklady souvisící s dopravou majetku do podniku nebo na jiné místo určené podnikem, na př. dovozné, pojistné, vážné, vlečné, náklady spojené s nakládáním a s vykládáním, při čemž nerozhoduje, provádí-li se doprava vlastními nebo cizími dopravními prostředky,\nc) ostatní náklady souvisící s nabytím majetku, na př. clo, celní poplatky, poplatky z dovozního povolení a jiné importní náklady, náklady na obaly.\n(3) K nákladům souvisícím s nabytím nepatří:\na) náklady nepřímo souvisící s koupí majetku, na př. nákupní režie zahrnující osobní a věcné náklady nákupního oddělení,\nb) náklady souvisící s úvěrem, s placením a s přejímáním majetku, s jeho zkoušením, s jeho uložením v podniku nebo na jiném místě určení, s jeho skladováním a vydáváním,\nc) náklady souvisící s přemisťováním majetku uvnitř podniku,\nd) penále, pokuty, zdržné a stojné."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12. Pořizovací cena majetku vlastní výroby.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl druhý. - Pořizovací cena.",
+      "content": "(1) Pořizovací cena majetku vlastní výroby (bez zřetele, zda jde o výrobu v podniku nebo o výrobu prováděnou ve mzdě jiným podnikem) zahrnuje náklady souvisící s výrobou podle kalkulace nákladů, a to jednicový materiál i s materiálovou režií, jednicové mzdy, ostatní jednicové výrobní náklady, výrobní režii, podíl správní režie připadající na výrobu, po případě všeobecnou nákupní daň u drobných a krátkodobých předmětů.\n(2) V podnicích, v nichž při výrobě vznikají rozpracované výrobky a hotové výrobky několika jakostí (na př. výrobky první, druhé, třetí jakosti), přihlédne se k této okolnosti odstupňováním pořizovacích cen těchto výrobků podle jakosti."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13. Zvláštní ustanovení o pořizovací ceně investičního majetku.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl druhý. - Pořizovací cena.",
+      "content": "(1) Pořizovací cena investičního majetku zahrnuje, s výjimkou ustanovení odstavce 5, kromě nákupní ceny a nákladů souvisících s nabytím (§ 11), jde-li o investiční majetek nakupovaný, nebo kromě nákladů souvisících s výrobou (§ 12), jde-li o investiční majetek vlastní výroby, také\na) náklady na projekt příslušné složky investičního majetku (příslušné investice),\nb) všeobecnou nákupní daň, pokud již není obsažena v nákupní ceně, a nemovitostní poplatky,\nc) náklady souvisící s uvedením investičního majetku do stavu, v němž je připraven k užívání v podniku (odstavec 2),\nd) zisk výroby v případech uvedených v odstavci 3,\ne) u zvláštních investic zemědělských a lesnických náklady podle odstavce 4.\n(2) K nákladům souvisícím s uvedením investičního majetku do stavu, v němž je připraven k užívání v podniku, patří zejména náklady na montáž, při čemž nerozhoduje, zda ji provádí podnik sám nebo podnik jiný. Za náklady na montáž se na př. u strojů pokládají veškeré náklady na sestavení a umístění stroje na pracovišti, na zhotovení přívodů energie a vybudování základů (nejde-li při tom o udržování nebo o jinou investici), na připevnění stroje na tyto základy, na seřízení stroje k užívání a na jeho zkoušení (nikoli však náklady na jeho rozběh) až do okamžiku, kdy stroj je připraven k užívání.\n(3) Plánovaná i skutečná pořizovací cena investičního majetku vlastní výroby v podnicích, ve kterých je tento majetek předmětem běžné výrobní činnosti (§ 17 odst. 2), zahrnuje zisk výroby, a to částkou, o kterou plánovaná prodejní cena stejných výrobků převyšuje jejich vlastní náklady stanovené předběžnou kalkulací.\n(4) Pořizovací cena zvláštních investic zemědělských a lesnických zahrnuje také náklady souvisící s jejich udržováním a ošetřováním do doby, kdy budou poskytovat plody nebo jiný užitek. Státní úřad plánovací stanoví podle potřeby horní hranici těchto nákladů, po případě horní hranici pořizovacích cen zvláštních investic zemědělských a lesnických.\n(5) Pořizovací cena strojního a jiného zařízení, pokud je nepravou investicí, zahrnuje jen nákupní cenu a náklady na stavební práce souvisící s jeho umístěním na novém místě, nejde-li při tom o udržování nebo o jinou investici."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14.",
+      "chapter": "Část druhá. - Ceny nákupní, pořizovací a prodejní. > Oddíl třetí. - Prodejní cena.",
+      "content": "(1) Prodejní cenou se rozumí peněžní částka, které má být dosaženo (plánovaná prodejní cena) nebo které bylo dosaženo (skutečná prodejní cena), nebo peněžní částka, které by se dosáhlo při prodeji majetku.\n(2) Při stanovení nebo zjišťování prodejní ceny se přihlíží k srážkám, k rabatům a k přirážkám určeným předpisy o plánování a jiné tvorbě cen, avšak nebere se zřetel na ostatní druhy slev a jiných srážek (na př. skonto v zahraničním obchodě). Všeobecnou nákupní daň, kterou prodávající podnik vybírá při prodeji do daňově volného oběhu, prodejní cena nezahrnuje."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl první. - Oceňování investičního majetku v rozpočetnictví.",
+      "content": "(1) Přírůstky investičního majetku, s výjimkou přírůstků živého inventáře, se oceňují plánovanou pořizovací cenou pro případ koupě nebo vlastní výroby,\n(2) Přírůstky živého inventáře (v zemědělských podnicích přírůstky základního stáda) se oceňují plánovanou pořizovací cenou pro případ koupě bez ohledu na to, jde-li o živý inventář nakupovaný nebo z vlastního chovu.\n(3) Stavy investičního majetku k prvnímu dni rozpočetního období se uvedou peněžními částkami, kterými budou pravděpodobně zachyceny k témuž dni v účetnictví."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16. Nakupovaný investiční majetek.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl druhý. - Oceňování investičního majetku v účetnictví a pro účetní závěrky.",
+      "content": "Nakupovaný investiční majetek, s výjimkou živého inventáře, se oceňuje skutečnou pořizovací cenou (§§ 11 a 12)."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17. Investiční majetek vlastní výroby.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl druhý. - Oceňování investičního majetku v účetnictví a pro účetní závěrky.",
+      "content": "(1) Investiční majetek vlastní výroby se oceňuje skutečnou pořizovací cenou (§§ 12 a 13). Pořídí-li však podnik investicí z vlastních výrobků, jejichž výroba patří k jeho běžné výrobní činnosti, ocení ji plánovanou pořizovací cenou, jestliže tato cena nepřesahuje 100.000 Kčs.\n(2) Běžnou výrobní činností se rozumí činnost zahrnutá v plánu výkonů pro hlavní činnost nebo v plánech výkonů pro další činnosti (v doplňkových plánech) podniku."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18. Živý inventář.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl druhý. - Oceňování investičního majetku v účetnictví a pro účetní závěrky.",
+      "content": "Živý inventář (v zemědělských podnicích základní stádo) se oceňuje skutečnou pořizovací cenou pro případ koupě bez ohledu na to, jde-li o živý inventář nakupovaný nebo z vlastního chovu."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl třetí. - Zvláštní ustanovení o oceňování vyřazeného investičního majetku.",
+      "content": "Vyřazený nemovitý investiční majetek určený k prodeji se v rozpočetnictví, v účetnictví a pro účetní závěrky oceňuje plánovanou prodejní cenou sníženou o náklady na přípravu k prodeji a o náklady na prodej, pokud takto upravená cena je nižší než jeho zůstatková účetní cena."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl čtvrtý. - Zvláštní ustanovení o oceňování investičního majetku při jeho převodech.",
+      "content": "Převádí-li se investice mezi podniky spravujícími majetek, který je ve státním socialistickém vlastnictví, souvztažnou změnou jejich kmenového jmění, zachytí se v rozpočetnictví, v účetnictví a pro účetní závěrky přejímajícího podniku tato investice cenou, rovnající se jejímu ocenění ke dni převodu v účetnictví předávajícího podniku; tato cena se v přejímajícím podniku zvýší o náklady na stavební práce souvisící s jejím umístěním na novém místě, nejde-li při tom o udržování nebo o jinou investici. Přejímající podnik zároveň převezme i oprávky ke dni převodu."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21. Odpisy.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl pátý. - Odpisy a škody na investičním majetku.",
+      "content": "Podrobnosti o odpisech investičního majetku budou upraveny zvláštní vyhláškou."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22. Škody na investičním majetku.",
+      "chapter": "Část třetí. - Investiční majetek. > Oddíl pátý. - Odpisy a škody na investičním majetku.",
+      "content": "Škody vzniklé na investičním majetku se v účetnictví a pro účetní závěrky vyjádří snížením jeho ceny ke dni, kdy škoda vznikla nebo byla zjištěna, a to o částku odpovídající vzniklé škodě."
+    },
+    {
+      "provision_ref": "§ 23.",
+      "section": "23",
+      "title": "§ 23. Materiál.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "(1) Materiál (základní materiál, pomocné a provozovací látky) se oceňuje plánovanou pořizovací cenou (§ 11 nebo § 12).\n(2) Plánuje-li se v podnicích, které jsou povinny sestavovat plán hmotného zásobování, pořízení stejného materiálu zčásti nákupem a zčásti vlastní výrobou, oceňuje se veškerý materiál plánovanou pořizovací cenou pro případ koupě; nepřesahují-li však v ročním rozpočetním období přírůstky nakupovaného materiálu 10% celkového množství pořizovaného materiálu, oceňuje se veškerý materiál plánovanou pořizovací cenou pro případ vlastní výroby."
+    },
+    {
+      "provision_ref": "§ 24.",
+      "section": "24",
+      "title": "§ 24. Zvířata.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "Zvířata se oceňují plánovanou pořizovací cenou pro případ koupě bez ohledu na to, jde-li o zvířata nakupovaná nebo vlastního chovu."
+    },
+    {
+      "provision_ref": "§ 25.",
+      "section": "25",
+      "title": "§ 25. Obchodní zboží.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "(1) Obchodní zboží se s výjimkami ustanovení odstavců 3 a 4 oceňuje plánovanou pořizovací cenou.\n(2) Plánovaná pořizovací cena obchodního zboží se při jeho oceňování v podnicích obchodních, s výjimkou podniků zahraničního obchodu, v podnicích cestovního ruchu a v samostatných obchodních provozech ostatních podniků (dále jen „podniky vnitřního obchodu“) rozdělí na plánovanou nákupní cenu a na náklady souvisící s nabytím. Pro rozpočetní závěrky se tyto náklady rozdělí na podíl připadající na konečný stav zásob obchodního zboží a na podíl připadající na jeho úbytky.\n(3) Obchodní zboží v maloobchodních jednotkách podniků vnitřního obchodu se může oceňovat plánovanou prodejní cenou po připočtení všeobecné nákupní daně, kterou podnik vybírá, rozpočtuje-li se odděleně obchodní rozpětí mezi touto cenou a plánovanou nákupní cenou.\n(4) Obchodní zboží v podnicích zahraničního obchodu se oceňuje plánovanou nákupní cenou (§ 9 odst. 2)."
+    },
+    {
+      "provision_ref": "§ 26.",
+      "section": "26",
+      "title": "§ 26. Drobné a krátkodobé předměty.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "(1) Drobné a krátkodobé předměty na skladě se oceňují plánovanou pořizovací cenou podle ustanovení o oceňování materiálu (§ 23).\n(2) Drobné a krátkodobé předměty, u nichž se v rozpočetním období plánuje převod ze skladu do používání, oceňují se plánovanou pořizovací cenou podle ustanovení o oceňování materiálu. Stav drobných a krátkodobých předmětů v používání se k prvnímu dni rozpočetního období uvede peněžní částkou, kterou bude pravděpodobně zachycen k témuž dni v účetnictví. Pro rozpočetní závěrky se při oceňování drobných a krátkodobých předmětů v používání musí přihlédnout k jejich opotřebení."
+    },
+    {
+      "provision_ref": "§ 27.",
+      "section": "27",
+      "title": "§ 27. Rozpracované výrobky a hotové výrobky.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "Rozpracované výrobky a hotové výrobky se oceňují plánovanou pořizovací cenou."
+    },
+    {
+      "provision_ref": "§ 28.",
+      "section": "28",
+      "title": "§ 28. Vyřazené investice, vyřazené drobné a krátkodobé předměty a odpad.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl první. - Oceňování zásob v rozpočetnictví.",
+      "content": "(1) Materiál z vyřazených investic, jakož i vyřazené drobné a krátkodobé předměty a odpad, určené k spotřebě v podniku jako materiál, se oceňují plánovanou pořizovací cenou pro případ koupě materiálu stejného druhu a jakosti. U vyřazených investic se rozdíl mezi touto cenou a zůstatkovou cenou investic ke dni vyřazení rozpočtuje podle jeho povahy jako náklad nebo výnos.\n(2) Vyřazené investice, určené k prodeji jako obchodní zboží, se oceňují plánovanou prodejní cenou sníženou o náklady na přípravu k prodeji a o náklady na prodej, pokud takto upravená cena je nižší než jejich zůstatková cena ke dni vyřazení; rozdíl mezi těmito cenami se rozpočtuje jako škoda na investicích. V jiných případech se vyřazené investice, určené k prodeji, oceňují zůstatkovou cenou ke dni vyřazení.\n(3) Vyřazené drobné a krátkodobé předměty a odpad, určené k prodeji, se oceňují plánovanou prodejní cenou sníženou o náklady na přípravu k prodeji a o náklady na prodej."
+    },
+    {
+      "provision_ref": "§ 29.",
+      "section": "29",
+      "title": "§ 29. Oceňovací zásada.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl druhý. - Oceňování zásob v účetnictví a pro účelní závěrky.",
+      "content": "(1) Materiál, obchodní zboží, s výjimkou stanovenou v odstavci 5, a drobné a krátkodobé předměty na skladě se oceňují\na) ve finančním a v provozním účetnictví a pro účetní závěrky skutečnou pořizovací cenou,\nb) ve skladním účetnictví plánovanou pořizovací cenou.\n(2) Rozpracované výrobky, hotové výrobky, vyřazené investice, vyřazené drobné a krátkodobé předměty a odpad se oceňují ve finančním a v provozním účetnictví, po případě ve skladním účetnictví, a pro účetní závěrky cenou, kterou byly oceněny v rozpočetnictví. Zmetkové výrobky (výrobky neodpovídající normám technickým, jakostním a pod.) se oceňují jako výrobky s použitím ustanovení § 12 odst. 2 a ostatní zmetky jako odpad.\n(3) Drobné a krátkodobé předměty převáděné ze skladu do používání se ve finančním a v provozním účetnictví oceňují skutečnou pořizovací cenou. Pro účetní závěrky a pro závěrky provozního účetnictví se ocenění drobných a krátkodobých předmětů v používání upraví s přihlédnutím k jejich opotřebení.\n(4) Zvířata se ve finančním a v provozním účetnictví a pro účetní závěrky oceňují skutečnou pořizovací cenou pro případ koupě bez ohledu na to, jde-li o zvířata nakupovaná nebo vlastního chovu.\n(5) Obchodní zboží v podnicích zahraničního obchodu se v účetnictví a pro účetní závěrky oceňuje skutečnou nákupní cenou (§ 10 odst. 2)."
+    },
+    {
+      "provision_ref": "§ 30.",
+      "section": "30",
+      "title": "§ 30. Škody na zásobách.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl druhý. - Oceňování zásob v účetnictví a pro účelní závěrky.",
+      "content": "(1) Škody na zásobách se v účetnictví a pro účetní závěrky vyjádří snížením ceny příslušných zásob ke dni, kdy škoda vznikla nebo byla zjištěna, a to o částku odpovídající vzniklé škodě.\n(2) Škody na zásobách podle odstavce 1 se vyjádří\na) snížením ceny za celkové množství příslušného druhu zásob, vznikla-li škoda úbytkem množství,\nb) snížením ceny za jednotku množství zásob, vznikla-li škoda zhoršením jakosti nebo změnou upotřebitelnosti.\n(3) Škody na zásobách nelze vyjádřit formou oprávky."
+    },
+    {
+      "provision_ref": "§ 31.",
+      "section": "31",
+      "title": "§ 31. Rozdíly u zásob.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl druhý. - Oceňování zásob v účetnictví a pro účelní závěrky.",
+      "content": "Prověřené rozdíly, které vyplývají z porovnání účetních záznamů se skutečnými stavy zásob zjištěnými inventurou, jsou náklady, po případě výnosy toho účetního období, do něhož spadá den, ke kterému se inventura provádí."
+    },
+    {
+      "provision_ref": "§ 32.",
+      "section": "32",
+      "title": "§ 32. Použití plánovaných cen v účetnictví.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "(1) Podniky, které jsou povinny sestavovat plán hmotného zásobování, musí oceňovat ve finančním a v provozním účetnictví a pro krátkodobé účetní závěrky (čtvrtletní účetní závěrky a závěrky provozního účetnictví) materiál, zvířata, obchodní zboží, s výjimkami ustanovení odstavců 3 až 5, a drobné a krátkodobé předměty na skladě plánovanou pořizovací cenou použitou v rozpočetnictví. Toto ocenění převádějí na ocenění ve skutečné pořizovací ceně předepsané v oddílu druhém vykazováním cenových odchylek.\n(2) Drobné a krátkodobé předměty převáděné ze skladu do používání se ve finančním a v provozním účetnictví oceňují plánovanou pořizovací cenou použitou v rozpočetnictví. Pro účetní závěrky a pro závěrky provozního účetnictví se ocenění drobných a krátkodobých předmětů v používání upraví s přihlédnutím k jejich opotřebení.\n(3) Obchodní zboží v podnicích vnitřního obchodu se ve finančním a v provozním účetnictví a pro krátkodobé účetní závěrky oceňuje plánovanou nákupní cenou, při čemž se skutečné náklady souvisící s nabytím obchodního zboží zachycují odděleně. Ocenění plánovanou nákupní cenou použitou v rozpočetnictví se převádí na ocenění ve skutečné nákupní ceně vykazováním cenových odchylek. Ve skladním účetnictví podniků vnitřního obchodu se obchodní zboží oceňuje plánovanou nákupní cenou.\n(4) Při oceňování obchodního zboží v maloobchodních jednotkách podniků vnitřního obchodu se může postupovat přiměřeně podle ustanovení § 25 odst. 3.\n(5) Podniky zahraničního obchodu se řídí při oceňování obchodního zboží ustanovením § 29 odst. 5."
+    },
+    {
+      "provision_ref": "§ 33.",
+      "section": "33",
+      "title": "§ 33. Účty cenových odchylek.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "(1) Cenové odchylky se vykazují na zvláštních účtech (podúčtech) cenových odchylek.\n(2) Účty cenových odchylek se zřídí v účtové třídě finančního a provozního účetnictví, v níž se účtuje o zásobách, a to aspoň pro každou skupinu zásob, pro kterou je závaznými směrnicemi pro finanční účetnictví předepsáno vedení samostatného účtu a u které se mohou cenové odchylky vyskytnout. U drobných a krátkodobých předmětů v používání se účet cenových odchylek nevede."
+    },
+    {
+      "provision_ref": "§ 34.",
+      "section": "34",
+      "title": "§ 34. Obsah účtů cenových odchylek.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "(1) Jde-li o nakupované zásoby, s výjimkou obchodního zboží v podnicích vnitřního obchodu, zachycují se na účtech cenových odchylek\na) rozdíly mezi plánovanou pořizovací cenou a fakturovanou cenou,\nb) srážky, pokud již nebyly odečteny v dokladu o koupi,\nc) náklady souvisící s nabytím zásob (§ 11 odst. 2), pokud nejsou zahrnuty ve fakturované ceně. Nejde-li při tom o náklady placené jiným podnikům, zachytí se pro účetní závěrky a pro závěrky provozního účetnictví tyto náklady (na př. náklady na dopravu nakoupených zásob, uskutečněnou vlastními dopravními prostředky) na účtech cenových odchylek se souvztažným zápisem na zvláštním účte nebo podúčtě jako vnitropodnikový výnos.\n(2) Jde-li o materiál vlastní výroby a o drobné a krátkodobé předměty vlastní výroby na skladě, jejichž zásoby se oceňují plánovanou pořizovací cenou pro případ koupě, zachycují se na účtech cenových odchylek rozdíly mezi touto cenou a plánovanou pořizovací cenou pro případ výroby. Jestliže se materiál vlastní výroby ve finančním účetnictví neaktivuje, zachycují se tyto cenové odchylky jen v provozním účetnictví.\n(3) V podnicích vnitřního obchodu se pří oceňování obchodního zboží v účetnictví podle ustanovení § 32 odst. 3 zachycují na účtech cenových odchylek rozdíly mezi plánovanou a skutečnou nákupní cenou."
+    },
+    {
+      "provision_ref": "§ 35.",
+      "section": "35",
+      "title": "§ 35. Zvláštní ustanovení pro účtování cenových odchylek v podnicích, které vedou provozní účetnictví.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "Podniky, které vedou provozní účetnictví a jsou povinny oceňovat zásoby v plánovaných cenách, mohou oceňování a účtování nakupovaných zásob podle ustanovení tohoto oddílu provádět běžně jen v provozním účetnictví. Ve finančním účetnictví pak budou zachycovat během roku přírůstky těchto zásob ve fakturovaných cenách (přírůstky obchodního zboží v podnicích vnitřního obchodu ve skutečných nákupních cenách), jestliže nejpozději k rozvahovému dni podle zápisů provozního účetnictví doplní zápisy ve finančním účetnictví tak, aby v něm\na) obsah účtů zásob odpovídal ustanovením § 32 a obsah účtů cenových odchylek ustanovením § 34 nebo\nb) obsah účtů zásob odpovídal ustanovením § 32 a účty cenových odchylek obsahovaly pouze zůstatky, které mají být rozděleny podle ustanoveni § 36."
+    },
+    {
+      "provision_ref": "§ 36.",
+      "section": "36",
+      "title": "§ 36. Vyúčtování cenových odchylek.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "(1) Zůstatek účtů cenových odchylek se pro účetní závěrky a pro závěrky provozního účetnictví rozdělí na podíl připadající na konečný stav a na podíl připadající na úhrn úbytků v příslušném období. Tyto podíly se zjistí výpočtem v poměru mezi konečným stavem zásob a úhrnem jejich úbytků, nelze-li je zjistit přesněji. Podíl připadající na úbytky je možno dále rozdělit podle jednotlivých druhů úbytků (na př. spotřeba, prodej, převod drobných a krátkodobých předmětů ze skladu do používání, škody).\n(2) Podíly na zůstatku účtů cenových odchylek připadající na úbytky zásob se převedou do nákladů a podíl připadající na konečný stav zásob představuje rozvahový zůstatek.\n(3) Podíly na zůstatku účtů cenových odchylek připadající na úbytky zásob jsou v provozním účetnictví součástí provozního výsledku podniku a nesmějí se proto vykazovat na neutrálním středisku."
+    },
+    {
+      "provision_ref": "§ 37.",
+      "section": "37",
+      "title": "§ 37. Účty nákladů souvisících s nabytím obchodního zboží.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "Náklady souvisící s nabytím obchodního zboží v podnicích vnitřního obchodu se účtují na vrub zvláštního účtu (podúčtu) v účtové třídě, v níž se účtuje o zásobách. Pro účtování nákladů souvisících s nabytím na tomto účtě platí přiměřeně ustanoveni § 34 odst. 1 písm. c) a pro rozdělení a vyúčtování jeho zůstatku přiměřeně ustanovení § 36."
+    },
+    {
+      "provision_ref": "§ 38.",
+      "section": "38",
+      "title": "§ 38. Použití plánovaných cen v účetních závěrkách.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl třetí. - Přizpůsobení oceňování zásob v účetnictví pro potřeby kontroly plnění podnikového plánu.",
+      "content": "(1) V krátkodobých účetních závěrkách se stavy zásob a spotřeba zásob (v to počítajíc i spotřebu prodejem a opotřebením) oceněných plánovanými cenami, jakož i příslušné podíly na zůstat, ku účtů cenových odchylek, po případě v podnicích vnitřního obchodu podíly na zůstatku účtu nákladů souvisících s nabytím obchodního zboží, uvedou ve zvláštních položkách. Položky, která se při převodu plánovaných cen na skutečné ceny odčítají, se označí odčítacím znaménkem (—).\n(2) V ročních účetních závěrkách se zvláštní položky uvedená v odstavci 1 sloučí, aby stavy zásob a spotřeba zásob byly v nich uvedeny ve skutečných pořizovacích cenách."
+    },
+    {
+      "provision_ref": "§ 39.",
+      "section": "39",
+      "title": "§ 39. Oprava plánované ceny zásob.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl čtvrtý. - Oprava plánované ceny zásob a ceník zásob.",
+      "content": "(1) Opraví-li se plánovaná cena některého druhu zásob, Jichž se týká ustanovení § 32 odst. 1 a 3, vyúčtuje se ke dni opravy z ní vyplývající rozdíl na příslušném účtě zásob a cenových odchylek.\n(2) Opraví-li se plánovaná cena rozpracovaných výrobků a hotových výrobků, vyúčtuje se z toho vyplývající rozdíl výsledkově."
+    },
+    {
+      "provision_ref": "§ 40.",
+      "section": "40",
+      "title": "§ 40. Ceník zásob.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl čtvrtý. - Oprava plánované ceny zásob a ceník zásob.",
+      "content": "Podniky jsou povinny vést evidenci plánovaných cen zásob (ceník zásob), pokud jich používají pro oceňování ve finančním a v provozním účetnictví, s výjimkou cen drobných a krátko, dobých předmětů v používání a cen rozpracovaných výrobků. Opraví-li se plánovaná cena, zapíše se do ceníku zásob nová plánovaná cena s uvedením dne, od kterého platí."
+    },
+    {
+      "provision_ref": "§ 41.",
+      "section": "41",
+      "title": "§ 41.",
+      "chapter": "Část čtvrtá. - Zásoby. > Oddíl pátý. - Oceňování zásob pro soupis aktiv a pasiv.",
+      "content": "(1) Pro soupis aktiv a pasiv se zásoby oceňují stejně jako pro účetní závěrku. Při tom se drobné a krátkodobé předměty v používání mohou ocenit úhrnnou peněžní částkou za celkové jejích množství.\n(2) Zásoby, jichž se týká ustanovení § 32 odst. 1, 3 a 4, se pro soupis aktiv a pasiv oceňují plánovanými cenami použitými ve skladním účetnictví; cenové odchylky a náklady souvisící s nabytím, po případě odchodní rozpětí, se uvedou aspoň pro každou skupinu zásob úhrnnou peněžní částkou, o kterou je třeba ocenění v plánovaných cenách pro rozvahu převést na ocenění ve skutečných pořizovacích cenách.\n(3) Za skupinu zásob podle odstavce 2 se považuje jejich skupina, pro kterou se vede ve finančním účetnicví zvláštní účet cenových odchylek, zvláštní účet nákladů souvisících s nabytím, po případě zvláštní účet obchodního rozpětí."
+    },
+    {
+      "provision_ref": "§ 42.",
+      "section": "42",
+      "title": "§ 42.",
+      "chapter": "Část pátá. - Ustanovení přechodná a závěrečná.",
+      "content": "Pořizovací cena investičního majetku (§ 13 odst. 1 až 4) pořizovaného v hospodářském roce 1951 zahrnuje také interkalární úroky a náhradu škody způsobené při budování investičního majetku poškozením nebo zničením cizích investic."
+    },
+    {
+      "provision_ref": "§ 43.",
+      "section": "43",
+      "title": "§ 43.",
+      "chapter": "Část pátá. - Ustanovení přechodná a závěrečná.",
+      "content": "Těmito závaznými směrnicemi se řídí podniky v rozsahu a ode dne, v jakém a od kdy se na ně vztahují ustanovení vládního nařízení. Týmž dnem pozbývají platnosti „Směrnice pro oceňování zásob v návrhu prováděcího plánu hmotného zásobování a pro oceňování nově pořizovaných investic v návrhu prováděcího plánu investic na rok 1951“, vydané státním úřadem plánovacím dne 25. července 1950, pokud upravují oceňování investičního majetku a zásob v rozpočetnictví, v účetnictví a pro účetní závěrky."
+    },
+    {
+      "provision_ref": "§ 44.",
+      "section": "44",
+      "title": "§ 44.",
+      "chapter": "Část pátá. - Ustanovení přechodná a závěrečná.",
+      "content": "Státní úřad plánovací může povolit výjimky z ustanovení této vyhlášky; pokud by výjimka měla vliv na stanovení daňových základů, povolí ji v dohodě s ministerstvem financí."
+    },
+    {
+      "provision_ref": "§ 45.",
+      "section": "45",
+      "title": "§ 45.",
+      "chapter": "Část pátá. - Ustanovení přechodná a závěrečná.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reprodukční cenou",
+      "definition": "peněžní částka, kterou by bylo třeba vynaložit v den, k němuž se oceňuje, na opatření stejného majetku, jako je majetek oceňovaný, po případě majetku s ním srovnatelného",
+      "source_provision": "§ 6."
+    },
+    {
+      "term": "Nákupní cenou",
+      "definition": "peněžní částka, která má být vynaložena (plánovaná nákupní cena) nebo byla vynaložena (skutečná nákupní cena), nebo peněžní částka, kterou by bylo třeba vynaložit (reprodukční nákupní cena) na koupi majetku",
+      "source_provision": "§ 8."
+    },
+    {
+      "term": "Prodejní cenou",
+      "definition": "peněžní částka, které má být dosaženo (plánovaná prodejní cena) nebo které bylo dosaženo (skutečná prodejní cena), nebo peněžní částka, které by se dosáhlo při prodeji majetku",
+      "source_provision": "§ 14."
+    },
+    {
+      "term": "Běžnou výrobní činností",
+      "definition": "činnost zahrnutá v plánu výkonů pro hlavní činnost nebo v plánech výkonů pro další činnosti (v doplňkových plánech) podniku",
+      "source_provision": "§ 17."
+    },
+    {
+      "term": "skupinu zásob podle odstavce 2",
+      "definition": "jejich skupina, pro kterou se vede ve finančním účetnicví zvláštní účet cenových odchylek, zvláštní účet nákladů souvisících s nabytím, po případě zvláštní účet obchodního rozpětí",
+      "source_provision": "§ 41."
+    }
+  ]
+}

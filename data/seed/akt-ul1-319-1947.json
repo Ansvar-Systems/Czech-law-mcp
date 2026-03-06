@@ -1,0 +1,141 @@
+{
+  "id": "cz:ul1:319/1947",
+  "type": "statute",
+  "title": "319/1947 Ú. l. I, Vyhláška báňského hejtmanství pro zemi Českou v Praze, kterou se vydávají prováděcí předpisy k nařízení báňského hejtmanství v Praze ze dne 7. prosince 1946 (Ú. l. I č. 221/1946, běž. č. 2151), o opatřeních proti nebezpečí výbuchu uhelného prachu na hnědouhelných dolech v obvodu revírních báňských úřadů v Teplicích-Šanově, Mostě, Chomutově a Karl. Varech.",
+  "title_en": "",
+  "short_name": "319/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-04-01",
+  "in_force_date": "1947-04-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/319",
+  "description": "Vyhláška báňského hejtmanství pro zemi Českou v Praze, kterou se vydávají prováděcí předpisy k nařízení báňského hejtmanství v Praze ze dne 7. prosince 1946 (Ú. l. I č. 221/1946, běž. č. 2151), o opatřeních proti nebezpečí výbuchu uhelného prachu na hnědouhelných dolech v obvodu revírních báňských úřadů v Teplicích-Šanově, Mostě, Chomutově a Karl. Varech.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "1. Požadavky.\nKamenný prach musí:\na) propadnouti úplně kontrolním sítem z drátěného tkaniva 0.5 ČSN 1210 (o 144 okách na 1 cm²),\nb) jeho 50% (podle váhy) musí propadnouti kontrolním sítem z drátěného tkaniva 0.075 ČSN 1210 (o 6400 okách na 1 cm²)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "2. Braní vzorků pro zkoušku.\nVzorek musí být průměrný vzorek z nejméně 10 q kamenného prachu."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "3. Jak se provádí zkouška.\nNa síto o 6400 okách na 1 cm² nasype se 25 g kamenného prachu a prosívá se 10 minut tím způsobem, že se rukou se sítem narazí 125 krát za minutu o druhou. Vždy po 25 nárazech otočí se síto ve vodorovné poloze o pravý úhel (900). Po 3.5 a 8 minutách otře se spodní plocha síta měkkým štětcem. Po posledním klepnutí střepe se nárazem nakloněného síta na pevnou podložku zbytek prachu na jedno místo síta a vysype se za účelem zjištění váhy na porculánovou misku. Váží-li zbytek více než 12.5 g, nesmí býti kamenný prach v tomto stavu použit. Váží-li méně než 12.5 g, nasype se na síto o 144 okách na 1 cm2, kdež se prosívá stejně, avšak po 5 minut; neklepe se však, ani se štětcem nestírá. Nepropadne-li úplně, nesmí býti kamenný prach rovněž použit."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "4. Kdy se provádí zkouška.\nKamenný prach dosud nepoužívaný nebo zhotovený za změněných výrobních poměrů, smí se upotřebiti v dole teprve, když byl přezkoušen s příznivým výsledkem. Při plynulé výrobě třeba zkoušku opakovati nejméně jednou měsíčně. Používá-li se prachu vyrobeného jinde, musí zkoušky prováděti závod, jenž prach upotřebuje. Prokáže-li však, že předepsané zkoušky byly prováděny výrobcem, postačí kontrolní zkoušky v předepsaných obdobích s průměrnými vzorky, vzatými jen z 50 kg dodaného prachu."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "1. Požadavky.\na) Nepoužitý kamenný prach nesmí obsahovati více než 15% (podle váhy) hořlavých součástek.\nb) Kamenný prach uzávěr nemusí býti zkoumán po svém umístění na obsah hořlavých součástek, třeba však pečlivě odstraňovat usazený uhelný prach s přehrad."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "2. Jak se berou vzorky.\nZ nepoužitého kamenného prachu musí býti vzorek průměrným vzorkem z nejméně 10 q kamenného prachu."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "3. Jak a kdy se zkouška provádí.\nHořlavé látky obsažené ve vápencovém prachu nebo ve směsi uhelného a vápencového prachu se zjistí, žíhají-li se 3 g vzorku 5 hodin při teplotě 450°—480° C a zváží-li se zbytek po žíhání.\nRozdíl původní váhy vzorku a váhy zbytku po žíhání, vyjádřený v procentech původní váhy vzorku, dává obsah hořlavých součástek vzorku.\nZkouška se provádí u nepoužitého kamenného prachu v obdobích stanovených v odst. 4."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "1. Požadavky.\nKamenný prach musí zůstati v dole rozvířitelný."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "2. Jak se provádí zkouška.\na) Uložením na zkoušku v dole ve výdušném větrním proudu. Větrní proud v tomto místě nesmí býti sušší než v místě upotřebení prachu. Prach jest upotřebitelný, lze-li jej po jednoměsíčním uložení lehkým fouknutím ústy rozvířiti v prachový mrak. Tato zkouška jest mírnější než zkouška uvedená pod písm. b): připouští se v suchých dolech prach, jenž by pozbyl ve vlhkých dolech rozšiřitelnosti.\nb) Uložením na otevřeném místě nad vodou v nádobě neprodyšně uzavřené, v níž jest vzduch nasycen vodními parami. Prach jest upotřebitelný, lze-li jej po 7 denním uložení lehkým fouknutím ústy rozvířiti v prachový mrak."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "3. Kdy se provádí zkouška.\na) U nepoužitého kamenného prachu nejméně jednou měsíčně před dopravou do dolu.\nb) U kamenného prachu na uzávěrách tak často jak jest třeba, ale jen fouknutím ústy."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "1. Požadavky.\nKamenný prach musí býti zdraví neškodný."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "2. Jak se provádí zkouška.\nO připuštění kamenného prachu třeba zažádati u báňského hejtmanství (příl. 1). Žádost předloží buď spotřebitel nebo výrobce a přiloží k ní:\na) osvědčení Pokusné stanice ostravsko-karvinských kamenouhelných dolů v Ostravě o technických vlastnostech kamenného prachu,\nb) osvědčení Ústavu pracovního lékařství v Praze II., U nemocnice č. 1, o neškodnosti prachu pro lidské zdraví."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "HLAVA I. - Jakost kamenného prachu.",
+      "content": "3. Kdy se provádí zkouška.\nZkouška musí býti provedena u každého druhu prachu před použitím. Připuštění jest vázáno podmínkou, že se jakost prachu podstatně nezmění."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA II. - Používání vody nebo kamenného prachu jako ochrany proti výbuchům uhelného prachu.",
+      "content": "1. Výklad pojmů.\nUzávěra jest nahromadění vody nebo kamenného prachu v průřezu chodeb na zvláštních zařízeních (korýtka, přehrady).\nHlavní uzávěrou jest uzávěra s větším a vedlejší uzávěra s menším množstvím vody nebo kamenného prachu.\nKorýtko jest vodotěsná, nahoře otevřená nádoba, která leží podélnou osou napříč ke směru chodby.\nPřehrada jest poval z volně ležících prken, která jsou umístěna napříč ke směru chodby."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA II. - Používání vody nebo kamenného prachu jako ochrany proti výbuchům uhelného prachu.",
+      "content": "2. Ochrana uzávěrami.\nHlavními uzávěrami jest chrániti:\na) Větrní oddělení ve vtažném a výtažném větrním proudu. Uzávěry mají zameziti přenesení výbuchu z jednoho větrního oddělení do druhého větrního oddělení. V dolech nebezpečných požáry musí tyto uzávěry ležeti uvnitř pásma ohraničeného přípravami k uzavření (§ 22 nařízení báňského hejtmanství ze dne 7. února 1947, Ú. l. I č. 21/1947, běž. č. 147, o zabezpečení hnědouhelných dolů proti požárům).\nb) Chodby spojující jámy s větrními odděleními. Uzávěry mají zameziti přenos výbuchu z větrních oddělení na jámy.\nVedlejšími uzávěrami se chrání:\na) Porubní pole uvnitř větrního oddělení.\nUzávěra zde slouží k tomu, aby zastavila výbuch již uvnitř větrního oddělení. Účelné jejich zřízení se řídí provozními poměry. Leží-li několik porubů za sebou, doporučuje se, aby se uzávěry zřídily v porubních chodbách mezi jednotlivými poruby.\nUzávěry budou účinkovati pouze tam, kde má výbuch od výstupu z porubu až k uzávěře dostatečně dlouhý rozběh a dosáhne dostatečné prudkosti, aby svrhl uzávěru. K tomu jest třeba rozběhu o délce nejméně 40 m. Kde není takového rozběhu, není uzávěra nic platná. Leží-li několik porubů za sebou, musí býti zřízeno na vhodných místech co možná tolik uzávěr, aby mezi dvěma z nich nebylo zaměstnáno více než 30 mužů.\nb) Vyřizovací práce a rozdělávky.\nOchrana se požaduje, poněvadž zde výbuchy vznikají snadno.\nJežto jest zřizování a udržování uzávěr v kratších chodbách obtížné, mohou se vyřizovací práce a rozdělávky chrániti zpravidla teprve tehdy, když dosáhly délky větší než 40 m. Při kratších vzdálenostech musí býti chodba dobře skropena."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "HLAVA II. - Používání vody nebo kamenného prachu jako ochrany proti výbuchům uhelného prachu.",
+      "content": "3. Provedení uzávěr.\nPři zřizování vodních uzávěr jest přihlížeti k tomuto:\na) Hlavní uzávěry musejí obsahovati na každý čtverečný metr průměrného průřezu uzavřené chodby 200 l vody.\nb) Vedlejší uzávěry musejí obsahovati na každý čtverečný metr průměrného průřezu uzavřené chodby 100 l vody.\nc) Korýtka se musí postaviti tak, aby je i slabší náraz výbuchu snadno shodil; nesmí býti přibita a spolu spojena. Jako podložek lze použiti lišt, rámů a pod., které jsou připevněny na výstroji.\nd) Korýtka musí býti umístěna úplně ve volném průřezu chodby a v hořejší třetině výšky chodby, avšak tak hluboko pod stropem chodby, aby se mohla bezpečně překotiti.\ne) Vzdálenost mezi jednotlivými korýtky, měřeno ve směru chodby, musí činiti 1 m.\nf) Náraz výbuchu musí zasáhnouti uzávěry plnou prudkostí; proto se nesmějí uzávěry zřizovati na ohbích nebo křižovatkách.\ng) Zařízení vestavěné do chodby, jako potrubí pro stlačený vzduch, lutny a pod., nesmí překážeti překocení korýtek.\nh) Korýtko musí míti obsah nejméně 30 l na 1 m své délky. Potřebný a skutečný vodní stav musí býti snadno poznatelný zvenčí.\nPři zřizování prachových uzávěr jest přihlížeti k tomuto:\na) Hlavní uzávěry musejí obsahovati na každý čtverečný metr průměrného průřezu uzavřené chodby 300 kg kamenného prachu.\nb) Vedlejší uzávěry musejí obsahovati na každý čtverečný metr průměrného průřezu uzavřené chodby 100 kg kamenného prachu.\nNa jedné přehradě nemá býti obyčejně více než 100 kg kamenného prachu. K vedlejším uzávěrám jest používati výhradně jednoprkenných přehrad.\nc) Mezera mezi jednotlivými přehradami nesmí býti příliš malá.\nDříve zastávané mínění, že by bylo účelným sraziti množství kamenného prachu předepsané pro uzávěru na vzdálenost pokud možno nejkratší, ukázalo se nesprávným. Nejpříznivější světlá mezera mezi jednotlivými přehradami jest asi 2 m a budiž celkem tato vzdálenost dodržována. Pakli to vyžadují zvláštní místní okolnosti, může býti tato vzdálenost zkrácena až na 1.5 m. Pod tuto mez se nesmí jíti, aby přehrada nebyla ve větrním stínu přehrady druhé. V jednotlivých případech působilo prodloužení vzdálenosti až do 10 m příznivě. Je však pochopitelné, že k zadržení velmi silných výbuchů nelze se bez určitého sražení obejíti, takže v roztažení přehrad nelze jíti příliš daleko.\nd) Šířka přehrady nesmí býti příliš malá.\nPřehrady musejí co možná krýti průřez chodby, poněvadž se jinak může státi, že se tlak výbuchu okolo přehrad uvolní a plamen výbuchu se okolo stočí. Proto je též velmi podstatné, aby v celém pásmu uzávěry byly boky chodby za výstrojí základkou vyplněny, aby tedy za výstrojí nezůstal nikde volný, uzávěrou nekrytý prostor.\ne) Jednotlivé části přehrad musejí býti uzpůsobeny tak, aby se mohly volně rozlétnouti.\nNejvětší chyba, se kterou se setkáváme, je ta, že se přehrady zavěšují nebo stavějí tak, že se jednotlivé části přehrad, pokud se týče uzávěr, nemohou volně rozlétnouti. Musí býti bezpodmínečně dbáno toho, aby veškeré součásti přehrad, tedy nikoliv pouze vlastní prkna přehrad, nýbrž též nosná prkna a nosné kolejnice, mohly býti rozmetány. Z toho důvodu nejsou též průběžné podélné kolejnice nebo podélné trámy k umístění více přehrad za sebou přípustné. Mezi nosnými kolejnicemi přehrad a bočními stojkami výstroje musí býti na každé straně ponechána mezera 2 až 3 cm.\nf) Přehrady se nesmějí zavěšovati tak, aby se kymácely.\nPřehrady se nesměji zavěšovati do řetězu, drátěných lan nebo podobně, neboť takto zavěšené přehrady nejsou nárazem výbuchu ihned se své podložky vyhozeny, nýbrž zprvu i s podložkou uvedeny v kymácení, takže působí teprve při zpětném nárazu výbuchu. Musejí-li býti přehrady z místních ohledů zavěšeny, musí býti závěs patřičně nehybný. U těžkých jednotlivých přehrad, které kladou nárazu vzduchu silný odpor, nelze ani zavěšení na úzkých železných nosnicích považovati za zavěšení nehybné.\ng) Prachové přehrady nesmějí se ukládati na válečky.\nV opaku proti velmi rozšířenému názoru není přípustno používati valivých podložek (dřevěných válečků, rour). Při výbuších, jichž tlak větrů na stanovišti uzávěry před doběhnutím plamene výbuchu pomalu stoupá, skutálejí se totiž takové přehrady se svých podložek dříve, než tlak větru krátce před doběhnutím plamene výbuchu nabude takové síly, že uzávěru řádně rozmetá. Plamen projde pak nad přehradami ležícími na počvě a naplněnými prachem.\nh) Zatížení jednotlivých přehrad nesmí býti příliš veliké.\nZatížení jednotlivých přehrad prachem nesmí býti zpravidla větší než 250 kg a musí pokud možno zůstati ještě pod touto hranicí. Nejlépe jest zatížiti přehradu 100 až 200 kg prachu.\nNa jedné přehradě vedlejší uzávěry nemá býti obyčejně více než 100 kg kamenného prachu. Jedině v hlavních těžních a větrních chodbách se značně velkým průřezem může se zatížiti přehrada až do 300 kg, poněvadž zde bývají již výbuchy silné a vyvinuté.\nPřipevňovati lišty na přehradu, aby se zvětšil její obsah, není u žádného druhu přehrad dovoleno.\nch) Prachové uzávěry musejí ležeti úplně ve volném průřezu chodby a jejich přehrady, pokud se týče jejich prkna musí býti umístěny příčně k ose chodby. Pak-li by tento poslední požadavek nebyl dobře proveditelný (na př. pro malou mocnost sloje, strmé uložení sloje, malou výšku chodby a pod.), mohou býti přehrady zřízeny též ve směru osy chodby nebo diagonálně k ní, při čemž však jest toho, dbáti, aby byla prkna přehrad i zde pokládána příčně k ose chodby, aby se tak docílilo pokud možno soustředěného a účinného rozprášení kamenného prachu. Proto mají přehrady zasahovati pokud možno daleko do volného průřezu chodby a mohou býti podle okolností umístěny též stupňovitě. Bude-li třeba, nutno uzávěry umístiti při strmém uložení sloje místo v dovrchních chodbách v přilehlých chodbách směrných i v tom případě, kdyby se tím počet potřebných uzávěr zvýšil.\ni) Přehrady musejí býti zřízeny ve vrchní třetině výšky chodby, avšak tak hluboko pod stropem, aby mezi navršeným kamenným prachem a spodní hranou stropní výstroje zůstala mezera aspoň 10 cm široká.\nj) Zařízení do chodby vestavěné, jako potrubí pro stlačený vzduch, větrní lutny a pod., nesmí překážeti rozmetání celé uzávěry. Takovéto zařízení nutno proto zásadně umíšťovati pod uzávěrou.\nk) Náraz výbuchu musí zasáhnouti uzávěry plnou prudkostí; proto se nesmějí uzávěry zřizovati bezprostředně na ohbích a křižovatkách.\nPrůměrným průřezem chodby jest rozuměti průměr průřezu, který má chodba bezprostředně před uzávěrou a za ní na vzdálenost, která se rovná délce uzávěry.\nPoloha vodních a prachových uzávěr má se co možná voliti tak, aby byla před uzávěrou ve směru k nejbližšímu předpokládanému místu vzniku výbuchu přímá chodba o délce nejméně 40 m.\nUzávěry se musí zkoušeti pravidelně. Při tom jest dbáti toho, aby nebyly nikde uzávěry zaklíněny a aby obsahovaly předepsané množství vody nebo kamenného prachu. Kamenný prach na přehradách budiž tak často, jak jest toho třeba, zkoušen na rozšiřitelnost fouknutím ústy a vyměněn za čerstvý, když pozbyl schopnosti vznášeti se ve vzduchu. Uhelný prach usazený na přehradách budiž odstraňován.\nV chodbách, které slouží ku pravidelné chůzi a těžení, budiž spadlé uhlí pravidelně odstraňováno, aby se pokud možno zabránilo tvoření a rozviřování uhelného prachu. Doporučuje se, aby se používala zařízení k odsávání nebo srážení uhelného prachu vodou, která se zabudují u zásobníků, sýpů a pod.\nPři trhacích pracích se provádí zabezpečení vodou. V důlních dílech budiž uhelný prach skropen před odpálením v okolí střelných vývrtů v okruhu 20 m (skrápění před trhací prací)."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "HLAVA III. - Provádění ochrany uzávěrami a dozor nad ní.",
+      "content": "1. Předací a palní.\nPředáci musí dbáti toho, aby byly k ochraně jejich pracovišť zřízeny a v pořádku udržovány uzávěry. Nedostatky musí hlásiti neprodleně revírnímu dozorci. Až do odstranění nedostatků nesmí se na jejich pracovišti prováděti trhací práce.\nZa předepsané skropení před střelbou jsou odpovědni palní."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "HLAVA III. - Provádění ochrany uzávěrami a dozor nad ní.",
+      "content": "2. Dozorectvo.\nPro dozor nad zařízeními proti nebezpečí uhelného prachu a nad skrápěním před trhací prací budiž ustanoven na každém samostatném závodě zvláštní dozorce, který jest vedle revírního dozorce odpověden za provádění příslušných hornopolicejních předpisů. Tento zvláštní dozorce musí dohlížeti:\na) na rozsah ochrany, provádění, udržování a plnění uzávěr,\nb) na odstraňování uhelného prachu.\nDále musí tento dozorce vésti knihu o uzávěrách (B) a pečovati o to, aby byly uzávěry zakresleny do větrní mapy (C).\nPoužívá-li se kamenného prachu, musí týž dozorce bráti vzorky prachu a dáti je zkoušeti před jeho upotřebením v dole. Musí se při svých denních pochůzkách přesvědčit, zda jest zařízení proti uhelnému prachu v řádném stavu a zda se pravidelně skrápí před střelbou. Zvláštní pozorování, zejména nedostatky, musí hlásiti závodnímu dolu. Tento dozorce může býti pověřen také jinými úlohami, avšak jen pokud to dovoluje jeho vlastní dozorčí činnost. Za řádné plnění korýtek vodou a přehrad kamenným prachem jsou v první řadě odpovědni revírní dozorci. Musí také dbáti toho, aby byly vodovody a přípojky ke skrápění před střelbou v pořádku, jakož i toho, aby byly hadice pohotově.\nVedle této zvláštní dozorčí osoby a revírních dozorců jest závodní odpověden za všechna opatření, která se mají učiniti proti nebezpečí uhelného prachu.\nNa každém samostatném závodě se založí kniha o uzávěrách. Kniha se vede pro vodní uzávěry podle vzoru v příloze 2, a prachové uzávěry podle vzoru 3—4.\nPoloha vodních uzávěr se vyznačí na větrní mapě modrým křížem v modrém kruhu a prachových uzávěr červeným křížem v červeném kruhu.\nBěžné\nčísloHlavní nebo vedlejší\nuzávěryChráněný\noddíl doluPoloha uzávěryPrůměrný průřez m2Nutné množství\nvodyVodní stavJiná zjištění,\nco zařízenoPodpis\ndnezjištěné množství\n12345678910\n1.Hlavní uzávěraSeverní poleSeverní\nlanová\nchodba\nč. 1110200017.12. 19461900 l\ndoplněno na\n2000 lZaseknutí u 2. koryta\nodstraniti\nOdstraněno 18. 12. 1941.\n(Vynechat místo pro záznam dalších zkoušek)\n2.Vedlejší uzávěraSeverní pole, 1. lávka, vých. část660019. 12. 19466001. Korýtko jest příliš\nvysoko. Postaveno\nníže 19. 12. 1941.\n(Vynechat místo pro záznam dalších zkoušek)\n3.Hlavní chodbaZápadní poleLezná\nchodba\nv záp. poli8160020. 11. 194615003. Korýtko není těsné. Nařízena výměna.\n22. 11. 19461600Vyměněno.\nBěžné čísloDruh prachuVýrobceDen zkouškyPropad\nsítem č. 8\nv procentech\npodle váhyRozviřitelnostObsah hořlavých látek—\nv procentech\n(podle váhy)Zvláštní zjištěníPodpis\nPo uložení nad\nvodou.\nVýsledekUložení\nV dole.\nVýsledek\n12345678910\n1.břidlicový prachvlastní závod12. 10. 194682Za 7 dní rozviřitelnýZa 1 měsíc rozviřitelný9Slepuje se ve\nzvlášť vlhkém\nvětrním proudu.\nPoužito mramorové moučky.\n2.mramorová moučka?1. 11. 194675Za 7\ndní rozviřitelný—Ztráty žíháním 43 CO2 40 hořlavé součástky 3\nBěžné čísloHlavní nebo vedlejší uzávěryChráněný oddíl doluPoloha uzávěryPrůměrný průřez chodbyNutné množství prachuPosypáno kamenným prachemZkouška prachuJiná\nzjištění,\nco zařízenoPodpis\npo prvé\ndneposledně obnovení prachudnezjištěné množstvíčistotarozviřitelnost\n1234567891011121314\n1.Hlavní uzávěraSeverní poleLanovková chodba\nv sev.\npoli12360013. 8.\n19465. 11. 194617. 12.\n19463500 na\n3600 doplněnoslabý povlak uhelného prachuDobráZaklesnutí u\n3. přehrady\nodstranit.\nOdstraněno\n18. 12. 1941.\n(Místo volné pro záznam dalších zkoušek).\n2.Vedlejší uzávěraSeverní\npole\n1. lávka\nvých. částChodba 11a66005. 9.\n19467. 10.\n194619. 10.\n1946550 kg\nna 600\ndoplněnoSlabý povlak uhelného prachuDobrá2. přehrada\nbyla nízko.\nPosunuta\nnahoru dne\n19. 10. 1941\n(Místo volné pro záznam dalších zkoušek).\n3.Hlavní uzávěráZápadní poleLezná chodba záp. pole7210013. 8.\n194615. 9.\n194620. 11.\n19462100ČistýNerozviřitelnýNařízeno čerstvé nasypání.\n21. 11. 194610. 12. 19462100ČistýDobrá"
+    }
+  ],
+  "definitions": []
+}

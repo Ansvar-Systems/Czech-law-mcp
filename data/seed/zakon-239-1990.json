@@ -1,0 +1,33 @@
+{
+  "id": "cz:239/1990",
+  "type": "statute",
+  "title": "239/1990 Sb., Vyhláška Ministerstva spravodlivosti Slovenskej republiky, ktorou sa určujú obvodné súdy v Bratislave na vybavenie vecí podľa zákona č. 119/1990 Zb. o súdnej rehabilitácii",
+  "title_en": "",
+  "short_name": "239/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-06-15",
+  "in_force_date": "1990-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/239",
+  "description": "Vyhláška Ministerstva spravodlivosti Slovenskej republiky, ktorou sa určujú obvodné súdy v Bratislave na vybavenie vecí podľa zákona č. 119/1990 Zb. o súdnej rehabilitácii",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Veci podľa druhého a tretieho oddielu zákona č. 119/1990 Zb. o súdnej rehabilitácii, v ktorých v pôvodnom konaní rozhodol v prvom stupni do 1. júla 1978 mestský alebo predtým iný príslušný súd v Bratislave, vybavuje Obvodný súd Bratislava 1."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Veci náhrady škody podľa šiesteho oddielu zákona č. 119/1990 Zb. o súdnej rehabilitácii, spôsobenej rozhodnutím niektorého súdu v Bratislave, vybavuje Obvodný súd Bratislava 3."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Táto vyhláška nadobúda účinnosť 1. júlom 1990."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "cz:ul1:239/1945",
+  "type": "statute",
+  "title": "239/1945 Ú. l. I, Vyhláška nejvyššího úřadu cenového o prodejních cenách chmele ze sklizně 1945.",
+  "title_en": "",
+  "short_name": "239/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-09-16",
+  "in_force_date": "1945-09-19",
+  "url": "https://www.e-sbirka.cz/ul1/1945/239",
+  "description": "Vyhláška nejvyššího úřadu cenového o prodejních cenách chmele ze sklizně 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Pro prodej ověřeného chmele ze sklizně 1945 tuzemským pivovarům platí tyto nejvyšší ceny za 50 kg:\nZa chmel z výrobní oblasti\nZa chmel z výrobní oblasti\nžateckéroudnicko-úštěcké\nod 4060 do 4795 Kod 3660 do 4340 K\ntršickédubské\nod 3460 do 4115 Kod 3180 do 3725 K\n(2) Ceny podle odstavce 1 se rozumějí franko nakládací stanice prodávajícího."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Pro prodej podřadného, neoznačeného a ze známkovacího řízení vyloučeného chmele ze sklizně 1945, platí pro všechny oblasti cena nejvýše 1000 K za 50 kg.\n(2) Takový chmel může býti dále prodán jen bude-li dána záruka, že ho nebude použito k pivovarským účelům.\n(3) Cena podle odstavce 1 rozumí se ze skladiště prodávajícího."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Výlohy, které si může chmelařská společnost při prodeji chmele ze sklizně 1945 připočítati ke skutečným výkupním cenám, stanoví se za 50 kg těmito částkami:\na)nákupní výlohy nejvýšeK127.—\nb)výlohy se skladovánímK40.—\nc)obchodní rozpětíK43.—.\n(2) V nákupních výlohách uvedených v odst. 1, písmeno „a“, je již obsažena provise nakupovače ve výši 30 K za 50 kg cmele."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "V rámci nejvyšších cen uvedených v § 1, stanoví se obchodní rozpětí obchodníka s chmelem při prodeji chmele ze sklizně 1945 tuzemským pivovarům nejvýše 14% z ceny výkupní zvýšené o výlohy podle § 3, nejméně však 450 K za 50 kg."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ceny i obchodní rozpětí podle této vyhlášky rozumějí se i s daní z obratu."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Platební a dodací podmínky pro chmel ze sklizně 1945, řídí se předpisy vyhlášky Svazu pro chmel, slad a pivo o výkupu a odbytu chmele ze sklizně 1945."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Nejvyšší úřad cenový může, k provedení nebo doplnění této vyhlášky vydat potřebné předpisy.\n(2) Nejvyšší úřad cenový nebo místa jím pověřená mohou povolit nebo nařídit výjimky z ustanovení této vyhlášky nebo z předpisů vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle příslušných cenových předpisů."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Svaz pro chmel, slad a pivo je příslušný, aby v mezích své působnosti dozíral na zachovávání této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Tato vyhláška nabývá účinnosti 3. dnem po dni uveřejnění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cena podle odstavce 1",
+      "definition": "se ze skladiště prodávajícího",
+      "source_provision": "§ 2."
+    }
+  ]
+}

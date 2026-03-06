@@ -1,0 +1,49 @@
+{
+  "id": "cz:244/1992",
+  "type": "statute",
+  "title": "244/1992 Sb., Zákon České národní rady  o posuzování vlivů rozvojových koncepcí a programů na životní prostředí",
+  "title_en": "",
+  "short_name": "244/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-05-29",
+  "in_force_date": "2002-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/244",
+  "description": "Zákon České národní rady  o posuzování vlivů rozvojových koncepcí a programů na životní prostředí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVÁ - ÚVODNÍ USTANOVENÍ",
+      "content": "Zákon upravuje posuzování vlivů rozvojových koncepcí a programů (dále jen „koncepce“) na životní prostředí a určuje příslušný orgán k posuzování vlivů na životní prostředí, kterým je Ministerstvo životního prostředí (dále jen „příslušný orgán“)."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST TŘETÍ - POSUZOVÁNÍ KONCEPCÍ",
+      "content": "(1) Koncepcí se rozumí pro účely tohoto zákona koncepce předkládaná a schvalovaná na úrovni ústředních orgánů státní správy (dále jen „schvalující orgán“), a to v oblasti energetiky, dopravy, zemědělství, nakládání s odpady, těžby a zpracování nerostů, rekreace a turistiky. Za koncepci se dále považují územně plánovací dokumentace15) a směrný vodohospodářský plán.16)\n(2) Předkladatel koncepce (dále jen „předkladatel“) je povinen zajistit, aby její součástí bylo posouzení vlivů koncepce na životní prostředí zpracované přiměřeně rozsahu podle přílohy č. 3 části C bodu III a IV tohoto zákona.\n(3) Předkladatel je povinen vhodným způsobem a po dohodě s ministerstvem zajistit zveřejnění návrhu koncepce, popřípadě jejích zásad, nejméně 60 dnů před jejím projednáváním.\n(4) Předkladatel zašle návrh koncepce zpracovaný s přihlédnutím k případným připomínkám veřejnosti příslušnému orgánu, který ve lhůtě 30 dnů od jeho doručení k němu vydá stanovisko, s výjimkou případů, kdy je sám předkladatelem.\n(5) Schvalující orgán neprojedná koncepci bez stanoviska příslušného orgánu."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST ŠESTÁ - USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ",
+      "content": "Na tento zákon se nevztahují obecné předpisy o správním řízení."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST ŠESTÁ - USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 1992.\nPříloha č. 3\nDOKUMENTACE O HODNOCENÍ VLIVŮ NA ŽIVOTNÍ PROSTŘEDÍ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Koncepcí",
+      "definition": "pro účely tohoto zákona koncepce předkládaná a schvalovaná na úrovni ústředních orgánů státní správy (dále jen „schvalující orgán“), a to v oblasti energetiky, dopravy, zemědělství, nakládání s odpady, těžby a zpracování nerostů, rekreace a turistiky",
+      "source_provision": "§ 14"
+    }
+  ]
+}

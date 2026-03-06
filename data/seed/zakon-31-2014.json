@@ -1,0 +1,50 @@
+{
+  "id": "cz:31/2014",
+  "type": "statute",
+  "title": "31/2014 Sb., Vyhláška, kterou se mění vyhláška č. 141/2011 Sb., o výkonu činnosti platebních institucí, institucí elektronických peněz, poskytovatelů platebních služeb malého rozsahu a vydavatelů elektronických peněz malého rozsahu",
+  "title_en": "",
+  "short_name": "31/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-02-28",
+  "in_force_date": "2014-03-15",
+  "url": "https://www.e-sbirka.cz/sb/2014/31",
+  "description": "Vyhláška, kterou se mění vyhláška č. 141/2011 Sb., o výkonu činnosti platebních institucí, institucí elektronických peněz, poskytovatelů platebních služeb malého rozsahu a vydavatelů elektronických peněz malého rozsahu",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 141/2011 Sb., o výkonu činnosti platebních institucí, institucí elektronických peněz, poskytovatelů platebních služeb malého rozsahu a vydavatelů elektronických peněz malého rozsahu, se mění takto:\n1. § 36 včetně nadpisu a poznámky pod čarou č. 15 zní:"
+    },
+    {
+      "provision_ref": "„§ 36",
+      "section": "36",
+      "title": "„§ 36 Podřízený dluh",
+      "content": "Pro vymezení podřízeného dluhu platí obdobně ustanovení o kapitálových nástrojích a podřízených půjčkách zahrnovaných do kapitálu tier 215) podle nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ze dne 26. června 2013 o obezřetnostních požadavcích na úvěrové instituce a investiční podniky a o změně nařízení (EU) č. 648/2012 (dále jen „nařízení“).\n15) Článek 62 písm. a) a b) a články 63 až 65 nařízení.“.\n2. V § 37 písmeno c) včetně poznámky pod čarou č. 16 zní:\n„c) hodnota expozice ze sekuritizace, které by podle nařízení náležela riziková váha 1 250 %16).\n16) Článek 251, anebo článek 261 nařízení.“.\n3. § 48 včetně poznámek pod čarou č. 19 a 22 zní:"
+    },
+    {
+      "provision_ref": "„§ 48",
+      "section": "48",
+      "title": "„§ 48",
+      "content": "(K § 20 odst. 4 a § 52e odst. 4 zákona)\nAktivy s nízkým rizikem se rozumí\na) dluhové cenné papíry, které by podle standardizovaného přístupu pro úvěrové riziko podle nařízení obdržely rizikovou váhu do výše 50 %19), a\nb) cenné papíry vydané standardním fondem22), který investuje výhradně do cenných papírů podle písmena a).\n19) Článek 336 odst. 1 tabulka č. 1 nařízení.\n22) § 94 odst. 1 zákona č. 240/2013 Sb., o investičních společnostech a investičních fondech.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dluhové cenné papíry",
+      "definition": "které by podle standardizovaného přístupu pro úvěrové riziko podle nařízení obdržely rizikovou váhu do výše 50 %19), a",
+      "source_provision": "„§ 48"
+    },
+    {
+      "term": "cenné papíry vydané standardním fondem22",
+      "definition": "který investuje výhradně do cenných papírů podle písmena a).",
+      "source_provision": "„§ 48"
+    }
+  ]
+}

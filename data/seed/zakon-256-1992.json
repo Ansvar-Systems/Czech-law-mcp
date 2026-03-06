@@ -1,0 +1,279 @@
+{
+  "id": "cz:256/1992",
+  "type": "statute",
+  "title": "256/1992 Sb., Zákon o ochraně osobních údajů v informačních systémech",
+  "title_en": "",
+  "short_name": "256/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-06-01",
+  "in_force_date": "1992-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/256",
+  "description": "Zákon o ochraně osobních údajů v informačních systémech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - Rozsah působnosti",
+      "content": "Zákon upravuje ochranu osobních údajů, zejména povinnosti související s ochranou informací při provozování informačního systému, který nakládá s osobními údaji a odpovědnost provozovatele informačního systému a dalších fyzických a právnických osob, které se účastní provádění činností souvisejících s provozováním takového informačního systému."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - Rozsah působnosti",
+      "content": "Tento zákon se vztahuje i na informační systémy založené zvláštním zákonem.1)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Informace",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Informace, které se vztahují k určité osobě, jsou osobními údaji."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Informační systém",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Informačním systémem se rozumí funkční celek zabezpečující cílevědomé a systematické shromažďování, zpracovávání, uchovávání a zpřístupňování informací. Každý informační systém zahrnuje informační základnu, technické a programové prostředky, technologie a procedury a pracovníky."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Provozování informačního systému",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Provozováním informačního systému se rozumí provádění činností směřujících ke shromažďování (sběru) informací, jejich vstupnímu zpracování, ukládání informací do údajové základny, zpracování informací pro vnitřní potřeby systému nebo pro poskytování informační služby. Provozování zahrnuje všechny nebo jen některé z uvedených činností."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Informační služba",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Informační službou se rozumí provádění činností směřujících k poskytování informací z informačního systému, obvykle spojené se zpracováním informací uchovávaných v informačním systému."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zpracování informace",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Zpracováním informace se rozumí\na) technická nebo obsahová úprava informace,\nb) automatizované zpracování, zahrnující operace prováděné v úplnosti nebo částečně pomocí automatizačních prostředků, zejména uchovávání informací a dat, provádění logických nebo aritmetických operací s informacemi a daty, jejich úpravy a výmaz,\nc) začlenění informace bez fyzické nebo obsahové změny do souboru informací nebo jiného sdělení, které může být určeno k jiným účelům, než je poskytnutí informační služby."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Likvidace informace",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Likvidací informace se rozumí její výmaz nebo fyzické rozložení takovým způsobem, aby informace nemohla být znovu sestavena, nebo fyzické zničení hmotného nosiče, na nějž je vázána."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účastníci výměny informací",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Účastníky výměny informací se rozumí provozovatel informačního systému (dále jen „provozovatel“), uživatel informačních služeb (dále jen „uživatel“) a zprostředkovatel informací (dále jen „zprostředkovatel“)."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Dotčená osoba",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Dotčenou osobou se rozumí jednotlivá fyzická osoba, o které informace vypovídá."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Provozovatel",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "(1) Provozovatelem se rozumí fyzická nebo právnická osoba, která zabezpečuje zpracování informací nebo poskytování informačních služeb a vystupuje vůči ostatním fyzickým nebo právnickým osobám jako nositel práv a povinností spojených s provozováním informačního systému.\n(2) Za provozovatele se nepovažují\na) fyzické osoby, které v rámci svého pracovního nebo obdobného poměru přicházejí do styku s informacemi, s nimiž nakládá příslušný informační systém,\nb) právnické osoby, které vykonávají činnosti při provozování informačního systému na základě smlouvy uzavřené s provozovatelem."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Uživatel",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Uživatelem se rozumí fyzická nebo právnická osoba, která využívá informace získané z informačního systému nebo o tyto informace žádá v rámci informačních služeb poskytovaných informačním systémem."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Zprostředkovatel",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Zprostředkovatelem se rozumí fyzická nebo právnická osoba zjišťující, shromažďující, zpracovávající nebo poskytující informace pro provozovatele nebo uživatele."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Náležitý způsob sběru informací",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Náležitým způsobem sběru informací se rozumí jejich zjišťování, které není maskováno jiným účelem, kryto jinou činností a nenarušuje práva a svobody občanů."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Zveřejněná informace",
+      "chapter": "ČÁST DRUHÁ - VYMEZENÍ NĚKTERÝCH POJMŮ PRO ÚČELY TOHOTO ZÁKONA",
+      "content": "Za zveřejněnou informaci se považuje informace uvedená na veřejnost prostřednictvím hromadných sdělovacích prostředků nebo prostřednictvím elektronických veřejně přístupných informačních služeb."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "Provozovat informační systém, který nakládá s informacemi, které vypovídají o osobnosti a soukromí dotčené osoby, jejím rasovém původu, národnosti, politických postojích a členství v politických stranách a hnutích, vztahu k náboženství, o její trestné činnosti, zdraví, sexuálním životě a majetkových poměrech, lze pouze, stanoví-li tak zvláštní zákon, nebo se souhlasem žijící dotčetné osoby, pokud je možné, aby tento projev vůle učinila. Jestliže nelze podmínku souhlasu splnit, lze s informacemi nakládat jen za předpokladu, že bude zachována lidská důstojnost, osobní čest, dobrá pověst a chráněno dobré jméno dotčené osoby."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "Povinností provozovatele je\na) provozovat informační systém v souladu s účelem, pro který je systém zřízen,\nb) získávat informace rozsahem přiměřené účelu, pro který je systém zřízen, zejména vystříhat se shromažďování nadbytečných údajů,\nc) ověřovat, zda informace, s nimiž informační systém nakládá, jsou přesné, a podle potřeby je aktualizovat,\nd) označit náležitým způsobem v informačním systému nepřesné nebo neověřené informace,\ne) neuchovávat v informačním systému nepravdivé informace,\nf) zamezit sdružování informací a informačních systémů sloužících k rozdílným účelům, pokud zvláštní zákon nestanoví jinak,\ng) získávat informace pro informační systémy náležitým způsobem; získávat informace pod krytím jiným účelem nebo jinou činností lze pouze, pokud tak stanoví zvláštní zákon,\nh) uchovávat informace, umožňující identifikaci dotčené osoby pouze po dobu přiměřenou účelům informačního systému, pokud zvláštní zákon nestanoví jinak,\ni) zajistit ochranu informací i celého systému před náhodným nebo neoprávněným zničením, náhodným poškozením, jakož i před neoprávněným přístupem nebo zpracováním,\nj) stanovit práva a povinnosti fyzických a právnických osob, které mají přístup k informačnímu systému,\nk) učinit opatření, aby po skončení pracovního nebo obdobného poměru mezi fyzickou osobou a provozovatelem nemohly být informace, s nimiž nakládá příslušný informační systém, touto osobou využity; obdobná opatření je povinen učinit i vůči osobám, které při plnění svých úkolů u provozovatele přicházejí nebo mohou přicházet do styku s informacemi, s nimiž nakládá příslušný informační systém,\nl) poskytnout jednou do roka bezplatně, nebo za přiměřenou úplatu kdykoli, každé dotčené osobě na požádání zprávu o informacích o ní uchovávaných v informačním systému, pokud zvláštní zákon nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Při ukončení provozu informačního systému je provozovatel povinen provést taková opatření, aby informace, s nimiž informační systém nakládal, nemohly být zneužity.\n(2) V případě porušení povinnosti podle odstavce 1 má oprávněná osoba nárok na zadostiučinění, odstranění závadného stavu, vydání bezdůvodného obohacení od osoby, která jej získala, a dále nárok upravený v § 20 písm. d) a e)."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Zprostředkovatel je povinen\na) ověřovat, zda informace, které zprostředkovává, jsou přesné,\nb) nepřesné nebo neověřené informace náležitě označit, popřípadě, je-li to možné, tuto nepřesnost odstranit,\nc) získávat informace pro informační systémy náležitým způsobem; získávat informace pod krytím jiným účelem nebo jinou činností lze pouze, pokud tak stanoví zvláštní zákon,\nd) zajistit ochranu zprostředkovávaných informací před náhodným nebo neoprávněným zničením, náhodným poškozením, jakož i před neoprávněným přístupem nebo zpracováním.\n(2) Při zprostředkování informací pro uživatele i provozovatele je zprostředkovatel povinen uchovávat informace získané v souvislosti s výkonem zprostředkovatelské činnosti pouze po dobu nezbytně nutnou a v rozsahu oprávnění provozovatele."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "V případě porušení povinností provozovatele uvedených v § 17 vzniká oprávněné fyzické osobě vůči provozovateli nárok na\na) zdržení se takového jednání, odstranění závadného stavu, vydání bezdůvodného obohacení tomu subjektu, na jehož úkor bylo toto obohacení získáno, a poskytnutí zadostiučinění (omluvy, opravy) tomu, jehož porušení povinností poškodilo, na náklady provozovatele. Nárok poskytnout zadostiučinění nevzniká, jedná-li s o porušení povinnosti podle § 17 písm. d) a e), pokud provozovatel neporušil svoji povinnost podle § 17 písm. c) nebo pokud prokáže, že s informací bylo nakládáno v mezích souhlasu dotčené osoby nebo jedná-li se o zveřejněnou informaci,\nb) likvidaci informace; tento nárok vzniká, porušil-li provozovatel povinnosti uvedené v § 17 písm. a), b), d), e), g), h). Tento nárok též vzniká, jedná-li se o informační systém nakládající se zveřejněnými informacemi, pokud se ukáže, že tyto informace byly zveřejněny neoprávněně nebo pokud tyto informace byly opraveny,\nc) doplnění informace, jedná-li se o informaci, která byla do informačního systému vložena se souhlasem dotčené osoby, nebo jestliže se jedná o zveřejněnou informaci,\nd) zaplacení přiměřené peněžní úhrady, jestliže bylo porušeno její právo na zachování lidské důstojnosti, osobní cti, dobré pověsti a na ochranu jejího jména, pokud není postižitelná stávajícími občanskoprávními a obchodněprávními instituty,\ne) zamezení přístupu k informacím v průběhu sporu, pokud orgán příslušný pro rozhodnutí sporu výjimečně nestanoví jinak; nárok se týká pouze sporem dotčených informací."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "Zprostředkovatel odpovídá za činnosti, které vykonává pro provozovatele nebo uživatele v rozsahu odpovědnosti provozovatele."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Fyzické osoby v rámci svého pracovního nebo obdobného poměru nebo v rámci své veřejné či jiné funkce (např. funkce soudního znalce, auditora) anebo další osoby, které při plnění svých úkolů u provozovatele přicházejí do styku s informacemi, s nimiž nakládá příslušný informační systém (dále jen „povinné osoby“) mají povinnost mlčenlivosti o těchto informacích a nesmí je bez souhlasu provozovatele zpřístupnit jiným subjektům nebo je využít pro sebe, pokud zvláštní zákon nestanoví jinak.\n(2) Povinnosti uvedné v odstavci 1 přetrvávají i po skončení pracovního nebo obdobného poměru mezi povinnou osobou a provozovatelem nebo po skončení výkonu funkce povinné osoby.\n(3) V případě porušení povinností uvedených v odstavci 1 vzniká oprávněné osobě vůči povinné osobě nárok na\na) zdržení se takových jednání, odstranění závadného stavu, vydání bezdůvodného obohacení a poskytnutí zadostiučinění (omluvy, opravy) na náklady povinné osoby,\nb) likvidaci informací, které byly neoprávněně zpřístupněny nebo využity,\nc) zaplacení přiměřené peněžní úhrady, jestliže povinná osoba nesplněním těchto povinností způsobila újmu, především nemateriální povahy, která není postižitelná stávajícími občanskoprávními a obchodněprávními instituty a která není spojena s plněním ostatních nároků podle tohoto odstavce,\nd) zamezení zpřístupnění informací v průběhu sporu, pokud orgán příslušný pro rozhodnutí výjimečně nestanovil jinak; tento nárok se týká pouze sporem dotčených informací.\n(4) Jestliže jsou tyto povinnosti porušeny povinnou osobou, která je v pracovním nebo obdobném poměru k provozovateli, odpovídá provozovatel za poskytnutí peněžitého plnění podle odstavce 3 písm. c) a za poskytnutí zadostiučinění podle odstavce 3 písm. a).\n(5) Získá-li někdo informace z informačního systému protiprávním jednáním, vztahují se na něj obdobně odstavce 1 a 3."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI SOUVISEJÍCÍ S PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "Spory vyplývající z uplatňování práv a povinností podle tohoto zákona řeší soud."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST ČTVRTÁ - REGISTRACE INFORMAČNÍHO SYSTÉMU A DOZOR NAD PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "K provedení registrace a provádění dozoru nad provozem informačních systémů jsou příslušné orgány, zřízené zvláštními zákony."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Žádost o registraci",
+      "chapter": "ČÁST ČTVRTÁ - REGISTRACE INFORMAČNÍHO SYSTÉMU A DOZOR NAD PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Orgán uvedený v § 24 eviduje registrované informační systémy po dobu jejich provozu. Evidence je veřejně přístupná a úředně zveřejňována tímto orgánem vždy k 31. prosinci.\n(2) Provozovatel je povinen bez zbytečného odkladu informovat orgán uvedený v § 24 o ukončení provozu informačního systému s uvedením data, ke kterému se provoz informačního systému ukončuje. Toto se netýká informačních systémů, na něž se nevztahuje povinnost registrace."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "ČÁST ČTVRTÁ - REGISTRACE INFORMAČNÍHO SYSTÉMU A DOZOR NAD PROVOZOVÁNÍM INFORMAČNÍHO SYSTÉMU",
+      "content": "Povinnosti registrovat se podléhají pouze informační systémy nakládající s informacemi uvedenými v § 16, pokud neslouží výhradně pro vnitřní potřebu provozovatele; výjimky z povinnosti registrace stanoví zvláštní zákon. Registraci nepodléhají informační systémy nakládající výhradně se zveřejněnými informacemi."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Provozovat informační systém zřízený po dni účinnosti tohoto zákona lze pouze při splnění podmínek uvedených v tomto zákoně; jeho provozovatel je povinen požádat o registraci do tří měsíců po nabytí účinnosti zákona, kterým se zřizuje orgán uvedený v § 24."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Vláda České a Slovenské Federativní Republiky může výjimečně stanovit podmínky provozování již fungujícího informačního systému, který není v souladu s tímto zákonem, na období ne delší tří let od nabytí účinnosti tohoto zákona. Tímto není dotčena povinnost provozovatele požádat orgán podle § 24 o registraci v období do tří měsíců po nabytí účinnosti zákona, kterým se tento orgán zřizuje."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení.\n1) Např. zákon č. 244/1991 Sb., o Federální bezpečnostní informační službě, zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), zákon č. 563/1991 Sb., o účetnictví, zákon č. 47/1990 Sb., o volbách do Federálního shromáždění, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Informačním systémem",
+      "definition": "funkční celek zabezpečující cílevědomé a systematické shromažďování, zpracovávání, uchovávání a zpřístupňování informací",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "Provozováním informačního systému",
+      "definition": "provádění činností směřujících ke shromažďování (sběru) informací, jejich vstupnímu zpracování, ukládání informací do údajové základny, zpracování informací pro vnitřní potřeby systému nebo pro poskytování informační služby",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Informační službou",
+      "definition": "provádění činností směřujících k poskytování informací z informačního systému, obvykle spojené se zpracováním informací uchovávaných v informačním systému",
+      "source_provision": "§ 6"
+    },
+    {
+      "term": "automatizované zpracování",
+      "definition": "zahrnující operace prováděné v úplnosti nebo částečně pomocí automatizačních prostředků, zejména uchovávání informací a dat, provádění logických nebo aritmetických operací s informacemi a daty, jejich úpravy a výmaz",
+      "source_provision": "§ 7"
+    },
+    {
+      "term": "Likvidací informace",
+      "definition": "její výmaz nebo fyzické rozložení takovým způsobem, aby informace nemohla být znovu sestavena, nebo fyzické zničení hmotného nosiče, na nějž je vázána",
+      "source_provision": "§ 8"
+    },
+    {
+      "term": "Účastníky výměny informací",
+      "definition": "provozovatel informačního systému (dále jen „provozovatel“), uživatel informačních služeb (dále jen „uživatel“) a zprostředkovatel informací (dále jen „zprostředkovatel“)",
+      "source_provision": "§ 9"
+    },
+    {
+      "term": "Dotčenou osobou",
+      "definition": "jednotlivá fyzická osoba, o které informace vypovídá",
+      "source_provision": "§ 10"
+    },
+    {
+      "term": "Provozovatelem",
+      "definition": "fyzická nebo právnická osoba, která zabezpečuje zpracování informací nebo poskytování informačních služeb a vystupuje vůči ostatním fyzickým nebo právnickým osobám jako nositel práv a povinností spojených s provozováním informačního systému",
+      "source_provision": "§ 11"
+    },
+    {
+      "term": "Uživatelem",
+      "definition": "fyzická nebo právnická osoba, která využívá informace získané z informačního systému nebo o tyto informace žádá v rámci informačních služeb poskytovaných informačním systémem",
+      "source_provision": "§ 12"
+    },
+    {
+      "term": "Zprostředkovatelem",
+      "definition": "fyzická nebo právnická osoba zjišťující, shromažďující, zpracovávající nebo poskytující informace pro provozovatele nebo uživatele",
+      "source_provision": "§ 13"
+    },
+    {
+      "term": "Náležitým způsobem sběru informací",
+      "definition": "jejich zjišťování, které není maskováno jiným účelem, kryto jinou činností a nenarušuje práva a svobody občanů",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "zveřejněnou informaci",
+      "definition": "informace uvedená na veřejnost prostřednictvím hromadných sdělovacích prostředků nebo prostřednictvím elektronických veřejně přístupných informačních služeb",
+      "source_provision": "§ 15"
+    }
+  ]
+}

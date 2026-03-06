@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:147/1952",
+  "type": "statute",
+  "title": "147/1952 Ú. l., Vyhláška Státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 02 2190, 02 2191 a 02 2195.",
+  "title_en": "",
+  "short_name": "147/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-17",
+  "in_force_date": "1952-06-17",
+  "url": "https://www.e-sbirka.cz/ul0/1952/147",
+  "description": "Vyhláška Státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 02 2190, 02 2191 a 02 2195.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickými státními normami jsou od 1. července 1952 normy:\nČSN 02 2190„Rýhované hřeby s půlkulatou hlavou“,\nČSN 02 2191„Rýhované hřeby zápustné“,\nČSN 02 2195„Šroubové hřeby“."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Normy stanoví zejména rozměry a váhy jednotlivých druhů hřebů a jednají o označování povrchu a způsobu užití těchto hřebů."
+    }
+  ],
+  "definitions": []
+}

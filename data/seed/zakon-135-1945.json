@@ -1,0 +1,27 @@
+{
+  "id": "cz:135/1945",
+  "type": "statute",
+  "title": "135/1945 Sb., Dekret presidenta republiky o zřízení pobočky lékařské fakulty university Karlovy v Plzni",
+  "title_en": "",
+  "short_name": "135/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-11-21",
+  "in_force_date": "1945-11-21",
+  "url": "https://www.e-sbirka.cz/sb/1945/135",
+  "description": "Dekret presidenta republiky o zřízení pobočky lékařské fakulty university Karlovy v Plzni",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V Plzni se zřizuje počátkem studijního roku 1945/46 pobočka lékařské fakulty university Karlovy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento dekret nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské; provede jej ministr školství a osvěty v dohodě s ministry financí a zdravotnictví."
+    }
+  ],
+  "definitions": []
+}

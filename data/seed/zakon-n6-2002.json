@@ -1,0 +1,45 @@
+{
+  "id": "cz:n6/2002",
+  "type": "statute",
+  "title": "n6/2002 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 293/2002 Sb. a ve vyhlášce č. 344/2002 Sb.",
+  "title_en": "",
+  "short_name": "n6/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-08-06",
+  "in_force_date": "2002-08-06",
+  "url": "https://www.e-sbirka.cz/sb/2002/n6",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 293/2002 Sb. a ve vyhlášce č. 344/2002 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V příloze č. 2 k vyhlášce č. 293/2002 Sb. má text „Poznámka (sloupec 3 tabulky)“ správně znít:\n„Poznámka (sloupec 3 tabulky):"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "1 Stanovuje se po mechanické homogenizaci vzorku s desintegrací částic na velikost méně než 40 mikrometrů. Homogenizuje se celý obsah vzorkovnice."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "2 Stanovuje se po filtraci vzorku nebo jeho podílu filtrem ze skleněných vláken střední velikosti pórů (0,7 až 1,3) mikrometru."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "3 Stanovuje se filtrací vzorku nebo jeho podílu filtrem ze skleněných vláken střední velikosti pórů (0,7 až 1,3) mikrometru po ručním roztřepání vzorku.“"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V nadpisu vyhlášky č. 344/2002 Sb. mají místo slov „ze dne 11. června 2002“ správně být slova „ze dne 11. července 2002“."
+    }
+  ],
+  "definitions": []
+}

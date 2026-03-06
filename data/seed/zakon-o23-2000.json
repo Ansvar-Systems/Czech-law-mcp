@@ -1,0 +1,41 @@
+{
+  "id": "cz:o23/2000",
+  "type": "statute",
+  "title": "o23/2000 Sb., Opatření Českého statistického úřadu, kterým se mění Program statistických zjišťování na rok 2000",
+  "title_en": "",
+  "short_name": "o23/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-06-16",
+  "in_force_date": "2000-06-16",
+  "url": "https://www.e-sbirka.cz/sb/2000/o23",
+  "description": "Opatření Českého statistického úřadu, kterým se mění Program statistických zjišťování na rok 2000",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Poř. č. 27: Dotazník o hostech v hromadných ubytovacích zařízeních, CR 1-12\na) V bodě 1. Účel statistického zjišťování a jeho obsah se vždy za slovo „hromadných“ vkládají slova „i individuálních“ a za slovo „hromadného“ se vkládají slova „i individuálního“.\nb) Bod 2. Okruh zpravodajských jednotek zní:\n„Ekonomické subjekty provozující hromadná ubytovací zařízení nebo zařízení individuálního ubytování sloužící cestovnímu ruchu.“.\nc) V bodě 3. Způsob statistického zjišťování použitá metoda zní:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Poř. č. 30: a) NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ zní:\nb) V bodě 1. Účel statistického zjišťování a jeho obsah se za slova „cestovních kanceláří“ vkládají slova „a cestovních agentur“ a za slova „cestovními kancelářemi“ se vkládají slova „a cestovními agenturami“.\nc) V bodě 2. Okruh zpravodajských jednotek se výraz „OKEČ 63.30 1“ nahrazuje výrazem „OKEČ 63.3“ a slova „s počtem zaměstnanců 1 a více“ se zrušují."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "„Dotazník o činnosti cestovních kanceláří a cestovních agentur“.",
+      "content": "3. Poř. č. 40 - Roční výkaz finančních ukazatelů rozpočtových organizací, RO V 1-01 a"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "„Dotazník o činnosti cestovních kanceláří a cestovních agentur“.",
+      "content": "4. Poř. č. 55: a) NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ zní: „Roční výkaz o zásobách paliv a spotřebě paliv a energie“.\nb) Bod 2. Okruh zpravodajských jednotek zní: „Ekonomické subjekty, včetně rozpočtových a příspěvkových organizací, s počtem zaměstnanců 20 a více.“."
+    }
+  ],
+  "definitions": []
+}

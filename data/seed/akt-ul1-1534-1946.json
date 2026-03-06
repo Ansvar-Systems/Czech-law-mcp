@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1534/1946",
+  "type": "statute",
+  "title": "1534/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách ovoce, které nebude dodáváno do sběren.",
+  "title_en": "",
+  "short_name": "1534/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-07-19",
+  "in_force_date": "1946-07-19",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1534",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách ovoce, které nebude dodáváno do sběren.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za ovoce, které nebude podle § 3 vyhlášky ministra výživy ze dne 20. května 1946, běž. č. 1347, o výkupu a dodávkách ovoce ze sklizně 1946 (Ú. l. I č. 89/1946) dodáváno do sběren, mohou pěstitelé účtovat nejvýše tyto ceny:\n1. při prodeji velkoobchodníkům pěstitelskou cenu stanovenou nejvyšším úřadem cenovým;\n2. při prodeji maloobchodníkům pěstitelskou cenu s přirážkou 10 %;\n3. při prodeji velkospotřebiteli pěstitelskou cenu s přirážkou 15 %;\n4. při prodeji přímému spotřebiteli pěstitelskou cenu s přirážkou 20 %."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Obchodníci, kterým pěstitelé dodali ovoce podle § 1 této vyhlášky, mohou při tvoření svých prodejních cen započítávati pouze obchodní rozpětí stanovená nejvyšším úřadem cenovým."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem po vyhlášení."
+    }
+  ],
+  "definitions": []
+}

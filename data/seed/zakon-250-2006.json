@@ -1,0 +1,57 @@
+{
+  "id": "cz:250/2006",
+  "type": "statute",
+  "title": "250/2006 Sb., Vyhláška, kterou se stanoví rozsah a obsah bezpečnostních opatření fyzické ochrany objektu nebo zařízení zařazených do skupiny A nebo do skupiny B",
+  "title_en": "",
+  "short_name": "250/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-05-31",
+  "in_force_date": "2006-06-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/250",
+  "description": "Vyhláška, kterou se stanoví rozsah a obsah bezpečnostních opatření fyzické ochrany objektu nebo zařízení zařazených do skupiny A nebo do skupiny B",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví rozsah a obsah bezpečnostních opatření fyzické ochrany objektu nebo zařízení zařazených do skupiny A nebo B."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Analýza možností neoprávněných činností a provedení útoku na objekty nebo zařízení",
+      "content": "Analýza možností neoprávněných činností a provedení útoku na objekty nebo zařízení zahrnuje vždy posouzení\na) předmětu činnosti provozovatele,\nb) interních předpisů provozovatele,\nc) organizační a personální struktury provozovatele,\nd) technického a technologického vybavení provozovatele,\ne) stavebního řešení objektu nebo zařízení,\nf) rozsahu a struktury dodavatelsko-odběratelských vztahů,\ng) hrozeb vyplývajících z celospolečenské situace a jejího vývoje a z mimořádných událostí."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Režimová opatření",
+      "content": "Režimová opatření zahrnují vždy\na) vymezení části objektu nebo zařízení nebo území, kde se uplatňují požadavky fyzické ochrany objektu nebo zařízení,\nb) vstupní a výstupní režim osob, věcí a dopravních prostředků v pracovní a mimopracovní době, včetně určení vstupů a vjezdů a vyloučení osob a věcí, které by mohly zjevně ohrozit zdraví a život osob, způsobit škodu na majetku nebo životním prostředí nebo ohrozit bezpečnost objektu nebo zařízení,\nc) způsob prokazování oprávněnosti ke vstupu osob a vjezdu vozidel, který umožňuje jejich jednoznačnou identifikaci,\nd) vymezení objektů nebo zařízení nebo jejich částí, do kterých je povolen vstup pouze oprávněným osobám,\ne) způsob vedení a uchovávání evidence o vnášení a vynášení věcí, vjíždění a vyjíždění vozidel, vstupu a odchodu osob a způsob její kontroly,\nf) postup při příjmu, uskladnění, výdeji a pohybu věcí a způsob jejich ochrany před krádežemi, poškozováním a znehodnocením,\ng) provozní režim, kterým se zabezpečuje plynulost a bezpečnost provozu při mimořádných událostech,\nh) režim manipulace s klíči, identifikačními kartami s magnetickou stopou nebo čipem a jinými prostředky užívanými pro ovládání zámkových mechanismů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Fyzická ostraha",
+      "content": "Fyzická ostraha zahrnuje vždy\na) způsob zabezpečení střežení objektu nebo zařízení (například smluvně bezpečnostními službami nebo vlastními zaměstnanci),\nb) způsob provádění fyzické ostrahy (například na pevném stanovišti, obchůzkou nebo kombinovaným způsobem),\nc) rozsah střežení objektu nebo zařízení (například celého objektu nebo zařízení nebo jeho části),\nd) postup fyzické ostrahy v případě mimořádné události v objektu nebo zařízení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Technické prostředky",
+      "content": "Technické prostředky zahrnují\na) mechanické zábranné prostředky, například oplocení, mříže, rolety, zámky v takovém rozsahu a s takovými technickými parametry, aby vytvořily systém zábran, které budou svou konstrukcí a mechanickou odolností splňovat bezpečnostní funkce stanovené českými technickými normami1),\nb) poplachové systémy, například kamerové a přístupové systémy, elektrická požární signalizace, elektrické zabezpečovací systémy, systém přivolání pomoci, zařízení pro detekci nebezpečných plynů a par, zařízení omezující rozsah úniku nebezpečných látek, zvláštní technická opatření proti neoprávněné manipulaci, systém rychlé odstávky objektu nebo zařízení v takovém rozsahu, aby byla vytvořena ochrana osob a předmětů, která umožní včasný a účinný zákrok v narušeném objektu nebo zařízení."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Rozsah bezpečnostních opatření",
+      "content": "Bezpečnostní opatření podle § 3 až 5 se v objektu nebo zařízení uskutečňují na základě výsledků analýzy možností neoprávněných činností a provedení útoku na objekty nebo zařízení v takovém rozsahu, aby byla zajištěna účinná ochrana objektu nebo zařízení před neoprávněnými činnostmi a před útokem."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2006.\n1) Například ČSN EN 1300, ČSN EN 1143, ČSN 16 5190, ČSN P ENV 1627."
+    }
+  ],
+  "definitions": []
+}

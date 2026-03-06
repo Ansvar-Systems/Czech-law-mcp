@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:10/1961",
+  "type": "statute",
+  "title": "10/1961 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízeni č. 46/1957 Sb., o technické normalizaci, ruší některé československé státní normy",
+  "title_en": "",
+  "short_name": "10/1961 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1961-03-08",
+  "in_force_date": "1961-03-01",
+  "url": "https://www.e-sbirka.cz/ul0/1961/10",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízeni č. 46/1957 Sb., o technické normalizaci, ruší některé československé státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Československé státní norma ČSN 01 9999 „Přehled hodnot přirozených ztrát zboží a jiných zásob — normy mank“, uveřejněná ve vyhlášce č. 68/1956 Ú. l., se ruší bez náhrady."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Československé státní normy\nČSN 02 2105„Čep s pojistnou drážkou“\nČSN 02 2113„Čep s hlavou“\nČSN 02 2710„Přídržka“\nČSN 02 3465„Pouzdro“\nČSN 02 3496„Upínací pouzdro“\nuveřejněné ve vyhlášce č. 359/1952 Ú. l., se ruší bez náhrady."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti ode dne 1. března 1961."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:128/2020",
+  "type": "statute",
+  "title": "128/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "128/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-23",
+  "in_force_date": "2020-03-23",
+  "url": "https://www.e-sbirka.cz/sb/2020/128",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. všem osobám uvedeným v bodě I. tohoto usnesení, aby bezprostředně po návratu do České republiky oznámili tuto skutečnost, a to telefonicky nebo jiným vzdáleným přístupem, svému registrujícímu poskytovateli zdravotních služeb v oboru všeobecné praktické lékařství nebo praktické lékařství pro děti a dorost, nebo nemají-li registrujícího poskytovatele, pak jakémukoli poskytovateli v oboru všeobecné praktické lékařství nebo praktické lékařství pro děti a dorost,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. všem poskytovatelům zdravotních služeb v oboru všeobecné praktické lékařství nebo praktické lékařství pro děti a dorost, aby u osob uvedených v bodě 1 rozhodli o karanténě podle § 2 odst. 7 písm. a) zákona č. 258/2000 Sb. v délce 14 dnů."
+    }
+  ],
+  "definitions": []
+}

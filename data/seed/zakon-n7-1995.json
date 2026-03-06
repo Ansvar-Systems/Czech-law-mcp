@@ -1,0 +1,39 @@
+{
+  "id": "cz:n7/1995",
+  "type": "statute",
+  "title": "n7/1995 Sb., Redakční sdělení o opravě chyb v nařízení vlády č. 265/1994 Sb., ve vyhlášce č. 171/1994 Sb. a v oznámeních Ministerstva financí o vydání opatření v částce 72/1994 Sb.",
+  "title_en": "",
+  "short_name": "n7/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-01-18",
+  "in_force_date": "1995-01-18",
+  "url": "https://www.e-sbirka.cz/sb/1995/n7",
+  "description": "Redakční sdělení o opravě chyb v nařízení vlády č. 265/1994 Sb., ve vyhlášce č. 171/1994 Sb. a v oznámeních Ministerstva financí o vydání opatření v částce 72/1994 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v nařízení vlády č. 265/1994 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník)\nV příloze 3 „Seznam rozvojových zemí“ má místo„XC Makedonie“ správně být „MK Makedonie“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Ministerstva průmyslu a obchodu č. 171/1994 Sb., kterou se stanoví podrobnosti barvení a značkování některých uhlovodíkových paliv a maziv\nV § 3 odst. 4 a odst. 5 první a třetí větě má místo „podle § 1 odst. 1“ správně být „podle § 1“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. v oznámení Ministerstva financí o vydání opatření, kterým se stanoví uspořádání položek účetní závěrky k 30. 6. 1994 pro politické strany a politická hnutí účtující v soustavě jednoduchého účetnictví, v částce 72/1994 Sb.\nV první větě má místo „opatření č.j. 283/64 681/1994“ správně být „opatření č.j. 283/67 681/94“."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. v oznámení Ministerstva financí o vydání opatření, jímž se stanoví část obsahu „Přílohy“, která je součástí účetní závěrky politických stran a politických hnutí účtujících v soustavě podvojného účetnictví, v částce 72/1994 Sb.\nV první větě má místo „opatření č.j. 283/64 680/94“ správně být „opatření č.j. 283/67 680/94“."
+    }
+  ],
+  "definitions": []
+}

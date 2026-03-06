@@ -1,0 +1,57 @@
+{
+  "id": "cz:177/1950",
+  "type": "statute",
+  "title": "177/1950 Sb., Nariadenie o odhadoch nehnuteľných vecí",
+  "title_en": "",
+  "short_name": "177/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-12-27",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1950/177",
+  "description": "Nariadenie o odhadoch nehnuteľných vecí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Přibrání znalců.",
+      "content": "(1) K provedení odhadu přibere soud znalce. Uzná-li to soud za potřebné, může přibrat dalšího znalce, zejména mají-li být odhadnuty nemovité věci různého druhu. Také na žádost účastníka může soud přibrat dalšího znalce; náklady spojené s přibráním tohoto znalce nese však účastník, který o znalce žádal.\n(2) O znalcích a znaleckém posudku platí jinak ustanovení občanského soudního řádu a zákona č. 167/1949 Sb., o stálých přísežných znalcích a tlumočnících."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Předmět odhadu.",
+      "content": "Každá jednotlivá nemovitá věc (parcela, budova) se odhadne vždy samostatně. Jde-li o více nemovitých věcí, které tvoří jeden celek, odhadnou se i jako celek."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Způsob odhadu.",
+      "content": "(1) Nemovité věci se odhadnou tak, že se zjistí cena, za kterou lze odhadovanou věc toho druhu v mezích cenových předpisů prodat.\n(2) Práva se odhadnou tak, že se zjistí výhoda, kterou přinášejí oprávněnému v období jednoho roku, a hodnota této výhody se násobí u práv časově neomezených dvaceti, u práv časově omezených počtem let, po které má právo ještě trvat, nejvýše však dvaceti.\n(3) Břemena váznoucí na nemovité věci se odhadují podle hospodářské újmy, která vyplývá z břemene pro obtíženého. Jinak platí pro jejich odhad obdobně ustanovení o odhadu práva. Je-li takové břemeno trvání neomezeného, položí se za základ výpočtu doba dvaceti let, při břemenech trvání neurčitého pravděpodobná doba jejich trvání, nikoli však více než dvacet let, při břemenech trvání přesně určeného tato doba. Břemena vyplývající z nároků na opětující se plnění a dávky se však odhadnou tak, že se vypočte částka, která by stačila k tomu, aby se z ní a z jejích úroků poukazovaly plnění a dávky nebo jejich peněžitá hodnota."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Odhad příslušenství.",
+      "content": "Zároveň s nemovitou věcí (jejími součástmi) je třeba odhadnout i její příslušenství; za tím účelem se zjistí odhadem jeho cena (§ 3 odst. 1).\nŘízení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Odhad provede výkonný úředník, který také účastníkům oznámí, kdo byl jako znalec přibrán; zároveň vyrozumí o době a místě odhadu tyto osoby a okresní národní výbor, v jehož obvodu je odhadovaná nemovitá věc. Osoby, které mají na nemovité věci práva nebo věcná břemena, mohou se odhadu účastnit a činit připomínky.\n(2) Odhad se provede na místě samém. O provedení odhadu se sepíše protokol. V protokole se nemovitá věc, její součásti a příslušenství zevrubně popíší a uvedou se všechny okolnosti, které mohou mít vliv na určení odhadní ceny. Znalci podají posudek do protokolu. V odůvodněných případech může jim však výkonný úředník povolit podání písemného posudku."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Soud přezkoumá správnost odhadu a po případném provedení potřebného šetření určí odhadní cenu.\n(2) Vyjde-li po provedení odhadu najevo, zejména v důsledku výzvy podle § 469 písm. ch) občanského soudního řádu, že na nemovité věci váznou břemena nezapsaná v pozemkové knize, nařídí soud doplnění odhadu se zřetelem k těmto břemenům."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1951; provede je ministr spravedlnosti.\n*) Úřední české znění vyhlášeno v příloze Sbírky na str. 327."
+    }
+  ],
+  "definitions": []
+}

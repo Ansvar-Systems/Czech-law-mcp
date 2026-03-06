@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1775/1946",
+  "type": "statute",
+  "title": "1775/1946 Ú. l. I, Vyhláška ministra výživy o zřízení národního podniku průmyslu lihovarského a drožďárenského.",
+  "title_en": "",
+  "short_name": "1775/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-09-21",
+  "in_force_date": "1946-09-21",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1775",
+  "description": "Vyhláška ministra výživy o zřízení národního podniku průmyslu lihovarského a drožďárenského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku „Plzeňská rafinerie lihu a továrna na ocet, akc. spol., Praha“, v rozsahu jeho znárodnění, s výjimkou:\na) částky Kčs 50.000.— na starém vkladě;\nb) účasti na podniku „Družstvo octáren, Praha“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku „Josef Hanák, továrna na líh a lisované droždí, Plzeň“, v rozsahu jeho znárodnění, s výjimkou:\na) částky Kčs 120.000.— na starém vkladě;\nb) účasti na podniku „Svaz průmyslových lihovarů, Praha“;\nc) účasti na podniku „Svaz drožďáren, Praha“;\nd) účasti na podniku „Družstvo pro nákup melasy, Praha“."
+    }
+  ],
+  "definitions": []
+}

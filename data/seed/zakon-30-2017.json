@@ -1,0 +1,63 @@
+{
+  "id": "cz:30/2017",
+  "type": "statute",
+  "title": "30/2017 Sb., Vyhláška k provedení zákona o centrální evidenci účtů",
+  "title_en": "",
+  "short_name": "30/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-02-09",
+  "in_force_date": "2021-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2017/30",
+  "description": "Vyhláška k provedení zákona o centrální evidenci účtů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Tato vyhláška upravuje podrobnosti náležitostí, strukturu, formát a způsob předání nebo doručení\na) informace o vzniku, změně nebo opravě údaje předávané k zápisu do centrální evidence účtů podle § 5 odst. 1 zákona o centrální evidenci účtů (dále jen „zákon“) a\nb) oznámení identifikátorů datových schránek a jejich změn.\n(2) Tato vyhláška dále upravuje formální náležitosti, strukturu a formát žádosti o poskytnutí údajů z centrální evidence účtů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Datový soubor",
+      "content": "(1) Pro účely této vyhlášky se datovým souborem rozumí elektronické seskupení údajů s předem definovanými datovými strukturami.\n(2) Formát a struktura datového souboru jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Informace o vzniku, změně nebo opravě údajů v centrální evidenci účtů",
+      "content": "(1) Instituce předává České národní bance každý pracovní den informaci o vzniku, změně nebo opravě údajů v rozsahu podle § 4 zákona sestavením výkazu CEU (ČNB) 10-99 „Denní přehled změn“.\n(2) Výkaz podle odstavce 1 obsahuje jednotlivě veškeré údaje o vzniku, změně nebo opravě vztahující se k účtům vedeným institucí nebo k bezpečnostním schránkám pronajímaným úvěrovou institucí včetně změn identifikačních údajů klienta nebo skutečného majitele klienta podle § 4 písm. d) a e) zákona, ke kterým došlo v průběhu celého předchozího dne nebo dní v případě, kdy je výkaz předáván i za dny pracovního klidu.\n(3) Pokud v rámci jednoho dne došlo k vícenásobné změně téhož údaje, uvedou se ve výkaze podle odstavce 1 všechny tyto změny.\n(4) Pokud došlo k více změnám u jednoho účtu nebo u jedné bezpečnostní schránky, uvádí se každá změna samostatně, s výjimkou změn identifikačních údajů klienta nebo skutečného majitele klienta, které lze vykázat najednou.\n(5) V případě, že ve vykazovaném období nedošlo u instituce k žádnému vzniku, změně nebo opravě údaje vztahujícího se k jí vedeným účtům nebo k pronajímaným bezpečnostním schránkám, předává se výkaz podle odstavce 1 bez vyplněných údajů.\n(6) Pokud instituce zjistí chybu ve výkaze, který byl přijat Českou národní bankou ke zpracování, neopravuje ho, ale zahrne příslušnou opravu jako změnu do výkazu sestaveného za den, kdy byla chyba zjištěna. Stejně postupuje instituce i v případě, kdy chybu zjistí Česká národní banka a oznámí ji instituci."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Formát a způsob předávání údajů",
+      "content": "(1) Instituce předává České národní bance výkaz podle § 4 v elektronické podobě jako datovou zprávu ve formátu a struktuře datového souboru.\n(2) Datová zpráva podle odstavce 1 je předávána prostředky umožňujícími dálkový přístup prostřednictvím internetového aplikačního nebo uživatelského rozhraní sběrného systému České národní banky.\n(3) Datovou zprávu podle odstavce 1 podepíše instituce uznávaným elektronickým podpisem kontaktní osoby nebo zapečetí uznávanou elektronickou pečetí instituce.\n(4) Instituce sdělí České národní bance jméno, adresu pracoviště, telefonní číslo a adresu elektronické pošty kontaktní osoby. O změnách těchto údajů informuje instituce Českou národní banku bez zbytečného odkladu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Evidence datových schránek pro komunikaci s centrální evidencí účtů",
+      "content": "(1) Orgány uvedené v § 7 odst. 3 zákona zašlou oznámení se seznamem identifikátorů datových schránek, kterými budou komunikovat s centrální evidencí účtů, do datové schránky České národní banky. Datovou zprávu označí v poli „Věc“ textem „Oznámení datových schránek pro CEÚ“, v poli „Zmocnění“ uvedou odkaz na § 7 odst. 3 zákona a v poli „K rukám“ uvedou text „Centrální evidence účtů“.\n(2) Oznámení podle odstavce 1 je zasíláno ve struktuře datového souboru formátu CSV, který je dostupný na internetových stránkách České národní banky.\n(3) Veškeré změny identifikátorů datových schránek, ke kterým dojde po oznámení podle odstavce 1, zasílají orgány uvedené v § 7 odst. 3 zákona bez zbytečného odkladu shodným způsobem jako oznámení podle odstavce 1 s rozlišením, zda jde o zařazení nové datové schránky do seznamu, nebo vyřazení stávající datové schránky ze seznamu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Žádost o poskytnutí údajů z centrální evidence účtů",
+      "content": "(1) Žádost o poskytnutí údajů zní vždy pouze na jeden účet, jednu bezpečnostní schránku nebo jednu osobu.\n(2) Žádost o poskytnutí údajů se podává do datové schránky zřízené Českou národní bankou pro centrální evidenci účtů. Identifikátor této datové schránky je dostupný na internetových stránkách České národní banky.\n(3) Žádost o poskytnutí údajů je zasílána České národní bance ve struktuře datového souboru formátu XML, který je dostupný na internetových stránkách České národní banky.\n(4) Datová zpráva obsahující žádost o poskytnutí údajů se označí v poli „Věc“ textem „Žádost o poskytnutí údajů z CEÚ“, v poli „Zmocnění“ se uvede odkaz na § 6 zákona a v poli „K rukám“ se uvede text „Centrální evidence účtů“. Datová zpráva může obsahovat více jednotlivých žádostí o poskytnutí údajů."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2017."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky se datovým souborem",
+      "definition": "elektronické seskupení údajů s předem definovanými datovými strukturami",
+      "source_provision": "§ 2"
+    }
+  ]
+}

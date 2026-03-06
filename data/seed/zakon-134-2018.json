@@ -1,0 +1,33 @@
+{
+  "id": "cz:134/2018",
+  "type": "statute",
+  "title": "134/2018 Sb., Vyhláška o stanovení formátu a struktury datové zprávy, jejímž prostřednictvím sportovní organizace a žadatelé o podporu zapisují údaje do rejstříku, který slouží k vedení údajů o sportovních organizacích, sportovcích, trenérech a sportovních zařízeních",
+  "title_en": "",
+  "short_name": "134/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-06-28",
+  "in_force_date": "2018-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2018/134",
+  "description": "Vyhláška o stanovení formátu a struktury datové zprávy, jejímž prostřednictvím sportovní organizace a žadatelé o podporu zapisují údaje do rejstříku, který slouží k vedení údajů o sportovních organizacích, sportovcích, trenérech a sportovních zařízeních",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje formát a strukturu datových zpráv, jejichž prostřednictvím sportovní organizace žádající o podporu ze státního rozpočtu a žadatel o podporu ze státního rozpočtu podle zákona zapisuje údaje do rejstříku."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Formát a struktura datové zprávy",
+      "content": "(1) Sportovní organizace žádající o podporu ze státního rozpočtu zapíše do rejstříku údaje podle § 3a odst. 3 písm. a) a b) zákona prostřednictvím internetové aplikace rejstříku.\n(2) Sportovní organizace žádající o podporu ze státního rozpočtu zapíše do rejstříku údaje podle § 3a odst. 3 písm. c) až h) zákona ve formátu CSV prostřednictvím internetové aplikace rejstříku nebo přímo jejím prostřednictvím.\n(3) Žadatel o podporu ze státního rozpočtu podle § 6b nebo 6c zákona, který nezapisuje do rejstříku údaje podle odstavce 1, zapíše do rejstříku údaje podle § 3a odst. 3 písm. h) zákona prostřednictvím internetové aplikace rejstříku.\n(4) Údaje podle odstavce 2 zapisované ve formátu CSV zapisují sportovní organizace žádající o podporu ze státního rozpočtu ve formě výčtu požadovaných údajů oddělených středníkem, a to bez mezer v textu před středníkem a za středníkem, v pořadí vyplývajícím z provozní dokumentace rejstříku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2018."
+    }
+  ],
+  "definitions": []
+}

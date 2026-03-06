@@ -1,0 +1,33 @@
+{
+  "id": "cz:123/1945",
+  "type": "statute",
+  "title": "123/1945 Sb., Dekret presidenta republiky o zrušení německých vysokých škol technických v Praze a v Brně",
+  "title_en": "",
+  "short_name": "123/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-11-15",
+  "in_force_date": "1939-11-17",
+  "url": "https://www.e-sbirka.cz/sb/1945/123",
+  "description": "Dekret presidenta republiky o zrušení německých vysokých škol technických v Praze a v Brně",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Německé vysoké školy technické v Praze a v Brně se zrušují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vědecké ústavy a jejich zařízení, jakož i veškerý majetek německých vysokých škol technických v Praze a v Brně připadají českým vysokým školám technickým v Praze a v Brně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento dekret nabývá účinnosti dnem 17. listopadu 1939; provede jej ministr školství a osvěty."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:156/1958",
+  "type": "statute",
+  "title": "156/1958 Ú. l., Vyhláška Státního úřadu plánovacího o palivových základnách spotřebičů topných olejů",
+  "title_en": "",
+  "short_name": "156/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-10-29",
+  "in_force_date": "1958-11-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/156",
+  "description": "Vyhláška Státního úřadu plánovacího o palivových základnách spotřebičů topných olejů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Pro spotřebiče topných olejů, uvedené v odstavci 2, které mají být vybudovány nebo rekonstruovány, musí být před schválením investičního úkolu na, jejich výstavby či rekonstrukci určena palivová základna.\n(2) Spotřebiče podle odstavce 1 jsou:\na) tepelná zařízení pro ústřední vytápění (parní 9 vodní kotle, kalorifery apod.) a průmyslové kotle, které spalují topné oleje, jestliže výkon jednotlivého topeniště je větší než 600 000 kcal/hod.,\nb) ostatní zařízení, která spalují topné oleje (plynové generátory, pece atd.), jestliže výkon jednotlivého topeniště je větší než 300 000 kcal/hod.\n(3) Určením palivové základny podle odstavce 1 se rozumí stanovení druhu topného oleje, který bude ve spotřebiči spalován. Bližší charakteristiku a vlastnosti topného oleje projedná ministerstvo nebo ústřední orgán, v jehož oboru působnosti bude výstavba nebo rekonstrukce spotřebiče uskutečněna, s ministerstvem chemického průmyslu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Palivovou základnu určuje:\n1. ministr-předseda Státního úřadu plánovacího na návrh příslušného ministra nebo vedoucího ústředního orgánu, v jehož oboru působnosti bude výstavba nebo rekonstrukce spotřebiče uskutečněny, jestliže:\na) spotřeba topného oleje ve spotřebiči bude větší než 1 200 tun měrného paliva za rok, nebo jestliže\nb) jde o spotřebič, který bude vybudován v rámci státní centralizované investiční výstavby;\n2. ministerstvo nebo ústřední orgán, v jehož oboru působnosti bude výstavba nebo rekonstrukce spotřebiče uskutečněna, v dohodě s ministerstvem chemického průmyslu v ostatních případech.\n(2) Návrh podle odstavce 1 č. 1 musí obsahovat roční spotřebu topného oleje v tunách měrného paliva, jakož i údaje uvedené v § 3 odst. 1 písm. a) až c)a e) a f) vyhlášky č. 58/1958 Ú. l., o palivových základnách spotřebičů tuhých nebo plynných paliv.\n(3) Ustanovení § 3 odst. 2 vyhlášky č. 58/1958 Ú. l platí i o spotřebičích topných olejů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. listopadu 1858."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Určením palivové základny podle odstavce 1",
+      "definition": "stanovení druhu topného oleje, který bude ve spotřebiči spalován",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:301/1997",
+  "type": "statute",
+  "title": "301/1997 Sb., Vyhláška Ministerstva financí, kterou se stanoví maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku zdravotních pojišťoven",
+  "title_en": "",
+  "short_name": "301/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-12-09",
+  "in_force_date": "1998-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1997/301",
+  "description": "Vyhláška Ministerstva financí, kterou se stanoví maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku zdravotních pojišťoven",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Maximální výše nákladů na činnost1) a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku (dále jen „provozní režie“) zdravotní pojišťovny se stanoví procentem ze souhrnu příjmů pojistného veřejného zdravotního pojištění po přerozdělení2) a z příjmů plynoucích z pokut,3) penále,4) náhrad škod5) a přirážek k pojistnému6) se zřetelem na počet pojištěnců a vypočte se podle následujícího vzorce:\nMVN = (PC: 100) x PLN,\nkde:\nMVNpředstavuje provozní režii v tis. Kč,\nPCpředstavuje příjmy za kalendářní rok z veřejného\nzdravotního pojištění po přerozdělení a příjmy plynoucí\nz pokut, penále, náhrad škod a přirážek k pojistnému\nv tis. Kč,\nPLNpředstavuje koeficient v procentech vypočtený podle vzorce:\nPLN = 3,5 + 2,2 x 1,072-0,009(p-50),\nkde:\nppředstavuje jednu tisícinu průměrného počtu pojištěnců\npropočteného z měsíčních údajů pro přerozdělování za\nhodnocené období zaokrouhlenou směrem nahoru na celé\nčíslo."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se vyhláška Ministerstva financí č. 220/1996 Sb., kterou se stanoví maximální výše nákladů na činnost a maximální výše výdajů na pořízení hmotného a nehmotného investičního majetku Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1998.\n1) § 2 odst. 1 a § 5 zákona ČNR č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, ve znění zákona č. 60/1995 Sb. a zákona č. 149/1996 Sb.\n§ 8 a § 13 odst. 1 zákona ČNR č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách, ve znění zákona č. 60/1995 Sb., zákona č. 149/1996 Sb. a zákona č. 48/1997 Sb.\n2) § 21 zákona ČNR č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění, ve znění zákona č. 324/1993 Sb., zákona č. 59/1995 Sb. a zákona č. 149/1996 Sb.\n3) § 44 a § 45 odst. 4 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů.\n§ 26 zákona ČNR č. 592/1992 Sb.\n4) § 18 zákona ČNR č. 592/1992 Sb., ve znění zákona č. 161/1993 Sb., zákona č. 59/1995 Sb. a zákona č. 48/1997 Sb.\n5) § 55 zákona č. 48/1997 Sb.\n6) § 45 zákona č. 48/1997 Sb."
+    }
+  ],
+  "definitions": []
+}

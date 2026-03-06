@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:500/1948",
+  "type": "statute",
+  "title": "500/1948 Ú. l. I, Vyhláška ministerstva sociální péče o úpravě pojistného pro Léčebný fond veřejných zaměstnanců.",
+  "title_en": "",
+  "short_name": "500/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-03-27",
+  "in_force_date": "1948-03-27",
+  "url": "https://www.e-sbirka.cz/ul1/1948/500",
+  "description": "Vyhláška ministerstva sociální péče o úpravě pojistného pro Léčebný fond veřejných zaměstnanců.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pojistné u Léčebného fondu veřejných zaměstnanců v Praze se stanoví od 1. dubna 1948 na 4,5% ze stálých požitků služebních, odpočivných nebo zaopatřovacích, nejméně však částkou 27 Kčs a nejvýše částkou 225 Kčs měsíčně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Z celkového pojistného hradí zaměstnavatel 2,5% a zaměstnanec (pojištěnec) 2%."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pojistné připadající na zaměstnance se zaokrouhluje na celé koruny a to tak, že částky do 50 h se nepočítají a částky přes 50 h se počítají celou korunou."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Toto opatření nabývá účinnosti dnem 1. dubna 1948 a platí v zemi České a Moravskoslezské. Zároveň pozbývá platnosti vyhláška ministerstva sociální péče ze dne 6. srpna 1946, č. 1614 Ú. l. I."
+    }
+  ],
+  "definitions": []
+}

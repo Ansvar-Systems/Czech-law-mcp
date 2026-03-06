@@ -1,0 +1,63 @@
+{
+  "id": "cz:325/2015",
+  "type": "statute",
+  "title": "325/2015 Sb., Vyhláška, kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které vedou jednoduché účetnictví",
+  "title_en": "",
+  "short_name": "325/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-12-07",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/325",
+  "description": "Vyhláška, kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které vedou jednoduché účetnictví",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Vyhláška stanoví obsahové vymezení účetních knih v jednoduchém účetnictví k zajištění sestavení přehledů podle § 13b zákona o účetnictví."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Peněžní deník",
+      "content": "(1) Účetní jednotka účtuje v peněžním deníku, v němž účetní zápisy uspořádá v daném účetním období z hlediska časového chronologicky a jimiž prokazuje zaúčtování\na) příjmů a výdajů peněžních prostředků v hotovosti,\nb) příjmů a výdajů peněžních prostředků na účtech v bankách nebo u spořitelních a úvěrních družstev (dále jen „bankovní účet“),\nc) průběžných položek vzájemných převodů peněžních prostředků v hotovosti a bankovními účty a převodů mezi bankovními účty a\nd) kursových rozdílů peněžních prostředků zjištěných přepočtem zůstatků v hotovosti a na bankovních účtech vedených v cizí měně k rozvahovému dni nebo k jinému okamžiku, ke kterému se peněžní deník uzavírá.\n(2) Peněžní deník obsahuje položky příjmů a výdajů podle odstavce 1 a rozdíly mezi příjmy a výdaji za účetní období v členění na hlavní a hospodářskou činnost1) a dále v členění, které je nezbytné pro zjištění základu daní z příjmů, a v členění, jež je nezbytné pro splnění povinností účetní jednotky, které pro ni vyplývají z jiných právních předpisů2), a pro vlastní potřeby.\n(3) Peněžní deník obsahuje při otevírání a uzavírání účetního období zůstatky peněžních prostředků v hotovosti, peněžních prostředků na bankovních účtech a průběžných položek.\n(4) Informace uvedené v odstavci 1 se uvádějí v přehledu o příjmech a výdajích."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Kniha pohledávek a závazků",
+      "content": "(1) V knize pohledávek a závazků účetní jednotka eviduje pohledávky podle jednotlivých dlužníků a závazky včetně dluhů podle jednotlivých věřitelů. Pohledávky a závazky včetně dluhů v knize pohledávek a závazků uspořádá z hlediska časového chronologicky. Kniha pohledávek a závazků obsahuje rovněž závazky včetně dluhů z pracovněprávních vztahů podle zákoníku práce.\n(2) Kniha pohledávek a závazků obsahuje stavy neinkasovaných pohledávek a neuhrazených závazků včetně dluhů zjištěné při uzavírání této knihy k rozvahovému dni nebo k jinému okamžiku, ke kterému se sestavuje přehled o majetku a závazcích (konečné zůstatky). Kniha pohledávek a závazků obsahuje též stavy rezerv vytvářených podle jiných právních předpisů3).\n(3) Při otevírání knihy pohledávek a závazků v následujícím období se konečné zůstatky minulého období stávají počátečními zůstatky.\n(4) Údaje podle odstavce 2 se uvádějí v přehledu o majetku a závazcích."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Pomocné knihy ostatních složek majetku",
+      "content": "(1) V pomocných knihách ostatních složek majetku účetní jednotka eviduje alespoň\na) dlouhodobý nehmotný a hmotný majetek1),\nb) finanční majetek1),\nc) zásoby1) a\nd) ceniny1).\n(2) Pomocné knihy ostatních složek majetku obsahují stavy ostatních složek majetku zjištěné při uzavírání této knihy k rozvahovému dni nebo k jinému okamžiku, ke kterému se sestavuje přehled o majetku a závazcích (konečné zůstatky).\n(3) Při otevírání knih ostatních složek majetku v následujícím období se konečné zůstatky minulého období stávají počátečními zůstatky.\n(4) Údaje podle odstavce 1 se uvádějí v přehledu o majetku a závazcích."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Přehled o příjmech a výdajích",
+      "content": "(1) V přehledu o příjmech a výdajích jsou příjmy a výdaje uspořádány v členění na hlavní a hospodářskou činnost1) včetně součtových položek a jejich rozdíl je vykázán k rozvahovému dni běžného účetního období a k rozvahovému dni minulého účetního období nebo k jinému okamžiku, ke kterému se přehled o příjmech a výdajích sestavuje.\n(2) Uspořádání a označování položek v přehledu o příjmech a výdajích je uvedeno v příloze č. 1 k této vyhlášce.\n(3) Přehled o příjmech a výdajích se sestavuje v korunách českých a jednotlivé položky se vykazují v tisících Kč."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Přehled o majetku a závazcích",
+      "content": "(1) V přehledu o majetku a závazcích jsou uspořádány položky majetku a závazků včetně dluhů a jejich součtové položky k rozvahovému dni běžného účetního období a k rozvahovému dni minulého účetního období nebo k jinému okamžiku, ke kterému se přehled o majetku a závazcích sestavuje.\n(2) Uspořádání a označování položek přehledu o majetku a závazcích je uvedeno v příloze č. 2 k této vyhlášce.\n(3) Přehled o majetku a závazcích se sestavuje v korunách českých a jednotlivé položky se vykazují v tisících Kč."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Metoda přechodu na jednoduché účetnictví",
+      "content": "(1) Při přechodu z účetnictví vedeného v plném rozsahu, nebo ve zjednodušeném rozsahu na jednoduché účetnictví účetní jednotka provede k rozvahovému dni inventarizaci podle části páté zákona o účetnictví.\n(2) K rozvahovému dni účetní jednotka zaúčtuje\na) zůstatky účtů opravných položek a rezerv, s výjimkou zůstatků účtů opravných položek a rezerv vytvářených podle jiných právních předpisů3) na příslušný účet nákladů,\nb) zůstatky přechodných účtů aktiv a pasiv v případě příjmů a výdajů hrazených v běžném účetním období, jejichž náklady a výnosy patří do nákladů a výnosů následujícího účetního období, na příslušný účet nákladů nebo výnosů a\nc) zůstatky přechodných účtů aktiv a pasiv v případě kursových rozdílů na příslušný účet nákladů nebo výnosů.\n(3) Zůstatky peněžních prostředků převede účetní jednotka k prvnímu dni následujícího účetního období do peněžního deníku jako počáteční zůstatky. Zůstatek účtu peníze na cestě převede účetní jednotka k prvnímu dni následujícího účetního období do peněžního deníku jako počáteční zůstatek průběžných položek.\n(4) Zůstatky účtů majetku a jiných aktiv, závazků včetně dluhů a jiných pasiv převede účetní jednotka k prvnímu dni následujícího účetního období do knihy pohledávek a závazků a do pomocných knih ostatních složek majetku. Dlouhodobý majetek převede do pomocných knih ostatních složek majetku ve výši jeho ocenění v účetnictví vedeného v plném nebo ve zjednodušeném rozsahu.\n(5) Zůstatky rezerv vytvářených podle jiných právních předpisů3) převede účetní jednotka k prvnímu dni následujícího účetního období do knihy pohledávek a závazků."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.\nPříloha č. 1 k vyhlášce č. 325/2015 Sb.\nPřehled o příjmech a výdajích\nA. Příjmy\n01 Prodej zboží\n02 Prodej výrobků a služeb\n03 Příjmy z veřejných sbírek\n04 Přijaté peněžní dary mimo veřejné sbírky\n05 Přijaté členské příspěvky\n06 Dotace a příspěvky přijaté z veřejných rozpočtů\n07 Ostatní\n08 Průběžné položky\n09 Kursové rozdíly\n10 Příjmy celkem\nB. Výdaje\n01 Dlouhodobý nehmotný a hmotný majetek\n02 Materiál\n03 Zboží\n04 Služby\n05 Mzdy\n06 Pojistné za zaměstnance a zaměstnavatele\n07 Ostatní osobní výdaje\n08 Ostatní\n09 Průběžné položky\n10 Kursové rozdíly\n11 Výdaje celkem\n99 Rozdíl příjmů a výdajů\nPříloha č. 2 k vyhlášce č. 325/2015 Sb.\nPřehled o majetku a závazcích\nA. Majetek\n01 Dlouhodobý nehmotný majetek\n02 Dlouhodobý hmotný majetek\n03 Finanční majetek\n04 Peněžní prostředky v hotovosti a ceniny\n05 Peněžní prostředky na bankovních účtech\n06 Zásoby\n07 Pohledávky\n08 Úvěry a zápůjčky poskytnuté\n09 Ostatní majetek\n10 Majetek celkem\nB. Závazky\n01 Závazky\n02 Úvěry a zápůjčky přijaté\n03 Závazky celkem\n99 Rozdíl majetku a závazků\n1) Vyhláška č. 504/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, u kterých hlavním předmětem činnosti není podnikání, pokud účtují v soustavě podvojného účetnictví, ve znění pozdějších předpisů.\n2) Například zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů.\n3) Například zákon č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

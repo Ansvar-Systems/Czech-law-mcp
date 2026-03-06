@@ -1,0 +1,33 @@
+{
+  "id": "cz:134/1945",
+  "type": "statute",
+  "title": "134/1945 Sb., Nařízení o zrušení úrokování nových vkladů na vkladní knížky Poštovní spořitelny",
+  "title_en": "",
+  "short_name": "134/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-11-21",
+  "in_force_date": "1945-09-26",
+  "url": "https://www.e-sbirka.cz/sb/1945/134",
+  "description": "Nařízení o zrušení úrokování nových vkladů na vkladní knížky Poštovní spořitelny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vklady na vkladní knížky Poštovní spořitelny, uložené po 25. září 1945 se až na další neúrokují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ministři pošt a financí se zmocňují, aby společnou vyhláškou určili, od kterého dne budou tyto vklady úrokovány."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem 26. září 1945 a platí v zemích České a Moravskoslezské; provedou je ministři pošt a financí."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:500/2020",
+  "type": "statute",
+  "title": "500/2020 Sb., Usnesení vlády České republiky č. 1264 o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "500/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-11-30",
+  "in_force_date": "2020-11-30",
+  "url": "https://www.e-sbirka.cz/sb/2020/500",
+  "description": "Usnesení vlády České republiky č. 1264 o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. u všech poskytovatelů zdravotních služeb návštěvy pacientů v zdravotnických zařízeních, ve kterých se poskytuje lůžková péče, s výjimkou:\na) přítomnosti třetí osoby při porodu ve zdravotnickém zařízení za podmínek podle bodu 2,\nb) návštěv nezletilých pacientů,\nc) návštěv pacientů s omezenou svéprávností,\nd) návštěv pacientů v hospicech a dalších pacientů v terminálním stadiu nevyléčitelného onemocnění,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. u všech poskytovatelů zdravotních služeb přítomnost třetí osoby při porodu ve zdravotnickém zařízení v případě, že nejsou splněny tyto podmínky:\na) třetí osobou je druhý rodič dítěte nebo osoba žijící s rodičkou ve společné domácnosti,\nb) porod bude probíhat v samostatném porodním pokoji nebo boxu s vlastním sociálním zařízením,\nc) bude zamezen kontakt třetí osoby s ostatními rodičkami,\nd) třetí osoba se podrobí měření teploty před vstupem do porodního pokoje nebo boxu, třetí osoba má tělesnou teplotou nedosahující 37,0 °C a zároveň nemá příznaky onemocnění COVID-19,\ne) třetí osoba používá chirurgickou roušku jako minimální ochranu dýchacích cest (používání improvizovaných nebo látkových roušek nepostačuje),"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. u všech poskytovatelů sociálních služeb v zařízení domovů pro seniory a domovů se zvláštním režimem a všem odlehčovacím sociálním službám v pobytové formě (podle § 44, 49 a 50 zákona č. 108/2006 Sb., o sociálních službách) návštěv uživatelů s výjimkou:\na) nezletilých uživatelů sociálních služeb,\nb) uživatelů sociálních služeb s omezenou svéprávností,\nc) uživatelů sociálních služeb se zdravotním postižením,\nd) uživatelů, pokud to vyžaduje jejich psychický stav či sociální situace,\ne) uživatelů sociálních služeb v terminálním stadiu nevyléčitelného onemocnění;\nzákaz návštěvy podle tohoto bodu se nevztahuje na třetí osobu v případě, že se podrobí před zahájením návštěvy POC testu na přítomnost antigenu viru SARS CoV-2, a to s negativním výsledkem, přičemž tento požadavek se nevztahuje na osoby, které absolvovaly nejpozději 48 hodin před zahájením návštěvy RT-PCR vyšetření nebo POC test na přítomnost antigenu viru SARS CoV-2 s negativním výsledkem a doloží o tom doklad, a osoby, které v době 90 dnů přede dnem návštěvy prodělaly onemocnění COVID-19 a doloží o tom doklad; osoba splňující tento požadavek může vykonat návštěvu za podmínky, že po dobu návštěvy používá osobní ochranné pomůcky dýchacích cest, a to minimálně respirátor třídy FFP2 nebo KN95 bez výdechového ventilu, a při dodržení dalších režimových opatření poskytovatele;"
+    }
+  ],
+  "definitions": []
+}

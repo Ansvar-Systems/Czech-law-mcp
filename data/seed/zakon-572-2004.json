@@ -1,0 +1,33 @@
+{
+  "id": "cz:572/2004",
+  "type": "statute",
+  "title": "572/2004 Sb., Vyhláška, kterou se stanoví forma a způsob vedení evidence podkladů nezbytných pro ohlašování do integrovaného registru znečišťování",
+  "title_en": "",
+  "short_name": "572/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-11-22",
+  "in_force_date": "2004-12-07",
+  "url": "https://www.e-sbirka.cz/sb/2004/572",
+  "description": "Vyhláška, kterou se stanoví forma a způsob vedení evidence podkladů nezbytných pro ohlašování do integrovaného registru znečišťování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Vedení evidence podkladů pro účely ohlašování do integrovaného registru znečišťování",
+      "content": "(1) Uživatel registrované látky [§ 2 písm. l) zákona] vede evidenci o ohlašovaných látkách zvlášť za každou technickou nebo technologickou jednotku a zvlášť za každou ohlašovanou látku.\n(2) Pro každou ohlašovanou látku se vede samostatný evidenční list. Vzor evidenčního listu a způsob jeho vyplňování je uveden v příloze této vyhlášky.\n(3) Evidenční list je veden pro ohlašovací období, kterým je kalendářní rok. Musí být založen vždy k 1. lednu roku, za který budou údaje vykazovány.\n(4) Z údajů evidence zpracovává uživatel registrované látky hlášení do integrovaného registru znečišťování.\n(5) Evidence se vede tak, aby obsahovala všechny údaje v nezkreslené a pravdivé podobě.\n(6) Evidence se vede v elektronické nebo listinné formě způsobem umožňujícím přístup, kontrolu úplnosti a správnosti dat [§ 34 písm. a) zákona] a archivaci (§ 25 odst. 2 zákona) dokumentů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Údaje o plnění podmínek integrovaného povolení",
+      "content": "(1) Součástí evidence u zařízení [§ 2 písm. a) zákona] jsou údaje o plnění podmínek integrovaného povolení (§ 25 odst. 1 zákona) stanovené povolovacím úřadem [§ 13 odst. 4 písm. k) zákona].\n(2) Z údajů musí vyplývat úplné informace provozovatele o plnění podmínek integrovaného povolení. Údaje se zpracovávají v elektronické nebo listinné formě způsobem umožňujícím přístup a kontrolu úplnosti a správnosti dat [§ 34 písm. a) zákona]."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti 15. dnem po dni jejího vyhlášení.\nPříloha k vyhlášce č. 572/2004 Sb.\nEvidenční list látky ohlašované do integrovaného registru znečišťování"
+    }
+  ],
+  "definitions": []
+}

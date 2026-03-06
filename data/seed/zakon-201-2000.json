@@ -1,0 +1,147 @@
+{
+  "id": "cz:201/2000",
+  "type": "statute",
+  "title": "201/2000 Sb., Vyhláška Ministerstva dopravy a spojů o technických a provozních podmínkách amatérské radiokomunikační služby",
+  "title_en": "",
+  "short_name": "201/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-07-19",
+  "in_force_date": "2000-07-19",
+  "url": "https://www.e-sbirka.cz/sb/2000/201",
+  "description": "Vyhláška Ministerstva dopravy a spojů o technických a provozních podmínkách amatérské radiokomunikační služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - VŠEOBECNÁ USTANOVENÍ",
+      "content": "(1) Pro účely této vyhlášky se rozumí\na) amatérskou radiokomunikační službou - radiokomunikační služba pro sebevzdělávání, pro vzájemná spojení a technická studia prováděná amatéry, tj. oprávněnými osobami zajímajícími se o radiotechniku výhradně z osobní záliby a nevýdělečně,\nb) vysílací rádiovou stanicí amatérské radiokomunikační služby (dále jen „stanice“) - rádiové zařízení, které tvoří jedno nebo více vysílacích a přijímacích zařízení včetně anténních systémů; tato rádiová zařízení jsou provozována v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu a jsou v držení téhož držitele povolení, jímž může být fyzická nebo právnická osoba,\nc) provozováním stanice - příjem a vysílání rádiových vln,\nd) volací značkou - každé poznávací označení stanice, které umožňuje zjištění její totožnosti během vysílání,1)\ne) vedoucím operátorem - operátor, který je zapsán v povolení k provozování stanice vydaném právnické osobě,\nf) amatérským převáděčem - vysílací rádiové zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, které přijímá vysokofrekvenční signál na určeném kmitočtu a převádí jej na jiný kmitočet, na němž se přijímaný signál znovu vysílá,\ng) paketovým uzlem - místo umožňující vstup do sítě pro přenos informací a dat mezi stanicemi,\nh) vysílačem ARDF - vysílací rádiové zařízení omezeného výkonu provozované na vyhrazených kmitočtech, které je určeno k vysílání majákových signálů pro soutěže a trénink v radioamatérském orientačním běhu.\n(2) Držitel povolení nesmí stanici využívat přímo nebo nepřímo k činnosti vykonávané za účelem dosažení zisku ani nesmí předávat zprávy pro třetí osoby, které přímo nesouvisí s amatérskou radiokomunikační službou."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Povolení k provozování stanic",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Stanice lze provozovat jen na základě povolení k provozování vysílacích rádiových zařízení amatérské radiokomunikační služby (dále jen „povolení“), které vydává Český telekomunikační úřad (dále jen „Úřad“)2) na základě písemné žádosti. Toto povolení neopravňuje jeho držitele k provozování amatérských převáděčů, majáků a paketových uzlů využívaných amatérskou radiokomunikační službou, které se povolují samostatně podle zákona.3),4)\n(2) Žádost kromě náležitostí stanovených zákonem3) obsahuje\na) u fyzických osob jedno nebo více stanovišť stanice,\nb) u právnických osob jedno nebo více stanovišť stanice, jméno a příjmení vedoucího operátora a jeho volací značku.\n(3) Povolení kromě náležitostí stanovených zákonem4) obsahuje\na) u právnické osoby jméno, příjmení a volací značku vedoucího operátora,\nb) operátorskou třídu, je-li povolení uděleno fyzické osobě,\nc) třídu CEPT, je-li povolení uděleno fyzické osobě,\nd) stanoviště stanice.\n(4) S obsahem povolení a jeho podmínkami musí být seznámen každý operátor obsluhující stanici."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Provozování stanic",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Za provozování stanice v souladu s vydaným povolením a v rozsahu stanovených podmínek odpovídá jeho držitel. U právnické osoby odpovídá za provozování stanice vedoucí operátor.\n(2) Držitel povolení je odpovědný za zabezpečení stanice proti jejímu odcizení nebo zneužití. Dojde-li k takové události, podá o ní neprodleně písemné oznámení Úřadu.\n(3) V případě poškození, ztráty nebo odcizení povolení může jeho držitel požádat Úřad o vydání duplikátu povolení.\n(4) Platné povolení, popř. jeho ověřená kopie musí být k dispozici na stanovišti stanice.\n(5) Obsluhují-li stanici cizí státní příslušníci, kteří jsou držiteli povolení CEPT, použijí svoji domovskou volací značku předřazenou dvojicí písmen „OK“. Písmena „OK“ a domovská volací značka jsou odděleny lomítkem „/“, popř. anglickým slovem „stroke“.\nTřídy operátorů"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "Operátoři jsou na základě úspěšného složení zkoušky zařazeni do jedné z operátorských tříd D, C, B a A. Maximální výstupní výkony a provozní kmitočty povolené jednotlivým třídám jsou následující:\na) třída D pro obsluhu vysílače o maximálním výstupním výkonu do 100 W v kmitočtových pásmech uvedených v příloze č. 1 v tab. č. 1,\nb) třída C pro obsluhu vysílače o maximálním výstupním výkonu do 100 W v kmitočtových pásmech uvedených v příloze č. 1 v tab. č. 2,\nc) třída B pro obsluhu vysílače o maximálním výstupním výkonu do 300 W v kmitočtových pásmech uvedených v příloze č. 1 v tab. č. 3,\nd) třída A pro obsluhu vysílače o maximálním výstupním výkonu do 750 W v kmitočtových pásmech uvedených v příloze č. 1 v tab. č. 3.\nMaximálním výstupním výkonem, zde uvedeným, se rozumí efektivní výkon na výstupních svorkách vysílacího zařízení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Vedoucí operátor vede seznam operátorů oprávněných obsluhovat stanici právnické osoby, kterými jsou buď držitelé vlastního povolení nebo operátoři bez vlastního povolení, jimž vydává trvalý souhlas k obsluze stanice. U všech operátorů uvede operátorské třídy.\n(2) Stanici právnické osoby mohou obsluhovat operátoři bez vlastního povolení jen pod dozorem vedoucího operátora, případně držitelů povolení, kteří jsou zapsáni v seznamu podle odstavce 1, nejvýše však v rozsahu operátorské třídy dozírajícího operátora. Za obsluhu stanice odpovídá dozírající operátor.\n(3) Stanici mohou za přítomnosti držitele povolení a pod jeho dozorem obsluhovat v rozsahu oprávnění operátorské třídy C nebo D i osoby bez osvědčení o zkoušce dle zvláštního právního předpisu5) od 10 let věku. Každá taková osoba musí být zapsána do staničního deníku."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Obsah vysílání",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Je dovoleno vysílat jen v otevřené řeči. Otevřenou řečí se rozumí i použití zkratek, mezinárodních kódů a komunikačních protokolů. Obsahem vysílání však nesmí být zprávy, informace a výzvy, jejichž podstata by byla v rozporu se zásadou ochrany základních lidských práv a svobod ve smyslu mezinárodních smluv i právního řádu České republiky a se zásadou dobrých vztahů mezi národy a státy, vulgární výrazy, zprávy a vysílání mající povahu reklamního, rozhlasového nebo jiného komerčního vysílání.\n(2) Na začátku a na konci každého spojení musí být použity úplné volací značky obou korespondujících stanic druhem provozu použitým při spojení. Trvá-li spojení déle než pět minut, vyšle operátor vlastní volací značku po každých pěti minutách trvání spojení. V radioamatérských závodech, soutěžích a při expedičním provozu volací značka obou korespondujících stanic není nutná.\n(3) Amatérský převáděč musí po každých pěti minutách trvání spojení automaticky vysílat přidělenou volací značku.1)\n(4) Při ohrožení lidského života nebo zdraví, ohrožení majetku, případně při jiných krizových situacích lze stanici použít k předávání zpráv sloužících k odvrácení hrozícího nebezpečí. Podmínky mezinárodního provozu amatérských stanic v případě přírodních katastrof a krizových situací určuje Radiokomunikační řád Mezinárodní telekomunikační unie (ITU).6) Pro tento provoz lze použít kmitočtová pásma 3,5 až 3,8 MHz, 7,0 až 7,1 MHz, 10,10 až 10,15 MHz, 14,00 až 14,35 MHz, 18,068 až 18,168 MHz, 21,00 až 21,45 MHz, 24,89 až 24,99 MHz a 144,0 až 146,0 MHz.\n(5) Úřad nepřidělí vysílačům pro radioamatérský orientační běh (ARDF) volací značky vysílače musí vysílat pouze mezinárodně používané znaky MO, MOE, MOI, MOS, MOH, MO5, a to v těchto kmitočtových pásmech:\na) 3 520 až 3 600 kHz druhem provozu A1A,\nb) 3 600 až 3 750 kHz druhem provozu A1A a A2A,\nc) 144,500 až 144,900 MHz a 145,200 až 145,575 MHz druhem provozu A1A, A2A, F1A a F2A.\nVýznam jednotlivých znaků označení druhu provozu je uveden v příloze č. 2."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Staniční deník",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "Držitel povolení vede staniční deník na stanovišti stanice v písemné nebo elektronické formě. Do deníku zaznamenává operátor obsluhující stanici datum a čas uskutečnění spojení, použité kmitočtové pásmo, druh provozu, volací značku protistanice a případně další údaje. Staniční deník uchovává držitel povolení nejméně po dobu jednoho roku od data posledního zápisu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Stanoviště stanice",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Držitel povolení může stanici trvale provozovat jen na stanovištích uvedených v povolení.\n(2) Mimo stanoviště podle odstavce 1 může držitel povolení stanici provozovat na dobu nejdéle 30 dnů\na) z pevného stanoviště, volací značku pak doplní o údaj „/p“ nebo anglické slovo „portable“,\nb) z pohyblivého prostředku nebo za pohybu stanice, volací značku pak doplní o údaj „/m“ nebo anglické slovo „mobile“.\nV radioamatérských závodech, soutěžích a expedičním provozu nejsou údaje „/p“, resp. „portable“ nebo „/m“, resp. „mobile“ povinné.\n(3) K provozu stanic na prostředcích lodní a letecké dopravy je nutný souhlas majitele, resp. provozovatele tohoto prostředku."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zkušební provoz",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "Veškeré zkušební vysílání musí být prováděno do umělé zátěže s výjimkou nastavení antén a anténních obvodů vysílače. Umělá zátěž je vhodný nevyzařující odpor, který nahrazuje vstupní impedanci antény."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Požadavky na stanice",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Kmitočtová stabilita stanice musí vyhovovat těmto hodnotám:\nKmitočetVýkonStabilita\n4 - 29,7 MHz < 500W20.10-6\n> 500W10.10-6\npásmo 145 MHz < 5W15.10-6\n> 5W7,5.10-6\npásmo 430 MHz < 5W5.10-6\n> 5W2,5.10-6\n470 - 2 450 MHz20.10-6\n2450 - 10 500 MHz100.10-6\n10,5 - 40 GHz300.10-6\nStabilita kmitočtu je vztažena k době trvání spojení.\n(2) Výkon jednotlivých kmitočtových složek nežádoucího vyzařování nesmí překročit tyto hodnoty:\nKmitočtový rozsahVýkonPotlačení nežádoucí složky\n9 kHz - 30 MHz- 40 dB, nejvýše však 50 mW výkonu\n30 MHz - 235 MHz > 25 W- 60 dB, nejvýše však 1 mW výkonu\n< 25 W- 40 dB, nejvýše však 25 µW výkonu\n235 MHz - 960 MHz> 25 W- 60 dB\n< 25 W- 40 dB, nejvýše však 25 µW výkonu\n960 MHz - 17,7 GHz > 10 W- 50 dB\n< 10 Wnejvýše však 100 µW výkonu\n> 17,7 GHzco nejnižší podle současného stavu vývoje techniky\n(3) Šířka pásma zabraná vysíláním musí odpovídat minimální šířce pásma potřebné pro přenos informace daným druhem provozu.\n(4) Během změny vysílacího kmitočtu nesmí být vyzařována anténou žádná energie s výjimkou družicového provozu.\n(5) Vysílací rádiové zařízení (s výjimkou zařízení s výstupním výkonem menším než 5 W) musí být zakončeno nesymetrickým výstupem o impedanci 50 Ω až 100 Ω. Na stanovišti stanice musí být pro případné použití při měření vysílače kontrolními orgány Úřadu k dispozici další anténní konektor."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST ČTVRTÁ - USTANOVENÍ PŘECHODNÁ, ZRUŠOVACÍ A ZÁVĚREČNÁ",
+      "content": "(1) Provoz stanic, jejichž technické a provozní parametry neodpovídají této vyhlášce, je držitel povolení povinen ukončit nejpozději do jednoho měsíce ode dne nabytí účinnosti této vyhlášky.\n(2) Platnost dosud dosažených tříd operátorů se nemění."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST ČTVRTÁ - USTANOVENÍ PŘECHODNÁ, ZRUŠOVACÍ A ZÁVĚREČNÁ",
+      "content": "Zrušují se:\n1. Vyhláška č. 92/1974 Sb., o povolování amatérských vysílacích stanic.\n2. Vyhláška č. 390/1992 Sb., o povolování amatérských vysílacích rádiových stanic.\n3. Vyhláška č. 74/1993 Sb., kterou se doplňuje vyhláška Federálního ministerstva spojů č. 390/1992 Sb., o povolování amatérských vysílacích rádiových stanic."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST ČTVRTÁ - USTANOVENÍ PŘECHODNÁ, ZRUŠOVACÍ A ZÁVĚREČNÁ",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k vyhlášce č. 201/2000 Sb.\nOPERÁTORSKÉ TŘÍDY\nTabulka 1: Operátorská třída D\nKmitočtové pásmo Status*)\nod do\n144 MHz 146 MHz P\n430 MHz 440 MHz\n1 240 MHz 1 300 MHz S\n2 300 MHz 2 450 MHz\n3 400 MHz 3 410 MHz NIBa)\n5 650 MHz 5 850 MHz S\n10,00 GHz 10,50 GHz\n24,00 GHz 24,05 GHz P\n24,05 GHz 24,25 GHz S\n47,00 GHz 47,20 GHz P\n75,50 GHz 76,00 GHz\n76,00 GHz 81,00 GHz S\n142 GHz 144 GHz P\n144 GHz 149 GHz S\n241 GHz 248 GHz\n248 GHz 250 GHz P\n*) P = přednostní (primární) pásmo,\nS = podružné (sekundární) pásmo:\na) vysílání nesmí způsobit škodlivé rušení stanicím přednostních služeb,\nb) nemůže být nárokována ochrana před škodlivým rušením stanic přednostní služby,\nc) může být však nárokována ochrana před škodlivým rušením téže nebo jiné podružné služby,\nNIB = na neinterferenční bázi:\na) vysílání nesmí způsobit škodlivé rušení stanicím přednostních služeb,\nb) nemůže být nárokována ochrana před škodlivým rušením stanic přednostní služby.\na) povolený výstupní výkon 20 W\nTabulka 2: Operátorská třída C\nKmitočtové pásmo Status*)\nod do\n135,70 kHz 137,80 kHz Sa)\n10,10 MHz 10,15 MHz Sb)\n1 810 kHz 1 850 kHz P\n1 850 kHz 2 000 kHz NIBc)\n3 520 kHz 3 800 kHz P\n7 020 kHz 7 100 kHz\n21,05 MHz 21,15 MHz\n21,35 MHz 21,45 MHz\n28,05 MHz 28,15 MHz\n28,60 MHz 29,70 MHz\n144 MHz 146 MHz\n430 MHz 440 MHz\n1 240 MHz 1 300 MHz S\n2 300 MHz 2 450 MHz\n3 400 MHz 3 410 MHz NIBd)\n5 650 MHz 5 850 MHz S\n10,00 GHz 10,50 GHz\n24,00 GHz 24,05 GHz P\n24,05 GHz 24,25 GHz S\n47,00 GHz 47,20 GHz P\n75,50 GHz 76,00 GHz\n76 GHz 81 GHz S\n142 GHz 144 GHz P\n144 GHz 149 GHz S\n241 GHz 248 GHz\n248 GHz 250 GHz P\n*) viz Tabulka 1\na) pouze druhy provozu A1A, F1A, G1A\nb) pouze druhy provozu A1 A, F1A, G1A, J2A\nc) povolený výstupní výkon 10 W\nd) povolený výstupní výkon 20 W\nTabulka 3: Operátorské třídy B a A\nKmitočtové pásmo Status*)\nod do\n135,70 kHz 137,80 kHz Sa)\n10,10 MHz 10,15 MHz Sb)\n1 810 kHz 1 850 kHz P\n1 850 kHz 2 000 kHz NIBc)\n3 500 kHz 3 800 kHz P\n7 000 kHz 7 100 kHz\n14 000 kHz 14 350 kHz\n18 068 kHz 18 168 kHz\n21,00 MHz 21,45 MHz\n24,89 MHz 24,99 MHz\n28,00 MHz 29,70 MHz\n50 MHz 52 MHz NIBd)\n144 MHz 146 MHz P\n430 MHz 440 MHz\n1 240 MHz 1 300 MHz S\n2 300 MHz 2 450 MHz S\n3 400 MHz 3410 MHz NIBd)\n5 650 MHz 5 850 MHz S\n10,00 GHz 10,50 GHz\n24,00 GHz 24,05 GHz P\n24,05 GHz 24,25 GHz S\n47,00 GHz 47,20 GHz P\n75,50 GHz 76,00 GHz\n76 GHz 81 GHz S\n142 GHz 144 GHz P\n144 GHz 149 GHz S\n241 GHz 248 GHz\n248 GHz 250 GHz P\n*) viz Tabulka 1\na) pouze druhy provozu A1A, F1 A, G1A\nb) pouze druhy provozu A1A, F1A, G1A, J2A\nc) povolený výstupní výkon 10 W\nd) povolený výstupní výkon 20 W\nPříloha č. 2 k vyhlášce č. 201/2000 Sb.\nDRUH PROVOZU\n(1) Druh provozu vysílacího rádiového zařízení je určen\n- potřebnou šířkou kmitočtového pásma a\n- třídou vysílání.\n(2) Potřebná šířka kmitočtového pásma se vyjadřuje čtyřmi znaky, z nichž jsou tři číslice vyjadřující zaokrouhlenou hodnotu potřebné šířky kmitočtového pásma a jedno písmeno. Písmeno zaujímá postavení desetinné čárky a zastupuje použitou jednotku, přičemž potřebná šířka pásma\na) mezi 0,001 Hz a 999 Hz se vyjádří v Hertzech (písmeno H),\nb) mezi 1 kHz a 999 kHz se vyjádří v kilohertzech (písmeno K),\nc) mezi 1 MHz a 999 MHz se vyjádří v megahertzech (písmeno M), a\nd) mezi 1 GHz a 999 GHz se vyjádří v gigahertzech (písmeno G).\nPři označení druhu provozu amatérské radiokomunikační služby není údaj o potřebné šířce kmitočtového pásma povinný.\n(3) Třída vysílání je povinný údaj a vyjadřuje se třemi za sebou jdoucími znaky, jejichž význam je:\na) první znak udává druh modulace hlavní nosné, přičemž je označeno:\n1. Vysílání nemodulované vlny N\n2. Vysílání, kde je hlavní vlna amplitudově modulována\n(včetně případů, kde jsou subnosné modulovány úhlovou modulací)\na Dvojí postranní pásmo A\nb Jedno postranní pásmo, plná nosná vlna H\nc Jedno postranní pásmo, nosná vlna omezená nebo s proměnlivou úrovní R\nd Jedno postranní pásmo, potlačená nosná vlna J\ne Nezávislé postranní pásmo B\nf Zbytkové postranní pásmo C\n3. Vysílání, jehož hlavní nosná vlna je modulována úhlovou modulací\na Kmitočtová modulace F\nb Fázová modulace G\n4. Vysílání, jehož hlavní nosná vlna je modulována amplitudově a úhlovou modulací,\nbuď současně, nebo v předem stanoveném pořadí D\n5. Impulsní vysílání\na Sled nemodulovaných impulsů P\nb Sled impulsů\ni. Modulovaných amplitudově K\nii. Modulovaných v šířce / trvání L\niii. Modulovaných v poloze / fázi M\niv. Ve kterých je nosná vlna během periody impulsu modulována úhlovou modulací Q\nv. Sestávající v kombinaci předcházejících nebo vytvořený jinými prostředky V\n6. Případy nezahrnuté mezi výše uvedené, ve kterých se vysílání skládá z hlavní nosné modulované\nbuď současně nebo v předem stanoveném pořadí kombinací těchto způsobů:\namplitudově, úhlovou modulací nebo impulsně W\n7. Ostatní případy X\nb) druhý znak udává povahu signálu modulujícího hlavní nosnou, přičemž je označeno:\n1. Bez modulujícího signálu 0\n2. Jediný kanál obsahující kvantovanou nebo digitální informaci bez použití modulující subnosné 1\n3. Jediný kanál obsahující kvantovanou nebo digitální informaci s použitím modulující subnosné 2\n4. Jediný kanál obsahující analogovou informaci 3\n5. Dva nebo více kanálů obsahujících kvantovanou nebo digitální informaci 7\n6. Dva nebo více kanálů obsahujících analogovou informaci 8\n7. Složená soustava zahrnující jeden nebo více kanálů obsahujících kvantovanou\nnebo digitální informaci a jeden nebo více kanálů obsahujících analogovou informaci 9\n8. Ostatní případy X\nc) třetí znak označuje druh informace určené k přenesení, přičemž je označeno:\n1. Žádná informace N\n2. Telegrafie (pro příjem sluchem) A\n3. Telegrafie (pro automatický příjem) B\n4. Faksimile C\n5. Přenos dat, dálkové měření, dálkové ovládání D\n6. Telefonie (včetně zvukového rozhlasu) E\n7. Televize (obraz) F\n8. Kombinace předchozích případů W\n9. Ostatní případy X\n1) Vyhláška č. 200/2000 Sb., o způsobu tvorby volacích značek, jejich používání a o druzích radiokomunikačních služeb, pro které jsou vyžadovány.\n2) § 3 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů.\n3) § 57 zákona č. 151/2000 Sb.\n4) § 58 zákona č. 151/2000 Sb.\n5) Vyhláška č. 202/2000 Sb., o náležitostech přihlášky ke zkoušce k prokázání zvláštní způsobilosti k obsluze vysílacích rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy zvláštní způsobilosti, o způsobu provádění zkoušek, o druzích průkazů způsobilosti a době jejich platnosti.\n6) Radiokomunikační řád, vydán v r. 1990, ve znění pozdějších doplňků, Ženeva – dokumenty ITU (Usnesení vlády ČR č. 397/1994 o přístupu k Ústavě a Úmluvě ITU)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "amatérskou radiokomunikační službou - radiokomunikační",
+      "definition": "služba pro sebevzdělávání, pro vzájemná spojení a technická studia prováděná amatéry, tj. oprávněnými osobami zajímajícími se o radiotechniku výhradně z osobní záliby a nevýdělečně",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "vysílací rádiovou stanicí amatérské radiokomunikační služby (dále jen „stanice“) - rádiové",
+      "definition": "zařízení, které tvoří jedno nebo více vysílacích a přijímacích zařízení včetně anténních systémů; tato rádiová zařízení jsou provozována v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu a jsou v držení téhož držitele povolení, jímž může být fyzická nebo právnická osoba",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "volací značkou",
+      "definition": "každé poznávací označení stanice, které umožňuje zjištění její totožnosti během vysílání,1)",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "vedoucím operátorem - operátor",
+      "definition": "který je zapsán v povolení k provozování stanice vydaném právnické osobě",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "amatérským převáděčem - vysílací rádiové",
+      "definition": "zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, které přijímá vysokofrekvenční signál na určeném kmitočtu a převádí jej na jiný kmitočet, na němž se přijímaný signál znovu vysílá",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "paketovým uzlem",
+      "definition": "místo umožňující vstup do sítě pro přenos informací a dat mezi stanicemi",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "vysílačem ARDF - vysílací rádiové",
+      "definition": "zařízení omezeného výkonu provozované na vyhrazených kmitočtech, které je určeno k vysílání majákových signálů pro soutěže a trénink v radioamatérském orientačním běhu.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Maximálním výstupním výkonem, zde uvedeným",
+      "definition": "efektivní výkon na výstupních svorkách vysílacího zařízení",
+      "source_provision": "§ 4"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cz:64/1961",
+  "type": "statute",
+  "title": "64/1961 Sb., Vyhláška ministerstva spravedlnosti o náhradách příslušejících soudcům, kteří svou funkci vykonávají vedle svého zaměstnání",
+  "title_en": "",
+  "short_name": "64/1961 Sb.",
+  "status": "in_force",
+  "issued_date": "1961-07-06",
+  "in_force_date": "1971-11-01",
+  "url": "https://www.e-sbirka.cz/sb/1961/64",
+  "description": "Vyhláška ministerstva spravedlnosti o náhradách příslušejících soudcům, kteří svou funkci vykonávají vedle svého zaměstnání",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Náhrada ušlé mzdy, kterou poskytují podniky soudcům, kteří jsou u nich zaměstnáni, zahrnuje veškeré hrubé požitky, které jim ušly vykonáváním soudcovské funkce včetně odměny za práci přesčas a za vyšší nebo mimořádné výkony. Požitky se vypočtou podle průměru za poslední tři měsíce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Soudcům, kteří nejsou v pracovním poměru, například členům jednotných zemědělských družstev, nebo kteří jsou domáckými dělníky, poskytuje na jejich žádost přiměřenou náhradu za čistý výdělek ušlý jim vykonáváním soudcovské funkce stát (státní správa soudů). Náhrada se poskytuje v prokázané výši."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Soudci mají nárok na náhradu nutných výdajů, vzniklých jim vykonáváním soudcovské funkce, zejména na úhradu jízdních výdajů, stravného, nocležného, popřípadě i na další náhrady poskytované podle předpisů o náhradách cestovních, stěhovacích a jiných výdajů. Při posuzování nároku na náhradu těchto výdajů a určování výše náhrady se použije obdobně předpisů upravujících poskytování těchto náhrad státním zaměstnancům.*)\n(2) Soudcům lze mimoto přiznat náhradu jiných nutných výdajů (zvýšených vydání), jestliže jejich výši hodnověrně prokáží.\n(3) Náhradu nutných výdajů (zvýšených vydání) poskytuje stát (státní správa soudů)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Náhrady ušlé mzdy (ušlého výdělku) se započítávají do vyměřovacího základu pro dávky nemocenského pojištění podle zásad stanovených pro jeho výpočet a do průměrného ročního výdělku rozhodného pro vyměření dávek důchodového zabezpečení."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Vykonáváním soudcovské funkce se rozumí nejen účast soudce na soudním zasedání, ale i vykonávání jiných povinností s touto funkcí spojených, například účast na školení apod."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Nárok na náhradu ušlého výdělku, kterou poskytuje stát, musí být uplatněn do 15 dnů po provedení výkonu soudcovské funkce. O nároku rozhoduje orgán státní správy soudů, který byl tím pověřen."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n*) Zákon č. 234/1949 Sb., o náhradách cestovních, stěhovacích a jiných výdajů a předpisy vydané k jeho provedení, zejména vládní nařízení č. 278/1949 Sb., kterým se upravuje výše některých náhrad podle zákona o náhradách cestovních, stěhovacích a jiných výdajů, a vyhláška ministerstva financí č. 480/1950 Ú. l. I ve znění vyhlášky č. 72/1952 Ú. l."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vykonáváním soudcovské funkce",
+      "definition": "nejen účast soudce na soudním zasedání, ale i vykonávání jiných povinností s touto funkcí spojených, například účast na školení apod",
+      "source_provision": "§ 6"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:62/1956",
+  "type": "statute",
+  "title": "62/1956 Ú. l., Vyhláška ministra kultury o snížení maloobchodních cen nových a antikvárních knih ke dni 1. dubna 1956.",
+  "title_en": "",
+  "short_name": "62/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-03-31",
+  "in_force_date": "1956-04-01",
+  "url": "https://www.e-sbirka.cz/ul0/1956/62",
+  "description": "Vyhláška ministra kultury o snížení maloobchodních cen nových a antikvárních knih ke dni 1. dubna 1956.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Od 1. dubna 1956 se snižují maloobchodní ceny knih uvedených v Seznamu knih zlevněných ke dni 1. dubna 1956 a v Seznamu antikvárních knih zlevněných ke dni 1. dubna 1956 na ceny uvedené v těchto seznamech."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Dodavatelé jsou povinni fakturovat knihy v maloobchodních cenách a s obchodními srážkami, které platí v den, kdy byly knihy odeslány odběrateli.\n(2) Při traťových dodávkách jsou další dodavatelé povinni fakturovat v maloobchodních cenách, ve kterých fakturoval původní dodavatel."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1956."
+    }
+  ],
+  "definitions": []
+}

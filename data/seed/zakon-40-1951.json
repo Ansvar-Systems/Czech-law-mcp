@@ -1,0 +1,33 @@
+{
+  "id": "cz:40/1951",
+  "type": "statute",
+  "title": "40/1951 Sb., Nařízení, kterým se omezuje vyhlašování zápisů provedených v podnikovém rejstříku",
+  "title_en": "",
+  "short_name": "40/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-05-25",
+  "in_force_date": "1951-05-25",
+  "url": "https://www.e-sbirka.cz/sb/1951/40",
+  "description": "Nařízení, kterým se omezuje vyhlašování zápisů provedených v podnikovém rejstříku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) V úředním listě se vyhlašují pouze ty zápisy provedené v podnikovém rejstříku, které se týkají zřízení podniku, jeho vstupu do likvidace nebo jeho výmazu.\n(2) Ve vyhlášce se uvede pouze název podniku, jeho sídlo a skutečnost, že byl podnik zřízen, vstoupil do likvidace nebo byl vymazán."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ani zápisy uvedené v § 1 se nevyhlásí, rozhodne-li tak věcně příslušný ústřední úřad v dohodě s ministerstvem spravedlnosti."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

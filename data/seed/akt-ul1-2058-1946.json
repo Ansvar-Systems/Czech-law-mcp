@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2058/1946",
+  "type": "statute",
+  "title": "2058/1946 Ú. l. I, Vyhláška ministra průmyslu, kterou se opravují vyhlášky ministra průmyslu ze dne 7. března 1946 (Ú. l. I č. 50/1946, běž. 822 a Ú. v. č. 21/1946, běž č. 811).",
+  "title_en": "",
+  "short_name": "2058/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-12-01",
+  "in_force_date": "1946-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2058",
+  "description": "Vyhláška ministra průmyslu, kterou se opravují vyhlášky ministra průmyslu ze dne 7. března 1946 (Ú. l. I č. 50/1946, běž. 822 a Ú. v. č. 21/1946, běž č. 811).",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Odstavec F/15 má zníti správně:\n„majetkovou podstatu podniku Akciová společnost pro dobývání uhlí v Teplicích-Šanově, v rozsahu jeho znárodnění;“"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. odstavec F/19 má zníti správně:\n„majetkovou podstatu podniku uhelné závody šachty Emilie a. s. (Kohlenwerke Emilienschacht), Košťany u Teplic-Šanova, v rozsahu jeho znárodnění;“"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Odstavec F/24 se ruší.\nVzhledem k tomu odpadá i odkaz na odstavec F/24 v odstavci G. a I."
+    }
+  ],
+  "definitions": []
+}

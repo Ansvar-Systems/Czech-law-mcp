@@ -1,0 +1,33 @@
+{
+  "id": "cz:134/2012",
+  "type": "statute",
+  "title": "134/2012 Sb., Vyhláška o stanovení rozsahu položkového vyúčtování ceny",
+  "title_en": "",
+  "short_name": "134/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-04-27",
+  "in_force_date": "2012-06-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/134",
+  "description": "Vyhláška o stanovení rozsahu položkového vyúčtování ceny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Náležitosti položkového vyúčtování ceny",
+      "content": "Položkové vyúčtování ceny (dále jen „vyúčtování“), které předloží poskytovatel univerzální služby, obsahuje náležitosti\na) telefonní číslo,\nb) označení sjednaného cenového plánu,\nc) vymezení zúčtovacího období datem prvního a posledního dne zúčtovacího období,\nd) údaj o čase, ve kterém byl převzat stav záznamového zařízení poskytovatele v posledním dnu zúčtovacího období, pokud k převzetí stavu nedošlo ve 24.00 hodin,\ne) rozpis jednotlivých volání, včetně volání poskytnutých v rámci volných minut či jiných slev v členění\n1. volané telefonní číslo, případně jiný údaj jednoznačně identifikující volání,\n2. začátek volání tak, že se uvede datum, hodina, minuta a sekunda,\n3. účtovaná délka volání ve specifikovaných měrných jednotkách,\n4. rozlišení provozu na silný, slabý, popřípadě jiný u každého jednotlivého volání, pokud takové rozlišení poskytovatel univerzální služby uplatňuje,\n5. rozlišení volání podle sítě, ve které je volání ukončeno,\n6. účtovaná cena jednotlivého volání v korunách českých, s uvedením, zda je cena s daní z přidané hodnoty nebo bez daně z přidané hodnoty,\nf) sazbu daně z přidané hodnoty,\ng) počet poskytnutých a využitých volných jednotek, pokud jsou poskytovány, a informace o převodu počtu volných jednotek z minulého nebo do následujícího zúčtovacího období, pokud jsou převáděny,\nh) účtovanou částku v korunách českých za všechna volání podle písmene e) ve vymezeném zúčtovacím období celkem a dále součtové částky v členění podle jednotlivých položek platného ceníku uvedením celkové částky bez daně z přidané hodnoty, daně z přidané hodnoty a celkové částky s daní z přidané hodnoty,\ni) zúčtování záloh, přeplatků nebo nedoplatků,\nj) datum splatnosti vyúčtované částky,\nk) informace o způsobu uplatnění reklamace včetně údaje o tom, kde a v jakých lhůtách lze reklamaci uplatnit."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Vyúčtování musí splňovat náležitosti daňového dokladu podle zákona o dani z přidané hodnoty.\n(2) Je-li vyúčtování vystavováno k více než jedné přípojce nebo účastnické stanici, musí obsahovat rozpis položek podle § 1 písm. a) až f) ke každé z těchto přípojek nebo účastnických stanic. Obdobně se postupuje, je-li u jedné přípojky využíváno více telefonních čísel."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2012."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:35/1946",
+  "type": "statute",
+  "title": "35/1946 Ú. l. I, Vyhláška ministra dopravy o označování staveb, pro něž byla povolena výjimka ze zákazu staveb.",
+  "title_en": "",
+  "short_name": "35/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-16",
+  "in_force_date": "1946-01-16",
+  "url": "https://www.e-sbirka.cz/ul1/1946/35",
+  "description": "Vyhláška ministra dopravy o označování staveb, pro něž byla povolena výjimka ze zákazu staveb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Každá stavba, pro niž byla povolena výjimka ze zákazu staveb podle platných předpisů, musí býti veřejně označena tabulkou tohoto znění:\n„Stavba povolena výnosem ministerstva dopravy (veřejná správa technická) ze dne ……., č. j. ....“.\nTabulka tato musí býti umístěna vedle vývěsky označující druh stavby a jméno provádějící firmy a upravena obdobně jako ona."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Výnos ministerstva dopravy (veřejné správy technické), jímž prováděná stavba byla vyňata ze zákazu staveb, nebo jeho opis, musí býti uložen na stavbě, po případě u stavbyvedoucího, a musí býti kdykoli předložen úředním kontrolním orgánům."
+    }
+  ],
+  "definitions": []
+}

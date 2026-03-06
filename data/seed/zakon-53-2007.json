@@ -1,0 +1,39 @@
+{
+  "id": "cz:53/2007",
+  "type": "statute",
+  "title": "53/2007 Sb., Vyhláška o technických a funkčních náležitostech uskutečňování vazeb mezi informačními systémy veřejné správy prostřednictvím referenčního rozhraní (vyhláška o referenčním rozhraní)",
+  "title_en": "",
+  "short_name": "53/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-03-22",
+  "in_force_date": "2007-03-22",
+  "url": "https://www.e-sbirka.cz/sb/2007/53",
+  "description": "Vyhláška o technických a funkčních náležitostech uskutečňování vazeb mezi informačními systémy veřejné správy prostřednictvím referenčního rozhraní (vyhláška o referenčním rozhraní)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví technické a funkční náležitosti uskutečňování vazeb mezi informačními systémy veřejné správy prostřednictvím referenčního rozhraní informačních systémů veřejné správy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Technické náležitosti uskutečňování vazeb",
+      "content": "(1) Vazbu je možné uskutečnit mezi informačními systémy zveřejněnými v informačním systému obsahujícím základní informace o dostupnosti a obsahu zpřístupněných informačních systémů veřejné správy1).\n(2) Při uskutečnění vazby musí být použity datové prvky, které jsou vyhlášeny prostřednictvím informačního systému o datových prvcích2).\n(3) Vazby se uskutečňují v souladu s technickými náležitostmi popsanými v technické dokumentaci služby, která se pro každou poskytovanou službu nebo poskytovanou informaci skládá z:\na) popisu funkčnosti služby3), který obsahuje technické náležitosti uskutečňování vazby;\nb) dokumentace služby3), která obsahuje technické náležitosti\n1. poskytování služeb informačního systému veřejné správy,\n2. postupu, kterým lze požádat o službu nebo informaci,\n3. odpovědi informačního systému na žádost o službu nebo informaci, včetně chybových hlášení,\n4. vazby, ve formě podrobné charakteristiky vazby;\nc) bezpečnostní politiky služby3), která obsahuje vždy technické náležitosti\n1. způsobu zajištění bezpečnosti poskytované služby nebo poskytované informace,\n2. způsobu zajištění bezpečnosti vazeb, které jsou při poskytování služby nebo informace uskutečňovány,\n3. rozsahu přístupových oprávnění a jejich případná omezení pro jednotlivé oprávněné uživatele služby."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Funkční náležitosti uskutečňování vazeb",
+      "content": "(1) Informační systém veřejné správy uskutečňující vazbu je opatřen funkcí zaznamenávání a uchovávání záznamů o událostech spojených s uskutečňováním vazeb; zaznamenávání a uchovávání provádí informační systém veřejné správy uskutečňující vazbu v souladu s provozní dokumentací informačního systému4).\n(2) Správce informačního systému veřejné správy uskutečňujícího vazby uvede v dokumentaci služby podle § 2 odst. 3 písm. b) typy událostí, o kterých jsou vytvářeny a uchovávány záznamy.\n(3) Funkce zaznamenávání vytvoří o vazbě vždy záznam\na) identifikace informačního systému veřejné správy, který žádá o službu nebo informaci,\nb) času přijetí žádosti o službu nebo informaci,\nc) údaje o tom, zda byla služba nebo informace informačnímu systému veřejné správy poskytnuta.\n(4) Správce informačního systému veřejné správy uskutečňujícího vazby uvede v popisu funkčnosti služby podle § 2 odst. 3 písm. a) údaj, který poskytne místo služby nebo informace v případě přerušení poskytování služeb nebo informací."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\n1) § 4 odst. 1 písm. h) zákona č. 365/2000 Sb., ve znění zákona č. 81/2006 Sb.\n2) § 4 odst. 1 písm. i) zákona č. 365/2000 Sb., ve znění zákona č. 81/2006 Sb.\n3) Vyhláška č. 528/2006 Sb., o informačním systému o informačních systémech veřejné správy.\n4) Vyhláška č. 529/2006 Sb., o požadavcích na strukturu a obsah informační koncepce a provozní dokumentace a o požadavcích na řízení bezpečnosti a kvality informačních systémů veřejné správy (vyhláška o dlouhodobém řízení informačních systémů veřejné správy)."
+    }
+  ],
+  "definitions": []
+}

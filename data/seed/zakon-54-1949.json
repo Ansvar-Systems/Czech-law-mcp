@@ -1,0 +1,33 @@
+{
+  "id": "cz:54/1949",
+  "type": "statute",
+  "title": "54/1949 Sb., Nařízení o letním čase v roce 1949",
+  "title_en": "",
+  "short_name": "54/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-03-11",
+  "in_force_date": "1949-03-11",
+  "url": "https://www.e-sbirka.cz/sb/1949/54",
+  "description": "Nařízení o letním čase v roce 1949",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Počátek letního času v roce 1949 se určuje na den 10. dubna 1949 o druhé hodině středoevropského času a provede se posunutím hodinových ručiček na třetí hodinu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Konec letního času v roce 1949 se určuje na den 2. října 1949 o třetí hodině letního času a provede se posunutím hodinových ručiček na druhou hodinu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede jej ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

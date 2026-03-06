@@ -1,0 +1,39 @@
+{
+  "id": "cz:192/1992",
+  "type": "statute",
+  "title": "192/1992 Sb., Zákon Slovenskej národnej rady o registrácii cirkví a náboženských spoločností",
+  "title_en": "",
+  "short_name": "192/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-05-13",
+  "in_force_date": "1992-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/192",
+  "description": "Zákon Slovenskej národnej rady o registrácii cirkví a náboženských spoločností",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Orgánom, ktorý registruje na území Slovenskej republiky cirkvi a náboženské spoločnosti podľa osobitného zákona,1) je Ministerstvo kultúry Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Cirkev alebo náboženská spoločnosť môžu podať návrh na registráciu,2) ak preukážu, že sa k nim hlási najmenej dvadsať tisíc plnoletých osôb, ktoré majú trvalý pobyt na území Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Vznik cirkvi alebo náboženskej spoločnosti a ich zánik písomne oznámi Ministerstvo kultúry Slovenskej republiky do desať dní od právoplatnosti rozhodnutia o registrácii alebo o zrušení registrácie cirkvi alebo náboženskej spoločnosti Slovenskému štatistickému úradu.3)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tento zákon nadobúda účinnosť 1. júnom 1992.\n1) § 23 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.\n2) § 11 zákona č. 308/1991 Zb.\n3) § 19 zákona č. 308/1991 Zb."
+    }
+  ],
+  "definitions": []
+}

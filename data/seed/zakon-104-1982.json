@@ -1,0 +1,27 @@
+{
+  "id": "cz:104/1982",
+  "type": "statute",
+  "title": "104/1982 Sb., Vyhláška federálního ministerstva dopravy, kterou se mění a doplňuje vyhláška č. 60/1981 Sb., o hospodárnosti provozu silničních vozidel pro motorovou dopravu",
+  "title_en": "",
+  "short_name": "104/1982 Sb.",
+  "status": "in_force",
+  "issued_date": "1982-09-10",
+  "in_force_date": "1982-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1982/104",
+  "description": "Vyhláška federálního ministerstva dopravy, kterou se mění a doplňuje vyhláška č. 60/1981 Sb., o hospodárnosti provozu silničních vozidel pro motorovou dopravu",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1",
+      "section": "1",
+      "title": "Čl. 1",
+      "content": "Vyhláška federálního ministerstva dopravy č. 60/1981 Sb., o hospodárnosti provozu silničních vozidel pro motorovou dopravu, se mění a doplňuje takto:\nOdstavec 3 přílohy č. 2 k vyhlášce č. 60/1981 Sb. zní:\n„(3) Základní měrná provozní norma spotřeby pohonných hmot v litrech na 100 km pro jednotlivá vozidla (PNSz) se stanoví součinem hodnoty údaje o spotřebě „S“ a hodnoty součinitele „K“ podle vzorce\nPNSz=S×K 1/100 km\n„K“ je technický součinitel vozidla, který vyjadřuje jeho konstrukční provedení, popřípadě skutečný technický stav vozidla (např. před generální opravou nebo před celkovou opravou motoru apod.) z hlediska vlivu na provozní spotřebu pohonných hmot; hodnoty tohoto součinitele nesmí přesáhnout hodnoty uvedené v odstavci 4; „S“ je údaj o spotřebě pohonných hmot vozidla v litrech na 100 km; hodnota „S“ je\na) u vozidel\nAVIA A 15 a A 20 všechna provedení 12,3\nAVIA A 30 všechna provedení 14,2\nIFA W 50 L, L/SP, LB valníková provedení 18,6\nROMAN 8.135 F valníkové provedení 22,7\nŠkoda 706 MT a MTV valníková provedení 28,6\nŠkoda 706 MTS a MTS-P sklápěčková provedení 29,5\nLIAZ 100 valníkové provedení 27,6\nLIAZ 100 návěsová jízdní souprava 41,4\nTATRA 138 a 148 valníková a sklápěčková provedení 31,2\nKAROSA C 734 a LC 735 a LC 736 autobusy 25,0\nb) u ostatních vozidel uvedena v technickém průkazu vozidla.22)“."
+    },
+    {
+      "provision_ref": "Čl. 2",
+      "section": "2",
+      "title": "Čl. 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1982.\n22) Pokud tato hodnota spotřeby pohonných hmot není v technickém průkazu vozidla uvedena, stanoví se podle ČSN 30 0510 nebo podle spotřeby srovnatelného vozidla."
+    }
+  ],
+  "definitions": []
+}

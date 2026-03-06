@@ -1,0 +1,33 @@
+{
+  "id": "cz:104/1948",
+  "type": "statute",
+  "title": "104/1948 Sb., Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Karlových Varech",
+  "title_en": "",
+  "short_name": "104/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-05-26",
+  "in_force_date": "1948-05-26",
+  "url": "https://www.e-sbirka.cz/sb/1948/104",
+  "description": "Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Karlových Varech",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Dnem 1. června 1945 počne působiti Státní veterinární vyšetřovací ústav se sídlem v Karlových Varech, zřízený podle zákona ze dne 16. ledna 1896, č. 89 ř. z. z roku 1897, o obchodu s potravinami a některými předměty potřeby (dále jen „ústav“)."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Úředním obvodem ústavu jsou správní okresy: Aš, Bílina, Duchcov, Cheb, Chomutov, Jáchymov, Kadaň, Kraslice, Mariánské Lázně, Loket, Most, Nejdek, Podbořany, Sokolov, Teplá, Teplice-Šanov, Karlovy Vary, Vejprty, Žatec a Žlutice."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Ústavu příslušejí úkoly v oboru vyšetřování potravin živočišného původu, uvedené v nařízení č. 240/1897 ř. z., nejde-li pouze o chemické vyšetřování potravin."
+    }
+  ],
+  "definitions": []
+}

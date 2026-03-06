@@ -1,0 +1,33 @@
+{
+  "id": "cz:465/2025",
+  "type": "statute",
+  "title": "465/2025 Sb., Vyhláška o způsobech efektivního dalšího využití spotřebované elektřiny",
+  "title_en": "",
+  "short_name": "465/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-11-13",
+  "in_force_date": "2025-11-28",
+  "url": "https://www.e-sbirka.cz/sb/2025/465",
+  "description": "Vyhláška o způsobech efektivního dalšího využití spotřebované elektřiny ",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje způsoby efektivního dalšího využití elektřiny spotřebované v elektrickém zařízení, které poskytovatel podpůrných služeb nebo poskytovatel flexibility podle energetického zákona používá k poskytování podpůrných služeb nebo flexibility."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob efektivního dalšího využití spotřebované elektřiny",
+      "content": "(1) Způsobem efektivního dalšího využití elektřiny spotřebované v elektrickém zařízení, které poskytovatel podpůrných služeb nebo poskytovatel flexibility podle energetického zákona používá k poskytování podpůrných služeb nebo flexibility, je, pokud v procesu spotřeby elektřiny\na) se vyrábí nebo vzniká tepelná energie v množství nejvýše 2,88 GJ při spotřebě 1 MWh elektřiny nebo\nb) vyrobená nebo vzniklá tepelná energie je využita pro pokrytí ekonomicky odůvodnitelné poptávky po tepelné energii.\n(2) Ekonomicky odůvodnitelnou poptávkou po tepelné energii je poptávka, která nepřekračuje potřeby tepelné energie a která by byla za tržních podmínek jinak uspokojována jinými procesy výroby nebo vzniku tepelné energie."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

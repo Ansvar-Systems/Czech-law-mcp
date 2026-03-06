@@ -1,0 +1,27 @@
+{
+  "id": "cz:488/2000",
+  "type": "statute",
+  "title": "488/2000 Sb., Vyhláška Ministerstva dopravy a spojů o limitech úrovně Euro 3 k provedení zákona č. 16/1993 Sb., o dani silniční, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "488/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-12-29",
+  "in_force_date": "2000-12-29",
+  "url": "https://www.e-sbirka.cz/sb/2000/488",
+  "description": "Vyhláška Ministerstva dopravy a spojů o limitech úrovně Euro 3 k provedení zákona č. 16/1993 Sb., o dani silniční, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Údaj, který osvědčuje plnění limitů úrovně Euro 3, uvedený v technickém průkazu vozidla nebo v samostatném dokladu vydaném výrobcem vozidla či jeho pověřeným zástupcem (akreditovaným dovozcem) nebo jiném dokladu vydaném výrobcem vozidla u vozidel registrovaných v zahraničí je číselným označením předpisů Evropské hospodářské komise Organizace spojených národů č. 83 - 05 nebo směrnice Evropských společenství č. 98/69/ES nebo č. 1999/102/ES nebo č. 1999/96/ES. V technickém průkazu vozidla vydaném před účinností této vyhlášky se připouští i zápis „EURO 3“."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:111/1985",
+  "type": "statute",
+  "title": "111/1985 Sb., Vyhláška ministerstva obchodu České socialistické republiky o nákupu zboží organizacemi v prodejnách provozujících maloobchodní činnost",
+  "title_en": "",
+  "short_name": "111/1985 Sb.",
+  "status": "in_force",
+  "issued_date": "1985-12-09",
+  "in_force_date": "1986-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1985/111",
+  "description": "Vyhláška ministerstva obchodu České socialistické republiky o nákupu zboží organizacemi v prodejnách provozujících maloobchodní činnost",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Organizace mohou nakupovat zboží v prodejnách provozujících maloobchodní činnost za hotové, pokud výše nákupu za jeden den na jednom zúčtovacím pokladním středisku nepřevýší částku 500,– Kčs.\n(2) Zúčtovacím pokladním střediskem se rozumí pokladna organizace a místo se stálou zúčtovací zálohou na drobná vydání stanovené organizací."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Jde-li o nákup zboží, který přesahuje částku 500,– Kčs, předloží organizace písemnou objednávku a uhradí jej bezhotovostně na základě faktury."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Organizace může požádat krajský národní výbor o provedení opatření podle § 33 písm. a) zákona v případech, kdy určité druhy zboží potřebuje pro řádné a plynulé zásobení občanů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se vyhláška ministra vnitřního obchodu č. 10/1966 Sb., o nákupu zboží ve vnitřním obchodě socialistickými organizacemi."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1986."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zúčtovacím pokladním střediskem",
+      "definition": "pokladna organizace a místo se stálou zúčtovací zálohou na drobná vydání stanovené organizací",
+      "source_provision": "§ 1"
+    }
+  ]
+}

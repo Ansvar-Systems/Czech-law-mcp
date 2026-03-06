@@ -1,0 +1,39 @@
+{
+  "id": "cz:65/1991",
+  "type": "statute",
+  "title": "65/1991 Sb., Nariadenie vlády Slovenskej republiky o úľavách z domovej dane",
+  "title_en": "",
+  "short_name": "65/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-03-01",
+  "in_force_date": "1991-03-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/65",
+  "description": "Nariadenie vlády Slovenskej republiky o úľavách z domovej dane",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Daňovníkom, ktorým sa vyrubuje domová daň (ďalej len „daň“) podľa nájomného a ceny užívania,1) sa poskytuje úľava z dane tak, aby sa daň rovnala 15 % základu dane do 6000 Kčs a 20 % základu dane nad 6000 Kčs."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Obec, ktorá vykonáva správu dane,2) zníži daňovníkovi uvedeným v § 1 základ dane o 50 % nákladov vynaložených na vykonanie stavebných opráv, rekonštrukcií a modernizácií zdaňovanej budovy v dvoch rokoch nasledujúcich po roku, v ktorom bola oprava vykonaná, najviac však do výšky základu dane."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Daň podľa tohto nariadenia sa vyrubí po prvý raz na rok 1991."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Toto nariadenie nadobúda účinnosť dňom vyhlásenia.\n1) § 10 zákona č. 143/1961 Zb. o domovej dani.\n2) § 13 zákona č. 143/1961 Zb.\n§ 4 ods. 2 písm. c) zákona SNR č. 369/1990 Zb. o obecnom zriadení."
+    }
+  ],
+  "definitions": []
+}

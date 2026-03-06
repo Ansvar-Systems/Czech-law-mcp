@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:604/1948",
+  "type": "statute",
+  "title": "604/1948 Ú. l. I, Vyhláška ministra průmyslu o zřízení „Plastimatu, národního podniku“.",
+  "title_en": "",
+  "short_name": "604/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-04-20",
+  "in_force_date": "1948-05-05",
+  "url": "https://www.e-sbirka.cz/ul1/1948/604",
+  "description": "Vyhláška ministra průmyslu o zřízení „Plastimatu, národního podniku“.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku Baklax, a. s. továrna na umělé hmoty v Praze, strojní zařízení s příslušenstvím, včetně kancelářského zařízení, nalézající se ve Svitavách, v závodě podniku Plastika a. s. pro průmysl plastický se sídlem v Praze;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku B. Zenker, továrna na kožené rukavice se sídlem v Abertamech, částku Kčs 500.000 na starém vkladě."
+    }
+  ],
+  "definitions": []
+}

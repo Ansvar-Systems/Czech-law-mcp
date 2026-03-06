@@ -1,0 +1,33 @@
+{
+  "id": "cz:3/1946",
+  "type": "statute",
+  "title": "3/1946 Sb., Nařízení o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny",
+  "title_en": "",
+  "short_name": "3/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-01-21",
+  "in_force_date": "1945-11-01",
+  "url": "https://www.e-sbirka.cz/sb/1946/3",
+  "description": "Nařízení o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Úroková sazba ze vkladů na vkladní knížky Poštovní spořitelny, učiněných v nových platidlech (§ 2, odst. 1 dekretu presidenta republiky ze dne 19. října 1945, č. 91 Sb., o obnovení československé měny), činí 13/4 %."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vládní nařízení ze dne 17. července 1945, č. 34 Sb., o změně úrokové sazby ze vkladů na vkladní knížky Poštovní spořitelny se zrušuje."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. listopadu 1945 a platí v zemích České a Moravskoslezské; provede je ministr pošt."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:128/1952",
+  "type": "statute",
+  "title": "128/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 28 0103.",
+  "title_en": "",
+  "short_name": "128/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-03",
+  "in_force_date": "1952-06-18",
+  "url": "https://www.e-sbirka.cz/ul0/1952/128",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 28 0103.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 28 0103 „Společné technické dodací podmínky pro kolejová vozidla“ je od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma stanoví podmínky pro konstrukci, stavbu a dodávky kolejových vozidel, dodávaných národnímu podniku Československé státní dráhy."
+    }
+  ],
+  "definitions": []
+}

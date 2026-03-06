@@ -1,0 +1,33 @@
+{
+  "id": "cz:289/2013",
+  "type": "statute",
+  "title": "289/2013 Sb., Vyhláška, kterou se mění vyhláška č. 108/2011 Sb., o měření plynu a o způsobu stanovení náhrady škody při neoprávněném odběru, neoprávněné dodávce, neoprávněném uskladňování, neoprávněné přepravě nebo neoprávněné distribuci plynu",
+  "title_en": "",
+  "short_name": "289/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-09-20",
+  "in_force_date": "2013-10-31",
+  "url": "https://www.e-sbirka.cz/sb/2013/289",
+  "description": "Vyhláška, kterou se mění vyhláška č. 108/2011 Sb., o měření plynu a o způsobu stanovení náhrady škody při neoprávněném odběru, neoprávněné dodávce, neoprávněném uskladňování, neoprávněné přepravě nebo neoprávněné distribuci plynu",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 108/2011 Sb., o měření plynu a o způsobu stanovení náhrady škody při neoprávněném odběru, neoprávněné dodávce, neoprávněném uskladňování, neoprávněné přepravě nebo neoprávněné distribuci plynu, se mění takto:\n1. V § 1 odst. 1 písm. b) bod 3 zní:\n„3. výrobnou plynu, s výjimkou distribučních soustav, jimiž je distribuován jiný druh plynu než zemní plyn nebo biometan,“.\n2. V § 5 se doplňuje odstavec 5, který zní:\n„(5) V případě dodatečného zjištění chybného údaje o naměřeném množství nebo o hodnotě spalného tepla plynu na měřicích místech podle § 1 odst. 1 s výjimkou odběrných míst lze provést opravu chybného údaje při výpočtu údajů o předaném plynu v následujícím měsíci po určení chybného údaje.“.\n3. V § 7 se za odstavec 2 vkládá nový odstavec 3, který zní:\n„(3) Výměna měřicího zařízení se provede rovněž v případech, kdy rozsah stávajícího měřicího zařízení nevyhovuje skutečným odběrům nebo typ měřicího zařízení neodpovídá přiřazení příslušného typu měření. Výměna se provede v projednaném termínu se zákazníkem na místě jím upraveném pro instalaci nového měřicího zařízení.“.\nDosavadní odstavce 3 až 5 se označují jako odstavce 4 až 6.\n4. Příloha č. 5 zní:\n„Příloha č. 5 k vyhlášce č. 108/2011 Sb.\nPředepsané hodnoty fyzikálních a chemických parametrů určujících kvalitu plynu\n(1) Charakteristické veličiny pro spalování\nVeličinaJednotkaRozsah\nWobbeho číslokWh.m-312,7 až 14,51)\nMJ.m-345,7 až 52,21)\nSpalné teplokWh.m-39,4 až 11,81)\nMJ.m-333,8 až 42,51)\nVýhřevnostkWh.m-38,4 až 10,61)\nMJ.m-330,4 až 38,41)\nRelativní hustota-0,56 až 0,71)\n1) Hodnoty při vztažných podmínkách (§ 1 odst. 3).\n(2) Složení plynných paliv - požadavky na přírodní zemní plyny\nParametrJednotkaHodnota\nPřepravní soustavaDistribuční soustava\nObsah metanu% molmin 85,0\nObsah vody vyjádřený jako teplota rosného bodu vody°Cmax. -7 °C při provozním tlaku 4 MPamax. -7 °C při provozním tlaku 4 MPa\nObsah uhlovodíků vyjádřený jako teplota rosného bodu uhlovodíků°Cmax. 0 °C při provozním tlakunejvýše 2 °C pod teplotou zeminy při provozním tlaku\nObsah etanu% molmax. 7,0\nObsah propanu% molmax. 3,0max. 4,0\nObsah sumy butanů% molmax. 2,0max. 4,0\nObsah sumy pentanů a vyšších uhlovodíků% molmax. 0,5max. 3,5\nObsah kyslíku% molmax. 0,02max. 0,5\nObsah oxidu uhličitého% molmax. 3,0max. 5,0\nObsah dusíku% molmax. 5,0max. 10,0\nObsah inertů (dusíku a oxidu uhličitého)% molmax. 8,0max. 10,0\nCelkový obsah síry (bez odorantů), roční průměrná hodnotamg.m-3max. 301)\nObsah merkaptanové síry (bez odorantů)mg.m-3max. 51)\nObsah sulfanu (bez odorantů), roční průměrná hodnotamg.m-3max. 61)\nMlha, prach, kondenzáty-nepřítomny2)\nVysvětlivky:\n1) Hodnoty při vztažných podmínkách (§ 1 odst. 3).\n2) Pod pojmem nepřítomny se rozumí odstranění mlhy, prachu a kondenzátů do té míry, aby byl zajištěn bezpečný a spolehlivý provoz plynárenských zařízení a odběrných plynových zařízení.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 31. října 2013."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pod pojmem nepřítomny",
+      "definition": "odstranění mlhy, prachu a kondenzátů do té míry, aby byl zajištěn bezpečný a spolehlivý provoz plynárenských zařízení a odběrných plynových zařízení",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

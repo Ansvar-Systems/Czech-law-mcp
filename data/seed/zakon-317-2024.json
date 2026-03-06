@@ -1,0 +1,39 @@
+{
+  "id": "cz:317/2024",
+  "type": "statute",
+  "title": "317/2024 Sb., Vyhláška o centrální evidenci veřejných dražeb",
+  "title_en": "",
+  "short_name": "317/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-11-05",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/317",
+  "description": "Vyhláška o centrální evidenci veřejných dražeb",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Přihlašování uživatelů do centrální evidence v roli dražebníka a v roli správce systému probíhá prostřednictvím\na) národního bodu pro identifikaci a autentizaci, nebo\nb) informačního systému sloužícího k autentizaci fyzických osob, které jsou nositeli rolí, jde-li o orgán veřejné moci podle zákona o základních registrech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Údaje předávané do centrální evidence musejí být v otevřeném a strojově čitelném formátu.\n(2) Dražebník předá údaje do centrální evidence prostřednictvím\na) přímého elektronického zadání, nebo\nb) aplikačního programového vybavení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Shoda údajů o osobách, adresách a nemovitých věcech předaných dražebníkem do centrální evidence s údaji vedenými v základním registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci, v základním registru obyvatel, v informačním systému cizinců, v základním registru územní identifikace, adres a nemovitostí a ve veřejné části živnostenského rejstříku je ověřována centrální evidencí automaticky prostřednictvím informačního systému sdílené služby a informačního systému základních registrů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2025."
+    }
+  ],
+  "definitions": []
+}

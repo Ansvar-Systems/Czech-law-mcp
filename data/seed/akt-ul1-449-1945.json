@@ -1,0 +1,75 @@
+{
+  "id": "cz:ul1:449/1945",
+  "type": "statute",
+  "title": "449/1945 Ú. l. I, Vyhláška nejvyššího úřadu cenového o nejvyšších cenách nezpracovaného zlata, stříbra a kovů skupiny platinové.",
+  "title_en": "",
+  "short_name": "449/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-01",
+  "in_force_date": "1945-11-16",
+  "url": "https://www.e-sbirka.cz/ul1/1945/449",
+  "description": "Vyhláška nejvyššího úřadu cenového o nejvyšších cenách nezpracovaného zlata, stříbra a kovů skupiny platinové.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Cenou nezpracovaného zlata, stříbra a kovů skupiny platinové rozumí se ceny znamenané v devisovém kursovním lístku Národní banky československé.\n(2) Zlato, stříbro a kovy skupiny platinové smějí se kupovat a prodávat nejvýše za ceny podle odstavce 1.\n(3) Pro nákup a prodej zlata, stříbra a kovů skupiny platinové Národní bankou československou platí ceny a podmínky jí stanovené. Další ustanovení této vyhlášky se na nákupy a prodej drahých kovů Národní bankou československou nevztahují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Při nákupu a prodeji menšího množství zlata jako suroviny se smějí připočítávati tyto přirážky:\npři množství:Kčs\nalespoň 250 g, avšak méně než1000 g3.—za 1 g,\nalespoň 100 g, avšak méně než250 g4.—za 1 g,\nalespoň 10 g, avšak méně než100 g5.—za 1 g,\nmenším než10 g6.—za 1 g.\n(2) Při nákupu a prodeji menšího množství stříbra jako suroviny se smějí připočítávati tyto přirážky:\npři množství:Kčs\nalespoň 25 kg, avšak méně než50 kg15.—za 1 kg,\nalespoň 10 kg, avšak méně než25 kg30.—za 1 kg,\nalespoň 1 kg, avšak méně než10 kg45.—za 1 kg,\nalespoň 100 g, avšak méně než1 kg60.—za 1 kg,\nmenším než100 g100.—za 1 kg."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Při nákupu starého zlata, zlomkového zlata, smetků, třísek a jiných odpadků vznikajících při mechanickém opracování zlata smí býti v obchodním styku v tuzemsku požadována, nabízena nebo placena nejvýše cena, která je průměrem mezi cenou podle § 1, odst. 1, platnou pro „nákup“ a cenou platnou podle téhož ustanovení pro „prodej“, snížená o 10%.\n(2) Při nákupu starého stříbra, zlomkového stříbra, smetků, třísek a jiných odpadků vznikajících při mechanickém opracování stříbra smí býti v obchodním styku v tuzemsku požadována, nabízena nebo placena nejvýše cena podle § 1, odst. 1, platná pro „nákup“, snížená o 10%."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ceny polotovarů z drahých kovů, solí a zboží obsahujícího zlato, stříbro nebo kovy skupiny platinové upraví nejvyšší úřad cenový v dohodě s Národní bankou československou zvláštním výměrem."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Ustanovení této vyhlášky neplatí pro nákup a prodej starého zlatého, stříbrného a platinového zboží, mincí vzatých z oběhu, jakož i medailí, které mají cenu danou dosavadním užíváním, jejich použivatelností, zvláštností, sběratelstvím, nebo jiným důvodem zvláštní obliby a je-li tato jejich vlastnost důvodem jejich prodeje nebo koupě."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 30. května 1941, běž. č. 444, o nejvyšších cenách stříbra a stříbrných solí (Ú. l. č. 135/1941) a vyhlášky nejvyššího úřadu cenového ze dne 16. listopadu 1940, běž. č. 822, o nejvyšších cenách nezpracovaného zlata a zboží obsahujícího zlato (Ú. l. č. 270/1940) se ruší."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Nejvyšší úřad cenový v dohodě s Národní bankou československou může povoliti nebo naříditi výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících a podle platných předpisů devisových."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 16. listopadu 1945."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cenou nezpracovaného zlata, stříbra a kovů skupiny platinové",
+      "definition": "se ceny znamenané v devisovém kursovním lístku Národní banky československé",
+      "source_provision": "§ 1."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:330/1950",
+  "type": "statute",
+  "title": "330/1950 Ú. l. I, Vyhláška ministerstva výživy o cenách umělých syrupů.",
+  "title_en": "",
+  "short_name": "330/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-03",
+  "in_force_date": "1950-06-03",
+  "url": "https://www.e-sbirka.cz/ul1/1950/330",
+  "description": "Vyhláška ministerstva výživy o cenách umělých syrupů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Tato vyhláška se vztahuje na umělý syrup z třešti s příchutí ovocnou (dále jen syrup), vyrobený podle vyhlášky ministerstva zdravotnictví č. 923/1947 Ú. l. I, o povolení k výrobě a prodeji umělých syrupů z třeští a past."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nejvyšší prodejní cena za 1 kg umělého syrupu (při obsahu cukru 65% činí:\nKčs 14.— za 1 kg při prodeji zpracovatelům (výrobcům limonád)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Cena stanovená v § 2 se rozumí za zboží plněné do sudů nebo demijonů, franko stanice příjemce, při dodávkách v místě franko sklad příjemce, bez obalů, za čistou váhu zboží. Způsob dopravy volí výrobní podnik.\n(2) Odebere-li kupující zboží od výrobního podniku vlastními dopravními prostředky, poskytne mu výrobní podnik náhradu za dopravné rovnající se částce vypočtené podle sazeb železničního tarifu. Při odběru v místě činí paušální náhrada za dopravné Kčs 10.— za 100 kg čisté váhy zboží."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Prodávající smí účtovat kupujícímu za půjčené sudy a demijony evidenční zálohu ve výši jejich pořizovací ceny ke dni dodávky: prodávající vrátí evidenční zálohu nebo ji připíše k dobru, jakmile jsou sudy a demijony vráceny čisté a pouze normálně opotřebené na náklad kupujícího, franko železniční stanice výrobce nebo do místa prodávajícím určeného, a to do 42 dnů ode dne přijetí dodávky.\n(2) Nevrátí-li kupující půjčené sudy nebo demijony ve lhůtě stanovené v odstavci 3. může být účtováno od uplynutí tělo Hnity půjčovné, které činí měsíčně nejvýše tyto částky:\na)u demijonů za 1 litr obsahuKčs0.10,\nb)u sudů při obsahu:\ndo 199 litruKčs12.—,\nod 200 do 299 litruKčs15.—,\nod 300 do 399 litrůKčs20.—,\nod 400 do 900 litrůKčs40.—.\nZa každý započatý měsíc smí činit) půjčovné nejvýše poměrný díl měsíčního půjčovného, a to podle počtu dnů. Prodávající si smí účtovat půjčovné počínající 43 dnem od přijetí dodávky umělého syrupu v sudech nebo demijonech až do dne navrácení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky této vyhlášky se trestají podle § 11 vládního nařízení č. 235/1949 Sb."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen v českých zemích. Současně, se zrušuje platnost vyhlášky nejvyššího úřadu cenového č. 939/1949 Ú. l. I, o cenách umělých sirupů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cena stanovená v § 2",
+      "definition": "za zboží plněné do sudů nebo demijonů, franko stanice příjemce, při dodávkách v místě franko sklad příjemce, bez obalů, za čistou váhu zboží",
+      "source_provision": "§ 3."
+    }
+  ]
+}

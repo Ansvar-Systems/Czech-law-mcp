@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1162/1949",
+  "type": "statute",
+  "title": "1162/1949 Ú. l. I, Vyhláška ministryně výživy o výrobě a odbytu sladových přípravků a sladových vín.",
+  "title_en": "",
+  "short_name": "1162/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-12-07",
+  "in_force_date": "1949-12-07",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1162",
+  "description": "Vyhláška ministryně výživy o výrobě a odbytu sladových přípravků a sladových vín.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vyhláška ministra výživy ze dne 18. listopadu 1947, č. 1178 Ú. l. I, se s okamžitou platností ruší."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Řízením a kontrolou výroby sladových přípravků se pověřují Československé pivovary, n. p. v Praze."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Pekařské sladové výtažky musí míti diastatickou mohutnost alespoň 3500 diastatických jednotek, sladová moučka alespoň 7000 diastatických jednotek.\nStanovené výrobní kvoty jednotlivých druhů sladových přípravků nesmějí býti změněny bez souhlasu československých pivovarů, národního podniku."
+    }
+  ],
+  "definitions": []
+}

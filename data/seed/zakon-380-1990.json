@@ -1,0 +1,33 @@
+{
+  "id": "cz:380/1990",
+  "type": "statute",
+  "title": "380/1990 Sb., Vyhláška federálního ministerstva zahraničního obchodu o zákazu obchodování s Iráckou republikou a Státem Kuvajt",
+  "title_en": "",
+  "short_name": "380/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-09-20",
+  "in_force_date": "1991-03-27",
+  "url": "https://www.e-sbirka.cz/sb/1990/380",
+  "description": "Vyhláška federálního ministerstva zahraničního obchodu o zákazu obchodování s Iráckou republikou a Státem Kuvajt",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Československé osoby nesmějí dovážet zboží a přijímat služby z Irácké republiky nebo vyvážet zboží a poskytovat služby do Irácké republiky, jakož i obchodovat zbožím iráckého původu.\n(2) Dovoz zboží iráckého původu do České a Slovenské Federativní Republiky je zakázán."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ustanovení § 1 se netýká humanitární pomoci."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

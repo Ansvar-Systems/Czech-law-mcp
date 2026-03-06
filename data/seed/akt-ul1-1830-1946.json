@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:1830/1946",
+  "type": "statute",
+  "title": "1830/1946 Ú. l. I, Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi republikou Československou a frankovou oblastí.",
+  "title_en": "",
+  "short_name": "1830/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-10-06",
+  "in_force_date": "1946-10-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1830",
+  "description": "Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi republikou Československou a frankovou oblastí.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Běžné platy z republiky Československé do frankové oblasti lze konati ve francouzských francích nebo československých korunách. V případech, kdy ku provedení platu bude třeba některé z místních měn, platných v některých místech frankové oblasti, budou dány tyto místní měny k disposici za franky.\n(2) Běžné platy z frankové oblasti do republiky Československé lze konati v československých korunách nebo ve francouzských francích. V případech, kdy placení bylo provedeno v místních měnách, platných v některých místech frankové oblasti, bude provedeno přeúčtování na francouzské franky."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Frankovou oblastí se rozumí Francie (včetně Korsiky a Alžíru), knížectví Monacké, Francouzská západní Afrika, Francouzská rovníková Afrika, Madagaskar a území k němu přičleněná, Réunion, Francouzské Somalské pobřeží, Francouzská Guyana, Martinique, Guadeloupe, Saint Pierre a Miquelon, francouzské državy v Indii, Indočína, Nová Kaledonie, francouzské državy v Oceanii, Společenství Nové Hebridy, Marokko a Tunis, Kamerun a Togo, Syrie a Libanon."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Se souhlasem příslušných míst v republice Československé a ve frankové oblasti lze konati a přijímati běžné platy v měně druhého smluvního státu i ve prospěch osob v třetích zemích."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Běžnými platy podle článku 1 jsou: obchodní platy, včetně vedlejších výloh; mzdy, platy a honoráře; platy za služby (zahrnujíc v to pronájem francouzských a československých lodí, nájemné z lodí, transitní výlohy atd.); podpory vyživovací příspěvky, cestovní výlohy; pense, jiné příjmy, úroky, podnikatelské zisky, smluvní amortisace, poplatky za patenty, licence, ochranné známky, autorská práva, poplatky za zapůjčení filmů; daně, pokuty, soudní výlohy; výlohy pojištění a zajištění (prémie a odškodné); platy za udržování diplomatických a konsulárních zastoupení; převody kapitálového majetku Čechů a Slováků se sídlem ve Francii, kteří se definitivně vracejí do Československa, a Francouzů se sídlem v Československu, kteří se definitivně vracejí do Francie, až do maximální výše, která bude stanovena oběma cedulovými ústavy; vyrovnání všech pohledávek, které se týkají kategorií výše vyjmenovaných a které nebyly vyrovnány dříve než nabyla platnosti dohoda o platebním styku; všechny jiné platy v dohodě příslušných úředních míst obou zemí."
+    },
+    {
+      "provision_ref": "Čl. 5.",
+      "section": "5",
+      "title": "Čl. 5.",
+      "content": "(1) Pro platy podle tohoto opatření platí obecné devisové předpisy.\n(2) Pro úhrady do frankové oblasti a likvidaci úhrad z frankové oblasti platí podmínky Národní banky Československé pro nákup a prodej cizozemských platidel a pro provádění úhrad do ciziny a z ciziny."
+    },
+    {
+      "provision_ref": "Čl. 6.",
+      "section": "6",
+      "title": "Čl. 6.",
+      "content": "Toto opatření nabývá účinnosti dnem vyhlášení a nahrazuje vyhlášku Národní banky Československé ze dne 1. listopadu 1945, uveřejněnou v Úředním listě republiky Českosloveské I, částka 129 ze dne 4. listopadu 1945."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Frankovou oblastí",
+      "definition": "Francie (včetně Korsiky a Alžíru), knížectví Monacké, Francouzská západní Afrika, Francouzská rovníková Afrika, Madagaskar a území k němu přičleněná, Réunion, Francouzské Somalské pobřeží, Francouzská Guyana, Martinique, Guadeloupe, Saint Pierre a Miquelon, francouzské državy v Indii, Indočína, Nová Kaledonie, francouzské državy v Oceanii, Společenství Nové Hebridy, Marokko a Tunis, Kamerun a Togo, Syrie a Libanon",
+      "source_provision": "Čl. 2."
+    }
+  ]
+}

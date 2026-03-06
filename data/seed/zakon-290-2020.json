@@ -1,0 +1,27 @@
+{
+  "id": "cz:290/2020",
+  "type": "statute",
+  "title": "290/2020 Sb., Sdělení Energetického regulačního úřadu o celkovém počtu odběrných míst zákazníků odebírajících elektřinu a o celkovém množství plynu spotřebovaném v České republice v roce 2019",
+  "title_en": "",
+  "short_name": "290/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-06-24",
+  "in_force_date": "2020-06-24",
+  "url": "https://www.e-sbirka.cz/sb/2020/290",
+  "description": "Sdělení Energetického regulačního úřadu o celkovém počtu odběrných míst zákazníků odebírajících elektřinu a o celkovém množství plynu spotřebovaném v České republice v roce 2019",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Celkový počet odběrných míst zákazníků odebírajících elektřinu ke dni 31. prosince 2019 činil 6 065 424."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Celková spotřeba plynu v České republice v roce 2019 činila 90 880 503,077 MWh."
+    }
+  ],
+  "definitions": []
+}

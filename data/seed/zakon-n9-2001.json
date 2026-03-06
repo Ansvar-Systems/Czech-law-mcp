@@ -1,0 +1,27 @@
+{
+  "id": "cz:n9/2001",
+  "type": "statute",
+  "title": "n9/2001 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 231/2001 Sb. a v nařízení vlády č. 258/2001 Sb.",
+  "title_en": "",
+  "short_name": "n9/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-09-06",
+  "in_force_date": "2001-09-06",
+  "url": "https://www.e-sbirka.cz/sb/2001/n9",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 231/2001 Sb. a v nařízení vlády č. 258/2001 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 69 bodu 1 mají místo slov „zákona č. 40/1994 Sb., zákona č. 237/1992 Sb.“ správně být slova „zákona č. 40/1995 Sb., zákona č. 237/1995 Sb.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V bodě 12 má místo textu „S-45“ správně být text „S 45“; v bodě 15 v textu u věty S 64 má místo slova „použití“ správně být slovo „požití“."
+    }
+  ],
+  "definitions": []
+}

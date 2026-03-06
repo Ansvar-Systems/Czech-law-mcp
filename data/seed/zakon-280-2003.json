@@ -1,0 +1,33 @@
+{
+  "id": "cz:280/2003",
+  "type": "statute",
+  "title": "280/2003 Sb., Zákon, kterým se mění zákon č. 482/1991 Sb., o sociální potřebnosti, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "280/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-08-28",
+  "in_force_date": "2003-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2003/280",
+  "description": "Zákon, kterým se mění zákon č. 482/1991 Sb., o sociální potřebnosti, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 2 odst. 1 zákona č. 482/1991 Sb., o sociální potřebnosti, ve znění zákona č. 84/1993 Sb. a zákona č. 182/1994 Sb., se slova „o 600 Kč měsíčně“ nahrazují slovy „měsíčně o částku, kterou pro jednotlivé typy diet stanoví Ministerstvo práce a sociálních věcí vyhláškou“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pokud bylo řízení o dávku sociální péče poskytovanou z důvodu sociální potřebnosti pravomocně ukončeno přede dnem nabytí účinnosti tohoto zákona a dávka k tomuto dni nadále náleží, příslušný orgán posoudí nárok na dávku a její výši podle článku I nejpozději do 6 měsíců ode dne nabytí účinnosti tohoto zákona. V případě, že by podle nové právní úpravy měla náležet vyšší dávka, zvýší se dávka též za období ode dne nabytí účinnosti tohoto zákona do dne nového rozhodnutí a rozdíl ve výši dávky se doplatí; ostatní změny v nároku a výši dávky se provedou nejdříve ode dne nového rozhodnutí."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

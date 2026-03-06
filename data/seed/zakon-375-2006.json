@@ -1,0 +1,36 @@
+{
+  "id": "cz:375/2006",
+  "type": "statute",
+  "title": "375/2006 Sb., Vyhláška, kterou se mění některé vyhlášky v oblasti veterinární péče",
+  "title_en": "",
+  "short_name": "375/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-07-25",
+  "in_force_date": "2022-10-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/375",
+  "description": "Vyhláška, kterou se mění některé vyhlášky v oblasti veterinární péče",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "chapter": "ČÁST PRVNÍ - Změna vyhlášky o zákazu podávání některých látek zvířatům, jejichž produkty jsou určeny k výživě lidí, a o sledování (monitoringu) přítomnosti nepovolených látek, reziduí a látek kontaminujících, pro něž by živočišné produkty mohly být škodlivé pro zdraví lidí, u zvířat a v jejich produktech",
+      "content": "Vyhláška č. 291/2003 Sb., o zákazu podávání některých látek zvířatům, jejichž produkty jsou určeny k výživě lidí, a o sledování (monitoringu) přítomnosti nepovolených látek, reziduí a látek kontaminujících, pro něž by živočišné produkty mohly být škodlivé pro zdraví lidí, u zvířat a v jejich produktech, ve znění vyhlášky č. 232/2005 Sb., se mění takto:\n1. V § 17 odst. 2 písm. a) se slova „skupině A“ nahrazují slovy „skupinách A a B 2 písm. d)“.\n2. V § 17 odst. 2 písm. b) se slova „B 2“ nahrazují slovy „B 2 písm. a), b), c), e) a f)“.\n3. V § 24 odst. 1 se věta třetí nahrazuje větou „Jestliže kontroly prokážou přítomnost nepovolených látek nebo přípravků, nebo překročení stanovených limitů, postupují orgány provádějící pohraniční veterinární kontrolu podle článků 19 až 22 nařízení Evropského parlamentu a Rady (ES) č. 882/2004 ze dne 29. dubna 2004 o úředních kontrolách za účelem ověření dodržování právních předpisů týkajících se krmiv a potravin a pravidel o zdraví zvířat a dobrých životních podmínkách zvířat.“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "ČÁST TŘETÍ - Změna vyhlášky, kterou se provádějí některá ustanovení zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a o veterinárních požadavcích na živočišné produkty",
+      "content": "V § 13 odst. 1 vyhlášky č. 375/2003 Sb., kterou se provádějí některá ustanovení zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a o veterinárních požadavcích na živočišné produkty, se slovo „, kontrolu\" zrušuje."
+    },
+    {
+      "provision_ref": "Čl. VII",
+      "section": "VII",
+      "title": "Čl. VII",
+      "chapter": "ČÁST SEDMÁ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

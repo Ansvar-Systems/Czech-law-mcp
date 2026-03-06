@@ -1,0 +1,34 @@
+{
+  "id": "cz:429/2005",
+  "type": "statute",
+  "title": "429/2005 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 350/2002 Sb., kterým se stanoví imisní limity a podmínky a způsob sledování, posuzování, hodnocení a řízení kvality ovzduší, ve znění nařízení vlády č. 60/2004 Sb.",
+  "title_en": "",
+  "short_name": "429/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-10-26",
+  "in_force_date": "2005-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/429",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 350/2002 Sb., kterým se stanoví imisní limity a podmínky a způsob sledování, posuzování, hodnocení a řízení kvality ovzduší, ve znění nařízení vlády č. 60/2004 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 350/2002 Sb., kterým se stanoví imisní limity a podmínky a způsob sledování, posuzování, hodnocení a řízení kvality ovzduší, ve znění nařízení vlády č. 60/2004 Sb., se mění takto:\n1. V § 2 písmeno a) zní:\n„a) cílovým imisním limitem – koncentrace znečišťující látky ve vnějším ovzduší stanovená za účelem odstranění, zabránění nebo omezení škodlivých účinků na lidské zdraví a na životní prostředí celkově, které je třeba dosáhnout, pokud je to možné, ve stanovené době,“.\n2. V § 3 odst. 1 se písmena h) a k) zrušují.\nDosavadní písmena i), j) a l) se označují jako písmena h), i) a j).\n3. V § 4 odst. 5 se na konci písmene i) čárka nahrazuje tečkou a písmeno j) se zrušuje.\n4. V § 4 se doplňuje odstavec 6, který zní:\n„(6) Posuzování kvality ovzduší se provádí kombinací imisního měření, emisní inventury a modelování.“.\n5. V § 5 se odstavec 1 zrušuje.\nDosavadní odstavce 2 až 4 se označují jako odstavce 1 až 3.\n6. Příloha č. 1 zní:\n„Příloha č. 1 k nařízení vlády č. 350/2002 Sb.\nHodnoty imisních limitů a mezí tolerance, depozičního limitu, cílových imisních limitů a dlouhodobých imisních cílů\nVšechny uvedené limitní hodnoty se vztahují na standardní podmínky - objem přepočtený na teplotu 293,15 K a normální tlak 101,325 kPa. U všech uvedených limitních hodnot se jedná o aritmetické průměry. Rokem je pro účely této přílohy myšlen kalendářní rok.\nUvedené imisní limity platí ode dne nabytí účinnosti nařízení vlády č. 350/2002 Sb., ve znění tohoto nařízení, pokud není uvedeno jinak."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "Část C - Cílové imisní limity a dlouhodobé imisní cíle",
+      "content": "Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely tohoto nařízení AOT 40",
+      "definition": "součet rozdílů mezi hodinovou koncentrací větší než 80 μg",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

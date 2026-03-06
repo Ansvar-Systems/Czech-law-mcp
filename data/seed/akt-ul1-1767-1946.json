@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1767/1946",
+  "type": "statute",
+  "title": "1767/1946 Ú. l. I, Vyhláška ministra průmyslu o změně firmy a sídla národního podniku.",
+  "title_en": "",
+  "short_name": "1767/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-09-21",
+  "in_force_date": "1946-09-21",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1767",
+  "description": "Vyhláška ministra průmyslu o změně firmy a sídla národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. dosavadní znění firmy „Žandovská slévárna a strojírna, národní podnik“, se nahrazuje zněním „Severočeské strojírny a slévárny, národní podnik“,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. sídlem tohoto národního podniku jest Praha."
+    }
+  ],
+  "definitions": []
+}

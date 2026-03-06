@@ -1,0 +1,74 @@
+{
+  "id": "cz:106/2010",
+  "type": "statute",
+  "title": "106/2010 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením",
+  "title_en": "",
+  "short_name": "106/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-04-19",
+  "in_force_date": "2010-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/106",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením, se mění takto:\n1. Poznámka pod čarou č. 1 zní:\n„1) Směrnice Evropského parlamentu a Rady 2004/40/ES ze dne 29. dubna 2004 o minimálních požadavcích na bezpečnost a ochranu zdraví před expozicí zaměstnanců rizikům spojeným s fyzikálními činiteli (elektromagnetickými poli).\nSměrnice Evropského parlamentu a Rady 2006/25/ES ze dne 5. dubna 2006 o minimálních požadavcích na bezpečnost a ochranu zdraví před expozicí zaměstnanců rizikům spojeným s fyzikálními činiteli (optickým zářením z umělých zdrojů) (devatenáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS).“.\n2. V § 1 odst. 1 písm. b) se za slovo „záření“ vkládají slova „ve frekvenční oblasti od 0 Hz do 3·1011 Hz“.\n3. V § 1 odst. 1 písm. c) se slova „3·1011 Hz“ nahrazují slovy „1,7·1015 Hz“.\n4. V § 2 odst. 1 písm. c) se za slovo „parametrů“ vkládají slova „záření ve frekvenční oblasti od 0 Hz do 3·1011 Hz“.\n5. V § 3 odst. 1 písm. b) se slova „nebo hustoty dopadnuvší zářivé energie,“ zrušují.\n6. V § 6 úvodní části ustanovení se za slovo „záření“ vkládají slova „ve frekvenční oblasti od 0 Hz do 3·1011 Hz“.\n7. Část čtvrtá včetně nadpisu a poznámek pod čarou č. 3 až 5 zní:"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "(K § 35 a 36 zákona č. 258/2000 Sb.)\n(1) Optickým zářením se pro účely tohoto nařízení rozumí záření z umělých zdrojů ve frekvenční oblasti od 3·1011 Hz do 1,7·1015 Hz, odpovídající vlnovým délkám od 100 nm do 1 mm, jehož spektrum se dělí na\na) ultrafialové záření v rozsahu vlnových délek od 100 nm do 400 nm, které se dále dělí na\n1. ultrafialové záření UVA odpovídající vlnovým délkám od 315 nm do 400 nm,\n2. ultrafialové záření UVB odpovídající vlnovým délkám od 280 nm do 315 nm a\n3. ultrafialové záření UVC odpovídající vlnovým délkám od 100 nm do 280 nm,\nb) viditelné záření v rozsahu vlnových délek od 380 nm do 780 nm,\nc) infračervené záření v rozsahu vlnových délek od 780 nm do 1 mm.\n(2) Podle průběhu emise se optické záření rozlišuje na koherentní a nekoherentní. Koherentní záření vzniká stimulovanou emisí, kde je jednoznačně definována jeho fáze a frekvence; záření vysílané laserem je záření koherentní. Nekoherentní záření vzniká samovolnou emisí záření.\n(3) Pro účely tohoto nařízení se laserem rozumí jakékoliv zařízení, které může být upraveno k vytváření nebo zesilování elektromagnetického záření v rozsahu vlnových délek optického záření primárně procesem kontrolované stimulované emise.\n(4) Nejvyšší přípustné hodnoty expozice nekohorentnímu optickému záření jsou uvedeny v příloze č. 2 k tomuto nařízení.\n(5) Nejvyšší přípustné hodnoty expozice záření vysílanému laserem jsou uvedeny v příloze č. 3 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "(K § 35 a 36 zákona č. 258/2000 Sb.)\nPři zařazování laserů do tříd se postupuje podle technické normy upravující bezpečnost laserových zařízení3) (dále jen „technická norma“)."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Údaje technické dokumentace nezbytné pro ochranu zdraví",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "(K § 35 a 36 zákona č. 258/2000 Sb.)\nKe každému laseru musí být připojena technická dokumentace, v níž jsou obsaženy tyto údaje:\na) vlnová délka laserového záření a druh laserového aktivního prostředí; jde-li o lasery vyzařující záření o větším počtu vlnových délek, udávají se všechny vyzařované vlnové délky,\nb) režim generování laserového záření, a to spojitý, impulsní nebo impulsní s vysokou opakovací frekvencí,\nc) průměr svazku záření na výstupu laseru a jeho rozbíhavost, u sbíhavého svazku také jeho nejmenší průměr,\nd) u laserů generujících záření\n1. ve spojitém režimu největší zářivý tok,\n2. v impulsním režimu zářivá energie v jednom impulsu, nejdelší a nejkratší trvání jednoho impulsu, největší a nejmenší opakovací frekvence impulsů,\n3. v impulsním režimu s vysokou opakovací frekvencí údaje jako v bodu 2 a dále největší střední zářivý tok vystupujícího záření,\ne) zařazení laseru do třídy,\nf) údaje o jiných faktorech než záření, vznikajících při chodu laseru, které by mohly nepříznivě ovlivnit pracovní podmínky nebo zdraví,\ng) návod ke správné montáži a instalaci, včetně stavebních a prostorových požadavků,\nh) návod k obsluze za běžných i mimořádných situací, návod k údržbě, a je-li to zapotřebí, důležitá upozornění, jako je zákaz snímání krytu u laserů opatřených krytem nebo upozornění na nebezpečí vyplývající z pozorování paprsku optickými pomůckami,\ni) výrobní číslo laseru a rok jeho výroby, obchodní firma nebo název a sídlo výrobce, jde-li o právnickou osobu, nebo jméno, popřípadě jména, příjmení nebo obchodní firma a místo podnikání výrobce, jde-li o fyzickou osobu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Zjišťování a hodnocení expozice optickému záření",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "(K § 35 a 36 zákona č. 258/2000 Sb.)\n(1) Zjištění úrovně optického záření se provádí na základě měření provedeného autorizovanou osobou4) nebo výpočtem podle vztahů uvedených v přílohách č. 2 a 3 k tomuto nařízení.\n(2) Hodnocení pracovních podmínek při práci spojené s expozicí optickému záření zahrnuje údaje o\na) úrovni, vlnové délce a trvání expozice umělým zdrojům optického záření,\nb) možných účincích na zdraví a bezpečnost zaměstnanců vycházejících z interakce mezi optickým zářením a chemickými látkami s fotosenzibilizujícími účinky,\nc) jakýchkoliv nepřímých účincích, jako je dočasné oslnění, exploze nebo požár,\nd) dostupnosti zařízení umožňující snížit expozici optickému záření,\ne) závěrech kontrolních šetření státního zdravotního dozoru,\nf) počtech zařízení optického záření z umělých zdrojů,\ng) zařazení laseru do třídy podle technické normy3) a o každém umělém zdroji optického záření, který by mohl způsobit poškození zdraví při práci, obdobné poškození laserem zařazeným podle technické normy3) do třídy 3B nebo 4, a dále údaje od výrobců zdrojů optického záření."
+    },
+    {
+      "provision_ref": "§ 11a",
+      "section": "11a",
+      "title": "§ 11a Minimální opatření k ochraně zdraví při práci spojené s expozicí optickému záření",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "(K § 35 a 36 zákona č. 258/2000 Sb.)\n(1) Pokud z hodnocení rizik vyplývá, že mohou být překračovány přípustné expoziční limity optického záření, zaměstnavatel musí přijmout tato opatření:\na) navrhnout pracovní postup, kterým se sníží riziko z expozice optickému záření,\nb) zajistit snížení emise optického záření technickými opatřeními pomocí stínění nebo jiných blokovacích zařízení,\nc) zajistit vhodné programy údržby zařízení,\nd) zajistit prostorové uspořádání pracoviště tak, aby bylo zajištěno omezení rizika plynoucího z expozice optickému záření,\ne) zajistit vhodné osobní ochranné pracovní prostředky,\nf) opatřit pracoviště bezpečnostními značkami podle zvláštního právního předpisu5).\n(2) Zaměstnavatel musí zajistit, aby zaměstnanci byli prokazatelně informováni o výsledcích hodnocení, měření nebo výpočtech úrovně expozice optickému záření.\n(3) Zaměstnavatel musí zajistit školení zaměstnanců zaměřené na\na) způsob, jak rozpoznat zdraví škodlivé účinky optického záření,\nb) hlášení zdravotních obtíží,\nc) postupy k minimalizaci rizik souvisejících s expozicí optickému záření,\nd) správné používání osobních ochranných pracovních prostředků.\n3) § 4a zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.\nČSN EN 60825-1:2007.\n4) § 83a odst. 1 písm. g) zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2003 Sb.\n5) Nařízení vlády č. 11/2002 Sb., kterým se stanoví vzhled a umístění bezpečnostních značek a zavedení signálů, ve znění nařízení vlády č. 405/2004 Sb.“.\n8. V příloze č. 1 pod tabulkou č. 1 ve vysvětlivce a) se za slovy „filtrem s frekvenční charakteristikou“ číslo „22.“ zrušuje.\n9. V příloze č. 1 bodě 4 se slova „případně pro hustotu zářivé energie,“ zrušují.\n10. V příloze č. 1 pod tabulkou č. 6 se slova „uvedené v tabulkách č. 1 a 2“ nahrazují slovy „uvedené v tabulkách č. 4 a 5“.\n11. V příloze č. 1 bodě 6 se slova „uvedené v tabulkách č. 1, 2 a 3“ nahrazují slovy „uvedené v tabulkách č. 4, 5 a 6“.\n12. V příloze č. 1 pod tabulkou č. 9 se slova „uvedené v tabulkách č. 4 a 5“ nahrazují slovy „uvedené v tabulkách č. 7 a 8“.\n13. V nadpisu přílohy č. 2 se slova „a ostatních osob“ zrušují.\n14. V příloze č. 3 se tabulky č. 8 až 11 zrušují."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„ČÁST ČTVRTÁ - OCHRANA ZDRAVÍ ZAMĚSTNANCŮ PŘED NEPŘÍZNIVÝMI ÚČINKY OPTICKÉHO ZÁŘENÍ",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. května 2010."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Optickým zářením",
+      "definition": "záření z umělých zdrojů ve frekvenční oblasti od 3·1011 Hz do 1,7·1015 Hz, odpovídající vlnovým délkám od 100 nm do 1 mm, jehož spektrum se dělí na",
+      "source_provision": "§ 8"
+    },
+    {
+      "term": "Pro účely tohoto nařízení se laserem",
+      "definition": "jakékoliv zařízení, které může být upraveno k vytváření nebo zesilování elektromagnetického záření v rozsahu vlnových délek optického záření primárně procesem kontrolované stimulované emise",
+      "source_provision": "§ 8"
+    }
+  ]
+}

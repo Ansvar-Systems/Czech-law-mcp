@@ -1,0 +1,27 @@
+{
+  "id": "cz:467/2017",
+  "type": "statute",
+  "title": "467/2017 Sb., Vyhláška, kterou se mění vyhláška č. 133/2013 Sb., o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání, ve znění vyhlášky č. 177/2016 Sb.",
+  "title_en": "",
+  "short_name": "467/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-12-28",
+  "in_force_date": "2018-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2017/467",
+  "description": "Vyhláška, kterou se mění vyhláška č. 133/2013 Sb., o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání, ve znění vyhlášky č. 177/2016 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 133/2013 Sb., o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání, ve znění vyhlášky č. 177/2016 Sb., se mění takto:\n1. V § 2 odst. 1 se věta druhá zrušuje.\n2. V § 6 se slova „z významných veřejných zakázek zakázek6)“ nahrazují slovy „z veřejných zakázek o předpokládané hodnotě 300 mil. Kč a vyšší“.\nPoznámka pod čarou č. 6 se zrušuje.\n3. V příloze č. 1 Vzory formulářů č. 1/1 a č. 1/2 znějí:\n“.\n4. V příloze č. 1 Vzor formuláře č. 1/5 zní:\n„Vzor formuláře č. 1/5\nstrana 1\nPřehled o rozpočtu nákladů a výnosů státních příspěvkových organizací a další doplňující údaje - hlavní činnost\nMetodické informace k předání výkazu:\n1. Výkaz je do centrálního systému účetních informací státu (dále „CSÚIS“) předkládán v Kč s přesností na dvě desetinná místa.\n2. Výkaz je Ministerstvem financí naplánován v CSÚIS k 31. 7. roku N-1.\n3. Správce kapitoly:\n3.1 ověřuje v CSÚIS správnost sumáře za kapitolu na základě údajů předložených příslušnými státními příspěvkovými organizacemi (dále jen „SPO“);\n3.2 zajišťuje v případě zjištění nedostatků opravu předávaných údajů u příslušných SPO;\n3.3 schvaluje sumář za kapitolu v CSÚIS na úrovni kapitoly;\n3.4 opis sumáře za kapitolu celkem vytiskne v CSÚIS, podepíše a předloží v rámci návrhu rozpočtu své kapitoly.\n4. V případě změn v údajích za danou SPO v návaznosti na další běhy návrhu rozpočtu (tj. v období srpen až prosinec roku N-1), je nutné zaslat nový Přehled, a to opětovně s datem k 31. 7. roku N-1. Následně je třeba opět schválit sumář za kapitolu. Do schválení zákona o státním rozpočtu na rok N Poslaneckou sněmovnou Parlamentu ČR nebude výkaz z úrovně Ministerstva financí schvalován.\nTechnický způsob předávání výkazu:\n1. Podrobnější popis zaslání přehledu do centrálního systému účetních informací státu (CSÚIS) je uveden v Technickém manuálu publikovaném na adrese http://www.statnipokladna.cz/cs/csuis/technicke-informace.\n2. K zaslání výkazu je nutno použít XSD schéma „Fin_SPO-RIS“ z XSD balíčku publikovaného na shodné adrese uvedené v předchozím bodě.\n3. Vzorový výkaz XML je součástí výše uvedeného XSD balíčku.\n“.\n5. V příloze č. 2 Vzor formuláře č. 2/3 zní:\n„Vzor formuláře č. 2/3\n“.\n6. Příloha č. 5 zní:\nVzor formuláře č. 5/1\nVzor formuláře č. 5/2\n“.\n7. Přílohy č. 6 a 7 znějí:\n„Příloha č. 6 k vyhlášce č. 133/2013 Sb.\nVzor formuláře č. 6\nPříloha č. 7 k vyhlášce č. 133/2013 Sb.\nVzor formuláře č. 7\n“.\n8. Přílohy č. 9 a 10 znějí:\n„Příloha č. 9 k vyhlášce č. 133/2013 Sb.\nVzor formuláře č. 9/1\nVzor formuláře č. 9/2\nVzor formuláře č. 9/3\nVzor formuláře č. 9/4\nPříloha č. 10 k vyhlášce č. 133/2013 Sb.\nVzor formuláře č. 10/1\nVzor formuláře č. 10/2\nVzor formuláře č. 10/3\nVzor formuláře č. 10/4\n“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2018.\n6) § 16a zákona č.137/2006 Sb., o veřejných zakázkách."
+    }
+  ],
+  "definitions": []
+}

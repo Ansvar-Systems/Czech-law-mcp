@@ -1,0 +1,27 @@
+{
+  "id": "cz:164/1970",
+  "type": "statute",
+  "title": "164/1970 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "164/1970 Sb.",
+  "status": "in_force",
+  "issued_date": "1970-12-30",
+  "in_force_date": "1970-12-30",
+  "url": "https://www.e-sbirka.cz/sb/1970/164",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. a) V části II v § 8 zákona č. 134/1970 Sb. došlo k chybě v tisku tak, že v první větě bylo vytištěno nesprávně „z rozpočtových federálních ministerstev“ místo správného znění „z rozpočtových kapitol federálních ministerstev“.\nb) V registraci rozkazu ministra spravedlnosti ČSR č. 28/1970 v částce 46/1970 Sb., str. 708 došlo k chybě v tisku tak, že místo správného textu „úplné znění Řádu výkonu vazby“ bylo nesprávně vytištěno „úplné znění Řádu výkonné vazby“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 33 odst. 3 zákona č. 116/1970 Sb. vznikla tisková chyba, která se opravuje tak, že text „znova do konca roka“ správně zní „znova od konca roka“."
+    }
+  ],
+  "definitions": []
+}

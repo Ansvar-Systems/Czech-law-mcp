@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:334/1950",
+  "type": "statute",
+  "title": "334/1950 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se vyhlašuje příspěvkový řád Jednotného svazu českých zemědělců.",
+  "title_en": "",
+  "short_name": "334/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-06",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/334",
+  "description": "Vyhláška ministerstva zemědělství, kterou se vyhlašuje příspěvkový řád Jednotného svazu českých zemědělců.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Příjmy Svazu.",
+      "content": "Správní náklady Svazu a jeho složek se hradí:\n1. členskými příspěvky,\n2. zvláštními příspěvky,\n3. příspěvkem státu,\n4. jinými příjmy (dary a pod.)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Členské příspěvky.",
+      "content": "Výši členských příspěvků fysických a právnických osob, které jsou členy Svazu, stanoví každoročně se souhlasem ministerstva zemědělství do 30. června pro příští rok ústřední výbor Svazu. Nebyla-li do této doby výše příspěvků nově stanovena, platí dosavadní příspěvky i pro příští rok, po případě pro další roky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Výše členských příspěvků.",
+      "content": "(1) Výše členských příspěvků fysických a právnických osob se stanoví podle celkové výměry obhospodařené zemědělské a lesní půdy takto:\nCelková výměra:Čtvrtletní příspěvek:Roční příspěvek:\ndo 2 ha5,— Kčs20,— Kčs\nnad 2 ha až do 5 ha10,— Kčs40,— Kčs\nnad 5 ha až do 15 ha20,— Kčs80,— Kčs\nnad 15 ha50,— Kčs200,— Kčs.\n(2) Pro členy jednotných zemědělských družstev druhého a vyšších typů a pro členy zemědělských výrobních družstev se stanoví členský příspěvek částkou 5 Kčs čtvrtletně.\n(3) Pro rodinné příslušníky, t. j. pro zemědělské ženy a mládež od 16 do 21 let, se stanoví čtvrtletní příspěvek ve výši 5 Kčs. Pro zemědělské pracovníky, t. j. pro profesory a učitele zemědělských škol, zaměstnance hospodářských družstev, Ústřední rady odborů, Jednotného svazu českých zemědělců a okresních národních výborů, pro lidové výzkumníky a pod. se stanoví jednotný čtvrtletní příspěvek v částce 15 Kčs."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Účel a stanovení výše zvláštních příspěvků.",
+      "content": "(1) K úhradě správních nákladů vzniklých prováděním odborné činnosti Svazu, ze které určitá odvětví zemědělské výroby mají prospěch, může Svaz vybírati zvláštní příspěvky.\n(2) Výši zvláštních příspěvků stanoví předsednictvo Svazu se schválením ministerstev zemědělství, výživy a financí.\n(3) Výši zvláštních příspěvků, které možno srážeti s ceny produktů zemědělské a lesní prvovýroby, se určí při stanovení ceny těchto produktů v příslušné cenové vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Jiné příjmy Svazu.",
+      "content": "(1) Jinými příjmy Svazu a jeho složek se rozumějí zejména výnosy z podniků a z majetku Svazu a jeho složek. Za jiné příjmy Svazu se považují též příspěvky organisací a zařízení přičleněných ke Svazu.\n(2) Výši příspěvku organisací a zařízení přičleněných ke Svazu stanoví se souhlasem ministerstva zemědělství předsednictvo Svazu po slyšení příslušné organisace, po případě zařízení."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Vyměřování a vybírání příspěvků.",
+      "content": "(1) Členské příspěvky členů Svazu předepisuje a vybírá čtvrtletně výbor místního sdružení Svazu podle příspěvkových sazeb uvedených v § 2.\n(2) Příspěvky členů Svazu mohou býti vymáhány správní exekucí na podkladě výkazu nedoplatků, potvrzeného Svazem."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7. Zánik povinnosti platit příspěvky.",
+      "content": "Zanikne-li členství ve Svazu, zaniká povinnost platit členské příspěvky počátkem čtvrtletí, které následuje po čtvrtletí, v němž členství zaniklo."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:171/1952",
+  "type": "statute",
+  "title": "171/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 63 5050.",
+  "title_en": "",
+  "short_name": "171/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-07-08",
+  "in_force_date": "1952-07-23",
+  "url": "https://www.e-sbirka.cz/ul0/1952/171",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 63 5050.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 63 5050 „Gumové pásy pro transportéry. Zkoušení a přejímání“ je od 1. srpna 1952 technickou státní normou; tato norma jest směrná."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma platí pro zkoušení, přejímání, balení a uskladnění gumových pásů pro transportéry. Jedná zájmena o braní zkušebních vzorů, o provádění kontroly, o jednotlivých způsobech zkoušek a pod."
+    }
+  ],
+  "definitions": []
+}

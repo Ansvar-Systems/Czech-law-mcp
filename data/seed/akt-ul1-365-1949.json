@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:365/1949",
+  "type": "statute",
+  "title": "365/1949 Ú. l. I, Vyhláška ministerstva vnitra o stanovení nových úředních názvů míst.",
+  "title_en": "",
+  "short_name": "365/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-02-25",
+  "in_force_date": "1949-02-25",
+  "url": "https://www.e-sbirka.cz/ul1/1949/365",
+  "description": "Vyhláška ministerstva vnitra o stanovení nových úředních názvů míst.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V dosavadním okrese Fryštát, nyní Karviná, pro obec vzniklou sloučením Darkova, Fryštátu, Karvinné, Ráje a Starého Města název Karviná s těmito místními částmi (městskými čtvrtěmi):\nKarviná 1 - město (dosavadní Fryštát, Karviná 2-Doly, Karviná 3-Darkov, Karviná 4-Ráj a Karviná 5 - Staré Město. Název Fryštát zaniká."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V dosavadním okrese Horní Litvínov, nyní Litvínov, pro obec vzniklou sloučením Dolního (Litvínova, Horního Litvínova, Chudeřína, Louky a Rauschengrundu název Litvínov; názvy sloučených obcí a jejich osad zůstávají úředními názvy částí nové obce."
+    }
+  ],
+  "definitions": []
+}

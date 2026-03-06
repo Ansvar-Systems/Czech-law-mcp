@@ -1,0 +1,51 @@
+{
+  "id": "cz:n13/1992",
+  "type": "statute",
+  "title": "n13/1992 Sb., Opatření Státní banky československé, kterým se stanoví minimální výše likvidních prostředků",
+  "title_en": "",
+  "short_name": "n13/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-03-24",
+  "in_force_date": "1992-03-24",
+  "url": "https://www.e-sbirka.cz/sb/1992/n13",
+  "description": "Opatření Státní banky československé, kterým se stanoví minimální výše likvidních prostředků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Minimální výše likvidních prostředků bank a poboček zahraničních bank (dále jen „banky“) činí\na) 8 % ze závazků na viděnou vůči všem osobám s výjimkou bank;\nb) 2 % z termínovaných závazků vůči všem osobám s výjimkou bank."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Závazky podle § 1 se rozumí závazky v československých korunách i závazky znějící na cizí měnu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Likvidní prostředky stanovené podle § 1 jsou banky povinny uložit na účtě u Státní banky československé jako povinné minimální rezervy.1)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Povinné minimální rezervy se neúročí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto opatření nabývá účinnosti dnem 1. února 1992.\n1) § 30 zákona č. 22/1992 Sb., o Státní bance československé."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Závazky podle § 1",
+      "definition": "závazky v československých korunách i závazky znějící na cizí měnu",
+      "source_provision": "§ 2"
+    }
+  ]
+}

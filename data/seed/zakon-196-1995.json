@@ -1,0 +1,27 @@
+{
+  "id": "cz:196/1995",
+  "type": "statute",
+  "title": "196/1995 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se podrobněji stanoví podmínky dodávek plynu a způsob výpočtu škody způsobené neoprávněným odběrem plynu",
+  "title_en": "",
+  "short_name": "196/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-09-22",
+  "in_force_date": "2001-07-24",
+  "url": "https://www.e-sbirka.cz/sb/1995/196",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se podrobněji stanoví podmínky dodávek plynu a způsob výpočtu škody způsobené neoprávněným odběrem plynu",
+  "provisions": [
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Podíl odběratele na účelně vynaložených nákladech dodavatele spojených s připojením a se zajištěním požadované dodávky",
+      "content": "(1) Podílem odběratele na účelně vynaložených nákladech dodavatele spojených s připojením a se zajištěním požadované dodávky je část nákladů, které dodavatel vynaložil za účelem připojení konkrétního odběrného místa na rozvodné zařízení a zajištění odběratelem požadované dodávky plynu.\n(2) Podíl odběratele na účelně vynaložených nákladech dodavatele spojených s připojením se sjednává pro každý případ zvlášť v souladu s cenovými předpisy.1)\n(3) Účelně vynaložené náklady dodavatele spojené se zajištěním požadované dodávky jsou náklady, které dodavatel vynaložil na vybudování nových nebo zvýšení výkonu stávajících rozvodných zařízení bezprostředně souvisejících s touto dodávkou.\n(4) Výše účelně vynaložených nákladů dodavatele spojených se zajištěním požadované dodávky připadající na konkrétního odběratele se stanoví výpočtem uvedeným v příloze č. 1 této vyhlášky.\n(5) Podíl odběratele na účelně vynaložených nákladech dodavatele spojených se zajištěním požadované dodávky činí maximálně 50 % nákladů vypočtených podle odstavce 4."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Zákon č. 526/1990 Sb., o cenách, ve znění zákona č. 135/1994 Sb.\nPříloha č. 1 k vyhlášce č. 196/1995 Sb.\nZpůsob výpočtu účelně vynaložených nákladů dodavatele spojených se zajištěním požadované dodávky\nVýše účelně vynaložených nákladů dodavatele spojených se zajištěním požadované dodávky plynu připadající na konkrétního odběratele se stanoví takto:\nUNO=Ni . P/k ,\nkde\nUNO - účelně vynaložené náklady dodavatele spojené se zajištěním požadované dodávky připadající na konkrétního odběratele,\nNi - investiční náklady vynaložené dodavatelem na rozvodné zařízení bezprostředně související s dodávkou,\nP - požadovaný hodinový příkon odběratele,\nk - instalovaná hodinová kapacita rozvodného zařízení bezprostředně souvisejícího s dodávkou."
+    }
+  ],
+  "definitions": []
+}

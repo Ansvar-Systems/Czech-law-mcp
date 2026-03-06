@@ -1,0 +1,51 @@
+{
+  "id": "cz:388/2006",
+  "type": "statute",
+  "title": "388/2006 Sb., Vyhláška o čistých nákladech univerzální služby v elektronických komunikacích",
+  "title_en": "",
+  "short_name": "388/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-08-08",
+  "in_force_date": "2022-03-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/388",
+  "description": "Vyhláška o čistých nákladech univerzální služby v elektronických komunikacích",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Touto vyhláškou se stanoví postup při výpočtu a stanovení čistých nákladů na poskytování univerzální služby v elektronických komunikacích včetně kritérií posuzování neúnosné zátěže, postupu pro výpočet čistých nákladů na poskytování dílčí služby, postup pro vymezení tržních výhod a doklady, kterými musí být tyto výpočty doloženy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Výpočet čistých nákladů na dílčí služby poskytované v rámci univerzální služby",
+      "content": "(1) Čisté náklady1) na poskytování univerzální služby se vypočítají jako součet čistých nákladů na jednotlivé dílčí služby poskytované v rámci univerzální služby.\n(2) Čisté náklady na dílčí službu vyjádřené v Kč se vypočítají podle vzorce:\nČN=Nv-TVus+NIus,\nkde je\nČN čisté náklady na dílčí službu\nNv náklady, kterým by se podnikatel vyhnul, kdyby neměl povinnost poskytovat univerzální službu, které jsou rozdílem mezi efektivně a účelně vynaloženými náklady na dílčí službu podnikatele s povinností poskytovat univerzální službu a efektivně a účelně vynaloženými náklady na dílčí službu podnikatele bez povinnosti poskytovat univerzální službu (EÚVNus – EÚVN)\nTVus tržní výhody podnikatele s povinností poskytovat univerzální službu\nNIus přiměřený objem návratnosti investic vynaložených na poskytování dílčí služby.\n(3) Efektivně a účelně vynaloženými náklady podnikatele s povinností poskytovat dílčí univerzální službu jsou náklady prokazatelně nezbytné k poskytování této služby v kvalitě a za podmínek stanovených vyhláškou č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot, a vykazované v souladu s opatřením obecné povahy vydaném na základě § 86 odst. 3 zákona.\n(4) Efektivně a účelně vynaloženými náklady podnikatele bez povinnosti poskytovat dílčí univerzální službu jsou náklady prokazatelně nezbytné k poskytování dílčí univerzální služby v kvalitě a za podmínek stanovených vyhláškou č. 162/2005 Sb., o stanovení parametrů kvality univerzální služby a jejich mezních hodnot, a vykazované v souladu s opatřením obecné povahy vydaném na základě § 86 odst. 3 zákona, které by podnikatel vynaložil v situaci, kdy by neměl uloženu povinnost poskytovat univerzální službu.\n(5) Přiměřený objem návratnosti investic se určí jako součin procenta návratnosti vloženého kapitálu před zdaněním, které je stanoveno v opatření obecné povahy vydaném na základě § 86 odst. 3 zákona, a zůstatkové ceny investice prokazatelně nezbytné k poskytování dílčí služby stanovené jako průměr za zúčtovací období.\n(6) Tržní výhoda z poskytování dílčí služby se určí jako součet výnosů z poskytování dílčí služby, výnosů souvisejících s poskytováním dílčí služby a peněžního vyčíslení nepřímých výhod, které má podnikatel s povinností poskytovat dílčí službu. Nepřímou výhodou je úspora nákladů dosažená v souvislosti s poskytováním dílčí služby."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Kritéria posuzování neúnosné zátěže",
+      "content": "Úřad při posuzování neúnosné zátěže použije kritéria:\na) porovnání celkové výše čistých nákladů podnikatele s povinností poskytovat dílčí službu se ziskem tohoto podnikatele před zdaněním a\nb) porovnání celkové výše čistých nákladů podnikatele s povinností poskytovat dílčí službu s celkovou výší výnosů z výkonu komunikační činnosti tohoto podnikatele.\nZiskem před zdaněním se pro účely této vyhlášky rozumí provozní zisk z výkonu komunikační činnosti tohoto podnikatele."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Doklady, kterými musí být výpočty čistých nákladů doloženy",
+      "content": "(1) Poskytovatel univerzální služby, který žádá o úhradu čistých nákladů, předkládá Úřadu spolu s výpočtem čistých nákladů podle § 2 za zúčtovací období\na) účetní závěrku sestavenou podle zvláštního právního předpisu2),\nb) výsledky oddělené evidence nákladů a výnosů,\nc) odpisový plán2) a uplatněné odpisy za zúčtovací období,\nd) přehled nákladů, které by poskytovateli univerzální služby nebyly vznikly, kdyby mu nebyla uložena povinnost univerzální služby,\ne) seznam a vyčíslení tržních výhod podložené doklady z účetnictví.\n(2) Poskytovatel, který poskytuje dílčí službu podle § 38 odst. 2 písm. a) zákona, předkládá Úřadu za zúčtovací období společně s doklady uvedenými v odstavci 1 seznam nově zřízených a zprovozněných koncových bodů, využívaných pro přístup k internetu v pevném místě s uvedením průměrných jednotkových nákladů na zřízení koncového bodu sítě a celkový počet provozovaných koncových bodů sítě využívaných pro přístup k internetu.\n(3) Poskytovatel, který poskytuje dílčí službu podle § 38 odst. 2 písm. b) zákona, předkládá Úřadu za zúčtovací období společně s doklady uvedenými v odstavci 1 výkaz s uvedením celkového počtu provozovaných koncových bodů sítě, využívaných pro hlasovou komunikační službu v pevném místě a seznam nově zřízených a zprovozněných koncových bodů, využívaných pouze pro hlasovou komunikační službu s uvedením průměrných jednotkových nákladů na zřízení koncového bodu sítě.\n(4) Poskytovatel, který poskytuje dílčí službu podle § 38 odst. 2 písm. c) zákona, předkládá Úřadu za zúčtovací období společně s doklady uvedenými v odstavci 1 seznam spotřebitelů, kterým bylo poskytnuto speciálně vybavené telekomunikační koncové zařízení v daném roce, a seznam spotřebitelů, kteří využívají speciální tarif podle § 43 odst. 2 písm. b) zákona.\n(5) Poskytovatel, který poskytuje dílčí službu podle § 38 odst. 2 písm. d) bodů 2 a 4 zákona, předkládá Úřadu za zúčtovací období společně s doklady uvedenými v odstavci 1 seznam spotřebitelů, kterým byla poskytnuta doplňková služba, s uvedením výše cenového zvýhodnění.\n(6) Poskytovatel, který poskytuje zvláštní ceny podle § 38 odst. 3 zákona, předkládá Úřadu za zúčtovací období seznam osob se zvláštními sociálními potřebami a, kterým byly poskytnuty zvláštní ceny podle § 38 odst. 4 zákona, s uvedením výše cenového zvýhodnění."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvním dnem měsíce následujícího po dni jejího vyhlášení.\n1) § 48 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů.\n2) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ziskem před zdaněním",
+      "definition": "provozní zisk z výkonu komunikační činnosti tohoto podnikatele",
+      "source_provision": "§ 3"
+    }
+  ]
+}

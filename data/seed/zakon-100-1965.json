@@ -1,0 +1,33 @@
+{
+  "id": "cz:100/1965",
+  "type": "statute",
+  "title": "100/1965 Sb., Vyhláška Ústřední správy nákupu zemědělských výrobků o zrušení povinného odprodeje sádla",
+  "title_en": "",
+  "short_name": "100/1965 Sb.",
+  "status": "in_force",
+  "issued_date": "1965-10-09",
+  "in_force_date": "1965-10-09",
+  "url": "https://www.e-sbirka.cz/sb/1965/100",
+  "description": "Vyhláška Ústřední správy nákupu zemědělských výrobků o zrušení povinného odprodeje sádla",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Povinný odprodej sádla z domácích porážek prasat se ruší."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušují se ustanovení § 7, jakož i ustanovení § 10 vyhlášky Ústřední správy nákupu zemědělských výrobků č. 48/1963 Sb., o domácích porážkách prasat, povinném odprodeji sádla a nákupu kůží z těchto porážek, pokud upravují povinný odprodej sádla."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

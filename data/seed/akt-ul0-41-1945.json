@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:41/1945",
+  "type": "statute",
+  "title": "41/1945 Ú. l., Vyhláška č. 3/1945 Svazu pro hospodaření s obilím, kterou se rozšiřuje platnost tržního řádu na pohraniční území.",
+  "title_en": "",
+  "short_name": "41/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-20",
+  "in_force_date": "1945-06-20",
+  "url": "https://www.e-sbirka.cz/ul0/1945/41",
+  "description": "Vyhláška č. 3/1945 Svazu pro hospodaření s obilím, kterou se rozšiřuje platnost tržního řádu na pohraniční území.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ustanovení tržního řádu pro hospodářský rok 1944/1945 vydaná Svazem pro hospodaření obilím pro území okupované po 15. březnu 1939, platí počínajíc dnem 25. června 1945 i pro území pohraniční, t. j. pro území okupované před 15. březnem 1939."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pokud zvláštní poměry v pohraničním území by vyžadovaly přechodných opatření, budou upravena oběžníky Svazu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Majitelům zboží v pohraničním území nevznikají a titulu cenové úpravy (vzhledem k ustanovení § 1) žádné právní nároky na náhradu škody; případný zisk z těchto rozdílů budou však majitelé povinni odvésti Svazu podle předpisů, které o tom budou vydány."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ke dni 24. června 1945 budiž proveden v pohraničním území ve všech podnicích přesný soupis všeho zboží obhospodařovaného Svazem a zásoby oceněny jednak podle cen platných v pohraničním území, jednak podle cen stanovených pro území okupované po 15. březnu 1939."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

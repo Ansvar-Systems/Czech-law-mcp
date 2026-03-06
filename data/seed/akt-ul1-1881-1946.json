@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1881/1946",
+  "type": "statute",
+  "title": "1881/1946 Ú. l. I, Vyhláška ministra pošt, kterou se určuje doba zahájení činnosti ředitelství pošt v Plzni.",
+  "title_en": "",
+  "short_name": "1881/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-10-16",
+  "in_force_date": "1946-10-16",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1881",
+  "description": "Vyhláška ministra pošt, kterou se určuje doba zahájení činnosti ředitelství pošt v Plzni.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ředitelství pošt v Plzni zahajuje činnost dne 1. prosince 1946."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tímto dnem se ruší inspekční správa ředitelství pošt v Praze se sídlem v Plzni."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

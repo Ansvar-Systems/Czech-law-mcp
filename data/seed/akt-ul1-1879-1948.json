@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1879/1948",
+  "type": "statute",
+  "title": "1879/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Rakovnických keramických závodů, národního podniku.",
+  "title_en": "",
+  "short_name": "1879/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-08-18",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1879",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Rakovnických keramických závodů, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Chomutovská šamotová továrna Eduard Kohn, se sídlem v Chomutově,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Rakovnická keramická továrna „Keram“ A. Brok, se sídlem v Rakovníku čp. 758,\nvesměs v rozsahu jejich znárodnění, do Rakovnických keramických závodů, národního podniku."
+    }
+  ],
+  "definitions": []
+}

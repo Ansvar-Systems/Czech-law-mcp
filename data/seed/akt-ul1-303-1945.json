@@ -1,0 +1,21 @@
+{
+  "id": "cz:ul1:303/1945",
+  "type": "statute",
+  "title": "303/1945 Ú. l. I, Oprava vyhlášky ministra vnitřního obchodu ze dne 30. září 1945 o úpravě spotřeby podkování.",
+  "title_en": "",
+  "short_name": "303/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-10-10",
+  "in_force_date": "1945-10-10",
+  "url": "https://www.e-sbirka.cz/ul1/1945/303",
+  "description": "Oprava vyhlášky ministra vnitřního obchodu ze dne 30. září 1945 o úpravě spotřeby podkování.",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "§ 5, odst. 4 — věta správně zní:\n„Přirážku 25% u ozubů a hmatců\"\nmísto nesprávného:\n„Přirážku 23% u ozubů a hmatců“."
+    }
+  ],
+  "definitions": []
+}

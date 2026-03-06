@@ -1,0 +1,55 @@
+{
+  "id": "cz:115/1976",
+  "type": "statute",
+  "title": "115/1976 Sb., Vyhláška ministra zahraničních věcí o Smlouvě mezi Československou socialistickou republikou a Italskou republikou o zamezení dvojího zdanění příjmů a majetku v oboru námořní a letecké dopravy",
+  "title_en": "",
+  "short_name": "115/1976 Sb.",
+  "status": "in_force",
+  "issued_date": "1976-10-01",
+  "in_force_date": "1976-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1976/115",
+  "description": "Vyhláška ministra zahraničních věcí o Smlouvě mezi Československou socialistickou republikou a Italskou republikou o zamezení dvojího zdanění příjmů a majetku v oboru námořní a letecké dopravy",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Níže uvedeným výrazům je pro účely této smlouvy nutno rozumět takto:\n1. „Prováděním námořní a letecké dopravy“ se rozumí výdělečná činnost, zaměřená na námořní a leteckou dopravu osob, zvířat, zboží a poštovních zásilek, prováděná vlastníky, nájemci, rejdaři nebo provozovateli lodí nebo letadel, včetně prodeje jízdenek a podobných dokumentů pro dopravu cestujících a zboží.\n2. „Československými podniky“ se rozumí československý stát, československé státní organizace, buď charakteru celostátního nebo místního, fyzické osoby, jejichž bydliště je pro daňové účely v Československu a nikoli v Itálii, právě tak jako kapitálové a osobní společnosti, zřízené podle československých zákonů, jejichž sídlo skutečného vedení je umístěno na území Československé socialistické republiky.\n3. „Italskými podniky“ se rozumí italský stát a italské státní organizace, buď charakteru celostátního nebo místního, fyzické osoby, jejichž bydliště je pro daňové účely v Itálii a nikoli v Československu, právě tak jako kapitálové a osobní společnosti, zřízené podle italských zákonů, jejichž sídlo skutečného vedení je umístěno na území Italské republiky."
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "1. Československá vláda se zavazuje osvobodit příjmy a majetek v oboru námořní a letecké dopravy mezi Československem, Itálií a jinými zeměmi, prováděné pod státní vlajkou italskými podniky, které se zabývají takovou činností, od daní z příjmů a majetku a ode všech jiných daní, které se vybírají z příjmů a majetku, podléhajících zdanění v Československu.\n2. Italská vláda se zavazuje osvobodit příjmy a majetek v oboru námořní a letecké dopravy mezi Itálií, Československem a jinými zeměmi, prováděné pod státní vlajkou československými podniky, které se zabývají takovou činností, od daní z příjmů a majetku a ode všech jiných daní, které se vybírají z příjmů a majetku, podléhajících zdanění v Itálii.\n3. Daňové osvobození, o němž se pojednává v předchozích odstavcích 1 a 2, se vztahuje také na československé a italské podniky námořní a letecké dopravy, které jsou účastníky společného fondu, „poolu“, společného provádění dopravy nebo mezinárodní organizace pro provádění dopravy, pokud jde o příjmy a majetek zmíněných podniků."
+    },
+    {
+      "provision_ref": "Článek 3",
+      "section": "3",
+      "title": "Článek 3",
+      "content": "Tato smlouva podléhá ratifikaci nebo schválení podle příslušných ústavních předpisů, platných v obou smluvních státech, a nabude platnosti dnem výměny listin potvrzujících tuto ratifikaci nebo schválení. Její účinnost se bude vztahovat na příjmy a majetek v oboru námořní a letecké dopravy, uskutečněné od 1. ledna 1966."
+    },
+    {
+      "provision_ref": "Článek 4",
+      "section": "4",
+      "title": "Článek 4",
+      "content": "Tato smlouva zůstane v platnosti po neomezenou dobu. Každá z obou vlád bude však moci ji vypovědět písemnou šestiměsíční výpovědí. V takovém případě smlouva pozbude účinnosti 1. ledna roku následujícího po uplynutí této šestiměsíční lhůty."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prováděním námořní a letecké dopravy",
+      "definition": "výdělečná činnost, zaměřená na námořní a leteckou dopravu osob, zvířat, zboží a poštovních zásilek, prováděná vlastníky, nájemci, rejdaři nebo provozovateli lodí nebo letadel, včetně prodeje jízdenek a podobných dokumentů pro dopravu cestujících a zboží",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "Československými podniky",
+      "definition": "československý stát, československé státní organizace, buď charakteru celostátního nebo místního, fyzické osoby, jejichž bydliště je pro daňové účely v Československu a nikoli v Itálii, právě tak jako kapitálové a osobní společnosti, zřízené podle československých zákonů, jejichž sídlo skutečného vedení je umístěno na území Československé socialistické republiky",
+      "source_provision": "Článek 1"
+    },
+    {
+      "term": "Italskými podniky",
+      "definition": "italský stát a italské státní organizace, buď charakteru celostátního nebo místního, fyzické osoby, jejichž bydliště je pro daňové účely v Itálii a nikoli v Československu, právě tak jako kapitálové a osobní společnosti, zřízené podle italských zákonů, jejichž sídlo skutečného vedení je umístěno na území Italské republiky",
+      "source_provision": "Článek 1"
+    }
+  ]
+}
