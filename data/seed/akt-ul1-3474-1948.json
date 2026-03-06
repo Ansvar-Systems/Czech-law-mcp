@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:3474/1948",
+  "type": "statute",
+  "title": "3474/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového, kterou se mění a doplňuje vyhláška nejvyššího úřadu cenového o cenách vína a míšených nápojů ze dne 29. ledna 1948.",
+  "title_en": "",
+  "short_name": "3474/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-12-30",
+  "in_force_date": "1949-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/3474",
+  "description": "Vyhláška nejvyššího úřadu cenového, kterou se mění a doplňuje vyhláška nejvyššího úřadu cenového o cenách vína a míšených nápojů ze dne 29. ledna 1948.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Vyhláška nejvyššího úřadu cenového ze dne 29. ledna 1948, č. 179 Ú. l. I, o cenách vína a míšených nápojů v hostinských podnicích se mění a doplňuje takto:\n1. § 2, odst. 2 zní:\n„Nákupní cenou vína ve smyslu odstavce 1 se rozumí přípustná nákupní cena vína, kterou účtuje velkoobchod hostinským podnikům, avšak bez všeobecné daně.“\n2. § 5 zní:\n„Ceny vypočtené podle §§ 2— neobsahují obecní dávky: k těmto cenám se připočte všeobecná daň. Všeobecnou daň z vlastních zásob hradí podnik z přirážek, přípustných podle § 2 této vyhlášky.“\n3. § 7 zní:\n„(1) Z ustanovení této vyhlášky jsou vyňaty závodní kuchyně, kantiny a podobné podniky.\n(2) U barů a nočních podniků nesmí být do základu pro výpočet obchodního rozpětí zahrnuta všeobecná daň ani všeobecná daň ze zásob vína.“\n4. § 8, odst. 1 zní:\n„V hostinských a výčepních místnostech musí být na nápadném a snadno viditelném místě vyvěšeny výčepní a prodejní ceny jednotlivých druhů vína, přípustné podle této vyhlášky. Nápojové lístky je nutno upravit podle výměru nejvyššího úřadu cenového ze dne 7. května 1948, č. j. 30.226-II/6-48.“\n5. § 8, odst. 3 zní:\n„Přirážky podle § 2 smějí být počítány pouze při výčepní a prodeji vína s obsahem alkoholu nejméně 10. obj. %. Při výčepu a prodeji vína s obsahem alkoholu menším, než 10 obj, % se krátí přirážky podle § 2 na polovinu.“"
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1948."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nákupní cenou vína ve smyslu odstavce 1",
+      "definition": "přípustná nákupní cena vína, kterou účtuje velkoobchod hostinským podnikům, avšak bez všeobecné daně",
+      "source_provision": "Čl. I."
+    }
+  ]
+}

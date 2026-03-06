@@ -1,0 +1,33 @@
+{
+  "id": "cz:77/2020",
+  "type": "statute",
+  "title": "77/2020 Sb., Usnesení vlády České republiky o přijetí krizového opatření",
+  "title_en": "",
+  "short_name": "77/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-03-13",
+  "in_force_date": "2020-03-13",
+  "url": "https://www.e-sbirka.cz/sb/2020/77",
+  "description": "Usnesení vlády České republiky o přijetí krizového opatření",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. obviněných uskutečňované podle § 14 zákona č. 293/1993 Sb., o výkonu vazby, ve znění pozdějších předpisů. Zákaz se nevztahuje na návštěvy uskutečňované podle § 14 odst. 9 a 10 a podle § 28 odst. 2 tohoto zákona,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. odsouzených uskutečňované podle § 19 zákona č. 169/1999 Sb., o výkonu trestu odnětí svobody a o změně některých souvisejících zákonů, ve znění pozdějších předpisů,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. chovanců uskutečňované podle § 10 zákona č. 129/2008 Sb., o výkonu zabezpečovací detence a o změně některých souvisejících zákonů, ve znění pozdějších předpisů. Zákaz se nevztahuje na osoby uvedené v § 10 odst. 2 tohoto zákona;"
+    }
+  ],
+  "definitions": []
+}

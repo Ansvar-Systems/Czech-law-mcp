@@ -1,0 +1,33 @@
+{
+  "id": "cz:14/1921",
+  "type": "statute",
+  "title": "14/1921 Sb., Vyhláška ministerstva financí o zřízení odhadních komisí pro daň z příjmu (dôchodkovou), majetkovou a z válečných zisků se sídlem v Munkačevě, Hustoji a Rahově.",
+  "title_en": "",
+  "short_name": "14/1921 Sb.",
+  "status": "in_force",
+  "issued_date": "1921-01-19",
+  "in_force_date": "1921-02-18",
+  "url": "https://www.e-sbirka.cz/sb/1921/14",
+  "description": "Vyhláška ministerstva financí o zřízení odhadních komisí pro daň z příjmu (dôchodkovou), majetkovou a z válečných zisků se sídlem v Munkačevě, Hustoji a Rahově.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. pro obvod odbočky beregszászkého finančního ředitelství v Munkačevě odhadní komise se sídlem v Munkačevě;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. pro obvod finančního ředitelství v Hustoji odhadní komise se sídlem v Hustoji;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. pro obvod finančního ředitelství v Rahově odhadní komise se sídlem v Rahově."
+    }
+  ],
+  "definitions": []
+}

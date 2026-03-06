@@ -1,0 +1,57 @@
+{
+  "id": "cz:328/2013",
+  "type": "statute",
+  "title": "328/2013 Sb., Nařízení vlády o stanovení rozsahu a způsobu poskytovaní údajů do Informačního systému o platech",
+  "title_en": "",
+  "short_name": "328/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-10-16",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2013/328",
+  "description": "Nařízení vlády o stanovení rozsahu a způsobu poskytovaní údajů do Informačního systému o platech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví rozsah údajů o prostředcích na platy a na odměny za pracovní pohotovost, o průměrných výdělcích a o osobních údajích zaměstnanců ovlivňujících výši platu a způsoby jejich poskytování zaměstnavatelem do Informačního systému o platech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah poskytovaných údajů",
+      "content": "(1) Zaměstnavatel, s výjimkou zaměstnavatele podle odstavce 2, poskytuje do Informačního systému o platech údaje o zaměstnanci v rozsahu a členění uvedeném v příloze č. 1 k tomuto nařízení a další údaje za zaměstnavatele v rozsahu a členění uvedeném v příloze č. 2 k tomuto nařízení.\n(2) O zaměstnanci ve zpravodajských službách1) poskytuje zaměstnavatel údaje, které podléhají utajení podle jiného právního předpisu2), v rozsahu a členění uvedeném v příloze č. 3 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob poskytovaní údajů",
+      "content": "(1) Údaje poskytuje zaměstnavatel v elektronické podobě zabezpečeným způsobem s využitím internetové aplikace, která je součástí Informačního systému o platech.\n(2) Zaměstnavatel, s výjimkou územního samosprávného celku, příspěvkové organizace zřízené územním samosprávným celkem, organizační složky územního samosprávného celku a státního fondu, poskytne za první kalendářní pololetí a za celý kalendářní rok (dále jen „sledované období“) vždy do posledního dne kalendářního měsíce následujícího po skončení sledovaného období údaje podle:\na) § 2 odst. 1 správci kapitoly státního rozpočtu (dále jen „správce kapitoly“),\nb) § 2 odst. 2 Ministerstvu financí v režimu odpovídajícím příslušnému stupni utajení stanoveném jiným právním předpisem2).\n(3) Zaměstnavatel, kterým je příspěvková organizace zřízená územním samosprávným celkem a organizační složka územního samosprávného celku, poskytne údaje podle § 2 odst. 1 za sledované období zřizovateli vždy do posledního dne kalendářního měsíce následujícího po skončení sledovaného období.\n(4) Zaměstnavatel, který je státním fondem, poskytne údaje podle § 2 odst. 1 za sledované období Ministerstvu financí vždy do posledního dne kalendářního měsíce následujícího po skončení sledovaného období.\n(5) Správce kapitoly a územní samosprávný celek poskytne údaje podle § 2 odst. 1 za sledované období za všechny zaměstnavatele a zaměstnance ve své působnosti Ministerstvu financí vždy do pátého dne druhého kalendářního měsíce následujícího po skončení sledovaného období."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Společná ustanovení",
+      "content": "(1) Zaměstnavatel, který poskytne chybné údaje, poskytne opravené údaje Ministerstvu financí do 2 pracovních dnů ode dne, kdy zjistil chybu nebo byl na ni upozorněn.\n(2) Ministerstvo financí vede údaje poskytnuté podle § 3 odst. 2 písm. b) v režimu odpovídajícím příslušnému stupni utajení."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Přechodná ustanovení",
+      "content": "(1) Součástí Informačního systému o platech jsou také údaje poskytnuté zaměstnavateli podle nařízení vlády č. 289/2002 Sb., ve znění nařízení vlády č. 514/2004 Sb.\n(2) Údaje za rok 2013 poskytnou zaměstnavatelé podle nařízení vlády č. 289/2002 Sb., ve znění nařízení vlády č. 514/2004 Sb."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2014.\nPříloha č. 1 k nařízení vlády č. 328/2013 Sb.\nDatová struktura údajů o zaměstnanci podle § 2 odst. 1\nČísloNázev ukazateleIdentifikátor3)\na) identifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo osoby (IČO)AA0017\n3.Fyzická osoba – kódAA0126\n4.Rok - ročník (rok narození)AA0231\n5.Pohlaví osoby – kódAA0211\n6.Stupeň nejvyššího dosaženého vzdělání - kódAA0223\n7.Stupeň invalidityAA0085\n8.Kód státuAA0033\n9.Místo obvyklého výkonu práceAA0690\n10.Kód zařízení bez vlastního IČOAA0113\n11.Datum (sběru dat)AA0110\nb) údaje o právním vztahu\n12.Kód postavení v zaměstnáníAA0091\n13.Kód zaměstnáníAA0013\n14.Zaměstnanec ve státní správěAA0125\n15.Druh základního pracovněprávního vztahu – kódAA0130\n16.Týdenní pracovní dobaAA0131\n17.Doba zaměstnání u zaměstnavateleAA0225\nc) údaje o pracovní době\n18.Evidenční dny v zaměstnáníAA0218\n19.Počet hodin nepřítomnosti v práciAA0744\n20.Odpracovaná doba včetně přesčasové práceAA0132\n21.Práce přesčasAA0133\n22.Neodpracovaná doba s náhradou platu celkemAA0134\n23Neodpracovaná doba s náhradou platu – dovolenáAA0135\n24.Koeficient průměrného evidenčního stavu zaměstnance přepočtenýAA0136\n25.Kód evidenčního stavu zaměstnance k poslednímu dni sledovaného obdobíAA0137\n26.Datum vynětí z evidenčního stavuAA0568\nd) údaje o dočasné pracovní neschopnosti a karanténě\n27.Počet hodin dočasné pracovní neschopnosti a karantényAA0745\n28.Počet hodin nemoci bez nemocenskéhoAA1587\n29.Náhrady platu za nemoc zúčtované k výplatěAA0750\ne) údaje o přiznaných složkách platu\n30.Platová třída zaměstnanceAA0127\n31.Platový stupeň zaměstnanceAA0128\n32.Druh platového tarifu – kódAA0129\n33.Smluvní platAA1586\n34.Stupeň řízeníAA1591\n35.Skupina prací podle míry ztěžujících vlivů pracovních podmínekAA1594\n36.Platový tarif přiznanýAA0138\n37.Příplatek osobní přiznanýAA0139\n38.Příplatek za vedení přiznanýAA0140\n39.Příplatky zvláštní přiznanéAA0142\n40.Příplatek za práci ve ztíženém pracovním prostředí přiznanýAA1595\n41.Příplatek specializační pedagogického pracovníka přiznanýAA1598\n42.Příplatky ostatní přiznanéAA0749\nf) údaje o vyplacených prostředcích\n43.Celkový plat zúčtovaný k výplatěAA0144\n44.Platový tarif zúčtovaný k výplatěAA0145\n45.Plat za práci přesčas zúčtovaný k výplatěAA0147\n46.Plat při výkonu jiné práce zúčtovaný k výplatěAA0148\n47.Doplatek do nejnižší úrovně zaručené mzdy zúčtovaný k výplatěAA0162\n48.Příplatky celkem zúčtované k výplatěAA0150\n49.Příplatek za práci ve svátek zúčtovaný k výplatěAA0146\n50.Příplatek za práci přesčas zúčtovaný k výplatěAA0239\n51.Příplatek za práci v sobotu a v neděli zúčtovaný k výplatěAA0240\n52.Příplatek za vedení zúčtovaný k výplatěAA0151\n53.Příplatek osobní zúčtovaný k výplatěAA0153\n54.Příplatky zvláštní zúčtované k výplatěAA0154\n55.Příplatek za práci v noční době zúčtovaný k výplatěAA0603\n56.Příplatek za práci ve ztíženém pracovním prostředí zúčtovaný k výplatěAA1596\n57.Příplatek za rozdělenou směnu zúčtovaný k výplatěAA1597\n58.Příplatek za přímou pedagogickou činnost nad stanovený rozsah zúčtovaný k výplatěAA1592\n59.Příplatek specializační pedagogického pracovníka zúčtovaný k výplatěAA1593\n60.Příplatky ostatní zúčtované k výplatěAA0156\n61.Odměny a cílové odměny zúčtované k výplatěAA0157\n62.Ostatní složky platu jinde nespecifikované zúčtované k výplatěAA0163\n63.Odměna za pracovní pohotovost celkem zúčtovaná k výplatěAA0161\n64.Náhrady platu celkem zúčtované k výplatěAA0158\n65.Náhrady za dovolenou zúčtované k výplatěAA0159\n66.Průměrný hodinový výdělek pro pracovně právní účelyAA0165\nPříloha č. 2 k nařízení vlády č. 328/2013 Sb.\nDatová struktura údajů za zaměstnavatele podle § 2 odst. 1\nČísloNázev ukazateleIdentifikátor3)\na) identifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo osoby (IČO)AA0017\n3.Kód zařízení bez vlastního IČOAA0113\n4.Právní forma ekonomického subjektuAA0019\n5.Kód NUTS okresuAA0179\n6.Kolektivní smlouvaAA0676\n7.Datum (sběru dat)AA0110\nb) údaje stanovené\n8.Počet zaměstnanců rozpočtovanýAA0116\n9.Objem prostředků na platy zaměstnancůAA0123\nc) údaje o počtu zaměstnanců\n10.Průměrný evidenční počet zaměstnanců přepočtenýAA0114\n11.Evidenční počet zaměstnanců fyzických osobAA0115\nd) údaje o vyplacených prostředcích\n12.Platy zaměstnanců včetně mimorozpočtových zdrojůAA0118\n13.Mimorozpočtové zdroje na platy celkemAA0119\nPříloha č. 3 k nařízení vlády č. 328/2013 Sb.\nDatová struktura údajů za zaměstnavatele podle § 2 odst. 2\nČísloNázev ukazateleIdentifikátor3)\na) údaje stanovené\n1.Objem prostředků na platy zaměstnancůAA0123\nb) údaje o počtu zaměstnanců\n2.Průměrný evidenční počet zaměstnancůAA0114\nc) údaje o vyplacených prostředcích\n3.Platy zaměstnanců včetně mimorozpočtových zdrojůAA0118\n4.Mimorozpočtové zdroje na platy celkemAA0119\n1) Zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů.\n2) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.\n3) Identifikátorem se rozumí popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Identifikátorem",
+      "definition": "popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra",
+      "source_provision": "§ 6"
+    }
+  ]
+}

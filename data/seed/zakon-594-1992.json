@@ -1,0 +1,1107 @@
+{
+  "id": "cz:594/1992",
+  "type": "statute",
+  "title": "594/1992 Sb., Vyhláška Slovenského úradu geodézie, kartografie a katastra, ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike",
+  "title_en": "",
+  "short_name": "594/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-12-22",
+  "in_force_date": "1993-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/594",
+  "description": "Vyhláška Slovenského úradu geodézie, kartografie a katastra, ktorou sa vykonáva zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam a zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Prvý oddiel - SPOLOČNÉ USTANOVENIE O EVIDOVANÍ NEHNUTEĽNOSTÍ",
+      "content": "Nehnuteľnosti sa v katastri evidujú podľa katastrálnych území\na) v súbore geodetických informácií,\nb) v súbore popisných informácií,\nc) v zbierke listín,\nd) v sumárnych údajoch o pôdnom fonde,\ne) v pozemkových knihách,\nf) v železničných knihách."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Členenie súboru geodetických informácií",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Súbor geodetických informácií sa člení na\na) katastrálnu mapu,\nb) pracovnú mapu,\nc) evidenčnú mapu\nd) geometrický plán,\ne) záznam podrobného merania zmien,\nf) meračský náčrt a prehľad čísel podrobných bodov,\ng) súbor lomových bodov hraníc okresov a obcí,\nh) súbor lomových bodov hraníc katastrálnych území,\nch) geodetické údaje,\ni) zoznamy súradníc podrobných bodov,\nj) predpis kresby,\nk) grafické údaje o bonitovaných pôdnogeologických jednotkách.\n(2) Súčasťou súboru geodetických informácií sú aj definičné body katastrálnych území a definičné body parciel, výstupy z registračných zariadení prístrojového vybavenia na podrobné meranie a iné údaje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Katastrálna mapa",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Katastrálna mapa je technickým podkladom evidovania nehnuteľností v katastri pre všetky katastrálne územia.\n(2) Katastrálna mapa sa tvorí, dopĺňa a spresňuje v katastrálnom konaní, pri oprave chýb v katastrálnom operáte, pri prešetrovaní a vykonávaní zmien údajov katastra, pri revízii údajov katastra a pri obnove katastrálneho operátu, ako aj pri zápise právnych vzťahov, ak prílohu verejných listín a iných listín tvorí geometrický plán. Katastrálnu mapu možno tvoriť, dopĺňať a spresňovať v grafickom tvare alebo aj vo vektorovom tvare."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Pracovná mapa",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Na geodetické práce, ako aj na poskytovanie informácií používa katastrálny úrad pracovnú mapu, ktorá je kópiou mapového listu katastrálnej mapy.\n(2) Pracovná mapa sa udržiava v súlade s katastrálnou mapou."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Evidenčná mapa",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Evidenčná mapa je kópiou mapového listu katastrálnej mapy."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Geometrický plán",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Geometrický plán je grafickým znázornením nehnuteľností, ktoré vzniknú rozdelením alebo zlúčením nehnuteľností; a vyjadruje stav nehnuteľností pred zmenou a po zmene s uvedením doterajších a nových parcelných čísel, výmer, druhov pozemkov a ďaľších údajov.\n(2) Geometrický plán je technickým podkladom právnych úkonov, verejných listín a listín, ktoré podľa zákona potvrdzujú alebo osvedčujú právne vzťahy, vrátane nájomných práv, a slúži na zápis zmeny údajov katastra a na obnovenie lomových bodov hraníc pozemkov."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Záznam podrobného merania zmien",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Záznam podrobného merania zmien tvorí meračský náčrt, ktorý je grafickým vyjadrením výsledkov podrobného merania zmien, a zápisník, ktorý je číselným vyjadrením výsledkov podrobného merania zmien v rovnakom poradí v rámci katastrálneho územia.\n(2) Ak sa výsledky podrobného merania zmien zaznamenávajú priamo do počítača, je výsledkom podrobného merania zmien výstup z počítača."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Meračský náčrt a prehľad čísel podrobných bodov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Meračský náčrt je grafické, číselné a popisné vyjadrenie výsledkov podrobného merania alebo prešetrovania a je podkladom na zobrazenie zmien v katastrálnej mape, v pracovnej mape a v evidenčnej mape a na vykonanie zmien v súbore popisných informácií.\n(2) Prehľad čísel podrobných bodov obsahuje čísla podrobných bodov, ktoré sú uvedené v zozname súradníc; tvorí grafický podklad pre lokalizáciu a identifikáciu podrobných bodov na mape. Prehľad čísel podrobných bodov sa vedie na kópiách alebo na zväčšeninách katastrálnej mapy, alebo na kópiách náčrtov z tvorby katastrálnej mapy alebo priamo na pamäťových médiách počítača. Zmeny v prehľade čísel podrobných bodov sa vykonávajú súčasne so zmenami v zozname súradníc podrobných bodov a s ďalšími zmenami v súbore popisných informácií a v súbore geodetických informácií."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Súbor lomových bodov hraníc okresov a obcí",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Súbor lomových bodov hraníc okresov a obcí tvorí zoznam súradníc všetkých lomových bodov určujúcich priebeh hraníc okresov a obcí."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Súbor lomových bodov hraníc katastrálnych území",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Súbor lomových bodov hraníc katastrálnych území tvorí zoznam súradníc všetkých lomových bodov určujúcich priebeh hraníc katastrálnych území."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Geodetické údaje",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "(1) Pre každý geodetický bod sa vyhotovujú geodetické údaje na predpisanom tlačive. K bodom podrobného polohového bodového poľa sa v geodetických údajoch uvádza trieda presnosti.\n(2) Súčasťou geodetických údajov je miestopis bodu, ktorý obsahuje údaje umožňujúce jeho vyhľadanie v teréne a orientáciu.\n(3) Geodetické údaje sa opravujú a dopĺňajú podľa skutočného stavu; pred meraním na geodetickom bode sa preverí nemennosť jeho polohy."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zoznamy súradníc podrobných bodov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Zoznamy súradníc podrobných bodov obsahujú súradnice podrobných bodov v postupnom usporiadaní podľa záznamov podrobného merania z tvorby katastrálnej mapy, priebežne aktualizované v rámci jednotlivých skupín meračských náčrtov (zápisníkov) alebo v rámci jednotlivých výpočtových skupín vytvorených z meračských náčrtov z priestoru celého katastrálneho územia."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Predpis kresby",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Predpis kresby polohopisu katastrálnej mapy obsahuje údaje o spojení podrobných bodov polohopisu a o ich príslušnosti k parcelám. Je podkladom na vykreslenie polohopisu katastrálnej mapy v prípade jej obnovy alebo iného účelového využitia. Predpis kresby je podkladom aj na výpočet výmery jednotlivých parciel, ako aj výmery celého katastrálneho územia. Predpis kresby sa aktualizuje podľa zoznamu súradníc. Predpis kresby polohopisu katastrálnej mapy tvorí spolu so zoznamom súradníc podrobných bodov číselné výsledky súboru geodetických informácií."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Grafické údaje o bonitovaných pôdnoekologických jednotkách",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Druhý oddiel - SÚBOR GEODETICKÝCH INFORMÁCIÍ",
+      "content": "Grafické údaje o bonitovaných pôdnoekologických jednotkách sú v súbore geodetických informácií evidované na kópii mapového listu katastrálnej mapy."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Členenie súboru popisných informácií",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Súbor popisných informácií sa člení na\na) register územných jednotiek,\nb) list vlastníctva,\nc) súpis parciel,\nd) evidenčný list,\ne) register vlastníkov a iných oprávnených osôb,\nf) zoznam vlastníkov a iných oprávnených osôb,\ng) zoznam nájomcov,\nh) zoznam stavieb,\nch) výkaz zmien,\ni) popisné údaje o bonitovaných pôdnoekologických jednotkách,\nj) popis priebehu hraníc okresov a obcí,\nk) popis priebehu hraníc katastrálnych území,\nl) údaje o sídelných a nesídelných názvoch a dokumentácia o sídelných a nesídelných názvoch,\nm) pomocné záznamy."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Register územných jednotiek",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "(1) Register územných jednotiek tvoria údaje o územných jednotkách a je spracovaný podľa\na) abecedného zoznamu okresov s uvedením abecedného poradia územnej jednotky a katastrálneho územia, ako aj s uvedením kódu okresu, obce a katastrálneho územia,\nb) abecedného zoznamu obcí a katastrálnych území, s uvedením okresu, ako aj s uvedením kódu obce, katastrálneho územia a okresu.\n(2) Register územných jednotiek sa spracúva a aktualizuje v súčinnosti s orgánmi štatistiky."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 List vlastníctva",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "(1) List vlastníctva obsahuje názov obce a názov katastrálneho územia a skladá sa\na) z časti „A - majetková podstata“, ktorá obsahuje všetky nehnuteľnosti, ktoré sú predmetom jedného právneho vzťahu (majetkové teleso), a údaje o nich, a to výmery, druhy pozemkov, príslušnosť k zastavanému územiu obce a iné údaje obsahujúce bližšie vysvetlenia časti A a položku „Výkaz zmien“,\nb) z časti „B - vlastníci“, ktorá obsahuje mená (názvy) vlastníkov nehnuteľností s uvedením rodných čísel (identifikačných čísel organizácií), s uvedením spoluvlastníckych podielov, s uvedením titulu nadobudnutia a inými údajmi obsahujúcimi bližšie vysvetlenia časti B a položku „Výkaz zmien“,\nc) z časti „C - ťarchy“, ktorá obsahuje vecné bremená, záložné práva, predkupné práva, ak majú mať účinky vecných práv, iné práva, ak boli dohodnuté ako vecné práva, a iné údaje obsahujúce bližšie vysvetlenia časti C a položku „Výkaz zmien“.\n(3) Vzor listu vlastníctva je uvedený v prílohe č. 1 tejto vyhlášky."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Súpis parciel",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Súpis parciel obsahuje všetky parcelné čísla katastra nehnuteľností usporiadaných v aritmetickom poradí, ktoré sa nachádzajú v katastrálnom území, ako aj všetky údaje o nich."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Evidenčný list",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Evidenčný list obsahuje meno (názov) vlastníka, spoluvlastníkov alebo nájomcu alebo inej oprávnenej osoby s uvedením adresy (sídla), všetky nehnuteľnosti, ktoré tieto osoby vlastnia alebo majú v nájme, s uvedením celkovej výmery jednotlivých druhov pozemkov, ako aj údaje o bonitovaných pôdnoekologických jednotkách."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Register vlastníkov a iných oprávnených osôb",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Register vlastníkov obsahuje mená (názvy) vlastníkov, spoluvlastníkov a iných oprávnených osôb podľa abecedného poradia s uvedením ich adries (sídel), čísel listov vlastníctva a čísel evidenčných listov."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Zoznam vlastníkov a iných oprávnených osôb",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Zoznam vlastníkov obsahuje mená (názvy) vlastníkov a iných oprávnených osôb v aritmetickom poradí čísel listov vlastníctva s uvedením ich adries (sídel)."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Zoznam nájomcov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Zoznam nájomcov obsahuje mená (názvy) nájomcov v poradí podľa čísel ich evidenčných listov s uvedením ich adries (sídel)."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Zoznam stavieb",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Zoznam stavieb obsahuje v aritmetickom poradí súpisné čísla stavieb, orientačné čísla vchodov, prípadne ďalšie číselné a popisné identifikačné údaje."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Výkaz zmien",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "(1) Výkaz zmien obsahuje zápisy všetkých dokončených trvalých zmien, ktoré boli ohlásené alebo inak zistené počas kalendárneho roka, okrem zmien evidovaných v iných pomocných záznamoch.\n(2) Výkaz zmien možno viesť ručne alebo automatizovane; automatizovane spracovaný výkaz zmien je zmenový protokol."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Popisné údaje o bonitovaných pôdnoekologických jednotkách",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Popisné údaje o bonitovaných pôdnoekologických jednotkách sú v súbore popisných informácií evidované v súpise parciel a v evidenčnom liste, a to priradením číselného kódu bonitovanej pôdnoekologickej jednotky k príslušnej parcele."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Popis priebehu hraníc okresov a obcí",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "(1) Popis priebehu hraníc okresov a obcí, ktoré sú tvorené z jedného katastrálneho územia, obsahuje názov okresu a obce a popisné informácie o priebehu hraníc, ktoré sú totožné s popisom priebehu hraníc príslušného katastrálneho územia.\n(2) Popis priebehu hraníc okresov a obcí, ktoré sú tvorené z viacerých katastrálnych území, obsahuje názov okresu a obce a popisné informácie o priebehu tých častí hraníc katastrálneho územia, ktoré sú totožné s hranicou okresu alebo obce."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Popis priebehu hraníc katastrálnych území",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Popis priebehu hraníc katastrálnych území obsahuje názov dotknutých katastrálnych území a popisné informácie o priebehu hraníc."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Údaje o sídelných a nesídelných názvoch a dokumentácia o sídelných a nesídelných názvoch",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "(1) Údaje o sídelných názvoch tvoria vlastné mená obcí, častí obcí, miestnych častí, sídelných lokalít, urbanistických obvodov, verejných stavieb a katastrálnych území.\n(2) Údaje o nesídelných názvoch tvoria vlastné mená poľnohospodárskych honov, polí, trvalých trávnych porastov, záhrad, vinohradov, chmeľníc, lesov, zverníc, názvy vôd, jednotlivých tvarov vertikálneho členenia zemského povrchu a iných objektov a javov prírodných alebo ľuďmi vytvorených a pod.\n(3) Sídelné a nesídelné názvy sa dokumentujú v prehľade náčrtov miestneho prešetrovania a chotárnych názvov a v zozname názvoslovia."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Pomocné záznamy",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Tretí oddiel - SÚBOR POPISNÝCH INFORMÁCIÍ",
+      "content": "Pomocné záznamy tvoria pomocnú dokumentáciu súboru popisných informácií katastra a sú to najmä priebežný súpis hlásení a listín na zápis zmien v katastri, záznam na ďalšie konanie, zoznam nesúladov medzi skutočným stavom a evidovaným stavom druhov pozemkov a pod."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Štvrtý oddiel - ZBIERKA LISTÍN",
+      "content": "(1) Do zbierky listín sa zakladajú zmluvy, rozhodnutia štátnych orgánov a iné listiny, ktoré podľa zákona potvrdzujú alebo osvedčujú právne vzťahy k nehnuteľnostiam, ako aj rozhodnutia katastrálneho úradu o povolení vkladu údajov o právnych vzťahoch do katastra. Do zbierky listín sa ďalej zakladá dokumentácia výsledkov katastrálnych konaní, dokumentácia, na základe ktorej bol vykonaný vpis poznámky do listu vlastníctva, ako aj dokumentácia sídelných a nesídelných názvov.\n(2) Do zbierky listín sa zakladajú aj geometrické plány, ktoré boli vyhotovené na spísanie listín uvedených v odseku 1."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "Sumárne údaje katastra o pôdnom fonde obsahujú údaje o druhoch pozemkov, o ich využívaní poľnohospodárskymi podnikmi alebo lesnými podnikmi alebo fyzickými osobami, ktorých súhrn poľnohospodárskej pôdy alebo lesnej pôdy alebo rybníkov s chovom rýb presahuje výmeru 0,10 ha, a ak ide o vinice, 0,05 ha v rámci jednej obce."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "(1) Poľnohospodárske podniky alebo lesné podniky sa zaraďujú do sektorov podľa predmetu činnosti zapísaného v obchodnom registri. Osobitné sektory tvoria poľnohospodárske podniky alebo podniky, ktoré nie sú zapísané v obchodnom registri, ako aj vlastníci, nájomcovia a iné oprávnené osoby, ktoré netvoria poľnohospodársky podnik alebo lesný podnik.\n(2) Čísla sektorov a ich názvy určuje Slovenský úrad geodézie, kartografie a katastra (ďalej len „Úrad“) po dohode s príslušnými ústrednými orgánmi štátnej správy."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "(1) Sumárne údaje katastra o pôdnom fonde sa uvádzajú v sumarizačných výkazoch, ktoré sa vypracúvajú za každý kalendárny rok.\n(2) Podkladom na sumarizáciu je aktualizovaný súbor popisných informácií."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "(1) Sumarizačné výkazy sa členia na\na) úhrnné výmery druhov pozemkov,\nb) rozčlenenie poľnohospodárskej pôdy podľa výrobných podoblastí,\nc) sektorové prehľady o plochách druhov pozemkov,\nd) sektorové prehľady o plochách dočasne nevyužívanej pôdy,\ne) zoznam poľnohospodárskych podnikov a lesných podnikov s uvedením výmery poľnohospodárskej pôdy a lesnej pôdy,\nf) rozbor zmien v pôdnom fonde.\n(2) Členenie a vyhotovovanie sumarizačných výkazov uvedených v odseku 1 môže Úrad meniť po dohode so zainteresovanými ústrednými orgánmi štátnej správy."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "Sumárne údaje sa zhromažďujú za sumarizačné jednotky, ktorými sú\na) obec,\nb) okres,\nc) republika."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "(1) Výsledkom sumárneho spracovania úhrnných výmer druhov pozemkov sú údaje o celkových výmerách katastrálnych území a sumarizačných jednotiek podľa druhov pozemkov.\n(2) Výsledkom sumárneho spracovania sektorov je rozčlenenie pôdneho fondu do sektorových prehľadov o výmerách druhov pozemkov za sumarizačné jednotky.\n(3) Výsledky sumárneho spracovania podľa odsekov 1 a 2 môžu obsahovať ďalšie výstupy a triedenie údajov; ich obsah určí Úrad po dohode so zainteresovanými ústrednými orgánmi štátnej správy."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "Na základe sumarizačných výkazov sa spracúva rozbor zmien v pôdnom fonde, ktorý poskytuje prehľad o stave, vývoji, využívaní a zmenách v pôdnom fonde za uplynulý kalendárny rok."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Piaty oddiel - SUMÁRNE ÚDAJE KATASTRA O PÔDNOM FONDE",
+      "content": "(1) Sumarizačné výkazy katastrálny úrad zasiela\na) obci,\nb) obvodnému úradu,\nc) okresnému úradu,\nd) pozemkovému úradu,\ne) lesnému úradu,\nf) daňovému úradu,\ng) orgánu štatistiky,\nh) Úradu.\n(2) Sumárne údaje katastra o pôdnom fonde sa každoročne publikujú v štatistickej ročenke o pôdnom fonde, ktorú vydáva Úrad."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Šiesty oddiel - POZEMKOVÉ KNIHY A ŽELEZNIČNÉ KNIHY",
+      "content": "Pozemkové knihy a železničné knihy slúžia ako zdroj informácií o vlastníckych a iných vecných právach k nehnuteľnostiam a o nehnuteľnostiach."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Šiesty oddiel - POZEMKOVÉ KNIHY A ŽELEZNIČNÉ KNIHY",
+      "content": "Ak sa katastrálne konanie týka údajov v pozemkovej knihe alebo v železničnej knihe, zapíšu sa do súboru popisných informácií a súčasne sa v pozemkovej knihe alebo železničnej knihe urobí poznámka o zápise údajov do súboru popisných informácií; iné zápisy, opravy, úpravy ani doplnenia sa v pozemkových knihách a ani v železničných knihách nevykonávajú."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Evidovanie katastrálnych území",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Siedmy oddiel - SPÔSOB EVIDOVANIA KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ",
+      "content": "(1) Katastrálne územie sa v súbore popisných informácií eviduje v registri územných jednotiek kódom katastrálneho územia, názvom katastrálneho územia a výmerou katastrálneho územia.\n(2) Katastrálne územie sa v súbore geodetických informácií eviduje na odtlačku Základnej mapy v mierke 1 : 50 000 grafickým zobrazením priebehu hraníc katastrálneho územia a jeho názvom alebo grafickým znázornením na pamäťovom médiu počítača."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Evidovanie pozemkov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Siedmy oddiel - SPÔSOB EVIDOVANIA KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ",
+      "content": "(1) Pozemok sa v súbore popisných informácií eviduje\na) na liste vlastníctva parcelným číslom, druhom pozemku, výmerou, ako aj menom vlastníka alebo inej oprávnenej osoby, jej adresou, sídlom, rodným číslom vlastníka alebo identifikačným číslom organizácie,\nb) v súpise parciel parcelným číslom, výmerou, druhom pozemku, kódom charakteristiky nehnuteľnosti, číslom evidenčného listu, kódom rozlíšenia právneho vzťahu, číslom listu vlastníctva, kódom umiestnenia pozemku, číslom mapového listu, číslom položky výkazu zmien a poznámkou, ako aj kódom bonitovanej pôdnoekologickej jednotky,\nc) na evidenčnom liste parcelným číslom, výmerou, druhom pozemku, číslom listu vlastníctva, číslom mapového listu, číslom položky výkazu zmien, poznámkou, menom vlastníka alebo nájomcu, prípadne názvom (obchodným menom) právnickej osoby, ktorá má k pozemku právo hospodárenia alebo právo trvalého užívania, adresou (sídlom) vlastníka a nájomcu, sídlom právnickej osoby, ktorá má k pozemku právo hospodárenia alebo právo trvalého užívania, rodným číslom vlastníka a nájomcu, pri právnických osobách identifikačným číslom organizácie, číslom sektoru (ktoré vyjadruje rozlíšenie skupín poľnohospodárskych závodov), poznámkou na rozlíšenie sektoru (ktorou sa vyjadruje rozlíšenie veľkostných skupín poľnohospodárskych závodov) a kódom bonitovanej pôdnoekologickej jednotky.\n(2) Pozemok sa v súbore geodetických informácií eviduje na katastrálnej mape, na pracovnej mape a na evidenčnej mape zobrazením, parcelným číslom a značkou druhu pozemku."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Evidovanie stavieb",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Siedmy oddiel - SPÔSOB EVIDOVANIA KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ",
+      "content": "(1) Stavba sa v súbore popisných informácií eviduje\na) na liste vlastníctva súpisným číslom, orientačným číslom; stavba, ktorej nebolo pridelené súpisné číslo ani orientačné číslo, sa eviduje opisným spôsobom,\nb) v súpise parciel súpisným číslom a kódom charakteristiky nehnuteľnosti,\nc) v zozname stavieb súpisným číslom, prípadne orientačným číslom,\nd) v evidenčnom liste súpisným číslom a kódom charakteristiky nehnuteľnosti.\n(2) Stavba sa v súbore geodetických informácií eviduje na katastrálnej mape, na pracovnej mape a na evidenčnej mape zobrazením jej prieniku s terénom alebo pri netypických stavbách priemetom jej vonkajšieho obvodu."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Evidovanie bytov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Siedmy oddiel - SPÔSOB EVIDOVANIA KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ",
+      "content": "Byty sa evidujú v súbore popisných informácií na liste vlastníctva, a to číslom bytu, číslom poschodia a uvedením spoluvlastníckeho podielu na spoločných častiach budovy vo vzťahu k pozemku, na ktorom je budova postavená. Vzor listu vlastníctva je uvedený v prílohe č. 2 tejto vyhlášky."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Evidovanie nebytových priestorov",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Siedmy oddiel - SPÔSOB EVIDOVANIA KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ",
+      "content": "Nebytové priestory sa evidujú v súbore popisných informácií na liste vlastníctva opisným spôsobom s uvedením čísla poschodia vo vzťahu k pozemku, na ktorom je budova postavená; vzor je uvedený v prílohe č. 2 tejto vyhlášky."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Ôsmy oddiel - VYHOTOVOVANIE DUPLIKÁTOV KATASTRÁLNEHO OPERÁTU A JEHO ČASTÍ",
+      "content": "Duplikát katastrálneho operátu alebo jeho časti (ďalej len „duplikát“) obsahuje všetky údaje a náležitosti platného katastrálneho operátu alebo jeho časti. Duplikát je rovnocenný pôvodnej časti katastrálneho operátu, z ktorej bol vyhotovený; na odlíšenie od pôvodného katastrálneho operátu alebo jeho časti sa viditeľne označí ako duplikát."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Ôsmy oddiel - VYHOTOVOVANIE DUPLIKÁTOV KATASTRÁLNEHO OPERÁTU A JEHO ČASTÍ",
+      "content": "(1) Vyhotovenie duplikátu je prípustné len v prípadoch ustanovených zákonom.1)\n(2) Duplikát vyhotoví katastrálny úrad, ktorý spravuje pôvodný katastrálny operát.\n(3) O vyhotovení duplikátu vyhotoví katastrálny úrad záznam."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Deviaty oddiel - DRUHY POZEMKOV",
+      "content": "Druhy pozemkov sa v katastri označujú týmito číselnými kódmi\na)orná pôda- kód “2“,\nb)chmeľnica- kód “3“,\nc)vinica- kód “4“,\nd)záhrada- kód “5“,\ne)ovocný sad- kód “6“,\nf)trvalý trávny porast- kód “7“,\ng)lesný pozemok- kód “10“,\nh)vodná plocha- kód “11“,\nch)zastavaná plocha a nádvorie- kód “13“,\nj)ostatná plocha- kód “14“."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Deviaty oddiel - DRUHY POZEMKOV",
+      "content": "Druhy pozemkov sú záväznými údajmi katastra a vyjadrujú účel využívania pozemkov. V katastri sa k údajom o druhoch pozemkov priraďujú ďalšie údaje v číselnom označení, ktoré bližšie charakterizujú druh pozemku. Charakteristika jednotlivých druhov pozemkov je uvedená v prílohe č. 3 tejto vyhlášky."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50",
+      "chapter": "PRVÁ ČASŤ - OBSAH KATASTRA A SPÔSOB EVIDENCIE KATASTRÁLNYCH ÚZEMÍ A NEHNUTEĽNOSTÍ > Desiaty oddiel - CHARAKTERISTIKA OCHRANY A VYUŽÍVANIA NEHNUTEĽNOSTÍ",
+      "content": "Údaje o charakteristike nehnuteľností tvoria päťmiestny kód, z ktorého prvé dve miesta určujú spôsob ochrany nehnuteľností a tri ďalšie miesta určujú spôsob využívania nehnuteľností."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "(1) Zmeny právneho vzťahu evidovaného v katastri alebo v pozemkovej knihe alebo v železničnej knihe (ďalej len „plomba“) sa vykonávajú na základe doručenej verejnej listiny alebo inej listiny.\n(2) Údaje o právnych vzťahoch evidované v katastri, v pozemkovej knihe alebo železničnej knihe sa plombujú v deň doručenia verejnej listiny alebo inej listiny."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "Na evidenciu spisov, ktorými sa navrhujú zápisy právnych vzťahov, ako aj zápisy nájomných vzťahov, sa vedú\na) register V, ktorý je určený na evidenciu doručených návrhov na vklad,\nb) register Z, ktorý je určený na evidenciu doručených návrhov na záznam,\nc) register N, ktorý je určený na evidenciu doručených návrhov na zápis nájomných vzťahov."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "(1) Registre uvedené v § 52 sa vedú osobitne pre každý kalendárny rok; v prípade, že veci nie sú ukončené v tom istom kalendárnom roku, uvedú sa na prvej strane nového ročníka registra.\n(2) Ak sa ukončí vec v predchádzajúcom roku nevybavená, prečiarkne sa číslo tohto spisu na prvej strane nového ročníka a spôsob vybavenia spisu sa vyznačí v pôvodnom registri s uvedením dňa, mesiaca a roku vybavenia.\n(3) Vybavenie spisov v registroch sa označí značkou L. Po vybavení posledného spisu v príslušnom roku sa celý ročník registra natrvalo uzavrie podčiarknutím za poslednou položkou. Uzavretie podpíše poverený pracovník katastrálneho úradu a opatrí ho odtlačkom úradnej pečiatky."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Druhý oddiel - POSTUP PRI VKLADE A ZÁZNAME",
+      "content": "(1) Na konanie o povolenie vkladu je príslušný katastrálny úrad, v ktorého územnom obvode sa nachádza dotknutá nehnuteľnosť.\n(2) Ak sa nehnuteľnosti uvedené v listine nachádzajú v obvode viacerých katastrálnych úradov, konanie uskutočňuje ten katastrálny úrad, ktorý začal konanie skôr, ak sa príslušné katastrálne úrady nedohodli inak."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Druhý oddiel - POSTUP PRI VKLADE A ZÁZNAME",
+      "content": "(1) Návrh na vklad obsahuje:\na) meno a miesto trvalého pobytu toho, kto podáva návrh na vklad,\nb) označenie katastrálneho úradu, ktorému je návrh adresovaný,\nc) predmet návrhu,\nd) vyhlásenie účastníkov právneho úkonu, či zmluvná voľnosť nie je obmedzená,\ne) označenie a počet príloh.\n(2) S návrhom na povolenie vkladu sa zmluva katastrálnemu úradu doručuje najmenej v štyroch vyhotoveniach."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Druhý oddiel - POSTUP PRI VKLADE A ZÁZNAME",
+      "content": "Na doručenom návrhu na povolenie vkladu katastrálny úrad bezodkladne vyznačí dátum a hodinu doručenia."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Druhý oddiel - POSTUP PRI VKLADE A ZÁZNAME",
+      "content": "(1) Po právoplatnosti rozhodnutia katastrálneho úradu o povolení vkladu sa jedno vyhotovenie zmluvy zakladá do zbierky listín, jedno sa zasiela správcovi dane a jedno navrhovateľovi. Ak sa nehnuteľnosti nachádzajú v obvode viacerých katastrálnych úradov, zašle katastrálny úrad, ktorý o povolení vkladu rozhodol, jedno vyhotovenie zmluvy s doložkou podľa odseku 2 ďalšiemu katastrálnemu úradu.\n(2) Rozhodnutie o povolení vkladu sa vyznačí na prvej strane všetkých doručených vyhotovení zmluvy."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Tretí oddiel - POSTUP PRI ODSTRAŇOVANÍ NEDOSTATKOV LISTÍN",
+      "content": "(1) Pri skúmaní listín katastrálny úrad zisťuje, či listiny obsahujú,\na) názov katastrálneho územia,\nb) parcelné číslo,\nc) druh a výmeru pozemku,\nd) súpisné číslo budovy, prípadne orientačné číslo vchodu,\ne) číslo bytu a poschodie, ak je predmetom zápisu právny vzťah k bytu,\nf) číslo nebytového priestoru alebo ďalšie popisné identifikačné údaje, ak je predmetom zápisu právny vzťah k nebytovému priestoru,\ng) meno (názov) a adresu (sídlo) vlastníka nehnuteľnosti alebo inej oprávnenej osoby,\nh) rodné číslo (identifikačné číslo organizácie), alebo dátum narodenia vlastníka alebo inej oprávnenej osoby, ak rodné číslo nie je možné zistiť,\nch) notársky overené podpisy prevodcov.\n(2) Pri označení nehnuteľnosti v listine sa použijú údaje katastra.\n(3) Ak ide o zápis právnych vzťahov k nehnuteľnosti vzniknutej rozdelením alebo zlúčením, je prílohou listiny geometrický plán.\n(4) V prípade zápisu právneho vzťahu k novostavbe je listinou rozhodnutie o pridelení súpisného čísla."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Tretí oddiel - POSTUP PRI ODSTRAŇOVANÍ NEDOSTATKOV LISTÍN",
+      "content": "Katastrálny úrad skúma, či rozhodnutia štátnych orgánov sú právoplatné a či tieto rozhodnutia, ako aj iné listiny, ktoré podľa zákona potvrdzujú alebo osvedčujú právne vzťahy, neobsahujú chyby v písaní, počítaní alebo iné zrejmé nesprávnosti a či nehnuteľnosti sú označené podľa údajov katastra."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Tretí oddiel - POSTUP PRI ODSTRAŇOVANÍ NEDOSTATKOV LISTÍN",
+      "content": "Ak nie sú splnené podmienky na povolenie vkladu alebo pre záznam, katastrálny úrad rozhodnutie, prípadne listinu vráti tomu, kto ju vyhotovil, a požiada o opravu chýb.2)"
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61 Oznámenie o vpise údajov o právnych vzťahoch do listu vlastníctva",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Tretí oddiel - POSTUP PRI ODSTRAŇOVANÍ NEDOSTATKOV LISTÍN",
+      "content": "Vlastníkom a iným oprávneným osobám katastrálny úrad do 15 dní od dňa vpisu údajov o právnych vzťahoch do listu vlastníctva3) zašle po jednom vyhotovení výpisu z listu vlastníctva."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Štvrtý oddiel - POSTUP PRI VPISOVANÍ POZNÁMOK",
+      "content": "(1) Štátne orgány písomne oznamujú katastrálnemu úradu vyhlásenie konkurzu proti vlastníkovi nehnuteľnosti, začatie konania o výkon rozhodnutia predajom nehnuteľnosti a začatie vyvlastňovacieho konania na vyznačenie poznámky do listu vlastníctva.\n(2) Poznámka podľa odseku 1 sa vpíše pri príslušnej nehnuteľnosti textom „Poznamenáva sa vyhlásenie konkurzu o výkon rozhodnutia predajom nehnuteľnosti“, „Poznamenáva sa začatie konania o výkon rozhodnutia predajom nehnuteľnosti“ alebo „Poznamenáva sa začatie vyvlastňovacieho konania“."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63",
+      "chapter": "DRUHÁ ČASŤ - POSTUP PRI ZÁPISE PRÁVNYCH VZŤAHOV > Štvrtý oddiel - POSTUP PRI VPISOVANÍ POZNÁMOK",
+      "content": "(1) V prospech toho, kto nemôže hodnoverne preukázať, že je oprávneným v právnom vzťahu, sa vpíše do listu vlastníctva poznámka na základe návrhu na začatie konania o určenie vlastníckeho práva alebo na základe žiadosti o vydanie osvedčenia notárom potvrdených súdom alebo notárom; poznámka sa vpíše aj na základe potvrdenia súdu alebo notára.\n(2) Poznámka sa vpíše textom „Poznamenáva sa začatie konania o určenie vlastníckeho práva“ alebo „Poznamenáva sa začatie konania o osvedčenie vlastníckeho práva“.\n(3) Listina, na základe ktorej sa vpíše poznámka do listu vlastníctva, prípadne jej kópia, sa založí do zbierky listín.\n(4) Katastrálny úrad zruší poznámku dňom vpisu údajov o právnych vzťahoch do listu vlastníctva na základe právoplatného rozhodnutia štátneho orgánu alebo na základe osvedčenia notára alebo listiny svedčiacej o tom, že notár právny vzťah neosvedčil."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64",
+      "chapter": "TRETIA ČASŤ - SPRÁVA A VEDENIE KATASTRA",
+      "content": "(1) Pri správe, vedení a obnove katastra katastrálne úrady spolupracujú s obcami, vlastníkmi a inými oprávnenými osobami, ako aj s príslušnými štátnymi orgánmi.\n(2) Katastrálne úrady organizujú a využívajú súčinnosť vlastníkov a iných oprávnených osôb4) pri správe, vedení a obnove katastra, aby kataster plnil všetky svoje funkcie na prospech vlastníkov a iných oprávnených osôb.\n(3) Katastrálne úrady organizujú súčinnosť obcí,5) využívajú túto súčinnosť, ako aj súčinnosť štátnych orgánov6) pri správe, vedení a obnove katastra, aby kataster plnil všetky svoje funkcie na prospech obcí a štátu."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65",
+      "chapter": "TRETIA ČASŤ - SPRÁVA A VEDENIE KATASTRA",
+      "content": "(1) Pozemkové knihy sú usporiadané podľa okresov; spravujú ich katastrálne úrady príslušné na správu a vedenie katastra.\n(2) Železničné knihy spravuje Katastrálny úrad v Bratislave."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Prvý oddiel - OHLASOVANIE A ZÁPISY ZMIEN ÚDAJOV KATASTRA",
+      "content": "(1) Zmeny údajov katastra4) sa ohlasujú na tlačive „Hlásenie zmien“, ktoré poskytne bezplatne ktorýkoľvek katastrálny úrad.\n(2) Ten, kto žiada o zmenu, podpíše vyplnené tlačivo „Hlásenie zmien“ na príslušnom katastrálnom úrade; inak je potrebné podpis na tlačive notársky overiť."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Druhý oddiel - PREŠETROVANIE ZMIEN ÚDAJOV KATASTRA",
+      "content": "Predmetom prešetrovania zmien údajov katastra7) sú ohlásené alebo inak zistené zmeny týkajúce sa\na) údajov o katastrálnych územiach,\nb) údajov vlastníkoch a iných oprávnených osobách,\nc) údajov o nehnuteľnostiach."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Druhý oddiel - PREŠETROVANIE ZMIEN ÚDAJOV KATASTRA",
+      "content": "(1) Zmeny údajov katastra sa zapisujú do výkazu zmien. Správnosť zapísaných zmien, vrátane správnosti ich prešetrenia a vyznačenia zmeny v katastrálnom operáte potvrdia vlastníci a iné oprávnené osoby svojím podpisom; právnické osoby tiež odtlačkom pečiatky.\n(2) Podľa odseku 1 sa postupuje, ak sa výkaz zmien vedie ručne."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Druhý oddiel - PREŠETROVANIE ZMIEN ÚDAJOV KATASTRA",
+      "content": "Zmeny zapísané do pomocných záznamov (§ 15) sa prešetrujú každoročne a pri revízii údajov katastra."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "(1) Za zmenu hranice katastrálneho územia, ktorá nie je totožná s hranicou obce, sa považuje\na) zlúčenie dvoch alebo viacerých katastrálnych území,\nb) rozdelenie doterajšieho katastrálneho územia na dve alebo viac katastrálnych území,\nc) oddelenie časti jedného katastrálneho územia a jeho pričlenenie do iného katastrálneho územia v tej istej obci.\n(2) Na vykonanie zmeny podľa odseku 1 písm. a) a b) je potrebný súhlas Úradu."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "(1) O zmene hranice katastrálneho územia rozhodne katastrálny úrad v rámci katastrálneho konania alebo na návrh.\n(2) Katastrálny úrad rozhodne o zmene hranice katastrálneho územia na podklade\na) protokolu z miestneho prešetrovania,\nb) dokumentácie uvedenej v § 73,\nc) súhlasu obce,\nd) súhlasu Úradu v prípade, že ide o zmenu podľa § 70 odsek 2."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "(1) Na základe oznámenia katastrálneho úradu vyhlási obec začatie katastrálneho konania o zmene hraníc katastrálneho územia (ďalej len „miestne prešetrovanie“).\n(2) Miestne prešetrovanie vykonáva katastrálny úrad za účasti toho, kto zmenu hranice katastrálneho územia navrhol, zástupcu obce, vlastníkov dotknutých nehnuteľností a iných oprávnených osôb.\n(3) Podkladom pre miestne prešetrovanie je popis priebehu hraníc katastrálnych území zo súboru popisných informácií a pracovná mapa zo súboru geodetických informácií, prípadne kópia z katastrálnej mapy.\n(4) Po skončení miestneho prešetrovania sa vyhotoví protokol, ktorý obsahuje popis navrhovaného priebehu hraníc katastrálnych území. Prílohou protokolu je náčrt navrhovaného priebehu hraníc katastrálnych území.\n(5) V rámci miestneho prešetrovania obec trvale označí lomové body zmenenej hranice katastrálneho územia, a to spôsobom, ktorý určí katastrálny úrad.\n(6) Ak zmenené hranice katastrálnych území neprebiehajú po hraniciach pozemkov vymedzených právnymi vzťahmi evidovanými v katastri, musia byť trvalo stabilizované a zmerané."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Pre potreby zmeny hraníc katastrálnych území katastrálny úrad vyhotoví\na) kópiu z katastrálnej mapy a výkaz výmer dotknutých pozemkov, ak sa nevykonalo meranie,\nb) geometrický plán,\nc) celkový výkaz výmery katastrálnych území pred zmenou a po zmene,\nd) výpisy z listov vlastníctva týkajúcich sa nehnuteľností, ktoré sú dotknuté zmenou."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Po zmene hraníc katastrálnych území katastrálny úrad v súbore popisných informácií a v súbore geodetických informácií prečísluje parcelné čísla dotknutých pozemkov."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Rozhodnutie o zmene hraníc katastrálnych území katastrálny úrad zasiela\na) obci,\nb) obvodnému úradu,\nc) okresnému úradu,\nd) okresnému súdu,\ne) orgánu štatistiky,\nf) vlastníkom dotknutých nehnuteľností a iným oprávneným osobám,\ng) Úradu."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Zmena hraníc katastrálnych území sa publikuje v Spravodajcovi Slovenského úradu geodézie, kartografie a katastra.\nPostup pri zmene názvu katastrálneho územia"
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Názov katastrálneho územia musí byť jednoznačný a nezameniteľný; pri jeho určovaní alebo zmene sa prihliada na názov obce alebo jej časti, pričom možno použiť názov z úradne schváleného zoznamu názvoslovia."
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "(1) O zmene názvu katastrálneho územia rozhodne katastrálny úrad so súhlasom dotknutej obce a Úradu a na základe odporúčania okresného názvoslovného zboru.\n(2) Na postup pri zmene názvu katastrálneho územia sa obdobne použijú ustanovenia § 70 až 76.\nPostup pri zmene hraníc okresov a obcí"
+    },
+    {
+      "provision_ref": "§ 79",
+      "section": "79",
+      "title": "§ 79",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "(1) Na rozhodovanie o zmene hraníc okresov a obcí katastrálny úrad\na) v katastrálnom konaní pripraví podklady obdobne podľa ustanovení § 72 ods. 3 a 4 a § 73,\nb) kópiu z mapy správneho rozdelenia v mierke 1 : 50 000 so zakreslením navrhovanej zmeny.\n(2) Podklady uvedené v odseku 1 zašle katastrálny úrad orgánu príslušnému na rozhodnutie o zmene hraníc okresov a obcí."
+    },
+    {
+      "provision_ref": "§ 80",
+      "section": "80",
+      "title": "§ 80",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Na postup pri zmene hraníc okresov a obcí sa obdobne použijú ustanovenia § 70 ods. 1, § 72 ods. 3, 4, 5 a 6 a § 75."
+    },
+    {
+      "provision_ref": "§ 81",
+      "section": "81",
+      "title": "§ 81",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Zmenu hraníc okresov a obcí oznámi katastrálny úrad orgánu štatistiky."
+    },
+    {
+      "provision_ref": "§ 82",
+      "section": "82",
+      "title": "§ 82",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Tretí oddiel - POSTUP PRI ZMENE HRANÍC KATASTRÁLNYCH ÚZEMÍ A ICH NÁZVOV A PRI ZMENE HRANÍC OKRESOV A OBCÍ",
+      "content": "Zmena hraníc okresov a obcí sa publikuje v Spravodajcovi Slovenského úradu geodézie, kartografie a katastra."
+    },
+    {
+      "provision_ref": "§ 83",
+      "section": "83",
+      "title": "§ 83",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Obnova katastrálneho operátu8) je katastrálne konanie, ktorého cieľom je vyhotovenie nového súboru geodetických informácií a nového súboru popisných informácií katastrálneho operátu.\n(2) Obnova katastrálneho operátu sa vykonáva\na) novým mapovaním,\nb) v skrátenom konaní,\nc) vyhotovením duplikátu platného stavu.\n(3) O tom, ktorý katastrálny operát bude predmetom obnovy, rozhodne katastrálny úrad podľa stavu katastrálneho operátu, najmä podľa rozsahu zmien, ku ktorým došlo v danom katastrálnom území.\nObnova katastrálneho operátu novým mapovaním"
+    },
+    {
+      "provision_ref": "§ 84",
+      "section": "84",
+      "title": "§ 84",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Obnova katastrálneho operátu novým mapovaním sa vykonáva v štyroch na seba nadväzujúcich etapách, ktorým sú\na) zisťovanie priebehu hraníc,9)\nb) vyhotovenie nového súboru geodetických informácií a nového súboru popisných informácií,\nc) konanie o námietkách,\nd) vyhlásenie platnosti obnoveného katastrálneho operátu.\n(2) V etape vyhotovovania nového súboru geodetických informácií a nového súboru popisných mformácií sa zmeny zistené v katastrálnom konaní novým mapovaním zobrazujú a zapisujú do obnovovaného katastrálneho operátu, a to až do začatia predpisu kresby a výpočtu výmer nového súboru geodetických informácií; iné zmeny sa zobrazujú a zapisujú do platného katastrálneho operátu, a to až do doby odovzdania nových súborov obnoveného katastrálneho operátu."
+    },
+    {
+      "provision_ref": "§ 85",
+      "section": "85",
+      "title": "§ 85",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Pred začatím obnovy katastrálneho operátu novým mapovaním sa vykoná\na) revízia údajov katastra,\nb) zápis a zákres zmien v katastrálnom operáte,\nc) zosúladenie údajov súboru geodetických informácií so súborom popisných informácií katastra,\nd) vyhotovenie kópií zväčšenín, prípadne zmenšením katastrálnej mapy slúžiacich na zakreslenie skutočného stavu a na porovnanie so stavom evidovaným v katastri (ďalej len „prešetrovací náčrt“),\ne) vyhotovenie súpisu nehnuteľností podľa súboru popisných informácií katastra."
+    },
+    {
+      "provision_ref": "§ 86",
+      "section": "86",
+      "title": "§ 86",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Katastrálny úrad oznámi obci a jej prostredníctvom vlastníkom, nájomcom a iným oprávneným osobám najmenej s jednoročným predstihom termín začatia obnovy katastrálneho operátu novým mapovaním."
+    },
+    {
+      "provision_ref": "§ 87",
+      "section": "87",
+      "title": "§ 87",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Obnovu katastrálneho operátu novým mapovaním vyhlasuje katastrálny úrad oznámením obci, s uvedením termínu začatia a rozsahu tohto katastrálneho konania; toto oznámenie zašle obci najmenej 30 dní pred začatím obnovy katastrálneho operátu novým mapovaním.\n(2) Oznámenie o začatí obnovy katastrálneho operátu novým mapovaním zašle katastrálny úrad aj susedným obciam so žiadosťou, aby poskytovali nevyhnutnú súčinnosť.\n(3) Obec zabezpečí účasť vlastníkov a iných oprávnených osôb10) v mieste obvyklým spôsobom, pričom ich upozorní na povinnosti vyplývajúce im zo zákona,4) najmä na povinnosť trvalým spôsobom označiť lomové body hraníc svojich pozemkov.\nZásady miestneho prešetrovania pri novom mapovaní"
+    },
+    {
+      "provision_ref": "§ 88",
+      "section": "88",
+      "title": "§ 88",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Miestne prešetrovanie vykonáva katastrálna komisia (ďalej len „komisia“), ktorej predsedom je pracovník príslušného katastrálneho úradu.\n(2) Miestne prešetrovanie pozostáva z\na) prešetrovania alebo overovania údajov katastra v teréne za účasti predsedu komisie, zástupcu obce, dôverníkov, vlastníkov, nájomcov alebo iných oprávnených osôb,\nb) rokovania komisie, ktorého sa zúčastňujú všetci katastrálnym úradom menovaní členovia komisie.\n(3) Rokovanie komisie zvoláva predseda, ktorý ju zastupuje navonok.\n(4) Program rokovania komisie zostavuje a rokovanie riadi predseda.\n(5) Komisia prejednáva najmä\na) jednotlivé ukončené etapy miestneho prešetrovania,\nb) nedostatky vyskytujúce sa pri vykonávaní miestneho prešetrovania,\nc) nesúhlasy vlastníkov a iných oprávnených osôb s vykonaním miestneho prešetrovania,\nd) vyhotovený zoznam nesúladov.\n(6) Komisia rozhoduje väčšinou hlasov; pri rovnosti hlasov rozhoduje hlas predsedu komisie. Prizvaní účastníci miestneho prešetrovania majú hlas poradný.\n(7) Predseda komisie rozhodnutie komisie nevykoná, ak je v rozpore so všeobecne záväznými právnymi predpismi; v takomto prípade rozhoduje katastrálny úrad."
+    },
+    {
+      "provision_ref": "§ 89",
+      "section": "89",
+      "title": "§ 89",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Pri miestnom prešetrovaní sa porovnává skutočný stav priebehu hraníc s ich zobrazením v prešetrovacích náčrtoch a s údajmi zapísanými v súpisoch nehnuteľností; prešetrovacie náčrty a súpisy nehnuteľností sú kópiami platného katastrálneho operátu.\n(2) Zmena na prešetrovacom náčrte alebo v súpise nehnuteľností sa môže vykonať len vtedy, ak jej uskutočnenie vychádza z právoplatného rozhodnutia štátneho orgánu, alebo ak zmena také rozhodnutie nevyžaduje, prípadne ak ide o chybu v údajoch katastra. Zistené zmeny sa vyznačia v prešetrovacom náčrte a v súpise nehnuteľností. Zmeny sa vyznačia v prešetrovacom náčrte červenou farbou.\n(3) Ak priebeh hraníc nie je predmetom sporu, označia sa lomové body hraníc pozemkov vymedzených právnymi vzťahmi v prešetrovacom náčrte arabskými číslami. Súčasne sa tieto lomové body hraníc označia červenou farbou.\n(4) Ak je priebeh hraníc predmetom súdneho sporu, vyznačí sa v prešetrovacom náčrte ako sporný.\n(5) Vlastníci a iné oprávnené osoby alebo ich zástupcovia potvrdia súhlas s výsledkami zisťovania priebehu hraníc a s označením lomových bodov v súpise nehnuteľností.\n(6) V prípade, že vlastníci alebo iné oprávnené osoby odmietnu potvrdiť súhlas s výsledkami zisťovania priebehu hraníc, uvedie sa to v súpise nehnuteľností.\n(7) Ak vlastníci alebo iné oprávnené osoby alebo ich zástupcovia v určenej lehote lomové body svojich hraníc neoznačia trvalým spôsobom, komisia, ktorá zisťuje priebeh hraníc, môže zabezpečiť ich označenie na náklady vlastníkov a iných oprávnených osôb; súčasne podá návrh na uloženie pokuty.\nPredmety miestneho prešetrovania a zisťovanie priebehu ich hraníc"
+    },
+    {
+      "provision_ref": "§ 90",
+      "section": "90",
+      "title": "§ 90",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Predmetom zisťovania priebehu hraníc sú\na) priebeh hraníc okresov a obcí,\nb) priebeh hraníc katastrálnych území,\nc) priebeh hraníc intravilánu,\nd) priebeh hraníc pozemkov vymedzených právnymi vzťahmi,\ne) priebeh hraníc druhov pozemkov,\nf) priebeh hraníc chránených skutočností a ich ochranných pásem."
+    },
+    {
+      "provision_ref": "§ 91",
+      "section": "91",
+      "title": "§ 91",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "V rámci zisťovania priebehu hraníc sa súčasne zisťujú údaje o\na) dopravných sieťach a zariadeniach,\nb) nadzemnom potrubnom a elektrickom vedení,\nc) vodohospodárskych stavbách a vodných tokoch,\nd) priemete a využívaní stavieb,\ne) sídelných a nesídelných názvoch,\nf) ďalších údajoch polohopisu."
+    },
+    {
+      "provision_ref": "§ 92",
+      "section": "92",
+      "title": "§ 92",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Štátne hranice sa nezisťujú; ich priebeh sa preberá z dokumentácie geodetického diela štátnej hranice."
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Ak hranica okresu a obce neprechádza po hraniciach pozemkov vymedzených právnymi vzťahmi, navrhne katastrálny úrad okresnému úradu zmenu hranice okresu alebo obce.\n(2) Podkladom pri zisťovaní priebehu hraníc okresu alebo obce sú údaje platného katastrálneho operátu alebo popisy, náčrty a protokoly vyhotovené pri určovaní hraníc okresu alebo obce.\n(3) O výsledku zisťovania priebehu hraníc okresu alebo obce sa vyhotoví protokol, ktorého súčasťou je nový popis a náčrt priebehu hraníc."
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Hranica katastrálneho územia sa zásadne vedie po prírodných hraničných čiarach, po hraniciach vymedzených právnymi vzťahmi a jej lomové body sú trvale stabilizované.\n(2) Pohyblivé hranice katastrálnych území sa v lomových bodoch vyznačia dvojznakmi tak, aby bod na ich spojnici tvoril lomový bod hranice katastrálneho územia.\n(3) Podkladom na zisťovanie a vyznačenie priebehu hraníc katastrálnych území je stav vedený v súbore geodetických informácií a geodetická dokumentácia."
+    },
+    {
+      "provision_ref": "§ 95",
+      "section": "95",
+      "title": "§ 95",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Hranicu intravilánu obce tvorí obvod územia, ktoré je ku dňu zisťovania skutočne zastavané alebo toto územie je odňaté poľnohospodárskej a lesnej výrobe.\n(2) Podkladom na zmenu hranice intravilánu obce je geometrický plán."
+    },
+    {
+      "provision_ref": "§ 96",
+      "section": "96",
+      "title": "§ 96",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Pri zisťovaní priebehu hraníc pozemkov vymedzených právnymi vzťahmi sa preveruje najmä súlad ich priebehu s právnym stavom a trvalé označenie lomových bodov týchto hraníc.\n(2) Ak vlastník, nájomník alebo iná oprávnená osoba vysloví pri zisťovaní priebehu hranice nesúhlas s priebehom hraníc vymedzených právnymi vzťahmi, vyznačí sa táto hranica v prešetrovacom náčrte ako sporná a vyhotoví sa o tejto skutočnosti protokol. V katastrálnom operáte je taká hranica označená ako sporná až do právoplatného rozhodnutia súdu."
+    },
+    {
+      "provision_ref": "§ 97",
+      "section": "97",
+      "title": "§ 97",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Ak došlo ku zmene druhu pozemku, zmena sa vyznačí\na) v prešetrovacom náčrte a v súpise nehnuteľností v prípade, že ku zmene došlo na základe rozhodnutia príslušného orgánu ochrany pôdneho fondu alebo ak zmena také rozhodnutie nevyžaduje,\nb) v zozname nesúladov, ak na vykonanie zmeny je potrebné rozhodnutie príslušného orgánu ochrany pôdneho fondu,\nc) v súpise nehnuteľností, a to kódom nesúladu, ak ide o zmenu podľa písmena b),\nd) v prešetrovacom náčrte podľa skutočného stavu.\n(2) Na postup podľa odseku 1 písm. a) a b) sa nevyžaduje rozhodnutie orgánu ochrany poľnohospodárskeho pôdneho fondu pri\na) vzájomných zámenách ornej pôdy, záhrad a trvalých trávnych porastov,\nb) zmene, ktorá vznikla drobnými úpravami pozemkov,\nc) zmene, ktorá vznikla v dôsledku opravy chybného údaja katastra.\n(3) Zoznam nesúladov predkladá katastrálny úrad orgánom chrany pôdneho fondu.\n(4) K zistenému druhu pozemku sa v súpise nehnuteľností priraďuje kód charakteristiky nehnuteľností."
+    },
+    {
+      "provision_ref": "§ 98",
+      "section": "98",
+      "title": "§ 98",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Pri miestnom prešetrovaní hraníc chránených území, kultúrnych pamiatok, kúpeľných území, prírodných liečivých zdrojov a ich ochranných pásem a ochranných pásem vodných zdrojov, sa overuje priebeh ich hraníc zobrazený v platnom súbore geodetických informácií.\n(2) Spôsob ochrany nehnuteľností sa v súbore geodetických informácií vyznačuje príslušnou značkou a v súbore popisných informácií kódom ochrany."
+    },
+    {
+      "provision_ref": "§ 99",
+      "section": "99",
+      "title": "§ 99",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) V rámci zisťovania priebehu hraníc sa zisťuje, či priemet stavieb zobrazený v súbore geodetických informácií katastrálneho operátu je v súlade so skutočným stavom.\n(2) Pri stavbách sa ďalej zisťuje najmä\na) spôsob využívania, ktorý sa kódom uvedie v súpise nehnuteľností; pri ďalších stavbách, ktoré tvoria jeden celok, sa spôsob užívania nezisťuje,\nb) vlastník dvorov, uličiek medzi budovami, odkvapov, múrov, plotov,\nc) súpisné a orientačné čísla stavieb.\n(3) V prešetrovacom náčrte sa osobitne vyznačí, či ide o stavbu murovanú (betónovú, kovovú) alebo o stavbu drevenú.\n(4) Stavby, ktoré nie sú v katastri evidované, sa vyznačujú v prešetrovacom náčrte a v súpise nehnuteľností\na) zákresom vonkajšieho obvodu stavby označeného parcelným číslom, ak je stavba povolená príslušným orgánom,\nb) zákresom vonkajšieho obvodu stavby označeného parcelným číslom pozemku, na ktorom stavba stojí a kódom nesúladu, ak ide o stavbu, ktorá nie je povolená príslušným orgánom.\n(5) Chránené stavby sa v prešetrovacom náčrte a v súpise nehnuteľností označia osobitným znakom a kódom."
+    },
+    {
+      "provision_ref": "§ 100",
+      "section": "100",
+      "title": "§ 100",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) V rámci zisťovania priebehu hraníc sa při železniciach a lanovkách zisťuje\na) trvale označený obvod železničného pozemku,\nb) verejnosti prístupné železničné stavby a spôsob ich využívania,\nc) súpisné čísla železničných stavieb,\nd) osi koľají od krajnej výhybky železničných staníc,\ne) staničníky po 1000 m,\nf) plochy poľnohospodárskej pôdy nad 1000 m2 neurčenej na prevádzku železnice,\ng) os koľaje pozemnej lanovky, podpery a priebeh visutej lanovky, ak ide o lanovky určené na verejnú dopravu,\nh) pri zisťovaní údajov uvedených v písmenách a) až g) sa využijú údaje z Jednotnej železničnej mapy.\n(2) V rámci zisťovania priebehu hraníc sa pri cestných komunikáciách zisťuje\na) trvale označený obvod cestného pozemku,\nb) koruna cesty,\nc) staničníky po 1000 m,\nd) plochy poľnohospodárskej pôdy nad 1000 m2 neurčenej na prevádzku cestnej komunikácie; cestný pomocný pozemok,\ne) stredný deliaci pás, dopravné rampy, príjazdy a výjazdy, vetvy križovatiek, odpočívadlá, parkoviská a ich zariadenia,\nf) účelové cesty, parkové alebo sadové cesty so spevneným povrchom, ak sú širšie ako 3 m,\ng) chodníky pri pozemných komunikáciách, ak sú zobrazované v katastrálnej mape v mierke 1 : 1000.\n(3) V rámci zisťovania priebehu hraníc sa pri vodných tokoch zisťuje\na) trvalé označenie hraníc vodného toku,\nb) brehová čiara,\nc) staničníky po 1000 m, ak ide o vodný tok alebo vodnú plochu slúžiacu na vodnú dopravu,\nd) plochy poľnohospodárskej pôdy nad 1000 m2 neurčenej na prevádzku vodného toku.\n(4) V rámci zisťovania priebehu hraníc sa pri železničných alebo cestných tuneloch zisťujú ich portály.\n(5) V rámci zisťovania priebehu hraníc sa pri letiskách zisťuje\na) obvod pozemku letiska,\nb) verejnosti prístupné stavby a spôsob ich užívania.\n(6) Predmetom zisťovania priebehu hraníc sú aj mosty bez rozdielu stavebného materiálu a portály tunelov v násypových telesách pozemných komunikácií, ak nimi pretekajú vodné toky alebo ak nimi vedú pozemné komunikácie tvoriace samostatný celok.\n(7) V rámci zisťovania priebehu hraníc sa pri elektrických a potrubných vedeniach a ich zariadeniach zisťujú\na) kompresorové a potrubné stanice,\nb) transformačné stanice,\nc) meniarne,\nd) nadzemné diaľkové silové vedenia vysokého napätia bez rozdielu ich druhu, vrátane stožiarov,\ne) stožiare vysielacích a prenosných staníc."
+    },
+    {
+      "provision_ref": "§ 101",
+      "section": "101",
+      "title": "§ 101",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Pri vodohospodárskych stavbách sa zisťujú\na) priehradné hrádze,\nb) hrádze,\nc) plavebné komory,\nd) vodojemy,\ne) verejné studne,\nf) studne na hraniciach vymedzených právnymi vzťahmi,\ng) úpravovne vôd,\nh) čistiace stanice odpadových vôd,\nch) hate,\ni) prečerpávacie stanice,\nj) prítoky (náhony) a odtoky vodohospodárskych stavieb."
+    },
+    {
+      "provision_ref": "§ 102",
+      "section": "102",
+      "title": "§ 102",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Predmetom zisťovania ďalších prvkov polohopisu sú\na) vyústenie podzemných stavieb na zemský povrch mimo hraníc závodov,\nb) schodištia monumentálnych objektov na verejných priestranstvách a schodištia v nezjazdných uliciach,\nc) zvonice, mohyly, pomníky, pamätníky, kríže, božie muky a sochy."
+    },
+    {
+      "provision_ref": "§ 103",
+      "section": "103",
+      "title": "§ 103",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "V rámci zisťovania priebehu hraníc pri sídelných a nesídelných názvoch sa zisťujú\na) názvy obcí a ich častí,\nb) názvy katastrálnych území,\nc) názvy ulíc, námestí a iných verejných priestranstiev;\nd) názvy významných stavieb, vrchov, kopcov, horských chrbátov, vyvýšenín, planín, rovín, dolín, vodných tokov, jazier, rybníkov, horární, chát, kaplniek, lesov, močarísk, osád a iných geografických objektov,\ne) názvy chránených skutočností,\nf) názvy chotárov."
+    },
+    {
+      "provision_ref": "§ 104",
+      "section": "104",
+      "title": "§ 104",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Protokol o skončení zisťovania priebehu hraníc obsahuje\na) mená a podpisy členov komisie,\nb) mená pozvaných a podpisy prítomných účastníkov,\nc) spôsob vyhlásenia a propagácie zisťovania priebehu hraníc,\nd) priebeh a výsledky zisťovania priebehu hraníc,\ne) zoznam príloh protokolu."
+    },
+    {
+      "provision_ref": "§ 105",
+      "section": "105",
+      "title": "§ 105",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Výsledný elaborát zisťovania priebehu hraníc obsahuje písomnú časť a grafickú časť.\n(2) Písomná časť obsahuje\na) rozhodnutie katastrálneho úradu o začatí obnovy katastrálneho operátu a súvisiacu písomnú dokumentáciu,\nb) súpis nehnuteľností,\nc) zrovnávacie zostavenie doterajších a nových parcelných čísel,\nd) zoznam nesúladov,\ne) zoznam názvoslovia,\nf) protokol o skončení zisťovania priebehu hraníc.\n(3) Grafická časť obsahuje\na) prešetrovacie náčrty,\nb) prehľad kladu prešetrovacích náčrtov a prehľad chotárnych názvov."
+    },
+    {
+      "provision_ref": "§ 106",
+      "section": "106",
+      "title": "§ 106",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Výsledný elaborát zisťovania priebehu hraníc po doplnení novými výmerami parciel je podkladom na vyhotovenie nového súboru geodetických informácií a nového súboru popisných informácií."
+    },
+    {
+      "provision_ref": "§ 107",
+      "section": "107",
+      "title": "§ 107",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "V rámci zisťovania priebehu hraníc sa preveruje meno alebo názov vlastníka alebo inej oprávnenej osoby, ako aj miesto jeho trvalého pobytu, prípadne sídlo, vrátane rodného čísla fyzickej osoby a identifikačného čísla organizácie."
+    },
+    {
+      "provision_ref": "§ 108",
+      "section": "108",
+      "title": "§ 108",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Po ukončení miestneho prešetrovania Úrad preskúma dodržanie zásad ustanovených v § 84 a 85; pokračovať v ďalších prácach možno až so súhlasom Úradu.\nObnova katastrálneho operátu v skrátenom katastrálnom konaní"
+    },
+    {
+      "provision_ref": "§ 109",
+      "section": "109",
+      "title": "§ 109",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Pri obnove katastrálneho operátu v skrátenom katastrálnom konaní sa súbor geodetických informácií dopĺňa o zoznam súradníc podrobných bodov.\n(2) Pri obnove katastrálneho operátu v skrátenom katastrálnom konaní sa v súbore popisných informácií spresňuje výmera parciel z dôvodu novovypočítaných výmer parciel zo súradníc podrobných bodov.\n(3) Ustanovenia § 84 ods. 1 písm. b), c) a d) sa vzťahujú i na obnovu katastrálneho operátu v skrátenom katastrálnom konaní.\n(4) Ak je v nevyhnutnom prípade treba doplniť obsah katastrálnej mapy, vzťahujú sa ustanovenia § 84 ods. 1 písm. a), b), c) a d) na obnovu katastrálneho operátu v skrátenom katastrálnom konaní v plnom rozsahu.\nObnova katastrálneho operátu vyhotovením duplikátu"
+    },
+    {
+      "provision_ref": "§ 110",
+      "section": "110",
+      "title": "§ 110",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Ak sa stane katastrálny operát alebo jeho časť nespôsobilým na ďalšie používanie v dôsledku jeho opotrebenia a právny stav ani skutočný stav sa nezmenili a nie sú ani iné dôvody na obnovu katastrálneho operátu novým mapovaním, katastrálny operát alebo jeho časť sa obnovia vyhotovením duplikátu platného stavu.\n(2) Ak dokumentácia na vyhotovenie duplikátu nie je zachovaná, katastrálny operát sa obnoví novým mapovaním.\nVyhotovovanie nového súboru geodetických informácií"
+    },
+    {
+      "provision_ref": "§ 111",
+      "section": "111",
+      "title": "§ 111",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Súčasne s prečíslovaním parciel v súpise nehnuteľností pri vyhotovení nového súboru popisných informácií, sa parcely prečíslujú aj v prešetrovacom náčrte a ďalej sa používajú len nové parcelné čísla.\n(2) Výsledkom vyhotovenia nového súboru geodetických informácií je katastrálna mapa a príslušná geodetická dokumentácia.\nVyhotovovanie nového súboru popisných informácií"
+    },
+    {
+      "provision_ref": "§ 112",
+      "section": "112",
+      "title": "§ 112",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) V rámci vyhotovenia nového súboru popisných informácií sa môžu zmeniť parcelné čísla (ďalej len „prečíslovanie parciel“).\n(2) Prečíslovanie parciel sa začína v intraviláne v postupnom slede.\n(3) Prečíslovanie parciel mimo intravilánu sa vykoná v nadväznosti na číslovanie v intraviláne a prečíslovanie všetkých líniových parciel, najmä ciest, vodných tokov, železníc sa vykoná nakoniec.\n(4) Po prečíslovaní parciel sa vyhotoví zrovnávacie zostavenie doterajších a nových parcelných čísel podľa doterajších parcelných čísel a nových parcelných čísel.\n(5) Parcely sa prečíslujú v súpisoch nehnuteľností a v prešetrovacích náčrtoch ihneď po skončení zisťovania priebehu hraníc; ďalej sa pri obnove katastrálneho operátu používajú nové parcelné čísla.\n(6) Nový súbor popisných informácií je výstupom z informačného systému katastra nehnuteľností zmenením doterajších údajov za údaje zistené v katastrálnom konaní; zmeny sa vykonajú prvotným dokladom.\nPostup pri námietkach proti chybám v obnovenom katastrálnom operáte"
+    },
+    {
+      "provision_ref": "§ 113",
+      "section": "113",
+      "title": "§ 113",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Katastrálny úrad predloží prostredníctvom obce obnovený katastrálny operát na verejné nahliadnutie najneskôr do 30 dní od jeho vyhotovenia.\n(2) Katastrálny úrad požiada obec o vyhlásenie konania o námietkach voči chybám v obnovenom katastrálnom operáte s tým, aby obec vyhlásila toto konanie najmenej 15 dní pred jeho začiatkom."
+    },
+    {
+      "provision_ref": "§ 114",
+      "section": "114",
+      "title": "§ 114",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Do obnoveného katastrálneho operátu možno nahliadnuť na obecnom úrade za prítomnosti pracovníka katástrálneho úradu a zástupcu obce, pričom obnovený katastrálny operát musí byť predložený na verejné nahliadnutie najmenej tri dni.\n(2) Námietky proti chybám v obnovenom katastrálnom operáte možno podať ústne alebo písomne.\n(3) Ak bolo námietkam vyhovené, chybné údaje obnoveného katastrálneho operátu sa bezodkladne na mieste opravia. Opravu potvrdí ten, kto námietky podal, svojím podpisom.\n(4) Ak námietkam výhovené nebolo, pracovník katastrálneho úradu poučí toho, kto námietky podal, o ďalšom postupe pri konaní o námietkach a súčasne sa vyhotoví úradný záznam, ktorý podpíše pracovník katastrálneho úradu a ten, kto podal námietky."
+    },
+    {
+      "provision_ref": "§ 115",
+      "section": "115",
+      "title": "§ 115",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Po skončení konania o námietkach sa vyhotoví protokol, ktorý podpíše pracovník katastrálneho úradu a zástupca obce. Prílohu protokolu tvoria úradné záznamy vyhotovené v konaní o námietkach, prípadne právoplatné rozhodnutie o námietkach.\nPostup pri vyhlasovaní platnosti obnoveného katastrálneho operátu"
+    },
+    {
+      "provision_ref": "§ 116",
+      "section": "116",
+      "title": "§ 116",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "Platnosť obnoveného katastrálneho operátu vyhlási katastrálny úrad do 15 dní od skončenia konania o námietkach. Súčasne odovzdá obci z obnoveného katastrálneho operátu v jednom vyhotovení odtlačok katastrálnej mapy, rovnopis súpisu parciel, rovnopisy evidenčných listov, rovnopis zoznamu stavieb, rovnopis registra vlastníkov a nájomcov, rovnopis zoznamu vlastníkov a rovnopis zoznamu nájomcov, ak o to obec požiada a za odplatu."
+    },
+    {
+      "provision_ref": "§ 117",
+      "section": "117",
+      "title": "§ 117",
+      "chapter": "ŠTVRTÁ ČASŤ - KATASTRÁLNE KONANIE > Štvrtý oddiel - POSTUP PRI OBNOVE KATASTRÁLNEHO OPERÁTU",
+      "content": "(1) Platnosť obnoveného katastrálneho operátu sa oznámi\na) obci,\nb) obvodnému úradu,\nc) okresnému úradu,\nd) okresnému súdu,\ne) Úradu.\n(2) Platnosť obnoveného katastrálneho operátu sa uverejňuje v Spravodajcovi Slovenského úradu geodézie, kartografie a katastra."
+    },
+    {
+      "provision_ref": "§ 118",
+      "section": "118",
+      "title": "§ 118",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "(1) Predmetom geodetických prác pri vedení katastra je meranie hraníc pozemkov a stavieb.\n(2) Zmeny sa merajú geodeticky alebo fotogrametricky."
+    },
+    {
+      "provision_ref": "§ 119",
+      "section": "119",
+      "title": "§ 119",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Výsledky geodetických prác sa využívajú na vykonávanie zmeny v súbore geodetických informácií, súbore popisných informácií a na obnovu katastrálneho operátu."
+    },
+    {
+      "provision_ref": "§ 120",
+      "section": "120",
+      "title": "§ 120",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Výsledkom merania zmien sú súradnice podrobných bodov a grafický prehľad čísel podrobných bodov."
+    },
+    {
+      "provision_ref": "§ 121",
+      "section": "121",
+      "title": "§ 121",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "(1) Výsledky merania zmien sa zaznamenávajú do záznamu podrobného merania zmien.\n(2) Výsledky merania zmien sa môžu zaznamenať priamo do pamäťového média počítača bez toho, aby boli zaznamenané do záznamu; v takom prípade je výsledkom merania výstup z počítačového média."
+    },
+    {
+      "provision_ref": "§ 122",
+      "section": "122",
+      "title": "§ 122",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Dokumentácia výsledkov podrobného merania zmien obsahuje\na) zoznam súradníc novourčených pevných bodov podrobného polohového bodového poľa,\nb) záznam podrobného merania zmien,\nc) zoznam súradníc podrobných bodov tam, kde katastrálna mapa bola vyhotovená v súradnicovom systéme S - JTSK a v priestoroch, ktoré určí katastrálny úrad.\nGeometrické plány"
+    },
+    {
+      "provision_ref": "§ 123",
+      "section": "123",
+      "title": "§ 123",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Geometrický plán možno vyhotoviť na viacero zmien hraníc pozemkov súčasne a skladá sa\na) z popisového poľa,\nb) z grafického znázornenia hraníc pozemkov a ich zmeny,\nc) z výkazu výmer parciel a dielov."
+    },
+    {
+      "provision_ref": "§ 124",
+      "section": "124",
+      "title": "§ 124",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Geometrický plán na zmenu hranice okresu a obce a na zmenu hranice katastrálneho územia môže vyhotovovať len katastrálny úrad."
+    },
+    {
+      "provision_ref": "§ 125",
+      "section": "125",
+      "title": "§ 125",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Geometrický plán sa vyhotovuje na podklade údajov z katastra nehnuteľností, prípadne z údajov bývalého pozemkového katastra."
+    },
+    {
+      "provision_ref": "§ 126",
+      "section": "126",
+      "title": "§ 126",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Ten, kto vyhotovil geometrický plán a nemá osobitné oprávnenie vydané Úradom, zabezpečí jeho potvrdenie, že náležitosťami a presnosťou zodpovedá predpisom upravujúcim vyhotovovanie geometrických plánov."
+    },
+    {
+      "provision_ref": "§ 127",
+      "section": "127",
+      "title": "§ 127",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Geometrický plán sa predkladá na overenie katastrálnemu úradu, v ktorého obvode sa nachádzajú dotknuté pozemky, a to v troch rovnocenných vyhotoveniach; jedno vyhotovenie geometrického plánu vyhotoveného na priesvitke ostáva na katastrálnom úrade."
+    },
+    {
+      "provision_ref": "§ 128",
+      "section": "128",
+      "title": "§ 128",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "Katastrálny úrad pred overením geometrického plánu preskúma súlad doterajšieho stavu výkazu výmer dotknutých pozemkov so stavom evidovaným v katastri a súlad s označením pridelených nových parcelných čísel; ak zistí nesúlad doterajšieho stavu výkazu výmer dotknutých pozemkov so stavom evidovaným v katastri, alebo nesúlad s označením pridelených parcelných čísel, vráti geometrický plán bez overenia tomu, kto ho vyhotovil s kontrolným záznamom obsahujúcim zistené závady."
+    },
+    {
+      "provision_ref": "§ 129",
+      "section": "129",
+      "title": "§ 129",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Prvý oddiel - GEODETICKÉ PRÁCE PRE KATASTER",
+      "content": "(1) Ak je geometrický plán vyhotovený v súlade s príslušnými predpismi, katastrálny úrad ho overí pečiatkou so štátnym znakom a podpisom pracovníka overujúceho geometrické plány do 7 dní od dňa predloženia; geometrické plány väčšieho rozsáhu, najmä líniové stavby a parcelácie, overí katastrálny úrad do 30 dní.\n(2) Ak geometrický plán predložený na overenie nie je vyhotovený v súlade s predpismi, katastrálny úrad ho do termínov uvedených v odseku 1 vráti na odstránenie chýb tomu, kto ho vyhotovil."
+    },
+    {
+      "provision_ref": "§ 130",
+      "section": "130",
+      "title": "§ 130",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Druhý oddiel - KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV",
+      "content": "(1) Geometrické plány môže vyhotovovať fyzická osoba,\na) ak má vysokoškolské vzdelanie odboru geodézie a kartografie a najmenej 1 rok odbornej praxe v evidencii nehnuteľností alebo v katastri,\nb) ak má vysokoškolské vzdelanie príbuzného smeru a najmenej tri roky odbornej praxe v evidencii nehnuteľností alebo v katastri; v prípade pochybnosti o uznaní príbuzného vzdelania rozhoduje Úrad,\nc) ak má úplné stredné vzdelanie geodetického smeru a päť rokov odbornej praxe v evidencii nehnuteľností alebo v katastri.\n(2) Právnická osoba môže vyhotovovať geometrické plány, ak má v pracovnom alebo obdobnom pomere zamestnanca spĺňajúceho kritériá podľa odseku 1."
+    },
+    {
+      "provision_ref": "§ 131",
+      "section": "131",
+      "title": "§ 131",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Druhý oddiel - KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV",
+      "content": "(1) Geometrické plány môže overovať pracovník katastrálneho úradu, ktorý má vysokoškolské vzdelanie odboru geodézie a kartografie alebo príbuzného smeru, päť rokov odbornej praxe a osobitné oprávnenie vydané Úradom."
+    },
+    {
+      "provision_ref": "§ 132",
+      "section": "132",
+      "title": "§ 132",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Tretí oddiel - PRESNOSŤ MERAČSKÝCH PRÁC",
+      "content": "(1) Geometrickým základom katastrálnych máp sú body Česko-slovenskej trigonometrickej siete a body podrobného polohového bodového poľa.\n(2) Podrobné polohové bodové pole sa buduje s presnosťou, ktorá je daná základnou strednou súradnicovou chybou\na) pri bodoch 1. triedy presnosti 0,02 m,\nb) pri ostatných bodoch najmenej 0,06 m.\n(3) Presnosť podrobného merania a výsledných súradníc lomových bodov vlastníckych hraníc a obvodov stavieb sa posudzuje k najbližším (blízkym) bodom podrobného polohového bodového poľa alebo základného bodového poľa.\n(4) Charakteristikou presnosti určenia súradníc x, y lomových bodov podľa odseku 3 je základná stredná súradnicová chyba mxy, daná vzťahom\nmxy= 0,5 mx2+ my2,\nkde mx, my sú základné stredné chyby určenia súradníc x, y.\n(5) Charakteristika relatívnej presnosti určenia súradníc x a y dvojice lomových bodov podľa odseku 3 je základná stredná chyba md dĺžky d priamej spojnice bodov tejto dvojice, vypočítanej zo súradníc.\n(6) Súradnice lomových bodov podľa odseku 4 sú určené tak, aby\na) charakteristika mxy neprekročila kritérium uxy v hodnote\n1. v intravilánoch a mimo intravilánov v tých katastrálnych územiach, v ktorých boli vykonané pozemkové úpravy, 0,14 m,\n2. v ostatných prípadoch 0,26 m,\nb) charakteristika md neprekročila kritérium ud, vypočítané pre každú dĺžku zo vzťahu ud =1,5 [(d + 12) : (d + 20)] uxy , pričom uxy má hodnotu podľa písmena a).\n(7) Overenie a testovanie výsledkov meračských prác (odsek 6) ustanovuje osobitný predpis.11)\n(8) V katastrálnej mape vedenej v grafickej forme sa podrobné body zobrazujú tak, aby presnosť zobrazenia bodov určených v geodetickom a miestnom súradnicovom systéme charakterizovaná strednou súradnicovou chybou zobrazenia bodu neprekročila hodnotu 0,16 mm na katastrálenej mape.\n(9) Dosiahnutie presnosti zobrazenia zmien hraníc katastrálnych území a vlastníckych hraníc podľa odseku 8 sa posudzuje podľa veľkosti rozdielu medzi priamo meranou dĺžkou medzi dvoma podrobnými bodmi a dĺžkou odmeranou na katastrálnej mape s prihliadnutím na zrážku katastrálnej mapy. Dosiahnutie presnosti sa posudzuje pri katastrálnej mape\na) v mierke 1 :1000, 1 :2000 a 1 : 5000 podľa osobitného predpisu,14)\nb) v iných mierkach podľa uvedených odchýlok:\nMierka\nkatastrálnej\nmapyKrajná odchýlka pre dĺžku v m\ndo 50 mnad 50 mnad 300 m\n1 : 12500,580,68-\n1 : 14400,670,77-\n1 : 25001,161,26-\n1 : 28801,261,47d/200\n(10) Presnosť výpočtu výmer sa posudzuje podľa rozdielu výsledkov dvoch nezávisle vykonaných výpočtov výmer. Rozdiel nemôže prekročiť hodnotu krajnej odchýlky.\n(11) Hodnota krajnej odchýlky sa vypočíta v m2 zo vzorcov, kde P je vypočítaná výmera\na) pri výmerách určených z priamo meraných mier alebo zo súradníc lomových bodov parcely alebo jej dielu, ktoré boli vypočítané z priamo meraných mier v porovnaní s výmerami určenými graficky pre mierku mapy:\n1 : 1000uMP=0,25.P+2\n1 : 1250 a 1 : 1440uMP=0,35.P+3\n1 : 2000uMP=0,50.P+4\n1 : 2500 a 1 : 2880uMP=0,90.P+7\n1 : 5000 uMP=1,20.P+10\nb) pri výmerách určených nezávisle dvakrát graficky pre mierku mapy\n1 : 1000uMP=0,20.P+3\n1 : 2500 a 1 : 1440uMP=0,30.P+4\n1 : 2000uMP=0,40.P+6\n1 : 2500 a 1 : 2880uMP=0,60.P+8\n1 : 5000 uMP=1,05.P+14\n(12) Hodnota krajnej odchýlky v m2 medzi doterajšou výmerou skupiny a novou výmerou sa určí, ak sú\na) doterajšie a nové výmery určené zo súradníc lomových bodov obvodu parcely alebo jej dielu, ktoré boli vypočítané z priamo meraných mier zo vzorca uMP = 0,5 (n1 + n2 - 1), kde n1 je počet doterajších parciel v skupine, n2 je počet nových parciel alebo jej dielov v skupine,\nb) doterajšie a nové výmery skupiny určené graficky alebo kombináciou rôznych spôsobov, dvojnásobnou hodnotou, vypočítanou podľa vzorcov uvedených v odseku 10 písm. b)."
+    },
+    {
+      "provision_ref": "§ 133",
+      "section": "133",
+      "title": "§ 133",
+      "chapter": "PIATA ČASŤ - GEODETICKÉ PRÁCE PRE KATASTER A KVALIFIKAČNÉ PREDPOKLADY NA VYHOTOVOVANIE A OVEROVANIE GEOMETRICKÝCH PLÁNOV > Tretí oddiel - PRESNOSŤ MERAČSKÝCH PRÁC",
+      "content": "(1) Zmeny hraníc označených trvalým spôsobom a zmeny stavieb sa merajú s krajnou odchýlkou na presnosť podrobných bodov určenú pre štvrtú triedu presnosti; tam, kde je katastrálna mapa vyhotovená v katastrálnom konaní a tam, kde to určí katastrálny úrad, sa meria podľa kritérií určených pre tretiu triedu presnosti.\n(2) Iné zmeny, ako sú uvedené v odseku 1, sa merajú\na) v katastrálnom konaní s presnosťou, aká bola použitá na vyhotovenie katastrálnej mapy,\nb) pri zákresoch zmien s presnosťou určenou katastrálnym úradom,\nc) v ďalších prípadoch s presnosťou určenou katastrálnym úradom."
+    },
+    {
+      "provision_ref": "§ 134",
+      "section": "134",
+      "title": "§ 134",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "(1) Katastrálne úrady dbajú, aby pri vyhotovovaní odpisov, výpisov alebo náčrtov z katastrálneho operátu nedošlo k jeho znehodnoteniu.\n(2) Ten, kto si robí z katastrálneho operátu odpis, výpis alebo náčrt, je povinný dodržiavať pokyny katastrálneho úradu na zabezpečenie ochrany katastrálneho operátu; ak ich nedodržiava, katastrálny úrad mu vyhotovenie odpisu, výpisu alebo náčrtu odmietne."
+    },
+    {
+      "provision_ref": "§ 135",
+      "section": "135",
+      "title": "§ 135",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "(1) Katastrálny úrad pri vyhotovovaní kópií z katastrálneho operávu alebo z jeho časti dbá na dodržiavanie predpisov o ochrane osobnosti a o ochrane osobných údajov.\n(2) Pracovníci katastrálneho úradu sú povinní zachovať mlčanlivosť o majetkových pomeroch vlastníkov nehnuteľností a iných oprávnených osôb, ako aj o súvisiacich informáciách.\n(3) Katastrálny úrad urobí opatrenia, aby osoby v pracovnom alebo obdobnom pomere dodržiavali povinnosť uvedenú v odsekoch 1 a 2 a aby nevyužívali informácie katastra na zárobkové účely, prípadne, aby ich inak nezneužívali. Z tohto dôvodu uzavrie katastrálny úrad s každým pracovníkom, ako aj s osobou v obdobnom pomere osobitnú dohodu o dodržiavaní uvedených povinností aj po skončení pracovného alebo obdobného pomeru."
+    },
+    {
+      "provision_ref": "§ 136",
+      "section": "136",
+      "title": "§ 136",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Prvý oddiel - SPOLOČNÉ USTANOVENIA",
+      "content": "(1) Ak katastrálny úrad nie je miestne príslušný na vyhotovenie potvrdeného výpisu zo súboru popisných informácií katastrálneho operátu, identifikácie parciel, prípadne na vyhotovenie odpisu a kópie, ktoré nie sú verejnými listinami, ako aj na poskytnutie iných informácií pre informačné systémy o nehnuteľnostiach, ako aj na poskytnutie ďalších informácií, postúpi žiadosť miestne príslušnému katastrálnemu úradu a žiadateľa o tom bezodkladne informuje.\n(2) Miestne príslušný katastrálny úrad vyhotoví požadovanú listinu, prípadne pripraví ďalšie požadované informácie a poskytne ich žiadateľovi prostredníctvom toho katastrálneho úradu, na ktorom žiadatel žiadal vyhotovenie listiny, prípadne poskytnutie informácií."
+    },
+    {
+      "provision_ref": "§ 137",
+      "section": "137",
+      "title": "§ 137",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Druhý oddiel - VYHOTOVOVANIE POTVRDENÝCH VÝPISOV A KÓPIÍ",
+      "content": "Na požiadanie vyhotoví katastrálny úrad výpis z listu vlastníctva alebo z pozemkovej knihy, prípadne železničnej knihy, ako aj kópiu z katastrálnej mapy alebo kópiu z listu vlastníctva (ďalej len „potvrdený výpis a kópia“), ktorý je verejnou listinou.12)"
+    },
+    {
+      "provision_ref": "§ 138",
+      "section": "138",
+      "title": "§ 138",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Druhý oddiel - VYHOTOVOVANIE POTVRDENÝCH VÝPISOV A KÓPIÍ",
+      "content": "(1) Potvrdený výpis alebo kópia sa zásadne vyhotovuje technickými prostriedkami.\n(2) Potvrdený výpis z listu vlastníctva obsahuje len platný stav bez ohľadu na predchádzajúce zápisy."
+    },
+    {
+      "provision_ref": "§ 139",
+      "section": "139",
+      "title": "§ 139",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Druhý oddiel - VYHOTOVOVANIE POTVRDENÝCH VÝPISOV A KÓPIÍ",
+      "content": "(1) Na kópii z pozemkovoknižnej vložky sa neplatný stav prečiarkne a výslovne sa uvedie, že táto úprava bola urobená s cieľom zdôrazniť platný stav.\n(2) Kópiu z listu vlastníctva možno vyhotoviť úradným potvrdením rozmnoženiny z originálu listu vlastníctva."
+    },
+    {
+      "provision_ref": "§ 140",
+      "section": "140",
+      "title": "§ 140",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Druhý oddiel - VYHOTOVOVANIE POTVRDENÝCH VÝPISOV A KÓPIÍ",
+      "content": "Potvrdený výpis alebo kópia obsahuje dátum vyhotovenia, pečiatku so štátnym znakom a podpis povereného pracovníka katastrálneho úradu."
+    },
+    {
+      "provision_ref": "§ 141",
+      "section": "141",
+      "title": "§ 141",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Druhý oddiel - VYHOTOVOVANIE POTVRDENÝCH VÝPISOV A KÓPIÍ",
+      "content": "Ak ten, kto požiada o vyhotovenie potvrdeného výpisu výslovne neuvedie, že chce výpis len z časti listu vlastníctva, vyhotoví sa úplný výpis."
+    },
+    {
+      "provision_ref": "§ 142",
+      "section": "142",
+      "title": "§ 142",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Tretí oddiel - VYHOTOVOVANIE IDENTIFIKÁCIÍ PARCIEL",
+      "content": "Identifikácia parciel sa vyhotovuje, ak údaje o pozemku podľa pozemkovej knihy alebo železničnej knihy, prípadne v listine, ktorá nebola v pozemkovej knihe alebo v železničnej knihe zapísaná, najmä parcelné číslo a výmera, nie sú totožné s údajmi podľa súboru popisných informácií katastrálneho operátu a nie sú evidované na liste vlastníctva."
+    },
+    {
+      "provision_ref": "§ 143",
+      "section": "143",
+      "title": "§ 143",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Tretí oddiel - VYHOTOVOVANIE IDENTIFIKÁCIÍ PARCIEL",
+      "content": "Identifikácia parciel obsahuje parcelné čísla, druh pozemkov, výmeru, prípadne geometrické zobrazenie pozemku. Ak údaje podľa pozemkovej knihy alebo železničnej knihy, prípadne údaje v skorších listinách a údaje podľa súboru popisných informácií katastrálneho operátu obsahujú aj číslo stavieb a spôsob užívania stavieb, uvádzajú sa v identifikácii parciel."
+    },
+    {
+      "provision_ref": "§ 144",
+      "section": "144",
+      "title": "§ 144",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Tretí oddiel - VYHOTOVOVANIE IDENTIFIKÁCIÍ PARCIEL",
+      "content": "Identifikácia parciel sa vyhotovuje vo dvoch vyhotoveniach, pričom jedno vyhotovenie ostáva na katastrálnom úrade a druhé vyhotovenie predkladateľ prikladá k verejnej listine alebo inej listine."
+    },
+    {
+      "provision_ref": "§ 145",
+      "section": "145",
+      "title": "§ 145",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Štvrtý oddiel - VYHOTOVOVANIE ODPISOV A KÓPIÍ Z KATASTRÁLNEHO OPERÁTU, KTORÉ NIE SÚ VEREJNÝMI LISTINAMI",
+      "content": "(1) Katastrálny úrad poskytne na požiadanie odpis alebo kópiu z katastrálného operátu, ktorý nie je potvrdený a ktorý nie je verejnou listinou. Odpisy a kópie, ktoré nie sú verejnými listinami, katastrálny úrad nepotvrdzuje.\n(2) Katastrálny úrad umožní na požiadanie vyhotovenie odpisu alebo kópie z katastrálneho operátu. Takéto odpisy alebo kópie nie sú verejnými listinami a katastrálny úrad ich nepotvrdzuje."
+    },
+    {
+      "provision_ref": "§ 146",
+      "section": "146",
+      "title": "§ 146",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Štvrtý oddiel - VYHOTOVOVANIE ODPISOV A KÓPIÍ Z KATASTRÁLNEHO OPERÁTU, KTORÉ NIE SÚ VEREJNÝMI LISTINAMI",
+      "content": "Ten, kto si vyhotovuje odpis z katastrálneho operátu, je povinný dbať na to, aby nedošlo k poškodeniu alebo zničeniu katastrálneho operátu; ak túto povinnosť poruší, katastrálny úrad mu ďalšie vyhotovenie odpisu odoprie."
+    },
+    {
+      "provision_ref": "§ 147",
+      "section": "147",
+      "title": "§ 147",
+      "chapter": "ŠIESTA ČASŤ - VYHOTOVOVANIE VEREJNÝCH LISTÍN A POSKYTOVANIE ĎALŠÍCH ÚDAJOV > Piaty oddiel - POSKYTNUTIE INFORMÁCIÍ PRE INFORMAČNÉ SYSTÉMY O NEHNUTEĽNOSTIACH A POSKYTOVANIE ĎALŠÍCH ÚDAJOV",
+      "content": "(1) Katastrálny úrad, prípadne iná organizácia poverená Úradom, poskytne na požiadanie a za odplatu informácie pre informačné systémy o nehnuteľnostiach, ako aj ďalšie údaje. Tieto informácie nemajú povahu verejnej listiny.\n(2) Katastrálny úrad, prípadne iná organizácia poverená Úradom, poskytuje z katastra vybrané súbory popisných informácií alebo ich častí na budovanie iných informačných systémov v tvare umožňujúcom počítačové spracovanie.\n(3) Vybrané súbory popisných informácií alebo ich časti obsahujúce údaje o právnych vzťahoch, vrátane údajov o vlastníkoch nehnuteľností, sa poskytujú na budovanie iných informačných systémov o nehnuteľnostiach len so súhlasom Úradu.\n(4) Katastrálny úrad poskytuje vybrané súbory z geodetických informácií alebo ich častí na budovanie iných informačných systémov v tvare umožňujúcom počítačové spracovanie v tých katastrálnych územiach, kde to umožňuje stav budovania automatizovaného informačného systému katastra.\n(5) Súbory geodetických informácií a súbory popisných informácií alebo ich časti poskytnuté na budovanie iných informačných systémov v tvare umožňujúcom počítačové spracovanie možno používať iba pre vnútornú potrebu orgánov a organizácií a podliehajú autorským právam."
+    },
+    {
+      "provision_ref": "§ 148",
+      "section": "148",
+      "title": "§ 148",
+      "chapter": "SIEDMA ČASŤ - SÍDLA A ÚZEMNÁ PÔSOBNOSŤ KATASTRÁLNYCH ÚRADOV",
+      "content": "(1) Sídla a územná pôsobnosť katastrálnych úradov sa ustanovujú takto\na) katastrálny úrad so sídlom v Bratislave s územnou pôsobnosťou pre hlavné mesto Slovenskej republiky Bratislavu a pre okresy Bratislava-vidiek, Dunajská Streda, Galanta, Komárno, Levice, Nitra, Nové Zámky, Senica, Topoľčany, Trenčín a Trnava,\nb) katastrálny úrad so sídlom v Banskej Bystrici s územnou pôsobnosťou pre okresy Banská Bystrica, Čadca, Dolný Kubín, Liptovský Mikuláš, Lučenec, Martin, Považská Bystrica, Prievidza, Rimavská Sobota, Veľký Krtíš, Zvolen, Žiar nad Hronom a Žilina,\nc) katastrálny úrad so sídlom v Košiciach s územnou pôsobnosťou pre okresy Bardejov, Humenné, Košice, Košice-vidiek, Michalovce, Poprad, Prešov, Rožňava, Spišská Nová Ves, Stará Ľubovňa, Svidník, Trebišov a Vranov nad Topľou.\n(2) Úrad môže zriadiť v sídlach okresov a v sídlach obvodov podľa potreby pracoviská katastrálneho úradu.\n(3) O zriadení pracovísk katastrálneho úradu informuje Úrad verejnosť."
+    },
+    {
+      "provision_ref": "§ 149",
+      "section": "149",
+      "title": "§ 149",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Trvalým označením lomových bodov hraníc pozemkov vymedzených právnymi vzťahmi, hraníc obcí, hraníc katastrálnych území a hraníc zastavaného územia obce sa rozumie stavba, múr, murovaný plot, kamenné medzníky, lomový kameň, železobetónové medzníky, betónové stĺpy, železné rúrky s priemerom najmenej 6 cm vyplnené betónom a spojené so zemou betónom, pričom tieto rúrky musia mať dĺžku minimálne 50 cm (prípadne obdobne dlhé železné koľajnice), znaky z plastov a hraničný kopec predpísaného tvaru. V močaristých územiach sa trvalo stabilizuje lomový bod kolom s priemerom najmenej 0,1 m a dĺžkou 1,5 m. Na tvrdých podkladoch (napr. betón, skala) sa trvalo stabilizuje lomový bod zapustením klinca alebo iného vhodného kovového predmetu alebo vytesaním kríža na opracovanú plochu."
+    },
+    {
+      "provision_ref": "§ 150",
+      "section": "150",
+      "title": "§ 150",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Katastrálny úrad a účastníci katastrálneho konania sú povinní v katastrálnom konaní postupovať tak, aby nedochádzalo ku škodám na majetku. V prípade vzniku takejto škody poskytne kátastrálny úrad poškodenej osobe, na jej požiadanie, súčinnosť pri zabezpečení dôkazov potrebných na uplatnenie nároku na náhradu, škody, najmä vyhotoví záznam o rozhodujúcich skutočnostiach."
+    },
+    {
+      "provision_ref": "§ 151",
+      "section": "151",
+      "title": "§ 151",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Novou stavbou na účely tejto vyhlášky sa rozumie stavba, ku ktorej kolaudačné rozhodnutie alebo užívacie povolenie nadobudlo právoplatnosť po 1. októbri 1976."
+    },
+    {
+      "provision_ref": "§ 152",
+      "section": "152",
+      "title": "§ 152",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Stavba, ku ktorej kolaudačné rozhodnutie alebo užívacie povolenie nadobudlo právoplatnosť do 1. októbra 1976, sa do operátu katastra zapíše na základe oznámenia obce, kedy bola stavba postavená a aké jej bolo udelené súpisné číslo."
+    },
+    {
+      "provision_ref": "§ 153",
+      "section": "153",
+      "title": "§ 153",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "(1) Priemetom stavby sa rozumie prienik vonkajšieho obvodu stavby s terénom alebo pri netypických stavbách priemetom vonkajšieho obvodu stavby.\n(2) Podzemné stavby sa v súbore geodetických informácií a v súbore popisných informácií evidujú v mieste prieniku stavby s terénom.\n(3) Nadzemné stavby sa v súbore geodetických informácií vyznačujú svojim priemetom; v súbore popisných informácií sa evidujú tie časti stavieb, ktoré sú spojené so zemou pevným základom a sú označené parcelným číslom.\nPrechodné ustanovenia"
+    },
+    {
+      "provision_ref": "§ 154",
+      "section": "154",
+      "title": "§ 154",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Listy vlastníctva založené pred účinnosťou tejto vyhlášky sa používajú až dovtedy, kým údaje o právnych vzťahoch v nich sa nezmenia."
+    },
+    {
+      "provision_ref": "§ 155",
+      "section": "155",
+      "title": "§ 155",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "(1) Údaje o bonitovaných pôdnoekologických jednotkách budú preberané do katastra postupne od príslušných orgánov pôdohospodárstva; ich prebratie a následné vydávanie katastrálnymi úradmi bude zverejňované v Spravodajcovi Slovenského úradu geodézie, kartografie a katastra.\n(2) Údaje o príslušnosti nehnuteľností k intravilánu budú priemietnuté do odtlačku katastrálnej mapy po ich ustanovení v osobitnom predpise."
+    },
+    {
+      "provision_ref": "§ 156",
+      "section": "156",
+      "title": "§ 156 Účinnosť",
+      "chapter": "ÔSMA ČASŤ - SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA",
+      "content": "Táto vyhláška nadobúda účinnosť 1. januárom 1993.\nPríloha č. 1\nPríloha č. 2\nPríloha č. 3\nCharakteristika jednotlivých druhov pozemkov\nDruh pozemkuCharakteristika účelu využívania\nA. poľnohospodárska pôda\n1. Orná pôdaa) pozemky, na ktorých sa pestujú obilniny, okopaniny, krmoviny, technické plodiny, zelenina a iné záhradné plodiny, a to spravidla v určených osevných postupoch,\nb) pozemky dočasne zatrávnené alebo využívané na pestovanie viacročných krmovín,\nc) pareniská, skleníky a japany, pokiaľ sú zriadené na ornej pôde.\n2. Chmeľnicepozemky vysadené chmeľom (vek chmeľnice nie je rozhodujúci).\n3. Vinicepozemky, na ktorých sa pestuje vinič (odrody plodné a podpníkové a ich vek nie je rozhodujúci).\n4. Záhradya) pozemky spravidla oplotené, na ktorých sa trvale a prevažne pestuje zelenina, kvety a iné záhradné plodiny, spravidla pre vlastnú potrebu a bez určených osevných postupov ako polné plodiny,\nb) pozemky vysadené ovocnými stromami alebo krovinami až do výmery 0,25 ha (pozemky spravidla tvoria celok s obytnými a hospodárskymi budovami),\nc) pozemky využívané do výmery 0,25 ha ako škôlky ovocných alebo okrasných stromov, viničové škôlky a škôlky pre chmeľové sadivo,\nd) pozemky do výmery 0,25 ha využívané na pareniská, skleníky a japany.\n5. Ovocné sadya) pozemky s výmerou nad 0,25 ha súvisle vysadené ovocnými stromami v hustote na 1 ha najmenej\n- pri vysokokmeňoch a polokmeňoch jadrovín a čerešní ……… 90 stromov,\n- pri vysokokmeňoch a polokmeňoch sliviek, sliviek domácich, guľatoplodných ringlôt a višní ……… 150 stromov,\n- pri vysokokmeňoch a polokmeňoch marhúľ, broskýň a štvrťkmeňoch jadrovín ……… 200 stromov,\n- pri štvrťkmeňoch marhúľ, broskýň a višní ………. 400 stromov,\nb) pozemky s výmerou nad 0,25 ha, využívané na pestovanie zákrskov ovocných stromov v hustote najmenej 500 zákrskov na 1 ha,\nc) pozemky s výmerou nad 0,25 ha, na ktorých sa pestujú výhradne čierne ríbezle v hustote 1000 kríkov na 1 ha alebo ostatné druhy ríbezlí alebo egreša s hustotou najmenej 2000 kríkov na 1 ha.\nSpoločné ustanovenia k písmenám a) až c)\nPlochy vysadené zákrskami a bobuľovinami sa charakterizujú ako sad ihneď po uskutočnenej výsadbe v bežnom roku, štvrťkmene po 3 rokoch, polokmene a vysokokmene po 6 rokoch od výsadby.\nPri sadoch zmiešaných, t.j. sadoch vysadených rôznymi druhmi a tvarmi ovocných stromov sa zistí hustota vysadenia prepočítaním podľa pripojenej tabuľky.\nSady, pri ktorých nie sú splnené podmienky uvedené v predchádzajúcich odsekoch, sa vykazujú celou plochou v tom druhu pozemku, kam ich plocha podľa svojho výrobného určenia patrí s poznámkou \"sad\".\n6. Trvalé trávne porastya) pozemky trvale porastené trávami, pri ktorých hlavným výťažkom je seno (tráva), aj keď sa náhodne spásajú,\nb) pozemky porastené trávami, ktoré sú určené na trvalé spásanie, aj keď sa náhodne aj kosia,\nc) pozemky využívané ako pastva; tu sa vykazujú aj pastevné výbehy pre hovädzí dobytok, ošívané a hydinu.\nSpoločné ustanovenia pre písmená a) až c)\nDruh pozemku - trvalé trávne porasty - sa nemení, aj keď sa za účelom zúrodnenia dočasne orú, najdlhšie však na dobu 4 rokov.\nB. Lesné pozemky\n1. Lesnými pozemkami súa) pozemky, porastené lesnými drevinami, ktoré slúžia na plnenie funkcií lesov (ďalej len \"lesné porasty\"), a pozemky, na ktorých boli lesné porasty dočasne odstránené s cieľom ich obnoviť alebo s cieľom zriadiť lesné škôlky, prípadne lesné semenné plantáže,\nb) pozemky bez lesných porastov, ktoré slúžia lesnému hospodárstvu a sú preň nepostrádateľné (rozdeľovacie prieseky, lesné cesty, plochy horských lesných skladov a pod.),\nc) pozemky nad hornou hranicou stromovej vegetácie vo vysokohorských oblastiach, s výnimkou zastavaných pozemkov a ich príjazdových komunikácií.\n2. Orgán štátnej správy, môže za lesné pozemky vyhlásiťa) pozemky, ktoré možno najhospodárnejšie lesného hospodárstva využiť na zalesnenie\nb) pozemky, ktoré sa majú zalesniť najmä z vodohospodárskych, pôdoochranných, zdravotných, rekreačných a estetických dôvodov,\nc) nezalesnené pozemky vnútri lesov, ktoré slúžia alebo majú slúžiť na plnenie funkcií lesov, najmä pri tvorbe a ochrane prírodného prostredia.\n3. V pochybnostiach, či ide o pozemok patriaci do lesného pôdneho fondu podľa odseku 1, rozhoduje orgán štátnej správy lesného hospodárstva.\n4. Lesnými pozemkami nie sú a ani sa za ne nemôžu vyhlásiť pozemky, pokiaľ sú súčasťou poľnohospodárskeho pôdneho fondu.\nC. Nepoľnohospodárske a nelesné pozemky\n1. Vodné plochya) rybníky alebo potoky s chovom rýb (rybníky s chovom rýb, pozemky rybníkov, ktoré sú letnené, a potoky, ktoré sú vyhradené pre chov pstruhov),\nb) močiare, jazerá, rybníky a potoky, ktoré neslúžia alebo nie sú určené na chov rýb, rieky, náhony, priehrady a iné nádrže (umelé aj prírodné), prieplavy, odvodňovacie a zavodňovacie kanály, vodné toky a otvorené odpadové kanály.\n2. Zastavané plochy a nádvoria\na) pozemky, na ktorých sú postavené stavby, okrem skleníkov a japanov,\nb) nádvoria, ktoré patria k obytným, hospodárskym alebo priemyselným stavbám.\n4. Ostatné plochy: všetky pozemky, ktoré nie sú uvedené v oddieloch A, B, C.1. a C.2. a sú to pozemky určené\na) ako skladiskové a dielenské priestory (najmä pozemky, ktoré nie sú oplotené alebo obstavané budovami s nimi hospodársky súvisiacimi) ďalej stavebné miesta, pokiaľ v súčasnej dobe slúžia iným účelom a nedajú sa poľnohospodársky využiť,\nb) pre dopravu (hradské, stále vozové cesty, chodníky, námestia) a pozemky dráh alebo pre telekomunikácie (pozemku slúžiace na prevádzku rádiových staníc),\nc) pre zdravotníctvo, telesnú výchovu a rekreáciu (plavárne, ihriská, cvičiská, jazdiarne), ďalej rekreačné plochy pri chatách a hoteloch (sú to plochy slúžiace na opaľovanie, rôzne loptové hry a pod.),\nd) ako štátne prírodné rezervácie alebo iné podľa príslušných predpisov chránené územia, ako aj areály kultúrnych pamiatok, pokiaľ na nich nie je uskutočňovaná poľnohospodárska výroba alebo nejde o lesné pozemky,\ne) ako parky, verejné a súkromné okrasné záhrady,\nf) na dobývanie nerastov a iných surovín (rašeliniská, štrkoviská, hliniská, lomy a devastované pozemky),\ng) na ukladanie vedľajších produktov pri ťažbe nerastov a iných surovín a ako stále manipulačné priestory a pod. (haldy pri šachtách, silážne jamy, trvalé poľné mláky, tvrdé výbehy pre hydinu, hovädzí dobytok a ošípané, zdochliniská a pod.),\nh) na cintoríny,\nch) na pozemky, ktoré nemožno poľnohospodársky obrábať, ako napr. rokliny, výmole, vysoké medze s kroviskami alebo kamením, ochranné hrádze, bermy pri regulovaných vodných tokoch a pozemky, ktoré neposkytujú trvalý úžitok z iných dôvodov, napr. plochy zarastené kroviskami alebo zanesené štrkom alebo kamením alebo slatiny, t.j. plochy zamokrené alebo porastené rašelinovým machom, málo únosné.\nTabuľka pre výpočet jednotlivých druhov stromov pri zisťovaní hustoty vysadených sadov\nZistený (prepočítaný) druh stromovKoeficient, ktorým sa násobí zistený počet stromov uvedený v stĺpci „a“ pri prepočte na:\nVysokokmene a polokmeneštvrťkmene\njadrovínsliviek, sliviek domácich, guľatoplodných ringlôt a višnímarhúľ, brosk. a štvrťkmene jadrovínmarhúľ, broskýň a višní\nabcdef\nVysokokmene a polokmene jadrovín-1,672,224,445,56\nVysokokmene a polokmene sliviek, sliviek domácich, guľatoplodných ringlôt a višní0,60-1,332,673,33\nVysokokmene a polokmene marhúľ, broskýň a štvrťkmene jadrovín0,450,75-2,002,50\nŠtvrťkmene marhúľ, broskýň a višní0,220,380,50-1,25\nZákrsky0,180,300,400,80-\nPoznámka: prepočet sa vykoná na ten druh stromov, ktorý prevažuje.\n1) § 7 ods. 2 a § 30 ods. 5 zákona SNR č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.\n2) § 8 ods. 2 zákona č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam.\n§ 19 zákona SNR č. 266/1992 Zb.\n3) § 23 zákona SNR č. 266/1992 Zb.\n4) § 14 zákona SNR č. 266/1992 Zb.\n5) § 15 zákona SNR č. 266/1992 Zb.\n6) § 16 zákona SNR č. 266/1992 Zb.\n7) § 27 zákona SNR č. 266/1992 Zb.\n8) § 24 ods. 1 zákona SNR č. 266/1992 Zb.\n9) § 30 ods. 2 druhá veta zákona SNR č. 266/1992 Zb.\n10) § 15 písm. b) zákona SNR č. 266/1992 Zb.\n11) ČSN 01 3410 Mapy veľkých mierok. Základné a účelové mapy.\n12) § 39 ods. 1 zákona SNR č. 266/1992 Zb."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:206/1953",
+  "type": "statute",
+  "title": "206/1953 Ú. l., Vyhláška ministra zdravotnictví o bezplatném poskytování preventivní a léčebné péče nepojištěným osobám.",
+  "title_en": "",
+  "short_name": "206/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-07-11",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/206",
+  "description": "Vyhláška ministra zdravotnictví o bezplatném poskytování preventivní a léčebné péče nepojištěným osobám.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Okruh osob, kterým se poskytuje bezplatná ambulantní i ústavní preventivní a léčebná péče, se rozšiřuje na všechny děti ve věku do jednoho roku a dále na všechny ženy, pokud jde o péči poskytovanou v souvislosti s porodem."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vzhledem k nové organisaci preventivní a léčebné péče upraví ministerstvo zdravotnictví podrobně poskytování bezplatné preventivní a léčebné péče osobám, které na ni nemají nárok podle předpisů o národním pojištění nemocenském; tuto úpravu provede směrnicemi, které vydá v dohodě se zúčastněnými ústředními úřady a jednotnou odborovou organisací."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. července 1953."
+    }
+  ],
+  "definitions": []
+}

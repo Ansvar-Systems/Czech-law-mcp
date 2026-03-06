@@ -1,0 +1,57 @@
+{
+  "id": "cz:286/2007",
+  "type": "statute",
+  "title": "286/2007 Sb., Vyhláška o centrální evidenci dotací",
+  "title_en": "",
+  "short_name": "286/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-11-15",
+  "in_force_date": "2011-04-26",
+  "url": "https://www.e-sbirka.cz/sb/2007/286",
+  "description": "Vyhláška o centrální evidenci dotací",
+  "provisions": [
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obsah a rozsah údajů",
+      "content": "(1) Údaje o příjemcích účelově poskytnutých prostředků zaznamenávané nebo přenášené poskytovateli do centrální evidence dotací se stanoví v příloze č. 1.\n(2) Údaje o účelově poskytnutých prostředcích zaznamenávané nebo přenášené poskytovateli do centrální evidence dotací se stanoví v příloze č. 2."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Evidence údajů",
+      "content": "(1) Poskytovatel zaznamenává do centrální evidence dotací údaje o účelově poskytnutých prostředcích a jejich příjemcích v elektronické podobě do datových souborů prostřednictvím zabezpečené automatizované webové služby Generálního finančního ředitelství.\n(2) Poskytovatel, který informace o účelově poskytnutých prostředcích a jejich příjemcích zaznamenává do jiného informačního systému, může tyto údaje přenášet do centrální evidence dotací obdobným způsobem, jak je uvedeno v odstavci 1."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Lhůty",
+      "content": "Poskytovatel je povinen zaznamenávat nebo přenášet údaje o účelově poskytnutých prostředcích a jejich příjemcích do centrální evidence dotací ve lhůtě do 30 dnů od skončení prvního, druhého a třetího kalendářního čtvrtletí, ve kterém byly účelově poskytnuté prostředky poskytnuty. Údaje za čtvrté čtvrtletí včetně provedených změn musí být zaznamenány, případně přeneseny do centrální evidence dotací do 15 kalendářních dnů po lhůtě stanovené pro finanční vypořádání se státním rozpočtem2) za příslušný kalendářní rok."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Přechodné ustanovení",
+      "content": "Poskytovatel, který zaznamenává nebo přenáší poprvé údaje o účelově poskytnutých prostředcích a jejich příjemcích, je povinen zaznamenat nebo přenést tyto údaje do centrální evidence dotací za rok 2008 nejpozději do 15 kalendářních dnů po lhůtě stanovené pro finanční vypořádání se státním rozpočtem za příslušný kalendářní rok."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Zrušovací ustanovení",
+      "content": "Vyhláška č. 296/2005 Sb., o centrální evidenci dotací a návratných finančních výpomocí se zrušuje."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2008.\nPříloha č. 1 k vyhlášce č. 286/2007 Sb.\nÚdaje o příjemcích dotací, návratných finančních výpomocí a dalších obdobných transferů poskytnutých ze státního rozpočtu, státních fondů, státních finančních aktiv a Národního fondu\nNázev položkyP/N1)Identifikátor2)\nIdentifikační číslo4a)P4)AA0017\nRodné číslo občanaPAA0001\nRodné číslo cizince6)PAA0009\nKód státu podle státní příslušnosti příjemceP3)AA0033\nKód právní formy subjektuPAA0019\nNázev právnické osobyPAA0020\nPříjmeníPAA0075\nJménoPAA0074\nTitul před jménemNAA0010\nTitul za jménemNAA0011\nKód státu podle sídla/trvalého pobytu příjemceP3)AA0033\nPředávací kód části obcePAA0175\nPředávací kód městské části/městského obvoduPAA0176\nNázev ulice / veřejného prostranstvíPAA0063\nČíslo popisné nebo číslo evidenčníPAA0065\nAA0066\nČíslo orientačníNAA0067\nPoštovní směrovací čísloPAA0038\nPředávací kód adresy stavebního objektuNAA0109\nKvalifikátor adresyPAA0039\nAdresa uvedená textověP5)AA0739\nFaxové číslo, telefonní čísloNAA0050\nE-mailNAA0666\nVysvětlivky:\n1) P – povinné údaje; N – nepovinné údaje.\n2) Identifikátor je popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný metodickými pokyny informačních systémů veřejné správy, v souladu se zákonem č. 365/2000 Sb., o informačních systémech veřejné správy a změně některých dalších zákonů, ve znění pozdějších předpisů.\nTato vyhláška upravuje obsah a rozsah údajů zaznamenávaných nebo přenášených do centrální evidence dotací a postupy a lhůty, které při tomto zaznamenávání a přenášení plní poskytovatelé dotací, návratných finančních výpomocí a dalších obdobných transferů1) poskytovaných ze státního rozpočtu, státních fondů, státních finančních aktiv a Národního fondu (dále jen „účelově poskytnuté prostředky“).\nPředmět úpravy"
+    },
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "3) Povinné pouze pro cizince nebo zahraniční právnické osoby.\n4) Povinnost vyplnění této položky se řídí právní formou subjektu.\n4a) Identifikační číslo je podle zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů číselný pořadový kód, který slouží k jednoznačné identifikaci ekonomických subjektů, a má pouze evidenční význam. Ekonomickým subjektům je přidělují příslušné správní orgány.\n5) Povinné pouze pro cizince nebo zahraniční právnické osoby.\n6) Rodné číslo cizince je datový prvek pro číselný indikátor cizince, který má povolení k pobytu v České republice. V případě, že nemá dosud přidělené rodné číslo, lze do položky „Rodné číslo cizince“ uvést datum narození.\nPříloha č. 2 k vyhlášce č. 286/2007 Sb.\nÚdaje o dotacích, návratných finančních výpomocích a dalších obdobných transferech poskytnutých ze státního rozpočtu, státních fondů, státních finančních aktiv a Národního fondu\nNázev položkyP/N1)Identifikátor2)\nKód poskytovatelePAA0716\nKód titulu dotace/návratné finanční výpomoci/obdobného transferuPAA0717\nKód finančního zdrojePAA0720\nEvidenční číslo rozhodnutí/dohodyPFormát AA0105\nDatum podání žádostiNFormát AA0110\nŽádaná výše finančních prostředkůNFormát AA0112\nDatum poskytnutí dotace/návratné finanční výpomoci/obdobného transferuPFormát AA0110\nPoskytnutá výše dotace/návratné finanční výpomoci/obdobného transferuPFormát AA0112\nKód krytí finančních prostředků4)PAA0743\nIndikátor úročení návratné finanční výpomoci/obdobného transferuP3)AA0719\nDatum splácení návratné finanční výpomoci/obdobného transferuP3)Formát AA0110\nSplácená výše návratné finanční výpomoci/obdobného transferuP3)Formát AA0112\nČerpaná výše dotace k 31.12. daného roku5)PFormát AA0112\nSpotřebovaná dotace6)PFormát AA0112\nIndikátor návratnostiPAA0722\nČíslo ukazatele státního rozpočtuPAA0723\nČíslo položky rozpočtové skladbyPAA0724\nČíslo paragrafu rozpočtové skladbyPAA0725\nRok7)PAA0231\nIndikátor proplácení přes Národní fondPAA0726\nKód typu operace s finančními prostředkyNAA0727\nVariabilní symbolNAA0043\nKonstantní symbolNAA0042\nČíslo účtu poskytovateleNFormát AA0046\nIdentifikační kód banky poskytovateleNAA0045\nČíslo účtu příjemceNFormát AA0046\nIdentifikační kód banky příjemceNAA0045\nIdentifikační číslo dotace/návratné finanční výpomoci/obdobného transferuNAA0728\nKód klasifikace územních statistických jednotekNAA0177; AA0178\nAA0179; AAC013\nPopis území realizaceNAA0730\nIndikátor dotace/návratné finanční výpomociPAA0731\nNázev dokumentuPAA0732\nObsah dokumentu předpisuNAA0733\nVysvětlivky:\n1) P – povinné údaje; N – nepovinné údaje.\n2) Identifikátor je popis sledovaných datových prvků a specifikace technických podmínek předávaných dat, definovaný metodickými pokyny informačních systémů veřejné správy, v souladu se zákonem č. 365/2000 Sb., o informačních systémech veřejné správy a změně některých dalších zákonů, ve znění pozdějších předpisů.\n3) Povinný údaj pro návratné finanční výpomoci.\n4) Kód krytí finančních prostředků je klasifikace, která je pro poskytovatele vymezena číselníkem pro členění finančních prostředků na poskytnuté dotace nebo návratné finanční výpomoci a podobné transfery podle § 44 odst. 2 zákona č. 218/2000 Sb., ve znění pozdějších předpisů.\n5) Čerpaná výše dotace k 31.12. daného roku je rozdíl sumy hodnot „Dílčí čerpané částky dotace“ z finančního zdroje a sumy hodnot „Dílčí vrácené částky dotace“ do finančního zdroje příjemcem od počátku rozpočtového období do daného data (menší nebo rovno termínu provedení státního závěrečného účtu). Výše finančních prostředků, které byly čerpány z finančního zdroje k danému datu (maximálně k termínu státního závěrečného účtu) sledovaného roku pro účely dané dotace či návratné finanční výpomoci. Údaj vychází z bankovních výpisů výdajových účtů finančního zdroje k danému datu.\n6) Spotřebovaná dotace je skutečně spotřebovaná nebo nárokovaná částka finančních prostředků příjemcem (jinak nazývaná „předpis“ nebo „nárok“) na daný účel dotace či návratné finanční výpomoci. Jedná se o výši finančních prostředků, kterou konečný příjemce doloží při finančním vypořádání.\n7) Rozpočtové období, je období, ve kterém jsou finanční prostředky rozpočtovány nebo poskytovány u víceletých titulů.\n1) Vyhláška č. 323/2002 Sb., o rozpočtové skladbě, ve znění pozdějších předpisů.\n2) Vyhláška č. 551/2004 Sb., kterou se stanoví zásady a termíny finančního vypořádání vztahů se státním rozpočtem, státními finančními aktivy nebo Národním fondem."
+    }
+  ],
+  "definitions": []
+}

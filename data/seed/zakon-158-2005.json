@@ -1,0 +1,144 @@
+{
+  "id": "cz:158/2005",
+  "type": "statute",
+  "title": "158/2005 Sb., Vyhláška, kterou se stanoví minimální náležitosti návrhu smlouvy o přístupu nebo o propojení veřejných komunikačních sítí",
+  "title_en": "",
+  "short_name": "158/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-28",
+  "in_force_date": "2005-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/158",
+  "description": "Vyhláška, kterou se stanoví minimální náležitosti návrhu smlouvy o přístupu nebo o propojení veřejných komunikačních sítí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Minimální náležitosti návrhu smlouvy o přístupu",
+      "content": "(1) Návrh na uzavření smlouvy o přístupu podle § 80 odst. 1 zákona musí obsahovat alespoň identifikační údaje navrhovatele, návrh technického řešení přístupu, návrh cen a dalších obchodních podmínek a specifikaci požadovaných služeb.\n(2) Identifikačními údaji navrhovatele se rozumí\na) u fyzické osoby jméno a příjmení, popřípadě obchodní firma, místo trvalého pobytu nebo přechodného pobytu na území České republiky, popřípadě bydliště v zahraničí, identifikační číslo, bylo-li přiděleno, popřípadě jméno, příjmení a bydliště odpovědného zástupce a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti,\nb) u právnické osoby obchodní firma nebo název, sídlo, popřípadě umístění organizační složky na území České republiky, identifikační číslo, bylo-li přiděleno, jméno, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti.\n(3) Návrhem technického řešení přístupu se rozumí\na) návrh umístění přístupových bodů (přesné adresy, a je-li to možné, specifikace patra budovy, čísla místnosti, popřípadě jednoduchý situační náčrt podle katastrální mapy),\nb) návrh specifikace zařízení, které se pro přístup navrhuje,\nc) návrh elektrických a fyzických parametrů rozhraní pro přístup k síti podle norem nebo specifikací (§ 62 zákona) a dalších údajů potřebných pro zajištění interoperability služeb, určených pro koncové nebo přístupové body sítě,\nd) návrh specifikace síťových prvků a přiřazených prostředků, ke kterým je přístup požadován, včetně návrhu údajů o jejich požadovaných kapacitách v době zahájení provozu, s odhadem potřeby příslušných kapacit s výhledem na 2 roky,\ne) návrh požadovaného termínu zprovoznění přístupu a\nf) návrh požadovaných kvalitativních parametrů rozhraní pro přístup, včetně jejich hodnot a metodiky jejich zjišťování.\n(4) Návrhem cen a dalších obchodních podmínek se rozumí\na) návrh ceny celkové a cen dílčích v přiměřeném členění podle síťových prvků a přiřazených prostředků,\nb) návrh řešení pro případ výpadku a snížené kvality přístupu a\nc) návrh řešení případu nevyužití požadovaných kapacit síťových prvků, přiřazených prostředků nebo služeb.\n(5) Specifikací požadovaných služeb se rozumí\na) specifikace služby poskytované v součinnosti smluvních stran, včetně stručného popisu parametrů služby,\nb) specifikace služby poskytované uživatelům a\nc) specifikace doplňkové služby; doplňkovou službou se rozumí služba, která doplňuje základní službu elektronických komunikací a která nemůže být uživateli nabízena samostatně, ale pouze ve spojení se základní poskytovanou službou.\n(6) Návrh smlouvy o přístupu, kterým se požaduje zpřístupnění účastnického vedení1), musí dále obsahovat alespoň specifikaci části sítě, ke které je přístup požadován, včetně požadovaného druhu zpřístupnění účastnického vedení a přidělené identifikační číslo operátora."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Minimální náležitosti návrhu smlouvy o propojení sítí",
+      "content": "(1) Návrh na uzavření smlouvy o propojení sítí podle § 80 odst. 1 zákona musí obsahovat alespoň identifikační údaje navrhovatele, návrh technického řešení propojení, návrh cen a dalších obchodních podmínek, specifikaci požadovaných opatření a služeb a návrh způsobu měření provozu a provozního zatížení mezi propojenými sítěmi.\n(2) Identifikačními údaji navrhovatele se rozumí\na) u fyzické osoby jméno a příjmení, popřípadě obchodní firma, místo trvalého pobytu nebo přechodného pobytu na území České republiky, popřípadě bydliště v zahraničí, identifikační číslo, bylo-li přiděleno, popřípadě jméno, příjmení a bydliště odpovědného zástupce a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti,\nb) u právnické osoby obchodní firma nebo název, sídlo, popřípadě umístění organizační složky na území České republiky, identifikační číslo, bylo-li přiděleno, jméno, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti.\n(3) Návrhem technického řešení propojení se rozumí\na) návrh umístění propojovacích bodů (přesné adresy, a je-li to možné, specifikace patra budovy, čísla místnosti, popřípadě jednoduchý situační náčrt podle katastrální mapy) a požadovaná síťová úroveň propojení,\nb) návrh počtu okruhů nebo rozhraní pro jednotlivé propojovací body v době zahájení provozu a odhad požadavku na jejich kapacitu s výhledem na 2 roky,\nc) návrh specifikace zařízení, které má být pro propojení použito,\nd) návrh elektrických a fyzických parametrů, přenosového a signalizačního protokolu rozhraní pro propojení sítí podle norem nebo specifikací (§ 62 zákona), údajů potřebných pro zajištění interoperability služeb v propojovaných sítích, údajů pro zabezpečení dalších funkcí, které rozhraní umožňuje, a doklad o ověření technické způsobilosti rozhraní zařízení,\ne) návrh číslování, popřípadě údaje o adresaci v síti, která je vzhledem k typu propojovaných služeb relevantní, a identifikační číslo operátora,\nf) návrh popisu struktury sítě, použitých přenosových prostředků v rozsahu nezbytném pro uzavření smlouvy o propojení, údaje o směrování provozu a způsobu synchronizace sítí,\ng) návrh objemu provozního zatížení pro propojení při zahájení provozu za 1 rok a s výhledem na 2 roky členěný dle národního a mezinárodního provozu a podle druhu požadovaných služeb, s uvedením předpokládaného stupně koncentrace provozního zatížení a\nh) návrh provedení zkušebních testů.\n(4) Návrhem cen a dalších obchodních podmínek se rozumí\na) návrh cen za využití síťových prvků, přiřazených prostředků, poskytovaných služeb a za zřízení, změnu a zrušení propojení,\nb) návrh termínů testování propojení, zprovoznění propojení a zahájení poskytování služeb včetně podmínek pro ukončení služeb včetně propojení,\nc) návrh řešení pro případ výpadku a snížené kvality propojení a\nd) návrh řešení případu nevyužití požadovaných kapacit síťových prvků, přiřazených prostředků nebo služeb.\n(5) Specifikací požadovaných opatření a služeb se rozumí\na) specifikace služby poskytované v součinnosti smluvních stran, včetně stručného popisu parametrů služby,\nb) specifikace technické a dohledové služby pro provoz sítě poskytované v součinnosti obou smluvních stran,\nc) specifikace služby poskytované uživatelům,\nd) specifikace doplňkové služby a\ne) specifikace požadovaných opatření zaměřených na splnění požadavků na zabezpečení integrity sítě a interoperability služeb.\n(6) Návrhem způsobu měření provozu a provozního zatížení mezi propojenými sítěmi se rozumí\na) návrh měření provozních ztrát, kvality a spolehlivosti služby a\nb) návrh měření uskutečněného provozu pro vyúčtování."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2005.\n1) § 85 zákona č. 127/2005 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "u fyzické",
+      "definition": "osoby jméno a příjmení, popřípadě obchodní firma, místo trvalého pobytu nebo přechodného pobytu na území České republiky, popřípadě bydliště v zahraničí, identifikační číslo, bylo-li přiděleno, popřípadě jméno, příjmení a bydliště odpovědného zástupce a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "u právnické",
+      "definition": "osoby obchodní firma nebo název, sídlo, popřípadě umístění organizační složky na území České republiky, identifikační číslo, bylo-li přiděleno, jméno, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh umístění přístupových bodů (přesné adresy",
+      "definition": "a je-li to možné, specifikace patra budovy, čísla místnosti, popřípadě jednoduchý situační náčrt podle katastrální mapy)",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh specifikace",
+      "definition": "zařízení, které se pro přístup navrhuje",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh elektrických a fyzických parametrů rozhraní pro",
+      "definition": "přístup k síti podle norem nebo specifikací (§ 62 zákona) a dalších údajů potřebných pro zajištění interoperability služeb, určených pro koncové nebo přístupové body sítě",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh specifikace síťových prvků a přiřazených prostředků",
+      "definition": "ke kterým je přístup požadován, včetně návrhu údajů o jejich požadovaných kapacitách v době zahájení provozu, s odhadem potřeby příslušných kapacit s výhledem na 2 roky",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh požadovaných kvalitativních parametrů rozhraní pro",
+      "definition": "přístup, včetně jejich hodnot a metodiky jejich zjišťování.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "návrh řešení případu nevyužití požadovaných kapacit síťových prvků",
+      "definition": "přiřazených prostředků nebo služeb.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "specifikace služby poskytované v součinnosti smluvních stran",
+      "definition": "včetně stručného popisu parametrů služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "specifikace doplňkové služby; doplňkovou službou",
+      "definition": "služba, která doplňuje základní službu elektronických komunikací a která nemůže být uživateli nabízena samostatně, ale pouze ve spojení se základní poskytovanou službou.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "u fyzické",
+      "definition": "osoby jméno a příjmení, popřípadě obchodní firma, místo trvalého pobytu nebo přechodného pobytu na území České republiky, popřípadě bydliště v zahraničí, identifikační číslo, bylo-li přiděleno, popřípadě jméno, příjmení a bydliště odpovědného zástupce a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "u právnické",
+      "definition": "osoby obchodní firma nebo název, sídlo, popřípadě umístění organizační složky na území České republiky, identifikační číslo, bylo-li přiděleno, jméno, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby a evidenční číslo osvědčení o oznámení vykonávání komunikační činnosti.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh umístění propojovacích bodů (přesné adresy",
+      "definition": "a je-li to možné, specifikace patra budovy, čísla místnosti, popřípadě jednoduchý situační náčrt podle katastrální mapy) a požadovaná síťová úroveň propojení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh specifikace",
+      "definition": "zařízení, které má být pro propojení použito",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh elektrických a fyzických parametrů",
+      "definition": "přenosového a signalizačního protokolu rozhraní pro propojení sítí podle norem nebo specifikací (§ 62 zákona), údajů potřebných pro zajištění interoperability služeb v propojovaných sítích, údajů pro zabezpečení dalších funkcí, které rozhraní umožňuje, a doklad o ověření technické způsobilosti rozhraní zařízení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh číslování",
+      "definition": "popřípadě údaje o adresaci v síti, která je vzhledem k typu propojovaných služeb relevantní, a identifikační číslo operátora",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh popisu struktury sítě",
+      "definition": "použitých přenosových prostředků v rozsahu nezbytném pro uzavření smlouvy o propojení, údaje o směrování provozu a způsobu synchronizace sítí",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh cen za využití síťových prvků",
+      "definition": "přiřazených prostředků, poskytovaných služeb a za zřízení, změnu a zrušení propojení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh termínů testování propojení",
+      "definition": "zprovoznění propojení a zahájení poskytování služeb včetně podmínek pro ukončení služeb včetně propojení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh řešení případu nevyužití požadovaných kapacit síťových prvků",
+      "definition": "přiřazených prostředků nebo služeb.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "specifikace služby poskytované v součinnosti smluvních stran",
+      "definition": "včetně stručného popisu parametrů služby",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "návrh měření provozních ztrát",
+      "definition": "kvality a spolehlivosti služby a",
+      "source_provision": "§ 2"
+    }
+  ]
+}

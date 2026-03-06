@@ -1,0 +1,51 @@
+{
+  "id": "cz:9/1953",
+  "type": "statute",
+  "title": "9/1953 Sb., Nařízení o hlavních energeticích",
+  "title_en": "",
+  "short_name": "9/1953 Sb.",
+  "status": "in_force",
+  "issued_date": "1953-02-18",
+  "in_force_date": "1953-02-18",
+  "url": "https://www.e-sbirka.cz/sb/1953/9",
+  "description": "Nařízení o hlavních energeticích",
+  "provisions": [
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "b) organisační zařazení hlavních energetiků a rozsah řídící a kontrolní služby v nadřízených orgánech podle § 4.\na) práva a povinnosti hlavních energetiků v závodech v oboru své působnosti, pokud jde o hospodaření ostatními druhy energie;\n(2) Ústřední úřady upraví\n(1) Ministerstvo paliv a energetiky vydá v dohodě s příslušnými ústředními úřady zásadní směrnice o tom, ve kterých závodech musí být ustanoven hlavní energetik a podrobnější předpisy o jejich úkolech s hlediska hospodaření palivy, elektřinou, plynem, parou a topnou vodou.\nZmocňovací ustanovení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "K plánovitému řízení energetického provozu v závodech a za účelem kontroly ustanoví vedoucí nadřízených orgánů své hlavní energetiky.\nDozor nadřízených orgánů."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(3) Hlavní energetik spolupracuje s příslušnými orgány národních podniků podřízených ministerstvu paliv a energetiky.\n(2) Hlavní energetik odpovídá za svou činnost hlavnímu inženýrovi nebo zaměstnanci jemu na roveň postavenému; výjimky z tohoto ustanovení povolují ústřední úřady v oboru své působnosti. Za dodržení přídělu energie nebo odběrového (dodávkového) diagramu nebo za dodržení operativních příkazů elektrárenského (plynárenského) dispečera, po případě za opatření k zamezení plýtvání energií a soustavného nedodržování norem spotřeby energie, odpovídá hlavní energetik přímo vedoucímu závodu.\n(1) Hlavního energetika jmenuje a odvolává vedoucí závodu z osob, které jsou seznámeny s energetickým zařízením závodu a s energetickými požadavky výroby a které mají potřebné odborné znalosti a zkušenosti.\nUstanovení hlavního energetika."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "c) sestavování výrobních a investičních plánů s hlediska zajištění energie.\nb) stanovení časového rozvrhu pracovních operací a pracovní doby, a to s ohledem na využití energetických zdrojů, zejména elektráren;\na) tvorby, prověřování a zpevňování norem pro spotřebu energie na výrobní jednotku;\n(3) Hlavní energetik se zúčastní všech prací, jež souvisí s energetickým provozem, zejména\n(2) Hlavní energetik je oprávněn činit všechna opatření k dodržení přídělů energie, odběrových a dodávkových diagramů a k plnění operativních příkazů elektrárenského (plynárenského) dispečera; přitom je povinen dbát na potřeby výroby.\n(1) Hlavní energetik odpovídá za účelný, hospodárný a plynulý provoz, za údržbu a za správné využití všech výrobních energetických zařízení a těch spotřebních zařízení, která stanoví příslušné ústřední úřady, po př. orgány jimi zmocněné, v oboru své působnosti; dále odpovídá hlavní energetik za dodržování přídělů energie a odběrových, po případě dodávkových diagramů. Kontroluje provádění údržby, stav, využití a hospodárný provoz těch energetických spotřebičů, za něž neodpovídá přímo.\nPravomoc a odpovědnost hlavních energetiků."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(2) Energetickým provozem se rozumí plánovité a účelné vedení provozu energetických zařízení k zajištění zásobování výroby energií a k zajištění řádného hospodaření energií, zejména s ohledem na celostátní energetickou potřebu.\n(1) K řádnému vedení energetického provozu jsou podniky (závody), ústavy, úřady a jiné organisace (dále jen „závody“) v rozsahu stanoveném prováděcími předpisy povinny ustanovit hlavní energetiky.\nÚčel nařízení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Energetickým provozem",
+      "definition": "plánovité a účelné vedení provozu energetických zařízení k zajištění zásobování výroby energií a k zajištění řádného hospodaření energií, zejména s ohledem na celostátní energetickou potřebu",
+      "source_provision": "§ 2."
+    }
+  ]
+}

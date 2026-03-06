@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:192/1948",
+  "type": "statute",
+  "title": "192/1948 Ú. l. I, Vyhláška ministryně průmyslu o zřízení „Karnoly, národního podniku“.",
+  "title_en": "",
+  "short_name": "192/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-02-07",
+  "in_force_date": "1948-03-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/192",
+  "description": "Vyhláška ministryně průmyslu o zřízení „Karnoly, národního podniku“.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Jan Kudlich, továrna na vlněné látky Krnov (Hans Kudlich, Schafwollwarenfabrik und Wollgarnspinnerei, Jägerndorf) se sídlem v Krnově, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Peter Hückel, továrna na sukna, Fulnek (Peter Hückel, Tuchfabrik, Fulnek), se sídlem ve Fulneku, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

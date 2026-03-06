@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1791/1948",
+  "type": "statute",
+  "title": "1791/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do České zbrojovky, národního podniku.",
+  "title_en": "",
+  "short_name": "1791/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-01",
+  "in_force_date": "1948-08-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1791",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do České zbrojovky, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. „Premier“, akciová společnost pro výrobu jízdních kol a strojů, se sídlem v Chebu,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. „Premo“, továrna na zboží kovové, společnost s r. o., Protivín, se sídlem v Protivíne, spr. okr. Písek,\nvesměs v rozsahu jejich znárodnění, do České zbrojovky, národního podniku."
+    }
+  ],
+  "definitions": []
+}

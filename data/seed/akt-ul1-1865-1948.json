@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1865/1948",
+  "type": "statute",
+  "title": "1865/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Českých cementáren a vápenic, národního podniku.",
+  "title_en": "",
+  "short_name": "1865/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-08-18",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1865",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Českých cementáren a vápenic, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Jan Liebig a spol. se sídlem v Železném Brodě, pobočný závod v Brodci s firmou téhož znění Jan Liebig a spol. v Brodci a Haraticích,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Malohorecká vápenice — Bratří Kuchařové se sídlem v Železném Brodě,\nvesměs v rozsahu jejich znárodnění, do Českých cementáren a vápenic, národního podniku."
+    }
+  ],
+  "definitions": []
+}

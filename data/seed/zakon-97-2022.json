@@ -1,0 +1,69 @@
+{
+  "id": "cz:97/2022",
+  "type": "statute",
+  "title": "97/2022 Sb., Vyhláška k provedení některých ustanovení zákona o zdravotnických prostředcích týkajících se elektronických poukazů",
+  "title_en": "",
+  "short_name": "97/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-04-29",
+  "in_force_date": "2022-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/97",
+  "description": "Vyhláška k provedení některých ustanovení zákona o zdravotnických prostředcích týkajících se elektronických poukazů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) postup a podmínky pro komunikaci předepisujících a výdejců se systémem eRecept,\nb) formu identifikátoru elektronického poukazu, kterou systém eRecept poskytuje předepisujícím a pacientům,\nc) způsob zasílání požadavků na vytvoření, změnu a zrušení elektronického poukazu předepisujícími,\nd) rozsah údajů potřebných pro vytvoření, změnu a zrušení elektronického poukazu a jeho náležitosti,\ne) způsob, kterým jsou Ústavu sdělovány identifikační údaje osoby oprávněné předepisovat nebo vydávat prostředek."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Postup a podmínky pro komunikaci se systémem eRecept",
+      "content": "(1) Komunikace mezi systémem eRecept a předepisujícím nebo vydávajícím probíhá prostřednictvím datového rozhraní systému eRecept a informačního systému předepisujícího nebo vydávajícího, přičemž komunikační kanál je šifrovaný.\n(2) Komunikace mezi systémem eRecept a předepisujícím nebo vydávajícím probíhá rovněž přímo prostřednictvím webové nebo mobilní aplikace systému eRecept podle zákona o léčivech, přičemž komunikační kanál je šifrovaný.\n(3) Data odesílaná do systému eRecept jsou předepisujícím a vydávajícím vytvářena ve formě strukturovaných dat. Technické požadavky na podobu strukturovaných dat jsou uvedeny v provozní dokumentaci systému eRecept.\n(4) Data odesílaná podle odstavce 3 musí být podepsána uznávaným elektronickým podpisem podle právního předpisu upravujícího služby vytvářející důvěru pro elektronické transakce; to neplatí, přistupuje-li předepisující nebo vydávající k systému eRecept prostřednictvím Národního bodu pro identifikaci a autentizaci.\n(5) Ústav vydá na základě žádosti provozovateli oční optiky nebo osobě, se kterou zdravotní pojišťovna uzavřela smlouvu o výdeji podle zákona o veřejném zdravotním pojištění, přístupový certifikát sloužící k zabezpečené komunikaci se systémem eRecept; žádost o vydání přístupového certifikátu se zasílá prostřednictvím elektronického formuláře zveřejněného na internetových stránkách Ústavu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Identifikátor elektronického poukazu",
+      "content": "Identifikátor elektronického poukazu je generován systémem eRecept v alfanumerické podobě znakového identifikátoru, který je převoditelný do podoby dvoudimenziálního nebo jednodimenziálního čárového kódu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozsah údajů potřebných pro vytvoření elektronického poukazu a jeho náležitosti",
+      "content": "(1) Požadavek předepisujícího na vytvoření elektronického poukazu obsahuje\na) základní údaje o elektronickém poukazu podle odstavce 2,\nb) údaje vztahující se k pacientovi, kterému je prostředek předepisován, v rozsahu podle odstavce 3,\nc) údaje vztahující se k předepisovanému prostředku v rozsahu podle odstavce 4,\nd) údaje vztahující se k předepisujícímu a poskytovateli zdravotních služeb v rozsahu podle odstavce 5.\n(2) V požadavku na vytvoření elektronického poukazu se o elektronickém poukazu uvádí\na) doba pro uplatnění elektronického poukazu,\nb) způsob doručení identifikátoru elektronického poukazu pacientovi; je-li zvolen způsob zaslání identifikátoru prostřednictvím systému eRecept textovou zprávou nebo prostřednictvím elektronické pošty, pak musí požadavek obsahovat rovněž telefonní číslo nebo adresu elektronické pošty, kam má být identifikátor doručen,\nc) příznak „ad usum proprium“ v případě, že jde o požadavek předepisujícího, který předepisuje prostředky sobě, manželovi, svým rodičům, prarodičům, dětem, vnukům a sourozencům podle zákona o veřejném zdravotním pojištění1),\nd) specifikace požadavku na schválení úhrady včetně zdůvodnění, jestliže je úhrada prostředku vázána na schválení příslušné zdravotní pojišťovny.\n(3) V požadavku na vytvoření elektronického poukazu se ve vztahu k pacientovi uvádí\na) označení zdravotní pojišťovny pacienta číselným kódem, pokud má být prostředek hrazen z veřejného zdravotního pojištění, nebo příznak, že úhrada prostředku vyplývá pro Ministerstvo zdravotnictví z mezinárodní smlouvy nebo z jiného právního předpisu,\nb) jméno, popřípadě jména, a příjmení a adresa místa pobytu pacienta, a nelze-li uvést místo pobytu, adresa bydliště pacienta,\nc) telefonní číslo pacienta, nelze-li jej uvést, pak adresa místa, kde se pacient zdržuje,\nd) číslo pojištěnce, bylo-li přiděleno; pokud číslo pojištěnce pacientovi nebylo přiděleno, nebo nelze-li z čísla pojištěnce určit jeho věk, datum narození pacienta,\ne) adresa vazební věznice, do níž byla osoba vzata, jde-li o osobu ve výkonu vazby,\nf) adresa věznice nebo ústavu zabezpečovací detence, do níž byla osoba umístěna, jde-li o osobu ve výkonu trestu odnětí svobody nebo zabezpečovací detence.\n(4) V požadavku na vytvoření elektronického poukazu se ve vztahu k předepisovanému prostředku uvádí\na) v případě sériově vyráběného prostředku\n1. obchodní název, pod nímž je prostředek uváděn na trh,\n2. doplněk názvu označující variantu prostředku, pokud existuje,\n3. kód přidělený Ústavem pro úhradu z veřejného zdravotního pojištění, byl-li přidělen, případně údaje vztahující se k výši a podmínkám úhrady z veřejného zdravotního pojištění, a to včetně vyznačení jiné než první úhrady podle seznamu všech zdravotnických prostředků hrazených na základě předepsání na poukaz vydávaného podle zákona o veřejném zdravotním pojištění, a\n4. počet balení,\nb) individuální návrh charakteristik prostředku a kód přidělený Ústavem pro úhradu z veřejného zdravotního pojištění v případě, že se jedná o prostředek na zakázku,\nc) diagnóza pacienta, pro kterou je prostředek pacientovi předepisován, uvedená pomocí kódu Mezinárodní klasifikace nemocí,\nd) způsob úhrady prostředku, a to uvedením slov\n1. „hradí pacient“, jestliže prostředek nemá být hrazen z veřejného zdravotního pojištění, nebo v případě, že předepisující nemá smlouvu se zdravotní pojišťovnou pacienta, pokud nejde o neodkladnou péči,\n2. „úhrada“, jestliže prostředek má být hrazen z veřejného zdravotního pojištění,\n3. „úhrada s doplatkem zaměstnavatele“, jestliže je doplatek na prostředek hrazen zaměstnavatelem na základě smluvního vztahu se zdravotní pojišťovnou.\n(5) V požadavku na vytvoření elektronického poukazu se ve vztahu k předepisujícímu a poskytovateli zdravotních služeb uvádí\na) identifikace poskytovatele zdravotních služeb v rozsahu\n1. jméno, popřípadě jména, a příjmení poskytovatele zdravotních služeb, dále adresa místa poskytování zdravotních služeb, identifikační číslo pracoviště přidělené zdravotní pojišťovnou, bylo-li zdravotní pojišťovnou přiděleno, a kontaktní telefonní číslo, jde-li o podnikající fyzickou osobu, nebo\n2. název nebo obchodní firmu, adresa sídla a místa poskytování zdravotních služeb, identifikační číslo pracoviště přidělené zdravotní pojišťovnou, bylo-li zdravotní pojišťovnou přiděleno, a kontaktní telefonní číslo, jde-li o právnickou osobu,\nb) jméno, popřípadě jména, a příjmení předepisujícího, jestliže zdravotní péče byla poskytnuta u poskytovatele, který je právnickou osobou nebo podnikající fyzickou osobou,\nc) jméno, popřípadě jména, a příjmení, adresa místa pobytu a telefonní číslo předepisujícího, jde-li o předepisujícího, který předepisuje prostředky sobě, manželovi, svým rodičům, prarodičům, dětem, vnukům a sourozencům podle zákona o veřejném zdravotním pojištění2),\nd) zdravotní pojišťovnou přidělené identifikační číslo pracoviště delegujícího ošetřujícího lékaře, v případě delegované preskripce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob zasílání požadavků na vytvoření elektronického poukazu",
+      "content": "(1) Požadavek na vytvoření elektronického poukazu zasílá předepisující systému eRecept s uvedením údajů podle § 4.\n(2) Systém eRecept po přijetí souboru dat nezbytných pro vytvoření elektronického poukazu vytvoří elektronický poukaz a přidělí mu identifikátor elektronického poukazu.\n(3) Systém eRecept neprodleně zašle předepisujícímu prostřednictvím jeho informačního systému, webové nebo mobilní aplikace potvrzení o vytvoření elektronického poukazu, jeho zpracování a uložení. Součástí zaslaného potvrzení je identifikátor podle odstavce 2 přidělený danému elektronickému poukazu a informace o tom, zda došlo k úspěšnému ztotožnění pacienta vůči registru obyvatel."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Změna elektronického poukazu",
+      "content": "(1) Předepisující může za účelem opravy údajů na elektronickém poukazu provést změnu elektronického poukazu uloženého v systému eRecept, u něhož bylo systémem eRecept potvrzeno jeho vytvoření, pokud nebyl do systému eRecept zaslán záznam o výdeji prostředku, o zahájení přípravy, o zahájení výdeje prostředku nebo o předložení ke schválení zdravotní pojišťovně a současně neuplynula doba pro uplatnění elektronického poukazu. Předepisující nemůže provést změnu elektronického poukazu, u kterého bylo vyznačeno schválení úhrady zdravotní pojišťovnou.\n(2) Požadavek na změnu elektronického poukazu zasílá předepisující systému eRecept s uvedením identifikátoru elektronického poukazu, ke kterému se změna vztahuje, a údaje, který je měněn. Po vytvoření elektronického poukazu nelze v elektronickém poukazu změnit identifikaci předepisujícího, poskytovatele zdravotních služeb a datum jeho vystavení.\n(3) Informace o změně údajů elektronického poukazu systém eRecept uloží a obratem zašle předepisujícímu prostřednictvím jeho informačního systému, webové nebo mobilní aplikace potvrzení o provedení požadované změny elektronického poukazu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zrušení elektronického poukazu",
+      "content": "(1) Elektronický poukaz vytvořený v systému eRecept může předepisující zrušit v případě zjištění nových skutečností neznámých v době předepisování nebo v případě chybného zaslání strukturovaných dat za účelem vytvoření elektronického poukazu do systému eRecept, pokud nebyl do systému eRecept zaslán záznam o výdeji prostředku, o zahájení přípravy, o zahájení výdeje nebo o předložení ke schválení zdravotní pojišťovně a současně neuplynula doba pro uplatnění elektronického poukazu. Elektronický poukaz, u kterého byl do systému eRecept zaslán záznam o předložení ke schválení zdravotní pojišťovně a současně u něj bylo vyznačeno schválení či neschválení zdravotní pojišťovnou, může předepisující zrušit.\n(2) Požadavek na zrušení elektronického poukazu zasílá předepisující systému eRecept s uvedením identifikátoru elektronického poukazu, který je rušen.\n(3) Elektronický poukaz, u kterého byl zaslán požadavek na zrušení, systém eRecept označí za zrušený a nelze na jeho základě uskutečnit výdej.\n(4) Systém eRecept obratem zašle předepisujícímu prostřednictvím jeho informačního systému, webové nebo mobilní aplikace potvrzení o provedení zrušení elektronického poukazu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Sdělování identifikačních údajů",
+      "content": "(1) Poskytovatel zdravotních služeb, provozovatel oční optiky nebo osoba, se kterou zdravotní pojišťovna uzavřela smlouvu o výdeji podle zákona o veřejném zdravotním pojištění, sděluje Ústavu identifikační údaje osoby oprávněné předepisovat nebo vydávat prostředek prostřednictvím samoobslužného portálu dostupného na internetových stránkách Ústavu.\n(2) Poskytovatel zdravotních služeb přistupuje k portálu podle odstavce 1 prostřednictvím přístupového certifikátu poskytovatele zdravotních služeb vydaného podle zákona o léčivech2).\n(3) Provozovatel oční optiky nebo osoba, se kterou zdravotní pojišťovna uzavřela smlouvu o výdeji podle zákona o veřejném zdravotním pojištění, přistupuje k portálu podle odstavce 1 prostřednictvím přístupového certifikátu vydaného podle § 2 odst. 5."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2022.\n1) § 17 odst. 7 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.\n2) § 81a odst. 1 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

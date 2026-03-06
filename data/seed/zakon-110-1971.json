@@ -1,0 +1,33 @@
+{
+  "id": "cz:110/1971",
+  "type": "statute",
+  "title": "110/1971 Sb., Vyhláška federálního ministerstva financí o zvýšení hranice vlastního příjmu, která je rozhodná pro uznávání osob za vyživované poplatníkem u některých daní placených obyvatelstvem",
+  "title_en": "",
+  "short_name": "110/1971 Sb.",
+  "status": "in_force",
+  "issued_date": "1971-10-20",
+  "in_force_date": "1971-10-20",
+  "url": "https://www.e-sbirka.cz/sb/1971/110",
+  "description": "Vyhláška federálního ministerstva financí o zvýšení hranice vlastního příjmu, která je rozhodná pro uznávání osob za vyživované poplatníkem u některých daní placených obyvatelstvem",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1",
+      "section": "1",
+      "title": "Čl. 1",
+      "content": "(1) Hranice vlastního příjmu, která je rozhodná pro uznání osoby za vyživovanou poplatníkem a je uvedena:\na) v čl. 7 odst. 1 písm. b) a c), odst. 2, odst. 5, odst. 10 a v čl. 15 odst. 5 písm. c) vyhlášky č. 24/1967 Sb., kterou se provádí zákon o dani ze mzdy, ve znění vyhlášky č. 96/1968 Sb., o některých opatřeních na úseku daní placených obyvatelstvem, se zvyšuje na Kčs 620,- měsíčně;\nb) v § 9 vyhlášky č. 184/1968 Sb., k provedení zákona o dani z příjmů z literární a umělecké činnosti, se zvyšuje na Kčs 7440,- ročně;\nc) v odstavci 29 písm. b) vyhlášky č. 146/1961 Sb., kterou se provádí zákon o dani z příjmů obyvatelstva, ve znění vyhlášky č. 96/1968 Sb., o některých opatřeních na úseku daní placených obyvatelstvem, se zvyšuje na Kčs 7440,- ročně.\n(2) Příjmem uvedeným v předchozím odstavci se rozumí základ příslušné daně, jíž je tento příjem u vyživované osoby popřípadě podroben."
+    },
+    {
+      "provision_ref": "Čl. 2",
+      "section": "2",
+      "title": "Čl. 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení. Použije se jí poprvé pro srážku daně ze mzdy počínajíc mzdovým obdobím po 1. říjnu 1971, pro výpočet daně z příjmů z literární a umělecké činnosti z příjmů za rok 1971 a pro vyměření daně z příjmů obyvatelstva za rok 1971."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Příjmem uvedeným v předchozím odstavci",
+      "definition": "základ příslušné daně, jíž je tento příjem u vyživované osoby popřípadě podroben",
+      "source_provision": "Čl. 1"
+    }
+  ]
+}

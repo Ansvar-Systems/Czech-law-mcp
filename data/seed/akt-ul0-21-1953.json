@@ -1,0 +1,81 @@
+{
+  "id": "cz:ul0:21/1953",
+  "type": "statute",
+  "title": "21/1953 Ú. l., Vyhláška ministerstva výkupu o výkupních cenách slepičích vajec (konsumních), jatečného ovčího bravu, jatečných králíků, jatečného kozího bravu, jatečných hříbat a jatečných koní.",
+  "title_en": "",
+  "short_name": "21/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-01-16",
+  "in_force_date": "1953-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/21",
+  "description": "Vyhláška ministerstva výkupu o výkupních cenách slepičích vajec (konsumních), jatečného ovčího bravu, jatečných králíků, jatečného kozího bravu, jatečných hříbat a jatečných koní.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Výkupní cena slepičích vajec (konsumních) činí 44,20 Kčs za 1 kg.\n(2) U vajec, která neodpovídají jakostním podmínkám, se sráží 10% z výkupní ceny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Výkupní cena jatečného ovčího bravu činí za 1 kg živé váhy:\njakostní třída\nABC\nKčsKčsKčs\njehňata, skopci a mladí berani21,—19,—16,—\novce a starší berani19,—17,—14,—\n(2) Pro zařazení do jakostních tříd platí jakostní znaky uvedené ve vyhlášce ministerstva výkupu č. 2/1953 Ú. l., o povinné dodávce masa."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Výkupní cena jatečných králíků činí 18,— Kčs za 1 kg živé váhy."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Výkupní cena jatečného kozího bravu činí za 1 kg živé váhy:\njakostní třída\nABC\nKčsKčsKčs\nkozy, kozli a jarčata12,—10,—7,—:\nkůzlata17,——,——,—:\n(2) Pro zařazení do jakostních tříd se stanoví tyto jakostní znaky:\njakostní třída A: zvířata plně zmasilá, velmi dobré jatečné hodnoty; kůzlata silná, tučná, plně zmasilá,\njakostní třída B: zvířata masitá, dobré jatečné hodnoty,\njakostní třída C: zvířata málo zmasilá."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Výkupní cena jatečných hříbat činí za 1 kg živé váhy:\nu jakostní třídy A9,50 Kčs,\nu jakostní třídy B8,70 Kčs,\nu jakostní třídy C8,— Kčs.\n(2) Pro zařazení do jakostních tříd se stanoví tyto jakostní znaky:\njakostní třída A: hříbata plně zmasilá, velmi dobré jatečné hodnoty,\njakostní třída B: zvířata masitá, dobré jatečné hodnoty,\njakostní třída C: hříbata málo zmasilá.\n(3) Hříbaty se rozumí koně ve stáří do 2 roků."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Výkupní cena jatečných koní činí za 1 kg živé váhy:\nKčs\nu jakostní třídy: výběr (výtěžnost nad 60%)9,50\nu jakostní třídy: A (výtěžnost nad 57% do 60%)8,50\nu jakostní třídy: A1 (výtěžnost nad 54% do 57%)8,—\nu jakostní třídy: B (výtěžnost nad 51% do 54%)7,50\nu jakostní třídy: B1 (výtěžnost nad 48% do 51%)7,—\nu jakostní třídy: C (výtěžnost nad 45% do 48%)6,50\nu jakostní třídy: D (výtěžnost do 45%)6,—"
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Ceny stanovené v §§ 1—6 platí pro zemědělské výrobky vykoupené podle vyhlášek o povinné dodávce příslušných zemědělských výrobků."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Ministerstvo výkupu může v dohodě se súčastněnými ústředními úřady stanovit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Zrušují se předpisy, pokud odporují ustanovením této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1953."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hříbaty",
+      "definition": "koně ve stáří do 2 roků",
+      "source_provision": "§ 5."
+    }
+  ]
+}

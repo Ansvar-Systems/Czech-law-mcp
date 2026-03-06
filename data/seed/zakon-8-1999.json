@@ -1,0 +1,49 @@
+{
+  "id": "cz:8/1999",
+  "type": "statute",
+  "title": "8/1999 Sb., Sdělení Ministerstva zahraničních věcí o sjednání Dohody mezi vládou České republiky a vládou Slovenské republiky, kterou se mění některá ustanovení Protokolu týkajícího se definice pojmu „původní výrobky\" a metod administrativní spolupráce uvedeného v článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky ze dne 21. prosince 1996, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993",
+  "title_en": "",
+  "short_name": "8/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-01-15",
+  "in_force_date": "1999-01-15",
+  "url": "https://www.e-sbirka.cz/sb/1999/8",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Dohody mezi vládou České republiky a vládou Slovenské republiky, kterou se mění některá ustanovení Protokolu týkajícího se definice pojmu „původní výrobky\" a metod administrativní spolupráce uvedeného v článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky ze dne 21. prosince 1996, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Protokol týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce uvedený v článku 1 Dohody mezi vládou České repubiky a vládou Slovenské republiky ze dne 21. prosince 1996, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993, a přílohy k němu se tímto mění ve smyslu a v souladu s Přílohou, která tvoří nedílnou součást této dohody."
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "Tato dohoda tvoří nedílnou součást Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993."
+    },
+    {
+      "provision_ref": "Článek 3",
+      "section": "3",
+      "title": "Článek 3",
+      "content": "Tato dohoda vstupuje v platnost dnem 1. ledna 1999.\nPříloha\nk Dohodě mezi vládou České republiky a vládou Slovenské republiky, kterou se mění některá ustanovení Protokolu týkajícího se definice pojmu „původní výrobky“ a metod administrativní spolupráce uvedeného v článku 1 Dohody mezi vládou České repubiky a vládou Slovenské republiky ze dne 21. prosince 1996, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993\nProtokol týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce uvedený v článku 1 Dohody mezi vládou České repubiky a vládou Slovenské republiky ze dne 21. prosince 1996, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993, a přílohy k němu se tímto mění takto:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve smluvní straně.“.\n2. Článek 3 se zrušuje.\n3. Článek 4 se nahrazuje tímto:"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve smluvní straně",
+      "source_provision": "Článek 3"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu každého z použitých materiálů původních v ostatních zemích uvedených v článku 4 nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto výrobky ve smluvní straně",
+      "source_provision": "Článek 3"
+    },
+    {
+      "term": "celková přidaná hodnota",
+      "definition": "všechny náklady vynaložené mimo smluvní stranu, včetně hodnoty materiálů tam použitých",
+      "source_provision": "„Článek 12"
+    }
+  ]
+}

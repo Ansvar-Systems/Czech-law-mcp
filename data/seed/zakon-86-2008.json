@@ -1,0 +1,39 @@
+{
+  "id": "cz:86/2008",
+  "type": "statute",
+  "title": "86/2008 Sb., Vyhláška o stanovení zásad správné laboratorní praxe v oblasti léčiv",
+  "title_en": "",
+  "short_name": "86/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-03-11",
+  "in_force_date": "2008-03-11",
+  "url": "https://www.e-sbirka.cz/sb/2008/86",
+  "description": "Vyhláška o stanovení zásad správné laboratorní praxe v oblasti léčiv",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropských společenství1) a upravuje postupy pro neklinické zkoušení bezpečnosti léčiv při provádění laboratorních zkoušek podle zásad správné laboratorní praxe (dále jen „zásady“), které jsou uvedeny v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje se vyhláška Ministerstva zdravotnictví a Ministerstva zemědělství č. 504/2000 Sb., kterou se stanoví správná laboratorní praxe v oblasti léčiv."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha k vyhlášce č. 86/2008 Sb.\nA. ZÁSADY SPRÁVNÉ LABORATORNÍ PRAXE"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "d) že zaměstnanci",
+      "definition": "činnostem, které mají vykonávat, a pokud je to nutné, zaměstnance vyškolí",
+      "source_provision": "§ 3"
+    }
+  ]
+}

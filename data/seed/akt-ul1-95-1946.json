@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:95/1946",
+  "type": "statute",
+  "title": "95/1946 Ú. l. I, Vyhláška ministra zemědělství o hospodářských výkazech.",
+  "title_en": "",
+  "short_name": "95/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-01-22",
+  "in_force_date": "1946-01-23",
+  "url": "https://www.e-sbirka.cz/ul1/1946/95",
+  "description": "Vyhláška ministra zemědělství o hospodářských výkazech.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) K účelům zemědělského poradnictví a plánování, jakož i běžné evidence o výkonnosti s hlediska potřeb vyživovacího hospodářství jsou zemědělské závody v zemích České a Moravskoslezské povinny vésti počínajíc hospodářským rokem 1945/1946 (1. července 1945—30. června 1946) „Hospodářský výkaz zemědělce“ podle návodu připojeného k tiskopisu tohoto výkazu.\n(2) Zemědělským závodem podle odstavce 1 se rozumí závod bez ohledu na výměru zemědělské půdy, který jest samostatně veden a tvoří tudíž hospodářskou jednotku."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "„Hospodářský výkaz zemědělce“ bude dodán zemědělským závodům za pořizovací cenu prostřednictvím místních národních výborů (správních komisí)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Zahradníci, jejichž závod jest omezen jen na pěstování zelenin a zahradních plodin, jsou povinni vésti místo výkazu uvedeného v § 1, odst. 1 „Hospodářský výkaz zahradníka“.\n(2) Chovatelé drůbeže, kteří chovají pouze drůbež, aniž provozují zároveň jiné odvětví zemědělství, jsou povinni vésti místo výkazu uvedeného v § 1, odst. 1 „Hospodářský výkaz chovatele drůbeže“.\n(3) Ustanovení §§ 1 a 2 platí přiměřeně i o výkazech uvedených v odstavcích 1 a 2."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Použivatelnost předpisů o dosavadních hospodářských výkazech zemědělských závodů (statkových arších, statkových sešitech, pomocných knížkách ke statkovým archům, zvláštních výtazích z pomocné knížky ke statkovým archům) se zrušuje."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti 1. dne po vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zemědělským závodem podle odstavce 1",
+      "definition": "závod bez ohledu na výměru zemědělské půdy, který jest samostatně veden a tvoří tudíž hospodářskou jednotku",
+      "source_provision": "§ 1."
+    }
+  ]
+}

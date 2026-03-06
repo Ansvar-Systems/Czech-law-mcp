@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1036/1948",
+  "type": "statute",
+  "title": "1036/1948 Ú. l. I, Vyhláška ministryně výživy o znárodnění podniků průmyslu mlynářského.",
+  "title_en": "",
+  "short_name": "1036/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-06-05",
+  "in_force_date": "1948-06-20",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1036",
+  "description": "Vyhláška ministryně výživy o znárodnění podniků průmyslu mlynářského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. „Jedla“, úč. spol. pre potravinárský priemysel v Bratislave."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Lankonop, družstvo pre zpracovanie lanu a konopí, spol. s r. o. v Ivánke pri Nitre."
+    }
+  ],
+  "definitions": []
+}

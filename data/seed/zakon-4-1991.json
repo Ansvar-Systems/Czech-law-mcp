@@ -1,0 +1,39 @@
+{
+  "id": "cz:4/1991",
+  "type": "statute",
+  "title": "4/1991 Sb., Vyhláška federálního ministerstva vnitra, kterou se mění vyhláška federálního ministerstva vnitra č. 22/1977 Sb., kterou se vydávají bližší předpisy k zákonu o matrikách",
+  "title_en": "",
+  "short_name": "4/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-01-31",
+  "in_force_date": "1991-02-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/4",
+  "description": "Vyhláška federálního ministerstva vnitra, kterou se mění vyhláška federálního ministerstva vnitra č. 22/1977 Sb., kterou se vydávají bližší předpisy k zákonu o matrikách",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška federálního ministerstva vnitra č. 22/1977 Sb., kterou se vydávají bližší předpisy k zákonu o matrikách, se mění takto:\n1. V § 3 odst. 2 se vypouští písmeno c); dosavadní písmeno d) se označuje jako písmeno c).\n2. V § 3 odst. 3 slib matrikáře zní:\n„Slibuji, že budu věrný České a Slovenské Federativní Republice, budu zachovávat zákony a vykonávat veškeré povinnosti spojené s vedením matrik podle svého nejlepšího vědomí. Zachovám mlčenlivost o všech skutečnostech, o nichž se při své činnosti dozvím.“.\n3. V § 30 se vypouštějí odstavce 5, 6 a 7.\n4. V § 48 se vypouští odstavec 5.\n5. V § 62 se vypouští odstavec 2; zároveň se zrušuje číslování odstavců."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Pokud je ve vyhlášce federálního ministerstva vnitra č. 22/1977 Sb., kterou se vydávají bližší předpisy k zákonu o matrikách, uveden název:\na) Československá socialistická republika, Česká socialistická republika nebo Slovenská socialistická republika, rozumí se tím Česká a Slovenská Federativní Republika, Česká republika nebo Slovenská republika,\nb) národní výbor (místní, městský, okresní, bezprostředně nadřízený národní výbor, národní výbor vyššího stupně) rozumějí se tím orgány, které ve věcech státní správy přebírají působnost národních výborů podle zvláštních předpisů.1)"
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 1991.\n1) Zákon České národní rady č. 267/1990 Sb., o obcích (obecní zřízení).\nZákon České národní rady č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících.\nZákon České národní rady č. 418/1990 Sb., o hlavním městě Praze.\nZákon Slovenské národní rady č. 369/1990 Sb., o obecním zřízení.\nZákon Slovenské národní rady č. 472/1990 Sb., o organizaci místní státní správy.\nZákon Slovenské národní rady č. 377/1990 Sb., o hlavním městě Slovenské republiky Bratislavě.\nZákon Slovenské národní rady č. 401/1990 Sb., o městě Košice."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) Československá socialistická republika, Česká socialistická republika nebo Slovenská socialistická republika",
+      "definition": "se tím Česká a Slovenská Federativní Republika, Česká republika nebo Slovenská republika",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

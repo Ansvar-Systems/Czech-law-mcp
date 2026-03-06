@@ -1,0 +1,39 @@
+{
+  "id": "cz:26/2019",
+  "type": "statute",
+  "title": "26/2019 Sb., Vyhláška o stanovení vyňatých účtů pro účely automatické výměny informací s jiným státem v rámci mezinárodní spolupráce při správě daní",
+  "title_en": "",
+  "short_name": "26/2019 Sb.",
+  "status": "in_force",
+  "issued_date": "2019-02-01",
+  "in_force_date": "2019-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2019/26",
+  "description": "Vyhláška o stanovení vyňatých účtů pro účely automatické výměny informací s jiným státem v rámci mezinárodní spolupráce při správě daní",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška zapracovává příslušný předpis Evropské unie1) a stanoví pro účely automatické výměny informací s jiným státem vyňaté účty, u nichž je nízké riziko, že jejich prostřednictvím bude ohroženo správné zjištění a stanovení daně nebo zabezpečení její úhrady."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vyňaté účty",
+      "content": "Vyňatým účtem je penzijní připojištění se státním příspěvkem účastníka podle zákona upravujícího penzijní připojištění se státním příspěvkem, jestliže celková výše jeho příspěvků za kalendářní rok nepřesáhne částku odpovídající 50 000 USD."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Vyhláška č. 108/2016 Sb., o stanovení vyňatých účtů pro účely automatické výměny informací s jiným státem v rámci mezinárodní spolupráce při správě daní, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 2019.\n1) Směrnice Rady 2014/107/EU ze dne 9. prosince 2014, kterou se mění směrnice 2011/16/EU, pokud jde o povinnou automatickou výměnu informací v oblasti daní."
+    }
+  ],
+  "definitions": []
+}

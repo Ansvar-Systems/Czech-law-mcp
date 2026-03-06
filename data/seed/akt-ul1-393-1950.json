@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:393/1950",
+  "type": "statute",
+  "title": "393/1950 Ú. l. I, Vyhláška ministerstva práce a sociální péče, kterou se stanoví pořadí důležitosti výrobních zaměstnání pro účely placené dovolené na zotavenou v roce 1950.",
+  "title_en": "",
+  "short_name": "393/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-24",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/393",
+  "description": "Vyhláška ministerstva práce a sociální péče, kterou se stanoví pořadí důležitosti výrobních zaměstnání pro účely placené dovolené na zotavenou v roce 1950.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Zaměstnancům, kteří po 1. lednu 1947 dobrovolně přešli ze zaměstnání výrobního do jiného výrobního zaměstnání důležitějšího pro splnění jednotného hospodářského plánu (přechod do prioritního zaměstnání), se započte i v roce 1950 do doby rozhodné pro vznik nároku na dovolenou a pro prodloužení dovolené v novém zaměstnání trvání všech předchozích pracovních poměrů po dokončení 18. roku věku.\n(2) Za výrobní zaměstnání se považují práce manuální a práce technických zaměstnanců pracujících ve vlastním výrobním procesu.\n(3) Přechodem do prioritních zaměstnání v rámci téhož kraje i mezi jednotlivými kraji je vždy přechod\na) z neprioritního zaměstnání do zaměstnání zařazeného do priorit celostátních,\nb) ze zaměstnání zařazeného do krajských priorit do zaměstnání zařazeného do celostátních priorit,\nc) ze zaměstnání zařazeného do nižšího stupně celostátních priorit do zaměstnání ve vyšším stupni celostátních priorit.\n(4) Přechodem do prioritního zaměstnání se rozumí mimo případy uvedené v odstavci 3 též přechod v rámci téhož kraje\na) z neprioritního zaměstnání do zaměstnání zařazeného do krajských priorit,\nb) ze zaměstnání zařazeného do krajských priorit do zaměstnání ve vyšším stupni krajských priorit."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Celostátními prioritami v roce 1950 jsou tyto skupiny výrobních zaměstnání:\na) hornictví, hutnictví, těžké strojírenství a ostravské stavebnictví (vyšší stupeň),\nb) manuální práce na státních statcích a lesích, těžba a úprava keramických surovin (kaolin, křemenec, lupky, hlíny, jíly, sklářské písky), výroba brusných prostředků (karborundum, výroba silicium karbidům), výroba žáruvzdorného zboží (šamot, dynas, magnesit), výroba stavebních hmot (cement, vápno, cihly), těžba kamene, výroba štěrku a výroba dlažebních kostek (nižší stupeň).\nPřechodem do prioritního zaměstnání není přechod mezi zaměstnáními v téže skupině."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zda jde o přechod do krajských priorit podle § 1 odst. 4, schválených ministerstvem práce a sociální péče, posoudí okresní národní výbor (referát práce a sociální péče), příslušný podle místa nového zaměstnání, který o tom zároveň vyrozumí zaměstnance a zaměstnavatele."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1950."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Přechodem do prioritního zaměstnání",
+      "definition": "mimo případy uvedené v odstavci 3 též přechod v rámci téhož kraje",
+      "source_provision": "§ 1."
+    }
+  ]
+}

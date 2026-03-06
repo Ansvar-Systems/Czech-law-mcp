@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1091/1946",
+  "type": "statute",
+  "title": "1091/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu textilního a oděvnického.",
+  "title_en": "",
+  "short_name": "1091/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-27",
+  "in_force_date": "1946-04-27",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1091",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu textilního a oděvnického.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Jan Elzer, se sídlem v Místku, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Hospodářský svaz přádelen bavlny, zapsané společenstvo s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku A. Landsberger, první slezská přádelna bavlny, tkalcovna, bělidlo a úpravna ve Frýdku, se sídlem ve Frýdku, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Hospodářský svaz přádelen bavlny, zapsané společenstvo s r. o., Praha."
+    }
+  ],
+  "definitions": []
+}

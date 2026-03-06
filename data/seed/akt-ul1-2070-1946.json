@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2070/1946",
+  "type": "statute",
+  "title": "2070/1946 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků průmyslu sklářského do národního podniku.",
+  "title_en": "",
+  "short_name": "2070/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-12-01",
+  "in_force_date": "1946-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2070",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků průmyslu sklářského do národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Ing. Ant. Rückl, velkoobchod sklem v Praze XVI., Zborovská č. 4;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Jan Rückl, rafinerie skla ve Včelničce u Kamenice nad Lipou;\nvesměs v rozsahu jejich znárodnění."
+    }
+  ],
+  "definitions": []
+}

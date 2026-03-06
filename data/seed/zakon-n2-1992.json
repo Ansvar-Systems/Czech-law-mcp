@@ -1,0 +1,21 @@
+{
+  "id": "cz:n2/1992",
+  "type": "statute",
+  "title": "n2/1992 Sb., Redakční sdělení o opravě chyby v zákonu České národní rady č. 565/1990 Sb., o místních poplatcích, v českém i slovenském vydání",
+  "title_en": "",
+  "short_name": "n2/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-01-23",
+  "in_force_date": "1992-01-23",
+  "url": "https://www.e-sbirka.cz/sb/1992/n2",
+  "description": "Redakční sdělení o opravě chyby v zákonu České národní rady č. 565/1990 Sb., o místních poplatcích, v českém i slovenském vydání",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V § 10 odst. 1 má druhá věta „Poplatek neplatí fyzické osoby mající trvalý pobyt nebo vlastníci nemovitosti ve vybraném místě, osoby jim blízké,13) manželé těchto osob a jejich děti.“ správně znít „Poplatek neplatí fyzické osoby mající trvalý pobyt nebo vlastnící nemovitosti ve vybraném místě, osoby jim blízké,13) manželé těchto osob a jejich děti.“."
+    }
+  ],
+  "definitions": []
+}

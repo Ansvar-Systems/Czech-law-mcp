@@ -1,0 +1,51 @@
+{
+  "id": "cz:289/2012",
+  "type": "statute",
+  "title": "289/2012 Sb., Vyhláška o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení (vyhláška o Listu o prohlídce zemřelého)",
+  "title_en": "",
+  "short_name": "289/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-09-05",
+  "in_force_date": "2012-09-20",
+  "url": "https://www.e-sbirka.cz/sb/2012/289",
+  "description": "Vyhláška o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení (vyhláška o Listu o prohlídce zemřelého)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) List o prohlídce zemřelého (dále jen „List“) se vyplňuje ve 4 vyhotoveních.\n(2) Náležitosti Listu a pokyny k jeho vyplňování jsou stanoveny v příloze k této vyhlášce.\n(3) Zemřelým se pro potřeby vyplnění Listu rozumí i mrtvě narozené dítě."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Nejde-li o případ, kdy je zákonem o zdravotních službách stanovena povinnost provést pitvu nebo nebylo určeno provedení pitvy, 1 vyhotovení Listu se\na) předává\n1. matričnímu úřadu podle zákona o matrikách1),\n2. provozovateli pohřební služby zajišťující převoz zemřelého k zajištění pohřbení a\n3. Ústavu zdravotnických informací a statistiky České republiky, a to nejpozději do 30 dnů ode dne úmrtí, popřípadě ode dne nálezu těla zemřelého,\nb) zakládá do zdravotnické dokumentace poskytovatele, jehož lékař provedl prohlídku těla zemřelého.\n(2) Jde-li o případ, kdy je zákonem o zdravotních službách stanovena povinnost provést pitvu nebo bylo určeno provedení pitvy, předávají se všechna vyhotovení Listu poskytovateli, v jehož zdravotnickém zařízení má být provedena pitva.\n(3) V případě rozhodnutí o neprovedení pitvy se odstavec 1 písm. a) použije obdobně; 1 vyhotovení Listu se zakládá do zdravotnické dokumentace vedené o zemřelém poskytovatelem zdravotních služeb, v jehož zdravotnickém zařízení měla být provedena pitva.\n(4) Po provedení pitvy a doplnění Listu o údaje zjištěné při pitvě se příslušná vyhotovení Listu předávají místům určení podle odstavce 1 písm. a) a 1 vyhotovení Listu se zakládá do zdravotnické dokumentace vedené poskytovatelem, v jehož zdravotnickém zařízení byla provedena pitva."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "List se místu určení předává v listinné podobě."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Opravy údajů v Listu se provádějí v případech, kdy jsou na základě provedených diagnostických vyšetření nebo šetření orgánů činných v trestním řízení zjištěny dodatečně skutečnosti v předaných částech Listu neuvedené. Poskytovatel zdravotních služeb, který takovou změnu zjistí, provede opravu vyplněním nového Listu, který se opět předává na místo určení podle § 2. Zároveň na Listu vyznačí, že jde o opravu. Obdobně se postupuje, jde-li o opravu jiných chyb podstatných pro správné vyplnění Listu. Nově vyplněný List nahrazuje původní."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 20. září 2012.\nPříloha k vyhláškce č. 289/2012 Sb.\nList o prohlídce zemřelého\n1) Zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zemřelým se pro potřeby vyplnění Listu",
+      "definition": "i mrtvě narozené dítě",
+      "source_provision": "§ 1"
+    }
+  ]
+}

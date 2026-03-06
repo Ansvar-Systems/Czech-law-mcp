@@ -1,0 +1,244 @@
+{
+  "id": "cz:389/2006",
+  "type": "statute",
+  "title": "389/2006 Sb., Vyhláška, kterou se mění vyhláška č. 364/2005 Sb., o vedení dokumentace škol a školských zařízení a školní matriky a o předávání údajů z dokumentace škol a školských zařízení a ze školní matriky (vyhláška o dokumentaci škol a školských zařízení)",
+  "title_en": "",
+  "short_name": "389/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-08-08",
+  "in_force_date": "2006-08-08",
+  "url": "https://www.e-sbirka.cz/sb/2006/389",
+  "description": "Vyhláška, kterou se mění vyhláška č. 364/2005 Sb., o vedení dokumentace škol a školských zařízení a školní matriky a o předávání údajů z dokumentace škol a školských zařízení a ze školní matriky (vyhláška o dokumentaci škol a školských zařízení)",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 364/2005 Sb., o vedení dokumentace škol a školských zařízení a školní matriky a o předávání údajů z dokumentace škol a školských zařízení a ze školní matriky (vyhláška o dokumentaci škol a školských zařízení), se mění takto:\n1. V § 3 se za odstavec 1 vkládá nový odstavec 2, který zní:\n„(2) Předávané údaje vycházejí z obsahu školní matriky a dokumentace školy nebo školského zařízení ke dni stanovenému v přílohách č. 1 a 2 k této vyhlášce (dále jen „rozhodné datum“).“.\nDosavadní odstavec 2 se označuje jako odstavec 3.\n2. V § 4 odst. 3 se slova „kritickým dnem“ nahrazují slovy „rozhodným datem“ a slova „tímto dnem“ se nahrazují slovy „tímto datem“.\n3. Příloha č. 1 včetně poznámky pod čarou č. 5 zní:\n„Příloha č. 1 k vyhlášce č. 364/2005 Sb.\nPředávání individuálních údajů"
+    },
+    {
+      "provision_ref": "Čl. 1",
+      "section": "1",
+      "title": "Čl. 1",
+      "chapter": "ČÁST PRVNÍ - ZPŮSOB PŘEDÁVÁNÍ INDIVIDUÁLNÍCH ÚDAJŮ",
+      "content": "(1) Individuální údaje ze školních matrik a dokumentace škol a školských zařízení se předávají elektronicky v zabezpečené podobě. Údaje jsou předávány příslušnému správnímu úřadu5):\na) do 30. dubna k rozhodnému datu 31. března téhož školního roku a\nb) do 31. října k rozhodnému datu 30. září téhož školního roku.\n(2) Připadne-li poslední den pro předání individuálních údajů podle odstavce 1 na sobotu, neděli nebo svátek, je posledním dnem pro předání individuálních údajů nejbližší příští pracovní den."
+    },
+    {
+      "provision_ref": "Čl. 2",
+      "section": "2",
+      "title": "Čl. 2",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ INDIVIDUÁLNÍCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY",
+      "content": "(1) Základní soubor údajů se předává o každém studentu vyšší odborné školy a obsahuje:\na) resortní identifikátor školy a rozhodné datum,\nb) identifikační údaje studenta:\n1. rodné číslo, rok a měsíc narození, pohlaví,\n2. údaje o státním občanství,\n3. údaje o místě trvalého pobytu,\nc) údaje o předchozím vzdělávání studenta:\n1. předchozí působiště nově přijatého studenta, například střední škola, vyšší odborná škola, zahraniční škola,\n2. resortní identifikátor školy, v níž student získal střední vzdělání s maturitní zkouškou, obor vzdělání, rok vykonání maturitní zkoušky,\n3. nejvyšší stupeň vzdělání, kterého student dosáhl před přijetím ke vzdělávání ve vyšší odborné škole,\nd) údaje o zahájení vzdělávání v příslušné vyšší odborné škole zahrnující datum a kód zahájení vzdělávání v příslušném oboru vzdělání a formě vzdělávání,\ne) údaje o ukončení vzdělávání v příslušné vyšší odborné škole:\n1. datum a kód ukončení vzdělávání v příslušném oboru vzdělání a formě vzdělávání ve vyšší odborné škole,\n2. údaj o způsobu ukončení vzdělávání,\n3. série a číslo tiskopisu u vydaného vysvědčení o absolutoriu a diplomu o absolutoriu ve vyšší odborné škole,\nf) údaje o průběhu vyššího odborného vzdělávání:\n1. kód příslušného oboru vzdělání, forma vzdělávání, délka vzdělávání,\n2. ročník, ve kterém se student vzdělává, celková doba přerušení vzdělávání, včetně prázdnin,\n3. identifikace studijní skupiny,\n4. vyučovací jazyk, kódy cizích jazyků, které student studuje,\n5. kód průběhu vzdělávání, opakování ročníku, přerušení vzdělávání,\n6. zdroje financování vzdělávání studenta,\ng) údaje o absolutoriu:\n1. údaj, zda student úspěšně vykonal nebo nevykonal absolutorium, datum konání absolutoria,\n2. kód konání opravné zkoušky, opravné obhajoby nebo náhradní zkoušky,\n3. kód cizího jazyka, ze kterého student koná absolutorium,\nh) kontrolní položky:\n1. kontrolní rozlišení studenta či absolventa školy,\n2. datum a kód typu změny údajů,\n3. začátek platnosti věty, konec platnosti věty.\n(2) O studentu se speciálními vzdělávacími potřebami, studentu zařazeném do studijní skupiny pro studenty se zdravotním postižením, studentu vzdělávajícím se podle individuálního vzdělávacího plánu a o mimořádně nadaném studentu se základní soubor údajů předává také v anonymizované podobě doplněný o:\na) kód studenta stanovený právnickou osobou pouze pro účely předávání individuálních údajů v anonymizované podobě, který zajistí nezaměnitelnost předávaných údajů s údaji o jiných studentech, neumožňuje však identifikaci studenta,\nb) údaj, zda je student zdravotně postižený, zařazený do studijní skupiny pro studenty se zdravotním postižením, údaj o případném vzdělávání podle individuálního vzdělávacího plánu a údaj o případném mimořádném nadání studenta,\nc) druh zdravotního postižení nebo zdravotního, popřípadě sociálního znevýhodnění studenta, jedná-li se o studenta se speciálními vzdělávacími potřebami,\nd) údaje o potřebě navýšení finančních prostředků ze státního rozpočtu vyplývající ze zdravotního postižení nebo zdravotního znevýhodnění studenta."
+    },
+    {
+      "provision_ref": "Čl. 3",
+      "section": "3",
+      "title": "Čl. 3",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ INDIVIDUÁLNÍCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání individuálních údajů ze školní matriky a dokumentace vyšší odborné školy",
+      "content": "(1) Základní soubor údajů se předává o každém žáku konzervatoře a obsahuje:\na) resortní identifikátor školy a rozhodné datum,\nb) identifikační údaje žáka:\n1. rodné číslo, rok a měsíc narození, pohlaví,\n2. údaje o státním občanství,\n3. údaje o místě trvalého pobytu,\nc) údaje o předchozím vzdělávání žáka:\n1. předchozí působiště nově přijatého žáka, například základní škola, střední škola, zahraniční škola,\n2. druh a resortní identifikátor školy, v níž se žák vzdělával před přijetím ke vzdělávání v konzervatoři,\n3. nejvyšší stupeň vzdělání, kterého žák dosáhl před přijetím ke vzdělávání v konzervatoři,\nd) údaje o zahájení vzdělávání v příslušné konzervatoři zahrnující datum a kód zahájení vzdělávání v příslušném oboru vzdělání a formě vzdělávání,\ne) údaje o ukončení vzdělávání v příslušné konzervatoři:\n1. datum a kód ukončení vzdělávání v příslušném oboru vzdělání a formě vzdělávání v konzervatoři,\n2. údaj o způsobu ukončení vzdělávání,\n3. série a číslo tiskopisu u vydaného vysvědčení o absolutoriu a diplomu o absolutoriu v konzervatoři a vysvědčení o maturitní zkoušce,\nf) údaje o průběhu vzdělávání v konzervatoři:\n1. kód příslušného oboru vzdělání, forma vzdělávání, délka vzdělávání, druh vzdělávání,\n2. ročník, ve kterém se žák vzdělává, celková doba přerušení vzdělávání, včetně prázdnin, počet splněných let povinné školní docházky,\n3. údaj o vzdělávání ve druhém hlavním oboru,\n4. vyučovací jazyk, kódy cizích jazyků, které žák studuje,\n5. kód průběhu vzdělávání, opakování ročníku, přerušení vzdělávání,\n6. zdroje financování vzdělávání žáka,\ng) údaje o absolutoriu, popřípadě maturitní zkoušce:\n1. údaj, zda žák úspěšně vykonal nebo nevykonal absolutorium, popřípadě maturitní zkoušku, datum konání absolutoria, popřípadě maturitní zkoušky,\n2. kód konání opravné zkoušky, opravné obhajoby nebo náhradní zkoušky,\n3. kód cizího jazyka, ze kterého žák koná absolutorium, popřípadě komisionální zkoušku či maturitní zkoušku,\nh) kontrolní položky:\n1. kontrolní rozlišení žáka či absolventa školy,\n2. datum a kód typu změny údajů,\n3. začátek platnosti věty, konec platnosti věty.\n(2) Při předávání údajů o žáku se speciálními vzdělávacími potřebami, žáku vzdělávajícím se podle individuálního vzdělávacího plánu a o mimořádně nadaném žáku se postupuje obdobně podle čl. 2 odst. 2."
+    },
+    {
+      "provision_ref": "Čl. 4",
+      "section": "4",
+      "title": "Čl. 4",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ INDIVIDUÁLNÍCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání individuálních údajů ze školní matriky a dokumentace vyšší odborné školy - Předávání individuálních údajů ze školní matriky a dokumentace konzervatoře",
+      "content": "(1) Základní soubor údajů se předává o každém žáku střední školy a obsahuje:\na) resortní identifikátor školy a rozhodné datum,\nb) identifikační údaje žáka:\n1. rodné číslo, rok a měsíc narození, pohlaví,\n2. údaje o státním občanství,\n3. údaje o místě trvalého pobytu,\nc) údaje o předchozím vzdělávání žáka:\n1. předchozí působiště nově přijatého žáka, například základní škola, střední škola, zahraniční škola,\n2. druh a resortní identifikátor školy, v níž se žák vzdělával před přijetím ke vzdělávání ve střední škole,\n3. nejvyšší stupeň vzdělání, kterého žák dosáhl před přijetím ke vzdělávání ve střední škole,\nd) údaje o zahájení vzdělávání v příslušné střední škole zahrnující datum a kód zahájení vzdělávání v příslušném oboru vzdělání a formě vzdělávání,\ne) údaje o ukončení vzdělávání v příslušné střední škole:\n1. datum a kód ukončení vzdělávání v příslušném oboru vzdělání a formě vzdělávání ve střední škole,\n2. údaj o způsobu ukončení vzdělávání,\n3. série a číslo tiskopisu u vydaného vysvědčení o závěrečné zkoušce a výučního listu, popřípadě vysvědčení o maturitní zkoušce,\nf) údaje o průběhu vzdělávání ve střední škole:\n1. kód příslušného oboru vzdělání, forma vzdělávání, délka vzdělávání, druh vzdělávání,\n2. ročník, ve kterém se žák vzdělává, celková doba přerušení vzdělávání, včetně prázdnin, počet splněných let povinné školní docházky,\n3. identifikace třídy,\n4. vyučovací jazyk, kódy cizích jazyků, které žák studuje,\n5. kód průběhu vzdělávání, opakování ročníku, přerušení vzdělávání,\n6. zdroje financování vzdělávání žáka,\ng) údaje o konání maturitní nebo závěrečné zkoušky:\n1. kód druhu vykonané zkoušky,\n2. údaj, zda žák úspěšně vykonal nebo nevykonal zkoušku, datum konání zkoušky,\n3. kód konání zkoušky, a to zkouška v řádném termínu, zkouška v náhradním termínu, zkouška opravná a zkouška opakovaná,\n4. kód cizího jazyka, ze kterého žák koná zkoušku,\nh) kontrolní položky:\n1. kontrolní rozlišení žáka či absolventa školy,\n2. datum a kód typu změny údajů,\n3. začátek platnosti věty, konec platnosti věty.\n(2) Při předávání údajů o žáku se speciálními vzdělávacími potřebami, žáku zařazeném do třídy pro žáky se zdravotním postižením, žáku vzdělávajícím se podle individuálního vzdělávacího plánu a o mimořádně nadaném žáku se postupuje obdobně podle čl. 2 odst. 2.\n5) § 28 odst. 5 školského zákona.“.\n4. Příloha č. 2 včetně poznámky pod čarou č. 6 zní:\n„Příloha č. 2 k vyhlášce č. 364/2005 Sb.\nPředávání agregovaných údajů"
+    },
+    {
+      "provision_ref": "Čl. 1",
+      "section": "1",
+      "title": "Čl. 1",
+      "chapter": "ČÁST PRVNÍ - ZPŮSOB PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ",
+      "content": "(1) Agregované údaje ze školních matrik a dokumentace škol a školských zařízení se předávají příslušnému správnímu úřadu5) na výkazech buď na listinném formuláři, nebo elektronicky.\n(2) Pro účely této přílohy se stávajícím školním rokem rozumí školní rok, do něhož spadá poslední den pro předání agregovaných údajů. Uplynulým školním rokem se rozumí školní rok bezprostředně předcházející stávajícímu školnímu roku.\n(3) Agregované údaje ze školních matrik a dokumentace škol se v souladu s částí druhou této přílohy předávají příslušnému správnímu úřadu na listinném formuláři nejpozději do 4. října nebo elektronicky nejpozději do 14. října k rozhodnému datu 30. září stávajícího školního roku. Údaje podle čl. 13 se předávají elektronicky nejpozději do 10. března k rozhodnému datu 28. února stávajícího školního roku.\n(4) Agregované údaje ze školních matrik a dokumentace školských zařízení se předávají v případě školských zařízení uvedených v:\na) čl. 16, 21 až 24 na listinném formuláři nejpozději do 4. října nebo elektronicky nejpozději do 14. října k rozhodnému datu 30. září stávajícího školního roku,\nb) čl. 15, 17 až 20 na listinném formuláři nejpozději do 4. listopadu nebo elektronicky nejpozději do 11. listopadu k rozhodnému datu 31. října stávajícího školního roku.\n(5) Agregované údaje podle:\na) čl. 25 se předávají za uplynulý školní rok na listinném formuláři nejpozději do 19. září nebo elektronicky nejpozději do 27. září stávajícího školního roku k rozhodnému datu 31. srpna uplynulého školního roku,\nb) čl. 26 se předávají za uplynulý školní rok na listinném formuláři nejpozději do 9. září nebo elektronicky nejpozději do 19. září stávajícího školního roku k rozhodnému datu 31. srpna uplynulého školního roku.\n(6) Připadne-li poslední den pro předání agregovaných údajů podle odstavců 3 až 5 na sobotu, neděli nebo svátek, je posledním dnem pro předání agregovaných údajů nejbližší příští pracovní den."
+    },
+    {
+      "provision_ref": "Čl. 2",
+      "section": "2",
+      "title": "Čl. 2",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY",
+      "content": "(1) Údaje za uplynulý školní rok: další vzdělávání ve střední a vyšší odborné škole.\n(2) Údaje za stávající školní rok: učitelé podle druhů škol, podle skupin předmětů, učitelé ve třídách nebo studijních skupinách pro děti, žáky nebo studenty se speciálními vzdělávacími potřebami, vedoucí pracovníci podle druhů škol, ostatní pedagogičtí pracovníci, učebny, využití informačních technologií ve výuce.\n(3) Údaje podle odstavce 1 a 2 se nepředávají za základní uměleckou školu a jazykovou školu s právem státní jazykové zkoušky."
+    },
+    {
+      "provision_ref": "Čl. 3",
+      "section": "3",
+      "title": "Čl. 3",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy",
+      "content": "(1) Pro účely předávání agregovaných údajů se v dalším textu třídy a studijní skupiny určené pro děti, žáky a studenty se zdravotním postižením a třídy školy zřízené při školském zařízení pro výkon ústavní výchovy, ochranné výchovy a pro preventivně výchovnou péči označují jako „speciální třídy“, popřípadě jako „speciální skupiny“, a školy složené výhradně ze speciálních tříd či speciálních skupin jako „speciální školy“. Jako „běžná třída“ či „běžná skupina“ je označena třída či studijní skupina, která se podle předcházející věty neoznačuje jako speciální třída nebo speciální skupina. Jako „běžná škola“ je označena škola s alespoň jednou běžnou třídou či běžnou skupinou.\n(2) V případě speciální školy pro děti, žáky nebo studenty se zdravotním postižením se předává také údaj o druhu zdravotního postižení, pro které je škola určena.\n(3) V případě, že má škola zřízeno jedno nebo více odloučených pracovišť, předávají se agregované údaje za školu v členění za jednotlivá odloučená pracoviště, s výjimkou základních uměleckých škol a jazykových škol s právem státní jazykové zkoušky, o nichž se předávají pouze souhrnné údaje za školu."
+    },
+    {
+      "provision_ref": "Čl. 4",
+      "section": "4",
+      "title": "Čl. 4",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol",
+      "content": "(1) Údaje za uplynulý školní rok: nástupy, odchody a ukončení docházky do mateřské školy v členění na běžné a speciální třídy, zotavovací pobyty.\n(2) Údaje za stávající školní rok:\na) třídy a děti podle pohlaví v členění podle druhu provozu a délky docházky a vyučovacího jazyka a v členění na běžné a speciální třídy,\nb) speciální třídy a děti v nich podle druhu zdravotního postižení nebo sociálního znevýhodnění a druhu provozu,\nc) individuálně integrované děti se zdravotním postižením podle druhu postižení a druhu provozu,\nd) děti podle státního občanství a cizinci podle režimu pobytu, cizinci, kteří nemají přístup ke vzdělávání za stejných podmínek jako státní občané České republiky, podle druhu provozu v členění na běžné a speciální třídy,\ne) věkové složení dětí podle pohlaví v členění na běžné a speciální třídy,\nf) žádosti o přijetí k předškolnímu vzdělávání, jimž nebylo vyhověno."
+    },
+    {
+      "provision_ref": "Čl. 5",
+      "section": "5",
+      "title": "Čl. 5",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy",
+      "content": "(1) Údaje za uplynulý školní rok: ukončení povinné školní docházky a odchody do středních škol v členění na běžné a speciální třídy a podle pohlaví, zotavovací pobyty, doplňující ukazatele.\n(2) Údaje za stávající školní rok:\na) žáci podle oborů vzdělání,\nb) třídy a žáci podle ročníků a podle pohlaví v členění na běžné třídy a speciální třídy,\nc) žáci opakující ročník a žáci převedení do vyšších ročníků,\nd) výuka cizím jazykům v členění na běžné třídy a speciální třídy, rozšířená výuka některých předmětů nebo skupin předmětů v členění podle tříd a skupin a podle vzdělávacích oborů uvedených v příslušném rámcovém vzdělávacím programu,\ne) volitelné předměty (povinné) podle ročníků, nepovinné předměty podle ročníků, výuka předmětů v cizím jazyce,\nf) speciální třídy podle druhu zdravotního postižení nebo sociálního znevýhodnění, pro něž jsou určeny,\ng) individuálně integrovaní žáci se zdravotním postižením podle druhu postižení, individuální vzdělávací plány pro žáky mimořádně nadané a žáky zdravotně postižené,\nh) žáci plnící povinnou školní docházku v zahraničí nebo v zahraniční škole na území České republiky nebo jiným způsobem plnění povinné školní docházky stanoveným zákonem podle ročníků,\ni) věkové složení žáků, včetně nově přijatých do prvního ročníku, v členění na běžné a speciální třídy,\nj) žáci podle státního občanství a cizinci podle režimu pobytu,\nk) kursy pro získání základního vzdělání a kursy pro získání základů vzdělání, přípravné třídy pro děti se sociálním znevýhodněním."
+    },
+    {
+      "provision_ref": "Čl. 6",
+      "section": "6",
+      "title": "Čl. 6",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální",
+      "content": "(1) Údaje za uplynulý školní rok: průměrné počty dětí a žáků.\n(2) Údaje za stávající školní rok: aktuální počty dětí a žáků, děti a žáci podle státního občanství a cizinci podle režimu pobytu."
+    },
+    {
+      "provision_ref": "Čl. 7",
+      "section": "7",
+      "title": "Čl. 7",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení",
+      "content": "(1) Údaje za uplynulý školní rok:\na) absolventi podle oborů vzdělání, druhu, délky a formy vzdělávání a podle pohlaví,\nb) prospěchová stipendia, odměny za produktivní činnost,\nc) zotavovací pobyty a lyžařské výcvikové kursy,\nd) absolventi rekvalifikačního studia v soustavě oborů vzdělání podle oborů vzdělání a délky a formy vzdělávání a podle pohlaví.\n(2) Údaje za stávající školní rok:\na) třídy podle ročníků, stupně vzdělání a druhu a formy vzdělávání,\nb) žáci podle oborů vzdělání, druhu, délky a formy vzdělávání a podle ročníků a pohlaví s vyčleněním žáků se zdravotním postižením a žáků v denní formě vzdělávání opakujících ročník nebo převedených do vyššího ročníku,\nc) žáci nově přijatí do prvního ročníku podle oborů vzdělání, druhu, délky a formy vzdělávání a podle pohlaví a žáci nově přijatí do prvního ročníku denní formy vzdělávání také podle věku a předchozího působiště,\nd) žáci učící se cizím jazykům v členění na běžné třídy a speciální třídy,\ne) speciální třídy podle druhu zdravotního postižení nebo sociálního znevýhodnění, pro něž jsou určeny,\nf) individuálně integrovaní žáci se zdravotním postižením podle druhu postižení, individuální vzdělávací plány pro žáky mimořádně nadané, zdravotně postižené a ostatní v členění podle stupně vzdělání a druhu vzdělávání,\ng) věkové složení žáků podle pohlaví a podle stupně vzdělání a druhu a formy vzdělávání,\nh) žáci podle státního občanství, cizinci podle režimu pobytu,\ni) kursy pro získání základního vzdělání,\nj) účastníci rekvalifikačního studia v soustavě oborů vzdělání v členění uvedeném v odstavci 1 písm. d)."
+    },
+    {
+      "provision_ref": "Čl. 8",
+      "section": "8",
+      "title": "Čl. 8",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy",
+      "content": "(1) Údaje za uplynulý školní rok:\na) absolventi podle oborů vzdělání, druhu, délky a formy vzdělávání a podle pohlaví,\nb) prospěchová stipendia,\nc) zotavovací pobyty a lyžařské výcvikové kursy.\n(2) Údaje za stávající školní rok:\na) počty žáků podle ročníků, délky a formy vzdělávání,\nb) žáci podle oborů vzdělání, druhu, délky a formy vzdělávání a podle ročníků a pohlaví s vyčleněním žáků se zdravotním postižením a žáků v denní formě vzdělávání opakujících ročník nebo převedených do vyššího ročníku,\nc) žáci nově přijatí do prvního ročníku podle oborů vzdělání, druhu, délky a formy vzdělávání a podle pohlaví a žáci nově přijatí do denní formy vzdělávání také podle věku a podle předchozího působiště,\nd) žáci učící se cizím jazykům,\ne) žáci ve škole pro žáky se zdravotním postižením podle druhu postižení,\nf) individuálně integrovaní žáci se zdravotním postižením podle druhu postižení, individuální vzdělávací plány pro žáky mimořádně nadané, zdravotně postižené a ostatní v členění podle délky vzdělávání,\ng) věkové složení žáků v členění podle stupně vzdělání a druhu a formy vzdělávání,\nh) žáci podle státního občanství a cizinci podle režimu pobytu."
+    },
+    {
+      "provision_ref": "Čl. 9",
+      "section": "9",
+      "title": "Čl. 9",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy - Předávání agregovaných údajů ze školní matriky a dokumentace konzervatoře",
+      "content": "(1) Údaje za uplynulý školní rok: absolventi podle vzdělávacích programů, délky a formy vzdělávání a podle pohlaví, úplata za vzdělávání a prospěchová stipendia.\n(2) Údaje za stávající školní rok:\na) studijní skupiny a studenti podle ročníků a formy vzdělávání v členění na běžné a speciální skupiny,\nb) studenti podle vzdělávacích programů, délky a formy vzdělávání a podle ročníků a pohlaví s vyčleněním studentů se zdravotním postižením, studentů v denní formě vzdělávání opakujících ročník, převedených do vyššího ročníku nebo nastoupivších po přerušení vzdělávání,\nc) studenti nově přijatí do prvního ročníku podle vzdělávacích programů, délky a formy vzdělávání a podle pohlaví, nově přijatí do denní formy vzdělávání také podle věku a podle předchozího působiště,\nd) studenti učící se cizím jazykům v členění na běžné a speciální skupiny,\ne) speciální skupiny podle druhu zdravotního postižení, pro něž jsou určeny,\nf) individuálně integrovaní studenti se zdravotním postižením podle druhu postižení, individuální vzdělávací plány pro studenty mimořádně nadané, zdravotně postižené a ostatní podle ročníků,\ng) věkové složení studentů v členění podle formy vzdělávání,\nh) studenti podle státního občanství a cizinci podle režimu pobytu."
+    },
+    {
+      "provision_ref": "Čl. 10",
+      "section": "10",
+      "title": "Čl. 10",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy - Předávání agregovaných údajů ze školní matriky a dokumentace konzervatoře - Předávání agregovaných údajů ze školní matriky a dokumentace vyšší odborné školy",
+      "content": "(1) Údaje za uplynulý školní rok: žáci, kteří složili státní jazykovou zkoušku.\n(2) Údaje za stávající školní rok: žáci podle vyučovaných jazyků a kurzů, evidenční počet pedagogických pracovníků."
+    },
+    {
+      "provision_ref": "Čl. 11",
+      "section": "11",
+      "title": "Čl. 11",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy - Předávání agregovaných údajů ze školní matriky a dokumentace konzervatoře - Předávání agregovaných údajů ze školní matriky a dokumentace vyšší odborné školy - Předávání agregovaných údajů ze školní matriky a dokumentace jazykové školy s právem státní jazykové zkoušky",
+      "content": "(1) Údaje za uplynulý školní rok: absolventi podle druhu studia a uměleckých oborů.\n(2) Údaje za stávající školní rok:\na) žáci podle druhu studia, ročníků a uměleckých oborů s vyčleněním cizinců, kteří nemají přístup ke vzdělávání za stejných podmínek jako státní občané České republiky,\nb) počty žáků v jednotlivých druzích studia v hudebním oboru v členění podle příslušných učebních plánů,\nc) evidenční počet učitelů,\nd) učebny používané školou."
+    },
+    {
+      "provision_ref": "Čl. 12",
+      "section": "12",
+      "title": "Čl. 12",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy - Předávání agregovaných údajů ze školní matriky a dokumentace konzervatoře - Předávání agregovaných údajů ze školní matriky a dokumentace vyšší odborné školy - Předávání agregovaných údajů ze školní matriky a dokumentace jazykové školy s právem státní jazykové zkoušky - Předávání agregovaných údajů ze školní matriky a dokumentace základní umělecké školy",
+      "content": "Údaje za stávající školní rok:\na) počet sportovních tříd, tříd zaměřených na výuku tělesné výchovy na střední škole a tříd nebo skupin vzniklých dělením tříd na základní škole s rozšířenou výukou tělesné výchovy, počet žáků v těchto třídách,\nb) žáci podle sportovních odvětví,\nc) evidenční počet trenérů podle sportovních odvětví."
+    },
+    {
+      "provision_ref": "Čl. 13",
+      "section": "13",
+      "title": "Čl. 13",
+      "chapter": "ČÁST DRUHÁ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY - Předávání agregovaných údajů o právnické osobě vykonávající činnost školy - Předávání agregovaných údajů ze školních matrik a dokumentace škol - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy a základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace mateřské nebo základní školy při zdravotnickém zařízení - Předávání agregovaných údajů ze školní matriky a dokumentace střední školy - Předávání agregovaných údajů ze školní matriky a dokumentace konzervatoře - Předávání agregovaných údajů ze školní matriky a dokumentace vyšší odborné školy - Předávání agregovaných údajů ze školní matriky a dokumentace jazykové školy s právem státní jazykové zkoušky - Předávání agregovaných údajů ze školní matriky a dokumentace základní umělecké školy - Předávání agregovaných údajů ze školní matriky a dokumentace základní školy nebo střední školy o sportovní přípravě, třídě zaměřené na výuku tělesné výchovy nebo rozšířené výuce tělesné výchovy",
+      "content": "(1) Údaje za stávající školní rok: počty zapisovaných dětí podle výsledku zápisu a podle věku, popřípadě také podle druhu zdravotního postižení, a počty zdravotně postižených dětí zapsaných do základní školy podle formy integrace (pouze u běžných základních škol).\n(2) Agregované údaje podle odstavce 1 se nepředávají za školy při zdravotnických zařízeních a školy při zařízeních pro výkon ústavní či ochranné výchovy."
+    },
+    {
+      "provision_ref": "Čl. 14",
+      "section": "14",
+      "title": "Čl. 14",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ",
+      "content": "V případě, že školské zařízení předávající agregované údaje podle čl. 15, 19 a 20 má zřízeno jedno nebo více odloučených pracovišť, předávají se agregované údaje za školské zařízení v členění za jednotlivá odloučená pracoviště."
+    },
+    {
+      "provision_ref": "Čl. 15",
+      "section": "15",
+      "title": "Čl. 15",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení",
+      "content": "(1) Údaje za uplynulý školní rok: pobytové akce, příležitostné činnosti zájmového vzdělávání.\n(2) Údaje za stávající školní rok:\na) oddělení s vyčleněním oddělení pro žáky se zdravotním postižením, zájmové útvary, žáci do nich zapsaní,\nb) zdravotně postižení žáci podle druhu postižení,\nc) žáci podle státního občanství, cizinci podle režimu pobytu, cizinci podle podmínek přístupu ke školským službám,\nd) evidenční počet pedagogických pracovníků podle kategorií."
+    },
+    {
+      "provision_ref": "Čl. 16",
+      "section": "16",
+      "title": "Čl. 16",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu",
+      "content": "(1) Údaje za uplynulý školní rok: ukončení docházky do přípravného stupně podle pohlaví.\n(2) Údaje za stávající školní rok:\na) třídy a děti podle ročníku a pohlaví, podle druhu zdravotního postižení,\nb) nově přijaté děti,\nc) věkové složení dětí podle pohlaví,\nd) děti podle státního občanství, cizinci podle režimu pobytu, cizinci podle podmínek přístupu ke školským službám,\ne) evidenční počet pedagogických pracovníků podle kategorií."
+    },
+    {
+      "provision_ref": "Čl. 17",
+      "section": "17",
+      "title": "Čl. 17",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální",
+      "content": "(1) Údaje za uplynulý školní rok: rozmisťování dětí, příchody a odchody z domova či ústavu, získaná kvalifikace dětí.\n(2) Údaje za stávající školní rok:\na) základní charakteristiky dětí,\nb) děti předškolního věku,\nc) děti plnící povinnou školní docházku,\nd) děti po ukončení povinné školní docházky,\ne) zdravotně postižené děti podle věkových skupin a druhu postižení,\nf) lůžková kapacita domova či ústavu,\ng) evidenční počet odborných pracovníků podle kategorií podle vzdělání."
+    },
+    {
+      "provision_ref": "Čl. 18",
+      "section": "18",
+      "title": "Čl. 18",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy",
+      "content": "(1) Údaje za uplynulý školní rok: příležitostné činnosti zájmového vzdělávání, pobytové akce a táborová činnost.\n(2) Údaje za stávající školní rok: zájmové útvary a účastníci činnosti zájmových útvarů podle věku, s vyčleněním cizinců, kteří nemají přístup ke školským službám za týchž podmínek jako státní občané České republiky, evidenční počet pedagogických pracovníků podle kategorií."
+    },
+    {
+      "provision_ref": "Čl. 19",
+      "section": "19",
+      "title": "Čl. 19",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času",
+      "content": "(1) Údaje za uplynulý školní rok: počty vydaných a uvařených jídel v členění na obědy, večeře a doplňková jídla.\n(2) Údaje za stávající školní rok:\na) zapsaní strávníci podle druhů škol a školských zařízení s ohledem na věkové kategorie celkem, s vyčleněním strávníků s cizím státním občanstvím a v členění podle druhu odebírané stravy, ostatní pravidelně stravovaní podle druhu odebírané stravy,\nb) strávníci, pro něž jsou připravená jídla odvážena do výdejen v členění na strávníky podle druhů škol a druhů odebírané stravy, ostatní stravovaní, pro něž jsou připravená jídla odvážena do výdejen podle druhu odebírané stravy,\nc) údaje o kapacitě přípravné části a kapacitě výdejní části,\nd) počty vydaných a uvařených jídel za říjen příslušného kalendářního roku v členění na obědy, večeře a doplňkové stravování,\ne) evidenční počet pracovníků zařízení školního stravování,\nf) počty zapsaných strávníků podle zřizovatele školy nebo školského zařízení, které navštěvují, v členění podle druhů škol a školských zařízení s ohledem na věkové kategorie,\ng) zapsaní strávníci podle podmínek přístupu ke školským službám, v členění podle druhů škol a školských zařízení s ohledem na věkové kategorie.\n(3) Agregované údaje podle odstavců 1 a 2 předávají rovněž právnické osoby vykonávající činnost školy nebo školského zařízení, pokud se jedná o děti, žáky a studenty, jimž je poskytováno školní stravování jinými osobami poskytujícími stravovací služby podle zvláštního právního předpisu6)."
+    },
+    {
+      "provision_ref": "Čl. 20",
+      "section": "20",
+      "title": "Čl. 20",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování",
+      "content": "Údaje za stávající školní rok:\na) výchovné skupiny,\nb) ubytovaní celkem a podle pohlaví, podle druhu školy, s vyčleněním ubytovaných cizinců podle podmínek přístupu ke školským službám,\nc) ubytovaní se zdravotním postižením podle druhu postižení,\nd) vybavení domova mládeže či internátu,\ne) evidenční počet pracovníků podle kategorií."
+    },
+    {
+      "provision_ref": "Čl. 21",
+      "section": "21",
+      "title": "Čl. 21",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování - Předávání agregovaných údajů ze školní matriky a dokumentace domova mládeže a internátu",
+      "content": "(1) Údaje za uplynulý školní rok: klienti, jimž byla poskytnuta péče v uplynulém školním roce, podle důvodu příchodu, školního zařazení a poskytnuté péče, činnost pedagogicko-psychologické poradny v uplynulém školním roce, klienti, kteří nemohli být vyšetřeni.\n(2) Údaje za stávající školní rok: evidenční počet odborných pracovníků podle kategorií a podle vzdělání."
+    },
+    {
+      "provision_ref": "Čl. 22",
+      "section": "22",
+      "title": "Čl. 22",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování - Předávání agregovaných údajů ze školní matriky a dokumentace domova mládeže a internátu - Předávání agregovaných údajů ze školní matriky a dokumentace pedagogicko - psychologické poradny",
+      "content": "Údaje za stávající školní rok:\na) pracovní místa,\nb) žáci celkem podle ročníků, oborů vzdělání, stupně vzdělání a druhu, délky a formy vzdělávání, s vyčleněním žáků se zdravotním postižením,\nc) žáci podle oborů vzdělání a podle školy, pro kterou středisko zajišťuje praktické vyučování,\nd) evidenční počet pracovníků podle kategorií a podle vzdělání."
+    },
+    {
+      "provision_ref": "Čl. 23",
+      "section": "23",
+      "title": "Čl. 23",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování - Předávání agregovaných údajů ze školní matriky a dokumentace domova mládeže a internátu - Předávání agregovaných údajů ze školní matriky a dokumentace pedagogicko - psychologické poradny - Předávání agregovaných údajů ze školní matriky a dokumentace střediska praktického vyučování",
+      "content": "(1) Údaje za uplynulý školní rok: klienti, jimž byla poskytnuta péče v uplynulém školním roce podle zdravotního postižení, školního zařazení a podle poskytnuté péče, činnost speciálně pedagogického centra v uplynulém školním roce, klienti, kteří nemohli být vyšetřeni.\n(2) Údaje za stávající školní rok: evidenční počet odborných pracovníků podle kategorií a podle vzdělání."
+    },
+    {
+      "provision_ref": "Čl. 24",
+      "section": "24",
+      "title": "Čl. 24",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování - Předávání agregovaných údajů ze školní matriky a dokumentace domova mládeže a internátu - Předávání agregovaných údajů ze školní matriky a dokumentace pedagogicko - psychologické poradny - Předávání agregovaných údajů ze školní matriky a dokumentace střediska praktického vyučování - Předávání agregovaných údajů ze školní matriky a dokumentace speciálně pedagogického centra",
+      "content": "(1) Údaje za uplynulý školní rok: klienti střediska v ambulantním, celodenním a internátním oddělení podle školního zařazení, s vyčleněním klientů s cizím státním občanstvím, důvody příchodu podle druhu péče, iniciátoři příchodu klienta podle druhu péče, aktivity střediska.\n(2) Údaje za stávající školní rok: evidenční počet pracovníků podle vybraných profesních kategorií a podle vzdělání, prostorové podmínky střediska, klienti střediska podle formy poskytované péče."
+    },
+    {
+      "provision_ref": "Čl. 25",
+      "section": "25",
+      "title": "Čl. 25",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLSKÉHO ZAŘÍZENÍ - Společné ustanovení - Předávání agregovaných údajů ze školní matriky a dokumentace školní družiny a školního klubu - Předávání agregovaných údajů ze školní matriky a dokumentace přípravného stupně základní školy speciální - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení pro výkon ústavní výchovy a ochranné výchovy - Předávání agregovaných údajů ze školní matriky a dokumentace střediska volného času - Předávání agregovaných údajů ze školní matriky a dokumentace zařízení školního stravování - Předávání agregovaných údajů ze školní matriky a dokumentace domova mládeže a internátu - Předávání agregovaných údajů ze školní matriky a dokumentace pedagogicko - psychologické poradny - Předávání agregovaných údajů ze školní matriky a dokumentace střediska praktického vyučování - Předávání agregovaných údajů ze školní matriky a dokumentace speciálně pedagogického centra - Předávání agregovaných údajů ze školní matriky a dokumentace střediska výchovné péče",
+      "content": "Údaje za uplynulý školní rok: knihovní fond, uživatelé, výpůjční a další služby, umístění a vybavení knihovny, pracovníci knihovny."
+    },
+    {
+      "provision_ref": "Čl. 26",
+      "section": "26",
+      "title": "Čl. 26",
+      "chapter": "ČÁST ČTVRTÁ - PŘEDÁVÁNÍ NĚKTERÝCH AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY NEBO ŠKOLSKÉHO ZAŘÍZENÍ",
+      "content": "(1) Agregované údaje předává právnická osoba vykonávající činnost školy s výjimkou jazykové školy s právem státní jazykové zkoušky a právnická osoba vykonávající činnost školského výchovného a ubytovacího zařízení, školského zařízení pro výkon ústavní a ochranné výchovy a preventivně výchovné péče, školského zařízení pro zájmové vzdělávání, střediska praktického vyučování a přípravného stupně základní školy speciální.\n(2) Údaje za uplynulý školní rok: počet dětí, žáků a studentů a školní úrazovost dětí, žáků a studentů ve školách a školských zařízeních, úrazy evidované v knize úrazů, odškodněné případy.\n6) § 122 odst. 4 věta druhá školského zákona a § 2 odst. 1 písm. b) vyhlášky č. 107/2005 Sb., o školním stravování.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST ČTVRTÁ - PŘEDÁVÁNÍ NĚKTERÝCH AGREGOVANÝCH ÚDAJŮ PRÁVNICKÝMI OSOBAMI VYKONÁVAJÍCÍMI ČINNOST ŠKOLY NEBO ŠKOLSKÉHO ZAŘÍZENÍ - Předávání agregovaných údajů z dokumentace škol a školských zařízení, týkajících se úrazů dětí, žáků a studentů",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této přílohy se stávajícím školním rokem",
+      "definition": "školní rok, do něhož spadá poslední den pro předání agregovaných údajů",
+      "source_provision": "Čl. 1"
+    }
+  ]
+}

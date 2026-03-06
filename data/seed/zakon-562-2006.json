@@ -1,0 +1,39 @@
+{
+  "id": "cz:562/2006",
+  "type": "statute",
+  "title": "562/2006 Sb., Vyhláška, kterou se stanoví způsob převedení listin do elektronické podoby, způsob nakládání s převedenými listinami a obligatorní elektronická podoba listin (vyhláška o digitalizaci obchodního rejstříku)",
+  "title_en": "",
+  "short_name": "562/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-12-22",
+  "in_force_date": "2007-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2006/562",
+  "description": "Vyhláška, kterou se stanoví způsob převedení listin do elektronické podoby, způsob nakládání s převedenými listinami a obligatorní elektronická podoba listin (vyhláška o digitalizaci obchodního rejstříku)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob převedení listin do elektronické podoby a způsob nakládání s převedenými listinami",
+      "content": "(1) Způsobem převedení listin do elektronické podoby se rozumí jejich digitalizace, která se provádí prostřednictvím výpočetní techniky. Digitalizované listiny se uloží ve formátu Portable Document Format (přípona pdf) a zařadí se do databáze listin.\n(2) Po uplynutí 6 měsíců od provedení jejich digitalizace se listiny dále neuchovávají."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obligatorní elektronická podoba listin",
+      "content": "Listiny, které se zakládají do sbírky listin, jimiž se nedokládají skutečnosti uvedené v návrhu na zápis nebo změnu anebo výmaz zápisu v obchodním rejstříku, se podávají pouze v elektronické podobě ve formátu Portable Document Format (přípona pdf). Tyto listiny lze rejstříkovému soudu zaslat elektronickou poštou nebo s využitím datového nosiče Compact Disc Recordable (CD-R). Rejstříkový soud doručené nosiče dat nevrací a po uplynutí 6 měsíců od doručení je skartuje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2007."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Způsobem převedení listin do elektronické podoby",
+      "definition": "jejich digitalizace, která se provádí prostřednictvím výpočetní techniky",
+      "source_provision": "§ 1"
+    }
+  ]
+}

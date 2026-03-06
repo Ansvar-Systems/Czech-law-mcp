@@ -1,0 +1,39 @@
+{
+  "id": "cz:363/2025",
+  "type": "statute",
+  "title": "363/2025 Sb., Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů CZ-DRG",
+  "title_en": "",
+  "short_name": "363/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-29",
+  "in_force_date": "2025-09-29",
+  "url": "https://www.e-sbirka.cz/sb/2025/363",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů CZ-DRG",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Metodika sestavení hospitalizačního případu v systému CZ-DRG, verze 2026, platná verze softwaru CZ-DRG Pre-grouper, verze 2026, a doprovodné metodické pokyny:\na) Datové rozhraní nástroje CZ-DRG Pre-grouper,\nb) Instalační příručka a manuál pro uživatele nástroje CZ-DRG Pre-grouper,\nc) Technická dokumentace nástroje CZ-DRG Pre-grouper."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Definiční manuál klasifikačního systému CZ-DRG, verze 2026, platná verze softwaru CZ-DRG Grouper, verze 2026, a doprovodné metodické pokyny:\na) Metodika použití DRG markerů v systému CZ-DRG,\nb) Číselník kritických výkonů a DRG markerů systému CZ-DRG,\nc) Datové rozhraní nástroje CZ-DRG Grouper,\nd) Instalační příručka a manuál pro uživatele nástroje CZ-DRG Grouper,\ne) Technická dokumentace nástroje CZ-DRG Grouper."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Pravidla kódování diagnóz v systému CZ-DRG, verze 2026."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Metodika výpočtu relativních vah v systému CZ-DRG, verze 2026, a doprovodné metodické pokyny:\na) Relevantní náklady hospitalizačního případu v systému CZ-DRG,\nb) Metodika oceňování hospitalizačního případu v systému CZ-DRG,\nc) Metodika přiřazení relativní váhy k hospitalizačnímu případu v systému CZ-DRG,\nd) Číselník relativních vah systému CZ-DRG."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1557/1946",
+  "type": "statute",
+  "title": "1557/1946 Ú. l. I, Vyhláška povereníctva pre financie o devízových bankách na Slovensku.",
+  "title_en": "",
+  "short_name": "1557/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-07-25",
+  "in_force_date": "1946-05-15",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1557",
+  "description": "Vyhláška povereníctva pre financie o devízových bankách na Slovensku.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Devízovými bankami v smysle § 6, ods. 1 devízového zákona sú tieto peňažné ústavy so sídlom na Slovensku:\nSlovenská banka,\nTatra banka,\nSedliacka banka,\nPoštová sporiteľňa v Bratislave."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Táto vyhláška nadobúda účinnosť dňom 15. mája 1946."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:39/2002",
+  "type": "statute",
+  "title": "39/2002 Sb., Nařízení vlády, kterým se upravuje výše služného vojáků v základní nebo náhradní službě a vojáků v záloze povolaných na vojenské cvičení",
+  "title_en": "",
+  "short_name": "39/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-02-01",
+  "in_force_date": "2002-03-01",
+  "url": "https://www.e-sbirka.cz/sb/2002/39",
+  "description": "Nařízení vlády, kterým se upravuje výše služného vojáků v základní nebo náhradní službě a vojáků v záloze povolaných na vojenské cvičení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Služné vojáků v základní nebo náhradní službě",
+      "content": "Vojákům v základní nebo náhradní službě se pro hodnosti mužstva a poddůstojníků stanovují tyto měsíční částky služného:\nvojín500 Kč,\nsvobodník550 Kč,\ndesátník700 Kč,\nčetař750 Kč."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Služné vojáků v záloze povolaných na vojenské cvičení",
+      "content": "Vojákům v záloze povolaným na vojenské cvičení se pro hodnosti mužstva, poddůstojníků, rotmistrů, praporčíků, důstojníků a generálů stanovují tyto měsíční částky služného:\nvojín500 Kč,\nsvobodník 550 Kč,\ndesátník700 Kč,\nčetař750 Kč,\nrotný 800 Kč,\nrotmistr850 Kč,\nnadrotmistr900 Kč,\nštábní rotmistr950 Kč,\npodpraporčík, podporučík1 000 Kč,\npraporčík, poručík1 100 Kč,\nnadpraporčík, nadporučík1 200 Kč,\nštábní praporčík1 250 Kč,\nkapitán1 300 Kč,\nmajor1 450 Kč,\npodplukovník1 600 Kč,\nplukovník1 800 Kč,\nbrigádní generál2 000 Kč,\ngenerálmajor2 200 Kč,\ngenerálporučík 2 400 Kč,\narmádní generál2 700 Kč."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

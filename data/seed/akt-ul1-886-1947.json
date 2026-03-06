@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:886/1947",
+  "type": "statute",
+  "title": "886/1947 Ú. l. I, Vyhláška ministra zdravotnictví o vydání československého lékopisu.",
+  "title_en": "",
+  "short_name": "886/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-08-19",
+  "in_force_date": "1947-08-19",
+  "url": "https://www.e-sbirka.cz/ul1/1947/886",
+  "description": "Vyhláška ministra zdravotnictví o vydání československého lékopisu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Ministerstvo zdravotnictví vydalo nákladem Státní tiskárny v Praze „Československý lékopis, vydání I.“ (dále jen lékopis).\n(2) Lékopis nabývá účinnosti dnem 1. ledna 1948, pokud nestanoví § 2 jinak."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V odůvodněných případech může ministerstvo zdravotnictví povoliti na zvláštní žádost přiměřený odklad splnění povinnosti podle § 3 vl. nař. č. 5/1947 Sb."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

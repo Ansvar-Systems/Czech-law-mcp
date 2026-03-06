@@ -1,0 +1,33 @@
+{
+  "id": "cz:1/1989",
+  "type": "statute",
+  "title": "1/1989 Sb., Nařízení vlády Československé socialistické republiky o zvýšení zvláštního příspěvku horníkům",
+  "title_en": "",
+  "short_name": "1/1989 Sb.",
+  "status": "in_force",
+  "issued_date": "1989-01-30",
+  "in_force_date": "1989-01-30",
+  "url": "https://www.e-sbirka.cz/sb/1989/1",
+  "description": "Nařízení vlády Československé socialistické republiky o zvýšení zvláštního příspěvku horníkům",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Výše zvláštního příspěvku horníkům činí\na) 1500 Kčs měsíčně, koná-li pracující méně rizikovou práci v podzemí hlubinných dolů,\nb) 1900 Kčs měsíčně v ostatních případech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zvláštní příspěvky horníkům přiznané přede dnem účinnosti tohoto nařízení se zvyšují na částky uvedené v § 1 bez žádosti od splátky splatné v lednu 1989."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

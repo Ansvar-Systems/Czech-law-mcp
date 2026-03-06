@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1518/1946",
+  "type": "statute",
+  "title": "1518/1946 Ú. l. I, Vyhláška ministra financí o náhradách za používání úřednických motorových vozidel ve veřejné službě.",
+  "title_en": "",
+  "short_name": "1518/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-07-16",
+  "in_force_date": "1946-07-16",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1518",
+  "description": "Vyhláška ministra financí o náhradách za používání úřednických motorových vozidel ve veřejné službě.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. že motorové vozidlo koupili v Československu za ceníkovou cenu;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. že za motorové vozidlo zaplatili obecnou cenu Fondu národní obnovy;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. že za motorové vozidlo doplatili Fondu národní obnovy rozdíl mezi obecnou cenou a částkou, za kterou je nabyli."
+    }
+  ],
+  "definitions": []
+}

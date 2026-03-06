@@ -1,0 +1,33 @@
+{
+  "id": "cz:n3/1993",
+  "type": "statute",
+  "title": "n3/1993 Sb., Redakční sdělení o opravě chyb v zákonu č. 633/1992 Sb., v ústavním zákonu ČNR č. 4/1993 Sb. a v zákonu ČNR č. 26/1993 Sb.",
+  "title_en": "",
+  "short_name": "n3/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-01-29",
+  "in_force_date": "1993-01-29",
+  "url": "https://www.e-sbirka.cz/sb/1993/n3",
+  "description": "Redakční sdělení o opravě chyb v zákonu č. 633/1992 Sb., v ústavním zákonu ČNR č. 4/1993 Sb. a v zákonu ČNR č. 26/1993 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V bodu 1 má v § 22b odst. 1 v první větě místo „podle § 22 odst. 1“ správně být „podle § 22a odst. 1“; v § 22b odst. 2 v druhé větě má místo „aby bylo použito § 2 odst. 3“ správně být „aby bylo použito § 22a odst. 1“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V čl. 3 odst. 5 v první větě má místo „přebírá Nejvyšší soud České republiky.“ správně být „přebírá Nejvyšší soud České republiky a Generální prokuratura České republiky“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Poznámky č. 1, 2 a 3 uvedené pod čarou na straně 162 mají být správně uvedeny na straně 167 jako poznámky k čl. III."
+    }
+  ],
+  "definitions": []
+}

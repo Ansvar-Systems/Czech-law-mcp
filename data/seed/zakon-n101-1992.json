@@ -1,0 +1,77 @@
+{
+  "id": "cz:n101/1992",
+  "type": "statute",
+  "title": "n101/1992 Sb., Opatření Státní banky československé, kterým se stanoví postup devizových bank při uskutečňování některých úhrad vůči devizovému cizozemci",
+  "title_en": "",
+  "short_name": "n101/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-10-15",
+  "in_force_date": "1992-10-15",
+  "url": "https://www.e-sbirka.cz/sb/1992/n101",
+  "description": "Opatření Státní banky československé, kterým se stanoví postup devizových bank při uskutečňování některých úhrad vůči devizovému cizozemci",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - ÚHRADY VŮČI DEVIZOVÉMU CIZOZEMCI",
+      "content": "Devizová banka provede úhradu devizovému cizozemci (s výjimkou převodů uvedených v části druhé) na základě příkazu k úhradě. Zároveň plátce prokáže, že je podnikatelem ve smyslu zvláštního zákona.1) Devizová banka provede úhradu dohodnutým způsobem (např. podle „Jednotných pravidel a zvyklostí pro dokumentární akreditivy a inkasa“). Spolu s příkazem k úhradě předkládá plátce příslušné doklady o oprávněnosti vzniku zahraničního závazku (např. kopii faktury nebo smlouvy, devizové povolení Státní banky československé, popřípadě jiné doklady dohodnuté s devizovou bankou, např. písemné prohlášení oprávněné osoby). Plátce dohodne rovněž s příslušnou devizovou bankou předložení platebního příkazu před požadovanou realizací platby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - ÚHRADY VŮČI DEVIZOVÉMU CIZOZEMCI",
+      "content": "Plátce u všech plateb do zahraničí označených platebním titulem 120 (platby za zboží ve sjednané paritě)2) vyznačí v platebním příkazu\na) datum uzavření kontraktu, číslo obchodního případu (code) nebo číslo faktury,\nb) datum přechodu zboží přes československou hranici v případech, kdy přechod zboží přes československou hranici předchází platbě, a to i v případech, kdy platba je rozložena na několik splátek, z nichž některé jsou realizovány až po přechodu zboží přes československou hranici. Toto datum se uvádí ve všech případech, kdy v okamžiku platby je známo datum přechodu zboží přes československou hranici.\nBez uvedených údajů v platebním příkazu devizová banka platbu neprovede."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Za výnos z investic se pro účely tohoto opatření rozumí peněžní částky v československé měně, získané z investic v tuzemsku, zejména zisky z podnikání, přírůstky kapitálu, výnosy z cenných papírů a výnosy z prodeje duševního vlastnictví."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Za výnos z investic podle § 3 se nepovažují peněžní prostředky získané z prodeje zboží a poskytování služeb uskutečněných přímo devizovým cizozemcem."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Devizová banka je povinna uhradit na žádost devizového tuzemce - právnické osoby za československou měnu devizovému cizozemci devizové prostředky, představující devizovou protihodnotu čistého výnosu (po odečtení daní) z investice devizového cizozemce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Devizový tuzemec - právnická osoba je povinna při předání dispozic k převodu výnosů z investic předložit devizové bance doklad o tom, že se jedná o výnos z investic devizového cizozemce (zejména roční účetní závěrka doplněná dokladem, ze kterého je zřejmé rozdělení výnosu z investic)."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Převod výnosů z investic se může uskutečnit do zahraničí nebo na cizozemský účet devizového cizozemce vedený u devizové banky v cizí měně."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST DRUHÁ - PŘEVODY VÝNOSŮ Z INVESTIC DEVIZOVÉHO CIZOZEMCE",
+      "content": "Toto opatření nabývá účinnosti dnem vyhlášení.\n1) § 2 zákona č. 513/1991 Sb., obchodní zákoník.\n2) Opatření SBČS ze dne 28. 2. 1992, vyhlášené v částce 29/1992 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Za výnos z investic",
+      "definition": "peněžní částky v československé měně, získané z investic v tuzemsku, zejména zisky z podnikání, přírůstky kapitálu, výnosy z cenných papírů a výnosy z prodeje duševního vlastnictví",
+      "source_provision": "§ 3"
+    }
+  ]
+}

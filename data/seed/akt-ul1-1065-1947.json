@@ -1,0 +1,134 @@
+{
+  "id": "cz:ul1:1065/1947",
+  "type": "statute",
+  "title": "1065/1947 Ú. l. I, Vyhláška generálního sekretariátu Hospodářské rady, kterou se vydávají závazné směrnice pro finanční účetnictví peněžních ústavů.",
+  "title_en": "",
+  "short_name": "1065/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-10-14",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1065",
+  "description": "Vyhláška generálního sekretariátu Hospodářské rady, kterou se vydávají závazné směrnice pro finanční účetnictví peněžních ústavů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "chapter": "Část první. - Směrná účtová osnova pro peněžní ústavy.",
+      "content": "Finanční účetnictví peněžních ústavů se organisuje podle této směrné účtové osnovy:\nÚčtová třída 0— investiční majetek:\núčtová skupina 00— pozemky\núčtová skupina 01— zemní stavby\núčtová skupina 02— budovy\núčtová skupina 03— stroje, dopravní prostředky, nářadí a zařízení\núčtová skupina 06— zvláštní investice\núčtová skupina 07— investice ve stavbě\núčtová skupina 08— nehmotné investice\núčtová skupina 09— oprávky k investičnímu majetku\nÚčtová třída 1— úvěry a zápůjčky:\núčtové skupiny 10 a 11— provozní úvěry\núčtová skupina 12— spotřební úvěry\núčtová skupina 13— investiční úvěry\núčtová skupina 14— úvěry fondům\núčtová skupina 15— úvěry peněžním ústavům\núčtové skupiny 16 a 17— zápůjčky\núčtová skupina 18— úvěry a zápůjčky v cizí měně\núčtová skupina 19— oprávky k úvěrům a zápůjčkám\nÚčtová třída 2— finanční majetek:\núčtová skupina 20— hotovosti\núčtová skupina 21— pohledávky u peněžních ústavů\núčtová skupina 22— cenné papíry a kupony\núčtová skupina 24— valuty, mince, zlato a jiné drahé kovy\núčtová skupina 25— směnky, šeky a zástavní listy na zboží\núčtová skupina 26— družstevní podíly\núčtová skupina 27— směnky, šeky, kupony a úhrady v cizí měně\núčtová skupina 28— pohledávky u peněžních ústavů v cizí měně\núčtová skupina 29— oprávky k finančnímu majetku\nÚčtová třída 3— ostatní majetek:\núčtová skupina 30— majetek pensijního fondu\núčtová skupina 31— pomocné účty v Kč\núčtová skupina 32— zásoby\núčtová skupina 33— majetek nabytý k záchraně pohledávek\núčtová skupina 34— evidenční účty\núčtová skupina 35— spojovací účty\núčtová skupina 36— přechodné položky aktivní\núčtová skupina 37— dohadné položky aktivní\núčtová skupina 38— jiný majetek\núčtová skupina 39— oprávky k ostatnímu majetku\nÚčtová třída 4— svěřené prostředky:\núčtová skupina 40— vklady na knížky\núčtová skupina 41— vklady v běžném účte\núčtová skupina 42— vklady peněžních ústavů\núčtová skupina 43— vklady fondů\núčtová skupina 44— vydané dílčí dlužní úpisy\núčtová skupina 45— odvody peněžních prostředků podniků\núčtová skupina 46— výpůjčky\núčtová skupina 47— zvláštní peněžní styk s cizinou\núčtová skupina 48— vklady a výpůjčky v cizí měně\núčtová skupina 49— jiné svěřené prostředky\nÚčtová třída 5— ostatní pasiva:\núčtová skupina 50— pensijní fond\núčtová skupina 51— pomocné účty v cizí měně\núčtová skupina 52— slosované dílčí dlužní úpisy\núčtová skupina 53— nevyplacené úroky z dílčích dlužních úpisů a z podílů.\núčtová skupina 54— evidenční účty\núčtová skupina 55— spojovací účty\núčtová skupina 56— přechodné položky pasivní\núčtová skupina 57— dohadné položky pasivní\núčtová skupina 58— jiná pasiva\núčtová skupina 59— bankovky a drobné peníze papírové\nÚčtová třída 6— náklady:\núčtová skupina 60— úroky\núčtová skupina 61— odměny za správu účtu a z úvěrového spojení\núčtová skupina 62— jiné odměny\núčtová skupina 63— osobní náklady\núčtová skupina 64— věcné náklady správní\núčtová skupina 65— odpisy investic\núčtová skupina 66— daně, dávky a poplatky\núčtová skupina 68— pojistné, škody a oceňovací rozdíly\núčtová skupina 69— jiné náklady\nÚčtová třída 7— vyúčtování tržeb:\núčtová skupina 70— nákupní hodnota prodaných cenných papírů\núčtová skupina 71— nákupní hodnota valut, mincí, zlata a jiných drahých kovů\núčtová skupina 73— nákupní hodnota prodaných devis\núčtová skupina 74— účetní hodnota prodaných jiných majetkových součástí\núčtová skupina 75— tržba za cenné papíry\núčtová skupina 76— tržba za valuty, mince a drahé kovy\núčtová skupina 78— tržba za devisy\núčtová skupina 79— tržba za jiné majetkové součásti\nÚčtová třída 8— výnosy:\núčtová skupina 80— úroky\núčtová skupina 81— odměny za správu účtu a z úvěrového spojení\núčtová skupina 82— jiné odměny\núčtová skupina 83— náhrady osobních nákladů\núčtová skupina 84— náhrady věcných nákladů správních\núčtová skupina 86— náhrady daní, dávek a poplatků\núčtová skupina 88— oceňovací rozdíly\núčtová skupina 89— jiné výnosy\nÚčtová třída 9— čisté jmění a závěrečné účty:\núčtová skupina 90— základní kapitál\núčtová skupina 91— reservní fondy\núčtová skupina 95— zisk z minulých účetních let\núčtová skupina 96— ztráta z minulých účetních let\núčtová skupina 97— účet rozvažný\núčtová skupina 98— účet hospodářského výsledku"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "chapter": "Část první. - Směrná účtová osnova pro peněžní ústavy.",
+      "content": "(1) Názvy a číselné označení účtových tříd a účtových skupin směrné účtové osnovy se nesmějí měniti. Pokud se v účtovém rozvrhu nebude některá z předepsaných účtových skupin děliti, zřídí se pro ni účet s jejím číselným označením, k němuž se připojí nula.\n(2) Účtové skupiny, pro jejichž účty se nemohou vyskytnouti účetní případy, lze vynechati v příslušných odborových účtových osnovách."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "chapter": "Část první. - Směrná účtová osnova pro peněžní ústavy.",
+      "content": "V účtových třídách 0, 1, 2 a 3 odborových účtových osnov je nutno děliti účtové skupiny oprávek tak, aby v nich byl stanoven účet alespoň pro každou účtovou skupinu majetku, k němuž lze zřizovati oprávky."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "chapter": "Část první. - Směrná účtová osnova pro peněžní ústavy.",
+      "content": "Pochybné (nejisté) pohledávky z úvěrů a zápůjček, z finančního a z ostatního majetku se účtují v plné výši; přiměřené oprávky k těmto pochybným (nejistým) pohledávkám se účtují v účtové skupině oprávek příslušné účtové třídy. Nedobytné pohledávky je nutno odepsati přímo; pokud k nim byly zřízeny oprávky, je nutno tyto oprávky zrušiti."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová třída 0 — investiční majetek.\nOdpisy investičního majetku je nutno účtovati nepřímo (oprávkou k investičnímu majetku). V peněžních ústavech, v nichž se účtovaly odpisy investičního majetku dosud přímo, se převezme při zavedení směrné účtové osnovy účetní hodnota investičního majetku k rozvahovému dni, který předchází termínu nové organisace účetnictví. Je-li tato hodnota známa pouze vcelku, stanoví se hodnota jednotlivých složek investičního majetku odhadem. Souhrn takto stanovených hodnot se musí rovnati celkové přejímané hodnotě investičního majetku; přitom se nesmějí pro stanovení odpisů změniti ani odpisová základna ani odpisové procento."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová třída 1 — úvěry a zápůjčky.\nJednotlivé účtové skupiny této účtové třídy se rozdělí v odborových účtových osnovách podle potřeb hospodářského plánování."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová skupina 25 — směnky, šeky a zástavní listy na zboží.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro šeky a pro zástavní listy na zboží."
+    },
+    {
+      "provision_ref": "§ 7a.",
+      "section": "7a",
+      "title": "§ 7a.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "(1) Účtová skupina 32 — zásoby.\nDo této účtové skupiny patří materiál, drobné a krátkodobé předměty a ostatní zásoby; v odborových účtových osnovách se rozdělí tato účtová skupina podle potřeb hospodářského plánování.\n(2) Účtová skupina 34 — evidenční účty.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro pohledávky ze záruk a pro ostatní evidenční účty."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "(1) Účtová skupina 41 — vklady v běžném účtě.\nDo této účtové skupiny patří vklady v běžném účtě, které byly učiněny v korunách československých prvními vkladateli tuzemskými i cizozemskými.\n(2) Účtová skupina 42 — vklady peněžních ústavů.\nV odborových účtových osnovách se v této účtové skupině zřídí samostatné účty alespoň pro tuzemské peněžní ústavy a pro cizozemské peněžní ústavy.\n(3) Účtová skupina 45 — odvody peněžních prostředků podniků.\nDo této účtové skupiny patří odvody odpisů, zbytkové účetní ceny vyřazených investic, po případě zisku a jiných druhů akumulace u podniků, které nejsou zapojeny na Fond znárodněného hospodářství.\n(4) účtová skupina 47 — zvláštní peněžní styk s cizinou.\nDo této účtové skupiny patří zejména účty pro vklady cizozemských peněžních ústavů v Kčs se závazkem vrácení v cizí měně, jakož i clearingové účty v Kčs."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "(1) Účtová skupina 54 — evidenční účty.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro závazky ze záruk a pro ostatní evidenční účty.\n(2) Účtová skupina 57 — dohadné položky pasivní.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro daňové reservy a pro ostatní reservy."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "(1) Účtová skupina 60 — úroky.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro úroky z vkladů na knížky, z vkladů v běžném účtě, z vkladů peněžních ústavů, z vkladů fondů, z vydaných dílčích dlužních úpisů, z odvodů peněžních prostředků podniků a z výpůjček.\n(2) Účtová skupina 63 — osobní náklady.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro služné a mzdy a pro zákonné sociální náklady.\n(3) Účtová skupina 64 — věcné náklady správní.\nDo této účtové skupiny patří tyto náklady: udržování provozoven a zařízení, nájemné, energie, opotřebení drobných a krátkodobých předmětů, kancelářské potřeby, spotřeba ostatních zásob, poštovní náklady, náborové náklady, právní náklady, cestovné, zařizovací a stěhovací náklady, náklady závodní rady.\n(4) Účtová skupina 65 — odpisy investic.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro odpisy hmotných a nehmotných investic a po případě ještě dále pro odpisy řádné á mimořádné.\n(5) Účtová skupina 66 — daně, dávky a poplatky.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatný účet alespoň pro výdělkovou daň.\n(6) Účtová skupina 69 — jiné náklady.\nDo této účtové skupiny patří zejména poplatky za veřejný dozor, povinné příspěvky zájmovým a jiným korporacím, příspěvky sociálním zařízením."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová třída 7 — vyúčtování tržeb.\nNa účty v účtových skupinách 70 až 74 se převede z příslušných účtových tříd nákupní hodnota prodaných cenných papírů, valut, mincí, zlata a jiných drahých kovů, devis a účetní hodnota prodaných jiných majetkových součástí. Na účtech v účtových skupinách 75 až 79 se účtuje tržba za cenné papíry, za valuty, mince, zlato a jiné drahé kovy, za devisy a za jiné majetkové součásti."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová skupina 80 — úroky.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro úroky z provozních úvěrů, ze spotřebních úvěrů, z investičních úvěrů, z úvěrů fondům, z úvěrů peněžním ústavům, ze zápůjček, z cenných papírů a pro ostatní úroky."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13.",
+      "chapter": "Část druhá. - Ustanovení k jednotlivým účtovým třídám a účtovým skupinám.",
+      "content": "Účtová skupina 91 — reservní fondy.\nV odborových účtových osnovách je nutno zříditi v této účtové skupině samostatné účty alespoň pro povinné a pro dobrovolné reservní fondy."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14. Průkaz o použitých volných listech.",
+      "chapter": "Část třetí. - Ustanovení všeobecná a závěrečná.",
+      "content": "Při používání volných listů ve finančním účetnictví peněžních ústavů se vede průkaz o použitých volných listech pro osobní a věcné účty podle ustanovení § 16, odst. 1, písm. e) vládního nařízení č. 205/1946 Sb. tak, že se ve zvláštní vázané knize (knihách) zapisuje každý použitý volný list s udáním, kdy a pro který účet byl použit (na příklad číselné označení a název osobního nebo věcného účtu); jde-li o methodu, při které se pracuje s děrnými štítky, vede se tento průkaz tak, že se ve zvláštní vázané knize (knihách) pořizuje soupis všech osobních účtů a zapisuje se do ní (nich) nebo do zvláštní vázané knihy účtový rozvrh peněžního ústavu."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15.",
+      "chapter": "Část třetí. - Ustanovení všeobecná a závěrečná.",
+      "content": "Generální sekretariát Hospodářské rady určí podle ustanovení § 3 zákona č. 116/1946 Sb. vyhláškou v Úředním listě republiky Československé a v Úředních, věstníku, kdy vznikne pro určitý okruh peněžních ústavů (§ 1) povinnost říditi se ustanoveními této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 16.",
+      "section": "16",
+      "title": "§ 16. Účinnost.",
+      "chapter": "Část třetí. - Ustanovení všeobecná a závěrečná.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

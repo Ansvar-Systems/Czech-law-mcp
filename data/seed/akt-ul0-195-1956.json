@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul0:195/1956",
+  "type": "statute",
+  "title": "195/1956 Ú. l., Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují technické státní normy pro kolejová vozidla, pro elektrické leštiče podlah, pro křemen a křemenný písek, pro škváry pro škvárový beton, pro dírkové přírodní hedvábí, pro přírodní hedvábí k zdravotnickým účelům, pro tkaniny na pánské zimníky, pro dívčí zástěru zapínanou na šle, pro dámskou zástěru do pasu a pro názvy rentgenových zařízení.",
+  "title_en": "",
+  "short_name": "195/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-09-26",
+  "in_force_date": "1961-11-01",
+  "url": "https://www.e-sbirka.cz/ul0/1956/195",
+  "description": "Vyhláška úřadu pro vynálezy a normalisaci, kterou se vyhlašují technické státní normy pro kolejová vozidla, pro elektrické leštiče podlah, pro křemen a křemenný písek, pro škváry pro škvárový beton, pro dírkové přírodní hedvábí, pro přírodní hedvábí k zdravotnickým účelům, pro tkaniny na pánské zimníky, pro dívčí zástěru zapínanou na šle, pro dámskou zástěru do pasu a pro názvy rentgenových zařízení.",
+  "provisions": [
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11.",
+      "content": "(2) Norma platí pro pánské zimníkové tkaniny, které se vyrábějí z mykané příze vlněné. Jedná o názvosloví, obsahuje tabulku s technickými údaji atd. Touto normou se ruší TPJ 76-55.\n(1) Norma ČSN 80 3381 „Tkaniny na pánské zimníky“ je od 1. října 1956 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "(2) Norma platí pro hedvábí skané nesterilizované, které se upravuje ve farmaceutickém průmyslu na chirurgický šicí materiál. Touto normou se ruší TPJ 424-54.\n(1) Norma ČSN 80 2548 „Přírodní hedvábí k zdravotnickým účelům“ je od 1. října 1956 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(2) Norma platí pro dírkové přírodní hedvábí užívané v průmyslu i v domácí výrobě pro ruční a strojové šiti. Touto normou se ruší TPJ 431-54.\n(1) Norma ČSN 80 2541 „Dirkové přírodní hedvábí“ je od 1. října 1956 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(2) Norma platí pro škváry do škvárového betonu, jež se užívají ve stavebnictví k přípravě betonové směsi, po případě k výrobě betonových výrobků výplňových, isolačních nebo nosných.\n(1) Norma ČSN 72 2050 „Škváry pro škvárový beton“ platí od 1. října 1956 do 31. prosince 1956 jako norma směrná a od 1. ledna 1957 jako norma, závazná."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(2) Norma platí pro křemen a křemenec, pro křemenný písek a rozdrobený pískovec, jejichž hlavni složkou je kysličník křemičitý.\n(1) Norma ČSN 72 1261 „Křemen a křemenný písek“ je od 1. října 1956 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(2) Norma platí pro elektrické leštiče podlah určené k leštění parket, linolea, xylolitu a pod.\n(1) Norma ČSN 36 1520 „Elektrické leštiče podlah“ je od 1. října 1956 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(2) Norma platí pro geometrickou přesnost spodku podvozkových vozů s kulovou tornou a s pevnými kluznicemi na spodku.\nTato norma je směrná.\n(1) Norma ČSN 28 0131 „Přesnost spodku podvozkových vozidel s rozchodem 1435 mm“ je od 1. ledna 1957 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(2) Norma platí pro geometrickou přesnost spodku a pojezdu dvounápravových nákladních vozů.\nTato norma je směrná\n(1) Norma ČSN 28 0130 „Přesnost spodku a pojezdu dvounápravových nákladních vozů s rozchodem 1435 mm“ je od 1. října 1956 technickou státní normou."
+    }
+  ],
+  "definitions": []
+}

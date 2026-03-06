@@ -1,0 +1,27 @@
+{
+  "id": "cz:479/2001",
+  "type": "statute",
+  "title": "479/2001 Sb., Zákon, kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů",
+  "title_en": "",
+  "short_name": "479/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-12-31",
+  "in_force_date": "2001-12-31",
+  "url": "https://www.e-sbirka.cz/sb/2001/479",
+  "description": "Zákon, kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 2 písm. a) zákona č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, se slova „, jeho části nebo plod po potratu1)“ nahrazují slovy „nebo jeho části“. Zároveň se text poznámky pod čarou č. 1) zrušuje."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

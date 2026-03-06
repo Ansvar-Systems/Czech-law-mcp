@@ -1,0 +1,33 @@
+{
+  "id": "cz:248/1999",
+  "type": "statute",
+  "title": "248/1999 Sb., Vyhláška České národní banky o platebním styku a zúčtování mezi bankami a pobočkami zahraničních bank ve dnech 31. prosince 1999 a 3. ledna 2000",
+  "title_en": "",
+  "short_name": "248/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-11-11",
+  "in_force_date": "1999-11-11",
+  "url": "https://www.e-sbirka.cz/sb/1999/248",
+  "description": "Vyhláška České národní banky o platebním styku a zúčtování mezi bankami a pobočkami zahraničních bank ve dnech 31. prosince 1999 a 3. ledna 2000",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Data platebního styku předaná bankami a pobočkami zahraničních bank zúčtovacímu centru1) po jeho denní účetní uzávěrce na účtech platebního styku dne 30. prosince 1999 a dále ve dnech 31. prosince 1999 a 3. ledna 2000 zpracuje zúčtovací centrum dne 4. ledna 2000."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Na zpracování dat podle § 1 se nepoužije lhůta uvedená v § 18 odst. 2 věta druhá vyhlášky Státní banky československé č. 51/1992 Sb., o platebním styku a zúčtování mezi bankami."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 2 vyhlášky č. 51/1992 Sb., o platebním styku a zúčtování mezi bankami."
+    }
+  ],
+  "definitions": []
+}

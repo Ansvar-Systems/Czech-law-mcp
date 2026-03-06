@@ -1,0 +1,45 @@
+{
+  "id": "cz:214/2017",
+  "type": "statute",
+  "title": "214/2017 Sb., Vyhláška, kterou se mění vyhláška č. 31/1995 Sb., kterou se provádí zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "214/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-07-18",
+  "in_force_date": "2017-09-01",
+  "url": "https://www.e-sbirka.cz/sb/2017/214",
+  "description": "Vyhláška, kterou se mění vyhláška č. 31/1995 Sb., kterou se provádí zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 31/1995 Sb., kterou se provádí zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění vyhlášky č. 212/1995 Sb., vyhlášky č. 365/2001 Sb., vyhlášky č. 92/2005 Sb., vyhlášky č. 311/2009 Sb. a vyhlášky č. 383/2015 Sb., se mění takto:\n1. § 10c včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 10c",
+      "section": "10c",
+      "title": "„§ 10c Formy poskytování dat databáze",
+      "content": "(1) Data databáze poskytuje Zeměměřický úřad v rozsahu a struktuře, které umožňuje informační systém zeměměřictví, v těchto formách:\na) datové soubory,\nb) prohlížecí služba, nebo\nc) služba stahování dat.\n(2) Data databáze ve formě podle odstavce 1 písm. a) nebo c) se poskytují na základě žádosti, která obsahuje\na) identifikační údaje žadatele,\nb) rozsah, obsah a formát požadovaných dat,\nc) účel, pro který jsou data požadována, a\nd) způsob předání dat.\n(3) Data databáze ve formě podle odstavce 1 písm. b) se poskytují bezúplatně; data databáze ve formách podle odstavce 1 písm. a) a c) se poskytují za úplatu stanovenou v příloze (bod 11).“.\n2. Za § 10c se vkládají nové § 10d a 10e, které včetně nadpisů znějí:"
+    },
+    {
+      "provision_ref": "„§ 10d",
+      "section": "10d",
+      "title": "„§ 10d Podmínky zveřejnění a užití dat databáze",
+      "content": "(1) Poskytnutá data databáze může žadatel zveřejnit pouze v pasivní formě neoddělitelné od žadatelovy aplikace nebo kartografického díla.\n(2) Podmínkou užití dat databáze je uvedení jejich zdroje a data poslední aktualizace databáze předcházející datu poskytnutí údajů.\n(3) Pokud žadatel zveřejňuje obrazy dat databáze v elektronické podobě, je povinen do rastrového souboru neoddělitelným způsobem vložit text „© ČÚZK“. Při každém posunu obrazu musí být viditelný a čitelný alespoň jeden tento text. Mimo oblast zobrazovaných dat musí být uveden text „Podkladová data © ČÚZK“."
+    },
+    {
+      "provision_ref": "§ 10e",
+      "section": "10e",
+      "title": "§ 10e Zabránění přístupu do databáze",
+      "content": "Zeměměřický úřad zabrání technickými prostředky v přístupu k prohlížecí službě nebo ke službě stahování dat uživateli, který\na) přetěžuje technologickou infrastrukturu prohlížecí služby nebo služby stahování dat,\nb) prohlížecí službu nebo službu stahování dat neodborně využívá nebo zneužívá,\nc) rozšiřuje data databáze, ač k tomu není oprávněn, nebo\nd) nesplnil svou povinnost uhradit úplatu za poskytovaná data.“.\n3. V příloze v bodu 4 podbod 4.7 zní:\n„4.7 Nivelační body jsou očíslovány v rámci evidenčních jednotek, kterými jsou nivelační pořady, které vymezují jednotlivé nivelační oblasti (obr. 10.1), nebo plošné nivelační sítě. V samostatné číselné řadě jsou čísly vyjádřenými římskými číslicemi očíslovány základní nivelační body. Poloha nivelačních bodů je zobrazena v dokumentačních mapách.\nOznačení nivelačních oblastí I. řádu\nPřehled rozdělení nivelační oblasti I. řádu na nivelační oblasti II. řádu a vedení nivelačních pořadů III. řádu\nObr. 10.1“.\n4. V příloze v bodu 5 se na začátek podbodu 5.6 vkládá věta „Tíhové body jsou očíslovány čísly vyjádřenými arabskými číslicemi v jedné souvislé číselné řadě od 1 do 9999, v případě potřeby se použije poddělení na dvě desetinná místa.“.\n5. V příloze v bodu 10 podbodu 10.2 písmena a) a b) znějí:\n„a) Je-li podrobné měření připojeno pouze na dva body, musí být použity dva body polohových bodových polí nebo pomocné body, přičemž v případě použití volného polárního stanoviska musí být na oba dva tyto body změřeny vodorovné směry i délky.\nb) Při určení souřadnic stanoviska protínáním ze směrů nebo protínáním z délek nebo jako volného polárního stanoviska musí být na určovaném stanovisku alespoň jeden úhel mezi použitými směry v rozmezí 30 gon až 170 gon.“.\n6. V příloze se doplňuje bod 11, který zní:\n„11. Poskytování dat z databáze\nPoložkaSpecifikaceMěrná jednotkaÚplata za měrnou jednotku\n1Sídla, hospodářské a kulturní objekty100 bodů3,00 Kč\n2Komunikace100 bodů3,00 Kč\n3Rozvodné sítě a produktovody100 bodů3,00 Kč\n4Vodstvo100 bodů3,00 Kč\n5Územní jednotky včetně chráněných území100 bodů3,00 Kč\n6Vegetace a povrch100 bodů3,00 Kč\n7Terénní reliéf - vrstevnice (3D linie)100 bodů0,50 Kč\n8Terénní reliéf - výškové body reliéfu (DMR 4G a 5G)100 bodů0,03 Kč\n9Terénní reliéf - výškové body povrchu (DMP 1G)100 bodů0,015 Kč\n10Terénní reliéf - ostatní linie nebo objekty a kótované body100 bodů3,00 Kč\n11Geodetické bodybod3,00 Kč\nPoznámky:\na) Úplata je stanovena za každou započatou měrnou jednotku.\nb) Poskytování dat ve formě datových souborů se může provést předáním na technickém nosiči dat nebo způsobem umožňujícím dálkový přístup.\nc) Minimální výše úplaty za data poskytnutá ve formě datových souborů a služby stahování dat po započtení slev podle písmen g) a j) je 200 Kč.\nd) Data se poskytují v souřadnicových systémech a formátech uveřejněných na internetových stránkách Úřadu.\ne) Úplata za poskytnutí dat ve druhém a dalším formátu poskytnutém současně činí 20 % základní úplaty za každý další formát.\nf) Úplata se zvýší o 50 %, pokud žadatel užije poskytnutá data podle § 10d odst. 1.\ng) V základní úplatě jsou zahrnuta předání aktualizovaných dat, o která je zažádáno do 1 roku od podání žádosti o prvotní výdej dat. Po uplynutí jednoho roku od podání žádosti činí úplata za aktualizovaná data 20 % základní úplaty.\nh) Úplata za službu stahování dat se stanoví na období 1 roku a je splatná předem. Výše úplaty se stanoví podle počtu měrných jednotek v území, ze kterého má být prováděno stahování dat, ke dni podání žádosti.\ni) Školám, školským zařízením a vysokým školám za účelem vzdělávání a studentům pro účely zpracování bakalářské, diplomové nebo jiné práce zpracované za účelem získání akademického titulu na podkladě písemné žádosti potvrzené školou se úplata za poskytnutá data snižuje o 100 %; data se poskytnou pouze v nezbytném rozsahu. Na takto poskytnutá data se nevztahuje minimální výše úplaty podle písmene c).\nj) Osobám, které Zeměměřickému úřadu poskytnou data, která jsou podle § 4a zeměměřického zákona obsahem databáze a na jejichž základě lze provést aktualizaci databáze, se poskytne sleva, jejíž výše se stanoví s ohledem na územní rozsah a obsah dat předaných k aktualizaci; sleva může být poskytnuta až do výše 80 % základní úplaty.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 2017."
+    }
+  ],
+  "definitions": []
+}

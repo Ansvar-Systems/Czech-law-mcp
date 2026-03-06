@@ -1,0 +1,33 @@
+{
+  "id": "cz:177/1989",
+  "type": "statute",
+  "title": "177/1989 Sb., Nařízení vlády Československé socialistické republiky, kterým se zvyšuje sazba odvodu ze zisku a sazba důchodové daně",
+  "title_en": "",
+  "short_name": "177/1989 Sb.",
+  "status": "in_force",
+  "issued_date": "1989-12-28",
+  "in_force_date": "1990-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1989/177",
+  "description": "Nařízení vlády Československé socialistické republiky, kterým se zvyšuje sazba odvodu ze zisku a sazba důchodové daně",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Sazba odvodu ze zisku stanovená v § 8 odst. 1 zákona č. 156/1989 Sb. se zvyšuje z 55 % na 65 % ze základu odvodu ze zisku; toto ustanovení se nevztahuje na organizace výzkumné a vývojové základny.\n(2) Sazba odvodu ze zisku stanovená v § 8 odst. 2 zákona č. 156/1989 Sb. se zvyšuje z 65 % na 75 % ze základu odvodu ze zisku."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Sazba důchodové daně stanovená v § 5 odst. 1 písm. a) zákona č. 157/1989 Sb. se zvyšuje z 65 % na 75 % ze základu důchodové daně.\n(2) Sazba důchodové daně stanovená v § 5 odst. 1 písm. b) zákona č. 157/1989 Sb. se zvyšuje z 55 % na 65 % ze základu důchodové daně."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1990 a platí pro odvodové období roku 1990."
+    }
+  ],
+  "definitions": []
+}

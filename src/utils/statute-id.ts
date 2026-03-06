@@ -29,17 +29,32 @@ export function resolveDocumentId(
   ).get(trimmed) as { id: string } | undefined;
   if (directMatch) return directMatch.id;
 
-  // Title/short_name exact match
-  const titleResult = db.prepare(
-    "SELECT id FROM legal_documents WHERE title LIKE ? OR short_name LIKE ? OR title_en LIKE ? LIMIT 1"
-  ).get(`%${trimmed}%`, `%${trimmed}%`, `%${trimmed}%`) as { id: string } | undefined;
-  if (titleResult) return titleResult.id;
+  // Exact short-name match first (prevents broad collisions on short tokens like "OZ").
+  const exactShortName = db.prepare(
+    'SELECT id FROM legal_documents WHERE LOWER(short_name) = LOWER(?) LIMIT 1'
+  ).get(trimmed) as { id: string } | undefined;
+  if (exactShortName) return exactShortName.id;
 
-  // Case-insensitive fallback
-  const lowerResult = db.prepare(
-    "SELECT id FROM legal_documents WHERE LOWER(title) LIKE LOWER(?) OR LOWER(short_name) LIKE LOWER(?) OR LOWER(title_en) LIKE LOWER(?) LIMIT 1"
-  ).get(`%${trimmed}%`, `%${trimmed}%`, `%${trimmed}%`) as { id: string } | undefined;
-  if (lowerResult) return lowerResult.id;
+  const exactTitle = db.prepare(
+    'SELECT id FROM legal_documents WHERE LOWER(title) = LOWER(?) LIMIT 1'
+  ).get(trimmed) as { id: string } | undefined;
+  if (exactTitle) return exactTitle.id;
+
+  const exactTitleEn = db.prepare(
+    'SELECT id FROM legal_documents WHERE LOWER(title_en) = LOWER(?) LIMIT 1'
+  ).get(trimmed) as { id: string } | undefined;
+  if (exactTitleEn) return exactTitleEn.id;
+
+  // Prefer short_name fuzzy matches before broad title matches.
+  const fuzzyShortName = db.prepare(
+    'SELECT id FROM legal_documents WHERE LOWER(short_name) LIKE LOWER(?) ORDER BY LENGTH(short_name) ASC LIMIT 1'
+  ).get(`%${trimmed}%`) as { id: string } | undefined;
+  if (fuzzyShortName) return fuzzyShortName.id;
+
+  const fuzzyTitle = db.prepare(
+    'SELECT id FROM legal_documents WHERE LOWER(title) LIKE LOWER(?) OR LOWER(title_en) LIKE LOWER(?) ORDER BY LENGTH(title) ASC LIMIT 1'
+  ).get(`%${trimmed}%`, `%${trimmed}%`) as { id: string } | undefined;
+  if (fuzzyTitle) return fuzzyTitle.id;
 
   return null;
 }

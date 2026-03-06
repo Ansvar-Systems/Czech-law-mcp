@@ -1,0 +1,39 @@
+{
+  "id": "cz:237/2014",
+  "type": "statute",
+  "title": "237/2014 Sb., Vyhláška, kterou se mění vyhláška č. 194/2007 Sb., kterou se stanoví pravidla pro vytápění a dodávku teplé vody, měrné ukazatele spotřeby tepelné energie pro vytápění a pro přípravu teplé vody a požadavky na vybavení vnitřních tepelných zařízení budov přístroji regulujícími dodávku tepelné energie konečným spotřebitelům",
+  "title_en": "",
+  "short_name": "237/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-11-07",
+  "in_force_date": "2014-11-07",
+  "url": "https://www.e-sbirka.cz/sb/2014/237",
+  "description": "Vyhláška, kterou se mění vyhláška č. 194/2007 Sb., kterou se stanoví pravidla pro vytápění a dodávku teplé vody, měrné ukazatele spotřeby tepelné energie pro vytápění a pro přípravu teplé vody a požadavky na vybavení vnitřních tepelných zařízení budov přístroji regulujícími dodávku tepelné energie konečným spotřebitelům",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 194/2007 Sb., kterou se stanoví pravidla pro vytápění a dodávku teplé vody, měrné ukazatele spotřeby tepelné energie pro vytápění a pro přípravu teplé vody a požadavky na vybavení vnitřních tepelných zařízení budov přístroji regulujícími dodávku tepelné energie konečným spotřebitelům, se mění takto:\n1. V názvu vyhlášky se slova „regulujícími dodávku tepelné energie konečným spotřebitelům“ nahrazují slovy „regulujícími a registrujícími dodávku tepelné energie“.\n2. V § 1 se na konci písmene c) tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:\n„d) rozsah vybavení vnitřních tepelných zařízení budov přístroji registrujícími dodávku tepelné energie.“.\n3. Za § 7 se vkládá nový § 7a, který včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "„§ 7a",
+      "section": "7a",
+      "title": "„§ 7a Vybavení přístroji registrujícími dodávku tepelné energie",
+      "content": "(1) V budovách se vnitřní rozvod tepla pro vytápění a vnitřní rozvod chladu vybaví v případě, že\na) vstupuje a vystupuje z bytu nebo nebytového prostoru v jednom místě, pracovním měřidlem stanoveným určeným k měření tepla nebo chladu podle zákona o metrologii v místě vstupu vnitřního rozvodu tepla pro vytápění nebo vnitřního rozvodu chladu do bytu nebo nebytového prostoru,\nb) vstupuje a vystupuje z bytu nebo nebytového prostoru v několika místech,\n1. zařízením pro rozdělování nákladů na vytápění, nebo\n2. pracovním měřidlem stanoveným určeným k měření tepla nebo chladu podle zákona o metrologii.\n(2) Zařízením pro rozdělování nákladů na vytápění je indikátor pro rozdělování nákladů na vytápění místností otopnými tělesy instalovaný na každém otopném tělese, indikátor instalovaný na odtokové trubce z otopného tělesa nebo přístroj se snímačem teploty vnitřního vzduchu ve vytápěném prostoru a teploty venkovního vzduchu ve dnech vytápění v otopném období s trvalým průběhovým záznamem rozdílů těchto teplot vzduchu za časový interval, kterým je počet dnů v otopném období. V budově se instalují vždy stejné typy indikátorů nebo přístrojů se snímačem teplot.\n(3) V případě společné přípravy teplé vody v domě se na vstupní potrubí zásobující každý byt nebo nebytový prostor teplou vodou osadí vodoměr na teplou vodu používaný k rozdělování nákladů na společnou přípravu teplé vody v domě podle vyhlášky, kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu.\n(4) Odstavce 1 až 3 se nevztahují na případy, kdy se neprovádí rozúčtování nákladů na tepelnou energii na vytápění a nákladů na společnou přípravu teplé vody v domě.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pokud byla přede dnem nabytí účinnosti této vyhlášky instalována v budově zařízení pro rozdělování nákladů na vytápění, přičemž podle § 7a odst. 1 písm. a) vyhlášky č. 194/2007 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, by měla být instalována pracovní měřidla stanovená, pak se tato měřidla instalují až po ukončení životnosti zařízení pro rozdělování nákladů na vytápění stanovené výrobcem těchto zařízení."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

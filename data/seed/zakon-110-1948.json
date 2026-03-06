@@ -1,0 +1,33 @@
+{
+  "id": "cz:110/1948",
+  "type": "statute",
+  "title": "110/1948 Sb., Vyhláška o stažení některých mincí československé měny",
+  "title_en": "",
+  "short_name": "110/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-05-29",
+  "in_force_date": "1948-05-29",
+  "url": "https://www.e-sbirka.cz/sb/1948/110",
+  "description": "Vyhláška o stažení některých mincí československé měny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Mince československé měny po 20 h ze zinku vydané do roku 1945, jakož i mince stejné hodnoty z hliníku vydané na Slovensku do roku 1945, přestanou býti zákonným platidlem dnem 31. května 1948."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Od 1. června 1948 do 30. června 1948 budou Národní banka Československá, ústředí v Praze, její oblastní ústav pro Slovensko v Bratislavě a všechny její filiální úřadovny, jakož i všechny poštovní úřady, vyměňovati mince uvedené v § 1 u svých pokladen. Po 30. červnu 1948 jest jakákoli výměna těchto mincí vyloučena."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

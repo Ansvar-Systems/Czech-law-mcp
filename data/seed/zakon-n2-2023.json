@@ -1,0 +1,21 @@
+{
+  "id": "cz:n2/2023",
+  "type": "statute",
+  "title": "n2/2023 Sb., Sdělení Ministerstva vnitra o opravě tiskové chyby ve vyhlášce č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací",
+  "title_en": "",
+  "short_name": "n2/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-03-31",
+  "in_force_date": "2023-03-31",
+  "url": "https://www.e-sbirka.cz/sb/2023/n2",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskové chyby ve vyhlášce č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V § 1 text „https://monitoring-trhu.ctu.cz“ správně zní: „https://monitoringtrhu.ctu.cz“."
+    }
+  ],
+  "definitions": []
+}

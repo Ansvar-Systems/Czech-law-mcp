@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:75/1953",
+  "type": "statute",
+  "title": "75/1953 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro výřezy.",
+  "title_en": "",
+  "short_name": "75/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-02-21",
+  "in_force_date": "1961-11-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/75",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro výřezy.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Technickými státními normami od 1. dubna 1953 jsou normy:\nČSN 48 0050Základní ustanovení o sortimentech surového dříví\nČSN 48 0120Pilařské jehličnaté výřezy\nČSN 48 0320Pilařské výřezy z listnatých dřevin tvrdých\nČSN 48 0321Pilařské výřezy z listnatých dřevin měkkých\nČSN 48 0060Výřezy pražcové\nČSN 48 0062Výřezy dyhárenské\nČSN 48 0115Výřezy resonanční.\nNormy ČSN 48 0320 a ČSN 48 0321 platí pro rozměry a jakosti pilařských výřezů z listnatých dřevin tvrdých i měkkých."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma ČSN 48 0050 obsahuje základní ustanovení pro všechny druhy výřezů. Mimo jiné jedná o rozdělení výřezů, o technických požadavcích, o měření, přejímání a dodávání, dopravě a skladování výřezů.\nOstatní normy mimo jiné jednají o rozměrech jednotlivých druhů výřezů, obsahují příklady pro jejich objednávky a vytyčují zvláštní ustanovení, platící pro ten který druh výřezů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Po přechodnou dobu do 30. září 1953 jsou normy uvedené v § 1 normami směrnými."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:175/2012",
+  "type": "statute",
+  "title": "175/2012 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "175/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-05-30",
+  "in_force_date": "2013-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/175",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb. a nařízení vlády č. 156/2011 Sb., se mění takto:\n1. V úvodní větě se slova „k provedení § 24 odst. 4, § 25 odst. 3 a § 37 odst. 2“ nahrazují slovy „k provedení § 24 odst. 5 a § 37 odst. 2“.\n2. V § 1 se doplňuje odstavec 3, který zní:\n„(3) Výše poplatku za využívání rádiových kmitočtů pro experimentální účely činí 10 % výše poplatku za využívání rádiových kmitočtů uvedené v příloze k tomuto nařízení.“.\n3. V příloze položce 1 část B zní:\n„B. PEVNÁ SLUŽBA\nKč ročně dle výpočtu\nVýpočet:\nC = S3 x K7 x K8 x K9 x K10 x K15\nkde je\nC\nPoplatek za využívání jednoho rádiového kmitočtu\nS3 Sazba za jeden rádiový kmitočet podle druhu radioreléového spoje\na) Radioreléový spoj bod-bod10 000 Kč\nb) Radioreléový spoj bod-multibod (1 řídící stanice)25 000 Kč\nK7 Koeficient zabrané šířky kmitočtového pásma do 31. prosince 2013:\nK7 = 0,75při zabrané šířce pásma do 5 MHz\nK7 = 1,5při zabrané šířce pásma od 5 do 10 MHz\nK7 = 3při zabrané šířce pásma od 10 do 20 MHz\nK7 = 4,5při zabrané šířce pásma od 20 do 30 MHz\nK7 = 6při zabrané šířce pásma od 30 do 60 MHz\nK7 = 10při zabrané šířce pásma nad 60 MHz\nK7 Koeficient zabrané šířky kmitočtového pásma od 1. ledna 2014:\nK7 = 0,5při zabrané šířce pásma do 5 MHz\nK7 = 1při zabrané šířce pásma od 5 do 10 MHz\nK7 = 2při zabrané šířce pásma od 10 do 20 MHz\nK7 = 3při zabrané šířce pásma od 20 do 30 MHz\nK7 = 5při zabrané šířce pásma od 30 do 60 MHz\nK7 = 8při zabrané šířce pásma nad 60 MHz\nK8 Koeficient kmitočtového pásma:\nK8 = 0,10pro f =< 1 GHz\nK8 = 1,00pro 1 GHz < f = < 3 GHz\nK8 = 0,80pro 3 GHz < f = < 16 GHz\nK8 = 0,60pro 16 GHz < f = < 24 GHz\nK8 = 0,50pro 24 GHz < f = < 35 GHz\nK8 = 0,40pro 35 GHz < f = < 47 GHz\nK8 = 0,25pro f > 47 GHz\nK9 Koeficient výstupního výkonu Q použitého zařízení:\nK9 = 0,25Q = < 0 dBm\nK9 = 0,400 dBm < Q = < 10 dBm\nK9 = 0,6010 dBm < Q = < 20 dBm\nK9 = 0,8020 dBm < Q = < 30 dBm\nK9 = 1,0030 dBm < Q = < 40 dBm\nK9 = 1,50Q > 40 dBm\nK10 Koeficient řízení výstupního výkonu použitého rádiového zařízení:\nK10 = 0,80systém řízení výstupního výkonu použit\nK10 = 1,00systém řízení výstupního výkonu nepoužit\nK15 Koeficient křížové polarizace\nK15 = 1,25\nPoznámka:\nPro systémy MWS (multimediální bezdrátové systémy) typu uspořádání bod-multibod v případě obousměrného rádiového provozu tohoto systému se poplatky vyměřují v kategorii pevná služba i v případě, že část poskytované služby má charakter rozhlasové služby. Poplatky za využívání kmitočtů rádiovými zařízeními pevné služby s kmitočty do 1 GHz včetně (s výjimkou rádiových směrových pevných spojů bod-bod v kmitočtovém pásmu 405 – 425 MHz) se vyměří výpočtem pro pozemní pohyblivou službu.“.\n4. V příloze položce 1 se část F zrušuje.\n5. V příloze položce 2 část A.2. zní:\n„A.2. Poplatek za zkrácené telefonní číslo\na) třímístné 100 000\nb) čtyřmístné 80 000\nc) pětimístné 40 000\nd) šestimístné 25 000\ne) 116 000 až 116 999 1 000“.\n6. V příloze položce 2 část F zní:\n„F. Poplatek za přístupové kódy k neveřejným komunikačním sítím\nF.1. Poplatek za přístupový kód k neveřejným komunikačním sítím\na) třímístný 150 000\nb) čtyřmístný 15 000\nc) pětimístný 1 500\nF.2. Poplatek za přístupový kód k neveřejným virtuálním komunikačním sítím\na) třímístný 150 000\nb) čtyřmístný 15 000\nc) pětimístný 1 500“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. června 2012 s výjimkou ustanovení čl. I bodů 3, 5 a 6, které nabývají účinnosti dnem 1. ledna 2013."
+    }
+  ],
+  "definitions": []
+}

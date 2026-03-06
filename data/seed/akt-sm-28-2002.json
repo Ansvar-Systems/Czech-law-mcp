@@ -1,0 +1,44 @@
+{
+  "id": "cz:sm:28/2002",
+  "type": "statute",
+  "title": "28/2002 Sb. m. s., Sdělení Ministerstva zahraničních věcí o sjednání Dodatkového protokolu č. 9 ke Středoevropské dohodě o volném obchodu",
+  "title_en": "",
+  "short_name": "28/2002 Sb. m. s.",
+  "status": "in_force",
+  "issued_date": "2002-03-22",
+  "in_force_date": "2002-03-22",
+  "url": "https://www.e-sbirka.cz/sm/2002/28",
+  "description": "Sdělení Ministerstva zahraničních věcí o sjednání Dodatkového protokolu č. 9 ke Středoevropské dohodě o volném obchodu",
+  "provisions": [
+    {
+      "provision_ref": "Článek 1",
+      "section": "1",
+      "title": "Článek 1",
+      "content": "Ustanovení v příloze k tomuto Dodatkovému protokolu nahrazují příslušná ustanovení Protokolu 7 Středoevropské dohody o volném obchodu."
+    },
+    {
+      "provision_ref": "Článek 2",
+      "section": "2",
+      "title": "Článek 2",
+      "content": "Tento Dodatkový protokol tvoří nedílnou součást Středoevropské dohody o volném obchodu."
+    },
+    {
+      "provision_ref": "Článek 3",
+      "section": "3",
+      "title": "Článek 3",
+      "content": "1. Tento Dodatkový protokol vstoupí v platnost třicátého dne od data, kdy depozitář obdrží poslední notifikaci od Stran Středoevropské dohody o volném obchodu o ukončení postupů nezbytných k tomuto účelu.\n2. Depozitář bude notifikovat všem Stranám ukončení postupů nezbytných pro vstup tohoto Dodatkového protokolu v platnost.\n3. Jestliže tento Dodatkový protokol nevstoupí v platnost do 1. ledna 2001, bude předběžně prováděn od tohoto data. Avšak, jestliže některá Strana nebude s to jej provádět od 1. ledna 2001, tak tato Strana písemně oznámí tuto skutečnost ostatním Stranám co nejdříve, ale ne později než 21. prosince 2000. Pokud se týká této Strany, pak tento Dodatkový protokol se bude provádět desátý den od data, kdy obdržely ostatní Strany písemné oznámení o tom, že tato Strana ukončila vnitrostátní postupy nezbytné pro provádění tohoto Dodatkového protokolu.\nPŘÍLOHA\nK DODATKOVÉMU PROTOKOLU Č. 9\nProtokol 7 k Dohodě o středoevropské zóně volného obchodu týkající se definice pojmu „původní výrobky“ a metod administrativní spolupráce se tímto mění následovně:\n1. Písmeno (i) článku 1 se nahrazuje tímto:\n„(i) „přidanou hodnotou“ se rozumí cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Smluvní straně.“.\n2. Článek 7 se nahrazuje tímto:"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Smluvní straně",
+      "source_provision": "Článek 3"
+    },
+    {
+      "term": "i) „přidanou hodnotou",
+      "definition": "cena ze závodu snížená o celní hodnotu všech použitých materiálů původních v ostatních zemích uvedených v článku 4, nebo, není-li celní hodnota známa nebo nemůže být zjištěna, o první cenu prokazatelně zaplacenou za tyto materiály ve Smluvní straně",
+      "source_provision": "Článek 3"
+    }
+  ]
+}

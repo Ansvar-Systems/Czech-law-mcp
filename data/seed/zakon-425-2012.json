@@ -1,0 +1,75 @@
+{
+  "id": "cz:425/2012",
+  "type": "statute",
+  "title": "425/2012 Sb., Vyhláška o předkládání informací penzijní společností České národní bance",
+  "title_en": "",
+  "short_name": "425/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-12-05",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/425",
+  "description": "Vyhláška o předkládání informací penzijní společností České národní bance",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví rozsah, strukturu, formu, periodicitu, lhůty a způsob zasílání informací penzijní společností České národní bance."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) obhospodařovaným fondem účastnický fond a transformovaný fond obhospodařovaný penzijní společností,\nb) datovým souborem seskupení údajů s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, zpracovávány a předávány jako celek."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přehled předkládaných výkazů",
+      "content": "(1) Penzijní společnost sestavuje\na) k poslednímu dni kalendářního měsíce a předkládá do 20 dnů po skončení kalendářního měsíce, k němuž se vztahují, tyto výkazy:\n1. PSP (ČNB) 10-12 „Měsíční rozvaha penzijní společnosti/fondu“,\n2. PSP (ČNB) 20-12 „Měsíční výkaz zisku a ztráty penzijní společnosti/fondu“ a\n3. PSP (ČNB) 30-12 „Hlášení o penzijní jednotce“,\nb) k poslednímu dni kalendářního čtvrtletí a předkládá do 30 dnů po skončení kalendářního čtvrtletí, k němuž se vztahují, tyto výkazy:\n1. PSP (ČNB) 50-04 „Hlášení o organizační struktuře penzijní společnosti“,\n2. PSP (ČNB) 31-04 „Hlášení o přijatých a vyplacených prostředcích penzijní společností “,\n3. PSP (ČNB) 32-04 „Hlášení o kapitálu a kapitálových požadavcích penzijní společnosti“ a\n4. PSP (ČNB) 34-12 „Hlášení o skladbě portfolia penzijní společnosti/fondu“,\nc) k poslednímu dni kalendářního roku a předkládá do 30 dnů po skončení kalendářního roku, k němuž se vztahuje, výkaz PSP (ČNB) 40-01 „Doplňující informace pro vyhodnocování rizikovosti penzijní společnosti“.\n(2) Penzijní společnost dále sestavuje za každý obhospodařovaný fond jednotlivě k poslednímu dni kalendářního měsíce a předkládá do 20 dnů po skončení kalendářního měsíce, k němuž se vztahují, tyto výkazy:\na) PSP (ČNB) 10-12 „Měsíční rozvaha penzijní společnosti/fondu“,\nb) PSP (ČNB) 20-12 „Měsíční výkaz zisku a ztráty penzijní společnosti/fondu“ a\nc) PSP (ČNB) 34-12 „Hlášení o skladbě portfolia penzijní společnosti/fondu“."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Společná ustanovení pro sestavování výkazů",
+      "content": "(1) Obsah výkazů podle § 3 je uveden v příloze k této vyhlášce. Výkazy se sestavují podle stavu ke konci období, k němuž se vztahují, pokud není v příloze uvedeno jinak.\n(2) Penzijní společnost postupuje při sestavování předkládaných výkazů s přihlédnutím k jejich povaze v souladu s právními předpisy upravujícími vedení účetnictví a sestavování účetní závěrky1) nebo s mezinárodními účetními standardy upravenými právem Evropské unie2).\n(3) Penzijní společnost přepočítává údaje vyjádřené v cizí měně, pokud je to požadováno, na údaje vyjádřené v české měně kurzem devizového trhu vyhlášeným Českou národní bankou a platným ke dni sestavení výkazu. Měny, které nejsou obsaženy v kurzech devizového trhu vyhlášených Českou národní bankou, se přepočítávají oficiálním středním kurzem centrální banky příslušné země, popřípadě aktuálním kurzem mezibankovního trhu k americkému dolaru nebo euru.\n(4) Penzijní společnost oceňuje aktiva a pasiva podle stavu ke dni sestavení výkazu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Další informace předkládané České národní bance",
+      "content": "(1) Penzijní společnost předkládá České národní bance výroční zprávy podle právního předpisu upravujícího účetnictví za sebe a jednotlivé obhospodařované fondy v elektronické podobě. Výroční zpráva v elektronické podobě podepsaná uznávaným elektronickým podpisem je předkládána na elektronickou adresu podatelny České národní banky nebo prostřednictvím veřejné datové sítě do datové schránky5).\n(2) Pokud velikost datové zprávy neumožňuje zasílání elektronickou poštou ani prostřednictvím datové schránky, zašle penzijní společnost výroční zprávu podle odstavce 1 v elektronické podobě na technickém nosiči dat na adresu České národní banky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob a forma předkládání výkazů",
+      "content": "(1) Penzijní společnost předkládá České národní bance výkazy podle § 3 v elektronické podobě jako datové zprávy ve formátu a struktuře datových souborů.\n(2) Datové zprávy podle odstavce 1 jsou předávány prostředky umožňujícími dálkový přístup prostřednictvím internetového aplikačního nebo uživatelského rozhraní sběrného systému České národní banky.\n(3) Datovou zprávu podle odstavce 1 podepíše penzijní společnost uznávaným elektronickým podpisem kontaktní osoby.\n(4) Penzijní společnost sdělí České národní bance jméno, adresu pracoviště, telefonní číslo a adresu elektronické pošty kontaktní osoby. O změnách těchto údajů informuje penzijní společnost Českou národní banku bez zbytečného odkladu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Opravy a změny ve výkazech",
+      "content": "(1) Je-li po předložení výkazů České národní bance zjištěna chyba nebo provedena změna v údajích výkazu, předloží penzijní společnost výkaz s upravenými údaji České národní bance opětovně bez zbytečného odkladu. Pokud oprava ovlivní údaje i v jiných výkazech nebo výkazy k dalším časovým obdobím, opraví penzijní společnost též všechny tyto navazující výkazy.\n(2) Pokud dojde ve výkazu sestaveném k poslednímu dni kalendářního roku ke změně vykazovaného údaje na základě ověření účetní závěrky auditorem, penzijní společnost předloží výkaz opětovně s opravenými údaji nejpozději do 20 dnů po auditu účetní závěrky. Pokud oprava ovlivní údaje v jiném výkazu nebo výkazech k dalším časovým obdobím, opraví penzijní společnost též všechny tyto navazující výkazy.\n(3) Opravené výkazy penzijní společnost předloží ve lhůtě podle odstavce 1 nebo 2 České národní bance způsobem stanoveným v § 6 společně s informací o obsahu a důvodu opravy."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Přechodná ustanovení",
+      "content": "(1) Penzijní společnost za sebe a obhospodařovaný transformovaný fond sestaví ke dni účinnosti této vyhlášky a předloží do 20. dne od nabytí účinnosti této vyhlášky výkaz PSP (ČNB) 10-12 „Měsíční rozvaha penzijní společnosti /fondu“.\n(2) Pro povinnost sestavit a předložit výkazy nebo informace, které se vztahují k období do 31. prosince 2012, platí vyhláška č. 302/2010 Sb."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Zrušovací ustanovení",
+      "content": "Vyhláška č. 302/2010 Sb., o předkládání výkazů a dalších informací penzijními fondy České národní bance pro účely dohledu se zrušuje."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.\nPříloha k vyhlášce č. 425/2012 Sb.\nZákladní charakteristika a obsahová náplň výkazů předkládaných penzijními společnostmi České národní bance\nPSP (ČNB) 10-12 „Měsíční rozvaha penzijní společnosti/fondu“\nVýkaz obsahuje základní účetní informace o struktuře aktiv, závazků a vlastního kapitálu. Základní struktura aktiv a pasiv je jednotná pro penzijní společnost i jí obhospodařované fondy (účastnické a transformovaný). Penzijní společnost za sebe uvádí i vybrané ukazatele pohledávek a závazků vůči obhospodařovaným fondům a státnímu rozpočtu.\nPSP (ČNB) 20-12 „Měsíční výkaz zisku a ztráty penzijní společnosti/fondu“\nVýkaz obsahuje základní účetní informace o výnosech, nákladech a výsledcích hospodaření. Detailnější struktura výnosů a nákladů vztahujících se k poplatkům a provizím a ostatním správním nákladům navazuje na jejich strukturu v zákoně upravujícím doplňkové penzijní spoření. Údaje jsou vykazovány od počátku roku do konce sledovaného období. Výkaz zisku a ztráty je jednotný pro penzijní společnost i jí obhospodařované fondy (účastnické a transformovaný).\nPSP (ČNB) 30-12 „Hlášení o penzijní jednotce“\nVýkaz obsahuje základní informace o penzijní jednotce a fondovém vlastním kapitálu jednotlivě za všechny obhospodařované účastnické fondy. Uvádí se celková bilance počtu penzijních jednotek, hodnota připsaných a odepsaných penzijních jednotek, aktuální hodnota penzijní jednotky a její nejvyšší hodnota ve sledovaném období. Údaje o průměrné roční výši penzijní jednotky a průměrné roční výši vlastního fondového kapitálu se uvádí pouze ve výkaze sestavovaném k 31. prosinci.\nPSP (ČNB) 34-12 „Hlášení o skladbě portfolia penzijní společnosti/fondu“\nVýkaz obsahuje základní informace o cenných papírech, vkladech u bank a derivátech v portfoliu penzijní společnosti a fondu obhospodařovaného penzijní společností. Uvádějí se základní identifikační a klasifikační údaje jednotlivých investičních nástrojů, vazby na zákonné investiční limity vztahující se k obhospodařovanému fondu a kvantitativní údaje vztahující se k danému aktivu, tj. zejména jmenovitá hodnota, pořizovací cena, čistá pořizovací cena a účetní netto hodnota, otevřená pozice u derivátů a hodnota podílu příslušného nástroje na majetku penzijní společnosti/fondu.\nPSP (ČNB) 31-04 „Hlášení o přijatých a vyplacených prostředcích penzijní společností“\nVýkaz obsahuje základní informace o přijatých a vyplacených prostředcích souvisejících s doplňkovým penzijním spořením včetně penzijního připojištění prostřednictvím transformovaného fondu, počtech vyplacených prostředků podle struktury dávek a bilanci účastníků v jednotlivých typech fondů obhospodařovaných penzijní společností. Údaje o přijatých a vyplacených prostředcích a počtech vyplacených případů jsou vykazovány od počátku roku do konce sledovaného období, údaje o počtu poživatelů penzí jsou vykazovány podle stavu k datu, ke kterému je výkaz sestavován.\nPSP (ČNB) 32-04 „Hlášení o kapitálu a kapitálových požadavcích penzijní společnosti“\nVýkaz obsahuje informace potřebné pro vyčíslení kapitálových požadavků v souladu s § 38 zákona č. 427/2011 Sb. Uvádí se objem kapitálu, jednotlivých kapitálových požadavků, přebytku nebo nedostatku kapitálu a vzájemný poměr kapitálu a kapitálových požadavků. Dále se uvádějí za transformovaný fond detailní informace o členění expozic podle rizikových vah a členění derivátů podle typu a splatnosti.\nPSP (ČNB) 50-04 „Hlášení o organizační struktuře penzijní společnosti“\nVýkaz obsahuje základní identifikační a klasifikační údaje o penzijní společnosti, o členech statutárního a dozorčího orgánu, o řídících a kontaktních osobách pro vymezené oblasti vykazujícího subjektu. Dále jsou zahrnuty údaje o základním kapitálu a počtu zaměstnanců. Výkaz rovněž obsahuje základní identifikační a klasifikační údaje o akcionářích s podílem na základním kapitálu vyšším než 5 % včetně strukturovaných údajů o velikosti tohoto podílu.\nPSP (ČNB) 40-01 „Doplňující informace pro vyhodnocování rizikovosti penzijní společnosti“\nVýkaz obsahuje doplňkové informace o rizikovém profilu penzijní společnosti a jí obhospodařovaných fondů, informace o vyplácené nebo plánované dividendě a o prostředcích přijatých a vyplacených penzijní společností v rozdělení podle roku narození účastníků penzijního připojištění a doplňkového penzijního spoření s intervaly po 5 letech.\n1) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\nVyhláška č. 501/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou bankami a jinými finančními institucemi, ve znění pozdějších předpisů.\n2) Článek 2 nařízení Evropského parlamentu a Rady (ES) č. 1606/2002 ze dne 19. července 2002 o uplatňování mezinárodních účetních standardů.\n5) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

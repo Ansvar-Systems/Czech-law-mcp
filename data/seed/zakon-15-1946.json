@@ -1,0 +1,39 @@
+{
+  "id": "cz:15/1946",
+  "type": "statute",
+  "title": "15/1946 Sb., Zákon o zvýšení státního příspěvku vyživovacího",
+  "title_en": "",
+  "short_name": "15/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-02-13",
+  "in_force_date": "1945-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1946/15",
+  "description": "Zákon o zvýšení státního příspěvku vyživovacího",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Státní příspěvek vyživovací, jehož výše byla naposledy stanovena v zemích České a Moravskoslezské vládním nařízením ze dne 10. července 1945, č. 29 Sb., o zvýšení státního příspěvku vyživovacího, a na Slovensku ustanovením § 119 zákona ze dne 10. června 1943, č. 80 Sl. z., o úpravě některých právních poměrů souvisících s výkonem vojenské a jiné obdobné služby, se nově upravuje a činí pro osobu a den:\n1. pro osobu, která v domácnosti zastupuje povolaného k vojenské službě:\na) v Praze, v Brně, v Bratislavě a v Moravské Ostravě 34 Kčs,\nb) v místech majících podle posledního sčítání lidu více než 25.000 obyvatelů 30 Kčs,\nc) ve všech ostatních místech 26 Kčs.\n2. pro ostatní oprávněné:\na) v Praze, v Brně, v Bratislavě a v Moravské Ostravě 19 Kčs,\nb) v místech majících podle posledního sčítání lidu více než 25.000 obyvatelů 16 Kčs,\nc) ve všech ostatních místech 13 Kčs.\n(2) V mimořádných případech, hodných zcela zvláštního zřetele, zvyšují se vyživovací příspěvky, uvedené v odstavci 1, až o dalších 50 %. Ministerstvo vnitra vydá po dohodě s ministerstvem národní obrany a ministerstvem financí podrobné a závazné směrnice, kterými se upravují podmínky pro přiznání tohoto zvýšení.\n(3) Úhrnné částky státního příspěvku vyživovacího, jež přísluší oprávněným členům rodiny povolaného k vojenské službě, nesmějí přesahovati tyto denní částky:\na) v Praze, v Brně, v Bratislavě a v Moravské Ostravě 100 Kčs,\nb) v místech majících podle posledního sčítání lidu více než 25.000 obyvatelů 85 Kčs,\nc) ve všech ostatních místech 72 Kčs.\n(4) Za osobu, která v domácnosti zastupuje povolaného, se považuje manželka, žije-li s povolaným ve společné domácnosti, jinak - a to za téhož předpokladu - nejstarší z osob majících nárok na vyživovací příspěvek."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Výši státního příspěvku vyživovacího (§ 1, odst. 1 a 2) a výši úhrnných částek podle § 1, odst. 3 může vláda měniti nařízením."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento zákon nabývá účinnosti dnem 1. prosince 1945; provede jej ministr vnitra v dohodě s ministry národní obrany a financí."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "osobu, která v domácnosti zastupuje povolaného",
+      "definition": "manželka, žije-li s povolaným ve společné domácnosti, jinak - a to za téhož předpokladu - nejstarší z osob majících nárok na vyživovací příspěvek",
+      "source_provision": "§ 1."
+    }
+  ]
+}

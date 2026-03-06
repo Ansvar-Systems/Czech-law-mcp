@@ -1,0 +1,27 @@
+{
+  "id": "cz:404/1990",
+  "type": "statute",
+  "title": "404/1990 Sb., Zákon o státních vyznamenáních České a Slovenské Federativní Republiky",
+  "title_en": "",
+  "short_name": "404/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-10-10",
+  "in_force_date": "1994-07-29",
+  "url": "https://www.e-sbirka.cz/sb/1990/404",
+  "description": "Zákon o státních vyznamenáních České a Slovenské Federativní Republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Ode dne účinnosti tohoto zákona nemohou být přiznávány, vypláceny nebo poskytovány žádné materiální požitky nebo jiné výhody související s udělením nebo propůjčením vyznamenání, čestných titulů nebo jiných obdobných ocenění."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "content": "Ode dne účinnosti tohoto zákona nelze udělovat nebo propůjčovat řády, medaile nebo jiná obdobná ocenění podle dosavadních právních předpisů; tím není dotčeno právo nosit insignie těchto řádů, medailí nebo jiných obdobných ocenění."
+    }
+  ],
+  "definitions": []
+}

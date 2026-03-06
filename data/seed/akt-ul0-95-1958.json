@@ -1,0 +1,183 @@
+{
+  "id": "cz:ul0:95/1958",
+  "type": "statute",
+  "title": "95/1958 Ú. l., Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalisaci, vyhlašují některé československé státní normy,",
+  "title_en": "",
+  "short_name": "95/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-06-30",
+  "in_force_date": "1961-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/95",
+  "description": "Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalisaci, vyhlašují některé československé státní normy,",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "* Normy\nČSN 01 0502 „Dopisní list”\nČSN 01 0510 „Dopisní půllist”\nnahrazují ČSN 2100 (část I) z března 1948."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "* Normy\nČSN 01 3050 „Provádění výkresů sestavení”\nČSN 01 3051 „Provádění výkresů součástí (detailních)”\nČSN 01 3060 „Změny na výkresech a kusovnících (seznamech součástí)”\nplatí pro kreslení a úpravy výkresů určených pro výrobu strojů a strojních zařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Norma ČSN 13 1070 „Úprava konců bezešvých ocelových trubek a hrdel přírub, armatur a jiných součástí potrubí pro svařování” platí pro konstrukční určení, pro kontrolu a úpravu rozměrů a tvaru návarových ploch konců bezešvých ocelových trubek a hrdel přivařovacích přírub, armatur a jiných součástí potrubí.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Norma ČSN 17 7011 „Názvosloví a rozdělení pákových vah” stanoví definice vlastností vah a určuje správné a výstižné názvy základních charakteristických skupin.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Normy\nČSN 20 0312 „Přesnost velkých svislých soustruhů (dvoustojanových) Oběžný průměr 5000 až 12 500 mm”\nČSN 20 0323 „Přesnost velkých vodorovných vyvrtávaček s příčným stolem. Průměr vřetena 200 až 315 mm\"\nČSN 20 0324 „Přesnost velkých vodorovných vyvrtávaček deskových. Průměr vřetena 200 až 315 mm”\nzajišťují jednotnou kontrolu přesnosti obráběcích strojů a umožňuji snažší porovnání výsledků měření na více strojích a podobně.\nTyto normy jsou doporučené a jsou vydány jednotlivě."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Norma ČSN 30 2404 „Karburátory pro motocykly. Technické dodací předpisy” platí pro šoupátkové karburátory používané u motocyklových, skútrových, popřípadě i jiných benzinových karburačních motorů.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Norma ČSN 35 4212 „Úsečníky vn” nahrazuje ČSN ESČ 115 z roku 1950."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Norma ČSN 38 2153 „Kladení silových kabelů v tvárnicích” stanoví směrnice pro kladení silových kabelových tratí v tvárnicích.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Norma ČSN 46 2415 „Stonkový len nerosený (nemáčený)” platí od 1. července 1958 do 30. června 1959 a nahrazuje normu téhož čísla z června 1956, uveřejněnou ve vyhlášce č. 136/1956 Ú. l."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Norma ČSN 46 2420 „Stonkový len rosený (máčený)” platí od 1. července 1958 do 30. června 1959 a nahrazuje normu téhož čísla ze srpna 1952, uveřejněnou ve vyhlášce č. 242/1952 Ú. l."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Norma ČSN 48 2720 „Ochrana lesa proti bourovci borovému” určuje způsob a termíny kontroly výskytu bourovce borového a způsoby ochrany proti němu ve větších borových lesích."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Norma ČSN 48 2721 „Ochrana lesa proti sosnokazu obyčejnému a proti tmavoskvrnáči borovému” určuje způsob a termíny kontroly výskytu sosnokaza obyčejného a tmavoskvrnáče borového a způsob ochrany proti nim."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "Norma ČSN 65 4010 „Tavidla pro automatické obloukové svařování. Chemický rozbor” platí pro chemické rozbory tuzemských tavidel pro automatické svařování ocelí s nízkým obsahem uhlíku a ocelí nízko legovaných."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "Norma ČSN 65 8010 „Dehet koksárenský surový” nahrazuje normu téhož čísla z roku 1953, uveřejněnou ve vyhlášce č. 123/1953 Ú. l."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "Norma ČSN 68 6074 „α-Benzyldioxim (Niklon)“ jedná o názvosloví, technických požadavcích, zkoušení, přejímání, balení, dopravě a skladování."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "Norma ČSN 68 7137 „Amonná sůl fenyl-α-nitrosohydroxylaminu (Kupferron)” jedná o názvosloví, technických požadavcích, zkoušení, přejímání, balení, dopravě a skladování."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "Norma ČSN 72 3101 „Železobetonové prefabrikáty“ nahrazuje normu téhož čísla z roku 1953, uveřejněnou ve vyhlášce č. 123/1953 Ú. l."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "content": "Norma ČSN 79 2020 „Třídění spodkových usní” stanoví zejména správné ukazatele jakosti pro třídění spodkových usní.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "content": "Norma ČSN 79 3854 „Stálost úpravy oděvnických a čalounických usní proti rozpouštědlům a světlu” platí pro stanovení stálosti vybarvení a apretury proti benzínu a minerálním olejům u usní oděvnických a čalounických."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "content": "Norma ČSN 70 9271 „Skleněná kordová příze” platí pro přízi určenou pro elektrotechnickou isolaci a pro různé výrobky."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "content": "Normy\nČSN 80 2542 „Šicí hedvábí přírodní pro zvláštní účely”\nČSN 80 3674 „Hedvábné stuhy pro zvláštní účely”\nČSN 80 3768 „Pryžová šňůra pro zvláštní účely”\nČSN 80 4641 „Technická tkanina z přírodního hedvábí”\nČSN 80 4642 „Technická tkanina z přírodního hedvábí — KB 227”\nČSN 80 8774 „Pololněný popruh PL 43 pro zvláštní účely”\nvytyčují zejména technické požadavky, jednají o názvosloví, zkoušení, přejímání, adjustaci, balení a skladování předmětů, jichž se týkají.\nTyto normy jsou vydány jednotlivě."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "content": "Normy\nČSN 80 0351 „Zkoušení tepelně isolační vlastnosti textilních výrobků”\nČSN 80 3605 „Stuhy”\nČSN 80 4512 „Lněnovlněná vložka CWC”\nČSN 80 4566 „Kordové tkaniny bavlněné”\nČSN 80 4603 „Lněné a pololněné plachtoviny”\nČSN 80 5100 „Pletené oblečení pro kojence a batolata”\njednají o názvosloví, technických požadavcích, zkoušení, přejímání, balení, dopravě a skladování.\nTyto normy jsou vydány jednotlivě."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "content": "* Normy\nČSN 80 4103 „Zkoušení obvazového materiálu”\nČSN 80 4119 „Vata buničitá”\nČSN 80 4130 „Vložky menstruační”\nČSN 80 4136 „Mul obvazový režný. Kaliko obvazové režné”\nČSN 80 4138 „Mul obvazový režný škrobený”\nČSN 80 4139 „Kaliko obvazové režné škrobené”\nČSN 80 4141 „Gáza hydrofilní”\nČSN 80 4142 „Kaliko obvazové čištěné”\nČSN 80 4144 „Gáza hydrofilní škrobená”\nČSN 80 4145 „Kaliko obvazové čištěné, škrobené”\nČSN 80 4156 „Obinadla mulová režná řezaná”\nČSN 80 4157 „Obinadla hydrofilní řezaná”\nČSN 80 4158 „Obinadla hydrofilní škrobená řezaná”\nČSN 80 4164 „Šátky trojcípé”\nČSN 80 4177 „Obinadla pružná”\nplatí pro zkoušení fysikálních a chemických vlastností obvazového materiálu."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "content": "Norma ČSN 88 0127 „České polygrafické názvosloví, knihařství” platí pro české polygrafické názvy a jejich definice používané v polygrafické výrobě i obchodním styku, v technických podkladech, odborné literatuře a podobně.\nTato norma je doporučená."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "content": "Norma ČSN 30 0930 „Osobní automobil Škoda 440 P. Technické dodací předpisy” obsahuje ustanovení o užití a obsluze, určuje technické požadavky a provedení a stanoví předpisy pro ochranu a udržování, jakož i označování automobilu."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "content": "Norma ČSN 35 3690 „Elektromagnetické třídicí bubny” nahrazuje normu téhož čísla z ledna 1953, uveřejněnou ve vyhlášce č. 94/1953 Ú. l."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "content": "* Normy\nČSN 79 1430 „Surové kožky z tchořů. Třídění”\nČSN 79 1431 „Surové kožky z kun lesních a skalních. Třídění”\nČSN 79 1432 „Surové kožky z lasiček a hranostajů. Třídění”\nČSN 79 1450 „Surové kožky z lišek obecných. Třídění”\nČSN 79 1459 „Surové kožky z vlků. Třídění”\nČSN 79 1467 „Surové kožky z domácích koček. Třídění”\nČSN 79 1468 „Surové kožky z divokých koček. Třídění”\nČSN 79 1470 „Surové kožky z ondater (bisamů). Třídění”\nČSN 79 1475 „Surové kožky kožišnické z drobných kožišinových zvířat. Třídění”\nČSN 79 1476 „Surové kožky z veverek. Třídění\"\nplatí pro třídění surových sušených kožek z tchořů tmavých i světlých, z lasiček, lišek, vlků, koček, ondater a podobně, ulovených na území Československé republiky. Toto třídění platí pro přejímání od výkupních složek průmyslem i při výkupu surových kožek."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "content": "Československé státní normy uvedené v §§ 1 až 25 nabývají účinnosti dnem 1. července 1958 a normy uvedené v §§ 26 až 28 nabývají účinnosti dnem 1. ledna 1959.**)\n* Tyto normy tvoří sadu.\n** Československé státní normy vydává v plném znění Vydavatelství Státního úřadu pro vynálezy a normalisaci v Praze 3, Václavské nám. č. 19. Distribuci pro Slovensko obstarává Slovenská kniha, národní podnik, Bratislava, Fučíkova ul. č. 20."
+    }
+  ],
+  "definitions": []
+}

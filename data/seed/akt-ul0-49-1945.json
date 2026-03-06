@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:49/1945",
+  "type": "statute",
+  "title": "49/1945 Ú. l., Vyhláška č. 7/1945 Svazu pro mléko a tuky o výdeji másla samozásobitelům.",
+  "title_en": "",
+  "short_name": "49/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-25",
+  "in_force_date": "1945-06-01",
+  "url": "https://www.e-sbirka.cz/ul0/1945/49",
+  "description": "Vyhláška č. 7/1945 Svazu pro mléko a tuky o výdeji másla samozásobitelům.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Držitelé krav, kteří dodávají do mlékárny mléko, mají nárok na samozásobitelské dávky másla z mlékárny, jestliže:\na) bylo dodáno za každou osobu samozásobitelské domácnosti měsíčně aspoň 10 l mléka a\nb) samozásobitel byl k odběru másla řádně přihlášen (§ 4).\n(2) Dávka másla pro samozásobitele jest 70 g týdně (300 g měsíčně) na osobu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Mlékárny jsou povinny vydati máslo samozásobitelům za jednotlivý kalendářní měsíc podle dodávky v tomto měsíci dosažené (§ 1, odst. 1, písm. a).\n(2) Mlékárny vypočtou celkový odběrní nárok jednotlivých dodavatelů za kalendářní měsíc. Mlékárny mohou vydávati samozásobitelům máslo v množstvích zaokrouhlených, nejvýše na ¼ kg. V takových případech musí vésti rozdíl mezi odběrním nárokem a skutečně vydaným množstvím v evidenci, a jakmile je to technicky možné, ihned jej vyrovnati.\n(3) Máslo za určitý kalendářní měsíc je nutno vydati během měsíce bezprostředně následujícího, a to nejpozději do konce tohoto měsíce.\n(4) Měsíční dávky másla musí býti vydávány ve dvou přibližně stejných částech, pokud možno pravidelně. Samozásobitelům, kteří o to písemně požádají, jsou mlékárny povinny vydávati máslo podle jejich přání, nejméně však jednou, nejvýše čtyřikrát měsíčně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Mlékárny jsou povinny vydati samozásobiteli na jeho písemnou žádost v běžném měsíci zálohu, přiměřenou jeho odběrnímu nároku podle počtu osob a množství dodaného mléka."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Zemědělská obecní komise vyhotoví měsíčně jmenný seznam samozásobitelů žádajících o výdej másla z mlékárny. Seznam může býti vyhotoven buď na zvláštních tiskopisech „Prohlášení\" nebo průpisem obecního mléčného přehledu na tiskopisech „Potvrzení příjmu samozásobitelského másla\".\n(2) Místní národní výbor potvrdí v seznamu, že samozásobitelé v seznamu uvedení nedostali za uplynulý měsíc lístky na máslo, případně uvede, za jakou část měsíce byl v každém jednotlivém případě lístek na máslo vydán.\n(3) Seznam nutno odevzdati v mlékárně nejpozději do 7. dne následujícího měsíce.\n(4) Samozásobitel, který nebyl pojat do seznamu, musí uplatniti svůj odběrní nárok na máslo u mlékárny nejpozději během 4 týdnů po uplynutí měsíce, ve kterém se máslo vydává (§ 2, odst. 3). Žádost musí býti potvrzena zemědělskou obecní komisí."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Svaz pro mléko a tuky vydá pro mlékárny bližší předpisy k provedení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dne 1. června 1945."
+    }
+  ],
+  "definitions": []
+}

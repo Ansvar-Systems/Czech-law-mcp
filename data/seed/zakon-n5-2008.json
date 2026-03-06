@@ -1,0 +1,27 @@
+{
+  "id": "cz:n5/2008",
+  "type": "statute",
+  "title": "n5/2008 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 261/2008 Sb.",
+  "title_en": "",
+  "short_name": "n5/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-07-30",
+  "in_force_date": "2008-07-30",
+  "url": "https://www.e-sbirka.cz/sb/2008/n5",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 261/2008 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V čl. I mají místo slov „Volební obvod č. 21 Sídlo: Praha“ správně být slova „Volební obvod č. 21 Sídlo: Praha 5“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V čl. I mají místo slov „Volební obvod č. 55 Sídlo: Brno-město“ správně být slova „Volební obvod č. 55 Sídlo: Brno-město“."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:181/1950",
+  "type": "statute",
+  "title": "181/1950 Sb., Zákon o úpravě nejnižších důchodů dřívějších příjemců odpočivných (zaopatřovacích) platů",
+  "title_en": "",
+  "short_name": "181/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-12-28",
+  "in_force_date": "1950-12-28",
+  "url": "https://www.e-sbirka.cz/sb/1950/181",
+  "description": "Zákon o úpravě nejnižších důchodů dřívějších příjemců odpočivných (zaopatřovacích) platů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Důchody z národního pojištění, které byly do 31. března 1950 odpočivnými (zaopatřovacími) platy z veřejného pensijního zaopatření, se zvyšují s účinností od 1. ledna 1950, a to:\na) důchod starobní nebo invalidní (bývalé výslužné a obdobné platy) o200 Kčs měsíčně,\nb) důchod vdovy nebo družky (bývalá vdovská pense nebo zaopatřovací požitek družky) o 150 Kčs měsíčně,\nc) důchod sirotčí (bývalá sirotčí pense) o100 Kčs měsíčně.\n(2) Zvýšení podle odstavce 1 (jeho část) přísluší jen potud, pokud důchod po zvýšení nepřesahuje, jde-li\na) o důchod starobní nebo invalidní,1700 Kčs měsíčně,\nb) o důchod vdovy nebo družky,1300 Kčs měsíčně,\nc) o důchod sirotčí,800 Kčs měsíčně."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Starobní a invalidní důchody uvedené v § 1 činí po zvýšení nejméně 9600 Kčs ročně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Důchodcům, kteří jsou trvale tak bezmocni, že potřebují ošetření a obsluhy jinou osobou, lze zvýšit důchod až o polovinu. Byl-li důchod zvýšen již podle § 1, bere se za základ výpočtu takto zvýšený důchod. Důchod sirotčí lze zvýšit pro bezmocnost až od sedmého roku věku."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Za důchody podle § 1 se nepovažují platy poskytované podle § 22 vládního nařízení č. 380/1938 Sb., o úsporných opatřeních personálních, ve znění vládního nařízení č. 136/1941 Sb. a zákona č. 39/1946 Sb., nebo podle § 83 vládního nařízení č. 210/1947 Sb., o úpravě platových a s nimi souvisících služebních poměrů státních a jiných veřejných zaměstnanců, jakož i poživatelů odpočivných (zaopatřovacích) platů na Slovensku.\n(2) Důchodem se rozumí úhrn bývalých odpočivných (zaopatřovacích) platů s příslušenstvím; nezapočítává se však výchovné, zvláštní přídavek k výchovnému, příspěvky na výchovu a zvýšení odpočivných (zaopatřovacích) platů pro bezmocnost.\n(3) Náleží-li sirotčí důchod několika oprávněným, náleží zvýšení každému z nich; při tom se za důchod považuje poměrná jeho část, stanovená podle počtu hlav.\n(4) Má-li důchodce dva nebo více důchodů, hledí se k úhrnu důchodů. Zvýšení náleží podle ustanovení pro důchodce příznivějších.\n(5) Je-li důchod pozůstalých snížen proto, že jsou částečně zaopatřeni, přísluší zvýšení krácené v poměru, v jakém je snížen důchod; pro zjištění, zda není překročena hranice stanovená v § 1 odst. 2, bere se v počet nesnížený důchod."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Předchozí ustanovení platí přiměřeně pro příjemce pravidelných odpočivných (zaopatřovacích) platů z veřejného pensijního zaopatření, které se nestaly důchody národního pojištění."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provedou jej ministři práce a sociální péče, financí a národní obrany."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Důchodem",
+      "definition": "úhrn bývalých odpočivných (zaopatřovacích) platů s příslušenstvím; nezapočítává se však výchovné, zvláštní přídavek k výchovnému, příspěvky na výchovu a zvýšení odpočivných (zaopatřovacích) platů pro bezmocnost",
+      "source_provision": "§ 4."
+    }
+  ]
+}

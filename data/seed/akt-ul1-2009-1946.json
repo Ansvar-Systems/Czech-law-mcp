@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:2009/1946",
+  "type": "statute",
+  "title": "2009/1946 Ú. l. I, Vyhláška č. 12/1946 Svazu zahradnicko-vinařského o hlášení zásob marmeládové směsi tuzemské výroby.",
+  "title_en": "",
+  "short_name": "2009/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-11-22",
+  "in_force_date": "1946-11-22",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2009",
+  "description": "Vyhláška č. 12/1946 Svazu zahradnicko-vinařského o hlášení zásob marmeládové směsi tuzemské výroby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Výrobci marmeládové směsi, velkoobchodníci a maloobchodníci jsou povinni zjistiti ke dni 24. listopadu 1946 24 hod. skutečný stav zásob marmeládové směsi zakoupené na pevný účet, jakož i na konsignačních skladech.\n(2) Marmeládovou směs, která v době zjištění byla odevzdána k dopravě a došla po 24. listopadu 1946, jest povinen započísti do stavu zásob příjemce."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Marmeládovou směsi ve smyslu této vyhlášky se rozumí zboží vyrobené v tuzemsku.\n(2) Jamy, povidla tuzemské výroby a marmeláda a jamy UNRRA hlášení nepodléhají."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Zjištěnou zásobu ohlásí podnik uvedený v § 1 nejdéle do 7. prosince 1946 včetně Svazu zahradnicko-vinařskému — oddělení zúčtovací, Praha II., Národní tř. č. 10. Opis hlášení ponechá si podnik za účelem kontroly.\n(2) Hlášení musí býti provedeno takto:\nVýrobci marmeládové směsi ohlásí:\na) Skutečnou zásobu marmeládové směsi v kg nacházející se 24. listopadu 1946 — 24 hod., u výrobce na skladě,\nb) skutečnou zásobu v kg na konsignačních skladech s udáním firmy a míst, kde se konsignační sklad nachází:\nVelkoobchodníci a maloobchodníci ohlásí:\na) Skutečnou zásobu marmeládové směsi v kg dne 24. listopadu 1946 — 24 hod., zakoupené za pevný účet,\nb) množství v kg odeslané výrobcem nebo velkoobchodníkem před 24. listopadem 1946 a přijaté po 24. listopadu 1946,\nc) skutečnou zásobu marmeládové směsi v kg na konsignačních skladech s udáním firmy výrobce."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Svaz zahradnicko-vinařský může povoliti výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu presidenta republiky č. 118/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Marmeládovou směsi ve smyslu této vyhlášky",
+      "definition": "zboží vyrobené v tuzemsku",
+      "source_provision": "§ 2."
+    }
+  ]
+}

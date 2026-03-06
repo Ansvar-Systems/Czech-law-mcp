@@ -1,0 +1,302 @@
+{
+  "id": "cz:436/1990",
+  "type": "statute",
+  "title": "436/1990 Sb., Vyhláška Československé komise pro atomovou energii o zajištění jakosti vybraných zařízení z hlediska jaderné bezpečnosti jaderných zařízení",
+  "title_en": "",
+  "short_name": "436/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-10-29",
+  "in_force_date": "1990-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/436",
+  "description": "Vyhláška Československé komise pro atomovou energii o zajištění jakosti vybraných zařízení z hlediska jaderné bezpečnosti jaderných zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět a účel vyhlášky",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Vyhláška stanoví základní požadavky na zajišťování jakosti zařízení, strojů, jejich částí a materiálů, stavebních částí a konstrukcí, prostředků automatizovaného řízení technologických procesů včetně technického a programového vybavení a systémů elektrického napájení důležitých z hlediska jaderné bezpečnosti1) (dále jen „vybraná zařízení“) jaderných zařízení2) a určuje závazné postupy pro uskutečňování technických a organizačních opatření souvisejících s jakostí vybraných zařízení v zájmu zajištění jaderné bezpečnosti jaderných zařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Jakost zařízení je souhrn vlastností zařízení, které podmiňují jeho schopnost uspokojovat stanovené potřeby v souladu s jeho určením.\n(2) Stanovením jakosti vybraného zařízení se pro účely této vyhlášky rozumí stanovení požadavků na jeho vlastnosti, které podmiňují plnění funkcí, pro které je určeno.\n(3) Zajištění jakosti vybraného zařízení je souhrn plánovaných a systematicky realizovaných činností nutných k vytvoření dostatečné jistoty o tom, že vybrané zařízení splňuje stanovené požadavky na jeho jakost.\n(4) Programem zajištění jakosti se pro účely této vyhlášky rozumí dokumentace, která obsahuje souhrn technických a organizačních opatření a činností včetně kontrolních, souvisejících s dosažením a zachováním stanovené jakosti vybraných zařízení.\n(5) Dokumentací o zajištění jakosti se pro účely této vyhlášky rozumí seznam vybraných zařízení, jednotlivé programy zajištění jakosti včetně jejich příloh a dokumentace související s těmito programy, zejména dokumentace o jakosti a normativně technická dokumentace.\n(6) Dokumentací o jakosti se pro účely této vyhlášky rozumí dokumentace, která obsahuje doklady o jakosti prvků a zařízení, o provedení činností, které ovlivňují jakost, o vlastnostech materiálů, svarů nebo prvků a zařízení a o výsledcích činností, které byly provedeny za účelem vyhodnocení stavu a zjištění jakosti vybraných zařízení.\n(7) Provoz jaderného zařízení pro účely této vyhlášky zahrnuje činnosti od uvedení jaderného zařízení do provozu až po jeho konečné vyřazení z provozu včetně provozních odstavení, údržby, výměny paliva, kontrol, zkoušek, prohlídek a podobně.\n(8) Provozními kontrolami se pro účely této vyhlášky rozumějí všechny kontroly vybraných zařízení, které se provádějí v období provozu jaderného zařízení.\n(9) Bezpečnostními funkcemi se pro účely této vyhlášky rozumějí takové funkce, jejichž plnění je nutné k předcházení vzniku nebo ke zmírnění následků nehody jaderného zařízení.\n(10) Normálním provozem se pro účely této vyhlášky rozumějí všechny stavy a operace plánovaného provozu jaderného zařízení při dodržení provozních limitů a podmínek pro jeho bezpečný provoz. Jsou to zejména spouštění, ustálený provoz a odstavování jaderného reaktoru, zvyšování a snižování jeho výkonu, jeho částečné a plné zatížení, údržba, opravy a výměna paliva.\n(11) Abnormálním provozem se pro účely této vyhlášky rozumějí stavy, operace a události, které jsou neplánované, ale jejichž výskyt lze při provozu jaderného zařízení očekávat. Jsou to zejména havarijní odstavení, náhlý pokles zatížení, výpadek turbiny, ztráta napájení ze sítě. Tyto provozní stavy nesmějí však vést k poškození palivových článků anebo k porušení integrity tlakového okruhu chladiva jaderného reaktoru a po jejich ukončení, resp. odstranění jejich příčin a následků musí být jaderné zařízení schopné normálního provozu.\n(12) Havarijními podmínkami se pro účely této vyhlášky rozumějí všechny události způsobené selháním nebo porušením stavebních konstrukcí, technologických souborů a zařízení, vnějšími vlivy nebo chybami obsluhy, které negativně ovlivňují bezpečnost provozu jaderného zařízení a vedou k porušení provozních limitů a podmínek a mohou způsobit porušení palivových článků.\n(13) Bezpečnostními systémy se pro účely této vyhlášky rozumějí systémy důležité pro jadernou bezpečnost, které jsou určeny k zajištění bezpečného odstavení jaderného reaktoru za jakýchkoli podmínek, k odvodu tepla z aktivní zóny nebo k omezení důsledků abnormálního provozu a havarijních podmínek."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zásady členění vybraných zařízení",
+      "chapter": "ČÁST DRUHÁ - VYBRANÁ ZAŘÍZENÍ",
+      "content": "Vybraná zařízení se v souladu s požadavky zajišťování jaderné bezpečnosti jaderných zařízení člení do tří bezpečnostních tříd podle svého významu pro bezpečný provoz jaderných zařízení, bezpečnostní funkce systému, jehož jsou součástí, a závažnosti následků jejich případné poruchy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Bezpečnostní třídy vybraných zařízení",
+      "chapter": "ČÁST DRUHÁ - VYBRANÁ ZAŘÍZENÍ",
+      "content": "(1) Ustanovení odstavců 2, 3 a 4 se vztahují na zařízení pro skladování, zpracování, ukládání a dopravu jaderných materiálů, které se spotřebovávají při štěpné řetězové reakci nebo vznikají při provozu jaderného reaktoru, a dále pro investiční a provozní celky, jejichž součástí je jaderný reaktor, který pracuje na principu štěpné řetězové reakce tepelnými neutrony a je moderován a chlazen lehkou vodou. V případech jiných jaderných zařízení stanoví bezpečnostní třídy Československá komise pro atomovou energii (dále jen „Komise“) podle charakteru těchto zařízení a účelu, k němuž jsou určena.\n(2) Vybraná zařízení zařazená do bezpečnostní třídy 1 jsou zařízení tvořící hranici tlakového okruhu chladiva jaderného reaktoru, s výjimkou těch zařízení, jejichž poškození je možno kompenzovat normálním systémem pro doplňování chladiva.\n(3) Vybraná zařízení zařazená do bezpečnostní třídy 2 jsou pokrytí jaderného paliva a zařízení:\na) tvořící hranici tlakového okruhu chladiva jaderného reaktoru, která nenáleží do bezpečnostní třídy 1,\nb) pro odstavení jaderného reaktoru za abnormálního provozu při stavech, které by mohly vést k havarijním podmínkám, a pro odstavení jaderného reaktoru s cílem zmírnit následky havarijních podmínek,\nc) pro udržení dostatečného množství chladiva pro chlazení aktivní zóny jaderného reaktoru v průběhu havarijních podmínek, při kterých nedošlo k porušení tlakového okruhu chladiva jaderného reaktoru a i po těchto podmínkách,\nd) pro odvod tepla z aktivní zóny jaderného reaktoru3) při porušení tlakového okruhu chladiva reaktoru s cílem omezit poškození paliva,\ne) pro odvod zbytkového tepla3) při normálním a abnormálním provozu a za havarijních podmínek, kdy nedošlo k porušení integrity tlakového okruhu chladiva jaderného reaktoru,\nf) nezbytná pro omezení úniků radioaktivních látek z ochranné obálky při havarijních podmínkách a po nich,\ng) určená pro omezení průniku ionizujícího záření mimo ochrannou obálku při havarijních podmínkách a po nich,\nh) nezbytná z hlediska plnění bezpečnostních funkcí pro dodávku energií nebo pro řízení ostatních komponent zařazených do bezpečnostní třídy 2.\n(4) Vybraná zřízení zařazená do bezpečnostní třídy 3 jsou zařízení:\na) pro zabránění nepřípustných přechodových procesů spojených se změnami reaktivity,\nb) pro udržení jaderného reaktoru v podmínkách bezpečného odstavení, po každém z jeho odstavení,\nc) pro udržení dostatečného množství chladiva pro chlazení aktivní zóny jaderného reaktoru při normálním a abnormálním provozu,\nd) odvádějící teplo z bezpečnostních systémů až do prvního akumulačního objemu4) dostačujícího z hlediska plnění bezpečnostních funkcí,\ne) nezbytná pro udržení ozáření obyvatelstva a pracovníků jaderného zařízení pod stanovenými mezemi v průběhu havarijních podmínek spojených s únikem radioaktivních látek a ionizujícího záření ze zdrojů nacházejících se vně ochranné obálky a i po těchto podmínkách,\nf) nezbytné pro udržení podmínek prostředí uvnitř jaderného zařízení, nutných pro provoz bezpečnostních systémů a pro přístup pracovníků k plnění činností důležitých pro bezpečnost,\ng) pro zabránění radioaktivním únikům z ozářeného paliva dopravovaného nebo skladovaného uvnitř jaderného zařízení vně systému chlazení jaderného reaktoru v průběhu všech stavů normálního a abnormálního provozu,\nh) pro odvod rozpadového tepla z ozářeného paliva skladovaného uvnitř jaderného zařízení vně systému chlazení jaderného reaktoru,\ni) nezbytná pro udržení dostatečné podkritičnosti paliva skladovaného uvnitř jaderného zařízení vně systému chlazení jaderného reaktoru,\nj) nezbytná pro omezení výpustí nebo úniků tuhých, kapalných nebo plynných radioaktivních látek a ionizujícího záření pod stanovené meze v průběhu všech stavů normálního a abnormálního provozu,\nk) nezbytná z hlediska plnění bezpečnostních funkcí pro dodávku energií nebo pro řízení ostatních komponent zařazených do bezpečnostní třídy 3,\nl) nezbytná z hlediska plnění bezpečnostních funkcí pro zajištění funkční schopnosti ostatních komponent zařazených do bezpečnostních tříd 1, 2 a 3, která se netýkají řízení nebo dodávek energie,\nm) určená pro předcházení nebo pro omezení důsledků poruch ostatních komponent nebo konstrukcí bezpečnostních systémů zařazených do bezpečnostní třídy 1, 2 nebo 3."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA I - ZÁSADY ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Základní požadavky zajištění jakosti vybraných zařízení jsou:\na) určení činností majících vliv na jakost vybraných zařízení,\nb) organizační a technické zabezpečení zajišťování jakosti a všech činností majících vliv na jakost vybraných zařízení,\nc) zpracování a schválení postupů pro provádění činností majících vliv na jakost vybraných zařízení tak, aby jejich stanovená jakost byla dosažena a udržována,\nd) ověřování rozsahu a kvality provedených činností majících vliv na jakost vybraných zařízení,\ne) dokladování provedených činností majících vliv na jakost vybraných zařízení včetně výsledků kontrol,\nf) hodnocení výsledků ověřování podle písmene d) a hodnocení účinnosti přijatých opatření.\n(2) Odpovědná organizace5) musí mít nezbytný přehled o technickém stavu jí budovaného nebo provozovaného zařízení, aby mohla prokázat, že jakost vybraného zařízení stanovená zejména projektovou, konstrukční, výrobní, montážní a stavební dokumentací byla dosažena a je udržována."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA I - ZÁSADY ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) V organizacích, které provádějí činnosti související s realizací a ověřováním plnění programů zajištění jakosti, musí být vypracovány a prováděny plány pro výcvik a odborný výběr pracovníků, kteří mají tyto činnosti provádět. Harmonogramy výběru a výcviku pracovníků musí být stanoveny tak, aby při zahájení činností majících vliv na jakost vybraných zařízení a souvisejících se zajištěním jakosti byli k dispozici pracovníci v potřebném počtu a s odpovídající kvalifikací. Způsob naplňování těchto požadavků musí být uveden v dílčích a individuálních programech zajištění jakosti.\n(2) V rámci seznámení pracovníka s jeho pracovní náplní je organizace povinna jej seznámit též s příslušným programem zajištění jakosti.\n(3) Organizace, která provádí činnosti související s realizací a ověřováním plnění programů zajištění jakosti, je povinna zajistit a státnímu dozoru nad jadernou bezpečností prokázat platnost osvědčení o odborné způsobilosti pracovníka k provádění příslušné činnosti a zdravotní způsobilost pracovníka."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA I - ZÁSADY ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Organizace provádějící činnosti související se zajištěním jakosti vybraných zařízení jsou povinny provádět kontrolu všech vlastních čiností, které mohou ovlivňovat jakost vybraných zařízení. Prováděním kontroly je možno pověřit pouze osoby a organizační složky jiné, než které kontrolovanou činnost prováděly.\n(2) V případě neproveditelnosti jednoznačné kontroly sledované činnosti je organizace povinna do systému kontroly zahrnout také kontrolu dodržování předepsaných pracovních postupů.\n(3) Zásady provádění kontroly a předkládání informací státnímu dozoru nad jadernou bezpečností jaderných zařízení musí být stanoveny před zahájením činnosti, které podléhají kontrole."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Požadavky na dokumentaci o zajištění jakosti",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Všechny činnosti mající vliv na jakost vybraných zařízení, zejména při jejich projektování, konstrukci, výrobě, skladování, přepravě, montáži, stavbě, zkouškách, kontrolách, spouštění, provozu, údržbě, vyřazování z provozu, opravách a rekonstrukcích, se musí vykonávat podle předem zpracované a schválené dokumentace. Tato dokumentace je součástí dokumentace o zajištění jakosti a musí obsahovat zejména postup a metodiku provedení dané činnosti, způsob ověření jakosti a kritéria přípustnosti. Její soulad zejména s požadavky na zajištění jaderné bezpečnosti jaderného zařízení musí být průběžně kontrolován. O provedené kontrole a jejích výsledcích musí být učiněn záznam v dokumentaci příslušného vybraného zařízení.\n(2) Pokud není provádění činností ovlivňujících jakost vybraných zařízení upraveno technickými normami a předpisy, jsou organizace povinny sjednat a dodržovat technické podmínky. Technické podmínky musí být sjednány před zahájením činností, na které se vztahují.\n(3) Organizace zajišťující zpracování dokumentace uvedené v odstavcích 1 a 2 jsou povinny vypracovat postupy pro provádění změn této dokumentace. Způsob naplňování těchto postupů musí být uveden v programech zajištění jakosti.\n(4) Změny dokumentace o zajištění jakosti musí být překontrolovány a schváleny stejným postupem a stejnými organizacemi a orgány jako původní dokumentace. Není-li to možné, rozhodne o dalším postupu Komise. Důsledky změn musí být posouzeny a doloženy v dokumentaci o provedení změn.\n(5) Informace o změnách dokumentace o zajištění jakosti je organizace, která dala podnět ke změně anebo změnu provedla, povinna bezodkladně předat všem organizacím, kterých se tato změna týká.\n(6) Dokumentaci související s činnostmi majícími vliv na jakost vybraných zařízení musí provozovatel uchovat po celou dobu provozu vybraných zařízení na dvou různých, bezpečnostně na sobě nezávislých místech.\nProgramy zajištění jakosti"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zadávací program zajištění jakosti",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Zadávací program zajištění jakosti se zpracovává pro každou stavbu s jaderným zařízením a je platný od termínu schválení do konce životnosti této stavby.\n(2) Zadávací program zajištění jakosti rozpracovává zásady zajištění jakosti vybraných zařízení a kontrolních činností stanovené pro účastníky výstavby, provozovatele, dodavatele zařízení a služeb v období od navrhování až po likvidaci jaderného zařízení.\n(3) Zadávací program zajištění jakosti stanoví zejména:\na) podrobné určení jaderného zařízení, pro které se zpracovává,\nb) posloupnost stanovení jakosti vybraných zařízení,\nc) posloupnost stanovení činností, které podmiňují jakost vybraných zařízení v průběhu jejich navrhování, výroby, montáže, stavby, zkoušek, provozu, údržby, oprav a rekonstrukcí,\nd) požadavky na organizační a technické zabezpečení zajištění jakosti vybraných zařízení včetně požadavků na kvalifikaci pracovníků vykonávajících činnosti mající vliv na jakost vybraných zařízení,\ne) požadavky na normativně technickou dokumentaci,\nf) požadavky na zajištění jednotné metrologie,\ng) opatření pro zajištění jakosti dovážených vybraných zařízení a služeb důležitých z hlediska jaderné bezpečnosti včetně provádění kontroly jejich jakosti,\nh) zásady evidence, identifikace a archivace dokumentace o jakosti, dokumentace o zajištění jakosti a výsledků kontrol,\ni) požadavky, které je nutno rozpracovat v dílčích a individuálních programech zajištění jakosti, četnost a způsoby uvádění těchto programů do souladu se skutečným stavem,\nj) výběr vybraných zařízení, jichž se týkají činnosti spojené se zajištěním jakosti, který odpovídá hloubce zpracování zadání dané stavby,6)\nk) přehled účastníků výstavby, předpokládaný dodavatelský systém s uvedením vzájemných vztahů a název organizace budoucího provozovatele jaderného zařízení,\nl) přehled pracovních funkcí pracovníků investora se stanovením osobní odpovědnosti za naplňování jednotlivých požadavků tohoto programu,\nm) způsob a četnost kontroly plnění tohoto programu,\nn) způsob, jakým bude Komise informována o výsledcích kontroly a přijatých opatřeních."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Dílčí programy zajištění jakosti",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Dílčí programy zajištění jakosti se zpracovávají pro každou stavbu s jaderným zařízením a jsou platné od termínu jejich schválení.\n(2) Dílčí programy zajištění jakosti rozpracovávají požadavky stanovené v této vyhlášce a v zadávacím programu zajištění jakosti.\n(3) Dílčí programy zajištění jakosti se zpracovávají pro oblasti:\na) projektování a navrhování příslušnou projektovou organizací,\nb) výstavby, včetně přípravy ke spouštění7) a spouštění8) investorem a jeho dodavateli,\nc) provozu provozovatelem,\nd) vyřazování z provozu příslušnou projektovou organizací, provozovatelem a jeho dodavateli činností a služeb důležitých z hlediska jaderné bezpečnosti.\n(4) Dílčí programy zajištění jakosti se zpracovávají také pro další oblasti, pokud je tak stanoveno v zadávacím programu zajištění jakosti.\n(5) Dílčí program zajištění jakosti zpracovávaný pro jednotlivou oblast musí obsahovat zejména:\na) souhrn všech vlastních činností majících vliv na jakost vybraných zařízení,\nb) organizační zabezpečení a popis zajišťování jakosti s vymezením činností, pravomocí a odpovědnosti za plnění jednotlivých požadavků tohoto programu,\nc) organizační zabezpečení činností majících vliv na jakost vybraných zařízení, včetně požadavků na kvalifikaci pracovníků vykonávajících tyto činnosti,\nd) technické zajištění vykonávaných činností majících vliv na jakost vybraných zařízení a souhrn normativně technické dokumentace, podle které se budou tyto činnosti vykonávat,\ne) způsob kontroly prováděných činností majících vliv na jakost vybraných zařízení, včetně kontrol pracovních postupů při projektování, navrhování, výrobě, zkouškách, výstavbě a provozu,\nf) způsob prověřování provádění kontrol, zkoušek a testů vykonávaných jinými organizacemi,\ng) postupy řešení a odstraňování zjištěných nedostatků,\nh) způsob dokumentování prováděných činností včetně kontrol,\ni) způsob identifikace, evidence a archivace dokumentace související se zajištěním jakosti vybraných zařízení,\nj) dodavatelský systém s uvedením vzájemných vztahů a způsobu zajištění jakosti vybraných zařízení v rámci těchto vztahů,\nk) organizaci, způsob a četnost kontroly plnění těchto programů a jejich efektivity,\nl) způsob, jakým bude Komise informována o výsledcích kontroly a přijatých opatřeních.\n(6) Dílčí programy zajištění jakosti zpracováváné provozovatelem musí rovněž obsahovat:\na) postup přípravy, posuzování, schvalování a vydávání dokumentů potřebných pro provádění prací důležitých z hlediska jaderné bezpečnosti provozu jaderného zařízení včetně specifikace těchto dokumentů a postupů pro provádění a schvalování jejich změn,\nb) popis zajištění jakosti v oblastech důležitých z hlediska jaderné bezpečnosti, kterými jsou zejména řízení provozu jaderného zařízení, sjednávání externích služeb a dodávek náhradních dílů, skladování, údržba, provozní kontroly, funkční zkoušky, opravy vybraných zařízení, hodnocení jejich stavu, metrologie, příprava personálu, příprava a vedení dokumentace."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Individuální programy zajištění jakosti",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Individuální programy zajištění jakosti rozpracovávají koncepce a zásady zajištění jakosti vybraných zařízení stanovené touto vyhláškou a zadávacím programem zajištění jakosti pro dané jaderné zařízení.\n(2) Individuální programy zajištění jakosti jsou platné od termínu svého schválení až do konce životnosti vybraného zařízení, pro něž jsou zpracovány.\n(3) Individuální programy zajištění jakosti se zpracovávají:\na) pro jednotlivá vybraná zařízení zařazená do bezpečnostní třídy 1,\nb) pro jednotlivá vybraná zařízení zařazená do bezpečnostní třídy 2; pro potrubní trasy, armatury, prostředky automatizovaného řízení technologických procesů nebo elektrická zařízení může být příslušným výrobcem v rozsahu jeho dodávky zpracován sdružený individuální program zajištění jakosti,\nc) pro vybraná zařízení zařazená do bezpečnostní třídy 3 v rozsahu dodávky vybraných zařízení příslušného dodavatele.\n(4) Individuální programy zajištění jakosti musí obsahovat:\na) výčet vybraných zařízení, na která se tyto programy vztahují,\nb) souhrn vlastností majících vliv na jadernou bezpečnost stanovený na základě projektové, konstrukční, výrobní, montážní a stavební dokumentace pro dané vybrané zařízení,\nc) doklad o souladu návrhu vybraného zařízení s požadavky projektu,\nd) ukazatele spolehlivosti vybraných zařízení,\ne) výčet jednotlivých činností majících vliv na jakost vybraného zařízení v období výroby, montáže, výstavby, spouštění a provozu,\nf) organizační zabezpečení a popis zajištění jakosti s vymezením činností, pravomocí a odpovědnosti za plnění jednotlivých požadavků těchto programů,\ng) organizační zabezpečení provádění jednotlivých činností majících vliv na jakost vybraných zařízení, včetně požadavků na kvalifikaci pracovníků vykonávajících tyto činnosti,\nh) technické zajištění vykonávaných činností majících vliv na jakost vybraných zařízení, souhrn normativní a technické dokumentace, podle které se budou tyto činnosti vykonávat, a doklad o sjednání příslušných technických podmínek mezi výrobcem a odběratelem v případě, že tyto technické podmínky jsou sjednávány,\ni) požadavky výrobců na zajištění jakosti oprav a změn vybraných zařízení,\nj) způsob kontroly prováděných činností majících vliv na jakost vybraných zařízení,\nk) závazné postupy pro zpracování výsledků provozních kontrol a jejich hodnocení, pro hodnocení zbytkové životnosti a pro hodnocení systémů svědečných vzorků v případě, že tyto systémy jsou předepsány,\nl) postupy řešení a odstraňování zjištěných nedostatků,\nm) způsob dokumentování provedených činností včetně kontrol,\nn) způsob identifikace, evidence a archivace dokumentace související se zajištěním jakosti vybraných zařízení,\no) způsob značení a identifikace jednotlivých vybraných zařízení a jejich částí,\np) seznam všech organizací, které se podílejí na zajištění dodávek vybraných zařízení,\nq) požadavky zpracovatele individuálního programu zajištění jakosti na své subdodavatele, týkající se způsobu zajištění a prokázání dosažené jakosti a funkčních vlastností dodávek a jejich souladu s příslušnými předpisy a normami,\nr) způsob, organizaci a četnost kontroly plnění těchto programů.\n(5) Podle individuálních programů zajištění jakosti se provádí rovněž kontrola vybraných zařízení při výrobě, montáži, přípravě ke spouštění, spouštění provozu, opravách a rekonstrukcích.\n(6) Přílohová dokumentace individuálních programů zajištění jakosti která, pokud je zpracovávána, je jejich nedílnou součástí, musí obsahovat instrukce, metodické postupy a výkresy, týkající se kontrol jakosti a funkční způsobilosti včetně určení povolených mezních hodnot a stavů po celou dobu životnosti vybraných zařízení. Tyto instrukce, metodické postupy a výkresy musí obsahovat:\na) nezbytná kritéria přijatelnosti, aby bylo možno určit, zda byla dosažena stanovená jakost,\nb) stanovení velikosti nejmenší evidované a přípustné vady v návaznosti na citlivost použité nedestruktivní metody.\nPostup zpracování, projednávání a schvalování programů zajištění jakosti a seznamu vybraných zařízení"
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Souběžně se zadáním stavby je investor povinen zajistit zpracování zadávací bezpečnostní zprávy,9) jejíž součástí je zadávací program zajištění jakosti.\n(2) Investor může pověřit zpracováním zadávacího programu zajištění jakosti jinou organizaci, přičemž je povinen s ní spolupracovat a poskytnout podklady potřebné pro jeho zpracování.\n(3) Před zahájením prací na zadávacím programu zajištění jakosti podléhá jeho osnova a výběr vybraných zařízení předběžnému odsouhlasení Komisí.\n(4) Před zahájením prací na projektu10) je investor povinen předložit s dostatečným časovým předstihem zadávací program zajištění jakosti ke schválení Komisi.\n(5) Souběžně se zpracováním projektu a v rámci předběžné bezpečnostní zprávy11) je investor povinen zajistit u příslušné projektové organizace na základě závazných podkladů od dodavatelů technologické a stavební části vypracování:\na) seznamu vybraných zařízení v rozsahu a hloubce zpracování projektu pro dané jaderné zařízení.\nTento seznam musí být:\n1. zpracován textovou a výkresovou formou v samostatné dokumentaci s uvedením jednotlivých bezpečnostních tříd vybraných zařízení,\n2. investorem odsouhlasen a následně předložen ke schválení Komisi před schválením projektu,\n3. pololetně upřesňován příslušnou projektovou organizací na základě změn a dodatků projektu; tyto úpravy je povinen projednat s investorem, který je předkládá Komisi ke schválení před jejich realizací;\nb) soupisu řešení použitých v projektu, která vytvářejí základní koncepci pro realizaci činností souvisejících s kontrolou jakosti, a to především z hlediska:\n1. přístupnosti ke kontrolovanému vybranému zařízení (dispoziční řešení, možnost dezaktivace povrchů, snímatelné izolace apod.),\n2. měřicích, kontrolních a diagnostických systémů pro kontrolu během provozu s ohledem na požadavky dodavatelů vybraných zařízení.\n(6) Před zpracováním seznamu vybraných zařízení jsou příslušná projektová organizace a investor povinni projednat s Komisí omezující a upřesňující podmínky, které budou součástí tohoto seznamu.\n(7) Změny a upřesnění seznamu vybraných zařízení je investor povinen odsouhlasit a následně předložit ke schválení Komisi.\n(8) Vybraná zařízení musí být příslušnou projektovou organizací vyznačena ve specifikacích a výkresové části projektu.\n(9) Dílčí programy zajištění jakosti musí být po zpracování zpracovatelem odsouhlaseny investorem, popřípadě provozovatelem, a před zahájením činností, pro které jsou určeny, schváleny Komisí.\n(10) Zpracované dílčí programy zajištění jakosti předkládá s dostatečným předstihem ke schválení Komisi v případech uvedených v § 10 odst. 3 písm. a) a b) investor, v ostatních případech provozovatel."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "(1) Výrobci vybraných zařízení jsou povinni před zahájením výroby vybraných zařízení zpracovat individuální programy zajištění jakosti pokrývající všechny činnosti ovlivňující jakost vybraných zařízení v rozsahu jejich dodávky.\n(2) Před zahájením výroby vybraných zařízení musí být individuální programy zajištění jakosti projednány a odsouhlaseny investorem a schváleny Komisí. Individuální programy zajištění jakosti předkládá ke schválení Komisi investor.\n(3) V případě, že jsou mezi výrobcem a odběratelem vybraného zařízení sjednávány technické podmínky na dodávku vybraného zařízení, musí být tyto podmínky sjednány před předložením individuálního programu zajištění jakosti pro dané vybrané zařízení ke schválení Komisi. Splnění tohoto požadavku musí být prokázáno v příslušném programu zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Změny a úpravy programů zajištění jakosti a seznamu vybraných zařízení",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA II - DOKUMENTACE O ZAJIŠTĚNÍ JAKOSTI",
+      "content": "Změny a úpravy schválených programů zajištění jakosti a seznamu vybraných zařízení se provádějí podle zásad platných pro přípravu a schvalování programů zajištění jakosti příslušné úrovně a seznamu vybraných zařízení. K projednání a schválení změn a úprav programů příslušné úrovně a seznamu vybraných zařízení je organizace, odpovědná za jejich vypracování a realizaci povinna doložit písemně zpracovanou analýzu příčin navrhované změny nebo úpravy před její realizací."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Činnosti při zpracování návrhu vybraných zařízení je nutno řádně dokumentačně zpracovat tak, aby bylo umožněno jejich vyhodnocení a kontrola jinými pracovníky než těmi, kteří provedli návrh nebo kteří se na návrhu přímo podíleli.\n(2) Vnější a vnitřní vztahy mezi organizacemi a organizačními útvary, které provádějí návrh nebo konstrukci, je nutno stanovit v příslušných programech zajištění jakosti, včetně opatření pro systematickou koordinaci prací v jednotlivých fázích návrhu i mezi nimi navzájem.\n(3) Organizace a osoby, které odpovídají za vypracování návrhu vybraného zařízení, jsou povinny:\na) provádět kontrolu návrhu řešení (výpočty pevnosti, alternativní výpočty, experimentální programy v modelovém i skutečném měřítku atd.),\nb) ověřovat, zda návrh řešení v jednotlivých stupních splňuje požadavky stanovené v platných předpisech, technických normách, popřípadě v dohodnutých technických podmínkách,\nc) výsledky činností uvedených v písmenech a) a b) náležitě dokumentovat i pro potřeby zpracování příslušných individuálních programů zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Prověřování návrhu vybraného zařízení je nutno zaměřit zejména na tyto oblasti:\na) jadernou bezpečnost,\nb) ochranu před ionizujícím zářením,\nc) reaktorovou fyziku,\nd) funkční schopnost, namáhání, spolehlivost, technickou bezpečnost a životnost vybraných zařízení,\ne) tepelné, hydraulické, seismické a havarijní analýzy,\nf) vhodnost použitých materiálů,\ng) přístupnost pro provozní kontrolu a revize,\nh) provádění oprav, údržby, rekonstrukcí a zkoušek,\ni) možnost a způsob výměny vybraných zařízení.\n(2) Při ověřování splnění daných požadavků v řešení návrhu vybraného zařízení je nutné, aby program zkoušek obsahoval vhodné zkoušky prototypové jednotky nebo modelu z hlediska funkční schopnosti i za krajně nepříznivých podmínek předpokládaných návrhem.\nZajištění jakosti v etapách výroby, dodávek a výstavby"
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Realizace činností souvisejících se zajištěním jakosti vybraných zařízení musí být ukončena a na základě vlastních kontrol vyhodnocena:\na) pro etapu výroby vybraných zařízení výrobcem, dodavatelem a investorem nejpozději před zahájením montáže těchto vybraných zařízení,\nb) pro etapu montáže a stavby vybraných zařízení příslušnými dodavateli a investorem nejpozději před zahájením spouštění jaderného zařízení.\n(2) Vyhodnocení činností uvedených v odstavci 1 musí být potvrzeno vedoucími organizací, které tyto činnosti prováděly, anebo jimi přímo pověřenými pracovníky.\n(3) K následným činnostem lze přistoupit pouze v případech kladného vyhodnocení předcházejících činností.\n(4) Odpovědná organizace musí neprodleně informovat o výsledcích a vyhodnocení činností souvisejících se zajištěním jakosti vybraných zařízení a o zahájení následných činností Komisi."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) K zajištění souladu s požadavky na dodávku musí být použitý materiál, výrobky a služby podrobeny kontrole podle schválených příslušných dílčích a individuálních programů zajištění jakosti. Osvědčení o tomto souladu, mající charakter potvrzení nebo atestu výrobce, musí:\na) být dodáno společně s vybraným zařízením a současně musí být též k dispozici na místě výstavby jaderného zařízení,\nb) obsahovat kritéria hodnocení,\nc) obsahovat vyhodnocení výsledků, které byly zjištěny provedenými kontrolami.\n(2) V etapě výroby vybraného zařízení může být vyhodnocení etapy výroby výrobcem nahrazeno osvědčením o souladu podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Výrobce vybraného zařízení je povinen předat společně s vybraným zařízením dokumentaci o jakosti.\n(2) Výrobci a dodavatelé vybraných zařízení, jejich materiálů, částí a vybavení jsou povinni uvádět v dokumentaci o jakosti dodávky výsledky provedených výrobních kontrol jakosti a zkoušek vlastností prvků, zařízení, základního materiálu, svarových spojů a návarů, dále pak vlastnosti a složení materiálu, místo, velikost, četnost a druh odstraněných vad zjištěných kontrolou a způsob provedení jejich oprav. U vybraných zařízení zařazených do bezpečnostních tříd 1 a 2 se povinnost uvedení konkrétních údajů vztahuje také na ponechané vady přípustné velikosti (druh, četnost, umístění apod.). Údaje musí být v souladu s požadavky individuálních programů zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "V případech, kdy zvláštní technologické postupy mohou ovlivnit výsledné vlastnosti použitých materiálů a výrobků, musí být předem zajištěna možnost provedení dalších zkoušek (například uschováním svědečných vzorků)."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Identifikace materiálů, dílů a součástí se provádí podle předem stanovených zásad, přitom se týká i částečně vyrobených dílčích sestav a polotovarů a přídavného materiálu a musí být zachována během výrobních operací, skladování, přepravy, přípravy pro montáž, montáže, spouštění a provozu. Identifikační záznamy a související dokumentace musí být dosažitelné během celého období výstavby i provozu. Zásady identifikace se v plném rozsahu vztahují také na náhradní díly a materiály.\n(2) Opatření pro identifikaci a kontrolu je zpracovatel povinen stanovit tak, aby se zabránilo použití nesprávného nebo vadného materiálu, části nebo komponenty. Tam, kde je použito identifikačního označení, musí být toto označení jednoznačně čitelné, nesmí ovlivňovat funkci předmětu a nesmí být odstraněno bez nahrazení jiným způsobem identifikace."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Opatření týkající se manipulace, skladování, dopravy, včetně čištění, balení a ochrany vybraných zařízení a kontroly těchto činností je výrobce povinen stanovit a dokumentovat v souladu s předepsanými instrukcemi, metodickými postupy a výkresy tak, aby se zabránilo poškození, zničení nebo ztrátě. Uvedená opatření musí být stanovena v individuálním programu zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Výrobní a montážní odchylky a rovněž odchylky vzniklé opravou zařízení od realizační dokumentace musí být stanoveným způsobem předloženy ke schválení podle § 8 odst. 4 této vyhlášky. K tomu je nutno předložit souhlas s odchylkou od té organizace, která příslušnou realizační dokumentaci sestavila nebo se na ní jinak podílela. Postup naplňování tohoto požadavku musí být stanoven v zadávacím programu zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Výrobci a dodavatelé vybraných zařízení jsou povinni:\na) provést upřesnění příslušných kapitol individuálních programů zajištění jakosti týkajících se provozních kontrol na základě výsledků předprovozních kontrol,\nb) předložit toto upřesnění k odsouhlasení provozovateli."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) V případě dovozu vybraných zařízení ze zahraničí platí opatření a zásady uvedené v zadávacím programu zajištění jakosti platném pro jaderné zařízení v Československu, pro které jsou dovážená vybraná zařízení určena.\n(2) Nepodaří-li se příslušné čs. organizaci činné v zahraničním obchodě dohodnout se zahraničním dodavatelem plnění požadavků uvedených v odstavci 1, musí být individuální program zajištění jakosti zpracován objednatelem zařízení na činnosti jím prováděné, včetně rozšířené vstupní kontroly, jejímž cílem je zjistit skutečný stav jakosti zařízení a jeho zdokumentování.\n(3) Všechny činnosti prováděné po dovozu vybraného zařízení ze zahraničí musí být v souladu s požadavky schváleného individuálního programu zajištění jakosti pro dané zařízení."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Podmínkou zahájení činností souvisejících s přípravou ke spouštění je schválení dílčích programů zajištění jakosti zpracovaných investorem a dodavateli pro tuto etapu Komisí.\n(2) V rámci přípravy ke spouštění musí být splněny všechny požadavky stanovené v této vyhlášce, dílčích a individuálních programech zajištění jakosti vztahující se na období od ukončení montáže do prvního zavezení paliva do aktivní zóny reaktoru.\n(3) V rámci přípravy ke spouštění musí odpovědná organizace zpracovat zhodnocení splnění všech požadavků stanovených v této vyhlášce, dílčích a individuálních programech zajištění jakosti, které se vztahují k činnostem od ukončení montáže do prvního zavezení paliva do aktivní zóny reaktoru, a předložit je jako součást předprovozní bezpečnostní zprávy12) Komisi ke schválení.\n(4) V rámci přípravy ke spouštění musí odpovědná organizace zpracovat zhodnocení připravenosti pracovníků a materiálního zabezpečení pro provádění činností majících vliv na jadernou bezpečnost jaderného zařízení v etapě spouštění a provozu a předložit je jako součást předprovozní bezpečnostní zprávy Komisi ke schválení.\n(5) Podmínkou zahájení spouštění jsou:\na) schválení dílčích programů zajištění jakosti zpracovaných investorem a dodavateli pro tuto etapu Komisí,\nb) kladné výsledky zhodnocení uvedených v odstavcích 3 a 4 a jejich schválení Komisí.\nZajištění jakosti v etapě provozu"
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Podmínkou zahájení zkušebního provozu je schválení dílčího programu zajištění jakosti pro etapu provozu Komisí.\n(2) Dalšími podmínkami zahájení zkušebního provozu jsou:\na) splnění požadavků dílčího programu zajištění jakosti pro etapu spouštění a kladné výsledky příslušných kontrol provedených do zahájení zkušebního provozu, jejichž vyhodnocení musí být předloženo v rámci předprovozní bezpečnostní zprávy odpovědnou organizací ke schválení Komisi před zahájením zkušebního provozu,\nb) průkaz o připravenosti plnit požadavky stanovené v § 31 odst. 1 písm. a) a b). Tento průkaz musí odpovědná organizace předložit Komisi před zahájením zkušebního provozu,\nc) splnění požadavků stanovených v § 31 odst. 1 písm. c)."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) V rámci plnění požadavků dílčího programu zajištění jakosti pro etapu provozu podle § 10 odst. 5 a 6 musí provozovatel rovněž zajistit provádění funkčních zkoušek a provozních kontrol vybraných zařízení, vyhodnocování jejich výsledků a hodnocení zbytkové životnosti.\n(2) Funkční zkoušky a provozní kontroly se musí provádět v souladu s požadavky dílčího programu zajištění jakosti pro období provozu, individuálních programů zajištění jakosti, harmonogramů provozních kontrol a limitů a podmínek.\n(3) Harmonogramy provozních kontrol se zpracovávají s cílem zajistit, aby provozní kontroly vybraných zařízení byly vykonány náležitým způsobem v cyklech stanovených v příslušných individuálních programech zajištění jakosti.\n(4) Harmonogramy provozních kontrol se člení na:\na) dlouhodobé, které musí pokrývat minimálně jeden úplný cyklus provozních kontrol,\nb) krátkodobé, které uvádějí zejména rozsah příslušných provozních kontrol pro jednotlivá vybraná zařízení v rámci jednoho kontrolního údobí úplného cyklu a etapy přípravy, provádění a vyhodnocení těchto kontrol.\n(5) Při provádění provozní kontroly je nutno z důvodů srovnatelnosti výsledků použít pokud možno stejných metod a přístrojů, jakých bylo použito při provádění předprovozní kontroly. Použité metody musí mít citlivost vyšší, než jaká odpovídá vadám přípustným pro provoz.\n(6) Koncepce provozních kontrol, přístrojového vybavení, přípravků a zařízení musí být uvedena v projektu stavby a zahrnuta do předběžné bezpečnostní zprávy.\n(7) Přístroje, přípravky a zařízení pro provozní kontrolu musí být, je-li to reálně možné, automatizované nebo mechanizované s možností dálkového ovládání, s registrací indikovaných vad a s možností jejich opětné lokalizace."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Příslušná kontrola musí být provedena za vhodných podmínek okolního prostředí kvalifikovanými pracovníky a s použitím řádně seřízených přístrojů.\n(2) Srovnávací a opakovaná měření je nutno provádět podle předepsaných metodik, za přibližně stejných podmínek okolního prostředí. Při plánované záměně přístroje, a to i stejného typu, je povinnost provést srovnávací měření nezávislá na průběžném programu kalibrace a vést o něm záznam.\n(3) Dokumentované výsledky a závěry provedených kontrol a zkoušek musí být jednoznačné."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) U materiálů a dílů vybraných zařízení, které nevyhověly požadavkům na zajištění jakosti, musí být spolehlivě vyloučeno jejich nesprávné použití. V programech zajištění jakosti musí být stanoveny způsoby značení a odpovědnost za disponování s díly, které neodpovídají stanoveným požadavkům.\n(2) Do doby provedení a vyhodnocení rozboru možných důsledků zjištěné vady nebo jejího rozvoje je nutno tuto vadu a následky jejího rozvoje posuzovat ve smyslu jejího krajně nepříznivého vlivu a provést tomu odpovídající opatření."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "(1) Provozovatel jaderného zařízení je povinen:\na) zabezpečit činnost vlastního organizačního útvaru, který bude řídit a koordinovat zavádění požadavků zajištění jakosti, prověřovat jejich plnění a vyhodnocovat zjištěné výsledky a účinnost přijímaných opatření,\nb) zabezpečit činnost vlastního organizačního útvaru pro přípravu a realizaci provozních kontrol včetně vyhodnocení jejich výsledků,\nc) před zahájením zkušebního provozu předložit Komisi upřesnění provozních kontrol ke schválení,\nd) předložit Komisi nejpozději měsíc před zahájením provozních kontrol jejich krátkodobý harmonogram,\ne) předložit Komisi nejpozději měsíc před zahájením následujícího úplného cyklu dlouhodobý harmonogram provozních kontrol,\nf) vypracovat zprávu o provedené provozní kontrole a jejích výsledcích pro každý provozovaný blok jaderného zařízení a nejpozději do jednoho měsíce ode dne ukončení provozní kontroly předložit tuto zprávu Komisi,\ng) vhodným způsobem průběžně zajišťovat kompletní evidenci a archivaci získaných výsledků a ostatní dokumentace související se zajištěním jakosti, aby se zabránilo její ztrátě nebo znehodnocení.\n(2) Zpráva o provedené provozní kontrole musí obsahovat zejména informace o provedených činnostech s odkazy na dílčí zprávy, způsoby a výsledky hodnocení, porovnání výsledků s výsledky předchozích kontrol, závěry z hlediska přípustnosti pro další provoz, nedostatky a potíže, příčiny nedodržení nebo posunů termínů a rozsahu kontrol oproti individuálním programům zajištění jakosti a harmonogramům provozních kontrol.\n(3) Výsledky provozních kontrol a rozbor přijatých opatření musí být zpracovány a předloženy provozovatelem k posouzení a stanovisku odborné komisi složené ze zástupců provozovatele, výrobních závodů, a předních odborníků. Odborná komise je jmenována vedoucím odpovědné organizace. Jednání komise musí proběhnout před uvedením bloku do provozu po příslušné provozní kontrole.\n(4) Provozovatel je povinen přizvat na jednání odborné komise zástupce státního dozoru nad jadernou bezpečností jaderných zařízení a předložit jim nejpozději do zahájení jednání odborné komise výsledky provozních kontrol a rozbor přijatých opatření.\nZajištění jakosti vybraných zařízení při opravách a změnách"
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Opravy vad a nedostatků vybraných zařízení, jejich změny a výměny musí být prováděny pouze podle příslušných schválených technologických postupů a dalších podmínek stanovených zejména v programech zajištění jakosti."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Provedené opravy a úpravy je nutno ověřit zkouškami a nově dosažený stav zdokumentovat v souladu s ustanovením § 19 odst. 2 této vyhlášky.\nZajištění jakosti při vyřazování jaderného zařízení z provozu"
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Podmínkou zahájení činností spojených s vyřazováním z provozu a likvidací jaderného zařízení je splnění požadavků § 10 odst. 3 písm. d) a § 12 odst. 10 a 11."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35",
+      "chapter": "ČÁST TŘETÍ - ZAJIŠTĚNÍ JAKOSTI > HLAVA III - POŽADAVKY ZAJIŠTĚNÍ JAKOSTI V JEDNOTLIVÝCH ETAPÁCH",
+      "content": "Všechny činnosti související s vyřazováním z provozu a likvidací jaderného zařízení musí být vykonávány v souladu s požadavky programu zajištění jakosti zpracovaném pro tuto etapu, zejména podle § 10."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Přechodné ustanovení",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÉ, ZRUŠUJÍCÍ A ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Pro vybraná zařízení vyrobená, rozpracovaná, rozestavěná nebo provozovaná ke dni nabytí účinnosti této vyhlášky musí organizace v případech, ve kterých nejsou splněny požadavky jejích jednotlivých ustanovení, vypracovat a dohodnout s Komisí náhradní řešení a provést je nejpozději do 6 měsíců ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Zrušovací ustanovení",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÉ, ZRUŠUJÍCÍ A ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Zrušuje se výnos Československé komise pro atomovou energii č. 5 ze dne 14. listopadu 1979 o zajištění jakosti vybraných zařízení v jaderné energetice z hlediska jaderné bezpečnosti, registrovaný v částce 29/1979 Sb."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Závěrečné ustanovení",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÉ, ZRUŠUJÍCÍ A ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Vyhláška nabývá účinnosti dnem 1. prosince 1990.\n1) § 2 odst. 2 zákona č. 28/1984 Sb., o státním dozoru nad jadernou bezpečností jaderných zařízení.\n2) § 2 odst. 1 zákona č. 28/1984 Sb.\n3) Vztahuje se k prvnímu stupni systému odvodu tepla. Ostatní stupně jsou zahrnuty v odstavci 4 písm. d).\n4) Netýká se prvních stupňů systému odvodu tepla, které jsou zahrnuty v odstavci 3 písm. d) a e).\n5) § 2 odst. 3 zákona č. 28/1984 Sb.\n6) § 3 odst. 1 vyhlášky Státní komise pro vědeckotechnický a investiční rozvoj č. 43/1990 Sb., o projektové přípravě staveb.\n7) § 15 odst. 1 výnosu ČSKAE č. 6 ze dne 23. 1. 1980 o zajištění jaderné bezpečnosti při spouštění a provozu jaderně energetických zařízení, registrovaného v částce 13/1980 Sb.\n8) § 3 odst. 1 výnosu ČSKAE č. 6 ze dne 23. 1. 1980.\n9) § 7 odst. 4 vyhlášky federálního ministerstva pro technický a investiční rozvoj č. 85/1976 Sb., o podrobnější úpravě územního řízení a stavebním řádu.\n10) § 4 odst. 1 vyhlášky Státní komise pro vědeckotechnický a investiční rozvoj č. 43/1990 Sb.\n11) § 20 odst. 4 vyhlášky federálního ministerstva pro technický a investiční rozvoj č. 85/1976 Sb.\n12) § 39 odst. 2 písm. e) vyhlášky federálního ministerstva pro technický a investiční rozvoj č. 85/1976 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stanovením jakosti vybraného zařízení",
+      "definition": "stanovení požadavků na jeho vlastnosti, které podmiňují plnění funkcí, pro které je určeno",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Programem zajištění jakosti",
+      "definition": "dokumentace, která obsahuje souhrn technických a organizačních opatření a činností včetně kontrolních, souvisejících s dosažením a zachováním stanovené jakosti vybraných zařízení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Dokumentací o zajištění jakosti",
+      "definition": "seznam vybraných zařízení, jednotlivé programy zajištění jakosti včetně jejich příloh a dokumentace související s těmito programy, zejména dokumentace o jakosti a normativně technická dokumentace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Dokumentací o jakosti",
+      "definition": "dokumentace, která obsahuje doklady o jakosti prvků a zařízení, o provedení činností, které ovlivňují jakost, o vlastnostech materiálů, svarů nebo prvků a zařízení a o výsledcích činností, které byly provedeny za účelem vyhodnocení stavu a zjištění jakosti vybraných zařízení",
+      "source_provision": "§ 2"
+    }
+  ]
+}

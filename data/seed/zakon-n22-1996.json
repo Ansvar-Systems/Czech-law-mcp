@@ -1,0 +1,27 @@
+{
+  "id": "cz:n22/1996",
+  "type": "statute",
+  "title": "n22/1996 Sb., Redakční sdělení o opravě chyb ve vyhláškách č. 54/1996 Sb. a č. 55/1996 Sb.",
+  "title_en": "",
+  "short_name": "n22/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-04-30",
+  "in_force_date": "1996-04-30",
+  "url": "https://www.e-sbirka.cz/sb/1996/n22",
+  "description": "Redakční sdělení o opravě chyb ve vyhláškách č. 54/1996 Sb. a č. 55/1996 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ve vyhlášce Českého báňského úřadu č. 54/1996 Sb., kterou se mění vyhláška Českého báňského úřadu č. 22/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem v podzemí, ve znění vyhlášek Českého báňského úřadu č. 477/1991 Sb., č. 340/1992 Sb. a č. 3/1994 Sb.\nV čl. I bodu 6 úvodní věta správně zní: „V § 324 odst. 3 čtvrtá a pátá věta znějí:“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Českého báňského úřadu č. 55/1996 Sb., o požadavcích k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při činnosti prováděné hornickým způsobem v podzemí\nV § 91 odst. 3 má místo „méně než 0,01 % kysličníku uhelnatého“ správně být „méně než 0,1 % kysličníku uhelnatého“."
+    }
+  ],
+  "definitions": []
+}

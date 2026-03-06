@@ -1,0 +1,27 @@
+{
+  "id": "cz:54/1946",
+  "type": "statute",
+  "title": "54/1946 Sb., Zákon o letním čase",
+  "title_en": "",
+  "short_name": "54/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-03-26",
+  "in_force_date": "1946-03-26",
+  "url": "https://www.e-sbirka.cz/sb/1946/54",
+  "description": "Zákon o letním čase",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vláda se zmocňuje, aby nařízením zaváděla odchylkou od středoevropského času letní čas a určovala jeho počátek a konec."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

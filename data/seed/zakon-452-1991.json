@@ -1,0 +1,63 @@
+{
+  "id": "cz:452/1991",
+  "type": "statute",
+  "title": "452/1991 Sb., Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky a ministerstva zdravotnictví České republiky o zřizování a činnosti církevních škol a škol náboženských společenství",
+  "title_en": "",
+  "short_name": "452/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-11-05",
+  "in_force_date": "1995-07-27",
+  "url": "https://www.e-sbirka.cz/sb/1991/452",
+  "description": "Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky a ministerstva zdravotnictví České republiky o zřizování a činnosti církevních škol a škol náboženských společenství",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Zřizování církevních škol a škol náboženských společenství",
+      "content": "Církevní školy a školy náboženských společenství (dále jen „církevní školy“) mohou zřizovat a zrušovat\na) státem uznané církve, registrované příslušným orgánem státní spravy,\nb) náboženská společenství,1) kterými jsou pro potřeby této vyhlášky sdružení státem uznaných církví evidovaných příslušným orgánem státní správy.2)\nZařazování do sítě škol"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Název církevní školy",
+      "content": "Název církevní školy obsahuje označení druhu a typu školy,4) popř. označení, které charakterizuje obsah její výchovně vzdělávací práce nebo čestný název a úřední název sídla církevní školy včetně názvu ulice a čísla hlavní budovy. Název musí být shodný s názvem církevní školy uvedené v síti škol."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Zajišťování plnění povinné školní docházky",
+      "content": "Pokud žák nemůže v církevní škole dokončit povinnou školní docházku a nepřejde na jinou církevní školu nebo soukromou školu zařazenou do sítě škol, v níž se plní povinná školní docházka, školský úřad příslušný podle místa bydliště žáka jej zařadí po dohodě se zákonným zástupcem dítěte, pěstounem nebo občanem, popř. ústavem, jemuž bylo dítě na základě soudního rozhodnutí svěřeno do výchovy, do příslušného ročníku odpovídající školy zřízené obcí nebo školským úřadem nebo ministerstvem školství, mládeže a tělovýchovy České republiky."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Hodnocení a klasifikace",
+      "content": "(1) Žák církevní školy, který dokončí povinnou školní docházku nebo studium nebo přestupuje na jinou školu, se hodnotí a klasifikuje podle obecně závazných právních předpisů upravujících hodnocení a klasifikaci žáka základní školy,5) střední školy,6) nebo speciální školy.7)\n(2) Ředitel církevní školy může způsob hodnocení a klasifikace žáka v dohodě se zřizovatelem a ministerstvem stanovit odlišně od obecně závazných právních předpisů upravujících hodnocení a klasifikaci žáka základní školy, střední školy nebo speciální školy, nejde-li o hodnocení a klasifikaci podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Společná, přechodná a závěrečná ustanovení",
+      "content": "(1) Pokud tato vyhláška nestanoví jinak, vztahují se na církevní školy obecně závazné právní předpisy pro základní školy nebo střední školy nebo speciální školy.8)\n(2) Pro potřeby této vyhlášky se církvemi rozumí i náboženské společnosti.9)"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Pokud zřizovatelé církevních škol, které byly zařazeny do sítě škol před nabytím účinnosti této vyhlášky, v žádosti o jejich zařazení do sítě škol nepředložili údaje a doklady uvedené v § 3 odst. 2 a 3, předloží je dodatečně, a to do 30. 11. 1991. Pokud tyto údaje a doklady nejsou předloženy ve stanovené lhůtě, budou tyto církevní školy ze sítě škol vyřazeny."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 4 odst. 3 zákona č. 308/1991 Sb., o svobodě náboženské víry a postavení církví a náboženských společností.\n2) § 19 odst. 1 zákona č. 308/1991 Sb.\n4) § 4 odst. 1 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění zákona č. 171/1990 Sb.\n5) § 10 a násl. vyhlášky ministerstva školství, mládeže a tělovýchovy České republiky č. 291/1991 Sb., o základní škole.\n6) § 9 a 10 vyhlášky ministerstva školství, mládeže a tělovýchovy České republiky č. 354/1991 Sb., o středních školách.\n7) § 12 vyhlášky ministerstva školství, mládeže a tělovýchovy České republiky č. 399/1991 Sb., o speciálních školách a speciálních mateřských školách.\n8) § 57b školského zákona.\n9) § 4 odst. 1 zákona č. 308/1991 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro potřeby této vyhlášky se církvemi",
+      "definition": "i náboženské společnosti",
+      "source_provision": "§ 10"
+    }
+  ]
+}

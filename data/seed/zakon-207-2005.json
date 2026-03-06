@@ -1,0 +1,39 @@
+{
+  "id": "cz:207/2005",
+  "type": "statute",
+  "title": "207/2005 Sb., Vyhláška o formě a obsahu plnění informační povinnosti k poskytnuté veřejné podpoře",
+  "title_en": "",
+  "short_name": "207/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-05-27",
+  "in_force_date": "2005-06-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/207",
+  "description": "Vyhláška o formě a obsahu plnění informační povinnosti k poskytnuté veřejné podpoře",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Poskytovatel veřejné podpory předloží Úřadu pro ochranu hospodářské soutěže elektronickou formou v souladu se zvláštním právním předpisem1) podle tiskopisu uvedeného v příloze této vyhlášky údaje o poskytnutých veřejných podporách2) v předcházejícím kalendářním roce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tiskopis uvedený v příloze této vyhlášky je přístupný způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Údaje podle § 1 za rok 2004 mohou být sděleny písemnou formou."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2005.\nPříloha k vyhlášce č. 207/ 2005 Sb.\n„TISKOPIS“\n1) Zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů.\n2) Čl. 87 odst. 1 Smlouvy o založení Evropského společenství."
+    }
+  ],
+  "definitions": []
+}

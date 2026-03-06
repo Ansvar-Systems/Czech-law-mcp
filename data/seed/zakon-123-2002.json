@@ -1,0 +1,39 @@
+{
+  "id": "cz:123/2002",
+  "type": "statute",
+  "title": "123/2002 Sb., Zákon o přijetí úvěru Českou republikou od Evropské investiční banky na financování investičních potřeb souvisejících s prováděním projektu Podpora investičních opatření na ochranu před povodněmi v České republice v rámci Programu prevence před povodněmi",
+  "title_en": "",
+  "short_name": "123/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-04-12",
+  "in_force_date": "2002-04-12",
+  "url": "https://www.e-sbirka.cz/sb/2002/123",
+  "description": "Zákon o přijetí úvěru Českou republikou od Evropské investiční banky na financování investičních potřeb souvisejících s prováděním projektu Podpora investičních opatření na ochranu před povodněmi v České republice v rámci Programu prevence před povodněmi",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Česká republika je oprávněna přijmout úvěr od Evropské investiční banky na financování investičních potřeb souvisejících s prováděním projektu Podpora investičních opatření na ochranu před povodněmi v České republice v rámci Programu prevence před povodněmi1) do výše 60 000 000 eur, splatný ve lhůtě do 31. prosince 2022.\n(2) Projektem Podpora investičních opatření na ochranu před povodněmi v České republice se rozumí příprava, výstavba a kontrola akcí v Programu prevence před povodněmi.\n(3) Úvěrovou smlouvu k přijetí úvěru podle odstavce 1 sjednává jménem České republiky ministr financí."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "O prostředky získané úvěrem podle § 1 lze překročit celkové výdaje státního rozpočtu schválené zákonem o státním rozpočtu v rozpočtovém roce, ve kterém budou takto získané prostředky použity. O toto překročení se v příslušném rozpočtovém roce mění saldo státního rozpočtu a financující položky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení.\n1) § 12 a 13 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Projektem Podpora investičních opatření na ochranu před povodněmi v České republice",
+      "definition": "příprava, výstavba a kontrola akcí v Programu prevence před povodněmi",
+      "source_provision": "§ 1"
+    }
+  ]
+}

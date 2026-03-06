@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:1195/1949",
+  "type": "statute",
+  "title": "1195/1949 Ú. l. I, Vyhláška ministerstva techniky, kterou se vydávají závazné směrnice pro navrhování průmyslových provozoven o jednom podlaží.",
+  "title_en": "",
+  "short_name": "1195/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-12-22",
+  "in_force_date": "1949-12-22",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1195",
+  "description": "Vyhláška ministerstva techniky, kterou se vydávají závazné směrnice pro navrhování průmyslových provozoven o jednom podlaží.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Konstrukce průmyslových provozoven o jednom podlaží s jednou nebo více loďmi buďte prováděny pokud možno cihelné, jinak ze železového betonu; vyňaty jsou provozovny s jeřáby o únosnosti nad 25 tun.\n(2) Jeřábové dráhy mohou být provedeny jak ze železového betonu, tak i z ocele, pří čemž musí být zajištěna hospodárnost použitých stavebnin a práce."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Pro rozpony a druh konstrukce u provozoven o více lodích se závazně stanoví:\na) provozovny, v nichž výroba nezbytně vyžaduje rozptýlené osvětlení 150—200 luxů, buďte navrhovány se shedovými konstrukcemi (monolitickými nebo montážními) na příčný rozpon 12 m, 15 m a 18 m a na jednotný podélný rozpon lodi 9 m;\nb) provozovny, v nichž postačí osvětlení menší než 150 luxů, buďte navrhovány s montážními střešními konstrukcemi z prefabrikovaných standardních žlábkových oblouků s táhlem o příčném rozponu 12 m, 15 m, 18 m, 21 m, 24 m a 27 m s podélným světlíkem. Podélný rozpon lodi je jednotný 6 m s výjimkou těch případů, kde je vyžadován křížící se výrobní pochod a kde je potom rozpon 9 m.\n(2) U provozoven o jedné lodi buďte používány konstrukce uvedené v odstavci 1, písm. b) o příčných rozponech 12 m, 15 m, 18 m, 21 m, 24 m a 27 m a o jednotném podélném rozponu 6 m."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Odchylky od ustanovení §§ 1 a 2 povoluje ve zvlášť odůvodněných případech ministerstvo techniky v dohodě s ministerstvem průmyslu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Ustanovení této vyhlášky se nevztahují na provozovny:\na) v oboru průmyslu kovodělného a strojírenského na slévárny, pokud jde o rozpony a konstrukce, a na vagonky, lokomotivky a montovny automobilů, pokud jde o rozpony:\nb) v oboru průmyslu chemického všude tam, kde se vyrábějí kyseliny a zásady nebo kde se tyto látky zpracovávají nebo jsou vedlejším produktem, avšak jen pokud jde o konstrukci;\nc) v oboru průmyslu sklářského na provozovny se sklářskými pecemi a s velkými sklářskými vanami, avšak rozpony musí být v třímetrových násobcích;\nd) v oboru průmyslu textilního na barevny, úpravny, tiskárny a bělidla, pokud jde o konstrukce."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

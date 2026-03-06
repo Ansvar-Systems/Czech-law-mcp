@@ -1,0 +1,154 @@
+{
+  "id": "cz:76/1999",
+  "type": "statute",
+  "title": "76/1999 Sb., Vyhláška Národního bezpečnostního úřadu o zajištění kryptografické ochrany utajovaných skutečností, provádění certifikace kryptografických prostředků a náležitostech certifikátu",
+  "title_en": "",
+  "short_name": "76/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-04-27",
+  "in_force_date": "1999-06-10",
+  "url": "https://www.e-sbirka.cz/sb/1999/76",
+  "description": "Vyhláška Národního bezpečnostního úřadu o zajištění kryptografické ochrany utajovaných skutečností, provádění certifikace kryptografických prostředků a náležitostech certifikátu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví způsoby použití, nasazování a evidence kryptografických prostředků používaných k ochraně utajovaných skutečností (dále jen „kryptografický prostředek“), používání klíčových materiálů, zjišťování odborné způsobilosti pracovníků kryptografické ochrany utajovaných skutečností, postup a způsob certifikačního procesu kryptografických prostředků a náležitosti certifikátu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Pro účely této vyhlášky se rozumí\na) informací znalost, kterou je možné jakoukoliv formou sdělovat,\nb) utajovanou informací informace, která je klasifikována stupněm utajení,\nc) kryptografií vědní disciplína, která rozvíjí a aplikuje matematické a fyzikální principy pro tvorbu metod a prostředků k ochraně informací za účelem jejich skrytí před nepovolanou osobou, zajištění jejich autentičnosti, zabránění jejich modifikaci, odmítnutí nebo neoprávněnému použití, (dále jen „ochrana informací“),\nd) klíčovými materiály souhrn kryptografických klíčů určených pro kryptografický prostředek,\ne) kryptografickými prostředky zařízení, předměty, programy nebo kryptografické postupy, včetně kryptografických klíčů, které zajišťují ochranu informací,\nf) kryptografickým klíčem specifická informace použitá spolu s kryptografickým prostředkem k ochraně informací,\ng) autentizací proces potvrzení, a tím i ustavení identity uživatele, procesu nebo jiného prvku s požadovanou mírou záruky,\nh) identifikačními prostředky prostředky nebo systémy sloužící k prokazování identity fyzické osoby, zejména průkazy totožnosti, optické snímače, biometrické snímače a systémy, digitální podpis a magnetické, čipové nebo bezkontaktní karty,\ni) auditem bezpečnostní proces zajišťující spolu s identifikací a autentizací uživatele, že uživatel je individuálně odpovědný za svou činnost při nakládání s utajovanými skutečnostmi,\nj) nosičem informací prvek schopný uchovávat informaci,\nk) kompromitací případ neoprávněného nakládání s utajovanými skutečnostmi, který svými následky může způsobit porušení ochrany utajované skutečnosti při použití kryptografického prostředku,\nl) kryptograficky významným prvkem prostředek, vlastnost nebo metoda podílející se na kvalitě ochrany utajovaných skutečností, zejména kryptografický algoritmus a kryptografický klíč, generátor počátečních nastavení nebo nosič kryptografických klíčů,\nm) subsystémem kryptografického prostředku zařízení používané bezprostředně s kryptografickým prostředkem a umožňující jeho požadovanou činnost v rámci systému sloužícího k ochraně utajovaných skutečností a jehož hodnocení je součástí certifikace kryptografického prostředku,\nn) kompromitujícím vyzařováním takové vyzařování, zejména elektrické, elektromagnetické, optické a akustické, které svým výskytem může způsobit únik utajovaných skutečností,\no) bezpečnostním standardem zvláštní právní předpis, jehož obsah je shodný s mezinárodní technickou normou, směrnicí nebo standardem a českou státní normou nebo specifikací vydanou mezinárodní organizací a který stanoví postupy, pokyny, technická řešení, bezpečnostní parametry a organizační opatření na ochranu utajovaných skutečností."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Používání a nasazování kryptografických prostředků",
+      "content": "(1) Pro kryptografickou ochranu utajované skutečnosti lze použít jen takový kryptografický prostředek, který byl certifikován Úřadem pro stupeň utajení shodný se stupněm utajení utajované skutečnosti nebo pro stupeň utajení vyšší.\n(2) Nasazení kryptografického prostředku a jeho použití se provádí v souladu s bezpečnostními standardy vydanými podle § 8 odst. 1 písm. o) zákona.\n(3) V informačním systému, který zpracovává, přenáší, ukládá nebo archivuje (dále jen „nakládá“) utajované skutečnosti klasifikované do různých stupňů utajení, musí být použit kryptografický prostředek, který je certifikován Úřadem pro stupeň utajení shodný s nejvyšším stupněm utajení utajované skutečnosti, se kterým informační systém nakládá, nebo pro stupeň utajení vyšší.\n(4) Za bezchybný stav a správné použití kryptografického prostředku odpovídá pracovník kryptografické ochrany utajovaných skutečností.\n(5) Úřad zajišťuje používání kryptografické ochrany utajovaných informací Severoatlantické aliance v informačních systémech.\n(6) Údaje o provozu nasazeného kryptografického prostředku, který je certifikován pro stupeň utajení „Přísně tajné“ nebo „Tajné“, se vedou v „Knize provozu kryptografického prostředku“."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Klíčové materiály",
+      "content": "(1) Klíčové materiály tvoří součást kryptografického prostředku. Způsob manipulace s klíčovými materiály stanoví bezpečnostní standardy.\n(2) Nezabezpečené klíčové materiály, materiály bez technické nebo kryptografické ochrany se klasifikují stupněm utajení, který je shodný se stupněm utajení utajované skutečnosti, k jejíž ochraně jsou klíčové materiály určeny, nebo stupněm utajení vyšším.\n(3) Zabezpečené klíčové materiály, materiály s technickou nebo kryptografickou ochranou se klasifikují stupněm utajení, který je shodný se stupněm utajení utajované skutečnosti, k jejíž ochraně jsou klíčové materiály určeny, nebo stupněm utajení nižším.\n(4) Výroba klíčových materiálů, jejich distribuce a ničení nepoužitých klíčových materiálů se řídí bezpečnostními standardy.\n(5) Nepoužité klíčové materiály přidělené Úřadem orgánu státu nebo organizaci musí být vráceny zpět Úřadu, pokud z bezpečnostních standardů nevyplývá jiný postup.\n(6) Úřad zajišťuje používání a distribuci klíčových materiálů Severoatlantické aliance."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Opatření při kompromitaci",
+      "content": "(1) Zjistí-li statutární orgán, že došlo ke kompromitaci, oznámí tuto skutečnost neprodleně písemně Úřadu.\n(2) V případě kompromitace je statutární orgán povinen k zajištění ochrany utajovaných skutečností chráněných kryptografickými prostředky neprodleně přijmout zejména tato opatření:\na) zabránit dalšímu používání kompromitovaných klíčových materiálů, kryptografických prostředků, systémů (dále jen „kompromitované prostředky“),\nb) zabezpečit ochranu utajovaných skutečností jinými nekompromitovanými kryptografickými prostředky, pokud jsou k dispozici; pokud takto nelze zabezpečit ochranu utajovaných skutečností, je nezbytné použít jiných prostředků k této ochraně uvedených v § 47 až 51 zákona,\nc) v případě, že se jedná o utajované skutečnosti uložené v systému zapojeném do počítačové nebo komunikační sítě, zajistit její fyzické odpojení od komunikačních prostředků,\nd) zdokumentovat všechny okolnosti předcházející zjištěné kompromitaci a rovněž okolnosti bezprostředně následující, včetně soupisu osob přicházejících do styku s kompromitovaným prostředkem."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Pracovníci kryptografické ochrany utajovaných skutečností",
+      "content": "(1) Pracovník kryptografické ochrany utajovaných skutečností musí být určenou osobou minimálně pro ten stupeň utajení, pro který je certifikován kryptografický prostředek, se kterým tento pracovník jako obsluha pracuje.\n(2) Pracovníkem kryptografické ochrany utajovaných skutečností je operátor, speciální obsluha a auditor, jejichž činnost stanoví bezpečnostní standardy."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Odborná způsobilost pracovníků kryptografické ochrany",
+      "content": "(1) Úřad nebo jím pověřená organizace zajišťuje přípravu odborné způsobilosti pracovníků kryptografické ochrany.\n(2) Odbornou způsobilost pracovníků kryptografické ochrany pro stupně utajení „Vyhrazené“, „Důvěrné“ a „Tajné“ ověřuje Úřad nebo jím pověřená organizace. Odbornou způsobilost pracovníků kryptografické ochrany pro stupeň utajení „Přísně tajné“ ověřuje Úřad.\n(3) Pracovníku, který prokáže odbornou způsobilost, vydá Úřad potvrzení o odborné způsobilosti pracovníka kryptografické ochrany utajovaných skutečností, jehož vzor je uveden v příloze č. 1.\n(4) Doba platnosti potvrzení o odborné způsobilosti pracovníka kryptografické ochrany utajovaných skutečností je pro stupeň utajení „Vyhrazené“ 6 let a pro stupeň utajení „Důvěrné“, „Tajné“ nebo „Přísně tajné“ 5 let.\n(5) Platnost potvrzení o odborné způsobilosti pracovníka kryptografické ochrany utajovaných skutečností zaniká\na) uplynutím doby platnosti podle odstavce 6, nebo\nb) zánikem platnosti vydaného osvědčení.1)"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Požadavky k certifikaci kryptografických prostředků",
+      "content": "(1) Úřad stanovuje bezpečnostními standardy kritéria certifikace, požadavky na systémy opatření tvořící kryptografickou ochranu utajovaných skutečností a na kryptografické prostředky, které mohou být použity k zajištění kryptografické ochrany pro jednotlivé stupně utajení utajovaných skutečností.\n(2) Kryptografické prostředky musí používat kryptografické algoritmy stanovené bezpečnostními standardy a mezinárodními standardy schválenými Úřadem nebo algoritmy vyvinuté Úřadem.\n(3) Systém opatření tvořící kryptografickou ochranu utajovaných skutečností musí zabezpečit utajované skutečnosti před únikem a neoprávněným nakládáním. Systém opatření je nutné aplikovat i na jejich subsystémy.\n(4) Kryptografické prostředky používané pro ochranu utajovaných skutečností a jejich subsystémy zpracovávající utajované skutečnosti v otevřeném, tj. nezašifrovaném tvaru nebo nakládající s kryptograficky významnými prvky, musí být odolné proti kompromitaci vlivem kompromitujícího vyzařování.\n(5) Odolnost ochrany je ověřována podle bezpečnostních standardů a je odstupňována podle stupně utajení chráněných utajovaných skutečností."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Postup a způsob certifikace kryptografického prostředku",
+      "content": "(1) O provedení certifikace kryptografického prostředku pro požadovaný stupeň utajení utajovaných skutečností jsou oprávněni požádat\na) orgán státu,\nb) organizace, které bylo pro tento stupeň utajení utajovaných skutečností vydáno potvrzení,\nc) fyzická osoba, která byla pro tento stupeň utajovaných skutečností určena.\n(2) Certifikace kryptografického prostředku se provádí na základě žádosti. Vzor žádosti o certifikaci kryptografického prostředku je uveden v příloze č. 3.\n(3) K žádosti o certifikaci kryptografického prostředku se přikládají\na) vydané certifikáty jiných autorizovaných zkušeben, včetně výsledků měřících protokolů, a seznam norem, kterým kryptografický prostředek vyhověl,\nb) potřebný počet kusů kryptografického prostředku k provedení jeho certifikace a v případě potřeby provedení jejich instalace v podmínkách certifikačního pracoviště nebo provedení úvodního seznámení s kryptografickým prostředkem.\n(4) V závislosti na určení použití kryptografického prostředku se k žádosti o jeho certifikaci dále přikládá\na) pro stupeň utajení „Vyhrazené“ dokumentace uvedená v příloze č. 2 odst. 1,\nb) pro stupeň utajení „Důvěrné“ dokumentace uvedená v příloze č. 2 odst. 2,\nc) pro stupeň utajení „Tajné“ dokumentace uvedená v příloze č. 2 odst. 3,\nd) pro stupeň utajení „Přísně tajné“ dokumentace uvedená v příloze č. 2 odst. 4.\n(5) Úřad si v případě potřeby může dále vyžádat\na) další doplňující podklady nebo údaje potřebné k provedení certifikace kryptografického prostředku,\nb) seznámení svého hodnotitelského týmu s kryptografickým prostředkem, a to zejména s instalací, parametry, pravidly používání, použitými kryptografickými klíči a klíčovým hospodářstvím,\nc) poskytnutí možnosti využít uživatelského prostředí žadatele o certifikaci, ve kterém bude kryptografický prostředek používán, za účelem posouzení vlivu tohoto prostředí na bezpečnostní požadavky ochrany utajovaných skutečností,\nd) doložení úrovně bezpečnostních opatření při výzkumu, vývoji, výrobě a distribuci certifikovaného prostředku a klíčového hospodářství.\n(6) Úřad převezme žádost o certifikaci kryptografického prostředku, zkontroluje úplnost dokumentace přiložené podle odstavců 3 a 4 a potvrdí převzetí potřebného počtu kusů kryptografického prostředku. V případě zjištění nedostatků v úplnosti dokumentace přiložené podle odstavců 3 a 4 vyzve Úřad žadatele, aby ve stanoveném termínu nedostatky odstranil. Neodstraní-li žadatel vytčené nedostatky, Úřad certifikaci neprovede a žádost, včetně všech podkladů a kryptografických prostředků, vrátí žadateli. Na tento důsledek musí být žadatel upozorněn.\n(7) Bude-li k provedení certifikace potřebné předložit další podklady nebo zabezpečit činnosti uvedené v odstavci 5, vyzve Úřad žadatele o předložení podkladů nebo zabezpečení činností ve stanoveném termínu. Nepředloží-li žadatel požadované podklady nebo nezabezpečí-li požadované činnosti, Úřad v certifikaci nepokračuje a žádost, včetně všech podkladů a kryptografických prostředků, vrátí žadateli. Na tento důsledek musí být žadatel ve výzvě upozorněn.\n(8) Hodnocení kryptografického prostředku se provádí posouzením podkladů předložených žadatelem a ověřením shody zjištěných parametrů kryptografického prostředku s bezpečnostními standardy.\n(9) Na základě výsledků hodnocení Úřad posoudí způsobilost kryptografického prostředku k ochraně utajovaných skutečností. Zjistí-li Úřad shodu hodnoceného kryptografického prostředku s bezpečnostními standardy, schválí jeho způsobilost a vydá žadateli certifikát. Vzor certifikátu kryptografického prostředku je uveden v příloze č. 4.\n(10) Nesplňuje-li hodnocený kryptografický prostředek způsobilost pro požadovaný stupeň utajení a zjistí-li Úřad jeho shodu s bezpečnostními standardy pro nižší než požadovaný stupeň utajení, vydá Úřad certifikát pro tento nižší stupeň utajení.\n(11) Uznat certifikát kryptografického prostředku potvrzující ověření a schválení způsobilosti pro ochranu utajovaných skutečností vydaný cizí mocí lze, pouze pokud tak stanoví mezinárodní smlouva, kterou je Česká republika vázána, nebo na základě vzájemnosti a shody hodnotících kritérií. Ve Věstníku Úřadu se uveřejní seznam certifikačních pracovišť cizí moci, jejichž certifikát kryptografického prostředku lze uznat, a seznam kryptografických prostředků certifikovaných cizí mocí, jejichž certifikát byl uznán Úřadem.\n(12) Ve Věstníku Úřadu se uveřejní seznam certifikovaných technických prostředků pro jednotlivé stupně utajení s uvedením doby platnosti certifikátu.\n(13) Úřad po skončení certifikace vrátí žadateli o certifikaci pouze jím předložené kryptografické prostředky. Žádost o certifikaci kryptografického prostředku, dokumentaci přiloženou k žádosti podle odstavce 3 a další doplňující podklady a údaje potřebné k provedení certifikace vyžádané podle odstavce 5 se žadateli o certifikaci nevracejí a zůstávají součástí certifikačního spisu.\n(14) Doba platnosti certifikátu kryptografického prostředku vydaného Úřadem je\na) pro stupeň utajení „Vyhrazené“ 6 let,\nb) pro stupně utajení „Důvěrné“, „Tajné“ nebo „Přísně tajné“ 5 let.\n(15) Platnost certifikátu kryptografického prostředku zaniká uplynutím doby jeho platnosti nebo rozhodnutím Úřadu v případě, že kryptografický prostředek pozbyl shody s bezpečnostními standardy."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Náležitosti certifikátu kryptografického prostředku",
+      "content": "Certifikát kryptografického prostředku obsahuje\na) identifikaci kryptografického prostředku včetně označení verze, pro který je vydáván,\nb) identifikaci certifikátu přidělenou Úřadem,\nc) identifikaci držitele,\nd) identifikaci dodavatele,\ne) stupeň utajení utajovaných informací, pro který byla schválena jeho způsobilost,\nf) dobu platnosti certifikátu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Vedení přehledu certifikovaných kryptografických prostředků",
+      "content": "(1) Úřad vede přehled certifikovaných kryptografických prostředků. K certifikovanému kryptografickému prostředku se vede certifikační spis, do kterého se zakládá žádost o certifikaci kryptografického prostředku, dokumentace přiložená k žádosti o certifikaci podle § 9 odst. 3, další doplňující podklady nebo údaje potřebné k provedení certifikace vyžádané podle § 9 odst. 5, výsledky certifikačního řízení a kopie vydaného certifikátu.\n(2) Certifikační spis lze skartovat nejdříve po 15 letech ode dne ukončení platnosti certifikace kryptografického prostředku.\nUstanovení přechodná a závěrečná"
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Přechodná ustanovení",
+      "content": "(1) Kryptografický prostředek, který byl ke dni účinnosti zákona používán k ochraně státního, hospodářského nebo služebního tajemství podle dosavadní právní úpravy,2) kterému bylo nejpozději ke dni předcházejícímu den účinnosti zákona vydáno Ministerstvem vnitra osvědčení nebo u kterého bylo ke dni předcházejícímu den účinnosti zákona schváleno Ministerstvem vnitra jeho používání k ochraně státního, hospodářského a služebního tajemství, se považuje za certifikovaný kryptografický prostředek podle této vyhlášky nejpozději do 31. prosince 2001.\n(2) Statutární orgán stanoví, které kryptografické prostředky uvedené v odstavci 1 považuje za certifikované kryptografické prostředky podle této vyhlášky.\n(3) Algoritmy, které byly schváleny Ministerstvem vnitra pro použití ve státní správě přede dnem účinnosti této vyhlášky, se považují za algoritmy schválené Úřadem.\n(4) Osvědčení pracovníka šifrové služby vydané Ministerstvem vnitra nebo Ministerstvem obrany před nabytím účinnosti této vyhlášky se považuje za potvrzení o odborné způsobilosti pracovníka kryptografické ochrany utajovaných skutečností podle § 7 této vyhlášky. Platnost osvědčení končí, pominou-li podmínky pro jeho vydání, nebo uplynutím doby, na kterou bylo vydáno, nejpozději do 31. prosince 2001."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost vyhlášky",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 k vyhlášce č. 76/1999 Sb.\nPříloha č. 2 k vyhlášce č. 76/1999 Sb.\nSeznam předkládané dokumentace k žádosti o certifikaci kryptografického prostředku\nPředkládaná dokumentace k certifikaci kryptografického prostředku musí být v českém jazyce a v tištěné nebo elektronické podobě na běžných nosičích elektronického zpracování ve srozumitelném tvaru.\nDokumentace musí obsahovat následující údaje, podle stupně utajení chráněných nebo zpracovávaných utajovaných skutečností:\n(1) Vyhrazené\na) určení a vymezení způsobu použití prostředku,\nb) typ uživatelského prostředí a systémové začlenění prostředku,\nc) návod k obsluze prostředku,\nd) základní kryptografické parametry, typ kryptografického algoritmu, matematický model všech použitých kryptografických metod v hodnoceném kryptografickém prostředku,\ne) verifikační data a programy pro ověření matematického modelu algoritmu kryptografického prostředku,\nf) verifikační data a programy pro ověření a testování funkce prostředku,\ng) popis klíčového hospodářství, mohutnost a struktura klíčů kryptografického prostředku,\nh) způsob generování kryptografických klíčů kryptografického prostředku,\ni) blokové schéma a popis prostředku s vyznačením součinnostních vazeb dílčích částí,\nj) blokové schéma a popis dílčích částí - modulů prostředku,\nk) podrobně komentované zdrojové texty jednotlivých modulů prostředku,\nl) celkový zdrojový text programového vybavení prostředku umožňující překlad do tvaru shodného s certifikovaným prostředkem a jeho kontrolu,\nm) základní kryptografický rozbor prováděný při vývoji kryptografického prostředku,\nn) základní bezpečnostní rozbor prováděný při vývoji prostředku,\no) dokumentace a výsledky prováděných bezpečnostních analýz prostředku,\np) posouzení možnosti změny kryptografického algoritmu z hlediska modifikace kryptografického prostředku a licenční politiky,\nr) postup instalace prostředku,\ns) v případech stanovených zákonem nezbytné homologační osvědčení prostředku nebo již udělené certifikáty,\nt) způsob ochrany prostředku proti kompromitaci utajovaných skutečností nebo kryptologicky významných prvků parazitním vyzařováním.\n(2) Důvěrné, dokumentaci uvedenou v odstavci 1 této přílohy a dále\na) princip fyzické realizace prostředku,\nb) úplnou technickou dokumentaci prostředku a popis funkčních a technických parametrů,\nc) způsob tvorby a plnění klíčového hospodářství prostředku,\nd) způsob generování počátečních nastavení prostředku,\ne) diagnostický systém prostředku,\nf) popis použitých metod autentizace a identifikace prostředku,\ng) deinstalace prostředku.\n(3) Tajné, dokumentaci uvedenou v odstavci 2 této přílohy a dále\na) podrobný popis fyzické realizace kryptografického algoritmu, všech jeho používaných režimů činnosti, včetně kontrolních příkladů,\nb) časový diagram hlavních funkčních stavů a dílčích bloků a popis základních funkčních režimů prostředku,\nc) úplné schéma zapojení prostředku, včetně podrobného technického popisu, definičního obsahu programovatelných obvodů, mikroprogramů, pamětí apod.,\nd) úplné komentované zdrojové texty celého programového vybavení,\ne) bezpečnostní vlastnosti a technické parametry nosičů klíčů,\nf) způsob distribuce klíčového hospodářství,\ng) dobu platnosti klíčového hospodářství,\nh) způsob ochrany klíčů a kryptografického algoritmu před kompromitací,\ni) způsob likvidace kryptografických stop po deinstalaci,\nj) popis použitých metod, vlastností a bezpečnostních úrovní auditních funkcí,\nk) pravidla pro používání prostředku,\nl) pravidla pro používání nosičů klíčů,\nm) pravidla pro návrh topologie sítí prostředků,\nn) odolnost prostředku proti modifikaci kryptograficky významných částí,\no) odolnost a způsob ochrany programových částí prostředku proti virové infekci,\np) způsob pasivní ochrany prostředku,\nr) diagnostiku, průběh a způsoby testování a inicializace kryptograficky významných částí při certifikaci prostředku,\ns) diagnostiku, průběh a způsoby testování a inicializace kryptograficky významných částí při sériové výrobě prostředku.\n(4) Přísně tajné, dokumentaci uvedenou v odstavci 3 této přílohy a dále\na) detekce kryptograficky významných chyb,\nb) reakce prostředku na vnější podněty rušení,\nc) reakce prostředku na náhodné, popř. úmyslné změny pracovního prostředí,\nd) reakce prostředku na výskyt vlastní závady nebo virového napadení,\ne) odolnost prostředku proti chybě obsluhy,\nf) způsob evidence prostředku a klíčového hospodářství,\ng) bezpečnostní opatření při provádění sériové výroby prostředku,\nh) způsob provádění servisní činnosti prostředku u uživatele,\ni) bezpečnostní opatření výroby kryptografických klíčů,\nj) způsob likvidace vadných dílů a komponent při sériové výrobě a servisu prostředku,\nk) způsob likvidace použitých, popř. vadných nosičů kryptograficky významných prvků,\nl) způsob aktivní ochrany prostředků.\nPříloha č. 3 k vyhlášce č. 76/1999 Sb.\nPříloha č. 4 k vyhlášce č. 76/1999 Sb.\n1) § 37 zákona č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů.\n2) Směrnice Federálního ministerstva vnitra ze dne 6. června 1973 pro zabezpečování ochrany skutečností tvořících předmět státního, hospodářského a služebního tajemství při jejich zpracování pomocí výpočetní techniky."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "informací znalost",
+      "definition": "kterou je možné jakoukoliv formou sdělovat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "utajovanou informací informace",
+      "definition": "která je klasifikována stupněm utajení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kryptografií vědní disciplína",
+      "definition": "která rozvíjí a aplikuje matematické a fyzikální principy pro tvorbu metod a prostředků k ochraně informací za účelem jejich skrytí před nepovolanou osobou, zajištění jejich autentičnosti, zabránění jejich modifikaci, odmítnutí nebo neoprávněnému použití, (dále jen „ochrana informací“)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "klíčovými materiály",
+      "definition": "souhrn kryptografických klíčů určených pro kryptografický prostředek",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kryptografickými prostředky",
+      "definition": "zařízení, předměty, programy nebo kryptografické postupy, včetně kryptografických klíčů, které zajišťují ochranu informací",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "autentizací proces potvrzení",
+      "definition": "a tím i ustavení identity uživatele, procesu nebo jiného prvku s požadovanou mírou záruky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "identifikačními prostředky prostředky nebo systémy sloužící k prokazování identity fyzické",
+      "definition": "osoby, zejména průkazy totožnosti, optické snímače, biometrické snímače a systémy, digitální podpis a magnetické, čipové nebo bezkontaktní karty",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kompromitací případ neoprávněného nakládání s utajovanými skutečnostmi",
+      "definition": "který svými následky může způsobit porušení ochrany utajované skutečnosti při použití kryptografického prostředku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kryptograficky významným prvkem prostředek",
+      "definition": "vlastnost nebo metoda podílející se na kvalitě ochrany utajovaných skutečností, zejména kryptografický algoritmus a kryptografický klíč, generátor počátečních nastavení nebo nosič kryptografických klíčů",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "subsystémem kryptografického prostředku",
+      "definition": "zařízení používané bezprostředně s kryptografickým prostředkem a umožňující jeho požadovanou činnost v rámci systému sloužícího k ochraně utajovaných skutečností a jehož hodnocení je součástí certifikace kryptografického prostředku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kompromitujícím vyzařováním takové vyzařování",
+      "definition": "zejména elektrické, elektromagnetické, optické a akustické, které svým výskytem může způsobit únik utajovaných skutečností",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "bezpečnostním standardem zvláštní právní předpis",
+      "definition": "jehož obsah je shodný s mezinárodní technickou normou, směrnicí nebo standardem a českou státní normou nebo specifikací vydanou mezinárodní organizací a který stanoví postupy, pokyny, technická řešení, bezpečnostní parametry a organizační opatření na ochranu utajovaných skutečností.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

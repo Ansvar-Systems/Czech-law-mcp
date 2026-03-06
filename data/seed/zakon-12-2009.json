@@ -1,0 +1,256 @@
+{
+  "id": "cz:12/2009",
+  "type": "statute",
+  "title": "12/2009 Sb., Vyhláška o stanovení postupu zjišťování, vykazování a ověřování množství emisí skleníkových plynů a formuláře žádosti o vydání povolení k emisím skleníkových plynů",
+  "title_en": "",
+  "short_name": "12/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-01-13",
+  "in_force_date": "2009-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/12",
+  "description": "Vyhláška o stanovení postupu zjišťování, vykazování a ověřování množství emisí skleníkových plynů a formuláře žádosti o vydání povolení k emisím skleníkových plynů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Tato vyhláška zapracovává příslušné předpisy Evropských společenství1) a upravuje rozsah a postup zjišťování, vykazování a ověřování množství emisí skleníkových plynů ze zařízení, a to emisí z běžného provozu, z nepravidelných událostí, zejména nabíhání, odstavování a havarijních situací, ke kterým došlo v průběhu období zjišťování a vykazování.\n(2) Pro zařízení podle § 5 odst. 2 zákona se ustanovení této vyhlášky vztahují na zařízení, u kterých je prahová hodnota překročena alespoň u jedné z činností podle přílohy č. 1 k zákonu.\n(3) Vyhláška stanoví formulář žádosti o vydání povolení k emisím skleníkových plynů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "content": "Pro účely této vyhlášky se rozumí\na) vsázkou – množství paliva nebo materiálu podrobeného reprezentativnímu odběru vzorků a charakterizovaného a přemisťovaného v rámci jedné nakládky nebo kontinuálně po určitou dobu,\nb) biomasou – nefosilní a biologicky rozložitelný organický materiál pocházející z rostlin, zvířat a mikroorganismů, včetně produktů, vedlejších produktů, zbytků a odpadu ze zemědělství, lesnictví a příbuzných odvětví, jakož i nefosilní a biologicky rozložitelné organické frakce průmyslového a komunálního odpadu, včetně plynů a kapalin znovu získaných rozkladem nefosilního a biologicky rozložitelného organického materiálu,\nc) podílem biomasy – hmotnostní podíl uhlíku biologického původu vztažený na hmotnost celkového uhlíku biologického i fosilního původu ve směsném palivu,\nd) palivem z biomasy – biomasa spalovaná k energetickým účelům,\ne) emisemi ze spalování – emise skleníkových plynů pocházející z exotermické reakce paliva s kyslíkem,\nf) emisí z procesů – emise skleníkových plynů odlišná od emise ze spalování, ke které dochází v důsledku záměrných i nezáměrných reakcí mezi chemickými látkami nebo jejich transformací, včetně chemické nebo elektrolytické redukce rud kovů, tepelným rozkladem nebo tvorbou látek pro použití jako produktu nebo suroviny,\ng) úrovní přesnosti – dosažená přesnost při stanovení aktivitních údajů, emisních faktorů a oxidačních nebo konverzních faktorů,\nh) postupem zjišťování – postup stanovení emisí přímým měřením nebo výpočtem, jakož i výběr úrovně přesnosti,\ni) obdobím vykazování – období kalendářního roku, v němž jsou emise zjišťovány a vykazovány,\nj) emisním hlášením – výkaz provozovatele zařízení o celkovém množství emisí skleníkových plynů,\nk) aktivitním údajem – informace o materiálových tocích, spotřebě paliva, vstupní surovině nebo výstupním produktu, vyjádřené buď jako energetický obsah [v terajoulech (TJ)] stanovený pomocí výhřevnosti v případě paliva nebo jako materiálový vstup nebo výstup [v tunách (t) nebo obvyklých metrech krychlových (Nm3)] v ostatních případech,\nl) emisním faktorem – faktor vycházející z obsahu uhlíku v palivech nebo vstupním materiálu, vyjádřené v tCO2/TJ nebo tCO2/Nm3 v případě spalovacích emisí a v tCO2/t nebo tCO2/Nm3 v případě emisí z procesů,\nm) zdrojem – konkrétní proces nebo konkrétní místo, kde dochází v daném zařízení k emisi skleníkových plynů,\nn) méně významným zdrojem – zdroj, jehož roční emise nepřekračuje 5 kt, nebo zdroje, které se dohromady nepodílejí na celkové emisi více než z 10 %, maximálně však 100 kt,\no) nejméně významným zdrojem – zdroj, jehož roční emise nepřekračuje 1 kt, nebo zdroje, které se dohromady nepodílejí na celkové emisi více než z 2 %, maximálně však 20 kt,\np) zdrojovým tokem – konkrétní druh paliva, surovina nebo produkt způsobující emise příslušných skleníkových plynů v jednom nebo více zdrojích v důsledku jeho spotřeby nebo produkce,\nq) méně významným zdrojovým tokem – zdrojový tok, jehož roční emise nepřekračuje 5 kt, nebo zdrojové toky, které se dohromady nepodílejí na celkové emisi více než z 10 %, maximálně však 100 kt,\nr) nejméně významným zdrojovým tokem – zdrojový tok, jehož roční emise nepřekračuje 1 kt, nebo zdrojové toky, které se dohromady nepodílejí na celkové emisi více než z 2 %, maximálně však 20 kt,\ns) technickou proveditelností – možnost provozovatele zařízení v požadované době získat technické zdroje schopné plnit požadavky navrhovaného systému,\nt) komerčním standardním palivem – mezinárodně normalizované komerční palivo, které vykazuje 95% interval spolehlivosti, nejvýše ± 1 % jejich specifikované výhřevnosti, a to včetně zemního plynu, plynového oleje, lehkého a těžkého topného oleje, benzínu, petroleje, kerosinu, ethanu, propanu a butanu,\nu) komerčním materiálem – materiál konkrétního složení, se kterým se často a volně obchoduje, pokud se s konkrétní vsázkou obchoduje mezi ekonomicky nezávislými stranami,\nv) zařízením kategorie A – zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou rovny nejvýše 50 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí,\nw) zařízením kategorie B – zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou větší než 50 kt a rovny nejvýše 500 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí,\nx) zařízením kategorie C – zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou větší než 500 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí,\ny) kontinuálním měřením emisí – soubor činností, které mají za cíl stanovit hodnotu veličiny pomocí pravidelného měření několikrát za hodinu, přičemž se používají buď měření na místě v komíně, nebo extraktivní metody, při nichž je měřicí přístroj umístěn v blízkosti komína; nezahrnují se postupy měření založené na shromažďování jednotlivých vzorků z komína,\nz) neúměrně vysokými náklady – náklady na opatření nepřiměřené jeho celkovým přínosům stanoveným Ministerstvem životního prostředí (dále jen „ministerstvo“), přičemž\n1. při výběru úrovní přesnosti může být prahová hodnota definována jako hodnota povolenek odpovídající zlepšení úrovně přesnosti,\n2. při opatření zvyšujícím kvalitu vykazovaných emisí, ale bez přímého dopadu na přesnost, mohou neúměrně vysoké náklady odpovídat podílu překračujícímu indikativní prahovou hodnotu 1 % průměrné hodnoty z dostupných údajů o emisích buď vykázaných za předchozí období obchodování, nebo pro zařízení bez tohoto období z údajů použitých z reprezentativních zdrojů vykonávajících stejné nebo srovnatelné činnosti jako referenční a v poměru k jejich kapacitě."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob zjišťování",
+      "content": "(1) Emise se zjišťují postupem založeným na výpočtu nebo postupem založeným na měření nebo kombinací obou metod v případě stanovení emisí z různých dílčích zdrojů a zdrojových toků spadajících pod jedno zařízení. Při tomto kombinovaném stanovení emisí provozovatel zařízení zajistí, aby nedošlo k vynechání nebo ke dvojímu započítání emisí. Provozovatel zařízení zjišťuje emise v souladu se zásadami stanovenými v příloze č. 1 k této vyhlášce.\n(2) Provozovatel zařízení vytváří podrobný popis postupu zjišťování pro své zařízení, který je součástí žádosti o povolení k emisím skleníkových plynů podle § 4 zákona. Popis postupu zjišťování pro dané zařízení obsahuje\na) popis zařízení a činností v něm vykonávaných, které mají být monitorovány,\nb) přehled o odpovědnostních vztazích za zjišťování a vykazování uvnitř zařízení podle bodu 7 části B Plánu zjišťování a vykazování emisí skleníkových plynů,\nc) seznam zdrojů emisí a zdrojových toků, které mají být monitorovány, pro každou z činností vykonávaných v zařízení,\nd) popis metodiky založené na výpočtu nebo metodiky založené na měření, která má být použita,\ne) soupis úrovní přesnosti podle § 8 aplikovaných pro aktivitní údaje, emisní faktory, oxidační nebo konverzní faktory pro každý ze zdrojových toků, které mají být monitorovány,\nf) popis typu, specifikace a přesné umístění měřicích zařízení použitých pro každý ze zdrojových toků, které mají být monitorovány,\ng) doklady prokazující soulad s prahovými hodnotami nejistoty pro údaje o činnosti a případně ostatní parametry pro použité úrovně přesnosti pro každý zdrojový tok,\nh) popis přístupu použitého pro vzorkování paliva nebo materiálu pro stanovení výhřevnosti, obsahu uhlíku, emisních faktorů, oxidačních nebo konverzních faktorů a podílu biomasy v palivu pro každý ze zdrojových toků, které mají být monitorovány,\ni) popis zamýšlených analytických postupů pro stanovení výhřevnosti, obsahu uhlíku, emisních faktorů, oxidačních nebo konverzních faktorů a podílu biomasy v palivu pro každý ze zdrojových toků, které mají být monitorovány,\nj) seznam a popis neakreditovaných laboratoří a příslušných analytických postupů, včetně seznamu všech příslušných opatření pro zabezpečení kvality, například mezilaboratorní porovnání,\nk) popis kontinuálního systému měření emisí, bude-li použit pro zjišťování dílčího zdroje, tedy místa měření, frekvence měření, použitého přístroje, kalibrační procedury, sběru dat a odpovídající kontroly kvality dat,\nl) při použití tak zvaného nouzového přístupu zevrubný popis postupu a analýza nejistot, pokud již nejsou zahrnuty v písmenech a) až k),\nm) popis standardních kontrolních postupů zajišťujících kvalitu dat,\nn) informace o příslušném propojení s činnostmi vykonávanými v rámci řízení podniku a auditu z hlediska životního prostředí, pokud jsou tyto činnosti vykonávány, zejména o postupech a kontrolách s významem monitorování a vykazování emisí skleníkových plynů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Měření",
+      "content": "(1) Měření emisí kontinuálními měřicími systémy pro každý dílčí zdroj může provozovatel zařízení navrhnout, pokud\na) jsou použity normy CEN, ISO nebo ČSN,\nb) je předložena analýza nejistot podle § 16 odst. 1,\nc) měření spolehlivě poskytuje přesnější výsledky než výpočet používající kombinaci nejvyšších úrovní přesnosti, nebo\nd) srovnání měření a výpočtu je založeno na shodném seznamu zdrojů a emisí.\n(2) Pro každé období vykazování potvrdí provozovatel zařízení shodu naměřených hodnot s hodnotami vypočtenými potvrzovacím výpočtem postupem podle § 5. Pro potvrzovací výpočet emisí lze obecně použít nižší úrovně přesnosti, tedy i minimální úroveň přesnosti 1.\n(3) Pro stanovení koncentrací CO2 i pro stanovení objemového průtoku spalin nebo jiného vstupního plynu lze použít jen normalizované měřicí postupy v pořadí CEN, ISO, ČSN.\n(4) Provozovatel zařízení zajistí, že u použitého měřicího zařízení je pravidelně prověřována jeho funkčnost a chování včetně\na) časové odezvy,\nb) linearity,\nc) interference,\nd) posunu nulové linie a rozpětí,\ne) přesnosti v porovnání s referenční metodou.\n(5) Měřené emise CO2 připadající na biomasu se odečtou od celkových emisí CO2 daného zařízení na základě potvrzovacího výpočtu a následně je provozovatel zařízení vykazuje odděleně jako zvláštní položku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Výpočet",
+      "content": "(1) Provozovatel zařízení vypočte emise CO2 jako součin aktivitního údaje, emisního faktoru a oxidačního nebo konverzního faktoru nebo použije specifické výpočty uvedené v příloze č. 2 k této vyhlášce.\n(2) CO2 neemitovaný z daného zařízení, ale přemístěný jinam jako čistá substance, jako složka paliva nebo jako vstupní surovina pro chemický nebo papírenský průmysl, se od vypočtené úrovně emisí odečte a vykáže odděleně jako zvláštní položka. Přemístěným CO2 se rozumí zejména\na) čistý CO2 použitý pro karbonizaci nápojů,\nb) čistý CO2 použitý jako suchý led,\nc) čistý CO2 používaný jako hasicí médium, chladicí médium nebo pro laboratorní účely,\nd) čistý CO2 používaný jako rozpouštědlo v potravinářském a chemickém průmyslu,\ne) CO2 používaný jako surovina v chemickém nebo papírenském průmyslu,\nf) CO2, který je částí paliva exportovaného mimo zařízení,\ng) uhličitany vázané v absorpčním produktu sušeném rozprašováním z polosuchého čištění spalin.\nZa čistý CO2 se považuje látka, která obsahuje nejméně 97 % hmotnostních CO2.\n(3) CO2 zastoupený jako část palivové směsi, která se používá v zařízení, se zahrnuje do emisního faktoru tohoto paliva a vykazuje se jako emise v tom zařízení, kde je toto palivo obsahující CO2 spalováno.\n(4) Zachycený a uschovaný CO2 se nezahrne do emisí daného zařízení."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Emise ze spalování",
+      "content": "(1) V případě emisí ze spalování je aktivitní údaj založen na spotřebě paliv. Množství paliva se vyjadřuje v jednotkách energetického obsahu v TJ. Skutečnost, že během spalování se převážná část uhlíku obsažená v palivu zoxiduje na CO2, přičemž část uhlíku může zůstat nezoxidovaná v popelu nebo se tvoří saze, se zohlední oxidačním faktorem vyjádřeným jako podíl zoxidovaného uhlíku, kdy jeho maximální hodnota je rovna jedné. Emisní faktor v sobě může zahrnovat i faktor oxidační, v tom případě se oxidační faktor již nevyjadřuje. Emise CO2 vyjádřené v tunách se vypočtou jako součin spotřeby paliva v TJ, emisního faktoru vyjádřeného v t/CO2 na TJ a oxidačního faktoru.\n(2) Podrobnosti o způsobu výpočtu jsou uvedeny v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Emise z procesů",
+      "content": "(1) V případě emisí z procesů jsou aktivitní údaje založené na spotřebě suroviny, prosazení nebo vyrobeného produktu v tunách nebo obvyklých metrech krychlových. Uhlík obsažený ve vstupní surovině, který není přeměněn na CO2 během procesu, se zohlední v konverzním faktoru. V případě převedení veškerého uhlíku v surovině na CO2 je konverzní faktor roven jedné. Obsahuje-li emisní faktor v sobě faktor konverzní, konverzní faktor se již nevyjadřuje. Množství vstupního materiálu lze vyjádřit buď hmotnostně nebo objemově. Emise CO2 vyjádřené v tunách se vypočtou jako součin aktivitního údaje vyjádřeného v tunách nebo metrech krychlových, emisního faktoru vyjádřeného v t/CO2 na tunu nebo na metr krychlový a konverzního faktoru.\n(2) Podrobnosti o způsobu výpočtu jsou uvedeny v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Úroveň přesnosti",
+      "content": "(1) Úroveň přesnosti slouží k určování proměnných, jimiž jsou aktivitní údaje, emisní faktory, oxidační nebo konverzní faktory. Zvyšující se číslo úrovně přesnosti znamená vyšší přesnost, v případě stejné úrovně přesnosti za použití rozdílných přístupů jsou tyto přístupy rozlišeny písmeny. V případě použití alternativních postupů označených stejným číslem a různými písmeny lze provést změnu postupu, pokud se prokáže, že tato změna povede ke zvýšení přesnosti.\n(2) Pro stanovení všech proměnných použije provozovatel zařízení u všech zdrojových toků ve všech zařízeních kategorie B nebo C pro účely zjišťování a vykazování nejvyšší úroveň přesnosti. Nejvyšší úroveň přesnosti nemusí být použita u oxidačních faktorů a pro komerční standardní paliva u výhřevnosti a oxidačních a emisních faktorů. Nižší úroveň přesnosti pro příslušné proměnné v rámci zjišťovacího postupu je možné použít pouze, pokud se prokáže, že nejvyšší úroveň přesnosti není technicky proveditelná, nebo vyžaduje nepřiměřeně vysoké náklady. Pokud je to technicky proveditelné, použije provozovatel zařízení pro všechny proměnné všech významných zdrojových toků minimálně ty úrovně přesnosti, které jsou uvedeny v příloze č. 3 k této vyhlášce.\n(3) Nejnižší úrovně přesnosti lze použít tam, kde se jedná o méně významné zdroje nebo méně významné zdrojové toky. U nejméně významných zdrojů nebo u nejméně významných zdrojových toků lze k monitorování a vykazování použít postupy založené na vlastní metodě odhadu a bez stanovených úrovní přesnosti. Pro paliva z čisté biomasy mohou být použity postupy nižších úrovní přesnosti nebo přístupy bez stanovených úrovní přesnosti, mezi které patří metoda energetické bilance, pokud by se takto vypočítané emise neodečítaly od emisí stanovených na základě kontinuálního měření. Za čistou biomasu se považuje palivo, které obsahuje nejméně 97 % podílu uhlíku pocházejícího z biomasy v celkovém množství uhlíku v palivu. Všechny ostatní zdroje nebo zdrojové toky jsou považovány za významné.\n(4) Pokud pro dočasné technické problémy nelze aplikovat předepsané úrovně přesnosti, aplikuje se nejvyšší dosažitelná úroveň přesnosti do té doby, než se podaří návrat k původnímu stavu. Dočasnou změnu provozovatel zařízení bez prodlení nahlásí ministerstvu s uvedením důvodů, které k této změně vedly.\n(5) Změny v úrovních přesnosti podle odstavce 4 provozovatel zařízení plně dokumentuje. Mezery v datech způsobené výpadky měřicích zařízení je nutno minimalizovat. Dojde-li ke změně úrovní přesnosti uvnitř období vykazování, výsledky pro ovlivněné činnosti se započtou a oznámí v oddělených sekcích emisního hlášení pro obě části období vykazování, tedy pro období před změnou a pro období po změně úrovně přesnosti.\n(6) Přehled předepsaných úrovní stanovení emisí pro různé typy činností podle přílohy č. 1 zákona uvádí tabulka v příloze č. 3 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Stanovení aktivitních údajů",
+      "content": "(1) Nelze-li aktivitní údaje potřebné pro výpočet emisí měřit přímo před vstupem do procesu a jestliže tato vyhláška nestanoví jinak, stanoví se s ohledem na změny zásob jako vztah\nMateriál C = Materiál P + (Materiál S – Materiál E) – Materiál O,\nkde Materiál C je materiál zpracovaný během období vykazování,\nMateriál P je materiál koupený během vykazovaného období,\nMateriál S je materiál skladovaný na začátku vykazovaného období,\nMateriál E je materiál skladovaný na konci vykazovaného období,\nMateriál O je materiál použitý pro ostatní účely (dopravený jinam nebo odprodaný).\n(2) V případech, kdy to není technicky proveditelné nebo pokud by to vedlo k nepřiměřeně vysokým nákladům při stanovení Materiálu S a Materiálu E měřením, lze tyto dvě hodnoty odhadnout na základě dat z kalendářního roku před obdobím vykazování a korelace s produkcí za období vykazovaní a doložit je podpůrnými a dokumentovanými výpočty a s příslušnými finančními výkazy. Stanovení všech ostatních hodnot majících vliv na výběr úrovně přesnosti se provádí podle pokynů uvedených v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Použití emisních faktorů",
+      "content": "(1) Emisní faktor vztažený na jednotku hmotnosti, tedy tCO2/t, lze použít i pro případ paliva, pokud se prokáže, že tak bude dosaženo trvale vyšší přesnosti než při použití emisního faktoru standardně vztaženého na energii obsaženou v palivu, tedy tCO2/TJ.\n(2) Pro konverzi uhlíku na oxid uhličitý se použije koeficientu 3,664 [tCO2/ tC], přičemž se uvažují relativní atomové hmotnosti 12,011 pro uhlík a 15,9994 pro kyslík.\n(3) Vyšší úrovně přesnosti s většími požadavky na přesnost lze použít jen při dodržení pravidel uvedených v § 12.\n(4) Referenční emisní faktory pro úroveň přesnosti 1 jsou stanoveny v příloze č. 4 k této vyhlášce. Jestliže palivo nepatří do některé z kategorií paliv uvedených v této příloze, zařadí provozovatel zařízení palivo do některé příbuzné kategorie paliv.\n(5) Emisní faktory jsou stanoveny následujícím způsobem:\na) pro biomasu je stanoven emisní faktor 0; emise CO2 pocházející z biomasy se nezapočítávají; skutečné emise z biomasy se vykazují odděleně od ostatních emisí daného zařízení ve formuláři podle přílohy č. 5 k této vyhlášce; seznam materiálů považovaných za biomasu je uveden v příloze č. 6 k této vyhlášce,\nb) pro odpady obsahující fosilní uhlík a používané jako paliva nejsou emisní faktory stanoveny, použijí se odvozené hodnoty podle pravidel uvedených v § 12,\nc) pro paliva nebo materiály obsahující fosilní nebo nefosilní uhlík se stanoví vážený emisní faktor, založený na zastoupení fosilního uhlíku v celkovém množství uhlíku, tedy fosilního a biogenního; tento výpočet musí být transparentní, náležitě zdokumentovaný a v souladu s pravidly uvedenými v § 12.\n(6) Všechny relevantní informace týkající se emisních faktorů, včetně informačních zdrojů a výsledků analýzy paliv, vstupního nebo výstupního materiálu, provozovatel náležitě zdokumentuje a příslušnou dokumentaci uloží pro případ kontroly."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Použití oxidačních a konverzních faktorů",
+      "content": "(1) Oxidační nebo konverzní faktor se použije v těch případech, kdy emisní faktor nezohledňuje fakt, že část uhlíku zůstává nezoxidována.\n(2) Výpočet oxidačního nebo konverzního faktoru se řídí pravidly stanovenými v § 12.\n(3) Jestliže různá paliva nebo materiály jsou použity uvnitř zařízení a počítají se technologicky specifické oxidační faktory, lze stanovit jeden agregovaný oxidační faktor nebo přiřadit nekompletní oxidaci pouze jednomu proudu paliva nebo materiálu a u ostatních uvažovat hodnotu faktorů rovnu jedné.\n(4) Všechny relevantní informace týkající se oxidačních a konverzních faktorů, včetně informačních zdrojů a výsledků analýzy paliv, vstupního nebo výstupního materiálu, se náležitě zdokumentují a příslušná dokumentace uloží pro případ kontroly."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Stanovení výhřevnosti a emisních faktorů pro paliva, technologicky specifických oxidačních faktorů, emisních faktorů pro jiné než spalovací procesy a údajů o složení a podílu biomasy",
+      "content": "(1) Při procedurách aplikovaných na\na) vzorkování paliva a na určení jeho výhřevnosti, stanovení obsahu uhlíku a emisního faktoru, zejména vzorkovací frekvence, vzorkovací procedury, stanovení spalného tepla a výhřevnosti nebo obsahu uhlíku pro různé typy paliv,\nb) vzorkování paliva a na určení jeho technologicky specifických oxidačních faktorů, zejména na stanovení obsahu uhlíku v sazích, popelu a odpadech,\nc) vzorkování a na stanovení složení příslušného materiálu nebo proces odvození emisního faktoru,\nd) vzorkování paliva a na stanovení podílu biomasy v něm se použijí příslušné CEN normy. Neexistují-li normy CEN, použijí se normy ISO nebo národní normy ČSN. Pokud neexistují žádné použitelné normy, postupy mohou být prováděny podle návrhů těchto norem nebo podle metodických pokynů přijatých provozovateli zařízení v dohodě s ministerstvem. Odebraný vzorek pro danou vsázku musí být dostatečně reprezentativní.\n(2) Pro stanovení emisních faktorů, obsahu uhlíku a výhřevnosti se přednostně použije laboratoř akreditovaná podle normy EN ISO/IEC 17025 s výjimkou případu, kdy provozovatel zařízení ministerstvu doloží, že laboratoř splňuje požadavky rovnocenné požadavkům stanoveným v normě EN ISO/IEC 17025. Příslušné laboratoře a související analytické postupy musí být uvedeny v plánu zjišťování a vykazování emisí skleníkových plynů pro dané zařízení.\n(3) Je nutné dodržovat všeobecně akceptované praktiky pro reprezentativní vzorkování a vyloučit odvozené oxidační faktory, stanovené složení, emisní faktor, stanovený obsah uhlíku, výhřevnosti, emisní faktory a vsázky biomasy, které nejsou dostatečně reprezentativní a jsou zatíženy systematickou chybou.\n(4) Stanovené emisní a oxidační faktory se použijí jen pro ty vsázky paliva, které byly shledány jako reprezentativní. Plná dokumentace procedur použitých v příslušné laboratoři pro stanovení složení, emisního faktoru, oxidačního faktoru a stanovení podílu biomasy včetně plného souboru výsledků se uschová a zpřístupní autorizované osobě.\n(5) Podíl biomasy v palivu se stanoví například metodou manuálního roztřídění složek směsných materiálů, diferenční metodou stanovující výhřevnost binárních směsí a jejich čisté složky nebo isotopickými metodami založenými na analýze uhlíku 14. Není-li stanovení podílu biomasy ve směsném palivu technicky proveditelné nebo je zatíženo neúměrnými náklady, uvažuje se v takových případech podíl biomasy jako nulový."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Požadavky na zařízení s nízkými emisemi",
+      "content": "(1) Provozovatel zařízení s vykázanými emisemi nižšími než 25 kt v průměru za rok během předchozího obchodovacího období může, pokud to stanoví povolení,\na) použít informace o odhadu nejistoty údajů o činnosti měřicích přístrojů od jejich dodavatele, přičemž odhad nejistoty se neváže na zvláštní podmínky použití měřicích přístrojů,\nb) používat nižší úrovně přesnosti, s minimální úrovní přesnosti 1, pro všechny zdrojové toky a příslušné proměnné,\nc) zjišťovat emise zjednodušeným postupem, což znamená, že nemusí použít postup podle § 3 odst. 2 písm. a), b), c), e), f), k) a l),\nd) stanovit použití paliv nebo materiálů na základě záznamů o nákupech a odhadu změn zásob bez dalšího uvažování nejistot,\ne) pro potřebu ověřování emisního hlášení nepředkládat důkazy o plnění požadavků na kalibraci podle § 20.\n(2) Ustanovení odstavce 1 se vztahuje i na provozovatele zařízení, u kterého nelze vycházet z vykazovaných údajů o emisích, protože již nejsou použitelné v důsledku změn na zařízení nebo provozních podmínek nebo chybí-li ověřené emise z předchozích let, pokud lze při vydání nového povolení či změně stávajícího povolení předpokládat, že emise v příštích pěti letech nepřekročí ročně množství 25 kt."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Vyhodnocení nejistoty",
+      "content": "(1) Nejistotu při zjišťování emisí podle § 3 je nutno omezit na minimum. Maximální přípustná nejistota se vyjadřuje na základě intervalu spolehlivosti, odpovídajícího hladině pravděpodobnosti 95 %.\n(2) Typické hodnoty nejistot při stanovení emisí CO2 při činnostech nebo dílčích zdrojích rozdílné emisní mohutnosti E uvádí tabulka v příloze č. 7 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Nejistoty při výpočtu",
+      "content": "(1) V případě použití postupu založeného na výpočtu se navrhne v popisu postupu podle § 3 odst. 2 kombinace úrovní přesnosti zahrnujících nejistotu pro každý zdroj daného zařízení a tato kombinace se uvede ve výročním emisním hlášení zahrnujícím všechny činnosti a příslušné toky paliv a materiálu. Uvádění kombinací úrovní přesnosti v emisním hlášení je dostatečným výkazem nejistoty vykázaných emisí.\n(2) Přípustná nejistota určená pro měřicí zařízení pří úrovňovém systému musí zahrnovat specifikovanou nejistotu daného měřicího zařízení, nejistotu spojenou s kalibrací a dodatečné nejistoty vyplývající z toho, jak náležitě je přístroj používán v praxi. Uváděná hraniční čísla v úrovňovém systému se vztahují k nejistotě připadající na výslednou hodnotu pro celé období zjišťování a vykazování.\n(3) U komerčních paliv nebo materiálů může být roční tok stanoven pouze na základě fakturovaného množství paliva nebo materiálu bez dalšího samostatného důkazu souvisejících nejistot.\n(4) Zbylé nejistoty v emisních datech i v emisním hlášení se kontrolují a redukují pomocí standardních kontrolních postupů zajišťujících kvalitu dat. V průběhu ověřovacího procesu se kontroluje, zda je odsouhlasený zjišťovací postup aplikován náležitě a dále se vyhodnocuje kvalita procesu podchycení a redukce přetrvávajících nejistot prostřednictvím správné aplikace standardních kontrolních postupů zajišťujících kvalitu dat."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Nejistoty při měření",
+      "content": "(1) V případě měření podle § 4 odst. 1 provozovatel zařízení ministerstvu předkládá analýzu nejistot založenou na nejistotách majících původ v\na) kontinuálním měření koncentrací – charakteristická nejistota daného měřicího zařízení, nejistota spojená s kalibrací, dodatečná nejistota spojená s tím, jak je měřicí zařízení užíváno v praxi,\nb) měření hmotnostního nebo objemového průtoku výstupního toku při kontinuálním emisním zjišťování nebo pro provedení ověřovacího výpočtu – charakteristická nejistota daného měřicího zařízení, nejistota spojená s kalibrací, dodatečná nejistota spojená s tím, jak je měřicí zařízení užíváno v praxi,\nc) aplikaci dané výpočetní metody při určení výhřevností, emisních a oxidačních faktorů nebo určení údajů o složení pro provedení ověřovacího výpočtu – dodatečná nejistota spojená s tím, jak je daný postup užíván v praxi.\n(2) Kvantifikaci nejistoty, která vyplývá z počáteční důkladné analýzy nejistoty, uvede provozovatel zařízení v emisním hlášení. Kvantifikace této nejistoty v emisním hlášení je dostatečným výkazem nejistoty vykázaných emisí.\n(3) Zbylé nejistoty v emisních datech i v emisním hlášení provozovatel zařízení kontroluje a redukuje pomocí standardních kontrolních postupů zajišťujících kvalitu dat. V průběhu ověřovacího procesu se kontroluje, zda je odsouhlasený zjišťovací postup aplikován náležitě, a dále se vyhodnocuje kvalita procesu podchycení a redukce přetrvávajících nejistot prostřednictvím správné aplikace standardních kontrolních postupů zajišťujících kvalitu dat."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Vykazování výsledků zjišťování",
+      "content": "(1) Provozovatel zařízení vykazuje množství emisí skleníkových plynů ze zařízení na formuláři pro vykazování výsledků zjišťování emisí ověřeném autorizovanou osobou, jehož vzor je uveden v příloze č. 5 k této vyhlášce.\n(2) Součástí emisního hlášení jsou\na) údaje podle § 5 odst. 3 písm. c) zákona a identifikační číslo povolení,\nb) emisní součty, zvolený postup, tedy měření nebo výpočet, zvolená úroveň přesnosti, aktivitní údaje, kdy pro spalování musí být uvedeno jak množství, tak i energetický obsah paliva, emisní faktory, kdy u spalování se uvádějí emisní faktory vztažené na jednotku energie obsažené v palivu, a oxidační nebo konverzní faktory, tedy bezrozměrný zlomek nepřesahující jedničku pro všechny zdroje; v případě aplikace hmotnostní bilance se nahlásí hmotnostní toky, uhlíkový a energetický obsah pro každý palivový nebo materiálový proud, a to vstupní i výstupní, včetně zahrnutí jejich zásob,\nc) dočasné nebo trvalé změny úrovní přesnosti, důvody pro jejich změny, počáteční datum a konečné datum pro dočasné změny,\nd) jakékoliv další změny prováděné v daném zařízení během období vykazování, které by mohly být významné z hlediska vykazování emisí.\n(3) Zvlášť se vykazují položky, které se nezapočítají do celkového součtu emisí. Jedná se o\na) množství spalované biomasy [TJ] nebo použité v procesech [t nebo Nm3],\nb) množství CO2 [tCO2] z biomasy, kde se emise CO2 stanovují měřením,\nc) množství CO2 přemístěné ze zařízení [tCO2], jakož i udání sloučeniny, v níž byl CO2 přemístěn.\n(4) Paliva a odpovídající emise se vykáží podle přílohy č. 4 k této vyhlášce. Dále se vykáží různé druhy odpadů a emisí pocházejících z jejich použití jako paliv nebo vstupního materiálu2).\n(5) Emise pocházející z různých zdrojů jednoho zařízení patřící ke stejnému typu činnosti podle přílohy č. 1 k zákonu mohou být nahlášeny souhrnně a přiřazeny k této činnosti.\n(6) Emise se vykazují zaokrouhleně na celé tuny. Aktivitní údaje, emisní faktory, oxidační nebo konverzní faktory se zaokrouhlí tak, aby nedocházelo ke zkreslování vykazovaného množství emisí.\n(7) Každá činnost uvedená v příloze č. 1 zákona vykonaná v zařízení musí být označena oběma kódy uvedenými v příloze č. 8 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Uchovávání informací",
+      "content": "(1) Informace o zjištěném množství emisí skleníkových plynů z daného zařízení provozovatel zařízení uchovává alespoň 10 let od předložení emisního hlášení podle § 7 odst. 1 zákona. Uchovávaná data musí být takového rozsahu, aby bylo umožněno provedení ověření výročního emisního hlášení předloženého provozovatelem zařízení.\n(2) Pro zjišťování pomocí výpočtu se uchovají tyto informace\na) seznam všech monitorovaných zdrojů,\nb) aktivitní údaje použité pro jakýkoliv výpočet emisí pro každý zdroj, rozčleněné podle typu na paliva emisí ze spalování a materiály u procesních emisí,\nc) dokumenty odůvodňující výběr zjišťovacího postupu a dokumenty odůvodňující dočasné nebo trvalejší změny postupu zjišťování a výběr úrovně přesnosti potvrzený v povolení,\nd) dokumentace postupu zjišťování a výsledky odvození technologicky specifických emisních faktorů a relativního zastoupení biomasy pro konkrétní paliva, oxidačních a konverzních faktorů,\ne) dokumentace procesu sběru aktivitních údajů pro zařízení a jejich zdroje,\nf) dokumentace odpovědností ve spojitosti s emisním zjišťováním,\ng) emisní hlášení,\nh) jakékoliv další informace, které byly identifikovány jako nezbytné pro ověření emisního hlášení.\n(3) Pro zjišťování pomocí kontinuálního emisního měření se uchovají tyto informace\na) seznam všech monitorovaných zdrojů emisí,\nb) dokumenty odůvodňující volbu měření jakožto postupu zjišťování,\nc) data použitá pro analýzu nejistot pro každý zdroj, rozčleněných na procesní emise a emise ze spalování paliv,\nd) detailní technický popis systému kontinuálního měření včetně dokumentace změn v průběhu času a zápisy o provedených testech, poruchách, kalibraci, servisu a údržbě,\ne) dokumentace o provedených změnách měřicího systému."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Standardní kontrolní postupy zajišťující kvalitu dat",
+      "content": "(1) Provozovatel zařízení zajistí, aby byly všechny informace podle § 18 odst. 2 a 3 zaznamenány, kontrolovány a připraveny k nezávislému ověření.\n(2) Požadovaná kvalita standardních kontrolních postupů zajišťujících kvalitu dat se řídí systémem řízení podniku a auditu z hlediska životního prostředí nebo jiných systémů na zacházení s daty a jejich správou, včetně ISO 14001.\n(3) Standardní kontrolní postupy zajišťující kvalitu dat zahrnují vždy\na) identifikaci zdrojů podle zákona,\nb) posloupnost a vzájemné ovlivnění procesů zjišťování a vykazování,\nc) odpovědnostní vztahy,\nd) metody výpočtu nebo měření, které byly užity,\ne) použité měřicí zařízení, bylo-li použito,\nf) vykazování a záznamy,\ng) vnitřní kontrolu vykázaných dat a kvality systému,\nh) opravné a preventivní činnosti.\n(4) Autorizovaná osoba provádí kontrolu transparentnosti, zjišťování a vykazování výsledků v souladu s požadavky na standardní kontrolní postupy zajišťující kvalitu dat."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Měřicí techniky a zařízení",
+      "content": "(1) Provozovatel zařízení zajišťuje, že měřicí zařízení je zkalibrované, adjustované, ověřené a testované pomocí příslušných norem pro měření porovnatelných s mezinárodními normami pro měření, pokud jsou k dispozici, před prvním použitím a dále v pravidelných intervalech. Zjistí-li provozovatel zařízení, že přístroj zcela neodpovídá stanoveným požadavkům, vyhodnotí a zdokumentuje správnost předchozích výsledků měření a okamžitě přijme potřebná nápravná opatření. Záznamy a výsledky kalibrace a dalších testů provozovatel zařízení uschová.\n(2) Pro kontinuální měřicí systém emisí platí pokyny obsažené v normách EN 14181 a EN ISO 14956. Je-li měřením, vyhodnocováním dat a vykazováním výsledků pověřena nezávislá a akreditovaná testovací laboratoř, použije se laboratoř akreditovaná podle normy EN ISO/IEC 17025 s výjimkou případu, kdy provozovatel zařízení ministerstvu doloží, že laboratoř splňuje požadavky odpovídající požadavkům stanoveným v normě EN ISO/IEC 17025. Příslušné laboratoře a související analytické postupy musí být uvedeny v plánu zjišťování a vykazování emisí skleníkových plynů pro dané zařízení."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Správa dat",
+      "content": "(1) Při použití standardních kontrolních postupů zajišťujících kvalitu dat zajistí provozovatel zařízení, aby nedošlo k opominutím, zkreslením nebo chybám při zacházení s daty a jejich správou. Způsob provedení těchto kontrolních postupů musí provozovatel zařízení navrhnout s ohledem na komplexnost datového souboru. O použití postupů učiní provozovatel zařízení záznam, který slouží jako podklad při ověřování.\n(2) Jednoduché a efektivní standardní kontrolní postupy zajišťující kvalitu dat musí vycházet z porovnání výsledků zjišťování při použití vertikálních či horizontálních přístupů.\n(3) Vertikální přístup spočívá v porovnání emisních dat zjišťovaných v daném zařízení v různých letech, pokud se rozdíly mezi jednotlivými roky nedají vysvětlit změnami\na) v povaze prováděných činností,\nb) týkajícími se množství použitých paliv nebo materiálů, nebo\nc) týkajícími se provozních charakteristik procesů, při nichž dochází k emisím.\n(4) Horizontální přístup spočívá v porovnávání různých způsobů sběru relevantních dat, vždy se jedná o porovnání\na) dat o spotřebě paliv nebo vstupních materiálů v daných zdrojích s údaji o nákupu těchto paliv a údaji o změnách zásob,\nb) dat o celkové spotřebě paliv nebo vstupních materiálů s údaji o nákupu těchto paliv a údaji o změnách zásob,\nc) emisních faktorů, které byly stanoveny provozovatelem zařízení nebo prodejcem paliva, s národními nebo mezinárodními referenčními hodnotami3) pro porovnatelná paliva,\nd) emisních faktorů získaných na základě analýzy paliva s národními nebo mezinárodními referenčními hodnotami3) pro porovnatelná paliva,\ne) naměřených a vypočtených hodnot."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Ověřování",
+      "content": "(1) Při ověřování emisního hlášení autorizovaná osoba posuzuje, zda aplikovaný zjišťovací postup souhlasí se schváleným popisem zjišťovacího postupu a zda výsledky zjišťování obsažené v emisním hlášení jsou prosty nedostatků, zkreslení nebo chyb, které by vedly k nepřesně nahlášeným informacím.\n(2) V rámci ověřovacího procesu autorizovaná osoba vždy\na) seznámí se se všemi činnostmi realizovanými v zařízení, zdroji v tomto zařízení, měřicími přístroji použitými ke zjišťování nebo měření aktivitních údajů, způsobem odvození a aplikace emisních faktorů, oxidačních a konverzních faktorů a prostředím, ve kterém je zařízení provozováno,\nb) seznámí se se systémem zacházení s daty a jejich správou, kterou provádí provozovatel zařízení s ohledem na zjišťování a vykazování; opatří si, analyzuje a ověří data obsažená v tomto systému,\nc) vychází z akceptovatelné úrovně přesnosti ověřovacího procesu v kontextu s povahou a komplexností činností realizovaných v zařízení a zdrojích,\nd) zjišťuje stupeň rizika, zda u daného emisního hlášení mohlo dojít ke zkreslení vykázaných údajů, přičemž bere v úvahu jakýkoliv nedostatek, deformaci nebo chybu, zejména sleduje možnou netransparentnost způsobu správy dat a vychýlené nebo nekonzistentní hodnoty,\ne) sestaví plán ověřování, který koresponduje s těmito riziky a s rozsahem a komplexností činností a zdrojů v daném zařízení, a definuje jej výběrovými metodami užitými s ohledem na toto zařízení,\nf) uskuteční tento plán ověřování údajů v souladu s definovanými výběrovými metodami a zajištěním všech dodatečných faktů, na kterých autorizovaná osoba založí své závěry,\ng) prověří náležitou aplikaci postupu zjišťování, která je deklarována v povolení a která deklaruje stupeň přesnosti zjišťování pomocí příslušných úrovní přesnosti,\nh) vyžádá si v případě potřeby od provozovatele zařízení chybějící data nebo doplnění chybějící části dokumentace, vysvětlení odchylky v emisních datech nebo revizi výpočtů před tím, než bude učiněn definitivní závěr o ověřování,\ni) prověří, zda standardní kontrolní postupy zajišťující kvalitu dat byly použity v souladu s touto vyhláškou,\nj) přesvědčí se, zda zjištěné informace nenasvědčují předchozímu zkreslování výsledků.\n(3) V závěru ověřovacího procesu autorizovaná osoba vydá provozovateli zařízení doklad o výsledku ověření emisí."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Formulář žádosti",
+      "content": "Formulář žádosti o vydání povolení k emisím skleníkových plynů je uveden v příloze č. 9 k této vyhlášce. Ministerstvo zveřejňuje formulář v elektronické podobě na svých webových stránkách."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Zrušovací ustanovení",
+      "content": "Zrušuje se:\n1. Vyhláška č. 696/2004 Sb., kterou se stanoví postup zjišťování, vykazování a ověřování množství emisí skleníkových plynů.\n2. Vyhláška č. 150/2005 Sb., kterou se stanoví formulář žádosti o vydání povolení k emisím skleníkových plynů."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2009.\nPříloha č. 1 k vyhlášce č. 12/2009 Sb.\nZÁSADY ZJIŠŤOVÁNÍ A VYKAZOVÁNÍ EMISÍ SKLENÍKOVÝCH PLYNŮ\nK zajištění přesného a ověřitelného zjišťování a vykazování emisí skleníkových plynů podle zákona vychází zjišťování a vykazování následujících zásad:\na) úplnosti,\nb) konzistence,\nc) transparentnosti,\nd) pravdivosti,\ne) rentability nákladů a\nf) spolehlivosti.\nZákladní charakteristika zásad:\nÚplnost: Zjišťování a vykazování za určité zařízení zahrnuje všechny emise z procesů a ze spalování u všech zdrojů emisí a zdrojových toků náležejících k činnostem uvedeným v příloze č. 1 zákona a emise všech skleníkových plynů uvedených v souvislosti s těmito činnostmi, čímž se vyloučí dvojí započtení.\nKonzistence: Zjišťované a vykazované emise musí být vždy srovnatelné v čase, musí se používat stejné metodiky zjišťování a stejné soubory údajů. Metodiky zjišťování lze měnit v souladu s touto vyhláškou, pokud se tím zvýší přesnost vykazovaných údajů. Změny metodik zjišťování podléhají schválení ministerstvem a musí být náležitě zdokumentovány v souladu s touto vyhláškou.\nTransparentnost: Údaje, které jsou předmětem zjišťování, včetně předpokladů, odkazů, údajů o činnosti, emisních faktorů, oxidačních faktorů i konverzních faktorů, se získávají, zaznamenávají, shromažďují, analyzují a dokumentují způsobem umožňujícím ověřovateli a ministerstvu emise znovu zjistit.\nPravdivost: Je třeba zajistit, aby při zjišťování emisí nedocházelo k systematickému nadhodnocování ani podhodnocování skutečných emisí. Je-li to možné, zjistí a omezí se zdroje nejistoty. Dále je nutné dbát na to, aby byla u výpočtů a měření emisí zajištěna co nejvyšší možná přesnost. Provozovatel poskytne přiměřené záruky toho, že výkazy zjišťovaných emisí jsou úplné. Emise se zjišťují pomocí vhodných metodik zjišťování stanovených v této vyhlášce. Veškerá měřicí nebo jiná zkušební zařízení k vykazování monitorovaných údajů se vhodným způsobem používají, udržují, kalibrují a kontrolují. Elektronické tabulky a ostatní nástroje používané k uchovávání a zpracovávání monitorovaných údajů musí být bezchybné. Výkazy emisí včetně souvisejících údajů nesmějí obsahovat závažné nepřesnosti, musí se vyhnout zkreslení při výběru a předkládání informací a musí poskytovat důvěryhodný a vyvážený přehled o emisích z daného zařízení.\nRentabilita nákladů: Při výběru metodiky zjišťování se porovnávají přínosy plynoucí z vyšší přesnosti a dodatečné náklady. Proto je cílem zjišťování a vykazování emisí nejvyšší dosažitelná přesnost, pokud není technicky neproveditelná nebo nepovede k neúměrně vysokým nákladům. Vlastní metodika zjišťování logicky a jednoduše popisuje pokyny pro provozovatele, čímž se zabraňuje duplicitním činnostem a zohledňují stávající systémy existující v daném zařízení.\nSpolehlivost: Ověřený výkaz emisí musí být takový, aby se jeho uživatelé mohli spolehnout na to, že věrně popisuje to, co popisovat má, nebo to, co lze rozumně očekávat, že popisuje.\nPříloha č. 2 k vyhlášce č. 12/2009 Sb.\nPokyny ke zjišťování emisí CO2, stanovení emisí skleníkových plynů a metody odběru vzorků a frekvence analýz"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "postupem zjišťování –",
+      "definition": "postup stanovení emisí přímým měřením nebo výpočtem, jakož i výběr úrovně přesnosti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "obdobím vykazování – období kalendářního roku",
+      "definition": "v němž jsou emise zjišťovány a vykazovány",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "emisním hlášením – výkaz provozovatele",
+      "definition": "zařízení o celkovém množství emisí skleníkových plynů",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "aktivitním údajem – informace o materiálových tocích",
+      "definition": "spotřebě paliva, vstupní surovině nebo výstupním produktu, vyjádřené buď jako energetický obsah [v terajoulech (TJ)] stanovený pomocí výhřevnosti v případě paliva nebo jako materiálový vstup nebo výstup [v tunách (t) nebo obvyklých metrech krychlových (Nm3)] v ostatních případech",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zdrojem – konkrétní proces nebo konkrétní",
+      "definition": "místo, kde dochází v daném zařízení k emisi skleníkových plynů",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "méně významným zdrojem – zdroj",
+      "definition": "jehož roční emise nepřekračuje 5 kt, nebo zdroje, které se dohromady nepodílejí na celkové emisi více než z 10 %, maximálně však 100 kt",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nejméně významným zdrojem – zdroj",
+      "definition": "jehož roční emise nepřekračuje 1 kt, nebo zdroje, které se dohromady nepodílejí na celkové emisi více než z 2 %, maximálně však 20 kt",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zdrojovým tokem – konkrétní druh paliva",
+      "definition": "surovina nebo produkt způsobující emise příslušných skleníkových plynů v jednom nebo více zdrojích v důsledku jeho spotřeby nebo produkce",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "méně významným zdrojovým tokem – zdrojový tok",
+      "definition": "jehož roční emise nepřekračuje 5 kt, nebo zdrojové toky, které se dohromady nepodílejí na celkové emisi více než z 10 %, maximálně však 100 kt",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nejméně významným zdrojovým tokem – zdrojový tok",
+      "definition": "jehož roční emise nepřekračuje 1 kt, nebo zdrojové toky, které se dohromady nepodílejí na celkové emisi více než z 2 %, maximálně však 20 kt",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "technickou proveditelností – možnost provozovatele",
+      "definition": "zařízení v požadované době získat technické zdroje schopné plnit požadavky navrhovaného systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "komerčním standardním palivem – mezinárodně normalizované komerční palivo",
+      "definition": "které vykazuje 95% interval spolehlivosti, nejvýše ± 1 % jejich specifikované výhřevnosti, a to včetně zemního plynu, plynového oleje, lehkého a těžkého topného oleje, benzínu, petroleje, kerosinu, ethanu, propanu a butanu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "komerčním materiálem – materiál konkrétního složení",
+      "definition": "se kterým se často a volně obchoduje, pokud se s konkrétní vsázkou obchoduje mezi ekonomicky nezávislými stranami",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zařízením kategorie A –",
+      "definition": "zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou rovny nejvýše 50 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zařízením kategorie B –",
+      "definition": "zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou větší než 50 kt a rovny nejvýše 500 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zařízením kategorie C –",
+      "definition": "zařízení s vykazovanými průměrnými ročními emisemi za předchozí obchodovací období, které jsou větší než 500 kt fosilního CO2 před odečtením přemístěného CO2; pokud není údaj k dispozici, použije se odhad ročních emisí",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kontinuálním měřením emisí – soubor činností",
+      "definition": "které mají za cíl stanovit hodnotu veličiny pomocí pravidelného měření několikrát za hodinu, přičemž se používají buď měření na místě v komíně, nebo extraktivní metody, při nichž je měřicí přístroj umístěn v blízkosti komína; nezahrnují se postupy měření založené na shromažďování jednotlivých vzorků z komína; při výběru úrovní přesnosti může být prahová hodnota definována jako hodnota povolenek odpovídající zlepšení úrovně přesnosti; při opatření zvyšujícím kvalitu vykazovaných emisí, ale bez přímého dopadu na přesnost, mohou neúměrně vysoké náklady odpovídat podílu překračujícímu indikativní prahovou hodnotu 1 % průměrné hodnoty z dostupných údajů o emisích buď vykázaných za předchozí období obchodování, nebo pro zařízení bez tohoto období z údajů použitých z reprezentativních zdrojů vykonávajících stejné nebo srovnatelné činnosti jako referenční a v poměru k jejich kapacitě.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "čistý CO2",
+      "definition": "látka, která obsahuje nejméně 97 % hmotnostních CO2",
+      "source_provision": "§ 5"
+    }
+  ]
+}

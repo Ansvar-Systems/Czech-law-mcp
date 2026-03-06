@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:201/1953",
+  "type": "statute",
+  "title": "201/1953 Ú. l., Vyhláška ministerstva vnitřního obchodu o hmotné odpovědnosti pracovníků obchodu za zásoby.",
+  "title_en": "",
+  "short_name": "201/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-07-09",
+  "in_force_date": "1955-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/201",
+  "description": "Vyhláška ministerstva vnitřního obchodu o hmotné odpovědnosti pracovníků obchodu za zásoby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Podnikům státního a družstevního obchodu a společného stravování jsou pro plnění jejich úkolů svěřovány hospodářské prostředky určené k uspokojování potřeb pracujících. Vedení podniku, a to bez ohledu na to, komu podnik podléhá, svěřuje péči o tyto hospodářské prostředky spolehlivým a odborně způsobilým pracovníkům, kteří jsou povinni je vyúčtovat. Tito pracovníci pak mají hmotnou odpovědnost za svěřené hospodářské prostředky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Hmotně odpovědné pracovníky pověřuje výkonem funkce, zejména přijímat a vydávat zásoby podle dokladů a je skladovat, vedoucí podniku nebo jeho zástupce, u spotřebních družstev jejich předseda, a to vždy písemně a se souhlasem hlavního (vedoucího) účetního. O převzetí funkce musí být pořízen zápis, v němž hmotně odpovědný pracovník potvrdí, že přebírá k vyúčtování zásoby na základě správně zjištěného a přesně vyčísleného počátečního stavu v den převzetí a že jak za tyto zásoby, tak i za zásoby, které převezme k vyúčtování během trvání funkce, má hmotnou odpovědnost. Vedení podniku tento zápis uschová.\n(2) Účtárna podniku vede evidencí o stavu a pohybu zásob podle jednotlivých hmotně odpovědných pracovníků.\n(3) Zásobami se rozumí zásoby zboží, obalů, hotových a rozpracovaných výrobků, materiálu všeho druhu, surovin a drobných a krátkodobých předmětů na skladě."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Hmotně odpovědný pracovník je povinen provést skutečné převzetí zásob podle množství, druhů a jakosti (zboží rozbalit, přepočítat, přeměřit, převážit a pod.) ve stanovené lhůtě. Do doby, než mohlo být provedeno skutečné převzetí zásob, odpovídá za počet balíků, beden, kusů nebo množství zboží nebaleného, uvedených v dopravních nebo dodacích dokladech, a to od okamžiku doručení do provozovny a podpisu příslušného dokladu.\n(2) Po skutečném převzetí zásob odpovídá hmotně odpovědný pracovník za veškeré zásoby co do druhů, množství a jakosti podle stavu zjištěného při skutečném převzetí, a to do doby výdeje zásob. Nebylo-li skutečné převzetí provedeno ve stanovené lhůtě, odpovídá hmotně odpovědný pracovník za zásoby doručené do provozovny, co do množství, druhů a jakosti, podle dodacích nebo dopravních dokladů. Po částečném výdeji zásob odpovídá za zásoby do výše zůstatků vykázaných v účetní evidenci a za jakost podle převzetí. Při tom odpovídá zejména\na) za manka zjištěná při inventarisaci a převyšující stanovené normy,\nb) za poškození, rozbití, vyřazení následkem zhoršení jakosti a za ostatní škody a ztráty (na př. v důsledku pozdě provedené přejímky, vadné manipulace, nešetrného zacházení).\n(3) Hmotně odpovědný pracovník je při plnění svých úkolů povinen soustavně provádět všechna opatření a zabezpečení, aby se předešlo vzniku mank, škod a ztrát na zásobách, které převzal k vyúčtování. Budou-li zjištěna na zásobách převzatých k vyúčtování manka přesahující stanovené normy nebo jiné škody a ztráty, je hmotně odpovědný pracovník povinen nahradit škodu, ledaže ji nezavinil.\n(4) Při zaviněných ztrátách na zásobách je pro stanovení náhrady škody rozhodná maloobchodní cena platná v den zjištění schodku nebo ztráty. U speciálních družstevních prodejen přebytků zemědělských výrobků je pro stanovení náhrady škody rozhodná prodejní cena těchto výrobků v den zjištění schodku nebo ztráty."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Hmotnou odpovědnost za svěřené zásoby přejímá vedoucí skladu, prodejny nebo oddělení společně se svým zástupcem, po případě ještě s dalším pracovníkem skladu, prodejny nebo oddělení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1953."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zásobami",
+      "definition": "zásoby zboží, obalů, hotových a rozpracovaných výrobků, materiálu všeho druhu, surovin a drobných a krátkodobých předmětů na skladě",
+      "source_provision": "§ 2."
+    }
+  ]
+}

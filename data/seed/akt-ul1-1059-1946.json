@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1059/1946",
+  "type": "statute",
+  "title": "1059/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení oblastního orgánu pro průmysl textilní a oděvnický.",
+  "title_en": "",
+  "short_name": "1059/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-19",
+  "in_force_date": "1946-04-19",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1059",
+  "description": "Vyhláška ministra průmyslu o zřízení oblastního orgánu pro průmysl textilní a oděvnický.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. z majetkové podstaty znárodněného podniku Ružomberské textilné závody, úč. spol., se sídlem v Ružomberku, částku Kčs 500.000 na novém vkladě;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. z majetkové podstaty znárodněného podniku Žilinská súkenná továrňa, účastinná spoločnosť, se sídlem v Žilině, částku Kčs 1,000.000 na starém vkladě;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. z majetkové podstaty znárodněného podniku Tiberghien synovia, se sídlem v Trenčíně, částku Kčs 1,000.000 na starém vkladě."
+    }
+  ],
+  "definitions": []
+}

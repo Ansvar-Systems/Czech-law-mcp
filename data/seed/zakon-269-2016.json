@@ -1,0 +1,33 @@
+{
+  "id": "cz:269/2016",
+  "type": "statute",
+  "title": "269/2016 Sb., Vyhláška o způsobu tvorby podpisového kódu poplatníka a bezpečnostního kódu poplatníka",
+  "title_en": "",
+  "short_name": "269/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-08-24",
+  "in_force_date": "2016-12-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/269",
+  "description": "Vyhláška o způsobu tvorby podpisového kódu poplatníka a bezpečnostního kódu poplatníka",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob tvorby podpisového kódu poplatníka",
+      "content": "(1) Podpisový kód poplatníka je tvořen podepsaným otiskem řetězce údajů o evidované tržbě a vyjádřen v kódování Base64 podle části A přílohy k této vyhlášce.\n(2) Řetězcem údajů o evidované tržbě je posloupnost vybraných údajů o evidované tržbě uvedených v kódování UTF-8 podle části A přílohy k této vyhlášce ve tvaru, ve kterém jsou zasílány datovou zprávou, a oddělených svislým oddělovačem, kterým je znak s dekadickým kódem 124 v kódování Unicode podle části A přílohy k této vyhlášce.\n(3) Vybranými údaji o evidované tržbě jsou v tomto pořadí:\na) daňové identifikační číslo poplatníka,\nb) označení provozovny, ve které je tržba uskutečněna,\nc) označení pokladního zařízení, na kterém je tržba evidována,\nd) pořadové číslo účtenky,\ne) datum a čas přijetí tržby nebo vystavení účtenky, pokud je vystavena dříve, a\nf) celková částka tržby.\n(4) K vytvoření otisku řetězce údajů o evidované tržbě se použije kryptografická hashovací funkce SHA-256 podle části B přílohy k této vyhlášce.\n(5) Otisk řetězce údajů o evidované tržbě se podepíše podpisovým schématem RSASSA-PKCS1-v1_5 podle části C přílohy k této vyhlášce pomocí soukromého klíče, který náleží k používanému certifikátu pro evidenci tržeb platnému ke dni evidované tržby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob tvorby bezpečnostního kódu poplatníka",
+      "content": "(1) Bezpečnostní kód poplatníka je tvořen otiskem podpisového kódu poplatníka vyjádřeného v osmibitovém kódování podle části A přílohy k této vyhlášce a je vyjádřen v kódování Base16 podle části A přílohy k této vyhlášce ve formě 5 skupin po 8 znacích oddělených pomlčkou, kterou je znak s dekadickým kódem 45 v kódování Unicode podle části A přílohy k této vyhlášce.\n(2) K vytvoření otisku podpisového kódu poplatníka se použije kryptografická hashovací funkce SHA-1 podle části B přílohy k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 2016.\nPříloha k vyhlášce č. 269/2016 Sb."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:73/2009",
+  "type": "statute",
+  "title": "73/2009 Sb., Nařízení vlády o předávání informací v souvislosti s mezinárodní přepravou radioaktivního odpadu a vyhořelého jaderného paliva",
+  "title_en": "",
+  "short_name": "73/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-03-30",
+  "in_force_date": "2009-03-30",
+  "url": "https://www.e-sbirka.cz/sb/2009/73",
+  "description": "Nařízení vlády o předávání informací v souvislosti s mezinárodní přepravou radioaktivního odpadu a vyhořelého jaderného paliva",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Toto nařízení zapracovává příslušný předpis Evropských společenství1) a upravuje předávání informací v souvislosti s mezinárodní přepravou radioaktivního odpadu nebo vyhořelého jaderného paliva (dále jen „přeprava“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Státní úřad pro jadernou bezpečnost\na) neprodleně informuje o vydání povolení k přepravě příslušný orgán státu, kterého se přeprava týká,\nb) potvrzuje přijetí žádosti o povolení k přepravě příslušnému orgánu jiného členského státu Evropského společenství,\nc) informuje neprodleně příslušné orgány států, kterých se přeprava týká, o tom, že se rozhodl ukončit přepravu,\nd) oznamuje Evropské komisi všechny případy neodůvodněných prodlev nebo nedostatek spolupráce ze strany příslušných orgánů jiného členského státu Evropského společenství."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení.\n1) Směrnice Rady 2006/117/Euratom ze dne 20. listopadu 2006 o dozoru nad přepravou radioaktivního odpadu a vyhořelého paliva a o její kontrole."
+    }
+  ],
+  "definitions": []
+}

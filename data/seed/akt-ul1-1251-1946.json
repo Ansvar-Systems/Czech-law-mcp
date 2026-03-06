@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1251/1946",
+  "type": "statute",
+  "title": "1251/1946 Ú. l. I, Vyhláška ministra průmyslu zřizující národní podnik průmyslu kožedělného a gumárenského.",
+  "title_en": "",
+  "short_name": "1251/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-16",
+  "in_force_date": "1949-01-18",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1251",
+  "description": "Vyhláška ministra průmyslu zřizující národní podnik průmyslu kožedělného a gumárenského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Deutsche Gramophone G. m. b. H., se sídlem v Berlíně, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku ESTA, společnost s r. o., se sídlem v Praze, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. majetkovou podstatu podniku Ultraphon, akciová společnost pro průmysl a obchod gramofonový, se sídlem v Praze, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. majetkovou podstatu podniku The Gramophone Company (Czechoslowakia) Ltd. společnost s ručením obmezeným se sídlem v Ústí nad Labem-Střekově, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

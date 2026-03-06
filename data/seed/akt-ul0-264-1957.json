@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul0:264/1957",
+  "type": "statute",
+  "title": "264/1957 Ú. l., Vyhláška ústředního báňského úřadu, kterou se upravuje oznamování vyhledávacích a průzkumných prací státní báňské správě.",
+  "title_en": "",
+  "short_name": "264/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-12-31",
+  "in_force_date": "1958-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1957/264",
+  "description": "Vyhláška ústředního báňského úřadu, kterou se upravuje oznamování vyhledávacích a průzkumných prací státní báňské správě.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Organisace státního socialistického sektoru, které vyhledávají a prozkoumávají ložiska nerostů (§ 6 horního zákona), jsou povinny nejméně 8 dní předem oznámit obvodnímu báňskému úřadu (příslušnému podle místa prováděných prací) zahájení, přerušení, po případě skončení všech vyhledávacích a průzkumných prací."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Vrtané a kopané sondy, rýhy, šachtice, štoly a jiná důlní díla dočasného významu, hnaná za účelem vyhledávání a průzkumu ložisek (nikoliv jako otvírkové dílo pro celé ložisko) nebo za účelem zjišťování mocnosti a jiných vlastností ložisek, jakož i průzkumné práce v opuštěných důlních dílech a vrtné práce s projektovanou hloubkou do 500 m se oznamují hromadně předložením příslušného výpisu z plánu geologicko průzkumných prací.\n(2) V plánu musí být uvedeno katastrální území, na němž budou práce prováděny s případným místním označením, datum zahájení provozu, údaje o tom, na kolik směn se pracuje, datum pravděpodobného ukončení prací, jakož i jméno a adresa odpovědného vedoucího; u průzkumných prací v opuštěných důlních dílech se uvede dřívější označení těchto důlních děl, pokud je známo. Vrty je nutno označit čísly, kterých se používá v mapách a hlášeních.\n(3) V případě, že není vypracován plán uvedený v odstavci 1, ohlašují se uvedené práce hromadně podle katastrálních území s udáním okresu na formuláři, jehož vzor je uveden v příloze č. 1. K oznámení se připojí mapa se situací projektovaných vrtů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Vrtné práce s projektovanou hloubkou přes 500 m se oznamují jednotlivě na formuláři, jehož vzor je uveden v příloze č. 2. K oznámení se připojí mapa se situací projektovaného vrtu."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Je-li nutno dodatečně provést změny oproti oznámeným údajům, je třeba o nich neprodleně zpravit příslušný obvodní báňský úřad.\n(2) Při přerušení vyhledávacích a průzkumných prací, které je delší než 30 dnů, a před opětným zahájením nebo před skončením takových prací oznamuje se obvodnímu báňskému úřadu datum přerušení, skončení nebo opětného zahájení, jakož i datum předpokládané úplné likvidace vyhledávacích nebo průzkumných prací. U vrtných prací se uvede dosažená hloubka."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Oznamovací povinnosti státní báňské správě podle této vyhlášky nepodléhají\na) zemní a vrtné práce, které jsou prováděny za jiným účelem než pro vyhledávání a průzkum ložisek nerostů, jako např. geologické mapování, zemní a vrtné práce, prováděné za účelem zjištění únosnosti základové půdy, zjištění vodního režimu, hledání vody, vyhledávání přírodních léčivých zdrojů a zdrojů přirozeně se vyskytujících minerálních vod stolních a podobně,\nb) hloubení vrtů z důlních děl (podzemní vrty)."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Vyhledávací a průzkumné práce, na které se vztahuje oznamovací povinnost podle této vyhlášky a které byly započaty přede dnem její účinnosti a nebyly v této době skončeny, musí být oznámeny obvodnímu báňskému úřadu nejpozději do 31. března 1958, pokud jíž nebyly oznámeny podle dosud platných předpisů."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "(1) Dosavadní úprava hlášení kutacích, zemních, vrtních prací a hlubinných vrteb*) je zrušena.\n(2) Touto vyhláškou není dotčena oznamovací povinnost organisací provádějících vyhledávání a průzkum ložisek výkonnému orgánu místního národního výboru."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1958.\n*) Výnos ústředního báňského úřadu ze dne 30. prosince 1956, čj. 8800-350/1956."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1241/1948",
+  "type": "statute",
+  "title": "1241/1948 Ú. l. I, Vyhláška ministerstva sociální péče o zřízení společných zaměstnaneckých rad v některých finančních úřadech.",
+  "title_en": "",
+  "short_name": "1241/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-02",
+  "in_force_date": "1948-07-02",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1241",
+  "description": "Vyhláška ministerstva sociální péče o zřízení společných zaměstnaneckých rad v některých finančních úřadech.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za samostatný závod, po případě zařízení nositelů veřejné správy (se společnou zaměstnaneckou radou), se považuje v oboru finanční správy podle obdoby ustanovení § 3, odst. 3 dekretu presidenta republiky č. 104/1945 Sb. berní správa spolu s těmito finančními úřady, které mají sídlo v jejím obvodě:\nOkresní finanční ředitelství, poplatkový úřad, archiv map katastrálních, katastrální měřičský úřad, inspektorát katastrálního vyměřování, berní úřad a důchodkový kontrolní úřad."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí na celém státním území."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "samostatný závod, po případě zařízení nositelů veřejné správy (se společnou zaměstnaneckou radou",
+      "definition": "v oboru finanční správy podle obdoby ustanovení § 3, odst",
+      "source_provision": "§ 1."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1421/1946",
+  "type": "statute",
+  "title": "1421/1946 Ú. l. I, Vyhláška č. 3 Ústřední rozdělovny minerálních olejů a pohonných látek o zajištění kotlových vozů.",
+  "title_en": "",
+  "short_name": "1421/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-06-15",
+  "in_force_date": "1946-06-15",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1421",
+  "description": "Vyhláška č. 3 Ústřední rozdělovny minerálních olejů a pohonných látek o zajištění kotlových vozů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Zajištění.",
+      "content": "Za účelem hospodárného využiti kotlových vozů sloužících k přepravě zemního oleje a látek příbuzných a pohonných látek tekutých a plynných a jejich zajištění je nutno hlásit takovéto kotlové vozy podle § 2."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Povinnost hlášení.",
+      "content": "Každý držitel kotlových vozů zajištěných touto vyhláškou je povinen oznámit Rozdělovně, na Slovensku prostřednictvím Povereníctva priemyslu a obchodu, do 30. června 1946 dvojmo kotlové vozy, uvedené v § 1 podle stavu k 15. červnu 1946 s udáním:\na) jména zařaditele vozu,\nb) jména majitele vozu,\nc) vlastnické značky,\nd) čísla vozu,\ne) domovské stanice,\nf) obsahu vozu v hl,\ng) počtu dílů,\nh) zda opatřen topnými hady,\nch) zda opatřen isolací,\ni) druhu brzdy,\nj) po jakém druhu zboží,\nk) zda provozu a ložení schopen,\nl) zda provozu neschopen,\nm) jakých oprav vyžaduje."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Trestní předpisy.",
+      "content": "Přestupky této vyhlášky se trestají podle § 11 zákona č. 48 Sb., ze dne 5. března 1946 o hospodaření minerálními oleji a pohonnými látkami."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Nabytí účinnosti.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

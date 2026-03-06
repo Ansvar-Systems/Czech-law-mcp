@@ -1,0 +1,27 @@
+{
+  "id": "cz:84/1946",
+  "type": "statute",
+  "title": "84/1946 Sb., Nařízení o zavedení letního času v roce 1946",
+  "title_en": "",
+  "short_name": "84/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-05-03",
+  "in_force_date": "1946-05-03",
+  "url": "https://www.e-sbirka.cz/sb/1946/84",
+  "description": "Nařízení o zavedení letního času v roce 1946",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Počátek letního času v roce 1946 se určuje na den 6. května 1946 o druhé hodině středoevropského času."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

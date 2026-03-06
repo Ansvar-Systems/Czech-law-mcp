@@ -1,0 +1,63 @@
+{
+  "id": "cz:195/2000",
+  "type": "statute",
+  "title": "195/2000 Sb., Vyhláška Ministerstva dopravy a spojů, kterou se stanoví druhy a charakteristika koncových bodů a rozhraní veřejné telekomunikační sítě",
+  "title_en": "",
+  "short_name": "195/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-07-19",
+  "in_force_date": "2000-07-19",
+  "url": "https://www.e-sbirka.cz/sb/2000/195",
+  "description": "Vyhláška Ministerstva dopravy a spojů, kterou se stanoví druhy a charakteristika koncových bodů a rozhraní veřejné telekomunikační sítě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Druhy rozhraní",
+      "content": "Druhy rozhraní1) veřejné telekomunikační sítě2) jsou\na) koncový bod veřejné pevné telekomunikační sítě umožňující přístup uživatele k telekomunikačním službám poskytovaným prostřednictvím této sítě,\nb) koncový bod veřejné mobilní telekomunikační sítě,\nc) rozhraní pro propojování veřejných telekomunikačních sítí (propojovací bod),\nd) rozhraní pro přístup provozovatele veřejné nebo neveřejné telekomunikační sítě nebo pro přístup poskytovatele telekomunikační služby k veřejné telekomunikační síti provozované držitelem příslušné licence (přístupový bod), nebo\ne) rozhraní pro zvláštní přístup k síti mimo koncové body veřejné telekomunikační sítě zřízené na základě smlouvy o přístupu k síti podle ustanovení § 41 odst. 1 a 2 zákona.\nKoncový bod veřejné pevné sítě"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Koncovým bodem veřejné pevné telekomunikační sítě je účastnická zásuvka, svorkovnice, kabelový závěr, rozvaděč nebo jiné telekomunikační zařízení, které umožňuje připojení koncového zařízení3) nebo neveřejné telekomunikační sítě k veřejné telekomunikační síti.\n(2) Účastnická zásuvka je koncovým bodem veřejné telekomunikační sítě v případě, že je koncové zařízení připojováno k veřejné telekomunikační síti přípojnou nebo propojovací šňůrou vybavenou zástrčkou.\n(3) Koncový bod veřejné telekomunikační sítě je součástí této sítě. Zřizuje se v objektu nebo na pozemku, k němuž má účastník4) vlastnická nebo jiná práva. Technické specifikace jednotlivých druhů koncového bodu zveřejní Český telekomunikační úřad v Telekomunikačním věstníku. Technologické řešení a umístění koncového bodu je součástí smlouvy o připojení k síti.5)\n(4) Koncový bod se umísťuje tak, aby umožňoval připojení koncového zařízení, montáž, údržbu, servis a výkon kontrolní činnosti."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Montáž, údržbu a servis koncového bodu veřejné telekomunikační sítě může vykonávat pouze fyzická nebo právnická osoba, která je k tomu oprávněna podle zvláštního právního předpisu6) a zmocněna provozovatelem příslušné veřejné telekomunikační sítě.\n(2) Pokud provozovatel veřejné telekomunikační sítě při zřizování koncového bodu využívá telekomunikační vedení, které je ve vlastnictví jiného právního subjektu, řeší údržbu a odstraňování závad na tomto vedení v dohodě s jeho vlastníkem nebo s osobou jím pověřenou."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Koncový bod veřejné mobilní sítě",
+      "content": "Koncovým bodem veřejné mobilní sítě je rozhraní v prostoru, ve kterém provozovatel této sítě poskytuje příslušnou veřejnou telekomunikační službu v souladu s udělenou licencí.\nRozhraní pro propojování, přístup a zvláštní přístup"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Rozhraním pro propojování veřejných telekomunikačních sítí je propojovací bod, pro který je v technických specifikacích stanoveno elektrické a fyzické provedení rozhraní a přenosový a signalizační protokol a dále údaje potřebné pro zajištění integrity služeb v propojovaných sítích a údaje pro zabezpečení dalších funkcí, které rozhraní umožňuje.\n(2) Rozhraní pro přístup k veřejné telekomunikační síti se zřizuje na základě smlouvy o přístupu k síti.7) Technická specifikace rozhraní v přístupových bodech odpovídá specifikacím pro koncové nebo pro propojovací body sítě.\n(3) Rozhraní pro zvláštní přístup k veřejné telekomunikační síti mimo její koncové body uživatelům telekomunikačních služeb, poskytovaných ve veřejné telekomunikační síti, se zřizují na základě individuálních smluv mezi provozovatelem sítě a uživatelem služeb. Technické specifikace těchto rozhraní budou dohodnuty v těchto individuálních smlouvách.\n(4) Součástí smluvní úpravy je technologické řešení vzájemného propojení sítí nebo zabezpečení přístupu k síti v propojovacím nebo přístupovém bodu umístěném po vzájemné dohodě provozovatelů těchto sítí, pokud zákon nestanoví jinak.8)"
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Technickými specifikacemi rádiových zařízení zveřejněnými podle ustanovení § 5 odst. 4 a parametry rádiového kanálu stanovenými v rozhodnutí o schválení nebo uznání typu rádiového zařízení9) nebo v povolení k provozování vysílacích rádiových zařízení10) je určeno rozhraní těchto zařízení."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Přechodná a závěrečná ustanovení",
+      "content": "(1) Technologické řešení koncového bodu veřejné pevné telekomunikační sítě zřízeného podle dřívějších předpisů se považuje za zřízené podle této vyhlášky.\n(2) Zrušuje se vyhláška č. 130/1997 Sb., o koncovém bodu telekomunikačních sítí."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 2 odst. 4 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů.\n2) § 2 odst. 3 zákona č. 151/2000 Sb.\n3) § 4 odst. 2 zákona č. 151/2000 Sb.\n4) § 2 odst. 9 zákona č. 151/2000 Sb.\n5) § 37 odst. 4 zákona č. 151/2000 Sb.\n6) Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.\n7) § 37 odst. 3 zákona č. 151/2000 Sb.\n8) § 40 zákona č. 151/2000 Sb.\n9) § 10 zákona č. 151/2000 Sb.\n10) § 57 zákona č. 151/2000 Sb."
+    }
+  ],
+  "definitions": []
+}

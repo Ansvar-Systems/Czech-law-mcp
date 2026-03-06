@@ -1,0 +1,94 @@
+{
+  "id": "cz:1/1998",
+  "type": "statute",
+  "title": "1/1998 Sb., Vyhláška Ministerstva zdravotnictví, kterou se stanoví požadavky na jakost, postup při přípravě, zkoušení, uchovávání a dávkování léčiv (Český lékopis 1997)",
+  "title_en": "",
+  "short_name": "1/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-01-15",
+  "in_force_date": "2001-02-15",
+  "url": "https://www.e-sbirka.cz/sb/1998/1",
+  "description": "Vyhláška Ministerstva zdravotnictví, kterou se stanoví požadavky na jakost, postup při přípravě, zkoušení, uchovávání a dávkování léčiv (Český lékopis 1997)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Český lékopis 1997 se vydává v příloze této vyhlášky. Používá se při přípravě, výrobě a kontrole léčiv."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Zrušovací ustanovení",
+      "content": "Zrušuje se vyhláška Ministerstva zdravotnictví České socialistické republiky č. 10/1987 Sb., o závaznosti Československého lékopisu – čtvrtého vydání v České socialistické republice, ve znění vyhlášky č. 62/1990 Sb. a vyhlášky č. 376/1991 Sb."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 1998.\nPříloha k vyhlášce č. 1/1998 Sb.\nČESKÝ LÉKOPIS 1997"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pod pojmem Výrobek nebo produkt, který se používá v lékopisu",
+      "definition": "předmět lékopisných článků obecně",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Oprávněnou autoritou se v oblasti humánních léčiv",
+      "definition": "zejména Státní ústav pro kontrolu léčiv a Ministerstvo zdravotnictví ČR, v oblasti veterinárních biopreparátů a léčiv Ústav pro státní kontrolu veterinárních biopreparátů a léčiv a Ministerstvo zemědělství ČR, v oblasti zabezpečující krizové situace (nouzový stav, stav ohrožení státu a válečný stav) Ministerstvo obrany ČR",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Ve zkouškách na čistotu s číselnými limity a ve stanoveních obsahu se ke zkoušení předepisuje množství, jímž",
+      "definition": "množství přibližné",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "vodní lázeň",
+      "definition": "lázeň vroucí vody, pokud není uvedena jiná teplota vody",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Údaj \"vodní lázeň",
+      "definition": "lázeň vroucí vody, pokud není uvedena jiná teplota vody",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "kapka",
+      "definition": "kapka získaná za použití níže popsaného standardního kapátka",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "nezmýdelnitelné látky",
+      "definition": "látky netěkající při 100 °C až 105 °C získané ze zkoušené zmýdelněné látky extrakcí organickým rozpouštědlem",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Pod pojmem \"nezmýdelnitelné látky",
+      "definition": "látky netěkající při 100 °C až 105 °C získané ze zkoušené zmýdelněné látky extrakcí organickým rozpouštědlem",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Maximální teplotou",
+      "definition": "nejvyšší teplota naměřená v 30min intervalech v průběhu 3 h po podání zkoušeného roztoku",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "V zkouškách",
+      "definition": "\"dávka\" množství látky doporučené pro použití a obsahující nejvyšší titr nebo účinnost obsaženou ve výrobní šarži",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Výraz \"směrodatná odchylka\" přesně",
+      "definition": "\"standardní chyba průměru\"",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Denní dávkou, není-li uvedeno jinak",
+      "definition": "trojnásobek dávky jednotlivé",
+      "source_provision": "§ 3"
+    }
+  ]
+}

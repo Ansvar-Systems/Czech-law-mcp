@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:16/1945",
+  "type": "statute",
+  "title": "16/1945 Ú. l., Vyhláška ministra průmyslu o povinnosti hlásiti škody způsobené v průmyslu válečnými událostmi.",
+  "title_en": "",
+  "short_name": "16/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-04",
+  "in_force_date": "1945-06-04",
+  "url": "https://www.e-sbirka.cz/ul0/1945/16",
+  "description": "Vyhláška ministra průmyslu o povinnosti hlásiti škody způsobené v průmyslu válečnými událostmi.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Všechny průmyslové podniky, t. j. podniky organisované v Ústředním svazu československého průmyslu, jsou povinny hlásiti do 10. června 1945 ministerstvu průmyslu veškeré hmotné škody, které utrpěly válečnými událostmi na továrních budovách a budovách správních, jakož i na továrním a strojním zařízení."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Hlášení podávají vlastníci podniků. Nemohou-li tito z jakýchkoliv důvodů hlášení podati, přechází povinnost hlášení na osoby, které jsou pověřeny vedením po případě správou podniků."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Hlášení jest vypracovati podle vzoru připojeného k této vyhlášce. Do jednotlivých rubrik se zapisuje:\n1. běžné číslo,\n2. objekt nebo předmět, na němž vznikla škoda,\n3. druh škody, její rozsah a čím byla způsobena,\n4. jaká výroba byla škodou vyřazena z provozu a jakou tato vyřazená výroba tvoří část celkové výroby,\n5. jakých prostředků je třeba k rekonstrukci podniku,\n6. jakého je k tomu třeba nákladu,\n7. poznámky."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Otázka náhrady škod způsobených v průmyslu válečnými událostmi bude řešena zvláště."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky této vyhlášky se trestají podle § 9 vl. nař. č. 175/1943 Sb. z. a n."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

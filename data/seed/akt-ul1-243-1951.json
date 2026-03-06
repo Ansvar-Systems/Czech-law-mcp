@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:243/1951",
+  "type": "statute",
+  "title": "243/1951 Ú. l. I, Vyhláška státního úřadu plánovacího o zasílání některých podkladů pro vypracování prováděcích plánů na rok 1952 národním výborům.",
+  "title_en": "",
+  "short_name": "243/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-06-27",
+  "in_force_date": "1951-06-27",
+  "url": "https://www.e-sbirka.cz/ul1/1951/243",
+  "description": "Vyhláška státního úřadu plánovacího o zasílání některých podkladů pro vypracování prováděcích plánů na rok 1952 národním výborům.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Krajské a okresní národní výbory mohou splnit úkoly, které jim připadají při vypracování prováděcích plánů na rok 1952 jen tehdy, zašlou-li jim plánující orgány a jednotky včas potřebné podklady. Řádné sestavení návrhů plánů národních výborů i základních plánujících jednotek ústředně plánovaných bude zajištěno plněním povinností uvedených v dalších ustanoveních této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Ústřední orgány uvedené v přehledu ústředních orgánů připojeném ke směrnicím státního úřadu plánovacího pro vypracování prováděcích plánů na rok 1952, zašlou krajským národním výborům ve lhůtě stanovené směrnicemi státního úřadu plánovacího pro provedení rozpisu směrných čísel na základní plánující jednotky\na) seznamy všech základních plánujících jednotek ústředně plánovaných v obvodech krajských národních výborů;\nb) opisy (kopie) rozpisu směrných čísel na základní plánující jednotky ústředně plánované, které mají sídlo v obvodech krajských národních výborů.\n(2) Rozpis směrných čísel může být proveden prostřednictvím nižších plánovacích složek nadřazených základním plánujícím jednotkám (na př. podniků, krajských správ a pod.).\n(3) Plánující jednotkou ústředně plánovanou se rozumí jednotka, která je plánovaná ministerstvem (ústředním úřadem) prostřednictvím ústředního orgánu, nebo její nejblíže nadřazený plánující orgán, který podle směrnic pro sestavení prováděcích plánů je povinen krajskému národnímu výboru nebo okresnímu národnímu výboru plán předložit."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Plánující jednotky ústředně plánované doručí krajskému národnímu výboru, v jehož obvodu mají sídlo, návrhy svých plánů na rok 1952 v počtu vyhotovení stanoveném směrnicemi; mimo to doručí plánující jednotka příslušnému okresnímu národnímu výboru tyto části plánu: plán práce (referátu V), plán stavební údržby (příslušnému odbornému referátu), plán nároků na dopravu silniční (referátu VIII) a plán závodové dopravy (referátu VIII). Plánující jednotka ústředně plánovaná doručuje návrhy svých plánů ve lhůtách stanovených směrnicemi; doručuje se zpravidla tak, že závodní plánovatel, po případě jiná osoba, která je obeznámena s návrhem plánu, je předá krajskému, po případě okresnímu národnímu výboru."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Plánující jednotky ústředně plánované a ústřední orgány jim nadřazené projednávají bezodkladně připomínky krajských, po případě okresních národních výborů, které jim národní výbory sdělily v době vypracování návrhů plánů na rok 1952 buď písemně nebo zástupcem, který se účastnil vypracovávání návrhu plánu v plánující jednotce ústředně plánované."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Neplnění povinností uvedených v této vyhlášce se trestá podle příslušných ustanovení trestních zákonů."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 27. června 1951."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Plánující jednotkou ústředně plánovanou",
+      "definition": "jednotka, která je plánovaná ministerstvem (ústředním úřadem) prostřednictvím ústředního orgánu, nebo její nejblíže nadřazený plánující orgán, který podle směrnic pro sestavení prováděcích plánů je povinen krajskému národnímu výboru nebo okresnímu národnímu výboru plán předložit",
+      "source_provision": "§ 2."
+    }
+  ]
+}

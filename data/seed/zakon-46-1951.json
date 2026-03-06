@@ -1,0 +1,33 @@
+{
+  "id": "cz:46/1951",
+  "type": "statute",
+  "title": "46/1951 Sb., Nařízení o zrušení knihovních rad",
+  "title_en": "",
+  "short_name": "46/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-06-11",
+  "in_force_date": "1951-06-11",
+  "url": "https://www.e-sbirka.cz/sb/1951/46",
+  "description": "Nařízení o zrušení knihovních rad",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Knihovní rady, zřízené podle zákona č. 430/1919 Sb., o veřejných knihovnách obecních, a podle vládního nařízení č. 607/1919 Sb., jímž se provádí zákon o veřejných knihovnách obecních, se zrušují."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Působnost knihovních rad se přenáší na místní národní výbory, v sídlech okresních národních výborů na okresní národní výbory a v sídlech krajských národních výborů na krajské národní výbory."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr informací a osvěty v dohodě s ministrem vnitra."
+    }
+  ],
+  "definitions": []
+}

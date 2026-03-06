@@ -1,0 +1,59 @@
+{
+  "id": "cz:302/2014",
+  "type": "statute",
+  "title": "302/2014 Sb., Nařízení vlády o katalogu správních činností",
+  "title_en": "",
+  "short_name": "302/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-12-18",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2014/302",
+  "description": "Nařízení vlády o katalogu správních činností",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět působnosti",
+      "chapter": "DÍL 57. INFORMAČNÍ A KOMUNIKAČNÍ SYSTÉMY",
+      "content": "Toto nařízení stanoví katalog správních činností a jejich zařazení do jednotlivých platových tříd."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení některých pojmů",
+      "chapter": "DÍL 57. INFORMAČNÍ A KOMUNIKAČNÍ SYSTÉMY",
+      "content": "Pro účely katalogu správních činností se rozumí\na) koordinací činnosti spočívající v aktivním působení na složky systému vymezeného příkladem činnosti (obory, agendy, činnosti) k dosažení jejich souladu,\nb) zajišťováním činnosti s plnou odpovědností za uskutečnění úkolů vymezených příkladem činnosti,\nc) komplexními činnostmi činnosti zahrnující bezpodmínečně všechny části daného celku (systému) vymezeného příkladem činnosti,\nd) metodickým usměrňováním určování jednotných obecně platných způsobů dosažení určitého cíle,\ne) koncepcí vedoucí idea, myšlenková osnova a vůdčí záměr,\nf) agendou souhrn věcně souvisejících činností, které tvoří ucelenou část oboru služby včetně vazeb na ostatní agendy tohoto oboru,\ng) resortem souhrn organizačních složek státu a právnických osob v působnosti a podřízenosti ministerstva nebo jiného ústředního správního úřadu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Katalog správních činností",
+      "chapter": "DÍL 57. INFORMAČNÍ A KOMUNIKAČNÍ SYSTÉMY",
+      "content": "Katalog správních činností je stanoven v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "chapter": "DÍL 57. INFORMAČNÍ A KOMUNIKAČNÍ SYSTÉMY",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2015.\nPříloha\nKATALOG SPRÁVNÍCH ČINNOSTÍ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "koncepcí vedoucí idea",
+      "definition": "myšlenková osnova a vůdčí záměr",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "agendou",
+      "definition": "souhrn věcně souvisejících činností, které tvoří ucelenou část oboru služby včetně vazeb na ostatní agendy tohoto oboru",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "resortem",
+      "definition": "souhrn organizačních složek státu a právnických osob v působnosti a podřízenosti ministerstva nebo jiného ústředního správního úřadu.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:128/1950",
+  "type": "statute",
+  "title": "128/1950 Sb., Vyhláška, kterou se uveřejňuje opatření Státní banky československé o povinnosti hlášení některých sporů s cizinou",
+  "title_en": "",
+  "short_name": "128/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-08-31",
+  "in_force_date": "1950-08-31",
+  "url": "https://www.e-sbirka.cz/sb/1950/128",
+  "description": "Vyhláška, kterou se uveřejňuje opatření Státní banky československé o povinnosti hlášení některých sporů s cizinou",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Devisoví tuzemci (§ 2 odst. 1 devisového zákona) jsou povinní ohlašovati Státní bance československé (zahraniční skupině) majetkověprávní spory s cizinou, v nichž vystupují jako žalobci, žalovaní nebo jiní účastníci (vedlejší intervenienti a pod.), a to jak před soudy a úřady cizozemskými, tak tuzemskými.\n(2) Ohlášení jest provésti dopisem obsahujícím také stručné vylíčení skutkové podstaty."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Za spory podle § 1 se považují též řízení sporům podobná, zejména řízení u soudů rozhodčích, řízení restituční, řízení konkursní a vyrovnací, řízení ve věcech patentních a známkových a pod."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Ohlašovací povinnost jest splniti\na) má-li býti spor zahájen z podnětu devisového tuzemce, před zahájením sporu,\nb) bude-li spor zahájen z podnětu devisového cizozemce, neprodleně, jakmile se o tom devisový tuzemec dozví,\nc) u sporů již zahájených neprodleně po vyhlášení tohoto opatření.\n(2) Ohlašovací povinnost se považuje za splněnou, ohlásil-li devisový tuzemec spor Státní bance československé nebo Národní bance Československé již před vyhlášením tohoto opatření."
+    }
+  ],
+  "definitions": []
+}

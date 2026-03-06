@@ -1,0 +1,69 @@
+{
+  "id": "cz:213/1990",
+  "type": "statute",
+  "title": "213/1990 Sb., Nařízení vlády České republiky, kterým se stanoví pro pracovníky ve zvláštním zapojení odchylky od zákoníku práce",
+  "title_en": "",
+  "short_name": "213/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-05-29",
+  "in_force_date": "1990-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1990/213",
+  "description": "Nařízení vlády České republiky, kterým se stanoví pro pracovníky ve zvláštním zapojení odchylky od zákoníku práce",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Pracovníkům ve zvláštním zapojení1) (dále jen „pracovník“) stanoví organizace mzdu na základě jejich tržeb. Organizace současně stanoví minimální měsíční odvody (dále jen „měsíční odvod“) jednotlivým pracovníkům na základě kalkulace vlastních nákladů a dalších složek ceny výkonu.2)\n(2) Při vyšším měsíčním odvodu náleží pracovníku mzda stanovená podle vnitřního mzdového předpisu organizace, popřípadě podle kolektivní smlouvy.\n(3) Měsíční odvod se poměrně sníží za dobu dovolené na zotavenou, celodenních překážek v práci3) a za svátek, pokud nepřipadá na den nepřetržitého odpočinku v týdnu.\n(4) Nárok na mzdu vzniká pracovníku po zaplacení měsíčního odvodu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Při prostojích4) kratších než jeden den nebo jedna směna nenáleží pracovníku náhrada mzdy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Při důležitých osobních překážkách v práci5) kratších než jeden den nebo jedna směna nenáleží pracovníku náhrada mzdy.\n(2) Jestliže se organizace a pracovník dohodli na rozsahu a rozvržení pracovní doby (§ 6), poskytuje se pracovníku náhrada mzdy i při důležitých osobních překážkách v práci kratších než jeden den nebo jedna směna, pokud nezbytně zasáhly do této pracovní doby."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Za celodenní překážku v práci se považuje překážka, která trvá po dobu odpovídající průměrné délce pracovní směny vyplývající ze stanovené týdenní pracovní doby pracovníka."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Na pracovníky se nevztahují ustanovení zákoníku práce o práci přesčas.6)\n(2) Pracovníku nenáleží příplatek za práci ve svátek."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Organizace a pracovník si mohou dohodnout v pracovní smlouvě rozsah a rozvržení pracovní doby, kterou pracovník odpracuje v určené době, jakož i které dny v týdnu se budou pro účely náhrady mzdy za svátek považovat za dny nepřetržitého odpočinku v týdnu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Zrušuje se směrnice ministerstva vnitra České socialistické republiky ze dne 23. listopadu 1982 č. j. MH/12-9369/2189/82 a č. j. SD/32-4454/82 o provozování činností formou zvláštního zapojení pracovníků v organizacích místní výroby a služeb, sběrných surovin, organizacích dopravy řízených národními výbory a organizacích bytového hospodářství řízených národními výbory (reg. v částce 3/1983 Sb.)."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. června 1990.\n1) § 267 odst. 4 zákoníku práce.\n2) § 6 až 10 vyhlášky federálního ministerstva financí č. 21/1990 Sb., o kalkulaci.\n3) § 124 až 130 zákoníku práce.\n4) § 129 zákoníku práce.\n5) § 127 a 128 zákoníku práce.\n6) § 96 až 98 a § 116 zákoníku práce."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "celodenní překážku v práci",
+      "definition": "překážka, která trvá po dobu odpovídající průměrné délce pracovní směny vyplývající ze stanovené týdenní pracovní doby pracovníka",
+      "source_provision": "§ 4"
+    }
+  ]
+}

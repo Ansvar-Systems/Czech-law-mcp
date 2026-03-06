@@ -1,0 +1,57 @@
+{
+  "id": "cz:o41/2001",
+  "type": "statute",
+  "title": "o41/2001 Sb., Opatření České národní banky, kterým se stanoví minimální výše likvidních prostředků",
+  "title_en": "",
+  "short_name": "o41/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-11-28",
+  "in_force_date": "2001-11-28",
+  "url": "https://www.e-sbirka.cz/sb/2001/o41",
+  "description": "Opatření České národní banky, kterým se stanoví minimální výše likvidních prostředků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Minimální výše likvidních prostředků bank a poboček zahraničních bank činí 2 % ze závazků, jejichž splatnost nepřevyšuje 2 roky, vůči všem osobám s výjimkou bank.\n(2) Ustanovení odstavce 1 se nevztahuje na závazky z repo operací, pro které se stanoví sazba 0 %."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Závazky podle § 1 se rozumí závazky v českých korunách i závazky znějící na cizí měnu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Likvidní prostředky stanovené podle § 1 jsou banky povinny uložit na účtu u České národní banky jako povinné minimální rezervy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Povinné minimální rezervy jsou úročeny do výše stanovené povinnosti; výše úrokové sazby a způsob úročení jsou vyhlašovány ve Věstníku České národní banky v rámci podmínek pro tvorbu povinných minimálních rezerv."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Zrušuje se opatření České národní banky č. 18/2001 Sb., kterým se stanoví minimální výše likvidních prostředků."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Toto opatření nabývá účinnosti dnem 24. ledna 2002."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Závazky podle § 1",
+      "definition": "závazky v českých korunách i závazky znějící na cizí měnu",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cz:8/1950",
+  "type": "statute",
+  "title": "8/1950 Sb., Vyhláška o opravě tiskové chyby v úředním slovenském znění vládního nařízení č. 240/1949 Sb., kterým se provádí poštovní zákon",
+  "title_en": "",
+  "short_name": "8/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-01-31",
+  "in_force_date": "1950-01-31",
+  "url": "https://www.e-sbirka.cz/sb/1950/8",
+  "description": "Vyhláška o opravě tiskové chyby v úředním slovenském znění vládního nařízení č. 240/1949 Sb., kterým se provádí poštovní zákon",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V prvé větě § 7 odst. 3 úředního slovenského znění vládního nařízení č. 240/1949 Sb. se opravuje tisková chyba, takže tato věta správně zní takto:\n„Pri cenných listoch a pri balíkoch zodpovedá podnik v rozsahu určenom v odseku 2 aj za škodu vzniknutú oneskorením v doprave, ktorým sa zásielka skazila alebo svoju cenu trvale úplne alebo čiastočne stratila.“"
+    }
+  ],
+  "definitions": []
+}

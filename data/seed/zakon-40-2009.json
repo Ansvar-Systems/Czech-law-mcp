@@ -1,13 +1,13 @@
 {
   "id": "cz:40/2009",
   "type": "statute",
-  "title": "Zákon č. 40/2009 Sb., trestní zákoník",
+  "title": "40/2009 Sb., Zákon trestní zákoník",
   "title_en": "Criminal Code",
   "short_name": "TZ",
   "status": "in_force",
   "issued_date": "2009-02-09",
-  "in_force_date": "2010-01-01",
-  "url": "https://www.e-sbirka.cz/sb/2009/40/2026-01-01",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/40",
   "description": "Codifies criminal offenses and penalties, including computer-related crimes.",
   "provisions": [
     {
@@ -3280,5 +3280,206 @@
       "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2010.\n1) Směrnice Evropského parlamentu a Rady 2011/36/EU ze dne 5. dubna 2011 o prevenci obchodování s lidmi, boji proti němu a o ochraně obětí, kterou se nahrazuje rámcové rozhodnutí Rady 2002/629/SVV.\nSměrnice Evropského parlamentu a Rady 2011/93/EU ze dne 13. prosince 2011 o boji proti pohlavnímu zneužívání a pohlavnímu vykořisťování dětí a proti dětské pornografii, kterou se nahrazuje rámcové rozhodnutí Rady 2004/68/SVV.\nSměrnice Evropského parlamentu a Rady 2008/99/ES ze dne 19. listopadu 2008 o trestněprávní ochraně životního prostředí.\nSměrnice Evropského parlamentu a Rady 2009/123/ES ze dne 21. října 2009, kterou se mění směrnice 2005/35/ES o znečištění z lodí a o zavedení sankcí za protiprávní jednání.\nSměrnice Rady 2004/81/ES ze dne 29. dubna 2004 o povolení k pobytu pro státní příslušníky třetích zemí, kteří jsou oběťmi obchodování s lidmi nebo obdrželi pomoc k nedovolenému přistěhovalectví a kteří spolupracují s příslušnými orgány.\nSměrnice Evropského parlamentu a Rady 2009/52/ES ze dne 18. června 2009 o minimálních normách pro sankce a opatření vůči zaměstnavatelům neoprávněně pobývajících státních příslušníků třetích zemí.\nSměrnice Evropského parlamentu a Rady 2004/38/ES ze dne 29. dubna 2004 o právu občanů Unie a jejich rodinných příslušníků svobodně se pohybovat a pobývat na území členských států, o změně nařízení (EHS) č. 1612/68 a o zrušení směrnic 64/221/EHS, 68/360/EHS, 72/194/EHS, 73/148/EHS, 75/34/EHS, 75/35/EHS, 90/364/EHS, 90/365/EHS a 93/96/EHS.\nSměrnice Evropského parlamentu a Rady 2013/40/EU ze dne 12. srpna 2013 o útocích na informační systémy a nahrazení rámcového rozhodnutí Rady 2005/222/SVV.\nSměrnice Evropského parlamentu a Rady 2014/42/EU ze dne 3. dubna 2014 o zajišťování a konfiskaci nástrojů a výnosů z trestné činnosti v Evropské unii.\nSměrnice Evropského parlamentu a Rady 2014/57/EU ze dne 16. dubna 2014 o trestních sankcích za zneužívání trhu (směrnice o zneužívání trhu).\nSměrnice Evropského parlamentu a Rady (EU) 2017/541 ze dne 15. března 2017 o boji proti terorismu, kterou se nahrazuje rámcové rozhodnutí Rady 2002/475/SVV a mění rozhodnutí Rady 2005/671/SVV.\nSměrnice Evropského parlamentu a Rady 2014/62/EU ze dne 15. května 2014 o trestněprávní ochraně eura a jiných měn proti padělání, kterou se nahrazuje rámcové rozhodnutí Rady 2000/383/SVV.\nSměrnice Evropského parlamentu a Rady (EU) 2017/1371 ze dne 5. července 2017 o boji vedeném trestněprávní cestou proti podvodům poškozujícím nebo ohrožujícím finanční zájmy Unie.\nSměrnice Evropského parlamentu a Rady (EU) 2018/1673 ze dne 23. října 2018 o boji vedeném trestněprávní cestou proti praní peněz.\nSměrnice Evropského parlamentu a Rady (EU) 2019/713 ze dne 17. dubna 2019 o potírání podvodů v oblasti bezhotovostních platebních prostředků a jejich padělání a o nahrazení rámcového rozhodnutí Rady 2001/413/SVV.\nSměrnice Rady 2002/90/ES ze dne 28. listopadu 2002, kterou se definuje napomáhání k nepovolenému vstupu, přechodu a pobytu.\nSměrnice Evropského parlamentu a Rady (EU) 2024/1226 ze dne 24. dubna 2024 o vymezení trestných činů a sankcí za porušení omezujících opatření Unie a změně směrnice (EU) 2018/1673."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "Srozuměním",
+      "definition": "i smíření pachatele s tím, že způsobem uvedeným v trestním zákoně může porušit nebo ohrozit zájem chráněný takovým zákonem",
+      "source_provision": "§ 15"
+    },
+    {
+      "term": "Odsuzujícím rozsudkem podle odstavce 2",
+      "definition": "i rozsudek, kterým bylo za podmínek § 48 odst",
+      "source_provision": "§ 43"
+    },
+    {
+      "term": "Dohledem",
+      "definition": "pravidelný osobní kontakt pachatele s úředníkem Probační a mediační služby (dále jen „probační úředník“), spolupráce při vytváření a realizaci probačního plánu dohledu a kontrola dodržování podmínek uložených pachateli soudem nebo vyplývajících ze zákona",
+      "source_provision": "§ 49"
+    },
+    {
+      "term": "Výjimečným trestem",
+      "definition": "jednak trest odnětí svobody nad dvacet až do třiceti let, jednak trest odnětí svobody na doživotí",
+      "source_provision": "§ 54"
+    },
+    {
+      "term": "dvacet let",
+      "definition": "jde-li o pachatele odsouzeného k trestu odnětí svobody na doživotí.",
+      "source_provision": "§ 88"
+    },
+    {
+      "term": "Trestním zákonem",
+      "definition": "tento zákon a podle povahy věci i zákon o soudnictví ve věcech mládeže a zákon o trestní odpovědnosti právnických osob a řízení proti nim",
+      "source_provision": "§ 110"
+    },
+    {
+      "term": "Trestným činem",
+      "definition": "jen čin soudně trestný, a pokud z jednotlivého ustanovení trestního zákona nevyplývá něco jiného, též příprava k trestnému činu, pokus trestného činu, organizátorství, návod a pomoc",
+      "source_provision": "§ 111"
+    },
+    {
+      "term": "Jednáním",
+      "definition": "i opomenutí takového konání, k němuž byl pachatel povinen podle jiného právního předpisu, úředního rozhodnutí nebo smlouvy, v důsledku dobrovolného převzetí povinnosti konat nebo vyplývala-li taková jeho zvláštní povinnost z jeho předchozího ohrožujícího jednání anebo k němuž byl z jiného důvodu podle okolností a svých poměrů povinen",
+      "source_provision": "§ 112"
+    },
+    {
+      "term": "Pokračováním v trestném činu",
+      "definition": "takové jednání, jehož jednotlivé dílčí útoky vedené jednotným záměrem naplňují, byť i v souhrnu, skutkovou podstatu stejného trestného činu, jsou spojeny stejným nebo podobným způsobem provedení a blízkou souvislostí časovou a souvislostí v předmětu útoku",
+      "source_provision": "§ 116"
+    },
+    {
+      "term": "Vloupáním",
+      "definition": "vniknutí do uzavřeného prostoru lstí, nedovoleným překonáním uzamčení nebo překonáním jiné jistící překážky s použitím síly",
+      "source_provision": "§ 121"
+    },
+    {
+      "term": "Ublížením na zdraví",
+      "definition": "takový stav záležející v poruše zdraví nebo jiném onemocnění, který porušením normálních tělesných nebo duševních funkcí znesnadňuje, nikoli jen po krátkou dobu, obvyklý způsob života poškozeného a který vyžaduje lékařského ošetření",
+      "source_provision": "§ 122"
+    },
+    {
+      "term": "Těžkou újmou na zdraví",
+      "definition": "jen vážná porucha zdraví nebo jiné vážné onemocnění",
+      "source_provision": "§ 122"
+    },
+    {
+      "term": "Duševní poruchou",
+      "definition": "mimo duševní poruchy vyplývající z duševní nemoci i hluboká porucha vědomí, mentální retardace, těžká asociální porucha osobnosti nebo jiná těžká duševní nebo sexuální odchylka",
+      "source_provision": "§ 123"
+    },
+    {
+      "term": "státem uloženou nebo uznanou povinnost mlčenlivosti",
+      "definition": "mlčenlivost, která je uložena nebo uznána jiným právním předpisem",
+      "source_provision": "§ 124"
+    },
+    {
+      "term": "Osobou blízkou",
+      "definition": "příbuzný v pokolení přímém, osvojitel, osvojenec, sourozenec, manžel a partner; jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké jen tehdy, kdyby újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní",
+      "source_provision": "§ 125"
+    },
+    {
+      "term": "Dítětem",
+      "definition": "osoba mladší osmnácti let, pokud trestní zákon nestanoví jinak",
+      "source_provision": "§ 126"
+    },
+    {
+      "term": "Státním zástupcem",
+      "definition": "i evropský pověřený žalobce, evropský žalobce a evropský nejvyšší žalobce v rozsahu jejich působnosti stanovené přímo použitelným předpisem Evropské unie upravujícím zřízení Úřadu evropského veřejného žalobce",
+      "source_provision": "§ 127a"
+    },
+    {
+      "term": "Insolvenčním správcem",
+      "definition": "i předběžný insolvenční správce, zástupce insolvenčního správce, oddělený insolvenční správce, zvláštní insolvenční správce; postavení insolvenčního správce má i správce konkursní podstaty, předběžný správce konkursní podstaty, zvláštní správce konkursní podstaty, zástupce správce konkursní podstaty a vyrovnací správce",
+      "source_provision": "§ 128"
+    },
+    {
+      "term": "Insolvenčním řízením",
+      "definition": "i konkursní a vyrovnací řízení",
+      "source_provision": "§ 128"
+    },
+    {
+      "term": "Mezinárodní sankcí",
+      "definition": "příkaz, zákaz nebo omezení stanovené za účelem udržení nebo obnovení mezinárodního míru a bezpečnosti, boje proti terorismu, dodržování mezinárodního práva, ochrany lidských práv a svobod a podpory demokracie a právního státu, k jejichž dodržování je Česká republika zavázána na základě členství v Organizaci spojených národů nebo v Evropské unii anebo které zavedla podle sankčního zákona",
+      "source_provision": "§ 129b"
+    },
+    {
+      "term": "Návykovou látkou",
+      "definition": "alkohol, omamné látky, psychotropní látky a ostatní látky způsobilé nepříznivě ovlivnit psychiku člověka nebo jeho ovládací nebo rozpoznávací schopnosti nebo sociální chování",
+      "source_provision": "§ 130"
+    },
+    {
+      "term": "Veřejnou listinou",
+      "definition": "listina vydaná soudem České republiky, jiným orgánem veřejné moci nebo jiným subjektem k tomu pověřeným či zmocněným jiným právním předpisem v mezích jeho pravomoci, potvrzující, že jde o nařízení nebo prohlášení orgánu nebo jiného subjektu, který listinu vydal, anebo osvědčující některou právně významnou skutečnost",
+      "source_provision": "§ 131"
+    },
+    {
+      "term": "Obecně prospěšným zařízením",
+      "definition": "veřejné ochranné zařízení proti požáru, povodni nebo jiné živelní pohromě, obranné nebo ochranné zařízení proti leteckým a jiným podobným útokům nebo jejich následkům, ochranné zařízení proti úniku znečišťujících látek, zařízení energetické nebo vodárenské, podmořský kabel nebo podmořské potrubí, zařízení a sítě elektronických komunikací a koncová telekomunikační a rádiová zařízení, zařízení držitele poštovní licence, zařízení pro veřejnou dopravu, včetně součástí dráhy a drážních vozidel ve veřejné drážní dopravě a svislých zákazových nebo příkazových dopravních značek a dopravních značek upravujících přednost",
+      "source_provision": "§ 132"
+    },
+    {
+      "term": "Obydlím",
+      "definition": "dům, byt nebo jiná prostora sloužící k bydlení a příslušenství k nim náležející",
+      "source_provision": "§ 133"
+    },
+    {
+      "term": "Věcí",
+      "definition": "i ovladatelná přírodní síla",
+      "source_provision": "§ 134"
+    },
+    {
+      "term": "Nástrojem trestné činnosti",
+      "definition": "věc, která byla určena nebo užita ke spáchání trestného činu, včetně plodů a užitků",
+      "source_provision": "§ 135a"
+    },
+    {
+      "term": "Výnosem z trestné činnosti",
+      "definition": "jakákoli ekonomická výhoda pocházející z trestného činu",
+      "source_provision": "§ 135b"
+    },
+    {
+      "term": "Bezprostředním výnosem z trestné činnosti",
+      "definition": "věc, která byla získána trestným činem nebo jako odměna za něj, včetně plodů a užitků",
+      "source_provision": "§ 135b"
+    },
+    {
+      "term": "Zprostředkovaným výnosem z trestné činnosti",
+      "definition": "věc, včetně plodů a užitků",
+      "source_provision": "§ 135b"
+    },
+    {
+      "term": "Předmětem mezinárodní sankce",
+      "definition": "věc, na kterou se vztahuje mezinárodní sankce, ve vztahu k níž byl spáchán trestný čin porušení mezinárodní sankce (§ 410) nebo porušení mezinárodní sankce z nedbalosti (§ 410a) anebo čin jinak trestný, který naplňuje znaky skutkové podstaty těchto trestných činů",
+      "source_provision": "§ 135c"
+    },
+    {
+      "term": "Spisy",
+      "definition": "datové, zvukové a obrazové záznamy, vyobrazení a jiná znázornění, nevyplývá-li z jednotlivých ustanovení trestního zákona něco jiného",
+      "source_provision": "§ 136"
+    },
+    {
+      "term": "Počítačovým systémem",
+      "definition": "zařízení anebo skupina vzájemně propojených nebo přidružených zařízení, z nichž jedno nebo více provádí na základě programu automatické zpracování dat",
+      "source_provision": "§ 136a"
+    },
+    {
+      "term": "Vysoce nebezpečnou látkou",
+      "definition": "látka zařazená do seznamu 1 v příloze Úmluvy o zákazu vývoje, výroby, hromadění zásob a použití chemických zbraní a o jejich zničení",
+      "source_provision": "§ 281a"
+    },
+    {
+      "term": "Větším územím podle § 293 a 294",
+      "definition": "území o rozloze nejméně tři hektary a v případě povrchových vod ve vodních útvarech, s výjimkou vodních toků, nejméně jeden hektar vodní plochy a u vodního toku nejméně dva kilometry jeho délky; jednotlivá zasažená území a délky vodního toku se sčítají",
+      "source_provision": "§ 296"
+    },
+    {
+      "term": "Celkovou větší plochou lesa podle § 295",
+      "definition": "plocha větší než jeden a půl hektaru a celkovou značnou plochou lesa se rozumí plocha větší než tři hektary",
+      "source_provision": "§ 296"
+    },
+    {
+      "term": "Poškozením nebo ohrožením půdy, vody, ovzduší nebo jiné složky životního prostředí",
+      "definition": "i provozování zařízení, ve kterém je prováděna nebezpečná činnost nebo v němž se skladují nebo používají nebezpečné látky či směsi, bez povolení podle jiného právního předpisu",
+      "source_provision": "§ 296"
+    },
+    {
+      "term": "Ochrana podle § 323 až 326 se poskytuje též mezinárodně chráněné osobě, kterou",
+      "definition": "úřední osoba cizího státu nebo mezinárodní organizace, která požívá diplomatické nebo jiné výsady a imunity podle mezinárodního práva, nebo osoba zastávající funkci nebo zaměstnaná nebo pracující v mezinárodním soudním orgánu",
+      "source_provision": "§ 327"
+    },
+    {
+      "term": "Úplatkem",
+      "definition": "neoprávněná výhoda spočívající v přímém majetkovém obohacení nebo jiném zvýhodnění, které se dostává nebo má dostat uplácené osobě nebo s jejím souhlasem jiné osobě, a na kterou není nárok",
+      "source_provision": "§ 334"
+    },
+    {
+      "term": "Úřední osobou podle § 331 až 333 se vedle osoby uvedené v § 127",
+      "definition": "též jakákoliv osoba",
+      "source_provision": "§ 334"
+    },
+    {
+      "term": "obstarávání věcí obecného zájmu",
+      "definition": "též zachovávání povinnosti uložené právním předpisem nebo smluvně převzaté, jejímž účelem je zajistit, aby v obchodních vztazích nedocházelo k poškozování nebo bezdůvodnému zvýhodňování účastníků těchto vztahů nebo osob, které jejich jménem jednají",
+      "source_provision": "§ 334"
+    }
+  ]
 }

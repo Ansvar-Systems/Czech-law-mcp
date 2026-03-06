@@ -1,0 +1,39 @@
+{
+  "id": "cz:147/1973",
+  "type": "statute",
+  "title": "147/1973 Sb., Redakční sdělení o opravě tiskových chyb 1. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání 2. ve vyhlášce Státní arbitráže Československé socialistické republiky č. 104/1973 Sb., kterou se vydávají základní podmínky dodávky stavebních prací, slovenského vydání",
+  "title_en": "",
+  "short_name": "147/1973 Sb.",
+  "status": "in_force",
+  "issued_date": "1973-11-12",
+  "in_force_date": "1973-11-12",
+  "url": "https://www.e-sbirka.cz/sb/1973/147",
+  "description": "Redakční sdělení o opravě tiskových chyb 1. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání 2. ve vyhlášce Státní arbitráže Československé socialistické republiky č. 104/1973 Sb., kterou se vydávají základní podmínky dodávky stavebních prací, slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. ve vyhlášce Federálního statistického úřadu č. 80/1973 Sb., kterou se vydávají základní podmínky dodávky prací a služeb výpočetní techniky, slovenského vydání"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce Státní arbitráže Československé socialistické republiky č. 104/1973 Sb., kterou se vydávají základní podmínky dodávky stavebních prací, slovenského vydání"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 14 odst. 1 vyhl. č. 80/1973 Sb. je v třetím řádku zdola chybně vytištěno „...použiť na dlhšie spracovanie.“; správně má být „...použiť na ďalšie spracovanie.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 20 odst. 6 vyhl. 104/1973 Sb. je v druhém řádku zdola chybně vytištěno „...sú podľa schválenej projektovej dokumentácie...“; správně má být „...nie sú...“; v § 43 odst. 1 písm. g) je chybně vytištěno „stavebné cenníky“; správně má být „stavebné denníky“."
+    }
+  ],
+  "definitions": []
+}

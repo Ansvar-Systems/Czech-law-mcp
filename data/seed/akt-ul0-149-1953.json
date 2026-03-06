@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:149/1953",
+  "type": "statute",
+  "title": "149/1953 Ú. l., Vyhláška ministerstva zemědělství o ochraně moruší.",
+  "title_en": "",
+  "short_name": "149/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-05-27",
+  "in_force_date": "1953-06-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/149",
+  "description": "Vyhláška ministerstva zemědělství o ochraně moruší.",
+  "provisions": [
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinností dnem 1. června 1953.\nVýjimku ze zákazu kácení moruší může v odůvodněných případech povolit krajský národní výbor."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zajištění zvýšeného chovu bource morušového vyžaduje ochrany moruší; proto se kácení a poškozování moruší zakazuje."
+    }
+  ],
+  "definitions": []
+}

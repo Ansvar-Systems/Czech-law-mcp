@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:238/1953",
+  "type": "statute",
+  "title": "238/1953 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro některé potravinářské výrobky.",
+  "title_en": "",
+  "short_name": "238/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-08-01",
+  "in_force_date": "1958-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/238",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro některé potravinářské výrobky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Norma ČSN 58 0350 „Škvařené vepřové sádlo“ je od 1. srpna 1953 technickou státní normou.\n(2) Norma jedná mimo jiné o surovinách, o hlavních znacích technologického postupu, o methodách kontroly jakosti, o přejímání, balení, skladování a dopravě škvařeného vepřového sádla."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Technickými státními normami od 1. srpna 1953 jsou normy\nČSN 56 2965„Dětské sušenky. Norma jakosti“\nČSN 56 2970„Dětské piškoty. Norma jakosti“\n(2) Jde o normy jakosti, jež jednají zejména o používaných surovinách, vytyčují technické požadavky a hlavní znaky technologického postupu a obsahují předpisy pro balení, značení, skladování a přejímání předmětů, jichž se týkají."
+    }
+  ],
+  "definitions": []
+}

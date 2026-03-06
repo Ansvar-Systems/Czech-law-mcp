@@ -1,0 +1,39 @@
+{
+  "id": "cz:360/2000",
+  "type": "statute",
+  "title": "360/2000 Sb., Vyhláška Ministerstva životního prostředí o stanovení způsobu výpočtu výše náhrady škody způsobené vybranými zvláště chráněnými živočichy na vymezených domestikovaných zvířatech, psech sloužících k jejich hlídání, rybách, včelstvech, včelařském zařízení, nesklizených polních plodinách a na lesních porostech",
+  "title_en": "",
+  "short_name": "360/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-10-13",
+  "in_force_date": "2000-10-13",
+  "url": "https://www.e-sbirka.cz/sb/2000/360",
+  "description": "Vyhláška Ministerstva životního prostředí o stanovení způsobu výpočtu výše náhrady škody způsobené vybranými zvláště chráněnými živočichy na vymezených domestikovaných zvířatech, psech sloužících k jejich hlídání, rybách, včelstvech, včelařském zařízení, nesklizených polních plodinách a na lesních porostech",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob výpočtu výše náhrady škody způsobené na vymezených domestikovaných zvířatech, psech sloužících k jejich hlídání, rybách, včelstvech a včelařském zařízení",
+      "content": "(1) Výše náhrady škody se určí jako obvyklá cena. Obvyklá cena je cena, která by byla dosažena při prodeji obdobného vymezeného domestikovaného zvířete, psa sloužícího k jejich hlídání, ryb, včelstev a včelařského zařízení v obvyklém obchodním styku v tuzemsku ke dni vzniku škody, a nelze-li přesně určit den vzniku škody, ke dni, kdy s největší pravděpodobností škoda vznikla.\n(2) Výše náhrady škody při částečném poškození se určí rozdílem mezi obvyklou cenou a cenou, která by byla realizována v obvyklém obchodním styku v tuzemsku za poškozený předmět, případně výší prokazatelně vynaložených nákladů na odstranění následků poškození."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob výpočtu výše náhrady škody způsobené na nesklizených polních plodinách",
+      "content": "Výše náhrady škody se stanoví podle tržních cen plodin dosažených v době jejich předchozí sklizně, přičemž se vychází z obvyklého výnosu v daném místě."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob výpočtu výše náhrady škody způsobené na lesních porostech",
+      "content": "Výše náhrady škody se stanoví podle zvláštního právního předpisu.1)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Vyhláška č. 55/1999 Sb., o způsobu výpočtu výše újmy nebo škody způsobené na lesích."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,147 @@
+{
+  "id": "cz:ul0:144/1953",
+  "type": "statute",
+  "title": "144/1953 Ú. l., Vyhláška ministerstva energetiky, kterou se stanoví jednotné všeobecné sazby pro prodej elektřiny v drobném.",
+  "title_en": "",
+  "short_name": "144/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-05-20",
+  "in_force_date": "1959-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/144",
+  "description": "Vyhláška ministerstva energetiky, kterou se stanoví jednotné všeobecné sazby pro prodej elektřiny v drobném.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za elektřinu dodávanou maloodběratelům ze sítí národních energetických rozvodných podniků, po případě ze sítí jiných podniků a za úkony spojené s touto dodávkou, účtují se ceny podle jednotných všeobecných sazeb, uvedených v §§ 2 až 16 této vyhlášky.\n(2) Maloodběratelem rozumí se takový odběratel elektřiny, který nemá sjednanou dodávku elektřiny zvláštní smlouvou, a kterému se neúčtuje odběr elektřiny podle sazby ve velkém, a to i když odebírá elektřinu prostřednictvím velkoodběratele (na př. v budovách závodů, v závodních nebo jiných sídlištích)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Bytová sazba pro malá světelná zařízení a drobné spotřebiče elektřiny (BS).",
+      "content": "(1) Tato sazba platí pro dodávky elektřiny domácnostem, kasárnám, internátům a školám a činí Kčs 4,— za 1 kilowatthodinu (kWh) pro odběr elektřiny do 50 kWh za dva měsíce.\n(2) Při vyšším odběru elektřiny účtují se tyto ceny:\ndvouměsíční spotřeba\nv kWh:cena za 1 kWh v Kčs:\n\n51—604,50\n61—705,—\n71—805,50\n81—906,—\n91 a každá další7,—\n(3) Nájemné za elektroměr jednofázový činí Kčs 6,— měsíčně; za elektroměr třífázový činí Kčs 16,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Bytová sazba pro domácnosti s velkými spotřebiči elektřiny (B).",
+      "content": "(1) Tato sazba platí pouze pro dodávky elektřiny domácnostem, jež nemají možnost vaření a pečení uhlím nebo plynem, a domácnostem, jež mají možnost vaření jedině uhlím, pokud je v domácnosti aspoň jedno dítě do šesti let nebo pokud jde o domácnost manželů, kteří jsou oba celodenně zaměstnání.\n(2) Ceny jsou odstupňovány podle výše spotřeby elektřiny za dva měsíce takto:\ndvouměsíční spotřeba\nv kWh:cena za 1 kWh v Kčs:\n\ndo3002,—\n301—3502,20\n351—4002,50\n401—5003,—\n501—6004,—\n601 a každá další kWh6,—\n(3) Nájemné za elektroměr jednofázový činí Kčs 6,— měsíčně; za elektroměr třífázový činí Kčs 16,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Bytová sazba pro domácnosti se spotřebiči s nočním odběrem elektřiny (N).",
+      "content": "(1) Tato sazba platí pouze pro noční dodávku elektřiny domácnostem, jež nemají jinou možnost otopu bytu než elektřinou, nebo mají možnost ohřívání vody v koupelně pouze elektřinou, a činí Kčs 0,80 za 1 kWh v době od 22,00 do 6,00 hodin.\n(2) Spotřeba elektřiny se měří dvojsazbovým elektroměrem, při čemž elektřina odebraná ve dne (od 6,00 do 22,00 hodin) účtuje se podle sazby uvedené v § 2 (BS) nebo v § 3 (B), a to podle toho na kterou z nich maloodběratel má nárok.\n(3) Nájemné za dvojsazbový elektroměr činí Kčs 40,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Sazba pro světlo a drobné spotřebiče elektřiny v závodech (S).",
+      "content": "(1) Tato sazba platí pro dodávku elektřiny pro osvětlení místností a používání drobných spotřebičů elektřiny v obchodních podnicích, v závodech společného stravování, v ubytovacích podnicích, ve skladech, živnostech, kancelářích, divadlech, kinech a pod., pokud spadají do kategorie maloodběratelů elektřiny a pokud se na ně nevztahuje jiná sazba pro prodej elektřiny v drobném podle této vyhlášky, a činí Kčs 6.— za 1 kWh.\n(2) Nájemné za elektroměr jednofázový činí Kčs 6,— měsíčně; za elektroměr třífázový činí Kčs 16,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Zemědělská sazba jednoduchá (Z)",
+      "content": "(1) Tato sazba platí pro dodávky elektřiny pro osvětlování, pohon a ostatní spotřebiče elektřiny jednotných zemědělských družstev, státních statků, strojních a traktorových stanic, šlechtitelských a semenářských podniků, školních statků, účelových statků ústředních orgánů, jakož i zemědělských hospodářství státních plemenářských stanic, ústavů pro chov koní, státních rybářství, Ústředního kontrolního a zkušebního ústavu zemědělského a výzkumných ústavů Československé akademie zemědělských věd (dále jen „zemědělské organizace”) a činí Kčs 0,30 za 1 kWh.\n(2) Tato sazba se neposkytuje domácnostem jednotlivých členů a zaměstnanců zemědělských organizací a jednotlivě hospodařícím rolníkům. Pro přiznání této sazby je rozhodující okolnost, zda jde o odběr zemědělských organizací či nikoliv, a to i v tom případě, že je na příslušném elektroměru připojen podružně jiný odběr (např. domácnost).\n(3) Nájemné za elektroměr jednofázový činí Kčs 1,20 měsíčně; za elektroměr trojfázový činí Kčs 3,20 měsíčně."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zemědělská sazba dvojitá (ZD)",
+      "content": "(1) Tato sazba platí pro dodávky elektřiny zemědělským organizacím, jež používají též nočních spotřebičů elektřiny a činí za 1 kWh při denním odběru (od 6,00 do 22,00 hodin) Kčs 0,30 a při nočním odběru (od 22,00 do 6,00 hodin) Kčs 0,16.\n(2) Ustanovení § 6 odst. 2 platí i pro tuto sazbu.\n(3) Nájemné za dvojsazbový elektroměr činí Kčs 8,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8. Jednoduchá sazba pro pohon (P).",
+      "content": "(1) Tato sazba platí pro dodávky elektřiny pro pohon, tepelná, svářecí a jiná zařízení s výjimkou osvětlování místností.\n(2) Sazba činí Kčs 2,60 za 1 kWh.\n(3) Nájemné za elektroměr jednofázový činí Kčs 6,— měsíčně; za elektroměr třífázový činí Kčs 16,— měsíčně."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9. Dvojitá sazba pro pohon (PD).",
+      "content": "(1) Tato sazba platí pro dodávky elektřiny pro pohon, tepelná, svářecí a jiná zařízení používaná též v noční době (od 22,00 do 6,00 hodin) s výjimkou osvětlování místností a činí za 1 kWh při denním odběru (od 6,00 do 22,00 hodin) Kčs 2,60 a při nočním odběru (od 22,00 do 6,00 hodin) Kčs 0,80.\n(2) Nájemné za dvojsazbový elektroměr činí Kčs 40,— měsíčně.\n(3) Dosavadní hranice maximální spotřeby elektřiny (příděl) podle výnosu ministerstva energetiky ze dne 25. dubna 1953 č. j. 711/2/46/Ry/JS (Úřední list ze dne 15. května 1953, částka 63) zůstává v platnosti."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10. Paušály pro osvětlování schodišť, benzinových stanic, domovních čísel, návěští a pod. (C).",
+      "content": "Není-li spotřeba elektřiny při osvětlování schodišť v činžovních domech, benzinových stanic, domovních čísel a různých návěští měřena elektroměrem, platí se paušál ve výši Kčs 40,— měsíčně za každých započatých 40 wattů (W) celkové přípojné hodnoty; paušál pro kompresory benzinových stanic činí v takovém případě Kčs 30,— měsíčně za každých započatých 100 voltampérů (VA) přípojné hodnoty."
+    },
+    {
+      "provision_ref": "§ 11.",
+      "section": "11",
+      "title": "§ 11. Paušál pro osvětlování stanic stálých požárních sborů (H).",
+      "content": "Za osvětlování stanic (venkovských skladišť) stálých požárních sborů se platí paušál ve výši Kčs 10,— měsíčně za každých započatých 40 wattů (W) celkové přípojné hodnoty."
+    },
+    {
+      "provision_ref": "§ 12.",
+      "section": "12",
+      "title": "§ 12. Jiné paušály (J).",
+      "content": "U ostatních paušálů se dosavadní sazby zvyšují o 35%, při čemž výsledná cena se zaokrouhlí na celé koruny tak, že částky končící na 50 haléřů a vyšší se zaokrouhlí směrem nahoru; k částkám do 50 haléřů se nepřihlíží."
+    },
+    {
+      "provision_ref": "§ 13.",
+      "section": "13",
+      "title": "§ 13. Sazby pro veřejné osvětlení (VS).",
+      "content": "(1) Paušál pro celonoční veřejné osvětlení činí Kčs 60,— ročně za každých započatých 10 VA připojeného příkonu.\n(2) Paušál pro polonoční veřejné světlení (do 23,00 hodin) činí Kčs 50,— ročně za každých 10 VA připojeného příkonu.\n(3) Sazba pro veřejné osvětlení přes elektroměr [pro příkon aspoň 1 kilovoltampér (kVA) světla ] se skládá\na) ze stálého platu ve výši Kčs 12,— měsíčně za každých připojených 100 VA připojeného příkonu světla,\nb) z platu ve výši Kčs 0,80 za každou odebranou kWh."
+    },
+    {
+      "provision_ref": "§ 14.",
+      "section": "14",
+      "title": "§ 14. Sazby za přezkoušení elektrického zařízení.",
+      "content": "Dosavadní sazby za přezkoušení elektrického zařízení u maloodběratelů zůstávají nezměněny."
+    },
+    {
+      "provision_ref": "§ 15.",
+      "section": "15",
+      "title": "§ 15. Sazby za montáž měřidel.",
+      "content": "Maloodběratel zaplatí za první montáž měřícího zařízení nebo za každou výměnu měřícího zařízení, která je prováděna na jeho přání, tyto částky:\na) za montáž jednofázového elektroměruKčs 30,—\nb) za montáž jednofázového elektroměru dvojsazbového a sazbového spínačeKčs 60,—\nc) za montáž trojfázového elektroměruKčs 50,—\nd) za montáž trojfázového dvojsazbového elektroměru a sazbového spínačeKčs 80,—\nVšeobecná ustanovení."
+    },
+    {
+      "provision_ref": "§ 17.",
+      "section": "17",
+      "title": "§ 17.",
+      "content": "Veškeré ceny stanovené touto vyhláškou rozumějí se včetně daně z obratu."
+    },
+    {
+      "provision_ref": "§ 18.",
+      "section": "18",
+      "title": "§ 18.",
+      "content": "Pokud touto vyhláškou není stanoveno jinak, platí pro dodávku elektřiny maloodběratelům „Jednotné podmínky při prodeji elektřiny nízkého napětí” (norma ESČ 32) a „Jednotné podmínky pro připojování zařízení nízkého napětí k sítím elektrárenských podniků” (norma ESČ 33)."
+    },
+    {
+      "provision_ref": "§ 19.",
+      "section": "19",
+      "title": "§ 19.",
+      "content": "Ceny elektřiny podle této vyhlášky účtují se maloodběratelům od stavu zjištěného na elektroměru při prvém odečtu provedeném po 31. květnu 1953 a u paušálů od 1. července 1953."
+    },
+    {
+      "provision_ref": "§ 20.",
+      "section": "20",
+      "title": "§ 20.",
+      "content": "(1) Zrušuje se vyhláška býv. Nejvyššího úřadu cenového č. 786/1947 Ú. l. I., o jednotných všeobecných sazbách pro prodej elektřiny v drobném a výměr pověřenectva výživy (cenový odbor) ze dne 15. července 1947 č. j. 609.165/1947-VI/2 ve znění předpisů je měnících a doplňujících.\n(2) Zrušují se dosavadní hranice maximální spotřeby elektřiny (příděl) a přirážka za vyšší odběr, stanovené pro maloodběratele výnosem ministerstva energetiky ze dne 25. dubna 1953 č. j. 711/2/46/Ry/JS (Úřední list ze dne 15. května 1953 částka 63) s výjimkou případu, uvedeného v § 9 této vyhlášky.\n(3) Dosavadní sazby rolnické (R, RD), živnostenské sazby pro světlo (S, SD, S2, S2D) i živnostenské sazby pro pohon (P, PD) a jejich kombinace, jakož i veškeré zlevněné sazby pro prodej elektřiny v drobném se zrušují a nahrazují se sazbami uvedenými v §§ 2 až 9."
+    },
+    {
+      "provision_ref": "§ 21.",
+      "section": "21",
+      "title": "§ 21.",
+      "content": "Ministerstvo energetiky vydá podle potřeby podrobnější prováděcí směrnice k jednotlivým ustanovením této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 22.",
+      "section": "22",
+      "title": "§ 22.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 1953."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Maloodběratelem",
+      "definition": "se takový odběratel elektřiny, který nemá sjednanou dodávku elektřiny zvláštní smlouvou, a kterému se neúčtuje odběr elektřiny podle sazby ve velkém, a to i když odebírá elektřinu prostřednictvím velkoodběratele (na př",
+      "source_provision": "§ 1."
+    }
+  ]
+}

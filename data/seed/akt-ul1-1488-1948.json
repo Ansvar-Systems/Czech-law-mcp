@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1488/1948",
+  "type": "statute",
+  "title": "1488/1948 Ú. l. I, Vyhláška zemského národního výboru v Brně o povinném hlášení serosního zánětu mozkových blan.",
+  "title_en": "",
+  "short_name": "1488/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-17",
+  "in_force_date": "1948-08-01",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1488",
+  "description": "Vyhláška zemského národního výboru v Brně o povinném hlášení serosního zánětu mozkových blan.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Zemský národní výbor v Brně nařizuje podle § 1, odst. 2 zákona ze dne 20. března 1948, č. 60 Sb., o potírání nemocí přenosných na lidi, povinné hlášení onemocnění a podezření z onemocnění a úmrtí při serosní meningitidě (serosním zánětu mozkových blan)."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "(1) Za podezření z onemocnění serosním zánětem mozkových blan jest považovati jakýkoli zánět a podráždění (meningismums) mozkových blan neznámého původu.\n(2) Při tomto onemocnění jest uplatniti všechna ustanovení zákona č. 60/1948 Sb."
+    }
+  ],
+  "definitions": []
+}

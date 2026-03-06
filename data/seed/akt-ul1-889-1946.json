@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:889/1946",
+  "type": "statute",
+  "title": "889/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků sklářských.",
+  "title_en": "",
+  "short_name": "889/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-28",
+  "in_force_date": "1948-08-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/889",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků sklářských.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Altvaterhütte Adolf Richter et Co., se sídlem ve Vrbně ve Slezsku, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku »Skelné hutě, dříve J. Schreiber a synovci«, akciová společnost se sídlem ve Vídni, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. majetkovou podstatu podniku Antonína Koppa syn, sklárna, se sídlem v Janštýně, p. Horní Dubenky, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. majetkovou podstatu podniku Českomoravské sklárny, akciová společnost dř. S. Reich a spol., se sídlem v Praze II., Štěpánská ul. 65. v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cz:125/2018",
+  "type": "statute",
+  "title": "125/2018 Sb., Vyhláška o informacích uváděných ve zdravotně pojistném plánu a výhledu a o způsobu jejich předkládání zdravotními pojišťovnami",
+  "title_en": "",
+  "short_name": "125/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-06-22",
+  "in_force_date": "2018-06-29",
+  "url": "https://www.e-sbirka.cz/sb/2018/125",
+  "description": "Vyhláška o informacích uváděných ve zdravotně pojistném plánu a výhledu a o způsobu jejich předkládání zdravotními pojišťovnami",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předkládání zdravotně pojistného plánu a výhledu",
+      "content": "Všeobecná zdravotní pojišťovna České republiky a resortní, oborové, podnikové a další zdravotní pojišťovny (dále jen „zdravotní pojišťovna“) předávají zdravotně pojistný plán a výhled Ministerstvu zdravotnictví a Ministerstvu financí v elektronické podobě prostřednictvím datové schránky v otevřeném a strojově čitelném formátu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Východiska zdravotně pojistného plánu a výhledu",
+      "content": "Zdravotně pojistný plán a výhled vychází zejména z právních předpisů platných v době jejich předání Ministerstvu zdravotnictví a Ministerstvu financí a z makroekonomických predikcí vztahujících se k období, na něž jsou zdravotně pojistný plán a výhled zpracovány. Tyto právní předpisy a zdroje predikcí uvede zdravotní pojišťovna ve zdravotně pojistném plánu.\nZdravotně pojistný plán"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Údaje o zdravotní pojišťovně obsažené ve zdravotně pojistném plánu zahrnují\na) název a kód zdravotní pojišťovny a její sídlo,\nb) organizační strukturu zdravotní pojišťovny a předpokládané změny v období, na nějž se zdravotně pojistný plán vztahuje,\nc) záměry rozvoje informačního systému podle § 24 zákona č. 551/1991 Sb. a § 21 zákona č. 280/1991 Sb."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Přehled údajů o činnosti zdravotní pojišťovny uvede zdravotní pojišťovna ve struktuře podle přílohy č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Údaje o tvorbě a čerpání zdrojů základního fondu zdravotního pojištění a členění příjmů a výdajů základního fondu zdravotního pojištění včetně propočtu jejich celkového salda uvede zdravotní pojišťovna ve struktuře podle přílohy č. 2 k této vyhlášce.\n(2) Údaje o tvorbě a čerpání zdrojů provozního fondu a členění příjmů a výdajů provozního fondu uvede zdravotní pojišťovna ve struktuře podle přílohy č. 3 k této vyhlášce. Součástí zdravotně pojistného plánu je výpočet maximálního limitu nákladů na vlastní činnost podle právního předpisu upravujícího příjmy a výdaje fondů veřejného zdravotního pojištění1).\n(3) Údaje o tvorbě a čerpání zdrojů fondu reprodukce majetku Všeobecné zdravotní pojišťovny České republiky a fondu reprodukce investičního majetku resortních, oborových, podnikových a dalších zdravotních pojišťoven a členění příjmů a výdajů fondu reprodukce majetku Všeobecné zdravotní pojišťovny České republiky a fondu reprodukce investičního majetku resortních, oborových, podnikových a dalších zdravotních pojišťoven uvede zdravotní pojišťovna ve struktuře podle přílohy č. 4 k této vyhlášce. Součástí zdravotně pojistného plánu je informace o investičních záměrech zdravotní pojišťovny včetně jejich zdůvodnění.\n(4) Údaje o tvorbě a čerpání zdrojů sociálního fondu a členění příjmů a výdajů sociálního fondu uvede zdravotní pojišťovna ve struktuře podle přílohy č. 5 k této vyhlášce.\n(5) Údaje o tvorbě a čerpání zdrojů rezervního fondu a členění příjmů a výdajů rezervního fondu uvede zdravotní pojišťovna ve struktuře podle přílohy č. 6 k této vyhlášce.\n(6) Údaje o tvorbě a čerpání zdrojů fondu prevence a členění příjmů a výdajů fondu prevence uvede zdravotní pojišťovna ve struktuře podle přílohy č. 7 k této vyhlášce. Zdravotní pojišťovna uvede přehled programů hrazených z fondu prevence včetně nákladů ve struktuře podle přílohy č. 14 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Provádí-li zdravotní pojišťovna jinou činnost, než je provozování veřejného zdravotního pojištění, uvede členění výnosů a nákladů takové činnosti ve struktuře podle přílohy č. 8 k této vyhlášce. Součástí zdravotně pojistného plánu je informace o vlastněných investičních nástrojích."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Vojenská zdravotní pojišťovna dále uvede údaje o tvorbě a čerpání zdrojů fondu pro úhradu preventivní péče poskytované nad rámec hrazených služeb pro vojáky v činné službě a žáky vojenských škol2) a členění příjmů a výdajů tohoto fondu ve struktuře podle přílohy č. 9 k této vyhlášce.\n(2) Vojenská zdravotní pojišťovna uvede údaje o tvorbě čerpání zdrojů fondu zprostředkování úhrady zdravotních služeb hrazených Ministerstvem obrany3) a členění příjmů a výdajů tohoto fondu ve struktuře podle přílohy č. 10 k této vyhlášce.\n(3) Plánuje-li Vojenská zdravotní pojišťovna provést mimořádný příděl do provozního fondu4), uvede tuto skutečnost ve zdravotně pojistném plánu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Zdravotní pojišťovna uvede předpokládané náklady na hrazené zdravotní služby ve struktuře podle přílohy č. 11 k této vyhlášce. Součástí zdravotně pojistného plánu je zdůvodnění plánovaného nárůstu nebo poklesu nákladů na některý druh nebo formu zdravotních služeb. Pokud je taková změna oproti kalendářnímu roku předcházejícímu rok, na nějž se zdravotně pojistný plán předkládá, vyšší než 5 % a nevyplývá-li taková změna přímo z jiných právních předpisů, na jejichž základě je zdravotně pojistný plán sestavován, zejména z právního předpisu upravujícího stanovení hodnot bodu, výše úhrad hrazených služeb a regulačních omezení5), uvede zdravotní pojišťovna důvody této změny a dále uvede poskytovatele zdravotních služeb, kteří jí budou dotčeni.\n(2) Zdravotní pojišťovna uvede předpokládané náklady na hrazené zdravotní služby v přepočtu na 1 pojištěnce ve struktuře podle přílohy č. 12 k této vyhlášce.\n(3) Zdravotní pojišťovna uvede informace o vývoji nákladů na léčení pojištěnců z ostatních členských států Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederace podle přímo použitelných předpisů Evropské unie upravujících koordinaci systémů sociálního zabezpečení6) a pojištěnců dalších států, se kterými má Česká republika uzavřeny mezinárodní smlouvy o sociálním zabezpečení vztahující se i na oblast hrazených služeb7), (dále jen „zahraniční pojištěnec“) ve struktuře podle přílohy č. 13 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Součástí zdravotně pojistného plánu jsou dále informace o\na) údajích obsažených v přílohách č. 1 až 14 k této vyhlášce,\nb) prioritách revizního a kontrolního systému zdravotní pojišťovny alespoň pro období, na nějž je zdravotně pojistný plán zpracován,\nc) způsobech, stanovení výše a uplatňovaných regulačních omezeních úhrady jednotlivých druhů nebo forem hrazených zdravotních služeb,\nd) dceřiných společnostech a právnických osobách vykonávajících podnikatelskou činnost založených zdravotní pojišťovnou,\ne) kontrole a vymáhání pojistného včetně pokut, penále a přirážek k pojistnému,\nf) záměrech vývoje kmene pojištěnců včetně opatření pro jeho stabilizaci,\ng) záměrech smluvní politiky zdravotní pojišťovny a předpokladu zajištění dostupnosti hrazených služeb a\nh) jiných skutečnostech, které zdravotní pojišťovna považuje pro provádění veřejného zdravotního pojištění za podstatné.\nVýhled"
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "(1) Výhled obsahuje příjmy a výdaje.\n(2) Zdravotní pojišťovna ve výhledu uvede ve struktuře podle přílohy č. 15 k této vyhlášce informaci o\na) celkových příjmech,\nb) pojistném z veřejného zdravotního pojištění po přerozdělování8),\nc) celkových výdajích,\nd) výdajích na zdravotní služby ze základního fondu zdravotního pojištění9),\ne) výdajích na vlastní činnost,\nf) saldu celkových příjmů a výdajů,\ng) celkových zůstatcích na účtech ke konci běžného období,\nh) zůstatcích na účtech základního fondu zdravotního pojištění ke konci běžného období,\ni) veškerých závazcích zdravotní pojišťovny ke konci běžného období,\nj) veškerých pohledávkách zdravotní pojišťovny ke konci běžného období."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "(1) Součástí výhledu je i popis předpokládaného vývoje hospodaření zdravotní pojišťovny v letech, na která se výhled zpracovává, obsahující alespoň informace o\na) vývoji celkových příjmů,\nb) očekávaném pojistném z veřejného zdravotního pojištění po přerozdělování,\nc) vývoji celkových výdajů včetně předpokladu vývoje v oblasti smluvní politiky a provozní činnosti,\nd) plánovaných investičních záměrech a\ne) vývoji celkového salda; v případě, kdy zdravotní pojišťovna předpokládá pro období, na něž je výhled sestavován, záporné saldo příjmů a výdajů, uvede zdravotní pojišťovna plánovaná opatření ke stabilizaci hospodaření.\n(2) Součástí popisu je rovněž informace o vývoji celkových zůstatků i zůstatků základního fondu zdravotního pojištění na účtech ke konci běžného období.\n(3) Součástí popisu je rovněž informace o\na) vývoji veškerých závazků, závazků vůči poskytovatelům zdravotních služeb a závazků vůči ostatním subjektům a z pohledu jejich splatnosti a\nb) vývoji veškerých pohledávek, pohledávek za plátci pojistného, pohledávek za poskytovateli zdravotních služeb a ostatních pohledávek a z pohledu jejich splatnosti."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "Součástí výhledu dále je\na) závěrečné shrnutí předpokládaného vývoje hospodaření zdravotní pojišťovny v letech, na která se výhled zpracovává, a\nb) shrnutí nejvýznamnějších vlivů, které budou nebo mohou mít vliv na hospodaření zdravotní pojišťovny."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 29. června 2018.\nPříloha č. 1 k vyhlášce č. 125/2018 Sb.\nPřehled údajů o činnosti zdravotní pojišťovny\nPříloha č. 2 k vyhlášce č. 125/2018 Sb.\nZákladní fond zdravotního pojištění (v tis. Kč)\nPropočet salda příjmů a nákladů na ZFZP (v tis. Kč)\nz vybraných položek části A III a B II ZFZP\nPříloha č. 3 k vyhlášce č. 125/2018 Sb.\nProvozní fond (v tis. Kč)\nPříloha č. 4 k vyhlášce č. 125/2018 Sb.\nFond reprodukce majetku Všeobencé zdravotní pojišťovny ČR a fond reprodukce investičního majetku zaměstnaneckých zdravotních pojišťoven (dále jen „Fond reprodukce majetku“) (v tis Kč)\nPříloha č. 5 k vyhlášce č. 125/2018 Sb.\nSociální fond (v tis. Kč)\nPříloha č. 6 k vyhlášce č. 125/2018 Sb.\nRezervní fond (v tis. Kč)\nPříloha č. 7 k vyhlášce č. 125/2018 Sb.\nFond prevence (v tis. Kč)\nPříloha č. 8 k vyhlášce č. 125/2018 Sb.\nJiná činnost, než je provozování veřejného zdravotního pojištění (dále jen „jiná činnost“) (v tis. Kč)\nPříloha č. 9 k vyhlášce č. 125/2018 Sb.\nFond pro úhradu preventivní péče (v tis. Kč)\nPříloha č. 10 k vyhlášce č. 125/2018 Sb.\nFond zprostředkovávní úhrady zdravotních služeb (v tis. Kč)\nPříloha č. 11 k vyhlášce č. 125/2018 Sb.\nStruktura nákladů na zdravotní služby podle jednotlivých segmentů (v tis. Kč)\nPříloha č. 12 k vyhlášce č. 125/2018 Sb.\nStruktura nákladů na zdravotní služby podle jednotlivých segmentů v přepočtu na 1 pojištěnce (v Kč)\nPříloha č. 13 k vyhlášce č. 125/2018 Sb.\nVývoj nákladů na léčení zahraničních pojištěnců v České republice\nPříloha č. 14 k vyhlášce č. 125/2018 Sb.\nNáklady na preventivní zdravotní péči čerpané z fondu prevence (v tis. Kč)\nPříloha č. 15 k vyhlášce č. 125/2018 Sb.\nStřednědobý výhled zdravotní pojišťovny (v tis. Kč)\n1) § 7 odst. 2 vyhlášky č. 418/2003 Sb., kterou se stanoví podrobnější vymezení okruhu a výše příjmů a výdajů fondů veřejného zdravotního pojištění zdravotních pojišťoven, podmínky jejich tvorby, užití, přípustnosti vzájemných převodů finančních prostředků a hospodaření s nimi, limit nákladů na činnost zdravotních pojišťoven krytých ze zdrojů základního fondu včetně postupu propočtu tohoto limitu, ve znění pozdějších předpisů.\n2) § 16 odst. 3 zákona č. 280/1992 Sb., ve znění pozdějších předpisů.\n3) § 16 odst. 2 zákona č. 280/1992 Sb., ve znění pozdějších předpisů.\n4) § 1 odst. 4 písm. m) vyhlášky č. 418/2003 Sb., ve znění pozdějších předpisů.\n5) Například vyhláška č. 353/2017 Sb., o stanovení hodnot bodu, výše úhrad hrazených služeb a regulačních omezení pro rok 2018.\n6) Nařízení Evropského parlamentu a Rady (ES) č. 883/2004 ze dne 29. dubna 2004, o koordinaci systémů sociálního zabezpečení, v platném znění.\nNařízení Evropského parlamentu a Rady (ES) č. 987/2009 ze dne 16. září 2009, kterým se stanoví prováděcí pravidla k nařízení (ES) č. 883/2004, o koordinaci systémů sociálního zabezpečení.\nNařízení Evropského parlamentu a Rady (EU) č. 1231/2010 ze dne 24. listopadu 2010, kterým se rozšiřuje působnost nařízení (ES) č. 883/2004 a nařízení (ES) č. 987/2009 na státní příslušníky třetích zemí, na které se tato nařízení dosud nevztahují pouze z důvodu jejich státní příslušnosti.\n7) Například sdělení Ministerstva zahraničních věcí č. 130/2002 Sb. m. s., o sjednání Smlouvy mezi Českou republikou a Svazovou republikou Jugoslávií o sociálním zabezpečení, sdělení Ministerstva zahraničních věcí č. 135/2004 Sb. m. s., o sjednání Smlouvy mezi Českou republikou a Tureckou republikou o sociálním zabezpečení, sdělení Ministerstva zahraničních věcí č. 2/2007 Sb. m. s., o sjednání Smlouvy mezi Českou republikou a Republikou Makedonie o sociálním zabezpečení.\n8) § 20 a 21a zákona č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů.\n§ 1 odst. 1 písm. a) a b) vyhlášky č. 418/2003 Sb., ve znění pozdějších předpisů.\n9) § 1 odst. 4 písm. a), b) a d) vyhlášky č. 418/2003 Sb., ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

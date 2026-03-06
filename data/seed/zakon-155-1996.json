@@ -1,0 +1,33 @@
+{
+  "id": "cz:155/1996",
+  "type": "statute",
+  "title": "155/1996 Sb., Vyhláška Ministerstva průmyslu a obchodu o řešení stavů nouze v teplárenství",
+  "title_en": "",
+  "short_name": "155/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-06-05",
+  "in_force_date": "1996-06-05",
+  "url": "https://www.e-sbirka.cz/sb/1996/155",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu o řešení stavů nouze v teplárenství",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Při likvidaci vzniku a následků poruch a havárií a v případě úplného přerušení dodávek tepla ze soustavy zásobování teplem se postupuje podle havarijního plánu.\n(2) Havarijní plán obsahuje:\na) popis a uspořádání soustavy zásobování teplem,\nb) pravomoci a povinnosti vedoucích zaměstnanců,\nc) popis typických a předpokládaných pracovních režimů při stavech nouze,\nd) plán omezení odběru tepla ze soustavy zásobování teplem v jednotlivých odběrných místech (dále jen „regulační plán“),\ne) postup havarijního odstavení,\nf) postup obnovení dodávek,\ng) způsob spojení na zaměstnance a odběratele."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Způsob a rozsah omezení spotřeby tepla pro řešení stavů nouze se provádí podle regulačního plánu.\n(2) V každé soustavě zásobování teplem se stanovují regulační stupně dodávky v závislosti na míře omezení jejího výkonu.\n(3) Odběrové diagramy k jednotlivým regulačním stupňům se sjednávají na každé odběrné místo ve smlouvě zvlášť.\n(4) Při regulaci odběru tepla se bere v úvahu naléhavost dodávek tepla, zejména z hlediska potřeb zdravotnictví, potravinářství, subjektů hospodářské mobilizace, školství a event. dalších."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

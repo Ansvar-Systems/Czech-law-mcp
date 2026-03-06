@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1131/1946",
+  "type": "statute",
+  "title": "1131/1946 Ú. l. I, Vyhláška Národní banky československé o způsobu vyrovnávání platů mezi Československou republikou a Islandem.",
+  "title_en": "",
+  "short_name": "1131/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-05-03",
+  "in_force_date": "1946-05-03",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1131",
+  "description": "Vyhláška Národní banky československé o způsobu vyrovnávání platů mezi Československou republikou a Islandem.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Převody platů určených k vyrovnávání vzájemných závazků mezi Československem a Islandem budou prováděny prostřednictvím Národní banky Československé a Landsbanki Islands."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "(1) Dlužníci v Československu budou konati platy určené k vyrovnávání svých závazků v islandských korunách prostřednictvím Národní banky Československé a dlužníci v Islandu v Kčs prostřednictvím Landsbanki Islands.\n(2) Přepočet obou měn bude prováděn kursem úředně stanoveným."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Pro platy a výplaty platí obecné devisové předpisy."
+    }
+  ],
+  "definitions": []
+}

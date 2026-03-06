@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:105/1953",
+  "type": "statute",
+  "title": "105/1953 Ú. l., Vyhláška ministra zdravotnictví o úhradách za ambulantní preventivní a léčebnou péči poskytovanou státem osobám, které nemají nárok na bezplatnou péči.",
+  "title_en": "",
+  "short_name": "105/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-03-31",
+  "in_force_date": "1953-04-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/105",
+  "description": "Vyhláška ministra zdravotnictví o úhradách za ambulantní preventivní a léčebnou péči poskytovanou státem osobám, které nemají nárok na bezplatnou péči.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Osobám, které nemají nárok na bezplatnou ambulantní preventivní a léčebnou péči podle předpisů o národním pojištění nebo podle jiných předpisů, poskytuje stát tuto péči za úhradu ve výši stanovené v oddílech A a B sazebníku, který tvoří přílohu této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vedle úhrady uvedené v § 1 se vybírá dále úhrada\na) za vydané léky ve výši stanovené podle předpisů o prodejních cenách léčiv a jiného zboží vydávaného v lékárnách,*)\nb) za dopravu zdravotnického pracovníka k nemocnému v bytě a za přepravu nemocného nebo rodičky do zdravotnického zařízení a zpět ve výši stanovené v oddílu C sazebníku."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Úhrady podle §§ 1 a 2 vybere ústav národního zdraví nebo jiné samostatně hospodařící zdravotnické zařízení, v němž byla preventivní a léčebná péče poskytnuta, v hotovosti; v odůvodněných případech lze úhradu zaplatit vplatním lístkem na příjmový účet ústavu (zařízení)."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1953.\nPříloha k vyhlášce ministra zdravotnictví č. 105/1953 Ú. l.\nSazebník."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "c) Dobou noční",
+      "definition": "doba od 19 hodin večer do 7 hodin ráno",
+      "source_provision": "§ 4."
+    }
+  ]
+}

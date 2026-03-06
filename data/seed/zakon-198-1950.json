@@ -1,0 +1,33 @@
+{
+  "id": "cz:198/1950",
+  "type": "statute",
+  "title": "198/1950 Sb., Nařízení o zrušení ředitelství státního dluhu, ústřední státní pokladny v Praze a státní pokladny pro Slovensko v Bratislavě",
+  "title_en": "",
+  "short_name": "198/1950 Sb.",
+  "status": "in_force",
+  "issued_date": "1950-12-29",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1950/198",
+  "description": "Nařízení o zrušení ředitelství státního dluhu, ústřední státní pokladny v Praze a státní pokladny pro Slovensko v Bratislavě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Ředitelství státního dluhu v Praze, zřízené zákonem č. 686/1920 Sb., se zrušuje.\n(2) Jeho působnost se přenáší na Státní banku československou s výjimkou soustavného účtování v oboru státního dluhu, které se převádí na ministerstvo financí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Ústřední státní pokladna v Praze, zřízená nařízením ministerstva financí č. 65/1919 Sb., a státní pokladna pro Slovensko v Bratislavě, zřízená opatřením vydaným podle § 14 zákona č. 64/1918 Sb., se zrušují.\n(2) Jejich působnost se převádí na ministerstvo financí s výjimkou úschovy a s ní spojené správy svěřených hodnot, která se přenáší na Státní banku československou."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 1951; provede je ministr financí."
+    }
+  ],
+  "definitions": []
+}

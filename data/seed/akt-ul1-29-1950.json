@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:29/1950",
+  "type": "statute",
+  "title": "29/1950 Ú. l. I, Vyhláška ministerstva zdravotnictví, kterou se stanoví druhy zdravotnických potřeb vydávaných v lékárnách.",
+  "title_en": "",
+  "short_name": "29/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-11",
+  "in_force_date": "1950-01-11",
+  "url": "https://www.e-sbirka.cz/ul1/1950/29",
+  "description": "Vyhláška ministerstva zdravotnictví, kterou se stanoví druhy zdravotnických potřeb vydávaných v lékárnách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V lékárnách lze vydávat tyto léčebné a ošetřovací pomůcky a potřeby:\n1. pomůcky pro ošetřování a vyšetřování nemocných, zejména pomůcky pro ošetřování očí, uší a tělesných dutin, lékařské teploměry a stříkačky, čítajíc v to injekční stříkačky;\n2. obvazy, vaty a náplasti;\n3. potřeby pro kojící matky a kojence, zejména odsavače mléka a pupeční převazy;\n4. desinfekční prostředky, zejména desinfekční mýdla, masti a zásypy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Výhradně v lékárnách smějí být vydávány tyto diagnostické pomůcky a léčebné a ošetřovací potřeby:\n1. diagnostické látky a přípravky;\n2. obvazy, vaty a náplasti obsahující léčiva."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

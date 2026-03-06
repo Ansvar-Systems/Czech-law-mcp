@@ -1,0 +1,127 @@
+{
+  "id": "cz:10/2019",
+  "type": "statute",
+  "title": "10/2019 Sb., Vyhláška o výkaznictví v hazardních hrách",
+  "title_en": "",
+  "short_name": "10/2019 Sb.",
+  "status": "in_force",
+  "issued_date": "2019-01-18",
+  "in_force_date": "2024-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2019/10",
+  "description": "Vyhláška o výkaznictví v hazardních hrách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ > HLAVA I - ZÁKLADNÍ USTANOVENÍ",
+      "content": "Tato vyhláška upravuje způsob, obsahové náležitosti a lhůtu pro přenos dat provozovatele orgánům vykonávajícím dozor podle zákona o hazardních hrách, rozsah přenášených dat a jiné technické parametry poskytování výkaznictví, a to v podobě\na) denního herního výkaznictví v případě živé hry provozované jinak než jako internetová hra,\nb) denního herního zápisu v případě binga provozovaného jinak než jako internetová hra,\nc) vzdáleného přístupu v případě jiné hazardní hry než podle písmen a) a b)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Registrace",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ > HLAVA II - OBECNÉ POŽADAVKY NA AUTOMATIZOVANÝ VÝSTUP",
+      "content": "(1) Provozovatel oznámí orgánu vykonávajícímu dozor údaje nutné k technickému zabezpečení poskytování automatizovaného výstupu tak, aby toto sdělení došlo orgánu vykonávajícímu dozor nejpozději 30 dní přede dnem, kdy má být automatizovaný výstup poprvé poskytnut. Provozovatel ve sdělení vedle obecných náležitostí podání dále uvede\na) kvalifikovaný certifikát provozovatele pro uznávanou elektronickou pečeť používaný podle přílohy k této vyhlášce k pečetění souboru,\nb) certifikát veřejného klíče provozovatele používaného podle přílohy k této vyhlášce pro účely\n1. šifrování souboru,\n2. autentizace při šifrovaném autentizovaném přenosu,\nc) část adresy internetové stránky provozovatele sloužící podle přílohy k této vyhlášce k sestavení adresy používané k\n1. poskytování automatizovaného výstupu,\n2. zaslání potvrzovacího balíčku v případě, kdy poskytnutý automatizovaný výstup je formálně správný, a\n3. zaslání potvrzovacího balíčku v případě, kdy poskytnutý automatizovaný výstup není formálně správný,\nd) další údaje nutné k technickému zabezpečení poskytování automatizovaného výstupu na straně provozovatele v souladu s přílohou k této vyhlášce.\n(2) Orgán vykonávající dozor oznámí provozovateli\na) kvalifikovaný certifikát orgánu vykonávajícího dozor pro kvalifikovanou elektronickou pečeť používaný podle přílohy k této vyhlášce pro pečetění souboru,\nb) certifikát veřejného klíče orgánu vykonávajícího dozor používaného podle přílohy k této vyhlášce pro účely\n1. šifrování souboru,\n2. autentizace při šifrovaném autentizovaném přenosu,\nc) adresu internetové stránky orgánu vykonávajícího dozor používanou podle přílohy k této vyhlášce k poskytování potvrzovacího balíčku a\nd) další údaje nutné k technickému zabezpečení poskytování automatizovaného výstupu na straně orgánu vykonávajícího dozor v souladu s přílohou k této vyhlášce.\n(3) Provozovatel oznámí orgánu vykonávajícímu dozor změnu v údajích podle odstavce 1 písm. a) až d) a den, od kterého se použijí změněné údaje při poskytování automatizovaného výstupu, tak, aby toto sdělení došlo tomuto orgánu nejpozději 5 pracovních dní před tímto dnem.\n(4) Orgán vykonávající dozor oznámí provozovateli změnu v údajích podle odstavce 2 a den, od kterého se použijí změněné údaje při poskytování automatizovaného výstupu, tak, aby toto sdělení došlo tomuto provozovateli nejpozději 5 pracovních dní před tímto dnem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Způsob poskytování automatizovaného výstupu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ > HLAVA II - OBECNÉ POŽADAVKY NA AUTOMATIZOVANÝ VÝSTUP",
+      "content": "(1) Automatizovaný výstup se poskytuje způsobem podle přílohy k této vyhlášce.\n(2) Orgán vykonávající dozor přistoupí k internetové adrese používané k poskytování automatizovaného výstupu nejpozději do 7 dní ode dne, kdy má být automatizovaný výstup poskytnut; to neplatí v případě živelní pohromy nebo jiné mimořádné události.\n(3) Orgán vykonávající dozor způsobem podle přílohy k této vyhlášce vytvoří a předá provozovateli potvrzovací balíček obsahující informaci o tom, zda je poskytnutý automatizovaný výstup formálně správný. Orgán vykonávající dozor nepřihlíží k poskytnutému automatizovanému výstupu, který není formálně správný.\n(4) Provozovatel poskytuje jednotlivý automatizovaný výstup do okamžiku, kdy mu orgán vykonávající dozor předá potvrzovací balíček ohledně tohoto automatizovaného výstupu.\n(5) Odstavce 1 až 4 se použijí obdobně na znovu poskytnutý automatizovaný výstup, ve kterém byly opraveny chyby.\n(6) Pro účely poskytování automatizovaného výstupu je automatizovaný výstup formálně správný, pokud\na) je v předepsaném formátu a struktuře,\nb) je zapečetěn uznávanou elektronickou pečetí provozovatele,\nc) je zašifrován pomocí veřejného klíče orgánu vykonávajícího dozor a\nd) neobsahuje herní a finanční data, která do něj zjevně nepatří."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob opravy formálních chyb poskytnutého automatizovaného výstupu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ > HLAVA II - OBECNÉ POŽADAVKY NA AUTOMATIZOVANÝ VÝSTUP",
+      "content": "(1) Provozovatel opraví formální chyby vytknuté v potvrzovacím balíčku týkajícím se poskytnutého automatizovaného výstupu, který není formálně správný, do 2 pracovních dní ode dne, kdy mu byl tento potvrzovací balíček předán.\n(2) Formální chyby v automatizovaném výstupu se opravují tak, že provozovatel znovu poskytne automatizovaný výstup, ve kterém tyto chyby odstraní.\n(3) V případě, že je první poskytnutý opravený automatizovaný výstup formálně správný, hledí se na opravovaný automatizovaný výstup, jako by byl formálně správný již při poskytnutí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob opravy věcných chyb poskytnutého automatizovaného výstupu",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ > HLAVA II - OBECNÉ POŽADAVKY NA AUTOMATIZOVANÝ VÝSTUP",
+      "content": "(1) Provozovatel může v případech hodných zřetele nejpozději do 14 dní ode dne, kdy poskytnul formálně správný automatizovaný výstup obsahující jiné než formální chyby, tyto chyby opravit.\n(2) Jiné než formální chyby v automatizovaném výstupu se opravují tak, že provozovatel znovu poskytne automatizovaný výstup, ve kterém tyto chyby odstraní, a sdělí orgánu vykonávajícímu dozor\na) údaje k určení opravovaného automatizovaného výstupu a\nb) důvod opravy automatizovaného výstupu.\n(3) Lhůta pro načtení adresy používané k poskytování automatizovaného výstupu začne běžet dnem, kdy orgánu vykonávajícímu dozor dojde sdělení podle odstavce 2. Za den poskytnutí opraveného automatizovaného výstupu se považuje den, kdy toto sdělení došlo orgánu vykonávajícímu dozor, nebo den, kdy byl tento automatizovaný výstup skutečně poskytnut, s tím, že rozhodný je den, který nastane později.\n(4) Opravovaný automatizovaný výstup také není formálně správný, pokud by v důsledku jeho přijetí přestal být formálně správným některý z dříve poskytnutých automatizovaných výstupů. Provozovatel ve sdělení podle odstavce 2 uvede údaje k určení tohoto dříve poskytnutého automatizovaného výstupu a opraví v něm formální chyby, které by vznikly v případě přijetí opravovaného automatizovaného výstupu podle věty první."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Forma poskytování vzdáleného přístupu",
+      "chapter": "ČÁST DRUHÁ - VZDÁLENÝ PŘÍSTUP",
+      "content": "Je-li provozovatel povinen zajistit a předat orgánům vykonávajícím dozor vzdálený přístup, poskytuje vzdálený přístup ve formě automatizovaného výstupu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Požadavky na poskytování vzdáleného přístupu",
+      "chapter": "ČÁST DRUHÁ - VZDÁLENÝ PŘÍSTUP",
+      "content": "(1) Při poskytování vzdáleného přístupu se herní a finanční data poskytují způsobem, v rozsahu, formátu a struktuře podle přílohy k této vyhlášce.\n(2) Vzdálený přístup poskytuje provozovatel třikrát za kalendářní den za období v délce 8 hodin začínající v\na) 00:00,\nb) 08:00 a\nc) 16:00.\n(3) Pokud v průběhu období podle odstavce 2 písm. a) dojde k\na) zavedení letního času, má toto období délku 7 hodin, a\nb) ukončení letního času, má toto období délku 9 hodin.\n(4) Provozovatel poskytne vzdálený přístup nejpozději do 8 hodin po uplynutí období, za které je vzdálený přístup poskytován."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Forma poskytování denního herního výkaznictví a denního herního zápisu",
+      "chapter": "ČÁST TŘETÍ - DENNÍ HERNÍ VÝKAZNICTVÍ A DENNÍ HERNÍ ZÁPIS",
+      "content": "Provozovatel poskytuje denní herní výkaznictví a denní herní zápis ve formě automatizovaného výstupu."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Požadavky na poskytování denního herního výkaznictví",
+      "chapter": "ČÁST TŘETÍ - DENNÍ HERNÍ VÝKAZNICTVÍ A DENNÍ HERNÍ ZÁPIS",
+      "content": "(1) V denním herním výkaznictví se herní a finanční data poskytují způsobem, v rozsahu, a to základním nebo rozšířeném, formátu a struktuře podle přílohy k této vyhlášce.\n(2) Provozovatel poskytuje v denním herním výkaznictví herní a finanční data nejméně v základním rozsahu. Neuvádí-li příloha k této vyhlášce jinak, tvoří herní a finanční data v ní uvedená základní rozsah denního herního výkaznictví.\n(3) Provozovatel může poskytovat v denním herním výkaznictví herní a finanční data v rozšířeném rozsahu, které vedle herních a finančních dat v základním rozsahu denního herního výkaznictví dále tvoří herní a finanční data o každé hře živé hry, která není provozovaná jako internetová hra ani formou turnaje."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Požadavky na poskytování denního herního zápisu",
+      "chapter": "ČÁST TŘETÍ - DENNÍ HERNÍ VÝKAZNICTVÍ A DENNÍ HERNÍ ZÁPIS",
+      "content": "V denním herním zápise se herní a finanční data poskytují způsobem, v rozsahu, formátu a struktuře podle přílohy k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Provozní den",
+      "chapter": "ČÁST TŘETÍ - DENNÍ HERNÍ VÝKAZNICTVÍ A DENNÍ HERNÍ ZÁPIS",
+      "content": "(1) Denní herní výkaznictví a denní herní zápis obsahují údaje za jednotlivé provozní dny.\n(2) Provozním dnem se pro účely poskytování automatizovaného výstupu rozumí časový úsek, během něhož provozovatel provozuje v herním prostoru hazardní hry, započatý v daném kalendářním dni a vymezený\na) provozní dobou, nebo\nb) jiným vhodným způsobem v délce nepřesahující 24 hodin, v případě nepřetržitého provozu.\n(3) Každý okamžik provozu spadá právě do jednoho provozního dne.\n(4) V denním herním výkaznictví a denním herním zápise provozovatel za provozní den započatý v\na) prvním kalendářním dni zdaňovacího období daně z hazardních her uvede veškeré údaje, ze kterých je zřejmý pohyb hodnotových žetonů a peněžních prostředků v souvislosti s provozováním her v kasinu a průběh hry a pohyb peněžních prostředků v souvislosti s provozováním binga neprovozovaného jako internetová hra za tento kalendářní den, i pokud by jinak náležely tyto údaje do denního herního výkaznictví nebo denního herního zápisu za předchozí provozní den, a\nb) posledním kalendářním dni zdaňovacího období daně z hazardních her uvede pouze ty údaje, ze kterých je zřejmý pohyb hodnotových žetonů a peněžních prostředků v souvislosti s provozováním her v kasinu a průběh hry a pohyb peněžních prostředků v souvislosti s provozováním binga neprovozovaného jako internetová hra za tento kalendářní den."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Oznámení",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti, v platném znění."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Účinnost",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2019, s výjimkou ustanovení § 2, které nabývá účinnosti dnem 1. dubna 2019.\nPříloha k vyhlášce č. 10/2019 Sb.\nAutomatizovaný výstup"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Provozním dnem",
+      "definition": "časový úsek, během něhož provozovatel provozuje v herním prostoru hazardní hry, započatý v daném kalendářním dni a vymezený",
+      "source_provision": "§ 11"
+    },
+    {
+      "term": "Řetězcem určeným provozovatelem",
+      "definition": "řetězec znaků o délce nejméně jednoho znaku, jehož obsah určí provozovatel v souladu s ostatními požadavky na danou položku záznamu",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "V případě, že je v položce TiketOdmitnuti uvedena hodnota „0“, uvede se datum a čas uzavření kursové sázky, jímž",
+      "definition": "datum a čas přijetí sázky nebo sázek",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "Provozním úsekem",
+      "definition": "souvislá část provozního dne, ve které byly provozovány pokladna kasina, hrací stůl živé hry, turnaj živé hry nebo bingo",
+      "source_provision": "§ 14"
+    }
+  ]
+}

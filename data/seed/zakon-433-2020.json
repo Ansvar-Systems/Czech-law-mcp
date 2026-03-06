@@ -1,0 +1,72 @@
+{
+  "id": "cz:433/2020",
+  "type": "statute",
+  "title": "433/2020 Sb., Vyhláška o údajích vedených v katalogu cloud computingu",
+  "title_en": "",
+  "short_name": "433/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-10-30",
+  "in_force_date": "2020-10-31",
+  "url": "https://www.e-sbirka.cz/sb/2020/433",
+  "description": "Vyhláška o údajích vedených v katalogu cloud computingu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví údaje, které se vedou v katalogu cloud computingu o\na) poptávce cloud computingu,\nb) nabídce cloud computingu,\nc) cloud computingu využívaném orgány veřejné správy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) třídou cloud computingu cloud computing ve formě infrastruktury, cloud computing ve formě platformy a cloud computing ve formě aplikačního programového vybavení,\nb) typem cloud computingu množina cloud computingů, které mají stejný účel, způsob plnění funkcionality cloud computingu a základní parametry,\nc) oblastí cloud computingu skupina typů cloud computingů v rámci třídy cloud computingu, které plní obdobnou funkcionalitu cloud computingu,\nd) základním parametrem cloud computingu údaj popisující objemové, výkonové, cenové nebo jiné vlastnosti cloud computingu,\ne) bezpečnostní certifikací cloud computingu potvrzení, že cloud computing má vlastnosti vyžadované pro zařazení do příslušné bezpečnostní úrovně pro využívání cloud computingu orgány veřejné správy, požadované právním předpisem upravujícím kybernetickou bezpečnost,\nf) bezpečnostní úrovní bezpečnostní úroveň podle právního předpisu upravujícího kybernetickou bezpečnost."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Údaje vedené o poptávce cloud computingu",
+      "content": "V katalogu cloud computingu se o poptávce cloud computingu vedou\na) údaje identifikující poptávku cloud computingu, jimiž jsou\n1. název poptávaného cloud computingu,\n2. doba platnosti poptávky cloud computingu,\n3. doba předpokládaného využívání poptávaného cloud computingu,\nb) údaje identifikující orgán veřejné správy, který cloud computing poptává, jimiž jsou\n1. název orgánu veřejné správy,\n2. identifikátor orgánu veřejné moci přidělený orgánu veřejné správy,\nc) údaje charakterizující poptávaný cloud computing, jimiž jsou\n1. třída poptávaného cloud computingu,\n2. oblast poptávaného cloud computingu,\n3. typ poptávaného cloud computingu,\n4. základní parametry poptávaného cloud computingu,\n5. bezpečnostní úroveň poptávaného cloud computingu,\n6. bezpečnostní certifikace poptávaného cloud computingu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Údaje vedené o nabídce cloud computingu",
+      "content": "V katalogu cloud computingu se o nabídce cloud computingu vedou\na) údaje identifikující nabídku cloud computingu, jimiž jsou\n1. název nabízeného cloud computingu,\n2. identifikační údaj poptávky cloud computingu, na který nabídka cloud computingu reaguje,\n3. doba platnosti nabídky cloud computingu,\nb) údaje identifikující poskytovatele cloud computingu, který cloud computing nabízí, jimiž jsou\n1. u právnické osoby obchodní firma nebo název, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí a její sídlo, je-li v zahraničí,\n2. u podnikající fyzické osoby obchodní firma nebo jméno, popřípadě jména, a příjmení, včetně odlišujícího dodatku nebo dalšího označení, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí a její sídlo, je-li v zahraničí,\nc) údaje charakterizující nabízený cloud computing, jimiž jsou\n1. třída nabízeného cloud computingu,\n2. oblast nabízeného cloud computingu,\n3. typ nabízeného cloud computingu,\n4. název konkrétního cloud computingu, který odpovídá nabízenému typu cloud computingu,\n5. základní parametry nabízeného cloud computingu,\n6. bezpečnostní úroveň nabízeného cloud computingu,\n7. bezpečnostní certifikace nabízeného cloud computingu,\n8. údaj o předpokládaném místu zpracování informací orgánu veřejné správy a předpokládané době, předpokládaném rozsahu a předpokládaném účelu zpracování informací orgánu veřejné správy v tomto místě."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Údaje vedené o cloud computingu využívaném orgány veřejné správy",
+      "content": "V katalogu cloud computingu se o cloud computingu využívaném orgány veřejné správy vedou\na) údaje identifikující využívaný cloud computing, jimiž jsou\n1. název využívaného cloud computingu,\n2. datum zahájení využívání cloud computingu,\n3. datum předpokládaného ukončení využívání cloud computingu,\nb) údaje identifikující orgán veřejné správy, který cloud computing využívá, jimiž jsou\n1. název orgánu veřejné správy,\n2. identifikátor orgánu veřejné moci přidělený orgánu veřejné správy,\nc) údaje identifikující poskytovatele cloud computingu, který využívaný cloud computing poskytuje, jimiž jsou\n1. u právnické osoby obchodní firma nebo název, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí a její sídlo, je-li v zahraničí,\n2. u podnikající fyzické osoby obchodní firma nebo jméno, popřípadě jména, a příjmení, včetně odlišujícího dodatku nebo dalšího označení, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí a její sídlo, je-li v zahraničí,\nd) údaje charakterizující využívaný cloud computing, jimiž jsou\n1. třída využívaného cloud computingu,\n2. oblast využívaného cloud computingu,\n3. typ využívaného cloud computingu,\n4. bezpečnostní úroveň využívaného cloud computingu,\n5. identifikační číslo smlouvy o poskytování využívaného cloud computingu uzavřené mezi orgánem veřejné správy a poskytovatelem cloud computingu přidělené správcem registru smluv, eviduje-li se smlouva v registru smluv,\n6. identifikátor informačního systému veřejné správy, pro který cloud computing slouží."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvním dnem po jejím vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "třídou cloud computingu cloud computing ve formě infrastruktury",
+      "definition": "cloud computing ve formě platformy a cloud computing ve formě aplikačního programového vybavení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "typem cloud computingu množina cloud computingů",
+      "definition": "které mají stejný účel, způsob plnění funkcionality cloud computingu a základní parametry",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "základním parametrem cloud computingu",
+      "definition": "údaj popisující objemové, výkonové, cenové nebo jiné vlastnosti cloud computingu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "bezpečnostní certifikací cloud computingu potvrzení",
+      "definition": "že cloud computing má vlastnosti vyžadované pro zařazení do příslušné bezpečnostní úrovně pro využívání cloud computingu orgány veřejné správy, požadované právním předpisem upravujícím kybernetickou bezpečnost",
+      "source_provision": "§ 2"
+    }
+  ]
+}

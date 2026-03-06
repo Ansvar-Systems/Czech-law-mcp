@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1118/1946",
+  "type": "statute",
+  "title": "1118/1946 Ú. l. I, Vyhláška předsedy vlády o statistice životního pojištění soukromých pojišťoven.",
+  "title_en": "",
+  "short_name": "1118/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-30",
+  "in_force_date": "1946-04-30",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1118",
+  "description": "Vyhláška předsedy vlády o statistice životního pojištění soukromých pojišťoven.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Státní úřad statistický bude prováděti čtvrtletní statistiku životního pojištění soukromých pojišťoven."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Podrobný obsah a způsob šetření, jehož předmětem jest statistika uvedená v § 1, stanoví Státní úřad statistický, ve vzorci příslušných výkazů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zpravodajskou povinnost mají soukromé pojišťovny, organisované v Ústředním svazu soukromého pojištění (§ 2 vládního nařízení ze dne 15. května 1941, č. 185 Sb., o povinné organisaci soukromého pojišťovnictví). Lhůtu pro vrácení vyplněných výkazů určí Státní úřad statistický."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

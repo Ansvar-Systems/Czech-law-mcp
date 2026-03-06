@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:350/1948",
+  "type": "statute",
+  "title": "350/1948 Ú. l. I, Vyhláška ministryně průmyslu o začlenění znárodněných podniků průmyslu energetického do Západočeských elektráren, národního podniku.",
+  "title_en": "",
+  "short_name": "350/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-03-04",
+  "in_force_date": "1948-03-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/350",
+  "description": "Vyhláška ministryně průmyslu o začlenění znárodněných podniků průmyslu energetického do Západočeských elektráren, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Elektrický podnik obce Divišovice, správní okres Klatovy;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Elektrický podnik osady Městiště, obec Datelov, správní okres Klatovy;"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. J. Mattoni, a. s. Krondorf, správní okres Kadaň;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. František Braun, Uhliště, správní okres Klatovy."
+    }
+  ],
+  "definitions": []
+}

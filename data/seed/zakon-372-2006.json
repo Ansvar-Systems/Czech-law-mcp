@@ -1,0 +1,27 @@
+{
+  "id": "cz:372/2006",
+  "type": "statute",
+  "title": "372/2006 Sb., Sdělení Ministerstva práce a sociálních věcí o uložení dodatků ke kolektivním smlouvám vyššího stupně",
+  "title_en": "",
+  "short_name": "372/2006 Sb.",
+  "status": "in_force",
+  "issued_date": "2006-07-21",
+  "in_force_date": "2006-07-21",
+  "url": "https://www.e-sbirka.cz/sb/2006/372",
+  "description": "Sdělení Ministerstva práce a sociálních věcí o uložení dodatků ke kolektivním smlouvám vyššího stupně",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Dodatek č. 6 (ze dne 29. 5. 2006) ke kolektivní smlouvě vyššího stupně uzavřený mezi\nOdborovým svazem zaměstnanců sklářského, keramického, bižuterního průmyslu a porcelánu\na\nAsociací sklářského a keramického průmyslu ČR."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Dodatek č. 1 (ze dne 7. 6. 2006) ke kolektivní smlouvě vyššího stupně uzavřený mezi\nOdborovým svazem ECHO,\nČeským odborovým svazem energetiků,\nOdborovým svazem zaměstnanců jaderných elektráren\na\nČeským svazem zaměstnavatelů v energetice."
+    }
+  ],
+  "definitions": []
+}

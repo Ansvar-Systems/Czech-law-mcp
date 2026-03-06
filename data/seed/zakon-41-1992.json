@@ -1,0 +1,75 @@
+{
+  "id": "cz:41/1992",
+  "type": "statute",
+  "title": "41/1992 Sb., Vyhláška ministerstva životního prostředí České republiky, kterou se vymezují oblasti vyžadující zvláštní ochranu ovzduší a stanoví zásady vytváření a provozu smogových regulačních systémů a některá další opatření k ochraně ovzduší",
+  "title_en": "",
+  "short_name": "41/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-01-27",
+  "in_force_date": "1993-11-18",
+  "url": "https://www.e-sbirka.cz/sb/1992/41",
+  "description": "Vyhláška ministerstva životního prostředí České republiky, kterou se vymezují oblasti vyžadující zvláštní ochranu ovzduší a stanoví zásady vytváření a provozu smogových regulačních systémů a některá další opatření k ochraně ovzduší",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Oblasti vyžadující zvláštní ochranu ovzduší",
+      "content": "Oblastmi vyžadujícími zvláštní ochranu ovzduší jsou\na) národní parky,1)\nb) chráněné krajinné oblasti,1)\nc) lázeňská místa,2)\nd) městské zóny s omezením provozu zdrojů znečišťování [§ 5 odst. 2 písm. a) zákona],\ne) území měst a okresů uvedených v příloze č. 1.\nZvláštní opatření k omezení znečišťování ovzduší"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "V oblastech vyžadujících zvláštní ochranu ovzduší provádějí orgány ochrany ovzduší zvláštní opatření k omezení znečišťování ovzduší zpřísněním podmínek ochrany ovzduší v souhlasech vydávaných podle § 3 odst. 2 písm. a) zákona, zejména i pokud jde o zajištění technických podmínek pro regulaci zdrojů znečišťování v závislosti na imisní koncentraci škodlivin v území."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Smogové regulační systémy",
+      "content": "Smogový regulační systém je postupně budovaný soubor opatření k časově omezené regulaci\na) vybraných zdrojů znečišťování jejich provozovateli [§ 2 písm. c) zákona] uvedených v příloze č. 2,\nb) ostatních zdrojů znečišťování, které se rozhodujícím způsobem podílejí na znečištění ovzduší; o této regulaci rozhodnou orgány obcí, popř. okresní úřady.3)\nZásady vytváření smogových regulačních systémů a zvláštní imisní limity"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Smogový regulační systém je založen na\na) souborech informací\n1. o umístění a parametrech zdrojů znečišťování,\n2. o znečištění ovzduší získanými z údajů automatizované měřicí sítě,\n3. o stavu rozptylových podmínek,\nb) předpovědích rozptylových podmínek,\nc) signálech upozornění a regulace.\n(2) Řídícím střediskem smogového regulačního systému je organizace pověřená ministerstvem životního prostředí České republiky (dále jen „pověřená organizace“). Tato organizace zabezpečuje centrální získávání, zpracování a vydávání informací, předpovědí a signálů podle odstavce 1.\n(3) Pověřená organizace vyhlásí signály podle odstavce 1 písm. c), jestliže byly v důsledku nepříznivých rozptylových podmínek překročeny zvláštní imisní limity4) stanovené pro vyhlášení příslušného signálu upozornění, první regulační stupeň a druhý regulační stupeň podle přílohy č. 3 a tato situace byla předpovězena nejméně na osm následujících hodin.\n(4) Pověřená organizace odvolá signály podle odstavce 1 písm. c), pokud po dobu nejméně 12 hodin již není zvláštní imisní limit překročen a není-li na základě meteorologické předpovědi očekáváno zhoršení rozptylových podmínek v průběhu 48 hodin následujících od poklesu koncentrací nepřekračujících hodnoty zvláštních imisních limitů. Při zjištěných a předpovězených příznivých rozptylových podmínkách lze uvedenou dobu zkrátit až na 3 hodiny.\n(5) Závazné texty vyhlášení a odvolání signálů podle odstavce 1 písm. c) jsou uvedeny v příloze č. 4."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) V oblastech podle § 1 písm. e) na území měst a na území okresů uvedených v části B) přílohy č. 1 zřizuje a provozuje pověřená organizace automatizovanou měřicí síť pro nepřetržité měření imisních koncentrací znečišťujících látek v ovzduší. Využívá rovněž výsledků měření provedených hygienickou službou, popřípadě dalšími organizacemi.\n(2) Umístění měřicích stanic, přístrojové vybavení a měřicí a kontrolní postupy se ve veřejném zájmu a v souladu se zvláštními předpisy provádějí tak, aby bylo docíleno reprezentativnosti a spolehlivosti naměřených údajů, a to i v místech obytných aglomerací. Umístění měřicích stanic projedná pověřená organizace s místně příslušnými orgány hygienické služby.\n(3) Spolehlivost údajů podle odstavců 1 a 2 ověřuje pověřená organizace."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Meteorologické údaje",
+      "content": "Pro oblasti podle § 1 písm. e) zabezpečuje pověřená organizace údaje o stavu a předpovědi rozptylové situace na základě meteorologických prvků, podmiňujících rozptyl znečišťujících látek v ovzduší.\nZásady provozu smogových regulačních systémů"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Provozní řády smogových regulačních systémů",
+      "content": "(1) Provozní řády smogového regulačního systému pro regulaci vybraných zdrojů znečišťování vydává pověřená organizace a provozní řády smogového regulačního systému pro regulace ostatních zdrojů znečišťování vydávají orgány obce, popřípadě okresní úřady.3) Provozní řády smogového regulačního systému vydávají orgány státní správy ochrany ovzduší po projednání s orgány hygienické služby.\n(2) Provozní řády obsahují vždy\na) definice signálů smogového regulačního systému,\nb) kritéria pro posuzování překročení zvláštního imisního limitu s přihlédnutím k meteorologické situaci,\nc) členění varovných a regulačních opatření do stupňů, kritéria pro jejich vyhlašování a ukončení,\nd) způsoby předávání informací o vyhlášení a odvolání varovných regulačních opatření včetně schválených textů a vymezení časového rozvrhu,\ne) seznam zdrojů, které budou v rámci smogového regulačního systému regulovány.\n(3) Orgány státní správy ochrany ovzduší seznámí s provozními řády po jejich vydání provozovatele zdrojů uvedených v seznamu podle odstavce 2 písm. e)."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Regulační řády zdrojů znečišťování",
+      "content": "Provozovatelé velkých a středních zdrojů znečišťování vypracovávají regulační řády,5) jimiž se řídí při regulaci emisí po vyhlášení varovných a regulačních opatření. Regulační řády obsahují\na) výčet opatření k omezení emisí ze zdroje znečišťování,\nb) časový rozvrh uplatnění opatření podle písmena a) ve vztahu k počátku platnosti jednotlivých stupňů varovných a regulačních opatření,\nc) okruh osob, které odpovídají za provedení opatření stanovených podle písmen a) a b),\nd) rozsah regulace emisí."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Provoz smogových regulačních systémů",
+      "content": "(1) Pověřená organizace vypracovává předpověď rozptylových podmínek, vyhodnocuje imisní situaci a zjištěné údaje zpracovává a poskytuje bezúplatně provozovatelům zdrojů, orgánům obcí, okresním úřadům, orgánům hygienické služby a České inspekci životního prostředí.\n(2) Zjistí-li pověřená organizace, že v oblastech uvedených v § 1 písm. e) nastaly podmínky pro vyhlášení nebo odvolání signálů upozornění nebo regulace, vyhlásí příslušný signál podle § 4 odst. 1 písm. c) neprodleně pro\na) provozovatele vybraných zdrojů znečišťování,\nb) okresní úřady a jejich prostřednictvím pro orgány obcí,\nc) orgány hygienické služby,\nd) Českou inspekci životního prostředí,\ne) Československý energetický dispečink.\n(3) Podle druhu vyhlášeného signálu podle odstavce 2\na) provozovatelé vybraných zdrojů znečišťování v oblastech uvedených v § 1 písm. e) této vyhlášky jsou povinni provádět opatření ke snížení emisí podle regulačních řádů,\nb) orgány obcí a okresní úřady informují provozovatele zdrojů podle § 3 písm. b) a obyvatelstvo o zhoršení kvality ovzduší, o vyhlášení a odvolání signálů upozornění a regulace a o souvisejících opatřeních."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Závěrečné ustanovení",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha č. 1 vyhlášky č. 41/1992 Sb.\nA) Území měst a okresů vyžadujících zvláštní ochranu ovzduší\na) města:\nBenešov\nBeroun\nBrno\nČeská Lípa\nHodonín\nChrudim\nKolín\nKroměříž\nKutná Hora\nMladá Boleslav\nOlomouc\nOpava\nOstrava\nPlzeň\nPraha\nProstějov\nPřerov\nPříbram\nRakovník\nRokycany\nTrutnov\nUherské Hradiště\nVyškov\nZlín\nb) okresy:\nDěčín\nFrýdek-Místek\nHradec Králové\nCheb\nChomutov\nJablonec n. M.\nKarlovy Vary\nKarviná\nKladno\nLiberec\nLitoměřice\nLouny\nMělník\nMost\nPardubice\nPraha-východ\nPraha-západ\nSokolov\nTeplice\nÚstí n. L.\nB) Území měst a okresů vyžadujících zvláštní ochranu ovzduší, ve kterých jsou podle § 2 zajišťovány technické podmínky pro regulaci zdrojů znečišťování ovzduší\na) města:\nhl. m. Praha\nb) okresy:\nBrno-město\nDěčín\nFrýdek-Místek\nCheb\nChomutov\nJablonec n. N.\nKarlovy Vary\nKarviná\nLiberec\nLitoměřice\nLouny\nMělník\nMost\nOstrava\nPardubice\nPlzeň-město\nSokolov\nTeplice\nÚstí n. L.\nPříloha č. 2 vyhlášky č. 41/1992 Sb.\nProvozovatelé vybraných zdrojů znečišťování ovzduší podléhajících regulaci\nA) Severočeský kraj\n- západní část\nČEZ a.s.,- Elektrárny Počerady\n- Elektrárny Prunéřov\n- Elektrárny Tušimice\nCHEMOPETROL s.p., Litvínov\n1. SEVEROČESKÁ TEPLÁRENSKÁ a.s., Komořany\nVÁLCOVNY TRUB CHOMUTOV s.p.\n– východní část\nAVIRUNION a.s., Ústí n. L.\nČEZ a.s., Elektrárna Ledvice\nCHEMOPHARMA s.p., Ústí n. L.\nKB Likér a.s., Ústí n. L.\nSeveročeská armaturka a.s., Ústí n. L.\nSklárny KAVALIER a.s., závod Hostomice\nSPOLCHEMIE a.s., Ústí n. L.\nSPOLCHEMIE a.s., Velvěty\nSTZ a.s., Ústí n. L.\nTeplárna Novosedlice a.s.\nTeplárna Trmice a.s.\nTlaková plynárna s.p., Ústí n. L.\nTONASO a.s., Neštěmice\nVITRABLOK a.s., Duchcov\n– jižní část\nSEPAP a.s., závod Štětí\nSeveročeské chemické závody s.p., Lovosice\nB) Středočeský kraj\nBARVY A LAKY s.p., závod 20 Kralupy n. Vlt.\nČEZ a.s., Elektrárna Mělník Horní Počaply\nKAUČUK s.p., Kralupy n. Vlt.\nMEFRIT s.p., Mělník\nSPOLANA a.s., Neratovice\nC) Západočeský kraj\nČEZ a.s., Elektrárna Tisová\nPalivový kombinát s.p., Vřesová\nD) Severomoravský kraj\nBIOCEL a.s., Paskov\nČEZ a. s., Elektrárna Dětmarovice\nHrušovská chemická společnost s.r.o., Ostrava-Hrušov\nMoravské chemické závody a.s., Ostrava\nMoravsko-slezské teplárny a.s.,– Teplárna Ostrava\n– Elektrárna Třebovice\nNOVÁ HUŤ a.s., Ostrava\nOSTRAMO, VLČEK a spol., s.r.o., Ostrava\nSLEZAN a.s., Frýdek-Místek – závod 01\n– závod 04\nTEPLÁRNY KARVINÁ a.s. (Teplárna Karviná, Teplárna Suchá, Teplárna ČSA Karviná)\nTŘINECKÉ ŽELEZÁRNY a.s., Třinec\nVÍTKOVICE a.s., Ostrava\nŽELEZÁRNY A DRÁTOVNY a.s., Bohumín\nE) Jihomoravský kraj\nČEZ a.s., Elektrárna Hodonín\nPříloha č. 3 vyhlášky č. 41/1992 Sb.\nZvláštní imisní limity pro účely vyhlášení signálů upozornění a regulačních stupňů\nA) Signál upozornění\nnásleduje po překročení:\n1. tříhodinového klouzavého průměru koncentrace\noxidu siřičitého250 /µg.m-3 nebo\noxidů dusíku (vyjádřeno jako NO2)200 /µg.m-3 nebo\noxidu uhelnatého7000 /µg.m-3 nebo\n2. součtu klouzavého dvacetičtyřhodinového průměru koncentrace oxidu siřičitého s dvojnásobkem klouzavého dvacetičtyřhodinového průměru koncentrace polétavého prachu600 /µg.m-3\nB) Signál první regulační stupeň\nnásleduje po překročení:\n1. tříhodinového klouzavého průměru koncentrace\noxidu siřičitého400 /µg.m-3 nebo\noxidů dusíku (vyjádřeno jako NO2)350 /µg.m-3 nebo\noxidu uhelnatého15 000 /µg.m-3 nebo\n2. součtu klouzavého dvacetičtyřhodinového průměru koncentrace oxidu siřičitého s dvojnásobkem klouzavého dvacetičtyřhodinového průměru koncentrace polétavého prachu750 /µg.m-3\nC) Signál druhý regulační stupeň\nnásleduje po překročení:\ndvacetičtyřhodinového klouzavého průměru koncentrace oxidu siřičitého500 /µg.m-3\nD) Signál upozornění na výskyt fotochemického smogu\n1. Informování veřejnosti následuje po překročení průměrné hodinové koncentrace ozónu 180 µg/m3\n2. Varování veřejnosti následuje po překročení průměrné hodinové koncentrace ozónu 360 µg/m3\nPříloha č. 4 vyhlášky č. 41/1992 Sb.\nZávazné texty pro vyhlášení signálů upozornění a regulačních stupňů a jejich odvolání\nA) Text vyhlášení signálu upozornění:\n„Upozorňujeme, že v nejbližších hodinách je možnost výskytu smogové situace k vyhlášení regulace. Platnost signálu je od ... hodin dne ... do odvolání.“\nText odvolání signálu upozornění:\n„Rušíme signál upozornění na možnost výskytu smogové situace. Platnost signálu končí v ... hodin dne ... .“\nB) Text vyhlášení signálu první regulační stupeň:\n„Smogová situace nastala. Vyhlašujeme signál první stupeň regulace. Platnost signálu je od ... hodin dne ... .“\nText odvolání signálu první regulační stupeň:\n„Rušíme signál první stupeň regulace. Platnost signálu končí v ... hodin dne ... .“\nC) Text vyhlášení signálu druhý regulační stupeň:\n„Podmínky pro vyhlášení druhého regulačního stupně a vyhlášení ekologického regulačního stupně na straně spotřeby elektrické energie nastaly. Platnost signálu je od ... hodin dne ... do odvolání.“\nText odvolání signálu druhý regulační stupeň:\n„Rušíme signál druhý regulační stupeň. Platnost signálu končí v ... hodin dne ... .“\n1) § 3 a 8 zákona č. 40/1956 Sb., o státní ochraně přírody.\n2) § 44 odst. 1 zákona č. 20/1966 Sb., o péči o zdraví lidu.\n§ 18 odst. 2 písm. c) a § 8 až 11 vyhlášky č. 26/1972 Sb., o ochraně a rozvoji přírodních léčebných lázní a přírodních léčivých zdrojů.\n3) § 5 odst. 2 písm. b), § 4 odst. 1 písm. d) zákona ČNR č. 389/1991 Sb., o státní správě ochrany ovzduší a poplatcích za jeho znečišťování.\n4) § 14 odst. 4 zákona č. 309/1991 Sb., o ochraně ovzduší před znečišťujícími látkami (zákon o ovzduší).\n5) § 7 odst. 1 písm. g) zákona č. 309/1991 Sb."
+    }
+  ],
+  "definitions": []
+}

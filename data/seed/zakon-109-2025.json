@@ -1,0 +1,45 @@
+{
+  "id": "cz:109/2025",
+  "type": "statute",
+  "title": "109/2025 Sb., Vyhláška o stanovení bližších podmínek pro podávání žádosti o zápis údajů o oprávnění k zastupování prostřednictvím kontaktního místa veřejné správy a o dalších podmínkách výkonu této agendy",
+  "title_en": "",
+  "short_name": "109/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-04-17",
+  "in_force_date": "2025-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/109",
+  "description": "Vyhláška o stanovení bližších podmínek pro podávání žádosti o zápis údajů o oprávnění k zastupování prostřednictvím kontaktního místa veřejné správy a o dalších podmínkách výkonu této agendy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) požadavky na obsah, strukturu a další náležitosti žádosti o zápis vzniku oprávnění k zastupování, zápis změny oprávnění k zastupování a zápis zániku oprávnění k zastupování podle § 52e odst. 9 zákona (dále jen „žádost o zápis oprávnění k zastupování“),\nb) způsob vedení evidence agendy při vyřizování žádosti o zápis oprávnění k zastupování a\nc) rozsah a dobu uchovávání údajů souvisejících s žádostí o zápis oprávnění k zastupování."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Obsah a struktura žádosti o zápis vzniku oprávnění k zastupování",
+      "content": "(1) Je-li zástupcem nebo zastoupeným fyzická osoba nebo podnikající fyzická osoba, žádost o zápis vzniku oprávnění k zastupování obsahuje ve vztahu k těmto osobám údaje v rozsahu obecných náležitostí podání podle správního řádu a dále tyto údaje:\na) místo a okres narození; u subjektu údajů, který se narodil v cizině, místo a stát, kde se narodil,\nb) státní občanství a\nc) číslo a druh identifikačního dokladu, kterým osoba, která podala žádost o zápis oprávnění k zastupování, prokázala totožnost.\n(2) Je-li zástupcem nebo zastoupeným právnická osoba, žádost o zápis vzniku oprávnění k zastupování obsahuje obecné náležitosti podání podle správního řádu a dále údaje osoby oprávněné jednat jménem právnické osoby v rozsahu podle odstavce 1.\n(3) Žádost o zápis vzniku oprávnění k zastupování dále obsahuje\na) kód šablony vytvořené podle § 52e odst. 5 zákona,\nb) vymezení oprávnění k zastupování včetně možnosti jeho postupitelnosti,\nc) identifikátor oprávnění k zastupování, pokud se jedná o postoupení existujícího oprávnění k zastupování,\nd) datum vzniku oprávnění k zastupování a\ne) datum zániku oprávnění k zastupování."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Obsah a struktura žádosti o zápis změny nebo zániku oprávnění k zastupování",
+      "content": "V žádosti o zápis změny nebo zániku oprávnění k zastupování se uvedou\na) údaje podle § 2 odst. 1 a 2,\nb) identifikátor oprávnění k zastupování, jehož změna nebo zánik je požadován, a\nc) požadovaná změna v údaji podle § 2 odst. 3 písm. e) v případě žádosti o změnu oprávnění k zastupování."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob vedení evidence agendy, rozsah a doba uchovávání údajů",
+      "content": "(1) Kontaktní místo veřejné správy poskytuje Digitální a informační agentuře pro účely zápisu a vedení evidence údajů o žádosti o zápis oprávnění k zastupování v informačním systému oprávnění k zastupování tyto údaje:\na) uživatelské jméno osoby, která přijala žádost o zápis oprávnění k zastupování, a identifikátor kontaktního místa veřejné správy,\nb) identifikátor žádosti o zápis oprávnění k zastupování a\nc) identifikační údaje zástupce a zastoupeného v rozsahu u\n1. fyzické osoby jméno, popřípadě jména, příjmení, datum narození, státní občanství, číslo a druh identifikačního dokladu, kterým osoba, která podala žádost o zápis oprávnění k zastupování, prokázala totožnost,\n2. podnikající fyzické osoby identifikační číslo osoby,\n3. právnické osoby identifikační číslo osoby.\n(2) Žádost o zápis oprávnění k zastupování kontaktní místo veřejné správy uchovává po dobu 10 let od konce kalendářního roku, ve kterém byla tato žádost podána."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2025."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:91/1949",
+  "type": "statute",
+  "title": "91/1949 Ú. l. I, Směrnice ministerstva vnitra o složení komisí zatímních krajských národních výborů.",
+  "title_en": "",
+  "short_name": "91/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-12",
+  "in_force_date": "1949-01-12",
+  "url": "https://www.e-sbirka.cz/ul1/1949/91",
+  "description": "Směrnice ministerstva vnitra o složení komisí zatímních krajských národních výborů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1. Zřízení komisí.",
+      "content": "Zatímní krajský národní výbor může podle potřeby zříditi pro obor jednotlivých referátů nebo jejich částí komise zatímního krajského národního výboru a zvoliti jejich předsedy a jejich členy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2. Počet komisí.",
+      "content": "Počet komisí má býti co nejmenší; má odpovídat nezbytně nutné potřebě řádného a rychlého výkonu správy."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3. Složení komisí.",
+      "content": "Členy komise mohou býti vedle členů krajského národního výboru i odborníci z řad pracujících."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4. Počet členů.",
+      "content": "Počet členů se má říditi nezbytně nutnou potřebou a nemá býti zpravidla vyšší než 7."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5. Předseda komise.",
+      "content": "Za předsedu komise může býti zvolen toliko člen krajského národního výboru, zpravidla příslušný referent. Předsedu komise zastupuje člen komise, kterého k tomu předseda určí."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6. Komise zvláštní.",
+      "content": "Zatímní krajský národní výbor zřídí také komise, jejichž zřízení je předepsáno zvláštními předpisy. Zvláštní ustanovení o složení, organisaci a způsobu jednání těchto komisí zůstávají předchozími ustanoveními nedotčena."
+    }
+  ],
+  "definitions": []
+}

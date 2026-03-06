@@ -1,0 +1,33 @@
+{
+  "id": "cz:178/1991",
+  "type": "statute",
+  "title": "178/1991 Sb., Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky o sídlech a územní působnosti školských úřadů",
+  "title_en": "",
+  "short_name": "178/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-05-24",
+  "in_force_date": "1992-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/178",
+  "description": "Vyhláška ministerstva školství, mládeže a tělovýchovy České republiky o sídlech a územní působnosti školských úřadů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Sídla školských úřadů",
+      "content": "(1) Školský úřad sídlí v místě sídla okresu.\n(2) Školské úřady městských obvodů1) hlavního města Prahy sídlí v hlavním městě Praze."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Územní působnost školských úřadů",
+      "content": "(1) Územní působnost školského úřadu se shoduje s územím okresu.\n(2) Územní působnost školského úřadu městského obvodu hlavního města Prahy se shoduje s územím městského obvodu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 2 zákona č. 36/1960 Sb., o územním členění státu, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

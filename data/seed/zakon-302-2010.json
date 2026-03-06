@@ -1,0 +1,96 @@
+{
+  "id": "cz:302/2010",
+  "type": "statute",
+  "title": "302/2010 Sb., Vyhláška o předkládání výkazů a dalších informací penzijními fondy České národní bance pro účely dohledu",
+  "title_en": "",
+  "short_name": "302/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-11-05",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/302",
+  "description": "Vyhláška o předkládání výkazů a dalších informací penzijními fondy České národní bance pro účely dohledu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví obsah, formu, lhůty, způsob sestavování výkazů a způsob předkládání dalších informací penzijním fondem (dále jen „vykazující subjekt“) České národní bance pro účely dohledu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) výkazem strukturovaný soubor údajů, které mají věcné a formální vazby,\nb) datovým souborem seskupení údajů s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek,\nc) zabezpečovací značkou údaje v elektronické podobě, které jsou připojeny k datové zprávě a které splňují tyto požadavky:\n1. jsou jednoznačně spojené s označující osobou a umožňují její identifikaci prostřednictvím vydaného certifikátu,\n2. byly vytvořeny a připojeny k datové zprávě pomocí prostředků pro vytváření bezpečnostních značek, které označující osoba může udržet pod svou výhradní kontrolou, a\n3. jsou k datové zprávě, ke které se vztahují, připojeny takovým způsobem, že je možné zjistit jakoukoli následnou změnu dat,\nd) kontaktní osobou osoba nebo osoby, které jménem vykazujícího subjektu předkládají výkazy České národní bance."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přehled předkládaných výkazů",
+      "content": "Vykazující subjekt sestavuje:\na) k poslednímu dni kalendářního měsíce a předkládá do 15 kalendářních dnů po skončení kalendářního měsíce, k němuž se vztahují, tyto výkazy:\n1. PEF (ČNB) 10-12 „Měsíční rozvaha penzijního fondu“,\n2. PEF (ČNB) 20-12 „Měsíční výkaz zisku a ztráty penzijního fondu“ a\n3. PEF (ČNB) 34-12 „Hlášení o stavu portfolia penzijního fondu“,\nb) k poslednímu dni kalendářního čtvrtletí a předkládá do 30 kalendářních dnů po skončení kalendářního čtvrtletí, k němuž se vztahují, tyto výkazy:\n1. PEF (ČNB) 50-04 „Hlášení o organizační struktuře penzijního fondu“ a\n2. PEF (ČNB) 31-04 „Specifikace přijatých a vyplacených prostředků“."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Společná ustanovení pro sestavování výkazů",
+      "content": "(1) Obsah výkazů podle § 3 je uveden v příloze k této vyhlášce. Výkazy se sestavují podle stavu ke konci období, k němuž se vztahují, pokud není v příloze uvedeno jinak.\n(2) Vykazující subjekt postupuje při sestavování předkládaných výkazů přiměřeně k jejich povaze v souladu s právními předpisy upravujícími vedení účetnictví a sestavování účetní závěrky1) nebo s mezinárodními účetními standardy upravenými právem Evropské unie2).\n(3) Vykazující subjekt přepočítává údaje vyjádřené v cizí měně, pokud je to požadováno, na údaje vyjádřené v české měně kursem devizového trhu vyhlášeným Českou národní bankou a platným ke dni sestavení výkazu. Měny, které nejsou obsaženy v kursech devizového trhu vyhlášených Českou národní bankou, se přepočítávají oficiálním středním kursem centrální banky příslušné země, popřípadě aktuálním kursem mezibankovního trhu k americkému dolaru nebo euru.\n(4) Vykazující subjekt oceňuje aktiva a pasiva podle stavu ke dni sestavení výkazu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Další informace předkládané České národní bance",
+      "content": "(1) Vykazující subjekt předkládá České národní bance výroční zprávu3) v elektronické podobě stanovené právním předpisem o digitalizaci obchodního rejstříku4), a to nejpozději do konce 7. měsíce po skončení období, k němuž se vztahuje. Výroční zpráva v elektronické podobě podepsaná zaručeným elektronickým podpisem5) založeným na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb je předkládána na adresu elektronické podatelny České národní banky nebo prostřednictvím veřejné datové sítě do datové schránky6).\n(2) Pokud velikost datové zprávy neumožňuje zasílání elektronickou poštou ani prostřednictvím datové schránky, zašle vykazující subjekt výroční zprávu podle odstavce 1 v elektronické podobě na technickém nosiči dat na adresu České národní banky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Způsob a forma předkládání výkazů",
+      "content": "(1) Vykazující subjekt zasílá České národní bance výkazy podle § 3 v elektronické podobě jako datové zprávy a ve struktuře a formě datových souborů, které jsou dostupné prostřednictvím\na) programové aplikace České národní banky pro sběr dat od nebankovních subjektů (SDNS), která je dostupná způsobem umožňujícím dálkový přístup,\nb) vlastní programové aplikace vykazujícího subjektu umožňující elektronickou výměnu informací (EDI/EDIFACT), nebo\nc) vlastní programové aplikace vykazujícího subjektu používající pro předání výkazu webové služby České národní banky pro sběr dat (SDNS-WS).\n(2) Datové zprávy zasílané prostřednictvím programových aplikací uvedených v odstavci 1 písm. a) a c) podepíše kontaktní osoba zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb.\n(3) Datové zprávy zasílané prostřednictvím programové aplikace uvedené v odstavci 1 písm. b) opatří vykazující subjekt zabezpečovací značkou založenou na certifikátu vydaném Českou národní bankou."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Opravy a změny ve výkazech",
+      "content": "(1) Je-li po předložení výkazů České národní bance zjištěna chyba nebo provedena změna v údajích výkazu, předloží vykazující subjekt výkaz s upravenými údaji České národní bance opětovně bez zbytečného odkladu. Pokud oprava ovlivní údaje i v jiných výkazech nebo výkazy k dalším časovým obdobím, opraví vykazující subjekt též všechny tyto navazující výkazy.\n(2) Pokud dojde ve výkazu sestaveném k poslednímu dni kalendářního roku ke změně vykazovaného údaje na základě ověření účetní závěrky auditorem, vykazující subjekt předloží výkaz opětovně s opravenými údaji, nejpozději do 15 dnů po auditu účetní závěrky. Pokud oprava ovlivní údaje v jiném výkazu nebo výkazech k dalším časovým obdobím, opraví vykazující subjekt též všechny tyto navazující výkazy.\n(3) Opravené výkazy vykazující subjekt předloží ve lhůtě podle odstavců 1 a 2 České národní bance způsobem stanoveným v § 6 společně s informací o obsahu a důvodu opravy."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Zajištění organizačních předpokladů pro předkládání výkazů",
+      "content": "(1) Vykazující subjekt, který sestavuje a předkládá výkazy České národní bance pomocí aplikace uvedené v § 6 odst. 1 písm. a) nebo c), sdělí České národní bance\na) jména a příjmení kontaktních osob,\nb) adresu pracoviště, telefonní číslo a adresu elektronické pošty těchto osob,\nc) číslo kvalifikovaného certifikátu, včetně názvu a identifikačního čísla osoby poskytovatele certifikačních služeb, který jej vydal.\n(2) Vykazující subjekt informuje Českou národní banku bez zbytečného odkladu o změnách údajů uvedených v odstavci 1."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zrušovací ustanovení",
+      "content": "Vyhláška č. 93/2007 Sb., o informační povinnosti penzijního fondu pro účely dohledu České národní banky se zrušuje."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.\nPříloha k vyhlášce č. 302/2010 Sb.\nZákladní charakteristika a obsahová náplň výkazů předkládaných penzijními fondy České národní bance\nPEF (ČNB) 10-12 Měsíční rozvaha penzijního fondu\nVýkaz obsahuje základní účetní informace o struktuře aktiv, závazků a vlastního kapitálu. Struktura výkazu vychází z rozvahy podle vyhlášky č. 501/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou bankami a jinými finančními institucemi (dále jen „vyhláška č. 501/2002 Sb.“). Položky aktiv jsou vykazovány v účetní hodnotě nekompenzované a kompenzované o opravné položky a oprávky, samostatně jsou rovněž uváděny opravné položky a oprávky.\nPEF (ČNB) 20-12 Měsíční výkaz zisku a ztráty penzijního fondu\nVýkaz obsahuje základní účetní informace o výnosech, nákladech a výsledcích hospodaření. Struktura výkazu vychází z výkazu zisku a ztráty podle vyhlášky č. 501/2002 Sb. Údaje jsou vykazovány od počátku roku do konce sledovaného období.\nPEF (ČNB) 34-12 Hlášení o stavu portfolia penzijního fondu\nVýkaz obsahuje základní identifikační údaje investičních nástrojů, které tvoří portfolio penzijního fondu, a kvantitativní údaje vztahující se k danému aktivu, tj. zejména jmenovitou hodnotu, pořizovací cenu, čistou pořizovací cenu a účetní netto hodnotu.\nPortfoliem penzijního fondu se zejména rozumí dluhové cenné papíry, majetkové cenné papíry, například akcie, podílové listy otevřených podílových fondů a ostatní podíly v jiných než akciových společnostech, jež nemají charakter účastí s rozhodujícím nebo podstatným vlivem, dále směnky či obdobné zahraniční cenné papíry a zajišťovací obchody.\nPEF (ČNB) 31-04 Specifikace přijatých a vyplacených prostředků\nVýkaz obsahuje základní informace o přijatých a vyplacených prostředcích souvisejících s penzijním připojištěním, o počtech vyplacených prostředků podle struktury dávek a o bilanci počtu účastníků penzijního připojištění.\nÚdaje o přijatých a vyplacených prostředcích a počtech vyplacených případů jsou vykazovány od počátku roku do konce sledovaného období, údaje o počtu poživatelů penzí jsou vykazovány podle stavu k datu, ke kterému je výkaz sestavován.\nPEF (ČNB) 50-04 Hlášení o organizační struktuře penzijního fondu\nVýkaz obsahuje základní identifikační a klasifikační údaje o penzijním fondu, o členech statutárního a dozorčího orgánu, o řídících a kontaktních osobách pro vymezené oblasti vykazujícího subjektu. Dále jsou zahrnuty údaje o základním kapitálu, počtu zaměstnanců a zprostředkovatelů. Výkaz rovněž obsahuje základní identifikační a klasifikační údaje o akcionářích s podílem na základním kapitálu vyšším než 5 % včetně strukturovaných údajů o velikosti tohoto podílu.\n1) § 19 odst. 9 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\n2) Článek 2 nařízení Evropského parlamentu a Rady (ES) č. 1606/2002 ze dne 19. července 2002 o uplatňování mezinárodních účetních standardů.\n3) Zákon č. 563/1991 Sb., ve znění pozdějších předpisů.\nVyhláška č. 501/2002 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou bankami a jinými finančními institucemi, ve znění pozdějších předpisů.\n4) § 2 vyhlášky č. 562/2006 Sb., kterou se stanoví způsob převedení listin do elektronické podoby, způsob nakládání s převedenými listinami a obligatorní elektronická podoba listin (vyhláška o digitalizaci obchodního rejstříku).\n5) § 2 písm. b) zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů.\n6) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "výkazem strukturovaný soubor údajů",
+      "definition": "které mají věcné a formální vazby",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zabezpečovací značkou",
+      "definition": "údaje v elektronické podobě, které jsou připojeny k datové zprávě a které splňují tyto požadavky:; jsou jednoznačně spojené s označující osobou a umožňují její identifikaci prostřednictvím vydaného certifikátu; byly vytvořeny a připojeny k datové zprávě pomocí prostředků pro vytváření bezpečnostních značek, které označující osoba může udržet pod svou výhradní kontrolou, a; jsou k datové zprávě, ke které se vztahují, připojeny takovým způsobem, že je možné zjistit jakoukoli následnou změnu dat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "kontaktní osobou",
+      "definition": "osoba nebo osoby, které jménem vykazujícího subjektu předkládají výkazy České národní bance.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Portfoliem penzijního fondu se zejména",
+      "definition": "dluhové cenné papíry, majetkové cenné papíry, například akcie, podílové listy otevřených podílových fondů a ostatní podíly v jiných než akciových společnostech, jež nemají charakter účastí s rozhodujícím nebo podstatným vlivem, dále směnky či obdobné zahraniční cenné papíry a zajišťovací obchody",
+      "source_provision": "§ 10"
+    }
+  ]
+}

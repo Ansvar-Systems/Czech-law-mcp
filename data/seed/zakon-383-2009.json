@@ -1,0 +1,349 @@
+{
+  "id": "cz:383/2009",
+  "type": "statute",
+  "title": "383/2009 Sb., Vyhláška o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech)",
+  "title_en": "",
+  "short_name": "383/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-11-10",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/383",
+  "description": "Vyhláška o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) pravidla pro formát, strukturu, přenos a zabezpečení účetních záznamů v technické formě vybraných účetních jednotek v návaznosti na přímo použitelné předpisy Evropské unie5),\nb) rozsah a četnost předávání účetních záznamů vybranými účetními jednotkami do centrálního systému účetních informací státu v návaznosti na přímo použitelné předpisy Evropské unie5),\nc) které vybrané účetní jednotky předávají do centrálního systému účetních informací státu pouze účetní záznamy pro sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celek státu,\nd) způsob, termíny a rozsah údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků a rozpočtů dobrovolných svazků obcí a pro vypracování návrhu státního závěrečného účtu,\ne) způsob předkládání vybraných údajů podle právních předpisů upravujících sběr vybraných údajů pro účely monitorování a řízení veřejných financí6) a\nf) požadavky pro technické a smíšené formy účetních záznamů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "chapter": "ČÁST PRVNÍ - OBECNÁ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) předáváním účetního záznamu činnost předávající účetní jednotky nebo správce centrálního systému účetních informací státu při přenosu účetního záznamu,\nb) přebíráním účetního záznamu činnost přebírající účetní jednotky nebo správce centrálního systému účetních informací státu při přenosu účetního záznamu,\nc) komunikací veškeré činnosti, včetně automatických, které jsou nezbytné pro předávání a přebírání účetních záznamů mezi vybranou účetní jednotkou a centrálním systémem účetních informací státu podle této vyhlášky,\nd) správcem centrálního systému účetních informací státu Ministerstvo financí (dále jen „ministerstvo“),\ne) správcem kapitoly účetní jednotka, která plní funkci správce kapitoly státního rozpočtu podle zvláštního právního předpisu,\nf) státní příspěvkovou organizací příspěvková organizace, jejímž zřizovatelem je organizační složka státu nebo která byla zřízena zvláštním zákonem,\ng) otevřeným tvarem informace zaznamenaná způsobem čitelným pro fyzickou osobu,\nh) konsolidačním účetním záznamem účetní záznam předávaný vybranou účetní jednotkou do centrálního systému účetních informací státu pro účely sestavení účetních výkazů za Českou republiku nebo pro sestavení účetních výkazů za dílčí konsolidační celek státu,\ni) operativním účetním záznamem účetní záznam předávaný vybranou účetní jednotkou do centrálního systému účetních informací státu pro potřeby státu, zejména pro účely operativního řízení hospodaření a nakládání s finančními prostředky,\nj) finančním údajem údaj předkládaný pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a pro vypracování návrhu státního závěrečného účtu,\nk) jiným účetním záznamem účetní záznam, který není konsolidačním účetním záznamem ani operativním účetním záznamem a vybrané účetní jednotky jej předávají do centrálního systému účetních informací státu způsobem stanoveným touto vyhláškou, zpravidla na vyžádání,\nl) primárním účetním záznamem účetní záznam, který vybraná účetní jednotka vytvořila nebo měla povinnost vytvořit již před požadavkem na jeho předání do centrálního systému účetních informací státu,\nm) vybraným údajem údaj předkládaný podle zákona o sběru vybraných údajů pro účely monitorování a řízení veřejných financí7)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Formát a struktura předávaných účetních záznamů",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA I - OBECNÁ PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Konsolidační účetní záznamy předávají vybrané účetní jednotky elektronicky ve formalizované datové dávce\na) sumarizovaných výkazů u jednotlivých částí účetní závěrky,\nb) Pomocného konsolidačního přehledu; rozsah jednotlivých částí Pomocného konsolidačního přehledu a jejich vzory stanoví příloha č. 3a k této vyhlášce,\nc) Seznamu účetních jednotek patřících do dílčího konsolidačního celku státu; rozsah jednotlivých částí Seznamu účetních jednotek patřících do dílčího konsolidačního celku státu a jejich vzory stanoví příloha č. 3b k této vyhlášce, a\nd) účetního záznamu, včetně souhrnného účetního záznamu, který je nutný pro konsolidaci.\n(2) Operativní účetní záznamy předávají organizační složky státu a státní fondy a jiné účetní záznamy předávají vybrané účetní jednotky elektronicky ve formalizované datové dávce\na) sumarizovaných výkazů, nebo\nb) účetního záznamu, včetně souhrnného účetního záznamu.\n(3) Struktura elektronicky předávaných údajů se obecně člení na tyto části:\na) záhlaví, které stanoví nezaměnitelnou identifikaci účetního záznamu a další identifikační údaje o obsahu účetního záznamu a vybrané účetní jednotce, která jej vytvořila,\nb) obsah, který obsahuje přenášenou informaci, ve struktuře stanovené touto vyhláškou, a\nc) zápatí, které stanoví nezaměnitelnou identifikaci pro zajištění celistvosti přenášeného účetního záznamu a další informace stanovené touto vyhláškou.\n(4) Formát a struktura elektronicky předávaných údajů jsou stanoveny v metodice technického zajištění formátu, struktury, přenosu a zabezpečení účetních záznamů podle této vyhlášky (dále jen „Technický manuál centrálního systému účetních informací státu“).\n(5) Požadavky na formáty účetních záznamů v technické formě a výstupní formáty snímacího zařízení pro převod účetních záznamů z listinné formy do technické formy jsou stanoveny v Technickém manuálu centrálního systému účetních informací státu.\n(6) Ministerstvo zveřejní Technický manuál centrálního systému účetních informací státu způsobem umožňujícím dálkový přístup. Technický manuál centrálního systému účetních informací státu je součástí provozní dokumentace Integrovaného informačního systému státní pokladny.\n(7) V Technickém manuálu centrálního systému účetních informací státu správce centrálního systému účetních informací státu uvede alespoň\na) vymezení datových prvků předávaných údajů a jejich atributy,\nb) vymezení komunikačního rozhraní včetně bezpečnostních parametrů a bližší podmínky jeho provozu,\nc) způsob hlášení závad datových přenosů,\nd) termíny vytváření sestav jednotlivých předaných účetních záznamů pro účely uživatelů účetních záznamů,\ne) strukturu jednotlivých číselníků, registrů a informací z registrů spravovaných centrálními orgány veřejné správy nebo spravovaných správcem centrálního systému účetních informací státu, včetně jejich použití při členění účetních záznamů a jejich přenosu,\nf) parametry a další údaje potřebné pro autentizaci a autorizaci postupů spojených s přenosem účetních záznamů, včetně způsobů a termínů předávání prostředků nutných k technickému a organizačnímu zabezpečení přenosu účetních záznamů mezi vybranou účetní jednotkou a centrálním systémem účetních informací státu,\ng) údaje potřebné pro registraci osoby odpovědné za přenos dat mezi vybranou účetní jednotkou a centrálním systémem účetních informací státu (dále jen „zodpovědná osoba“),\nh) způsob a postupy provádění syntaktické kontroly, kontroly zabezpečení a obsahové kontroly,\ni) postupy provádění obsahové kontroly konsolidačních účetních záznamů, které vycházejí ze závazných vzorů a postupů stanovených vyhláškou k provedení zákona o účetnictví pro některé vybrané účetní jednotky,\nj) způsob poskytování součinnosti zodpovědné osobě správcem centrálního systému účetních informací státu při odstraňování chyb v přenášených účetních záznamech,\nk) způsob předání údajů o zodpovědné osobě správci centrálního systému účetních informací státu,\nl) typy a specifikace komunikačních protokolů a související skutečnosti,\nm) způsob oznamování závažných skutečností, zejména hrozby zneužití přenášených účetních záznamů nebo jiných přenášených dat, správci centrálního systému účetních informací státu vybranou účetní jednotkou,\nn) požadavky na vyžádání a přenos jiného účetního záznamu a s tím spojený postup osoby, která jiný účetní záznam vyžádala, jakož i s tím spojený postup správce centrálního systému účetních informací státu a dotčené vybrané účetní jednotky a\no) parametry stavových zpráv o přenosech, způsob jejich tvorby a poskytování vybraným účetním jednotkám a související skutečnosti."
+    },
+    {
+      "provision_ref": "§ 3a",
+      "section": "3a",
+      "title": "§ 3a",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA I - OBECNÁ PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Pro účely monitorování a řízení veřejných financí a pro účely sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celky státu předávají vybrané účetní jednotky, s výjimkou účetních jednotek podle odstavce 2, elektronicky ve formalizované dávce Pomocný analytický přehled.\n(2) Pomocný analytický přehled podle odstavce 1 nepředávají\na) zdravotní pojišťovny,\nb) dobrovolné svazky obcí,\nc) obce, jejichž počet obyvatel zveřejněný Českým statistickým úřadem je na počátku bezprostředně předcházejícího účetního období menší než 3 000, a\nd) příspěvkové organizace, jejichž zřizovatelem je obec, kraj nebo dobrovolný svazek obcí a jejichž aktiva celkem (netto) nepřesahují alespoň v jednom ze dvou bezprostředně předcházejících účetních období výši 100 000 000 Kč.\n(3) Údaje pro účely sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celky státu v rámci Pomocného analytického přehledu nevykazují a nepředávají obce, jejichž počet obyvatel zveřejněný Českým statistickým úřadem je na počátku bezprostředně předcházejícího účetního období menší než 10 000.\n(4) Rozsah jednotlivých částí Pomocného analytického přehledu a jejich vzory stanoví příloha č. 2a k této vyhlášce, termíny jejich předávání do centrálního systému účetních informací státu stanoví příloha č. 2b k této vyhlášce.\n(5) Pomocný analytický přehled se sestavuje v peněžních jednotkách české měny a vykazuje se v korunách českých s přesností na dvě desetinná místa.\n(6) Pokud vybraná účetní jednotka v účetním období naplní podmínky pro předávání Pomocného analytického přehledu podle této vyhlášky, a v následujícím účetním období tyto podmínky nesplní, může ukončit předávání Pomocného analytického přehledu nejdříve po uplynutí tří po sobě jdoucích účetních obdobích, ve kterých Pomocný analytický přehled předávala."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Přenos účetních záznamů",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA I - OBECNÁ PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Vybrané účetní jednotky předávají účetní záznamy podle § 3 a 3a do centrálního systému účetních informací státu v technické formě přenosovou cestou, kterou se rozumí připojení prostřednictvím internetového datového rozhraní k centrálnímu systému účetních informací státu, které splňuje požadavky průkaznosti a neměnnosti přenášeného účetního záznamu podle zákona a dále požadavky ochrany a bezpečnosti odpovídající charakteru přenášených informací podle jiných právních předpisů upravujících požadavky na kybernetickou bezpečnost.\n(2) Vybrané účetní jednotky přebírají účetní záznamy v technické formě připojením k centrálnímu systému účetních informací státu pomocí internetového datového rozhraní.\n(3) Ministerstvo zveřejňuje popis internetového datového rozhraní v Technickém manuálu centrálního systému účetních informací státu."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA I - OBECNÁ PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Vybrané účetní jednotky předávají konsolidační účetní záznamy v termínech stanovených v příloze č. 3 k této vyhlášce a jiné účetní záznamy v termínech stanovených v příloze č. 4 k této vyhlášce.\n(2) Organizační složky státu a státní fondy předávají operativní účetní záznamy v termínech stanovených v příloze č. 5 k této vyhlášce.\n(3) Skutečnosti nebo informace, které jsou podle jiného právního předpisu1) utajovanými informacemi, účetní jednotky v předávaných účetních záznamech podle § 3 neuvádějí.\n(4) Vybrané účetní jednotky nepředávají účetní záznamy podle § 3a do centrálního systému účetních informací státu, pokud převážně obsahují skutečnosti nebo informace, které jsou podle jiného právního předpisu1) utajovanými informacemi.\n(5) Obce a dobrovolné svazky obcí předávají účetní záznamy podle § 3 odst. 1 písm. a) do centrálního systému účetních informací státu\na) způsobem podle § 4, nebo\nb) prostřednictvím krajského úřadu kraje, na jehož území se obec nachází nebo na jehož území má dobrovolný svazek obcí sídlo, pokud tak místně příslušný krajský úřad stanoví.\n(6) Příspěvkové organizace zřizované obcemi, dobrovolnými svazky obcí a kraji předávají účetní záznamy podle § 3 odst. 1 písm. a) do centrálního systému účetních informací státu\na) způsobem podle § 4, nebo\nb) prostřednictvím krajského úřadu kraje, na jehož území má zřizovatel příspěvkové organizace sídlo, pokud tak místně příslušný krajský úřad stanoví.\n(7) Účetní jednotky podle odstavců 5 a 6 předávají účetní záznamy v termínech, které stanoví krajský úřad tak, aby měl možnost zajistit kontrolu úplnosti a správnosti předaných výkazů\na) před potvrzením jejich úplnosti a správnosti v centrálním systému účetních informací státu v případech podle odstavce 5 písm. a) a odstavce 6 písm. a), nebo\nb) v případech podle odstavce 5 písm. b) a odstavce 6 písm. b) před jejich konečným předáním do centrálního systému účetních informací státu a potvrzením jejich úplnosti a správnosti v termínech podle odstavce 1.\n(8) Přenos účetních záznamů do centrálního systému účetních informací státu podle odstavce 5 písm. b) a odstavce 6 písm. b) provádí krajský úřad způsobem podle § 4. Organizační a technologické podmínky stanoví Technický manuál centrálního systému účetních informací státu.\n(9) V případě hlavního města Prahy předává účetní záznamy podle § 3 odst. 1 písm. a) do centrálního systému účetních informací státu Magistrát hlavního města Prahy. Ustanovení odstavců 6, 7 a 8 platí pro hlavní město Praha obdobně.\n(10) V případě, že vybraná účetní jednotka ukončí činnost v průběhu účetního období, předá mimořádnou účetní závěrku v termínu pro nejbližší mezitímní účetní závěrku. Nezajistí-li splnění této povinnosti dotčená vybraná účetní jednotka, zajistí splnění této povinnosti její zřizovatel.\n(11) Má-li vybraná účetní jednotka povinnost zachovávat mlčenlivost o skutečnostech, jejichž předávání upravuje tato vyhláška, předkládá tato účetní jednotka účetní záznamy v agregované podobě způsobem stanoveným v Technickém manuálu centrálního systému účetních informací státu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Požadavky na přenosovou cestu",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA I - OBECNÁ PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Vybraná účetní jednotka předává účetní záznamy a přebírá účetní záznamy z centrálního systému účetních informací státu přenosovou cestou pomocí technického prostředku využívaného touto vybranou účetní jednotkou k přenosu dat mezi ní a centrálním systémem účetních informací státu. Technický prostředek se připojuje ke komunikačním serverům centrálního systému účetních informací státu za podmínek uvedených správcem centrálního systému účetních informací státu v Technickém manuálu centrálního systému účetních informací státu.\n(2) Správce centrálního systému účetních informací státu může přidělit vybrané účetní jednotce časy a periody zahájení hlavního datového přenosu, časy, periody a počty opakování hlavního datového přenosu v případě neúspěchu hlavního datového přenosu a časy, periody a způsob zahájení záložního datového přenosu.\n(3) Vybraná účetní jednotka zajistí, aby připojení k internetu na straně vybrané účetní jednotky splňovalo technické parametry pro přenášení dat a jejich předávání a přebírání ve stanoveném rozsahu a termínech do centrálního systému účetních informací státu.\n(4) Správce centrálního systému účetních informací státu zajistí funkci komunikačních prostředků centrálního systému účetních informací státu, aby byly přístupny všem vybraným účetním jednotkám v přidělených časech. Správce centrálního systému účetních informací státu zajistí, aby připojení k internetu na straně správce splňovalo technické parametry pro přenášení dat a jejich přebírání a předávání ve stanoveném rozsahu a termínech od vybraných účetních jednotek."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Pravidla pro správce centrálního systému účetních informací státu",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) Vybrané účetní jednotky dostávají z centrálního systému účetních informací státu stavové zprávy, urgence a žádanky postupem podle Technického manuálu centrálního systému účetních informací státu.\n(2) Správce centrálního systému účetních informací státu poskytuje vybrané účetní jednotce potřebnou součinnost při lokalizaci závad datových přenosů a jejich odstranění, a to nejpozději do jednoho pracovního dne od jejího nahlášení vybranou účetní jednotkou správci centrálního systému účetních informací státu.\n(3) Správce centrálního systému účetních informací státu zajistí kontrolu vnitrovýkazových a mezivýkazových vazeb přenesených částí účetní závěrky vybraných účetních jednotek a umožní sestavení sumářů a zařazení do požadovaných úrovní agregace, případně je oprávněn vyžadovat v této souvislosti doplňující informace, a to v souladu s Technickým manuálem centrálního systému účetních informací státu.\n(4) Správce centrálního systému účetních informací státu zajistí podmínky pro vyžádání a přenos jiných účetních záznamů ve stanoveném rozsahu a termínech přenosovou cestou v souladu s Technickým manuálem centrálního systému účetních informací státu, včetně podmínek pro osoby, které jsou oprávněny vyžádat si jiný účetní záznam."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Pravidla pro vybrané účetní jednotky",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) Vybraná účetní jednotka předává účetní záznamy do centrálního systému účetních informací státu postupem podle Technického manuálu centrálního systému účetních informací státu.\n(2) Vybraná účetní jednotka předává účetní záznamy do centrálního systému účetních informací státu a přebírá účetní záznamy z centrálního systému účetních informací státu přenosovou cestou v termínech stanovených touto vyhláškou nebo jiným právním předpisem.\n(3) Není-li přenos dat podle odstavce 2 uskutečněn úspěšně, vybraná účetní jednotka oznámí tuto skutečnost neprodleně správci centrálního systému účetních informací státu postupem stanoveným v Technickém manuálu centrálního systému účetních informací státu.\n(4) Vybraná účetní jednotka zajistí podmínky pro vyžádání a přenos jiných účetních záznamů ve stanoveném rozsahu a termínech přenosovou cestou v souladu s Technickým manuálem centrálního systému účetních informací státu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Protokoly o uskutečněných přenosech dat a jejich uchovávání",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) Vybraná účetní jednotka uchovává protokoly o uskutečněných přenosech dat a o neúspěšných pokusech o přenos dat ke každému jednotlivému datovému přenosu. Technické požadavky na protokol o uskutečněných přenosech dat a součinnost správce centrálního systému účetních informací státu jsou uvedeny v Technickém manuálu centrálního systému účetních informací státu.\n(2) Správce centrálního systému účetních informací státu uchovává protokoly o uskutečněných přenosech dat na datovém médiu, které splňuje podmínky průkaznosti a trvalosti obsahu uložených dat."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Požadavky na úschovu účetních záznamů",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "Na úschovu účetních záznamů uvedených v § 3 odst. 1 a 2, jejich průkaznost, přenos a opravy se vztahují ustanovení § 31, 32, 33, 33a, 34 a 35 zákona."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Organizační zajištění přenosu účetních záznamů",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) Informaci o změně skutečností o vybrané účetní jednotce oznámí účetní jednotka správci centrálního systému účetních informací státu bezprostředně.\n(2) Strukturu jednotlivých rejstříků a číselníků zveřejní správce centrálního systému účetních informací státu způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Zajištění kontroly při přenosu účetních záznamů",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "Při přebírání účetních záznamů provádí správce centrálního systému účetních informací státu\na) syntaktickou kontrolu, kterou se rozumí kontrola rozsahu předávaných účetních záznamů a jejich neporušenosti během přenosu,\nb) kontrolu zabezpečení, kterou se rozumí kontrola bezpečnostních parametrů předávaných účetních záznamů, a\nc) obsahovou kontrolu, kterou se rozumí kontrola správnosti a provázanosti ve smyslu pravidel stanovených právními předpisy a postupů uvedených v Technickém manuálu centrálního systému účetních informací státu, zejména kontrola provázání informací v účetních záznamech podle § 3 odst. 1 až 3 předávaných vybranou účetní jednotkou do centrálního systému účetních informací státu a případná kontrola jejich provázání s informacemi v účetních záznamech předávaných jinou vybranou účetní jednotkou.\nOrganizační požadavky zabezpečení účetních záznamů a jiných dat určených k přenosu"
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) Výkonem práv a povinností zodpovědné osoby může vybraná účetní jednotka pověřit pouze fyzickou osobu.\n(2) Vybraná účetní jednotka předá správci centrálního systému účetních informací státu údaje nutné pro autentizaci zodpovědné osoby podle přílohy č. 14 k této vyhlášce v souladu s Technickým manuálem centrálního systému účetních informací státu.\n(3) Správce centrálního systému účetních informací státu zruší přístupy k centrálnímu systému účetních informací státu zodpovědné osobě, která za posledních 18 měsíců neprovedla úspěšné přihlášení do centrálního systému účetních informací státu.\n(4) V případě přenosu účetních záznamů do centrálního systému účetních informací státu podle § 5 odst. 5 písm. b) a § 5 odst. 6 písm. b) se použijí ustanovení této vyhlášky týkající se zodpovědné osoby přiměřeně pro krajský úřad příslušného kraje.\n(5) V případě technologického, bezpečnostního nebo operativního organizačního opatření může správce centrálního systému účetních informací státu provést změnu v registraci zodpovědné osoby. O takovémto postupu správce centrálního systému účetních informací státu neprodleně informuje dotčenou vybranou účetní jednotku a dotčenou zodpovědnou osobu."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST DRUHÁ - PRAVIDLA PRO FORMÁT, STRUKTURU, PŘENOS A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ V TECHNICKÉ FORMĚ VYBRANÝCH ÚČETNÍCH JEDNOTEK A ROZSAH A ČETNOST PŘEDÁVÁNÍ TĚCHTO ÚČETNÍCH ZÁZNAMŮ > HLAVA II - BLIŽŠÍ POŽADAVKY NA PŘEDÁVÁNÍ, PŘEBÍRÁNÍ A ZABEZPEČENÍ ÚČETNÍCH ZÁZNAMŮ A JEJICH ÚSCHOVU",
+      "content": "(1) V případě, že hrozí zneužití přenášených účetních záznamů nebo jiných přenášených dat, oznámí vybraná účetní jednotka bezprostředně tuto skutečnost správci centrálního systému účetních informací státu prostřednictvím zodpovědné osoby.\n(2) Správce centrálního systému účetních informací státu realizuje změny v přístupech do systému centrálního systému účetních informací státu a změny v údajích zodpovědné osoby nejpozději do jednoho pracovního dne od oznámení těchto skutečností vybranou účetní jednotkou."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Obecně k předávání finančních údajů",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ FINANČNÍCH A VYBRANÝCH ÚDAJŮ",
+      "content": "(1) Správci kapitol, organizační složky státu, státní příspěvkové organizace, státní fondy, územní samosprávné celky a dobrovolné svazky obcí sestavují a předávají do centrálního systému účetních informací státu pro potřeby státu též finanční údaje podle právního předpisu upravujícího předkládání údajů pro hodnocení plnění státního rozpočtu nebo právního předpisu upravujícího předkládání údajů pro vypracování návrhu státního závěrečného účtu.\n(2) Pro formát, strukturu, přenos, zabezpečení, rozsah a četnost předávání finančních údajů se použijí ustanovení části druhé obdobně, pokud nestanoví část třetí nebo právní předpis upravující předkládání údajů pro hodnocení plnění státního rozpočtu nebo právní předpis upravující předkládání údajů pro vypracování návrhu státního závěrečného účtu jinak.\n(3) Pro předávání finančních údajů obcí a dobrovolných svazků obcí se použije § 5 odst. 5 a 7 obdobně, pokud nestanoví právní předpis upravující předkládání údajů pro hodnocení plnění státního rozpočtu nebo právní předpis upravující předkládání údajů pro vypracování státního závěrečného účtu jinak."
+    },
+    {
+      "provision_ref": "§ 23a",
+      "section": "23a",
+      "title": "§ 23a Obecně k předávání vybraných údajů",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ FINANČNÍCH A VYBRANÝCH ÚDAJŮ",
+      "content": "(1) Pro formát, přenos, zabezpečení a rozsah předávání vybraných údajů se použijí ustanovení části druhé obdobně, pokud nestanoví část třetí jinak.\n(2) Pro předávání vybraných údajů obcí, dobrovolných svazků obcí a příspěvkových organizací zřizovaných obcemi, dobrovolnými svazky obcí a kraji se použijí § 5 odst. 5, 6 a 7 obdobně, nestanoví-li jiný právní předpis8) jinak."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Termíny předávání finančních údajů",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ FINANČNÍCH A VYBRANÝCH ÚDAJŮ",
+      "content": "(1) Účetní jednotky podle § 23 odst. 1 sestavují a předávají finanční údaje ve formalizované datové dávce, a to v termínech stanovených právním předpisem upravujícím předkládání údajů pro hodnocení plnění státního rozpočtu nebo právním předpisem upravujícím předkládání údajů pro vypracování návrhu státního závěrečného účtu.\n(2) Rozsah jednotlivých finančních údajů a jejich vzory stanoví právní předpis upravující předkládání údajů pro hodnocení plnění státního rozpočtu nebo právní předpis upravující předkládání údajů pro vypracování návrhu státního závěrečného účtu."
+    },
+    {
+      "provision_ref": "§ 24a",
+      "section": "24a",
+      "title": "§ 24a Termíny předávání vybraných údajů",
+      "chapter": "ČÁST TŘETÍ - PŘEDÁVÁNÍ FINANČNÍCH A VYBRANÝCH ÚDAJŮ",
+      "content": "(1) Účetní jednotky sestavují a předávají vybrané údaje ve formalizované datové dávce, a to v termínech stanovených jiným právním předpisem8).\n(2) Strukturu jednotlivých vybraných údajů stanoví jiný právní předpis9)."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Účetní jednotka může provést převod účetního záznamu z jedné formy do jiné nové formy. Tímto převodem vzniká nový účetní záznam.\n(2) V případě převodu podle odstavce 1 účetní jednotka zajistí, že obsah účetního záznamu v nové formě je shodný s obsahem účetního záznamu v původní formě.\n(3) Provedení postupu podle odstavce 2 se má za prokázané, pokud účetní jednotka předloží účetní záznam v původní i nové formě a jejich obsah je shodný.\n(4) Provedení postupu podle odstavce 2 může účetní jednotka prokázat i jiným způsobem, který nezpochybní žádná z osob, které s převedeným záznamem pracují. V případě nezpochybnění průkaznosti převodu účetního záznamu žádnou z osob, které s převedeným záznamem pracují, se u účetních záznamů, které nejsou označeny skartačními znaky pro výběr nebo archiválii podle jiného právního předpisu3), nevyžaduje předložení účetního záznamu v původní formě.\n(5) Účetní záznam v technické nebo smíšené formě se skartačními znaky „A“ nebo „V“ vzniklý z činnosti účetní jednotky musí být ve formátu, který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu. Pokud tuto podmínku nemůže účetní jednotka zabezpečit, převede takové účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu, a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické, případně smíšené formě, u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu.\n(6) Účetní jednotka zajistí, aby disponovala účetními záznamy, kterými se dokládá forma vedení účetnictví."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Požadavky pro technické a smíšené formy účetních záznamů upravené touto vyhláškou se týkají\na) účetních záznamů vzniklých převodem z jedné formy do jiné,\nb) účetních záznamů, u kterých se doplněním informace na účetní záznam změní jejich forma,\nc) účetních záznamů vytvořených technickými prostředky a\nd) přidělení jednoznačné identifikace k účetním záznamům tak, aby byly splněny podmínky srozumitelnosti účetnictví a podmínky jednoznačnosti obsahu účetních záznamů.\nPožadavky při vzniku technických, případně smíšených forem účetního záznamu"
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Požadavky a podmínky při vzniku účetních záznamů upravené touto vyhláškou se vztahují na případy\na) smíšeného účetního záznamu doplněním informace a\nb) účetního záznamu v technické formě technologií na bázi optického rozpoznání písma, případně rozpoznání čárového kódu."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Doplněním informace v technické formě, která je pro fyzickou osobu nečitelná, na účetní záznam v listinné formě vzniká účetní záznam ve smíšené formě. Při doplnění informace na účetní záznam musí být splněny podmínky podle § 33 odst. 7 zákona."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Převodem účetního záznamu v listinné nebo smíšené formě s využitím technologie na bázi optického rozpoznání písma vzniká nový účetní záznam v technické formě.\n(2) Účetní záznam podle odstavce 1 se převede za použití snímacího zařízení. Snímací zařízení musí umožňovat převedení listinné formy do technické, přičemž musí být dodržena podmínka neporušitelnosti obsahu a čitelnosti.\n(3) Účetní záznam převedený podle odstavce 1 může být současně nebo následně zpracován technologiemi na bázi optického rozpoznání písma, případně rozpoznání čárového kódu. Účetní jednotka zajistí, aby obsah původního účetního záznamu v listinné, případně smíšené formě byl shodný s obsahem účetního záznamu v technické formě, a připojí k takto získanému účetnímu záznamu podpisový záznam."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Účetní záznam v technické formě a ve formátu, který umožňuje jeho zpracování pomocí technologií na bázi optického rozpoznání písma, případně rozpoznání čárového kódu, může být zpracován touto technologií tak, že vznikne nový účetní záznam v technické, případně smíšené formě.\n(2) Účetní jednotka zajistí, aby obsah původního účetního záznamu byl shodný s obsahem účetního záznamu v technické, případně smíšené formě, a připojí k takto získanému účetnímu záznamu podpisový záznam."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Pro účely průkaznosti účetního záznamu převedeného podle § 34 a 36 uchová účetní jednotka společně s novým účetním záznamem původní účetní záznam v listinné, technické, případně smíšené formě."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Převod účetního záznamu z listinné formy do účetního záznamu v technické formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Převod účetního záznamu v listinné formě do účetního záznamu v technické formě se provádí za použití snímacího zařízení. Snímací zařízení musí umožňovat převedení listinné formy do technické formy, přičemž musí být dodržena podmínka neporušitelnosti obsahu a čitelnosti."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Převod účetního záznamu z listinné formy do účetního záznamu ve smíšené formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Účetní záznam ve smíšené formě může též vzniknout převodem části účetního záznamu do technické formy.\n(2) V tomto případě se převod části účetního záznamu v listinné formě do technické části účetního záznamu ve smíšené formě provádí za použití snímacího zařízení. Snímací zařízení musí umožňovat převedení listinné formy do technické formy, přičemž musí být dodržena podmínka neporušitelnosti obsahu a čitelnosti.\n(3) Nový účetní záznam ve smíšené formě tvoří původní účetní záznam v listinné formě a k němu připojený účetní záznam v technické formě vzniklý převodem části účetního záznamu v listinné formě. V těchto případech účetní záznam v původní formě i účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Převod účetního záznamu z technické formy neobsahující podpisový záznam do účetního záznamu v listinné formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Převod účetního záznamu v technické formě bez podpisového záznamu do účetního záznamu v listinné formě se provádí za použití výstupního zařízení.\n(2) Výstupní zařízení musí umožňovat záznam na analogový nosič způsobem zaručujícím jeho neměnnost a čitelnost."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Převod účetního záznamu z technické formy neobsahující podpisový záznam do účetního záznamu ve smíšené formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Převod části nebo celého účetního záznamu v technické formě do účetního záznamu ve smíšené formě se provádí za použití výstupního zařízení.\n(2) Výstupní zařízení musí umožňovat záznam na analogový nosič způsobem zaručujícím jeho neměnnost a čitelnost.\n(3) Nový účetní záznam ve smíšené formě tvoří původní účetní záznam v technické formě a k němu připojený účetní záznam v listinné formě vzniklý převodem části nebo celého účetního záznamu v technické formě. V těchto případech účetní záznam v původní formě i účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Převod účetního záznamu v technické formě s podpisovým záznamem do účetního záznamu v listinné formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "Pro převod účetního záznamu v technické formě s podpisovým záznamem do účetního záznamu v listinné formě se použije autorizovaná konverze dokumentů4)."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Převod účetního záznamu v technické formě s podpisovým záznamem do účetního záznamu ve smíšené formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Pro převod části nebo celého účetního záznamu v technické formě do účetního záznamu ve smíšené formě se použije autorizovaná konverze dokumentů4).\n(2) Nový účetní záznam ve smíšené formě tvoří původní účetní záznam v technické formě a k němu připojený účetní záznam v listinné formě vzniklý autorizovanou konverzí dokumentů části nebo celého účetního záznamu v technické formě. V těchto případech účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která neobsahuje podpisový záznam, do účetního záznamu v listinné formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Pro převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která neobsahuje podpisový záznam, do účetního záznamu v listinné formě se použije pro část účetního záznamu v technické formě výstupní zařízení.\n(2) Výstupní zařízení musí umožňovat záznam na analogový nosič způsobem zaručujícím jeho neměnnost a čitelnost.\n(3) Nový účetní záznam v listinné formě pak tvoří část původního účetního záznamu v listinné formě a nový účetní záznam vzniklý převodem technické části původního účetního záznamu ve smíšené formě. V těchto případech účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která neobsahuje podpisový záznam, do účetního záznamu v technické formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která neobsahuje podpisový záznam, do účetního záznamu v technické formě se provádí pro listinnou část účetního záznamu ve smíšené formě za použití snímacího zařízení.\n(2) Snímací zařízení musí umožňovat převedení listinné formy do technické formy, přičemž musí být dodržena podmínka neporušitelnosti obsahu a čitelnosti.\n(3) Výslednou technickou formu účetního záznamu tvoří část původního účetního záznamu v technické formě a nový účetní záznam vzniklý převodem z části původního účetního záznamu v listinné formě. V těchto případech účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem.\n(4) V případě účetního záznamu ve smíšené formě s částí záznamu v technické formě, která neobsahuje podpisový záznam a která je uchována výstupním tiskovým zařízením na analogovém nosiči, například štítek s čárovým kódem, může účetní jednotka provést převod podle § 36. Zároveň musí být splněna podmínka, že informace obsažená na smíšeném účetním záznamu v části záznamu v technické formě bude zachována i v novém účetním záznamu vzniklém převodem z původního účetního záznamu v technické formě."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která obsahuje podpisový záznam, do účetního záznamu v listinné formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Pro převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která obsahuje podpisový záznam, do účetního záznamu v listinné formě se použije autorizovaná konverze dokumentů4).\n(2) Výslednou listinnou formu pak tvoří část původního účetního záznamu v listinné formě a nový účetní záznam vzniklý autorizovanou konverzí z části původního účetního záznamu v technické formě. V těchto případech účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která obsahuje podpisový záznam, do účetního záznamu v technické formě",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Převod účetního záznamu ve smíšené formě s částí záznamu v technické formě, která obsahuje podpisový záznam, do účetního záznamu v technické formě se pro listinnou část účetního záznamu ve smíšené formě provádí za použití snímacího zařízení.\n(2) Snímací zařízení musí umožňovat převedení listinné formy do technické formy, přičemž musí být dodržena podmínka neporušitelnosti obsahu a čitelnosti.\n(3) Výslednou technickou formu účetního záznamu tvoří část původního účetního záznamu v technické formě a nový účetní záznam vzniklý převodem z části původního účetního záznamu v listinné formě. V těchto případech účetní záznam vzniklý převodem obsahuje jednoznačnou identifikaci, kterou lze jednoznačně a nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem v původní formě a účetním záznamem vzniklým převodem.\n(4) K novému účetnímu záznamu v technické formě se připojí podpisový záznam osoby odpovědné za převod."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Obecné požadavky při převodu účetního záznamu",
+      "chapter": "ČÁST ČTVRTÁ - POŽADAVKY PRO TECHNICKÉ A SMÍŠENÉ FORMY ÚČETNÍCH ZÁZNAMŮ",
+      "content": "(1) Účetní záznam v listinné formě do účetního záznamu v technické formě převádí účetní jednotka pouze v případě, že u převáděných účetních záznamů je zajištěna podmínka neměnnosti a trvalosti.\n(2) Pokud není barva v účetním záznamu nositelem obsahu nebo jeho části, je možné převádět účetní záznam černobíle. V opačném případě se převádí barevně.\n(3) U účetních záznamů převáděných z listinné formy do technické formy pomocí skeneru bezodkladně po provedení převodu účetního záznamu posoudí účetní jednotka pohledovou kontrolou čitelnost celé plochy převedeného záznamu. Nejsou-li některé části záznamu čitelné, je možné provést nový převod záznamů s pozměněným nastavením parametrů technického zařízení, případně jinou technologií.\n(4) Převod účetního záznamu nesmí způsobit nejednoznačnost obsahu.\n(5) Při převodu účetních záznamů týkajících se výhradně skutečností uvnitř jedné účetní jednotky, které obsahují podpisový záznam, lze kromě autorizované konverze dokumentů použít i jinou metodu.\n(6) Použitá metoda musí splňovat podmínku, že bude možné nezávisle na sobě určit odpovědnost jednotlivých osob za obsah účetního záznamu, ke kterému byly podpisové záznamy přiloženy, a to jak u původního účetního záznamu, tak i u záznamu vzniklého převodem."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44",
+      "chapter": "ČÁST PÁTÁ - PŘECHODNÁ USTANOVENÍ",
+      "content": "(1) Ustanovení této vyhlášky se poprvé použijí v účetním období započatém 1. ledna 2010 a později, není-li v odstavcích 2 až 4 stanoveno jinak.\n(2) Účetní záznamy podle § 3 odst. 1 písm. a) (účetní závěrka) předávají organizační složky státu a jimi zřizované příspěvkové organizace, státní fondy a Pozemkový fond České republiky do centrálního systému účetních informací poprvé v účetním období roku 2010 ve stavu k 31. březnu 2010, a to nejpozději do 20. dubna 2010.\n(3) Územní samosprávné celky, dobrovolné svazky obcí, Regionální rady regionů soudržnosti a příspěvkové organizace zřizované obcemi, dobrovolnými svazky obcí a kraji předávají účetní záznamy podle § 3 odst. 1 písm. a) (účetní závěrka) do centrálního systému účetních informací poprvé v účetním období roku 2010 ve stavu k 31. březnu a k 30. červnu 2010, a to nejpozději do 20. července 2010.\n(4) Účetní záznamy podle § 3 odst. 1 písm. b) a c) (pomocný konsolidační přehled a ostatní pomocné konsolidační informace) předávají vybrané účetní jednotky do centrálního systému účetních informací poprvé v účetním období roku 2011 ve stavu k 31. prosinci 2010, a to nejpozději do 31. srpna 2011, s výjimkou vybraných účetních jednotek, které jsou součástí dílčího konsolidačního celku podle jiného právního předpisu konsolidující účetní jednotky státu Ministerstva financí.\n(5) Operativní účetní záznamy podle § 3 odst. 2 předávají organizační složky státu a státní fondy do centrálního systému účetních informací poprvé v účetním období roku 2010 ve stavu k 30. červnu 2010, a to nejpozději do 20. července 2010."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45",
+      "chapter": "ČÁST ŠESTÁ - ÚČINNOST",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2010.\nPříloha č. 2a k vyhlášce č. 383/2009 Sb.\nPomocný analytický přehled\nČást I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech\nČást II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnost\nČást III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnost\nČást IV: DNM a DHM - typy změn na straně MD a D vybraných rozvahových účtů\nČást V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtů\nČást VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtů\nČást VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtů\nČást VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtů\nČást X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva\nČást XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakce\nČást XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakce\nČást XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakce\nČást XIV: Přehled majetkových účastí a jejich změn\nORGANIZAČNÍ SLOŽKA STÁTU, ÚZEMNÍ SAMOSPRÁVNÝ CELEK\nČást XV: Přehled podrozvahových účtů\nČást XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účtu\nPříloha č. 2b k vyhlášce č. 383/2009 Sb.\nTermíny pro předávání Pomocného analytického přehledu\nNázev účetního záznamuČetnost předávání účetního záznamu\nČást I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtechčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnostčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnostčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást IV: DNM a DHM - typy změn na straně MD a D vybraných rozvahových účtůčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtůčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtůčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtůčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtůčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva nebo partnerů transakcečtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku,\nČást XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakcečtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku\nČást XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakcečtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku\nČást XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakcečtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a\nročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku\nČást XIV: Přehled majetkových účastí a jejich změnročně - ve stavu k 31. 12. do 25. 2. následujícího roku\nČást XV: Přehled podrozvahových účtůročně - ve stavu k 31. 12. do 25. 2. následujícího roku\nČást XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účturočně - ve stavu k 31. 12. do 25. 2. následujícího roku\nPoznámka:\nMá-li vybraná účetní jednotka povinnost zachovávat mlčenlivost o skutečnostech, které jsou požadovány v jednotlivých částech Pomocného analytického přehledu, sestavuje jednotlivé části Pomocného analytického přehledu v agregované podobě způsobem stanoveným v Technickém manuálu centrálního systému účetních informací státu.\nPřipadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.\nPříloha č. 3 k vyhlášce č. 383/2009 Sb.\nTermíny pro předávání konsolidačních účetních záznamů\nNázev účetního záznamuČetnost předávání účetního záznamu\nRozvahačtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,\nzdravotní pojišťovny: čtvrtletně – ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 28. 2. následujícího roku, vybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 25. 2. následujícího roku.\nVýkaz zisku a ztrátyčtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,\nzdravotní pojišťovny: čtvrtletně – ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 28. 2. následujícího roku,\nvybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 25. 2. následujícího roku.\nPřehled o peněžních tocíchročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,\nzdravotní pojišťovny: ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 28. 2. následujícího roku,\nvybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 25. 2. následujícího roku.\nPřehled o změnách vlastního kapitáluročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,\nzdravotní pojišťovny: ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 28. 2. následujícího roku,\nvybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 25. 2. následujícího roku.\nPřílohačtvrtletně - ve stavu k 31. 3., 30. 6., 30.9. - mezitímní účetní závěrka, a to 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,\nzdravotní pojišťovny: čtvrtletně – ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 28. 2. následujícího roku,\nvybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. – mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. – řádná účetní závěrka, a to do 25. 2. následujícího roku.\nPomocný konsolidační přehledročně, tj. ve stavu k 31. 12., a to do 31. 7. následujícího roku\nSeznam účetních jednotek patřících do dílčího konsolidačního celku státuročně, tj. ve stavu k 31. 12., a to do 15. 1. následujícího roku\nPomocný konsolidační záznamdo deseti pracovních dnů od obdržení požadavku na předání pomocného konsolidačního záznamu ministerstvem, nestanoví-li ministerstvo lhůtu pro předání delší\nPoznámka:\nPřipadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.\nPříloha č. 3a k vyhlášce č. 383/2009 Sb.\nPomocný konsolidační přehled\nPříloha č. 3b k vyhlášce č. 383/2009 Sb.\nSeznam účetních jednotek patřících do dílčího konsolidačního celku státu\nPříloha č. 4 k vyhlášce č. 383/2009 Sb.\nTermíny pro předávání jiných účetních záznamů\nNázev účetního záznamuČetnost předávání účetního záznamu\nVyžádaný primární účetní záznam z účetních knihdo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nVyžádaný soubor primárních účetních záznamů z účetních knihdo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nVyžádaný jiný účetní záznamdo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nVyžádaný soubor jiných účetních záznamůdo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nÚčetní záznamy o inventarizacido pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nVyžádaný konkrétní účetní dokladdo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nVyžádaný seznam primárních účetních záznamů a účetních dokladů dle bližší specifikacedo pěti pracovních dnů od obdržení požadavku na předání jiného účetního záznamu správcem centrálního systému účetních informací státu, nestanoví-li orgán veřejné správy v rámci monitorovacích, zjišťovacích a kontrolních činností jiný termín\nInformace o schválení nebo neschválení účetní závěrky, včetně souvisejících informacív případě řádné účetní závěrky do 31. 7. roku následujícího po účetním období, za které je účetní závěrka schvalována; v případě mimořádné účetní závěrky do 3 měsíců od rozvahového dne\nPoznámka:\nPřipadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.\nPříloha č. 5 k vyhlášce č. 383/2009 Sb.\nTermíny pro předávání operativních účetních záznamů\nNázev účetního záznamuČetnost předávání účetního záznamu\nPeněžní prostředkyměsíčně - ve stavu k poslednímu dni kalendářního měsíce, a to do 15. dne následujícího kalendářního měsíce\nDisponibilní majetekměsíčně - ve stavu k poslednímu dni kalendářního měsíce, a to do 15. dne následujícího kalendářního měsíce\nPoznámka:\nDisponibilní majetek se vztahuje k § 27 odst. 1 písm. h) zákona.\nPokud k příslušnému poslednímu dni kalendářního měsíce sestavuje vybraná účetní jednotka mezitímní účetní závěrku nebo řádnou účetní závěrku, předává operativní účetní záznamy v termínu pro předávání mezitímní účetní závěrky nebo řádné účetní závěrky.\nPřipadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.\nOperativní účetní záznamy k poslednímu dni kalendářního roku a k poslednímu dni následujícího měsíce ledna předává vybraná účetní jednotka v termínu pro předání řádné účetní závěrky sestavované k poslednímu dni tohoto kalendářního roku.\nPříloha č. 14\nInformace a způsob jejich předávání mezi vybranou účetní jednotkou a centrálním systémem účetních informací státu v souvislosti s registrací zodpovědných osob\n1. Identifikace vybrané účetní jednotky: název účetní jednotky, identifikační číslo, adresa sídla, adresa pro doručování, elektronická adresa, telefonní číslo, identifikátor datové schránky, jméno a příjmení statutárního orgánu nebo jím pověřené osoby, rozsah vedení účetnictví.\n2. Identifikace zodpovědné osoby: jméno a příjmení, elektronická adresa, telefonní číslo, registrační číslo zodpovědné osoby, je-li v centrálním systému účetních informací státu přiděleno.\n3. Úkony dostupné vybrané účetní jednotce:\na) žádost o registraci zodpovědné osoby,\nb) zpřístupnění výpisu aktuálních údajů vedených v CSÚIS o vybrané účetní jednotce,\nc) aktualizace údajů o vybrané účetní jednotce,\nd) aktualizace údajů o zodpovědné osobě,\ne) ukončení registrace zodpovědné osoby.\n4. Registrace a aktualizace údajů o zodpovědné osobě ze strany vybrané účetní jednotky probíhá na webovém portálu centrálního systému účetních informací státu.\n1) Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností, ve znění pozdějších předpisů.\nZákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.\nZákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů.\nZákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění pozdějších předpisů.\nZákon č. 67/1992 Sb., o Vojenském obranném zpravodajství, ve znění pozdějších předpisů.\n3) Zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů.\n4) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů.\n5) Například nařízení Rady (ES) č. 2223/96 ze dne 25. června 1996 o Evropském systému národních a regionálních účtů ve Společenství, v platném znění.\nNařízení Rady (ES) č. 479/2009 ze dne 25. května 2009 o použití Protokolu o postupu při nadměrném schodku, připojeného ke Smlouvě o založení Evropského společenství (kodifikované znění), ve znění nařízení Rady (EU) č. 679/2010.\n6) Zákon č. 25/2017 Sb., o sběru vybraných údajů pro účely monitorování a řízení veřejných financí, ve znění zákona č. 183/2017 Sb.\nVyhláška č. 272/2017 Sb., k provedení některých ustanovení zákona o sběru vybraných údajů pro účely monitorování a řízení veřejných financí.\n7) § 3, 4, 5 a 6 zákona č. 25/2017 Sb., o sběru vybraných údajů pro účely monitorování a řízení veřejných financí.\n8) Zákon č. 25/2017 Sb., o sběru vybraných údajů pro účely monitorování a řízení veřejných financí, ve znění zákona č. 183/2017 Sb.\n9) Vyhláška č. 272/2017 Sb., k provedení některých ustanovení zákona o sběru vybraných údajů pro účely monitorování a řízení veřejných financí."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "předáváním účetního záznamu",
+      "definition": "činnost předávající účetní jednotky nebo správce centrálního systému účetních informací státu při přenosu účetního záznamu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přebíráním účetního záznamu",
+      "definition": "činnost přebírající účetní jednotky nebo správce centrálního systému účetních informací státu při přenosu účetního záznamu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "komunikací veškeré činnosti",
+      "definition": "včetně automatických, které jsou nezbytné pro předávání a přebírání účetních záznamů mezi vybranou účetní jednotkou a centrálním systémem účetních informací státu podle této vyhlášky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "správcem kapitoly účetní jednotka",
+      "definition": "která plní funkci správce kapitoly státního rozpočtu podle zvláštního právního předpisu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "státní příspěvkovou organizací příspěvková organizace",
+      "definition": "jejímž zřizovatelem je organizační složka státu nebo která byla zřízena zvláštním zákonem",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "finančním údajem",
+      "definition": "údaj předkládaný pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a pro vypracování návrhu státního závěrečného účtu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "jiným účetním záznamem účetní záznam",
+      "definition": "který není konsolidačním účetním záznamem ani operativním účetním záznamem a vybrané účetní jednotky jej předávají do centrálního systému účetních informací státu způsobem stanoveným touto vyhláškou, zpravidla na vyžádání",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "primárním účetním záznamem účetní záznam",
+      "definition": "který vybraná účetní jednotka vytvořila nebo měla povinnost vytvořit již před požadavkem na jeho předání do centrálního systému účetních informací státu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "vybraným údajem",
+      "definition": "údaj předkládaný podle zákona o sběru vybraných údajů pro účely monitorování a řízení veřejných financí7).",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "a) syntaktickou kontrolu, kterou",
+      "definition": "kontrola rozsahu předávaných účetních záznamů a jejich neporušenosti během přenosu",
+      "source_provision": "§ 13"
+    },
+    {
+      "term": "b) kontrolu zabezpečení, kterou",
+      "definition": "kontrola bezpečnostních parametrů předávaných účetních záznamů, a",
+      "source_provision": "§ 13"
+    },
+    {
+      "term": "c) obsahovou kontrolu, kterou",
+      "definition": "kontrola správnosti a provázanosti ve smyslu pravidel stanovených právními předpisy a postupů uvedených v Technickém manuálu centrálního systému účetních informací státu, zejména kontrola provázání informací v účetních záznamech podle § 3 odst",
+      "source_provision": "§ 13"
+    }
+  ]
+}

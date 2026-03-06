@@ -1,0 +1,33 @@
+{
+  "id": "cz:122/2013",
+  "type": "statute",
+  "title": "122/2013 Sb., Vyhláška o některých charakteristikách zvukové složky reklam, teleshoppingu a označení sponzora v televizním vysílání a o způsobu měření hlasitosti zvukové složky reklam, teleshoppingu a označení sponzora v televizním vysílání",
+  "title_en": "",
+  "short_name": "122/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-05-21",
+  "in_force_date": "2013-06-01",
+  "url": "https://www.e-sbirka.cz/sb/2013/122",
+  "description": "Vyhláška o některých charakteristikách zvukové složky reklam, teleshoppingu a označení sponzora v televizním vysílání a o způsobu měření hlasitosti zvukové složky reklam, teleshoppingu a označení sponzora v televizním vysílání",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje některé charakteristiky zvukové složky reklam, teleshoppingu a označení sponzora v televizním vysílání."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Některé charakteristiky zvukové složky reklamy, teleshoppingu a označení sponzora v televizním vysílání",
+      "content": "(1) Provozovatel televizního vysílání zajistí, aby zvuková složka jím vysílaných reklam, teleshoppingu a označení sponzora vyhovovala požadavkům Doporučení Evropské vysílací unie EBU-R 128 „Normalizace hlasitosti a maximální povolená úroveň zvukových signálů“, Ženeva, srpen 2011 a požadavkům Technického dokumentu Evropské vysílací unie EBU Tech Doc 3343 „Praktické pokyny pro výrobu a implementaci podle EBU R 128“, Verze 1.1, Ženeva, říjen 2011.\n(2) Pro účely splnění povinnosti podle odstavce 1 provozovatel televizního vysílání zejména zajistí, že\na) hladina hlasitosti reklamy, teleshoppingu a označení sponzora je normována na cílovou hladinu -23,0 LUFS, s maximální odchylkou +/− 1,0 LU a\nb) maximální povolená skutečná špičková hladina hlasitosti reklamy, teleshoppingu a označení sponzora je -1 dBTP (dB skutečné špičky) při měření měřicím zařízením odpovídajícím Doporučení Mezinárodní telekomunikační unie ITU-R BS.1770-2 „Algoritmy pro měření hlasitosti zvukových programů a skutečné špičkové úrovně zvuku“, březen 2011 a Technickému dokumentu Evropské vysílací unie EBU Tech Doc 3341 „Měření hlasitosti: měření v „režimu EBU“ na doplnění normalizace hlasitosti v souladu s EBU-R 128“, Ženeva, srpen 2011.\n(3) Rada zveřejní dokumenty, kterými se stanoví některé charakteristiky zvukové složky podle odstavců 1 a 2, způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2013."
+    }
+  ],
+  "definitions": []
+}

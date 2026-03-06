@@ -1,0 +1,39 @@
+{
+  "id": "cz:140/1976",
+  "type": "statute",
+  "title": "140/1976 Sb., Nařízení vlády Slovenské socialistické republiky o změnách v organizaci vysokých škol",
+  "title_en": "",
+  "short_name": "140/1976 Sb.",
+  "status": "in_force",
+  "issued_date": "1976-12-09",
+  "in_force_date": "1976-12-09",
+  "url": "https://www.e-sbirka.cz/sb/1976/140",
+  "description": "Nařízení vlády Slovenské socialistické republiky o změnách v organizaci vysokých škol",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Na Vysoké škole technické v Košicích se zřizuje stavební fakulta se sídlem v Košicích."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Na Vysoké škole ekonomické v Bratislavě se zřizuje fakulta ekonomiky služeb a cestovního ruchu se sídlem v Banské Bystrici."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Název fakulty provozu a ekonomiky dopravy na Vysoké škole dopravní v Žilině se mění a zní: „fakulta provozu a ekonomiky dopravy a spojů“."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

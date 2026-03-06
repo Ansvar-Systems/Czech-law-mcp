@@ -1,0 +1,38 @@
+{
+  "id": "cz:284/2015",
+  "type": "statute",
+  "title": "284/2015 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "284/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-10-29",
+  "in_force_date": "2015-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/284",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. listopadu 2015.\nK4=1,5+∑i=1n Xi\nS2Sazba za 1 kHz využívané šířky kmitočtového pásma\nK1 Koeficient využívané šířky kmitočtového pásma. Tento koeficient se vypočte ze šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.\nK1 = 1 pro 1 kHz\nK4 Součet výkonových koeficientů jednotlivých nepohyblivých rádiových zařízení využívajících kmitočet v obsluhované oblasti zvýšený o hodnotu 1,5.\nkde je\nCb=S2×K1×K4\nVýpočet:\nVýpočet poplatku Cb\nK3 = 1 do 10 W povoleného maximálního efektivního vyzářeného výkonu včetně\nK3 = 2 nad 10 W povoleného maximálního efektivního vyzářeného výkonu\nK3 Koeficient vyzářeného výkonu pohyblivých rádiových zařízení\nK2 = 1,5 poloměr do 5 km včetně\nK2 = 2 poloměr nad 5 km do 25 km včetně\nK2 = 5 poloměr nad 25 km do 70 km včetně\nK2 = 11 poloměr nad 70 km do 150 km včetně\nK2 = 15 poloměr nad 150 km\nK2 Koeficient poloměru obsluhované oblasti\nK1 = 1pro 1 kHz\nTento koeficient se vypočte z šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.\nC Poplatek za využívání jednoho rádiového kmitočtu\nkde je\nC=Ca+Cb\nVýpočet:\nPoplatek za využívání rádiového kmitočtu je součtem poplatku za využívání jednoho rádiového kmitočtu pohyblivými rádiovými zařízeními a poplatku za využívání jednoho rádiového kmitočtu nepohyblivými rádiovými zařízeními.\nA 2.2 Ostatní rádiové sítě\nPOPČR počet obyvatel České republiky\nPOPreg počet obyvatel regionu nebo lokality, která je určena v podmínkách přídělu\nkde je\nKr=POPregPOPČR\nVýše koeficientu se vypočte na základě vzorce:\nKr Koeficient regionálního rozsahu sítě\nK16 Koeficient kmitočtového pásma\nK16 = 1 pro f < 2,2 GHz\nK16 = 0,2 pro f ≥ 2,2 GHz\nK1 = 1pro 1 kHz\nTento koeficient se vypočte z šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.\nK1 Koeficient využívané šířky kmitočtového pásma.\nS1=1600 Kč\nS1 Sazba za 1 kHz využívané šířky kmitočtového pásma\nC Poplatek za využívání jednoho rádiového kmitočtu\nkde je\nC=S1×K1×K16×Kr\nVýpočet:\nRegionálními a lokálními rádiovými sítěmi se pro účely zpoplatnění rozumí rádiové sítě, ve kterých jsou rádiové kmitočty využívány rádiovými zařízeními na vymezeném území České republiky podle podmínek přídělu rádiových kmitočtů, za účelem poskytování veřejně dostupných služeb elektronických komunikací.\nA 2.1 Regionální a lokální rádiové sítě\nKč ročně dle výpočtu\nA. 2. Ostatní rádiové sítě pozemní pohyblivé služby\nK16 Koeficient kmitočtového pásma\nK16 = 1 pro f < 2,2 GHz\nK16 = 0,2 pro f ≥ 2,2 GHz\nK1 = 1 pro 1 kHz\nK1 = 0,25 pro 1 kHz v kmitočtovém pásmu 380-385/390-395 MHz\nTento koeficient se vypočte z šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.\nK1 Koeficient využívané šířky kmitočtového pásma.\nS1=1600 Kč\nS1 Sazba za 1 kHz využívané šířky kmitočtového pásma\nC Poplatek za využívání jednoho rádiového kmitočtu\nkde je\nC=S1×K1×K16\nVýpočet:\nCeloplošnými rádiovými sítěmi se pro účely zpoplatnění rozumí sítě, ve kterých jsou rádiové kmitočty využívány rádiovými zařízeními na celém území České republiky. Mezi celoplošné rádiové sítě pozemní pohyblivé služby nepatří rádiové sítě s celostátně využívaným rádiovým kmitočtem pouze pro pohyblivá rádiová zařízení. Celoplošnými rádiovými sítěmi se dále rozumí i rádiové sítě, jejichž prostřednictvím jsou zajišťovány důležité zájmy státu.\nKč ročně dle výpočtu\nA.1. Celoplošné rádiové sítě\n„A. POZEMNÍ POHYBLIVÁ SLUŽBA\nV položce 1 přílohy k nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb., nařízení vlády č. 156/2011 Sb. a nařízení vlády č. 175/2012 Sb., část A zní:"
+    },
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "K1 Koeficient využívané šířky kmitočtového pásma.\nS2=100 Kč\nS2 Sazba za 1 kHz využívané šířky kmitočtového pásma\nkde je\nCa=S2×K1×K2×K3\nVýpočet:\nVýpočet poplatku Ca se použije rovněž pro nepohyblivá elektronická komunikační zařízení v sítích dálkového ovládání a signalizace.\nPro účely součinnosti základních složek integrovaného záchranného systému na vyhrazených součinnostních rádiových kmitočtech vymezených v Plánu využití rádiového spektra se stanoví koeficient K2 = 1 bez ohledu na velikost poloměru obsluhované oblasti.\nPoplatek se vyměří bez ohledu na počet pohyblivých rádiových zařízení v síti. Obsluhovanou oblastí pro daný rádiový kmitočet se pro účely výpočtu poplatku rozumí územní oblast, která je určena zeměpisnými souřadnicemi středu oblasti a svým poloměrem (maximální vzdáleností pohyblivých rádiových zařízení od středu územní oblasti, ve které mohou být provozována). Při stanovování obsluhované oblasti se vychází z technických parametrů rádiové sítě s ohledem na zajištění nerušeného provozu ostatních rádiových sítí. Obsluhovanou oblast může určit Úřad, není-li stanovena v souladu s výše uvedenými parametry.\nVýpočet poplatku Ca\nCb Poplatek za využívání kmitočtu vysílaného nepohyblivými rádiovými zařízeními, který je závislý na vyzářených výkonech jednotlivých nepohyblivých rádiových zařízení\nCa Poplatek za využívání rádiového kmitočtu vysílaného pohyblivými rádiovými zařízeními v rámci obsluhované oblasti, který je závislý na velikosti obsluhované oblasti a vyzářeném výkonu pohyblivých rádiových zařízení"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Regionálními a lokálními rádiovými sítěmi",
+      "definition": "rádiové sítě, ve kterých jsou rádiové kmitočty využívány rádiovými zařízeními na vymezeném území České republiky podle podmínek přídělu rádiových kmitočtů, za účelem poskytování veřejně dostupných služeb elektronických komunikací",
+      "source_provision": "Čl. II"
+    },
+    {
+      "term": "Celoplošnými rádiovými sítěmi",
+      "definition": "sítě, ve kterých jsou rádiové kmitočty využívány rádiovými zařízeními na celém území České republiky",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

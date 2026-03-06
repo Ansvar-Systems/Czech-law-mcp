@@ -1,0 +1,41 @@
+{
+  "id": "cz:53/2011",
+  "type": "statute",
+  "title": "53/2011 Sb., Vyhláška, kterou se mění vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "53/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-03-10",
+  "in_force_date": "2011-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2011/53",
+  "description": "Vyhláška, kterou se mění vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací, ve znění vyhlášky č. 231/2008 Sb. a vyhlášky č. 267/2009 Sb., se mění takto:\n1. V § 1 odst. 2 se slova „veřejných sítí elektronických komunikací“ nahrazují slovy „veřejných komunikačních sítí“.\n2. V § 7 odstavec 1 zní:\n„(1) Symetrickým číslem se pro účely této vyhlášky rozumí telefonní číslo, jehož symetrie je vymezena středovou číslicí.“.\n3. V § 10 se na konci textu odstavce 1 doplňují slova „, a to v řadě 1 000 čísel a jejích násobcích pro veřejné pevné telefonní sítě a v řadě 10 000 čísel a jejích násobcích pro veřejné mobilní telefonní sítě“.\n4. V § 10 se na konci textu odstavce 2 doplňují slova „, a to v řadě 10 000 čísel a jejích násobcích“.\n5. V § 10 se odstavec 5 zrušuje.\n6. V § 26 se slova „veřejných sítí elektronických komunikací“ nahrazují slovy „veřejných komunikačních sítí“.\n7. Za část osmou se vkládá nová část devátá, která včetně nadpisu zní:"
+    },
+    {
+      "provision_ref": "§ 27a",
+      "section": "27a",
+      "title": "§ 27a",
+      "chapter": "„ČÁST DEVÁTÁ - PŘENOSITELNOST ČÍSEL",
+      "content": "(1) Geografická telefonní čísla lze přenášet jen v příslušné číslovací oblasti, jejíž kód TC uvedený v příloze č. 1 se shoduje s první nebo s první i druhou číslicí telefonního čísla.\n(2) Blok telefonních čísel určených pro připojení telekomunikačního koncového zařízení ve funkci pobočkové ústředny k veřejné pevné telefonní síti lze ze sítě, ke které je v době přenášení připojeno, přenášet do veřejné pevné telefonní sítě jiného operátora pouze jako celý blok.\n(3) Blok telefonních čísel určených pro připojení telekomunikačního koncového zařízení ve funkci pobočkové ústředny k veřejné mobilní telefonní síti lze ze sítě, ke které je v době přenášení připojeno, přenášet do veřejné mobilní telefonní sítě jiného operátora pouze jako celý blok.\n(4) Mezinárodní identifikátor účastníka mobilní telefonní sítě (IMSI) je nepřenositelný.\n(5) Nepřenositelná jsou\na) čísla pro přístup ke službě využívaná současně ve veřejných komunikačních sítích více operátorů,\nb) zkrácená telefonní čísla,\nc) čísla s přístupovým kódem ke službě (SAC) 800 a číslicemi A=0, B=0,\nd) čísla se směrovacím kódem 701, 93, 960 až 969, 970 a 977,\ne) čísla s přístupovým kódem 972 až 974, 980, 983 a 9890 až 9899 a\nf) jednotlivá čísla z přiděleného bloku čísel s přístupovým kódem 9500 až 9599.“.\nDosavadní část devátá se označuje jako část desátá.\n8. V příloze č. 1 bod 6 zní:\n„6. Přístupové kódy k síti elektronických komunikací\nPřístupové kódy\nk síti\n(DNe) Síť elektronických\nkomunikací Číslice\nnásledující po přístupovém\nkódu Poznámky\nABCD\n600Rezerva pro veřejné mobilní sítě\n601 až 608Veřejná mobilní telefonní síťNelze použít pro poskytování veřejně dostupné telefonní služby v pevném místě.\n609, 620 až 699Rezerva pro veřejné mobilní sítě\n61Rezerva pro veřejné komunikační sítě určené pro přístup ke konvergovaným službám\n700Veřejná síť univerzálních osobních telekomunikací (UPT) podle doporučení ITU-T E.168, ITU-T F.851 a ITU-T F.852\n702 až 705Veřejná mobilní telefonní síťNelze použít pro poskytování veřejně dostupné telefonní služby v pevném místě.\n706 až 719Rezerva pro veřejné mobilní sítě\n72,73Veřejná mobilní telefonní síťNelze použít pro poskytování veřejně dostupné telefonní služby v pevném místě.\n74 až 76Rezerva pro veřejné mobilní telefonní sítě\n77Veřejná mobilní telefonní síťNelze použít pro poskytování veřejně dostupné telefonní služby v pevném místě.\n78Rezerva pro veřejné mobilní sítě\n7900 až 7999Veřejná mobilní telefonní síťNelze použít pro poskytování veřejně dostupné telefonní služby v pevném místě.\n910Veřejné komunikační sítě určené pro přenos hlasu prostřednictvím internetového protokolu\n911 až 919Rezerva pro veřejné komunikační sítě určené pro přenos hlasu prostřednictvím internetového protokolu\n971Přístup k síti Internet prostřednictvím poskytovatele přístupu ke službě\n976Přístup k veřejné datové síti a k síti Internet\ns vyjádřenou cenou prostřednictvím poskytovatele přístupu ke službě++Kombinace číslic A, B určuje výši ceny volání za minutu v Kč vč. DPH.\nPokud A=0, pak B≠0.\n\n“.\n9. V příloze 1 v bodu 10 se podbody 10.1, 10.4 a 10.7 zrušují.\nDosavadní podbody 10.2, 10.3, 10.5, 10.6 a 10.8 se označují jako podbody 10.1 až 10.5."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„ČÁST DEVÁTÁ - PŘENOSITELNOST ČÍSEL",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. března 2011 s výjimkou ustanovení čl. I bodu 8, pokud jde o přístupové kódy k síti 702 až 719, které nabývá účinnosti dnem 1. srpna 2011."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Symetrickým číslem",
+      "definition": "telefonní číslo, jehož symetrie je vymezena středovou číslicí",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:1597/1946",
+  "type": "statute",
+  "title": "1597/1946 Ú. l. I, Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi Československou republikou a hospodářskou unií belgicko- lucemburskou.",
+  "title_en": "",
+  "short_name": "1597/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-08-07",
+  "in_force_date": "1947-02-07",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1597",
+  "description": "Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi Československou republikou a hospodářskou unií belgicko- lucemburskou.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Běžné platy z Československé republiky do belgické měnové oblasti lze konati v belgických francích nebo československých korunách.\n(2) Běžné platy z belgické měnové oblasti do Československé republiky lze konati v československých korunách nebo belgických francích.\n(3) Belgickou měnovou oblastí se rozumí Belgie, velkovévodství Lucemburské, Belgické Kongo a mandátní území Ruanda-Urundi.\n(4) Pro vzájemný přepočet obou měn platí kurs úředně stanovený."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Běžnými platy podle tohoto opatření jsou platy za:\n1. dodávky zboží,\n2. výlohy všeho druhu týkající se zboží, jako výlohy, dopravní, pojišťovací, uskladňovací, vyclívací, výrobní, zušlechťovací, za opracování atd.,\n3. jiné běžné platy:\na) výlohy a výtěžky vyplývající z transitního obchodu,\nb) výlohy s dopravou po lodích belgických nebo československých, včetně najímání lodí,\nc) výlohy obchodního zastoupení a reklamy, provise, dohodné,\nd) periodická vyrovnání poštovních, telegrafních a telefonních správ a veřejných dopravních podniků, včetně dopravy letecké,\ne) udržování míst diplomatických a konsulárních, včetně služného diplomatů a personálu,\nf) výlohy cestovní, udržovací, pobytu, školného a léčebného,\ng) patentní práva a poplatky, licence, tovární značky, autorská práva a odměny za jiné intelektuální obdobné výkony,\nh) mzdy, platy a honoráře, příspěvky a podpory sociálního pojištění, pense a renty z pracovních smluv, z použití neb nájmu služeb,\ni) prémie a náhrady z pojištění a zajištění,\nj) daně, pokuty, soudní náklady, výlohy a příjmy veřejných správ,\nk) poplatky, příspěvky, předplatné a jiné podobné výlohy,\nl) všechny pohledávky, které by z jakéhokoliv důvodu nebyly splaceny podle úpravy platů, platné před 3. dubnem 1946, pokud půjde o transakce spadající do rámce běžných platů uvedených podle bodů 1, 2, 3, písmena a) až k),\nm) ostatní platy, které by byly připuštěny po vzájemné dohodě příslušných úřadů obou zemí."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "(1) Pro platy podle tohoto opatření platí obecné devisové předpisy.\n(2) Pro úhrady do belgické měnové oblasti a likvidaci úhrad z belgické měnové oblasti platí podmínky Národní banky Československé pro nákup a prodej cizozemských platidel a pro provádění úhrad do ciziny a z ciziny."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Tato úprava platebního styku mezi Československou republikou a hospodářskou unií belgicko-lucemburskou platí od 1. dubna 1946.\nV Praze dne 22. července 1946."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Belgickou měnovou oblastí",
+      "definition": "Belgie, velkovévodství Lucemburské, Belgické Kongo a mandátní území Ruanda-Urundi",
+      "source_provision": "Čl. 1."
+    }
+  ]
+}

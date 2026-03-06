@@ -1,0 +1,57 @@
+{
+  "id": "cz:297/2012",
+  "type": "statute",
+  "title": "297/2012 Sb., Vyhláška o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení, a o náležitostech hlášení ukončení těhotenství porodem mrtvého dítěte, o úmrtí dítěte a hlášení o úmrtí matky (vyhláška o Listu o prohlídce zemřelého)",
+  "title_en": "",
+  "short_name": "297/2012 Sb.",
+  "status": "in_force",
+  "issued_date": "2012-09-13",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2012/297",
+  "description": "Vyhláška o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení, a o náležitostech hlášení ukončení těhotenství porodem mrtvého dítěte, o úmrtí dítěte a hlášení o úmrtí matky (vyhláška o Listu o prohlídce zemřelého)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) List o prohlídce zemřelého (dále jen „List“) se člení na části A a B.\n(2) List se vyplňuje\na) do elektronické šablony umožňující elektronické předání, nebo\nb) do vytištěné podoby elektronické šablony nebo do propisovacího formuláře (dále jen „listinná podoba“).\n(3) Náležitosti Listu a způsob jeho vyplňování jsou stanoveny v příloze k této vyhlášce. Zemřelým se pro potřeby vyplnění Listu rozumí i mrtvě narozené dítě."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Nejde-li o případ, kdy je zákonem o zdravotních službách stanovena povinnost provést pitvu nebo nebylo určeno provedení pitvy, předává se List takto:\na) část A Ústavu zdravotnických informací a statistiky České republiky, a to po ukončení všech šetření souvisejících se zjištěním příčin a okolností úmrtí, nejpozději však do 30 dnů ode dne úmrtí, popřípadě ode dne nálezu těla zemřelého; kopie této části se ukládá do zdravotnické dokumentace vedené o zemřelém poskytovatelem zdravotních služeb, jehož lékař provedl prohlídku těla zemřelého,\nb) část B, a to\n1. část B1 matričnímu úřadu podle zákona o matrikách1),\n2. část B2 osobě zajišťující pohřbení2),\n3. část B3 provozovateli pohřební služby zajišťující pohřbení2).\n(2) Jde-li o případ, kdy je zákonem o zdravotních službách stanovena povinnost provést pitvu nebo bylo určeno provedení pitvy, předává se List poskytovateli zdravotních služeb, v jehož zdravotnickém zařízení má být provedena pitva, osobě zajišťující pohřbení2) a provozovateli pohřební služby zajišťující převoz na pitvu2).\n(3) Po provedení pitvy se předává List takto:\na) část A Ústavu zdravotnických informací a statistiky České republiky, a to po ukončení všech šetření souvisejících se zjištěním příčin a okolností úmrtí, nejpozději však do 30 dnů ode dne úmrtí, popřípadě ode dne nálezu těla zemřelého; kopie této části se ukládá do zdravotnické dokumentace vedené o zemřelém poskytovatelem zdravotních služeb, jehož lékař provedl pitvu,\nb) část B, a to\n1. část B1 matričnímu úřadu podle zákona o matrikách1),\n2. část B2 osobě zajišťující pohřbení2),\n3. část B3 provozovateli pohřební služby zajišťující pohřbení2).\n(4) V případě rozhodnutí o neprovedení pitvy se odstavec 3 použije obdobně."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Část A Listu se předává Ústavu zdravotnických informací a statistiky České republiky elektronicky ve formátu xml s využitím zabezpečeného datového protokolu nebo v listinné podobě.\n(2) Část B1 Listu se matričnímu úřadu předává v listinné podobě nebo v elektronické podobě ve formátu PDF dokumentu verze 1.7 a vyšší podepsaná uznávaným elektronickým podpisem lékaře, který prohlídku těla zemřelého provedl.\n(3) Část B2 Listu se předává osobě zajišťující pohřbení a část B3 Listu provozovateli pohřební služby zajišťující pohřbení způsobem s nimi dohodnutým. V Listu části B2 určené osobě zajišťující pohřbení se neuvádí rodné číslo."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Náležitosti hlášení o ukončení těhotenství porodem mrtvého dítěte, hlášení o úmrtí dítěte a hlášení o úmrtí matky v souvislosti s porodem, potratem, šestinedělím nebo o úmrtí do 1 roku po ukončení těhotenství, které se provádí prostřednictvím Listu části A, jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Opravy Listu se provedou vyplněním jeho příslušné části, jestliže jsou zjištěny\na) na základě provedených diagnostických vyšetření nebo šetření orgánů činných v trestním řízení dodatečně skutečnosti, které nejsou v předaných částech Listu uvedené, nebo\nb) chyby podstatné pro správnost vyplnění již předaných částí Listu.\n(2) V opraveném Listu, a to v příslušné části A nebo B, se vyznačí, že jde o opravu zaškrtnutím položky „Oprava“; zároveň se výrazně označí opravená položka. Část A nebo B opraveného Listu se opět předává místu určení podle § 2, a to buď elektronicky nebo v listinné podobě. Příslušná část Listu je na místě určení nahrazena nově vyplněnou částí Listu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Vyhláška č. 289/2012 Sb., o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení (vyhláška o Listu o prohlídce zemřelého), se zrušuje."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.\nPříloha k vyhlášce č. 297/2012 Sb.\n1) Zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.\n2) Zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,108 @@
+{
+  "id": "cz:200/2000",
+  "type": "statute",
+  "title": "200/2000 Sb., Vyhláška Ministerstva dopravy a spojů o způsobu tvorby volacích značek, jejich používání a o druzích radiokomunikačních služeb, pro které jsou vyžadovány",
+  "title_en": "",
+  "short_name": "200/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-07-19",
+  "in_force_date": "2000-07-19",
+  "url": "https://www.e-sbirka.cz/sb/2000/200",
+  "description": "Vyhláška Ministerstva dopravy a spojů o způsobu tvorby volacích značek, jejich používání a o druzích radiokomunikačních služeb, pro které jsou vyžadovány",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Pro účely této vyhlášky se rozumí\na) vysílacím rádiovým zařízením (dále jen „stanice“) - jeden nebo několik vysílačů nebo soubor vysílačů a přijímačů včetně zařízení jejich příslušenství potřebných k výkonu radiokomunikační služby,\nb) pevnou službou - radiokomunikační služba mezi stanovenými pevnými body,\nc) pevnou stanicí - stanice pevné služby,\nd) základnovou stanicí - pozemní stanice pozemní pohyblivé služby,\ne) pobřežní stanicí - pozemní stanice námořní pohyblivé služby nebo radiotelefonní služby na vnitrozemských vodních cestách,\nf) leteckou stanicí - pozemní stanice letecké pohyblivé služby,\ng) pohyblivou pozemní stanicí - stanice pozemní pohyblivé služby určená k užívání za pohybu nebo při zastávkách na předem neurčených místech,\nh) lodní stanicí - pohyblivá stanice námořní pohyblivé služby nebo radiotelefonní služby na vnitrozemských vodních cestách umístěná na plavidle, které není trvale spojeno s pevninou,\ni) letadlovou stanicí - pohyblivá stanice letecké pohyblivé služby umístěná na palubě letadla,\nj) stanicí amatérské radiokomunikační služby - vysílací rádiová stanice amatérské radiokomunikační služby,1)\nk) námořní pohyblivou službou - radiokomunikační služba mezi pobřežními stanicemi a mezi lodními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu námořní plavby,\nl) radiotelefonní službou na vnitrozemských vodních cestách - radiokomunikační služba mezi lodními stanicemi a pobřežními stanicemi nebo mezi pobřežními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu vnitrozemské plavby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Volací značky",
+      "content": "(1) Provozovatelé stanic provozovaných na území České republiky a provozovatelé stanic českých subjektů provozovaných mimo území České republiky používají při vysílání volací značky, s výjimkou případů uvedených v odstavci 4. Volací značka je každé poznávací označení stanice, které má umožnit zjištění její totožnosti během vysílání.\n(2) Volací značka se přiděluje provozovateli stanice v povolení k provozování vysílacího rádiového zařízení.\n(3) Volací značky jsou podle způsobu používání stanice stanoveného v odstavci 1 mezinárodní a vnitrostátní.\n(4) Bez volací značky lze provozovat\na) stanice k řízení modelů a hraček, lékařské radiosondy a zařízení určená k přenosu ovládacích nebo měřicích signálů pomocí elektromagnetického pole vytvořeného tímto zařízením,\nb) stanice provozované na základě generální licence,\nc) jiné stanice, u nichž Český telekomunikační úřad (dále jen „Úřad“) netrvá na provozování s volací značkou."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přidělování volacích značek",
+      "content": "(1) Úřad nepřidělí stejnou volací značku dvěma nebo více provozovatelům stanic.\n(2) Úřad nepřidělí volací značky, které by mohly být zaměněny s tísňovými signály (SOS/MAYDAY), s pilnostními signály (XXX/PANPAN), s bezpečnostními signály (TTT/SÉCURITÉ) nebo s kódovými zkratkami Q-kódu. Q-kódem se označuje kódová skupina tří písmen začínající vždy písmenem Q, která má určitý konkrétní, mezinárodně dohodnutý význam.\n(3) Při přidělování volací značky přihlédne Úřad k návrhu žadatele na přidělení určité volací značky uplatněnému při podání žádosti o povolení k provozování vysílacích rádiových zařízení. Jestliže Úřad požadovanou volací značku již přidělil nebo je-li to účelné z hlediska identifikace různých skupin uživatelů stanic, rozhodne Úřad o přidělení volací značky z dosud nepoužitých volacích značek.\nPoužívání volacích značek"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Provozovatel stanice vysílá volací značku na začátku a na konci vysílání. Trvá-li spojení déle než pět minut, zařadí operátor vlastní volací značku po pěti minutách.\n(2) Provozovatel stanice vysílá volací značky tak, aby je bylo možno zachytit spolu se základním vysíláním bez jakýchkoliv zvláštních zařízení.\n(3) Používá-li provozovatel stanice superponovanou mezinárodní volací značku, musí jí předcházet Q-kód QTT. Superponovaná značka je doplňková informace přenášená na pozadí užitečného signálu, která přímo nesouvisí s obsahem původní přenášené informace."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) V radiotelegrafním provozu provozovatel stanice vysílá mezinárodní volací značky ve formě znaků Morseovy abecedy.\n(2) V radiodálnopisném provozu provozovatel stanice vysílá mezinárodní volací značky ve formě znaků telegrafní abecedy.\n(3) V radiotelefonním provozu provozovatel stanice jednotlivá písmena a číslice vyslovuje\na) ve vnitrostátní službě odděleně česky, číslice následující za písmeny však lze vyslovovat i jako souborná čísla,\nb) v mezinárodní službě odděleně anglicky, a to podle hláskovací tabulky uvedené v příloze."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Slovní výrazy, názvy a jména ve vnitrostátních volacích značkách provozovatel stanice vyslovuje jako celá slova. Imatrikulační značky letadel hláskuje česky, popř. anglicky podle hláskovací tabulky. Číslice vyslovuje jednotlivě, u stanic jiných než letadlových je lze vyslovovat též jako souborná čísla.\nMezinárodní volací značky"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Provozovatelé stanic pracujících radiotelegraficky, stanic otevřených pro mezinárodní veřejnou korespondenci, stanic amatérské radiokomunikační služby, stanic pokusných a jiných stanic, které by mohly působit škodlivé rušení za hranicemi České republiky, používají mezinárodní volací značky. Těmto stanicím se nepřidělí mezinárodní volací značky, pokud lze z příjmu vysílání v zahraničí zjistit jejich totožnost i jiným způsobem, např. ze zvukového nebo obrazového obsahu vysílání.\n(2) Používá-li provozovatel pevné, pozemní nebo rozhlasové stanice v mezinárodní službě více než jednoho kmitočtu, může Úřad pro každý kmitočet (u pobřežní stanice pro každou skupinu kmitočtů) přidělit odlišnou mezinárodní volací značku."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Mezinárodní volací značky tvoří kombinace písmen, popř. písmen a číslic, přičemž lze použít\npísmen: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,\nčíslic: 0 1 2 3 4 5 6 7 8 9.\n(2) V mezinárodních volacích značkách tvoří první dvě písmena vždy dvojice písmen OK nebo OL. Bezprostředně za písmeny nelze použít číslic 0 a 1, s výjimkou volacích značek stanic amatérské radiokomunikační služby.\n(3) Úřad přidělí pro jednotlivé druhy stanic pouze mezinárodní volací značky vytvořené podle těchto zásad:\na) pevné stanice: tři písmena, z nichž první dvě jsou OK nebo OL, za nimiž mohou následovat nejvýše tři číslice,\nb) základnové stanice: tři písmena, z nichž první dvě jsou OL, za nimiž mohou následovat nejvýše tři číslice,\nc) pobřežní stanice: tři písmena, z nichž první dvě jsou OL, za nimiž může následovat jedna číslice,\nd) letecké stanice: tři písmena, z nichž první dvě jsou OK, za nimiž mohou následovat nejvýše dvě číslice,\ne) pohyblivé pozemní stanice:\n1. buď čtyři písmena, z nichž první dvě jsou OL, a jedna číslice (v radiotelefonním a radiotelegrafním provozu), jako třetí písmeno není možno použít písmena G, H, L, O, U a V,\n2. nebo písmena OL a čtyři číslice (v radiotelefonním provozu),\nf) lodní stanice:\n1. pouze s radiotelefonním provozem: dvojice písmen OL následovaná čtyřmi číslicemi nebo jedním písmenem a čtyřmi číslicemi,\n2. ostatní: čtyři písmena, z nichž první dvě jsou OL a jako třetí se používá u námořních lodí písmeno G nebo H a u vnitrozemských plavidel písmeno L, O, U nebo V,\ng) stanice na lodních záchranných člunech: volací značka mateřské lodi a dvě číslice,\nh) letadlové stanice: pět písmen, z nichž první dvě jsou OK a další tři písmena jsou shodná s písmeny imatrikulační značky letadla,\ni) stanice letadlových záchranných člunů: volací značka mateřského letadla a jedna číslice,\nj) stanice amatérské radiokomunikační služby: OK0 až OK8 a jedno, dvě nebo tři písmena, nebo OL0 až OL9 a jedno, dvě nebo tři písmena, přičemž\n1. volací značky OK8 a dvě nebo tři písmena se přidělují cizincům vysílajícím z území České republiky,\n2. volací značky OK0 a dvě nebo tři písmena se přidělují výjimečně pouze k mimořádným účelům,\n3. volací značky OL0 až OL9 a jedno písmeno se přidělují pouze pro účely mezinárodních amatérských závodů,\n4. volací značky OL0 až OL9 a dvě nebo tři písmena se přidělují pouze z mimořádných důvodů a jen na dobu trvání těchto důvodů,\nk) pokusné stanice: OK9 a dvě nebo tři písmena."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Vnitrostátní volací značky",
+      "content": "(1) Vnitrostátní volací značky používají provozovatelé stanic pracujících ve vnitrostátním styku.\n(2) Jako vnitrostátní volací značky Úřad přidělí\na) kombinace písmen, popř. písmen a číslic, odlišné od kombinací používaných ve volacích značkách mezinárodních, přičemž lze použít\npísmena: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,\nčíslice: 0 1 2 3 4 5 6 7 8 9,\nb) jednoslovné výrazy, za nimiž mohou následovat číslice, jako slovní výraz však nemohou být použita slova s vulgárním obsahem,\nc) názvy stanic, místní názvy nebo jména provozovatelů, za nimiž mohou následovat číslice,\nd) u letadlových stanic\n1. mezinárodní volací značku letadlové stanice, jíž předchází buď radiotelefonní zkratka provozovatele letadla nebo označení typu letadla,\n2. radiotelefonní zkratku provozovatele letadla, za níž je zařazeno pořadové číslo letu,\n3. imatrikulační značku, popř. zvláštní značku letadla,\ne) volací čísla nebo signály stanic pro selektivní volání.\n(3) Používá-li provozovatel stanice více než jeden kmitočet, může Úřad po dohodě s provozovatelem pro každý kmitočet přidělit odlišnou volací značku."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Přechodná ustanovení",
+      "content": "(1) Platnost ostatních volacích značek přidělených podle dosavadních právních předpisů se nemění.\n(2) Volací značky přidělené Úřadem provozovateli podle dosavadních právních předpisů, které jsou v rozporu s ustanoveními této vyhlášky, lze použít nejdéle po dobu 6 měsíců ode dne účinnosti této vyhlášky, pokud provozovateli nebyla do té doby přidělena jiná volací značka."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Zrušovací ustanovení",
+      "content": "Zrušuje se opatření Federálního ministerstva spojů č. 14/1972 (předpis č. j. 11018/71-R/1) o volacích značkách vysílacích rádiových stanic, registrované v částce 6/1972 Sb."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 200/2000 Sb.\nHláskovací tabulka\nPísmenoČeskyAnglicky [výslovnost]\nAAdamAlpha [alfa]\nBBoženaBravo [brávou]\nCCyrilCharlie [čárli]\nČČeněk-\nDDavidDelta\nĎĎáblice-\nEEmilEcho [ekou]\nFFrantišekFoxtrot\nGGustavGolf\nHHelenaHotel [houtel]\nCHChrudim-\nIIvanIndia [indja]\nJJosefJuliett [džúljet]\nKKarelKilo [kílou]\nLLudvíkLima\nĽĽubochňa-\nMMarieMike [majk]\nNNorbertNovember [novembr]\nŇNina\nOOto (Otakar)Oscar [oskr]\nPPetrPapa [papá]\nQQuido [vysl. Kvído]Quebec [kvíbek]\nRRudolfRomeo [roumiou]\nŘŘehoř-\nSSvatoplukSierra\nŠŠimon-\nTTomášTango [tengou]\nŤTěšnov-\nUUrbanUniform [júnyfórm]\nVVáclavVictor [vyktr]\nWDvojité VWhisky [visky]\nXXaverX-Ray [eksrej]\nYYpsilonYankee [jenky]\nZZuzanaZulu [zúlú]\nŽŽofie-\n1) Vyhláška č. 201/2000 Sb., o technických a provozních podmínkách amatérské radiokomunikační služby."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vysílacím rádiovým zařízením (dále jen „stanice“) - jeden nebo několik vysílačů nebo soubor vysílačů a přijímačů včetně",
+      "definition": "zařízení jejich příslušenství potřebných k výkonu radiokomunikační služby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "pevnou službou - radiokomunikační",
+      "definition": "služba mezi stanovenými pevnými body",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "námořní pohyblivou službou - radiokomunikační",
+      "definition": "služba mezi pobřežními stanicemi a mezi lodními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu námořní plavby",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "radiotelefonní službou na vnitrozemských vodních cestách - radiokomunikační",
+      "definition": "služba mezi lodními stanicemi a pobřežními stanicemi nebo mezi pobřežními stanicemi navzájem sloužící k zajištění bezpečnosti a provozu vnitrozemské plavby.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

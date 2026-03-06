@@ -1,0 +1,51 @@
+{
+  "id": "cz:525/2020",
+  "type": "statute",
+  "title": "525/2020 Sb., Vyhláška o formulářových podáních pro daně z příjmů",
+  "title_en": "",
+  "short_name": "525/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-12-17",
+  "in_force_date": "2025-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/525",
+  "description": "Vyhláška o formulářových podáních pro daně z příjmů",
+  "provisions": [
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(3) Odstavce 1 a 2 se nepoužijí v případě formulářových podání vztahujících se k registraci.\n(2) Struktura formulářového podání pro daně z příjmů zveřejněná správcem daně přede dnem nabytí účinnosti této vyhlášky se považuje za zveřejněnou v souladu s touto vyhláškou.\n(1) Tiskopis formulářového podání pro daně z příjmů vydaný Ministerstvem financí přede dnem nabytí účinnosti této vyhlášky se považuje za vydaný v souladu s touto vyhláškou.\nPřechodná ustanovení"
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "d) se od tohoto vzoru v minimálním rozsahu odchyluje v důsledku obvyklých technologických postupů výroby tiskopisu.\nc) obsahuje odchylky v části textu, jejímž předmětem není požadavek na uvedení povinně sdělovaných údajů,\nb) obsahuje odlišný údaj o časovém období,\na) textová část je v jiném než českém jazyce,\nTiskopis formulářového podání vydaný Ministerstvem financí, popřípadě struktura formulářového podání zveřejněná správcem daně, se považuje za odpovídající vzoru podle § 2, popřípadě za odpovídající podrobnostem obecných náležitostí podání a údajů podle § 3 také v případě, že\nSpolečná ustanovení"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Formulářové podání podle § 2 lze elektronicky podat pouze ve formátu XML.\nFormát formulářového podání"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Podrobnosti obecných náležitostí podání a údajů požadovaných ve formulářovém podání, které jsou uvedeny ve vzoru podle § 2, se použijí také v rámci struktury formulářového podání zveřejněné správcem daně v případě, že je toto podání učiněno elektronicky.\nFormulářové podání podané elektronicky"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(2) Vzory podle odstavce 1 jsou uvedeny včetně případných pokynů k jejich vyplnění.\nq) žádosti podle zákona o daních z příjmů o poukázání chybějící částky vyplacené plátcem daně poplatníkům na doplatku na daňovém bonusu z ročního zúčtování záloh a daňového zvýhodnění je uveden v příloze č. 17 k této vyhlášce.\np) žádosti podle zákona o daních z příjmů o poukázání chybějící částky vyplacené plátcem daně poplatníkům na měsíčních daňových bonusech je uveden v příloze č. 16 k této vyhlášce,\no) oznámení o vstupu do paušálního režimu je uveden v příloze č. 15 k této vyhlášce,\nn) oznámení o příjmech plynoucích do zahraničí je uveden v příloze č. 14 k této vyhlášce,\nm) oznámení o přesouvání průměru upravených srovnávacích základů daně v rámci skupiny podniků s neočekávanými zisky je uveden v příloze č. 13 k této vyhlášce,\nl) přiznání k dani z neočekávaných zisků je uveden v příloze č. 12 k této vyhlášce,\nk) žádosti o zrušení registrace je uveden v příloze č. 11 k této vyhlášce,\nj) oznámení o změně registračních údajů je uveden v příloze č. 10 k této vyhlášce,\ni) přílohy k přihlášce k registraci (organizační složky obchodního závodu) je uveden v příloze č. 9 k této vyhlášce,\nh) přihlášky k registraci pro právnické osoby je uveden v příloze č. 8 k této vyhlášce,\ng) přihlášky k registraci pro fyzické osoby je uveden v příloze č. 7 k této vyhlášce,\nf) hlášení plátce daně o provedení srážky zajištění daně ze zdanitelných příjmů je uveden v příloze č. 6 k této vyhlášce,\ne) přiznání k dani z příjmů právnických osob je uveden v příloze č. 5 k této vyhlášce,\nd) vyúčtování daně vybírané srážkou podle zvláštní sazby daně z příjmů fyzických a právnických osob je uveden v příloze č. 4 k této vyhlášce,\nc) vyúčtování daně z příjmů ze závislé činnosti je uveden v příloze č. 3 k této vyhlášce,\nb) přiznání k dani z příjmů fyzických osob je uveden v příloze č. 2 k této vyhlášce,\na) přiznání k dani z příjmů fyzických osob pro poplatníky mající pouze příjmy ze závislé činnosti ze zdrojů na území České republiky (včetně daňových nerezidentů České republiky) je uveden v příloze č. 1 k této vyhlášce,\n(1) Vzor\nVzory formulářových podání"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "c) vzor formulářového podání.\nb) formát elektronického formulářového podání a\na) podrobnosti obecných náležitostí podání a požadovaných údajů,\nTato vyhláška stanoví v případě formulářových podání pro daně z příjmů\nPředmět úpravy"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:140/1998",
+  "type": "statute",
+  "title": "140/1998 Sb., Vyhláška Ministerstva práce a sociálních věcí, kterou se stanoví průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad",
+  "title_en": "",
+  "short_name": "140/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-06-25",
+  "in_force_date": "1998-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1998/140",
+  "description": "Vyhláška Ministerstva práce a sociálních věcí, kterou se stanoví průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Výše průměrných cen pohonných hmot pro účely poskytování cestovních náhrad činí:\nDruh pohonné hmoty:Cena v Kč:\nBenzin automobilový 91 0 Special22,00\nBenzin automobilový 96 0 Super23,10\nBenzin automobilový 95 0 Natural22,50\nMotorová nafta18,90."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 1998."
+    }
+  ],
+  "definitions": []
+}

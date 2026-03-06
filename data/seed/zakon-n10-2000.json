@@ -1,0 +1,27 @@
+{
+  "id": "cz:n10/2000",
+  "type": "statute",
+  "title": "n10/2000 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 188/2000 Sb. a v nálezu Ústavního soudu č. 291/1999 Sb.",
+  "title_en": "",
+  "short_name": "n10/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-08-28",
+  "in_force_date": "2000-08-28",
+  "url": "https://www.e-sbirka.cz/sb/2000/n10",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 188/2000 Sb. a v nálezu Ústavního soudu č. 291/1999 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 odst. 7 vyhlášky č. 188/2000 Sb. mají místo slov „v odstavci 3“ správně být slova „v odstavci 6“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V nálezu Ústavního soudu č. 291/1999 Sb. v části Odůvodnění na straně 4700 ve třetím odstavci shora mají místo slov „sp. zn. I. ÚS 48/90“ správně být slova „sp. zn. I. ÚS 48/99“."
+    }
+  ],
+  "definitions": []
+}

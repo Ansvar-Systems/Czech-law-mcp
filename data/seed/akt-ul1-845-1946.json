@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:845/1946",
+  "type": "statute",
+  "title": "845/1946 Ú. l. I, Vyhláška předsedy vlády o pořadí naléhavosti staveb.",
+  "title_en": "",
+  "short_name": "845/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-27",
+  "in_force_date": "1946-03-27",
+  "url": "https://www.e-sbirka.cz/ul1/1946/845",
+  "description": "Vyhláška předsedy vlády o pořadí naléhavosti staveb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Obnovovací a udržovací stavební práce, po případe práce na nových stavbách, pokud všech těchto prací je třeba pro dopravu, využití energie nebo poštovní spojení."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Obnova a výstavba provozně nezbytných, zejména speciálních zařízení průmyslových podniků, jako na př. vyzdívka vysoké pece, obnova kotelny, stavba továrního komínu, dopravní zařízení důlní, kalící pec a pod. Nejnaléhavější stavební práce ministerstva národní obrany."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Obnova nezbytných zemědělských usedlostí a zemědělských provozních zařízení včetně meliorací."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Obnova a po případě též výstavba objektů, jichž je třeba pro ubytování pracovních sil, zaměstnaných v nezbytné výrobě a příslušné administrativě, jakož i obnova a po případě výstavba potřebných zdravotních a sociálních zařízení."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Obnova ostatních obytných domů, veřejných budov a staveb nezbytně nutných ve veřejném zájmu, jako na př. kanalisace, vodovody a pod., včetně objektů vojenských."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "content": "6. Obnova a výstavba výroben, jejichž pořadí důležitosti a naléhavosti určí ministerstvo průmyslu."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "content": "7. Udržovací práce stavebního rázu."
+    },
+    {
+      "provision_ref": "Bod 8",
+      "section": "8",
+      "title": "Bod 8",
+      "content": "8. Dokončení rozestavěných staveb.\nPokud jde o oblasti mimořádného rozsahu zničení, zůstává v platnosti usnesení vlády z 21. srpna 1945, podle něhož tyto případy budou řešeny zvláště.\nO pořadí novostaveb značného hospodářského nebo sociálního významu, jejichž stavební náklad přesahuje 10 milionů Kčs, a o případech, kde vznikne pochybnost o zařazení stavby do výšeuvedeného pořadí naléhavosti, třeba vyžádati si dobré zdání koordinační komise pro stavebnictví u generálního sekretariátu Hospodářské rady, které jest závazné."
+    }
+  ],
+  "definitions": []
+}

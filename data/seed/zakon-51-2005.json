@@ -1,0 +1,27 @@
+{
+  "id": "cz:51/2005",
+  "type": "statute",
+  "title": "51/2005 Sb., Nařízení vlády, kterým se stanoví druhy a počet ptáků, pro které se vymezují ptačí oblasti",
+  "title_en": "",
+  "short_name": "51/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-01-31",
+  "in_force_date": "2005-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/51",
+  "description": "Nařízení vlády, kterým se stanoví druhy a počet ptáků, pro které se vymezují ptačí oblasti",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Druhy ptáků, včetně pravidelně se vyskytujících stěhovavých ptáků, pro které se vymezují ptačí oblasti, jsou stanoveny v příloze k tomuto nařízení.\n(2) Ptačí oblasti lze vymezit i pro další druhy stěhovavých vodních ptáků, pokud se na lokalitě vyskytuje více než 20 000 jedinců vodních ptáků bez ohledu na počet druhů a druhové složení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. února 2005.\nPříloha k nařízení vlády č. 51/2005 Sb.\nSeznam druhů ptáků, pro které se vymezují ptačí oblasti\nČeský názevLatinský název\nbukač velkýBotaurus stellaris\nbukáček malýIxobrychus minutus\nkvakoš nočníNycticorax nycticorax\nvolavka bíláEgretta alba\nvolavka stříbřitáEgretta garzetta\nvolavka červenáArdea purpurea\nčáp černýCiconia nigra\nčáp bílýCiconia ciconia\nkolpík bílýPlatalea leucorodia\nhusa polníAnser fabalis\nhusa běločeláAnser albifrons\nhusa velkáAnser anser\nkopřivka obecnáAnas strepera\nlžičák pestrýAnas clypeata\nzrzohlávka rudozobáNetta rufina\nvčelojed lesníPernis apivorus\nluňák hnědýMilvus migrant\nluňák červenýMilvus milvus\norel mořskýHaliaeetus albicilla\norel křiklavýAquila pomarina\norel královskýAquila heliaca\nmoták pochopCircus aeruginosus\nmoták lužníCircus pygargus\nmoták pilichCircus cyaneus\nsokol stěhovavýFalco peregrinus\nraroh velkýFalco cherrug\njeřábek lesníBonasa bonasia\ntetřívek obecnýTetrao tetrix\ntetřev hlušecTetrao urogallus\nchřástal kropenatýPorzana porzana\nchřástal malýPorzana parva\nchřástal polníCrex crex\njeřáb popelavýGrus grus\ndrop velkýOtis tarda\ndytík úhorníBurhinus oedicnemus\ntenkozobec opačnýRecurvirostra avosetta\nracek černohlavýLarus melanocephalus\nrybák obecnýSterna hirundo\nrybák černýChlidonias niger\nvýr velkýBubo bubo\nkulíšek nejmenšíGlaucidium passerinum\nkalous pustovkaAsio flammeus\npuštík bělavýStrix uralensis\nsýc rousnýAegolius funereus\nlelek lesníCaprimulgus europaeus\nledňáček říčníAlcedo atthis\nžluna šedáPicus canus\ndatel černýDryocopus martius\nstrakapoud jižníDendrocopos syriacus\nstrakapoud prostředníDendrocopos medius\nstrakapoud bělohřbetýDendrocopos leucotos\ndatlík tříprstýPicoides tridactylus\nskřivan lesníLullula arborea\nlinduška úhorníAnthus campestris\nslavík modráčekLuscinia svecica\nrákosník tamaryškovýAcrocephalus melanopogon\npěnice vlašskáSylvia nisoria\nlejsek malýFicedula parva\nlejsek bělokrkýFicedula albicollis\nťuhýk obecnýLanius collurio\nstrnad zahradníEmberiza hortulana"
+    }
+  ],
+  "definitions": []
+}

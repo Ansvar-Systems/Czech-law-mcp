@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1005/1946",
+  "type": "statute",
+  "title": "1005/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "title_en": "",
+  "short_name": "1005/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-04-11",
+  "in_force_date": "1948-11-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1005",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků průmyslu stavebních hmot a keramiky.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Bohemia, keramické závody a. s. (Bohemia, keramische Werke A. G.), se sídlem v Nové Roli, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku „Altrohlauer Porzellanfabriken Abt. der Porzellanfabrik C. M. Hutschenreuther Aktiengesellschaft“ se sídlem v Hohenbergu a. d. Eger (Amtsgericht Hof) — pokud jde o závody a majetek na území československého státu, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. majetkovou podstatu podniku Richter, Fenkel a Hahn, se sídlem v Chodově u Karlových Varů, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

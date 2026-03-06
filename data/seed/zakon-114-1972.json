@@ -1,0 +1,81 @@
+{
+  "id": "cz:114/1972",
+  "type": "statute",
+  "title": "114/1972 Sb., Vyhláška Federálního statistického úřadu o zavedení a využívání jednotné klasifikace výkonů",
+  "title_en": "",
+  "short_name": "114/1972 Sb.",
+  "status": "in_force",
+  "issued_date": "1972-12-28",
+  "in_force_date": "1974-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1972/114",
+  "description": "Vyhláška Federálního statistického úřadu o zavedení a využívání jednotné klasifikace výkonů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Jednotná klasifikace výkonů",
+      "content": "(1) Pro účely plánovitého řízení národního hospodářství a společnosti a pro sledování jejich rozvoje, dále pro vyjadřování bilančních vazeb a proporcí mezi výrobou a spotřebou a pro využívání výpočetní techniky při řízení národního hospodářství a v odběratelsko-dodavatelských vztazích se zavádí jednotná klasifikace výkonů (dále jen „klasifikace výkonů“).\n(2) Výkonem se pro účely této vyhlášky rozumí činnost hospodářské povahy nebo jiná činnost, záležející ve vykonávání určité funkce nebo působnosti, s vyloučením činností směřujících k vytváření nových materiálních statků.*)\n(3) Klasifikaci výkonů vydá Federální statistický úřad jako samostatnou publikaci.**) Základem třídění jsou obory výkonů (1. klasifikační stupeň), uvedené v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Rozsah platnosti klasifikace výkonů",
+      "content": "(1) Klasifikace výkonů je závazná pro všechny obory a okruhy informační soustavy organizací,***) pro získávání sociálně ekonomických informací za soubory organizací a osob metodami statistického zjišťování a zkoumání†) a dále zejména pro plánování a financování a pro dokumentaci o odběratelsko-dodavatelských vztazích.\n(2) Klasifikace výkonů slouží za základ i pro vydávání účelových nomenklatur výkonů určených pro speciální účely (např. tarifních, poplatkových a jiných sazebníků apod.); tyto nomenklatury musí mít na klasifikaci výkonů přímou návaznost. Účelové nomenklatury výkonů určené pro vnější styk mezi organizacemi mohou věcně příslušné orgány vydávat jen v odůvodněných případech a po předchozím schválení Federálním statistickým úřadem, jímž musí být schválen též způsob jejich využití."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Oborové číselníky výkonů",
+      "content": "(1) Ústřední orgány federace i republik††) vypracovávají podle potřeby v dohodě s Federálním statistickým úřadem a po projednání s ostatními zúčastněnými ústředními orgány, popř. i s hlavními odběrateli k určitému oboru výkonů spadajícímu do jejich působnosti podrobnější třídění formou oborového číselníku výkonů (dále jen „oborový číselník“), který tvoří součást klasifikace výkonů. Vytvářením oborových číselníků a jejich udržováním v aktuálním stavu mohou ústřední orgány se souhlasem Federálního statistického úřadu pověřit též některý podřízený orgán středního článku řízení nebo některou z podřízených organizací (gestor oborového číselníku).\n(2) V oborových číselnících pokračuje třídění výkonů až do takového stupně podrobnosti, který je nutný z hlediska vztahů mezi organizacemi, zejména pro úplnou identifikaci výkonů v odběratelsko-dodavatelských vztazích.\n(3) Oborové číselníky vyhlašuje v souladu s § 35 odst. 2 zákona č. 21/1971 Sb. Federální statistický úřad po projednání s věcně příslušným ústředním orgánem opatřeními oznámenými ve Sbírce zákonů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Využití klasifikace výkonů v informační soustavě organizací",
+      "content": "(1) Všechny socialistické a jiné organizace (dále jen „organizace“), vykonávající činnosti zahrnuté do klasifikace výkonů, sledují ve své informační soustavě podle oborů výkonů zejména ukazatele o výsledcích své činnosti, včetně ukazatelů hodnotových, a ukazatele o mzdách a ostatních nákladech, popř. další ukazatele, které stanoví Federální statistický úřad.\n(2) Organizace vstupující do odběratelsko-dodavatelských vztahů označují v objednávkách, v hospodářských smlouvách, v dodacích listech, na fakturách a v ostatních dokladech výkony, které jsou předmětem těchto vztahů, číselnými znaky podle klasifikace výkonů, a pokud jsou pro podrobnější třídění výkonů v příslušných oborech vydány oborové číselníky, též podle těchto číselníků."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Využití klasifikace výkonů při statistických zjišťováních",
+      "content": "Způsob využití klasifikace výkonů při provádění statistických zjišťování vztahujících se k výkonům upravují v jednotlivých případech zvláštní směrnice nebo pokyny Federálního statistického úřadu, popř. ústředního statistického orgánu republiky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Oznamovací povinnost",
+      "content": "Mají-li se stát nové, dosud nezatříděné výkony předmětem odběratelsko-dodavatelských vztahů, jsou dodavatelské, popř. dovážející organizace povinny oznamovat tyto případy běžně Federálnímu statistickému úřadu, popř. i příslušnému gestoru oborového číselníku (§ 3 odst. 1) a předkládat návrhy na zatřídění těchto výkonů do klasifikace výkonů (oborového číselníku), a to po předběžném projednání s ostatními dodavateli týchž výkonů, popř. i s hlavními odběrateli."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Provádění změn a doplňků klasifikace výkonů",
+      "content": "(1) Nutné dílčí změny a doplňky klasifikace výkonů provádí Federální statistický úřad opatřeními oznamovanými ve Sbírce zákonů a vyhlašuje je nejpozději souběžně s vydáním metodických pokynů Státní plánovací komise pro vypracování návrhů prováděcích plánů*) a s účinností od počátku následujícího roku. Navrhovatelé změn klasifikace výkonů jsou proto povinni své návrhy zaslat Federálnímu statistickému úřadu nejpozději do konce února běžného roku.\n(2) Ustanovení odstavce 1 platí obdobně i pro vyhlašování změn a doplňků oborových číselníků."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Povolování výjimek",
+      "content": "Výjimky z ustanovení § 2 a 4 může na návrh příslušného ústředního orgánu v odůvodněných případech povolit Federální statistický úřad."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Závěrečná ustanovení",
+      "content": "Dnem, kdy tato vyhláška nabude účinnosti, se zrušují směrnice Ústřední komise lidové kontroly a statistiky ze dne 31. července 1965 čj. 38 048/1965, o zavedení a využívání jednotného třídění prací výrobní povahy a jednotného třídění výkonů zahrnovaných do hodnoty společenského produktu,**) v části týkající se výkonů a část B přílohy k těmto směrnicím."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1974 s výjimkou ustanovení § 6, jež nabývá účinnosti dnem 1. července 1973.\nPříloha k vyhlášce č. 114/1972 Sb.\nJEDNOTNÁ SOUSTAVA SOCIÁLNĚ EKONOMICKÝCH KLASIFIKACÍ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Výkonem",
+      "definition": "činnost hospodářské povahy nebo jiná činnost, záležející ve vykonávání určité funkce nebo působnosti, s vyloučením činností směřujících k vytváření nových materiálních statků",
+      "source_provision": "§ 1"
+    }
+  ]
+}

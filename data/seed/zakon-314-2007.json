@@ -1,0 +1,39 @@
+{
+  "id": "cz:314/2007",
+  "type": "statute",
+  "title": "314/2007 Sb., Vyhláška o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců",
+  "title_en": "",
+  "short_name": "314/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-12-11",
+  "in_force_date": "2014-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/314",
+  "description": "Vyhláška o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje minimální limit pojistného plnění a minimální standardy pojistných smluv podle § 6 odst. 1 písm. f) a § 8 odst. 1 písm. c) zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Minimální limit pojistného plnění",
+      "content": "(1) Minimální limit pojistného plnění z pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s výkonem funkce insolvenčního správce podle insolvenčního zákona nebo s činností jeho zaměstnanců (dále jen „pojištění“), se pro fyzické osoby stanoví částkou 1 000 000 Kč; pro fyzické osoby, které mají právo vykonávat funkci insolvenčního správce dlužníka uvedeného v § 3 odst. 2 zákona, se stanoví částkou 10 000 000 Kč.\n(2) Minimální limit pojistného plnění z pojištění se pro veřejné obchodní společnosti a zahraniční společnosti stanoví jako součet částek, které by byly stanoveny jednotlivým ohlášeným společníkům podle odstavce 1.\n(3) Minimální limit pojistného plnění z pojištění se stanoví pro jednu pojistnou událost."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Minimální standardy pojistných smluv",
+      "content": "Pojištění se vztahuje na odpovědnost insolvenčního správce za škodu, která je způsobena jeho konáním nebo opomenutím při výkonu funkce insolvenčního správce nebo v souvislosti s ní nebo konáním nebo opomenutím jeho zaměstnanců při výkonu jeho funkce, pokud ke konání nebo opomenutí došlo v době trvání pojištění."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2008."
+    }
+  ],
+  "definitions": []
+}

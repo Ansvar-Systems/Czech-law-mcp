@@ -1,0 +1,39 @@
+{
+  "id": "cz:237/2002",
+  "type": "statute",
+  "title": "237/2002 Sb., Vyhláška Ministerstva životního prostředí o podrobnostech způsobu provedení zpětného odběru některých výrobků",
+  "title_en": "",
+  "short_name": "237/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-06-10",
+  "in_force_date": "2005-09-15",
+  "url": "https://www.e-sbirka.cz/sb/2002/237",
+  "description": "Vyhláška Ministerstva životního prostředí o podrobnostech způsobu provedení zpětného odběru některých výrobků",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Tato vyhláška se vztahuje na všechny výrobky uvedené v § 38 odst. 1 písm. a) až e) zákona. Na elektrozařízení pocházející z domácností [§ 38 odst. 1 písm. f) zákona] se vztahují pouze ustanovení odstavce 3 a § 3.\n(2) Zpětným odběrem se rozumí odebírání použitých výrobků povinnými osobami od spotřebitelů1) bez nároku na úplatu za účelem jejich využití nebo odstranění.\n(3) Zpětný odběr se nevztahuje na výrobky, se kterými bylo nakládáno jako s odpadem2) již před jejich předáním povinné osobě.\n(4) Na nakládání s odpady, které se ze zpětně odebraných použitých výrobků podle odstavce 1 staly předáním provozovateli zařízení k jejich využití nebo odstranění, se vztahují povinnosti stanovené v zákoně a prováděcích právních předpisech k němu.3)\n(5) Pokud je výrobek součástí funkčního celku, považuje se za povinnou osobu k jeho zpětnému odběru výrobce výrobku nebo dovozce funkčního celku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zajištění informovanosti prodejce a spotřebitele",
+      "content": "(1) Povinná osoba obvyklým způsobem (např. v průvodní dokumentaci, na dodacím listu, letákem nebo elektronicky – internetem) zajistí informace o možnostech zpětného odběru svého výrobku právnické osobě nebo fyzické osobě oprávněné k podnikání, která prodává výrobky uvedené v § 38 odst. 1 zákona spotřebiteli, (dále jen „poslední prodejce“).\n(2) Informace o způsobu zajištění zpětného odběru, kterou předává spotřebiteli podle § 38 odst. 5 zákona poslední prodejce, musí minimálně obsahovat:\na) název, adresu a telefonní spojení místa zpětného odběru,\nb) druhy zpětně odebíraných výrobků,\nc) provozní dobu zpětného odběru,\nd) upozornění na bezplatnost zpětného odběru.\n(3) V případě provádění zpětného odběru přímo v provozovně posledního prodejce musí být místo zpětného odběru použitých výrobků zřetelně označeno nápisem „Místo zpětného odběru použitých výrobků“, přičemž slova „použitých výrobků“ mohou být nahrazena názvem výrobku, který se na tomto místě odebírá. Toto označení musí být čitelné z míst přístupných pro spotřebitele.\n(4) Místa zpětného odběru výrobků se považují za stejně dostupná jako místa prodeje, pokud je stanoveno minimálně jedno místo zpětného odběru v každé obci nebo v každém městském obvodě nebo městské části (pokud jsou zřízeny), kde se nachází prodejny těchto výrobků."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 2 zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.\n2) § 3 zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění zákona č. 477/2001 Sb.\n3) Zákon č. 185/2001 Sb., ve znění zákona č. 477/2001 Sb.\nVyhláška č. 381/2001 Sb., kterou se stanoví Katalog odpadů, seznam nebezpečných odpadů a seznamy odpadů a států pro účely vývozu, dovozu a tranzitu odpadů a postup při udělování souhlasu k vývozu, dovozu a tranzitu odpadů (Katalog odpadů).\nVyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady.\nVyhláška č. 384/2001 Sb., o nakládání s polychlorovanými bifenyly, polychlorovanými terfenyly, monometyltetrachlordifenylmetanem, monometyldichlordifenylmetanem, monometyldibromdifenylmetanem a veškerými směsmi obsahujícími kteroukoliv z těchto látek v koncentraci větší než 50 mg/kg (o nakládání s PCB).\nVyhláška č. 376/2001 Sb., o hodnocení nebezpečných vlastností odpadů.\n4) § 5 až 7 vyhlášky č. 383/2001 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zpětným odběrem",
+      "definition": "odebírání použitých výrobků povinnými osobami od spotřebitelů1) bez nároku na úplatu za účelem jejich využití nebo odstranění",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:648/1919",
+  "type": "statute",
+  "title": "648/1919 Sb., Zákon, jímž zřizuje se v Praze státní konservatoř hudby.",
+  "title_en": "",
+  "short_name": "648/1919 Sb.",
+  "status": "in_force",
+  "issued_date": "1919-12-19",
+  "in_force_date": "1920-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1919/648",
+  "description": "Zákon, jímž zřizuje se v Praze státní konservatoř hudby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pražská konservatoř hudby jest ústav státní s českou vyučovací řečí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Provésti tento zákon ukládá se ministerstvu školství a národní osvěty ve srozumění s ministerstvem financí."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zákon ten nabývá platnosti dnem 1. ledna 1920."
+    }
+  ],
+  "definitions": []
+}

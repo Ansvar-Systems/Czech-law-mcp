@@ -1,0 +1,21 @@
+{
+  "id": "cz:64/1972",
+  "type": "statute",
+  "title": "64/1972 Sb., Redakční sdělení o opravě tiskových chyb ve vyhlášce federálního ministerstva dopravy č. 32/1972 Sb., o podmínkách provozu vozidel na pozemních komunikacích, českého vydání",
+  "title_en": "",
+  "short_name": "64/1972 Sb.",
+  "status": "in_force",
+  "issued_date": "1972-09-11",
+  "in_force_date": "1972-09-11",
+  "url": "https://www.e-sbirka.cz/sb/1972/64",
+  "description": "Redakční sdělení o opravě tiskových chyb ve vyhlášce federálního ministerstva dopravy č. 32/1972 Sb., o podmínkách provozu vozidel na pozemních komunikacích, českého vydání",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V § 16 odst. 18 písm. a) Provozní brzdění bylo pod řádkem „autobusy...“ v závorce vytištěno 2,5 m/s2 místo správného údaje 5,0 m/s2.\nV § 84 odst. 4 v druhém řádku shora chybí za slovem zatížením závorka, takže správně začátek tohoto odstavce zní: (4) Užitečnou hmotností (dříve užitečným zatížením) vozidla..."
+    }
+  ],
+  "definitions": []
+}

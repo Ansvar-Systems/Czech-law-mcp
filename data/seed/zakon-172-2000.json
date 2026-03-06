@@ -1,0 +1,312 @@
+{
+  "id": "cz:172/2000",
+  "type": "statute",
+  "title": "172/2000 Sb., Úplné znění zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), jak vyplývá ze změn provedených zákonem č. 89/1996 Sb., zákonem č. 103/2000 Sb. a zákonem č. 120/2000 Sb.",
+  "title_en": "",
+  "short_name": "172/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-06-26",
+  "in_force_date": "2000-06-26",
+  "url": "https://www.e-sbirka.cz/sb/2000/172",
+  "description": "Úplné znění zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), jak vyplývá ze změn provedených zákonem č. 89/1996 Sb., zákonem č. 103/2000 Sb. a zákonem č. 120/2000 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - KATASTR NEMOVITOSTÍ ČESKÉ REPUBLIKY",
+      "content": "(1) Zřizuje se katastr nemovitostí České republiky (dále jen „katastr“).\n(2) Katastr je soubor údajů o nemovitostech v České republice (dále jen „nemovitosti“) zahrnující jejich soupis a popis a jejich geometrické a polohové určení. Součástí katastru je evidence vlastnických a jiných věcných práv k nemovitostem podle zvláštního předpisu1) (dále jen „právní vztahy“) a dalších práv k nemovitostem podle tohoto zákona.\n(3) Katastr je zdrojem informací, které slouží k ochraně práv k nemovitostem, pro daňové a poplatkové účely, k ochraně životního prostředí, zemědělského a lesního půdního fondu, nerostného bohatství, kulturních památek, pro rozvoj území, k oceňování nemovitostí, pro účely vědecké, hospodářské a statistické a pro tvorbu dalších informačních systémů.\n(4) Katastr je veden jako informační systém o území České republiky převážně počítačovými prostředky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ - KATASTR NEMOVITOSTÍ ČESKÉ REPUBLIKY",
+      "content": "(1) V katastru se evidují\na) pozemky v podobě parcel,\nb) budovy spojené se zemí pevným základem, a to\n1. budovy, kterým se přiděluje popisné nebo evidenční číslo,\n2. budovy, kterým se popisné nebo evidenční číslo nepřiděluje a které nejsou příslušenstvím jiné stavby evidované na téže parcele,\nc) byty a nebytové prostory vymezené jako jednotky podle zvláštního zákona2) v budovách (dále jen „byty a nebytové prostory“),\nd) rozestavěné budovy nebo byty a nebytové prostory, které budou podléhat evidenci podle odstavce 1 písm. b) nebo c), požádá-li o to vlastník nemovitosti (dále jen „vlastník“) nebo jiná osoba oprávněná z práva, které se zapisuje do katastru, (dále jen „jiný oprávněný“),\ne) rozestavěné budovy nebo byty a nebytové prostory, které budou podléhat evidenci podle odstavce 1 písm. b) nebo c), v souvislosti se vznikem, změnou nebo zánikem věcného práva k nim,\nf) stavby spojené se zemí pevným základem, o nichž to stanoví zvláštní předpis.\n(2) V katastru se neevidují drobné stavby.2a)\n(3) Pozemky se člení podle druhů na ornou půdu, chmelnice, vinice, zahrady, ovocné sady, trvalé travní porosty (dále jen „zemědělské pozemky“), lesní pozemky, vodní plochy, zastavěné plochy a nádvoří a ostatní plochy.\n(4) K nemovitostem evidovaným v katastru se do katastru zapisují\na) právní vztahy zapisované podle zvláštního zákona,1)\nb) právo hospodaření s majetkem státu,2b)\nc) právo trvalého užívání nemovitosti,2c)\nd) správa nemovitostí ve vlastnictví státu,2d)\ne) oprávnění městských částí hlavního města Prahy hospodařit se svěřeným majetkem hlavního města Prahy,2e)\nf) oprávnění městských částí statutárních měst hospodařit se svěřeným majetkem statutárních měst,2f)\ng) oprávnění rozpočtové a příspěvkové organizace zřízené obcí nebo městskou částí hlavního města Prahy nebo statutárního města hospodařit s majetkem obce,2g)\nh) příslušnost k organizační složce právnické osoby, pokud je zapsána v obchodním nebo jiném zákonem stanoveném rejstříku a vedoucí této organizační složky je oprávněn nakládat s nemovitostí evidovanou v katastru jménem právnické osoby, k níž organizační složka přísluší,2h)\ni) další skutečnosti podle povahy evidované věci, které jsou na základě tohoto zákona obsahem katastru.\n(5) Nemovitosti se v katastru evidují podle katastrálních území.\n(6) Nemovitosti důležité z hlediska obrany, vnitřního pořádku a bezpečnosti se evidují způsobem dohodnutým s Ministerstvem obrany, Ministerstvem vnitra a Ministerstvem spravedlnosti."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "ČÁST PRVNÍ - KATASTR NEMOVITOSTÍ ČESKÉ REPUBLIKY",
+      "content": "Katastr obsahuje\na) geometrické určení a polohové určení nemovitostí a katastrálních území,\nb) druhy pozemků, čísla a výměry parcel, popisná a evidenční čísla budov, vybrané údaje o způsobu ochrany a využití nemovitostí, čísla bytů a nebytových prostorů a pojmenování nebytových prostorů, dále údaje pro daňové účely a údaje umožňující propojení s jinými informačními systémy, které mají vztah k obsahu katastru,\nc) údaje o právních vztazích včetně údajů o vlastnících a o jiných oprávněných a údaje o dalších právech k nemovitostem podle tohoto zákona,\nd) údaje o podrobných polohových bodových polích,\ne) místní a pomístní názvosloví.3)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST PRVNÍ - KATASTR NEMOVITOSTÍ ČESKÉ REPUBLIKY",
+      "content": "(1) Obsah katastru je uspořádán v katastrálních operátech podle katastrálních území.\n(2) Katastrální operát tvoří\na) soubor geodetických informací, který zahrnuje katastrální mapu a ve stanovených katastrálních územích i její číselné vyjádření,\nb) soubor popisných informací, který zahrnuje údaje o katastrálním území, o parcelách, o stavbách, o bytech a nebytových prostorech, o vlastnících a jiných oprávněných, o právních vztazích a právech a skutečnostech uvedených v § 2 odst. 4 písm. b) až i),\nc) souhrnné přehledy o půdním fondu z údajů katastru,\nd) dokumentace výsledků šetření a měření pro vedení a obnovu souboru geodetických informací, včetně seznamu místního a pomístního názvosloví,\ne) sbírka listin, která obsahuje rozhodnutí státních orgánů, smlouvy a jiné listiny, na jejichž podkladě byl proveden zápis do katastru."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zápis údajů o právních vztazích a jiných údajů do katastru",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "(1) V listinách, které jsou podkladem pro zápis do katastru, musejí být označeny\na) pozemky parcelním číslem s uvedením názvu katastrálního území, ve kterém leží, a v případě, že jsou v katastrálním území pozemky vedeny ve dvou číselných řadách, též údajem, zda se jedná o pozemkovou nebo stavební parcelu,\nb) pozemky, které jsou evidovány zjednodušeným způsobem (§ 29 odst. 3), parcelním číslem podle dřívější pozemkové evidence s uvedením, zda se jedná o parcelní číslo podle pozemkového katastru, přídělového operátu nebo scelovacího operátu, a s uvedením názvu katastrálního území, ve kterém leží,\nc) budovy označením pozemku, na němž jsou postaveny, číslem popisným nebo evidenčním, případně, pokud se číslo popisné ani evidenční budově nepřiděluje, způsobem jejího využití a v případě budov s číslem popisným či evidenčním též příslušností budovy k části obce, pokud je název části obce odlišný od názvu katastrálního území, v němž se nachází pozemek, na kterém je budova postavena,\nd) rozestavěné budovy označením pozemku, na němž jsou rozestavěny, a označením, že se jedná o rozestavěnou budovu,\ne) byty a nebytové prostory označením budovy,2) v níž jsou vymezeny, číslem bytu nebo nebytového prostoru a pojmenováním nebytového prostoru, popřípadě popisem umístění v budově, pokud nejsou byty a nebytové prostory očíslovány,\nf) rozestavěný byt a nebytový prostor označením pozemku, na němž je dům s byty a nebytovými prostory rozestavěn, číslem bytu nebo nebytového prostoru a pojmenováním nebytového prostoru, popřípadě popisem umístění v rozestavěném domě s byty a nebytovými prostory, pokud nejsou byty a nebytové prostory očíslovány, a označením, že se jedná o rozestavěný byt nebo nebytový prostor.\n(2) Má-li být část pozemku sloučena do pozemku sousedícího nebo má-li z více částí vzniknout nový pozemek, je přípustné též označení převáděné části pozemku v listině písmenem malé abecedy s odkazem na geometrický plán, kterým je vymezena, pokud z listin předložených pro zápis do katastru vyplývá realizace všech nezbytných změn právních vztahů podle takového geometrického plánu.\n(3) Katastrální úřad provede\na) vklad5) údajů o právních vztazích do katastru na základě pravomocného rozhodnutí o povolení vkladu ke dni, kdy mu byl tento návrh doručen,\nb) záznam6) údajů o právních vztazích do ktastru do 30 dnů po doručení rozhodnutí státního orgánu nebo jiné listiny potvrzující nebo osvědčující právní vztahy,\nc) poznámku7) v katastru do 30 dnů po doručení listiny způsobilé k vyznačení poznámky v katastru; tuto poznámku katastrální úřad zruší do 30 dnů po doručení listiny, na základě které důvody pro její vyznačení pominuly.\n(4) Vznik, změna nebo zánik právního vztahu na základě právní skutečnosti nebo jednostranného právního úkonu,8) které nelze doložit a jsou-li nesporné, mohou být do katastru zapsány pouze na základě osvědčení ve formě notářakého zápisu nebo na základě soudního smíru.9)\n(5) Pro zápis nových staveb, reálně oddělovaných částí nemovitostí, jakož i věcného břemene k části pozemku do katastru, musí být předložen též geometrický plán, u nových staveb též doklad o přidělení čísla popisného nebo evidenčního,10) pokud se jim přiděluje, a u rozestavěných budov, bytů a nebytových prostor čestné prohlášení vlastníka nebo jiného oprávněného s jeho úředně ověřeným podpisem, že se jedná o rozestavěnou budovu, byt a nebytový prostor.\n(6) Jako vlastník novostavby, která je předmětem evidování v katastru, zapisuje se stavebník uvedený v kolaudačním rozhodnutí, není-li jinou listinou prokázáno, že vlastníkem je někdo jiný. Jako vlastník rozestavěné budovy se zapisuje stavebník uvedený ve stavebním povolení, není-li jinou listinou prokázáno, že vlastníkem je jiná osoba.\n(7) Právní vztahy nemohou být dotčeny revizí údajů katastru, opravou chyb v katastrálním operátu ani obnovou katastrálního operátu, pokud jejich změna není doložena listinou."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "Zápis jiných údajů a jejich změn se provádí na základě\na) ohlášení vlastníka nebo jiného oprávněného [§ 10 odst. 1 písm. d)], jehož přílohou je rozhodnutí nebo souhlas vydaný příslušným státním orgánem podle zvláštního právního předpisu,10a) je-li takové rozhodnutí nebo souhlas vyžadován,\nb) rozhodnutí, souhlasu nebo oznámení vydaného příslušným státním orgánem podle zvláštního právního předpisu,10b) který zároveň stanoví státnímu orgánu povinnost zaslat rozhodnutí, souhlas nebo oznámení k zápisu do katastru katastrálnímu úřadu."
+    },
+    {
+      "provision_ref": "§ 6a",
+      "section": "6a",
+      "title": "§ 6a",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "(1) Jiné údaje katastru než údaje o právních vztazích, závazné údaje katastru (§ 20) a údaje o polohovém určení nemovitostí a katastrálních území je možné přejímat též z jiných informačních systémů, registrů, rejstříků nebo evidencí veřejné správy, pokud\na) zápisem do nich dochází ke vzniku skutečností v nich vedených, nebo\nb) údaje v nich vedené požívají ochrany dobré víry v pravdivosti těchto údajů.10d)\n(2) Pokud údaje v informačních systémech, registrech, rejstřících a evidencích veřejné správy nepožívají ochrany dobré víry, katastrální úřad tyto údaje může porovnat s údaji katastru; v případě zjištěných rozporů vyšetří příčiny těchto rozporů a zápisy v katastru uvede do souladu se zjištěným výsledkem šetření. Postup katastrálního úřadu při tomto jednání se řídí ustanovením tohoto zákona o opravě chyb v katastrálním operátu (§ 8)."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Revize údajů katastru",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "(1) Katastrální úřad reviduje soulad údajů katastru se skutečným stavem v terénu. Revizi údajů katastru (dále jen „revize katastru“) vyhlašuje příslušný katastrální úřad podle potřeby zajištění souladu údajů katastru s jejich skutečným stavem v terénu a provádí ji za součinnosti obcí, státních orgánů a za účasti pozvaných vlastníků a jiných oprávněných nebo jejich zástupců. Zjistí-li nesoulad v údajích katastru, projedná způsob jeho odstranění.\n(2) O výsledku revize katastru se sepíše protokol."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Oprava chyb v katastrálním operátu",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "(1) Na písemný návrh vlastníka nebo jiného oprávněného nebo i bez návrhu opraví katastrální úřad chybné údaje katastru, které vznikly\na) zřejmým omylem při vedení a obnově katastru,\nb) nepřesností při podrobném měření, zobrazení předmětu měření v katastrální mapě a při výpočtu výměr parcel, pokud byly překročeny mezní odchylky stanovené prováděcím předpisem.10c)\n(2) Katastrální úřad opraví chybné údaje katastru, které vznikly nesprávnostmi v listinách, podle nichž byly zapsány, na základě opravy listiny provedené tím, kdo listinu vyhotovil nebo kdo je oprávněn opravu listiny provést.\n(3) Opravu na základě návrhu podle odstavce 1 provede katastrální úřad do 30 dnů, ve zvlášť odůvodněných případech do 60 dnů, ode dne doručení návrhu.\n(4) Oznámení o provedené opravě nebo o tom, že opravu na návrh neprovedl, protože se nejedná o chybu, doručí katastrální úřad vlastníkovi a jinému oprávněnému.\n(5) Sdělí-li do 30 dnů od doručení oznámení vlastník nebo jiný oprávněný katastrálnímu úřadu, že s provedenou opravou nebo s tím, že se nejedná o chybu, nesouhlasí, vydá katastrální úřad rozhodnutí ve věci. Proti rozhodnutí je možno podat odvolání k zeměměřickému a katastrálnímu inspektorátu, v jehož obvodu je dotčená nemovitost."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Ověřování",
+      "chapter": "ČÁST DRUHÁ - SPRÁVA KATASTRU",
+      "content": "Katastrální úřad ověřuje opisy nebo kopie listin o právních vztazích ze sbírky listin katastru a sbírky listin pozemkové knihy. Při tomto ověřování neodpovídá katastrální úřad za obsah listiny. Katastrální úřad neověří listinu, jejíž originál nebo kopie je nečitelná."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI VLASTNÍKŮ A JINÝCH OPRÁVNĚNÝCH, OBCÍ A STÁTNÍCH ORGÁNŮ",
+      "content": "(1) Vlastníci a jiní oprávnění jsou povinni\na) zúčastnit se na výzvu katastrálního úřadu jednání nebo na toto jednání vyslat svého zástupce,\nb) označit ve stanovené lhůtě, ne však kratší 30 dnů, trvalým způsobem a na vlastní náklad nesporné hranice svých pozemků, pokud zvláštní předpis nestanoví jinak,\nc) na vyzvání doplnit chybějící údaje a odstranit chyby v jimi vyhotovených listinách, které předkládají k zápisu do katastru, a to do 30 dnů ode dne, kdy jim byla doručena výzva,\nd) ohlásit katastrálnímu úřadu změny údajů katastru týkající se jejich nemovitostí, a to do 30 dnů ode dne jejich vzniku, a předložit listinu, která změnu dokládá; tuto povinnost vlastníci a jiní oprávnění nemají u změn katastru, vyplývajících z listin, které jsou příslušné státní orgány povinny zasílat katastrálnímu úřadu přímo k zápisu do katastru,\ne) na vyzvání předložit ve stanovené lhůtě, ne však kratší 30 dnů, příslušné listiny pro zápis do katastru.\n(2) Pokud vlastník nebo jiný oprávněný neoznačí hranice pozemků podle odstavce 1 písm. b), může katastrální úřad rozhodnout, že dá hranice označit na náklad vlastníka nebo jiného oprávněného. Neoznačují se hranice pozemků, které jsou sloučeny do větších celků, a hranice druhů pozemků mezi sousedními pozemky téhož vlastníka nebo jiného oprávněného."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI VLASTNÍKŮ A JINÝCH OPRÁVNĚNÝCH, OBCÍ A STÁTNÍCH ORGÁNŮ",
+      "content": "(1) Obce\na) vyhlašují ve svém územním obvodu, způsobem v místě obvyklým, na základě oznámení katastrálního úřadu zahájení revize a obnovy katastrálního operátu, vysílají na ně své zástupce, spolupracují při zajišťování účasti vlastníků a jiných oprávněných a podávají o nich dostupné informace nezbytné pro provedení revize katastru a obnovy katastrálního operátu,\nb) pečují o trvalé označení územních hranic obcí a na vyzvání katastrálního úřadu je označí ve stanovené lhůtě určeným způsobem,\nc) spolupracují s katastrálním úřadem při provádění revize katastru a při obnově katastrálního operátu na území obce,\nd) zasílají katastrálnímu úřadu svá rozhodnutí týkající se nemovitostí vydaná při výkonu státní správy v přenesené působnosti11) do 30 dnů ode dne nabytí právní moci rozhodnutí nebo do 30 dnů ode dne jejich vydání; jsou povinny ve lhůtě stanovené katastrálním úřadem odstranit v rozhodnutích chyby v psaní, počítání a jiné zřejmé nesprávnosti,\ne) vyjadřují se ke změnám v pomístním názvosloví.\n(2) Pokud obec neoznačí hranice podle odstavce 1 písm. b), může katastrální úřad rozhodnout, že dá hranice označit na náklad obce."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "ČÁST TŘETÍ - POVINNOSTI VLASTNÍKŮ A JINÝCH OPRÁVNĚNÝCH, OBCÍ A STÁTNÍCH ORGÁNŮ",
+      "content": "(1) Státní orgány spolupracují s katastrálními úřady při výkonu státní správy na úseku katastru. Jsou povinny ve lhůtě stanovené katastrálním úřadem v listinách, které předložily k zápisu do katastru, odstranit chyby v psaní, počítání a jiné zřejmé nesprávnosti.\n(2) Státní orgány a obce poskytují v rámci své působnosti bezplatně katastrálním úřadům na jejich žádost údaje potřebné pro vedení katastru z jimi provozovaných informačních systémů, zejména o rodných číslech a trvalých pobytech fyzických osob, identifikačních číslech a sídlech právnických osob, o číselných kódech katastrálních území, obcí a jejich částí a o popisných a evidenčních číslech budov."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "(1) Obnova katastrálního operátu je vyhotovení nového souboru geodetických informací ve formě grafického počítačového souboru a nového souboru popisných informací katastrálního operátu. Lze ji provést\na) novým mapováním,\nb) přepracováním souboru geodetických informací, nebo\nc) na podkladě výsledků pozemkových úprav.\n(2) Katastrální operát se obnovuje zpravidla v rozsahu katastrálního území.\n(3) Obnovu katastrálního operátu zahájí katastrální úřad bez návrhu. Pokud má být obnova katastrálního operátu provedena podle odstavce 1 písm. a) nebo b), oznámí její zahájení katastrální úřad dotčené obci.\n(4) Při obnově katastrálního operátu se do katastrální mapy doplňují parcely zemědělských a lesních pozemků evidovaných dosud zjednodušeným způsobem podle § 29 odst. 3, pokud to umožňuje kvalita jejich původního zobrazení."
+    },
+    {
+      "provision_ref": "§ 13a",
+      "section": "13a",
+      "title": "§ 13a Obnova katastrálního operátu novým mapováním",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "K obnově katastrálního operátu novým mapováním se přistoupí, pokud geometrické určení a polohové určení nemovitostí v důsledku značného počtu změn, nedostatečné přesnosti nebo použitého měřítka katastrální mapy již nevyhovuje současnému vedení katastru, popřípadě dojde-li ke ztrátě, zničení nebo k takovému poškození katastrálního operátu, že není možné nebo účelné ho rekonstruovat z dokumentovaných podkladů platného stavu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Zjišťování průběhu hranic",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "(1) Zjišťování průběhu hranic pro obnovu katastrálního operátu novým mapováním podle skutečného stavu v terénu (dále jen „zjišťování hranic“) je zjišťování průběhu hranic územních správních jednotek, hranic katastrálních území, hranic pozemků a vnějšího obvodu staveb. Při zjišťování hranic lze ověřovat i další údaje, které jsou obsahem katastru.\n(2) Zjišťování hranic provádí komise složená z pracovníků katastrálního úřadu a ze zástupců obce a dalších orgánů určených katastrálním úřadem. Předsedou komise je pracovník katastrálního úřadu, určený ředitelem katastrálního úřadu.\n(3) Zjišťování hranic se provádí za účasti pozvaných vlastníků a jiných oprávněných nebo jejich zástupců.\n(4) Předseda komise je povinen při zjišťování hranic upozornit na nesoulad skutečného průběhu hranic s jejím vyznačením v platném katastrálním operátu všechny přítomné osoby.\n(5) O výsledcích zjišťování hranic sepíše předseda komise protokol. Vlastníci a jiní oprávnění nebo jejich zástupci svým podpisem v protokolu stvrzují souhlas s průběhem a označením vlastnických hranic v terénu.\n(6) Pokud dojde k rozporu v tvrzení vlastníků a jiných oprávněných o průběhu hranic pozemků, považují se za platné ty hranice, které jsou obsahem katastrálního operátu. Ve výsledcích zjišťování průběhu hranic a v obnoveném katastrálním operátu se vyznačí jako sporné.\n(7) Pokud jsou hranice katastrálního území totožné se státními hranicemi, poskytne údaje o jejich průběhu Českému úřadu zeměměřickému a katastrálnímu Ministerstvo vnitra.\n(8) Nepřítomnost pozvaného vlastníka a jiného oprávněného ani jejich zástupce při zjišťování hranic není na překážku využití výsledků zjišťování hranic k vyhotovení nových souborů geodetických a popisných informací."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Obnova katastrálního operátu přepracováním",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "(1) Při obnově katastrálního operátu přepracováním se převádí katastrální mapa z grafické formy do formy grafického počítačového souboru.\n(2) Při obnově katastrálního operátu přepracováním se vypočtou a do katastru zavedou výměry parcel vypočtené ze souřadnic grafického počítačového souboru, pokud nebyly dříve určeny přesněji z údajů zjištěných měřením v terénu."
+    },
+    {
+      "provision_ref": "§ 15a",
+      "section": "15a",
+      "title": "§ 15a Obnova katastrálního operátu na podkladě výsledků pozemkových úprav",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "Při obnově katastrálního operátu se využijí výsledky komplexních pozemkových úprav. Za geometrické a polohové určení nemovitosti se v takovém případě považuje určení tvaru, rozměru a polohy nemovitosti souřadnicemi bodů jejích hranic podle schváleného návrhu pozemkových úprav. Výsledky jednoduché pozemkové úpravy katastrální úřad pro obnovu katastrálního operátu využije, je-li jednoduchou pozemkovou úpravou dotčena souvislá část katastrálního území a považuje-li to s ohledem na účelnou správu katastru za vhodné. V územích, kde je katastrální operát obnoven na podkladě výsledků pozemkových úprav, se nepoužijí ustanovení § 16.\nNámitky a vyhlášení platnosti obnoveného katastrálního operátu"
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Námitky",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "(1) Katastrální úřad vyloží na dobu nejméně 10 pracovních dnů nový soubor geodetických informací a soubor popisných informací (dále jen „obnovený katastrální operát“) v obci, v které se obnovuje katastrální operát, k veřejnému nahlédnutí.\n(2) Obec způsobem v místě obvyklým oznámí termín a dobu vyložení obnoveného katastrálního operátu nejméně 30 dnů před jeho vyložením. Současně oznámí, že obnovený katastrální operát nabude platnosti dnem, který určí katastrální úřad. Vlastníkům a jiným oprávněným, kteří nemají v obci trvalý pobyt nebo sídlo, zašle katastrální úřad oznámení o těchto skutečnostech nejméně 30 dnů před vyložením obnoveného katastrálního operátu na jejich adresu zapsanou v katastru.\n(3) Vlastníci a jiní oprávnění mohou během vyložení obnoveného katastrálního operátu a ve lhůtě 15 dnů ode dne, kdy skončilo jeho vyložení, podat námitky proti obsahu obnoveného katastrálního operátu. O podaných námitkách rozhoduje katastrální úřad.\n(4) Proti rozhodnutí katastrálního úřadu o námitkách je možno podat odvolání k zeměměřickému a katastrálnímu inspektorátu, v jehož obvodu je dotčená nemovitost."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Vyhlášení platnosti obnoveného katastrálního operátu",
+      "chapter": "ČÁST ČTVRTÁ - OBNOVA KATASTRÁLNÍHO OPERÁTU",
+      "content": "(1) Katastrální úřad vyhlásí platnost obnoveného katastrálního operátu, pokud ve stanovené lhůtě nebyly proti obsahu obnoveného operátu podány námitky, nebo bylo o námitkách pravomocně rozhodnuto. Jestliže o některých námitkách nebylo dosud pravomocně rozhodnuto, může katastrální úřad vyhlásit platnost obnoveného katastrálního operátu pouze za předpokladu, že tuto okolnost vyznačí v katastru. Po nabytí právní moci rozhodnutí o námitkách katastrální úřad toto vyznačení odstraní.\n(2) Dnem vyhlášení platnosti obnoveného katastrálního operátu se dosavadní katastrální operát stává neplatný, a nadále se používá obnovený katastrální operát. Vybrané části neplatného katastrálního operátu mají trvalou dokumentární hodnotu a jsou archiváliemi.12)\n(3) Pokud platnost obnoveného katastrálního operátu vznikne dnem určeným zvláštním právním předpisem,12a) katastrální úřad vyhlásí platnost obnoveného katastrálního operátu s uvedením dne jeho platnosti ihned, jakmile se o platnosti dozví."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST PÁTÁ - GEODETICKÉ PRÁCE A GEOMETRICKÉ PLÁNY",
+      "content": "(1) Geodetické práce pro účely katastru slouží k vytváření měřických podkladů pro provádění změn v souboru geodetických informací platného katastru, obnovu souboru geodetických informací a vytyčování hranic pozemků.\n(2) Geometrickým základem geodetických prací jsou body polohového bodového pole, určené v souřadnicovém systému Jednotné trigonometrické sítě katastrální. Změny v souboru geodetických informací lze zpracovat v jiném souřadnicovém systému v územích, kde plní funkci katastrální mapy dříve vyhotovená mapa v jiné zobrazovací soustavě."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST PÁTÁ - GEODETICKÉ PRÁCE A GEOMETRICKÉ PLÁNY",
+      "content": "(1) Geometrický plán je neoddělitelnou součástí listin, podle nichž má být proveden zápis do katastru, je-li třeba předmět zápisu zobrazit do katastrální mapy. Geometrický plán není nutné vyhotovit v případě, kdy jsou do katastrální mapy doplňovány parcely na základě upřesnění či rekonstrukce přídělů provedených podle zvláštního právního předpisu.12b) V těchto případech budou parcely do katastrální mapy zobrazeny na základě upřesněného přídělového plánu. Náležitosti upřesněného přídělového plánu stanoví prováděcí právní předpis.\n(2) Geometrický plán musí být ověřen,13) že svými náležitostmi a přesností odpovídá platným předpisům, a opatřen souhlasem katastrálního úřadu s očíslováním parcel.\n(3) Kopie geometrického plánu, zřetelně jako kopie označená, může být ověřena osobou s úředním oprávněním.13a)"
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST ŠESTÁ - ZÁVAZNOST ÚDAJŮ KATASTRU A VEŘEJNOST KATASTRU",
+      "content": "Údaje katastru, a to parcelní číslo, geometrické určení nemovitosti, název a geometrické určení katastrálního území, jsou závazné pro právní úkony týkající se nemovitostí vedených v katastru."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST ŠESTÁ - ZÁVAZNOST ÚDAJŮ KATASTRU A VEŘEJNOST KATASTRU",
+      "content": "(1) Katastr je veřejný a každý má právo do něj za přítomnosti pracovníka katastrálního úřadu nahlížet a pořizovat si z něho pro svou potřebu opisy, výpisy nebo náčrty.\n(2) Veřejnost katastrálního operátu je možno omezit jen z důvodů stanovených zákonem.14)"
+    },
+    {
+      "provision_ref": "§ 21a",
+      "section": "21a",
+      "title": "§ 21a",
+      "chapter": "ČÁST ŠESTÁ - ZÁVAZNOST ÚDAJŮ KATASTRU A VEŘEJNOST KATASTRU",
+      "content": "Právo k údajům katastru vykonává Český úřad zeměměřický a katastrální. Údaje katastru lze užít jen k účelům uvedeným v § 1 odst. 3. Šířit údaje katastru lze pouze se souhlasem Českého úřadu zeměměřického a katastrálního za podmínek stanovených prováděcím právním předpisem."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST SEDMÁ - POSKYTOVÁNÍ ÚDAJŮ Z KATASTRU",
+      "content": "(1) Katastrální úřad na požádání vyhotoví ze souboru geodetických informací a ze souboru popisných informací výpis, opis nebo kopii, jakož i identifikaci parcel.\n(2) Výpisy, opisy nebo kopie z katastrálního operátu, jakož i identifikace parcel vyhotovené katastrálním úřadem ve formě stanovené prováděcím právním předpisem jsou veřejnými listinami prokazujícími stav evidovaný v katastru k okamžiku jejich vyhotovení.\n(3) K údajům katastru vedeným ve formě počítačových souborů může každý získat dálkový přístup pomocí počítačové sítě za úplatu a za podmínek stanovených prováděcím právním předpisem.\n(4) Údaje katastru se poskytují i v jiné formě stanovené prováděcím právním předpisem. Pokud právní předpis14a) stanoví povinnost katastrálních úřadů předávat tyto údaje jiným orgánům, děje se tak bezúplatně."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST OSMÁ - PORUŠENÍ POŘÁDKU NA ÚSEKU KATASTRU",
+      "content": "Porušení pořádku na úseku katastru se dopustí ten, kdo\na) na opakovanou výzvu katastrálního úřadu se nedostaví bez náležité omluvy nebo závažného důvodu k jednání ani nevyšle svého zástupce a svou neúčastí znemožní nebo ztíží prováděné úkony,\nb) na vyzvání katastrálního úřadu neoznačí stanoveným způsobem nesporné vlastnické hranice svých pozemků,\nc) na vyzvání nepředloží ve stanovené lhůtě příslušné listiny a geometrické plány pro zápis do katastru nebo neodstraní ve stanovené lhůtě chyby v předložených listinách,\nd) neohlásí katastrálnímu úřadu ve lhůtě stanovené tímto zákonem změny údajů katastru týkající se nemovitostí, jejichž je vlastníkem,\ne) ohlásí katastrálnímu úřadu nepravdivé údaje k zápisu do katastru,\nf) neoprávněně změní údaje v katastru,\ng) poškodí katastrální operát,\nh) poškodí, zničí nebo neoprávněně přemístí měřickou značku bodu podrobného polohového bodového pole,\ni) užije údajů katastru k jiným účelům, než je stanoveno v § 1 odst. 3,\nj) šíří údaje katastru bez souhlasu Českého úřadu zeměměřického a katastrálního nebo nedodrží podmínky šíření údajů katastru stanovené prováděcím právním předpisem."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST OSMÁ - PORUŠENÍ POŘÁDKU NA ÚSEKU KATASTRU",
+      "content": "Porušení pořádku na úseku katastru podle § 23 fyzickou osobou je přestupkem, za který může katastrální úřad uložit\na) pokutu do výše trojnásobku minimální mzdy15) za jednání uvedená v § 23 písm. a) až d),\nb) pokutu do výše pětinásobku minimální mzdy15) za jednání uvedená v § 23 písm. e) až j)."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "ČÁST OSMÁ - PORUŠENÍ POŘÁDKU NA ÚSEKU KATASTRU",
+      "content": "(1) Za porušení pořádku na úseku katastru podle § 23 písm. a) až d), kterého se dopustí fyzická osoba při výkonu své podnikatelské činnosti nebo právnická osoba, může katastrální úřad uložit pokutu až do výše třicetinásobku minimální mzdy.15)\n(2) Za porušení pořádku na úseku katastru podle § 23 písm. e) až j), kterého se dopustí fyzická osoba při výkonu své podnikatelské činnosti nebo právnická osoba, může katastrální úřad uložit pokutu až do výše padesátinásobku minimální mzdy.15)\n(3) Při stanovení výše pokuty podle odstavců 1 a 2 přihlédne katastrální úřad k závažnosti protiprávního jednání, zejména k jeho rozsahu, délce trvání a k okolnostem, za nichž k němu došlo.\n(4) Pokutu podle odstavců 1 a 2 lze uložit do jednoho roku ode dne, kdy se katastrální úřad o porušení pořádku na úseku katastru dozvěděl, nejpozději však do tří let ode dne, kdy k porušení pořádku došlo.\n(5) Pokuta podle odstavců 1 a 2 je splatná do 30 dnů ode dne nabytí právní moci rozhodnutí, jímž byla uložena, a je příjmem státního rozpočtu České republiky."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "ČÁST OSMÁ - PORUŠENÍ POŘÁDKU NA ÚSEKU KATASTRU",
+      "content": "Není-li v zákoně stanoveno jinak, platí pro projednávání přestupků podle § 24 tohoto zákona a pro projednávání porušení pořádku na úseku katastru podle § 25 tohoto zákona obecné předpisy.16)"
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Pro účely tohoto zákona se rozumí\na) pozemkem část zemského povrchu oddělená od sousedních částí hranicí územní správní jednotky nebo hranicí katastrálního území, hranicí vlastnickou, hranicí držby, hranicí druhů pozemků, popř. rozhraním způsobu využití pozemků,\nb) parcelou pozemek, který je geometricky a polohově určen, zobrazen v katastrální mapě a označen parcelním číslem,\nc) stavební parcelou pozemek evidovaný v druhu pozemku zastavěné plochy a nádvoří,\nd) pozemkovou parcelou pozemek, který není stavební parcelou,\ne) geometrickým určením nemovitosti a katastrálního území určení tvaru a rozměru nemovitosti a katastrálního území, vymezených jejich hranicemi v zobrazovací rovině,\nf) polohovým určením nemovitosti a katastrálního území určení jejich polohy ve vztahu k ostatním nemovitostem a katastrálním územím,\ng) výměrou parcely vyjádření plošného obsahu průmětu pozemku do zobrazovací roviny v plošných metrických jednotkách; velikost výměry vyplývá z geometrického určení pozemku a zaokrouhluje se na celé čtvereční metry. Výměra parcely je evidována s přesností danou metodami, kterými byla zjištěna; jejím zpřesněním nejsou dotčeny právní vztahy k pozemku,\nh) katastrálním územím technická jednotka, kterou tvoří místopisně uzavřený a v katastru společně evidovaný soubor nemovitostí,\ni) katastrální mapou polohopisná mapa velkého měřítka s popisem, která zobrazuje všechny nemovitosti a katastrální území, které jsou předmětem katastru. Pozemky se v katastrální mapě zobrazují průmětem svých hranic do zobrazovací roviny, označují se parcelními čísly a značkami druhů pozemků; stavby se zobrazují průmětem svého vnějšího obvodu,\nj) identifikací parcel porovnání zápisu a zákresu téže nemovitosti v operátu katastru se zápisem, popř. zákresem v jiných operátech nebo pravomocných rozhodnutích státních orgánů,\nk) budovou nadzemní stavba, která je prostorově soustředěna a navenek uzavřena obvodovými stěnami a střešní konstrukcí,\nl) rozestavěnou budovou budova v alespoň takovém stupni rozestavěnosti, že již je patrné stavebně technické a funkční uspořádání prvního nadzemního podlaží, pokud jí dosud nebylo přiděleno číslo popisné nebo evidenční, a u budovy, které se číslo popisné nebo evidenční nepřiděluje, pokud na ni dosud nebylo vydáno kolaudační rozhodnutí."
+    },
+    {
+      "provision_ref": "§ 27a",
+      "section": "27a",
+      "title": "§ 27a",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Není-li v zákoně stanoveno jinak, platí pro rozhodování podle tohoto zákona správní řád.16a)"
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Pracovníci katastrálního úřadu a členové komise (§ 14 odst. 2) jsou při své činnosti oprávněni vstupovat v nezbytném rozsahu na pozemky a provádět na nich průklesty a geodetické práce pro účely katastru za podmínek stanovených zvláštním předpisem.17)"
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Od účinnosti tohoto zákona se operát evidence nemovitostí považuje za katastrální operát.\n(2) Nemovitosti jsou v katastru evidovány podle dosavadních předpisů, pokud nebyly dotčeny změnou za účinnosti tohoto zákona.\n(3) Zemědělské a lesní pozemky, jejichž hranice v terénu neexistují a jsou sloučeny do větších půdních celků, se evidují do doby jejich zobrazení v katastrální mapě, nejpozději však do doby ukončení pozemkových úprav podle zvláštního předpisu,18) zjednodušeným způsobem s využitím bývalého pozemkového katastru, pozemkových knih a navazujících operátů přídělového a scelovacího řízení. Údaje zjednodušené evidence se považují za součást katastrálního operátu.\n(4) Katastrální úřady mají v úschově pozemkové a železniční knihy a operát bývalého pozemkového katastru. Z těchto dokumentů vyhotoví katastrální úřad na požádání výpisy, opisy nebo kopie, za které se vybírají správní poplatky."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Český úřad zeměměřický a katastrální vyhláškou podrobněji upraví\na) předmět a obsah katastru,\nb) vymezení staveb podle § 2 odst. 1 písm. f),\nc) činnost při správě katastru a obnově katastrálního operátu,\nd) geodetické práce pro účely katastru, vyhotovování geometrických plánů, vyhotovování upřesněných přídělových plánů a vytyčování hranic pozemků,\ne) označování územních hranic obcí a hranic pozemků trvalým způsobem,\nf) podmínky pro poskytování údajů z katastru, formu poskytovaných údajů a úplaty za ně,\ng) výměnný formát poskytovaných a přebíraných údajů informačního systému katastru,\nh) podmínky šíření údajů katastru.\n(2) Přejímání a porovnávání údajů katastru a jiných informačních systémů upraví nařízení vlády."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušují se\n1. Zákon č. 22/1964 Sb., o evidenci nemovitostí, ve znění zákona ČNR č. 157/1983 Sb.\n2. Ustanovení § 37 odst. 1 písm. c) zákona ČNR č. 200/1990 Sb., o přestupcích.\n3. Vyhláška Ústřední správy geodézie a kartografie č. 23/1964 Sb., kterou se provádí zákon č. 22/1964 Sb., o evidenci nemovitostí, ve znění vyhlášky č. 133/1965 Sb. a vyhlášky č. 19/1984 Sb.\n4. Směrnice Českého úřadu geodetického a kartografického č. 4000/1975-22 pro vyhotovování geometrických plánů a vytyčování hranic pozemků (reg. v částce 28/1975 Sb.).\n5. Směrnice Českého úřadu geodetického a kartografického č. 2600/1981-22 pro tvorbu Základní mapy ČSSR velkého měřítka (reg. v částce 28/1981 Sb.).\n6. Směrnice Českého úřadu geodetického a kartografického č. 900/1986-21, kterými se mění směrnice pro tvorbu Základní mapy ČSSR velkého měřítka (reg. v částce 18/1986 Sb.).\n7. Směrnice Českého úřadu geodetického a kartografického č. 1300/1985-21 o způsobu zápisu osobního vlastnictví k bytu, spoluvlastnictví společných částí domu, spoluvlastnictví pozemku nebo práva společného osobního užívání pozemku do evidence nemovitostí (reg. v částce 10/1985 Sb.)."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1993.\n* * *\nZákon ze dne 14. března 1996 č. 89/1996 Sb., kterým se mění a doplňuje zákon České národní rady č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), a občanský zákoník č. 40/1964 Sb., ve znění pozdějších předpisů, nabyl účinnosti dne 1. července 1996.\nZákon ze dne 4. dubna 2000 č. 103/2000 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, nabývá účinnosti dne 1. července 2000.\nZákon ze dne 6. dubna 2000 č. 120/2000 Sb., kterým se mění zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů, zákon č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech, ve znění pozdějších předpisů, a zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, nabývá účinnosti dne 1. září 2000.\n* * *\nČl. IV bod 1 zákona č. 120/2000 Sb. zní:"
+    },
+    {
+      "provision_ref": "Čl. IV",
+      "section": "IV",
+      "title": "Čl. IV",
+      "chapter": "ČÁST DEVÁTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "1. Zemědělské pozemky, které byly v katastru dosud evidovány v druhu pozemku louka a pastvina, se od účinnosti tohoto zákona evidují v druhu pozemku trvalé travní porosty.\n1) Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem.\n2) Zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění zákona č. 273/1994 Sb.\n2a) § 55 odst. 2 písm. a) zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon).\n§ 3 vyhlášky Federálního ministerstva pro technický a investiční rozvoj č. 85/1976 Sb., o podrobnější úpravě územního řízení a stavebním řádu, ve znění vyhlášky Federálního ministerstva pro technický a investiční rozvoj č. 155/1980 Sb. a vyhlášky Federálního výboru pro životní prostředí, Ministerstva životního prostředí České republiky a Slovenské komise pro životní prostředí č. 378/1992 Sb.\n2b) § 4 a násl. vyhlášky Federálního ministerstva financí č. 119/1988 Sb., o hospodaření s národním majetkem.\n2c) § 10 vyhlášky č. 119/1988 Sb.\n2d) § 17 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 183/1993 Sb.\nZákon č. 113/1993 Sb., o Fondu dětí a mládeže.\nVyhláška Federálního ministerstva financí č. 61/1986 Sb., o prozatímní správě národního majetku, ve znění zákona č. 539/1992 Sb.\n2e) § 20 zákona ČNR č. 418/1990 Sb., o hlavním městě Praze, ve znění zákona č. 8/1993 Sb.\n2f) § 3 odst. 2 a § 25 odst. 1 písm. e) zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení), ve znění zákona č. 302/1992 Sb.\n2g) § 31 zákona č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky).\n2h) § 7 zákona č. 513/1991 Sb., obchodní zákoník.\n§ 21 odst. 4 zákona č. 513/1991 Sb.\n§ 10 zákona č. 21/1992 Sb., o bankách.\n§ 27 zákona č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).\n3) ČSN 73 0401 Názvosloví v geodézii a kartografii.\n5) § 2 až 6 zákona č. 265/1992 Sb.\n6) § 7 a 8 zákona č. 265/1992 Sb.\n7) § 9 a 10 zákona č. 265/1992 Sb.\n8) Například § 134, 135a, 135b občanského zákoníku.\n9) § 69 a 99 občanského soudního řádu.\n10) Vyhláška č. 97/1961 Sb., o názvech obcí, označování ulic a číslování domů.\n10a) § 32 odst. 1 písm. e) zákona č. 50/1976 Sb., ve znění zákona č. 83/1998 Sb.\n§ 8 vyhlášky č. 132/1998 Sb., kterou se provádějí některá ustanovení stavebního zákona.\n§ 2, § 14 písm. b) a § 15 písm. b) zákona č. 334/1992 Sb., o ochraně zemědělského půdního fondu.\n§ 31 zákona č. 138/1973 Sb., o vodách (vodní zákon).\nZákon č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů.\n10b) § 51 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona č. 548/1991 Sb.\n§ 7 zákona č. 20/1987 Sb., o státní památkové péči, ve znění zákona č. 425/1990 Sb. a zákona č. 242/1992 Sb.\n§ 42 zákona č. 114/1992 Sb., o ochraně přírody a krajiny.\n§ 9 zákona č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech, ve znění zákona č. 38/1993 Sb. a zákona č. 217/1997 Sb.\n10d) § 27 odst. 2 zákona č. 513/1991 Sb.\n10c) Vyhláška Českého úřadu zeměměřického a katastrálního č. 126/1993 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění vyhlášek Českého úřadu zeměměřického a katastrálního č. 277/1993 Sb. a č. 99/1994 Sb.\n11) § 21 a násl. zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.\n12) Zákon č. 97/1974 Sb., o archivnictví, ve znění pozdějších předpisů.\n12a) § 9 odst. 6 a 7 zákona č. 284/1991 Sb., ve znění zákona č. 217/1997 Sb.\n12b) § 4 odst. 2 zákona č. 284/1991 Sb., ve znění zákona č. 38/1993 Sb. a zákona č. 217/1997 Sb.\nZákon č. 229/1991 Sb., ve znění pozdějších předpisů.\n13) § 12 odst. 2 zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením.\n13a) § 13 odst. 1 písm. a) zákona č. 200/1994 Sb.\n14) Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností, ve znění zákona č. 164/1999 Sb.\n14a) Např. § 34 zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů, § 12 zákona č. 289/1995 Sb., § 2 vyhlášky č. 98/1992 Sb., o způsobu úhrady nákladů pozemkových úprav státem, § 1 písm. c) nařízení vlády č. 72/1999 Sb., o stanovení způsobu úhrady nákladů souvisejících s vedením a aktualizací bonitovaných půdně ekologických jednotek a nákladů spojených s oceněním věcí, identifikací parcel a vyměřením pozemků, § 128 zákona č. 99/1963 Sb., občanský soudní řád.\n15) Nařízení vlády ČSFR č. 53/1992 Sb., o minimální mzdě.\n16) Zákon ČNR č. 200/1990 Sb., o přestupcích.\nZákon č. 71/1967 Sb., o správním řízení (správní řád).\n16a) Zákon č. 71/1967 Sb.\n17) § 7 zákona č. 200/1994 Sb.\n18) Zákon ČNR č. 284/1991 Sb., o pozemkových úpravách a pozemkových úřadech."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "parcelou pozemek",
+      "definition": "který je geometricky a polohově určen, zobrazen v katastrální mapě a označen parcelním číslem",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "pozemkovou parcelou pozemek",
+      "definition": "který není stavební parcelou",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "katastrálním územím technická jednotka",
+      "definition": "kterou tvoří místopisně uzavřený a v katastru společně evidovaný soubor nemovitostí",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "katastrální mapou polohopisná mapa velkého měřítka s popisem",
+      "definition": "která zobrazuje všechny nemovitosti a katastrální území, které jsou předmětem katastru. Pozemky se v katastrální mapě zobrazují průmětem svých hranic do zobrazovací roviny, označují se parcelními čísly a značkami druhů pozemků; stavby se zobrazují průmětem svého vnějšího obvodu",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "budovou nadzemní stavba",
+      "definition": "která je prostorově soustředěna a navenek uzavřena obvodovými stěnami a střešní konstrukcí",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "rozestavěnou budovou budova v alespoň takovém stupni rozestavěnosti",
+      "definition": "že již je patrné stavebně technické a funkční uspořádání prvního nadzemního podlaží, pokud jí dosud nebylo přiděleno číslo popisné nebo evidenční, a u budovy, které se číslo popisné nebo evidenční nepřiděluje, pokud na ni dosud nebylo vydáno kolaudační rozhodnutí.",
+      "source_provision": "§ 27"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:132/1945",
+  "type": "statute",
+  "title": "132/1945 Ú. l., Vyhláška nejvyššího úřadu cenového o výkupních cenách obilí, luštěnin a olejnatých semen ze sklizně 1945.",
+  "title_en": "",
+  "short_name": "132/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-08-06",
+  "in_force_date": "1945-08-06",
+  "url": "https://www.e-sbirka.cz/ul0/1945/132",
+  "description": "Vyhláška nejvyššího úřadu cenového o výkupních cenách obilí, luštěnin a olejnatých semen ze sklizně 1945.",
+  "provisions": [
+    {
+      "provision_ref": "Článek I.",
+      "section": "I",
+      "title": "Článek I.",
+      "content": "Výkupní ceny obilí, luštěnin a olejnatých semen ze sklizně 1945, stanovené na základě usnesení vlády ze dne 31. července 1945 a vyhlášené vyhláškou ministerstva zemědělství a ministerstva výživy ze dne 1. srpna 1945, běž. č. 131, platí jako závazné ve smyslu platných cenových předpisů."
+    },
+    {
+      "provision_ref": "Článek II.",
+      "section": "II",
+      "title": "Článek II.",
+      "content": "Přestupky vyhlášky uvedené v čl. I. se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících a doplňujících."
+    },
+    {
+      "provision_ref": "Článek III.",
+      "section": "III",
+      "title": "Článek III.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

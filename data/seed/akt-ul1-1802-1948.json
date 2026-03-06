@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1802/1948",
+  "type": "statute",
+  "title": "1802/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravských elektrotechnických závodů, národního podniku.",
+  "title_en": "",
+  "short_name": "1802/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-01",
+  "in_force_date": "1948-08-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1802",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravských elektrotechnických závodů, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. SCANDO-ZÁVODY, akciová společnost, se sídlem v Sobkovicích, spr. okr. Nové Město na Moravě,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Železárny Štěpánov, Jan Matoušek, se sídlem v Štěpánově č. 11, spr. okr. Nové Město na Moravě, vesměs v rozsahu jejich znárodnění, do Moravských elektrotechnických závodů, národního podniku."
+    }
+  ],
+  "definitions": []
+}

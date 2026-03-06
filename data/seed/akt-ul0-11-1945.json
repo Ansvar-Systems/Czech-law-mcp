@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:11/1945",
+  "type": "statute",
+  "title": "11/1945 Ú. l., Vyhláška ministra zemědělství o zrušení Svazu zemědělství a lesnictví pro Čechy a Moravu.",
+  "title_en": "",
+  "short_name": "11/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-05-29",
+  "in_force_date": "1945-05-29",
+  "url": "https://www.e-sbirka.cz/ul0/1945/11",
+  "description": "Vyhláška ministra zemědělství o zrušení Svazu zemědělství a lesnictví pro Čechy a Moravu.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Nařizuji likvidaci Svazu zemědělství a lesnictví pro Čechy a Moravu a všech jeho složek."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Likvidaci provede podle daných směrnic likvidační komise mnou jmenovaná."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Činnost Svazu zemědělství a lesnictví pro Čechy a Moravu a všech jeho složek prozatím pokračuje za dozoru likvidační komise do dne, který určím."
+    },
+    {
+      "provision_ref": "Čl. IV.",
+      "section": "IV",
+      "title": "Čl. IV.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:397/2004",
+  "type": "statute",
+  "title": "397/2004 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 287/2001 Sb., o příspěvku souvisejícím s restrukturalizací a útlumem hnědouhelného hornictví",
+  "title_en": "",
+  "short_name": "397/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-07-07",
+  "in_force_date": "2004-07-07",
+  "url": "https://www.e-sbirka.cz/sb/2004/397",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 287/2001 Sb., o příspěvku souvisejícím s restrukturalizací a útlumem hnědouhelného hornictví",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 287/2001 Sb., o příspěvku souvisejícím s restrukturalizací a útlumem hnědouhelného hornictví, se mění takto:\n1. V § 1 odst. 1 se slova „uvedením Jaderné elektrárny Temelín do provozu“ nahrazují slovy „snížením objemu těžby hnědého uhlí a lignitu dodaného pro energetickou společnost ČEZ, a. s.“.\n2. V § 1 se doplňuje odstavec 3, který zní:\n„(3) Restrukturalizací se pro účely tohoto nařízení rozumí opatření vyvolaná meziročním snižováním objemů těžby. Nárok na příspěvek v daném kalendářním roce vzniká, jestliže skutečný celkový objem hnědého uhlí nebo lignitu dodaný příslušnou hornickou společností energetické společnosti ČEZ, a. s., je v daném roce nižší než v kalendářním roce předchozím.“.\n3. V § 2 odst. 1 se slova „vliv uvedení Jaderné elektrárny Temelín do provozu“ nahrazují slovy „restrukturalizaci hornické společnosti, vyvolanou snížením objemu těžby hnědého uhlí a lignitu dodaného energetické společnosti ČEZ, a. s.“.\n4. V § 2 odst. 2 se věta poslední nahrazuje větami „Další podmínkou je, že se zaměstnanec zaváže neprodleně oznámit hornické společnosti rozhodné skutečnosti, uvedené v § 3 odst. 1, na základě kterých mu podle tohoto nařízení zaniká nárok na příspěvek. Trvání skutečností podle § 3 odst. 1, rozhodných pro poskytnutí příspěvku, dokládá oprávněná osoba k dvacátému dni příslušného kalendářního měsíce čestným prohlášením hornické společnosti, která mu příspěvek vyplácí.“.\n5. V § 4 odst. 1 se slova „, a to na tiskopise vydaném ministerstvem“ zrušují.\n6. V § 4 odst. 2 se slova „po dohodě s Ministerstvem financí“ zrušují.\n7. V § 4 odst. 3 se slovo „bankovním“ nahrazuje slovem „vázaném“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Do snížení objemu těžby hnědého uhlí a lignitu, dodaného pro energetickou společnost ČEZ, a. s., se v roce 2004 započítává i pokles těžby od počátku roku 2004."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Restrukturalizací",
+      "definition": "opatření vyvolaná meziročním snižováním objemů těžby",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

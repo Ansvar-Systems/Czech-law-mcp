@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2114/1946",
+  "type": "statute",
+  "title": "2114/1946 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků průmysl textilního do národního podniku.",
+  "title_en": "",
+  "short_name": "2114/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-12-06",
+  "in_force_date": "1946-12-06",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2114",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků průmysl textilního do národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Textilní závody Burschik a spol., Místek, v rozsahu znárodnění a"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Textilní závody Burschik, Ladek a spol., Frýdek, v rozsahu znárodnění."
+    }
+  ],
+  "definitions": []
+}

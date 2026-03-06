@@ -1,13 +1,13 @@
 {
   "id": "cz:127/2005",
   "type": "statute",
-  "title": "Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
+  "title": "127/2005 Sb., Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
   "title_en": "Electronic Communications Act",
   "short_name": "ZEK",
   "status": "in_force",
   "issued_date": "2005-03-31",
-  "in_force_date": "2005-05-01",
-  "url": "https://www.e-sbirka.cz/sb/2005/127/2026-01-01",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/127",
   "description": "Sets out legal obligations for electronic communications networks and services.",
   "provisions": [
     {
@@ -1411,6 +1411,13 @@
       "content": "V zákoně č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů, ve znění zákona č. 309/2002 Sb., zákona č. 274/2003 Sb. a zákona č. 341/2004 Sb., se za § 24 vkládá nový § 24a, který zní:"
     },
     {
+      "provision_ref": "„§ 24a",
+      "section": "24a",
+      "title": "„§ 24a",
+      "chapter": "ČÁST ČTRNÁCTÁ - Změna zákona o provozování rozhlasového a televizního vysílání",
+      "content": "(1) Ustanovení tohoto zákona týkající se souboru technických parametrů se nevztahují na zemské digitální vysílání.\n(2) Územní rozsah zemského digitálního vysílání Rada stanoví v souladu se stanoviskem Českého telekomunikačního úřadu výčtem okresů, popřípadě obvodů hlavního města Prahy zcela anebo zčásti pokrytých vysíláním.“."
+    },
+    {
       "provision_ref": "§ 165",
       "section": "165",
       "title": "§ 165",
@@ -1509,6 +1516,13 @@
       "content": "Zákon č. 483/1991 Sb., o České televizi, ve znění zákona č. 36/1993 Sb., zákona č. 253/1994 Sb., zákona č. 301/1995 Sb., zákona č. 39/2001 Sb. a zákona č. 231/2001 Sb., se mění takto:\n1. V § 2 odst. 1 se za slovo „programů“ vkládají slova „, popřípadě dalšího multimediálního obsahu a doplňkových služeb“.\n2. V § 3 odst. 1 písm. a) se za slovo „provozuje“ vkládá slovo „analogové“, slovo „celoplošných“ se zrušuje a na konci textu písmene a) se doplňují slova „tak, aby v souběhu zemského analogového a zemského digitálního vysílání byla pro obyvatele České republiky zajištěna možnost příjmu těchto televizních programů v rozsahu podle odstavce 3“.\n3. V § 3 odst. 1 se za písmeno a) vkládají nová písmena b) a c), která včetně poznámky pod čarou č. 1a znějí:\n„b) provozuje zemské digitální televizní vysílání televizních programů uvedených v písmenu a) a dalších alespoň dvou televizních programů zahrnutých v souhrnném datovém toku složeném z dílčích datových toků náležejících televizním a rozhlasovým programům, multimediálnímu obsahu a doplňkovým službám veřejné služby v oblasti televizního a rozhlasového vysílání, upravených pro společné šíření prostřednictvím zemské sítě vysílacích rádiových zařízení s plánovaným pokrytím alespoň 95 % obyvatel České republiky počítaných podle údajů vyplývajících z posledního sčítání lidu1a) (dále jen „multiplex veřejné služby“),\nc) jako provozovatel multiplexu veřejné služby sestavuje společně s Českým rozhlasem souhrnný datový tok a odpovídá za jeho správu a jeho předání k šíření zemskou sítí vysílacích rádiových zařízení,\n1a) § 12 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů.“.\nDosavadní písmena b) až j) se označují jako písmena d) až l).\n4. V § 3 odstavec 2 včetně poznámky pod čarou č. 1b zní:\n„(2) Státní orgán, který vykonává správu kmitočtového spektra podle zvláštního právního předpisu1b), vyhradí v součinnosti s Radou pro rozhlasové a televizní vysílání pro Českou televizi rádiové kmitočty umožňující provozování vysílání v rozsahu stanoveném v odstavci 1 písm. a) a b).\n1b) Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).“.\n5. V § 3 odstavec 3 zní:\n„(3) Celoplošným televizním vysíláním se pro účely tohoto zákona rozumí vysílání, v jehož rámci může určitý televizní program a s tímto programem související povinné doplňkové služby přijímat alespoň 95 % obyvatel České republiky počítaných podle údajů vyplývajících z posledního sčítání lidu1a).“.\n6. Za § 3 se vkládá nový § 3a, který včetně poznámky pod čarou č. 1c zní:"
     },
     {
+      "provision_ref": "„§ 3a",
+      "section": "3a",
+      "title": "„§ 3a",
+      "chapter": "ČÁST DVACÁTÁ PÁTÁ - Změna zákona č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů",
+      "content": "(1) V multiplexu veřejné služby musí být alespoň 80 % souhrnného datového toku vyhrazeno šíření televizních a rozhlasových programů. Zbývající část souhrnného datového toku multiplexu veřejné služby lze využít k šíření doplňkových služeb.\n(2) Česká televize je povinna umístit v multiplexu veřejné služby vysílání programů Českého rozhlasu v rozsahu, jímž Český rozhlas naplňuje veřejnou službu v oblasti zemského digitálního rozhlasového vysílání podle zvláštního právního předpisu1c). Náklady spojené s provozováním multiplexu veřejné služby Česká televize účtuje Českému rozhlasu, popřípadě poskytovatelům doplňkových služeb, podle výše jejich podílu na souhrnném datovém toku multiplexu veřejné služby.\n(3) Televizní programy šířené prostřednictvím multiplexu veřejné služby může Česká televize digitálně šířit rovněž prostřednictvím družic a kabelových sítí.\n1c) § 3 odst. 1 písm. b) zákona č. 484/1991 Sb., o Českém rozhlasu, ve znění pozdějších předpisů.“.\nDosavadní poznámka pod čarou č. 1c se označuje jako poznámka pod čarou č. 1d, a to včetně odkazů na poznámku pod čarou."
+    },
+    {
       "provision_ref": "§ 176",
       "section": "176",
       "title": "§ 176 Přechodná ustanovení",
@@ -1537,5 +1551,421 @@
       "content": "Tento zákon nabývá účinnosti prvním dnem druhého měsíce následujícího po dni jeho vyhlášení.\nPříloha č. 1 k zákonu č. 127/2005 Sb.\nPožadavky na informace poskytované před uzavřením smlouvy podle § 63 zákona o elektronických komunikacích\nA. Poskytovatelé veřejně dostupných služeb elektronických komunikací, jiných než přenosových služeb používaných pro poskytování služeb komunikace mezi stroji, poskytnou tyto informace:\na) v rámci hlavních znaků poskytované služby u služby přístupu k internetu minimální úroveň kvality poskytované služby, u služeb jiných konkrétní zajištěné parametry kvality.\nNejsou-li nabízeny žádné minimální úrovně kvality služeb, učiní se o této skutečnosti prohlášení.\nb) v rámci informací o ceně za poskytovanou službu popřípadě příslušné ceny pro aktivaci služby elektronických komunikací a pro jakékoliv platby, ať pravidelné nebo související se spotřebou,\nc) v rámci informací o délce trvání smlouvy a podmínkách pro obnovení a zánik závazku ze smlouvy, včetně případných plateb za ukončení smluvního vztahu, v míře, v níž se takové podmínky použijí:\n1. jakékoli podmínky týkající se minimálního využívání nebo minimální doby, které jsou vyžadovány, aby bylo možné využívat výhod z propagačních akcí,\n2. jakékoliv platby související se změnou poskytovatele služby a ujednání o odškodnění a náhradě za zdržování nebo zneužívání změny poskytovatele a informace o příslušných postupech,\n3. informace o právu spotřebitelů využívajících předplacené služby na to, aby jim byl v případě změny poskytovatele na žádost proplacen veškerý zůstatek podle § 34 odst. 10,\n4. jakékoli platby při předčasném zániku závazku ze smlouvy, včetně informací o odblokování koncového zařízení a případné úhradě nákladů v souvislosti s koncovým zařízením,\nd) jakákoli ujednání o odškodnění a náhradě, včetně případného výslovného odkazu na práva spotřebitelů, která budou použita v případě nedodržení úrovně kvality služeb stanovené ve smlouvě nebo pokud poskytovatel nereaguje odpovídajícím způsobem na bezpečnostní incident, hrozbu nebo zranitelnost,\ne) druh opatření, jež může poskytovatel přijmout v reakci na bezpečnostní incidenty nebo při zjištění hrozby či zranitelnosti.\nB.\n(1) Mimo požadavků stanovených v části A poskytovatelé služeb přístupu k internetu a veřejně dostupných interpersonálních komunikačních služeb poskytnou tyto informace:\na) v rámci hlavních znaků každé poskytované služby:\n1. jakékoli minimální úrovně kvality služeb, pokud jsou nabízeny, v souladu s opatřením obecné povahy, které Úřad vydává podle § 71 odst. 6, a to pokud jde o tyto prvky:\n- u služeb přístupu k internetu: alespoň latenci, kolísání kvality přenosu, ztrátovost paketů,\n- u veřejně dostupných interpersonálních komunikačních služeb, poskytovatelé, kteří vykonávají kontrolu alespoň nad některými prvky sítě nebo mají dohodu o rozsahu služeb za tímto účelem s podniky poskytujícími přístup k síti: alespoň dobu pro navázání spojení, pravděpodobnost selhání, zpoždění signalizace volání, a\n2. bez ohledu na právo koncových uživatelů na využívání koncového zařízení podle vlastního výběru v souladu s přímo použitelným předpisem Evropské unie, kterým se stanoví opatření týkající se přístupu k otevřenému internetu85), jakékoliv podmínky, včetně plateb, stanovené poskytovatelem pro využívání poskytnutého koncového zařízení,\nb) v rámci informací o ceně, popřípadě příslušné ceny pro aktivaci služby elektronických komunikací a pro jakékoliv platby ať pravidelné nebo související se spotřebou:\n1. podrobné informace o konkrétním plánu nebo plánech sazeb podle smlouvy, u každého takového plánu sazeb s uvedením typu nabízených služeb, popřípadě objemu komunikace zahrnutého v zúčtovacím období, a ceny dodatečných jednotek komunikace,\n2. v případě plánu nebo plánů sazeb s předem stanoveným objemem komunikace možnost převedení spotřebitelem nevyužitého objemu z předchozího do následujícího zúčtovacího období, je-li tato možnost uvedena ve smlouvě,\n3. nástroje k zaručení transparentnosti vyúčtování a sledování úrovně spotřeby,\n4. u balíčků služeb a balíčků, které zahrnují služby i koncové zařízení, cenu jednotlivých složek balíčku, pokud jsou nabízeny též samostatně,\n5. podrobné informace a podmínky, včetně plateb, ohledně veškerých poprodejních služeb, údržby a asistenční služby pro zákazníky, a\n6. prostředky, jimiž lze získat aktuální informace o všech uplatňovaných sazbách a plateb za provoz a údržbu,\nc) v rámci informací o délce trvání smlouvy u balíčků služeb a podmínkách pro obnovení a zánik závazku ze smlouvy, popřípadě podmínky ukončení balíčku nebo jeho složek,\nd) bez ohledu na přímo použitelný předpis Evropské unie upravující ochranu osobních údajů86), informace o tom, jaké osobní údaje jsou podávány před zahájením plnění služby nebo jsou shromažďovány v souvislosti s poskytováním služby,\ne) podrobné informace o produktech a službách určených pro koncové uživatele se zdravotním postižením a o tom, jak lze získat aktuální informace o nich,\nf) způsob zahájení řízení o řešení sporů, včetně sporů vnitrostátních a přeshraničních, podle § 129.\n(2) Vedle požadavků stanovených v části A a v odstavci 1 poskytovatelé veřejně dostupných interpersonálních komunikačních služeb založených na číslech poskytnou tyto informace:\na) jakákoli omezení přístupu k tísňovým službám nebo informacím o tom, kde se volající nachází, z důvodu technické neproveditelnosti, pokud služba umožňuje koncovým uživatelům uskutečňovat volání na číslo národního nebo mezinárodního telefonního číslovacího plánu,\nb) právo koncových uživatelů rozhodnout o tom, zda mají být jejich osobní údaje uvedeny v účastnickém seznamu, a to, o jaké druhy údajů se jedná.\n(3) Vedle požadavků stanovených v části A a v odstavci 1 poskytovatelé služeb přístupu k internetu rovněž poskytnou informace požadované podle přímo použitelného předpisu Evropské unie, kterým se stanoví opatření týkající se přístupu k otevřenému internetu87).\nPříloha č. 2 k zákonu č. 127/2005 Sb.\nKritéria pro posuzování nabídek pro společné investice\nPři posuzování nabídky na společnou investici podle § 85a odst. 1 Úřad ověří, zda jsou splněna alespoň níže uvedená kritéria. Úřad může zvážit doplnění dalších kritérií, pokud jsou s ohledem na specifické místní podmínky a strukturu trhu potřebná k zajištění přístupnosti potenciálních investorů pro účely společných investic:\n1. Nabídka na společnou investici je po dobu životnosti sítě vybudované na základě nabídky na společnou investici otevřena jakémukoli podniku na nediskriminačním základě. Podnik určený jako podnik s významnou tržní silou může do nabídky zahrnout přiměřené podmínky týkající se finanční způsobilosti podniku, takže potenciální spoluinvestoři například musí prokázat schopnost postupného splácení, podle nějž se plánuje zavádění, nebo přijetí strategického plánu, na jehož základě se vypracovávají střednědobé plány zavádění.\n2. Nabídka na společnou investici je transparentní, pokud:\na) nabídka je dostupná a snadno identifikovatelná na webových stránkách podniku určeného jako podnik s významnou tržní silou,\nb) podmínky se všemi podrobnostmi, včetně právní formy dohody o společné investici a v příslušných případech hlavních bodů pravidel řízení nástroje pro společnou investici, jsou zpřístupněny bez zbytečného odkladu všem potenciálním uchazečům, kteří projevili zájem, a\nc) proces, například plán pro vytvoření a rozvoj projektu společné investice, je stanoven předem, je jasně a písemně vysvětlen každému potenciálnímu spoluinvestorovi a všechny významné dílčí cíle jsou jasně sdělovány všem podnikům bez jakékoli diskriminace.\n3. Nabídka na společnou investici obsahuje takové podmínky pro potenciální spoluinvestory, které podporují udržitelnou hospodářskou soutěž v dlouhodobém horizontu, zejména:\na) všem podnikům jsou nabídnuty spravedlivé, přiměřené a nediskriminační podmínky pro účast na dohodě o společné investici s ohledem na okamžik, kdy se připojí, včetně požadovaného finančního protiplnění za získání zvláštních práv, ochrany poskytované spoluinvestorům prostřednictvím těchto práv jak ve fázi výstavby, tak ve fázi využívání, například udělením nezcizitelných práv na užívání po očekávanou dobu životnosti sítě financované ze společné investice, a podmínek pro připojení se k dohodě o společné investici a její případné ukončení. Nediskriminační podmínky v této souvislosti neznamenají, že všem potenciálním spoluinvestorům musí být nabídnuty přesně stejné podmínky včetně finančních, ale že všechny rozdíly v nabízených podmínkách jsou odůvodněny týmiž objektivními, transparentními, nediskriminačními a předvídatelnými kritérii, jako je počet přípojek koncových uživatelů, který je předmětem závazku,\nb) nabídka umožňuje flexibilitu, pokud jde o hodnotu a časový plán závazků poskytnutých jednotlivými spoluinvestory, například formou dohodnutého a potenciálně rostoucího procentního podílu z celkového počtu přípojek koncových uživatelů v dané oblasti, k nimž se spoluinvestoři mohou postupně zavázat a jejichž jednotkový objem se stanoví tak, aby menší spoluinvestoři s omezenými zdroji mohli vstoupit do společné investice v přiměřeném, minimálním rozsahu a postupně zvyšovat svou účast, ale byly zaručeny přiměřené úrovně počátečního závazku. Při stanovení finančních protiplnění požadovaných od jednotlivých spoluinvestorů se musí zohlednit skutečnost, že investoři v časnější fázi podstupují vyšší riziko a dříve vynakládají kapitál,\nc) příplatek, který se časem zvyšuje, je třeba považovat za odůvodněný v případě závazků učiněných v pozdějších fázích a pro nové spoluinvestory, kteří do společné investice vstupují až po zahájení projektu, aby se zohlednilo klesající riziko a předešlo motivaci k zadržování kapitálu v raných fázích,\nd) dohoda o společné investici umožňuje spoluinvestorům převést nabytá práva na jiné spoluinvestory nebo třetí strany ochotné připojit se k dohodě o společné investici, s výhradou toho, že podnik, na nějž jsou práva převáděna, musí splnit všechny původní povinnosti převodce podle dohody o společné investici,\ne) spoluinvestoři si za spravedlivých a přiměřených podmínek navzájem udělují práva přístupu k infrastruktuře, jež je předmětem společné investice, pro účely poskytování navazujících služeb, též koncovým uživatelům, a to na základě transparentních podmínek, které jsou transparentně uvedeny v nabídce na společnou investici a v následné dohodě, zejména pokud jsou spoluinvestoři individuálně a odděleně odpovědní za zavedení konkrétních částí sítě. Je-li vytvořen nástroj pro společnou investici, poskytuje přímo či nepřímo přístup k síti všem spoluinvestorům na základě rovnocennosti vstupů a za spravedlivých a přiměřených podmínek, včetně finančních podmínek odrážejících různé úrovně rizika podstupovaného jednotlivými spoluinvestory.\n4. Nabídka na společnou investici musí zaručit udržitelnou investici, která pravděpodobně splní budoucí potřeby, a to zaváděním nových síťových prvků, které významně přispívají k zavádění sítí s velmi vysokou kapacitou.\n1) Směrnice Evropského parlamentu a Rady (EU) 2018/1972 ze dne 11. prosince 2018, kterou se stanoví evropský kodex pro elektronické komunikace.\nSměrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací (Směrnice o soukromí a elektronických komunikacích), ve znění směrnice Evropského parlamentu a Rady 2009/136/ES ze dne 25. listopadu 2009, kterou se mění směrnice 2002/22/ES o univerzální službě a právech uživatelů týkajících se sítí a služeb elektronických komunikací, směrnice 2002/58/ES o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací a nařízení (ES) č. 2006/2004 o spolupráci mezi vnitrostátními orgány příslušnými pro vymáhání dodržování zákonů na ochranu zájmů spotřebitele.\nSměrnice Komise 2002/77/ES o hospodářské soutěži na trzích sítí a služeb elektronických komunikací.\nSměrnice 2014/53/EU Evropského parlamentu a Rady ze dne 16. dubna 2014 o harmonizaci právních předpisů členských států týkajících se dodávání rádiových zařízení na trh a zrušení směrnice 1999/5/ES ve znění nařízení Evropského parlamentu a Rady (EU) 2018/1139 ze dne 4. července 2018 o společných pravidlech v oblasti civilního letectví a o zřízení Agentury Evropské unie pro bezpečnost letectví, kterým se mění nařízení (ES) č. 2111/2005, (ES) č. 1008/2008, (EU) č. 996/2010, (EU) č. 376/2014 a směrnice Evropského parlamentu a Rady 2014/30/EU a 2014/53/EU a kterým se zrušuje nařízení Evropského parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nařízení Rady (EHS) č. 3922/91.\n2) Zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění pozdějších předpisů.\n3) Například zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů, zákon č. 110/2019 Sb., o zpracování osobních údajů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů.\n5a) Nařízení Evropského parlamentu a Rady (EU) 2022/612 ze dne 6. dubna 2022 o roamingu ve veřejných mobilních komunikačních sítích v Unii.\n5a) Nařízení Evropského parlamentu a Rady (ES) č. 717/2007 ze dne 27. června 2007 o roamingu ve veřejných mobilních telefonních sítích ve Společenství a o změně směrnice 2002/21/ES.\n5b) Nařízení Evropského parlamentu a Rady (ES) č. 717/2007 ze dne 27. června 2007 o roamingu ve veřejných mobilních telefonních sítích ve Společenství a o změně směrnice 2002/21 ES.\n6) § 2 písm. b) zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.\n7) Čl. 2 ústavního zákona č. 110/1998 Sb., o bezpečnosti České republiky.\n8) Nařízení vlády č. 480/2000 Sb., o ochraně zdraví před neionizujícím zářením.\n9) Zákon č. 110/1998 Sb.\n10) § 40 zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.\n10a) Zákon č. 111/2009 Sb., o základních registrech.\n10a) Rozhodnutí Komise 2007/344/ES ze dne 16. května 2007 o harmonizované dostupnosti informací o využívání spektra ve Společenství.\n10b) Rozhodnutí Komise 2007/344 ES ze dne 16. května 2007 o harmonizované dostupnosti informací o využívání spektra ve Společenství.\n11) Zákon č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů.\n12) Zákon č. 49/1997 Sb., o civilním letectví, ve znění pozdějších předpisů.\n13) Zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů.\n14) Zákon č. 61/2000 Sb., o námořní plavbě.\n16) Zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů.\nZákon č. 484/1991 Sb., o Českém rozhlasu, ve znění pozdějších předpisů.\n16a) Směrnice Evropského parlamentu a Rady 2009/214/ES, kterou se mění směrnice Rady č. 87/372/EHS o frekvenčních pásmech vyhrazených pro koordinované zavedení veřejných celoevropských buňkových digitálních pozemních mobilních komunikačních systémů ve Společenství.\n16c) § 115 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů.\n17) Vyhláška č. 138/2000 Sb., o radiotelefonním provozu na vnitrozemských vodních cestách.\n18) Zákon č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace).\n18a) Rozhodnutí Komise 2007/116/ES ze dne 15. února 2007 o vyhrazení vnitrostátního číselného rozsahu pro harmonizovaná čísla harmonizovaných služeb se sociální hodnotou.\n20) § 8 zákona č. 108/2006 Sb., o sociálních službách.\n23) Čl. 64 směrnice Evropského parlamentu a Rady (EU) 2018/1972.\n24) Zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů.\n24a) Zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.\n25) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.\n26) Nařízení vlády č. 426/2000 Sb., kterým se stanoví technické požadavky na rádiová a na telekomunikační koncová zařízení, ve znění pozdějších předpisů.\n27) Zákon č. 64/1986 Sb., o České obchodní inspekci, ve znění pozdějších předpisů.\n28) § 18 odst. 2 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů.\n§ 6 odst. 1 zákona č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce.\n29) Rozhodnutí Komise č. 2003/548/ES o minimálním souboru pronajatých okruhů s harmonizovanými vlastnostmi a o souvisejících normách podle článku 18 směrnice o univerzální službě.\n30) § 66a zákona č. 513/1991 Sb.\n32) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\n36) § 88 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů.\n37) § 6 až 8 zákona č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění pozdějších předpisů.\n37a) § 9 a 10 zákona č. 289/2005 Sb., o Vojenském zpravodajství.\n39) Zákon č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon).\nÚstavní zákon č. 110/1998 Sb., o bezpečnosti České republiky.\n40) Nařízení vlády č. 18/2003 Sb., kterým se stanoví technické požadavky na výrobky z hlediska jejich elektromagnetické kompatibility.\n42) Zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.\n46) Zákon č. 451/1991 Sb., kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky, ve znění pozdějších předpisů.\n47) Zákon č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů.\n48) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.\n48a) § 152 odst. 5 správního řádu.\n48b) § 101 písm. e) zákona č. 500/2004 Sb., správní řád.\n49) § 2 písm. r) a § 4 odst. 1 písm. i) zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů.\n49a) Zákon č. 89/2012 Sb., občanský zákoník.\n54) Zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.\nNařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením, ve znění nařízení vlády č. 106/2010 Sb.\n55) § 147 správního řádu.\n56) § 37 odst. 4 správního řádu.\n57) Doporučení Mezinárodní telekomunikační unie E.169 a E.152.\n57a) § 146 správního řádu.\n58) Zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů.\n59) Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů.\n60) Zákon č. 273/2008 Sb., o Policii České republiky, ve znění pozdějších předpisů.\nZákon č. 137/2001 Sb., o zvláštní ochraně svědka a dalších osob v souvislosti s trestním řízením a o změně zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů.\n61) Zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů.\n62) § 7 odst. 2 zákona č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti).\n64) Zákon č. 89/2012 Sb., občanský zákoník.\n65) § 20h odst. 4 zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.\n66) § 20f písm. l) zákona č. 634/1992 Sb., ve znění pozdějších předpisů.\n67) § 105 a 106 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů.\n69) Nařízení Evropského parlamentu a Rady (EU) 2015/2120 ze dne 25. listopadu 2015, kterým se stanoví opatření týkající se přístupu k otevřenému internetu a maloobchodní ceny za regulovanou komunikaci v rámci Unie a mění směrnice 2002/22/ES a nařízení (EU) č. 531/2012, v platném znění.\n70) § 16e zákona č. 289/2005 Sb., ve znění zákona č. 150/2021 Sb.\n70) Nařízení Rady (ES) č. 139/2004 ze dne 20. ledna 2004 o kontrole spojování podniků.\n70a) § 16b zákona č. 151/1997 Sb., o oceňování majetku.\n71) § 16a odst. 2 zákona č. 289/2005 Sb., ve znění zákona č. 150/2021 Sb.\n71) Čl. 2 druhý pododstavec bodu 2 nařízení Evropského parlamentu a Rady č. 2015/2120.\n72) § 16c zákona č. 289/2005 Sb., ve znění zákona č. 150/2021 Sb.\n72) Zákon č. 240/2000 Sb.\n73) Zákon č. 231/2001 Sb.\nZákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti), ve znění pozdějších předpisů.\nZákon č. 132/2010 Sb., o audiovizuálních mediálních službách a o změně některých zákonů (zákon o audiovizuálních mediálních službách na vyžádání), ve znění pozdějších předpisů.\n74) Zákon č. 181/2014 Sb.\nZákon č. 240/2000 Sb.\nZákon č. 412/2005 Sb.\n76) Směrnice Evropského parlamentu a Rady (EU) 2019/882 ze dne 17. dubna 2019 o požadavcích na přístupnost u výrobků a služeb.\n77) Doporučení Komise 2003/361/ES ze dne 6. května 2003 o definici mikropodniků a malých a středních podniků.\n78) Prováděcí nařízení Komise (EU) 2019/2243 ze dne 17. prosince 2019, kterým se stanoví šablona shrnutí smlouvy, kterou mají použít poskytovatelé veřejně dostupných služeb elektronických komunikací podle směrnice Evropského parlamentu a Rady (EU) 2018/1972.\n79) Článek 4 odst. 1 písm. d) a e) nařízení (EU) 2015/2120.\n80) Nařízení Evropského parlamentu a Rady (EU) č. 347/2013 ze dne 17. dubna 2013, kterým se stanoví hlavní směry pro transevropské energetické sítě a kterým se zrušuje rozhodnutí č. 1364/2006/ES a mění nařízení (ES) č. 713/2009, (ES) č. 714/2009 a (ES) č. 715/2009.\n81) § 18 odst. 2 zákona č. 300/2008 Sb.\n§ 6 odst. 1 zákona č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce.\n82) Nařízení Evropského parlamentu a Rady (EU) 2018/1971 ze dne 11. prosince 2018 o zřízení Sdružení evropských regulačních orgánů v oblasti elektronických komunikací (BEREC) a Agentury na podporu BEREC (Úřad BEREC), o změně nařízení (EU) 2015/2120 a o zrušení nařízení (ES) č. 1211/2009.\n83) Nařízení Evropského parlamentu a Rady (EU) č. 531/2012 ze dne 13. června 2012 o roamingu ve veřejných mobilních komunikačních sítích v Unii.\n84) Prováděcí nařízení Komise (EU) č. 1203/2012 ze dne 14. prosince 2012 o odděleném prodeji regulovaných maloobchodních roamingových služeb v Unii.\n85) Článek 3 odst. 1 nařízení (EU) 2015/2120.\n86) Článek 13 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).\n87) Článek 4 odst. 1 nařízení (EU) 2015/2120.\n88) § 55 odst. 2 zákona č. 111/2006 Sb., ve znění pozdějších předpisů.\n89) Prováděcí nařízení Komise (EU) 2020/1070 ze dne 20. července 2020 o specifikaci vlastností bezdrátových přístupových bodů s malým dosahem podle čl. 57 odst. 2 směrnice Evropského parlamentu a Rady (EU) 2018/1972, kterou se stanoví evropský kodex pro elektronické komunikace.\n90) § 4 a § 82 odst. 1 zákona č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.\n91) § 82 odst. 1 zákona č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.\n92) Nařízení Komise (EU) č. 1178/2011 ze dne 3. listopadu 2011, kterým se stanoví technické požadavky a správní postupy týkající se posádek v civilním letectví podle nařízení Evropského parlamentu a Rady (ES) č. 216/2008, v platném znění.\n93) Zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.\nZákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů.\n94) Nařízení Evropského parlamentu a Rady (EU) 2024/1309 ze dne 29. dubna 2024 o opatřeních ke snížení nákladů na budování gigabitových sítí elektronických komunikací, o změně nařízení (EU) 2015/2120 a o zrušení směrnice 2014/61/EU (nařízení o gigabitové infrastruktuře)."
     }
   ],
-  "definitions": []
+  "definitions": [
+    {
+      "term": "účastníkem",
+      "definition": "každý, kdo uzavřel s podnikatelem poskytujícím veřejně dostupné služby elektronických komunikací smlouvu o poskytování těchto služeb",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "uživatelem",
+      "definition": "každý, kdo využívá nebo žádá veřejně dostupnou službu elektronických komunikací",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "koncovým uživatelem",
+      "definition": "uživatel, který nezajišťuje veřejnou komunikační síť nebo veřejně dostupnou službu elektronických komunikací",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "operátorem",
+      "definition": "podnikatel, který zajišťuje nebo je oprávněn zajišťovat veřejnou komunikační síť nebo přiřazené prostředky",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zajišťováním sítě elektronických komunikací",
+      "definition": "zřízení této sítě, její provozování, dohled nad ní nebo její zpřístupnění",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "vertikálně integrovaným podnikem",
+      "definition": "podnikatel, který provozuje síť elektronických komunikací a který zároveň poskytuje služby elektronických komunikací na maloobchodním nebo velkoobchodním trhu, nebo skupina podnikatelů, podléhají-li jejich vzájemné vztahy působnosti přímo použitelného předpisu Evropské unie70), kteří zajišťují síť elektronických komunikací a zároveň poskytují služby elektronických komunikací na maloobchodním i velkoobchodním trhu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "neziskovou organizací veřejně prospěšná",
+      "definition": "právnická osoba, která podle svého zakladatelského právního jednání nerozděluje zisk ani jiné vlastní zdroje mezi své členy.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přiřazenými prostředky přiřazené služby",
+      "definition": "prostředky fyzické infrastruktury a jiná zařízení nebo prvky související se sítí elektronických komunikací nebo službou elektronických komunikací, které umožňují nebo podporují poskytování služeb prostřednictvím této sítě nebo služby nebo jsou toho schopny, a zahrnují budovy nebo vstupy do budov, kabelové rozvody v budovách, antény, věže a jiné podpůrné konstrukce, kabelovody, potrubí, stožáry, vstupní šachty a rozvodné skříně",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "sítí elektronických komunikací přenosové systémy",
+      "definition": "bez ohledu na to, zda jsou založeny na trvalé infrastruktuře nebo jsou centralizovaně kapacitně řízené, nebo nikoli, a popřípadě i spojovací nebo směrovací zařízení a jiné prostředky, včetně neaktivních síťových prvků, které umožňují přenos signálů po vedení, rádiovými, optickými nebo jinými elektromagnetickými prostředky, včetně družicových sítí, pevných sítí okruhově nebo paketově komutovaných včetně internetu, mobilních sítí, sítí pro rozvod elektrické energie v rozsahu, v jakém jsou používány pro přenos signálů, sítí pro rozhlasové a televizní vysílání a sítí kabelové televize, bez ohledu na typ přenášené informace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "elektronickým komunikačním zařízením technické",
+      "definition": "zařízení pro vysílání, přenos, směrování, spojování nebo příjem signálů prostřednictvím elektromagnetických vln",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "veřejnou komunikační sítí",
+      "definition": "síť elektronických komunikací, která slouží zcela nebo převážně k poskytování veřejně dostupných služeb elektronických komunikací a která podporuje přenos informací mezi koncovými body sítě, nebo síť elektronických komunikací, jejímž prostřednictvím je poskytovaná služba šíření rozhlasového a televizního vysílání; koncový bod veřejné komunikační sítě; rozhraní pro propojování veřejných komunikačních sítí nebo přístup k nim, nebo; rádiové rozhraní pro cestu rádiových vln mezi rádiovými zařízeními; a jejich technické specifikace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "koncovým bodem sítě fyzický bod",
+      "definition": "ve kterém je koncovému uživateli poskytován přístup k veřejné komunikační síti; v případě sítí zahrnujících komutaci nebo směrování je tento bod určen konkrétní síťovou adresou, která může být spojena s číslem nebo jménem účastníka",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "sítí s velmi vysokou kapacitou",
+      "definition": "síť elektronických komunikací, která se zcela sestává z optických prvků alespoň do distribučního bodu v obslužném místě, nebo síť elektronických komunikací, která je schopna za obvyklých podmínek v době špičky dosahovat podobné výkonnosti, pokud jde o dostupnou přenosovou rychlost pro stahování a vkládání dat, odolnost, parametry související s chybovostí a latenci a její kolísání; výkonnost sítě lze považovat za podobnou bez ohledu na to, zda se vnímání ze strany koncového uživatele liší kvůli odlišným vlastnostem vyplývajícím z podstaty média, kterým je síť nakonec spojena s koncovým bodem sítě.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "službou elektronických komunikací",
+      "definition": "služba obvykle poskytovaná za úplatu prostřednictvím sítí elektronických komunikací, která s výjimkou služeb poskytujících obsah přenášený prostřednictvím sítí a služeb elektronických komunikací nebo vykonávajících redakční dohled nad tímto obsahem zahrnuje tyto druhy služeb:; službu přístupu k internetu71); interpersonální komunikační službu; služby spočívající zcela nebo převážně v přenosu signálů, například přenosové služby používané pro poskytování služby komunikace mezi stroji a pro rozhlasové a televizní vysílání",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "interpersonální komunikační službou",
+      "definition": "služba obvykle poskytovaná za úplatu, která prostřednictvím sítí elektronických komunikací umožňuje přímou interpersonální a interaktivní výměnu informací mezi konečným počtem osob, kdy osoby, které komunikaci zahajují nebo se jí účastní, určují příjemce informace, a která nezahrnuje služby, jež interpersonální a interaktivní komunikaci umožňují pouze jako nepodstatnou pomocnou funkci, která je ze své podstaty spjata s jinou službou",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "interpersonální komunikační službou založenou na číslech interpersonální komunikační",
+      "definition": "služba, která je spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která umožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "interpersonální komunikační službou nezávislou na číslech interpersonální komunikační",
+      "definition": "služba, která není spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která neumožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "veřejně dostupnou službou elektronických komunikací",
+      "definition": "služba elektronických komunikací, z jejíhož využívání není nikdo předem vyloučen",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "hlasovou komunikační službou veřejně dostupná",
+      "definition": "služba elektronických komunikací pro uskutečňování a přijímání, a to přímo nebo nepřímo, národních nebo mezinárodních volání prostřednictvím jednoho nebo více čísel národního nebo mezinárodního číslovacího plánu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "radiokomunikační službou komunikační",
+      "definition": "činnost, která spočívá v přenosu, vysílání nebo příjmu signálů prostřednictvím rádiových vln",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "voláním",
+      "definition": "spojení uskutečněné prostřednictvím veřejně dostupné interpersonální komunikační služby, které umožňuje obousměrnou hlasovou komunikaci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "sdíleným využíváním rádiového spektra",
+      "definition": "přístup dvou nebo více subjektů k využívání týchž kmitočtových pásem; podle stanoveného mechanismu sdílení určeného na základě všeobecného oprávnění, přídělu rádiových kmitočtů nebo individuálního oprávnění k využívání rádiových kmitočtů anebo jejich kombinace, včetně regulačních přístupů jako například sdílení přístupu k rádiovým kmitočtům, který má usnadnit sdílené využívání kmitočtového pásma, nebo; na základě dohody zúčastněných subjektů v souladu s pravidly pro sdílení uvedenými ve všeobecném oprávnění, individuálním oprávnění k využívání rádiových kmitočtů nebo přídělu rádiových kmitočtů, aby byly pro všechny subjekty zajištěny předvídatelné a spolehlivé mechanismy sdílení, a aniž by bylo dotčeno právo hospodářské soutěže",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "přiřazenou službou",
+      "definition": "služba související se sítí elektronických komunikací nebo službou elektronických komunikací, která umožňuje nebo podporuje poskytování, samoobslužnou nebo automatickou aktivaci služeb prostřednictvím této sítě nebo služby nebo je toho schopna a zahrnuje systémy převodu čísel, nebo systémy nabízející rovnocenné funkce, systémy podmíněného přístupu a elektronické programové průvodce, jakož i jiné služby, například služby určení totožnosti, místa nebo přítomnosti.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "škodlivou interferencí",
+      "definition": "rušení, které ohrožuje funkčnost radionavigační služby nebo jiných bezpečnost zajišťujících radiokomunikačních služeb nebo které jinak vážně zhoršuje, znemožňuje nebo opakovaně přerušuje radiokomunikační služby provozované v souladu s tímto zákonem a jinými právními předpisy, se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce, a se závazky vyplývajícími z členství České republiky v Evropské unii nebo jiné mezinárodní organizaci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "tísňovou komunikací",
+      "definition": "komunikace pomocí interpersonálních komunikačních služeb mezi koncovým uživatelem a centrem tísňové komunikace, jejímž cílem je požadovat a získat od tísňových služeb pomoc při mimořádných událostech",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "tísňovou službou",
+      "definition": "složka integrovaného záchranného systému",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "centrem tísňové",
+      "definition": "komunikace místo, kde je jako první přijata tísňová komunikace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "nejvhodnějším centrem tísňové",
+      "definition": "komunikace předem určené centrum tísňové komunikace, které má vyřizovat tísňovou komunikaci z určité oblasti nebo tísňovou komunikaci určitého typu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "harmonizovaným rádiovým spektrem rádiové spektrum",
+      "definition": "pro jehož dostupnost a efektivní využívání byly stanoveny harmonizované podmínky prostřednictvím technických prováděcích opatření v souladu s článkem 4 rozhodnutí Evropského parlamentu a Rady č. 676/2002/ES ze dne 7. března 2002 o předpisovém rámci pro politiku rádiového spektra v Evropském společenství (rozhodnutí o rádiovém spektru).",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Zvláštními povinnostmi při zajišťování sítí elektronických komunikací",
+      "definition": "povinnosti",
+      "source_provision": "§ 11"
+    },
+    {
+      "term": "změna skutečností",
+      "definition": "na základě kterých bylo všeobecné oprávnění vydáno",
+      "source_provision": "§ 12"
+    },
+    {
+      "term": "Správou rádiového spektra",
+      "definition": "sestavování návrhu plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) a jeho změn, sestavování plánu využití rádiového spektra, udělování individuálního oprávnění k využívání rádiových kmitočtů, udělování přídělu rádiových kmitočtů, udělování souhlasu k převodu přídělu rádiových kmitočtů nebo jeho části, přidělování volacích značek a identifikačních čísel a kódů, koordinace rádiových kmitočtů a kmitočtových pásem a kontrola využívání rádiového spektra",
+      "source_provision": "§ 15"
+    },
+    {
+      "term": "Využíváním rádiových kmitočtů",
+      "definition": "jejich používání pro radiokomunikační službu nebo k zajišťování sítě elektronických komunikací, jejímž prostřednictvím jsou poskytovány služby elektronických komunikací nebo radiokomunikační služby",
+      "source_provision": "§ 15"
+    },
+    {
+      "term": "Experimentálním účelem",
+      "definition": "využívání rádiových kmitočtů pro výzkum, vývoj a provozní ověřování nových vysílacích rádiových zařízení, nebo ověřování a zjišťování fyzikálních vlastností šíření rádiových vln",
+      "source_provision": "§ 19b"
+    },
+    {
+      "term": "Přídělem rádiových kmitočtů",
+      "definition": "udělení práva k využívání rádiových kmitočtů podle podmínek, které budou Úřadem stanoveny v oprávnění k využívání rádiových kmitočtů",
+      "source_provision": "§ 22"
+    },
+    {
+      "term": "Registrací družicové sítě nebo soustavy",
+      "definition": "postup při provádění předběžné ohlášky, kmitočtové koordinace nebo notifikace anebo zápisu družicové sítě nebo soustavy do Základního mezinárodního rejstříku rádiových kmitočtů (MIFR)",
+      "source_provision": "§ 26a"
+    },
+    {
+      "term": "Radiokomunikačním účtem",
+      "definition": "účet, který není součástí státního rozpočtu",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "náklady na technické úpravy",
+      "definition": "zařízení v případě změny přiděleného rádiového kmitočtu nebo změny jeho technických parametrů",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "zůstatková",
+      "definition": "cena zařízení používaného pro dosavadní způsob využívání rádiových kmitočtů a vyřazeného v důsledku změn ve využívání rádiových kmitočtů",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "náklady na demontáž a vyřazení",
+      "definition": "zařízení pro dosavadní způsob využívání rádiových kmitočtů z provozu",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "náklady na montáž a uvedení do provozu",
+      "definition": "zařízení nahrazujícího vyřazené zařízení a",
+      "source_provision": "§ 27"
+    },
+    {
+      "term": "Správou čísel",
+      "definition": "sestavování číslovacích plánů, pravidel pro tvorbu adres a jmen s výjimkou internetových adres (dále jen „číslovací plány“) a provádění jejích změn, udělování, provádění změn a odnímání oprávnění k využívání čísel, evidence a kontrola jejich využívání",
+      "source_provision": "§ 28"
+    },
+    {
+      "term": "Zlomyslným voláním nebo jinou zlomyslnou komunikací na tísňová čísla",
+      "definition": "volání nebo jiná komunikace na tato čísla za jiným účelem, než podle odstavce 1",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "Geografickým číslem",
+      "definition": "číslo z číslovacího plánu, kde část jeho číselné struktury obsahuje geografický význam užívaný pro směrování komunikace na fyzické umístění koncového bodu veřejné komunikační sítě",
+      "source_provision": "§ 34"
+    },
+    {
+      "term": "Negeografickým číslem",
+      "definition": "číslo z číslovacího plánu, které není geograficky vázaným číslem, zejména číslo pro přístup ke službám na účet volaného, ke službám s vyjádřenou cenou a účastnické číslo veřejné mobilní komunikační sítě",
+      "source_provision": "§ 34"
+    },
+    {
+      "term": "Osobou se zvláštními sociálními potřebami",
+      "definition": "spotřebitel, který je osobou se zdravotním postižením podle § 43 odst",
+      "source_provision": "§ 38"
+    },
+    {
+      "term": "Poskytovatelem univerzální služby",
+      "definition": "osoba, které byla uložena povinnost poskytovat jednu nebo více dílčích služeb uvedených v odstavci 2 nebo poskytovat zvláštní ceny podle odstavce 3",
+      "source_provision": "§ 38"
+    },
+    {
+      "term": "Službou přiměřeného přístupu k internetu v pevném místě",
+      "definition": "pro účely univerzální služby služba, která umožňuje využívat nejméně tyto služby:",
+      "source_provision": "§ 40"
+    },
+    {
+      "term": "Připojením potřebným pro využívání služby podle odstavců 1 a 3",
+      "definition": "zřízení a provozování koncového bodu sítě",
+      "source_provision": "§ 40"
+    },
+    {
+      "term": "Čistými náklady",
+      "definition": "náklady, které se vypočítají jako rozdíl mezi efektivně a účelně vynaloženými náklady podnikatele s povinností poskytovat univerzální službu a efektivně a účelně vynaloženými náklady podnikatele bez povinnosti poskytovat univerzální službu, včetně přiměřené míry návratnosti investic a se zohledněním nákladů, kterým by se podnikatel vyhnul, kdyby neměl povinnost poskytovat univerzální službu, a se zohledněním tržních výhod, které vznikly podnikateli při poskytování univerzální služby",
+      "source_provision": "§ 48"
+    },
+    {
+      "term": "Nákladově orientovanou cenou",
+      "definition": "cena, která zahrnuje efektivně a účelně vynaložené náklady a přiměřený zisk",
+      "source_provision": "§ 55"
+    },
+    {
+      "term": "Službou identifikace účastnického čísla podle odstavce 1",
+      "definition": "poskytnutí údajů o osobách podle § 95 odst",
+      "source_provision": "§ 67"
+    },
+    {
+      "term": "Přístrojem",
+      "definition": "zařízení, které je rádiovým zařízením nebo telekomunikačním koncovým zařízením anebo obojím",
+      "source_provision": "§ 73"
+    },
+    {
+      "term": "Rádiovým zařízením",
+      "definition": "elektrický nebo elektronický výrobek, který záměrně vysílá nebo přijímá rádiové vlny pro účely rádiové komunikace nebo rádiového určování, nebo elektrický nebo elektronický výrobek, který je třeba doplnit příslušenstvím, například anténou, aby mohl záměrně vysílat nebo přijímat rádiové vlny pro účely rádiové komunikace nebo rádiového určování",
+      "source_provision": "§ 73"
+    },
+    {
+      "term": "Telekomunikačním koncovým zařízením",
+      "definition": "zařízení přímo nebo nepřímo připojené k rozhraní veřejné komunikační sítě, které může vysílat, zpracovávat nebo přijímat informace bez ohledu na použitou technologii",
+      "source_provision": "§ 73"
+    },
+    {
+      "term": "Veřejným telefonním automatem",
+      "definition": "telekomunikační koncové zařízení, kterým je veřejně dostupný telefonní přístroj, k jehož užití mohou být používány jako platební prostředky zejména mince, platební karty nebo předplacené karty, včetně karet s kódy volby",
+      "source_provision": "§ 73"
+    },
+    {
+      "term": "Přístupem",
+      "definition": "zpřístupnění prostředků nebo služeb na základě stanovených podmínek, výlučně nebo nevýlučně jinému podnikateli, za účelem poskytování služeb elektronických komunikací, včetně případů, kdy jsou použity k předávání služeb informační společnosti nebo služeb přenosu obsahu",
+      "source_provision": "§ 78"
+    },
+    {
+      "term": "Propojením",
+      "definition": "fyzické a logické spojení veřejných sítí elektronických komunikací užívaných týmž nebo jiným podnikatelem s cílem umožnit komunikaci uživatelům jednoho podnikatele s uživateli téhož nebo jiného podnikatele, nebo umožnit přístup ke službám poskytovaným jiným podnikatelem, pokud tyto služby poskytují zúčastněné strany nebo jiné strany, které mají přístup k síti",
+      "source_provision": "§ 78"
+    },
+    {
+      "term": "Účastnickým vedením",
+      "definition": "fyzické spojení využívající signály elektronických komunikací spojující koncový bod sítě s hlavním rozvaděčem nebo obdobným zařízením ve veřejné pevné komunikační síti",
+      "source_provision": "§ 78"
+    },
+    {
+      "term": "Rozhraním pro aplikační programy (API",
+      "definition": "softwarové rozhraní mezi aplikacemi, poskytovanými provozovateli rozhlasového a televizního vysílání nebo poskytovateli služeb, a zařízením rozšiřujícím vlastnosti digitální televize, určené pro digitální televizní a rozhlasové služby",
+      "source_provision": "§ 83"
+    },
+    {
+      "term": "Zařízením rozšiřujícím vlastnosti digitální televize",
+      "definition": "přídavné zařízení určené pro připojení k televizoru nebo integrovaný digitální televizní přijímač, které umožňují příjem digitálních interaktivních televizních služeb",
+      "source_provision": "§ 83"
+    },
+    {
+      "term": "Systémem podmíněného přístupu (dále jen „brána",
+      "definition": "jakékoli technické zařízení nebo opatření zajišťující, aby se přístup k chráněnému rozhlasovému nebo televiznímu vysílání uskutečnil ve srozumitelné formě",
+      "source_provision": "§ 83"
+    },
+    {
+      "term": "Úsekem účastnického vedení",
+      "definition": "část účastnického vedení, která spojuje koncový bod sítě se soustřeďovacím bodem nebo se specifikovaným mezilehlým přístupovým bodem veřejné pevné komunikační sítě",
+      "source_provision": "§ 85"
+    },
+    {
+      "term": "Zpřístupněním účastnického vedení",
+      "definition": "plné zpřístupnění účastnického vedení nebo sdílený přístup k účastnickému vedení",
+      "source_provision": "§ 85"
+    },
+    {
+      "term": "Plným zpřístupněním účastnického vedení",
+      "definition": "poskytování přístupu k účastnickému vedení nebo k úseku účastnického vedení, které opravňuje k využívání celé kapacity infrastruktury sítě",
+      "source_provision": "§ 85"
+    },
+    {
+      "term": "Sdíleným přístupem k účastnickému vedení",
+      "definition": "poskytování přístupu k účastnickému vedení nebo k úseku účastnického vedení, které opravňuje k využívání určené části kapacity infrastruktury sítě, jako je část kmitočtu nebo její ekvivalent",
+      "source_provision": "§ 85"
+    },
+    {
+      "term": "Funkční separací se u vertikálně integrovaného podniku",
+      "definition": "oddělení nebo převedení činnosti spojené s velkoobchodním poskytováním služeb přístupu na oddělenou hospodářskou jednotku, která je nezávisle provozovaná, beze změny vlastnické struktury tohoto vertikálně integrovaného podniku",
+      "source_provision": "§ 86a"
+    },
+    {
+      "term": "Oddělenou hospodářskou jednotkou",
+      "definition": "část podniku, která je z hlediska své organizace, rozhodování a účetnictví při své činnosti oddělena od vertikálně integrovaného podniku",
+      "source_provision": "§ 86a"
+    },
+    {
+      "term": "Souhlasem podle zvláštního právního předpisu",
+      "definition": "rovněž souhlas učiněný pomocí elektronických prostředků, zejména vyplněním elektronického formuláře na internetu",
+      "source_provision": "§ 87"
+    },
+    {
+      "term": "Zprávou",
+      "definition": "jakákoli informace, která se vyměňuje nebo přenáší mezi konečným počtem účastníků nebo uživatelů prostřednictvím veřejně dostupné služby elektronických komunikací, s výjimkou informace přenášené jako součást veřejného rozhlasového nebo televizního vysílání sítí elektronických komunikací, nelze-li ji přiřadit k určitelnému účastníkovi nebo uživateli, který tuto informaci přijímá",
+      "source_provision": "§ 89"
+    },
+    {
+      "term": "Provozními údaji",
+      "definition": "jakékoli údaje zpracovávané pro potřeby přenosu zprávy sítí elektronických komunikací nebo pro její účtování",
+      "source_provision": "§ 90"
+    },
+    {
+      "term": "Lokalizačními údaji",
+      "definition": "jakékoli údaje zpracovávané v síti elektronických komunikací nebo službou elektronických komunikací, které určují zeměpisnou polohu telekomunikačního koncového zařízení uživatele veřejně dostupné služby elektronických komunikací",
+      "source_provision": "§ 91"
+    },
+    {
+      "term": "vytvoření účastnického seznamu",
+      "definition": "i náhodné vygenerování telefonních čísel",
+      "source_provision": "§ 95"
+    },
+    {
+      "term": "Rušením provozu",
+      "definition": "elektromagnetické rušení, které zhoršuje, znemožňuje nebo opakovaně přerušuje provoz elektronického komunikačního zařízení, sítě elektronických komunikací, popřípadě poskytování služeb elektronických komunikací nebo provozování radiokomunikačních služeb",
+      "source_provision": "§ 100"
+    },
+    {
+      "term": "rušení provozu",
+      "definition": "i provozování vysílacího rádiového zařízení, které zhoršuje, znemožňuje nebo opakovaně přerušuje příjem přístroje, který je určen pouze k příjmu rádiových vln k zajištění obrany nebo bezpečnosti státu",
+      "source_provision": "§ 100"
+    },
+    {
+      "term": "Prokazatelným oznámením",
+      "definition": "oznámení data a účelu vstupu či vjezdu na dotčenou nemovitost nebo kácení či oklešťování dřevin rostoucích na této nemovitosti, včetně oznámení činností, které v této souvislosti budou na nemovitosti vykonávány",
+      "source_provision": "§ 104"
+    },
+    {
+      "term": "Nadzemním komunikačním vedením",
+      "definition": "drátové, kabelové nebo bezdrátové vedení, včetně souvisejícího elektronického komunikačního zařízení, postavené nad zemí, vně nebo uvnitř budov",
+      "source_provision": "§ 104"
+    },
+    {
+      "term": "Podzemním komunikačním vedením",
+      "definition": "kabelové vedení, včetně kabelových souborů a zařízení uložených pod povrchem země a kabelových rozvaděčů umístěných nad úrovní terénu",
+      "source_provision": "§ 104"
+    },
+    {
+      "term": "a) telekomunikačním provozu",
+      "definition": "se tím přenášená zpráva podle tohoto zákona",
+      "source_provision": "§ 136"
+    },
+    {
+      "term": "b) údajích o telekomunikačním provozu",
+      "definition": "se tím provozní a lokalizační údaje související s přenášenou zprávou podle tohoto zákona",
+      "source_provision": "§ 136"
+    },
+    {
+      "term": "c) telekomunikační službě",
+      "definition": "se tím služba elektronických komunikací podle tohoto zákona",
+      "source_provision": "§ 136"
+    },
+    {
+      "term": "d) telekomunikační síti",
+      "definition": "se tím síť elektronických komunikací podle tohoto zákona",
+      "source_provision": "§ 136"
+    },
+    {
+      "term": "Celoplošným televizním vysíláním",
+      "definition": "vysílání, v jehož rámci může určitý televizní program a s tímto programem související povinné doplňkové služby přijímat alespoň 95 % obyvatel České republiky počítaných podle údajů vyplývajících z posledního sčítání lidu1a)",
+      "source_provision": "§ 175"
+    }
+  ]
 }

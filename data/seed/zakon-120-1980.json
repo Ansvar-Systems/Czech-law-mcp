@@ -1,0 +1,21 @@
+{
+  "id": "cz:120/1980",
+  "type": "statute",
+  "title": "120/1980 Sb., Redakční sdělení o opravě tiskových chyb ve vyhlášce federálního ministerstva národní obrany č. 95/1980 Sb., kterou se vyhlašuje Rozkaz prezidenta Československé socialistické republiky ze dne 15. července 1980 k provedení zákona č. 39/1980 Sb., o vysokých školách, na vojenských vysokých školách, českého vydání",
+  "title_en": "",
+  "short_name": "120/1980 Sb.",
+  "status": "in_force",
+  "issued_date": "1980-08-29",
+  "in_force_date": "1980-08-29",
+  "url": "https://www.e-sbirka.cz/sb/1980/120",
+  "description": "Redakční sdělení o opravě tiskových chyb ve vyhlášce federálního ministerstva národní obrany č. 95/1980 Sb., kterou se vyhlašuje Rozkaz prezidenta Československé socialistické republiky ze dne 15. července 1980 k provedení zákona č. 39/1980 Sb., o vysokých školách, na vojenských vysokých školách, českého vydání",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V příloze k § 2 vyhlášky v hlavní skupině Vojenské vědy – obory velitelsko-inženýrské došlo k nesprávnému znění v položkách páté a osmé shora.\nMísto\n„91-43-8 Vojska PVO státu 4 5 technický\n91-41-8 Vojska PVO státu 4 5 technický“,\nmá být správně\n„91-36-8 Vojska PVO pozemního vojska 4 5 technický\n91-43-8 Vojska PVO státu 4 5 technický“."
+    }
+  ],
+  "definitions": []
+}

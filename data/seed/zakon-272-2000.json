@@ -1,0 +1,39 @@
+{
+  "id": "cz:272/2000",
+  "type": "statute",
+  "title": "272/2000 Sb., Vyhláška Ministerstva dopravy a spojů o ověřování pravosti podpisu nebo shody opisu nebo kopie s listinou velitelem lodě",
+  "title_en": "",
+  "short_name": "272/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-08-18",
+  "in_force_date": "2000-09-02",
+  "url": "https://www.e-sbirka.cz/sb/2000/272",
+  "description": "Vyhláška Ministerstva dopravy a spojů o ověřování pravosti podpisu nebo shody opisu nebo kopie s listinou velitelem lodě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Ověřování pravosti podpisu",
+      "content": "(1) Ověřováním pravosti podpisu (dále jen „legalizace“) velitel lodě ověřuje, že fyzická osoba na lodi v jeho přítomnosti listinu vlastnoručně podepsala nebo podpis na listině se již nacházející před ním uznala za vlastní.\n(2) Fyzická osoba předloží k prokázání své totožnosti platný úřední průkaz vydaný státním orgánem, který obsahuje údaje uvedené v odstavci 3 písm. a).\n(3) Legalizace se vyznačí na listině formou ověřovací doložky, která obsahuje\na) jméno, příjmení, rodné číslo nebo datum narození žadatele,\nb) údaj o způsobu zjištění totožnosti žadatele,\nc) pořadové číslo, pod kterým je legalizace zapsána v ověřovací knize,\nd) konstatování, že fyzická osoba listinu vlastnoručně před velitelem lodě podepsala nebo že uznala podpis na listině za vlastní,\ne) místo a datum legalizace,\nf) vlastnoruční podpis velitele lodě a otisk kulatého lodního razítka.\n(4) Velitel lodě provedením legalizace neodpovídá za obsah listiny.\n(5) Neovládá-li velitel lodě jazyk, v němž je listina pořízena, může legalizaci odmítnout.\n(6) Velitel lodě neprovede legalizaci, jde-li o legalizaci podpisu na listině, která neobsahuje žádný text."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Ověřování shody opisu nebo kopie s listinou",
+      "content": "(1) Ověření shody opisu nebo kopie s listinou nebo její částí (dále jen „vidimace“) se vyznačí na ověřeném opisu nebo kopii ve formě ověřovací doložky na každém listě, pokud tyto nejsou svázány do svazku. V doložce je uvedeno\na) zda opis nebo kopie souhlasí s listinou, z níž byl pořízen, a zda tato listina je prvopisem nebo ověřeným opisem nebo kopií a z kolika listů se skládá,\nb) počet listů, které opis nebo kopie obsahuje,\nc) zda jde o opis nebo kopii, a to úplné nebo částečné,\nd) pořadové číslo, pod kterým je vidimace zapsána v ověřovací knize,\ne) místo a datum vidimace,\nf) vlastnoruční podpis velitele lodě a otisk kulatého lodního razítka.\n(2) Velitel lodě provádí vidimaci podle odstavce 1 pouze na lodi, na které vykonává funkci velitele lodě.\n(3) Velitel lodě neprovede vidimaci\na) opisu nebo kopie občanského průkazu, vojenského průkazu, pasu a jiného průkazu, vkladní knížky, šeku, losu, sázenky, geometrického plánu, rysu a technické kresby,\nb) jestliže se předložený opis nebo kopie neshoduje s originálem,\nc) jestliže neovládá jazyk, v němž je listina pořízena, nebo\nd) jsou-li v listině, která se vidimuje, změny, doplňky, vsuvky nebo škrty, které by mohly zeslabit její věrohodnost.\n(4) Velitel lodě vidimací neověřuje pravdivost skutečností uváděných v listině."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Velitel lodě vede evidenci legalizací a vidimací ve svázané ověřovací knize podle tiskopisu uvedeného v příloze."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni vyhlášení.\nPříloha k vyhlášce č. 272/2000 Sb.\nOvěřovací kniha\nPořadové číslo vidimace, legalizace Den, místo vidimace, legalizace Jméno, příjmení, rodné číslo nebo datum narození osoby, jejíž podpis je legalizována její podpis. Totožnost zjištěna průkazem (druh a číslo průkazu) Listina byla na lodi podepsána Podpis byl na lodi uznán za vlastní Označení druhu listiny, která je na lodi vidimována nebo legalizována Podpis velitele lodě\n1 2 3 4 5 6 7"
+    }
+  ],
+  "definitions": []
+}

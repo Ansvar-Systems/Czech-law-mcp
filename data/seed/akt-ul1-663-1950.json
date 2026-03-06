@@ -1,0 +1,50 @@
+{
+  "id": "cz:ul1:663/1950",
+  "type": "statute",
+  "title": "663/1950 Ú. l. I, Vyhláška ministerstva techniky, kterou se stanoví nejvyšší odměny za projekční práce v oboru ústředního vytápění a rozvodu tepla.",
+  "title_en": "",
+  "short_name": "663/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-11-29",
+  "in_force_date": "1950-10-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/663",
+  "description": "Vyhláška ministerstva techniky, kterou se stanoví nejvyšší odměny za projekční práce v oboru ústředního vytápění a rozvodu tepla.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Za projekční práce v oboru ústředního vytápění a rozvodu tepla smějí být požadovány nejvýše odměny uvedené v příloze k této vyhlášce („Sazebník odměn, za projekční práce v oboru ústředního vytápění a rozvodu tepla“)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Projektanti v oboru ústředního vytápění a rozvodu tepla jsou povinni vést přesné záznamy o jednotlivých projektech, času spotřebovaném k jejich vypracování, finančních nákladech a přijatých odměnách a na vyzvání je předložiti ministerstvu techniky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Touto vyhláškou se ruší ta ustanovení sazebníku VIII inženýrské komory „Sazby pro práce z oboru stavby strojů, elektrotechniky a stavby lodi“, jež se týkají odměn za projekční práce v oboru ústředního vytápění a rozvodu tepla."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1950.\nPříloha k vyhlášce ministerstva techniky č. 693/1950 Ú. l. I.\nSazebník odměn za projekční práce v oboru ústředního vytápění a rozvodu tepla."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Technickou poradou",
+      "definition": "určení způsobu vytápění a umístění kotelny a strojovny a hrubý odhad jejich velikostí, jakož i hrubý odhad nákladů na otopné zařízení",
+      "source_provision": "§ 4."
+    },
+    {
+      "term": "*) Výší",
+      "definition": "svislá vzdálenost středu nejvýše položeného otopného tělesa od roviny procházející středem zdroje tepla",
+      "source_provision": "§ 4."
+    }
+  ]
+}

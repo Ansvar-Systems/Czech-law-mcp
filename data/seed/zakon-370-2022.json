@@ -1,0 +1,33 @@
+{
+  "id": "cz:370/2022",
+  "type": "statute",
+  "title": "370/2022 Sb., Vyhláška, kterou se mění vyhláška č. 504/2020 Sb., o znalečném",
+  "title_en": "",
+  "short_name": "370/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-12-02",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/370",
+  "description": "Vyhláška, kterou se mění vyhláška č. 504/2020 Sb., o znalečném",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 2 odst. 1 vyhlášky č. 504/2020 Sb., o znalečném, se částka „300 Kč“ nahrazuje částkou „800 Kč“ a částka „450 Kč“ se nahrazuje částkou „1 000 Kč“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Odměna za výkon znalecké činnosti zadané přede dnem nabytí účinnosti této vyhlášky se určí a vyúčtuje podle vyhlášky č. 504/2020 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2023."
+    }
+  ],
+  "definitions": []
+}

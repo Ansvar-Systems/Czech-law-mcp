@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:554/1948",
+  "type": "statute",
+  "title": "554/1948 Ú. l. I, Vyhláška ministra vnitra o působnosti předsedů národních výborů ve věcech volebních.",
+  "title_en": "",
+  "short_name": "554/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-04-13",
+  "in_force_date": "1948-04-13",
+  "url": "https://www.e-sbirka.cz/ul1/1948/554",
+  "description": "Vyhláška ministra vnitra o působnosti předsedů národních výborů ve věcech volebních.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Předsedovi národního výboru přísluší ve věcech volebních kromě úkolů přikázaných mu zvláštními předpisy pečovati o to, aby práce a úkoly, které v těchto věcech má vykonávati národní výbor, byly provedeny správně a včas. Předseda národního výboru je za řádné plnění této své povinnosti odpovědný nadřízeným úřadům.\n(2) Předsedovi národního výboru přísluší dále rozhodovati jménem národního výboru ve všech věcech volebních, leč by ze zvláštních předpisů, upravujících působnost národního výboru v těchto věcech, nebo z povahy věci nutně vyplývalo, že rozhodnutí přísluší jiné složce národního výboru. Podle toho přísluší předsedovi národního výboru v mezích působnosti národního výboru zejména\na) rozhodovati při volebních přípravách (na př. při určování volebních obvodů a volebních místností, při vystavování voličských průkazů a pod.),\nb) jmenovati členy (náhradníky) do sborů zúčastněných na volebních přípravách a na provádění voleb (na př. do volebních výborů)\nc) rozhodovati při výkonu dozoru na podřízené úřady a orgány (na př. provedení náhradního úkonu namístě omeškavšího se podřízeného úřadu)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Předseda národního výboru může výkonem své působnosti podle § 1 zcela nebo zčásti pověřiti některého člena rady jako svého zástupce.\n(2) Předseda národního výboru nebo jeho zástupce (odstavec 1) může pověřiti některého zaměstnance národního výboru, aby pod vlastní odpovědností vyřizoval běžnou agendu ve věcech volebních."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ustanovení §§ 1 a 2 platí přiměřeně pro obvodní rady statutárních měst."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Volebními věcmi se v této vyhlášce rozumí prováděni zákona o stálých seznamech voličských a provádění předpisů o volbách do Národního shromáždění nebo o volbách (o obnově) národních výborů."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Působnost zvláštních orgánů (komisí, výborů), povolaných k součinnosti ve věcech volebních, zůstává nedotčena."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Tato vyhláška platí v zemích České a Moravskoslezské a vztahuje se na národní výbory všech stupňů.\n(2) Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Volebními věcmi se v této vyhlášce",
+      "definition": "prováděni zákona o stálých seznamech voličských a provádění předpisů o volbách do Národního shromáždění nebo o volbách (o obnově) národních výborů",
+      "source_provision": "§ 4."
+    }
+  ]
+}

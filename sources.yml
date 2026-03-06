@@ -14,8 +14,8 @@ sources:
       url: "https://www.e-sbirka.cz"
       summary: "Public legislation is published by the Czech government and exposed via the official e-Sbirka API."
     coverage:
-      scope: "Selected Czech statutes ingested from official e-Sbirka consolidated text endpoints."
-      limitations: "Current ingestion covers 10 priority laws; full-corpus ingestion is not included in this repository."
+      scope: "Official Czech legislation from e-Sbirka; repository includes curated fully-ingested corpus plus all-laws index/discovery mode for ZAKON and ZAKONUST."
+      limitations: "Full all-laws text ingestion is incremental and rate-limited; repository snapshot may not yet contain every law as a seeded JSON."
     languages:
       - "cs"
 
@@ -23,4 +23,3 @@ data_freshness:
   automated_checks: true
   check_frequency: "weekly"
   last_verified: "2026-02-21"
-

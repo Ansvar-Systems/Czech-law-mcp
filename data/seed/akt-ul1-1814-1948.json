@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1814/1948",
+  "type": "statute",
+  "title": "1814/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do TESLY, národního podniku.",
+  "title_en": "",
+  "short_name": "1814/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-01",
+  "in_force_date": "1948-08-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1814",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do TESLY, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Josef a Prokop Červinka, se sídlem v Kolíně,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Kinoelektrik, M. Prexler, se sídlem v Praze I., Dlouhá 37,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Šaffek a spol., výroba radiofonních zařízení značky „Bezdra“, se sídlem v Praze XI., Kalininova 47,"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Kurt Wegner, Specialfabrik für Schnitte und Stanz-Werkzeuge, se sídlem ve Starém Harcově, spr. okr. Liberec,\nvesměs v rozsahu jejich znárodnění, do TESLY, národního podniku."
+    }
+  ],
+  "definitions": []
+}

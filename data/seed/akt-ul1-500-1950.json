@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:500/1950",
+  "type": "statute",
+  "title": "500/1950 Ú. l. I, Vyhláška ministerstva vnitřního obchodu, kterou se mění vyhláška ministerstva vnitřního obchodu o oběhu a spotřebě textilního zboží a obuvi.",
+  "title_en": "",
+  "short_name": "500/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-08-15",
+  "in_force_date": "1950-08-15",
+  "url": "https://www.e-sbirka.cz/ul1/1950/500",
+  "description": "Vyhláška ministerstva vnitřního obchodu, kterou se mění vyhláška ministerstva vnitřního obchodu o oběhu a spotřebě textilního zboží a obuvi.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ustanovení § 28 odst. 3 vyhlášky č. 1233/1949 Ú. l. I se zrušuje a nahrazuje tímto zněním:\n(3) Za veřejnou spotřebu v roce 1961 se považuje taková spotřeba, která slouží k plnění úkolů daných veřejným orgánům, je placena ze státního rozpočtu a odebírána prostřednictvím obchodu nebo přímo z výroby.\n(4) Odběratelé zboží určeného k veřejné spotřebě v českých zemích jsou povinni hlásiti přesně vymezenou potřebu zboží na rok 1951 prostřednictvím svých nadřízených ústředních úřadů ministerstvu vnitřního obchodu do 1. září 1950. Odběratelé zboží určeného veřejné spotřebě na Slovensku jsou povinni podati toto hlášení v téže lhůtě prostřednictvím svých nadřízených pověřenectev nebo orgánů jim na roveň postavených pověřenectvu průmyslu a obchodu.\n(5) Ustanovení § 10 odst. 2 o určení veřejného spotřebitele je možno použíti jen pro odběr zboží v roce 1950."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "veřejnou spotřebu v roce 1961",
+      "definition": "taková spotřeba, která slouží k plnění úkolů daných veřejným orgánům, je placena ze státního rozpočtu a odebírána prostřednictvím obchodu nebo přímo z výroby",
+      "source_provision": "§ 1."
+    }
+  ]
+}

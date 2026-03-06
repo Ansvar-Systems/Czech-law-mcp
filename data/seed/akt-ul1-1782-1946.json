@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1782/1946",
+  "type": "statute",
+  "title": "1782/1946 Ú. l. I, Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "title_en": "",
+  "short_name": "1782/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-09-21",
+  "in_force_date": "1948-07-28",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1782",
+  "description": "Vyhláška ministra výživy o zřízení národního podniku průmyslu pivovarského.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Akcionářský pivovar na Smíchově v rozsahu jeho znárodnění s výjimkou\na) částky K 1,500.000.— na starém vkladě,\nb) domu čp. 336 v Praze II., Trojanova ul. se stavební parcelou čís. 480/2 a se vším příslušenstvím, zapsaného ve vložce čís. 2274 pozemkové knihy pro katastrální území Praha-Nové Město,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Akciový pivovar a sladovna v Praze XII. v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

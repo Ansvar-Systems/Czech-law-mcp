@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:969/1949",
+  "type": "statute",
+  "title": "969/1949 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se odvolává povolení uváděti některé prostředky na ochranu rostlin do oběhu.",
+  "title_en": "",
+  "short_name": "969/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-09-25",
+  "in_force_date": "1949-09-25",
+  "url": "https://www.e-sbirka.cz/ul1/1949/969",
+  "description": "Vyhláška ministerstva zemědělství, kterou se odvolává povolení uváděti některé prostředky na ochranu rostlin do oběhu.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Germisan — universální suché mořidlo,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Germisan — universální mokré mořidlo,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Morisan,"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Morex,\nVšechny tyto prostředky nesmějí býti nadále prodávány, ani jinak uváděny do oběhu."
+    }
+  ],
+  "definitions": []
+}

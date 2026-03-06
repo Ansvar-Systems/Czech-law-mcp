@@ -1,0 +1,21 @@
+{
+  "id": "cz:130/1951",
+  "type": "statute",
+  "title": "130/1951 Sb., Vyhláška o opravě tiskové chyby v zákoně č. 110/1951 Sb., o státních pracovních zálohách",
+  "title_en": "",
+  "short_name": "130/1951 Sb.",
+  "status": "in_force",
+  "issued_date": "1951-12-31",
+  "in_force_date": "1951-12-31",
+  "url": "https://www.e-sbirka.cz/sb/1951/130",
+  "description": "Vyhláška o opravě tiskové chyby v zákoně č. 110/1951 Sb., o státních pracovních zálohách",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V českém znění zákona č. 110/1951 Sb., o státních pracovních zálohách, se opravuje tisková chyba v podpisech členů vlády, kteří tento zákon provádějí:\nZákon podepsal jako zúčastněný člen vlády též ministr hutního průmyslu a rudných dolů Bílek; tiskovou chybou byl však místo něho uveden ministr státní kontroly Bacílek."
+    }
+  ],
+  "definitions": []
+}

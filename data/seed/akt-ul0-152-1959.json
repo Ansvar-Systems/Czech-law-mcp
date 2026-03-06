@@ -1,0 +1,1835 @@
+{
+  "id": "cz:ul0:152/1959",
+  "type": "statute",
+  "title": "152/1959 Ú. l., Vyhláška Státního výboru pro výstavbu o dokumentaci staveb",
+  "title_en": "",
+  "short_name": "152/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-08-10",
+  "in_force_date": "1959-08-01",
+  "url": "https://www.e-sbirka.cz/ul0/1959/152",
+  "description": "Vyhláška Státního výboru pro výstavbu o dokumentaci staveb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "1. Tato vyhláška upravuje vypracování, projednání a schvalování přípravné a projektové dokumentace staveb, jejímiž investory jsou organizace socialistického sektoru (dále jen „organizace“). Dokumentaci účelových staveb jednotných zemědělských družstev upravují zvláštní předpisy.*)"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "2. Přípravná dokumentace staveb zahrnuje:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "3. Projektová dokumentace staveb zahrnuje:"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "4. Stavbou se rozumí souhrn stavebních prací, dodávek strojů, zařízení, montážních prací a ostatních investičních dodávek nezbytných pro trvalý provoz (užívání), prováděných zpravidla na souvislém místě v souvislém čase, jimiž se budují nové, rekonstruují nebo rozšiřují dosavadní základní prostředky, které mají společný hospodářský, kulturní nebo jiný společensky účel. Do tohoto souhrnu se započítává i provedení těch investičních prací a dodávek, které jsou nutné pro odstranění, popřípadě nahrazení dosavadních základních prostředků na staveništi, i když tyto základní prostředky patří jinému investorovi; to platí, pokud mezi investory nedojde k dohodě o jiném způsobu plánování a provedení těchto prací a dodávek nebo pokud není zvláštními předpisy stanoveno něco jiného.\nNa každou stavbu se vypracovává jeden investiční úkol (body 24 a 25)."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "5. Etapou stavby se rozumí její provozně nebo technicky ucelená část, prováděná v souvislém časovém údobí, se záměrem co nejhospodárnějšího a nejrychlejšího uvádění kapacit do provozu (užívání) a s přihlédnutím k hospodárnému provádění dodávek a prací (u průmyslové výstavby několik vzájemně provozně souvisících výrobních a pomocných objektů, část sídliště včetně inženýrských sítí a občanského vybavení apod.)."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "6. Objektem se rozumí prostorově oddělená nebo alespoň technicky samostatná část stavby, např. budova, důlní objekt, vlečka, vnější kanalizace."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "7. Provozním celkem je veškeré strojní zařízení, vykonávající úplný technologický proces; zahrnuje obvykle více provozních souborů základní výroby a řadu provozních souborů pomocné výroby."
+    },
+    {
+      "provision_ref": "Bod 8",
+      "section": "8",
+      "title": "Bod 8",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "8. Provozním souborem je veškeré strojní zařízení, vykonávající uvnitř provozního celku dílčí samostatný technologický proces základní výroby nebo úplný proces jednoho druhu pomocné výroby."
+    },
+    {
+      "provision_ref": "Bod 9",
+      "section": "9",
+      "title": "Bod 9",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "9. Vyvolanými investicemi se rozumějí samostatné stavby, budované mimo stavební pozemek investora navrhované stavby a jsou nezbytně nutné pro uskutečnění a trvalý provoz (užívání) této navrhované stavby, pokud nejsou současně vyvolány jinou potřebou. Za vyvolané investice se nepovažují pohotovostní byty, které jsou součástí stavby."
+    },
+    {
+      "provision_ref": "Bod 10",
+      "section": "10",
+      "title": "Bod 10",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "10. Ústředním investorem je zpravidla ministerstvo, jiný ústřední úřad nebo orgán nebo výkonný orgán krajského národního výboru, nadřízený investorovi. Ústřední investor může být též investorem."
+    },
+    {
+      "provision_ref": "Bod 11",
+      "section": "11",
+      "title": "Bod 11",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "11. Dodavatelem projektu je organizace oprávněná provádět projektové a průzkumné práce, která podle smlouvy s objednatelem dodává projektovou dokumentaci."
+    },
+    {
+      "provision_ref": "Bod 12",
+      "section": "12",
+      "title": "Bod 12",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "12. Generálním projektantem je organizace oprávněná provádět průzkumné a projektové práce,*) která dodá investorovi zadávací (jednostupňový) projekt. Generální projektant provádí autorský dozor a zpravidla též koordinační činnost. Nebyl-li výjimečně určen generální dodavatel technologické části ani finální dodavatelé jako přímí dodavatelé investora (dále jen „přímý finální dodavatel“), vypracovává generální projektant též prováděcí projekt technologické části v tom rozsahu, pro nějž nejsou určeni ani přímí finální dodavatelé.\nV takovém případě zajišťuje dodávky strojů, zařízení a montáží u jednotlivých dodavatelů investor (bod 86)."
+    },
+    {
+      "provision_ref": "Bod 13",
+      "section": "13",
+      "title": "Bod 13",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "13. Generálním dodavatelem stavby je organizace, která dodá investorovi celou stavbu včetně prováděcího projektu."
+    },
+    {
+      "provision_ref": "Bod 14",
+      "section": "14",
+      "title": "Bod 14",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "14. Generálním dodavatelem stavební části je organizace, která dodá investorovi stavební část stavby, tj. souhrn veškerých stavebních prací včetně potřebných stavebních hmot, výrobků, smontovaných konstrukcí a smontovaného strojního a jiného vybavení, pokud není technologickou částí (netechnologické stroje a zařízení) a včetně prováděcího projektu,"
+    },
+    {
+      "provision_ref": "Bod 15",
+      "section": "15",
+      "title": "Bod 15",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "15. Generálním dodavatelem technologické části je organizace, která dodá investorovi technologickou část stavby, tj. souhrn kompletního technologického strojního zařízení, jakož i ostatních strojů a zařízení, které nepřímo slouží technologii výrobních procesů (jako např. vlastní energetické provozy nebo zdroje nebo jiné pomocné provozy), a to včetně sjednaných příslušných montážních prací a včetně prováděcího projektu. V průběhu vypracování zadávacího (jednostupňového) projektu dohodnou se dodavatelé investora s generálním projektantem v případě pochybností, co je technologickou částí."
+    },
+    {
+      "provision_ref": "Bod 16",
+      "section": "16",
+      "title": "Bod 16",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "16. Přímým finálním dodavatelem — nebyl-li určen generální dodavatel technologické části — je organizace, která pro stavbu dodá investorovi technologické stroje, zařízení a jejich montáž v rozsahu alespoň jednoho provozního souboru (bod 8) včetně prováděcího projektu."
+    },
+    {
+      "provision_ref": "Bod 17",
+      "section": "17",
+      "title": "Bod 17",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "17. Finálním dodavatelem technologického zařízení jsou organizace, které jsou určeny za dodavatele finální dodávky technologického zařízení, tj. provozního souboru strojů a zařízení podle třídění stanoveného příslušnými ministerstvy nebo dohodnutého v průběhu vypracování zadávacího (jednostupňového) projektu, včetně jejich montáže a včetně prováděcího projektu."
+    },
+    {
+      "provision_ref": "Bod 18",
+      "section": "18",
+      "title": "Bod 18",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "18. U rozsáhlé nebo dlouhodobé investiční výstavby (průmyslových podniků, dopravních, spojových, vodohospodářských staveb, sídlišť apod.) zahrnující několik vzájemně souvisících staveb, musí být nejpozději s investičním úkolem na první stavbu objasněna její souvislost s celou zamýšlenou výstavbou vypracováním výhledové studie této výstavby, pokud není již objasněna schváleným územním plánem.*) Tato studie se připojuje k investičnímu úkolu.\nVýhledová studie objasňuje ekonomickou koncepci celé výstavby. U výstavby ucelených částí sídlišť plní funkci výhledové studie podrobný územní plán. Pokud je výhledová studie schvalována, schvalují se zároveň nejdůležitější ukazatele, které jsou závazné pro zpracování investičního úkolu."
+    },
+    {
+      "provision_ref": "Bod 19",
+      "section": "19",
+      "title": "Bod 19",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "19. Výhledovou studii vypracovává investor; jestliže je to účelné vzhledem k dosahu zamýšlené výstavby, vypracovává však výhledovou studii orgán nadřízený investorovi."
+    },
+    {
+      "provision_ref": "Bod 20",
+      "section": "20",
+      "title": "Bod 20",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "20. Obsah výhledové studie je v příloze č. 1 a údaje tam uvedené jsou směrné."
+    },
+    {
+      "provision_ref": "Bod 21",
+      "section": "21",
+      "title": "Bod 21",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "21. Investiční úkol je stručným a věcným vymezením a odůvodněním zamýšlené stavby, určuje oblast nebo místo stavby, její účel a základní údaje o druhu a rozsahu výroby nebo služeb. Investiční úkol stanoví progresivní technickohospodářské ukazatele pro provedení a provoz (užívání) stavby a její investiční náklady. Jsou-li splněny podmínky pro vypracování etapového zadávacího projektu (bod 70) stanoví se etapy stavby pokud možno již v investičním úkolu."
+    },
+    {
+      "provision_ref": "Bod 22",
+      "section": "22",
+      "title": "Bod 22",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "22. Při vypracování investičního úkolu se vychází z výhledových plánů rozvoje příslušných odvětví, územních plánů a výhledové studie."
+    },
+    {
+      "provision_ref": "Bod 23",
+      "section": "23",
+      "title": "Bod 23",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "23. Při vyhledáváni oblasti nebo místa stavby investor zpravidla již přihlíží k možným staveništím; navrhne-li oblast nebo místo stavby v několika alternativách, uvede v investičním úkolu, kterou z nich doporučuje ke schválení."
+    },
+    {
+      "provision_ref": "Bod 24",
+      "section": "24",
+      "title": "Bod 24",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "24. Investiční úkol se vypracovává vždy na celou stavbu. Rozsah a údaje investičního úkolu jsou dány nutností jednoznačného prokázání ekonomické efektivnosti zamýšlené stavby a řádného vypracování projektové dokumentace a musí být přiměřené významu, dosahu a složitosti stavby."
+    },
+    {
+      "provision_ref": "Bod 25",
+      "section": "25",
+      "title": "Bod 25",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "25. Pro stavbu se vypracovává jeden investiční úkol i v tom případě, jestliže stavba spadá do působnosti dvou nebo více investorů; vypracovává jej zpravidla investor, který má na zamýšlené stavbě větší podíl nebo z jehož iniciativy má být stavba uskutečněna (hlavní investor), a to v dohodě s ostatními investory. Hlavního investora určí:\na) ústřední investor, jde-li o investory podléhající témuž ústřednímu investorovi;\nb) ústřední investoři dohodou, spadá-li stavba do působnosti několika ústředních investorů.\nPři určení hlavního investora se zároveň stanoví, který orgán investiční úkol schválí. Hlavní investor zajišťuje též projektovou dokumentaci stavby."
+    },
+    {
+      "provision_ref": "Bod 26",
+      "section": "26",
+      "title": "Bod 26",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "26. Investiční úkol vypracovává, zdůvodňuje a dokládá investor; jestliže je to účelné vzhledem k významu zamýšlené stavby, vypracovává, zdůvodňuje a dokládá investiční úkol orgán investoru nadřízený."
+    },
+    {
+      "provision_ref": "Bod 27",
+      "section": "27",
+      "title": "Bod 27",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "27. Návrh investičního úkolu musí být po projednání podle bodu 34, avšak před projednáním s příslušnou plánovací komisí a před předložením ke schválení, projednán s generálním projektantem. Generální projektant je povinen zaujmout stanovisko k návrhu investičního úkolu u výstavby zemědělské a u bytové, s výjimkou výstavby sídlištní, do 15 dnů, u ostatní výstavby do 30 dnů, pokud nedojde k dohodě o kratší lhůtě. Vyjádření podá generální projektant bez úplaty; vyjádření se připojuje k návrhu investičního úkolu. O připomínkách generálního, projektanta, pokud je investor nepřijme, rozhoduje orgán schvalující investiční úkol."
+    },
+    {
+      "provision_ref": "Bod 28",
+      "section": "28",
+      "title": "Bod 28",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "28. Schválený investiční úkol je závazným podkladem pro vypracování projektové dokumentace."
+    },
+    {
+      "provision_ref": "Bod 29",
+      "section": "29",
+      "title": "Bod 29",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "29. U rekonstrukcí nebo rozšiřování staveb se k investičnímu úkolu přikládají též údaje o dosavadním stavu objektů nebo zařízení, objasňující souvislost nově budovaných objektů a zařízení s dosavadními objekty a zařízeními, jakož i údaje o dosavadní výrobě, provozu, zásobování energií apod. U rekonstrukcí nebo rozšiřování staveb odevzdá investor generálnímu projektantovi zastavovací plán dosavadní stavby, popřípadě jeho část a pro jednotlivé objekty též výkresy dosavadního stavu, a to nejpozději současně se schváleným investičním úkolem, pokud nebude dohodnuto něco jiného."
+    },
+    {
+      "provision_ref": "Bod 30",
+      "section": "30",
+      "title": "Bod 30",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "30. Obsah investičního úkolu je uveden v příloze č. 2."
+    },
+    {
+      "provision_ref": "Bod 31",
+      "section": "31",
+      "title": "Bod 31",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "31. Ve schváleném investičním úkolu může provést změny pouze orgán, který jej schválil, a to zpravidla na návrh investora, doložený též stanoviskem generálního projektanta. Takové změny musí investor projednat se všemi dotčenými organizacemi a orgány, které se vyjádřily k návrhu investičního úkolu (body 34 až 36, popřípadě 40)."
+    },
+    {
+      "provision_ref": "Bod 32",
+      "section": "32",
+      "title": "Bod 32",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "32. Zjistí-li generální projektant při zpracování projektové dokumentace, že je nutno provést podstatné odchylky od schváleného investičního úkolu, předloží investorovi zdůvodněný návrh. O tomto návrhu rozhodne do 30 dnů orgán, který schválil investiční úkol."
+    },
+    {
+      "provision_ref": "Bod 33",
+      "section": "33",
+      "title": "Bod 33",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "33. Jestliže se vypracovává výhledová studie je investor povinen projednat tuto studii podle jejího charakteru s příslušnými organizacemi a kromě toho též s krajskou plánovací komisí."
+    },
+    {
+      "provision_ref": "Bod 34",
+      "section": "34",
+      "title": "Bod 34",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "34. Investor je povinen před předložením návrhu investičního úkolu ke schválení projednat předběžně s příslušnými organizacemi (nebo s jejich nadřízenými orgány), v souladu se základními podmínkami územního plánu, jakož i z hlediska navrhované oblasti nebo místa stavby\na) možnost zajištění dodávek základních surovin, paliva, energie, vody a jejich jakosti a možnost přepravy;\nb) rozsah a podmínky kooperace s jinými dosavadními, budovanými nebo projektovanými stavbami a zařízeními;\nc) příslušné podmínky s dotčenými státními orgány (státní báňská správa, hygienická a protiepidemická služba apod.);\nd) možnost a podmínky zajištění vyvolaných investic;\ne) možnost připojení závodu nebo stavby na železniční sít a nároky na dopravu s příslušnou správou dráhy;\nf) možnost zajištění dodávek hlavních technologických zařízení a stavebních prací, s výjimkou případů, kdy to nepřipouští charakter stavby;\ng) možnost dovozu strojů a zařízení (je-li uvažován) s příslušným podnikem zahraničního obchodu.\nOrganizace (jejich nadřízené orgány) jsou povinny vyjádřit se k požadavkům investora do 30 dnů, pokud není sjednána lhůta jiná."
+    },
+    {
+      "provision_ref": "Bod 35",
+      "section": "35",
+      "title": "Bod 35",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "35. Návrh investičního úkolu, zejména navrhovanou oblast nebo místo stavby, je investor povinen před jeho předložením ke schválení projednat s plánovací komisí rady krajského národního výboru (krajská plánovací komise) z hlediska rozmístění výrobních sil, hospodářskopolitických důsledků stavby pro rozvoj hospodářství kraje a zajištění souladu s jinými investicemi v navrhované oblasti nebo místě stavby."
+    },
+    {
+      "provision_ref": "Bod 36",
+      "section": "36",
+      "title": "Bod 36",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "36. Krajská plánovací komise projedná návrh investičního úkolu ve spolupráci s odborem výstavby a vodního hospodářství a s ostatními příslušnými odbory rady krajského národního výboru a zajistí jednotné a souhrnné stanovisko k němu; odbor výstavby a vodního hospodářství opatří stanovisko vojenské správy.\nS tímto projednáním je třeba podle možnosti spojovat též řízení podle předpisů o vodním hospodářství."
+    },
+    {
+      "provision_ref": "Bod 37",
+      "section": "37",
+      "title": "Bod 37",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "37. U méně významných staveb může krajská plánovací komise pověřit projednáním návrhu investičního úkolu okresní, popřípadě i místní plánovací komisi nebo projednání zjednodušit anebo od něho upustit. Pověří-li krajská plánovací komise projednáním návrhu investičního úkolu místní plánovací komisi, uvědomí o tom okresní plánovací komisi."
+    },
+    {
+      "provision_ref": "Bod 38",
+      "section": "38",
+      "title": "Bod 38",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "38. Krajská plánovací komise, popřípadě plánovací komise jí pověřená (bod 37), je povinna zajistit jednotné a souhrnné stanovisko k předloženému návrhu investičního úkolu u bytových, občanských a zemědělských staveb do 15 dnů, u ostatních staveb do 30 dnů."
+    },
+    {
+      "provision_ref": "Bod 39",
+      "section": "39",
+      "title": "Bod 39",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "39. U úprav dosavadních staveb, kterými se podstatně nemění jejich vnější vzhled, půdorysné nebo výškové rozměry a u drobných staveb budovaných jako provozní doplňky na pozemcích dosavadních závodů a zařízení, pokud se těmito doplňky nebo úpravami podstatně nemění oproti dosavadnímu stavu nároky na pracovní síly, vodu, energii a dopravu, jakož i u staveb telegrafních tratí, ohlásí investor při zahájení prací na investičním úkolu zamýšlenou stavbu okresní plánovací komisi. Nevyhradí-li si okresní plánovací komise do 15 dnů projednání investičního úkolu, nebo nepověří-li projednáním místní plánovací komisi a v téže lhůtě o tom neuvědomí investora, platí, že se od projednání investičního úkolu upouští.\nHlášení plánovací komisi není třeba u staveb budovaných na pozemcích dosavadních závodů nebo zařízení, jestliže se tyto stavby svým provozem nedotýkají obecných zájmů nebo zájmů jednotlivých občanů, nevzniknou-li nároky na pracovní síly nebo na připojení na veřejné inženýrské sítě nebo jestliže se nemění při úpravách objektů a zařízení jejich dosavadní vzhled."
+    },
+    {
+      "provision_ref": "Bod 40",
+      "section": "40",
+      "title": "Bod 40",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "40. Investor je povinen předložit návrh investičního úkolu na požádání financující pobočce banky k posouzení s výjimkou staveb I. a II. kategorie ministerstva národní obrany. Má-li banka připomínky, předá je investorovi u bytových, občanských a zemědělských staveb do 15 dnů, u ostatních staveb do 30 dnů."
+    },
+    {
+      "provision_ref": "Bod 41",
+      "section": "41",
+      "title": "Bod 41",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "41. Investiční úkoly centralizovaných staveb, které si nevyhradila ke schválení vláda (bod 143), musí být před schválením projednány se Státní plánovací komisí a u staveb na Slovensku předem i se Slovenskou plánovací komisí."
+    },
+    {
+      "provision_ref": "Bod 42",
+      "section": "42",
+      "title": "Bod 42",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "42. Vyjádření krajské (popřípadě okresní nebo místní) plánovací komise a organizací (body 27, 34 až 37, 40 a 41), popřípadě předběžné dohody o jednotlivých otázkách se připojují jako přílohy k návrhu investičního úkolu."
+    },
+    {
+      "provision_ref": "Bod 43",
+      "section": "43",
+      "title": "Bod 43",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "43. Výběr staveniště musí být proveden tak, aby staveniště (u směrových staveb podrobná trasa), odpovídalo požadavkům územního plánování a umožňovalo nejhospodárnější provoz (užívání) a provedení zamýšlené stavby."
+    },
+    {
+      "provision_ref": "Bod 44",
+      "section": "44",
+      "title": "Bod 44",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "44. Výběr staveniště provádí, s výjimkou případů uvedených v bodě 51, generální projektant v rámci vypracování projektové dokumentace."
+    },
+    {
+      "provision_ref": "Bod 45",
+      "section": "45",
+      "title": "Bod 45",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "45. Do prací spojených s výběrem staveniště patří:\na) podrobná prohlídka všech v úvahu přicházejících stavenišť (po předběžném projednání a ve spolupráci s odborem výstavby a vodního hospodářství rady národního výboru příslušného podle předpisů o územním plánování);\nb) provedení nezbytných průzkumů (bod 52);\nc) projednáni jednotlivých otázek spojených s výběrem staveniště s příslušnými organizacemi (bod 46);\nd) projednání návrhu výběru staveniště s odborem výstavby a vodního hospodářství rady národního výboru příslušného podle předpisů o územním plánování (bod 47)."
+    },
+    {
+      "provision_ref": "Bod 46",
+      "section": "46",
+      "title": "Bod 46",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "46. Generální projektant je povinen projednat při výběru staveniště za účasti investora s dotčenými organizacemi (nebo s jejich nadřízenými orgány) zajištění základních podmínek pro provedení a trvalý provoz (užívání) stavby na uvažovaném staveništi:\na) otázky kooperace při provádění nebo provozu (užívání) stavby, (např. možnost použití cizích objektů při provádění stavby, vybudování společných pomocných zařízení nebo objektů pro služby);\nb) podmínky napojení stavby na veřejné komunikace (železnice, silnice, vodní cesty) a sítě (energetické, vodovodní, kanalizační, spojové apod.);\nc) otázky vyvolaných investic."
+    },
+    {
+      "provision_ref": "Bod 47",
+      "section": "47",
+      "title": "Bod 47",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "47. Na podkladě prohlídky uvažovaných stavenišť, provedených průzkumů a projednání s dotčenými organizacemi předkládá generální projektant se souhlasem investora, popřípadě investor sám (bod 51) návrh na vydání územního rozhodnutí o umístění stavby podle předpisů o územním plánování."
+    },
+    {
+      "provision_ref": "Bod 48",
+      "section": "48",
+      "title": "Bod 48",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "48. U významných staveb vybere generální projektant pokud možno více stavenišť a vypracuje pro ně srovnávací studie stavenišť, které projedná s investorem a posuzovacím orgánem místa schvalujícího zadávací (jednostupňový) projekt a s generálním dodavatelem stavby nebo stavební části."
+    },
+    {
+      "provision_ref": "Bod 49",
+      "section": "49",
+      "title": "Bod 49",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "49. Výběr staveniště schvaluje orgán jemuž přísluší schválení zadávacího (jednostupňového) projektu, a to současně s tímto projektem."
+    },
+    {
+      "provision_ref": "Bod 50",
+      "section": "50",
+      "title": "Bod 50",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "50. O lhůtách k projednání výběru staveniště platí pro jednotlivé organizace a pro odbor výstavby a vodního hospodářství rady příslušného národního výboru ustanovení bodu 38 obdobně."
+    },
+    {
+      "provision_ref": "Bod 51",
+      "section": "51",
+      "title": "Bod 51",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "51. Investor provádí výběr staveniště v rámci vypracování přípravné dokumentace:\na) je-li staveniště dáno povahou stavby (např. rekonstrukce nebo rozšíření dosavadních závodů nebo budov, dále jde-li o určitou stavební mezeru k zastavění jedinou stavbou);\nb) je-li investiční úkol vypracován na podkladě schváleného podrobného územního plánu;\nc) jde-li o staveniště pro druhou nebo další stavbu rozsáhlé nebo dlouhodobé výstavby, pro kterou bylo předem vypracováno a projednáno generální řešení (bod 71);\nd) jestliže si to sám vyhradí.\nV těchto případech předkládá návrh na vydání rozhodnutí o umístění stavby investor; návrh se projedná současně s investičním úkolem (body 35 až 37). Průzkumy potřebné pro výběr staveniště zajistí investor."
+    },
+    {
+      "provision_ref": "Bod 52",
+      "section": "52",
+      "title": "Bod 52",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "52. Do souboru průzkumných prací patří průzkumy podmínek přírodních, technickohospodářských podmínek pro provádění stavby a podmínek urbanistických a architektonických.\nPráce průzkumné provádí, popřípadě zajišťuje pro vypracování investičního úkolu investor. Další práce průzkumné, jejichž účelem je ověření správnosti výběru oblasti nebo místa, správnosti výběru staveniště a získání dalších podkladů pro projektování, provádí nebo zajišťuje generální projektant. Průzkum musí být úplný a jeho součástí je jeho vyhodnocení při vypracování zadávacího (jednostupňového) projektu. V rámci prací na prováděcím projektu provádí doplňující průzkumy jeho dodavatel.\nPrůzkumy je třeba účelně slučovat a využívat především výsledků dosavadních průzkumů evidovaných výkonnými orgány krajských národních výborů, zejména průzkumů provedených pro účely územních plánů a výhledových studií nebo průzkumů na surovinové základny a navazovat na ně. Průzkumy je nutno omezit na nezbytný rozsah."
+    },
+    {
+      "provision_ref": "Bod 53",
+      "section": "53",
+      "title": "Bod 53",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "53. Do průzkumu přírodních podmínek patří zejména průzkum topografický (mapové podklady apod.), stavebně geologický a hydrogeologický s ohledem na vlastnosti základové půdy a na poddolování, hydropedologický, hydrografický a hydrologický z hlediska množství a jakosti vody s vyznačením rozsahu případné inundační oblasti, průzkum klimatických podmínek a průzkum z hlediska ochrany přírody."
+    },
+    {
+      "provision_ref": "Bod 54",
+      "section": "54",
+      "title": "Bod 54",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "54. Do průzkumu technickohospodářských podmínek patří zejména průzkum zásobování vodou (pitnou, užitkovou, provozní), zásobování elektřinou, teplem, plynem, možnost odvedení a zneškodnění, popřípadě využití odpadních vod nebo jiného odpadu, průzkum dopravních a spojových zařízení, dosavadních sídlišť, územních souvislostí s průmyslovým, obytným a jiným zastavěním i s přihlédnutím k asanaci stavbou a budoucím provozem devastovaného území, průzkum zemědělství a lesního hospodářství (výrobní podmínky a zaměření zemědělské výroby, rekultivace a asanace území), místních pracovních sil a vlivu stavby na okolí."
+    },
+    {
+      "provision_ref": "Bod 55",
+      "section": "55",
+      "title": "Bod 55",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "55. Do průzkumu podmínek pro provádění stavby patří podle její povahy zejména průzkum zdrojů místních stavebních hmot (včetně zkoušek a prací potřebných k ověření jejich kvality a sond v rozsahu nezbytném k ověření množství potřebného pro stavbu) a výroben stavebních dílců, mechanizačního vybavení a technologických možností generálního dodavatele stavby nebo stavební části s přihlédnutím k rozvoji těchto možností, podmínek pro zásobování stavby hmotami, energií, vodou apod. a možností použiti dosavadních objektů pro účely zařízení staveniště, zejména též pro ubytování pracovníků provádějících stavbu. Tento průzkum provádí generální projektant v dohodě s generálním dodavatelem stavby, popřípadě s generálním dodavatelem stavební části (nebo s nositelem globální přirážky) a pokud jde o ubytování pracovníků, též s generálním investorem bytové a občanské výstavby příslušného národního výboru nebo i s jiným orgánem."
+    },
+    {
+      "provision_ref": "Bod 56",
+      "section": "56",
+      "title": "Bod 56",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "56. Do průzkumu urbanistických a architektonických podmínek patří zejména průzkum dosavadního urbanistického a architektonického utváření prostředí, památkových objektů a památkově cenných komplexů a ověření chráněných částí přírody."
+    },
+    {
+      "provision_ref": "Bod 57",
+      "section": "57",
+      "title": "Bod 57",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "57. U staveb, které slouží dobývání uhlí, rud a jiného nerostného bohatství, může povolit ústřední investor na žádost investora nebo generálního projektanta) provedení dodatkového geologického průzkumu i před schválením investičního úkolu (zajišťovací, odplyňovací vrty apod.). Ústřední investor může povolit též provedení dalších průzkumných prací pro zpracování zadávacího projektu. Podle výsledku těchto průzkumů se zpravidla určuje výběr staveniště, který generální projektant upřesňuje v rámci prací na zadávacím projektu."
+    },
+    {
+      "provision_ref": "Bod 58",
+      "section": "58",
+      "title": "Bod 58",
+      "chapter": "ČÁST DRUHÁ - PŘÍPRAVNÁ DOKUMENTACE STAVEB",
+      "content": "58. Jestliže se při provádění stavby buduje samostatný vodní zdroj, zajistí organizace provádějící průzkumné vrty vodní zdroj provizorním vystrojením; toto provizorní vystrojení vyfakturuje investorovi, který je uhradí z investičních prostředků. Dodavatel stavební části dokončí vystrojení vodního zdroje podle projektu."
+    },
+    {
+      "provision_ref": "Bod 59",
+      "section": "59",
+      "title": "Bod 59",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "59. Projektová dokumentace se člení na zadávací projekt a prováděcí projekt, pokud dále není stanoveno něco jiného (body 88 až 90)."
+    },
+    {
+      "provision_ref": "Bod 60",
+      "section": "60",
+      "title": "Bod 60",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "60. U výstavby prováděné podle schválených typových podkladů nebo opakovaných projektů, kde lze pro určení limitu odbytové ceny stanovit pevné ceny objektů, obsahuje výkresová část zadávacího projektu pouze výkresy, kterých je nezbytně třeba k určení návrhu limitu odbytové ceny a k objasnění technického řešení (zejména zastavovací plán, vypracovaný podle přílohy č. 4 část C s označením typů, se zasazením objektů do terénu a výkresy objasňující urbanistické a architektonické řešení)."
+    },
+    {
+      "provision_ref": "Bod 61",
+      "section": "61",
+      "title": "Bod 61",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "61. U prací bouracích, demontáží a u prací, jimiž se odstraňují následky havárií, omezí se projektová dokumentace pouze na popis pracovního postupu a na nejnutnější výkresy. Rozpočty se sestavují podle ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "Bod 62",
+      "section": "62",
+      "title": "Bod 62",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "62. Jde-li o výstavbu, kterou se odstraňují následky živelních pohrom, zjednodušuje se projektová dokumentace na nezbytný rozsah, který stanoví příslušný ministr, popřípadě rada krajského národního výboru, v dohodě s ministrem (s radou krajského národního výboru), jemuž jsou podřízeni dodavatelé (body 13 až 16)."
+    },
+    {
+      "provision_ref": "Bod 63",
+      "section": "63",
+      "title": "Bod 63",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "63. Projektová dokumentace musí být stručná a přehledná, její obsah musí být přiměřený významu, rozsahu a složitosti stavby, a to v míře nezbytné pro posouzení navrhovaného řešení, pro plánování, provedení a financování stavby."
+    },
+    {
+      "provision_ref": "Bod 64",
+      "section": "64",
+      "title": "Bod 64",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "64. U staveb sestávajících z jednoho objektu nebo z několika objektů stejného druhu, lze jednotlivé části příslušného stupně projektové dokumentace (jednotlivé zprávy i jednotlivé výkresy) účelně slučovat."
+    },
+    {
+      "provision_ref": "Bod 65",
+      "section": "65",
+      "title": "Bod 65",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl první - Všeobecná ustanovení",
+      "content": "65. Dodavatel projektu určí pro každou stavbu projektanta, odpovědného za zadávací (jednostupňový) projekt a za prováděcí projekt."
+    },
+    {
+      "provision_ref": "Bod 66",
+      "section": "66",
+      "title": "Bod 66",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "66. Zadávací projekt je souborným technickoekonomickým řešením stavby vymezené investičním úkolem, určuje jednoznačně dispoziční řešení, provoz a funkci projektované stavby, technologii, ekonomické účinky a výtvarné řešení, navrhuje základní technologická zařízení ovlivňující rozhodujícím způsobem provoz, a to ve skladbě odpovídající provozním souborům, výjimečně provozním nebo základním jednotkám (bod 12), a navrhuje rovněž zásady konstrukčního řešení stavební části. Zadávací projekt zdůvodňuje výběr staveniště, řeší stavbu v souladu s rozhodnutím o umístění stavby a určuje dobu trvání jejího provádění. Zadávací projekt člení stavbu jednak na objekty, jednak na provozní celky nebo provozní soubory; stanoví provozně ucelené části stavby a zásady organizace výstavby. Zadávací projekt obsahuje údaje a podklady pro objednání finálních dodávek technologického zařízení včetně montáží, popřípadě výjimečně (bod 12) pro objednání jednotlivých strojů, zařízení a montáží, stavební části (stavebních prací) včetně netechnologických strojů a zařízení, dále výkaz potřeby rozhodujících stavebních hmot a předběžný časový plán dalších projektových prací (koordinačních podkladů a prováděcích projektů). Progresivitou dosažených technickohospodářských ukazatelů prokazuje zadávací projekt technickoekonomickou účinnost navrhovaného řešení. Rozpočet ke schválenému zadávacímu projektu obsahuje nepřekročitelný limit odbytové ceny stavby, popřípadě též směrný limit (body 129 až 138)."
+    },
+    {
+      "provision_ref": "Bod 67",
+      "section": "67",
+      "title": "Bod 67",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "67. Při zpracovávání zadávacího projektu, pokud nejde o řešení jednoznačné, vypracovává generální projektant potřebné srovnávací studie, umožňující výběr nejvýhodnějšího řešení. Rozsah srovnávacích studií určuje generální projektant tak, aby bylo možno na jejich podkladě posoudit technickoekonomickou koncepci řešení."
+    },
+    {
+      "provision_ref": "Bod 68",
+      "section": "68",
+      "title": "Bod 68",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "68. Srovnávací studie projedná generální projektant současně s investorem, příslušnými dodavateli (body 13 až 16) a posuzovacím orgánem místa schvalujícího zadávací projekt. Tyto orgány a organizace jsou povinny vyjádřit se k srovnávací studii do 30 dnů; mohou rovněž předložit generálnímu projektantovi vlastní návrhy řešení. V dalších pracích na zadávacím projektu pokračuje generální projektant podle svého rozhodnutí vyplývajícího z projednání."
+    },
+    {
+      "provision_ref": "Bod 69",
+      "section": "69",
+      "title": "Bod 69",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "69. Obsah zadávacího projektu je uveden v příloze č. 4."
+    },
+    {
+      "provision_ref": "Bod 70",
+      "section": "70",
+      "title": "Bod 70",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "70. Jestliže se stavba skládá z několika provozně nebo technicky ucelených části a pro některou z nich není možné vypracovat podklady o technologickém zařízení (z důvodu nutnosti vývojových prací, neúčelností vypracování projektových podkladů v důsledku očekávaného podstatného technického pokroku — během 1 až 2 let — u technologického zařízení nebo jeho rozhodující části apod.), které by umožnily současné zpracování stavební a technologické části v rozsahu zadávacího projektu nebo jestliže u dlouhotrvajících a rozsáhlých staveb nebude účelné stanovit limit odbytové ceny pro celou stavbu, bude zpracován etapový zadávací projekt a v něm bude zpracována první etapa stavby podle bodu 66. Další etapy stavby budou současně zpracovány jen v rozsahu nutném pro řešení celkové koncepce a pro stanovení souhrnného rozpočtu (bod 124).; Po schválení etapového zadávacího projektu budou další etapy stavby ve stanovených lhůtách postupně doplňovány na zadávací projekt podle bodu 66.\nBude-li nutné vypracovat etapový zadávací projekt, projedná generální projektant věc předem s dodavateli. Souhlas k vypracování etapového zadávacího projektu uděluje orgán příslušný ke schválení zadávacího projektu na návrh investora; k návrhu se připojí stanoviska dodavatelů. Schvaluje-li zadávací projekt vláda, povoluje takové zpracování Státní výbor pro výstavbu."
+    },
+    {
+      "provision_ref": "Bod 71",
+      "section": "71",
+      "title": "Bod 71",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "71. U výstavby, pro kterou byla vypracována v přípravné dokumentací výhledová studie (bod 18), musí být současně se zadávacím projektem na první stavbu prokázáno generálním řešením zajištění vzájemné vazby této stavby s celou zamýšlenou výstavbou. Generální řešení upřesňuje údaje výhledové studie výstavby a dokládá je náčrtem řešení celé výstavby. Generální řešení tvoří samostatnou přílohu k zadávacímu projektu na první a další stavby (příloha č. 3). Pro každou další stavbu se generální řešení upřesňuje."
+    },
+    {
+      "provision_ref": "Bod 72",
+      "section": "72",
+      "title": "Bod 72",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "72. Při uzavírání smlouvy o dodávce zadávacího (jednostupňového) projektu oznámí investor generálnímu projektantovi — pokud je mu to známo z projednání investičního úkolu (bod 34) — která organizace bude plnit funkci generálního dodavatele stavební části a generálního nebo přímého finálního dodavatele technologické části nebo není-li určen přímý finální dodavatel (bod 12), jednotlivé dodavatele strojů, zařízení a montáži.\nNejsou-li investorovi známi dodavatelé (body 13 až 16) nebo nejsou-li určeni (zpravidla nadřízeným ministerstvem) a generální projektant vyčerpal všechny možnosti k tomu, aby přímým jednáním dodavatele získal, určí je dodavatelské ministerstvo, a to do 30 dnů po obdržení žádosti ústředního investora."
+    },
+    {
+      "provision_ref": "Bod 73",
+      "section": "73",
+      "title": "Bod 73",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "73. Dodavatelé (body 13 až 16), kteří budou uzavírat s investorem hospodářské smlouvy, jsou povinni:\na) poskytnout dodavatelům projektů závazné projektové podklady (bod 74) potřebné pro vypracování zadávacího (jednostupňového) projektu, popřípadě části zadávacího projektu;\nb) účastnit se vypracování zadávacího (jednostupňového) projektu (bod 82); generální projektant je povinen tuto účast vyžadovat."
+    },
+    {
+      "provision_ref": "Bod 74",
+      "section": "74",
+      "title": "Bod 74",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "74. Projektovými podklady, které dodavatelé (body 13 až 16) poskytují, jsou rozměrové náčrtky, základové plány, připojovací rozměry, výkonové charakteristiky, váhy, dodací lhůty apod., ve sjednaném rozsahu a členění, jakož i cenové podklady:\na) o provozních jednotkách, provozních souborech a provozních celcích (standardních a nestandardních), včetně kovových konstrukcí, které jsou jejich součástí a to:\nb) o nestandardních strojích a zařízeních včetně kovových konstrukcí, které jsou jejich součástí, do 30 dnů po obdržení základních technických údajů (bod 76), nebude-li dohodou mezi dodavatelem projektu a dodavateli sjednána lhůta jiná;\nc) o standardních (konstrukčně vyřešených) strojích a zařízeních do 15 dnů po obdržení nutných technických údajů. Dodavatelé projektu nejsou oprávněni požadovat projektové podklady, jsou-li uvedeny závazně v katalozích nebo cenících, vydaných dodavatelskými orgány. Není-li určen přímý finální dodavatel (bod 12), vyžaduje tyto podklady a podklady uvedené pod písm. b) generální projektant.\nKovové konstrukce nesoucí standardní nebo nestandardní stroje a zařízení jsou jejich součástí, pokud netvoří samostatnou budovu nebo objekt anebo pokud nejsou součástí střechy, sloupů nebo plošin budovy."
+    },
+    {
+      "provision_ref": "Bod 75",
+      "section": "75",
+      "title": "Bod 75",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "75. K zajištění projektových podkladů se uzavírají hospodářské smlouvy.*) Projektové podklady poskytují dodavatelé bezplatně. Potřebují-li dodavatelé (body 13 až 16) k vypracování projektových podkladů provést projektové, konstrukční, laboratorní a jiné práce, uhradí náklady na takové práce podle příslušných cenových předpisů investor, jestliže nedojde k dodávce, jíž se podklady týkají."
+    },
+    {
+      "provision_ref": "Bod 76",
+      "section": "76",
+      "title": "Bod 76",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "76. Dodavatelé (body 13 až 16) jsou povinní*) poskytnout dodavatelům projektů na jejich požádání závazné projektové podklady [bod 74 písm. a) a b)], včetně cenových podkladů. Dodavatel projektu je povinen sdělit s žádostí o dodání projektových podkladů tyto základní technické údaje, přizpůsobené druhu a složitosti příslušného strojního zařízení:\na) název, účel a charakteristiky provozních jednotek, souborů, celků anebo nestandardních strojů a zařízení (dále v tomto bodě jen „stroje nebo zařízení“) a jejich provedení,\nb) počet, popřípadě množství žádaných strojů nebo zařízení (v měrných technických jednotkách),\nc) technologické údaje a parametry o druhu, velikosti, složení a vlastnostech materiálu či látky, které budou na žádaném stroji nebo zařízení vyráběny, zpracovány, dopravovány apod., požadovaný výkon, kapacitu, popřípadě druh a dobu provozu,\nd) zvláštní požadavky na vybavení a provoz stroje nebo zařízení (na automatizaci, mechanizaci, bezpečnost a hygienu práce, popřípadě zvláštní technické a přejímací podmínky a potřebu náhradních dílů apod.),\ne) údaje o tom, kde budou stroje nebo zařízení umístěny, v jakých provozních podmínkách a v jakém prostředí,\nf) přibližnou váhu stroje nebo zařízení (pokud je dodavateli projektu známa),\ng) náčrty sestavy nebo dispozice,\nh) jméno a sídlo dřívějšího dodavatele a jím fakturovanou cenu, jestliže jde o nestandardní výrobek, o němž je dodavateli projektu známo, že byl již dříve dodán nebo nabízen v obdobném provedení nebo k obdobnému účelu použití.\nJestliže stroje a zařízení obsahují též kovové konstrukce tvořící jejich součást, připojí se k základním technickým údajům:\ni) schematický výkres sestavy kovové konstrukce s naznačením umístění příslušného stroje v obrysech a s předběžným vyznačením zatížení,\nj) zvláštní požadavky na montáž kovové konstrukce."
+    },
+    {
+      "provision_ref": "Bod 77",
+      "section": "77",
+      "title": "Bod 77",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "77. Dodavatel projektu je povinen vyjádřit se k cenovým podkladům nejdéle do 20 dnů."
+    },
+    {
+      "provision_ref": "Bod 78",
+      "section": "78",
+      "title": "Bod 78",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "78. Dodavatelé strojů, zařízení a kovových konstrukcí jsou povinni upozornit příslušné projektové organizace na vývojové a připravované výrobky a lhůty možného dodání."
+    },
+    {
+      "provision_ref": "Bod 79",
+      "section": "79",
+      "title": "Bod 79",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "79. Stroje, zařízení a montáže, které doplňují stavební práce a nejsou součástí technologického výrobního zařízení (netechnologické stroje, zařízení a jejich montáž), zahrnuje generální projektant do objemu dodávky generálního dodavatele stavebních prací, pokud nedojde mezi ním a dodavateli k jiné dohodě. Projektové podklady pro tyto stroje, zařízení a jejich montáž vyžádá si generální projektant od generálního dodavatele stavební části."
+    },
+    {
+      "provision_ref": "Bod 80",
+      "section": "80",
+      "title": "Bod 80",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "80. O zajištění projektových podkladů pro speciální stavební práce (izolace, tepelné vyzdívky apod.) platí ustanovení bodů 72 až 78 a o účasti dodavatele na vypracování zadávacího projektu ustanovení bodu 82 obdobně."
+    },
+    {
+      "provision_ref": "Bod 81",
+      "section": "81",
+      "title": "Bod 81",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "81. Při uzavírání smluv o podkladech mezi dodavateli investora a jejich dodavateli musí být dohodnuty takové lhůty, aby dodavatelé investora mohli dodržet lhůty uvedené v bodě 74."
+    },
+    {
+      "provision_ref": "Bod 82",
+      "section": "82",
+      "title": "Bod 82",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "82. Dodavatel je povinen aktivně se podílet na vypracování zadávacího (jednostupňového) projektu; zejména se\na) účastní stanovení technickoekonomické koncepce řešení, v zadávacím (jednostupňovém) projektu (např. podle bodu 68) a poskytuje potřebné informace o výrobních možnostech a dodacích lhůtách,\nb) poskytuje konzultace a porady pří řešení speciálních technických otázek, týkajících se budoucích dodávek,\nc) dodává části zadávacího (jednostupňového) projektu poddodavatelským způsobem.\nV rámci činnosti podle písm. a) a b) uhradí generální projektant dodavatelům pouze vzniklé cestovní výlohy; dodávky podle písm. c) se hradí podle ceníku průzkumných a projektových prací."
+    },
+    {
+      "provision_ref": "Bod 83",
+      "section": "83",
+      "title": "Bod 83",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl druhý - Zadávací projekt",
+      "content": "83. Ustanovení bodů 73 až 82 platí obdobně i pro vztahy mezi dodavateli investora, a jejich dodavateli všech stupňů."
+    },
+    {
+      "provision_ref": "Bod 84",
+      "section": "84",
+      "title": "Bod 84",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl třetí - Prováděcí projekt",
+      "content": "84. Prováděcí projekt rozvádí (popřípadě i zlepšuje) obsah zadávacího projektu do podrobností, potřebných k nezbytnému zpřesnění, doplnění a ověření řešení, obsaženého ve schváleném zadávacím projektu a do podrobností potřebných k jednoznačnému technickému vyjasnění dodávky strojů a zařízení, včetně montáže a k provedení stavebních prací. Po stránce technickoekonomické musí být prováděcí projekt zaměřen k snížení investičních a provozních nákladů stavby oproti schválenému zadávacímu projektu, bez újmy její kvality, k zkrácení doby výstavby i k nížení vlastních nákladů výroby dodavatele.\nProváděcí projekt obsahuje konečné rozmístění technologických i netechnologických strojů a zařízení i konečné řešení stavební části a zdůvodňuje odchylky v řešení oproti zadávacímu projektu. Součástí prováděcího projektu je seznam strojů a zařízení, členěný až na základní jednotky a seznam náhradních dílů pro první vybavení. Jsou-li dva nebo více dodavatelů (body 14 až 16), zahrnuje prováděcí projekt vypracování koordinačních podkladů, které slouží pro koordinaci projektových prací (body 160, 164 a 165)."
+    },
+    {
+      "provision_ref": "Bod 85",
+      "section": "85",
+      "title": "Bod 85",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl třetí - Prováděcí projekt",
+      "content": "85. Prováděcí projekty vypracovávají s výjimkou případů uvedených v bodě 86 generální, popřípadě finální dodavatelé, a to v rozsahu svých dodávek (zpravidla na objekty nebo jejich části a na provozní celky nebo provozní soubory)."
+    },
+    {
+      "provision_ref": "Bod 86",
+      "section": "86",
+      "title": "Bod 86",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl třetí - Prováděcí projekt",
+      "content": "86. Není-Ii určen přímý finální dodavatel (bod 12) a kromě toho též u staveb památkových, vypracovává prováděcí projekt generální projektant. Investor je povinen předat generálnímu projektantovi nezbytné technické údaje o objednaných strojích, zařízeních, kovových konstrukcích a montážích v rozsahu nutném k zajištění jejich vzájemné vazby a vazby na stavební část. Tyto technické údaje jsou jednotliví dodavatelé strojů a zařízení povinni dodat bezplatně investorovi ve lhůtách dohodnutých při projednávání zadávacího projektu (bod 91 písm. c)]. Mezi dodavateli, generálním projektantem a investorem může být dohodnuto, že technické údaje odevzdají dodavatelé přímo generálnímu projektantovi.\nJe-li u staveb ministerstva národní obrany generálním projektantem, zpracovávajícím též prováděcí projekt, resortní projektový ústav, plní též úkoly připadající jinak projektovým složkám dodavatele."
+    },
+    {
+      "provision_ref": "Bod 87",
+      "section": "87",
+      "title": "Bod 87",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl třetí - Prováděcí projekt",
+      "content": "87. Obsah prováděcího projektu je uveden v příloze č. 6."
+    },
+    {
+      "provision_ref": "Bod 88",
+      "section": "88",
+      "title": "Bod 88",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl čtvrtý - Jednostupňový projekt",
+      "content": "88. U jednoduchých staveb nevyžadujících složitější konstrukční řešení (jednoduché nevýrobní stavby, jednoduché výrobní stavby se známou technologií a standardním strojním zařízením, jednoduché stavby inženýrské, drobné rekonstrukce apod.) vypracuje dokumentaci generální projektant, a to na celou stavbu v jednom stupni (jednostupňový projekt). Jako jednostupňový projekt nelze však vypracovat dokumentaci na soustředěnou bytovou výstavbu (např. sídliště).\nO vypracování projektové dokumentace v jednom stupni rozhodne orgán schvalující investiční úkol, a to na návrh investora, dohodnutý s dodavatelem (body 13 až 16) a s generálním projektantem."
+    },
+    {
+      "provision_ref": "Bod 89",
+      "section": "89",
+      "title": "Bod 89",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl čtvrtý - Jednostupňový projekt",
+      "content": "89. Jestliže u staveb uvedených v bodě 88 nelze projektovou dokumentaci zpracovat souborně, nebo jestliže součástí takových staveb jsou též objekty, které nelze řešit v jednom stupni, vypracovává se projektová dokumentace na celou stavbu ve dvou stupních; u objektů, u nichž je to však možné, zpracuje se dokumentace v jednom stupni. O schválení tohoto postupu platí obdobně ustanovení bodu 88 věty třetí."
+    },
+    {
+      "provision_ref": "Bod 90",
+      "section": "90",
+      "title": "Bod 90",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl čtvrtý - Jednostupňový projekt",
+      "content": "90. Jednostupňový projekt se zpracovává v obdobné skladbě jako zadávací projekt, s podrobností prováděcího projektů. Rozpočet, ekonomická zpráva a projekt organizace výstavby se zpracovává jako k zadávacímu projektu. Jednostupňový projekt se projednává způsobem uvedeným v bodech 91, 94 a 95."
+    },
+    {
+      "provision_ref": "Bod 91",
+      "section": "91",
+      "title": "Bod 91",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "91. Generální projektant je povinen v průběhu prací na zadávacím (jednostupňovém) projektu projednat:\na) s příslušnými orgány nebo organizacemi\naa) návrh připojení stavby na dopravní síť železniční (s příslušnou správou dráhy), silniční, vodní nebo leteckou po stránce výstavby i provozu (zajištění nároků na přepravu nákladů i osob), popřípadě užší styk (křižování) s nimi,\nab) návrh připojení stavby na sítě energetické (s příslušným energetickým rozvodným podnikem) po stránce výstavby i provozu, zajištění dodávky nebo odběru elektřiny, plynu apod., popřípadě užší styk (křižování) s nimi,\nac) návrh připojení stavby na ostatní veřejné sítě po stránce výstavby a provozu (užívání)— (vodovod, kanalizace, telekomunikace apod.),\nad) otázky státní památkové péče nebo státní ochrany přírody, dotýká-li se jich stavba, s příslušným výkonným orgánem krajského národního výboru,\nae) kooperaci při provádění stavby a jejím provozu (užívání);\nb) s příslušnými investory: otázky zajištění vyvolaných investic;\nc) s generálním dodavatelem technologické části a pokud není určen, s přímými finálními dodavateli, popřípadě pokud nejsou určeni, s jednotlivými dodavateli strojů, zařízení a montáží:\nca) možnost dodání provozních celků, souborů, popřípadě strojů, zařízení a montáží a jsou-li uvažovány z dovozu, za účasti příslušného podniku zahraničního obchodu,\ncb) rozsah, hloubku a členění projektových podkladů pro zpracování zadávacího (jednostupňového) projektu,\ncc) návrhy dodacích lhůt a lhůt pro objednání technologické části, popřípadě strojů a montáží;\nd) s generálním dodavatelem stavební části,\nda) otázky uvedené pod písm. c), pokud jde o netechnologické stroje zařízení a jejich montáž (bod 79),\ndb) možnost zajištění dodávek hlavních nedostatkových materiálů a dodávek s dlouhou dodací lhůtou, pokud pro to stačí údaje ze zadávacího projektu;\ne) s generálním dodavatelem stavby otázky uvedené pod písm. c) a d);\nf) se všemi dodavateli investora:\nfa) způsob jejich účasti na zpracování zadávacího projektu (bod 82),\nfb) projekt organizace výstavby,\nfc) návrh limitu odbytové ceny a návrh směrných limitů (body 132 až 134),\nfd) návrh velkoobchodních cen podle příslušných předpisů, není-li určen přímý finální dodavatel (bod 12),\nfe) ceny*) a lhůty předávání prováděcích projektů.\nOtázky uvedené pod písm. b), fb) a fc) projedná generální projektant vždy za účasti a spolupráce investora. Ostatní otázky projedná generální projektant sám, pokud si jejich projednání nevyhradí investor.\nOtázky uvedené pod písm. a) a b) se znovu neprojednávají, jestliže byly závazně projednány již při výběru staveniště.\nNedojde-li při projednávání projektu organizace výstavby [písm. fb)] k dohodě o časovém plánu, dohodnou se o něm závazně do 30 dnů ministerstva nadřízená investorovi a dodavateli, a to vždy před schválením zadávacího projektu."
+    },
+    {
+      "provision_ref": "Bod 92",
+      "section": "92",
+      "title": "Bod 92",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "92. S jinými orgány a organizacemi není generální projektant povinen zadávací projekt projednávat."
+    },
+    {
+      "provision_ref": "Bod 93",
+      "section": "93",
+      "title": "Bod 93",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "93. Je-li třeba, aby při zpracovávání prováděcího projektu byly projednány ještě některé z otázek uvedených v bodě 91, učiní tak dodavatel prováděcího projektu, a to za účasti investora, popřípadě generálního projektanta."
+    },
+    {
+      "provision_ref": "Bod 94",
+      "section": "94",
+      "title": "Bod 94",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "94. Generální projektant je povinen za účasti investora projednat návrh zastavovacího plánu zadávacího (jednostupňového) projektu s výkonným orgánem okresního národního výboru.**)"
+    },
+    {
+      "provision_ref": "Bod 95",
+      "section": "95",
+      "title": "Bod 95",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "95. Investor je povinen za účasti generálního projektanta projednat návrh zadávacího (jednostupňového) projektu před jeho schválením se stavebním úřadem, popřípadě s jinými orgány příslušnými podle předpisů k povolováni staveb.*)"
+    },
+    {
+      "provision_ref": "Bod 96",
+      "section": "96",
+      "title": "Bod 96",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "96. Dodavatel prováděcího projektu je povinen za účasti investora projednat prováděcí projekt se stavebním úřadem, pokud si to stavební úřad vyhradil."
+    },
+    {
+      "provision_ref": "Bod 97",
+      "section": "97",
+      "title": "Bod 97",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "97. Generální projektant projedná u strojů, zařízení a konstrukcí uvažovaných z dovozu s příslušnými orgány otázky technické a bilanční cenzury."
+    },
+    {
+      "provision_ref": "Bod 98",
+      "section": "98",
+      "title": "Bod 98",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "98. Dodavatelé (body 13 až 16) a jiné orgány a organizace jsou povinny poskytnout údaje uvedené v bodě 91 generálnímu projektantovi, popřípadě investorovi bezplatně do 30 dnů, není-li stanovena (např. bod 134) nebo sjednána jiná lhůta; odmítnutí dodávky musí dodavatelé sdělit do 15 dnů."
+    },
+    {
+      "provision_ref": "Bod 99",
+      "section": "99",
+      "title": "Bod 99",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl pátý - Projednání projektové dokumentace",
+      "content": "99. Doklady o projednání podle bodů 47, 68, 91, 93 až 97 se připojují k zadávacímu (jednostupňovému) projektu, popřípadě k prováděcímu projektu."
+    },
+    {
+      "provision_ref": "Bod 100",
+      "section": "100",
+      "title": "Bod 100",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl šestý - Podpisování a dodání projektové dokumentace",
+      "content": "100. Projektová dokumentace musí být před odevzdáním podepsána, a to:\na) souhrnná zpráva, ekonomická zpráva, zastavovací plán, časový plán, situační plán, kontrolní dispozice a rozpočet stavby nebo její etapy odpovědným projektantem, vedoucím organizace oprávněné provádět průzkumné a projektové práce, nebo jím zmocněným zástupcem;\nb) ostatní části projektové dokumentace, jejich zpracovateli a dalšími odpovědnými pracovníky, které určí vedoucí organizace oprávněné provádět průzkumné a projektové práce."
+    },
+    {
+      "provision_ref": "Bod 101",
+      "section": "101",
+      "title": "Bod 101",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl šestý - Podpisování a dodání projektové dokumentace",
+      "content": "101. Projektovou dokumentaci dodává dodavatel projektu objednateli, v počtu vyhotovení dohodnutém ve smlouvě; z toho počtu jsou zahrnuty v ceně projektových prací:\na) zadávací projekt v 6 vyhotoveních (bod 157),\nb) prováděcí projekt ve 4 vyhotoveních (bod 158),\nc) jednostupňový projekt v 6 vyhotoveních (bod 157),\nd) ekonomická zpráva podle ustanovení bodu 117.\nVyhotovení nad uvedený počet dodá dodavatel projektu investorovi za úplatu; investor ji poskytne ze svých provozních prostředků."
+    },
+    {
+      "provision_ref": "Bod 102",
+      "section": "102",
+      "title": "Bod 102",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl šestý - Podpisování a dodání projektové dokumentace",
+      "content": "102. Statické, základní technologické, hydrotechnické a jiné výpočty, vypracované při řešení zadávacího projektu, předá investorovi generální projektant ve dvou vyhotoveních (u jednostupňového projektu v jednom vyhotovení) jako doklad k zadávacímu (jednostupňovému) projektu, nepodléhající schválení; jedno vyhotovení příslušných částí výpočtů předá investor svým dodavatelům jako podklad pro zpracování prováděcích projektů.\nZpracovatelé prováděcích projektů odevzdají investorovi své statické a hydrotechnické výpočty ve dvou vyhotoveních jako přílohu k prováděcímu projektu; jedno vyhotovení předá investor generálnímu projektantovi. Generální projektant je oprávněn nahlížet do výpočtů zpracovaných dodavateli prováděcích projektů a pořídit si z těchto výpočtů potřebné opisy."
+    },
+    {
+      "provision_ref": "Bod 103",
+      "section": "103",
+      "title": "Bod 103",
+      "chapter": "ČÁST TŘETÍ - PROJEKTOVÁ DOKUMENTACE > Díl šestý - Podpisování a dodání projektové dokumentace",
+      "content": "103. Dodavatelé jsou povinni uschovat po dobu stanovenou zvláštními předpisy (archivovat) statické, technologické a jiné výpočty, projektové a jiné podklady, sloužící k vypracování projektové dokumentace, spolu s jedním úplným souborem projektové dokumentace jimi zpracované."
+    },
+    {
+      "provision_ref": "Bod 104",
+      "section": "104",
+      "title": "Bod 104",
+      "chapter": "ČÁST ČTVRTÁ - TYPOVÉ PROJEKTY",
+      "content": "104. Typovým projektem je projektová dokumentace objektu nebo jeho části, vypracovaná pro konkrétní staveniště podle typových podkladů. Pro stavby, objekty nebo jejich části, pro které jsou schváleny závazné typové podklady, není dovoleno vypracovávat individuální projekty."
+    },
+    {
+      "provision_ref": "Bod 105",
+      "section": "105",
+      "title": "Bod 105",
+      "chapter": "ČÁST ČTVRTÁ - TYPOVÉ PROJEKTY",
+      "content": "105. Generální projektant odpovídá za správnost volby typového podkladu a za účelné a hospodárné přizpůsobení typového projektu místním podmínkám."
+    },
+    {
+      "provision_ref": "Bod 106",
+      "section": "106",
+      "title": "Bod 106",
+      "chapter": "ČÁST ČTVRTÁ - TYPOVÉ PROJEKTY",
+      "content": "106. Při projektování objektů, pro které nebyly vydány závazné typové podklady nebo pro něž byla povolena výjimka z použití typových podkladů, je generální projektant povinen dodržet modulový systém a používat hromadně vyráběných typizovaných a normalizovaných konstrukcí a prvků."
+    },
+    {
+      "provision_ref": "Bod 107",
+      "section": "107",
+      "title": "Bod 107",
+      "chapter": "ČÁST ČTVRTÁ - TYPOVÉ PROJEKTY",
+      "content": "107. Výkresy neměnných částí typových podkladů objektů a normalizovaných i typizovaných konstrukcí a prvků se v typových projektech nepřekreslují a rozpočty a statické výpočty se nepřepisují; uvádí se pouze příslušným označením. Dodavatelé (body 13 až 16) nejsou tudíž oprávněni tyto výkresy, rozpočty a statické výpočty vyžadovat."
+    },
+    {
+      "provision_ref": "Bod 108",
+      "section": "108",
+      "title": "Bod 108",
+      "chapter": "ČÁST ČTVRTÁ - TYPOVÉ PROJEKTY",
+      "content": "108. Pro vypracování, projednání, schválení, používání a udělování výjimek z použití typových podkladů platí směrnice o typovém projektování."
+    },
+    {
+      "provision_ref": "Bod 109",
+      "section": "109",
+      "title": "Bod 109",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "109. Ekonomická část dokumentace prokazuje ekonomickou úroveň řešení stavby nebo její části a obsahuje výsledky zkoumání otázek její nezbytnosti, naléhavosti, účelnosti a ekonomické efektivnosti. Ekonomické úvahy a rozbory musí být provedeny dříve, než se přikročí k technickému řešení stavby. Tyto rozbory musí být souběžně s postupem prací na přípravné a projektové dokumentaci prohlubovány, v období provádění stavby prověřovány a po jejím uvedení do trvalého provozu (užívání) vyhodnoceny."
+    },
+    {
+      "provision_ref": "Bod 110",
+      "section": "110",
+      "title": "Bod 110",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "110. Investiční úkol, popřípadě výhledové studie výstavby jsou základními ekonomickými dokumenty, které obsahují rozhodující ekonomické úvahy, zkoumání a rozbory ve stadiu vypracování přípravné dokumentace. Ekonomická efektivnost v investičním úkolu a ve výhledové studii je vyjádřena progresivními technickohospodářskými údaji a ukazateli. Nejsou-li progresivní technickohospodářské ukazatele stanoveny a vyhlášeny, navrhne je orgán sestavující investiční úkol (výhledovou studii) a jejich progresivitu odůvodní.\nTechnickohospodářské ukazatele stanovené v investičním úkolu jsou při jeho schválení označeny buď jako závazné nebo jako orientační. Závazným ukazatelem investičního úkolu je vždy investiční náklad na účelovou jednotku a u výrobních staveb též ukazatel úplných vlastních nákladů na účelovou jednotku budoucí výroby.\nK prokázání progresívnosti stanovených ukazatelů musí být provedena srovnání nejlepších dosavadních nebo projektovaných obdobných staveb domácích i zahraničních, dosahujících světové úrovně."
+    },
+    {
+      "provision_ref": "Bod 111",
+      "section": "111",
+      "title": "Bod 111",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "111. Ekonomická zpráva zadávacího (jednostupňového) projektu řeší a prokazuje zejména co nejefektivnější dosažení zamýšleného účelu, jakož i ekonomickou účinnost v širších souvislostech. Ekonomická zpráva se opírá o vyhodnocení srovnávacích studií, vypracovaných podle bodu 67 a obsahuje technickoekonomické údaje a ukazatele, srovnané s progresivními ukazateli investičního úkolu."
+    },
+    {
+      "provision_ref": "Bod 112",
+      "section": "112",
+      "title": "Bod 112",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "112. Ekonomická zpráva zadávacího (jednostupňového) projektu se zpracovává jednak pro celou stavbu, jednak pro důležité objekty, provozní celky a provozní soubory, pokud tvoří funkčně ucelenou část stavby. Zpracování musí být komplexní a musí obsahovat zhodnocení technologické i stavební části."
+    },
+    {
+      "provision_ref": "Bod 113",
+      "section": "113",
+      "title": "Bod 113",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "113. V ekonomické zprávě prováděcího projektu se uvádějí a odůvodňují odchylky oproti schváleným ukazatelům uvedeným v ekonomické zprávě zadávacího projektu a vyjadřuje se jejich ekonomický dosah."
+    },
+    {
+      "provision_ref": "Bod 114",
+      "section": "114",
+      "title": "Bod 114",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "114. Ústřední místa pro systematické shromažďování a vyhodnocování technickohospodářských ukazatelů, zřízená u jednotlivých ministerstev (ústředních úřadů), zpracovávají ukazatele v ucelené soustavy a plynule je poskytují příslušným investorským, projektovým a dodavatelským orgánům a na požádání též kontrolním orgánům."
+    },
+    {
+      "provision_ref": "Bod 115",
+      "section": "115",
+      "title": "Bod 115",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "115. Investoři odevzdají prostřednictvím svých ústředních investorů ústřednímu místu (bod 114) jednu kopii ekonomických zpráv zadávacího (jednostupňového) projektu a prováděcích projektů důležitých staveb, určených nadřízeným ústředním orgánem, a to pro celou stavbu i pro hlavní objekty a pro provozní celky a provozní soubory, pokud tvoří funkčně ucelenou část stavby.\nInvestor odpovídá za to, že ekonomické zprávy budou upraveny podle konečných výsledků schvalovacího řízení.\nVýsledky vyhodnocení dokončených staveb, zjištěné při uvádění staveb nebo jejich provozně ucelených částí do trvalého provozu (užívání), zasílají investoři ústředním místům a orgánům uvedeným v bodě 117 a financující pobočce banky v případech uvedených v bodě 40."
+    },
+    {
+      "provision_ref": "Bod 116",
+      "section": "116",
+      "title": "Bod 116",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "116. Pro stavby a objekty, jejichž výstavba se vyskytuje u několika ústředních investorů, jsou seřízena ústřední místa stanovena zvláštními opatřeními. Těmto místům předají ústřední investoři jednu kopii ekonomických zpráv projektové dokumentace příslušné stavby nebo objektu:"
+    },
+    {
+      "provision_ref": "Bod 117",
+      "section": "117",
+      "title": "Bod 117",
+      "chapter": "ČÁST PÁTÁ - EKONOMICKÁ ČÁST DOKUMENTACE",
+      "content": "117. Při zpracování ekonomické zprávy projektové dokumentace se vyhotoví oproti předepsanému počtu povinných vyhotovení uvedených v bodě 101 písm. a) až c) navíc\na) jedna kopie u staveb decentralizovaných, pro které je příslušné jen vlastní ústřední místo a investor ji předá svému ústřednímu místu,\nb) dvě kopie u staveb decentralizovaných, pro které je příslušné také ústřední místo podle bodu 116; z nich jednu kopii předá investor svému ústřednímu místu a druhou ústřednímu místu podle bodu 116,\nc) tři kopie u staveb centralizovaných, pro které je příslušné jen vlastní ústřední místo; z nich jednu kopii předá investor svému ústřednímu místu, druhou Státnímu výboru pro výstavbu a třetí Státní plánovací komisi,\nd) čtyři kopie u staveb centralizovaných, pro které je příslušné také ústřední místo podle bodu 116; z nich investor předá po jedné kopii svému ústřednímu místu, Státnímu výboru pro výstavbu, Státní plánovací komisi a ústřednímu místu podle bodu 116.\nStátní výbor pro výstavbu si může vyžádat také kopii ekonomických zpráv projektové dokumentace staveb, které neschvaluje vláda (centralizovaných i decentralizovaných)."
+    },
+    {
+      "provision_ref": "Bod 118",
+      "section": "118",
+      "title": "Bod 118",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "118. Pro každou stavbu musí být stanoveny její investiční náklady."
+    },
+    {
+      "provision_ref": "Bod 119",
+      "section": "119",
+      "title": "Bod 119",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "119. Ve výhledových studiích jsou uvedeny předběžné náklady na celou výstavbu, stanovené pomocí progresivních technickohospodářských ukazatelů a odborných odhadů."
+    },
+    {
+      "provision_ref": "Bod 120",
+      "section": "120",
+      "title": "Bod 120",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "120. Investiční úkol stanoví pomocí progresivních technickohospodářských ukazatelů a ekonomických rozborů investiční náklady celé stavby, závazné pro generálního projektanta při vypracování zadávacího (jednostupňového) projektu. Zpracovatel investičního úkolu je povinen uvést prameny, podle nichž investiční náklady stanovil."
+    },
+    {
+      "provision_ref": "Bod 121",
+      "section": "121",
+      "title": "Bod 121",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "121. Zjistí-li generální projektant v průběhu prací na zadávacím (jednostupňovém) projektu, že není výjimečně možné dodržet investiční náklady stanovené v investičním úkolu, postupuje se podle bodu 31."
+    },
+    {
+      "provision_ref": "Bod 122",
+      "section": "122",
+      "title": "Bod 122",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "122. K zadávacímu projektu se sestavuje rozpočet na celou stavbu, obsahující veškeré náklady na investiční práce a dodávky podle metodických pokynů Státní plánovací komise,*) ve skladbě uvedené v příloze č. 4 část F a na formulářích uvedených v příloze č. 7."
+    },
+    {
+      "provision_ref": "Bod 123",
+      "section": "123",
+      "title": "Bod 123",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "123. V rozpočtu k zadávacímu projektu, vypracovanému podle bodu 66, generální projektant používá pro určení rozpočtových nákladů\na) stavební části:\naa) pevných cen typových objektů nebo jejich částí,\nab) rozpočtových podkladů rozpočtové soustavy,\nac) odborných odhadů pro bourací práce a demontáže,\nad) rozpočtových podkladů, jejichž používání upravují zvláštní předpisy Státního výboru pro výstavbu,\nae) pro netechnologické stroje, zařízení a montáže (bod 79) cen stanovených podle písm. b) a c) obdobně;\nb) technologické části:\ncenových podkladů (bod 74), které poskytnou generální, popřípadě přímí finální dodavatelé technologické části na celý rozsah jejich dodávky souhrnnou závaznou částkou, podloženou specifikací podle hlavních strojů a zařízení, ve skladbě provozních souborů nebo jiných dohodnutých jednotek. Cenové podklady se sestaví:\nba) pro standardní stroje a zařízení podle velkoobchodních cen,\nbb) pro nestandardní stroje a zařízení podle příslušných cenových předpisů.\nJsou-li určeni generální nebo přímí finální dodavatelé technologické části, je v rozsahu jejich dodávek zahrnuta též montáž. Náklady na montáž stanoví se i v tomto případě podle ustanovení písm. c) a vyčíslí se samostatně. Ceny jednotlivých nestandardních strojů a zařízení, uvedených ve specifikaci takové dodávky, nemusí být ještě závazné, avšak jejich překročení nesmí vést k překročení limitu, stanoveného na celý rozsah dodávky. Generální projektant je oprávněn vyžádat si další informativní cenové podklady pro jednotlivé stroje a zařízení, které nejsou ve specifikaci uvedeny, pokud jich bude potřebovat pro ověření cenových podkladů (bod 77) a pro doplnění vlastní cenové dokumentace;\nc) montáží strojů a zařízení:\nnabídek dodavatelů, vypracovaných na podkladě ceníků montáží rozpočtové soustavy, pokud nebudou vypracovány skupinové ceny, popřípadě na podkladě ceníků montáží a nebyly-li vydány, cen podle příslušných cenových předpisů;\nd) ostatních prací a nákladů:\ncen podle příslušných ceníků a tarifů, popřípadě podle příslušných cenových předpisů (náklady na nákup inventáře, nářadí apod.)."
+    },
+    {
+      "provision_ref": "Bod 124",
+      "section": "124",
+      "title": "Bod 124",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "124. V souhrnném rozpočtu k etapovému zadávacímu projektu (bod 70) používá generální projektant pro určení rozpočtových nákladů první etapy stavby rozpočtových podkladů podle bodu 123; pro určení rozpočtových nákladů druhé, popřípadě dalších etap stavby, rozpočtových ukazatelů v platné cenové hladině, popřípadě rozpočtových podkladů uvedených v bodě 123."
+    },
+    {
+      "provision_ref": "Bod 125",
+      "section": "125",
+      "title": "Bod 125",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "125. Generální projektant je povinen cenové podklady, které mu poskytnou dodavatelé, použité jako rozpočtové podklady v rozpočtu k zadávacímu projektu, posoudit porovnáním, popřípadě rozborem; za tím účelem může v případech rozhodující důležitosti požádat ministerstvo nadřízené dodavateli, aby do 15 dnů ověřilo přiměřenost ceny uvedené v cenových podkladech."
+    },
+    {
+      "provision_ref": "Bod 126",
+      "section": "126",
+      "title": "Bod 126",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "126. Navrhne-li dodavatel v prováděcím projektu oproti zadávacímu projektu úspory v množství nebo změnu dodávek a prací, použije pro určení odbytové ceny rozpočtových podkladů toho druhu, kterého použil generální projektant."
+    },
+    {
+      "provision_ref": "Bod 127",
+      "section": "127",
+      "title": "Bod 127",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "127. Náklady na nepředvídané práce a výdaje se určují procentními sazbami, a to podle druhu objektu; procentní sazby činí z rozpočtových nákladu stavební části u objektů:\na)bytovýchnejvýše 1 %\nb)občanských, zemědělských, lesnickýchnejvýše 2 %\nc)průmyslových, stavební výroby, dopravních a spojovýchnejvýše 6 %\nd)vodohospodářskýchnejvýše 5 %\ne)podzemníchnejvýše 7 %\nf)u rekonstrukcí a adaptacínejvýše 5 %\nČástky odpovídající těmto procentním sazbám se uvedou v rozpočtu k zadávacímu (jednostupňovému) projektu.\nČiní-li součet částek na nepředvídané práce a výdaje na stavbu (etapu), navrhovaných v rozpočtu k zadávacímu (jednostupňovému) projektu více než 50 % jejich přípustné výše, musí být v příloze k rozpočtu zdůvodněny a schvalujícím orgánem přezkoumány. Náklady na nepředvídané práce a výdaje jsou zahrnuty do celkových investičních nákladů stavby, stanovených schváleným investičním úkolem. O čerpání částek na nepředvídané práce a výdaje rozhoduje investor, a to po projednání s generálním projektantem."
+    },
+    {
+      "provision_ref": "Bod 128",
+      "section": "128",
+      "title": "Bod 128",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "128. Částky na nepředvídané práce a výdaje nejsou součástí limitu odbytové ceny."
+    },
+    {
+      "provision_ref": "Bod 129",
+      "section": "129",
+      "title": "Bod 129",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "129. Limit odbytové ceny je rozpočtový náklad vyčíslený v rozpočtu k zadávacímu (jednostupňovému) projektu, dohodnutý za celou dodávku mezi investorem a dodavatelem (body 13 až 16). Návrh limitů odbytových cen na stavbu nebo její etapu sestavuje generální projektant.\nU hromadné výstavby, prováděné podle typových nebo opakovaných projektů, může investor dohodnout s dodavatelem pevnou cenu nebo limit odbytové ceny pro více staveb."
+    },
+    {
+      "provision_ref": "Bod 130",
+      "section": "130",
+      "title": "Bod 130",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "130. Pokud je zpracován etapový zadávací projekt (bod 70), obsahuje pouze návrh limitů odbytových cen pro první etapu stavby; pro další etapy je souhrnný rozpočet zpřesňován podle časového plánu, dohodnutého s dodavateli, na limit odbytových cen, současně s doplňováním etapového zadávacího projektu na rozsah podle bodu 66."
+    },
+    {
+      "provision_ref": "Bod 131",
+      "section": "131",
+      "title": "Bod 131",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "131. Pro zemní práce, zakládání a pro důlní práce, pro něž nelze při zpracování zadávacího projektu jednoznačně určit jejich množství nebo druh, navrhne generální projektant v rozpočtu k zadávacímu projektu směrný limit, jestliže objem těchto prací přesahuje 5 % z rozpočtové ceny stavebních prací celé stavby nebo její etapy. (Pro další práce a dodávky platí limit odbytové ceny.) Investor a generální dodavatel stavební části mohou se dohodnout o limitu odbytové ceny včetně uvedených prací i v takovém případě, přesáhne-li jejich objem 5 % z rozpočtové ceny stavebních prací stavby nebo její etapy. Státní výbor pro výstavbu může určit další práce, u nichž lze v rozpočtu k zadávacímu projektu navrhnout směrný limit."
+    },
+    {
+      "provision_ref": "Bod 132",
+      "section": "132",
+      "title": "Bod 132",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "132. Generální projektant spolu s investorem projednají s dodavatelem (body 13 až 16) před schválením zadávacího (jednostupňového) projektu návrh limitu odbytové ceny, při jednání podle bodu 91 písm. fc). Limit odbytové ceny, dohodnutý přitom mezi investorem a dodavatelem, se stává pro ně závazným."
+    },
+    {
+      "provision_ref": "Bod 133",
+      "section": "133",
+      "title": "Bod 133",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "133. Vzniknou-li při schvalovacím řízení některé úpravy, ovlivňující limit odbytové ceny, projedná je investor za účasti generálního projektanta s příslušnými dodavateli. Výsledky tohoto jednání, pokud by nebyly, v souladu s rozhodnutím schvalujícího orgánu, předloží investor tomuto orgánu k vyslovení souhlasu, popřípadě k projednání s příslušnými nadřízenými orgány dodavatele. U dokumentace schvalované vládou rozhodne o výsledcích takového jednání Státní výbor pro výstavbu."
+    },
+    {
+      "provision_ref": "Bod 134",
+      "section": "134",
+      "title": "Bod 134",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "134. Dodavatel (body 13 až 16) je povinen projednat limit odbytové ceny podle bodu 132\nu staveb podle typových projektůdo 30 dnů,\nu ostatních staveb nebo jejich etap pod 15 mil Kčs rozpočtových nákladů dodávkydo 45 dnů,\nnad 15 mil Kčs rozpočtových nákladů dodávkydo 75 dnů,"
+    },
+    {
+      "provision_ref": "Bod 135",
+      "section": "135",
+      "title": "Bod 135",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "135. Nedojde-li mezi investorem a dodavatelem k dohodě o limitu odbytové ceny, zadávací (jednostupňový) projekt se schvaluje s limitem odbytové ceny podle návrhu generálního projektanta; tento návrh limitu platí až do konečného rozhodnutí rozporu.\nV takovém případě je dodavatel (body 13 až 16) povinen nejpozději do 15 dnů požádat svůj nadřízený ústřední orgán o projednání rozporu s ústředním orgánem investora. Opis žádosti zašle dodavatel současně investorovi, který je povinen bezodkladně informovat svůj nadřízený orgán a předat mu své vyjádření spolu s opisem žádosti. Rozpory vyřizují ústřední orgány, a ta do 15 dnů ode dne, kdy ústřední orgán nadřízený investorovi byl o rozporu vyrozuměn.\nNedojde-li mezi ústředními orgány k dohodě, rozhodne orgán, stanovený zvláštními předpisy.\nPodle výsledku rozhodnutí rozporu upraví generální projektant návrh limitu odbytové ceny; investor předloží upravený návrh limitu orgánu schvalujícímu zadávací (jednostupňový) projekt."
+    },
+    {
+      "provision_ref": "Bod 136",
+      "section": "136",
+      "title": "Bod 136",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "136. Navrhne-li dodavatel v prováděcím projektu na základě hospodárnějšího řešení — nebo výjimečně z nutnosti nahradit nedostatkový materiál, předepsaný zadávacím projektem, jiným materiálem — změnu v množství nebo druhu prací a dodávek oproti zadávacímu projektu, vypracuje návrh změny příslušných částí rozpočtu k zadávacímu projektu, popřípadě časový plán stavby; k návrhu těchto změn vyžádá si investor stanovisko generálního projektanta. Provedení změn oproti zadávacímu projektu je podmíněno souhlasem investora. Dodavatel fakturuje odbytovou cenu sníženou podle změn. Upravená odbytová cena nesmí vést k překročení limitu odbytové ceny.\nOdbytovou cenu za práce rozpočtované směrným limitem (bod 131) navrhuje dodavatel podle prováděcího projektu. Přijme-li investor odbytovou cenu vyšší než směrný limit, hradí zvýšené náklady z dosažených úspor z limitu odbytové ceny nebo z částek na nepředvídané práce a výdaje. Nestačí-li tyto zdroje, projedná investor zvýšení s orgánem, který schválil zadávací (jednostupňový) projekt."
+    },
+    {
+      "provision_ref": "Bod 137",
+      "section": "137",
+      "title": "Bod 137",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "137. Navrhne-li dodavatel v prováděcím projektu změny oproti zadávacímu projektu, které přinášejí výhody investorovi, které však vedou k překročení limitu odbytové ceny, je nutno takové změny předložit ke schválení orgánu, který schválil zadávací projekt."
+    },
+    {
+      "provision_ref": "Bod 138",
+      "section": "138",
+      "title": "Bod 138",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "138. Rozpočtové náklady k zadávacímu (jednostupňovému) projektu se nepotvrzují jako limity odbytových cen, jde-li o dodávky, práce a výkony;\na) rozpočtované pro druhou, popřípadě další etapu stavby, při zpracování první etapy (bod 124);\nb) rozpočtované podle bodu 131 jako směrný limit;\nc) prováděné ve vlastní režii investora;\nd) jimiž se odstraňují následky živelných pohrom;\ne) drobné adaptace, demontáže, bourací práce, havarie (bod 61);\nf) rozpočtované podle bodu 123 písm. d).\nDodavatelé jsou však povinni projednat s generálním projektantem u rozpočtů na dodávky a práce, uvedené pod písm. d) a e) do 15 dnů správnost použití cenových podkladů v rozpočtovaných položkách. Nedojde-li k dohodě, postupuje se podle bodu 135."
+    },
+    {
+      "provision_ref": "Bod 139",
+      "section": "139",
+      "title": "Bod 139",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "139. Pro financování stavby je základním podkladem schválený rozpočet k zadávacímu (jednostupňovému) projektu a časový plán stavby, popřípadě včetně změn podle bodu 136. Nedojde-li k dohodě při projednávání limitů odbytových cen, je podkladem pro financování návrh limitů odbytových cen předložený investorem, a to až do vyřešení sporu (bod 135).*)"
+    },
+    {
+      "provision_ref": "Bod 140",
+      "section": "140",
+      "title": "Bod 140",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "140. U staveb s etapovým zadávacím projektem odevzdává investor financující bance souhrnný rozpočet celé stavby a rozpočty jednotlivých etap k zadávacím projektům na etapy postupně tak, jak jsou schvalovány; s rozpočtem na poslední etapu odevzdá investor bance soupis rozpočtů k zadávacímu projektu a limity odbytových cen na všechny etapy, zpracované souhrnně na celou stavbu na formuláři č. 1 uvedeném v příloze č. 7."
+    },
+    {
+      "provision_ref": "Bod 141",
+      "section": "141",
+      "title": "Bod 141",
+      "chapter": "ČÁST ŠESTÁ - INVESTIČNÍ NÁKLADY, ROZPOČTY A LIMITY ODBYTOVÝCH CEN",
+      "content": "141. Náklady na nepředvídané práce a výdaje se financují do částky stanovené podle bodu 127, u stavebních a montážních prací na základě protokolu o převzetí prací, u ostatních výdajů na základě faktur potvrzených investorem."
+    },
+    {
+      "provision_ref": "Bod 142",
+      "section": "142",
+      "title": "Bod 142",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "142. Vláda stanoví:\na) na návrh Státní plánovací komise, které investiční úkoly staveb schválí sama; tyto investiční úkoly posuzuje pro vládu ve lhůtách jí stanovených Státní plánovací komise ve spolupráci se Státním výborem pro výstavbu;\nb) na návrh Státního výboru pro výstavbu, kterou projektovou dokumentaci schválí sama; tuto projektovou dokumentaci posuzuje pro vládu ve lhůtách jí stanovených Státní výbor pro výstavbu, který si vyžádá ke svému posouzení vyjádření Státní plánovací komise, ministerstva financí a Státního výboru pro rozvoj techniky."
+    },
+    {
+      "provision_ref": "Bod 143",
+      "section": "143",
+      "title": "Bod 143",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "143. Investiční úkoly a zadávací (jednostupňové) projekty centralizovaných staveb, které si nevyhradila ke schválení vláda, schvalují příslušní ministři (pověřenci), vedoucí ústředních úřadů a orgánů a rady krajských národních výborů, pokud vláda nezmocní k jejich schválení jiný orgán nebo pokud si jejich schválení nevyhradil sbor pověřenců v hospodářství jím řízeném."
+    },
+    {
+      "provision_ref": "Bod 144",
+      "section": "144",
+      "title": "Bod 144",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "144. Investiční úkoly a zadávací (jednostupňové) projekty decentralizovaných staveb schvalují orgány, které rozpisem plánu investiční výstavby poskytují prostředky určené pro tyto stavby jmenovitě. Tyto orgány mohou zmocnit ke schvalování těchto investičních úkolů a zadávacích (jednostupňových) projektů orgány podřízené, jestliže jsou odborně způsobilé k jejich správnému posouzení."
+    },
+    {
+      "provision_ref": "Bod 145",
+      "section": "145",
+      "title": "Bod 145",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "145. Investiční úkoly a zadávací (jednostupňové) projekty decentralizovaných staveb, prováděných z vlastních vytvořených prostředků (z podílu na odpisech, z přírůstku zisku, popřípadě ze zisku, z podnikových fondů pracujících a z jiných vlastních finančních zdrojů) schvalují vedoucí investorských organizací."
+    },
+    {
+      "provision_ref": "Bod 146",
+      "section": "146",
+      "title": "Bod 146",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "146. Výhledové studie (generální řešení) schvalují orgány schvalující investiční úkoly (zadávací projekty), pokud je to podle jejich rozhodnutí účelné."
+    },
+    {
+      "provision_ref": "Bod 147",
+      "section": "147",
+      "title": "Bod 147",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "147. Prováděcí projekty se schvalují jen tehdy, jestliže si to při schvalování zadávacího projektu vyhradil orgán nadřízený investorovi.*)"
+    },
+    {
+      "provision_ref": "Bod 148",
+      "section": "148",
+      "title": "Bod 148",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "148. Schvalující orgány rozhodují o předložené dokumentaci po jejím odborném posouzení zvláštním posuzovacím orgánem, který k tomu účelu ustanoví."
+    },
+    {
+      "provision_ref": "Bod 149",
+      "section": "149",
+      "title": "Bod 149",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "149. Schvalující orgány — kromě vlády (sboru pověřenců) — jsou povinny zajistit si odborné posouzení předložené dokumentace a rozhodnutí o ní nejpozději do 30 dnů."
+    },
+    {
+      "provision_ref": "Bod 150",
+      "section": "150",
+      "title": "Bod 150",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "150. Dokumentaci předkládají schvalujícím orgánům se svým stanoviskem vedoucí investorských organizací, vládě vedoucí ústředních úřadů, popřípadě rady krajských národních výborů. Posouzení dokumentace (bod 148) se zúčastňují investor, generální projektant a pokud je investor o to požádá, dodavatelé (body 13 až 16). Za účast při schvalování dokumentace se úplata neposkytuje."
+    },
+    {
+      "provision_ref": "Bod 151",
+      "section": "151",
+      "title": "Bod 151",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "151. Po schválení etapového zadávacího projektu schvaluje zadávací projekty dalších etap stavby., u kterých je povoleno doplňování na zadávací projekt podle bodu 66, vedoucí investorské organizace, není-li narušena koncepce schválená nadřízeným orgánem a není-li překročen souhrnný rozpočet."
+    },
+    {
+      "provision_ref": "Bod 152",
+      "section": "152",
+      "title": "Bod 152",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "152. Doklady a zdůvodňující přílohy připojené k dokumentaci nejsou předmětem schválení, pokud nejde o případy uvedené v bodě 146; posuzovací a schvalovací orgány jsou však povinny k nim přihlédnout.\nV zápisu o posouzení dokumentace musí být zejména uvedeno, jakým způsobem byly splněny podmínky stanovené výkonnými orgány národních výborů, a zda bylo přihlédnuto k připomínkám financující banky, dodavatelů (body 13 až 16), popřípadě jiných orgánů a organizací."
+    },
+    {
+      "provision_ref": "Bod 153",
+      "section": "153",
+      "title": "Bod 153",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "153. Schválení se provádí protokolem (protokol o schválení), který podepisuje schvalující orgán s uvedením plného jména a funkce, s připojením razítka příslušné organizace a s uvedením data schválení Součástí protokolu o schválení je zápis o posouzení dokumentace posuzovacím orgánem a pokud obsahuje požadavky na dovoz strojů a zařízení, též potvrzení orgánu schvalujícího nezbytnost dovozu; jedno vyhotovení s tímto potvrzením odevzdá investor financující bance.\nJednotlivé části projektové dokumentace předložené ke schválení se opatří záznamem o schválení (schvalovací doložka), který podepisuje schvalující orgán a jestliže dokumentaci schválila vláda, posuzovací orgán."
+    },
+    {
+      "provision_ref": "Bod 154",
+      "section": "154",
+      "title": "Bod 154",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "154. Investiční úkoly se předkládají ke schválení ve třech vyhotoveních. U centralizovaných staveb zašle se kromě toho jedno vyhotovení Státní plánovací komisi a u staveb na Slovensku též Slovenské plánovací komisi (bod 41). Schvalující orgán opatří všechna vyhotovení schvalovací doložkou a připojí k nim protokol o schválení; dvě vyhotovení vrátí investorovi, který jedno z nich předá generálnímu projektantovi. U centralizovaných staveb zašle investor Státní plánovací komisi a u staveb na Slovensku též Slovenské plánovací komisi schvalovací protokol, popřípadě s vyrozuměním o změnách podle bodu 155."
+    },
+    {
+      "provision_ref": "Bod 155",
+      "section": "155",
+      "title": "Bod 155",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "155. V případech, kdy schvalující orgán změní některé ukazatele, opraví je v předloženém investičním úkolu nebo vyhotoví nové znění investičního úkolu, které schválil."
+    },
+    {
+      "provision_ref": "Bod 156",
+      "section": "156",
+      "title": "Bod 156",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "156. Zadávací (jednostupňový) projekt, popřípadě etapový zadávací projekt (bod 70), se předkládá ke schválení ve třech vyhotoveních. Schvalující orgán opatří všechna vyhotovení schvalovací doložkou a připojí k nim protokol o schválení; dvě vyhotovení vrátí investorovi, který z jednoho vyhotovení odevzdá rozpočet a časový plán stavby financující bance a zbývající části použije pro stavební úřad jako průkaz o tom, že schválený zadávací (jednostupňový) projekt splňuje jím stanovené podmínky. Druhé vyhotovení zadávacího (jednostupňového) projektu si investor ponechá."
+    },
+    {
+      "provision_ref": "Bod 157",
+      "section": "157",
+      "title": "Bod 157",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "157. Investor je povinen předat generálnímu dodavateli stavby dvě vyhotovení zadávacího (jednostupňového) projektu se schvalovacím protokolem (bez schvalovací doložky); nebyl-li generální dodavatel stavby určen, předá investor jedno vyhotovení generálnímu dodavateli stavební části a dvě vyhotovení generálnímu dodavateli technologické části. Nebyl-li určen generální dodavatel technologické části, předá investor v jednom vyhotovení příslušnou část zadávacího (jednostupňového) projektu přímým finálním dodavatelům; požadují-li další vyhotovení, uhradí je investorovi."
+    },
+    {
+      "provision_ref": "Bod 158",
+      "section": "158",
+      "title": "Bod 158",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "158. Prováděcí projekt předává dodavatel projektu (body 13 až 16) investorovi ve čtyřech vyhotoveních. Schvaluje-li se prováděcí projekt (bod 147), zajistí investor potvrzení všech vyhotovení schvalovací doložkou. Jedno vyhotovení obdrží dodavatel, jedno generální projektant, dvě si ponechá investor pro účely technického dozoru a archivace. Jestliže došlo podle prováděcího projektu k úpravám rozpočtu zadávacího projektu (body 136 a 137), předá dodavatel jedno vyhotovení upraveného rozpočtu navíc investorovi, který jej předloží financující bance."
+    },
+    {
+      "provision_ref": "Bod 159",
+      "section": "159",
+      "title": "Bod 159",
+      "chapter": "ČÁST SEDMÁ - SCHVALOVÁNÍ DOKUMENTACE STAVEB",
+      "content": "159. Dodavatel prováděcího projektu je povinen ponechat jedno vyhotovení prováděcího projektu trvale na stavbě, pro potřeby kontrol stavu prací (orgány dodavatelů, financující banky, technického dozoru, autorského dozoru, investora, stavebního úřadu nebo jiných kontrolních orgánů). Do tohoto vyhotovení zakreslují dodavatelé investorem schválené odchylky, k nimž popřípadě dojde v průběhu provádění prací. Po dokončení objektu odevzdají investorovi dodavatelé (body 13 až 16) výkresovou část prováděcích projektů se zakreslením všech změn, k nimž během provádění prací došlo."
+    },
+    {
+      "provision_ref": "Bod 160",
+      "section": "160",
+      "title": "Bod 160",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "160. Účelem koordinační činnosti je zajistit vzájemný soulad prováděcích projektů nebo jejich částí, jsou-li vypracovány různými dodavateli (body 14 až 16). Rozsah a podmínky koordinační činnosti vymezuje smlouva, kterou uzavře investor s generálním projektantem."
+    },
+    {
+      "provision_ref": "Bod 161",
+      "section": "161",
+      "title": "Bod 161",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "161. Generální projektant je povinen poskytnout investorovi pomoc při uzavírání smluv s jeho dodavateli a navrhuje mu přitom upřesnění orientačních lhůt pro odevzdání koordinačních podkladů a prováděcích projektů nebo jejich částí, obsažených v časovém plánu stavby (příloha č. 4, část G, bod 1)."
+    },
+    {
+      "provision_ref": "Bod 162",
+      "section": "162",
+      "title": "Bod 162",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "162. Lhůty pro vypracování a vzájemné odevzdání dílčích výsledků prováděcích projektů (koordinačních podkladů), jsou jako podstatné smluvní povinnosti uvedeny ve smlouvách mezi investorem a jeho dodavateli (body 14 až 16), jakož i ve smlouvě mezi investorem a generálním projektantem."
+    },
+    {
+      "provision_ref": "Bod 163",
+      "section": "163",
+      "title": "Bod 163",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "163. Ustanovení bodu 162 platí obdobně i pro smlouvy mezi generálními (přímými finálními) dodavateli a jejich dodavateli."
+    },
+    {
+      "provision_ref": "Bod 164",
+      "section": "164",
+      "title": "Bod 164",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "164. Generální projektant provádí koordinační činnost mezi generálním dodavatelem stavební části a generálním dodavatelem technologické části; tam, kde není stanoven generální dodavatel technologické části, mezi generálním dodavatelem stavební části a přímými finálními dodavateli technologické části."
+    },
+    {
+      "provision_ref": "Bod 165",
+      "section": "165",
+      "title": "Bod 165",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "165. Generální dodavatelé provádí koordinační činnost mezi svými dodavateli."
+    },
+    {
+      "provision_ref": "Bod 166",
+      "section": "166",
+      "title": "Bod 166",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "166. Generální (přímý finální) dodavatelé jsou povinni vyžádat si koordinační činnost generálního projektanta, jakmile se ukáže při vypracování prováděcího projektu potřeba koordinace. Generální projektant je povinen koordinační činnost poskytnout. To platí obdobně i ve vztahu generálních (přímých finálních) dodavatelů k jejich dodavatelům a naopak."
+    },
+    {
+      "provision_ref": "Bod 167",
+      "section": "167",
+      "title": "Bod 167",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "167. V otázkách týkajících se vzájemného souladu prováděcích projektů jsou generální (přímý finální) dodavatelé navzájem, popřípadě poddodavatelé s generálními (přímými finálními) dodavateli, povinni být v běžném přímém styku. O sjednaných dohodách informují bez zbytečného prodlení písemně generálního projektanta a v případě jeho nesouhlasu jsou strany povinny po společném projednání s generálním projektantem své dohody upravit podle stanoviska generálního projektanta; zásadní otázky nemohou bez generálního projektanta rozhodnout."
+    },
+    {
+      "provision_ref": "Bod 168",
+      "section": "168",
+      "title": "Bod 168",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "168. Jestliže generální projektant zjistí nesoulad mezi prováděcími projekty nebo jejich částmi, vypracovanými jednotlivými generálními (přímými finálními) dodavateli, určí po projednání s nimi a dohodě s investorem řešení s konečnou platností. Nedojde-li k dohodě s investorem, může generální projektant odmítnout odpovědnost z koordinační činnosti v dotčeném rozsahu."
+    },
+    {
+      "provision_ref": "Bod 169",
+      "section": "169",
+      "title": "Bod 169",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "169. Generální projektant poskytuje investorovi pomoc při přejímání prováděcího projektu. Součástí koordinační činnosti je vypracování ekonomické zprávy prováděcího projektu, celkové kontrolní dispozice a upřesnění situačního plánu (příloha č. 6. část B): tím končí koordinační činnost generálního projektanta."
+    },
+    {
+      "provision_ref": "Bod 170",
+      "section": "170",
+      "title": "Bod 170",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "170. Provádění koordinační činnosti si může vyhradit investor sám. V dohodnutých případech může být koordinační činností pověřen některý z generálních dodavatelů. Práva a povinnosti generálního projektanta, stanovená v předchozích bodech, přecházejí v takovém případě na příslušného generálního dodavatele: generální dodavatel však neprovádí zajišťování souladu prováděcích projektů a zadávacím projektem (bod 184 — I, písm. b)]."
+    },
+    {
+      "provision_ref": "Bod 171",
+      "section": "171",
+      "title": "Bod 171",
+      "chapter": "ČÁST OSMÁ - KOORDINAČNÍ ČINNOST",
+      "content": "171. Koordinační činnost generálního projektanta (generálního dodavatele — bod 170) je součástí průzkumných a projektových prací. Ustanovení o úhradě nákladů na koordinační činnost budou obsažena v ceníku průzkumných a projektových prací."
+    },
+    {
+      "provision_ref": "Bod 172",
+      "section": "172",
+      "title": "Bod 172",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "172. Autorským dozorem zajišťuje generální projektant dodržení záměrů investora vyjádřených koncepcí zadávacího (jednostupňového) projektu, a to jak v průběhu vypracování prováděcího projektu, tak i v průběhu provádění stavby."
+    },
+    {
+      "provision_ref": "Bod 173",
+      "section": "173",
+      "title": "Bod 173",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "173. Generální projektant provádí autorský dozor jako součást dodávky projektové dokumentace."
+    },
+    {
+      "provision_ref": "Bod 174",
+      "section": "174",
+      "title": "Bod 174",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "174. S autorským dozorem nelze slučovat technický dozor investora,*) nelze jej rovněž zaměňovat s dohledem dodavatele (body 13 až 16) nebo se státním stavebním dohledem. Prováděním autorského dozoru se nezbavují dodavatelé odpovědnosti za řádné provádění prací a investor odpovědnosti za řádné provádění technického dozoru."
+    },
+    {
+      "provision_ref": "Bod 175",
+      "section": "175",
+      "title": "Bod 175",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "175. Úhrada nákladů spojených s prováděním autorského dozoru je zahrnuta v ceně zadávacího (jednostupňového) projektu v rámci dodávky podle ceníku projektových a průzkumných prací."
+    },
+    {
+      "provision_ref": "Bod 176",
+      "section": "176",
+      "title": "Bod 176",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "176. Není-li možné, aby prováděla autorský dozor projektová organizace, která vypracovala projekt (např. u projektů ze zahraničí, nebo došlo-li ke zrušení projektové organizace a její úkoly nebyly přeneseny na jinou organizaci apod.), může se investor dohodnout s příslušnou projektovou organizací o provádění autorského dozoru formou technické pomoci."
+    },
+    {
+      "provision_ref": "Bod 177",
+      "section": "177",
+      "title": "Bod 177",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "177. Druh a rozsah autorského dozoru, jakož i jméno pracovníka odpovědného za jeho provádění stanoví strany ve smlouvě, jejímž předmětem je dodávka zadávacího (jednostupňového) projektu, uzavřená mezi investorem a generálním projektantem. Na stavbách velkých, významných a technicky nebo architektonicky složitých, je zpravidla autorský dozor stálý a na ostatních stavbách občasný."
+    },
+    {
+      "provision_ref": "Bod 178",
+      "section": "178",
+      "title": "Bod 178",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "178. Generální projektant si může vyhradit, že investor pozve pracovníka pověřeného prováděním autorského dozoru v určitých stadiích stavby anebo ke zkouškám a kontrolám."
+    },
+    {
+      "provision_ref": "Bod 179",
+      "section": "179",
+      "title": "Bod 179",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "179. Orgán nadřízený generálnímu projektantovi (popřípadě jeho poddodavatelům) určí na jeho návrh a s ohledem na jeho závazky podle bodu 177 objem a časové rozvržení prostředků, kterých bude použito k úhradě nákladů na provádění autorského dozoru."
+    },
+    {
+      "provision_ref": "Bod 180",
+      "section": "180",
+      "title": "Bod 180",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "180. Jestliže si generální projektant opatřuje části zadávacího (jednostupňového) projektu od poddodavatelů, je povinen ve smlouvě o projektových pracích uzavřené s nimi dohodnout účast jejich specialistů při poskytování spolupráce na provádění autorského dozoru. Ustanovení bodu 175 platí pro poddodavatele částí zadávacího (jednostupňového) projektu obdobně."
+    },
+    {
+      "provision_ref": "Bod 181",
+      "section": "181",
+      "title": "Bod 181",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "181. Za provádění autorského dozoru odpovídá generálnímu projektantovi hlavní inženýr anebo hlavní architekt projektu, popřípadě odpovědný projektant, pokud jím ze závažných důvodů nepověřil generální projektant jiného pracovníka. U projektů vypracovaných podle soutěžních návrhů odpovídá generálnímu projektantovi za provádění autorského dozoru autor uskutečňovaného soutěžního návrhu, v rozsahu návrhem dotčeném"
+    },
+    {
+      "provision_ref": "Bod 182",
+      "section": "182",
+      "title": "Bod 182",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "182. Pracovník odpovědný za provádění autorského dozoru provádí jej sám, popřípadě za pomoci specialistů; jejich práci řídí a kontroluje a řídí rovněž práci pracovníků uvolněných dodavateli částí zadávacího (jednostupňového) projektu."
+    },
+    {
+      "provision_ref": "Bod 183",
+      "section": "183",
+      "title": "Bod 183",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "183. Provádění autorského dozoru končí dnem povolení trvalého provozu (užívání) stavby; povoluje-li se trvalý provoz (užívání) po provozně ucelených částech stavby, končí u nich provádění autorského dozoru dnem povolení."
+    },
+    {
+      "provision_ref": "Bod 184",
+      "section": "184",
+      "title": "Bod 184",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "184. Pracovník odpovědný za provádění autorského dozoru, popřípadě jeho spolupracovníci jsou povinni:\na) na požádání investora nebo dodavatelů (body 13 až 16) poskytnout k zadávacímu projektu vysvětlení nutná pro vypracování prováděcích projektů;\nb) zajišťovat soulad prováděcího projektu se zadávacím projektem v případech, kdy neprovádí koordinační činnost generální projektant;\nc) kontrolovat soulad vytyčovacích schemat se zastavovacím plánem celé stavby;\nd) schvalovat volbu druhu a barvy povrchových omítek, obkladů, vnějších a vnitřních nátěrů nebo jiných úprav povrchu, tvaru, druhu a polohy architektonických prvků, pevných osvětlovacích těles apod.;\ne) uvědomit o zjištěných závadách a nutných opatřeních investora, popřípadě z jeho pověření přímo dodavatele;\na) kontrolovat, zda práce prováděné dodavateli odpovídají řešení podle zadávacího (jednostupňového) projektu z hledisek technických, ekonomických, funkčních a výtvarných požadavků a záměrů;\nb) účastnit se na přizvání investora odevzdání a převzetí staveb nebo jejich ucelených částí včetně komplexního vyzkoušení a zkušebního provozu. Účastnit se na přizvání předsedy odborné komise (posuzovacího orgánu) řízení o povolení trvalého provozu (užívání); přitom pracovníci provádějící autorský dozor dávají vysvětlivky a posudky z hlediska generálního projektanta;\nc) uvědomovat o zjištěných závadách a nutných opatřeních investora a při porušení podmínek stanovených stavebním úřadem pro vydání rozhodnutí o přípustnosti stavby, též stavební úřad (orgán státního stavebního dohledu) anebo při porušení předpisů též jiné příslušné orgány."
+    },
+    {
+      "provision_ref": "Bod 185",
+      "section": "185",
+      "title": "Bod 185",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "185. Svá zjištění na stavbě a návrhy na opatření zapisují pracovníci provádějící autorský dozor vždy do stavebního deníku."
+    },
+    {
+      "provision_ref": "Bod 186",
+      "section": "186",
+      "title": "Bod 186",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "186. Nepostupuje-li investor v souladu s odůvodněnými návrhy pracovníka odpovědného za provádění autorského dozoru, může generální, projektant odmítnout provádění autorského dozoru a odpovědnost z něho plynoucí v rozsahu dotčeném takovým jednáním; generální projektant může o věci vyrozumět orgán, který schválil zadávací (jednostupňový) projekt, popřípadě orgán nadřízený investorovi, schvaloval-li zadávací (jednostupňový) projekt investor. Jestliže zadávací projekt schválila vláda, může generální projektant vyrozumět Státní výbor pro výstavbu. Jde-li o velmi závažné případy, může generální projektant vyrozumět též orgány uvedené v bodu 184/II, písm. c) a financující banku."
+    },
+    {
+      "provision_ref": "Bod 187",
+      "section": "187",
+      "title": "Bod 187",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "187. Jestliže generální projektant v období provádění koordinační činnosti anebo v období provádění autorského dozoru uplatní výhodnější technické nebo ekonomické řešení, než které navrhuje dodavatel v prováděcím projektu a toto řešení by zejména snížilo investiční nebo provozní náklady, rozhodne o něm investor. Jestliže investor rozhodne proti odůvodněnému stanovisku generálního projektanta, může to generální projektant sdělit jeho nadřízenému orgánu, nemůže však odmítnout provádění koordinační činnosti nebo autorského dozoru a odpovědnost z nich plynoucí."
+    },
+    {
+      "provision_ref": "Bod 188",
+      "section": "188",
+      "title": "Bod 188",
+      "chapter": "ČÁST DEVÁTÁ - AUTORSKÝ DOZOR",
+      "content": "188. Pracovník provádějící autorský dozor je povinen účastnit se na požádání investora projednávání změn zadávacího (jednostupňového) projektu a prováděcího projektu."
+    },
+    {
+      "provision_ref": "Bod 189",
+      "section": "189",
+      "title": "Bod 189",
+      "chapter": "ČÁST DESÁTÁ - POVINNOSTI INVESTORŮ, GENERÁLNÍCH PROJEKTANTŮ A DODAVATELŮ",
+      "content": "189. Investor odpovídá zejména:"
+    },
+    {
+      "provision_ref": "Bod 190",
+      "section": "190",
+      "title": "Bod 190",
+      "chapter": "ČÁST DESÁTÁ - POVINNOSTI INVESTORŮ, GENERÁLNÍCH PROJEKTANTŮ A DODAVATELŮ",
+      "content": "190. Generální projektant odpovídá zejména:"
+    },
+    {
+      "provision_ref": "Bod 191",
+      "section": "191",
+      "title": "Bod 191",
+      "chapter": "ČÁST DESÁTÁ - POVINNOSTI INVESTORŮ, GENERÁLNÍCH PROJEKTANTŮ A DODAVATELŮ",
+      "content": "191. Dodavatelé odpovídají zejména:"
+    },
+    {
+      "provision_ref": "Bod 192",
+      "section": "192",
+      "title": "Bod 192",
+      "chapter": "ČÁST DESÁTÁ - POVINNOSTI INVESTORŮ, GENERÁLNÍCH PROJEKTANTŮ A DODAVATELŮ",
+      "content": "192. Za nezávadnost projektů a dodávek z hlediska patentových práv majitelů patentů odpovídají u projektových podkladů poskytnutých dodavateli projektu a u svých dodávek v jejich rozsahu dodavatelé; generální projektant odpovídá v rozsahu jím zpracované dokumentace."
+    },
+    {
+      "provision_ref": "Bod 193",
+      "section": "193",
+      "title": "Bod 193",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "193. Řízení, které se podle této vyhlášky provádí u orgánů národních výborů, se provede v zúženém řízení prostřednictvím předsedy příslušného národního výboru, jde-li o účelové stavby ministerstva národní obrany a ministerstva vnitra a o stavby sloužící materiálnímu zabezpečení ozbrojených sil."
+    },
+    {
+      "provision_ref": "Bod 194",
+      "section": "194",
+      "title": "Bod 194",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "194. Úvodní projekty zpracované podle dosud platných předpisů a schválené do dne nabytí účinnosti této vyhlášky musí být pro objekty zahájené po 1. lednu 1960 doplněny na rozsah zadávacího projektu (popřípadě za použití rozpracovaných prováděcích projektů). Doplnění může být provedeno po etapách, jako u etapového zadávacího projektu. Úvodní projekty rozpracované ke dni účinnosti této vyhlášky musí být doplněny na rozsah zadávacího projektu, popřípadě etapového zadávacího projektu před jejich schválením.\nDoplňky, projednané s dodavateli způsobem platným pro zadávací projekty, kterými se schválené úvodní projekty doplní na rozsah zadávacích projektů, schvalují investoři, jestliže se nemění podstatně koncepce dříve schváleného úvodního projektu nebo nepřekročí-li se schválený rozpočtový náklad stavby; jinak je schvalují orgány, které schválily úvodní projekt.\nU staveb rozestavěných, které budou dokončeny do konce roku 1960, se úvodní projekty na rozsah zadávacích projektů dodatečně nedoplňují, nerozhodne-li se pro to investor sám."
+    },
+    {
+      "provision_ref": "Bod 195",
+      "section": "195",
+      "title": "Bod 195",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "195. Úvodní projekty pro stavby zahajované v roce 1960 odevzdá investor dodavateli stavebních prací v dohodnutých lhůtách a nedojde-li k dohodě, ve lhůtách stanovených vládní vyhláškou č. 261/1956 Ú. l., o lhůtách pro odevzdání projektové a rozpočtové dokumentace dodavatelům stavebních a montážních prací. Zadávací projekty, popřípadě etapové zadávací projekty, pro stavby zahajované v roce 1960, odevzdá investor dodavateli stavebních prací ve lhůtách dohodnutých a nedojde-li k dohodě, šest měsíců před zahájením stavby, nejpozději však 15. listopadu 1959.\nDoplňky, kterými se úvodní projekty doplní na úroveň zadávacích projektů, odevzdají investoři dodavatelům v dohodnutých lhůtách.\nProváděcí projekty, pokud je výjimečně vypracovávají generální projektanti (bod 86), odevzdá investor dodavateli podle ustanovení citované vyhlášky.*)\n(Pro odevzdávání dokumentace na decentralizované stavby platí termíny sjednané při uzavírání smluv podle zákona č. 69/1958 Sb.)."
+    },
+    {
+      "provision_ref": "Bod 196",
+      "section": "196",
+      "title": "Bod 196",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "196. Ministerstva dopravy, energetiky a vodního hospodářství, paliv, hutního průmyslu a rudných dolů (pokud se týká důlních staveb), spojů a zemědělství, mohou upravit v dohodě se zúčastněnými dodavatelskými ústředními úřady a se souhlasem Státního výboru pro výstavbu ustanovení příloh č. 1 až 7 v rozsahu, kterého si vyžaduje zvláštní povaha staveb spadajících do jejich působnosti."
+    },
+    {
+      "provision_ref": "Bod 197",
+      "section": "197",
+      "title": "Bod 197",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "197. Vyhláška Státního výboru pro výstavbu č. 42/1957 Ú. l., o dokumentaci průmyslových, bytových a občanských staveb,\n„Předpisy Státního výboru pro výstavbu o dokumentaci staveb uhelného průmyslu“, jejichž vydání bylo oznámeno v částce 69 Úředního listu z roku 1957 (číslo 53 Knižnice Státního výboru pro výstavbu), jakož i ostatní předpisy vydané k provedení zákonného opatření č. 44/1956 Sb., o dokumentaci investiční výstavby, jsou zrušeny.*)"
+    },
+    {
+      "provision_ref": "Bod 198",
+      "section": "198",
+      "title": "Bod 198",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "198. Vyhláška Státního výboru pro výstavbu č. 22/1958 Ú. l., o dokumentaci investiční výstavby jednotných zemědělských družstev, zůstává nedotčena."
+    },
+    {
+      "provision_ref": "Bod 199",
+      "section": "199",
+      "title": "Bod 199",
+      "chapter": "ČÁST JEDENÁCTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "199. Tato vyhláška nabývá účinnosti ode dne 1. srpna 1959.\nTěmito přílohami je určena skladba a obsah dokumentace staveb, pro něž nebude vydána zvláštní příloha ve smyslu bodu 196. Dokumentace zpracovávaná podle těchto příloh musí být vždy omezována na nezbytný rozsah, odpovídající druhu, významu, rozsahu a složitosti stavby; ve zvláštních případech může být doplněna o údaje a výkresy s ohledem na zvláštnosti stavby nebo objektu.\nVýhledová studie obsahuje zpravidla:\na) účel plánované výstavby (orientačně kapacita podle staveb s uvažováním možnosti rozšíření),\nb) politickohospodářské zdůvodnění nezbytnosti a naléhavosti výstavby, zejména rozbor dosavadních kapacit a jejich využití a rozbor uspokojení plánované potřeby národního hospodářství z hlediska vnitřního a zahraničního, omezení nebo odstranění závislosti na dovozu důležitých potřeb z kapitalistické ciziny; rozsah asanace objektů a území pro novou zástavbu, jakož i mimoekonomické zdůvodnění,\nc) ekonomickou koncepci celé výstavby v souvislosti s dlouhodobými plány rozvoje odvětví, generálními plány těžby, technickoekonomickými rozbory zemědělské výroby, v souladu s podmínkami dané oblasti a územními plány. U výstavby sídlišť nebo jejich ucelených částí plní funkci výhledové studie územní plány sídlišť (směrné a podrobné). Návrh na rozdělení výstavby na jednotlivé stavby a jejich vzájemné vztahy.\nd) orientační údaje o potřebách základních surovin, polotovarů, energie, paliva, vody, pracovních sil a dopravy, včetně předběžných bilancí a přehledu dodavatelské a odběratelské kooperace,\ne) požadavky na technický rozvoj (vývoj a výzkum) a vědeckotechnickou spolupráci, s příslušnými lhůtami,\nf) orientační, popřípadě speciální požadavky z hlediska CO, PO, Vnitřní stráže apod.,\ng) předpokládané lhůty a pořadí provádění jednotlivých staveb a uvádění kapacit do provozu,\nh) předběžné investiční náklady na celou výstavbu s předpokládaným rozdělením na jednotlivé stavby a stanovení jejich pořadí (bude upřesněno v investičních úkolech),\ni) předběžné předpokládané požadavky na vyvolané investice,\nj) orientační technickohospodářské ukazatele, zejména předpokládaný investiční náklad na účelovou jednotku, vlastní náklady výroby na účelovou jednotku, potřeby základních surovin, polotovarů, energie, paliva, vody na účelovou jednotku, potřeby pracovníků, nároky na dopravu atd., s nutným ekonomickým rozborem, zdůvodňujícím použití těchto ukazatelů a s jejich porovnáním s ukazateli nejlepších dosavadních nebo projektovaných obdobných staveb domácích i zahraničních, dosahujících světové úrovně,\nk) průzkumnou a rozborovou část širšího území a studie nových územních vztahů (mapa s vyznačením širších vztahů k okolí), s vyznačením dobývacích prostorů a území chráněných podle zákonů. Jsou-li vypracovány územní plány rajónů, výtahy z nich,\nm) u rekonstrukci nebo rozšíření závodů jsou součástí výhledových studií též údaje a ukazatele o dosavadním stavu závodu, objasňující vazbu nově budovaných staveb nebo objektů na dosavadní stav. Tato výhledová studie pro rekonstrukci nebo rozšíření bude doložena zastavovacím planem dosavadního závodu se schematickým rozmístěním nových staveb.\nInvestiční úkol obsahuje:\na) účel plánované stavby, požadovanou výrobní kapacitu a sortiment výrobků, jejich jakost, roční výrobu v účelových jednotkách a v hodnotovém vyjádření, požadavky na technický rozvoj,\nb) oblast nebo místo stavby,\nc) ověřené progresivní údaje a technickohospodářské ukazatele prokazující efektivnost plánované stavby, jak z hlediska provozních tak i investičních nákladů. U výrobních investic se uvedou zejména následující ukazatele:\nd) investiční náklady stavby.\nInvestiční úkol se pokládá a zdůvodňuje např. u výrobních investic:\ne) politickohospodářským zdůvodněním nezbytnosti a naléhavosti stavby, výsledky rozboru využití dosavadních kapacit, rozborem odbytových možností domácích i zahraničních, průkazem omezení nebo odstranění závislosti na dovozu důležitých potřeb z kapitalistické ciziny a ostatními podnikovými i širšími politickohospodářskými hledisky,\nf) zdůvodněním použitých technickohospodářských ukazatelů, jejich rozborem a srovnáním s ukazateli nejlepších dosavadních nebo projektovaných obdobných staveb tuzemských i zahraničních, dosahujících světové úrovně,\ng) údaji o potřebách a zajištění základních surovin a polotovarů, energie, paliva, vody, přepravy a pracovních sil, o množství a druhu odpadu a o rozsahu a druhu dodavatelské a odběratelské kooperace,\nh) údaji o požadovaných lhůtách uvádění kapacit do provozu z odhadem doby potřebné k provedení stavby,\ni) zdůvodněním oblasti nebo místa stavby; při alternativním umístění jejich vzájemným porovnáním.\nj) speciálními požadavky (CO, PO apod.) a architektonickými požadavky.\nK investičnímu úkolu se přikládají:\nk) údaje o vyvolaných investicích, jejich nákladech a zajištění,\nm) u rekonstrukcí nebo rozšíření jsou součástí investičního úkolu také údaje a ukazatele týkající se dosavadního stavu objektů, strojů a zařízení, o rozsahu nezbytném pro posouzení efektivnosti rekonstrukce nebo rozšíření oproti dosavadnímu stavu a oproti nové výstavbě,\nn) doklady o projednání investičního úkolu (body 35 a 41)\no) popřípadě výhledová studie výstavby.\nGenerální řešení rozvádí ekonomickou koncepci celé výstavby danou výhledovou studií do technického řešení a prokazuje zajištění vzájemných souvislostí výstavby a Jejich vztahů k širšímu okolí.\nObsahuje studii celé výstavby (náčrt předběžného řešení se schematickým vyznačením jednotlivých staveb) a doplňuje zadávací projekt prvé etapy o průkaz funkční a ekonomické souvislosti celé výstavby.\nGenerální řešení obsahuje zpravidla též upřesnění předběžných investičních nákladů daných výhledovou studií.\nZadávací projekt sestává z těchto částí:\nJednotlivé části obsahují:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část B. EKONOMICKÁ ZPRÁVA se vypracovává podle části páté vyhlášky",
+      "content": "1. Základní údaje:\na) investiční údaje musí obsahovat zejména:\nb) provozní údaje musí obsahovat zejména:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část B. EKONOMICKÁ ZPRÁVA se vypracovává podle části páté vyhlášky",
+      "content": "2. Ukazatele:\na) investiční ukazatele musí obsahovat zejména:\nb) provozní ukazatele musí obsahovat zejména:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část B. EKONOMICKÁ ZPRÁVA se vypracovává podle části páté vyhlášky",
+      "content": "1. Základní údaje:\na) investiční údaje musí obsahovat zejména:\nb) provozní údaje musí obsahovat zejména:\nPro soustředěnou bytovou výstavbu:\nc) územní údaje musí obsahovat zejména:\nd) údaje bytového fondu musí obsahovat zejména:\ne) údaje občanského vybaveni musí obsahovat zejména:\nf) údaje technického vybavení musí obsahovat zejména:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část B. EKONOMICKÁ ZPRÁVA se vypracovává podle části páté vyhlášky",
+      "content": "2. Ukazatele:\na) investiční ukazatele musí obsahovat zejména:\nb) provozní ukazatele musí obsahovat zejména:\nPro soustředěnou bytovou výstavbu:\nc) územní ukazatele pro uvedenou část sídliště v rozsahu alespoň okrsku musí obsahovat zejména:\nd) ukazatele bytového fondu musí obsahovat zejména:\ne) ukazatele občanského vybavení musí obsahovat zejména:\nf) ukazatele technického vybavení musí obsahovat zejména:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část C. STAVENIŠTĚ A ZASTAVOVACÍ PLÁN",
+      "content": "1. Výkresy:\na) mapa oblasti s vyznačením širších vztahů stavby k okolí, včetně vyznačení ochranných pásem,\nb) zastavovací plán celé stavby s vazbou na polohové a výškové body, s vyznačením dosavadních budov a zařízení zachovávaných, rekonstruovaných i určených ke zbourání, s umístěním všech navrhovaných pozemních objektů (budov) a důležitého technického vybavení budov s polohopisným a výškopisným určením, včetně základních rozměrů cest, vleček a ostatních dopravních zařízení, tras kanalizace a trubních rozvodů, energetických a spojových sítí i s jejich připojením na obdobná zařízení a sítě mimo staveniště, s číselným označením objektů, popřípadě vyznačením jejich typů, s vyznačením výškové úpravy a sadové úpravy, s vyznačením pásem hygienické ochrany a jejich úpravy, s vyjádřením nezbytných předstihových investic a s uvedením základních urbanistických ukazatelů; je-li stavba členěna na etapy i s jejich vyznačením,\nc) u významných staveb vyznačení objektů a zařízení CO a PO v kopii zastavovacího plánu,\nd) u významných staveb, které ovlivňují pohledové a prostorové vytváření krajiny, města nebo zastavění, se vyžadují perspektivní nebo panoramatické pohledy (fotografie modelů), popřípadě pohledy hlavních ulic, charakteristické příčné řezy ulicemi, objasňující celkové architektonické řešení."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část C. STAVENIŠTĚ A ZASTAVOVACÍ PLÁN",
+      "content": "2. Technická zpráva\nV technické zprávě se uvádí zejména popis staveniště, výsledky a vyhodnocení průzkumných prací, zvláště pro zakládání, zdůvodnění vybraného staveniště, zásady celkového urbanistického řešení a technického vybavení stavby s napojením na širší okolí, hlavní zásady hrubé výškové úpravy staveniště a hrubá bilance zemních prací, popis a stanovení úprav staveniště, sadových úprav, popis pásem hygienické ochrany, včetně opatření pro jejich správnou funkci a využití a popis celkového řešení CO a PO. Technická zpráva musí poskytovat potřebné údaje a podklady pro zpracování požadovaných závěrů v ekonomické zprávě."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl I. Pro celou stavbu",
+      "content": "1. Výkresy:\na) výrobní schéma celé stavby (tok materiálu),\nb) generální schéma zdrojů elektrické energie (elektráren, rozvoden, měníren, vstupních transformoven, záložních a nouzových zdrojů), vystihujících elektrický rozvod projektované stavby s určením napojení transformoven, s udáním proudových soustav, přenášených výkonů a zkratových poměrů,\nc) schéma zdrojů ostatní energie, jejího rozvodu a příslušných zařízení,\nd) schéma zdrojů, hlavních rozvodů a zařízení provozní vody.\ne) dopravně provozní schéma (obsazení kolejí, grafický jízdní řád, oběh lokomotiv)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl I. Pro celou stavbu",
+      "content": "2. Technická zpráva\nobsahuje zejména tyto údaje:\na) výrobní program a kapacitu,\nb) stručný popis hlavní technologie výroby (provoz) a průkaz technické úrovně strojního zařízeni,\nc) stručný popis měření a regulace s určením jednotlivých okruhů a systémů,\nd) stručný popis projektovaného silnoproudového rozvodu volby proudových soustav a napětí, přehled hlavních zdrojů a rozvodů, přehled celkových instalovaných výkonů s udáním současnosti, přehled celkové spotřeby elektřiny, způsob kompenzace účiníku, výsledky předběžných výpočtů zkratových proudů a jiných výpočtů ujasňujících zkratové a jiné poměry v projektovaném rozvodu.\ne) stručný popis navrhovaného zařízení a rozvodu slaboproudu.\nf) stručný popis řešení zdrojů a zařízení a rozvodu ostatní energie, přehled jejich instalovaných výkonů údaje o spotřebě a parametry energií (plynu, vzduchu, tepla apod.) a jejich využití,\ng) celkový přehled potřeby a specifikace hlavních surovin, paliva, základního materiálu a polotovarů pro provoz s udáním nezbytných zásob, údaje o spotřebě, výchozím a požadovaném složení, tlaku a teplotě provozní vody, údaje o charakteru druhu a množství odpadu a způsobu jeho využití, zneškodnění, popřípadě vlivu na okolí,\nh) objem a způsob přepravy nákladů (mimozávodní a vnitrozávodní),\ni) potřeba a odborné složení pracovníků, směnnost,\nj) výrobní nebo jiná kooperace s dosavadními nebo projektovanými závody.\nPoznámka: Pokud to vyžadují rozsah a složitost řešení, vypracuje se energetická, dopravní a vodohospodářská část jako samostatná část. Technická zpráva musí poskytovat potřebné údaje a podklady pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "1. Výkresy:\na) výrobní schéma provozního souboru (provozního celku): obsahuje jednotlivé úseky technologického postupu v přehledném uspořádání podle toku materiálu, s vyznačením hlavních údajů o množství a o hlavních parametrech hmot a energií vstupujících a vystupujících. Toto schéma se nevypracovává tam, kde tok materiálu je dostatečně jasně vyznačen v dispozičních schématech nebo kde se zpracovávají zvláštní schémata energetická,\nb) dispoziční schéma provozního souboru (provozního celku): obsahuje všechny technologicky důležité stroje a zařízení a dopravní zařízení s vyznačením jejich výškového uspořádání. Jednotlivé stroje a zařízení jsou kresleny normalizovanými znaky nebo schematicky. Vyznačené propojení strojů a zařízení obsahuje všechny technologické a hlavní energetické (i vodní) potrubní linky, kreslené jednou čarou podle norem. Dispoziční schémata složitých provozních souborů (provozních částí), která to vyžadují, jsou kreslena samostatně; u jednoduchých provozních souborů postačí vyznačit uspořádání v dispozici. Číslování zakreslených strojů a zařízení je shodné s číslováním na dispozici strojů a zařízení. Potrubí je označeno podle norem jmenovitou světlostí, jmenovitým tlakem a pracovním stupněm. Armatury se nečíslují. Schéma obsahuje legendu s názvy a čísly zakreslených strojů a zařízení, s počty kusů a hlavními charakteristickými údaji,\nc) dispozice strojů a zařízení: obsahuje prostorové řešení umístění strojů a zařízení vyznačených na dispozičním schématu, panelů, rozvaděčů a obsluhovacích plošin, jak z hlediska vzájemné polohy, tak i ve vztahu ke stavební konstrukci. Vyznačuje se v něm též směr případného dalšího rozšíření. Kreslí je zpravidla v měřítku 1 : 100 v půdorysech a nezbytných řezech.\nPoznámka: Stroje a zařízení se číslují shodně s dispozičním schématem provozního souboru, rozpiska je shodná se schématem a je doplněna o váhu (prázdnou a maximální). Stroje a zařízení se dispozičně kótují výškově vzhledem k relativním stavebním kótám a půdorysně od os sloupů stavebních konstrukcí nebo od vnitřní strany zdivá. Ze stavební části se kótují pouze celkové vnitřní rozměry podlaží, koty výškové, montážní otvory a kanály. V dispozici strojů a zařízení se vyznačují též údaje o statickém i dynamickém namáhání stavebních konstrukcí, jakož i o namáhání a zatížení souvisícím s prováděním montáže.\nV dispozici strojů a zařízení se zakreslí potrubí, která svými rozměry nebo jinými vlastnostmi ovlivňují dispoziční řešení. Jsou to zejména potrubí nad jmenovitou světlost 100, vysokotlaká potrubí apod."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "2. Technická zpráva\nobsahuje výchozí údaje a jiná technická a ekonomická data, pokud nejsou v dostatečném rozsahu obsažena ve výkresech. Pro snadnější srovnatelnost a skladbu dokumentace je zpracována s maximálním využitím tabelárních sestav údajů, popřípadě grafů.\nzákladní údaje, charakteristiku a účel provozního souboru a jeho roční využitelný časový fond, roční výrobu v účelových jednotkách, sortiment a jakost výrobků i eventuálních polovýrobků, pracnost na jednotku výroby, projektovanou kapacitu zařízení, potřebu hlavních surovin a použitých energií, množství odpadních látek apod.\nPopis technologického řešení, ve kterém se s odvoláním na schémata uvádí zdůvodnění zvolené alternativy závazné technologie výroby, popis způsobu řízení a kontroly provozu a jeho zdůvodnění, použití typových podkladů a opakovaných hospodárných projektů, jiné technologické prameny a perspektivy vývoje a budoucí rozšířené kapacity; látkové a energetické bilance s uvedením spotřebních čísel, výtěžků a předpokládaných ztrát; spotřebu hlavních a pomocných surovin, jejich zdroje a způsob zásobování; druh, množství a složení odpadních látek, jejich využití, zneškodnění a odvedení; množství spotřebované energie a vody podle druhů a zdrojů se zvláštním zřetelem na hlavní spotřebiče; požadavky na dopravu po silnici, vlečkou, potrubím a dopravníky do a z provozního souboru; přesun a doprava hmot uvnitř souboru; sklady a zásoby uvnitř provozního souboru; způsob kontroly provozu; zvláštní požadavky na typy a konstrukce strojů, na tovární zkoušky, na zkušební i normální provoz a nouzové odstavení; přehled zaměstnanců a směnnost; zdůvodnění dispozičního řešení strojů a zařízení; zvláštní požadavky na konstrukční materiály, montáž, údržbu, individuální a komplexní vyzkoušení.\nZákladní záruční údaje kvantitativní a kvalitativní (výkon, účinnost, specifická spotřeba surovin a energií, parametry a složení výrobku apod.), jež je nutno požadovat od dodavatele. Charakteristiku provozního souboru z hlediska hygieny a bezpečnosti práce a navrhovaná opatření, zejména zabezpečení požární, bezpečnostní, zdravotní apod.\nVýjimky z platných předpisů, typů a norem.\nTechnická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "3. Seznam strojů a zařízení\nSestavuje se v členění na provozní soubory, na provozní jednotky nebo i jednotky základní, s označením položek přicházejících v úvahu z dovozu, do takové hloubky, která vyplývá z projednaných přímých dodavatelských vztahů; je samostatnou přílohou k technické zprávě a je podkladem k určení rozsahu dodávky ve smlouvě o dodávkách a tvoří specifikaci k dílčímu rozpočtu strojů, zařízení a montáží v zadávacím projektu.\nV případech, kde je určen generální nebo přímý finální dodavatel technologického zařízení a montáží, je seznam strojů a zařízení sestaven zásadně do hloubky provozního souboru nebo provozních jednotek podle projednání s dodavateli ve smyslu bodu 91. Tam, kde finální dodavatel není určen, jsou v seznamu uvedeny provozní jednotky členěné i na základní jednotky. U každého použitého stupně třídění (provozní soubor, provozní jednotka, základní jednotka) jsou uvedeny takové podrobnosti (parametry, vlastnosti atd.). které jsou nezbytně nutné pro jednoznačnou identifikaci příslušné skupiny strojů a zařízení a k jejich objednání.\nPořadové číslo, číslo položky legendy nebo rozpisky na výkresech, název, charakteristiku a parametry [nebo odkazy na typové podklady nebo státní technické normy (popřípadě i úsekové normy, pokud byly s dodavatelem projednány)], počet jednotek, odvolávku na podklad (ceník, nabídka), váhu, cenu udanou dodavatelem, lhůty pro objednávky zařízení a jejich dodávku, pro dodávku prováděcího projektu, popřípadě další lhůty (např. pro dodávku podkladů pro stavební část). Lhůty a údaje jsou uvedeny na základě projednání podle bodu 91.\nV případech, kdy je vypracován etapový zadávací projekt (bod 70), uvedou se v seznamu pouze základní charakteristiky strojů a zařízení a kromě výše uvedených údajů ještě lhůty, ve kterých předá generální projektant úplné podklady pro objednání."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "1. Výkresy\na) dispoziční schéma výrobního zařízení s vyznačením regulačních obvodů a příslušných měřicích přístrojů (podle ČSN 013 720). Při jednoduchých zařízeních se toto schéma zakreslí do dispozičního schématu výrobního zařízení. Při složitých zařízeních se kreslí samostatné schéma s použitím základního schématu výrobního zařízení,\nb) liniová schémata u funkčních skupin řešených pomocí reléových obvodů,\nc) přístrojové skříně s ideovým určením míst měření, regulace a signalizace a s určením hlavních rozměrů skříně."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "2. Technická zpráva\nObsahuje popis a zdůvodnění celkové koncepce sledování a řízení provozu, údaje pro kontrolu souvislosti regulačních a měřicích obvodů s technologickým postupem, údaje o celkové spotřebě energií a způsob jejích zajištění. Seznam měřicích a regulačních obvodů včetně veškerých údajů, které ovlivňují volbu a umožňují specifikaci přístrojů a přihlíží k charakteristice prostředí (výbušnost, agresivnost), v němž budou přístroje instalovány. Technická zpráva musí obsahovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "3. Seznam strojů a zařízení\nV seznamu strojů a zařízení provozního souboru se uvede provozní jednotka měření a regulace jednou položkou, zpracovanou na základě seznamu měřicích a regulačních obvodů z technické zprávy. Na konci seznamu budou sestaveny celkové náklady na dodávky a montáže v rozdělení na tuzemské a zahraniční."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "1. Výkresy\na) jednopólová schémata místních zdrojů elektrické energie, transformoven, rozvoden, měníren, hlavních rozvaděčů s vyznačením rozvodů k hlavním strojům a zařízením,\nb) dispoziční výkresy, popřípadě charakteristické řezy samostatných silnoproudých zařízení (výroben elektrické energie, rozvoden, transformoven apod.),\nc) výkres hlavních tras kabelových a volných elektrických vedení.\nPro motorické spotřebičové rozvody vn a nn:\nd) základní schéma spojení jednotlivých hlavních rozvaděčů elektrické energie v provozním rozvodu. Zakreslí se hlavní rozvaděč až po přípojnice podružných rozvaděčů s udáním počtu vývodů u všech rozvaděčů, s vyznačením proudových soustav, s výjimkou provozních souborů (dodávaných jako finální dodávky včetně elektrické části),\ne) dispoziční výkres se zakreslenými (sdruženými) trasami rozvodů počínaje od hlavního rozvaděče až ke spotřebičům, s vyznačením druhu a informativních rozměrů tras s určením způsobu upevnění. Tato dispozice se kreslí s použitím dispozice výrobního zařízení, v němž se vyznačí rozmístění rozvaděčů, jejich informativní rozměry a hlavní spotřebiče. V jednotlivých prostorech se vyznačí stupeň výbušnosti i tehdy, je-li nulový. Kreslí se pouze hlavní uzemňovací trasy,\nf) principiální schémata vzájemných vazeb, blokování, řízení, měření a regulace atd. kreslí se jen, pokud nestačí popis v technické zprávě."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "2. Technická zpráva\nObsahuje rozsah provozního elektrotechnického rozvodu v členění na provozní jednotky a zvláštní požadavky investora. V základních údajích uvádí zejména volbu provozních soustav a napětí, soupis spotřeb a přehled celkové spotřeby, využitelnost dosavadních zdrojů. V provozních podmínkách udává druh prostředí, druh provozu (těžký, lehký, přerušovaný), odkazy na doklady apod. V popisu řešení jsou uvedeny zkratové podmínky a výsledky předběžných výpočtů, zkratových proudů, volba ochran, podmínky blokování a popis řízení, ovládání a signalizace apod., pokud není uveden v principiálních schématech, způsob kompenzace účiníku. Technická zpráva musí obsahovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "3. Seznam strojů a zařízení\nObsahuje podklady pro objednání hlavních strojů, přístrojů a zařízení a to transformátory silové od 30 kVA, elektrické stroje točivé (generátory, velká soustrojí, točivé kompenzátory, hlavní pohonné stroje, pokud nejsou součástí dodávky výrobního zařízení), usměrňovače od 500 A, reaktory silové, Petersonovy cívky, vypínače vvn. U standardních strojů, přístrojů a zařízení (mimo hlavní stroje, přístroje a zařízení) se uvádějí jen rámcové údaje. Způsob zpracování v seznamu je obdobný jako u seznamu strojů a zařízení u výrobních zařízení. Členění se uvádí podle jednotlivých dodavatelů (body 13 až 16), kteří jsou s investorem ve smluvním vztahu, a to ve skupinách podle provozních jednotek. U montážních prací uvedou se jen souhrnné položky základního montážního materiálu (kabely, vodiče apod.) v hrubé plánovací nomenklatuře s udáním cen příslušných montážních prací, členěných podle provozních jednotek."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "1. Výkresy\na) schéma hlavních rozvodů, např. propojení ústředny se zdrojem proudu nebo hlavní dispečerskou ústřednou,\nb) dispozice zařízení s vyznačením hlavních tras vnitřních rozvodů se schematickým vyznačením zařízení a přístrojů."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "2. Technická zpráva\nObsahuje údaje pro stanovení rozsahu dodávky, zvláštní požadavky investora, jakož i provozní podmínky (prostředí vlhké, mokré, prašné, výbušné) a stručný popis zařízení. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "3. Seznam strojů a zařízení\nZpůsob zpracováni je obdobný jako u výrobních zařízení."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "1. Výkresy\na) dispoziční schéma rozvodů ostatních energií a provozní i odpadní vody s vyznačením hlavních zařízení uvnitř provozního souboru (např. kompresorová stanice tlakového vzduchu, redukční stanice plynu, úprava a čištění provozní vody)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "2. Technická zpráva\nObsahuje přehled instalovaných výkonů, údaje o spotřebě energií, vody a jejich využití, stručný popis řešení zdrojů a rozvodů plynu, tlakového vzduchu apod., údaje o tlaku, teplotě, úpravě a čištění provozní i odpadní vody. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část D. TECHNOLOGICKÁ ČÁST > oddíl II. Pro jednotlivé provozní soubory, popřípadě provozní celek",
+      "content": "3. Seznam strojů a zařízení\nSestavuje se v členění podle dodavatelů do takové hloubky, aby byl vyznačen rozsah příslušných dodávek. Údaje jsou uspořádány obdobně jako u seznamu výrobních zařízení.\nPoznámka: Jde-li o velká zařízení, tvořící provozní soubor, zpracuje se zadávací projekt jako pro provozní soubor výrobního zařízení."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl I. Pro celou stavbu:",
+      "content": "1. Výkresy jsou obsaženy v části C."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl I. Pro celou stavbu:",
+      "content": "2. Technická zpráva\nV technické zprávě se uvádí zejména seznam použitých typových podkladů a opakovaných hospodárných projektů, seznam a stručný popis pozemních objektů (výrobních, nevýrobních a pomocných), s výkazem ploch a kubatur, seznam a stručný popis inženýrských objektů, seznam a stručný popis objektů a zařízení pro zvláštní účely (CO, PO a vnitřní stráže), popis řešení stavby z hlediska úspory dřeva, v souladu s příslušnými předpisy a zdůvodnění případných odchylek, popis řešení zásobování vodou (s výčtem hlavních hodnot jejich potřeby) a kanalizace (množství a druh odpadních vod a způsob jejich čištění), vytápění, osvětlení a jiných energetických přívodů. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "1. Výkresy\na) typové projekty (odkaz na použití typových podkladů, popřípadě dispoziční výkresy a příslušné řezy pro přizpůsobování typových podkladů místním poměrům a pro znázornění výtvarného řešení); nelze-li použít typových podkladů:\nb) půdorysy, řezy a pohledy, objasňující funkční, technické a výtvarné řešení celého objektu a podrobnější vyjádření jeho důležitých částí, popřípadě konstrukcí uzlů, s vyznačením typizovaných výrobků PSV, strojů a zařízení netechnologické povahy s odvoláním na příslušné katalogy a ceníky,\nc) situační plán, který vyznačuje umístění navrhovaného objektu v rámci stavby a jeho vazbu na ostatní objekty, zejména na dopravní a podzemní sítě. K zajištění polohopisné a výškopisné koordinace je účelné vypracovat situační plán pro několik sousedních objektů, popřípadě pro celou etapu výstavby,\nd) podlahové plány s návrhem řešení kanálů pro rozvody, dopravníky apod.\ne) dispoziční plán vnitřních instalačních zařízení s vyznačením vývodů a tras rozvodů, s vyznačením důležitých uzlů a křižovatek zvláště tam, kde dochází ke kumulaci různorodých zařízení,\nf) konstruktivní a architektonické detaily a úpravy, pokud jsou nezbytné k vystižení záměrů generálního projektanta,\ng) předběžné statické výpočty v rozsahu nezbytném pro stanovení hlavních rozměrů konstrukcí a zjištění vzájemného účinku konstrukcí a jejich účinků na základy,\nh) u kovových stavebních konstrukcí dokumentace v rozsahu podle dále uvedených ustanovení,\ni) podklady pro řešení nestandardních prací PSV a jejich rozměrové náčrty,\nj) povšechné výkopové plány,\nk) návrh bouracích prací,\nm) znázornění rozvozu výkopku,\nn) výkaz výměr stavebních prací v rozsahu nutném k vypracování rozpočtu a k projednání limitu odbytové ceny."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "2. Technická zpráva\nObsahuje zejména zásady funkčního, technického a výtvarného řešení a způsob založení objektu, požadavky na vnitřní a vnější vybavení, popřípadě další údaje objasňující koncepci zadávacího projektu a zdůvodňující způsob sestavení rozpočtu; zdůvodnění a popis použitých stavebních konstrukcí a zařízení; výsledky podrobných průzkumných prací; případné zvláštní požadavky na postup stavebních prací, na údržbu a provoz navrhované stavby; odůvodnění případných odchylek od projednané srovnávací studie; zdůvodnění vhodnosti volby použitého typového podkladu, popřípadě uvedení povolených odchylek od schváleného typového podkladu; výkaz ploch a kubatur; specifikaci typizovaných výrobků PSV, na jejichž uplatnění se klade důraz, s odvoláním na příslušný katalog; seznam strojů a zařízení netechnologické povahy, zpracovaný způsobem stanoveným v části C. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy.\ndrážní, silniční, a ostatní dopravní, vodohospodářské objekty, úprava terénu a ploch, vnější sítě apod. (pro stavby, pro něž nebude vydána zvláštní příloha podle ustanovení bodu 196)."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "1. Výkresy\na) podrobný polohový výkres objektu nebo trasy (důlní dispozice), popřípadě vrstevnicový plán dosavadního a navrhovaného stavu, seznam polohových a výškových bodů s navázáním na souřadnicovou síť,\nb) podélné profily v rozsahu nutném pro technické vyjasnění a určení rozpočtu,\nc) příčné řezy s vyznačením druhu zeminy v takových vzdálenostech, aby mohly být s dostatečnou přesností zjištěny výměry prací,\nd) situace výkopových a výlomových prací, znázornění rozvozu a odvozu výkopku,\ne) způsob zakládání, se situací a charakteristické řezy konstrukce jímky nutné pro vypracování rozpočtu,\nf) schematický plán polohy zabezpečovacího zařízení kolejiště, schéma napájení elektrickým proudem, závěrovou tabulku, náčrtek řídící části a její umístění v budovách, údaje o kolejových obvodech a kabelových rozvodech,\ng) schématický výkres spojení ústících do telefonní ústředny, s uvedením druhu přenosu a volby, počet poboček a jejich rozmístění, voličový plán, výkres trasy kabelů a jejich profilů, údaje o počtu a rozmístění zesilovacích stanic a schéma napájení zařízení v budovách,\nh) odkazy na použité typové podklady (popřípadě přizpůsobení typových podkladů místním poměrům),\ni) řešení atypických objektů s jejich půdorysy, řezy a pohledy objasňující funkční, technické a výtvarné řešení objektu, konstrukcí, popřípadě výrobků PSV, strojů a zařízení netechnologické povahy s odvoláním na příslušné katalogy a ceníky,\nj) dispoziční zakreslení strojních a kovových konstrukci a rozvodů, které svými rozměry nebo jinak ovlivňuji prostorové řešení,\nk) povšechné výkresy mostních lešení a skruží s předběžným statickým výpočtem a hydrotechnickým výpočtem,\nm) povšechné výkresy provizorních přemostění, komunikací, vodotečí, rozvodů, vedení a jiných objektů a zařízení,\nn) předběžné statické, popřípadě hydrotechnické výpočty v rozsahu nezbytném pro stanovení hlavních rozměrů a konstrukcí a pro zjištění účinků na konstrukce a základy,\no) konstruktivní architektonické detaily a úpravy, pokud jsou nezbytné k vystižení záměrů generálního projektanta,\np) návrh demolicí, rekultivace pozemků, terénních a vegetačních úprav,\nr) podklady pro řešení nestandardních prací PSV (jejich rozměrové náčrtky apod.),\ns) schémata, půdorysy, řezy a detaily síti vodovodních, elektrovodních, telefonních, komunikačních (křižovatek, odboček, přípojek, přejezdů), návrhů vytápění, klimatizace, osvětlení a jiné, potřebné pro objasnění funkce a pro sestavení rozpočtu,\nt) výkaz výměr stavebních prací v rozsahu nutném k vypracování rozpočtu a projednání limitu odbytové ceny."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "2. Technická zpráva\nObsahuje zejména zásady konstrukčních řešení a způsob založení objektu, požadavky na vnitřní a vnější vybavení, popřípadě další údaje objasňující koncepci zadávacího projektu (provozní požadavky, popis organizace dopravy apod.), zdůvodňující způsob sestavení rozpočtu; zdůvodnění a popis použitých stavebních konstrukcí a zařízení; vyhodnocení výzkumných prací a výsledků podrobných průzkumných prací (hydrotechnické, laboratorní a jiné zkoušky, hydrologický, geologický, půdněmechanický a jiný průzkum); případné zvláštní požadavky na postup stavebních prací, na údržbu a provoz navrhovaného díla nebo jiné zvláštní požadavky a jejich odůvodnění; odůvodnění případných odchylek od projednané srovnávací studie; zdůvodnění vhodnosti volby použitého typového podkladu, popřípadě uvedení povolených odchylek od schváleného typového podkladu; specifikaci typizovaných výrobků PSV s odvoláním na příslušný katalog; seznam strojů a zařízení netechnologické povahy zpracovaný způsobem stanoveným v části D. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy.\nPoznámka: Jsou-li u staveb (průmyslových, bytových a občanských a inženýrských) samostatné objekty, které mají jiný charakter než stavba sama (u průmyslové stavby objekt charakteru inženýrské nebo bytové stavby apod.), vypracovává se dokumentace podle té části přílohy, ke které příslušný objekt svým charakterem patří."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "1. Výkresy\na) přehledné výkresy, které musí obsahovat návrh řešení charakteristických detailů, jimiž kovová konstrukce navazuje na strojní zařízení nebo na ostatní části stavby; u důležitých konstrukčních prvků detaily neobvyklé v běžných konstrukcích. Jde-li o použití méně běžných stavebních materiálů nebo dílců, které ovlivní úpravu kovové konstrukce, nebo o důležité úložné detaily apod., doplní se přehledné výkresy typickým detailem vzájemné vazby těchto stavebních částí,\nb) údaje o zatížení a. předběžný statický výpočet. V předběžném statickém výpočtu musí být přehledně uvedena veškerá zatížení potřebná pro zpracování podrobného statického výpočtu. Předběžný statický výpočet vypracuje se v rozsahu potřebném pro stanovení hlavních rozměrů nosných částí konstrukce, pro zjištění účinku na základy, pro kontrolu stability konstrukce, pro určení její váhy a pro předběžný rozpis materiálu,\nc) předběžný rozpis materiálu slouží ke stanovení váhy kovové konstrukce jako podkladu pro stanovení limitu odbytové ceny a k sestavení plánu materiálně technického zásobování u dodavatele konstrukce. Vypracovává se na podkladě předběžného statického výpočtu nebo z údajů typových podkladů nebo z podkladů získaných z provedených stejných staveb. Rozpis materiálů a jeho váhy se sestavují podle hlavních částí konstrukce. V rekapitulaci se uvede vedle váhové rekapitulace i rozčlenění materiálů podle nomenklatury. (Předběžný rozpis materiálů neslouží jako podklad pro definitivní objednávku materiálu, ale pro účely plánovací a proto mohou být v rekapitulaci udána potřebná množství celkových běžných metrů nebo celkových čtverečních metrů)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část E. STAVEBNÍ ČÁST > oddíl II. Pro jednotlivé objekty:",
+      "content": "2. Technická zpráva\nObsahuje zejména údaje o podkladech pro návrh kokové konstrukce, o účelu, kterému má konstrukce sloužit jako celek ve svých podstatných částech, o jejím ovlivnění technologickým zařízením, popis jejího řešení a volbu jejího statického systému a členění konstrukce, druhy zařízení, požadavky na architektonický vzhled, volbu typizovaných konstrukcí nebo typizovaných prvků, volbu konstrukčního materiálu, popřípadě zvláštní požadavky na technologii výroby, na ochranu proti korozi, údržbu a přepravu.\nObsahuje dále i případná upozornění na zvláštní podmínky, vyplývající z průzkumu staveniště a je-li toho třeba, i zvláštní požadavky na postup a způsob montáže apod. a technickoekonomické ukazatele o konstrukci. Technická zpráva musí poskytovat postačující podklady a údaje pro zpracování ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část G. PROJEKT ORGANIZACE VÝSTAVBY",
+      "content": "1. Časový plán výstavby\nuvádějí se zejména:\na) návrh doby trvání provádění stavby (etapy) podle platných norem lhůt výstavby, od předpokládaného zahájení do odevzdání a převzetí, v členění na objekty, popřípadě provozně ucelené části,\nb) doba trvání zkušebního provozu jednotlivých provozně ucelených částí stavby (etapy),\nc) orientační lhůty pro předávání koordinačních podkladů mezi dodavateli navzájem a od dodavatelů investorovi (nebo přímo organizaci provádějící koordinační činnost, je-li to dohodnuto),\nd) orientační lhůty pro předání technických údajů nutných pro vypracování prováděcích projektů v případě, kdy je vypracovává generální projektant,\ne) orientační lhůty, do kterých dodavatelé odevzdávají investorovi prováděcí projekty nebo jejich části,\nf) orientační lhůty pro předání zadávacího projektu na další etapu u staveb s etapovým zadávacím projektem,\ng) časové rozvržení finančních objemů (podle let pro celou stavbu, pro jednotlivé etapy a pro hlavní objekty).\nFinanční objemy se uvádějí na základě rozpočtů v těchto hodnotách:\nJe-li stanoven plánem rozvoje národního hospodářství nebo vládou pevný termín uvedení stavby nebo její provozně ucelené části do trvalého provozu (užívání), vypracuje generální projektant časový plán s kalendářními daty."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část G. PROJEKT ORGANIZACE VÝSTAVBY",
+      "content": "2. Technická zpráva\nCharakteristika staveniště a přilehlé oblasti z hlediska organizace výstavby s využitím všech výsledků průzkumných prací potřebných pro provedení stavby; stručný popis organizace provádění stavby a navrhovaných výrobních metod stavebních i montážních prací vcelku a pro hlavní objekty, s jejich zdůvodněním časového plánu stavby: výčet a zdůvodnění hlavního provozního a sociálního zařízení staveniště s uvedením jeho výkonu nebo kapacity pro potřebu dodavatelů stavby; stručný popis a zdůvodnění způsobu uskladnění strojů a zařízení odevzdaných k montáži s určením místa uskladnění; propočet maximální potřeby vody a energií pro jednotlivá léta provádění stavby; možnosti a způsob krytí potřeb stavebních hmot z místních zdrojů; způsob zajištění ubytování, stravování a dopravy pracovníků se zdůvodněním.\nStručné zdůvodnění všech objektů zařízení staveniště, jejichž pořizovací náklady nejsou obsaženy v globálních přirážkách na zařízení staveniště.\nSeznam a popis dosavadních provozních a sociálních zařízení, kterých bude použito při provádění stavby pro potřeby zařízení staveniště, popřípadě včetně trvalých nebo dočasných úprav; seznam trvalých budov (prostorů) a jejich zařízení, které jsou součástí budované stavby a jichž bude použito při jejím provádění jako zařízení staveniště pro potřeby provozního a sociálního zařízení, popřípadě včetně dočasných úprav a jejich odstranění, doba používání těchto objektů a zařízení; seznam pozemků, kterých bude použito při provádění stavby a které je investor povinen půjčit zdarma, přičemž nerozhoduje, zda pozemek je vlastnictvím investora nebo jej najme. Technická zpráva musí obsahovat postačující podklady a údaje pro zpracováni ekonomické zprávy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část G. PROJEKT ORGANIZACE VÝSTAVBY",
+      "content": "3. Výkresy\na) zastavovací plány stavby (generální důlní dispozice) se zakreslením objektů zařízení staveniště, jejichž náklady nejsou obsaženy v přirážkách na zařízení staveniště a s vyznačením volných ploch použitelných pro provozní a sociální zařízení staveniště s vymezením jejich účelového použití a s vyznačením příjezdných komunikací, svodů odpadních vod a zdrojů energií a vody, s údaji o jejich použitelné kapacitě a se zakreslením obvodu staveniště,\nb) výkresy objektů, jejichž náklady nejsou obsaženy v globálních přirážkách, budou zpracovány stejně jako ostatní objekty stavby."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Část G. PROJEKT ORGANIZACE VÝSTAVBY",
+      "content": "4. Doklady\nPřikládají se zejména potvrzení souhlasu investora s použitím pozemků a dosavadních nebo budovaných objektů pro zařízení staveniště a doklad o projednání projektu organizace výstavby s generálními, popřípadě s přímými finálními dodavateli.\nPoznámka: U staveb jednoduchých, u staveb, které mají započít a skončit v témže kalendářním roce a u staveb prováděných ve vlastní režii, se obsah projektu organizace výstavby přiměřeně zjednodušuje.\nEtapový zadávací projekt sestává z těchto částí:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část B. STAVEBNÍ ČÁST",
+      "content": "1. Výkresy\na) typové projekty (s odkazem na použitý typový podklad),\nb) nelze-li použít typových podkladů, návrh objektu s charakteristickými půdorysy, řezy a pohledy pro určení hlavních rozměrů.\nc) schematické výkresy instalačních zařízení a rozvodů, popřípadě jejich provozně dispoziční schéma,\nd) přehledné výkresy kovových konstrukcí,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část B. STAVEBNÍ ČÁST",
+      "content": "2. Technická zpráva\nUvádí zpravidla popis stavebně technického a konstrukčního řešení, zdůvodnění zakládání, popis systému instalačních zařízení, zásobování vodou, kanalizace apod., seznam netechnologických strojů a zařízení, výsledky průzkumných prací, přibližnou váhu kovových konstrukcí.\ndrážní, silniční a ostatní dopravní vodohospodářské objekty, úprava terénu a ploch, vnější sítě apod. (pro stavby, pro něž nebude vydána zvláštní příloha podle ustanovení bodu 196)."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část B. STAVEBNÍ ČÁST",
+      "content": "1. Výkresy\na) polohový výkres objektu, trasy,\nb) povšechné podélné profily,\nc) vzorové a charakteristické příčné řezy,\nd) předběžný výpočet výměr zemních prací,\ne) předběžné znázornění rozvozu a odvozu výkopku,\nf) odkazy na použité typové podklady nebo výkresy a typického řešení,\ng) návrhy úprav dosavadních objektů."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část B. STAVEBNÍ ČÁST",
+      "content": "2. Technická zpráva\nUvádí zpravidla popis řešení objektu a provozního zařízení, zhodnocení výsledků průzkumů, popřípadě další potřebné údaje.\nProváděcí projekt sestává z těchto částí:\nJednotlivé části obsahují:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "1. Výkresy\na) dispozice strojů a zařízení (půdorysy a řezy) konečného rozmístění výrobních, dopravních, energetických a jiných strojů a zařízení, obsahuje upřesnění dispozice zadávacího projektu. Do této dispozice se zakreslují potrubí, a to jednočarově do jmenovité světlosti 80 mm a ostatní dvoučarově (v příslušných pohledech a řezech, popřípadě doplněné prostorovým pohledem) se zakreslením uzlů, křižovatek, prostupů a průduchů, armatur, kompenzačních členů, pevných bodů, závěsů apod. Ve složitých případech provede se dispozice potrubí samostatně.\nMěřítko všech dispozic je zpravidla podrobnější než u zadávacího projektu.\nb) potrubní schéma všech potrubí s označením vnějšího průměru potrubí, tlouštky stěny, jmenovitého tlaku a druhu materiálu. Při potrubí z oceli běžné obchodní jakosti se materiál neznačí. Ve schématu jsou označeny všechny armatury, měřicí a regulační přístroje a jsou očíslovány,\nc) zvláštní schémata podle specifických požadavků některých oborů (např. tepelné schéma, funkční schéma, schéma úpravy vody),\nd) časový plán montážních prací."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "2. Technická zpráva\nObsahuje zdůvodnění odchylek v technologickém a dispozičním řešení, v základních údajích a v technickohospodářských ukazatelích od zadávacího projektu. Pokud je to nutné, podává stručný popis k výkresové částí prováděcího projektu. Konečně obsahuje řešení otázek, které měly být vyjasněny až v prováděcím projektu."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "1. Výkresy\na) liniové schéma výrobních zařízení se zakreslením čísel přístrojů a s označením položek podle specifikace,\nb) principiální konečné schéma samostatných okruhů jen u zvláštních případů,\nc) funkční liniová elektrická schémata zapojení, měření, signalizace, dálkového ovládání, automatizace a regulace uvnitř i vně rozvaděče,\nd) schémata rozvodu vzduchu, chladicí vody, popřípadě jiných medií,\ne) dispozice výrobního zařízení doplněná umístěním odběru, rozvaděčů a přístrojů, hlavních měřicích tras a regulačních rozvodů s požadovanými místy vyústění rozvodů vzduchu, vody, elektřiny apod. Tato dispozice je podle potřeby doplněna výkresy styčných nebo upevňovacích bodů mezi měřicím a regulačním zařízením výrobní a stavební části,\nf) přístroje, desky a rozvaděče ve vnějším pohledu s označením typu a s vyznačením vnějších rozměrů."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "2. Technická zpráva\nObsahuje kromě obdobných údajů jako v technické zprávě k výrobnímu zařízení výsledky výpočtů měřicích a regulačních systémů a úplnou specifikaci měřicího a regulačního zařízení."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "1. Výkresy\na) jednopólové schéma vystihující elektrický rozvod v řešeném objektu, obsahující vstupní stanici, hlavní a podružné rozvaděče napájení jednotlivých zařízení, strojů nebo spotřebičů s udáním proudových soustav, přenášených výkonů, zkratových výkonů a zkratových poměrů,\nb) jednopólové, popřípadě vícepólové základní schéma s označením typů a druhů zařízení, vystihující způsob napájení, jistění, měření a ochran, členěné podle jednotlivých rozvaděčů nebo zařízení. Pomocné obvody (např. ovládací, blokovací) mohou být vyjádřeny pouze v liniovém schématu. V takovém případě se jednopólové, popřípadě vícepólové schéma u složitých zařízení doplňuje příslušně označenými odcházejícími vedeními pomocných obvodů,\nc) schémata (např. liniová) vystihující způsob řízení, obsluhy, řešení vazby, blokování a dalších speciálních požadavků, s vyznačením umístění přístrojů v různých zařízeních,\nd) schéma provozních rozvodů, vystihující zapojení jednotlivých zařízení s označením druhu a průřezu kabelů a vodičů, vypracované s přihlédnutím k vnitřnímu zapojení a svorkám spojovaných zařízení. Schéma provozních rozvodů může být nahrazeno vhodně upraveným soupisem kabelů a vodičů,\ne) zpřesněné dispoziční výkresy se zakreslením umístění jednotlivých zařízení, strojů, spotřebičů apod., např. se zakreslením elektrorozvodů. Tyto výkresy se doplňují podle potřeby příslušnými řezy.\nf) výkresy tras, kabelových a pasových rozvodů s udáním profilů kanálů, s označením kabelů a vodičů v trasách nebo s označením tras v souhlase se soupisem kabelů a vodičů,\ng) výkresy uzemňovací soustavy obsahující návrh uzemňovací sítě s uvedením počtu uzemňovacích jímek a zemničů a jejich provedení,\nh) soupisy kabelů a vodičů (tabulky) shodně označených s výkresy s uvedením druhů, průřezů, délek, napětí a cílového označení,\ni) časový plán stavebních prací."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "2. Technická zpráva\nObsahuje kromě obdobných údajů jako v technické zprávě k výrobnímu zařízení výsledky výpočtů zkratových proudů, výpočtů uzemnění, výsledky výpočtů úbytků napětí, kompenzace účinníku, data povolení výjimky pro použití barevných kovů apod. Pokud je to nutné, jako doplněk výkresů, stručný popis dispozičního řešení a funkce podle schémat, s vyzvednutím zvláštních požadavků pro obsluhu a chod zařízení za všech provozních stavů s ohledem na řízení, signalizaci, synchronizaci, paralelní chod, dálkové měření apod.\nZpracovávají se"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "1. Výkresy a"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "2. Technická zpráva\nZpracovávají se"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "1. Výkresy a"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "2. Technická zpráva"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "část C. TECHNICKÁ ČÁST",
+      "content": "3. Seznam strojů a zařízení\nObsahuje podrobné seznamy strojů a zařízení, které musí být v souladu s údaji v prováděcím projektu v členění až na základní jednotky. U potrubí uvede se soupis jednotlivých větví (zařízení, potrubí, armatury, kompenzátory, údaje o izolaci apod.) se souhlasným označením s výkresy, popřípadě s označením speciálních materiálů podle katalogů a výrobních programů.\nSamostatnou část tvoří seznam potřebných náhradních dílů nutných pro zajištění plynulého provozu a seskupených podle provozních jednotek."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. STAVEBNÍ ČÁST",
+      "content": "1. Výkresy\na) vytyčovací schéma jednotlivých objektů nebo tras,\nb) podrobné půdorysy, řezy a pohledy, navazující na výkresy zadávacího projektu, včetně podrobných dispozic a podlahových plánů, s kótami podlaží a konstrukcí (u kovových konstrukcí kóty zakotvení), se zakreslením drážek, prostupů, kanálů a ostatních stavebních úprav s udáním ploch místností, jakož i zařízením CO a PO investičního charakteru,\nc) konstruktivní propracování architektonických úprav a detailů nezbytné pro jejich provedení,\nd) výkresy konstrukcí s vyznačením jakosti použitých hmot a s podrobným statickým výpočtem a rozpisem materiálu, bednění a armovací plány,\ne) propracování konstruktivních detailů,\nf) výkresy nestandardních konstrukci a prací PSV v rozsahu nezbytném pro vypracování dílenských výkresů,\ng) podrobné výkresy instalace světelné, telekomunikační, hromosvodů, zdravotní, ústředního topení, klimatizace, popřípadě jiných instalací,\nh) výkresy základů pro stroje a zařízení s podrobným statickým výpočtem,\ni) případné další potřebné výkresy nutné pro provádění,\nj) výkazy potřebného stavebního materiálu a hmot,\nk) specifikace stavebních dílců tovární výroby."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. STAVEBNÍ ČÁST",
+      "content": "2. Technická zpráva\nPokud je jí třeba, uvádí se zdůvodnění případných odchylek oproti zadávacímu projektu*) a popis technologického postupu a provedení stavby. Konečně obsahuje řešení těch otázek, které byly uvedeny v zadávacím projektu pouze rámcově, jako požadavky generálního projektanta na prováděcí projekt.\nPoznámka: Upozorní-li dodavatel na možnost úspory dřeva ve srovnání se zadávacím projektem a úspora není na závadu účelu a kvalitě stavby, je investor povinen navrženou změnu přijmout a zařídit potřebná opatření. Změna nesmí vést ke zvýšení sjednaného limitu odbytové ceny.\ndrážní, silniční a ostatní, dopravní, vodohospodářské objekty, vnější sítě apod. (pro stavby pro něž nebude vydána zvláštní příloha podle bodu 196)."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část D. STAVEBNÍ ČÁST",
+      "content": "1. Výkresy\na) vytyčovací schéma objektů a tras,\nb) doplnění podélných a příčných profilů v rozsahu nutném pro provedení prací, popřípadě pro výpočet zemních prací,\nc) situace výkopových a výlomových prací podle podrobných výkresů objektů a podle skutečných geologických základových poměrů, podrobné znázornění rozvozu hmot.,\nd) podrobné výkresy jímek, zařízení pro čerpání vody a zakládání, výkresy složitějších křižovatek, přípojek a odbočení komunikací,\ne) kladečské plány,\nf) podrobné půdorysy, řezy a pohledy navazující na výkresy zadávacího projektu a podrobné dispozice podlahových plánů s kótami podlaží a konstrukcí (u kovových konstrukcí kóty zakotvení), se zakreslením drážek, prostupů, kanálů a ostatních stavebních úprav s udáním ploch místností, jakož i zařízení CO a PO investičního charakteru,\ng) výkresy konstrukcí (s výjimkou kovových) s vyznačením jakosti použitých hmot, pomocných konstrukcí s podrobným statickým výpočtem a rozpisem materiálu, armovací plány a plány bednění,\nh) u žalezničních zabezpečovacích zařízení plán polohy v měřítku, závěrovou tabulku, výkres řídícího pultu a kolejových desek, výkresy kolejových obvodů, kabelových rozvodů, výkresy napájení zařízení elektrickým proudem, umístění zařízení v budovách, principiální schéma napojení apod.,\ni) výkres spojení ústících do telefonní ústředny, podrobný voličový systém, skupinové a směšovací plány, obsazení stojanů ústředny, podrobný výkres místní sítě venkovní i kabelové, podrobný výkres trasy dálkových kabelů a jejich profilů, podrobný plán obsazení kabelových čtyřek, profily venkovní tratě, výkresy umístění zařízení v budovách a výkresy napájení,\nj) podrobnosti konstrukcí (dilatace, ložiska, kotvy, izolace, odvodnění, kamenické práce, trolejové stožáry s výstrojí, diagram sjízdnosti trolejí na výhybkách a kolejových kříženích apod.),\nk) specifikace typizovaných stavebních dílců tovární výroby,\nm) výkresy nestandardních prací PSV v rozsahu nezbytném pro vypracování dílenských výkresů,\nn) konstruktivní propracování architektonických úprav a detailů,\no) u staveb prováděných za provozu, podrobné stavební postupy."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část D. STAVEBNÍ ČÁST",
+      "content": "2. Technická zpráva\nPokud je jí třeba, uvádí se zdůvodnění případných odchylek oproti zadávacímu projektu a popis technologického postupu a provedení stavby. Konečně obsahuje řešení těch otázek, které byly uvedeny v zadávacím projektu pouze rámcově jako požadavky generálního projektanta na prováděcí projekt.\nV prováděcím projektu dodavatel upraví výkresy a údaje zadávacího projektu a doplní předběžný statický výpočet podle výsledku prováděcího projektu technologické části, a to ve spolupráci s projektantem prováděcího projektu stavební části a zpracuje podrobný statický výpočet jako podklad pro konstrukční, dílenská a montážní výkresy.\nPoznámka: Součástí prováděcích projektů nejsou konstrukční, dílenské a montážní výkresy, které vypracovávají dodavatelé a jejich cena je obsažena v ceně dodávky."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "1. Formulář č. 1 slouží pro sestavení rozpočtů stavby (etapy) k zadávacímu (jednostupňovému) projektu a je souhrnem dílčích rozpočtů."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "2. Dílčí rozpočty se uvádějí ve formuláři v pořadí podle jednotlivých etap se součtem rozpočtových nákladů za každou etapu a s rozdělením nákladů každého dílčího rozpočtu na limit odbytové ceny a směrný limit s označením L nebo SL ve sloupci (L = limit odbytové ceny, SL = směrný limit)."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "3. Do sloupců č. 2 a 3 se zařadí dílčí rozpočty\na) technologických částí — provozních souborů (celků) s číslem a označením z formuláře č. 2,\nb) stavebních částí objektu s číslem a označením z formuláře č. 3\nc) ostatních prací a nákladů, pro které není předepsán formulář."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "4. Označení o použití typových podkladů podle usnesení Státního výboru pro výstavbu č. 190 ze dne 31. července 1956 se uvádí ve sloupci 4, a to písmenem „T“ při použití typových podkladů a písmene „V“ při povolené výjimce z použití typových podkladů."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "5. Výše nákladů na nepředvídané práce a výdaje ve sloupci 11 se stanoví podle ustanovení bodu 127 z rozpočtových nákladů stavební části ve sloupci 8."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "6. V závěru formuláře se rozpočtové náklady sečítají. Odděleně se vyjádří v řádku I až IV náklady určené podle bodu 123 od nákladů v řádku V až VII určených podle bodu 124. Náklady na nepředvídané práce a výdaje ze sloupce 11 se zahrnují do celkových rozpočtových nákladů v řádku IV, VI a VII."
+    },
+    {
+      "provision_ref": "Bod 7",
+      "section": "7",
+      "title": "Bod 7",
+      "chapter": "Část F. PROJEKT ZAŘÍZENÍ STAVENIŠTĚ zpracovává nositel globální přirážky.",
+      "content": "7. U staveb, které jsou schvalovány vládou, se uvádí místo podpisu schvalující osoby odkaz na příslušné usnesení vlády o schválení dokumentace."
+    }
+  ],
+  "definitions": []
+}

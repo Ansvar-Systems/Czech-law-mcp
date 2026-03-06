@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2797/1948",
+  "type": "statute",
+  "title": "2797/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Západoslovenských tehelní, národného podniku.",
+  "title_en": "",
+  "short_name": "2797/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-11-14",
+  "in_force_date": "1948-11-29",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2797",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Západoslovenských tehelní, národného podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Dr. Pavel Fekete, tehelňa, se sídlem v Mnešicích, spr. okr. Nové Město n. V.,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Molnošská tehelňa, majiteľ Dr. Jozef Tlapa, se sídlem v Nitře-Molnoši,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Správa statku Šajbnerovského, hospodárstvo, tehelňa a liehovar, se sídlem v Piešťanech,\nvesměs v rozsahu jejich znárodnění, do Západoslovenských tehelní, národného podniku."
+    }
+  ],
+  "definitions": []
+}

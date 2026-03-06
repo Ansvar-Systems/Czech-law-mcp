@@ -1,0 +1,63 @@
+{
+  "id": "cz:ul1:1443/1946",
+  "type": "statute",
+  "title": "1443/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o nejvyšších sazbách za polnohospodářské práce prováděné traktory.",
+  "title_en": "",
+  "short_name": "1443/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-06-22",
+  "in_force_date": "1946-06-22",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1443",
+  "description": "Vyhláška nejvyššího úřadu cenového o nejvyšších sazbách za polnohospodářské práce prováděné traktory.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Nejvýše přípustné ceny za 1 hodinu polnohospodářské práce prováděné traktorem se vypočítají jako součet:\n1. ze základní hodinové sazby za použití traktoru,\n2. ze základní hodinové sazby za použití závěsného nářadí,\n3. z nákladů na pohonné a mazací látky,\n4. z nákladů na mzdy a sociální dávky,\n5. z nákladů za přepravu traktoru a závěsného nářadí se stanoviště na pracovní místo a zpět,\n6. z režijní přirážky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Základní hodinová sazba za použití traktoru a za použití závěsného nářadí činí 1‰ základní roční sazby. (Nikoli tedy 1%, jak bylo nesprávně uvedeno).\n(2) Základní roční sazba za použití traktoru se vypočte jako součet:\na) 14% z pořizovací ceny traktoru jakožto amortisace,\nb) 11% z pořizovací ceny traktoru jakožto nákladů udržovacích a jiných (pojištění, garážování, opravy, čištění atd.),\nc) 3% z pořizovací ceny traktoru jakožto zúročení kapitálu.\n(3) Základní roční sazba za použití závěsného nářadí (pluh, kultivátor, brány, válec, secí a žací stroje atd.) se vypočte jako součet:\na) 10% z pořizovací ceny závěsného nářadí jakožto amortisace,\nb) 20% z pořizovací ceny závěsného nářadí jakožto nákladů udržovacích (nové nože, odhrnovačky, plazy, opravy a pod.),\nc) 3% z pořizovací ceny závěsného nářadí jakožto zúročení kapitálu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Jako náklady na pohonné a mazací látky je dovoleno započítat skutečně spotřebované pohonné látky a oleje, a to v skutečných pořizovacích cenách, odpovídajících cenovým předpisům.\n(2) Jako náklady na mzdy a sociální dávky se smí započítat skutečně placená mzda traktoristy, po případě pluhaře, přípustná podle příslušných mzdových předpisů. Sociální dávky smějí býti připočteny ke mzdě jen tehdy, byly-li skutečně zaplaceny a pokud podle platných předpisů připadají na zaměstnavatele.\n(3) Náklady za přepravu traktoru a závěsného nářadí se stanoviště na pracovní místo a zpět se řídí vyhláškou nejvyššího úřadu cenového ze dne 14. listopadu 1945, běž. č. 419, o sazbách za dopravu nákladů motorovými vozidly (Ú. l. I č. 137/1945).\n(4) Režijní přirážka činí nejvýše 7% ze součtu položek uvedených v § 1, č. 1 až 5."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Cena za 1 hodinu polnohospodářské práce prováděné traktorem, vypočtená podle předcházejících ustanovení, se rozumí s daní z obratu a mimo broušení nožů; broušení nožů platí zákazník.\n(2) Všichni majitelé traktorů (fysické i právnické osoby), kteří provádějí polní práce za pomoci traktorů, jsou povinni vydat zákazníkům za každý provedený úkon účet, z něhož musejí býti patrny položky uvedené v § 1, č. 1 až 6."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Nejvyšší úřad cenový, nebo místa jím zmocněná mohou povoliti nebo naříditi výjimky z ustanovení této vyhlášky nebo z předpisů vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přestupky této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Vyhláška nabývá účinnosti dnem vyhlášení, vztahuje se však i na orební sezónu 1945/1946."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cena za 1 hodinu polnohospodářské práce prováděné traktorem, vypočtená podle předcházejících ustanovení",
+      "definition": "s daní z obratu a mimo broušení nožů; broušení nožů platí zákazník",
+      "source_provision": "§ 4."
+    }
+  ]
+}

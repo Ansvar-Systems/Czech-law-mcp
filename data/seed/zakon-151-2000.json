@@ -1,0 +1,1044 @@
+{
+  "id": "cz:151/2000",
+  "type": "statute",
+  "title": "151/2000 Sb., Zákon o telekomunikacích a o změně dalších zákonů",
+  "title_en": "",
+  "short_name": "151/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-06-13",
+  "in_force_date": "2005-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/151",
+  "description": "Zákon o telekomunikacích a o změně dalších zákonů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PRVNÍ",
+      "content": "Zákon upravuje ve věcech telekomunikací\na) podmínky pro zřizování a provozování telekomunikačních zařízení a telekomunikačních sítí,\nb) podmínky pro poskytování telekomunikačních služeb,\nc) výkon státní správy včetně regulace."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PRVNÍ",
+      "content": "(1) Telekomunikačním zařízením se rozumí technické zařízení, včetně vedení, pro vysílání, přenos, směrování, spojování a příjem informací prostřednictvím elektromagnetických vln.\n(2) Telekomunikační sítí se rozumí funkčně propojený soubor telekomunikačních zařízení k přepravě informací mezi koncovými body této sítě nebo soubor rádiových zařízení k přepravě informací nebo jejich vzájemná kombinace.\n(3) Veřejnou telekomunikační sítí se rozumí síť, která má být podle licence nebo generální licence využita zcela nebo zčásti pro poskytování veřejných telekomunikačních služeb, včetně telekomunikační sítě určené výhradně k jednosměrnému šíření televizních nebo rozhlasových signálů po vedení.\n(4) Rozhraním veřejné telekomunikační sítě se rozumí\na) koncový bod sítě, který je fyzickým spojovacím bodem, ve kterém je uživateli telekomunikační služby poskytován přístup k veřejné telekomunikační síti,\nb) rozhraní pro propojování veřejných telekomunikačních sítí, nebo\nc) rozhraní v prostoru specifikující rádiové prostředí mezi rádiovými zařízeními, v souladu s jejich technickými specifikacemi (koncový bod mobilní sítě).\nDruhy a charakteristiku koncových bodů a rozhraní stanoví prováděcí předpis.\n(5) Účastnickým vedením se rozumí fyzický kovový pár vodičů spojující koncový bod sítě s hlavním rozvaděčem nebo obdobným zařízením ve veřejné pevné telefonní síti.\n(6) Úsekem účastnického vedení se rozumí část účastnického vedení, která spojuje koncový bod sítě se soustřeďovacím bodem nebo se specifikovaným mezilehlým přístupovým bodem veřejné pevné telefonní sítě.\n(7) Telekomunikační službou se rozumí služba, jejíž poskytování spočívá zcela nebo zčásti v přepravě nebo směrování informací telekomunikačními sítěmi třetím osobám. Touto službou je i pronájem telekomunikačních okruhů. Za telekomunikační službu se nepovažuje přepojení (přesměrování) hovoru tísňového volání na jiné pracoviště základní složky integrovaného záchranného systému, které je kompetentní k jeho odbavení.\n(8) Veřejnou telekomunikační službou se rozumí telekomunikační služba, z jejíhož poskytování není předem vyloučen žádný zájemce o její využití.\n(9) Veřejnou telefonní službou se rozumí veřejná telekomunikační služba spočívající v přepravě nebo směrování mluvené řeči v reálném čase mezi koncovými body veřejné telekomunikační sítě, která umožňuje každému uživateli používat zařízení připojené k takovému koncovému bodu za účelem komunikace s jiným uživatelem, jehož zařízení je připojené k jinému koncovému bodu.\n(10) Uživatelem telekomunikační služby se rozumí fyzická osoba nebo právnická osoba, které je poskytována telekomunikační služba.\n(11) Účastníkem se rozumí uživatel telekomunikační služby, který je s jejím poskytovatelem ve smluvním vztahu.\n(12) Tísňovým voláním se rozumí bezplatná volba čísel, která jsou stanovena v číslovacím plánu a uvedena v telefonních seznamech a která je nutno pro záchranu lidských životů, zdraví nebo majetku zpřístupnit.\n(13) Radiokomunikační službou se rozumí telekomunikační činnost, která spočívá v přenosu, vysílání nebo příjmu informací prostřednictvím rádiových vln.\n(14) Rádiovými vlnami se rozumí elektromagnetické vlny o kmitočtech od 9 kHz do 3 000 GHz, jež se šíří prostorem bez jakéhokoli vedení.\n(15) Veřejnou pevnou telekomunikační sítí se rozumí veřejná telekomunikační síť, jejíž koncové body mají pevnou v čase se neměnící geografickou polohu.\n(16) Telekomunikačním okruhem se rozumí soubor telekomunikačních zařízení, který zajišťuje přenos informací mezi rozhraními telekomunikačního okruhu a který nezahrnuje přepojovací funkce ovládané uživatelem. Tento soubor může zahrnovat i zařízení, která umožňují pružné užívání kmitočtového pásma okruhu, popřípadě směrování a řízení provozu.\n(17) Rušením se rozumí nežádoucí účinek elektromagnetické energie, který může negativně ovlivnit funkci telekomunikačních zařízení, popřípadě kvalitu telekomunikačních služeb.\n(18) Propojením se rozumí fyzické a logické spojení telekomunikačních sítí využívaných poskytovateli telekomunikačních služeb umožňující uživatelům jednoho poskytovatele telekomunikačních služeb komunikovat s uživateli téhož nebo jiného poskytovatele telekomunikačních služeb nebo za účelem umožnění přístupu ke službám poskytovaným jiným poskytovatelem telekomunikačních služeb. Telekomunikační služby mohou být poskytovány poskytovateli telekomunikačních služeb, kteří se propojují, nebo jinými poskytovateli telekomunikačních služeb, kteří mají přístup k telekomunikační síti.\n(19) Připojením se rozumí fyzické a logické připojení telekomunikačního zařízení k rozhraní veřejné nebo neveřejné telekomunikační sítě za účelem využívání nebo poskytování telekomunikačních služeb.\n(20) Držitelem licence s výrazným podílem na trhu se rozumí pro účely tohoto zákona subjekt, který má oprávnění k provozování veřejných telefonních sítí anebo k poskytování veřejné telefonní služby a který má nejméně dvaceti pěti procentní podíl z relevantního trhu v geografické oblasti, ve které má právo provozovat činnost. Podíl se stanoví z rozdílu výnosů za veřejnou telefonní službu, včetně výnosů z propojování, a nákladů na propojení hrazených jiným poskytovatelům veřejné telefonní služby. Český telekomunikační úřad může stanovit jiný procentní podíl na základě posouzení schopnosti držitele licence ovlivnit podmínky trhu, jeho objemu tržeb a schopnosti zajištění finančních zdrojů nebo zkušenosti s provozováním veřejných telefonních sítí, s poskytováním veřejné telefonní služby nebo veřejné telekomunikační služby pronájmu telekomunikačních okruhů. Obdobně se postupuje při stanovení povinnosti subjektu poskytovat veřejnou telekomunikační službu formou pronájmu telekomunikačních okruhů.\n(21) Regulací se rozumí usměrňování telekomunikačních činností a vztahů podle tohoto zákona a v jeho mezích, za účelem dosažení a udržení konkurenčního prostředí, ochrany telekomunikačního trhu, včetně ochrany uživatelů telekomunikačních služeb, regulačním orgánem vydáváním opatření, která jsou závazná pro provozovatele telekomunikačních zařízení a sítí a pro poskytovatele telekomunikačních služeb a která jsou zveřejňována v Telekomunikačním věstníku. Dále k regulaci náleží též sledování plnění stanovených podmínek (a to i výkonem kontroly) a udržování stavu dosaženého podle těchto podmínek."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zřízení Českého telekomunikačního úřadu",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PRVNÍ",
+      "content": "(1) Zřizuje se Český telekomunikační úřad (dále jen „Úřad“). Úřad je správním a regulačním úřadem ve věcech telekomunikací a poštovních služeb.\n(2) V čele Úřadu je předseda, kterého jmenuje a odvolává na návrh ministra dopravy a spojů vláda. Vláda na návrh ministra dopravy a spojů schvaluje statut Úřadu.\n(3) Sídlem Úřadu je Praha.\n(4) Předsedou může být jmenován občan České republiky, který je bezúhonný ve smyslu § 15 tohoto zákona, má ukončené vysokoškolské vzdělání v oboru telekomunikací nebo práva nebo ekonomie a má pět let praxe v řídicí činnosti v oboru telekomunikací.\n(5) Funkční období předsedy Úřadu je čtyři roky. Předseda může být ve funkci nejdéle dvě po sobě jdoucí funkční období.\n(6) Předseda Úřadu nesmí po dobu svého jmenování vykonávat funkce v politických stranách a hnutích, nesmí být členem statutárních orgánů provozovatelů telekomunikačních činností, jejich zaměstnancem nebo poradcem a nesmí být členem ve statutárních orgánech působících ve prospěch provozovatelů telekomunikačních činností.\n(7) Předsedu Úřadu lze odvolat v případě závažného porušení povinností uložených tímto zákonem a jinými zákony a mezinárodními smlouvami, kterými je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů nebo Sbírce mezinárodních smluv. Předsedu Úřadu lze rovněž odvolat v případě, že nevykonává svou funkci po dobu delší než čtyři měsíce nebo přestane-li splňovat předpoklady pro výkon funkce podle odstavce 4."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Telekomunikační zařízení musí splňovat podmínky stanovené zvláštním právním předpisem.1) Vybraná telekomunikační zařízení musí kromě těchto podmínek splňovat podmínky stanovené tímto zákonem. Vybranými telekomunikačními zařízeními jsou\na) koncová zařízení,\nb) rádiová zařízení.\n(2) Koncovým zařízením se rozumí telekomunikační zařízení připojované přímo nebo nepřímo ke koncovým bodům veřejné telekomunikační sítě, s výjimkou rádiových zařízení a s výjimkou telekomunikačních zařízení pro přenos rozhlasového a televizního vysílání po vedení.\n(3) Rádiovým zařízením se rozumí telekomunikační zařízení, které využívá rádiových vln, s výjimkou rádiových zařízení určených výhradně pro amatérskou radiokomunikační službu, která jsou individuálně vyrobená.\n(4) Seznam jednotlivých druhů vybraných telekomunikačních zařízení zveřejňuje Úřad v Telekomunikačním věstníku.\nSchvalování a uznávání typu koncového zařízení"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Úřad rozhoduje o schválení nebo uznání typu koncového zařízení s výjimkou těch případů, kdy je koncové zařízení užíváno výlučně pro\na) úkoly zpravodajských služeb,2)\nb) úkoly Policie České republiky v oblasti bezpečnosti,3)\nc) služby pátrání celního úřadu,4) nebo\nd) úkoly ozbrojených sil České republiky.5)\nV těchto případech Úřad rozhoduje o typu rozhraní tohoto zařízení.\n(2) Úřad uzná technickou způsobilost koncového zařízení, které je opatřeno mezinárodní značkou shody,1) bylo-li schváleno jiným státem za podmínek srovnatelných se schvalováním typu koncového zařízení podle tohoto zákona. Seznam koncových zařízení uznaných Úřadem zveřejní Úřad v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "Úřad pro účely schvalování typu koncového zařízení stanoví technické předpisy, technické normy, technické specifikace a opatření vydaná Úřadem pro provozování telekomunikační sítě a telekomunikačních služeb (dále jen „předpisová základna“), na základě kterých bude typ koncového zařízení schvalován. Předpisovou základnu Úřad zveřejní v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Žádost o schválení typu koncového zařízení podává výrobce se sídlem na území České republiky nebo s trvalým pobytem na území České republiky, nebo jiná právnická nebo fyzická osoba se sídlem na území České republiky nebo s trvalým pobytem na území České republiky, která je k tomu výrobcem písemně zmocněna. Žádost o schválení typu koncového zařízení musí obsahovat\na) obchodní jméno, sídlo a právní formu právnické osoby a její identifikační číslo, pokud bylo přiděleno, je-li žadatelem právnická osoba, nebo jméno a příjmení, trvalý pobyt, obchodní jméno, rodné číslo, pokud bylo přiděleno, a identifikační číslo fyzické osoby, je-li žadatelem fyzická osoba,\nb) technické údaje o koncovém zařízení,\nc) účel, pro který má být koncové zařízení používáno,\nd) technické předpisy, technické normy, technickou specifikaci a opatření vydaná Úřadem, podle kterých bylo postupováno při konstrukci koncového zařízení,\ne) způsob zajištění záručního a pozáručního servisu koncového zařízení.\n(2) Žádost musí být doložena těmito doklady:\na) ověřenou kopií smlouvy nebo listiny o zřízení nebo založení právnické osoby, u právnických osob zapsaných v obchodním rejstříku výpisem z obchodního rejstříku, u fyzických osob ověřenou kopií živnostenského oprávnění,\nb) písemným zmocněním výrobce, není-li žadatelem výrobce koncového zařízení,\nc) doklady o splnění požadavků na bezpečnost, elektromagnetickou kompatibilitu a ochranu životního prostředí, stanovených technickými předpisy a zvláštními právními předpisy,1)\nd) dokladem o splnění podmínek stanovených předpisovou základnou pro konstrukci koncového zařízení,\ne) návodem k obsluze koncového zařízení v českém jazyce."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Úřad rozhodne o schválení typu koncového zařízení na základě posouzení vlastností a technických parametrů stanovených předpisovou základnou.\n(2) Rozhodnutí o schválení typu koncového zařízení je dokladem pro vydání prohlášení o shodě podle zvláštního právního předpisu.1)"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Technická způsobilost jednotlivě vyrobeného koncového zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) O technické způsobilosti jednotlivě vyrobeného koncového zařízení rozhoduje Úřad na základě žádosti výrobce nebo jiné právnické nebo fyzické osoby.\n(2) Úřad vydá rozhodnutí o schválení technické způsobilosti, jsou-li splněny technické podmínky stanovené předpisovou základnou."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Schvalování a uznávání typu rádiového zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Úřad rozhoduje o schválení nebo uznání typu rádiového zařízení s výjimkou těch případů, kdy je rádiové zařízení užíváno výlučně pro\na) úkoly zpravodajských služeb,2)\nb) úkoly Policie České republiky3) v oblasti bezpečnosti,\nc) služby pátrání celního úřadu,4)\nd) služby civilního letectví,6) nebo\ne) úkoly ozbrojených sil České republiky.5)\n(2) Pro schvalování a uznávání typu rádiového zařízení a pro technickou způsobilost jednotlivě vyrobeného rádiového zařízení platí obdobně § 5 odst. 2 až § 9.\n(3) Rádiové zařízení, jehož typ nebyl schválen nebo uznán, může být použito pro amatérskou radiokomunikační službu nebo zkušební provoz; pro zkušební provoz lze rádiové zařízení použít jen na základě rozhodnutí Úřadu. V rozhodnutí Úřad stanoví podmínky zkušebního provozu."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Povinnosti výrobce koncových zařízení a rádiových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "(1) Výrobce koncových zařízení nebo rádiových zařízení je povinen\na) uvádět na trh jen koncová zařízení nebo rádiová zařízení Úřadem schváleného typu nebo na základě Úřadem uznaného typu koncového zařízení nebo rádiového zařízení,\nb) označit každé vyrobené koncové zařízení nebo rádiové zařízení, jeho obal a návod k obsluze schvalovací značkou,\nc) v návodu k obsluze uvést způsob a podmínky připojení a provozování koncového zařízení nebo rádiového zařízení.\n(2) Grafické ztvárnění schvalovací značky, její provedení a umístění stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Vystavování koncového zařízení a rádiového zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA DRUHÁ - TELEKOMUNIKAČNÍ ZAŘÍZENÍ",
+      "content": "Koncové zařízení nebo rádiové zařízení, jehož typ nebyl schválen nebo uznán, lze veřejně vystavovat na veletrzích, výstavách, předváděcích a obdobných akcích jen za podmínky, že bude viditelně označeno upozorněním, že nemůže být uváděno na trh a provozováno předtím, než bude jeho typ schválen nebo uznán."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 1 - Telekomunikační činnosti",
+      "content": "(1) Telekomunikační činnosti lze vykonávat podle tohoto zákona, pokud mezinárodní smlouva, kterou je Česká republika vázána a která je vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, nestanoví jinak. Telekomunikačními činnostmi se rozumí\na) zřizování a provozování veřejné telekomunikační sítě,\nb) zřizování a provozování neveřejné telekomunikační sítě,\nc) poskytování telekomunikačních služeb prostřednictvím veřejné nebo neveřejné telekomunikační sítě,\nd) zřizování a provozování telekomunikačního zařízení.\n(2) Telekomunikační činnost lze vykonávat jen na základě telekomunikační licence nebo generální licence nebo povolení nebo oprávnění, pokud tento zákon nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Telekomunikační licence je potřebná k těmto telekomunikačním činnostem:\na) zřizování a provozování veřejné telekomunikační sítě s výjimkou telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních nebo rozhlasových signálů po vedení,\nb) poskytování veřejné telefonní služby prostřednictvím veřejné pevné telekomunikační sítě,\nc) poskytování veřejné telefonní služby prostřednictvím veřejné mobilní telekomunikační sítě.\n(2) Telekomunikační licenci Úřad udělí, nebude-li tím ohrožena bezpečnost státu nebo život, zdraví nebo bezpečnost osob, právnické osobě zapsané v obchodním rejstříku na základě písemné žádosti, jestliže\na) všechny fyzické osoby, které jsou nebo budou statutárním orgánem právnické osoby nebo členy statutárního orgánu, dosáhly věku 21 let, jsou způsobilé k právním úkonům, bezúhonné a alespoň jeden člen statutárního orgánu nebo odpovědný zástupce právnické osoby splňuje podmínku odborné způsobilosti,\nb) žadatel prokáže finanční způsobilost k telekomunikační činnosti, pro kterou požaduje telekomunikační licenci,\nc) žadatel prokáže, že má technické, organizační a personální předpoklady k telekomunikační činnosti, pro kterou požaduje telekomunikační licenci,\nd) jsou k dispozici kmitočty, které jsou nezbytné pro požadovanou telekomunikační činnost, pokud je vydání telekomunikační licence podmíněno využitím kmitočtů.\n(3) Úřad při rozhodování o udělení telekomunikační licence sleduje, aby při využití kmitočtů z plánu kmitočtového spektra nebo čísel, číselných řad, jmen nebo adres (dále jen „čísla“) z číslovacího plánu nedošlo k neodůvodněnému zvýhodňování některého z žadatelů. Úřad může pro udělení telekomunikační licence vyhlásit výběrové řízení podle zákona."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Bezúhonnost",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "Za bezúhonného se pro účel tohoto zákona nepovažuje ten, kdo byl pravomocně odsouzen pro trestný čin, jehož skutková podstata souvisí s telekomunikační činností, nebo jiný trestný čin spáchaný úmyslně, pokud se na něj nehledí, jako by nebyl odsouzen."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Odborná způsobilost",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "Odbornou způsobilost prokazují osoby uvedené v § 14 odst. 2 písm. a) dokladem o ukončeném vysokoškolském vzdělání ekonomického, elektrotechnického nebo právního zaměření a dokladem o vykonání tříleté praxe v řízení v oboru telekomunikací nebo dokladem o ukončení úplného středního odborného vzdělání ekonomického nebo elektrotechnického zaměření a dokladem o vykonání pětileté praxe v řízení v oboru telekomunikací."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Finanční způsobilost",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Finanční způsobilostí k vykonávání telekomunikační činnosti, pro kterou je potřebná telekomunikační licence, se rozumí schopnost žadatele finančně zabezpečit zřízení, řádné provozování veřejné telekomunikační sítě nebo řádné poskytování veřejné telekomunikační služby a schopnost zabezpečit současné a budoucí závazky nejméně na období pěti let.\n(2) Finanční způsobilost se prokazuje zejména\na) obchodním majetkem,\nb) objemem dostupných finančních prostředků, včetně stavu bankovních účtů a úvěrů,\nc) provozním kapitálem,\nd) podnikatelským plánem na prvních pět let provozování veřejné telekomunikační sítě nebo poskytování veřejné telekomunikační služby, na kterou je potřebná telekomunikační licence,\ne) účetní závěrkou za předcházející rok, popřípadě poslední účetní uzávěrkou ověřenou auditorem, včetně její přílohy v úplném rozsahu (výkaz o peněžních tocích) v případě, že žadatel v předcházejícím ročním účetním období vykonával podnikatelskou činnost.\n(3) Žadatel o vykonávání telekomunikační činnosti není finančně způsobilý, zejména jestliže dluží nedoplatky na daních, clech a poplatcích, pojistném na sociální zabezpečení, příspěvku na státní politiku zaměstnanosti nebo pojistném na všeobecné zdravotní pojištění a pokutách. Žadatel není finančně způsobilý i v případě, když je na jeho majetek prohlášen konkurz, povoleno vyrovnání, popřípadě vstoupí-li do likvidace.\n(4) Způsob prokazování finanční způsobilosti k vykonávání telekomunikační činnosti stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Žádost o telekomunikační licenci",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Žádost o udělení telekomunikační licence musí obsahovat\na) obchodní jméno, sídlo, právní formu a identifikační číslo právnické osoby, která žádá o udělení telekomunikační licence, jméno a příjmení osoby nebo osob oprávněných jednat jménem právnické osoby,\nb) údaje o telekomunikační síti, kterou hodlá žadatel zřizovat a provozovat nebo jejímž prostřednictvím bude poskytovat veřejnou telekomunikační službu, pro kterou je potřebná telekomunikační licence, její územní rozsah a grafické znázornění, včetně způsobu propojení s telekomunikačními sítěmi jiných provozovatelů,\nc) vymezení druhu a územního rozsahu telekomunikačních činností, které hodlá žadatel provozovat nebo poskytovat, včetně způsobu zajištění jejich dostupnosti,\nd) označení vlastníka telekomunikační sítě, jejího provozovatele a poskytovatele veřejné telekomunikační služby prostřednictvím této sítě, jsou-li osobou odlišnou od žadatele,\ne) údaje o kmitočtech nebo údaje o číslech podle číslovacího plánu, jsou-li nezbytné pro požadovanou telekomunikační činnost při jejím zahájení,\nf) datum zahájení telekomunikačních činností, které hodlá žadatel provozovat nebo poskytovat, a dobu, na kterou požaduje udělení telekomunikační licence.\n(2) Žádost o telekomunikační licenci musí být doložena\na) výpisem z obchodního rejstříku,\nb) výpisem z evidence Rejstříku trestů, který není starší než 90 dnů, všech členů statutárního orgánu,\nc) dokladem prokazujícím odbornou způsobilost alespoň jednoho z členů statutárního orgánu nebo odpovědného zástupce,\nd) doklady prokazujícími finanční způsobilost k požadované telekomunikační činnosti,\ne) dokladem o technickém, organizačním a personálním zabezpečení požadované telekomunikační činnosti,\nf) návrhem všeobecných podmínek pro poskytování požadované veřejné telekomunikační služby.\nVýběrové řízení"
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Není-li k dispozici dostatek kmitočtů, které jsou nezbytné pro vydání licence, a nelze-li z tohoto důvodu udělit licenci všem žadatelům, kteří o její udělení požádají, je Úřad povinen vyhlásit na její udělení výběrové řízení.\n(2) Úřad oznámí v Telekomunikačním věstníku záměr vyhlásit výběrové řízení a v oznámení uvede\na) důvody, které vedou k vyhlášení výběrového řízení,\nb) dobu, do kdy potrvají důvody, které vedly k záměru vyhlásit výběrové řízení,\nc) lhůtu pro vyjádření stanoviska žadatelů o telekomunikační licenci k záměru na vyhlášení výběrového řízení.\n(3) Po uplynutí lhůty stanovené podle odstavce 2 písm. c) je Úřad povinen vyhlásit nejpozději do 30 dnů výběrové řízení pro udělení telekomunikačních licencí v počtu, který umožní plán využití kmitočtového spektra.\n(4) Pro výběrové řízení platí přiměřeně ustanovení o obchodní veřejné soutěži podle obchodního zákoníku. Podmínky a postup výběrového řízení a způsob hodnocení žádostí o udělení telekomunikační licence stanoví Úřad a zveřejní je v Telekomunikačním věstníku. Součástí podmínek výběrového řízení musí být podmínky pro udělení licence stanovené v § 14 tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Pro posouzení a hodnocení žádostí o udělení telekomunikační licence ve výběrovém řízení předseda Úřadu ustaví řídící výbor (dále jen „výbor“).\n(2) Členové výboru jsou povinni zachovávat mlčenlivost o záležitostech, o nichž se dozvěděli v souvislosti s výkonem své funkce, a to i po skončení výkonu této funkce."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "Na základě posouzení žádostí o udělení telekomunikační licence z hlediska splnění podmínek výběrového řízení výbor navrhne Úřadu vyřazení žádostí, které uvedeným požadavkům nevyhoví. Rozhodnutí o vyloučení příslušného žadatele z výběrového řízení přísluší Úřadu. Toto rozhodnutí je Úřad povinen bezodkladně příslušnému žadateli sdělit."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Zprávu o posouzení a hodnocení žádostí o udělení telekomunikační licence, které výbor hodnotil, podepisují všichni členové výboru a předají ji s veškerou předchozí dokumentací o výběrovém řízení Úřadu.\n(2) Po předání zprávy Úřadu musí Úřad na požádání umožnit všem žadatelům, jejichž žádosti byly posuzovány a hodnoceny, do zprávy nahlédnout.\n(3) Úřad je povinen na základě posouzení a hodnocení žádostí výborem rozhodnout o výběru nejvhodnější žádosti. Nejvhodnější žádostí se rozumí žádost nejlépe splňující podmínky stanovené pro výběrové řízení."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "Na základě výsledků výběrového řízení vydá Úřad rozhodnutí o udělení telekomunikační licence.\nUdělení licence"
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Úřad rozhodne o udělení telekomunikační licence ve lhůtě do 40 dnů od doručení žádosti o udělení telekomunikační licence včetně dokladů, kterými musí být žádost doložena; ve zvlášť složitých případech rozhodne nejdéle do 120 dnů. V případě, že telekomunikační licence bude vydána na základě výběrového řízení, rozhodne Úřad ve lhůtě nejdéle do 240 dnů. V případě, že podmínkou vydání licence je přidělení kmitočtů na základě mezinárodní kmitočtové nebo satelitní koordinace, vyplývají lhůty pro udělení telekomunikační licence z mezinárodních smluv, kterými je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv.\n(2) Úřad může přerušit řízení o udělení telekomunikační licence nejdéle na dobu osmi měsíců, nejsou-li k dispozici kmitočty nebo čísla, které jsou nezbytné pro telekomunikační činnost, a lze-li objektivně předpokládat, že v této lhůtě k dispozici budou. Úřad přeruší řízení o udělení licence v případě vyhlášení výběrového řízení.\n(3) Udělená telekomunikační licence je nepřevoditelná.\n(4) Úřad může rozhodnout o neudělení licence v těchto případech:\na) vyžaduje-li to bezpečnost státu,\nb) vyžaduje-li to dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích,\nc) žadatel porušuje podmínky licence, která mu byla dříve vydána."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Úřad v rozhodnutí o udělení telekomunikační licence uvede\na) obchodní jméno držitele telekomunikační licence, včetně právní formy, sídla a identifikačního čísla,\nb) údaje o vlastníkovi veřejné telekomunikační sítě, jejím provozovateli a poskytovateli veřejné telekomunikační služby prostřednictvím této sítě, je-li osobou odlišnou od držitele licence,\nc) údaje o veřejné telekomunikační síti, která má být zřizována a provozována nebo jejímž prostřednictvím má být poskytována veřejná telekomunikační služba, její územní rozsah a způsob propojení s telekomunikačními sítěmi jiných provozovatelů,\nd) vymezení druhu a územního rozsahu telekomunikačních činností, které bude držitel licence vykonávat, včetně způsobu zajištění jejich dostupnosti,\ne) rozsah poskytování veřejné telekomunikační služby,\nf) vymezení kmitočtů, které jsou nezbytné pro telekomunikační činnost,\ng) technické podmínky nutné k zajištění integrity veřejné telekomunikační sítě,\nh) rozvojové a kvalitativní ukazatele telekomunikační činnosti, pokud byly stanoveny jako podmínky výběrového řízení,\ni) podmínky zřizování a provozování veřejné telekomunikační sítě a podmínky pro poskytování veřejné telekomunikační služby, pokud byly stanoveny jako podmínky výběrového řízení,\nj) způsob zabezpečení přenosu tísňového volání stanovený opatřením Úřadu,\nk) vymezení čísel,\nl) datum zahájení provozování veřejné telekomunikační sítě,\nm) datum zahájení poskytování veřejných telekomunikačních služeb,\nn) dobu platnosti telekomunikační licence.\n(2) Úřad je oprávněn v rozhodnutí o udělení telekomunikační licence podle § 14 odst. 1 nebo v rozhodnutí o změně této licence uložit ve veřejném zájmu povinnost\na) poskytovat, nejdéle však do konce kalendářního roku 2005, veřejnou dálnopisnou a veřejnou telegrafní službu provozovateli, který tuto službu poskytoval před účinností tohoto zákona,\nb) poskytovat služby šíření a přenosu rozhlasového a televizního signálu pro provozovatele rozhlasového a televizního vysílání na základě zvláštního zákona7) provozovateli, který tuto službu poskytoval před účinností tohoto zákona.\n(3) Poskytovatel veřejné dálnopisné služby a veřejné telegrafní služby je povinen tyto služby poskytovat podle všeobecných podmínek a za cenu sjednanou podle cenových předpisů.\n(4) Seznam platných rozhodnutí o udělení, změně nebo odnětí telekomunikační licence a obsah těchto rozhodnutí, s výjimkou informací, které jsou předmětem telekomunikačního a obchodního tajemství, zveřejňuje Úřad v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Změna telekomunikační licence",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Držitel telekomunikační licence je povinen oznámit Úřadu zásadní změny týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o udělení telekomunikační licence podle § 18 nebo které byly stanoveny jako podmínky výběrového řízení podle § 19, a předložit o nich doklady do 30 dnů od vzniku změn.\n(2) O změně telekomunikační licence Úřad rozhodne\na) je-li to nezbytné k dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích,\nb) vyžaduje-li to veřejný zájem na zajištění poskytování univerzální služby, nebo\nc) na základě odůvodněné žádosti držitele telekomunikační licence."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Odnětí telekomunikační licence",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "(1) Úřad rozhodne o odnětí telekomunikační licence, jestliže držitel telekomunikační licence\na) přestal splňovat některou z podmínek, na jejichž základě mu byla telekomunikační licence udělena,\nb) neplní povinnosti stanovené tímto zákonem nebo rozhodnutím o udělení nebo o změně telekomunikační licence, ačkoliv byl na možnost odnětí telekomunikační licence z tohoto důvodu Úřadem písemně upozorněn a nápravu nezjednal ani ve lhůtě 30 dnů ode dne, kdy mu bylo doručeno upozornění Úřadu, nebo\nc) o odnětí telekomunikační licence požádal.\n(2) Rozhodne-li Úřad o odnětí telekomunikační licence podle odstavce 1 písm. a) a b), může žadatel požádat znovu o udělení telekomunikační licence nejdříve po uplynutí dvou let ode dne, kdy rozhodnutí o odnětí telekomunikační licence nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Pozbytí platnosti telekomunikační licence",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 2 - Telekomunikační licence",
+      "content": "Telekomunikační licence pozbývá platnosti\na) uplynutím doby, na kterou byla udělena,\nb) nezahájí-li její držitel vykonávání telekomunikačních činností do stanoveného data, pokud Úřad nerozhodl o změně,\nc) dnem zániku právnické osoby, která je držitelem telekomunikační licence, nebo\nd) dnem, kdy rozhodnutí Úřadu o odnětí telekomunikační licence nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 3 - Univerzální služba",
+      "content": "(1) Univerzální službou se rozumí minimální soubor služeb, které jsou dostupné ve stanovené kvalitě všem uživatelům na celém území státu za dostupnou cenu. Dostupnou cenou se rozumí cena stanovená podle zvláštního právního předpisu.8)\n(2) Univerzální služba musí zahrnovat\na) veřejnou telefonní službu, včetně faksimilního přenosu a přenosu dat, poskytovanou prostřednictvím veřejné telekomunikační sítě,\nb) operátorské služby,\nc) bezplatný a nepřetržitý přístup uživatelů, bez použití mincí nebo karet, k číslům tísňových volání,\nd) informační službu o telefonních číslech účastníků veřejné telefonní služby,\ne) pravidelné vydávání telefonních seznamů čísel účastníků veřejné telefonní služby a přístup k těmto seznamům,\nf) služby veřejných telefonních automatů,\ng) slevy osobám, které jsou držiteli průkazu ZTP z důvodu úplné nebo praktické hluchoty, anebo osobám, které jsou držiteli průkazu ZTP/P,9)\nh) slevy osobám, které jsou uznány lékařem příslušné okresní správy sociálního zabezpečení bezmocnými.10)\n(3) Charakteristiky, parametry a ukazatele kvality služeb poskytovaných v rámci univerzální služby stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 3 - Univerzální služba",
+      "content": "(1) Úřad je oprávněn uložit ve veřejném zájmu povinnost poskytovat univerzální službu jednomu nebo několika držitelům telekomunikační licence podle § 14 odst. 1 písm. b) tak, aby byla zajištěna dostupnost služeb poskytovaných v rámci univerzální služby na celém území státu.\n(2) V případech, kdy je ohroženo nepřetržité poskytování univerzální služby, Úřad rozhodne o opatřeních nezbytných k udržení poskytování univerzální služby.\n(3) Úřad je oprávněn uložit povinnost poskytovat univerzální službu držiteli telekomunikační licence k poskytování veřejné telefonní služby prostřednictvím veřejné pevné telekomunikační sítě, který má výrazný podíl na trhu. Úřad je oprávněn uložit povinnost poskytovat univerzální službu také držiteli telekomunikační licence k poskytování veřejné telefonní služby prostřednictvím veřejné pevné nebo veřejné mobilní telekomunikační sítě, pokud o poskytování univerzální služby požádal."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Prokazatelná ztráta",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 3 - Univerzální služba",
+      "content": "(1) Poskytovatel univerzální služby má nárok na úhradu prokazatelné ztráty.\n(2) Prokazatelnou ztrátou se rozumí rozdíl mezi ekonomicky oprávněnými náklady, včetně přiměřeného zisku, vynaloženými držitelem telekomunikační licence na plnění povinnosti poskytovat univerzální službu, které by poskytovateli univerzální služby nevznikly, pokud by tuto povinnost neměl, a tržbami a výnosy dosaženými držitelem telekomunikační licence z plnění povinnosti poskytovat univerzální službu.\n(3) Poskytuje-li držitel telekomunikační licence mimo univerzální službu ještě jiné telekomunikační služby nebo vykonává jiné činnosti, je povinen vést oddělenou evidenci nákladů a výnosů služeb poskytovaných v rámci univerzální služby.\n(4) Způsob výpočtu prokazatelné ztráty, doklady, kterými musí být výpočty prokazatelné ztráty doloženy, a vymezení přiměřeného zisku stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Úhrada prokazatelné ztráty",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 3 - Univerzální služba",
+      "content": "(1) Prokazatelná ztráta se hradí z účtu univerzální služby (dále jen „účet“), na který jsou povinni přispívat držitelé telekomunikačních licencí finančním příspěvkem. Účet spravuje Úřad. Úřad je povinen zřídit účet, vznikne-li povinnost úhrady prokazatelné ztráty.\n(2) Držitelé telekomunikačních licencí jsou povinni zúčtovat finanční příspěvek a nároky na úhradu prokazatelné ztráty prostřednictvím účtu.\n(3) Držitelé telekomunikačních licencí předloží Úřadu nejpozději do 30. června každého kalendářního roku zúčtování prokazatelné ztráty vzniklé poskytováním univerzální služby v uplynulém kalendářním roce, pokud jsou jejími poskytovateli, a výši finančního příspěvku na univerzální službu za uplynulý rok. Úřad do 30 dnů ověří výši prokazatelné ztráty a výši finančního příspěvku a stanoví výši platby na účet nebo vystaví doklad opravňující k čerpání finančních prostředků z účtu.\n(4) Držitelé telekomunikačních licencí odpovídají za správnost zúčtování výše finančního příspěvku a výše prokazatelné ztráty.\n(5) Došlo-li k čerpání finančních prostředků z účtu na základě nesprávných nebo neúplných údajů poskytovatele univerzální služby nebo byla-li na základě nesprávných nebo neúplných údajů nesprávně stanovena výše finančního příspěvku, Úřad uloží držiteli telekomunikační licence povinnost neoprávněně čerpané nebo neodvedené finanční prostředky zúčtovat v následujícím zúčtovacím období.\n(6) Prostředky účtu lze použít jen k hrazení prokazatelné ztráty. Držitelé telekomunikačních licencí mají právo nahlížet do účtu a žádat Úřad o vysvětlení, mají-li odůvodněné pochybnosti o způsobu zúčtování jejich vztahů k účtu. Úřad je povinen výkaz o hospodaření s účtem za příslušný kalendářní rok zveřejnit v Telekomunikačním věstníku.\n(7) Způsob stanovení výše finančního příspěvku držitelů telekomunikační licence na účet a pravidla přidělování finančních prostředků z účtu na hrazení prokazatelné ztráty stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 4 - Pronájem telekomunikačních okruhů",
+      "content": "(1) Veřejnou telekomunikační službou pronájmu telekomunikačních okruhů se rozumí pronájem přenosové kapacity úseků mezi koncovými body telekomunikační sítě. Rozsah pronájmu telekomunikačních okruhů a jejich technické parametry stanoví prováděcí předpis.\n(2) Úřad je oprávněn v rozhodnutí o udělení telekomunikační licence podle § 14 odst. 1 písm. a) nebo v rozhodnutí o změně této licence uložit ve veřejném zájmu povinnost poskytovat veřejnou telekomunikační službu pronájmu telekomunikačních okruhů jednomu nebo několika držitelům telekomunikační licence tak, aby byla zajištěna dostupnost této služby na celém území státu.\n(3) Úřad uloží povinnost poskytovat veřejnou telekomunikační službu pronájmu telekomunikačních okruhů tomu provozovateli telekomunikační činnosti, který má výrazný podíl na trhu telekomunikačních služeb pronájmu telekomunikačních okruhů.\n(4) Úřad může opatřením omezit přístup k veřejné telekomunikační službě pronájmu telekomunikačních okruhů v případě ohrožení bezpečnosti sítě, integrity sítě, vzájemné spolupráce služeb a ochrany dat.\n(5) Poskytovatel veřejné telekomunikační služby pronájmu telekomunikačních okruhů je povinen sjednat podmínky a ceny za pronájem telekomunikačních okruhů jiným uživatelům tak, aby nedošlo k neodůvodněnému zvýhodňování některých uživatelů služby, včetně jeho organizačních složek.\n(6) Poskytovatel veřejné telekomunikační služby pronájmu telekomunikačních okruhů je povinen uvést informace o nabídce těchto okruhů ve všeobecných podmínkách pro poskytování této služby a zajistit zveřejnění nabídky v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 5 - Povinnosti držitele telekomunikační licence",
+      "content": "(1) Každý držitel telekomunikační licence je povinen\na) vykonávat telekomunikační činnosti podle tohoto zákona a podmínek stanovených v telekomunikační licenci po celou dobu platnosti licence,\nb) na výzvu Úřadu poskytnout informace potřebné pro ověření trvání finanční způsobilosti k výkonu telekomunikačních činností,\nc) předkládat Úřadu údaje stanovené zvláštním právním předpisem11) o telekomunikačních činnostech, které na základě licence vykonává.\n(2) Držitel telekomunikační licence, kterému byla podle § 30 odst. 3 uložena povinnost poskytovat univerzální službu, je povinen\na) vést oddělenou evidenci nákladů a výnosů služeb poskytovaných v rámci univerzální služby,\nb) zveřejnit ve výroční zprávě náklady vynaložené na univerzální službu, výši čerpání úhrady prokazatelné ztráty a výši poskytnutého příspěvku na účet,\nc) vyhodnocovat zjištěné hodnoty ukazatelů kvality univerzální služby podle metodiky schválené Úřadem a vyhodnocení předkládat Úřadu k 31. březnu každého kalendářního roku."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 5 - Povinnosti držitele telekomunikační licence",
+      "content": "(1) Držitel telekomunikační licence k poskytování veřejné telefonní služby je povinen\na) vést aktuální databázi všech svých účastníků veřejné telefonní služby,\nb) na žádost účastníka opravit nebo vymazat údaje z telefonního seznamu při jeho nejbližší redakci,\nc) poskytovat držiteli telekomunikační licence, kterému byla podle § 30 odst. 3 uložena povinnost poskytovat univerzální službu, popřípadě jinému poskytovateli veřejné telefonní služby na základě jeho žádosti pro účely informační služby a vydávání jednotného telefonního seznamu identifikační údaje o všech účastnících, které musí obsahovat jméno, příjmení, adresu a účastnické číslo, popřípadě i obchodní jméno, sídlo či místo podnikání, a to v dohodnuté formě, s označením účastníků, kteří výslovně vyloučili uveřejnění v tomto seznamu nebo pro účely informační služby. Předávající strana má nárok na úhradu účelně vynaložených nákladů,\nd) poskytovat uživatelům služby, včetně uživatelů veřejných telefonních automatů, informační službu o telefonních číslech účastníků, a to v dohodnuté formě, s výjimkou účastníků, kteří výslovně vyloučili uveřejnění v jednotném telefonním seznamu,\ne) vybavit bezplatně jednotným telefonním seznamem každý svůj veřejný telefonní automat a každou svoji veřejnou telefonní hovornu,\nf) poskytnout každému svému účastníku veřejné telefonní služby bezplatně jednotný telefonní seznam účastníků vydaný podle odstavce 2 písm. a).\n(2) Držitel telekomunikační licence, kterému byla podle § 30 odst. 3 uložena povinnost poskytovat univerzální službu, je dále povinen\na) vést a vydávat aktuální jednotný telefonní seznam účastníků všech poskytovatelů veřejné telefonní služby, s výjimkou účastníků, kteří výslovně vyloučí uveřejnění v tomto seznamu, a to v tištěné a elektronické podobě, ve formě a v územním rozsahu schváleném Úřadem,\nb) poskytovat všem uživatelům služby, včetně uživatelů veřejných telefonních automatů, informační službu o telefonních číslech účastníků všech poskytovatelů veřejné telefonní služby, s výjimkou účastníků, kteří výslovně vyloučili uveřejnění v tomto seznamu nebo pro účely informační služby,\nc) poskytovat držitelům přidělených čísel tísňového volání identifikační údaje o účastnících veřejné telefonní služby v rozsahu uvedeném v odstavci 1 písm. c) a ve vyžádané formě, v případě tísňového volání z koncového zařízení veřejné nepevné (mobilní) telekomunikační sítě polohu koncového zařízení, umožňuje-li to telekomunikační síť,\nd) bezplatně připojit a provozovat koncové body určené pro příjem tísňových volání na příslušných pracovištích základních složek integrovaného záchranného systému.\n(3) V případě, že na daném území poskytuje univerzální službu více poskytovatelů, rozhodne Úřad, který z nich je povinen vydávat jednotný telefonní seznam a bezplatně připojit a provozovat koncové body určené pro příjem tísňových volání na příslušných pracovištích základních složek integrovaného záchranného systému."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 5 - Povinnosti držitele telekomunikační licence",
+      "content": "(1) Držitel telekomunikační licence k poskytování veřejné telefonní služby, který poskytuje univerzální službu, je povinen občanům uvedeným v § 29 odst. 2 písm. g) a h)\na) pronajmout, pokud jsou jeho účastníky a požádají-li o to, speciálně vybavené koncové telefonní zařízení stanovené prováděcím předpisem za cenu standardního koncového telefonního zařízení,\nb) zabezpečovat bezbariérový přístup k veřejným telefonním automatům a veřejným telefonním hovornám, jejich dostupnost a zvláštní vybavení.\n(2) Seznam speciálně vybavených koncových telefonních zařízení, která budou pronajímána za cenu standardního koncového telefonního zařízení, stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 36a",
+      "section": "36a",
+      "title": "§ 36a",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 5 - Povinnosti držitele telekomunikační licence",
+      "content": "(1) Držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě je povinen oznámit Úřadu a zveřejnit v Telekomunikačním věstníku typy rozhraní, která nabízí pro připojení koncových zařízení, a jejich technické specifikace. Tuto povinnost musí splnit nejpozději 30 dnů předtím, než budou veřejné telekomunikační služby poskytované prostřednictvím těchto rozhraní k dispozici. Změny technické specifikace je povinen oznámit Úřadu a zveřejnit v Telekomunikačním věstníku nejpozději 90 dnů přede dnem jejich provedení.\n(2) Technické specifikace uvedené v odstavci 1 musí být natolik podrobné, aby umožňovaly konstruovat koncová zařízení schopná využívat všechny veřejné telekomunikační služby, které jsou prostřednictvím odpovídajícího rozhraní poskytovány. Technické specifikace musí obsahovat veškeré informace nezbytné k tomu, aby výrobci mohli provádět příslušné zkoušky s ohledem na základní požadavky platné pro telekomunikační koncová zařízení.11a) Technické specifikace rozhraní musí být u držitele telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě dostupné v elektronické podobě."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Provozovatelé veřejných telefonních sítí nebo poskytovatelé telekomunikační služby pronájmu telekomunikačních okruhů, kteří mají výrazný podíl na relevantním trhu, jsou povinni vyhovět požadavkům oprávněných poskytovatelů telekomunikačních služeb o přístup k jimi provozované síti (dále jen „přístup k síti“).\n(2) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb, kteří kontrolují přístup nejméně k jednomu koncovému bodu sítě identifikovanému jedním nebo více čísly v číslovacích plánech, a poskytovatelé veřejné telekomunikační služby pronájmu telekomunikačních okruhů vedoucích do prostor užívaných uživatelem jsou povinni, požádá-li o to jiný provozovatel nebo poskytovatel vykonávající odpovídající telekomunikační činnost, umožnit tomuto žadateli přímé nebo nepřímé propojení jimi provozovaných telekomunikačních sítí (dále jen „propojení sítí“). Přístup k síti se uskuteční na náklady žadatele a za úplatu.\n(3) Přístup k síti se zajišťuje na základě písemné smlouvy uzavřené mezi provozovatelem veřejné telekomunikační sítě a poskytovatelem veřejných telekomunikačních služeb, propojení sítí se zajišťuje na základě písemné smlouvy uzavřené mezi provozovateli veřejných telekomunikačních sítí navzájem.\n(4) Provozovatelé veřejných telekomunikačních sítí nebo poskytovatelé veřejných telekomunikačních služeb jsou povinni na základě smlouvy umožnit, aby každý, kdo splňuje podmínky stanovené zákonem, mohl připojit k jejich síti svoje koncová zařízení (dále jen „připojení k síti“). Smlouvu jsou povinni uzavřít v termínu podle všeobecných podmínek pro poskytování veřejné telekomunikační služby, nejdéle však do 60 dnů od obdržení žádosti o připojení koncového zařízení."
+    },
+    {
+      "provision_ref": "§ 37a",
+      "section": "37a",
+      "title": "§ 37a",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Držitel licence k provozování veřejné pevné telefonní sítě určený Úřadem jako držitel licence s výrazným podílem na trhu podle § 2 odst. 20 (dále jen „určený držitel licence“) je povinen poskytnout provozovateli oprávněnému k provozování telekomunikační sítě nebo poskytovateli oprávněnému k poskytování telekomunikační služby (dále jen „oprávněný provozovatel“) na základě jeho návrhu na uzavření smlouvy\na) plný přístup ke svému účastnickému vedení nebo jeho úseku umožňující využití celého kmitočtového spektra účastnického vedení nebo jeho úseku,\nb) sdílený přístup ke svému účastnickému vedení nebo jeho úseku umožňující využívat nadhovorovou část kmitočtového spektra účastnického vedení nebo jeho úseku, přičemž účastnické vedení bude nadále využíváno vlastníkem účastnického vedení k poskytování veřejné telefonní služby,\n(dále jen „zpřístupnění“).\n(2) Určený držitel licence poskytne prostor a vybavení k umístění zařízení oprávněného provozovatele a k propojení zařízení oprávněného provozovatele se zařízením určeného držitele licence.\n(3) Zpřístupnění nemá za následek změnu vlastnictví účastnického vedení nebo jeho úseku a nesmí jím být dotčena práva třetích osob.\n(4) Určený držitel licence je dále povinen\na) oznámit Úřadu do 30 dnů od nabytí účinnosti tohoto zákona referenční nabídku zpřístupnění a současně požádat o její zveřejnění v Telekomunikačním věstníku,\nb) průběžně aktualizovat referenční nabídku zpřístupnění a neprodleně požádat o zveřejnění změn v Telekomunikačním věstníku,\nc) poskytovat oprávněnému provozovateli zpřístupnění za cenu, která pokrývá jeho oprávněné náklady na zpřístupnění, poskytnutí prostor a vybavení podle odstavce 2 a přiměřený zisk. Cenu sjednají smluvní strany tak, aby umožnila ověření způsobu jejího výpočtu,\nd) uzavřít nejpozději do 60 dnů od doručení prvního návrhu oprávněného provozovatele smlouvu o zpřístupnění s oprávněným provozovatelem, předloží-li oprávněný provozovatel návrh na uzavření smlouvy po uplynutí lhůty stanovené pro oznámení referenční nabídky zpřístupnění Úřadu,\ne) poskytovat prostor a vybavení podle odstavce 2 za stejných podmínek, za jakých je využívá sám nebo za jakých je poskytuje jím ovládaným osobám,\nf) poskytnout Úřadu na základě jeho výzvy v Úřadem stanovené lhůtě informace související s plněním povinností uvedených v § 37a.\n(5) Referenční nabídka zpřístupnění musí obsahovat\na) položky stanovené v příloze k zákonu,\nb) rozčlenění položek tak, aby oprávněnému provozovateli nevznikly náklady za využívání síťových prvků nebo vybavení, které nejsou nezbytné k poskytování telekomunikačních služeb oprávněného provozovatele,\nc) popis všech položek obsažených v referenční nabídce, s výjimkou údajů o prostorách uvedených pod body I.2. a II.1. přílohy k zákonu; jejich popis však musí být poskytnut zájemci o zpřístupnění na vyžádání,\nd) cenu, za jakou bude zpřístupnění poskytováno.\n(6) Cena za zpřístupnění nesmí zahrnovat náklady na síťové prvky nebo zařízení, které nejsou nezbytné pro telekomunikační služby poskytované oprávněným provozovatelem.\n(7) Návrh na uzavření smlouvy o zpřístupnění může určený držitel licence odmítnout pouze v případě, že je zpřístupnění technicky neproveditelné nebo by mohlo ohrozit integritu telekomunikační sítě. V případě odmítnutí návrhu určeným držitelem licence platí postup stanovený v ustanovení § 38 odst. 4 a 6 obdobně. V případě neoprávněného odmítnutí návrhu na uzavření smlouvy o zpřístupnění platí postup stanovený v odstavci 4 písm. d) obdobně."
+    },
+    {
+      "provision_ref": "§ 37b",
+      "section": "37b",
+      "title": "§ 37b",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Úřad je povinen\na) rozhodnout o změně referenční nabídky zpřístupnění uveřejněné určeným držitelem licence v Telekomunikačním věstníku, nesplňuje-li požadavky stanovené tímto zákonem, neodpovídá-li požadavkům maximální hospodárnosti, ochrany hospodářské soutěže nebo požadavkům na zajištění maximálního prospěchu pro uživatele,\nb) účastnit se jednání o uzavření smluv o zpřístupnění\n1. požádá-li o to některá ze smluvních stran, nebo\n2. z vlastní iniciativy, je-li to nutné k zajištění splnění povinnosti podle § 37a odst. 4 písm. e) a k zajištění maximální hospodárnosti, ochrany hospodářské soutěže nebo maximálního prospěchu pro uživatele,\na vydat své stanovisko k obsahu sporných částí projednávané smlouvy,\nc) stanovit ověřitelný způsob výpočtu ceny za zpřístupnění, který bude použit vždy v případě nutnosti stanovení ceny Úřadem podle § 78 odst. 2 a 4 a zveřejnit jej v Telekomunikačním věstníku,\nd) rozhodovat spory vzniklé po uzavření smlouvy o zpřístupnění, a to do 3 měsíců od doručení podnětu jednou ze smluvních stran.\n(2) Úřad je oprávněn\na) požadovat od určeného držitele licence informace související s plněním povinností stanovených v § 37a,\nb) rozhodnout, že určený držitel licence nemusí postupovat při stanovení ceny za zpřístupnění podle § 37a odst. 4 písm. c), jestliže na trhu místního přístupu je dostatečná hospodářská soutěž."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Provozovatelé veřejných telekomunikačních sítí nebo poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 1 a 2 jsou povinni, pokud jsou požádáni jiným provozovatelem nebo poskytovatelem vykonávajícím odpovídající telekomunikační činnost\na) uzavřít s ním smlouvu o propojení sítí nebo o přístupu k síti nejpozději do 90 dnů ode dne doručení návrhu na uzavření smlouvy,\nb) nejpozději do 10 dnů ode dne uzavření smlouvy o propojení sítí nebo o přístupu k síti předat Úřadu úplné znění uzavřené smlouvy, včetně příloh. Stejná povinnost platí i pro předávání změn smlouvy.\n(2) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 2 jsou povinni si vzájemně předávat nezbytné informace pro propojení. Informace musí poskytnout tak, aby bylo zajištěno propojení na základě stejných podmínek a ve stejné kvalitě, jaké je poskytováno pro služby vlastní nebo svých organizačních složek. Poskytnuté informace musí zahrnovat i plánované změny podmínek propojení v následujících šesti měsících od předání informace o propojení. Poskytnuté informace nesmí být použity k jiným účelům, než ke kterým byly poskytnuty.\n(3) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 2 mohou odmítnout návrh na uzavření smlouvy o propojení sítí v případě, že požadované vzájemné propojení neodpovídá technickým parametrům nebo výkonnosti zařízení, která jsou k dispozici.\n(4) V případě, že provozovatelé nebo poskytovatelé uvedení v odstavci 3 odmítnou návrh na uzavření smlouvy o propojení sítí, jsou povinni nejpozději do 15 dnů od obdržení návrhu smlouvy o propojení písemně požádat Úřad o souhlas s odmítnutím návrhu smlouvy o propojení a uvést důvody odmítnutí návrhu smlouvy.\n(5) V případě neoprávněného odmítnutí návrhu smlouvy o propojení platí postup stanovený v odstavci 1.\n(6) Úřad vydá k návrhu smlouvy podle odstavce 4 stanovisko do 15 dnů ode dne obdržení tohoto návrhu smlouvy a zveřejní ho v Telekomunikačním věstníku.\n(7) Náležitosti, které musí návrh na uzavření smlouvy o propojení a o přístupu k síti obsahovat, stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Žadatelé o propojení jsou povinni nejpozději do 10 dnů oznámit Úřadu, že podali návrh na uzavření smlouvy o propojení, a sdělit mu termíny jednání o smlouvě.\n(2) Požádá-li o to některá ze smluvních stran, zúčastní se jednání o uzavření smlouvy o propojení nebo přístupu k síti Úřad. Nedohodnou-li se smluvní strany do 90 dnů ode dne zahájení jednání o uzavření smlouvy o propojení nebo přístupu k síti, jsou písemnými připomínkami Úřadu vázány.\n(3) Úřad může rozhodnout o provedení změny smlouvy z důvodů zajištění součinnosti, při poskytování služeb pro všechny koncové uživatele nebo z důvodů zajištění ochrany hospodářské soutěže.\n(4) Plnění smluv o propojení podléhá výkonu státní inspekce.\n(5) Provozovatelé stávajících veřejných telekomunikačních sítí jsou povinni oznámit Úřadu nejpozději do jednoho měsíce od vyhlášení technických specifikací rozhraní v Telekomunikačním věstníku podle odstavce 9 a zveřejnit v Telekomunikačním věstníku seznam všech rozhraní, jejichž prostřednictvím jsou služby poskytovány.\n(6) Provozovatelé veřejných telekomunikačních sítí jsou povinni v dostatečném předstihu před zahájením poskytování služby oznámit Úřadu a zveřejnit v Telekomunikačním věstníku seznam všech rozhraní, jejichž prostřednictvím budou služby poskytovány. V případě změny specifikace rozhraní jsou povinni zveřejnit platné údaje.\n(7) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 2, kteří mají výrazný podíl na trhu, jsou povinni oznamovat Úřadu a zveřejňovat v Telekomunikačním věstníku referenční nabídky propojení. Referenční nabídka musí obsahovat rozsah propojení, včetně cenových, provozních a technických podmínek propojení. Úřad může rozhodnout o změně v referenční nabídce vzájemného propojení.\n(8) V případě, že provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 2, kteří mají výrazný podíl na trhu, změní svoji uveřejněnou nabídku propojení a Úřad rozhodne o její úpravě, je tato úprava účinná až od data uveřejnění změny.\n(9) Druhy rozhraní, jejichž prostřednictvím lze za účelem propojení nebo přístupu k síti poskytovat telekomunikační služby, stanoví prováděcí předpis. Technické specifikace jednotlivých druhů rozhraní zveřejní Úřad v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Nedojde-li k uzavření smlouvy o propojení sítí nebo o přístupu k síti ve lhůtě stanovené v § 38 odst. 1 písm. a), je provozovatel veřejné telekomunikační sítě nebo žadatel o propojení nebo o přístup k síti povinen nejpozději do 10 dnů ode dne odmítnutí uzavření smlouvy písemně informovat Úřad o důvodech, které brání uzavření smlouvy.\n(2) Úřad rozhodne o propojení sítí nebo o přístupu k síti, nedojde-li ve stanovené lhůtě k uzavření smlouvy. Odvolání proti tomuto rozhodnutí nemá odkladný účinek. Rozhodnutí Úřadu nahrazuje smlouvu o propojení sítí nebo o přístupu k síti.\n(3) Úřad je povinen řešit případy, kdy provozovatel veřejné pevné telefonní sítě anebo poskytovatel veřejné telefonní služby, který má výrazný podíl na trhu, přerušuje, ukončuje, výrazně mění nebo snižuje dostupnost služeb pro ostatní provozovatele telekomunikačních sítí anebo poskytovatele služeb.\n(4) Spory smluvních stran vzniklé po uzavření smlouvy rozhoduje Úřad do 6 měsíců od doručení podnětu jednou ze smluvních stran. Oznámení o rozhodnutí zveřejní Úřad v Telekomunikačním věstníku.\n(5) Úřad může ve veřejném zájmu rozhodnout, aby provozovatelé veřejných telekomunikačních sítí nebo poskytovatelé veřejných telekomunikačních služeb uvedení v § 37 odst. 1 a 2 propojili sítě nebo umožnili přístup k síti v jím stanoveném termínu.\n(6) Úřad zveřejňuje v Telekomunikačním věstníku informace o uzavření smluv o propojení sítí nebo o přístupu k síti, včetně základních technických a ekonomických podmínek propojení sítí nebo o přístupu k síti. Úřad je povinen poskytnout k nahlédnutí obsah smluv, včetně cenových údajů, s výjimkou částí, které smluvní strany označí jako obchodní tajemství.12)"
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) V případě požadavků na zvláštní přístup k síti mimo koncové body sítě, ve kterých je zajištěn přístup k síti většině uživatelů, se postupuje obdobně podle § 37 až 40.\n(2) Technické a provozní podmínky přístupu k síti a propojení sítí a připojení neveřejných telekomunikačních sítí k veřejným telekomunikačním sítím stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Síťové plány veřejných telekomunikačních sítí",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Úřad spravuje síťové plány veřejných pevných telekomunikačních sítí, kterými vymezuje základní vlastnosti těchto sítí nezbytné pro vzájemné propojování a připojování sítí a pro zajištění celistvosti všech sítí.\n(2) Síťové plány, popřípadě jejich změny vydává Úřad."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Hranice obvodů veřejné telefonní sítě",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "Úřad rozhoduje o uspořádání hranic obvodů veřejné telefonní sítě. Podrobnosti o uspořádání hranic obvodů sítě stanoví Úřad opatřením a uveřejňuje je v Telekomunikačním věstníku."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Práva a povinnosti provozovatele koncových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Provozovatel koncového zařízení je na základě smlouvy podle § 37 odst. 4 oprávněn k veřejné telekomunikační síti přímo nebo nepřímo připojovat a ve spojení s ní provozovat koncové zařízení,\na) jehož typ byl Úřadem schválen nebo uznán,\nb) které je označeno schvalovací značkou,\nc) jehož připojení ohlásil provozovateli veřejné telekomunikační sítě.\n(2) Ustanovení předchozího odstavce se nevztahuje na koncová zařízení uvedená v § 5 odst. 1.\n(3) V případech, kdy schválené, popřípadě uznané koncové zařízení nebo vysílací rádiové zařízení způsobuje poškození veřejné telekomunikační sítě nebo rušení této sítě anebo narušuje její funkčnost, může Úřad provozovateli této sítě na základě jeho žádosti povolit, aby takové zařízení odpojil, popřípadě odmítl jeho připojení nebo je vyřadil z provozu.\n(4) Provozovatel veřejné telekomunikační sítě může v případě nebezpečí, a jestliže to ochrana této sítě vyžaduje, neprodleně odpojit koncové zařízení nebo vysílací rádiové zařízení. O tomto svém postupu je provozovatel povinen bezodkladně informovat Úřad."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Sdílení kapacit",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 6 - Otevřený přístup k veřejným telekomunikačním sítím, k veřejným telekomunikačním službám a propojování veřejných telekomunikačních sítí",
+      "content": "(1) Pokud v tělese pozemní komunikace, prostoru podzemní dráhy nebo na veřejném prostranství nelze zřídit další nadzemní nebo podzemní telekomunikační vedení nebo zařízení veřejné telekomunikační sítě, kabelovod nebo anténní stožár anebo pokud je to možné jen s nepřiměřeně vysokými náklady a nepřiměřeným přechodným anebo trvalým omezením obvyklého využívání této komunikace nebo prostranství, jsou provozovatelé existujících nadzemních nebo podzemních telekomunikačních vedení nebo zařízení veřejných telekomunikačních sítí, vlastníci kabelovodů nebo anténních stožárů povinni, pokud je to technicky možné, za cenu stanovenou podle zvláštního zákona8) umožnit na základě písemné smlouvy jejich spoluužívání jiným provozovatelům veřejných telekomunikačních sítí. Technickou možností se rozumí volná stavební kapacita, bez přiměřené kapacity pro rozvoj, existujících nadzemních nebo podzemních vedení nebo kabelovodů, popřípadě statická únosnost anténních stožárů.\n(2) Spory o spoluužívání rozhoduje příslušný stavební úřad. Účastníkem řízení o spoluužívání je Úřad."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Úřad je oprávněn vydat generální licenci\na) k provozování vysílacích rádiových zařízení, která nevyžadují individuální přidělení kmitočtů,\nb) k poskytování telekomunikačních služeb, pro které zákon nevyžaduje udělení licence,\nc) ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních nebo rozhlasových signálů po vedení, nebo\nd) k poskytování telekomunikační služby pronájmu telekomunikačních okruhů, jejíž poskytování není uloženo v licenci.\n(2) Generální licence je veřejně vyhlášené opatření Úřadu, které je závazné pro fyzické a právnické osoby vykonávající telekomunikační činnosti podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "Generální licencí Úřad stanoví\na) druh a charakteristiku vysílacích rádiových zařízení nebo telekomunikačních služeb nebo telekomunikačních sítí pro přenos rozhlasového a televizního vysílání po vedení,\nb) podmínky provozování vysílacích rádiových zařízení nebo poskytování telekomunikačních služeb nebo zřizování a provozování telekomunikačních sítí pro přenos rozhlasového a televizního vysílání po vedení,\nc) vyhrazené kmitočty pro provozování vysílacích rádiových zařízení pro telekomunikační službu, pokud jsou pro její poskytování nezbytné."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Návrh rozhodnutí o vydání generální licence Úřad zveřejní v Telekomunikačním věstníku. Ve lhůtě 30 dnů ode dne zveřejnění návrhu je k němu každý oprávněn uplatnit své připomínky.\n(2) Generální licenci Úřad zveřejní v Telekomunikačním věstníku, a to nejdříve 60 dnů ode dne zveřejnění jejího návrhu. Dnem zveřejnění nabývá generální licence účinnosti.\n(3) Generální licence musí obsahovat datum vydání a dobu platnosti. Den nabytí účinnosti musí generální licence obsahovat pouze v tom případě, je-li pro nabytí účinnosti generální licence stanovena doba odlišně od doby stanovené v odstavci 2.\n(4) Na vydání generální licence se nevztahují předpisy o správním řízení.13)"
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Změna a zrušení generální licence",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Úřad rozhodne o změně nebo o zrušení generální licence, je-li to nezbytné k dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích, nebo došlo-li ke změně skutečností, na základě kterých byla generální licence vydána.\n(2) Postup stanovený v § 48 pro zveřejnění návrhu generální licence a pro vydání generální licence se vztahuje rovněž na změnu nebo zrušení generální licence podle odstavce 1.\nRegistrace telekomunikačních činností"
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Fyzická nebo právnická osoba, která bude podle generální licence vykonávat telekomunikační činnosti uvedené v § 46 odst. 1 písm. b) až d), je povinna se písemně přihlásit k registraci u Úřadu.\n(2) Fyzická osoba v přihlášení k registraci uvede jméno a příjmení, státní občanství, trvalý pobyt a rodné číslo.\n(3) Právnická osoba v přihlášení se k registraci uvede obchodní jméno, včetně právní formy, sídla a identifikačního čísla.\n(4) Fyzická osoba a právnická osoba v přihlášení se k registraci kromě údajů podle odstavce 2, popřípadě odstavce 3 dále uvede\na) vymezení druhu a územního rozsahu telekomunikačního zařízení pro přenos rozhlasového a televizního vysílání po vedení nebo vymezení druhu a územního rozsahu telekomunikační služby, kterou hodlá poskytovat,\nb) den předpokládaného zahájení provozování telekomunikačního zařízení pro přenos rozhlasového a televizního vysílání po vedení nebo den předpokládaného zahájení poskytování telekomunikační služby.\n(5) Fyzická nebo právnická osoba doloží přihlášení k registraci všeobecnými podmínkami pro poskytování telekomunikačních služeb, které hodlá poskytovat."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Úřad provede registraci, splňuje-li žadatel podmínky stanovené v § 50 a do 15 dnů ode dne doručení přihlášky k registraci vydá osvědčení o registraci. Osvědčení o registraci telekomunikační služby je podmínkou k vydání oprávnění k činnostem vydávanému jiným správním úřadem podle zvláštního právního předpisu.\n(2) Držitel osvědčení o registraci zřízení a provozování telekomunikačního zařízení pro přenos rozhlasového a televizního vysílání po vedení může dnem vydání osvědčení zahájit provozování tohoto zařízení, pokud splňuje další náležitosti stanovené zvláštním právním předpisem.7)\n(3) Úřad zveřejňuje v Telekomunikačním věstníku seznam osvědčení o registraci."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Úřad zruší registraci, jestliže držitel osvědčení\na) přestal splňovat některou z podmínek, na jejichž základě mu bylo osvědčení o registraci vydáno,\nb) neplní povinnosti stanovené zákonem nebo generální licencí, ačkoliv byl na možnost odnětí osvědčení o registraci z tohoto důvodu Úřadem písemně upozorněn a nápravu nezjednal ani ve lhůtě 30 dnů ode dne, kdy mu bylo doručeno upozornění Úřadu, nebo\nc) o zrušení registrace požádá.\n(2) Držitel osvědčení o registraci je povinen vrátit osvědčení o registraci do 15 dnů od nabytí účinnosti rozhodnutí o zrušení registrace.\n(3) Osvědčení o registraci pozbývá platnosti uplynutím doby, na kterou bylo vydáno, dnem zániku právnické osoby nebo smrtí fyzické osoby, které bylo uděleno, zrušením nebo dnem stanoveným v osvědčení o registraci.\n(4) Na vydání osvědčení o registraci a zrušení registrace se nevztahují předpisy o správním řízení."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53 Povinnosti osob, které vykonávají telekomunikační činnosti podle generální licence",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Osoby, které vykonávají telekomunikační činnosti podle generální licence, jsou povinny postupovat podle zákona a podmínek stanovených generální licencí.\n(2) Osoby, které vykonávají telekomunikační činnosti podle generální licence uvedené v § 46 odst. 1 písm. b) až d), jsou dále povinny Úřadu\na) písemně oznámit neprodleně datum zahájení nebo ukončení výkonu telekomunikační činnosti podle generální licence,\nb) písemně oznámit neprodleně veškeré změny skutečností, na základě kterých byla provedena jejich registrace,\nc) předkládat údaje stanovené zvláštním právním předpisem11) o telekomunikačních činnostech, které vykonávají."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54 Nové telekomunikační služby",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "(1) Není-li dosud vydána generální licence pro poskytování telekomunikační služby a fyzická nebo právnická osoba požádá o oprávnění tuto službu poskytovat a není pro ni vyžadováno udělení telekomunikační licence podle § 14, Úřad rozhodne o žádosti nejpozději do 40 dnů od jejího obdržení. V oprávnění Úřad stanoví podmínky pro poskytování požadované služby.\n(2) Oprávnění Úřadu k poskytování nové telekomunikační služby je jeho souhlasem k vydání oprávnění jiným správním úřadem podle zvláštního právního předpisu.14)\n(3) Současně Úřad zahájí proces vydání generální licence pro poskytování nové telekomunikační služby podle § 46."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 7 - Generální licence",
+      "content": "Licence, generální licence, povolení nebo oprávnění podle § 54 se nevyžaduje pro zřizování a provozování telekomunikačních zařízení a sítí, které neslouží k poskytování telekomunikačních služeb a které jsou provozovány bez použití vysílacích rádiových zařízení, pokud zákon nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 1 - Kmitočtové plány",
+      "content": "(1) Úřad vykonává k zajištění účelného využívání kmitočtů správu kmitočtového spektra, kterou se rozumí sestavování a provádění změn plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) a plánu využití kmitočtového spektra, přidělování kmitočtů a volacích značek, koordinace kmitočtů a kmitočtových pásem, kontrola využívání kmitočtového spektra a vydávání rozhodnutí o povolení k provozování vysílacích rádiových zařízení.\n(2) Úřad v plánu přidělení kmitočtových pásem v souladu se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích stanoví kmitočtová pásma pro jednotlivé radiokomunikační služby a rádiová zařízení a obecné podmínky pro přidělení kmitočtů.\n(3) Části plánu přidělení kmitočtových pásem určených pro vojenské účely zpracovává Úřad v součinnosti s Ministerstvem obrany. Části plánu přidělení kmitočtových pásem určených pro rozhlasovou službu zpracovává Úřad v součinnosti s Radou České republiky pro rozhlasové a televizní vysílání.\n(4) Úřad v plánu využití kmitočtového spektra, popřípadě využití části kmitočtového spektra stanoví podmínky využití jednotlivých kmitočtů pro radiokomunikační služby.\n(5) Návrh plánu využití kmitočtového spektra Úřad zveřejní v Telekomunikačním věstníku. Ve lhůtě 30 dnů ode dne zveřejnění návrhu je k němu každý oprávněn uplatnit své připomínky.\n(6) Úřad je oprávněn upřednostnit ve veřejném zájmu využití kmitočtového spektra pro poskytování univerzální služby a poskytování veřejných telekomunikačních služeb.\n(7) Plán přidělení kmitočtových pásem a plán využití kmitočtového spektra Úřad vyhlašuje ve Sbírce zákonů uveřejněním plného znění sdělení o jejich vyhlášení a uveřejňuje je v Telekomunikačním věstníku. Údaje o kmitočtových pásmech vyhrazených v plánu využití kmitočtového spektra Ministerstvu obrany pro vojenské účely se nezveřejňují.\n(8) Způsob tvorby volacích značek, jejich používání a druhy radiokomunikačních služeb, pro něž jsou vyžadovány, stanoví prováděcí předpis.\n(9) Technické a provozní podmínky amatérské radiokomunikační služby stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57 Povolování vysílacích rádiových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Vysílací rádiové zařízení lze provozovat jen na základě povolení k provozování vysílacích rádiových zařízení, pokud tento zákon nestanoví jinak.\n(2) Povolení k provozování vysílacího rádiového zařízení udělí Úřad na základě písemné žádosti právnické nebo fyzické osoby.\n(3) Žádost o povolení k provozování vysílacího rádiového zařízení musí obsahovat\na) obchodní jméno, sídlo a právní formu právnické osoby a její identifikační číslo, je-li žadatelem právnická osoba, nebo jméno a příjmení, trvalý pobyt, obchodní jméno, rodné číslo a identifikační číslo fyzické osoby, je-li žadatelem podnikající fyzická osoba, nebo jméno a příjmení, trvalý pobyt, rodné číslo fyzické osoby, je-li žadatelem fyzická osoba,\nb) údaje o kmitočtech, které jsou požadovány, včetně jejich technických parametrů, a účel jejich využití, pokud tyto kmitočty a jejich parametry nejsou závazně stanoveny mezinárodní smlouvou, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv,\nc) vymezení předpokládané provozní oblasti, pokud je pro provozování vysílacího rádiového zařízení nezbytné,\nd) dobu, na kterou je přidělení kmitočtů požadováno.\n(4) Rozsah požadovaných údajů podle odstavce 3 písm. b) pro jednotlivé druhy radiokomunikačních služeb stanoví Úřad opatřením, které uveřejní v Telekomunikačním věstníku.\n(5) Žádost o povolení k provozování vysílacího rádiového zařízení musí být doložena\na) licencí, požaduje-li žadatel přidělení kmitočtů na telekomunikační činnosti, ke kterým je potřeba licence podle zvláštního právního předpisu,7)\nb) dokladem o splnění podmínek zvláštní způsobilosti, pokud je zákonem požadována,\nc) ověřenou kopií smlouvy nebo listiny o zřízení nebo založení právnické osoby a u osob zapsaných v obchodním rejstříku výpisem z obchodního rejstříku.\nPovolení k provozování vysílacích rádiových zařízení"
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Úřad v povolení k provozování vysílacích rádiových zařízení uvede zejména\na) obchodní jméno, sídlo a právní formu právnické osoby a její identifikační číslo, je-li žadatelem právnická osoba, nebo jméno a příjmení, trvalý pobyt, obchodní jméno, rodné číslo a identifikační číslo fyzické osoby, je-li žadatelem podnikající fyzická osoba, nebo jméno a příjmení, trvalý pobyt, rodné číslo fyzické osoby, je-li žadatelem fyzická osoba,\nb) přidělené kmitočty, včetně jejich technických parametrů, pokud tyto kmitočty a jejich parametry nejsou závazně stanoveny mezinárodní smlouvou, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo vyplývají z členství České republiky v mezinárodních organizacích,\nc) podmínky pro využívání přidělených kmitočtů,\nd) dobu, na kterou se kmitočty přidělují,\ne) přidělené volací značky, pokud jsou pro daný druh radiokomunikační služby nezbytné,\nf) typ vysílacího rádiového zařízení, pokud je to vyžadováno mezinárodní smlouvou, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo vyplývají z členství České republiky v mezinárodních organizacích,\ng) výši poplatku za přidělené kmitočty, pokud zákon nestanoví jinak.\n(2) Je-li více žadatelů o povolení k provozování vysílacích rádiových zařízení na stejných kmitočtech, Úřad rozhodne o vydání povolení podle pořadí došlých žádostí. Postup podle § 19 není tímto dotčen.\n(3) Úřad rozhodne, bez ohledu na pořadí došlých žádostí, o povolení k provozování vysílacích rádiových zařízení nezbytných k zajištění činnosti orgánů Ministerstva vnitra, Bezpečnostní informační služby, Policie České republiky pro bezpečnostní účely, Hasičského záchranného sboru, záchranné zdravotní služby a služby pátrání celního úřadu.\n(4) Udělené povolení je nepřevoditelné.\n(5) Odvolání proti rozhodnutí o povolení k provozování vysílacích rádiových zařízení nemá odkladný účinek."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "Úřad může rozhodnout o nevydání povolení k provozování vysílacích rádiových zařízení v těchto případech:\na) vyžaduje-li to bezpečnost státu,\nb) vyžaduje-li to dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích,\nc) přidělení požadovaných kmitočtů neumožňuje plán přidělení kmitočtových pásem nebo plán využití kmitočtového spektra,\nd) požadované kmitočty nejsou k dispozici nebo je nelze zkoordinovat,\ne) žadatel porušuje podmínky platných povolení k provozování vysílacích rádiových zařízení, která mu byla vydána."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60 Změna povolení k provozování vysílacích rádiových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Držitel povolení k provozování vysílacích rádiových zařízení je povinen oznámit Úřadu všechny změny týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o povolení k provozování vysílacích rádiových zařízení podle § 57 odst. 3, a předložit o nich doklady do 15 dnů od vzniku změn.\n(2) O změně povolení Úřad rozhodne\na) je-li to nezbytné k dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích, nebo\nb) na základě odůvodněné žádosti držitele povolení.\n(3) Dojde-li ke změně podle odstavce 2 písm. a), hradí nezbytné náklady vyvolané touto změnou držiteli povolení prostřednictvím Úřadu stát, pokud není v povolení uvedeno jinak."
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61 Odnětí povolení k provozování vysílacích rádiových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Úřad rozhodne o odnětí povolení, jestliže\na) držitel povolení přestal splňovat některou z podmínek, na jejichž základě mu bylo povolení vydáno, nebo podmínky stanovené zvláštním právním předpisem,7)\nb) držitel povolení neplní povinnosti stanovené tímto zákonem nebo rozhodnutím o udělení povolení nebo o změně povolení, ačkoliv byl na možnost odnětí povolení z tohoto důvodu Úřadem písemně upozorněn a nápravu nezjednal ani ve lhůtě stanovené Úřadem,\nc) držitel povolení nevyužíval přidělené kmitočty nepřetržitě po dobu šesti měsíců nebo opakovaně přerušil využívání přidělených kmitočtů na souhrnnou dobu dvanácti měsíců anebo je využíval k jiným účelům, než pro které mu byly přiděleny; do doby přerušení využívání kmitočtů se nezapočítávají doby nutné pro opravy a údržbu vysílacích zařízení,\nd) je to nezbytné k dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích, nebo\ne) držitel povolení o odnětí povolení požádal.\n(2) Rozhodne-li Úřad o odnětí povolení podle odstavce 1 písm. b), může žadatel požádat znovu o udělení povolení nejdříve po uplynutí dvou let ode dne, kdy rozhodnutí o odnětí povolení nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62 Pozbytí platnosti povolení k provozování vysílacích rádiových zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "Povolení k provozování vysílacích rádiových zařízení pozbývá platnosti\na) uplynutím doby, na kterou bylo vydáno,\nb) dnem zániku právnické osoby, která je držitelem povolení,\nc) uplynutím 30 dnů od úmrtí fyzické osoby, které bylo povolení uděleno,\nd) dnem, kdy rozhodnutí Úřadu o odnětí povolení nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "Kmitočtová pásma vyhrazená v plánu přidělení kmitočtových pásem Ministerstvu obrany pro vojenské účely mohou být využívána pro vojenské účely bez povolení Úřadu k provozování vysílacích rádiových zařízení."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Úřad může vydat povolení k provozování vysílacích rádiových zařízení pro rozhlasovou službu, jen je-li vydána licence podle zvláštního právního předpisu7) nebo jen se souhlasem Rady České republiky pro rozhlasové a televizní vysílání (dále jen „Rada“), a to i pro jiné radiokomunikační služby v části kmitočtového spektra vyhrazené pro rozhlasovou službu.\n(2) Úřad\na) předává Radě na základě její žádosti zkoordinované kmitočty pro rozhlasovou službu, včetně jejich technických parametrů,\nb) poskytuje Radě aktuální údaje (databázi) o provozovaných vysílacích rádiových zařízeních pro rozhlasovou službu,\nc) spolupracuje s Radou při své kontrolní činnosti."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65 Poplatky za přidělené kmitočty",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Držitel povolení k provozování vysílacích rádiových zařízení je povinen platit za přidělené kmitočty poplatky. Výše poplatku za přidělený kmitočet se stanoví v závislosti na druhu radiokomunikační služby, povoleném vyzářeném výkonu, relativní zabrané šířce kmitočtového pásma, provozní oblasti a délce doby přidělení kmitočtu.\n(2) Vláda nařízením stanoví výši poplatků."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66 Krátkodobé povolení k provozování vysílacího rádiového zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 2 - Vysílací rádiová zařízení",
+      "content": "(1) Úřad udělí krátkodobé povolení k provozování vysílacích rádiových zařízení na základě žádosti fyzické nebo právnické osoby na dobu nezbytně nutnou, ne delší než 14 dnů. Krátkodobé povolení je určeno pro jednorázové účely, které nelze v dostatečném předstihu předvídat. Lze je udělit, pokud jsou požadované kmitočty k dispozici.\n(2) Při podání žádosti se postupuje podle § 57, s výjimkou ustanovení odstavce 4. Odpovědná osoba zahraničního subjektu se prokazuje příslušným průkazem totožnosti. Žádost musí být doručena Úřadu nejméně tři pracovní dny před požadovaným termínem zahájení provozu vysílacích rádiových zařízení.\n(3) Při vydání krátkodobého povolení k provozování vysílacích rádiových zařízení se postupuje podle § 58 odst. 1, s výjimkou písmene g).\n(4) Žadatel o krátkodobé povolení k provozování vysílacích rádiových zařízení je povinen za přidělené kmitočty zaplatit jednorázový poplatek, který je splatný před vydáním tohoto povolení. Výše jednorázového poplatku za přidělený kmitočet se stanoví v závislosti na druhu radiokomunikační služby, povoleném vyzářeném výkonu, relativní zabrané šířce kmitočtového pásma, provozní oblasti a délce doby přidělení kmitočtu.\n(5) Povolení k provozování vysílacích rádiových zařízení udělená zahraničním subjektům na principu vzájemnosti podle mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, nepodléhají jednorázovému poplatku.\n(6) Na vydání krátkodobého povolení k provozování vysílacího rádiového zařízení se nevztahují předpisy o správním řízení."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 8 - Správa kmitočtového spektra > Oddíl 3 - Zvláštní způsobilost",
+      "content": "(1) Zvláštní způsobilost žadatele o povolení k provozování vysílacích rádiových zařízení se vyžaduje pro obsluhu\na) radiotelefonních a radiotelegrafních vysílacích rádiových zařízení umístěných na palubách letadel a lodí zapsaných v leteckém nebo námořním rejstříku České republiky,\nb) radiotelefonních a radiotelegrafních pozemních vysílacích rádiových zařízení pohyblivé letecké a pohyblivé plavební služby,\nc) radiotelefonních a radiotelegrafních pozemních vysílacích rádiových zařízení provozovaných v pásmu krátkých vln,\nd) vysílacích rádiových zařízení pro amatérskou radiokomunikační službu.\n(2) Obsluhu vysílacích rádiových zařízení uvedených v odstavci 1 mohou vykonávat osoby, které mají platný průkaz zvláštní způsobilosti k obsluze těchto zařízení. Je-li držitelem povolení k provozování vysílacích rádiových zařízení právnická osoba, je povinna zajistit, aby obsluhu tohoto zařízení prováděla pouze osoba, která má platný průkaz zvláštní způsobilosti. Tuto způsobilost k obsluze vysílacích rádiových zařízení ověřuje Úřad zkouškou. Obsluhu mohou vykonávat i osoby, jejichž průkaz zvláštní způsobilost k obsluze vysílacích rádiových zařízení byl uznán podle zvláštního právního předpisu.7a)\n(3) Žadatel se ke zkoušce uvedené v odstavci 2 přihlašuje písemně u Úřadu. Úřad žadateli umožní vykonání zkoušky nejpozději do tří měsíců od doručení přihlášky.\n(4) Žadateli, který prokázal zvláštní způsobilost k vykonávání obsluhy vysílacích rádiových zařízení zkouškou, vydá Úřad průkaz způsobilosti.\n(5) Náležitosti přihlášky ke zkoušce podle odstavce 3, rozsah znalostí potřebných pro jednotlivé druhy zvláštní způsobilosti, způsob provádění zkoušek, druhy průkazů způsobilosti a dobu jejich platnosti stanoví prováděcí předpis."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 1 - Číslovací plány",
+      "content": "(1) Úřad vykonává k zajištění účelného využívání čísel a hospodaření se jmény a adresami sítí a služeb správu číslovacích plánů, jmen nebo adres, kterou se rozumí sestavování a provádění změn číslovacích plánů, adresovacích pravidel a tvorby jmen (dále jen „číslovací plány“), evidence využívání a kontrola přidělených čísel a vydávání rozhodnutí o přidělení čísel.\n(2) Úřad v číslovacích plánech stanoví v souladu se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích pravidla pro tvorbu a využívání čísel pro telekomunikační sítě a telekomunikační služby a obecné podmínky pro jejich přidělování.\n(3) Držitelé rozhodnutí o přidělení čísel jsou povinni při změně číslovacího plánu provést na své náklady technické úpravy vyplývající z této změny.\n(4) Číslovací plány, případně jejich změny Úřad vyhlašuje ve Sbírce zákonů uveřejněním plného znění sdělení o jejich vyhlášení a uveřejňuje je v Telekomunikačním věstníku.\n(5) Výjimky z číslovacích plánů v odůvodněných případech povoluje Úřad."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "(1) Držitel telekomunikační licence nebo držitel osvědčení o registraci, k jejichž telekomunikační činnosti je nezbytné přidělení čísla, může tuto činnost vykonávat pouze v případě, že je držitelem rozhodnutí o přidělení čísla.\n(2) Úřad rozhoduje o přidělení čísla podle číslovacího plánu na základě písemné žádosti právnické nebo fyzické osoby uvedené v odstavci 1.\n(3) Žádost o přidělení čísla musí obsahovat\na) obchodní jméno, sídlo a právní formu právnické osoby a její identifikační číslo, je-li žadatelem právnická osoba, nebo jméno a příjmení, trvalý pobyt, obchodní jméno, rodné číslo a identifikační číslo fyzické osoby, je-li žadatelem podnikající fyzická osoba,\nb) údaje o číslech, které jsou požadovány, včetně jejich technických parametrů, a účel jejich využití,\nc) vymezení předpokládané provozní oblasti,\nd) dobu využití čísel.\n(4) Žádost musí být doložena ověřenou kopií smlouvy nebo listiny o zřízení nebo založení právnické osoby a u osob zapsaných v obchodním rejstříku výpisem z obchodního rejstříku, který není starší než 6 měsíců."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70 Přidělení čísel",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "(1) Úřad v rozhodnutí o přidělení čísla uvede\na) obchodní jméno, sídlo a právní formu právnické osoby a její identifikační číslo, je-li žadatelem právnická osoba, nebo jméno a příjmení, trvalý pobyt, obchodní jméno, rodné číslo a identifikační číslo fyzické osoby, je-li žadatelem podnikající fyzická osoba,\nb) přidělená čísla,\nc) podmínky pro užívání přidělených čísel,\nd) dobu, na kterou se čísla přidělují,\ne) výši poplatku za přidělená čísla,\nf) povinnost předkládat Úřadu jednou ročně v termínu stanoveném Úřadem zprávu o využívání čísel.\n(2) Odvolání proti rozhodnutí o přidělení čísel nemá odkladný účinek.\n(3) Udělené rozhodnutí o přidělení čísel je nepřevoditelné.\n(4) Úřad může přerušit řízení o přidělení čísel nejdéle na dobu osmi měsíců, nejsou-li k dispozici čísla."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "Úřad může rozhodnout o nepřidělení čísel, jestliže\na) přidělení požadovaných čísel neumožňuje číslovací plán,\nb) žadatel porušuje podmínky platného přidělení čísel, které mu bylo vydáno."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72 Změna přidělení čísel",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "(1) Držitel rozhodnutí o přidělení čísel je povinen oznámit Úřadu všechny změny týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o přidělení podle § 69, a předložit o nich doklady do 15 dnů od vzniku změn.\n(2) Úřad rozhodne o změně přidělení čísel\na) je-li to nezbytné k dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, anebo z členství České republiky v mezinárodních organizacích,\nb) vyžaduje-li to bezpečnost státu,\nc) došlo-li ke změně skutečností, na základě kterých se rozhodovalo o přidělení čísel,\nd) na základě odůvodněné žádosti držitele rozhodnutí o přidělení čísel.\n(3) Dojde-li ke změně podle odstavce 2 písm. a), b), c), hradí nezbytné náklady vyvolané touto změnou držiteli rozhodnutí prostřednictvím Úřadu stát, pokud není v rozhodnutí uvedeno jinak."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73 Odnětí přidělení čísel",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "(1) Úřad rozhodne o odnětí přidělení čísel, jestliže\na) držitel přidělení přestal splňovat některou z podmínek, na jejichž základě mu byla čísla přidělena,\nb) držitel přidělení neplní povinnosti stanovené tímto zákonem nebo rozhodnutím o přidělení čísel nebo o jejich změně, ačkoliv byl na možnost odnětí přidělení z tohoto důvodu Úřadem písemně upozorněn a nápravu nezjednal ani ve lhůtě stanovené Úřadem,\nc) vyžaduje-li to bezpečnost státu,\nd) držitel přidělení o odnětí přidělených čísel požádal.\n(2) Rozhodne-li Úřad o odnětí přidělení podle odstavce 1 písm. b), může žadatel požádat znovu o přidělení nejdříve po uplynutí dvou let ode dne, kdy rozhodnutí o odnětí přidělených čísel nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74 Pozbytí platnosti přidělení čísel",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "Přidělení čísel pozbývá platnosti\na) uplynutím doby, na kterou byla čísla přidělena,\nb) dnem zániku právnické osoby, která je držitelem přidělení čísel,\nc) uplynutím 30 dnů od úmrtí fyzické osoby, které byla čísla přidělena,\nd) dnem, kdy rozhodnutím Úřadu o odnětí přidělení čísel nabylo právní moci."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75 Poplatky za přidělená čísla",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 2 - Přidělování čísel",
+      "content": "(1) Držitel rozhodnutí o přidělení čísel je povinen za přidělená čísla platit poplatky. Výše poplatku se stanoví v závislosti na druhu přiděleného čísla, druhu telekomunikační sítě a druhu telekomunikační služby, pro kterou se použije, a době jeho přidělení.\n(2) Vláda nařízením stanoví výši poplatků."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 9 - Správa čísel, jmen a adres sítí a služeb > Oddíl 3 - Výběr provozovatele veřejné telekomunikační sítě a přenositelnost účastnických telefonních čísel",
+      "content": "(1) Provozovatelé veřejných pevných telekomunikačních sítí s výrazným podílem na trhu jsou povinni ve svých sítích podle číslovacího plánu umožnit přístup ke službám kteréhokoliv s uvedenými sítěmi propojeného poskytovatele veřejných telekomunikačních služeb, kromě služby pronájmu okruhů, a to jak formou nastavení předvolby čísel, tak krátkou individuální volbou čísel pro jednotlivá volání.\n(2) Provozovatelé veřejných pevných telefonních sítí ve svých sítích zajistí přenositelnost telefonních čísel podle číslovacího plánu tak, aby účastníci veřejné telefonní služby, kteří o to požádají, si mohli ponechat svoje účastnické číslo, jestliže se rozhodnou změnit provozovatele veřejné pevné telefonní sítě, provozovatele veřejné digitální sítě ISDN, poskytovatele veřejné telefonní služby nebo své zeměpisné umístění anebo službu.\n(3) Provozovatelé veřejných pevných telekomunikačních sítí, kteří jsou uvedeni v odstavci 1, jsou povinni splnit povinnost uvedenou v odstavci 1 formou krátké individuální předvolby čísel pro jednotlivá volání nejpozději do 30. června 2002.\n(4) Provozovatelé veřejných telekomunikačních sítí, kteří jsou uvedeni v odstavcích 1 a 2, jsou povinni splnit povinnost uvedenou v odstavci 1 formou nastavení předvolby čísel a povinnost uvedenou v odstavci 2 nejpozději do konce roku 2002."
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77 Ceny za telekomunikační služby",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 10 - Ceny",
+      "content": "(1) Úřad stanoví ceny za univerzální službu cenovým rozhodnutím podle zvláštního právního předpisu.8) Návrh cenových rozhodnutí projedná Úřad s Ministerstvem financí. Vydaná cenová rozhodnutí zveřejňuje Úřad v Cenovém věstníku a v Telekomunikačním věstníku.\n(2) Úřad stanoví ceny za služby zahrnuté do služby univerzální s výjimkou služeb spočívajících v poskytování slevy podle § 29 písm. g) a h) tak, aby ceny těchto služeb pokrývaly oprávněné náklady včetně přiměřeného zisku."
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 10 - Ceny",
+      "content": "(1) Ceny za propojení sjednávají smluvní strany tak, aby nediskriminovaly žádnou ze smluvních stran ani ostatní provozovatele propojených veřejných telekomunikačních sítí a aby umožňovaly ověření způsobu jejich výpočtu.\n(2) Nedohodnou-li se smluvní strany o ceně za propojení, použijí způsob výpočtu cen stanovený Úřadem. Úřad stanoví způsob výpočtu cen za propojení cenovým rozhodnutím. Ve stanovených případech musí cena za propojení vycházet z nákladů na propojení včetně přiměřeného zisku.\n(3) Způsob výpočtu cen za propojení Úřad zveřejní v Telekomunikačním věstníku.\n(4) Úřad použije způsob výpočtu cen stanovený cenovým rozhodnutím Úřadu vždy, obrátí-li se na něj některá ze smluvních stran s návrhem na řešení sporu.\n(5) Při uplatňování regulace cen za zpřístupnění se postupuje obdobně podle odstavců 2 až 4.\n(6) O sporech v oblasti cen za propojení rozhoduje Úřad podle zvláštního právního předpisu.8)"
+    },
+    {
+      "provision_ref": "§ 79",
+      "section": "79",
+      "title": "§ 79 Oddělená evidence nákladů, tržeb a výnosů",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 10 - Ceny",
+      "content": "(1) Úřad stanoví opatřením metodiku oddělené evidence nákladů, tržeb a výnosů, včetně vloženého kapitálu pro tvorbu cen. Poskytovatel veřejných telekomunikačních služeb je povinen předložit Úřadu ke schválení metodiku oddělené evidence nákladů, tržeb a výnosů do tří měsíců od zahájení poskytování těchto služeb. Úřad metodiku schválí do tří měsíců od jejího obdržení.\n(2) Poskytovatelé veřejných telekomunikačních služeb jsou povinni vést oddělenou evidenci nákladů, tržeb a výnosů, včetně vloženého kapitálu, podle metodiky v souladu s odstavcem 1, a to i v případě, že se jedná o veřejné telekomunikační služby, jejichž ceny nejsou regulovány.\n(3) Držitel telekomunikační licence je povinen předkládat Úřadu roční zprávu o vývoji nákladů, tržeb a výnosů a ziskovosti, včetně vloženého kapitálu, v členění podle metodiky stanovené v odstavci 1.\n(4) V případě cen za propojení postupují provozovatelé vzájemně se propojujících veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb, kteří mají právo a povinnost propojení, obdobně podle odstavců 1 až 3."
+    },
+    {
+      "provision_ref": "§ 80",
+      "section": "80",
+      "title": "§ 80",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 10 - Ceny",
+      "content": "(1) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb nesmějí podporovat ani znevýhodňovat veřejné telekomunikační služby přerozdělováním nákladů z ostatních nebo do ostatních činností, přerozdělováním výnosů z ostatních nebo do ostatních činností ani jakýmikoliv jinými finančními opatřeními. Ustanovení tohoto odstavce neplatí pro poskytování veřejné dálnopisné a veřejné telegrafní služby.\n(2) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb, kteří podnikají i v jiných činnostech, než jsou telekomunikační činnosti, jsou povinni vést pro tyto jiné činnosti oddělené účtování a nemohou převádět finanční prostředky z telekomunikačních činností do jiných činností a naopak."
+    },
+    {
+      "provision_ref": "§ 81",
+      "section": "81",
+      "title": "§ 81 Všeobecné podmínky veřejné telekomunikační služby",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 11 - Poskytování veřejných telekomunikačních služeb",
+      "content": "(1) Poskytovatel veřejné telekomunikační služby je povinen vypracovat návrh smlouvy na poskytování veřejné telekomunikační služby a před zahájením poskytování této služby ho uveřejnit v každé své provozovně a v Telekomunikačním věstníku. Součástí návrhu smlouvy jsou Všeobecné podmínky veřejné telekomunikační služby (dále jen „všeobecné podmínky“).\n(2) Všeobecné podmínky musí obsahovat\na) vznik a ukončení smlouvy o poskytování veřejné telekomunikační služby,\nb) způsob uplatnění odpovědnosti za vady poskytnuté veřejné telekomunikační služby (dále jen „reklamace“), včetně údajů o tom, kde lze reklamaci uplatnit,\nc) rozsah poskytované veřejné telekomunikační služby, včetně nezbytných specifikací,\nd) způsob vydávání a aktualizace seznamu účastníků veřejné telekomunikační služby, popřípadě jiný způsob informování o účastnických číslech, pokud pro danou službu přichází v úvahu,\ne) vymezení území, na němž se veřejná telekomunikační služba poskytuje,\nf) údaj o způsobu zveřejnění ceny za poskytování veřejné telekomunikační služby, způsob jejího účtování a placení,\ng) způsob hlášení poruch a termíny jejich odstranění,\nh) nároky uživatele veřejné telekomunikační služby, jestliže její poskytovatel přeruší poskytování této služby.\n(3) Všeobecné podmínky pro poskytování veřejné telefonní služby musí, kromě náležitostí uvedených v odstavci 2, obsahovat\na) podmínky zřízení, překládání, přemístění, popřípadě přeměny účastnické stanice, včetně dodací lhůty,\nb) typy čísel, popřípadě číselné řady, jejichž volání musí poskytovatel veřejné telefonní služby na žádost účastníka zablokovat,\nc) nabídku druhů telefonních hovorů,\nd) způsob zajištění přenositelnosti účastnického telefonního čísla,\ne) způsob nastavení předvolby poskytovatele veřejné telefonní služby.\n(4) Všeobecné podmínky mohou obsahovat další podmínky, za nichž je telekomunikační služba poskytována. Těmito dalšími podmínkami nesmějí být vyloučeny podmínky podle odstavců 2 a 3.\n(5) Poskytovatel veřejné telekomunikační služby je povinen informovat účastníka služby nejméně tři měsíce předem o změně všeobecných podmínek.\n(6) Všeobecné podmínky pro poskytování univerzální služby a jejich změny musí být schváleny Úřadem. O návrhu všeobecných podmínek a návrhu jejich změn Úřad rozhodne do 30 dnů, nejpozději však do 60 dnů ode dne doručení návrhu.\n(7) Úřad je oprávněn rozhodnout o změně všeobecných podmínek pro poskytování telekomunikačních služeb, které nejsou součástí univerzální služby, jsou-li v rozporu s tímto zákonem nebo prováděcími předpisy k tomuto zákonu. Odvolání proti rozhodnutí o změně všeobecných podmínek nemá odkladný účinek.\nPráva a povinnosti poskytovatelů, účastníků a uživatelů veřejné telekomunikační služby"
+    },
+    {
+      "provision_ref": "§ 82",
+      "section": "82",
+      "title": "§ 82",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 11 - Poskytování veřejných telekomunikačních služeb",
+      "content": "(1) Poskytovatel veřejné telekomunikační služby je povinen poskytnout tuto službu za cenu sjednanou podle zvláštního právního předpisu8) každému, kdo o ní požádá a souhlasí se všeobecnými podmínkami.\n(2) Poskytovatel veřejné telefonní služby je ve veřejném zájmu povinen svým uživatelům bezplatně umožnit\na) tísňová volání včetně případného přepojení (přesměrování) hovorů tísňového volání v rámci integrovaného záchranného systému,\nb) hlášení poruch,\nc) hovory s ohlašovnou meziměstských a mezinárodních hovorů,\nd) hovory s telefonní stanicí určenou pro podávání telegramu telefonicky,\ne) informace prostřednictvím hlásek, které informují volajícího účastníka o změnách účastnických čísel v jeho telefonní síti.\n(3) Účastník veřejné telekomunikační služby je povinen uhradit za poskytnutou veřejnou telekomunikační službu cenu ve výši ceny platné v době poskytnutí této služby, pokud zákon nestanoví jinak.\n(4) Poskytovatel veřejné telekomunikační služby je povinen předkládat účastníkovi, popřípadě uživateli přehledné a srozumitelné vyúčtování ceny za jemu poskytnutou službu a po dohodě s účastníkem i v jiné formě než tištěné. Na žádost účastníka je povinen mu vystavit na vlastní náklady vyúčtování za poskytnuté telekomunikační služby, nespecifikované podle jednotlivých položek.\n(5) Poskytovatel veřejné telefonní služby je povinen\na) ve vyúčtování vyznačit zúčtovací období, které nesmí být delší než 35 kalendářních dnů, a zajistit podání vyúčtování tak, aby mohlo být účastníkovi, popřípadě uživateli dodáno do 15 dnů ode dne ukončení zúčtovacího období, a to způsobem stanoveným zvláštním zákonem15) nebo jiným způsobem, byl-li tento jiný způsob dodání s účastníkem dohodnut,\nb) poskytovat na vlastní náklady základní stupeň vyúčtování, jehož rozsah stanoví Úřad opatřením,\nc) na vyžádání účastníkovi, popřípadě uživateli poskytnout za úhradu podrobný rozpis cen za jednotlivé hovory uskutečněné z jeho telefonní účastnické stanice. Rozsah tohoto rozpisu a jeho cenu stanoví Úřad cenovým rozhodnutím.\n(6) Poskytovatel veřejné telekomunikační služby je povinen v případě, že účastník nezaplatí včas vyúčtování ceny za poskytnutou službu nebo neplní další smluvní podmínky, zajistit, aby bylo účastníkovi prokazatelně dodáno upozornění s uvedením náhradního termínu plnění. Pokud účastník v uvedeném termínu nezjedná nápravu, poskytovatel služby má právo omezit poskytování dané služby zamezením aktivního přístupu ke službě. Při opakovaném neplnění smluvních podmínek má poskytovatel právo ukončit poskytování této služby.\n(7) Spočívá-li vada veřejné telekomunikační služby v nesprávně vyúčtované ceně za poskytnutou službu, má účastník právo reklamovat vyúčtování ceny za veřejnou telekomunikační službu do 2 měsíců od doručení vyúčtování ceny za poskytnutou službu, jinak právo zanikne. Podání reklamace nemá odkladný účinek.\n(8) Poskytovatel veřejné telekomunikační služby je povinen vyřídit reklamaci vyúčtované ceny bez zbytečného odkladu, nejpozději do 30 dnů ode dne doručení reklamace. Vyžaduje-li vyřízení reklamace projednání se zahraničním provozovatelem, je poskytovatel povinen reklamaci vyřídit nejpozději do 60 dnů ode dne jejího doručení.\n(9) Pokud dojde k vyúčtování ceny za službu v neprospěch účastníka, je poskytovatel veřejné telekomunikační služby povinen vrátit mu rozdíl ceny způsobem a ve lhůtách stanovených všeobecnými podmínkami služby, nejpozději však do 30 dnů od vyřízení reklamace.\n(10) Pokud službu bylo možno využít jen částečně, anebo ji nebylo možno využít vůbec pro závadu technického nebo provozního charakteru na straně poskytovatele veřejné telekomunikační služby, je tento povinen zajistit odstranění závady a přiměřeně snížit cenu nebo po dohodě s účastníkem zajistit poskytnutí služby náhradním způsobem. Poskytovatel veřejné telekomunikační služby není povinen uhrazovat jejím uživatelům náhradu škody v důsledku neposkytnutí služby nebo vadného poskytnutí služby.\n(11) Nevyhoví-li poskytovatel veřejné telekomunikační služby podané reklamaci na vyúčtovanou cenu, je účastník oprávněn uplatnit u Úřadu námitky proti vyřízení bez zbytečného odkladu, nejpozději však do 30 dnů ode dne doručení vyřízení reklamace.\n(12) Účastník veřejné telekomunikační služby je povinen zaplatit za podání námitky proti vyřízení reklamace vyúčtování ceny za poskytnutou veřejnou telekomunikační službu jednorázový poplatek.\n(13) Vláda nařízením stanoví výši poplatku."
+    },
+    {
+      "provision_ref": "§ 83",
+      "section": "83",
+      "title": "§ 83",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 11 - Poskytování veřejných telekomunikačních služeb",
+      "content": "(1) Poskytovatel veřejné telekomunikační služby je povinen poskytovat tuto službu nepřetržitě, nestanoví-li zákon jinak.\n(2) Poskytovatel veřejné telefonní služby je povinen zajistit poskytování služby informace o telefonních číslech a operátorské služby všem uživatelům.\n(3) Poskytovatel veřejné telefonní služby je povinen na žádost jeho účastníka na jeho náklady mu zablokovat přístup ke službě, jejíž obsah může ohrozit mravní výchovu mládeže, je-li to technicky možné.\n(4) Poskytovatel veřejné telefonní služby je povinen na žádost jeho účastníka na jeho náklady zajistit službu identifikace zlomyslných nebo obtěžujících volání, a to zpětně u konkrétních volání, která účastník označí jako zlomyslná nebo obtěžující, nejpozději však do dvou měsíců ode dne uskutečnění takového volání.\n(5) Poskytovatel veřejné telekomunikační služby neodpovídá za obsah přenášených zpráv.\n(6) Poskytovatel univerzální služby je povinen zřídit systémy sledování, evidence a kontroly základních ukazatelů kvality poskytování služby. Úřad může rozšířit tuto povinnost i na ostatní poskytovatele veřejné telefonní služby po veřejné pevné telefonní síti nebo provozovatele veřejných pevných telefonních sítí. Údaje z těchto systémů je povinen poskytovatel služby předložit Úřadu na jeho vyžádání. Poskytovatel služby, popřípadě provozovatel veřejné pevné telefonní sítě je povinen předložit Úřadu na jeho vyžádání nezávislé audity plnění této povinnosti podle § 34 odst. 2 písm. c) s cílem zajistit přesnost a srovnatelnost zveřejněných dat.\n(7) Poskytovatelé veřejné telefonní služby jsou povinni zajistit poskytování doplňkových služeb, a to:\na) identifikace volajícího,\nb) provolba,\nc) přesměrování hovorů,\nd) tónová volba,\ne) blokování hovorů do určitých směrů.\n(8) Úřad je oprávněn povolit výjimku z povinnosti uvedené v odstavci 3 a z rozsahu doplňkových služeb uvedených v odstavci 7, a to na základě zhodnocení technických možností a ekonomických schopností poskytovatele veřejné telefonní služby tyto služby poskytovat. Při stanovení lhůty trvání výjimky pro zavedení doplňkových služeb Úřad zohlední i celkový stav rozvoje sítě, požadavky trhu a pokrok v technické normalizaci.\n(9) Uživatel veřejné telefonní služby nesmí zneužívat zlomyslným způsobem čísla tísňového volání."
+    },
+    {
+      "provision_ref": "§ 84",
+      "section": "84",
+      "title": "§ 84",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 12 - Telekomunikační tajemství a ochrana osobních a zprostředkovacích dat",
+      "content": "(1) Právnické nebo fyzické osoby, které vykonávají telekomunikační činnosti, jejich zaměstnanci a jiné osoby, které se podílejí na vykonávání telekomunikačních činností, nesmějí získávat pro jiné než pracovní účely, vyplývající z jejich telekomunikační činnosti, informace o skutečnostech, které jsou předmětem telekomunikačního tajemství ve větší míře, než je pro vykonávání telekomunikačních činností nezbytně nutné.\n(2) Každý, kdo se dozví informace o skutečnostech, které jsou předmětem telekomunikačního tajemství, je povinen zachovávat o nich mlčenlivost.\n(3) Předmětem telekomunikačního tajemství\na) je obsah zpráv přepravovaných nebo jinak zprostředkovaných telekomunikačními zařízeními a sítěmi s výjimkou zpráv určených veřejnosti,\nb) jsou provozní doklady, z jejichž obsahu je zjevný obsah přepravovaných zpráv,\nc) jsou data související s poskytováním telekomunikační služby, zejména údaje o účastnících telekomunikačního spojení.\n(4) Osoby uvedené v odstavcích 1 a 2 nesmějí předmět telekomunikačního tajemství sdělovat jiným osobám než odesílateli a adresátu přepravovaných zpráv, popřípadě jimi zmocněnému zástupci. Nesmějí ani umožnit jiným osobám, aby získávaly informace, které jsou předmětem telekomunikačního tajemství.\n(5) Osoby uvedené v odstavci 1 nesmějí získávat, zpracovávat a předávat pro jiné než pracovní účely, vyplývající z jejich telekomunikační činnosti, osobní a zprostředkovací data uživatelů telekomunikačních služeb ani umožnit je získat jiným osobám. Těmito daty jsou jméno a příjmení, popřípadě obchodní jméno, datum narození, rodné číslo, popřípadě identifikační číslo organizace, akademický titul, adresa, popřípadě sídlo.\n(6) Ustanovení odstavce 5 se nevztahuje na data potřebná pro vydávání telefonních seznamů a předávání dat podle § 35.\n(7) Data podle odstavce 5, jakož i data, která jsou předmětem telekomunikačního tajemství, musí být po uplynutí dvou měsíců od ukončení telekomunikačního spojení vymazána nebo učiněna anonymními. To neplatí pro data, která mají být využita k vyúčtování za telekomunikační služby, k zajištění propojení a přístupu k síti, ke vzájemnému vyúčtování mezi provozovateli veřejných telekomunikačních sítí a poskytovateli veřejných telekomunikačních služeb, pokud slouží k identifikaci zneužívání sítě a služeb sítě a pro data uchovávaná a poskytovaná na základě předchozího vyžádání orgánů oprávněných k tomuto zvláštními právními předpisy.16)\n(8) Pro obchodní účely smí poskytovatel veřejné telekomunikační služby zpracovat data uvedená v odstavci 3 písm. c), pokud k tomu dal písemný souhlas účastník.\n(9) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb si mohou vzájemně předávat data uvedená v odstavci 3 písm. c), je-li to nezbytné pro zajištění propojení a přístupu k síti, ke vzájemnému vyúčtování a k identifikaci zneužívání sítě a služeb."
+    },
+    {
+      "provision_ref": "§ 85",
+      "section": "85",
+      "title": "§ 85",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 12 - Telekomunikační tajemství a ochrana osobních a zprostředkovacích dat",
+      "content": "(1) Provozovatel veřejné telekomunikační sítě je povinen umožnit, aby\na) volající uživatel veřejné telefonní služby měl možnost bezplatně, pomocí jednoduchých prostředků, zamezit zobrazení své identifikace pro jednotlivé hovory; volající účastník musí mít tuto možnost pro konkrétní linku,\nb) při zobrazení identifikace volajícího uživatele měl volaný telefonní účastník možnost pomocí jednoduchých prostředků bezplatně zabránit identifikaci volajícího uživatele,\nc) při zobrazení identifikace volajícího uživatele měl volaný telefonní účastník možnost před uskutečněním hovoru příchozí hovor jednoduchými prostředky odmítnout,\nd) při příchozím hovoru, kdy bylo ze strany volajícího uživatele zabráněno identifikaci hovoru, měl volaný účastník pomocí jednoduchých prostředků možnost odmítnout příchozí hovory,\ne) při zobrazení identifikace volaného účastníka měl tento účastník možnost pomocí jednoduchých prostředků bezplatně zabránit své identifikaci volajícímu uživateli,\nf) každý uživatel měl možnost pomocí jednoduchých prostředků bezplatně zabránit automatickému přenášení hovorů třetí strany na své koncové zařízení,\ng) použití automatických systémů volání bez lidské účasti, popřípadě faksimilních přístrojů pro účely přímého marketingu bylo povoleno pouze ve vztahu k účastníkům, kteří k tomu poskytli svůj předchozí souhlas,\nh) v seznamu účastníků bylo bezplatně a na žádost účastníka uvedeno, že jeho data podle § 84 odst. 5 nesmí být používána pro účely přímého marketingu.\n(2) Právnické a fyzické osoby, které vykonávají telekomunikační činnosti, jsou povinny znemožnit postup podle odstavce 1 písm. a) pro tísňová volání.\n(3) Osoby uvedené v odstavci 2 jsou oprávněny sdělovat pracovištím pro příjem tísňových volání informace o volající stanici, název a umístění volající stanice a její jméno, popřípadě další informace, je-li to nezbytné v zájmu ochrany života, zdraví a majetku.\n(4) Povinnosti stanovené v odstavcích 1 a 2 platí pouze v případě, kdy koncové zařízení účastníka je připojeno digitálně v telefonní ústředně. O této skutečnosti musí být uživatelé informováni."
+    },
+    {
+      "provision_ref": "§ 86",
+      "section": "86",
+      "title": "§ 86",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 12 - Telekomunikační tajemství a ochrana osobních a zprostředkovacích dat",
+      "content": "(1) Osoby uvedené v § 84 odst. 1 jsou povinny na vlastní náklady sdělit orgánům oprávněným k tomu zvláštními právními předpisy16) informace o skutečnostech, které jsou předmětem telekomunikačního tajemství anebo na něž se vztahuje ochrana osobních a zprostředkovacích dat, zejména údaje o veškeré komunikaci, kteréhokoli uživatele v uplynulých nejméně dvou měsících v rozsahu volané a volající číslo, použitá služba, datum, čas, doba trvání komunikace a místo připojení. U poskytovaných datových celků (databází) jsou tyto osoby povinny provádět jejich aktualizaci podle požadavků orgánů oprávněných k tomu zvláštními právními předpisy,16) nejméně jednou za 6 měsíců.\n(2) Právnické a fyzické osoby, které vykonávají telekomunikační činnost, jsou povinny na vlastní náklady zabezpečit v určených bodech orgánům oprávněným podle zvláštního právního předpisu16) připojení zařízení pro odposlouchávání a zaznamenávání telekomunikačního provozu. Technické podmínky pro připojení a provoz těchto zařízení stanoví prováděcí předpis.\n(3) Pokud právnické a fyzické osoby, které vykonávají telekomunikační činnost, zavedou v telekomunikačním provozu kódování, kompresi, šifrování nebo jiný způsob utajení přenosu informací, jsou povinny zajistit, aby v místě rozhraní pro připojení zařízení uvedených v odstavci 2 byly požadované informace a data poskytovány srozumitelným způsobem."
+    },
+    {
+      "provision_ref": "§ 87",
+      "section": "87",
+      "title": "§ 87",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 13 - Telekomunikační činnosti v období krizových situací",
+      "content": "(1) Právnické a fyzické osoby, které vykonávají telekomunikační činnosti, jsou povinny, je-li to technicky možné a v případech stanovených zvláštním právním předpisem,17) poskytnout na vlastní náklady orgánům státní správy a samosprávy, ozbrojeným silám, ozbrojeným bezpečnostním sborům a záchranným sborům, popřípadě za cenu sjednanou podle zvláštního právního předpisu8) právnickým nebo fyzickým osobám určeným zvláštním právním předpisem17) přednostně telekomunikační služby.\n(2) Provozovatelé veřejných telekomunikačních zařízení a sítí a poskytovatelé veřejných telekomunikačních služeb jsou povinni zajistit na území, pro něž je vyhlášen krizový stav, přednostní provoz veřejných telefonních stanic, veřejných telefonních hovoren a veřejných telefonních automatů včetně tísňových volání a veřejné rozhlasové službě zajistit přednostní provoz šíření a přenos rozhlasových a televizních signálů provozovatelů rozhlasového a televizního vysílání na základě zvláštního zákona.7)"
+    },
+    {
+      "provision_ref": "§ 88",
+      "section": "88",
+      "title": "§ 88",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 14 - Ochrana telekomunikací",
+      "content": "(1) Provozovatelé strojů, přístrojů a zařízení (dále jen „zařízení“), jejichž provozováním vzniká vysokofrekvenční energie, jsou povinni zajistit, aby vysokofrekvenční energie těchto zařízení nezpůsobovala rušení provozu telekomunikačních zařízení a sítí, popřípadě poskytování telekomunikačních služeb nebo provozování radiokomunikačních služeb.\n(2) Dojde-li k rušení provozu telekomunikačního zařízení nebo sítě, poskytování telekomunikačních služeb nebo provozování radiokomunikačních služeb, je provozovatel rušicího zařízení povinen učinit vhodná ochranná opatření. Neprovede-li provozovatel rušicího zařízení ochranná opatření sám, provede je provozovatel rušeného telekomunikačního zařízení nebo sítě na náklady provozovatele rušicího zařízení.\n(3) Pokud rušení vzniklo nedodržením podmínek stanovených pro provoz zařízení, nese náklady na ochranná opatření provozovatel tohoto zařízení, jinak nese náklady provozovatel zařízení později uvedeného do provozu nebo změněného. Pokud rušené zařízení neodpovídá požadavkům na elektromagnetickou kompatibilitu,1) ponese náklady na ochranná opatření provozovatel tohoto zařízení. Jinak nese tyto náklady provozovatel zařízení později zřízeného nebo změněného.\n(4) Spory o výši ekonomicky oprávněných nákladů na ochranná opatření k odstranění rušení rozhodne soud.\n(5) Úřad zjišťuje zdroje rušení provozu telekomunikačních zařízení a sítí, poskytování telekomunikačních služeb nebo provozování radiokomunikačních služeb a vydává rozhodnutí k odstranění zdroje rušení. Úřad v rozhodnutí uvede důvody a lhůtu pro odstranění zdroje rušení. V odůvodněných případech Úřad vydá předběžné opatření k okamžitému odstavení zdroje rušení. Odvolání proti předběžnému opatření nemá odkladný účinek.\n(6) Úřad zjišťuje přednostně zdroje rušení provozu telekomunikačních zařízení Ministerstva obrany a ozbrojených sil České republiky, Ministerstva vnitra, Bezpečnostní informační služby, Policie České republiky, Hasičského záchranného sboru České republiky, zdravotnické záchranné služby, služby pátrání celního úřadu a Vězeňské služby České republiky (dále jen „Vězeňská služba“).\n(7) Za rušení provozu telekomunikačních zařízení a sítí, poskytování telekomunikačních služeb nebo provozování radiokomunikačních služeb se považuje i rušení způsobené elektromagnetickým stíněním nebo odrazy elektromagnetických vln stavbami. Na návrh Úřadu rozhoduje o způsobu odstranění tohoto rušení po dohodě s Úřadem příslušný stavební úřad podle zvláštního právního předpisu.18)\n(8) Přijímat, využívat nebo přerušit telekomunikační službu či do ní jinak zasahovat je možné pouze se souhlasem jejího provozovatele, pokud tento zákon nestanoví jinak. Toto ustanovení se netýká přímo rozhlasového a televizního vysílání v pásmu rozhlasových služeb, není-li chráněno proti nežádoucímu příjmu systémem podmíněného přístupu.\n(9) Stavebníci (investoři) staveb, vodohospodářských děl nebo zařízení, jejichž provedení je spojeno se zemními pracemi, jsou povinni v rámci řízení podle stavebního řádu doložit žádost o vydání územního rozhodnutí nebo stavebního povolení vyjádřením provozovatele veřejné telekomunikační sítě nebo neveřejné telekomunikační sítě používané pro účely Ministerstva vnitra nebo Ministerstva obrany o existenci podzemních vedení telekomunikačních sítí ve staveništi. Stavební úřad příslušný k vydání územního rozhodnutí nebo stavebního povolení stanoví v rozhodnutí podmínky k ochraně vedení telekomunikační sítě.\n(10) Právnické nebo fyzické osoby, které budou provádět stavební práce podle předchozího odstavce, jsou povinny provést veškerá opatření, aby nedošlo k poškození vedení telekomunikační sítě. To se týká i provádění hluboké orby na zemědělských pozemcích.\n(11) Ustanovení odstavců 1, 2 a 8 se nevztahují na používání zabezpečovací techniky pověřenými orgány Vězeňské služby podle zvláštního právního předpisu18a) v objektech, ve kterých se vykonává vazba nebo trest odnětí svobody, k zabránění nedovolené komunikace osob ve výkonu vazby nebo ve výkonu trestu odnětí svobody.\nStyk telekomunikačních vedení veřejné telekomunikační sítě s okolím"
+    },
+    {
+      "provision_ref": "§ 89",
+      "section": "89",
+      "title": "§ 89",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 14 - Ochrana telekomunikací",
+      "content": "(1) Telekomunikační vedení veřejné telekomunikační sítě může ve veřejném zájmu křížit energetická, vodovodní, kanalizační a jiná vedení, zásobárny přírodních vod, území chráněná podle zvláštních právních předpisů, dráhy, pozemní komunikace, vodohospodářská a jiná díla a jejich ochranná pásma nebo se jich jinak dotknout a může být jimi kříženo nebo jinak dotčeno, a to způsobem přiměřeným ochraně životního prostředí tak, aby byly co nejméně dotčeny zájmy zúčastněných vlastníků. Toto ustanovení platí obdobně pro souběh telekomunikačního vedení s uvedenými vedeními, díly nebo územími a jejich ochrannými pásmy. Ustanovení zvláštního právního předpisu není tímto dotčeno.19)\n(2) V obvodu železničních drah20) a silničním pomocném pozemku21) může být telekomunikační vedení veřejné telekomunikační sítě umísťováno na základě smlouvy o zřízení věcného břemene k umístění tohoto vedení uzavřené mezi vlastníkem železniční dráhy, popřípadě vlastníkem pozemní komunikace a držitelem telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitelem osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení."
+    },
+    {
+      "provision_ref": "§ 90",
+      "section": "90",
+      "title": "§ 90",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 14 - Ochrana telekomunikací",
+      "content": "(1) Držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě a držitel osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení jsou ve veřejném zájmu oprávněni\na) zřizovat a provozovat na cizích pozemcích nadzemní a podzemní vedení telekomunikační sítě, včetně jejich opěrných a vytyčovacích bodů, telefonní budky pro veřejné telefonní automaty, přetínat tyto pozemky vodiči a umísťovat v nich vedení telekomunikační sítě,\nb) po dohodě s vlastníkem budovy zřizovat a provozovat v cizích budovách vnitřní telekomunikační rozvody,22) koncové body telekomunikační sítě, přípojná telekomunikační vedení pro veřejné telefonní automaty a telekomunikační zařízení veřejné telekomunikační sítě,\nc) v nezbytném rozsahu vstupovat nebo vjíždět na cizí nemovitosti v souvislosti s činnostmi uvedenými v písmenech a) a b) a při přípravě projektové dokumentace, opravách a údržbě telekomunikačních vedení a zařízení umístěných na cizích nemovitostech v souvislosti s činnostmi uvedenými v písmenech a) a b),\nd) v nezbytném rozsahu kácet a oklesťovat dřeviny ohrožující bezpečný a spolehlivý provoz telekomunikačních vedení a zařízení, a to v souladu s podmínkami stanovenými zvláštním právním předpisem.19)\n(2) Nadzemním telekomunikačním vedením se rozumí drátová nebo kabelová vedení a telekomunikační zařízení postavená nad zemí a vně budov. Opěrnými body nadzemních telekomunikačních vedení a zařízení jsou konstrukce nesoucí nebo podpírající vodiče nebo kabely nebo anténní systémy nadzemního telekomunikačního vedení a zařízení (stožár, střešník, zední konzola, nosič anténních systémů).\n(3) Stavba nadzemního vedení telekomunikační sítě je tvořena konzolami umístěnými na nemovitostech či stožárech, jimiž jsou sloupy či jiné svislé konstrukce upevněné do země, na které se při výstavbě upevňují telekomunikační kabely či dráty a další výstroj.\n(4) Podzemním telekomunikačním vedením se rozumí kabelová vedení, včetně kabelových souborů a zařízení uložených pod povrchem země a kabelových rozvaděčů umístěných nad úrovní terénu. Kabelovými soubory a zařízeními jsou zejména spojky, kabelové doplňky, průběžné zesilovače, opakovače, zařízení k ochraně kabelu před korozí, před přepětím, zařízení pro tlakovou ochranu kabelu. Vytyčovacími body podzemních telekomunikačních vedení jsou kabelové označníky, patníky nebo sloupky určující polohu kabelových souborů a zařízení, křižovatky kabelů s komunikacemi, dráhou, vodními toky, polohové změny trasy kabelu v obcích nebo ve volném terénu.\n(5) Stavba podzemního vedení telekomunikační sítě je tvořena kabelovou rýhou a bezpečnostní zónou. Kabelová rýha je upravený výkop pro uložení kabelů, jejich chrániček a dalších součástí podzemního vedení. Bezpečnostní zóna je prostor o šíři 0,5 m na každou stranu od vnější hrany rýhy."
+    },
+    {
+      "provision_ref": "§ 91",
+      "section": "91",
+      "title": "§ 91",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 14 - Ochrana telekomunikací",
+      "content": "(1) Držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě a držitel osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení jsou povinni oznámit vlastníkovi, popřípadě uživateli nemovitosti vstup na jeho nemovitost. Při tomto vstupu jsou povinni zdržet se všeho, čím by nad míru přiměřenou poměrům obtěžovali vlastníka, popřípadě uživatele nemovitosti nebo jinak ohrožovali výkon jejich práv. Po ukončení činností jsou držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitel osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení povinni uvést nemovitost bezodkladně na vlastní náklad do původního, popřípadě náležitého stavu, a není-li to možné s ohledem na povahu provedených prací, do stavu odpovídajícího předchozímu účelu nebo užití dotčené nemovitosti.\n(2) Dojde-li mezi vlastníkem nemovitosti a držitelem telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitelem osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení ke sporu o rozsahu oprávnění stanovených v § 90 odst. 1, rozhodne obecný stavební úřad.\n(3) Pro zajištění výkonu oprávnění podle § 90 odst. 1 písm. a) a b) uzavře držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitel osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení s vlastníkem dotčené nemovitosti před zahájením stavby písemnou dohodu o zřízení věcného břemene k dotčené nemovitosti za jednorázovou úhradu. Nedojde-li k dohodě, rozhodne o zřízení věcného břemene a výši jednorázové úhrady obecný stavební úřad na návrh držitele telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitele osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení.\n(4) V případě havárie telekomunikačních vedení, popřípadě zařízení veřejné telekomunikační sítě je vlastník nemovitosti, na níž je toto vedení umístěno, povinen umožnit držiteli telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě a držiteli osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení vstup na nemovitost za účelem odstranění havárie bez předchozího projednání s ním. Držitel telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě a držitel osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení je povinen neprodleně oznámit vlastníku dotčené nemovitosti provedení prací, jejich místo zabezpečit a zajistit následně uvedení dotčené nemovitosti do původního, popřípadě náležitého stavu.\n(5) Právní vztahy odpovědnosti za škodu způsobenou držitelem telekomunikační licence ke zřizování a provozování veřejné telekomunikační sítě nebo držitelem osvědčení o registraci ke zřizování a provozování veřejných telekomunikačních sítí určených výhradně k jednosměrnému šíření televizních signálů po vedení v souvislosti s omezením vlastnického práva vlastníka nemovitosti, na níž je zřízeno a provozováno telekomunikační vedení veřejné telekomunikační sítě, se řídí občanským zákoníkem.\n(6) Vlastník domu, bytu nebo nebytových prostor je povinen umožnit uživatelům tohoto domu, bytu nebo nebytových prostor příjem rozhlasového a televizního vysílání provozovatelů ze zákona za podmínky, že v místě příjmu je signál přiměřené kvality. Dále je povinen umožnit zřízení vnitřního telekomunikačního rozvodu, včetně koncového bodu. Dojde-li mezi vlastníkem domu, bytu nebo nebytových prostor a uživateli tohoto domu, bytu nebo nebytových prostor ke sporu o rozsahu této povinnosti, rozhodne obecný stavební úřad.\n(7) Stavebník, který vyvolal překládku nadzemního nebo podzemního vedení veřejné telekomunikační sítě, nese náklady na nezbytné úpravy dotčeného úseku telekomunikačního vedení, a to na úrovni stávajícího technického řešení. Náklady související s modernizací či zvýšením přenosové kapacity nadzemního nebo podzemního vedení telekomunikační sítě nese vlastník tohoto vedení."
+    },
+    {
+      "provision_ref": "§ 92",
+      "section": "92",
+      "title": "§ 92 Ochranná pásma telekomunikačních zařízení",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA TŘETÍ - REGULACE TELEKOMUNIKAČNÍCH ČINNOSTÍ > Díl 14 - Ochrana telekomunikací",
+      "content": "(1) K ochraně telekomunikačních zařízení se zřizují ochranná pásma.\n(2) Ochranné pásmo podzemních telekomunikačních vedení vzniká dnem nabytí právní moci územního rozhodnutí o umístění stavby.\n(3) Ochranné pásmo podzemních telekomunikačních vedení činí 1,5 m po stranách krajního vedení.\n(4) V ochranném pásmu podzemních telekomunikačních vedení je zakázáno\na) provádět bez souhlasu jejich vlastníka zemní práce s výjimkou nezbytně nutných oprav vodovodů a kanalizací při jejich haváriích; v těchto případech je provozovatel vodovodů a kanalizací povinen tuto skutečnost oznámit bez zbytečného odkladu provozovateli dotčeného telekomunikačního zařízení,\nb) zřizovat stavby či umísťovat konstrukce nebo jiná podobná zařízení a provádět činnosti, které by znemožňovaly nebo podstatně znesnadňovaly přístup k podzemnímu telekomunikačnímu vedení nebo které by mohly ohrozit bezpečnost a spolehlivost jeho provozu,\nc) vysazovat trvalé porosty.\n(5) Ochranná pásma ostatních telekomunikačních zařízení vznikají dnem právní moci územního rozhodnutí o ochranném pásmu.23) Účastníkem územního řízení o ochranném pásmu je Úřad.\n(6) Ochranné pásmo nadzemních telekomunikačních vedení vzniká dnem nabytí právní moci rozhodnutí podle zvláštního právního předpisu23) a je v něm zakázáno zřizovat stavby, elektrická vedení a železné konstrukce, umísťovat jeřáby, vysazovat porosty, zřizovat vysokofrekvenční zařízení a nebo jinak způsobovat elektromagnetické stíny, odrazy nebo rušení."
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ČTVRTÁ - VYMEZENÍ PŮSOBNOSTI",
+      "content": "Státní správu ve věcech telekomunikací vykonává podle tohoto zákona a v rozsahu jím vymezeném a podle mezinárodních smluv, kterými je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, Ministerstvo informatiky a Úřad."
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ČTVRTÁ - VYMEZENÍ PŮSOBNOSTI",
+      "content": "Ministerstvu informatiky náležejí, kromě působnosti stanovené zvláštním právním předpisem,24) tyto kompetence:\na) stanoví principy a hlavní zásady státní regulace v telekomunikacích,\nb) zabezpečuje ve věcech telekomunikací plnění závazků vyplývajících z mezinárodních smluv, kterými je Česká republika vázána a které jsou vyhlášeny ve Sbírce zákonů nebo Sbírce mezinárodních smluv, anebo závazků vyplývajících z členství České republiky v mezinárodních organizacích,\nc) vytváří národní telekomunikační politiku a sleduje její realizaci,\nd) zabezpečuje mezivládní vztahy v oblasti telekomunikací na úrovni vlád, vládních i nevládních organizací,\ne) plní funkci gestora za státní správu v oblasti telekomunikací České republiky v mezinárodních organizacích,\nf) zajišťuje v oblasti telekomunikací integraci do evropských struktur,\ng) schvaluje plán přidělení kmitočtových pásem."
+    },
+    {
+      "provision_ref": "§ 95",
+      "section": "95",
+      "title": "§ 95 Úřad",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ČTVRTÁ - VYMEZENÍ PŮSOBNOSTI",
+      "content": "1. v rámci všeobecné působnosti\na) ukládá a vybírá, popřípadě vymáhá pokuty za porušení povinností stanovených tímto zákonem, prováděcími předpisy k tomuto zákonu a správním rozhodnutím a předběžným opatřením vydaným Úřadem; za stejných podmínek ukládá nepeněžitá plnění,\nb) rozhoduje o zákazu vykonávání telekomunikačních činností provozovateli nebo poskytovateli, kteří neodstraní zjištěné nedostatky ve stanovené lhůtě, přestože je k tomu Úřad vyzve,\nc) rozhoduje ve sporech, nestanoví-li zákon jinak,\nd) vydává opatření a předběžná opatření, které jsou provozovatelé a poskytovatelé povinni dodržovat,\ne) vydává Telekomunikační věstník jako publikační sbírku odvětví telekomunikací,\nf) připravuje věcné návrhy právních předpisů pro oblast telekomunikací,\ng) zabezpečuje mezinárodní vztahy ve věcech telekomunikací, které nebyly svěřeny Ministerstvu informatiky nebo jiným orgánům státní správy,\nh) vykonává působnost uznávacího orgánu podle zvláštního právního předpisu7a) při uznávání odborné kvalifikace a jiné způsobilosti pro přístup k regulované činnosti v oblasti telekomunikací nebo pro její výkon na území České republiky, pokud byla odborná kvalifikace pro výkon této činnosti získána nebo tato činnost vykonávána mimo Českou republiku státními příslušníky členských států Evropských společenství nebo jejich rodinnými příslušníky.\n2. v oblasti schvalování telekomunikačních zařízení\na) schvaluje typy nebo uznává technickou způsobilost vybraných a jednotlivě vyrobených telekomunikačních zařízení,\nb) rozhoduje o použití rádiového zařízení, jehož typ nebyl schválen nebo uznán, pro zkušební účely,\nc) pověřuje právnickou nebo fyzickou osobu prováděním zkoušek k ověření technické způsobilosti začleňovaných zařízení,\nd) stanovuje předpisovou základnu pro účely schvalování telekomunikačních zařízení;\n3. v oblasti licenčního řízení\na) rozhoduje o udělení, změně nebo odnětí telekomunikační licence, včetně povinnosti poskytovat univerzální službu, veřejnou dálnopisnou službu a veřejnou telegrafní službu,\nb) zřizuje a spravuje účet,\nc) rozhoduje o provozních a finančních opatřeních k zajištění nepřetržitého poskytování univerzální služby,\nd) vydává generální licenci a rozhoduje o její změně nebo zrušení,\ne) registruje fyzické a právnické osoby, které vykonávají telekomunikační činnosti na základě generální licence, a vydává osvědčení o registraci,\nf) vydává oprávnění k poskytování nových telekomunikačních služeb, pro které nebyla dosud vydána generální licence;\n4. v oblasti přístupu a propojování veřejných telekomunikačních sítí a zpřístupnění účastnického vedení\na) rozhoduje spory o propojení sítí nebo o přístupu k síti, popřípadě o změnách smluv o propojení sítí nebo o přístupu k síti,\nb) vydává síťové plány veřejných telekomunikačních sítí a vykonává správu hranic obvodů veřejných telefonních sítí,\nc) stanovuje a zveřejňuje technické specifikace jednotlivých druhů rozhraní v Telekomunikačním věstníku,\nd) vykonává oprávnění uvedená v § 37b;\n5. v oblasti kmitočtového spektra\na) vykonává správu kmitočtového spektra,\nb) vydává a vyhlašuje plán přidělení kmitočtových pásem (národní kmitočtová tabulka) a změny tohoto plánu,\nc) vydává a vyhlašuje plán využití kmitočtového spektra a změny tohoto plánu,\nd) vydává rozhodnutí o povolení k provozování vysílacích rádiových zařízení a rozhoduje o jejich změnách a odnětí,\ne) ověřuje zkouškou zvláštní způsobilost k obsluze určených vysílacích rádiových zařízení,\nf) koordinuje kmitočty a kmitočtová pásma,\ng) kontroluje využívání kmitočtového spektra;\n6. v oblasti přidělování čísel\na) vykonává správu čísel,\nb) vydává číslovací plány,\nc) rozhoduje o přidělení čísel,\nd) kontroluje využívání přidělených čísel;\n7. v oblasti cen\na) vykonává působnost při uplatňování, regulaci a kontrole cen telekomunikačních služeb, cen za propojení a cen za zpřístupnění,\nb) vydává cenová rozhodnutí,\nc) rozhoduje o sporech v oblasti cen za propojení a přístup k síti;\n8. v oblasti telekomunikačních služeb\na) rozhoduje o změnách všeobecných podmínek v případě, že jsou v rozporu se zákonem nebo prováděcími předpisy k němu, a schvaluje všeobecné podmínky pro poskytování univerzální služby a rozhoduje o jejich změnách,\nb) stanovuje rozsah základního stupně vyúčtování ceny za telekomunikační služby a rozsah podrobného rozpisu cen za jednotlivé hovory,\nc) rozhoduje o námitkách proti vyřízení reklamace vyúčtování cen za telekomunikační služby,\nd) rozhoduje spory o povinnosti účastníka k finančnímu plnění vyplývající ze smlouvy mezi provozovatelem veřejné telekomunikační sítě a účastníkem o poskytování telekomunikačních služeb,\ne) rozhoduje o rozšíření povinnosti poskytovatele univerzální služby zřídit systémy sledování, evidence a kontroly základních ukazatelů rozvoje a kvality poskytování telekomunikační služby i na ostatní poskytovatele veřejné telefonní služby po veřejné pevné telefonní síti nebo provozovatele veřejných pevných telefonních sítí,\nf) povoluje výjimky podle § 83 odst. 8;\n9. stanovuje, vybírá a vymáhá poplatky.\nÚřad je oprávněn vykonávat i další činnosti, pokud to vyplývá z ustanovení zákona."
+    },
+    {
+      "provision_ref": "§ 96",
+      "section": "96",
+      "title": "§ 96 Státní inspekce telekomunikací",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ČTVRTÁ - VYMEZENÍ PŮSOBNOSTI",
+      "content": "(1) Státní inspekci telekomunikací vykonávají pověření zaměstnanci Úřadu (dále jen „pověřené osoby“). Při výkonu státní inspekce telekomunikací postupuje pověřená osoba podle zvláštního právního předpisu.25)\n(2) Při výkonu státní inspekce telekomunikací pověřené osoby kontrolují plnění povinností a podmínek stanovených tímto zákonem nebo prováděcími předpisy k tomuto zákonu. Zjišťují, zda osoby, jimž ukládá tento zákon a prováděcí předpisy povinnosti v oblasti telekomunikací, (dále jen „povinné osoby“) plní uložené povinnosti a zda dodržují podmínky stanovené v rozhodnutích vydaných Úřadem.\n(3) Práva a povinnosti pověřených osob i povinných osob při výkonu státní inspekce telekomunikací stanoví zvláštní právní předpis.25)\n(4) Výkon státní inspekce telekomunikací se nevztahuje na telekomunikační zařízení uvedená v § 5 odst. 2, s výjimkou rozhraní těchto telekomunikačních zařízení."
+    },
+    {
+      "provision_ref": "§ 97",
+      "section": "97",
+      "title": "§ 97",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PÁTÁ - SANKCE",
+      "content": "(1) Úřad uloží pokutu až do výše 5 000 000 Kč právnické osobě nebo fyzické osobě podnikající podle zvláštního právního předpisu,14) která\na) uvádí na trh koncová zařízení nebo rádiová zařízení, jejichž typ nebyl Úřadem schválen nebo uznán,\nb) připojí k veřejné telekomunikační síti přímo nebo nepřímo koncové zařízení, jehož typ nebyl schválen nebo uznán,\nc) použije ke zkušebním účelům vysílací rádiové zařízení, jehož typ nebyl schválen nebo uznán, bez rozhodnutí Úřadu,\nd) veřejně vystavuje na veletrzích, výstavách, předváděcích a obdobných akcích koncové zařízení nebo rádiové zařízení, jehož typ nebyl schválen nebo uznán, bez viditelného upozornění, že zařízení nesmí být uváděno na trh a provozováno před tím, než bude jeho typ schválen nebo uznán,\ne) neoznámila Úřadu ve stanovené lhůtě, že uvede na trh rádiové zařízení využívající kmitočtová pásma v rozporu s plánem přidělení kmitočtových pásem,\nf) neoznačí koncové zařízení nebo rádiové zařízení, jeho obal a návod k obsluze schvalovací značkou podle § 11,\ng) zneužila schvalovací značku podle § 11 odst. 2,\nh) porušuje ustanovení § 88 odst. 8,\ni) provozuje vysílací rádiové zařízení bez platného povolení nebo generálního oprávnění,\nj) vykonává telekomunikační činnosti, k nimž je potřebná telekomunikační licence, povolení nebo generální licence, bez platné telekomunikační licence, platného povolení nebo bez platného osvědčení o registraci,\nk) vykonává telekomunikační činnosti v rozporu s podmínkami stanovenými správním rozhodnutím nebo generální licencí, popřípadě v rozporu s opatřením nebo předběžným opatřením Úřadu,\nl) nedodržuje povinnosti při vydávání nebo plnění všeobecných podmínek k poskytování veřejných telekomunikačních služeb,\nm) neplní povinnosti uložené poskytovateli veřejné telekomunikační služby uvedené v § 82 a 83,\nn) neplní povinnosti stanovené pro poskytování univerzální služby,\no) předložila nesprávné nebo neúplné údaje pro účtování prokazatelné ztráty,\np) nepřispívá finančně řádně a včas na účet univerzální služby,\nq) nevede oddělenou evidenci nákladů, tržeb a výnosů, včetně vloženého kapitálu telekomunikačních služeb,\nr) nezřídila systémy sledování, evidence a kontroly základních ukazatelů rozvoje a kvality poskytování telekomunikační služby nebo údaje z těchto systémů nepředložila Úřadu na jeho vyžádání anebo předložila nesprávné nebo neúplné údaje,\ns) neplatí řádně a včas poplatky,\nt) využívá číslo, číselnou řadu, jméno nebo adresu bez rozhodnutí Úřadu o přidělení čísla, číselné řady, jména nebo adresy, popřípadě v rozporu s plánem čísel, jmen nebo adres,\nu) porušila telekomunikační tajemství nebo povinnosti týkající se ochrany osobních nebo zprostředkovacích dat,\nv) neumožnila propojení jiné sítě se svou sítí, přístup ke své síti, zpřístupnění nebo připojení telekomunikačního zařízení ke své síti, popřípadě znemožnila uzavření smlouvy o propojení, přístupu k síti, zpřístupnění nebo připojení,\nw) neoprávněně připojí k veřejné telekomunikační síti přímo nebo nepřímo koncové zařízení,\nx) nesplní povinnost zveřejnit potřebné informace vyplývající z tohoto zákona,\ny) provozuje zařízení, které způsobuje rušení,\nz) neumožnila sdílení kapacit podle § 45,\naa) brání výkonu státní inspekce telekomunikací,\nbb) porušila zákazy provádět v ochranném pásmu činnosti uvedené v § 92 odst. 4 a 6, nebo uvedené v územním rozhodnutí o ochranném pásmu telekomunikačních zařízení,\ncc) nepředloží Úřadu návrh všeobecných podmínek pro poskytování univerzální služby nebo návrh změn těchto podmínek ke schválení,\ndd) neoznámí vlastníkovi, popřípadě uživateli nemovitosti vstup na jeho nemovitosti podle § 91 odst. 1 a 4,\nee) nesplní povinnosti uvedené v § 36a,\nff) nesplní povinnosti uvedené v § 37a odst. 4 písm. a), b), e) nebo f).\n(2) Úřad uloží pokutu až do výše 1 000 000 Kč právnické osobě, která\na) písemně neoznámí datum zahájení vykonávání nebo ukončení telekomunikační činnosti nebo datum zahájení provozování nebo ukončení provozování vysílacího rádiového zařízení nebo změny skutečností, na základě kterých bylo vydáno správní rozhodnutí nebo provedena registrace,\nb) neposkytne Úřadu doklady a informace o trvání finančního zajištění řádného výkonu telekomunikačních činností, pro které vyžaduje zákon finanční zajištění,\nc) nepředloží Úřadu statistické výkazy o telekomunikačních činnostech, které na základě licence nebo generální licence vykonává,\nd) neumožní Úřadu kontrolu vykonávání telekomunikačních činností,\ne) vykonává obsluhu vysílacího rádiového zařízení bez platného průkazu zvláštní způsobilosti k obsluze těchto zařízení,\nf) neoznámí ukončení využívání přidělených kmitočtů, čísel, číselných řad, jmen nebo adres,\ng) nepředloží Úřadu zprávu o využívání čísla, číselné řady, jména nebo adresy,\nh) porušuje ustanovení § 88 odst. 8.\n(3) Úřad uloží pokutu až do výše 100 000 Kč fyzické osobě, která\na) připojí k veřejné telekomunikační síti přímo nebo nepřímo koncové zařízení, jehož typ nebyl schválen nebo uznán,\nb) provozuje vysílací rádiové zařízení bez platného povolení nebo generální licence,\nc) vykonává obsluhu vysílacího rádiového zařízení bez platného průkazu zvláštní způsobilosti k obsluze těchto zařízení,\nd) vykonává telekomunikační činnosti, k nimž je potřebná telekomunikační licence, povolení nebo generální licence, bez platné telekomunikační licence, platného povolení nebo bez platného osvědčení o registraci,\ne) uskutečnila zlomyslné volání prostřednictvím tísňového volání,\nf) neplatí řádně a včas poplatky,\ng) využívá číslo, číselnou řadu, jméno nebo adresu bez rozhodnutí Úřadu o přidělení čísla, číselné řady, jména nebo adresy, popřípadě v rozporu s plánem čísel, jmen nebo adres,\nh) porušuje ustanovení § 88 odst. 8,\ni) porušila telekomunikační tajemství nebo povinnosti týkající se ochrany osobních nebo zprostředkovacích dat,\nj) neoprávněně připojí k veřejné telekomunikační síti přímo nebo nepřímo koncové zařízení,\nk) provozuje zařízení, které způsobuje rušení,\nl) brání výkonu státní inspekce telekomunikací,\nm) porušila zákazy provádět v ochranném pásmu činnosti uvedené v § 92 odst. 4 nebo uvedené v územním rozhodnutí o ochranném pásmu telekomunikačních zařízení."
+    },
+    {
+      "provision_ref": "§ 98",
+      "section": "98",
+      "title": "§ 98",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PÁTÁ - SANKCE",
+      "content": "Za opětovné porušení povinností může Úřad uložit pokutu až do výše dvojnásobku pokuty uvedené v § 97."
+    },
+    {
+      "provision_ref": "§ 99",
+      "section": "99",
+      "title": "§ 99",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PÁTÁ - SANKCE",
+      "content": "Pokud právnická nebo fyzická osoba nesplní povinnosti stanovené rozhodnutím a předběžným opatřením podle § 88 odst. 5, může Úřad rozhodnout o vyřazení rušicího zařízení z provozu. Pokud fyzická osoba opakovaně uskutečňuje zlomyslná volání na linku tísňového volání nebo nelze tuto osobu zjistit, může Úřad rozhodnout o vyřazení koncového zařízení z provozu."
+    },
+    {
+      "provision_ref": "§ 100",
+      "section": "100",
+      "title": "§ 100",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA PÁTÁ - SANKCE",
+      "content": "(1) Pokutu lze uložit do dvou let ode dne, kdy se Úřad o protiprávním jednání dověděl, nejpozději však do pěti let od doby, kdy k němu došlo.\n(2) Úřad vybírá a vymáhá pokuty postupem podle zvláštního právního předpisu.26)\n(3) Při stanovení výše pokuty se přihlíží k závažnosti, způsobu, době trvání a následkům protiprávního jednání.\n(4) Pokuty uložené a vybrané podle zákona jsou příjmem státního rozpočtu."
+    },
+    {
+      "provision_ref": "§ 101",
+      "section": "101",
+      "title": "§ 101 Poplatky",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Za úkony Úřadu podle tohoto zákona Úřad vybírá\na) správní poplatky stanovené zvláštním právním předpisem,\nb) poplatky podle § 65, 66, 75 a 82 zákona.\n(2) Poplatky s výjimkou části poplatků za přidělené kmitočty (§ 58) jsou příjmem státního rozpočtu. Úřad vymáhá správní poplatky a poplatky podle odstavce 1 písm. b) postupem podle zvláštního právního předpisu.26)"
+    },
+    {
+      "provision_ref": "§ 102",
+      "section": "102",
+      "title": "§ 102",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) V řízení ve věcech upravených tímto zákonem se postupuje podle obecných předpisů o správním řízení, pokud jednotlivá ustanovení tohoto zákona nestanoví jinak.\n(2) O opravných prostředcích proti rozhodnutím vydaným Úřadem rozhoduje předseda Úřadu. Proti jeho rozhodnutí se nelze odvolat."
+    },
+    {
+      "provision_ref": "§ 102a",
+      "section": "102a",
+      "title": "§ 102a",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Ministerstvo vnitra, krajské úřady a obecní úřady obcí s rozšířenou působností poskytují Úřadu pro účely plnění úkolů státní správy stanovených mu zákonem z informačního systému evidence obyvatel28)\na) u státních občanů České republiky\n1. jméno, popřípadě jména, příjmení, rodné příjmení,\n2. datum narození,\n3. rodné číslo,\n4. státní občanství,\n5. adresu místa trvalého pobytu, včetně předchozích adres místa trvalého pobytu,\n6. datum, místo a okres úmrtí; jde-li o úmrtí občana mimo území České republiky, datum a stát, na jehož území k úmrtí došlo,\n7. den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den úmrtí;\nb) u cizinců vedených v informačním systému evidence obyvatel\n1. jméno, popřípadě jména, příjmení, rodné příjmení,\n2. datum narození,\n3. rodné číslo,\n4. státní občanství,\n5. druh a adresu místa pobytu,\n6. datum, místo a okres úmrtí, jde-li o úmrtí mimo území České republiky, stát, na jehož území k úmrtí došlo, popřípadě datum úmrtí,\n7. den, který byl v rozhodnutí soudu o prohlášení za mrtvého prohlášen jako den úmrtí."
+    },
+    {
+      "provision_ref": "§ 103",
+      "section": "103",
+      "title": "§ 103",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Zaměstnanci Ministerstva informatiky a Úřadu nesmějí vykonávat kromě výkonu svého zaměstnání poradenskou anebo jinou odbornou pomoc ve věcech telekomunikací pro fyzické a právnické osoby, které vykonávají telekomunikační činnosti.\n(2) Zaměstnanci Úřadu nesmějí přijímat účast ve statutárních, řídících a kontrolních orgánech obchodních společností zabývajících se telekomunikacemi a podnikat v odvětví telekomunikací."
+    },
+    {
+      "provision_ref": "§ 104",
+      "section": "104",
+      "title": "§ 104 Úřední jazyk",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Před Úřadem se jedná v jazyce českém. Veškerá písemná podání se předkládají v češtině a listinné důkazy, pokud nejsou v češtině, musí být opatřeny úředním překladem. Úřad může při ústním jednání připustit tlumočníka zapsaného v seznamu tlumočníků, pokud si jej na své náklady obstará osoba jednající s těmito orgány.\n(2) Občané České republiky příslušející k národnostním a etnickým menšinám mohou jednat před Úřadem ve svém jazyce, musí si však obstarat tlumočníka zapsaného v seznamu tlumočníků. Náklady na tohoto tlumočníka nese Úřad. Povinnost obstarat si tlumočníka se nevztahuje na občany, jejichž mateřským jazykem je slovenský jazyk.\n(3) Občané neslyšící mohou jednat před Úřadem ve znakové řeči, musí si však sami obstarat tlumočníka. Náklady na tohoto tlumočníka nese Úřad.27)"
+    },
+    {
+      "provision_ref": "§ 105",
+      "section": "105",
+      "title": "§ 105",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Ustanovení tohoto zákona se použijí, jen pokud mezinárodní smlouva, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 106",
+      "section": "106",
+      "title": "§ 106",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Pro vymezení postavení odpovědného zástupce platí § 11 živnostenského zákona obdobně."
+    },
+    {
+      "provision_ref": "§ 106a",
+      "section": "106a",
+      "title": "§ 106a",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Pro postup při uznávání odborné kvalifikace a jiné způsobilosti pro přístup k regulované činnosti v oblasti telekomunikací nebo pro její výkon na území České republiky, pokud byla odborná kvalifikace pro výkon této činnosti získána nebo tato činnost vykonávána mimo Českou republiku státními příslušníky členských států Evropských společenství nebo jejich rodinnými příslušníky, platí zvláštní právní předpis.\nPřechodná ustanovení"
+    },
+    {
+      "provision_ref": "§ 107",
+      "section": "107",
+      "title": "§ 107",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Pokud není uvedeno jinak, řídí se tímto zákonem i právní vztahy vzniklé podle právních předpisů platných do dne nabytí účinnosti tohoto zákona.\n(2) Práva a povinnosti z pracovněprávních a jiných vztahů přecházejí z Ministerstva dopravy a spojů na Úřad zřízený zákonem.\n(3) Pokuty podle tohoto zákona lze uložit pouze za protiprávní jednání, k němuž došlo po nabytí účinnosti tohoto zákona.\n(4) Provozovatelé veřejných telekomunikačních sítí a poskytovatelé veřejných telekomunikačních služeb, kteří provozují telekomunikační činnosti na základě platného pověření nebo povolení vydaného podle právních předpisů platných před účinností tohoto zákona, jsou povinni nejpozději do jednoho roku ode dne účinnosti tohoto zákona sdělit Úřadu údaje a doložit doklady vyžadované pro udělení telekomunikační licence v ustanovení § 18 tohoto zákona. Nesplní-li provozovatelé tuto povinnost, pozbude dosavadní pověření, popřípadě povolení platnosti uplynutím posledního dne lhůty stanovené pro sdělení údajů a doložení dokladů. Nesplňuje-li provozovatel na základě sdělených údajů a předložených dokladů podmínky stanovené v § 18 tohoto zákona, zahájí Úřad řízení o odnětí pověření nebo povolení.\n(5) Poskytovatelé telekomunikačních služeb, pro jejichž činnosti je podle tohoto zákona potřebná generální licence, jsou povinni do jednoho roku ode dne nabytí účinnosti tohoto zákona přihlásit se k registraci u Úřadu. Jestliže tak neučiní, jejich dosavadní oprávnění k poskytování telekomunikačních služeb zaniká.\n(6) Správní řízení zahájená přede dnem nabytí účinnosti tohoto zákona, která není potřeba podle tohoto zákona dokončit, Úřad ke dni účinnosti tohoto zákona zastaví.\n(7) Telekomunikační licence udělená podle § 14 odst. 1 písm. b) může nabýt účinnosti nejdříve dnem 1. ledna 2001.\n(8) Platnost rozhodnutí o schválení koncových zařízení nebo rádiových zařízení se schvalovací značkou ČTÚ (s dvouocasým lvem), vydaných od 1. ledna 1993, se účinností zákona nemění.\n(9) Rozhodnutí o schválení koncových zařízení nebo rádiových zařízení se schvalovací značkou se stylizovanými písmeny CS, vydaná do 31. prosince 1992, ztrácejí platnost po uplynutí 6 měsíců od počátku účinnosti zákona, pokud neztratila platnost již dříve. Držitelé těchto rozhodnutí mohou v této lhůtě požádat o vydání nového rozhodnutí v souladu se zákonem.\n(10) Provozovatel vysílacích rádiových zařízení, který na základě platného povolení, které bylo vydáno podle právních předpisů platných před účinností tohoto zákona, provozuje vysílací rádiová zařízení, pro která je podle tohoto zákona potřebné povolení k provozování vysílacích rádiových zařízení, je povinen nejpozději do jednoho roku ode dne nabytí účinnosti tohoto zákona sdělit a doložit Úřadu údaje a doklady, které jsou vyžadovány pro udělení povolení k provozování vysílacích rádiových zařízení podle § 57. Nesplní-li provozovatel vysílacích rádiových zařízení tuto povinnost, pozbude dosavadní povolení k provozování vysílacích rádiových zařízení platnosti, a to uplynutím posledního dne lhůty stanovené pro sdělení údajů a doložení dokladů. Nesplňuje-li provozovatel vysílacích rádiových zařízení podle sdělených údajů a doložených dokladů podmínky, které stanoví § 57, zahájí Úřad řízení o odnětí povolení provozovatele k provozování vysílacích rádiových zařízení.\n(11) Provozovatel vysílacích rádiových zařízení, který byl oprávněn zřizovat a provozovat tato zařízení bez povolení, je povinen požádat Úřad o vydání povolení k provozování vysílacích rádiových zařízení v souladu s tímto zákonem nejpozději do 6 měsíců od nabytí jeho účinnosti.\n(12) Platnost průkazů zvláštní způsobilosti k obsluze vysílacích rádiových zařízení, vydaných před účinností tohoto zákona, se nabytím jeho účinnosti nemění.\n(13) Ustanovení § 29 až 32 a § 80 se použijí od 1. ledna 2001.\n(14) Věcná břemena vzniklá před účinností tohoto zákona zůstávají nedotčena."
+    },
+    {
+      "provision_ref": "§ 108",
+      "section": "108",
+      "title": "§ 108",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Právnické a fyzické osoby oprávněné k provozování činnosti „montáž, údržba a servis telekomunikačních zařízení“ na základě živnostenského oprávnění, které získaly před účinností tohoto zákona, jsou povinny ve lhůtě jednoho roku od účinnosti tohoto zákona doložit živnostenskému úřadu splnění požadované odborné způsobilosti podle nové právní úpravy.\n(2) Právnické a fyzické osoby oprávněné k činnosti „poskytování telekomunikačních služeb“ na základě živnostenského oprávnění, které získaly před účinností tohoto zákona, jsou povinny ve lhůtě jednoho roku od účinnosti tohoto zákona doložit živnostenskému úřadu splnění požadované odborné způsobilosti podle nové právní úpravy.\n(3) Doloží-li osoby uvedené v odstavci 1 živnostenskému úřadu splnění požadované odborné způsobilosti podle tohoto zákona, živnostenský úřad provede změnu vydáním nového živnostenského listu.\n(4) Nesplní-li osoby uvedené v odstavcích 1 a 2 ve stanovené lhůtě povinnost doložit splnění odborné způsobilosti podle tohoto zákona, živnostenský úřad jim neprodleně živnostenské oprávnění zruší.\nZávěrečná ustanovení"
+    },
+    {
+      "provision_ref": "§ 109",
+      "section": "109",
+      "title": "§ 109",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Vláda vydá nařízení k provedení § 65 odst. 2, § 75 odst. 2 a § 82 odst. 13 zákona.\n(2) Ministerstvo dopravy a spojů vydá vyhlášku k provedení § 2 odst. 4, § 11 odst. 2, § 17 odst. 4, § 29 odst. 3, § 31 odst. 4, § 32 odst. 7, § 33 odst. 1, § 36 odst. 2, § 38 odst. 7, § 39 odst. 9, § 41 odst. 2, § 56 odst. 8 a 9, § 67 odst. 5 zákona.\n(3) Ministerstvo vnitra vydá vyhlášku k provedení § 86 odst. 2 zákona."
+    },
+    {
+      "provision_ref": "§ 110",
+      "section": "110",
+      "title": "§ 110",
+      "chapter": "ČÁST PRVNÍ - ZÁKON O TELEKOMUNIKACÍCH > HLAVA ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušuje se:\n1. Zákon č. 110/1964 Sb., o telekomunikacích.\n2. Zákon č. 150/1992 Sb., kterým se mění a doplňuje zákon č. 110/1964 Sb., o telekomunikacích."
+    },
+    {
+      "provision_ref": "§ 111",
+      "section": "111",
+      "title": "§ 111",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o působnosti orgánů České republiky v oblasti cen",
+      "content": "Zákon č. 265/1991 Sb., o působnosti orgánů České republiky v oblasti cen, ve znění zákona č. 135/1994 Sb. a zákona č. 151/1997 Sb., se mění takto:\n§ 2b zní:"
+    },
+    {
+      "provision_ref": "„§ 2b",
+      "section": "2b",
+      "title": "„§ 2b",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o působnosti orgánů České republiky v oblasti cen",
+      "content": "(1) Ministerstvo dopravy a spojů stanoví rozhodnutím ceny a podmínky jejich uplatnění (tarify) v mezinárodní dopravě.\n(2) Český telekomunikační úřad\na) vykonává působnost při uplatňování, regulaci a kontrole cen telekomunikačních služeb,\nb) vydává rozhodnutí pro regulaci a sjednávání cen telekomunikačních služeb.“."
+    },
+    {
+      "provision_ref": "§ 112",
+      "section": "112",
+      "title": "§ 112",
+      "chapter": "ČÁST TŘETÍ - Změna zákona o Radě České republiky pro rozhlasové a televizní vysílání",
+      "content": "Zákon č. 103/1992 Sb., o Radě České republiky pro rozhlasové a televizní vysílání, ve znění zákona č. 474/1992 Sb., zákona č. 36/1993 Sb., zákona č. 331/1993 Sb., zákona č. 253/1994 Sb., zákona č. 301/1995 Sb. a zákona č. 135/1997 Sb., se mění takto:\nV § 2 odst. 1 se zrušuje písmeno j) a na konci ustanovení písmena i) se čárka nahrazuje tečkou."
+    },
+    {
+      "provision_ref": "§ 113",
+      "section": "113",
+      "title": "§ 113",
+      "chapter": "ČÁST ČTVRTÁ - Změna zákona o živnostenském podnikání",
+      "content": "Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona č. 591/1992 Sb., zákona č. 600/1992 Sb., zákona č. 273/1993 Sb., zákona č. 303/1993 Sb., zákona č. 38/1994 Sb., zákona č. 42/1994 Sb., zákona č. 136/1994 Sb., zákona č. 200/1994 Sb., zákona č. 237/1995 Sb., zákona č. 286/1995 Sb., zákona č. 94/1996 Sb., zákona č. 95/1996 Sb., zákona č. 147/1996 Sb., zákona č. 19/1997 Sb., zákona č. 49/1997 Sb., zákona č. 61/1997 Sb., zákona č. 79/1997 Sb., zákona č. 217/1997 Sb., zákona č. 280/1997 Sb., zákona č. 15/1998 Sb., zákona č. 83/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 159/1999 Sb., zákona č. 356/1999 Sb., zákona č. 358/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 27/2000 Sb., zákona č. 29/2000 Sb., zákona č. 121/2000 Sb., zákona č. 122/2000 Sb., zákona č. 123/2000 Sb., zákona č. 124/2000 Sb. a zákona č. 149/2000 Sb., se mění takto:\n1. V § 3 odst. 3 písmeno i) včetně poznámky pod čarou č. 19) zní:\n„i) zřizování a provozování veřejných telekomunikačních sítí, poskytování veřejné telefonní služby prostřednictvím veřejných pevných telekomunikačních sítí, poskytování veřejné telefonní služby prostřednictvím veřejných mobilních telekomunikačních sítí a poskytování veřejných dálnopisných a telegrafních služeb,19)\n19) Zákon č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů.“.\n2. V příloze č. 2 se SKUPINA 205: Elektrické přístroje a přístroje doplňuje takto:\n1 2 3\n\"Montáž, údržba a servis telekomunikačních zařízení Odborná způsobilost (§ 8 vyhl. č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice)\".\n3. V příloze č. 3 SKUPINA 305: Elektrické přístroje se text „Zřizování, montáž, údržba a servis telekomunikačních zařízení“ zrušuje.\n4. V příloze č. 3 SKUPINA 305: Elektrické přístroje se obor „Poskytování telekomunikačních služeb“ nahrazuje textem, který zní:\n1 2 3 4 5\n„Poskytování telekomunikačních služeb Osvědčení o registraci nebo individuální oprávnění (§ 51 a 54 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů) Český telekomunikační úřad“."
+    },
+    {
+      "provision_ref": "§ 114",
+      "section": "114",
+      "title": "§ 114",
+      "chapter": "ČÁST PÁTÁ - Změna zákona o správních poplatcích",
+      "content": "Zákon č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 10/1993 Sb., zákona č. 72/1993 Sb., zákona č. 85/1994 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 301/1995 Sb., zákona č. 151/1997 Sb., zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 63/1999 Sb., zákona č. 166/1999 Sb., zákona č. 167/1999 Sb., zákona č. 223/1999 Sb., zákona č. 326/1999 Sb., zákona č. 352/1999 Sb., zákona č. 357/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 46/2000 Sb., zákona č. 62/2000 Sb., zákona č. 117/2000 Sb. a zákona č. 133/2000 Sb., se mění takto:\n1. Sazebník správních poplatků se doplňuje o část XI Telekomunikační poplatky, která zní:"
+    },
+    {
+      "provision_ref": "§ 115",
+      "section": "115",
+      "title": "§ 115",
+      "chapter": "ČÁST ŠESTÁ - Změna zákona o přestupcích",
+      "content": "Zákon č. 200/1990 Sb., o přestupcích, ve znění zákona č. 337/1992 Sb., zákona č. 344/1992 Sb., zákona č. 359/1992 Sb., zákona č. 67/1993 Sb., zákona č. 290/1993 Sb., zákona č. 134/1994 Sb., zákona č. 82/1995 Sb., zákona č. 237/1995 Sb., zákona č. 279/1995 Sb., zákona č. 289/1995 Sb., zákona č. 112/1998 Sb., zákona č. 168/1999 Sb., zákona č. 360/1999 Sb., zákona č. 29/2000 Sb., zákona č. 121/2000 Sb. a zákona č. 132/2000 Sb., se mění takto:\n1. V § 36 odst. 1 se písmena d), e) a f) zrušují.\n2. V § 36 odstavec 2 zní:\n„(2) Za přestupek podle odstavce 1 lze uložit pokutu do 3 000 Kč.“."
+    },
+    {
+      "provision_ref": "§ 116",
+      "section": "116",
+      "title": "§ 116",
+      "chapter": "ČÁST SEDMÁ - Změna stavebního zákona",
+      "content": "Zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 103/1990 Sb., zákona č. 425/1990 Sb., zákona č. 262/1992 Sb., zákona č. 43/1994 Sb., zákona č. 19/1997 Sb., zákona č. 83/1998 Sb., zákona č. 95/2000 Sb., zákona č. 96/2000 Sb. a zákona č. 132/2000 Sb., se mění takto:\n1. V § 56 se za písmeno g) vkládá nové písmeno h), které zní:\n„h) u stavebních úprav vnitřních telekomunikačních rozvodů,“.\nDosavadní písmeno h) se označuje jako písmeno i).\n2. V § 76 se odstavec 3 zrušuje.\n3. V § 143 se odstavec 3 zrušuje.\nDosavadní odstavce 4 a 5 se označují jako odstavce 3 a 4."
+    },
+    {
+      "provision_ref": "§ 117",
+      "section": "117",
+      "title": "§ 117",
+      "chapter": "ČÁST OSMÁ - Změna zákona č. 253/1994 Sb.",
+      "content": "V zákoně č. 253/1994 Sb., kterým se mění zákon č. 110/1964 Sb., o telekomunikacích, ve znění zákona č. 150/1992 Sb., zákon č. 483/1991 Sb., o České televizi, ve znění zákona č. 36/1993 Sb., zákon č. 484/1991 Sb., o Českém rozhlasu, ve znění zákona č. 36/1993 Sb., zákon č. 103/1992 Sb., o Radě České republiky pro rozhlasové a televizní vysílání, ve znění pozdějších předpisů, a mění a doplňuje zákon č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, se čl. I zrušuje."
+    },
+    {
+      "provision_ref": "§ 118",
+      "section": "118",
+      "title": "§ 118",
+      "chapter": "ČÁST DEVÁTÁ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 2000.\nPříloha k zákonu č. 151/2000 Sb.\nPoložky podle § 37a odst. 5 písm. a)\nI. Podmínky pro zpřístupnění účastnického vedení\n1. Síťové prvky, k nimž se nabízí přístup, zejména pro případy, kdy jde o\na) přístup k účastnickému vedení,\nb) přístup k nadhovorové části kmitočtového rozsahu účastnického vedení v případě sdíleného přístupu k účastnickému vedení.\n2. Údaje týkající se míst fyzického přístupu a dostupnosti účastnických vedení ve specifických částech přístupové sítě.\n3. Technické podmínky vztahující se ke zpřístupnění účastnického vedení a jejich využívání včetně technických charakteristik kovového páru vodičů v účastnickém vedení.\n4. Postup pro objednávání a poskytování včetně omezení používání.\nII. Služby společného umístění\n1. Údaje o příslušných místech fyzického přístupu určeného držitele licence.\n2. Možnosti společného umístění v místech uvedených v bodě 1 (včetně fyzického společného umístění, případně dálkového či virtuálního společného umístění).\n3. Charakteristiky zařízení a případná omezení pro zařízení, která lze použít pro společné umístění.\n4. Bezpečnostní otázky včetně opatření přijatých určeným držitelem licence pro zajištění bezpečnosti v jeho prostorách.\n5. Podmínky přístupu pro zaměstnance oprávněného provozovatele.\n6. Bezpečnostní normy.\n7. Pravidla pro přidělování prostoru, je-li prostor pro společné umístění omezený.\n8. Podmínky, za jakých si oprávněný provozovatel může prohlédnout prostory, kde je možné fyzické společné umístění, nebo prostory, kde bylo společné umístění zamítnuto v důsledku nedostatečné kapacity.\nIII. Informační systémy\nPodmínky pro přístup k systémům provozní podpory (OSS) určeného držitele licence, k jeho informačním systémům nebo databázím pro přípravu objednávek, pro poskytování, objednávání, údržbu a žádosti o opravy a pro fakturaci.\nIV. Dodací podmínky\n1. Lhůty pro vyřízení žádostí o dodávku služeb a zařízení; dohody o rozsahu služeb, řešení poruch, postupy pro návrat k normální úrovni služeb a ukazatele kvality služeb.\n2. Vzorové smluvní podmínky včetně případného odškodnění za nedodržení lhůty.\n3. Ceny nebo způsoby pro stanovení cen každé služby, funkce a zařízení vyjmenovaných v této příloze.\n1) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb.\n2) Zákon č. 67/1992 Sb., o Vojenském obranném zpravodajství, ve znění pozdějších předpisů.\nZákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění zákona č. 160/1995 Sb.\n3) Zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů.\nZákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů.\n4) § 37c písm. b) zákona č. 13/1993 Sb., celní zákon, ve znění zákona č. 113/1997 Sb.\n5) Zákon č. 219/1999 Sb., o ozbrojených silách České republiky.\n6) § 16 zákona č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.\n7) Zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů.\nZákon č. 484/1991 Sb., o Českém rozhlasu, ve znění pozdějších předpisů.\n8) Zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů.\n9) Vyhláška č. 182/1991 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České republiky v sociálním zabezpečení, ve znění pozdějších předpisů.\n10) § 8 odst. 1 písm. b) zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů.\n11) Zákon č. 89/1995 Sb., o státní statistické službě.\n11a) § 2 nařízení vlády č. 426/2000 Sb., kterým se stanoví technické požadavky na rádiová a na telekomunikační koncová zařízení.\n12) § 17 až 20 zákona č. 513/1991 Sb., obchodní zákoník.\n13) Zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění zákona č. 29/2000 Sb.\n15) Zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách).\n16) Například zákon č. 67/1992 Sb., zákon č. 154/1994 Sb., zákon č. 283/1991 Sb., zákon č. 141/1961 Sb. a zákon č. 13/1993 Sb.\n17) Ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky.\n§ 2 nařízení vlády č. 284/1992 Sb., o opatřeních hospodářské mobilizace.\n§ 5 zákona č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících.\n18) Zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.\n18a) § 16b zákona č. 555/1992 Sb., o Vězeňské službě a justiční stráži České republiky, ve znění zákona č. 436/2003 Sb.\n19) Zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.\n20) § 4 zákona č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů.\n21) § 11 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění zákona č. 102/2000 Sb.\n22) § 45 vyhlášky č. 137/1998 Sb., o obecných technických požadavcích na výstavbu.\n23) Zákon č. 50/1976 Sb., ve znění pozdějších předpisů.\n24) Zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů.\n25) Zákon č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů.\n26) Zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.\n27) Zákon č. 155/1998 Sb., o znakové řeči a o změně dalších zákonů.\n28) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Telekomunikačním zařízením",
+      "definition": "technické zařízení, včetně vedení, pro vysílání, přenos, směrování, spojování a příjem informací prostřednictvím elektromagnetických vln",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Telekomunikační sítí",
+      "definition": "funkčně propojený soubor telekomunikačních zařízení k přepravě informací mezi koncovými body této sítě nebo soubor rádiových zařízení k přepravě informací nebo jejich vzájemná kombinace",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Veřejnou telekomunikační sítí",
+      "definition": "síť, která má být podle licence nebo generální licence využita zcela nebo zčásti pro poskytování veřejných telekomunikačních služeb, včetně telekomunikační sítě určené výhradně k jednosměrnému šíření televizních nebo rozhlasových signálů po vedení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "koncový bod sítě",
+      "definition": "který je fyzickým spojovacím bodem, ve kterém je uživateli telekomunikační služby poskytován přístup k veřejné telekomunikační síti; Druhy a charakteristiku koncových bodů a rozhraní stanoví prováděcí předpis.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Účastnickým vedením",
+      "definition": "fyzický kovový pár vodičů spojující koncový bod sítě s hlavním rozvaděčem nebo obdobným zařízením ve veřejné pevné telefonní síti",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Úsekem účastnického vedení",
+      "definition": "část účastnického vedení, která spojuje koncový bod sítě se soustřeďovacím bodem nebo se specifikovaným mezilehlým přístupovým bodem veřejné pevné telefonní sítě",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Telekomunikační službou",
+      "definition": "služba, jejíž poskytování spočívá zcela nebo zčásti v přepravě nebo směrování informací telekomunikačními sítěmi třetím osobám",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Veřejnou telekomunikační službou",
+      "definition": "telekomunikační služba, z jejíhož poskytování není předem vyloučen žádný zájemce o její využití",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Veřejnou telefonní službou",
+      "definition": "veřejná telekomunikační služba spočívající v přepravě nebo směrování mluvené řeči v reálném čase mezi koncovými body veřejné telekomunikační sítě, která umožňuje každému uživateli používat zařízení připojené k takovému koncovému bodu za účelem komunikace s jiným uživatelem, jehož zařízení je připojené k jinému koncovému bodu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Uživatelem telekomunikační služby",
+      "definition": "fyzická osoba nebo právnická osoba, které je poskytována telekomunikační služba",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Účastníkem",
+      "definition": "uživatel telekomunikační služby, který je s jejím poskytovatelem ve smluvním vztahu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Tísňovým voláním",
+      "definition": "bezplatná volba čísel, která jsou stanovena v číslovacím plánu a uvedena v telefonních seznamech a která je nutno pro záchranu lidských životů, zdraví nebo majetku zpřístupnit",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Radiokomunikační službou",
+      "definition": "telekomunikační činnost, která spočívá v přenosu, vysílání nebo příjmu informací prostřednictvím rádiových vln",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Rádiovými vlnami",
+      "definition": "elektromagnetické vlny o kmitočtech od 9 kHz do 3 000 GHz, jež se šíří prostorem bez jakéhokoli vedení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Veřejnou pevnou telekomunikační sítí",
+      "definition": "veřejná telekomunikační síť, jejíž koncové body mají pevnou v čase se neměnící geografickou polohu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Telekomunikačním okruhem",
+      "definition": "soubor telekomunikačních zařízení, který zajišťuje přenos informací mezi rozhraními telekomunikačního okruhu a který nezahrnuje přepojovací funkce ovládané uživatelem",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Rušením",
+      "definition": "nežádoucí účinek elektromagnetické energie, který může negativně ovlivnit funkci telekomunikačních zařízení, popřípadě kvalitu telekomunikačních služeb",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Propojením",
+      "definition": "fyzické a logické spojení telekomunikačních sítí využívaných poskytovateli telekomunikačních služeb umožňující uživatelům jednoho poskytovatele telekomunikačních služeb komunikovat s uživateli téhož nebo jiného poskytovatele telekomunikačních služeb nebo za účelem umožnění přístupu ke službám poskytovaným jiným poskytovatelem telekomunikačních služeb",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Připojením",
+      "definition": "fyzické a logické připojení telekomunikačního zařízení k rozhraní veřejné nebo neveřejné telekomunikační sítě za účelem využívání nebo poskytování telekomunikačních služeb",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Držitelem licence s výrazným podílem na trhu",
+      "definition": "pro účely tohoto zákona subjekt, který má oprávnění k provozování veřejných telefonních sítí anebo k poskytování veřejné telefonní služby a který má nejméně dvaceti pěti procentní podíl z relevantního trhu v geografické oblasti, ve které má právo provozovat činnost",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Regulací",
+      "definition": "usměrňování telekomunikačních činností a vztahů podle tohoto zákona a v jeho mezích, za účelem dosažení a udržení konkurenčního prostředí, ochrany telekomunikačního trhu, včetně ochrany uživatelů telekomunikačních služeb, regulačním orgánem vydáváním opatření, která jsou závazná pro provozovatele telekomunikačních zařízení a sítí a pro poskytovatele telekomunikačních služeb a která jsou zveřejňována v Telekomunikačním věstníku",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Koncovým zařízením",
+      "definition": "telekomunikační zařízení připojované přímo nebo nepřímo ke koncovým bodům veřejné telekomunikační sítě, s výjimkou rádiových zařízení a s výjimkou telekomunikačních zařízení pro přenos rozhlasového a televizního vysílání po vedení",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "Rádiovým zařízením",
+      "definition": "telekomunikační zařízení, které využívá rádiových vln, s výjimkou rádiových zařízení určených výhradně pro amatérskou radiokomunikační službu, která jsou individuálně vyrobená",
+      "source_provision": "§ 4"
+    },
+    {
+      "term": "zřizování a provozování telekomunikačního",
+      "definition": "zařízení.",
+      "source_provision": "§ 13"
+    },
+    {
+      "term": "Finanční způsobilostí k vykonávání telekomunikační činnosti, pro kterou je potřebná telekomunikační licence",
+      "definition": "schopnost žadatele finančně zabezpečit zřízení, řádné provozování veřejné telekomunikační sítě nebo řádné poskytování veřejné telekomunikační služby a schopnost zabezpečit současné a budoucí závazky nejméně na období pěti let",
+      "source_provision": "§ 17"
+    },
+    {
+      "term": "Univerzální službou",
+      "definition": "minimální soubor služeb, které jsou dostupné ve stanovené kvalitě všem uživatelům na celém území státu za dostupnou cenu",
+      "source_provision": "§ 29"
+    },
+    {
+      "term": "Prokazatelnou ztrátou",
+      "definition": "rozdíl mezi ekonomicky oprávněnými náklady, včetně přiměřeného zisku, vynaloženými držitelem telekomunikační licence na plnění povinnosti poskytovat univerzální službu, které by poskytovateli univerzální služby nevznikly, pokud by tuto povinnost neměl, a tržbami a výnosy dosaženými držitelem telekomunikační licence z plnění povinnosti poskytovat univerzální službu",
+      "source_provision": "§ 31"
+    },
+    {
+      "term": "Veřejnou telekomunikační službou pronájmu telekomunikačních okruhů",
+      "definition": "pronájem přenosové kapacity úseků mezi koncovými body telekomunikační sítě",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "Úřad vykonává k zajištění účelného využívání kmitočtů správu kmitočtového spektra, kterou",
+      "definition": "sestavování a provádění změn plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) a plánu využití kmitočtového spektra, přidělování kmitočtů a volacích značek, koordinace kmitočtů a kmitočtových pásem, kontrola využívání kmitočtového spektra a vydávání rozhodnutí o povolení k provozování vysílacích rádiových zařízení",
+      "source_provision": "§ 56"
+    },
+    {
+      "term": "rušení provozu telekomunikačních zařízení a sítí, poskytování telekomunikačních služeb nebo provozování radiokomunikačních služeb",
+      "definition": "i rušení způsobené elektromagnetickým stíněním nebo odrazy elektromagnetických vln stavbami",
+      "source_provision": "§ 88"
+    },
+    {
+      "term": "Nadzemním telekomunikačním vedením",
+      "definition": "drátová nebo kabelová vedení a telekomunikační zařízení postavená nad zemí a vně budov",
+      "source_provision": "§ 90"
+    },
+    {
+      "term": "Podzemním telekomunikačním vedením",
+      "definition": "kabelová vedení, včetně kabelových souborů a zařízení uložených pod povrchem země a kabelových rozvaděčů umístěných nad úrovní terénu",
+      "source_provision": "§ 90"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:45/1959",
+  "type": "statute",
+  "title": "45/1959 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, prohlašují za závazné československé státní normy ČSN 01 4044, ČSN 01 4045 a ČSN 01 4046 a s okamžitou platností se ruší československá státní norma ČSN 62 1458",
+  "title_en": "",
+  "short_name": "45/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-03-05",
+  "in_force_date": "1959-03-05",
+  "url": "https://www.e-sbirka.cz/ul0/1959/45",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, prohlašují za závazné československé státní normy ČSN 01 4044, ČSN 01 4045 a ČSN 01 4046 a s okamžitou platností se ruší československá státní norma ČSN 62 1458",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Normy\nČSN 01 4044„Závity pro volnoběžný náboj zadního kola“\nČSN 01 4045„Závity BSC pro zvláštní účely“\nČSN 01 4046„Závity BSC pro paprsky a matice paprsků“\nuveřejněné ve vyhlášce č. 102/1954 Ú. l. a dotištěné v roce 1958 se prohlašují za československé státní normy závazné."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "S okamžitou platností se ruší československá státní norma ČSN 62 1458 „Fyzikální zkoušky pryže. Strukturní pevnost pryže. Metoda Goodrich“, uveřejněná ve vyhlášce č. 349/1953 Ú. l."
+    }
+  ],
+  "definitions": []
+}

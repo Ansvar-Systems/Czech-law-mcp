@@ -1,0 +1,39 @@
+{
+  "id": "cz:276/2016",
+  "type": "statute",
+  "title": "276/2016 Sb., Vyhláška o předávání údajů do registru docentů, profesorů a mimořádných profesorů vysokých škol",
+  "title_en": "",
+  "short_name": "276/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-08-31",
+  "in_force_date": "2017-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2016/276",
+  "description": "Vyhláška o předávání údajů do registru docentů, profesorů a mimořádných profesorů vysokých škol",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje\na) formát a strukturu datové zprávy, jejímž prostřednictvím veřejné, soukromé a státní vysoké školy a poskytovatelé zahraničního vysokoškolského vzdělávání na území České republiky (dále jen „poskytovatel“) uvedení v § 93a zákona o vysokých školách předávají do registru docentů, profesorů a mimořádných profesorů vysokých škol (dále jen „registr“) změny v údajích týkajících se jejich zaměstnanců,\nb) technické podmínky a lhůty předávání údajů uvedených v písmenu a)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Formát a struktura datové zprávy",
+      "content": "(1) Údaje do registru jsou předávány Ministerstvu školství, mládeže a tělovýchovy (dále jen „ministerstvo“) elektronickými formuláři. Přípustný formát datové zprávy je XML.\n(2) Strukturu datové zprávy, kterou vysoké školy předávají údaje do registru, tvoří ty níže uvedené údaje, které jsou při předávání známy:\na) název vysoké školy a její identifikátor, popřípadě i název součásti vysoké školy,\nb) jde-li o docenta nebo profesora,\n1. jméno a příjmení, popřípadě další jména a rodné příjmení,\n2. rok narození,\n3. obec, kde má trvalý pobyt,\n4. u cizinců pohlaví,\n5. u cizinců adresu místa hlášeného pobytu v České republice a státní občanství,\nc) jde-li o vzdělání nebo pedagogickou, vědeckou nebo uměleckou kvalifikaci docenta nebo profesora,\n1. datum získání vysokoškolského vzdělání,\n2. akademické tituly a vědecké hodnosti,\n3. datum jmenování docentem,\n4. datum jmenování profesorem,\nvčetně uvedení programů a oborů, ve kterých byly akademické tituly a vědecké hodnosti získány a ve kterých byla habilitační řízení a řízení ke jmenování profesorem ukončena, a uvedení vysoké školy, na které se habilitační řízení nebo řízení ke jmenování profesorem uskutečnilo, a data jmenování docentem a profesorem,\nd) jde-li o mimořádného profesora,\n1. údaje uvedené v písmenech a) a b),\n2. údaje uvedené v písmenu c) bodech 1 a 2, získala-li tato osoba titul „docent“, také údaj uvedený v písmenu c) bodu 3,\n3. údaje o postavení srovnatelném s docentem nebo profesorem dosaženém v zahraničí,\n4. údaje o délce praxe v příslušné oblasti vzdělávání, ve které bylo zřízeno pracovní místo daného mimořádného profesora,\ne) jde-li o docenta, profesora nebo mimořádného profesora, též\n1. údaje o pracovním zařazení,\n2. údaje o vzniku základního pracovněprávního vztahu zaměstnance k vysoké škole nebo v případě státní vysoké školy k České republice, včetně údaje o rozsahu práce, vyjádřeném stanoveným počtem hodin výkonu práce za týden, případně za kalendářní rok nebo za jiné příslušné období, a údaje o době, na kterou je základní pracovněprávní vztah k vysoké škole nebo k České republice sjednán, a obdobné údaje o služebním poměru, je-li místo akademického pracovníka působícího na státní vysoké škole obsazeno vojákem v činné službě nebo příslušníkem Policie České republiky ve služebním poměru,\n3. údaje o změně základního pracovněprávního vztahu zaměstnance k vysoké škole nebo v případě státní vysoké školy k České republice, včetně údaje o rozsahu práce, vyjádřeném stanoveným počtem hodin výkonu práce za týden, případně za kalendářní rok nebo za jiné příslušné období, a údaje o době, na kterou je základní pracovněprávní vztah k vysoké škole nebo k České republice sjednán, a obdobné údaje o služebním poměru, je-li místo akademického pracovníka působícího na státní vysoké škole obsazeno vojákem v činné službě nebo příslušníkem Policie České republiky ve služebním poměru,\n4. údaje o skončení základního pracovněprávního vztahu zaměstnance k vysoké škole nebo v případě státní vysoké školy k České republice a obdobné údaje o skončení služebního poměru, bylo-li místo akademického pracovníka působícího na státní vysoké škole obsazeno vojákem v činné službě nebo příslušníkem Policie České republiky ve služebním poměru,\nf) jde-li o garanta studijního programu,\n1. údaje o garantovi studijního programu podle písmen a) až c),\n2. kód a název garantovaného studijního programu,\n3. typ garantovaného studijního programu,\n4. název vysoké školy a její identifikátor, případně i název příslušné fakulty, na které je nebo má být studijní program uskutečňován na základě jeho akreditace anebo schválení v rámci oprávnění vyplývajících z institucionální akreditace.\n(3) K předávaným údajům připojují vysoké školy a poskytovatelé jméno a příjmení, telefonické spojení a adresu elektronické pošty zaměstnanců pověřených předávat údaje nebo nahlížet do registru a datum vzniku jejich pověření. Vysoké školy a poskytovatelé oznamují změny údajů neprodleně ministerstvu.\n(4) Ustanovení odstavce 2 se na strukturu datové zprávy, kterou poskytovatel uvedený v § 93a zákona o vysokých školách předává do registru údaje o docentech a profesorech působících na území České republiky u poskytovatele jako pedagogičtí a vědečtí pracovníci, použijí obdobně, přičemž místo údajů o vysoké škole a vztahu zaměstnance k vysoké škole se uvádějí obdobné údaje o příslušném poskytovateli a vztahu zaměstnance k němu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Technické podmínky a lhůty předávání údajů",
+      "content": "(1) Popisy struktur individuálních údajů a číselníky pro předávání individuálních údajů ministerstvo zveřejňuje na svých internetových stránkách.\n(2) Údaje se do registru předávají průběžně, nejpozději však do desátého dne po uplynutí kalendářního měsíce, v němž nastala rozhodná událost, a to v souladu s popisy struktur individuálních údajů a číselníky pro předávání individuálních údajů zveřejněnými ministerstvem."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2017."
+    }
+  ],
+  "definitions": []
+}

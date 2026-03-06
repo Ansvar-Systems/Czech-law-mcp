@@ -1,0 +1,21 @@
+{
+  "id": "cz:n5/2015",
+  "type": "statute",
+  "title": "n5/2015 Sb., Sdělení Ministerstva vnitra o opravě tiskové chyby ve vyhlášce č. 334/2015 Sb., o vedení rejstříku malých plavidel a technické způsobilosti malých plavidel, převozních lodí a plovoucích zařízení k provozu na vodních cestách",
+  "title_en": "",
+  "short_name": "n5/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-12-18",
+  "in_force_date": "2015-12-18",
+  "url": "https://www.e-sbirka.cz/sb/2015/n5",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskové chyby ve vyhlášce č. 334/2015 Sb., o vedení rejstříku malých plavidel a technické způsobilosti malých plavidel, převozních lodí a plovoucích zařízení k provozu na vodních cestách",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "V příloze č. 1 na straně 4469 má místo vzorce „10 □ PN ≤ 40“. správně být vzorec „10 < PN ≤ 40“."
+    }
+  ],
+  "definitions": []
+}

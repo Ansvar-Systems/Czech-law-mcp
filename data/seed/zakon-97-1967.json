@@ -1,0 +1,39 @@
+{
+  "id": "cz:97/1967",
+  "type": "statute",
+  "title": "97/1967 Sb., Vyhláška Ústřední rady odborů, kterou se provádějí některá další ustanovení zákoníku práce a předpisů o nemocenském pojištění",
+  "title_en": "",
+  "short_name": "97/1967 Sb.",
+  "status": "in_force",
+  "issued_date": "1967-10-24",
+  "in_force_date": "1967-10-24",
+  "url": "https://www.e-sbirka.cz/sb/1967/97",
+  "description": "Vyhláška Ústřední rady odborů, kterou se provádějí některá další ustanovení zákoníku práce a předpisů o nemocenském pojištění",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Dovolená na zotavenou",
+      "content": "Do doby trvání pracovního poměru se započítávají pro účely dovolené na zotavenou též tyto doby po 18. roce věku pracovníka:\na) doba členství v jednotném zemědělském družstvu, i když jde o pracovníka, který pracuje jinde než v zemědělství nebo lesnictví,\nb) doba, po kterou byl občan trvale pracovně činný v jednotném zemědělském družstvu a nebyl ani jeho členem ani v pracovním poměru k družstvu, pokud tato činnost zakládala účast na sociálním zabezpečení družstevních rolníků,\nc) doba, po kterou žena trvale pečovala o dítě ve věku do tří let a současně byla zaměstnána, pokud jí tato doba nebyla započtena jako doba nepřetržitého zaměstnání podle předpisů platných do 31. prosince 1965,\nd) doba, po kterou žena pečovala o invalidního nezletilce, který potřeboval stálou péči a nebyl umístěn v ústavu sociální péče.\ne) doba, po kterou pracovník pobíral příspěvek před umístěním, popřípadě před nástupem nového zaměstnání podle příslušných předpisů,\nf) doba vazby (doba výkonu trestu odnětí svobody), bylo-li trestní stíhání proti pracovníkovi zastaveno nebo byl-li obžaloby zproštěn, byť i v pozdějším řízení, a doba výkonu trestu odnětí svobody vykonaného na podkladě zrušeného rozsudku, která přesahuje výměru mírnějšího trestu uloženého v pozdějším řízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Odpovědnost organizace",
+      "content": "Ustanovení zákoníku práce upravující odpovědnost organizace za škody způsobené pracovníkům v pracovním poměru (§ 187, 188, 189, 204 a 205) se vztahují též na pracovníky konající práci na základě dohod o pracích konaných mimo pracovní poměr."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Nemocenské pojištění",
+      "content": "Do doby zaměstnání rozhodné pro stanovení výše dávek nemocenského pojištění se bez zřetele na to, zda spadají do doby po 18. roce věku pracovníka, započítávají doby uvedené v § 1, pokud již nejsou započitatelné podle platných předpisů."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

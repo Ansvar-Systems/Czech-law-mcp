@@ -1,0 +1,38 @@
+{
+  "id": "cz:231/1997",
+  "type": "statute",
+  "title": "231/1997 Sb., Vyhláška Ministerstva financí, kterou se mění vyhláška Federálního ministerstva financí, Ministerstva financí České republiky a Ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách, ve znění vyhlášky Ministerstva financí České republiky č. 580/1992 Sb.",
+  "title_en": "",
+  "short_name": "231/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-09-30",
+  "in_force_date": "1997-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1997/231",
+  "description": "Vyhláška Ministerstva financí, kterou se mění vyhláška Federálního ministerstva financí, Ministerstva financí České republiky a Ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách, ve znění vyhlášky Ministerstva financí České republiky č. 580/1992 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška Federálního ministerstva financí, Ministerstva financí České republiky a Ministerstva financí Slovenské republiky č. 580/1990 Sb., kterou se provádí zákon č. 526/1990 Sb., o cenách, ve znění vyhlášky Ministerstva financí České republiky č. 580/1992 Sb., se mění takto:\n1. V § 2 odst. 2 písm b) se čárka před slovem „obvyklému“ nahrazuje spojkou „a“, vypouštějí se slova „a vývoji poptávky“ a čárka na konci věty se nahrazuje tečkou.\n2. § 2 odst. 2 písm. c) se vypouští.\n3. V § 3 odst. 1 se vypouštějí slova „alespoň jedné z republik“.\n4. § 4 se doplňuje odstavcem 4, který zní:\n„(4) Kalkulací ceny uchovávanou pro potřeby cenové evidence u cen podléhajících věcnému nebo časovému usměrňování se rozumí takový propočet ceny, který prokazuje dodržení stanoveného způsobu regulace.“.\n5. § 6 odst. 6 se vypouští.\n6. V § 8 odst. 3 se slovo „Kčs“ nahrazuje slovem „Kč“.\n7. § 8 odst. 7 zní:\n„(7) Za den, kdy se cenový kontrolní orgán dověděl o porušení cenových předpisů, se považuje den, kdy kontrolovaný subjekt obdržel protokol.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1997."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kalkulací ceny uchovávanou pro potřeby cenové evidence u cen podléhajících věcnému nebo časovému usměrňování",
+      "definition": "takový propočet ceny, který prokazuje dodržení stanoveného způsobu regulace",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "den, kdy se cenový kontrolní orgán dověděl o porušení cenových předpisů",
+      "definition": "den, kdy kontrolovaný subjekt obdržel protokol",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

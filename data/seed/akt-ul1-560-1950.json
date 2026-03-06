@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:560/1950",
+  "type": "statute",
+  "title": "560/1950 Ú. l. I, Vyhláška ministerstva vnitřního obchodu o dávkách mýdla na měsíce říjen, listopad a prosinec 1950 a o jiných opatřeních v oboru dávek mýdla.",
+  "title_en": "",
+  "short_name": "560/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-09-27",
+  "in_force_date": "1950-09-27",
+  "url": "https://www.e-sbirka.cz/ul1/1950/560",
+  "description": "Vyhláška ministerstva vnitřního obchodu o dávkách mýdla na měsíce říjen, listopad a prosinec 1950 a o jiných opatřeních v oboru dávek mýdla.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) V měsíci říjnu, listopadu a prosinci 1950 obdrží spotřebitelé na své lístky na mýdlo a přídavkové lístky na mýdlo tyto dávky mýdla:\npo 1 kuse jádrového konsumního mýdla na ústřižky Nm 10, 11 a 12, N 10, 11 a 12, M 10, 11 a 12;\npo 1 kuse toaletního mýdla na ústřižky D 10, 11 a 12, N IV/1950;\npo 2 kusech toaletního mýdla na ústřižky L 10, 11 a 12;\npo 1 kuse mýdla k holení na ústřižky Nm IV/1950.\n(2) Mýdlo se vydá spotřebiteli v měsíci, který je na ústřižku vyznačen, mýdlo k holení na ústřižek Nm IV/1950 a toaletní mýdlo na ústřižek N IV/1950 v kterémkoliv měsíci IV. čtvrtletí roku 1950."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Maloobchodní podniky smějí objednávati a odebírati na ústřižky, uvedené v § 1 odst. 1, stejné množství a druh mýdla, jaké se vydává na ně spotřebitelům podle ustanovení téhož paragrafu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Odběrní poukazy na přídavkové dávky mýdla z důvodů ušpinění pro zaměstnance a spotřebitele uvedené v příloze k vyhlášce č. 1/1950 Ú. l. I se budou vystavovati v době od 1. října do 31. prosince 1950 na stejná měsíční množství jako v měsících červenci, srpnu a září 1950, stanovená vyhláškou č. 372/1950 Ú. l. I."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Školy mohou odebírati za každých 5 kg sebraných kostí 1 kus jádrového konsumního mýdla."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Kusem jádrového konsumního mýdla nebo mýdla toaletního se rozumí kus o váze 100 g ve stavu čerstvém (100 g čerstvé váhy)."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kusem jádrového konsumního mýdla nebo mýdla toaletního",
+      "definition": "kus o váze 100 g ve stavu čerstvém (100 g čerstvé váhy)",
+      "source_provision": "§ 5."
+    }
+  ]
+}

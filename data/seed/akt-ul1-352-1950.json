@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:352/1950",
+  "type": "statute",
+  "title": "352/1950 Ú. l. I, Vyhláška Státního úřadu pro věci církevní o náboženském fondu.",
+  "title_en": "",
+  "short_name": "352/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-06-08",
+  "in_force_date": "1950-06-23",
+  "url": "https://www.e-sbirka.cz/ul1/1950/352",
+  "description": "Vyhláška Státního úřadu pro věci církevní o náboženském fondu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Náboženské fondy český a moravskoslezský a náboženská základina na Slovensku se slučují v jediný náboženský fond, jejž spravuje Státní úřad pro věci církevní."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Výnos majetku náboženského fondu slouží i nadále výlučně k náboženským účelům církve římsko-katolické."
+    }
+  ],
+  "definitions": []
+}

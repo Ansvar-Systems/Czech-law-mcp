@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:54/1947",
+  "type": "statute",
+  "title": "54/1947 Ú. l. I, Vyhláška ministra výživy o znárodnění dalších lihovarských podniků.",
+  "title_en": "",
+  "short_name": "54/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-01-18",
+  "in_force_date": "1947-01-18",
+  "url": "https://www.e-sbirka.cz/ul1/1947/54",
+  "description": "Vyhláška ministra výživy o znárodnění dalších lihovarských podniků.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Prešovská rafinéria liehu, úč. spol., Prešov,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Nájom štátneho liehovaru a rafinéria v Leopoldove, úč. spol.,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Prvá slovenská továren na lieh, liesované droždie, pokrmové masti, úč. spol v Trenčíne,"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Štarkovská rafinéria liehu, úč. spol. v Lipt. Sv. Mikuláši.\nZnárodněním nabyl Československý stát vlastnictví znárodněných podniků v rozsahu stanoveném v § 4 dekretu č. 101/45 Sb."
+    }
+  ],
+  "definitions": []
+}

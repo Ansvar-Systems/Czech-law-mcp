@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:130/1952",
+  "type": "statute",
+  "title": "130/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 73 4110.",
+  "title_en": "",
+  "short_name": "130/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-05",
+  "in_force_date": "1961-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/130",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 73 4110.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 73 4110 „Vysoké komíny zděné“ je od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Vedle předpisů pro navrhování, obsahuje norma ustanovení pro provádění prací a zkoušení materiálů používaných při stavbě vysokých komínů volně stojících."
+    }
+  ],
+  "definitions": []
+}

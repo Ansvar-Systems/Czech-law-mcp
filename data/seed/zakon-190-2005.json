@@ -1,0 +1,39 @@
+{
+  "id": "cz:190/2005",
+  "type": "statute",
+  "title": "190/2005 Sb., Zákon, kterým se mění zákon č. 170/2002 Sb., o válečných veteránech, a zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "190/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-05-23",
+  "in_force_date": "2005-05-23",
+  "url": "https://www.e-sbirka.cz/sb/2005/190",
+  "description": "Zákon, kterým se mění zákon č. 170/2002 Sb., o válečných veteránech, a zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I Změna zákona o válečných veteránech",
+      "content": "Zákon č. 170/2002 Sb., o válečných veteránech, se mění takto:\n1. V § 2 nadpis zní: „Armáda a policie“.\n2. V § 2 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:\n„(2) Policií se pro účely tohoto zákona rozumí Policie České republiky.“.\n3. V § 3 odst. 1 se za slovo „armády“ vkládají slova „nebo policie“.\n4. V § 3 odst. 2 se za slovo „armády“ vkládají slova „nebo policie“.\n5. V § 5 se za odstavec 2 vkládá nový odstavec 3, který zní:\n„(3) Ministerstvo vnitra poskytne ministerstvu údaje o splnění podmínek pro vydání osvědčení válečného veterána policistům podle § 3.“.\nDosavadní odstavec 3 se označuje jako odstavec 4.\n6. V příloze č. 1 k zákonu č. 170/2002 Sb. se v bodu 1 za slova „č. 170/2002 Sb.,“ vkládají slova „ve znění zákona č. 190/2005 Sb.“.\n7. V příloze č. 1 k zákonu č. 170/2002 Sb. se v bodu 2 za písmeno e) vkládá nové písmeno f), které zní:\n„f) jako příslušník policie,“.\nDosavadní písmeno f) se označuje jako písmeno g).\n8. V příloze č. 2 k zákonu č. 170/2002 Sb. se za slova „č. 170/2002 Sb.,“ vkládají slova „ve znění zákona č. 190/2005 Sb.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Změna zákona o ochraně utajovaných skutečností",
+      "content": "Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění zákona č. 164/1999 Sb., zákona č. 18/2000 Sb., zákona č. 29/2000 Sb., zákona č. 30/2000 Sb., zákona č. 363/2000 Sb., zákona č. 60/2001 Sb., zákona č. 322/2001 Sb., zákona č. 151/2002 Sb., zákona č. 310/2002 Sb., zákona č. 320/2002 Sb., zákona č. 436/2003 Sb., zákona č. 257/2004 Sb. a zákona č. 386/2004 Sb., se mění takto:\nV § 89 odstavec 2 zní:\n„(2) Tento zákon pozbývá platnosti dnem 31. prosince 2005.“."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Policií",
+      "definition": "Policie České republiky",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

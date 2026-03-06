@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:93/1945",
+  "type": "statute",
+  "title": "93/1945 Ú. l., Vyhláška nejvyššího úřadu cenového o cenách tankového dříví v pohraničním území země České a Moravskoslezské a o cenách drceného tankového dříví.",
+  "title_en": "",
+  "short_name": "93/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-07-16",
+  "in_force_date": "1945-07-15",
+  "url": "https://www.e-sbirka.cz/ul0/1945/93",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách tankového dříví v pohraničním území země České a Moravskoslezské a o cenách drceného tankového dříví.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Pro prodej tankového dříví v pohraničním území země České a Moravskoslezské platí vyhláška nejvyššího úřadu cenového ze dne 28. října 1943, běž. č. 769, o cenách tankového dříví (Úř. l. č. 255/1943)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "1. Pro drcené tankové dříví vyrobené zvláštními drtícími automaty stanoví se pro celé území země České a Moravskoslezské tyto pevné ceny za 100 kg:\na)při prodeji výrobcem nebo rozdělovačem z výrobny nebo z tankovací stanice spotřebiteliK 80.—,\nb)při prodeji výrobcem rozdělovačiK 70.—.\n2. V ostatním platí vyhláška nejvyššího úřadu cenového uvedená v § 1.\n3. Drcené tankové dříví musí být odděleně uskladněno, prodáváno a účtováno."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dne 15. července 1945."
+    }
+  ],
+  "definitions": []
+}

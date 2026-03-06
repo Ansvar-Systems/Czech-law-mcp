@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:308/1947",
+  "type": "statute",
+  "title": "308/1947 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách plynového oleje pro zemědělské účely.",
+  "title_en": "",
+  "short_name": "308/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-03-30",
+  "in_force_date": "1947-04-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/308",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách plynového oleje pro zemědělské účely.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Spotřebitelská cena plynového oleje pro zemědělské účely činí při prodeji v drobném nejvýše Kčs 6.50 za jeden litr.\n(2) S ceny uvedené v odstavci 1 je nutno poskytovati oprávněným spotřebitelům tyto slevy:\npři odběruza každý litr\n1001 až 3000 litrů najednouKčs 0.10,\npřes 3000 litrů najednouKčs 0.20,\nv cisterně (nejméně 10.000 kg najednou)Kčs 0.40.\n(3) Ceny plynového oleje pro zemědělské účely se rozumějí při dodávkách\na) v sudech dodavatelových (při odběru přes 1000 litrů najednou) vyplaceně nejbližší železniční stanice odběratele;\nb) v tankovém voze dodavatelově (při odběru přes 3000 litrů najednou) vyplaceně podzemní nádrž odběratele;\nc) v celých cisternách dodavatelových vyplaceně nejbližší železniční stanice odběratele.\n(4) Je-li sklad dodavatele v místě nejbližší železniční stanice odběratele, rozumí se cena plynového oleje pro zemědělské účely ze skladu dodavatele.\n(5) Ceny plynového oleje pro zemědělské účely se rozumějí bez nádob, včetně daní a dávek, za hotové beze srážky, po případě dobírkou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Nárok na cenu podle § 1 má pouze spotřebitel, který odevzdá dodavateli poukázku k odběru a spotřebě plynového oleje pro zemědělské účely, vydanou Ústřední rozdělovnou minerálních olejů a pohonných látek."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "O vyrovnání cenových rozdílů platí ustanovení § 2 vl. nař. č. 34/1947 Sb."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Nejvyšší úřad cenový nebo místa jím pověřená mohou povoliti nebo naříditi výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1947."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Je-li sklad dodavatele v místě nejbližší železniční stanice odběratele",
+      "definition": "se cena plynového oleje pro zemědělské účely ze skladu dodavatele",
+      "source_provision": "§ 1."
+    }
+  ]
+}

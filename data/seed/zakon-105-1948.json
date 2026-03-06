@@ -1,0 +1,33 @@
+{
+  "id": "cz:105/1948",
+  "type": "statute",
+  "title": "105/1948 Sb., Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Opavě",
+  "title_en": "",
+  "short_name": "105/1948 Sb.",
+  "status": "in_force",
+  "issued_date": "1948-05-26",
+  "in_force_date": "1948-05-26",
+  "url": "https://www.e-sbirka.cz/sb/1948/105",
+  "description": "Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Opavě",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Státní veterinární vyšetřovací ústav, zřízený podle zákona ze dne 16. ledna 1896, č. 89 ř. z. z roku 1897, o obchodu s potravinami a některými předměty potřeby, který působil v době od 1. června 1945 do 14. prosince 1947 v Šumperku (dále jen „ústav“), počal působiti dnem 15. prosince 1947 v Opavě."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Úředním obvodem ústavu jsou statutární město Opava a správní okresy: Bílovec, Bruntál, Hlučín, Krnov a Opava-venkov."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Ústavu příslušejí úkoly v oboru vyšetřování potravin živočišného původu, uvedené v nařízení č. 240/1897 ř. z., nejde-li pouze o chemické vyšetřování potravin."
+    }
+  ],
+  "definitions": []
+}

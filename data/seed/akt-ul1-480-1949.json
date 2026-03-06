@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:480/1949",
+  "type": "statute",
+  "title": "480/1949 Ú. l. I, Vyhláška ministerstva výživy o podávání masitých jídel v hostincích a pod. podnicích.",
+  "title_en": "",
+  "short_name": "480/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-04-12",
+  "in_force_date": "1949-04-12",
+  "url": "https://www.e-sbirka.cz/ul1/1949/480",
+  "description": "Vyhláška ministerstva výživy o podávání masitých jídel v hostincích a pod. podnicích.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) V hostincích a podobných podnicích smějí býti podávána jídla s masitou vložkou každodenně. Po všechny dny v týdnu musí však hostince a podobné podniky podávat a na jídelním lístku vykazovat alespoň jedno jídlo bezmasé a nejméně jedno jídlo s masitou vložkou na 50 g ústřižek lístku na maso.\n(2) Bezmasým jídlem se rozumí každé jídlo, na které není ustanoveno odevzdávati ústřižky lístků na maso, tudíž i jídla připravená z ryb a z drůbeží neb dobytčí krve."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle §§ 8 a 9 dekretu čís. 118/1945 Sb., ve znění zákona č. 274/48 Sb."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen na územích českých krajů. Tímto dnem pozbývají účinnosti vyhláška ministra výživy ze dne 17. února 1948, č. 267 Ú. l. I, o určení dvou bezmasých dnů a směrnice na podkladě ní vydané."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bezmasým jídlem",
+      "definition": "každé jídlo, na které není ustanoveno odevzdávati ústřižky lístků na maso, tudíž i jídla připravená z ryb a z drůbeží neb dobytčí krve",
+      "source_provision": "§ 1."
+    }
+  ]
+}

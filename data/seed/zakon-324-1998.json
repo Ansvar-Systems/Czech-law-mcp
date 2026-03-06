@@ -1,0 +1,45 @@
+{
+  "id": "cz:324/1998",
+  "type": "statute",
+  "title": "324/1998 Sb., Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "title_en": "",
+  "short_name": "324/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-12-31",
+  "in_force_date": "1999-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1998/324",
+  "description": "Vyhláška Ministerstva práce a sociálních věcí, kterou se pro účely poskytování cestovních náhrad stanoví výše sazeb stravného, výše sazeb základních náhrad za používání silničních motorových vozidel a výše průměrných cen pohonných hmot",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Sazby stravného",
+      "content": "Sazby stravného podle § 5 odst. 1 zákona činí\na) 53 Kč až 65 Kč, trvá-li pracovní cesta 5 až 12 hodin,\nb) 82 Kč až 98 Kč, trvá-li pracovní cesta déle než 12 hodin, nejvýše však 18 hodin,\nc) 128 Kč až 153 Kč, trvá-li pracovní cesta déle než 18 hodin."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Sazby základních náhrad za používání silničních motorových vozidel",
+      "content": "Sazba základní náhrady za 1 km jízdy podle § 7 odst. 2 zákona činí\na) u jednostopých vozidel a tříkolek 0,90 Kč,\nb) u osobních silničních motorových vozidel 3,30 Kč."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Výše průměrných cen pohonných hmot",
+      "content": "Výše průměrných cen pohonných hmot podle § 7 odst. 5 věty druhé zákona činí\nDruh pohonné hmoty:Cena v Kč:\nBenzin automobilový 91 O Speciál21,90\nBenzin automobilový 96 O Super23,10\nBenzin automobilový 95 O Natural22,30\nMotorová nafta18,50."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se vyhláška č. 140/1998 Sb., kterou se stanoví průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1999."
+    }
+  ],
+  "definitions": []
+}

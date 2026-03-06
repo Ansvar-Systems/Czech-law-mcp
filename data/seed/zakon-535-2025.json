@@ -1,0 +1,91 @@
+{
+  "id": "cz:535/2025",
+  "type": "statute",
+  "title": "535/2025 Sb., Vyhláška k provozu systému veřejné výstrahy",
+  "title_en": "",
+  "short_name": "535/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-12-15",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/535",
+  "description": "Vyhláška k provozu systému veřejné výstrahy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) nebezpečím bezprostředně hrozící nebo nastalá mimořádná událost, krizová situace nebo jiná závažná událost ohrožující život nebo zdraví osob,\nb) oprávněným orgánem orgán státní správy nebo územní samosprávy oprávněný podat podnět k aktivaci systému veřejné výstrahy,\nc) zprávou Cell Broadcast textová zpráva předávaná formou jednosměrného vysílání na mobilní telekomunikační koncové zařízení koncového uživatele podporující standardy ETSI a 3GPP."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Iniciátor",
+      "content": "Iniciátorem aktivace systému veřejné výstrahy je\na) Národní operační a informační středisko1), nebo\nb) Ministerstvem obrany určené místo velení ozbrojených sil v případě, že má být veřejná výstraha předána v souvislosti se zajišťováním obrany státu.\nPravidla pro aktivaci systému veřejné výstrahy"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Systém veřejné výstrahy aktivuje Národní operační a informační středisko na základě vlastního zjištění nebo podnětu oprávněného orgánu, pokud druh nebo intenzita nebezpečí vyžadují předání informace o tomto nebezpečí koncovému uživateli2), jehož mobilní telekomunikační koncové zařízení3) je podnikatelem poskytujícím veřejně dostupnou mobilní interpersonální komunikační službu založenou na číslech4), který je zároveň provozovatelem veřejné mobilní komunikační sítě (dále jen „provozovatel“), zjištěno jako přítomné v územní oblasti v okamžiku aktivace systému veřejné výstrahy (dále jen „koncový uživatel“), a jiný způsob včasného informování koncového uživatele není možný nebo dostatečně účinný.\n(2) Seznam typizovaných nebezpečí, při kterých Národní operační a informační středisko posuzuje důvodnost podnětu k aktivaci systému veřejné výstrahy podle odstavce 1, a oprávněné orgány jsou uvedeny v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Podnět oprávněného orgánu s celostátní působností se podává Národnímu operačnímu a informačnímu středisku s použitím adres elektronické pošty výslovně dohodnutých mezi Národním operačním a informačním střediskem a tímto oprávněným orgánem nebo prostřednictvím k tomu určené aplikace. Podnět oprávněného orgánu s místní působností se podává místně příslušnému hasičskému záchrannému sboru kraje s použitím adres elektronické pošty výslovně dohodnutých mezi místně příslušným hasičským záchranným sborem kraje a tímto oprávněným orgánem. Oprávněný orgán v podnětu uvede\na) jméno zástupce oprávněného orgánu určeného k okamžitému poskytnutí součinnosti k posouzení důvodnosti podnětu, včetně kontaktního telefonního čísla,\nb) charakter nebezpečí,\nc) časový údaj, kdy se nebezpečí projevilo nebo projeví, a je-li to možné, i předpokládanou dobu jeho trvání,\nd) návrh územní oblasti nebo informaci o zdroji ohrožení,\ne) návrh znění textové informace v českém a anglickém jazyce a\nf) případné další skutečnosti významné pro aktivaci systému veřejné výstrahy.\n(2) Národní operační a informační středisko posoudí důvodnost podnětu podle odstavce 1 a při posuzování důvodnosti přihlédne k tomu, zda\na) nebezpečí bezprostředně hrozí nebo již nastalo a\nb) veřejná výstraha je s ohledem na druh nebo intenzitu nebezpečí potřebná.\n(3) Národní operační a informační středisko může s přihlédnutím k povaze nebezpečí nebo k technickým možnostem systému veřejné výstrahy pozměnit znění textové informace při zachování jejího účelu. O změně znění Národní operační a informační středisko neprodleně informuje oprávněný orgán prostřednictvím zástupce uvedeného v podnětu.\n(4) Po posouzení sdělí Národní operační a informační středisko oprávněnému orgánu prostřednictvím adresy elektronické pošty podle odstavce 1 nebo prostřednictvím k tomu určené aplikace, zda a v jakém znění a čase byl provozovateli sdělen požadavek na její předávání podle § 8. V opačném případě sdělí Národní operační a informační středisko oprávněnému orgánu důvod, proč nedošlo k předání veřejné výstrahy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Národní operační a informační středisko může mimořádně aktivovat systém veřejné výstrahy také v případě nebezpečí, které není uvedeno v příloze k této vyhlášce, je-li zjevné, že předání informace koncovému uživateli o nebezpečí nelze provést jiným způsobem, hrozí nebezpečí z prodlení a druh nebo intenzita nebezpečí takový postup vyžadují."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Pravidla pro aktivaci systému veřejné výstrahy v souvislosti se zajišťováním obrany státu",
+      "content": "(1) Ministerstvem obrany určené místo velení ozbrojených sil může aktivovat systém veřejné výstrahy na základě vlastního zjištění v případě nebezpečí souvisejícího s vnějším napadením České republiky.\n(2) O aktivaci systému veřejné výstrahy podle odstavce 1 informuje Ministerstvem obrany určené místo velení ozbrojených sil neprodleně Národní operační a informační středisko."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Rozsah předávaných informací",
+      "content": "(1) Veřejná výstraha obsahuje v uvedeném pořadí informaci o\na) charakteru nebezpečí,\nb) územní oblasti nebo zdroji ohrožení,\nc) vhodném postupu koncového uživatele a\nd) datu, hodině a minutě aktivace systému veřejné výstrahy.\n(2) Veřejná výstraha je předávána koncovému uživateli s textovým identifikátorem odesílatele v podobě „ALARM!“."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Předávání veřejné výstrahy",
+      "content": "(1) Za účelem zajištění předávání veřejné výstrahy prostřednictvím zprávy Cell Broadcast zajišťuje provozovatel nepřetržitou technickou a organizační připravenost na přijetí požadavku iniciátora na předání veřejné výstrahy a její předání koncovému uživateli (dále jen „nepřetržitá připravenost“). Rozsah, ve kterém nemusí být nepřetržitá připravenost provozovatelem zajištěna, činí v průběhu 365 po sobě jdoucích dnů nejvýše 8 hodin a 45 minut. Do této doby se nezapočítávají\na) časové úseky, kdy je prováděna údržba, dohodnuté mezi generálním ředitelstvím Hasičského záchranného sboru České republiky a provozovatelem,\nb) časové úseky, v nichž jsou prováděny úpravy systému na žádost generálního ředitelství Hasičského záchranného sboru České republiky, a\nc) doba nutná pro odstranění poruchy nezbytných technických komponent, kterou nezpůsobil provozovatel.\n(2) Požadavek na předání veřejné výstrahy ve formě zprávy SMS nebo zprávy Cell Broadcast sdělí iniciátor provozovateli prostřednictvím k tomu účelu zřízeného rozhraní, které umožňuje vytvoření hromadných zpráv SMS nebo zpráv Cell Broadcast. Iniciátor zároveň sdělí provozovateli požadované znění veřejné výstrahy v českém a v případě postupu podle odstavce 4 věty druhé i anglickém jazyce.\n(3) Provozovatel zahájí předávání veřejné výstrahy koncovému uživateli připojenému k jeho veřejné mobilní komunikační síti v nezměněné podobě neprodleně po obdržení požadavku iniciátora.\n(4) Provozovatel předá veřejnou výstrahu koncovému uživateli v českém jazyce. Pokud o to iniciátor požádá, provozovatel předá veřejnou výstrahu prostřednictvím zprávy Cell Broadcast koncovému uživateli také v anglickém jazyce."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Náhrada nákladů",
+      "content": "(1) Výše náhrady nákladů náležících provozovateli za zajištění předávání veřejné výstrahy se určuje jako součet\na) daňových odpisů nebo účetních odpisů, jedná-li se o náhrady, pro které nejsou stanoveny daňové odpisové skupiny podle právních předpisů upravujících účetnictví, hardwarového a softwarového vybavení provozovatele pro předávání veřejné výstrahy (dále jen „odpisy“) a\nb) skutečně vynaložených nákladů na zajištění nepřetržité připravenosti.\n(2) Pokud hardwarové nebo softwarové vybavení provozovatele neslouží výhradně k předávání veřejné výstrahy, náleží provozovateli náhrada nákladů ve výši odpovídající poměrné části nákladů vynaložených na pořízení nebo pronájem tohoto vybavení v poměru k jeho jinému využití.\n(3) Provozovatel, kterému náleží náhrada nákladů, doručí doklad obsahující vyúčtování nákladů za kalendářní měsíc generálnímu ředitelství Hasičského záchranného sboru České republiky do dvacátého pátého dne měsíce následujícího po měsíci, ve kterém vznikl nárok na náhradu nákladů. Vyúčtování nákladů za měsíc listopad doručí provozovatel nejpozději do 10. prosince téhož roku.\n(4) Dohodne-li se předem provozovatel, kterému náleží náhrada nákladů, s generálním ředitelstvím Hasičského záchranného sboru České republiky, může vystavit vyúčtování nákladů za jiné období, než je uvedeno v odstavci 3.\n(5) Splatnost vyúčtování nákladů je do 30 dnů ode dne jeho doručení.\n(6) Do výše nákladů se zahrnují pouze ty náklady, které byly zachyceny v účetnictví provozovatele, kterému náleží jejich náhrada.\n(7) Součástí vyúčtování nákladů je\na) výpočet výše celkových nákladů podle odstavců 1 a 2,\nb) kopie daňového dokladu k pořízení dlouhodobého majetku, včetně jeho příloh, s vyznačením položek a jim odpovídající pořizovací ceny zařízení, jejichž odpisy se zahrnují do náhrady nákladů, a s výpočtem odpisů v návaznosti na pořizovací cenu a odpisový plán,\nc) kopie daňového dokladu k pronájmu dlouhodobého majetku, včetně jeho příloh, s vyznačením položek a jim odpovídající ceny pronájmu zařízení,\nd) přehled nákladů provozovatele na zajištění nepřetržité připravenosti pro předání veřejné výstrahy a kopie dokladů prokazujících tyto náklady a\ne) kopie dokladů o nákladech na zabezpečení dlouhodobého majetku a provozuschopnosti systému prováděné vlastními pracovníky, zejména výkazy práce s počtem odpracovaných hodin a hodinové sazby.\n(8) Provozovatel, kterému náleží náhrada nákladů, doručí doklady k vyúčtování nákladů generálnímu ředitelství Hasičského záchranného sboru České republiky s prvním vyúčtováním nákladů. Dojde-li ke změně dokladu nebo údaje v něm, doručí provozovatel nový doklad spolu s nejbližším příštím vyúčtováním nákladů. Současně v tomto vyúčtování nákladů uvede, k jaké změně došlo a z jakého důvodu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.\nPříloha\nTypizovaná nebezpečí a oprávněný orgán\nCharakter nebezpečíOprávněný orgán\nnásilný útok proti životu a zdraví osobPolicie České republiky\nnebezpečí výbuchustarosta obce s rozšířenou působností,\nhejtman kraje,\nPolicie České republiky,\nhasičský záchranný sbor kraje\npovodeňstarosta obce s rozšířenou působností,\nhejtman kraje,\nMinisterstvo životního prostředí,\nhasičský záchranný sbor kraje\nradiační haváriehejtman kraje,\nStátní úřad pro jadernou bezpečnost,\nhasičský záchranný sbor kraje\nrozsáhlý požárstarosta obce s rozšířenou působností,\nhejtman kraje,\nhasičský záchranný sbor kraje\nrozsáhlý výpadek\nelektrické energie/\ndodávek plynu/\ndodávek pitné vody/\ndodávek teplastarosta obce s rozšířenou působností,\nhejtman kraje,\nhasičský záchranný sbor kraje\núnik nebezpečné chemické látkystarosta obce s rozšířenou působností,\nhejtman kraje,\nhasičský záchranný sbor kraje\nznečištění pitné vodyorgán ochrany veřejného zdraví,\nstarosta obce s rozšířenou působností,\nhejtman kraje,\nhasičský záchranný sbor kraje\n1) § 6 odst. 6 zákona č. 320/2015 Sb., o Hasičském záchranném sboru České republiky a o změně některých zákonů (zákon o hasičském záchranném sboru), ve znění pozdějších předpisů.\n2) § 2 odst. 1 písm. c) zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů.\n3) § 73 odst. 4 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů.\n4) § 2 odst. 3 písm. c) zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "nebezpečím bezprostředně hrozící nebo nastalá mimořádná událost",
+      "definition": "krizová situace nebo jiná závažná událost ohrožující život nebo zdraví osob",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "oprávněným orgánem",
+      "definition": "orgán státní správy nebo územní samosprávy oprávněný podat podnět k aktivaci systému veřejné výstrahy",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "zprávou Cell Broadcast textová zpráva předávaná formou jednosměrného vysílání na mobilní telekomunikační koncové",
+      "definition": "zařízení koncového uživatele podporující standardy ETSI a 3GPP.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

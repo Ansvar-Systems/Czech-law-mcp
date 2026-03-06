@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2011/1948",
+  "type": "statute",
+  "title": "2011/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do TENY, pletáren, národního podniku",
+  "title_en": "",
+  "short_name": "2011/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-04",
+  "in_force_date": "1948-08-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2011",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do TENY, pletáren, národního podniku",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Franz Morl Erzeu-gung- und Handel mít Strumpf-, Strick- und Wirkwaren in Teplitz-Schonau II. Willielm GustloffstraBe Nr. 886, se sídlem v Teplicích,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Strickwarenfabrik Alfred Schienle, se sídlem v Teplicích,\nvesměs v rozsahu jejich znárodnění, do TENY, pletáren, národního podniku."
+    }
+  ],
+  "definitions": []
+}

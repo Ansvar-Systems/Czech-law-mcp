@@ -1,0 +1,94 @@
+{
+  "id": "cz:19/2002",
+  "type": "statute",
+  "title": "19/2002 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví způsob organizace krátkodobého trhu s elektřinou",
+  "title_en": "",
+  "short_name": "19/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-01-18",
+  "in_force_date": "2004-07-23",
+  "url": "https://www.e-sbirka.cz/sb/2002/19",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se stanoví způsob organizace krátkodobého trhu s elektřinou",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví způsob organizace krátkodobého trhu s elektřinou (dále jen „krátkodobý trh“). Předmětem krátkodobého trhu je fyzická dodávka elektřiny (činné elektrické energie) na základě uplatnění regulovaného přístupu k přenosové soustavě a k distribučním soustavám (dále jen „regulovaný přístup“). Při obchodování s elektřinou jsou všechny časové údaje uváděny v platném letním nebo zimním čase."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) krátkodobým trhem - trh s elektřinou organizovaný operátorem trhu podle jím stanovených a zveřejňovaných pravidel, kterého se mohou zúčastnit subjekty zúčtování odchylek,\nb) účastníkem krátkodobého trhu - subjekt zúčtování odchylek, který se na základě smlouvy o přístupu na krátkodobý trh zúčastňuje tohoto trhu,\nc) subjektem zúčtování odchylek (dále jen „subjekt zúčtování“) - účastník trhu s elektřinou, pro kterého operátor trhu na základě smlouvy o zúčtování1) provádí vyhodnocení a zúčtování odchylek a zajišťuje jejich finanční vypořádání,\nd) smlouvou o zúčtování - smlouva uzavřená podle zvláštního právního předpisu,1)\ne) smlouvou o přístupu na krátkodobý trh - smlouva mezi operátorem trhu a účastníkem krátkodobého trhu, na základě které jsou danému účastníku krátkodobého trhu vyhodnocovány a zúčtovávány obchody sjednané na tomto trhu a zajišťováno jejich finanční vypořádání,\nf) obchodní hodinou - základní časový úsek, ve kterém je smluvně vymezena nabídka na prodej smluvního množství elektřiny (dále jen „nabídka“) nebo poptávka na nákup smluvního množství elektřiny (dále jen „poptávka“) na krátkodobém trhu; obchodní hodina je základním časovým úsekem pro vyhodnocování a zúčtování obchodů sjednaných na krátkodobém trhu a začíná vždy v celou hodinu,\ng) obchodním dnem - 24 obchodních hodin dne, ve kterém se obchoduje, s výjimkou přechodu ze zimního na letní čas a zpět; v den, kdy dochází k přechodu na letní čas, se jedná o posloupnost 23 obchodních hodin a pro den, ve kterém dochází k přechodu na zimní čas, o 25 obchodních hodin; první obchodní hodina obchodního dne začíná v 00.00 hodin a končí v 1.00 hodinu,\nh) vyhodnocením předložených nabídek a poptávek na krátkodobém trhu - zjištění velikosti sjednané dodávky nebo sjednaného odběru každého účastníka krátkodobého trhu v MWh s rozlišením na jedno desetinné místo a určení zúčtovacích cen platných pro každou obchodní hodinu samostatně; zahraniční výměny se vyhodnocují v celých MWh,\ni) finančním vypořádáním obchodů na krátkodobém trhu - provedení plateb účastníky krátkodobého trhu a provedení úhrad účastníkům trhu za uskutečněné obchody na krátkodobém trhu,\nj) sjednaným množstvím elektřiny v obchodní hodině - pevně stanovené množství elektřiny v MWh potvrzené účastníku krátkodobého trhu operátorem trhu na základě vyhodnocení předložených nabídek a poptávek na krátkodobém trhu,\nk) sjednanou dodávkou elektřiny (dále jen „sjednaná dodávka“) - prodej sjednaného množství elektřiny v MWh účastníkem krátkodobého trhu na krátkodobém trhu v dané obchodní hodině; sjednaná dodávka je značena kladným znaménkem,\nl) sjednaným odběrem elektřiny (dále jen „sjednaný odběr“) - nákup sjednaného množství elektřiny v MWh účastníkem krátkodobého trhu na krátkodobém trhu v dané obchodní hodině; sjednaný odběr je značen záporným znaménkem,\nm) platbou za sjednaný odběr na krátkodobém trhu v dané obchodní hodině – součet plateb účastníka krátkodobého trhu stanovených jako součin zúčtovací ceny každého odběru v Kč/MWh, platné pro danou obchodní hodinu, a velikosti tohoto odběru v MWh,\nn) úhradou za sjednanou dodávku na krátkodobém trhu v dané obchodní hodině – součet úhrad účastníku krátkodobého trhu stanovených jako součin zúčtovací ceny každé dodávky v Kč/MWh, platné pro danou obchodní hodinu, a velikosti této dodávky v MWh,\no) zúčtovací cenou - cena pro danou obchodní hodinu obchodního dne, za kterou je zúčtována elektřina v rámci zúčtování sjednaných odběrů a sjednaných dodávek na krátkodobém trhu operátorem trhu,\np) zúčtováním obchodů - stanovení výše plateb účastníků krátkodobého trhu za sjednaný odběr a stanovení výše úhrad účastníkům krátkodobého trhu za sjednanou dodávku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Krátkodobý trh",
+      "content": "(1) Obchody na krátkodobém trhu se uskutečňují na základě smlouvy o přístupu na krátkodobý trh, která musí obsahovat\na) identifikační údaje účastníka krátkodobého trhu,\nb) podmínky a způsob zadávání nabídek a poptávek,\nc) způsob stanovení zúčtovací ceny,\nd) způsob jištění plateb,\ne) způsob finančního vypořádání a lhůty splatnosti,\nf) limit obchodování.\n(2) Na krátkodobém trhu je možno nabízet a poptávat elektřinu v minimálním množství 1 MWh s rozlišením na jedno desetinné místo kromě nabídek a poptávek na dovoz a vývoz elektřiny pro každou z obchodních hodin\na) následujícího obchodního dne (dále jen „denní trh“), nebo\nb) následujícího časového úseku uvnitř obchodního dne (dále jen „vnitrodenní trh“).\n(3) Nabídka nebo poptávka může obsahovat časové podmínky, které jsou uvedeny ve smlouvě o přístupu na krátkodobý trh.\n(4) Výsledkem obchodů podle odstavce 2 je stanovení sjednaných dodávek a sjednaných odběrů a zúčtovacích cen pro každou obchodní hodinu každého účastníka krátkodobého trhu.\n(5) Finanční vypořádání obchodů vzniklých podle odstavce 4 je nezávislé na skutečných hodnotách dodávek elektřiny do elektrizační soustavy a skutečných hodnotách odběrů elektřiny z elektrizační soustavy účastníků krátkodobého trhu.\n(6) Poptávka předložená účastníkem krátkodobého trhu na krátkodobém trhu znamená závazek, že poptávané množství elektřiny pro danou obchodní hodinu účastník krátkodobého trhu odebere z elektrizační soustavy v daném čase, pokud dojde k uspokojení této předkládané poptávky.\n(7) Nabídka předložená účastníkem krátkodobého trhu na krátkodobém trhu znamená závazek, že nabízené množství elektřiny pro danou obchodní hodinu účastník krátkodobého trhu dodá do elektrizační soustavy v daném čase, pokud dojde k uspokojení této předkládané nabídky.\n(8) Veškeré obchody probíhající na krátkodobém trhu jsou vůči sobě anonymní. Nabídky a poptávky na dovoz a vývoz jsou označeny.\n(9) Nabídky a poptávky pro zahraniční výměny se podávají na krátkodobý trh až po potvrzení provozovatele přenosové soustavy o přidělení příslušné přenosové kapacity pro tyto obchody na následující obchodní den.\n(10) Místem dodání a místem odběru elektřiny obchodované na krátkodobém trhu je elektrizační soustava."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Denní trh",
+      "content": "(1) Poptávky a nabídky na denní trh je možno podávat každý den v době od 7.00 hodin do 11.30 hodin, a to až do dne předcházejícího obchodnímu dni. Čas 11.30 hodin je okamžikem ukončení příjmu nabídek a poptávek na denním trhu.\n(2) Do 11.45 hodin dne předcházejícího obchodnímu dni je operátorem trhu z obdržených poptávek a nabídek sestavena nabídková a poptávková křivka pro každou obchodní hodinu. Na základě vyhodnocení těchto křivek jsou stanoveny výsledné dosažené zúčtovací ceny elektřiny a příslušná zobchodovaná množství elektřiny pro danou obchodní hodinu, přičemž zúčtovací cena elektřiny v dané obchodní hodině je stejná pro všechny uskutečněné obchody v této obchodní hodině.\n(3) Operátor trhu zadává do 11.45 hodin dne předcházejícího obchodnímu dni do svého informačního systému údaje o sjednaných množstvích elektřiny jednotlivých účastníků denního trhu po jednotlivých obchodních hodinách, včetně údajů o účastnících denního trhu.\n(4) Do 13.00 hodin dne předcházejícího obchodnímu dni jsou každému účastníku krátkodobého trhu způsobem uvedeným ve smlouvě o přístupu na krátkodobý trh oznámeny operátorem trhu informace o výsledcích vyhodnocení předložených nabídek a poptávek na denním trhu pro každou obchodní hodinu\na) velikost sjednané dodávky a velikost sjednaného odběru v MWh na denním trhu,\nb) zúčtovací cena z denního trhu v Kč/MWh.\n(5) Do 13.30 hodin dne předcházejícího obchodnímu dni jsou operátorem trhu na internetové stránce operátora trhu zveřejňovány nabídkové a poptávkové křivky, množství elektřiny z uskutečněných obchodů, zúčtovací ceny elektřiny pro každou obchodní hodinu, množství elektřiny z neuskutečněných nabídek a poptávek, počet přijatých úspěšných a neúspěšných nabídek a počet přijatých úspěšných a neúspěšných poptávek. Zveřejňované údaje neobsahují informace o jednotlivých účastnících denního trhu.\n(6) Po vyhodnocení předložených nabídek a poptávek na denním trhu jsou sjednané dodávky a sjednané odběry pro dané obchodní hodiny operátorem trhu zahrnuty do systému vyhodnocení odchylek operátora trhu.1)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Vnitrodenní trh",
+      "content": "(1) Vnitrodenní trh je organizován pro hodiny uvnitř obchodního dne. Pro daný obchodní den je v 16.00 hodin předcházejícího obchodního dne otevřen pro všechny hodiny daného obchodního dne vnitrodenní trh a lze na něm zadávat a akceptovat nabídky na dodávku nebo odběr elektřiny.\n(2) Vnitrodenní trh je uzavírán postupně po jednotlivých hodinách, doba uzavírky nabídek na dodávku nebo odběr elektřiny pro jednotlivé obchodní hodiny je 3 hodiny před danou obchodní hodinou."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Vyhodnocení nabídek a poptávek",
+      "content": "(1) Vyhodnocení nabídek a poptávek s respektováním podmínek uvedených účastníky krátkodobého trhu je prováděno pro každou hodinu obchodního dne. Výsledkem vyhodnocení je stanovení zúčtovacích cen, které jsou cenami platnými pro vypořádání obchodně závazkového vztahu a objemu elektřiny zobchodované pro každou hodinu obchodního dne.\n(2) Způsob stanovení zúčtovacích cen pro každou obchodní hodinu vyplývá ze smlouvy o přístupu na krátkodobý trh a ze smlouvy o zúčtování.\n(3) Způsob krácení souhrnu nabídek nebo souhrnu poptávek v případech, kdy nelze uspokojit celý souhrn nabídek nebo souhrn poptávek za zúčtovací cenu, je uveden ve smlouvě o přístupu na krátkodobý trh."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zúčtování a finanční vypořádání obchodů na krátkodobém trhu",
+      "content": "(1) Každý obchodní den je do 14.00 hodin každému účastníku krátkodobého trhu způsobem stanoveným ve smlouvě o přístupu na krátkodobý trh oznámena operátorem trhu jeho celková denní platba za předcházející obchodní den v Kč a pro každou obchodní hodinu předcházejícího obchodního dne\na) velikost sjednané dodávky a velikost sjednaného odběru v MWh s rozlišením na jedno desetinné místo v členění na denní trh a vnitrodenní trh,\nb) zúčtovací ceny z denního trhu a zúčtovací ceny dosažené na vnitrodenním trhu v Kč/MWh,\nc) platby za sjednaný odběr v Kč a úhrady za sjednanou dodávku v Kč v členění na denní trh a vnitrodenní trh.\n(2) Celková denní platba účastníka krátkodobého trhu se stanoví jako součet plateb za jeho sjednané odběry v každé obchodní hodině a součet úhrad za jeho sjednané dodávky v každé obchodní hodině daného obchodního dne, a to jak na denním trhu, tak na vnitrodenním trhu.\n(3) Na základě zúčtování je každému účastníku krátkodobého trhu operátorem trhu do 14.00 hodin oznámeno finanční vypořádání za předcházející obchodní den podle smlouvy o přístupu na krátkodobý trh.\n(4) Četnost vystavení daňového dokladu, kterým jsou obchody na krátkodobém trhu operátorem trhu účastníkům krátkodobého trhu fakturovány, je stanovena ve smlouvě o přístupu na krátkodobý trh.\n(5) V případě, že účastník krátkodobého trhu neuhradí své splatné závazky vůči operátorovi trhu ve lhůtě splatnosti, je použita částka z jeho jištění, které poskytl operátorovi trhu ve výši odpovídající neuhrazeným závazkům a možným vícenákladům, a to způsobem uvedeným ve smlouvě o přístupu na krátkodobý trh.\n(6) Seznam účastníků krátkodobého trhu je denně aktualizován a zveřejňován operátorem trhu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) Vyhláška č. 373/2001 Sb., kterou se stanoví pravidla pro organizování trhu s elektřinou a zásady tvorby cen za činnosti operátora trhu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "účastníkem krátkodobého trhu - subjekt zúčtování odchylek",
+      "definition": "který se na základě smlouvy o přístupu na krátkodobý trh zúčastňuje tohoto trhu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "obchodní hodinou - základní časový úsek",
+      "definition": "ve kterém je smluvně vymezena nabídka na prodej smluvního množství elektřiny (dále jen „nabídka“) nebo poptávka na nákup smluvního množství elektřiny (dále jen „poptávka“) na krátkodobém trhu; obchodní hodina je základním časovým úsekem pro vyhodnocování a zúčtování obchodů sjednaných na krátkodobém trhu a začíná vždy v celou hodinu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "obchodním dnem - 24 obchodních hodin dne",
+      "definition": "ve kterém se obchoduje, s výjimkou přechodu ze zimního na letní čas a zpět; v den, kdy dochází k přechodu na letní čas, se jedná o posloupnost 23 obchodních hodin a pro den, ve kterém dochází k přechodu na zimní čas, o 25 obchodních hodin; první obchodní hodina obchodního dne začíná v 00.00 hodin a končí v 1.00 hodinu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zúčtovací cenou",
+      "definition": "cena pro danou obchodní hodinu obchodního dne, za kterou je zúčtována elektřina v rámci zúčtování sjednaných odběrů a sjednaných dodávek na krátkodobém trhu operátorem trhu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Poptávka předložená účastníkem krátkodobého trhu na krátkodobém trhu",
+      "definition": "závazek, že poptávané množství elektřiny pro danou obchodní hodinu účastník krátkodobého trhu odebere z elektrizační soustavy v daném čase, pokud dojde k uspokojení této předkládané poptávky",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "Nabídka předložená účastníkem krátkodobého trhu na krátkodobém trhu",
+      "definition": "závazek, že nabízené množství elektřiny pro danou obchodní hodinu účastník krátkodobého trhu dodá do elektrizační soustavy v daném čase, pokud dojde k uspokojení této předkládané nabídky",
+      "source_provision": "§ 3"
+    }
+  ]
+}

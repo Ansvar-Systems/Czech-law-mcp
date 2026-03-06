@@ -1,0 +1,162 @@
+{
+  "id": "cz:352/2004",
+  "type": "statute",
+  "title": "352/2004 Sb., Vyhláška o provozní a technické propojenosti drah a drážních vozidel",
+  "title_en": "",
+  "short_name": "352/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-06-07",
+  "in_force_date": "2022-02-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/352",
+  "description": "Vyhláška o provozní a technické propojenosti drah a drážních vozidel",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropské unie1) a stanoví\na) členění a součásti drah, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii,\nb) členění drážních vozidel, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii,\nc) základní požadavky na prvky interoperability, subsystémy, dráhy a drážní vozidla,\nd) postup oznámeného subjektu nebo určeného subjektu při ES ověření a\ne) obsah technické dokumentace přikládané k ES prohlášení o ověření."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Členění a součásti drah, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii",
+      "chapter": "ČÁST DRUHÁ - ČLENĚNÍ A SOUČÁSTI DRAH A DRÁŽNÍCH VOZIDEL, NA NĚŽ SE VZTAHUJÍ POŽADAVKY NA JEJICH TECHNICKOU A PROVOZNÍ PROPOJENOST V EVROPSKÉ UNII",
+      "content": "(1) Dráhy, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii, se člení na dráhy\na) vybudované pro provoz drážních vozidel dosahujících rychlosti alespoň 250 km/h,\nb) modernizované pro provoz drážních vozidel dosahujících rychlosti alespoň 200 km/h,\nc) modernizované pro provoz drážních vozidel dosahujících rychlosti alespoň 200 km/h, na nichž provoz drážních vozidel v některých úsecích nedosahuje rychlosti 200 km/h z důvodu terénních, urbanistických nebo geografických omezení, včetně drah\n1. spojujících dráhy podle písmene a) nebo b) s ostatními dráhami,\n2. ve stanicích a zastávkách a\n3. zajišťujících přístup do terminálů nákladní dopravy,\nd) určené pro provoz drážních vozidel dosahujících rychlosti do 200 km/h k osobní dopravě,\ne) určené pro provoz drážních vozidel dosahujících rychlosti do 200 km/h k nákladní dopravě,\nf) určené pro provoz drážních vozidel dosahujících rychlosti do 200 km/h k osobní a nákladní dopravě,\ng) ve stanicích a zastávkách a zajišťující přístup do terminálů nákladní dopravy, na nichž provoz drážních vozidel nedosahuje rychlosti 200 km/h, a\nh) spojující dráhy podle písmen d) až f) navzájem nebo spojující tyto dráhy se stanicemi, zastávkami osobní dopravy nebo terminály nákladní dopravy.\n(2) Součástmi drah, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii, jsou železniční stanice a zastávky, terminály nákladní dopravy včetně překladišť mezi jednotlivými druhy dopravy, systémy řízení drážní dopravy, systémy sledování polohy drážního vozidla na dráze a navigační systémy, technická zařízení pro zpracování dat a technická zařízení pro telekomunikaci určená pro dálkovou osobní a nákladní dopravu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Členění drážních vozidel, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii",
+      "chapter": "ČÁST DRUHÁ - ČLENĚNÍ A SOUČÁSTI DRAH A DRÁŽNÍCH VOZIDEL, NA NĚŽ SE VZTAHUJÍ POŽADAVKY NA JEJICH TECHNICKOU A PROVOZNÍ PROPOJENOST V EVROPSKÉ UNII",
+      "content": "Drážní vozidla, na něž se vztahují požadavky na jejich technickou a provozní propojenost v Evropské unii, se člení na\na) elektrická nebo motorová hnací drážní vozidla,\nb) osobní vozy,\nc) nákladní vozy, včetně nízkopodlažních a určených pro přepravu silničních vozidel, a\nd) speciální vozidla konstruovaná pro údržbu, opravy a rekonstrukce dráhy nebo pro kontrolu stavu dráhy a odstraňování následků mimořádných událostí."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Bezpečnost",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "(1) Návrh, konstrukce, montáž, údržba, jakož i sledování součástí kritických pro bezpečnost, především součástí vztahujících se k jízdě vlaku, musí zaručovat bezpečnost na úrovni odpovídající cílům stanoveným v technických specifikacích interoperability15) pro subsystém, včetně cílů stanovených pro mimořádné situace, přičemž se respektují požadavky národních systémů.\n(2) Parametry související se stykem kolo/kolejnice musí vyhovovat požadavkům stability potřebným k zaručení bezpečné jízdy až do nejvyšší dovolené rychlosti, především z hlediska správné funkce zabezpečovacího zařízení a přípustných hodnot vzájemného rušení. Parametry brzdových zařízení musí umožňovat zastavení vlaku ve stanovené zábrzdné vzdálenosti16) i při nejvyšší povolené rychlosti.\n(3) Užívané součásti musí odolat každému normálnímu nebo výjimečnému namáhání, které se předpokládá v průběhu doby provozu včetně čelení vlivům veškerých náhodných poruch.\n(4) Konstrukce součástí dráhy a drážních vozidel a volba užitých materiálů musí být zaměřeny na omezování vzniku, šíření a účinků ohně a kouře v případě požáru.\n(5) Veškerá zařízení určená k manipulaci uživateli musí být navržena tak, aby ani při případném používání způsobem, který není v souladu se zveřejněnými pokyny, nenarušovala bezpečný provoz zařízení nebo bezpečnost a zdraví uživatelů."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Spolehlivost a dostupnost",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "Kontrola a údržba pevných nebo pohyblivých součástí souvisejících s jízdou vlaku musí být organizována, prováděna a zabezpečena takovým způsobem, aby provoz těchto součástí stále probíhal za podmínek určených v technické dokumentaci."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Ochrana bezpečnosti a zdraví",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "(1) Materiály, které způsobem svého používání mohou představovat ohrožení bezpečnosti a zdraví osob, které k nim mají přístup, se nesmí u konstrukcí drážních vozidel a na součástech dráhy používat.6)\n(2) Materiály užívané na drážních vozidlech a v součástech dráhy musí být vybírány, rozmísťovány a užívány takovým způsobem, aby omezily emise škodlivého a nebezpečného kouře nebo plynů, zejména v případě požáru."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Ochrana životního prostředí",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "(1) V etapě projektování systému je nutné v souladu se zvláštními právními předpisy7) posoudit vliv provozování drah a drážních vozidel na životní prostředí.\n(2) Materiály užívané na drážních vozidlech a v součástech dráhy musí zabraňovat emisi kouře nebo plynů, které jsou pro životní prostředí škodlivé a nebezpečné.\n(3) Vozidlový park a systémy dodávky energie musí být konstruovány a vyrobeny takovým způsobem, aby splňovaly požadavky elektromagnetické kompatibility8) s instalacemi, zařízením infrastruktury a veřejnými či soukromými sítěmi.\n(4) Při provozování drah a drážních vozidel musí být dodržovány stanovené meze obtěžování hlukem podle zvláštního právního předpisu.9)\n(5) Úniky provozních kapalin z drážních vozidel do prostoru kolejového svršku a emise ze spalovacích motorů hnacích drážních vozidel nesmí překročit stanovené limity.\n(6) Provozování drah a drážních vozidel nesmí za řádného stavu jejich údržby způsobovat v obvodu a ochranném pásmu dráhy překročení dovolených hodnot vibrací působících na člověka na pracovištích, ve stavbách sloužících k pobytu osob a celkové vertikální vibrace o kmitočtu nižším než 0,5 Hz stanovených podle zvláštního právního předpisu.9)"
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Technická slučitelnost",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "(1) Technické charakteristiky součástí dráhy musí být slučitelné navzájem, jakož i s technickými charakteristikami drážních vozidel, která jsou určena k provozování na této dráze. Technické charakteristiky používaných drážních vozidel je nezbytné přizpůsobit technickým charakteristikám součástí dráhy, pokud se nejedná o novou stavbu dráhy nebo její rekonstrukci, jejíž součásti umožní provozování nových vozidel.\n(2) Nelze-li z technických nebo ekonomických důvodů dosáhnout slučitelnost s technickými charakteristikami na určitých úsecích evropské železniční sítě ihned, je nezbytné provést dočasná administrativní a technická opatření umožňující provozování drah a drážních vozidel a zajistit slučitelnost při nejbližší rekonstrukci nebo modernizaci, přičemž se respektují požadavky systémů na území České republiky."
+    },
+    {
+      "provision_ref": "§ 12a",
+      "section": "12a",
+      "title": "§ 12a Přístupnost",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA I - OBECNÉ POŽADAVKY",
+      "content": "(1) Subsystémy infrastruktura, drážní vozidla, provozování dráhy a organizování drážní dopravy a telematika v osobní dopravě zahrnují opatření k předcházení a odstraňování překážek v přístupu osob se zdravotním postižením a osob se sníženou schopností pohybu a orientace k přepravním službám pro přepravu osob a zajišťují jejich rovný přístup k těmto službám.\n(2) Požadavky podle odstavce 1 musí být pro subsystémy infrastruktura a drážní vozidla splněny v souladu s technickými specifikacemi interoperability při jejich návrhu, konstrukci, údržbě, obnově, modernizaci a provozu. V případě subsystému provozování dráhy a organizování drážní dopravy jsou požadavky podle odstavce 1 obsaženy ve vnitřních předpisech provozovatele dráhy a dopravce."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Infrastruktura",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Každý přístupný prvek na dopravní cestě dráhy, určený pro zajištění bezpečného provozování dráhy a drážní dopravy, musí být zabezpečen před nedovoleným přístupem nebo vniknutím neoprávněných osob.\n(2) Ve stanicích a zastávkách určených pro přepravu osob je nezbytné učinit opatření k omezení nebezpečí, kterému jsou osoby vystaveny obzvláště při pohybu drážních vozidel.\n(3) Stavby a prostory na dopravní cestě dráhy, kam má veřejnost přístup, musí být konstruovány a provedeny tak, aby omezovaly možné ohrožení osob z hlediska stability staveb, požáru, přístupu, evakuace osob a podobně.10)\n(4) V tunelech a na mostech s délkou delší než 500 m musí být přijata opatření v zájmu respektování konkrétních bezpečnostních podmínek (např. podmínky pro osvětlení, únikové cesty, záchranné evakuační plány)."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Energie",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Provoz systémů dodávky energie na dráze nesmí narušovat bezpečnost provozování dráhy a drážní dopravy, jakož i bezpečnost přítomných cestujících, přepravců, jakož i zaměstnanců a třetích osob v ochranném pásmu dráhy.\n(2) Činnost systémů dodávky elektrické nebo tepelné energie nebo paliv nesmí způsobovat překračování určených mezí narušování životního prostředí stanovených zvláštním právním předpisem.11)\n(3) Užívané systémy dodávky elektrické a tepelné energie musí zajišťovat technickou slučitelnost a umožnit drážním vozidlům dosahovat určené úrovně výkonu.\n(4) Užívané systémy dodávky elektrické trakční energie musí být slučitelné s definovanými parametry elektrických hnacích vozidel včetně podmínek spolupráce jejich sběračů s trakčním vedením."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Řízení a zabezpečení",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Řídicí, komunikační, ovládací a zabezpečovací zařízení a užívané postupy musí vlakům umožňovat jízdu na úrovni bezpečnosti, která odpovídá cílům stanoveným pro danou dráhu. Systémy řízení, ovládání, komunikace, návěstění a zabezpečení musí dále zajišťovat bezpečnou jízdu vlaků, kterým je povolena jízda za mimořádných podmínek náhradního nebo nouzového řízení dopravy.\n(2) Veškeré nové součásti dráhy a veškerá nová drážní vozidla vyrobená nebo sestavená po schválení slučitelných systémů řízení, komunikace, zabezpečovacího zařízení a návěstění musí být přizpůsobena pro využití těchto systémů. Žádné zařízení nesmí narušovat bezpečnou činnost řídicích, ovládacích a zabezpečovacích zařízení.\n(3) Řídicí, komunikační, ovládací a zabezpečovací zařízení instalované na stanovišti osob řídících drážní vozidlo musí při dodržení provozních podmínek umožnit normální provoz na dráze celostátní, dráhách regionálních a vybraných dráhách jiných členských států, přičemž se respektují požadavky národních systémů."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Provoz",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Přizpůsobení pravidel provozování dráhy, pravidel provozování drážní dopravy a přizpůsobení odborné způsobilosti osob řídících drážní vozidlo, doprovodu vlaku a zaměstnanců řídících drážní dopravu ve vnitřních předpisech provozovatele dráhy a dopravce musí být takové, aby bylo zajištěno bezpečné provozování dráhy a drážní dopravy a byla zajištěna provozní účinnost drah a drážních vozidel, přičemž se respektují rozdílné požadavky mezinárodní a vnitrostátní dopravy.\n(2) Činnosti a intervaly školení a odborná způsobilost zaměstnanců doprovodu vlaku, zaměstnanců řídících drážní dopravu a zaměstnanců údržby součástí dráhy a systém zabezpečování údržby a kvality práce stanovený dotčenými provozovateli pro řídící a údržbářská pracoviště musí spolehlivě zajišťovat úroveň bezpečnosti systému stanovenou v technických specifikacích interoperability. Fáze a činnosti údržby, školení a odborná způsobilost zaměstnanců doprovodu vlaku, zaměstnanců řídících drážní dopravu a zaměstnanců údržby součástí dráhy a systém zabezpečování kvality práce zřízený příslušnými provozovateli pro řídící pracoviště a pracoviště údržby musí zajišťovat úroveň spolehlivosti a použitelnosti systému stanovenou v technických specifikacích interoperability.\n(3) Přizpůsobení pravidel provozování drážní dopravy a přizpůsobení odborné způsobilosti zaměstnanců doprovodu vlaku, zaměstnanců řídících drážní dopravu a zaměstnanců údržby a kontroly drážních vozidel musí zajišťovat úroveň spolehlivosti a použitelnosti vozidel stanovenou v technických specifikacích interoperability, aby byla dosažena provozní účinnost drah a drážních vozidel, přičemž se respektují odlišné požadavky mezinárodní a vnitrostátní dopravy.\nDrážní vozidla"
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Drážní vozidla pro osobní dopravu včetně přechodu mezi vozidly musí být řešena takovým způsobem, aby prostory pro cestující a prostory pro řízení byly chráněny v případě železniční nehody.\n(2) Žádné zařízení nesmí narušovat bezpečnou činnost řídicích, ovládacích a zabezpečovacích zařízení na drážních vozidlech.\n(3) Systémy brzdících zařízení, způsoby brzdění a vzniklé namáhání musí být slučitelné s konstrukcí kolejí, umělými stavbami železničního spodku a systémem návěstění.\n(4) Volný přístup k součástem napájeným elektrickým proudem nízkého a vysokého napětí na drážních vozidlech musí být zamezen nebo konstrukčně upraven tak, aby neohrozil bezpečnost osob.\n(5) V případě nebezpečí musí instalovaná zařízení umožnit cestujícím uvědomit osobu řídící drážní vozidlo o vzniku nebezpečí a členům doprovodu vlaku musí tato zařízení umožnit navázat spojení s osobou řídící drážní vozidlo.\n(6) Dveře vozidla určené pro nástup a výstup cestujících musí mít zabudovaný systém otevírání a zavírání zaručující bezpečnost cestujících.\n(7) V drážním vozidle pro osobní dopravu musí být k dispozici nouzové východy, které musí být jako takové zřetelně označeny.\n(8) U drážních vozidel provozovaných v tunelech s délkou 1000 m a větší musí být stanovena vhodná opatření zohledňující konkrétní bezpečnostní podmínky při mimořádné události v tunelu.\n(9) V drážních vozidlech pro osobní dopravu je povinný nouzový osvětlovací systém s dostatečnou intenzitou a dobou provozu.\n(10) Vlaky se vybavují záznamovým zařízením. Požadavky na harmonizaci údajů získávaných pomocí tohoto zařízení a zpracování informací z tohoto zařízení stanoví příslušné technické specifikace interoperability.\n(11) Vlaky pro osobní dopravu musí být vybaveny komunikačním systémem zajišťujícím komunikaci doprovodu vlaku a osoby řídící drážní dopravu s cestujícími.\n(12) Vlaky pro osobní dopravu musí být vybaveny stanovenými protipožárními prostředky."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Čelní okna na stanovišti osob řídících drážní vozidlo musí být osazena bezpečnostními skly splňujícími bezpečnostní požadavky pro stanovenou konstrukční rychlost vozidla.\n(2) Konstrukce provozně důležitého jízdního, trakčního a brzdového zařízení, systému řízení a ovládání drážních vozidel musí být řešena tak, aby ve specifických poruchových situacích umožňovala drážnímu vozidlu pokračovat v jízdě, aniž by byla nepříznivě ovlivňována zařízení, která zůstávají provozuschopná.\n(3) Elektrické zařízení na drážním vozidle musí být slučitelné s činností řídicích, ovládacích a zabezpečovacích zařízení. Elektrické vytápění a klimatizace drážních vozidel pro osobní dopravu s výjimkou vozidel historických musí být uzpůsobeny pro napájení elektrickou energií z průběžného vedení vlaku stanoveným napětím.\n(4) Vozidla elektrické trakce musí mít sběrače elektrického proudu konstruovány tak, aby umožňovaly jízdu při využívání dodávky energie v trakčním systému, na kterém budou používány.\n(5) Konstrukční a provozní charakteristiky drážních vozidel musí být takové, aby umožňovaly jízdu na každé trati, na které je provozování vozidel povoleno."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Údržba",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Technické vybavení a postupy předepsané zaměstnancům provádějícím údržbu musí zajistit bezpečný provoz subsystémů a nesmí způsobit ohrožení lidského zdraví a bezpečnosti při práci.\n(2) Technické vybavení a postupy používané na pracovištích údržby nesmí překračovat povolené úrovně narušování okolního životního prostředí.\n(3) Vybavení pro údržbu drážních vozidel musí být takové, aby umožňovalo provádění činností, které se týkají zajišťování bezporuchového bezpečného provozu vozidla, bezpečnosti provozování dráhy a drážní dopravy, zdraví a hygienických podmínek a pohodlných přepravních podmínek na všech drážních vozidlech, při jejichž konstrukci se s těmito funkcemi uvažovalo."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Použití telematiky v nákladní a osobní dopravě",
+      "chapter": "ČÁST TŘETÍ - ZÁKLADNÍ POŽADAVKY NA PRVKY INTEROPERABILITY, SUBSYSTÉMY, DRÁHY A DRÁŽNÍ VOZIDLA > HLAVA II - KONKRÉTNÍ POŽADAVKY PRO KAŽDÝ SUBSYSTÉM",
+      "content": "(1) Základními požadavky na použití telematiky je zaručení požadované úrovně kvality osobní přepravy pro cestující a nákladní přepravy pro dopravce a přepravce, zejména s ohledem na technickou slučitelnost.\n(2) Je nutno zajistit, aby\na) databáze, programy a postupy umožňující předávání dat souvisejících s dopravou a přepravou byly vypracovány způsobem zabezpečujícím co největší výměnu dat mezi uživateli pro různé způsoby použití, s výjimkou dat důvěrných a obchodních,\nb) přístup uživatelů k informacím byl snadný.\n(3) Metody používání, řízení, aktualizování a údržby databází, programů a postupů zabezpečující předávání dat musí zaručovat spolehlivost těchto systémů a vytvářet podmínky k optimálnímu rozhodování o procesech v dopravě a přepravě.\n(4) Rozhraní mezi těmito systémy a uživateli musí vyhovovat pravidlům ergonomiky a ochrany zdraví.12)\n(5) Pro uchovávání a přenášení informací vztahujících se k bezpečnosti nebo majících charakter obchodního tajemství musí být zajištěny potřebné úrovně integrity a spolehlivosti přenosu a archivace těchto informací."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Postup oznámeného subjektu při ES ověření",
+      "chapter": "ČÁST ČTVRTÁ - POSTUP PŘI ES OVĚŘENÍ SUBSYSTÉMU",
+      "content": "(1) Bylo-li vydáno průběžné stanovisko, zohlední je oznámený subjekt při ES ověření subsystému a před vydáním ES certifikátu\na) ověří, zda průběžné stanovisko odpovídá technickým specifikacím pro interoperabilitu,\nb) posoudí hlediska, která nebyla zohledněna při ověření předcházejícím vydání průběžného stanoviska, a\nc) posoudí provedení závěrečného zkoušení subsystému jako celku.\n(2) ES certifikát vydaný oznámeným subjektem musí obsahovat odkaz na technické specifikace pro interoperabilitu, s nimiž byla posuzována shoda, v souladu s přímo použitelným předpisem Evropské unie19). Nebyla-li posuzována shoda se všemi příslušnými technickými specifikacemi pro interoperabilitu, oznámený subjekt v ES certifikátu uvede odkaz na technickou specifikaci pro interoperabilitu nebo její část, která nebyla použita.\n(3) V případě modernizace nebo obnovy subsystému, k němuž byl již vydán ES certifikát, oznámený subjekt posuzuje pouze\na) části subsystému modernizací nebo obnovou dotčené a\nb) rozhraní částí podle písmene a) s částmi subsystému modernizací nebo obnovou nedotčenými.\n(4) Oznámený subjekt provádí při ES ověření pravidelnou a namátkovou kontrolu na staveništi, v prostorách určených pro výrobu a skladování nebo v prostorách určených pro zkoušení. Oznámený subjekt si od výrobce nebo jeho zplnomocněného zástupce vyžádá dokumenty nezbytné k provedení kontroly.\n(5) Vyplývá-li takový požadavek z technické specifikace pro interoperabilitu u subsystému obsahujícího prvek interoperability, oznámený subjekt zhodnotí jeho vhodnost pro použití k určenému účelu. Při kontrolách prováděných při ES ověření oznámený subjekt posuzuje, zda jsou dodržovány požadavky stanovené v příslušných technických specifikacích pro interoperabilitu. Oznámený subjekt vypracuje\na) o jím provedené kontrole zprávu, kterou předá výrobci nebo jeho zplnomocněnému zástupci, a\nb) záznam dokládající jím vykonanou činnost při ES ověření.\n(6) Ověřuje-li oznámený subjekt soulad pouze části subsystému s technickou specifikací pro interoperabilitu, použijí se odstavce 1 až 5 obdobně."
+    },
+    {
+      "provision_ref": "§ 21a",
+      "section": "21a",
+      "title": "§ 21a Postup určeného subjektu při ES ověření",
+      "chapter": "ČÁST ČTVRTÁ - POSTUP PŘI ES OVĚŘENÍ SUBSYSTÉMU",
+      "content": "(1) Vnitrostátní certifikát vydaný určeným subjektem musí obsahovat odkaz na prováděcí právní předpisy, s nimiž byla posuzována shoda, v souladu s přímo použitelným předpisem Evropské unie19).\n(2) V případě použití prováděcího právního předpisu pro subsystémy tvořící drážní vozidlo rozdělí určený subjekt vnitrostátní certifikát na\na) část obsahující odkazy na požadavky stanovené tímto předpisem vztahující se výhradně k technické kompatibilitě drážního vozidla s dráhou a\nb) část týkající se ostatních požadavků stanovených tímto předpisem."
+    },
+    {
+      "provision_ref": "§ 21b",
+      "section": "21b",
+      "title": "§ 21b Obsah technické dokumentace přikládané k ES prohlášení o ověření",
+      "chapter": "ČÁST ČTVRTÁ - POSTUP PŘI ES OVĚŘENÍ SUBSYSTÉMU",
+      "content": "Technická dokumentace přikládaná k ES prohlášení o ověření musí obsahovat\na) popis technických vlastností návrhu subsystému v rozsahu nezbytném pro doložení provedeného ES ověření subsystému, zejména celkové a podrobné výkresy odpovídající provedení subsystému, nákresy elektrických, hydraulických, palivových, chladicích a tlakovzdušných obvodů, nákresy kontrolních okruhů, popis zpracování dat a automatických systémů, provozní a údržbářské příručky,\nb) seznam prvků interoperability zahrnutých do subsystému,\nc) kopie ES prohlášení o shodě nebo vhodnosti pro použití prvků interoperability a kopie protokolů o zkouškách a testech provedených oznámenými subjekty na základě obecných evropských specifikací v oblasti informačních a komunikačních technologií20),\nd) ES certifikát vydaný oznámeným subjektem, včetně příslušných výpočtů a zprávy o kontrolách provedených oznámenými subjekty,\ne) průběžné stanovisko, bylo-li vydáno, a výsledky jeho ověření provedené oznámeným subjektem,\nf) zprávu o posouzení bezpečnosti podle přímo použitelného předpisu Evropské unie upravujícího společnou bezpečnostní metodu pro hodnocení a posuzování rizik21),\ng) dokumentaci přiloženou k vnitrostátnímu certifikátu vydanému určeným subjektem, obsahující technické údaje vztahující se k posouzení shody subsystému s vnitrostátními požadavky, a\nh) další certifikáty vydané podle právních předpisů Evropské unie, pokud byly vydány."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Účinnost",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÉ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2004.\n1) Směrnice Evropského parlamentu a Rady (EU) 2016/797 ze dne 11. května 2016 o interoperabilitě železničního systému v Evropské unii.\n2) Sdělení Ministerstva dopravy č. 111/2004 Sb., o výčtu železničních drah zařazených do evropského železničního systému.\n5) § 4a zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb.\n6) § 3 zákona č. 102/2001 Sb., o obecné bezpečnosti výrobků a o změně některých zákonů (zákon o obecné bezpečnosti výrobků), ve znění zákona č. 146/2002 Sb. a zákona č. 277/2003 Sb.\n7) Například zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.\n8) Nařízení vlády č. 18/2003 Sb., kterým se stanoví technické požadavky na výrobky z hlediska jejich elektromagnetické kompatibility.\n9) Nařízení vlády č. 502/2000 Sb., o ochraně zdraví před nepříznivými účinky hluku a vibrací, ve znění nařízení vlády č. 88/2004 Sb.\n10) Například zákon č. 50/1976 Sb., ve znění pozdějších předpisů, vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci).\n11) Zákon č. 86/2002 Sb., o ochraně ovzduší a o změně některých dalších zákonů (zákon o ochraně ovzduší), ve znění zákona č. 521/2002 Sb. a zákona č. 92/2004 Sb.\n12) § 11 a 12 nařízení vlády č. 178/2001 Sb., kterým se stanoví podmínky ochrany zdraví zaměstnanců při práci, ve znění nařízení vlády č. 523/2002 Sb.\n16) § 8 a § 37 odst. 8 vyhlášky č. 173/1995 Sb., kterou se vydává dopravní řád drah, ve znění vyhlášky č. 242/1996 Sb. a vyhlášky č. 174/2000 Sb.\n19) Prováděcí nařízení Komise (EU) 2019/250 ze dne 12. února 2019 o vzorech ES prohlášení a certifikátů pro železniční prvky interoperability a subsystémy, o vzoru prohlášení o shodě s povoleným typem železničního vozidla a o postupech ES ověřování subsystémů v souladu se směrnicí Evropského parlamentu a Rady (EU) 2016/797 a o zrušení nařízení Komise (EU) č. 201/2011, v platném znění.\n20) Čl. 13 a 14 nařízení Evropského parlamentu a Rady (EU) č. 1025/2012 ze dne 25. října 2012 o evropské normalizaci, změně směrnic Rady 89/686/EHS a 93/15/EHS a směrnic Evropského parlamentu a Rady 94/9/ES, 94/25/ES, 95/16/ES, 97/23/ES, 98/34/ES, 2004/22/ES, 2007/23/ES, 2009/23/ES a 2009/105/ES, a kterým se ruší rozhodnutí Rady 87/95/EHS a rozhodnutí Evropského parlamentu a Rady č. 1673/2006/ES, v platném znění.\n21) Prováděcí nařízení Komise (EU) č. 402/2013 ze dne 30. dubna 2013 o společné bezpečnostní metodě pro hodnocení a posuzování rizik a o zrušení nařízení (ES) č. 352/2009, v platném znění."
+    }
+  ],
+  "definitions": []
+}

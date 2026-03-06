@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:588/1949",
+  "type": "statute",
+  "title": "588/1949 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách raných hus a kachen.",
+  "title_en": "",
+  "short_name": "588/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-05-26",
+  "in_force_date": "1949-05-26",
+  "url": "https://www.e-sbirka.cz/ul1/1949/588",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách raných hus a kachen.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Výkupní cena raných živých jatečných hus a kachen prodávaných chovatelem (držitelem) v době do 15. června 1949 činí Kčs 80.— za 1 kg.\n(2) Tato cena platí při odběru ze dvora držitele (chovatele) drůbeže, po případě ze sběrného místa v obci určeného drůbežářským podnikem podle směrnic Ústředí pro hospodaření se zemědělskými výrobky, za zdravé, lačné rané husy a kachny dobré jakosti.\n(3) Ranými husami ve smyslu této vyhlášky se rozumějí husy nejvýše do stáří 12 týdnů; ranými kachnami kachny ve stáří do 10 týdnů.\n(4) Za rané husy a kachny podřadnější jakosti poskytne prodávající přiměřenou slevu.\n(5) Za lačné se považují husy a kachny, které nebyly krmeny alespoň 6 hodin před přejímáním (vážením). U hus a kachen, které byly nakrmeny krátce před převzetím (vážením), může přejímatel sraziti s váhy u hus až 20 dkg na 1 kuse, u kachen až 15 dkg na 1 kuse. Husy a kachny, které mají podle vnějšího zjištění při přejímání (vážení) plné vole, se nepovažují za lačné."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Nejvyšší ceny za 1 kg ve výkrmnách zabitých, oškubaných, nevyháčkovaných raných hus a kachen dobré jakosti se stanoví takto:\nnákupní cena maloobchodu a velkospotřebitele (prodejní cena výkrmny)Kčs 116.50\nspotřebitelská cenaKčs 124.—.\n(2) Jsou-li husy a kachny podřadnější jakosti, poskytne prodávající přiměřenou slevu s cen stanovených v odstavci 1.\n(3) Nákupní cena maloobchodu a velkospotřebitele se rozumí při prodeji v místě franko sklad, při zasílání drahou franko přejímací stanice kupujícího, s vnitřním balením bez všeobecné daně, která se účtuje odděleně. Spotřebitelská cena se rozumí včetně všeobecné daně.\n(4) Ceny stanovené v odstavci 1 smějí být požadovány jen do 16. července 1949.\n(5) Trvanlivé obaly (bedny, koše, atd.) musí odesilatel účtovat odděleně zálohovou částkou odpovídající u nových obalů skutečné ceně pořizovací, u obalů upotřebených ceně přiměřeně nižší. Příjemce zboží je povinen do 14 dnů vrátit trvanlivé obaly na účet odesilatele ve stavu, v jakém je od odesilatele přijal. Zálohově účtovanou částku vrátí pak dodavatel příjemci zboží.\n(6) Výkrmce je povinen opatřiti při prodeji každou husu a kachnu vhodným a čitelným označením, které musí obsahovati jméno a sídlo výkrmny a slovo „raná“."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Živnostenská výkrmna (porážka) je povinna poskytnout výkupním složkám za zprostředkování výkupu odměnu až do výše Kčs 4.— za 1 kg vykoupené živé váhy."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Nejvyšší úřad cenový může povolit nebo nařídit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení. Zároveň pozbývají platnosti ustanovení vyhlášky nejvyššího úřadu cenového ze dne 23. května 1947, č. 518 Ú. l. I, o cenách jatečných hus a kachen a vyhlášky ze dne 24. listopadu 1948, č. 3050 Ú. l. I, o spotřebitelských cenách mimokontingentních sádelných hus a výkupních cenách raných hus domácí produkce, pokud se týkají raných hus a kachen."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nákupní cena maloobchodu a velkospotřebitele",
+      "definition": "při prodeji v místě franko sklad, při zasílání drahou franko přejímací stanice kupujícího, s vnitřním balením bez všeobecné daně, která se účtuje odděleně",
+      "source_provision": "§ 2."
+    }
+  ]
+}

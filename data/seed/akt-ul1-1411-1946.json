@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:1411/1946",
+  "type": "statute",
+  "title": "1411/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o ceně zelené čekanky.",
+  "title_en": "",
+  "short_name": "1411/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-06-13",
+  "in_force_date": "1947-04-16",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1411",
+  "description": "Vyhláška nejvyššího úřadu cenového o ceně zelené čekanky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Výkupní cena zelené čekanky při prodeji pěstitelem jest 120 Kčs za 100 kg čisté váhy, včetně pěstitelské prémie i s daní z obratu.\n(2) Dosavadní výkupní, dodací a platební podmínky zůstávají nezměněny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisu toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení; zároveň se zrušuje vyhláška nejvyššího úřadu cenového ze dne 10. listopadu 1945, běž. č. 400 o cenách zelené a sušené čekanky (Ú. l. I. č. 134/1945)."
+    }
+  ],
+  "definitions": []
+}

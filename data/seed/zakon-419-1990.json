@@ -1,0 +1,45 @@
+{
+  "id": "cz:419/1990",
+  "type": "statute",
+  "title": "419/1990 Sb., Nařízení vlády České a Slovenské Federativní Republiky o základních skutečnostech tvořících předmět státního tajemství",
+  "title_en": "",
+  "short_name": "419/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-10-15",
+  "in_force_date": "1990-10-15",
+  "url": "https://www.e-sbirka.cz/sb/1990/419",
+  "description": "Nařízení vlády České a Slovenské Federativní Republiky o základních skutečnostech tvořících předmět státního tajemství",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V zahraničně politické oblasti se utajuje příprava mezinárodních jednání a smluv, pokud to jejich povaha vyžaduje, a mezinárodní jednání, jestliže se tak smluvní strany dohodnou."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "V oblasti obrany a bezpečnosti se utajují:\na) souhrnné údaje o mobilizační a operační připravenosti ozbrojených sil a sborů,\nb) celkové údaje o bojové připravenosti ozbrojených sil,\nc) stanovené1) zaměření a výsledky zpravodajské činnosti,\nd) určené1) formy a metody práce odborných složek bezpečnostního aparátu,\ne) souhrnné údaje o mobilizační připravenosti ústředních orgánů federace a republik,\nf) československé vojenské normy a jejich seznamy, zvláštní část věstníku Federálního úřadu pro normalizaci a měření, v němž se vyhlašuje platnost těchto norem,\ng) stanovené1) geofyzikální práce a geografické popisy,\nh) souhrnné údaje o státních mobilizačních a hmotných rezervách,\ni) katalogy (seznamy) údajů o trigonometrických bodech v souřadnicovém systému S - 1942 a tíhových údajů bodů československé opěrné (základní) gravimetrické sítě v souhrnu rozlohy 15 000 km2 a větší,\nj) souhrnné údaje týkající se výzkumu, vývoje, organizace a provádění šifrové služby, jakož i prostředky používané k utajení zpráv při jejich přenosu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "V hospodářské oblasti se utajují:\na) vybrané1) údaje ekonomického zajištění obrany a bezpečnosti státu,\nb) záměry dovozu a vývozu stanovených1) výrobků a údaje o jejich uskutečnění,\nc) umístění, přeprava a způsob zabezpečení celkových státních zásob drahých kovů a valut,\nd) výzkumné a vývojové práce důležité1) pro obranu a bezpečnost státu,\ne) strategické výrobky a technologie nakupované v jiných státech, pokud tyto státy takovou ochranu budou vyžadovat,\nf) přípravy provádění zásadních měnových opatření."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Zrušuje se nařízení vlády Československé socialistické republiky č. 149/1971 Sb., o základních skutečnostech tvořících předmět státního tajemství."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto nařízení nabývá účinnosti dnem 15. října 1990.\n1) § 3 odst. 1 zákona č. 102/1971 Sb., o ochraně státního tajemství."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,277 @@
+{
+  "id": "cz:360/2023",
+  "type": "statute",
+  "title": "360/2023 Sb., Vyhláška o dlouhodobém řízení informačních systémů veřejné správy",
+  "title_en": "",
+  "short_name": "360/2023 Sb.",
+  "status": "in_force",
+  "issued_date": "2023-12-15",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2023/360",
+  "description": "Vyhláška o dlouhodobém řízení informačních systémů veřejné správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Tato vyhláška stanoví\na) požadavky na strukturu a náležitosti informační koncepce orgánu veřejné správy a postupy orgánů veřejné správy při jejím vytváření, vydávání a při vyhodnocování jejího dodržování,\nb) požadavky na řízení informačních systémů veřejné správy (dále jen „informační systém“) a dekomponování informačních systémů,\nc) technické požadavky na informační systémy,\nd) pravidla pro strukturování dat v informačních systémech,\ne) požadavky na strukturu a náležitosti hodnocení ekonomické výhodnosti způsobu provozu informačních systémů, hodnocení ekonomické výhodnosti provozu informačních systémů a hodnocení ekonomické výhodnosti využití poptávaného cloud computingu a postup při jejich provádění a\nf) požadavky na strukturu a náležitosti provozní dokumentace a na rozsah provozní dokumentace předkládané při atestaci."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) řízením informatiky činnost související s vytvářením, správou, provozováním, užíváním a rozvojem informačních systémů,\nb) architekturou orgánu veřejné správy použití metody architektury úřadu na orgán veřejné správy jako celek,\nc) metodou architektury úřadu poznání a popis celkové struktury a chování úřadu jakožto systému, který je vyjádřen výčtem jeho prvků, klíčových vlastností těchto prvků, vazeb mezi nimi, klíčových vazeb těchto prvků na okolí, a který je zároveň vyjádřen principy navržení a budoucího vývoje tohoto systému,\nd) metodou architektury řešení poznání a popis architektury informačního systému vypovídající o tom, jak tento informační systém naplňuje požadavky na něj kladené,\ne) centrální sdílenou službou služba informačního systému poskytovaná prostřednictvím informačního systému, který je spravovaný ústředním správním úřadem, a který je určený k poskytování služeb těm informačním systémům, které spravují jiní správci,\nf) komponentou část informačního systému, která je jednoznačně oddělitelná od jiných částí informačního systému a zabezpečuje cílevědomou a systematickou informační činnost,\ng) otevřeným zdrojovým kódem eGovernmentu zdrojový kód komponenty určený pro další využití jiným orgánem veřejné správy,\nh) prostředím informačního systému výskyt sady jeho komponent splňující určitý účel v rámci životního cyklu informačního systému,\ni) produkčním prostředím prostředí, v rámci kterého je provozován informační systém ve fázi produkčního provozu a zkušebního provozu,\nj) produkčním provozem provoz, při kterém jsou poskytovány služby informačního systému, s výjimkou zkušebního provozu,\nk) produkčním údajem\n1. údaj, jehož vedení v informačním systému je důvodem vytvoření informačního systému a\n2. údaj zajišťující integritu, důvěrnost a dostupnost údaje podle bodu 1,\nl) sdíleným prvkem technologické a komunikační infrastruktury orgánu veřejné správy součást informačního systému, která je sdílena alespoň s jedním dalším informačním systémem,\nm) etapou životního cyklu informačního systému nebo jeho části období mezi dvěma okamžiky uvedení do produktivního provozu nové nebo výrazně obměněné sady služeb tohoto systému,\nn) fází životního cyklu informačního systému nebo jeho části část etapy životního cyklu, která má od jiných částí etapy odlišný účel, metody, činnosti a výstupy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Struktura a náležitosti informační koncepce orgánu veřejné správy",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA I - INFORMAČNÍ KONCEPCE ORGÁNU VEŘEJNÉ SPRÁVY",
+      "content": "(1) Informační koncepci orgánu veřejné správy tvoří\na) plán rozvoje informačních systémů orgánu veřejné správy,\nb) plán řízení informatiky a\nc) dokumentace o správě informační koncepce orgánu veřejné správy.\n(2) Plán rozvoje informačních systémů orgánu veřejné správy obsahuje\na) popis stávajícího stavu architektury orgánu veřejné správy,\nb) popis důvodů pro změny architektury orgánu veřejné správy,\nc) navržený cílový stav architektury orgánu veřejné správy a\nd) plán realizace změn informačních systémů orgánu veřejné správy.\n(3) Plán řízení informatiky obsahuje\na) popis stávajícího stavu řízení informatiky,\nb) popis důvodů pro změny řízení informatiky,\nc) navržený cílový stav řízení informatiky a\nd) plán realizace změn pro dosažení cílového stavu řízení informatiky.\n(4) Dokumentace o správě informační koncepce orgánu veřejné správy obsahuje\na) dobu platnosti informační koncepce orgánu veřejné správy,\nb) postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy,\nc) postupy při provádění změn informační koncepce orgánu veřejné správy a\nd) změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Vydávání a vyhodnocování dodržování informační koncepce orgánu veřejné správy",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA I - INFORMAČNÍ KONCEPCE ORGÁNU VEŘEJNÉ SPRÁVY",
+      "content": "(1) Orgán veřejné správy vydává informační koncepci orgánu veřejné správy na období 5 let.\n(2) Orgán veřejné správy uvádí informační koncepci orgánu veřejné správy do souladu se skutečným stavem, a to nejpozději do 6 měsíců ode dne, kdy informační koncepce orgánu veřejné správy přestala odpovídat skutečnému stavu.\n(3) Orgán veřejné správy uvádí informační koncepci orgánu veřejné správy do souladu se skutečným stavem\na) změnovými listy, které obsahují části informační koncepce orgánu veřejné správy, které jsou měněny, nebo\nb) vydáním nové informační koncepce orgánu veřejné správy.\n(4) Orgán veřejné správy zveřejňuje informační koncepci orgánu veřejné správy způsobem umožňujícím dálkový přístup.\n(5) Orgán veřejné správy provádí vyhodnocení dodržování informační koncepce orgánu veřejné správy alespoň jednou za 2 roky ode dne jejího vydání nebo změny."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Oblasti řízení informatiky",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "Oblastmi řízení informatiky jsou\na) strategie, plánování a organizace informatiky,\nb) pořizování a změny informačních systémů,\nc) provozování informačních systémů,\nd) poskytování služeb informačních systémů a\ne) útlum, konzervace a ukončování informačních systémů."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Strategie, plánování a organizace řízení informatiky",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "Orgán veřejné správy v oblasti strategie, plánování a organizace řízení informatiky\na) zavádí a uplatňuje strategické řízení informatiky,\nb) plánuje a v porovnání s plánem vyhodnocuje činnosti informatiky, zejména pořízení, změny a provoz informačních systémů,\nc) určí útvar pověřený řízením informatiky a blíže vymezuje jeho úkoly a\nd) nastavuje a udržuje procesy řízení informatiky a zajišťuje k tomu potřebné nástroje."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Pořízení a změny informačních systémů",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "Orgán veřejné správy v oblasti pořízení a změn informačních systémů\na) zajišťuje zdroje potřebné pro pořízení nebo změny informačních systémů,\nb) identifikuje požadavky na informační systémy a podmínky jejich zajištění,\nc) vyhodnocuje a v případě potřeby zajišťuje podmínky pro vytvoření ověřovacích konceptů sloužících pro ověření realizovatelnosti pořízení nebo změn informačních systémů,\nd) zajišťuje řízení programů a projektů potřebných pro pořízení a změny informačních systémů,\ne) zajišťuje řízení změn informačního systému na organizační a procesní úrovni a\nf) vyhodnocuje využitelnost existujících řešení a komponent s otevřeným zdrojovým kódem eGovernmentu pro jím spravované informační systémy."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Provoz informačních systémů",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "(1) Orgán veřejné správy v oblasti provozu informačních systémů\na) nastavuje systém řízení provozu informačních systémů,\nb) sleduje klíčové parametry provozu informačních systémů,\nc) zajišťuje správu zdrojů potřebných pro uspokojení servisních požadavků, řešení provozních incidentů a provoz informačních systémů,\nd) zajišťuje řízení kontinuity provozu informačních systémů,\ne) zajišťuje řízení bezpečnosti provozu informačních systémů a\nf) vyhodnocuje možnost využití centrálních sdílených služeb poskytovaných jinými orgány veřejné správy.\n(2) Orgán veřejné správy na své internetové adrese užívá doménového jména třetí nebo nižší úrovně v doméně .gov.cz, je-li orgán veřejné správy státním orgánem. Doménu .gov.cz nemusí orgán veřejné správy, který je státním orgánem, užívat, zajistí-li následné přesměrování na internetovou adresu užívající doménu .gov.cz."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Poskytování služeb informačních systémů",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "(1) Orgán veřejné správy v oblasti poskytování služeb informačních systémů stanovuje závazné parametry služeb poskytovaných informačními systémy, vyhodnocuje jejich plnění a dává pokyny k nápravě.\n(2) Orgán veřejné správy zveřejňuje závazné parametry podle odstavce 1 a vyhodnocuje jejich plnění na základě informací získaných z činnosti podle odstavce 1 způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Útlum, konzervace a ukončení informačních systémů",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA II - ŘÍZENÍ INFORMATIKY",
+      "content": "Orgán veřejné správy v oblasti útlumu, konzervace a ukončení informačních systémů vytváří a průběžně aktualizuje strategii ukončování provozu informačních systémů."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Struktura provozní dokumentace",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA III - PROVOZNÍ DOKUMENTACE",
+      "content": "(1) Provozní dokumentaci každé etapy životního cyklu informačního systému tvoří sady dokumentací\na) plánování vytvoření a rozvoje informačního systému,\nb) zadání a smluv pro vytvoření a rozvoj informačního systému,\nc) stavu informačního systému při uvedení do produkčního provozu po jeho vytvoření nebo rozvoji,\nd) plánu a zajišťování provozu,\ne) změn informačního systému a\nf) hodnocení informačního systému, včetně hodnocení ekonomické výhodnosti.\n(2) Orgán veřejné správy může zpracovat jednu provozní dokumentaci pro více informačních systémů, a to za předpokladu, že postupy pro vytvoření, správu, provoz, užívání a rozvoj těchto informačních systémů jsou shodné, nebo v příslušné fázi životního cyklu společné. V takovém případě uvede do provozní dokumentace informaci o tom, pro které informační systémy je provozní dokumentace společná.\n(3) Orgán veřejné správy zveřejňuje sady dokumentací podle odstavce 1 způsobem umožňujícím dálkový přístup; to neplatí, jestliže zveřejnění vylučuje jiný právní předpis1) nebo úkon anebo právní jednání vyžadované nebo umožněné takovým právním předpisem.\n(4) Správce informačního systému zařadí dokumenty provozní dokumentace do typového spisu a jako identifikátor typového spisu použije přidělený identifikátor informačního systému. Typový spis se člení na součásti typového spisu, které jsou tvořeny sadami dokumentací podle odstavce 1. Součásti typového spisu jsou členěny na díly, do kterých jsou vkládány spisy provozní dokumentace za stanovené časové období; po uplynutí tohoto období se díly uzavírají. Je-li zpracována jedna provozní dokumentace pro více informačních systémů podle odstavce 2, zakládá se do typového spisu pouze jednou, ve spisech ostatních informačních systémů je uveden odkaz na typový spis, ve kterém je založena."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Náležitosti provozní dokumentace",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA III - PROVOZNÍ DOKUMENTACE",
+      "content": "(1) Provozní dokumentace obsahuje\na) charakteristiku informačního systému,\nb) popis architektury informačního systému,\nc) podrobný popis informačního systému,\nd) bezpečnostní dokumentaci,\ne) provozní řád,\nf) postupy a procesy související s provozem informačního systému,\ng) protokoly související s provozem informačního systému a\nh) smluvní a licenční dokumentaci.\n(2) Charakteristika informačního systému obsahuje alespoň\na) odkaz na záznam v rejstříku informačních systémů veřejné správy a soukromoprávních systémů pro využívání údajů, v němž jsou údaje o informačním systému vedeny,\nb) vlivy působící na informační systém a z nich plynoucí předpokládané změny a cíle informačního systému,\nc) přehled dekomponování informačního systému na komponenty s uvedením vyhodnocené bezpečnostní úrovně informačního systému a jeho jednotlivých komponent a\nd) přehled ukazatelů hodnocení ekonomické výhodnosti provozu a způsobu provozu informačního systému.\n(3) Popis architektury informačního systému obsahuje alespoň dokumentaci na úrovni podrobnosti metody architektury úřadu a metody architektury řešení.\n(4) Podrobný popis informačního systému obsahuje alespoň\na) požadavky kladené na informační systém při jeho vytvoření nebo rozvoji,\nb) výčet komponent a sdílených prvků technologické a komunikační infrastruktury, které jsou nutné pro provoz informačního systému,\nc) popis programových rozhraní,\nd) popis připravovaných a realizovaných změn informačního systému,\ne) výčet komponent informačního systému, jejich vzájemných vazeb a vazeb na jiné informační systémy,\nf) přehled dostupných funkcí a poskytovaných služeb informačního systému,\ng) přehled evidovaných údajů a jejich strukturu,\nh) přehled zjištěných závad a provedených oprav informačního systému a\ni) dobu plánované životnosti informačního systému.\n(5) Orgán veřejné správy, kterému nejsou uloženy povinnosti v oblasti kybernetické bezpečnosti podle zákona upravujícího kybernetickou bezpečnost, stanovuje v bezpečnostní dokumentaci alespoň postupy pro\na) hodnocení dopadů narušení dostupnosti, důvěrnosti a integrity informací v informačním systému,\nb) způsob řešení a reakce na bezpečnostní události a bezpečnostní incidenty, sběr a vyhodnocování kybernetických bezpečnostních událostí a incidentů,\nc) zajištění provozu informačních systémů a bezpečnosti informací v informačních systémech,\nd) rozvoj bezpečnostního povědomí a způsob jeho kontroly,\ne) zajištění bezpečnosti komunikační sítě a\nf) zajištění řízení kontinuity činností.\n(6) Provozní řád obsahuje alespoň\na) provozní dobu informačního systému,\nb) parametry poskytovaných služeb informačního systému,\nc) informace o uživatelské podpoře,\nd) pravidla pro odstávky informačního systému,\ne) pravidla pro zamezení neúměrného provozního zatížení a nesprávného používání informačního systému nebo jeho služeb a\nf) podmínky pro připojení ke službám informačního systému."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Rozsah provozní dokumentace předkládané při atestaci",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA III - PROVOZNÍ DOKUMENTACE",
+      "content": "Orgán veřejné správy při atestaci předkládá provozní dokumentaci v rozsahu náležitostí podle § 12 odst. 1 písm. a) až h)."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Organizace řízení životního cyklu informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Orgán veřejné správy určuje pro řízení každého informačního systému věcného správce a technického správce.\n(2) Věcný správce stanovuje požadavky na služby informačního systému a poskytování služeb informačního systému splňujících tyto požadavky.\n(3) Technický správce zajišťuje\na) návrh a realizaci informačního systému z hlediska splňování\n1. požadavků na služby informačního systému podle odstavce 2 a\n2. požadavků na technické a programové prostředky kladených na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém spravovaný orgánem veřejné správy, pro nějž jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií,\nb) zpracování provozní dokumentace a její aktuálnost."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Fáze životního cyklu informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "Fázemi životního cyklu informačního systému jsou\na) strategické plánování vytvoření a rozvoje informačního systému,\nb) plánování a příprava vytvoření a rozvoje informačního systému,\nc) realizace vytvoření a rozvoje informačního systému,\nd) produkční provoz informačního systému,\ne) vyhodnocení životního cyklu informačního systému a\nf) ukončení životního cyklu informačního systému."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Strategické plánování vytvoření a rozvoje informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Věcný správce ve fázi strategického plánování vytvoření a rozvoje informačního systému\na) identifikuje motivace k vytvoření nebo rozvoji informačního systému, porovná je se stávajícím stavem architektury orgánu veřejné správy a prostřednictvím aktualizace informační koncepce orgánu veřejné správy provede strategické naplánování vytvoření nebo rozvoje tohoto systému,\nb) v návaznosti na plán v informační koncepci orgánu veřejné správy vypracuje a schválí investiční záměr a v případě určeného informačního systému obdrží souhlasné vyjádření Digitální a informační agentury a\nc) stanoví cíle, kterých chce dosáhnout vytvořením nebo rozvojem informačního systému nebo se odkáže na platné strategické cíle orgánu veřejné správy nebo cíle České republiky, jejichž splnění bude podpořeno plánovaným informačním systémem."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Plánování a příprava vytvoření a rozvoje informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Věcný správce ve fázi plánování a přípravy vytvoření a rozvoje informačního systému\na) identifikuje a stanovuje požadavky na služby informačního systému, zpracování informací a bezpečnostní úrovně informačního systému,\nb) vyhodnocuje a schvaluje řešení informačního systému podle předložených variant řešení informačního systému,\nc) plánuje zajištění zdrojů potřebných pro plánování a přípravu vytvoření a rozvoje informačního systému,\nd) identifikuje požadavky na zpracování datového výstupu určeného k dlouhodobému uchovávání,\ne) schvaluje plán ukončení provozu informačního systému a\nf) zajišťuje vypracování studie proveditelnosti k posouzení možných variant nebo zjištění podmínek pro realizovatelnost nových nebo významně měněných informačních systémů.\n(2) Technický správce ve fázi plánování a přípravy vytvoření a rozvoje informačního systému\na) zpracovává a předkládá varianty řešení informačního systému podle požadavku věcného správce, přičemž posuzuje možnost využití stávajících infomačních systémů,\nb) zpracovává architekturu informačního systému na úrovni podrobnosti metody architektury úřadu a metody architektury řešení a specifikace možných řešení,\nc) využívá výstupů provedených ověřovacích konceptů potřebných pro pořizování nebo změnu informačního systému,\nd) vytváří plán ukončení provozu informačního systému a\ne) vytváří plán uchovávání dat."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Realizace vytvoření a rozvoj informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Věcný správce ve fázi realizace vytvoření a rozvoje informačního systému\na) zajišťuje zdroje potřebné k realizaci vytvoření nebo rozvoji informačního systému,\nb) stanovuje rozsah a formát datového výstupu k dlouhodobému uchovávání a\nc) stanovuje uživatelské role, náplň vykonávaných činností a přístupová oprávnění.\n(2) Technický správce ve fázi realizace vytvoření a rozvoje informačního systému zajišťuje\na) pořízení nebo technické zhodnocení informačního systému splňujícího požadavky kladené na jeho služby,\nb) splnění požadavků kladených na provoz informačního systému,\nc) zveřejnění zdrojového kódu vytvořeného během projektu v rozsahu, v jakém jej nemůže být zneužito k narušení nebo zničení informačního systému,\nd) řízení změn informačního systému,\ne) řízení kontinuity provozu informačního systému a\nf) zřízení podpory uživatelům informačního systému.\n(3) Technický správce ve fázi realizace vytvoření a rozvoje informačního systému zajišťuje, aby projekt, jehož součástí je dodávka více než jedné komponenty, byl rozdělen na dílčí plnění obsahující dodávku jednotlivých komponent. Činí tak způsobem, aby bylo možné po dodávce každé komponenty projekt ukončit, pokud ztratil své původní opodstatnění.\n(4) Technický správce ve fázi realizace vytvoření a rozvoje informačního systému při zahajování provozu informačního systému s využitím jeho zkušebního provozu\na) zajišťuje akceptaci produkčního prostředí informačního systému, akceptační protokoly, seznam chyb a postup jejich odstranění,\nb) provádí testy\n1. výkonu,\n2. reakcí na poruchy a přetížení a\n3. integrace a kvality poskytovaných služeb,\nc) provádí testy mechanismů\n1. k zajištění integrity dat a procesů jejich zpracování,\n2. detekce chyb, jejich ohlášení a postupu nápravy,\n3. detekce škodlivého programového prostředku a škodlivé komunikace a\n4. hlášení a předcházení výskytu škodlivého programového prostředku nebo škodlivé komunikace,\nd) zajišťuje kontrolu a upřesnění plánu ukončení provozu předchozího informačního systému,\ne) vytváří a předává zkušební datový výstup k dlouhodobému uchovávání.\n(5) Věcný správce při dokončení fáze vytvoření a rozvoje informačního systému\na) školí budoucí uživatele informačního systému a\nb) identifikuje vady informačního systému a zajišťuje jejich odstranění.\n(6) Technický správce při dokončení fáze vytvoření a rozvoje informačního systému\na) zajišťuje provoz produkčního prostředí informačního systému,\nb) identifikuje vady informačního systému a zajišťuje jejich odstranění a\nc) zodpovídá za úplnost a aktuálnost provozní dokumentace informačního systému při jejím převzetí.\nProdukční provoz informačního systému"
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Věcný správce ve fázi produkčního provozu informačního systému\na) zajišťuje zdroje potřebné k zajištění produkčního provozu informačního systému,\nb) průběžně školí uživatele informačního systému,\nc) zajišťuje příjem a evidenci požadavků na změny funkcí a služeb informačního systému od uživatelů informačního systému,\nd) vyhodnocuje plnění stanovených požadavků na služby informačního systému a\ne) stanovuje prioritu evidovaných požadavků na změny funkcí a služeb informačního systému.\n(2) Technický správce ve fázi produkčního provozu informačního systému zajišťuje\na) provozování produkčního prostředí,\nb) plánování a pravidelnou kontrolu dostupnosti a zajištění zdrojů potřebných k provozování informačního systému,\nc) pravidelnou kontrolu integrity dat,\nd) pravidelné zálohování a uchovávání dat bez přerušení provozu informačního systému,\ne) pravidelné testy obnovy všech funkcí, kódů a dat informačního systému do nového prostředí,\nf) komponenty v provozuschopném a bezpečném stavu,\ng) příjem a evidenci požadavků na změny funkcí a služeb informačního systému,\nh) příjem hlášení provozních událostí a vyhodnocování závažnosti dopadu nalezených chyb, poruch a nedostatků informačního systému, vytváření a upřednostnění servisních požadavků,\ni) vyhledávání škodlivých programových prostředků a škodlivé komunikace,\nj) sledování a analýzu dopadů provozních událostí,\nk) nasazování ověřených, funkčních a formálně akceptovaných verzí s předem otestovanou integrací bez ohrožení kvality a dostupnosti služeb informačního systému,\nl) vytváření a předávání datového výstupu k dlouhodobému uchovávání,\nm) stanovenou úroveň kontinuity pro služby informačního systému, pro podporu služeb jiných informačních systémů a pro provoz informačních systémů a\nn) řízení provozovatele informačního systému."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Věcný správce ve fázi produkčního provozu informačního systému vyhodnocuje\na) plnění stanovených požadavků na služby informačního systému,\nb) přínosy služeb informačního systému,\nc) ekonomickou výhodnost služeb informačního systému a\nd) plnění cílů stanovených ve fázi strategického plánování vytvoření a rozvoje informačního systému.\n(2) Technický správce ve fázi produkčního provozu informačního systému vyhodnocuje\na) plnění věcným správcem stanovených požadavků na služby informačního systému a\nb) zajištění bezpečnosti informačního systému a aplikuje bezodkladně potřebná bezpečnostní opatření."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Ukončení životního cyklu informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA IV - ŘÍZENÍ ŽIVOTNÍHO CYKLU INFORMAČNÍHO SYSTÉMU",
+      "content": "(1) Technický správce ve fázi ukončení životního cyklu informačního systému zajišťuje\na) transformaci údajů a export dat podle potřeb z informačního systému způsobem umožňujícím jejich dlouhodobé uchovávání nebo přenesení do informačního systému, který má původní informační systém nahradit, a\nb) přenos aktuálních dat, kódů a prostředí v útlumovém režimu, je-li plánován.\n(2) Technický správce provádí export dat podle odstavce 1 písm. a) v rozsahu údajů, které informační systém zpracovával k okamžiku ukončení jeho produkčního provozu s ověřením integrity dat. Správce provádí export dat přednostně v otevřeném formátu.\n(3) Věcný správce stanovuje pro provoz prostředí v útlumovém režimu pravidla pro aktivaci, údržbu a aktualizaci kódů a komponent, přístup uživatelů informačního systému a využívání a poskytování údajů, bude-li technický správce takové prostředí vytvářet a udržovat."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA V - DEKOMPONOVÁNÍ INFORMAČNÍCH SYSTÉMŮ",
+      "content": "(1) Orgán veřejné správy provádí dekomponování informačních systémů ve 3 nezávislých a vzájemně se kombinujících děleních, kterými jsou\na) funkční dělení; funkčním dělením se rozumí dělení podle různých funkcí komponent při poskytování služeb informačního systému,\nb) technologické dělení; technologickým dělením se rozumí dělení podle technologických platforem sloužících pro vytvoření, rozvoj a provoz informačních systémů a\nc) provozní dělení; provozním dělením se rozumí dělení na prostředí podle jejich různého využití v životním cyklu informačních systémů.\n(2) Orgán veřejné správy provádí dekomponování informačního systému na všech vrstvách architektury informačních systémů.\n(3) Odstavce 1 a 2 se na dekomponování prvků sdílené infrastruktury použijí obdobně.\n(4) Orgán veřejné správy každé prostředí jednoznačně identifikuje. Údaje v produkčním prostředí nelze změnit prostřednictvím neprodukčního prostředí."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VI - STRUKTUROVÁNÍ DAT V INFORMAČNÍCH SYSTÉMECH",
+      "content": "(1) Orgán veřejné správy strukturuje data vedená v informačním systému na údaje\na) základních registrů,\nb) jiných agend,\nc) vlastní a\nd) provozní.\n(2) Orgán veřejné správy strukturuje data vedená v informačním systému podle způsobu jejich sdílení na údaje\na) veřejně přístupné,\nb) poskytované na žádost a\nc) zpřístupňované pro výkon agendy.\n(3) Orgán veřejné správy strukturuje data vedená v informačním systému podle jejich obsahu na údaje\na) identifikační,\nb) evidenční a\nc) statistické.\n(4) Orgán veřejné správy odděluje údaje vedoucí k jednoznačné identifikaci fyzické osoby od evidenčních údajů.\n(5) Orgán veřejné správy strukturuje data tak, aby bylo možno naplnit požadavky právních předpisů upravujících ochranu osobních údajů."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Technické požadavky na zajištění sdílení údajů",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VII - TECHNICKÉ POŽADAVKY NA INFORMAČNÍ SYSTÉMY",
+      "content": "(1) Údaje vedené v informačním systému jsou zpřístupněny v otevřeném a strojově čitelném formátu, a to ve formě datových souborů nebo prostřednictvím programovacího aplikačního rozhraní.\n(2) Údaje vedené v informačním systému jsou poskytovány podle otevřené formální normy pro rozhraní katalogů otevřených dat, kterou zveřejňuje Digitální a informační agentura způsobem umožňujícím dálkový přístup.\n(3) Technické a programové prostředky, které slouží pro sdílení údajů mimo referenční rozhraní, umožňují\na) sdílení údajů mezi informačními systémy jednoho správce prostřednictvím integračního rozhraní a\nb) sdílení údajů jako službu, jejíž technické a technologické specifikace jsou veřejně dostupné a využitelné bez dalších omezení a zvýšených nákladů."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Technické požadavky související s provozem různých prostředí",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VII - TECHNICKÉ POŽADAVKY NA INFORMAČNÍ SYSTÉMY",
+      "content": "(1) Během provozu různých prostředí informačního systému zařazených do různých bezpečnostních úrovní jsou tato prostředí rozlišována a produkční údaje odděleny od údajů ostatních.\n(2) Propojované informační systémy provozované v různých prostředích a zařazené do různých bezpečnostních úrovní\na) zajišťují rozlišení jednotlivých prostředí pro použitá rozhraní, poskytnuté služby a přístupová oprávnění,\nb) zamezují uživatelům informačního systému používat shodné autentizační údaje současně v prostředí s produkčními údaji a v prostředí s ostatními údaji,\nc) zamezují uživatelům zajišťujícím provoz, užívání a konfiguraci informačních systémů používat stejné pracovní stanice pro více prostředí s produkčními údaji,\nd) oddělují údaje při přístupu k údajům do prostředí s vyšší bezpečnostní úrovní z prostředí s nižší bezpečnostní úrovní jejich pseudonymizací nebo anonymizací,\ne) zajišťují důvěrnost údajů a stabilitu prostředí při přístupu k údajům do prostředí s vyšší bezpečnostní úrovní z prostředí s nižší bezpečnostní úrovní a\nf) zaznamenávají informace o bezpečnostních a provozních událostech."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Technické požadavky na užití centrálních sdílených služeb informačním systémem",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VII - TECHNICKÉ POŽADAVKY NA INFORMAČNÍ SYSTÉMY",
+      "content": "Informační systém využívá centrální sdílené služby pro\na) zajištění identifikace a autentizace uživatelů služeb,\nb) zajištění autorizace uživatelů uvnitř orgánu veřejné správy, kteří nejsou jeho zaměstnanci, a\nc) publikování poskytovaných služeb informačního systému v portálu veřejné správy, pokud je služba informačního systému vedena v katalogu služeb podle zákona upravujícího právo na digitální služby."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Technické požadavky na technologické platformy informačního systému",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VII - TECHNICKÉ POŽADAVKY NA INFORMAČNÍ SYSTÉMY",
+      "content": "(1) Je-li to při tvorbě technických požadavků na nový informační systém nebo rozvoj stávajícího informačního systému možné, využívají se\na) technické a programové prostředky a návrhové vzory, které umožňují vytvořit informační systém pro cloud computing nebo pro provoz bez odstávek, a\nb) prvky infrastruktury umožňující své sdílení.\n(2) Dálkový přístup ke službám informačních systémů je umožněn rovnocenným použitím informačního protokolu IPv4 a IPv6.\n(3) Informační systém, který poskytuje služby překladu jmen, poskytuje tyto služby způsobem zaručujícím integritu."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Struktura hodnocení",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VIII - HODNOCENÍ EKONOMICKÉ VÝHODNOSTI PROVOZU A ZPŮSOBU PROVOZU INFORMAČNÍCH SYSTÉMŮ",
+      "content": "(1) Hodnocení ekonomické výhodnosti provozu a způsobu provozu informačního systému tvoří\na) výsledky pravidelných hodnocení za použití metody celkových nákladů na vlastnictví informačního systému; popis metody celkových nákladů na vlastnictví informačního systému je uveden v příloze k této vyhlášce a\nb) hodnocení ukazatelů hospodárnosti, efektivnosti a účelnosti provozu a způsobu provozu informačního systému za minulá účetní období a jejich cílové hodnoty pro příští účetní období s uvedením nezbytných předpokladů pro jejich dosažení.\n(2) Orgán veřejné správy porovnává aktualizované hodnocení za použití metody celkových nákladů na vlastnictví informačního systému provozovaného ve správě majetku orgánu veřejné správy s provozováním informačního systému způsobem odlišným od provozu informačního systému ve správě majetku orgánu veřejné správy a uvede jej do hodnocení ekonomické výhodnosti provozu a způsobu provozu informačního systému. Orgán veřejné správy porovnává způsoby provozu informačního systému ve vyžadovaných bezpečnostních úrovních informačního systému a jeho jednotlivých komponent, pokud pro ně byly stanoveny bezpečnostní úrovně samostatně."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Provádění hodnocení",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VIII - HODNOCENÍ EKONOMICKÉ VÝHODNOSTI PROVOZU A ZPŮSOBU PROVOZU INFORMAČNÍCH SYSTÉMŮ",
+      "content": "(1) Orgán veřejné správy provádí hodnocení ekonomické výhodnosti provozu a způsobu provozu informačních systémů a využití cloud computingu ve fázích životního cyklu informačního systému\na) podle § 15 písm. a) až c) před změnou informačního systému mající povahu architektonické změny a\nb) podle § 15 písm. d) před změnou smluvního vztahu s provozovatelem informačního systému.\n(2) Orgán veřejné správy zohledňuje při hodnocení ekonomické výhodnosti provozu, způsobu provozu informačních systémů a využití cloud computingu dostupnost vlastních personálních kapacit a možnost jejich využití za účelem snížení závislosti na dodavatelích.\n(3) Orgán veřejné správy využívá při řízení životního cyklu informačního systému rovněž ukazatele ekonomické výhodnosti provozu a způsobu provozu srovnatelných informačních systémů, sdílených prvků technologické a komunikační infrastruktury a služeb.\n(4) Orgán veřejné správy porovnává při provádění hodnocení ekonomické výhodnosti způsobu provozu informačních systémů variantu provozu informačního systému s použitím vlastní nebo zprostředkované infrastruktury. Orgán veřejné správy využívá pro variantu odpovídající současnému způsobu provozu hodnocení ukazatelů hospodárnosti, efektivnosti a účelnosti jím spravovaných informačních systémů a pro jiné varianty kvalifikovaný odhad hodnocení ukazatelů hospodárnosti, efektivnosti a účelnosti jím spravovaných informačních systémů na základě použití metody hodnocení celkových nákladů na vlastnictví informačního systému.\n(5) Orgán veřejné správy provádí vyhodnocení za použití metody celkových nákladů na vlastnictví po zahájení poskytování služeb informačního systému a po obdržení podkladů umožňujících toto vyhodnocení."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Předběžné posouzení využití poptávaného cloud computingu",
+      "chapter": "ČÁST DRUHÁ - DLOUHODOBÉ ŘÍZENÍ INFORMAČNÍCH SYSTÉMŮ > HLAVA VIII - HODNOCENÍ EKONOMICKÉ VÝHODNOSTI PROVOZU A ZPŮSOBU PROVOZU INFORMAČNÍCH SYSTÉMŮ",
+      "content": "Orgán veřejné správy provádí předběžné posouzení plánovaných nákladů za použití metody celkových nákladů na vlastnictví ve fázi plánování a přípravy vytvoření a rozvoje informačního systému s využitím relevantních nabídek cloud computingu uvedených v katalogu cloud computingu. Je-li varianta s využitím nabídek cloud computingu vybraná s odbornou péčí výhodnější, využije orgán veřejné správy tuto variantu."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Přechodná ustanovení",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Orgán veřejné správy zpracuje informační koncepci orgánu veřejné správy a provozní dokumentaci k informačním systémům, jejichž je správcem, ve struktuře a s náležitostmi podle této vyhlášky do 4 let ode dne nabytí účinnosti této vyhlášky.\n(2) Do doby splnění povinností podle odstavce 1 je orgán veřejné správy povinen mít zpracovanou informační koncepci orgánu veřejné správy a provozní dokumentaci k informačním systémům, jejichž je správcem, ve struktuře a s náležitostmi podle vyhlášky č. 529/2006 Sb., o požadavcích na strukturu a obsah informační koncepce a provozní dokumentace a o požadavcích na řízení bezpečnosti a kvality informačních systémů veřejné správy (vyhláška o dlouhodobém řízení informačních systémů veřejné správy), ve znění účinném přede dnem nabytí účinnosti této vyhlášky.\n(3) Orgán veřejné správy zpřístupní údaje v otevřeném a strojově čitelném formátu podle § 24 odst. 1, a to ve formě datových souborů nebo prostřednictvím programovacího aplikačního rozhraní do 1 roku ode dne nabytí účinnosti této vyhlášky.\n(4) Orgán veřejné správy splní povinnost u stávajících informačních systémů podle § 8 odst. 2 do 6 měsíců ode dne nabytí účinnosti této vyhlášky. V důvodných a ojedinělých případech a v souladu se zásadou hospodárnosti může tento orgán veřejné správy požádat Digitální a informační agenturu o odklad termínu migrace pod jednotnou státní doménu .gov.cz některých svých dosavadních informačních systémů, u kterých by migrace do 6 měsíců ode dne nabytí účinnosti této vyhlášky byla ekonomicky i technicky vysoce náročná, na pozdější datum."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Zrušovací ustanovení",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Vyhláška č. 529/2006 Sb., o požadavcích na strukturu a obsah informační koncepce a provozní dokumentace a o požadavcích na řízení bezpečnosti a kvality informačních systémů veřejné správy (vyhláška o dlouhodobém řízení informačních systémů veřejné správy), se zrušuje."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Účinnost",
+      "chapter": "ČÁST TŘETÍ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2024.\nPříloha k vyhlášce č. 360/2023 Sb.\nPopis metody celkových nákladů na vlastnictví informačního systému\nPopis nákladové kategoriePopis nákladové komponenty\nA. Předběžné analýzy, tvorba zadání, výběr řešení a dodavatele – náklady nákupního procesuA1. Projektový záměr a úvodní studie (studie proveditelnosti, zadávací dokumentace, marketingový průzkum trhu)\nA2. Práce spojené s výběrem software (SW) aplikace a jejího dodavatele a výběrem hardware (HW) a jeho dodavatelů\nB. Nákup SW a HW pro projekt (ne v případě software jako služba (SaaS))B1. Stavební, provozní a komunikační infrastruktura\nB2. Informační a komunikační technologie (ICT) - HW a interní sítě\nB3. Licence systémového SW – základní SW nutný pro provoz aplikace (operační systém, systém řízení báze dat, atd.)\nB4. Licence vývojového SW prostředí pro vývoj aplikace, nebo pro úpravy standardního SW\nB5. Pořízení aplikačního SW\nB6. Spojené HW+SW zařízení (Appliance)\nB7. Prostředky kybernetické bezpečnosti\nC. Analýza, vývoj, implementace a zkušební provozC1. Vedení projektu vývoje a implementace na straně orgánu veřejné správy (i dodavatele)\nC2. Vypracování celkové architektury řešení, včetně návrhu procesního chování budoucího řešení\nC3. Náklady organizačních a procesních změn vyvolaných zavedením ICT služby\nC4. Oživení HW a systémového SW vývojového a implementačního prostředí\nC5. Vývoj a programové úpravy aplikace\nC6. Customizace (nastavení parametrů) aplikace\nC7. Integrace aplikace na ostatní aplikace\nC8. Pořízení dat, migrace dat\nC9. Testování (funkcionality, vazeb na jiné aplikace, výkonu, spolehlivosti, bezpečnosti)\nC10. Školení uživatelův projektu (započítávají se pouze náklady na vlastní školení, nikoliv časová ztráta školených zaměstnanců)\nC11. Akceptace a ověřovací provoz\nC12. Implementace HW a SW pro kybernetickou bezpečnost, implementace bezpečnosti, audit\nC13. Ostatní přímé náklady na pořízení řešení\nD. Provoz a podpora řešení HW a SW (ne v případě SaaS)D1. Provoz a podpora aplikací (service desk / podpora uživatelů při provozu aplikace – řešení incidentů a problémů)\nD2. Provoz a podpora ICT technologií (administrátoři, správci, technici na administraci aplikace, systému a sítě, řízení konfigurace a kapacit, řízení dostupnosti a dalších dohodnutých parametrů služby)\nD3. Provoz a podpora technologie datových center a komunikační infrastruktury\nD4. Provoz a podpora prostředků kybernetické bezpečnosti\nD5. Zajištění kybernetické bezpečnosti provozu řešení a dodávky služeb\nE. Hardware/Software údržba a průběžné úpravy (ne v případě SaaS)E1. Poplatky za roční standardní údržbu\n\nHW a prvků infrastruktury\nE2. Poplatky za roční standardní údržbu, typicky právo upgrade) vývojového, provozního i systémového SW\nE3. Poplatky za roční standardní údržbu (, typicky právo upgrade) aplikačního SW\nE4. Úpravy/rozvoj aplikace (nad standardní údržbu) – průběžné (interní, liniově řízené)\nE5. Poplatky za roční standardní údržbu prostředků kybernetické bezpečnosti\nE6. Úpravy/opravy/rozvoj HW a prvků síťové infrastruktury (nad standardní údržbu)\nE7. Úpravy/opravy/rozvoj vývojového, provozního i systémového SW (nad standardní údržbu)\nE8. Úpravy/opravy/rozvoj aplikace (nad standardní údržbu) – průběžné (interní, liniově řízené)\nE9. Úpravy/opravy/rozvoj HW+SW zařízení (Appliance) (nad standardní údržbu)\nE10. Úpravy/opravy/rozvoj prostředků kybernetické bezpečnosti (nad standardní údržbu)\nF. Projekty postupné inovace a zlepšování (plánované)F1. Funkční (procesní) inovační rozvojové projekty\nF2. Technologické rozvojové projekty\nF3. Roll-out projekty (rozšíření na další uživatele, organizace)\nF4. Projekty optimalizace řešení (např. konsolidace HW)\nG. Projekty upgrade (pokud jsou plánovány)G1. Projekty aplikačního upgrade\nG2. Projekty upgrade systémového SW\nG3. Projekty technologického upgrade\nG4. Projekty infrastrukturního upgrade\nH. Zvýšené náklady užívání řešení (pokud se vyskytnou)H1. Náklady ze ztráty produktivity\nH2. Náklady spojené s užíváním řešení\nI. Útlum, konzervace a ukončení řešeníI1. Archivace, zakonzervování a útlum řešení\nI2. Příprava dat pro migraci z řešení při ukončení\nI3. Likvidace komponent řešení\nX. Licence, HW, provoz, podpora, údržba, průběžný rozvoj - vše v subskripci (pouze SaaS)X1. Předplatné služby\nZ. Ostatní, do fází životního cyklu nerozlišitelné režijní nákladyZ1. Provozní režie\nZ2. Správní režie\n1) Například zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "řízením informatiky",
+      "definition": "činnost související s vytvářením, správou, provozováním, užíváním a rozvojem informačních systémů",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "architekturou orgánu veřejné správy použití metody architektury úřadu na",
+      "definition": "orgán veřejné správy jako celek",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "centrální sdílenou službou",
+      "definition": "služba informačního systému poskytovaná prostřednictvím informačního systému, který je spravovaný ústředním správním úřadem, a který je určený k poskytování služeb těm informačním systémům, které spravují jiní správci",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "komponentou část informačního systému",
+      "definition": "která je jednoznačně oddělitelná od jiných částí informačního systému a zabezpečuje cílevědomou a systematickou informační činnost",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "produkčním prostředím prostředí",
+      "definition": "v rámci kterého je provozován informační systém ve fázi produkčního provozu a zkušebního provozu",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "produkčním provozem provoz",
+      "definition": "při kterém jsou poskytovány služby informačního systému, s výjimkou zkušebního provozu; údaj, jehož vedení v informačním systému je důvodem vytvoření informačního systému a; údaj zajišťující integritu, důvěrnost a dostupnost údaje podle bodu 1",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "cz:307/2004",
+  "type": "statute",
+  "title": "307/2004 Sb., Vyhláška o předkládání informací a podkladů České národní bance osobami, které náleží do sektoru finančních institucí",
+  "title_en": "",
+  "short_name": "307/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-05-18",
+  "in_force_date": "2013-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/307",
+  "description": "Vyhláška o předkládání informací a podkladů České národní bance osobami, které náleží do sektoru finančních institucí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje v návaznosti na přímo použitelné předpisy Evropské unie1) obsah, formu, způsob a termíny předkládání informací a podkladů ve formě statistických výkazů (dále jen „výkazy“) České národní bance osobami, které náleží do sektoru finančních institucí podle práva Evropské unie2) a nejsou bankou nebo pobočkou zahraniční banky (dále jen „vykazující subjekt“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "(1) Pro účely této vyhlášky se fondem peněžního trhu rozumí fond kolektivního investování podle přímo použitelného předpisu Evropské unie upravujícího rozvahu sektoru měnových finančních institucí3).\n(2) Pro účely této vyhlášky se dále rozumí\na) výkazem strukturovaný soubor údajů, které mají významné věcné a formální vazby,\nb) datovým souborem seskupení údajů výkazu s předem definovanými datovými strukturami, které jsou informačním systémem metodicky popsány, předávány a zpracovávány jako celek,\nc) metodikou metodický popis věcného obsahu a struktur datových souborů přiřazených k jednotlivým výkazům s připojenými kontrolami vykazovaných údajů,\nd) zabezpečovací značkou údaje v elektronické podobě, které jsou připojeny k datové zprávě a které\n1. jsou jednoznačně spojené s označující osobou a umožňují její identifikaci prostřednictvím vydaného certifikátu,\n2. byly vytvořeny a připojeny k datové zprávě pomocí prostředků pro vytváření bezpečnostních značek, které označující osoba může udržet pod svou výhradní kontrolou,\n3. jsou k datové zprávě, ke které se vztahují, připojeny takovým způsobem, že je možné zjistit jakoukoli následnou změnu dat,\ne) fondem penzijní společnosti důchodový, účastnický nebo transformovaný fond, jehož majetek penzijní společnost obhospodařuje28)."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Okruh vykazujících subjektů",
+      "content": "Výkazy předkládají tyto vykazující subjekty\na) investiční společnost za každý vytvořený podílový fond, jehož majetek obhospodařuje,\nb) investiční společnost za investiční fond, jehož majetek obhospodařuje na základě smlouvy o obhospodařování majetku investičního fondu,4)\nc) investiční fond, který nemá uzavřenou smlouvu o obhospodařování,\nd) finanční instituce zařazené do subsektoru S.123 – Ostatní finanční zprostředkovatelé, zapsané v obchodním rejstříku s předmětem činnosti, který převážně spadá do ostatního finančního zprostředkování podle klasifikace ekonomických činností (CZ-NACE 64.9), a které v rámci svého podnikání jako svou rozhodující nebo podstatnou činnost poskytují úvěry nebo půjčky nebo uzavírají smlouvy obdobné povahy, například finanční leasing, faktoring, spotřebitelský úvěr, financování splátkového prodeje, a to včetně zahraničních osob s obdobnou náplní činnosti, které podnikají na území České republiky prostřednictvím organizační složky svého podniku (dále jen „zprostředkovatel financování aktiv“),\ne) pojišťovna, zajišťovna a organizační složka zahraniční pojišťovny nebo zajišťovny, které provozují pojišťovací nebo zajišťovací činnost4a) na území České republiky (dále jen „pojišťovna“),\nf) penzijní společnost,\ng) účelová finanční společnost pro sekuritizaci podle přímo použitelného předpisu Evropské unie4c) nebo osoba, která podle přímo použitelného předpisu Evropské unie za předkládání výkazů účelové finanční společnosti zapojené do sekuritizačních transakcí odpovídá4d) (dále jen „účelová finanční společnost pro sekuritizaci“)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Výkazy fondu kolektivního investování",
+      "content": "(1) Investiční společnost k poslednímu dni každého kalendářního měsíce (dále jen „měsíc“) za každý jednotlivý podílový fond a za investiční fond, jehož majetek obhospodařuje na základě smlouvy o obhospodařování, sestavuje výkaz\na) FKI (ČNB) 1-12 „Měsíční bilance aktiv a pasiv fondu kolektivního investování“ s kódem přiřazeného datového souboru RISIFI30,\nb) FKI (ČNB) 3-12 „Měsíční přehled držených a emitovaných cenných papírů fondu kolektivního investování“ s kódem přiřazeného datového souboru RISIFI33,\nc) FKI (ČNB) 4-12 „Měsíční výkaz o změnách v ocenění fondu kolektivního investování“ s kódem přiřazeného datového souboru TISIFI10.\n(2) Výkazy podle odstavce 1 investiční společnost předkládá České národní bance vždy do 25 kalendářních dnů následujícího měsíce, s výjimkou výkazu sestavovaného za fond peněžního trhu, který investiční společnost předkládá České národní bance vždy do 15 kalendářních dnů následujícího měsíce.\n(3) Investiční fond, který nemá uzavřenou smlouvu o obhospodařování, sestavuje a předkládá České národní bance výkazy podle odstavců 1 a 2.\n(4) Charakteristika struktury a obsahové náplně výkazů podle odstavce 1 je uvedena v příloze č. 2 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Výkazy zprostředkovatele financování aktiv",
+      "content": "(1) Zprostředkovatel financování aktiv ke konci každého kalendářního čtvrtletí (dále jen „čtvrtletí“) sestavuje a předkládá České národní bance výkaz OFZ (ČNB) 3-04 „Čtvrtletní bilance aktiv a pasiv zprostředkovatele financování aktiv“ s kódem přiřazeného datového souboru RISIFI23, a to vždy do 20 kalendářních dnů druhého měsíce následujícího po skončení čtvrtletí.\n(2) Zprostředkovatel financování aktiv, který v bilanci aktiv a pasiv vykazuje položky ve vztahu k zahraničí,\na) k poslednímu dni každého měsíce sestavuje a předkládá České národní bance výkaz PB (ČNB) 61-12 „Měsíční výkaz o úvěrech a vkladech ve vztahu k zahraničí“ s kódem přiřazeného datového souboru JISIFE61, a to vždy do 25 kalendářních dnů následujícího měsíce,\nb) ke konci každého čtvrtletí sestavuje a předkládá České národní bance výkaz PB (ČNB) 62-04 „Čtvrtletní výkaz – splátkový kalendář dlouhodobých finančních úvěrů přijatých ze zahraničí“ s kódem přiřazeného datového souboru JIPIFE62, a to vždy do 30 kalendářních dnů následujících po skončení čtvrtletí,\nc) ke konci každého kalendářního roku sestavuje a předkládá České národní bance výkaz PB (ČNB) 63-01 „Roční výkaz o přímých zahraničních investicích“ s kódem přiřazeného datového souboru JISIFE63, a to vždy do 30 kalendářních dnů následujících po skončení roku.\n(3) Charakteristika struktury a obsahové náplně výkazů podle odstavců 1 a 2 je uvedena v příloze č. 3 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6a",
+      "section": "6a",
+      "title": "§ 6a Výkaz pojišťovny",
+      "content": "(1) Pojišťovna ke konci každého čtvrtletí sestavuje a předkládá České národní bance výkaz POJ (ČNB) 11-04 „Čtvrtletní bilance aktiv a pasiv pojišťovny“ s kódem přiřazeného datového souboru RISIPE11, a to vždy do 30 kalendářních dnů následujících po skončení čtvrtletí.\n(2) Charakteristika struktury a obsahové náplně výkazu podle odstavce 1 je uvedena v příloze č. 4 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6b",
+      "section": "6b",
+      "title": "§ 6b Výkaz penzijní společnosti",
+      "content": "(1) Penzijní společnost ke konci každého čtvrtletí sestavuje výkaz PEF (ČNB) 12-04 „Čtvrtletní bilance aktiv a pasiv penzijní společnosti/fondu penzijní společnosti“ s kódem přiřazeného datového souboru RISIPE12, a to samostatně za penzijní společnost a za každý jednotlivý fond penzijní společnosti.\n(2) Výkaz podle odstavce 1 penzijní společnost předkládá České národní bance vždy do 30 kalendářních dnů následujících po skončení čtvrtletí.\n(3) Charakteristika struktury a obsahové náplně výkazu podle odstavce 1 je uvedena v příloze č. 5 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6ba",
+      "section": "6b",
+      "title": "§ 6ba Výkaz účelové finanční společnosti pro sekuritizaci",
+      "content": "(1) Účelová finanční společnost pro sekuritizaci ke konci každého čtvrtletí sestavuje výkaz\na) OFZ (ČNB) 90-04 „Čtvrtletní bilance aktiv a pasiv účelové finanční společnosti pro sekuritizaci“ s kódem přiřazeného datového souboru RISIFI90,\nb) OFZ (ČNB) 91-04 „Čtvrtletní přehled držených cenných papírů účelové finanční společnosti pro sekuritizaci“ s kódem přiřazeného datového souboru RISIFI91,\nc) OFZ (ČNB) 20-04 „Čtvrtletní výkaz o finančních transakcích účelové finanční společnosti pro sekuritizaci“ s kódem přiřazeného datového souboru TISIFI20.\n(2) Výkazy podle odstavce 1 účelová finanční společnost pro sekuritizaci předkládá České národní bance vždy do 25 kalendářních dnů následujících po skončení čtvrtletí.\n(3) Charakteristika struktury a obsahové náplně výkazů podle odstavce 1 je uvedena v příloze č. 6 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 6c",
+      "section": "6c",
+      "title": "§ 6c",
+      "content": "(1) Vykazující subjekt po obdržení informace o zařazení do okruhu statisticky nevýznamných subjektů nadále předkládá České národní bance jednou ročně pouze hodnotu celkových aktiv z výkazu podle této vyhlášky podle stavu k 31. prosinci, a to doručením v písemné nebo elektronické formě do 20. února následujícího kalendářního roku.\n(2) Dojde-li následně ke statisticky významné změně v objemu vykazovaných aktiv, Česká národní banka sdělí vykazujícímu subjektu, že již nebude předkládat hodnotu celkových aktiv podle odstavce 1, a vykazující subjekt nadále sestavuje a předkládá výkaz podle této vyhlášky. V případě potřeby vykazující subjekt aktualizuje technickou a organizační přípravu k předkládání výkazů (§ 7).\n(3) Statistická významnost se pro účely této vyhlášky zjišťuje podílem aktiv vykazujícího subjektu na celkovém objemu aktiv všech vykazujících subjektů dané kategorie.\nTermíny pro zahájení a ukončení sestavování a předkládání výkazů"
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Vykazující subjekt, který je k výkonu činnosti oprávněn na základě zvláštního právního předpisu, zahájí v dohodě s Českou národní bankou technickou a organizační přípravu k předkládání výkazů neprodleně po nabytí právní moci rozhodnutí o povolení\na) k vytvoření podílového fondu,5)\nb) k činnosti investičního fondu,6)\nc) k provozování pojišťovací nebo zajišťovací činnosti6a),\nd) k činnosti penzijní společnosti6b).\n(2) Za investiční fond, jehož majetek obhospodařuje na základě smlouvy o obhospodařování, zahájí přípravu podle odstavce 1 investiční společnost, a to neprodleně po uzavření této smlouvy.\n(3) Zprostředkovatel financování aktiv a účelová finanční společnost pro sekuritizaci zahájí přípravu podle odstavce 1 neprodleně po jejich zápisu do obchodního rejstříku.\n(4) Pobočka pojišťovny z jiného členského státu Evropské unie nebo ze státu tvořícího Evropský hospodářský prostor zahájí přípravu podle odstavce 1 neprodleně po zahájení její činnosti na území České republiky.\n(5) Neprodleně po dokončení nebo aktualizaci přípravy zahájí vykazující subjekt sestavování a předkládání výkazů."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "(1) Při splynutí podílových fondů7) investiční společnost, která obhospodařuje majetek v nově vytvořeném podílovém fondu, zahájí sestavování výkazů ode dne splynutí podílových fondů.\n(2) Při sloučení podílových fondů8) investiční společnost, která obhospodařuje majetek v přejímajícím podílovém fondu, ode dne sloučení podílových fondů sestavuje a předkládá výkazy zahrnující údaje i o majetku zrušeného podílového fondu, který se stává součástí majetku přejímajícího podílového fondu.\n(3) Při převodu podílového fondu do obhospodařování jiné investiční společnosti9) investiční společnost, která tento fond obhospodařuje, sestavuje a předkládá výkazy do nabytí právní moci rozhodnutí o povolení převodu obhospodařování podílového fondu. Po nabytí právní moci rozhodnutí výkazy sestavuje a předkládá investiční společnost, na kterou je obhospodařování podílového fondu převedeno.\n(4) Při zrušení podílového fondu10) investiční společnost, která jej obhospodařovala, předloží v termínech stanovených touto vyhláškou výkazy, které jsou sestaveny ke konci měsíce předcházejícímu den zrušení podílového fondu.\n(5) Při svěření obhospodařování majetku v podílovém fondu jiné osobě11) předkládá výkazy České národní bance investiční společnost, která majetek ve fondu svěřuje k obhospodařování."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "(1) Při fúzi nebo rozdělení investičního fondu12) investiční společnost, která obhospodařuje majetek v nástupnickém investičním fondu, po zápisu fúze nebo rozdělení do obchodního rejstříku\na) zahájí sestavování a předkládání výkazu podle § 7 odst. 5, jde-li o nově vzniklý nástupnický investiční fond, nebo\nb) sestavuje a předkládá výkaz zahrnující údaje i o majetku zaniklého investičního fondu od rozhodného dne fúze13) nebo od rozhodného dne rozdělení,14) jde-li o přejímající nástupnický investiční fond.\n(2) Investiční společnost, která obhospodařuje majetek v investičním fondu zanikajícím fúzí nebo rozdělením, předloží v termínu stanoveném touto vyhláškou výkaz, který je sestaven ke konci měsíce předcházejícímu rozhodný den fúze nebo rozhodný den rozdělení.\n(3) Při zrušení investičního fondu s likvidací investiční společnost, která obhospodařuje majetek ve zrušovaném investičním fondu, předloží v termínu stanoveném touto vyhláškou výkaz, který je sestaven ke konci měsíce předcházejícímu den zrušení investičního fondu.\n(4) Podle odstavců 1 až 3 sestavuje a předkládá výkaz rovněž investiční fond, který nemá uzavřenou smlouvu o obhospodařování."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "(1) Ustanovení § 9 se použijí přiměřeně i na sestavování a předkládání výkazů ostatními vykazujícími subjekty při jejich přeměně, zrušení s likvidací nebo změně předmětu jejich podnikání.\n(2) Jde-li při převodu obchodního jmění na akcionáře nebo společníka o převod na vykazující subjekt, ten po zápisu převodu obchodního jmění do obchodního rejstříku postupuje podle § 9 odst. 1 písm. b).\n(3) Při převodu obchodního jmění na akcionáře nebo společníka se rozhodným dnem podle § 9 odst. 1 písm. b) a odstavce 2 rozumí rozhodný den převodu obchodního jmění.15)"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "content": "Sestavování a předkládání výkazů se po dohodě s Českou národní bankou ukončí, případně přeruší u vykazujícího subjektu,\na) na jehož majetek byl prohlášen konkurz, zamítnut insolvenční návrh pro nedostatek majetku, nebo\nb) kterému soud nebo správní úřad zakázal činnost.\nZpůsob sestavování výkazů"
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "content": "(1) Datové soubory přiřazené k jednotlivým výkazům podle této vyhlášky využívá vykazující subjekt pro zjištění metodiky [§ 2 odst. 2 písm. c)] k sestavování výkazů a pro jejich předkládání. Vykazující subjekt podle zjištěné metodiky vytváří z údajů svého informačního systému datový soubor s hodnotami údajů, který předává jako součást datové zprávy16) České národní bance.\n(2) Formuláře předkládaných výkazů a metodiku pro jejich sestavování vydává Česká národní banka a jsou uveřejněny způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "content": "(1) Investiční společnost čerpá údaje potřebné pro sestavení předkládaných výkazů ze svého informačního systému, zejména z účetnictví vedeného pro obhospodařovaný podílový17) nebo investiční fond, podle definic ukazatelů uvedených v metodice.\n(2) Investiční společnost postupuje při sestavování výkazů podle pravidel pro sestavování účetní závěrky obhospodařovaného podílového nebo investičního fondu19) a dalších podkladů platných ke dni sestavení výkazu. Dnem sestavení výkazu je poslední kalendářní den sledovaného období.\n(3) Podle odstavců 1 a 2 obdobně postupují i ostatní vykazující subjekty, a to na základě údajů z vlastního účetnictví a podle pravidel pro sestavování účetní závěrky20) a dalších podkladů platných ke dni sestavení výkazu.\n(4) Pro oceňování vykazovaných údajů se používají způsoby stanovené zvláštním právním předpisem21) nebo uvedené v metodice.\n(5) Pro přepočet údajů v cizích měnách na údaje vykazované v české měně použije vykazující subjekt kurz devizového trhu vyhlášený Českou národní bankou pro den sestavení výkazu, nejedná-li se o údaje o transakcích ve vztahu k zahraničí ve výkazech podle § 6 odst. 2, kdy se použije kurz devizového trhu vyhlášený pro den uskutečnění transakce nebo pro den, kdy bylo o transakci účtováno, nebo lze použít průměrný kurz za vykazované období. Pro přepočet údajů v cizích měnách, pro něž Česká národní banka nevyhlašuje kurz devizového trhu, postupují vykazující subjekty podle zvláštního právního předpisu,22) a to i v případech, které se týkají subjektů účtujících jako banky.\n(6) Při vykazování údajů o pohledávkách a závazcích vůči měnovým finančním institucím,23) které jsou rezidenty24)\na) České republiky, používají vykazující subjekty pro jejich identifikaci a klasifikaci „Seznam měnových finančních institucí v České republice“ vydaný a aktualizovaný Českou národní bankou, která jej uveřejňuje způsobem umožňujícím dálkový přístup,\nb) členských států Evropské unie, s výjimkou České republiky, používají vykazující subjekty pro jejich identifikaci a klasifikaci „Seznam měnových finančních institucí a institucí podléhajících minimálním rezervám“ vydaný a aktualizovaný Evropskou centrální bankou, která jej uveřejňuje způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "content": "(1) Dojde-li na základě ověření účetní závěrky auditorem ke změnám vykazovaných údajů ve výkazech sestavených k 31. prosinci a předložených České národní bance podle této vyhlášky, sestaví a předloží vykazující subjekt tyto výkazy znovu s upravenými hodnotami do 15 kalendářních dnů po provedení odpovídajících změn v účetnictví. Opětovné předložení výkazů sestavených k 31. prosinci provede vykazující subjekt formou zvláštní dodatečné opravy z důvodu auditu.\n(2) Vykazující subjekt znovu sestaví a předloží z důvodu změny po auditu rovněž následující výkazy, pokud jsou ovlivněny úpravou údajů k 31. prosinci minulého roku podle odstavce 1. Opětovné předložení upravených výkazů provede vykazující subjekt formou běžné opravy do 30 kalendářních dnů po předložení upravených výkazů sestavených k 31. prosinci podle výsledků auditu.\nZpůsob a forma předkládání výkazů"
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "content": "(1) Vykazující subjekt předkládá výkazy České národní bance v elektronické podobě ve formě datových zpráv prostřednictvím\na) programové aplikace České národní banky pro sběr dat od nebankovních subjektů (SDNS), která je dostupná způsobem umožňujícím dálkový přístup,\nb) vlastní programové aplikace vykazujícího subjektu umožňující elektronickou výměnu informací (EDI/EDIFACT), nebo\nc) vlastní programové aplikace vykazujícího subjektu používající pro předání výkazu webové služby České národní banky pro sběr dat (SDNS-WS).\n(2) Datové zprávy zasílané prostřednictvím programových aplikací uvedených v odstavci 1 písm. a) a c) opatří vykazující subjekt zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb24a).\n(3) Datové zprávy zasílané prostřednictvím programové aplikace uvedené v odstavci 1 písm. b) opatří vykazující subjekt zabezpečovací značkou založenou na certifikátu vydaném Českou národní bankou."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "content": "(1) Pokud jsou předložené výkazy správné a úplné, Česká národní banka prostřednictvím programové aplikace uvedené v § 15 odst. 1 potvrdí vykazujícímu subjektu jejich přijetí, jinak postupuje podle zvláštního právního předpisu.25) Vykazující subjekt provede opravu nesprávných a neúplných výkazů a opravené výkazy ve stanovené lhůtě předloží České národní bance způsobem stanoveným v § 15, případně poskytne požadované vysvětlení.\n(2) Pokud vykazující subjekt dodatečně zjistí, že údaje dříve přijatého výkazu nejsou správné, provede prostřednictvím programové aplikace uvedené v § 15 odst. 1 opravu dat tohoto výkazu a v případě potřeby i dat výkazů souvisejících a uvědomí o provedení, rozsahu a obsahu oprav Českou národní banku."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "content": "(1) Vykazující subjekt, který sestavuje a předkládá výkazy České národní bance pomocí programové aplikace uvedené v § 15 odst. 1 písm. a) nebo c), sdělí České národní bance\na) jména a příjmení nejméně 2 osob, které jménem vykazujícího subjektu předkládají výkazy České národní bance,\nb) základní kontaktní údaje těchto osob nezbytné pro automatizovaný provoz programové aplikace (adresa pracoviště, telefonní a faxové číslo a adresa elektronické pošty) a\nc) základní identifikační údaje (obchodní firma nebo identifikační číslo) akreditovaného poskytovatele certifikačních služeb26) a číslo kvalifikovaného certifikátu vydaného těmto osobám k označování datových zpráv zaručeným elektronickým podpisem podle § 15 odst. 2.\n(2) Vykazující subjekt sdělí České národní bance bez zbytečného odkladu každou změnu údajů podle odstavce 1.\n(3) Pokud jsou výkazy sestavovány a předkládány České národní bance pomocí programové aplikace uvedené v § 15 odst. 1 písm. b), Česká národní banka na požádání vystaví certifikát určený k vytváření zabezpečovací značky uvedené v § 15 odst. 3."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Přechodná ustanovení",
+      "content": "(1) Investiční společnosti předloží České národní bance výkazy za fondy peněžního trhu podle této vyhlášky sestavené poprvé k 30. červnu 2004.\n(2) Investiční společnosti, které obhospodařují majetek v jiném podílovém fondu než fondu peněžního trhu nebo majetek investičního fondu na základě smlouvy o obhospodařování, a investiční fondy, které nemají uzavřenou smlouvu o obhospodařování, zahájí v dohodě s Českou národní bankou technickou a organizační přípravu k předkládání výkazů do 1 měsíce po nabytí účinnosti této vyhlášky. Výkazy za podílové a investiční fondy podle této vyhlášky sestaví investiční společnosti a investiční fondy poprvé k 30. září 2004 a předloží je České národní bance do 30. listopadu 2004.\n(3) Ostatní vykazující subjekty zahájí v dohodě s Českou národní bankou technickou a organizační přípravu k předkládání výkazů podle této vyhlášky do 15. ledna 2005. Výkazy podle této vyhlášky sestaví poprvé k 31. březnu 2005."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. června 2004.\nPříloha č. 2 k vyhlášce č. 307/2004 Sb.\nStruktura a obsah výkazů předkládaných za fondy kolektivního investování\nI) Měsíční bilance aktiv a pasiv fondu kolektivního investování - FKI (ČNB) 1-12\nVýkaz FKI (ČNB) 1-12 „Měsíční bilance aktiv a pasiv fondu kolektivního investování“ se sestavuje k poslednímu dni měsíce. Výkaz obsahuje statisticky členěné rozvahové údaje a vybrané doplňkové údaje za fond kolektivního investování."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky se fondem peněžního trhu",
+      "definition": "fond kolektivního investování podle přímo použitelného předpisu Evropské unie upravujícího rozvahu sektoru měnových finančních institucí3)",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "výkazem strukturovaný soubor údajů",
+      "definition": "které mají významné věcné a formální vazby",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "zabezpečovací značkou",
+      "definition": "údaje v elektronické podobě, které jsou připojeny k datové zprávě a které; jsou jednoznačně spojené s označující osobou a umožňují její identifikaci prostřednictvím vydaného certifikátu; byly vytvořeny a připojeny k datové zprávě pomocí prostředků pro vytváření bezpečnostních značek, které označující osoba může udržet pod svou výhradní kontrolou; jsou k datové zprávě, ke které se vztahují, připojeny takovým způsobem, že je možné zjistit jakoukoli následnou změnu dat",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "fondem penzijní společnosti důchodový",
+      "definition": "účastnický nebo transformovaný fond, jehož majetek penzijní společnost obhospodařuje28).",
+      "source_provision": "§ 2"
+    }
+  ]
+}

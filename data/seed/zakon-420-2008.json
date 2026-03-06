@@ -1,0 +1,33 @@
+{
+  "id": "cz:420/2008",
+  "type": "statute",
+  "title": "420/2008 Sb., Vyhláška, kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón",
+  "title_en": "",
+  "short_name": "420/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-12-08",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/420",
+  "description": "Vyhláška, kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Plán ochrany obsahuje textovou a grafickou část.\n(2) Textová část plánu ochrany obsahuje\na) výčet nemovitostí, které jsou kulturní památkou nebo národní kulturní památkou, určení urbanistických a krajinných hodnot a nemovitostí, které jsou architektonicky nebo urbanisticky cennou stavbou nebo souborem staveb, historicky významnou stavbou, místem nebo souborem staveb, významnou dominantou, znakem historické kulturní krajiny a nacházejí se v památkové rezervaci nebo památkové zóně,\nb) určení nemovitostí, které nejsou kulturní památkou, ale nacházejí se v památkové rezervaci nebo památkové zóně, nebo určení druhů prací na nich, u nichž je vyloučena povinnost podle § 14 odst. 2 zákona,\nc) stanovení způsobu zabezpečení kulturních hodnot památkové rezervace nebo památkové zóny z hlediska státní památkové péče,\nd) odůvodnění plánu ochrany.\n(3) Grafická část plánu ochrany obsahuje\na) výkres č. 1, ve kterém jsou vyznačeny nemovité kulturní památky, nemovité národní kulturní památky, urbanistické a krajinné hodnoty, architektonicky nebo urbanisticky cenné stavby nebo soubory staveb, historicky významné stavby, místa nebo soubory staveb, významné dominanty a znaky historické kulturní krajiny nacházející se v památkové rezervaci nebo památkové zóně,\nb) výkres č. 2 s označením nemovitostí, které nejsou kulturní památkou, ale nacházejí se v památkové rezervaci nebo památkové zóně, u nichž je zcela nebo zčásti vyloučena povinnost podle § 14 odst. 2 zákona, s vyznačením rozsahu osvobození od této povinnosti,\nc) výkres č. 3, ve kterém je vyznačen způsob zabezpečení kulturních hodnot památkové rezervace nebo památkové zóny z hlediska státní památkové péče.\n(4) Výkresy podle odstavce 3 se zpracovávají zpravidla v měřítku 1 : 1 000, 1 : 2 000 nebo 1 : 5 000.\n(5) V plánu ochrany se vždy uvede, zda se vztahuje na území celé památkové rezervace nebo památkové zóny nebo pouze na jeho část; hranici řešené části památkové rezervace nebo památkové zóny tvoří čára vedená po hranici parcel, ve výjimečných případech ji tvoří spojnice lomových bodů stávajících hranic nebo bodů na těchto hranicích. Tato hranice se uvede v textové části plánu ochrany a vyznačí se v grafické části plánu ochrany.\n(6) Odůvodnění plánu ochrany obsahuje\na) obecný popis kulturních hodnot památkové rezervace nebo památkové zóny,\nb) podrobný popis kulturních hodnot památkové rezervace nebo památkové zóny podle ucelených souborů staveb nebo jednotlivých staveb, ploch a veřejných prostranství,\nc) důvody vyloučení povinnosti podle § 14 odst. 2 zákona.\n(7) Památkovou rezervací nebo památkovou zónou podle odstavců 2, 3 a 6 se rozumí jejich části, pokud se plán ochrany vydává pouze pro tyto části.\n(8) Plán ochrany se vyhotovuje v elektronické verzi ve strojově čitelném formátu, který umožní zobrazení v geografických informačních systémech."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2009."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Památkovou rezervací nebo památkovou zónou podle odstavců 2, 3 a 6",
+      "definition": "jejich části, pokud se plán ochrany vydává pouze pro tyto části",
+      "source_provision": "§ 1"
+    }
+  ]
+}

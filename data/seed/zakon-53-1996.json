@@ -1,0 +1,39 @@
+{
+  "id": "cz:53/1996",
+  "type": "statute",
+  "title": "53/1996 Sb., Vyhláška Českého statistického úřadu, kterou se stanoví postup při přípravě programu statistických zjišťování",
+  "title_en": "",
+  "short_name": "53/1996 Sb.",
+  "status": "in_force",
+  "issued_date": "1996-03-15",
+  "in_force_date": "1996-03-15",
+  "url": "https://www.e-sbirka.cz/sb/1996/53",
+  "description": "Vyhláška Českého statistického úřadu, kterou se stanoví postup při přípravě programu statistických zjišťování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Návrhy na obsah statistických zjišťování pro příští kalendářní rok prováděných Českým statistickým úřadem může každý podat Českému statistickému úřadu do 31. března běžného roku."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Návrhy na statistická zjišťování pro příští kalendářní rok prováděná ministerstvy a jinými ústředními správními úřady, splňující náležitosti stanovené v § 10 odst. 2 zákona, se spolu s formalizovaným obsahem statistického zjišťování předkládají Českému statistickému úřadu ve dvou vyhotoveních nejpozději do 31. července běžného roku."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Návrhy na změnu nebo doplnění programu statistických zjišťování již uveřejněného ve Sbírce zákonů se předkládají Českému statistickému úřadu alespoň tři měsíce přede dnem, kdy mají zpravodajské jednotky poskytnout údaje, jichž se změny nebo doplňky týkají."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

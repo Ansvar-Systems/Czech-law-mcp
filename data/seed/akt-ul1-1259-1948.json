@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1259/1948",
+  "type": "statute",
+  "title": "1259/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Středočeských elektráren, národního podniku.",
+  "title_en": "",
+  "short_name": "1259/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-04",
+  "in_force_date": "1948-07-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1259",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Středočeských elektráren, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Josef Drnec, elektro-radiozávod, se sídlem v Dobříši, Riegrovo nám. 230, spr. okr. Příbram,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. „Ves“, velkoobchodní elektrotechnická akciová společnost v Praze, se sídlem v Praze II., Soukenická 25,\nvesměs v rozsahu jejich znárodnění, do Středočeských elektráren, národního podniku."
+    }
+  ],
+  "definitions": []
+}

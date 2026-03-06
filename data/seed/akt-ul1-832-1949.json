@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:832/1949",
+  "type": "statute",
+  "title": "832/1949 Ú. l. I, Vyhláška ministerstva techniky o typech šachet nákladních výtahů pro průmyslové stavby*).",
+  "title_en": "",
+  "short_name": "832/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-08-04",
+  "in_force_date": "1949-08-04",
+  "url": "https://www.e-sbirka.cz/ul1/1949/832",
+  "description": "Vyhláška ministerstva techniky o typech šachet nákladních výtahů pro průmyslové stavby*).",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Pro průmyslové stavby se stanoví tyto typy šachet nákladních výtahů podle půdorysných rozměrů:\n1. o modulové šířce šachty 180 cm a hloubce 120 cm pro zatížení od 250 kg do 500 kg,\n2. o modulové šířce šachty 180 cm a hloubce 150 cm pro zatížení od 250 kg do 500 kg,\n3. o modulové šířce šachty 210 cm a hloubce 210 cm pro zatížení od 500 kg do 1000 kg,\n4. o modulové šířce šachty 240 cm a hloubce 180 cm pro zatížení od 500 kg do 1000 kg,\n5. o modulové šířce šachty 240 cm a hlouce 240 cm pro zatížení od 1000 kg do 2000 kg,\n6. o modulové šířce šachty 270 cm a hloubce 270 cm pro zatížení od 1000 kg do 2000 kg,\n7. o modulové šířce šachty 270 cm a hloubce 360 cm pro zatížení od 1500 kg do 2000 kg,\n8. o modulové šířce šachty 300 cm a hloubce 240 cm pro zatížení od 1500 kg do 2000 kg,\n9. o modulové šířce šachty 300 cm a hloubce 270 cm pro zatížení od 3000 kg do 5000 kg,\n10. o modulové šířce šachty 300 cm a hloubce 360 cm pro zatížení od 3000 kg do 5000 kg,\n11. o modulové šířce šachty 330 cm a hloubce 240 cm pro zatížení od 3000 kg do 5000 kg,\n12. o modulové šířce šachty 330 cm a hloubce 390 cm pro zatížení od 3000 kg do 5000 kg,\n13. o modulové šířce šachty 360 cm a hloubce 450 cm pro zatížení od 3000 kg do 5000 kg.\n(2) Šachty jsou určeny pro výtahy se závažím vedle klece. Klece jsou rozděleny podle zatížení do dvou skupin:\na) 250 kg—2000 kg s konstantní šířkou mezer pro vodítko 20 cm a pro závaží 50 cm,\nb) 3000 kg—5000 kg s konstantní šířkou mezer pro vodítko 30 cm a pro závaží 70 cm.\n(3) Modulové rozměry šachet, rozměry hrubého zdiva a čisté míry šachet, použitelné rozměry klecí a informativní plány jsou připojeny jako příloha."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Typy šachet uvedené v § 1 se prohlašují za závazné, t. j. má jich být použito všude tam, kde se mají zřizovat nákladní výtahy."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Vyhláška nabývá účinnosti dnem vyhlášení.\nŠachty nákladních výtahů\n(závaží vedle klece).\nČíslo šachtyRozměry šachet v cmŠířka mezer\nv cmZatížení v kgPoužitelné rozměry klece\nv modulové sítiv hrubém zdivukonečné (čisté)\nšířkahloubkašířkahloubkašířkahloubkaoddošířka\ncmhloubka\ncmplocha\nm2\n1180120181121175115pro vodítko 20\npro závaží 502505001101101,21\n21801501811511751451101401,54\n821021021121120520550010001402002,80\n42401802411812351751701702,89\n524024024124123523510002 0001702308,91\n62702702712712652652002605,20\n727036027186126535515002 0002003507,00\n83002403012412952352302305,29\n9300270301271295265pro vodítko 30\npro závaží 708 0005 0002002605,20\n103003603013612953552003507,00\n113302403312413252352302305,29\n123803903313913253852303808,74\n1836045036145135544526044011,44\nŠACHTY NÁKLADNÍCH VÝTAHU PRO PRŮMYSLOVÉ STAVBY.\n*) Strojní zařízení výtahu bude pro stanovené typy šachet normalisováno."
+    }
+  ],
+  "definitions": []
+}

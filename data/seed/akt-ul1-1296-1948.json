@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1296/1948",
+  "type": "statute",
+  "title": "1296/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravie, národního podniku.",
+  "title_en": "",
+  "short_name": "1296/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-07-04",
+  "in_force_date": "1948-07-19",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1296",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Moravie, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Eisenwerk G. Meurer, Aktiengesellschaft, Werk Tetschen, se sídlem v Cosebaude u Drážďan (Německo),"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Karel Macháček, továrna plyn. kamen, vařidel a sporáků, se sídlem v Praze VIII., Královská 175,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Karla Mekisky synové, továrna plechových a zámečnických zboží v Litovli na Moravě, se sídlem v Litovli,"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Příbramská strojírna a slévárna, Šmolík a spol., společnost s r. o., se sídlem v Příbrami,\nvesměs v rozsahu jejich znárodnění, do Moravie, národního podniku."
+    }
+  ],
+  "definitions": []
+}

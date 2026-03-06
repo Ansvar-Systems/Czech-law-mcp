@@ -1,0 +1,45 @@
+{
+  "id": "cz:224/2002",
+  "type": "statute",
+  "title": "224/2002 Sb., Vyhláška Ministerstva zdravotnictví, kterou se stanoví rozsah činností zdravotnických zařízení v oblasti zabránění vzniku, rozvoje a šíření onemocnění tuberkulózou, které nejsou hrazeny z prostředků veřejného zdravotního pojištění",
+  "title_en": "",
+  "short_name": "224/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-05-30",
+  "in_force_date": "2002-06-15",
+  "url": "https://www.e-sbirka.cz/sb/2002/224",
+  "description": "Vyhláška Ministerstva zdravotnictví, kterou se stanoví rozsah činností zdravotnických zařízení v oblasti zabránění vzniku, rozvoje a šíření onemocnění tuberkulózou, které nejsou hrazeny z prostředků veřejného zdravotního pojištění",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Náklady spojenými s preventivními opatřeními zabraňujícími vzniku, rozvoji a šíření onemocnění tuberkulózou se rozumí kromě nákladů hrazených ze zdravotního pojištění též úhrada:\na) poštovného za zasílání pozvánek na pravidelné očkování proti tuberkulóze a kontrolu jizev a na provedení tuberkulinového testu,1) za zasílání žádostí o předávání zdravotnické dokumentace a její předávání, včetně opakovaného zvaní na kalmetizaci,\nb) telefonních poplatků na dohledávání dětí, které podléhají kalmetizaci a nově se přistěhovaly do spádové oblasti lékaře oboru tuberkulózy a respiračních nemocí, včetně zajišťování údajů o provedené kalmetizaci u těchto dětí,\nc) pozvánek na kalmetizaci, nových kalmetizačních karet, tří typů poučení pro rodiče o kalmetizaci, kterými jsou souhlas rodičů s provedením tuberkulinového testu, poučení pro rodiče o aplikaci tuberkulinu a poučení pro rodiče o očkování proti tuberkulóze,\nd) administrativních činností spojených s prevencí tuberkulózy spočívajících v čase kalmetizační sestry stráveném při vyhledávání karet, vypisování kalmetizačních karet, vypisování pozvánek, telefonických konzultacích s jinými odbornými lékaři z důvodů přešetření, případné kontraindikace kalmetizace a dále při organizaci a zajišťování kalmetizace, vedení dispenzáře tuberkulózou nemocných a osob se zvýšeným rizikem tuberkulózy, kterými jsou zejména osoby v kontaktu s onemocněním tuberkulózou,\ne) dopravy kalmetizační sestry z pracoviště do místa, kde je na základě souhlasu rodičů prováděna kalmetizace, například do školy či do ordinace praktického dětského lékaře,\nf) ztráty tuberkulinu a očkovací látky proti tuberkulóze při jejich aplikaci dané krátkou dobou použitelnosti vícedávkové ampule,\ng) kontroly léčby antituberkulotiky, spočívající v podání pokračovací tabletové antituberkulózní léčby pod dohledem zdravotnického personálu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Výdaje za činnosti uvedené v § 1 hradí nestátnímu zdravotnickému zařízení stát prostřednictvím orgánu příslušného k registraci nestátního zdravotnického zařízení, pokud s ním za tímto účelem tento uzavřel smlouvu podle zvláštního právního předpisu,2) nebo zřizovatel státního zdravotnického zařízení, který zajišťováním těchto činností pověřil zdravotnické zařízení, které zřídil.3)\n(2) Zdravotnické zařízení předkládá k úhradě doložené výdaje za uplynulé kalendářní čtvrtletí do konce kalendářního měsíce následujícího po uplynutí doby, za kterou se úhrada poskytuje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přechodné ustanovení",
+      "content": "Výdaje za činnosti stanovené v § 1, které vznikly zdravotnickým zařízením od 1. ledna 2001 do dne nabytí účinnosti této vyhlášky, vyúčtují tato zdravotnická zařízení okresním úřadům nebo svým zřizovatelům do 31. července 2002."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 15. června 2002.\n1) Vyhláška č. 439/2000 Sb., o očkování proti infekčním nemocem.\n2) § 5 zákona č. 160/1992 Sb., o zdravotní péči v nestátních zdravotnických zařízeních, ve znění zákona č. 161/1993 Sb.\n3) Zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Náklady spojenými s preventivními opatřeními zabraňujícími vzniku, rozvoji a šíření onemocnění tuberkulózou",
+      "definition": "kromě nákladů hrazených ze zdravotního pojištění též úhrada:",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cz:95/2017",
+  "type": "statute",
+  "title": "95/2017 Sb., Nález Ústavního soudu ze dne 14. února 2017 sp. zn. Pl. ÚS 28/16 ve věci návrhu na zrušení některých ustanovení zákona č. 186/2016 Sb., o hazardních hrách",
+  "title_en": "",
+  "short_name": "95/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-03-31",
+  "in_force_date": "2017-03-31",
+  "url": "https://www.e-sbirka.cz/sb/2017/95",
+  "description": "Nález Ústavního soudu ze dne 14. února 2017 sp. zn. Pl. ÚS 28/16 ve věci návrhu na zrušení některých ustanovení zákona č. 186/2016 Sb., o hazardních hrách",
+  "provisions": [
+    {
+      "provision_ref": "„§ 82",
+      "section": "82",
+      "title": "„§ 82 Blokace nepovolených internetových her",
+      "chapter": "III. - Dikce napadených ustanovení",
+      "content": "(1) Poskytovatelé připojení k internetu na území České republiky jsou povinni zamezit v přístupu k internetovým stránkám uvedeným na seznamu internetových stránek s nepovolenými internetovými hrami (dále jen ,seznam nepovolených internetových her‘).\n(2) Na seznam nepovolených internetových her se zapíše internetová stránka, na níž je provozovaná internetová hra v rozporu s § 7 odst. 2 písm. b).\n(3) Povinnost podle odstavce 1 jsou poskytovatelé připojení k internetu povinni splnit ve lhůtě 15 dní ode dne zveřejnění internetové stránky v seznamu nepovolených internetových her."
+    },
+    {
+      "provision_ref": "§ 84",
+      "section": "84",
+      "title": "§ 84 Seznam nepovolených internetových her",
+      "chapter": "III. - Dikce napadených ustanovení",
+      "content": "(1) Seznam nepovolených internetových her vede a o zápisu do něj rozhoduje z moci úřední ministerstvo.\n(2) Seznam nepovolených internetových her obsahuje\na) adresu internetové stránky, na níž je provozovaná internetová hra v rozporu s § 7 odst. 2 písm. b),\nb) jedinečný identifikátor platebního účtu, který je využíván k provozování internetové hry v rozporu s § 7 odst. 2 písm. b),\nc) den zápisu a výmazu údajů uvedených v písmenech a) a b).\n(3) Ministerstvo provede neprodleně výmaz internetových stránek nebo platebního účtu ze seznamu nepovolených internetových her, pominou-li důvody pro jejich zápis do tohoto seznamu.\n(4) Ministerstvo zveřejňuje na svých internetových stránkách ze seznamu nepovolených internetových her údaje podle odstavce 2 písm. a) a b).\n(5) V řízení podle odstavce 1 se účastníkovi řízení doručuje písemnost veřejnou vyhláškou a účastníkovi řízení známého pobytu nebo sídla se písemnost zašle rovněž na vědomí."
+    },
+    {
+      "provision_ref": "§ 123",
+      "section": "123",
+      "title": "§ 123",
+      "chapter": "III. - Dikce napadených ustanovení",
+      "content": "(5) Poskytovatel připojení k internetu na území České republiky se dopustí správního deliktu tím, že neučiní ve stanovené lhůtě opatření k zamezení v přístupu k internetovým stránkám podle § 82.“\n18. Ustanovení § 82 a 84 obsahuje hlava II části čtvrté zákona o hazardních hrách upravující dálkový přístup prostřednictvím internetu. Na seznam nepovolených internetových her (tzv. blacklist) se v intencích § 7 odst. 2 písm. b) zákona o hazardních hrách zapíše internetová hra, „ke které nebylo uděleno povolení, nebo která nebyla řádně ohlášena podle tohoto zákona“. Ustanovení § 123 je v hlavě II části osmé zákona o hazardních hrách nadepsané „dozor a správní delikty“. Za porušení zákona se v intencích odstavce 11 téhož ustanovení „uloží pokuta až do 1 000 000 Kč“."
+    }
+  ],
+  "definitions": []
+}

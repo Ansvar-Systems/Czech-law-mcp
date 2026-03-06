@@ -1,0 +1,45 @@
+{
+  "id": "cz:57/2015",
+  "type": "statute",
+  "title": "57/2015 Sb., Nařízení vlády o stanovení rozsahu údajů zapisovaných do informačního systému o služebním platu a způsobu jejich zapisování",
+  "title_en": "",
+  "short_name": "57/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-04-02",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/57",
+  "description": "Nařízení vlády o stanovení rozsahu údajů zapisovaných do informačního systému o služebním platu a způsobu jejich zapisování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah zapisovaných údajů",
+      "content": "Ministerstvo obrany (dále jen „ministerstvo“) je pro informační systém o služebním platu editorem zapisovaných údajů o\na) vojákovi nezařazeném ve Vojenském zpravodajství1), a to v rozsahu stanoveném v příloze č. 1 k tomuto nařízení,\nb) vojákovi zařazeném ve Vojenském zpravodajství1), a to v rozsahu stanoveném v příloze č. 2 k tomuto nařízení,\nc) ministerstvu, příspěvkových organizacích a státních podnicích zřízených ministerstvem, a to v rozsahu stanoveném v příloze č. 3 k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob zapisování údajů do informačního systému o služebním platu",
+      "content": "(1) Ministerstvo zapisuje do informačního systému o služebním platu údaje v elektronické podobě zabezpečeným způsobem.\n(2) Ministerstvo zapisuje do informačního systému o služebním platu údaje zpracované za první kalendářní pololetí a za celý kalendářní rok (dále jen „sledované období“), a to do pátého dne druhého kalendářního měsíce následujícího po skončení sledovaného období.\n(3) Pokud poslední den lhůty stanovené v odstavci 2 připadne na sobotu, neděli nebo svátek2), je posledním dnem lhůty pracovní den nejblíže následující.\n(4) Ministerstvo zapisuje do informačního systému o služebním platu utajované informace o subjektu údajů podle § 1 písm. b) způsobem odpovídajícím stupni utajení, kterým byla podle zákona upravujícího ochranu utajovaných skutečností3) zapisovaná utajovaná informace klasifikována.\n(5) Zapíše-li ministerstvo do informačního systému o služebním platu chybné údaje, provede jejich opravu bez zbytečného odkladu, nejpozději však do 2 pracovních dnů ode dne, kdy provedení chybného zápisu zjistilo."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Přechodná ustanovení",
+      "content": "(1) Údaje zapisované do informačního systému o služebním platu za sledované období podle § 2 zapíše ministerstvo poprvé za kalendářní rok 2016.\n(2) Údaje zapisované do informačního systému o služebním platu za sledované období kalendářního roku 2015 zapíše ministerstvo v rozsahu a termínech podle nařízení vlády č. 289/2002 Sb., kterým se stanoví rozsah a způsob poskytování údajů do Informačního systému o platech, ve znění nařízení vlády č. 514/2004 Sb."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. července 2015.\nPříloha č. 1 k nařízení vlády č. 57/2015 Sb.\nRozsah zapisovaných údajů do informačního systému o služebním platu o vojákovi nezařazeném ve Vojenském zpravodajství\nČísloOznačení údajeIdentifikátor4) údaje\nIdentifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo ministerstva (IČO)AA0017\n3.Fyzická osoba (kód)AA0126\n4.Rok – ročník (rok narození)AA0231\n5.Pohlaví osoby (kód)AA0211\n6.Stupeň nejvyššího dosaženého vzdělání (kód)AA0223\n7.Kód oboru nejvyššího dosaženého vzdělání AA1867\n8.Stupeň invalidityAA0085\n9.Kód státuAA0033\n10.Místo obvyklého výkonu službyAA0690\n11.Kód zařízení bez vlastního IČOAA0113\n12.Datum zpracování údajůAA0110\nÚdaje o právním vztahu\n13.Kód postavení v ministerstvuAA0091\n14.Kód služebního poměruAA0013\n15.Druh právního vztahu (kód)AA0130\n16.Základní doba služby v týdnuAA0131\n17.Doba trvání služebního poměruAA0225\nÚdaje o době služby\n18.Evidenční dny ve služběAA0218\n19.Počet hodin nepřítomnosti ve služběAA0744\n20.Vykonaná doba služby včetně služby přesčasAA0132\n21.Doba služby přesčasAA0133\n22.Neodsloužená doba s poskytnutím služebního platu celkemAA0134\n23.Neodsloužená doba s poskytnutím služebního platu – dovolenáAA0135\n24.Koeficient průměrného evidenčního stavu vojáka přepočtenýAA0136\n25.Kód evidenčního stavu vojáka k poslednímu dni sledovaného obdobíAA0137\n26.Datum vynětí z evidenčního stavuAA0568\nÚdaje o dočasné neschopnosti ke službě pro nemoc nebo úraz a karanténě\n27.Počet hodin dočasné neschopnosti ke službě pro nemoc nebo úraz a karantényAA0745\n28.Služební plat po dobu nemoci zúčtovaný k výplatěAA0713\nÚdaje o přiznaných složkách platu\n29.Platová třída – vojenská hodnost vojákaAA0127\n30.Druh platového tarifu (kód)AA0129\n31.Služební tarif přiznanýAA0138\n32.Výkonnostní příplatek přiznanýAA0139\n33.Zvláštní příplatkyAA0142\n34.Příplatek za zvýšenou odpovědnostAA1708\nÚdaje o vyplacených prostředcích\n35.Celkový služební plat zúčtovaný k výplatěAA0144\n36.Služební tarif zúčtovaný k výplatěAA0145\n37.Služební plat za službu konanou nad základní týdenní dobu služby zúčtovaný k výplatěAA0147\n38.Doplatek do minimální mzdy zúčtovaný k výplatěAA0162\n39.Příplatky celkem zúčtované k výplatěAA0150\n40.Výkonnostní příplatek zúčtovaný k výplatěAA0153\n41.Příplatky zvláštní zúčtované k výplatěAA0154\n42.Příplatek za zvýšenou odpovědnost zúčtovaný k výplatěAA1709\n43.Odměny zúčtované k výplatěAA0157\n44.Ostatní složky platu jinde nespecifikované zúčtované k výplatěAA0163\n45.Příplatek za služební pohotovostAA0161\n46.Služební plat vyplacený za neodpracovanou dobu celkem zúčtovaný k výplatěAA0158\n47.Průměrný hodinový výdělek pro služebně právní účelyAA0165\nPříloha č. 2 k nařízení vlády č. 57/2015 Sb.\nRozsah zapisovaných údajů do informačního systému o služebním platu o vojákovi zařazeném ve Vojenském zpravodajství\nČísloOznačení údajeIdentifikátor údaje\nÚdaje stanovené\n1.Objem prostředků na služební platy vojákůAA0123\nÚdaje o počtu vojáků\n2.Průměrný evidenční počet vojákůAA0114\nÚdaje o vyplacených prostředcích\n3.Platy vojáků včetně mimorozpočtových zdrojůAA0118\n4.Mimorozpočtové zdroje na platy celkemAA0119\nPříloha č. 3 k nařízení vlády č. 57/2015 Sb.\nRozsah zapisovaných údajů do informačního systému o služebním platu o ministerstvu, příspěvkových organizacích a státních podnicích zřízených ministerstvem\nČísloOznačení údajeIdentifikátor údaje\nIdentifikační údaje\n1.Sledované obdobíAA0226\n2.Identifikační číslo ministerstva (IČO)AA0017\n3.Kód zařízení bez vlastního IČOAA0113\n4.Právní forma ekonomického subjektuAA0019\n5.Kód NUTS okresuAA0179\n6.Datum zpracování údajůAA0110\nÚdaje stanovené\n7.Počet vojáků rozpočtovanýAA0116\n8.Objem prostředků na služební platy vojákůAA0123\nÚdaje o počtu vojáků\n9.Průměrný evidenční počet vojákůAA0114\n10.Evidenční počet vojáků fyzických osobAA0115\nÚdaje o vyplacených prostředcích\n11.Platy vojáků včetně mimorozpočtových zdrojůAA0118\n12.Mimorozpočtové zdroje na platy celkemAA0119\n1) Zákon č. 289/2005 Sb., o Vojenském zpravodajství, ve znění pozdějších předpisů.\n2) § 1 a 2 zákona č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a dnech pracovního klidu, ve znění pozdějších předpisů.\n3) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.\n4) Identifikátorem se rozumí popis sledovaných datových prvků definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Identifikátorem",
+      "definition": "popis sledovaných datových prvků definovaný v Informačním systému o datových prvcích vedeném Ministerstvem vnitra",
+      "source_provision": "§ 4"
+    }
+  ]
+}

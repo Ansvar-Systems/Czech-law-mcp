@@ -1,0 +1,27 @@
+{
+  "id": "cz:65/1990",
+  "type": "statute",
+  "title": "65/1990 Sb., Ústavní zákon České národní rady o počtu poslanců České národní rady",
+  "title_en": "",
+  "short_name": "65/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-03-13",
+  "in_force_date": "1990-03-13",
+  "url": "https://www.e-sbirka.cz/sb/1990/65",
+  "description": "Ústavní zákon České národní rady o počtu poslanců České národní rady",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1",
+      "section": "1",
+      "title": "Čl. 1",
+      "content": "Česká národní rada má 200 poslanců."
+    },
+    {
+      "provision_ref": "Čl. 2",
+      "section": "2",
+      "title": "Čl. 2",
+      "content": "Tento ústavní zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:45/1953",
+  "type": "statute",
+  "title": "45/1953 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro parní turbíny, pro parní kotle, pro připojovací praporce, svorníky a svorníková oka přístrojů na vysoké napětí do 35 kV a pro plody a semena lesních plodin.",
+  "title_en": "",
+  "short_name": "45/1953 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1953-01-31",
+  "in_force_date": "1961-05-01",
+  "url": "https://www.e-sbirka.cz/ul0/1953/45",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro parní turbíny, pro parní kotle, pro připojovací praporce, svorníky a svorníková oka přístrojů na vysoké napětí do 35 kV a pro plody a semena lesních plodin.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Technickými státními normami od 1. prosince 1952 jsou normy:\nČSN 08 0010Základní parametry a výkony pro parní kotle stacionární\nČSN 08 0012Kondenzační parní turbiny stacionární s jedním regulovaným odběrem páry, pro pohon elektrických generátorů. Základní parametry a typy turbin\nČSN 08 0020Protitlaké parní turbíny stacionární pro pohon elektrických generátorů.\nTyto normy jsou směrné.\n(2) Normy obsahují vedle názvosloví přehled základních parametrů a výkony jednotlivých druhů parních turbin a stanoví dále dovolené úchylky od základních parametrů těchto turbin."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Norma ČSN 07 0010 Základní parametry a výkon pro parní kotle stacionární je od 1. prosince 1952 technickou státní normou.\nTato norma je směrná.\n(2) Norma se týká stacionárních parních kotlů s tlakem páry od 8 do 100 atp. a teplotou do 525° C a s jmenovitým výkonem do 230 tun. páry za hodinu.\nKromě údajů o základních parametrech a výkonech obsahuje norma správné názvy nejdůležitějších údajů v zájmu jednotné terminologie."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Technickými státními normami od 1. ledna 1953 jsou normy:\nČSN 37 0910Připojovací praporce, svorníky a svorníková oka přístrojů na vysoké napětí do 35 kV. Technické požadavky.\nČSN 37 0911Připojovací praporce přístrojů na vysoké napětí do 35 kV. Rozměry.\nČSN 37 0912Svorníková oka přístrojů na vysoké napětí do 35 Kv. Rozměry.\n(2) Norma ČSN 37 0910 platí pro připojovací praporce, svorníky a svorníková oka přístrojů na vysoké napětí do 35 kV, které jsou určeny pro připojovaní vnějších vodičů. Jednají zejména o názvosloví a technických požadavcích pro připojovací praporce, svorníky a svorníková oka. Normy ČSN 37 0911 a 37 0912 určují rozměry jednotlivých druhů norem, jichž se týkají."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Norma ČSN 48 2111 Plody a semena lesních plodin je od 1. ledna 1953 technickou státní normou.\n(2) Norma platí pro lesní osivo, t. j. plody nebo semena lesních plodin v Československu přirozené rozšířených nebo pěstovaných a jedná mimo jiné o názvosloví, technických požadavcích, zkoušení, přejímání, dopravě a skladování."
+    }
+  ],
+  "definitions": []
+}

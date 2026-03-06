@@ -1,0 +1,33 @@
+{
+  "id": "cz:170/1989",
+  "type": "statute",
+  "title": "170/1989 Sb., Vyhláška Federálního statistického úřadu, kterou se mění vyhláška Federálního statistického úřadu č. 49/1985 Sb., o základních podmínkách dodávky prací a služeb v oblasti automatizovaného zpracování dat",
+  "title_en": "",
+  "short_name": "170/1989 Sb.",
+  "status": "in_force",
+  "issued_date": "1989-12-28",
+  "in_force_date": "1990-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1989/170",
+  "description": "Vyhláška Federálního statistického úřadu, kterou se mění vyhláška Federálního statistického úřadu č. 49/1985 Sb., o základních podmínkách dodávky prací a služeb v oblasti automatizovaného zpracování dat",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Ustanovení § 15 vyhlášky č. 49/1985 Sb., o základních podmínkách dodávky prací a služeb v oblasti automatizovaného zpracování dat, se vypouští."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Při zajištění dílčích úprav projektové dokumentace automatizovaných systémů dodané podle hospodářské smlouvy uzavřené před účinností této vyhlášky se postupuje podle dosavadního ustanovení."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1990."
+    }
+  ],
+  "definitions": []
+}

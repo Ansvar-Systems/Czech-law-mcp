@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:64/1950",
+  "type": "statute",
+  "title": "64/1950 Ú. l. I, Vyhláška ministerstva pošt o připojování telekomunikačních zařízení na poštovní síť a o jejich udržování.",
+  "title_en": "",
+  "short_name": "64/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-25",
+  "in_force_date": "1950-02-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/64",
+  "description": "Vyhláška ministerstva pošt o připojování telekomunikačních zařízení na poštovní síť a o jejich udržování.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Na poštovní telekomunikační síť lze připojovat toliko zařízení, jež jsou vlastnictvím Československé pošty, národního podniku, která je pronajme účastníkům.\n(2) Ustanovení předchozího odstavce nevztahuje se na zařízení, která byla do dne účinnosti této vyhlášky připojena na poštovní telekomunikační síť, jakož i na ta zařízení, která v budoucnosti zřídí ve svých objektech orgány vojska, sboru národní bezpečnosti, československých drah, dolů, hutí a energetických závodů, pokud s vlastníky zařízení nesjedná Československá pošta, národní podnik, zvláštní dohodu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Veškerá zařízení připojená na poštovní telekomunikační síť s výjimkou zařízení, jež je vlastnictvím vojska, sboru národní bezpečnosti, československých drah, dolů, hutí a energetických závodů, bude udržovat Československá pošta, národní podnik, svými orgány na účet účastníka.\n(2) V případech hodných zvláštního zřetele může pošta výjimečně povolit i jiným vlastníkům zařízení, která jsou již na poštovní síť připojena, aby je sami udržovali ve vyhovujícím stavu, mají-li k tomu vzhledem k rozsahu a vystrojení zařízení buď sami nebo některý z jejich stálých zaměstnanců potřebné odborné znalosti."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 1950."
+    }
+  ],
+  "definitions": []
+}

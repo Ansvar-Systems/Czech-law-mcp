@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:800/1946",
+  "type": "statute",
+  "title": "800/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o sazbách v soukromé lékařské praxi.",
+  "title_en": "",
+  "short_name": "800/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-16",
+  "in_force_date": "1946-03-20",
+  "url": "https://www.e-sbirka.cz/ul1/1946/800",
+  "description": "Vyhláška nejvyššího úřadu cenového o sazbách v soukromé lékařské praxi.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Sazby za lékařské výkony a výrobky v soukromé lékařské praxi uvedené v § 2 mohou býti, pokud dále není stanoveno jinak, zvýšeny nejvýše o 150% a platí jako sazby směrné nikoli jako sazby minimální."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Ustanovení § 1 platí:\na) pro sazby stanovené tarifem Lékařské komory pro zemi Českou ze dne 19. prosince 1928 s výjimkou sazeb za zubolékařské výkony a výrobky,\nb) pro sazby stanovené tarifem zubolékařských výkonů a výrobků, vydaných Lékařskou komorou pro zemi Českou dne 30. prosince 1924,\nc) pro sazby stanovené tarifem Lékařské komory pro zemi Moravskoslezskou ze dne 4. října 1923,\nd) pro všechny ostatní sazby požadované a placené ke dni 20. června 1939,\ne) pro sazby za lékařské výkony a výrobky nově zavedené po 20. červnu 1939."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ustanovení § 1 se nevztahuje na výkon lékařské služby pro nositele veřejnoprávního sociálního pojištění a na lékařské výkony a výrobky placené ze státních nebo jiných veřejných jakož i dobročinných prostředků."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem 20. března 1946.\n(2) Současně se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 9. července 1941, běž. č. 560, o sazbách v soukromé lékařské praxi (Ú. l. č. 162/1941)."
+    }
+  ],
+  "definitions": []
+}

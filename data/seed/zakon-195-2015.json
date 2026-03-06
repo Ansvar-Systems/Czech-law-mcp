@@ -1,0 +1,39 @@
+{
+  "id": "cz:195/2015",
+  "type": "statute",
+  "title": "195/2015 Sb., Vyhláška o způsobu regulace cen a postupech pro regulaci cen v plynárenství",
+  "title_en": "",
+  "short_name": "195/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-08-10",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/195",
+  "description": "Vyhláška o způsobu regulace cen a postupech pro regulaci cen v plynárenství",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob regulace",
+      "content": "(1) Úřad reguluje ceny v plynárenství způsobem úředně stanovených cen.\n(2) Úřad reguluje ceny plynu dodavatele poslední instance způsobem věcného usměrňování cen."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Postup tvorby cen",
+      "content": "Při regulaci ceny související služby v plynárenství postupuje Úřad tak, aby regulované ceny pokrývaly ekonomicky oprávněné náklady na zajištění spolehlivého, bezpečného a efektivního výkonu licencované činnosti, dále odpisy a přiměřený zisk zajišťující návratnost realizovaných investic do zařízení sloužících k výkonu licencované činnosti a oprávněné náklady na zvyšování energetické účinnosti při výstavbě a provozu přepravní soustavy a distribučních soustav."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Vyhláška č. 195/2014 Sb., o způsobu regulace cen a postupech pro regulaci cen v plynárenství, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016."
+    }
+  ],
+  "definitions": []
+}

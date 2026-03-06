@@ -1,0 +1,39 @@
+{
+  "id": "cz:315/2025",
+  "type": "statute",
+  "title": "315/2025 Sb., Vyhláška, kterou se mění vyhláška č. 79/2022 Sb., o technicko-ekonomických parametrech pro stanovení referenčních výkupních cen a zelených bonusů a k provedení některých dalších ustanovení zákona o podporovaných zdrojích energie (vyhláška o technicko-ekonomických parametrech), ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "315/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-02",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/315",
+  "description": "Vyhláška, kterou se mění vyhláška č. 79/2022 Sb., o technicko-ekonomických parametrech pro stanovení referenčních výkupních cen a zelených bonusů a k provedení některých dalších ustanovení zákona o podporovaných zdrojích energie (vyhláška o technicko-ekonomických parametrech), ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 79/2022 Sb., o technicko-ekonomických parametrech pro stanovení referenčních výkupních cen a zelených bonusů a k provedení některých dalších ustanovení zákona o podporovaných zdrojích energie (vyhláška o technicko-ekonomických parametrech), ve znění vyhlášky č. 275/2023 Sb. a vyhlášky č. 371/2024 Sb., se mění takto:\n1. V § 2 odst. 4 se slova „způsobem uvedeným v příloze č. 1 k této vyhlášce“ zrušují.\n2. Přílohy č. 1 a 2 včetně poznámky pod čarou č. 1 znějí:\n„Příloha č. 1\nTechnicko-ekonomické parametry, doba životnosti výroben elektřiny a biometanu z podporovaných zdrojů energie\nTabulka č. 1 – Technicko-ekonomické parametry pro stanovení referenční výkupní ceny a zeleného bonusu pro výrobny elektřiny a doba jejich životnosti\nVýrobna / instalovaný výkonStav1Doba životnostiDoba ročního využití instalovaného výkonuMěrné investiční nákladyNáklady na pořízení paliva\nrokyhodnotajednotkahodnotajednotkahodnotajednotka\nř./sl.abcdefghi\n1Malá vodní elektrárna nižší než 1 MWeNová20 let4 000kWhe/kWe204 800Kč/kWeXX\n2Modernizovaná15 let3 300kWhe/kWe70 000Kč/kWeXX\n3Větrná elektrárna\nod 1 MWe a nižší než 6 MWeNová20 let2 250kWhe/kWe58 700Kč/kWeXX\n4Bioplyn (BPS2) – elektřina nižší než 1 MWeModernizovaná15 let6 300kWhe/kWe60 000Kč/kWe4,1Kč/Nm3 bpl\nVysvětlivky:\n1 Novou výrobnou se rozumí výrobna uvedená do provozu od 1. ledna 2026. Modernizovanou výrobnou se rozumí výrobna, ve které byla provedena modernizace od 1. ledna 2026.\n2 Bioplynová stanice.\nTabulka č. 2 – Doba životnosti výroben elektřiny a biometanu s podporou formou aukčního bonusu\nVýrobnaDoba životnosti\nroky\n1Malá vodní elektrárna20\nVětrná elektrárna\n2Výrobna biometanu15\nPříloha č. 2\nVýše měrných provozních nákladů na palivo a emisní povolenky\nTabulka – Výše měrných provozních nákladů na palivo včetně nákladů na emisní povolenky\nBiomasaFosilní palivaEmisní povolenky\nKategorie 1 – 190 [Kč/GJ]90 [Kč/GJ]Nep [Kč/GJ]\nKategorie 2 – 190 [Kč/GJ]\nKategorie 3 – 60 [Kč/GJ]\nVýše měrných provozních nákladů na emisní povolenky se určí podle vzorce\nNep = (1 - BAP) × ETScena × EFCO2,\nkde\nNep[Kč/GJ] je měrný provozní náklad na emisní povolenku,\nBAP[-] je hodnota 0,1 odpovídající průměrné bezplatné alokaci emisních povolenek ve výši 10 % pro výtopny a teplárny (z celkového počtu vyřazených emisních povolenek za kalendářní rok),\nETScena[Kč/tCO2] je cena emisní povolenky na Evropské energetické burze (EEX), která se stanoví jako vážený průměr závěrečných cen (settlement price) produktu EUA Spot za období leden až červen kalendářního roku pro IV. obchodovací období, ve kterém se stanovuje výše provozní podpory; ceny jsou převedeny z EUR/tCO2 na Kč/tCO2 podle devizových kurzů vyhlášených Českou národní bankou pro příslušné dny,\nEFCO2[tCO2/GJ] je hodnota emisního faktoru 0,1 tCO2/GJ podle jiného právního předpisu1).\n1) Vyhláška č. 140/2021 Sb., o energetickém posudku.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Pro výrobny elektřiny, výrobny tepla a výrobny biometanu uvedené do provozu nebo modernizované od 1. ledna 2025 do 31. prosince 2025 se použijí technicko-ekonomické parametry podle vyhlášky č. 79/2022 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2026."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "1 Novou výrobnou",
+      "definition": "výrobna uvedená do provozu od 1",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

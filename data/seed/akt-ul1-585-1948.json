@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:585/1948",
+  "type": "statute",
+  "title": "585/1948 Ú. l. I, Vyhláška ministra průmyslu o zřízení Centrofloru, spojených továren umělých květin, národního podniku.",
+  "title_en": "",
+  "short_name": "585/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-04-17",
+  "in_force_date": "1948-09-30",
+  "url": "https://www.e-sbirka.cz/ul1/1948/585",
+  "description": "Vyhláška ministra průmyslu o zřízení Centrofloru, spojených továren umělých květin, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku M. Eiselt, se sídlem v Horní Poustevně, v rozsahu jeho znárodnění;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Johann Herschel, se sídlem ve Vilémově, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

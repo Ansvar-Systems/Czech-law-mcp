@@ -1,0 +1,27 @@
+{
+  "id": "cz:422/2010",
+  "type": "statute",
+  "title": "422/2010 Sb., Vyhláška, kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek",
+  "title_en": "",
+  "short_name": "422/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-12-29",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/422",
+  "description": "Vyhláška, kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Příloha č. 3 vyhlášky č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, se mění takto:\n1. Dosavadní text přílohy č. 3 se označuje jako bod I.\n2. V bodu I se na začátek vkládá věta „Přípustnými formáty datové zprávy dodávané do datové schránky jsou za splnění podmínek uvedených v bodech II a III formáty“.\n3. V bodu I písm. k) se slovo „doc“ nahrazuje slovem „doc/docx“.\n4. V bodu I písm. l) se slovo „xls“ nahrazuje slovem „xls/xlsx“.\n5. V bodu I písm. m) se slovo „ppt“ nahrazuje slovem „ppt/pptx“.\n6. V bodu I písm. p) se slovo „tiff“ nahrazuje slovem „tif/tiff“.\n7. V bodu I se na konci doplňují písmena v) až z), která znějí:\n„v) edi (mezinárodní standard EDIFACT, standardy ODETTE a EANCOM pro elektronickou výměnu obchodních dokumentů – EDI)\nw) dwg (AutoCAD DraWinG File Format) verze 2007 a vyšší\nx) shp/dbf/shx/prj/qix/sbn/sbx (ESRI Shapefile)\ny) dgn (Bentley MicroStation Format) verze V7 a V8\nz) gml/gfs/xsd (Geography Markup Language Document)“.\n8. V bodu I se poznámka pod čarou zrušuje.\n9. Za bod I se doplňují body II a III, které znějí:\n„II. Formáty uvedené v bodu I jsou přípustnými formáty datové zprávy dodávané do datové schránky, obsahují-li odpovídající příponu. Příponou se rozumí vnější znak formátu datové zprávy, který umožňuje programovému vybavení určení typu datového souboru.\nIII. Formát uvedený v bodu I písm. c) je přípustným formátem datové zprávy dodávané do datové schránky, odpovídá-li veřejně dostupnému XSD schématu publikovanému příjemcem datové zprávy.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2011."
+    }
+  ],
+  "definitions": []
+}

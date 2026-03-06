@@ -194,8 +194,13 @@ export function xhtmlToText(xhtml: string | undefined): string {
 }
 
 function extractSectionNumber(provisionRef: string): string | null {
-  const match = provisionRef.match(/^§\s*([0-9]+[a-z]?)/i);
+  const match = provisionRef.match(/^[„“"']*\s*§\s*([0-9]+[a-z]?)/i);
   return match ? match[1] : null;
+}
+
+function extractArticleNumber(provisionRef: string): string | null {
+  const match = provisionRef.match(/^(?:Čl\.?|Článek|ČI\.?)\s*([0-9]+[a-z]?|[ivxlcdm]+)/iu);
+  return match ? match[1].toUpperCase() : null;
 }
 
 function toIsoDate(value?: string): string | undefined {
@@ -212,31 +217,422 @@ function shouldIgnore(type: string): boolean {
   return IGNORED_TYPES.has(type) || type.startsWith('Virtual_') || type.startsWith('Prefix_') || type.startsWith('Postfix_');
 }
 
-function extractDefinitions(provisions: SeedProvision[]): SeedDefinition[] {
-  const out: SeedDefinition[] = [];
-  const seen = new Set<string>();
+const DEFINITION_TRIGGER_RE = /\b(?:se\s+(?:dále\s+)?rozumí|znamená|rozumí\s+se|se\s+považuje)\b/iu;
+const DEFINITION_VALUE_STARTS = new Set<string>([
+  'každý',
+  'každá',
+  'každé',
+  'fyzická',
+  'právnická',
+  'osoba',
+  'osoby',
+  'uživatel',
+  'podnikatel',
+  'orgán',
+  'souhrn',
+  'služba',
+  'síť',
+  'systém',
+  'zařízení',
+  'údaj',
+  'údaje',
+  'věc',
+  'stav',
+  'postup',
+  'zřízení',
+  'udělení',
+  'přístup',
+  'činnost',
+  'komunikace',
+  'rušení',
+  'mlčenlivost',
+  'listina',
+  'cena',
+  'čin',
+  'jednání',
+  'vniknutí',
+  'složka',
+  'místo',
+  'spojení',
+  'příkaz',
+  'zákaz',
+  'omezení',
+]);
 
-  for (const provision of provisions) {
-    const content = provision.content;
-    const lower = content.toLowerCase();
+function normalizeSpaces(value: string): string {
+  return value.replace(/\s+/g, ' ').trim();
+}
 
-    if (!lower.includes('se rozumí') && !lower.includes('znamená')) {
-      continue;
-    }
+function cleanTerm(value: string): string {
+  return normalizeSpaces(value)
+    .replace(/^(?:\(?\d+\)?[.)]\s*)+/u, '')
+    .replace(/^[„“"'`]+|[„“"'`]+$/g, '')
+    .replace(/^[,;:.()\-\s]+|[,;:.()\-\s]+$/g, '')
+    .trim();
+}
 
-    const quotedMatches = content.matchAll(/[„"]([^„“"]{2,120})[“"]\s*(?:se\s+)?(?:rozumí|znamená)\s+([^.;\n]{5,260})/gimu);
-    for (const match of quotedMatches) {
-      const term = match[1].trim();
-      const definition = match[2].trim();
-      const key = `${term}::${provision.provision_ref}`;
-      if (!seen.has(key)) {
-        seen.add(key);
-        out.push({ term, definition, source_provision: provision.provision_ref });
-      }
+function cleanDefinition(value: string): string {
+  return normalizeSpaces(value)
+    .replace(/^[,;:\-\s]+/, '')
+    .replace(/[,\s]+$/, '')
+    .trim();
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function stripLeadingMarker(text: string): string {
+  return text
+    .replace(/^(?:\(?\d+\)?[.)]|[a-z]{1,3}\)|[ivxlcdm]+\))\s*/iu, '')
+    .trim();
+}
+
+function extractTaggedTerm(xhtml: string | undefined): string | null {
+  if (!xhtml) return null;
+  const withoutMarker = xhtml.replace(/^\s*<var>[\s\S]*?<\/var>\s*/iu, '');
+  const regex = /<czechvoc-termin\b[^>]*>([\s\S]*?)<\/czechvoc-termin>/iu;
+  const match = regex.exec(withoutMarker);
+  if (!match) return null;
+  const prefixRaw = withoutMarker.slice(0, match.index);
+  const prefixText = normalizeSpaces(xhtmlToText(prefixRaw));
+  if (prefixText.length > 12) return null;
+  const term = cleanTerm(xhtmlToText(match[1]));
+  return term.length > 0 ? term : null;
+}
+
+function extractInlineDefinitionsFromText(text: string): Array<{ term: string; definition: string }> {
+  const out: Array<{ term: string; definition: string }> = [];
+  const patterns = [
+    /[„"]([^„“"]{2,180})[“"]\s*(?:se\s+)?(?:rozumí|znamená)\s+([^.\n]{5,1600})/giu,
+    /(?:^|\n|\(\d+\)\s*)([^.\n;:]{2,220}?)\s+(?:se\s+pro\s+účely\s+[^,\n.;]{2,80}\s+)?(?:se\s+)?(?:rozumí|znamená)\s+([^.\n]{5,1600})/giu,
+    /(?:^|\n|\(\d+\)\s*)za\s+([^.\n;:]{2,220}?)\s+se\s+považuje\s+([^.\n]{5,1600})/giu,
+    /pojem\s+([^.,;\n]{2,220}),\s*rozumí\s+se(?:\s+tím)?\s+([^.\n]{5,1600})/giu,
+  ];
+
+  for (const pattern of patterns) {
+    for (const match of text.matchAll(pattern)) {
+      const term = cleanTerm(match[1] ?? '');
+      const definition = cleanDefinition(match[2] ?? '');
+      if (!term || !definition) continue;
+      out.push({ term, definition });
     }
   }
 
-  return out.slice(0, 100);
+  return out;
+}
+
+function splitBulletTermAndDefinition(body: string): { term: string; definition: string } | null {
+  const normalized = cleanDefinition(body);
+  if (!normalized) return null;
+
+  const direct = normalized.match(/^(.{2,220}?)\s+(?:se\s+)?(?:rozumí|znamená|považuje)\s+(.{5,2000})$/iu);
+  if (direct) {
+    return {
+      term: cleanTerm(direct[1]),
+      definition: cleanDefinition(direct[2]),
+    };
+  }
+
+  const commaIndex = normalized.indexOf(',');
+  const head = commaIndex >= 0 ? normalized.slice(0, commaIndex).trim() : normalized;
+  const words = head.split(/\s+/).filter(Boolean);
+
+  for (let i = 1; i < words.length; i += 1) {
+    const token = words[i].toLowerCase().replace(/[.,;:]/g, '');
+    if (!DEFINITION_VALUE_STARTS.has(token)) continue;
+
+    const term = cleanTerm(words.slice(0, i).join(' '));
+    const tail = words.slice(i).join(' ');
+    const suffix = commaIndex >= 0 ? normalized.slice(commaIndex) : '';
+    const definition = cleanDefinition(`${tail}${suffix}`);
+    if (term && definition) {
+      return { term, definition };
+    }
+  }
+
+  if (commaIndex > 0 && words.length <= 8) {
+    const term = cleanTerm(head);
+    const definition = cleanDefinition(normalized.slice(commaIndex + 1));
+    if (term && definition) {
+      return { term, definition };
+    }
+  }
+
+  return null;
+}
+
+function pushDefinition(
+  out: SeedDefinition[],
+  seen: Set<string>,
+  sourceProvision: string,
+  termRaw: string,
+  definitionRaw: string,
+): SeedDefinition | null {
+  const term = cleanTerm(termRaw);
+  const definition = cleanDefinition(definitionRaw);
+
+  if (term.length < 2 || term.length > 140) return null;
+  if (definition.length < 5) return null;
+  if (!/[A-Za-zÀ-ž]/.test(term)) return null;
+  const termLower = term.toLocaleLowerCase('cs-CZ');
+  if (termLower.startsWith('kde se ') || termLower.startsWith('jestliže ') || termLower.startsWith('pokud ')) return null;
+
+  const key = `${sourceProvision}::${termLower}`;
+  if (seen.has(key)) return null;
+  seen.add(key);
+
+  const inserted: SeedDefinition = {
+    term,
+    definition,
+    source_provision: sourceProvision,
+  };
+  out.push(inserted);
+  return inserted;
+}
+
+function extractDefinitions(provisions: SeedProvision[], fragments: FragmentRecord[]): SeedDefinition[] {
+  const out: SeedDefinition[] = [];
+  const seen = new Set<string>();
+
+  let currentProvision = '';
+  let inDefinitionList = false;
+  let lastListDefinition: SeedDefinition | null = null;
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+
+    const type = fragment.kodTypuFragmentu;
+    const text = xhtmlToText(fragment.xhtml);
+
+    if (type === 'Paragraf' || type === 'Clanek') {
+      currentProvision = normalizeSpaces(text);
+      inDefinitionList = false;
+      lastListDefinition = null;
+      continue;
+    }
+
+    if (!currentProvision || !text) continue;
+    if (isStructuralType(type)) {
+      inDefinitionList = false;
+      lastListDefinition = null;
+      continue;
+    }
+    if (shouldIgnore(type)) continue;
+
+    const inlineDefinitions = extractInlineDefinitionsFromText(text);
+    for (const match of inlineDefinitions) {
+      pushDefinition(out, seen, currentProvision, match.term, match.definition);
+    }
+
+    if (type === 'Odstavec_Dc') {
+      if (/(?:se\s+(?:dále\s+)?rozumí|se\s+považuje|znamená)\s*$/iu.test(text)) {
+        inDefinitionList = true;
+      } else if (!DEFINITION_TRIGGER_RE.test(text)) {
+        inDefinitionList = false;
+      }
+
+      if (!inDefinitionList) {
+        lastListDefinition = null;
+      }
+      continue;
+    }
+
+    if (!inDefinitionList) {
+      lastListDefinition = null;
+      continue;
+    }
+
+    if (type === 'Pokracovani_Text' || type === 'Bod_Dd') {
+      if (lastListDefinition) {
+        const continuation = type === 'Bod_Dd' ? stripLeadingMarker(text) : text;
+        lastListDefinition.definition = cleanDefinition(`${lastListDefinition.definition}; ${continuation}`);
+      }
+      continue;
+    }
+
+    if (type !== 'Pismeno_Lb') {
+      lastListDefinition = null;
+      continue;
+    }
+
+    const body = stripLeadingMarker(text);
+    if (!body) continue;
+
+    const taggedTerm = extractTaggedTerm(fragment.xhtml);
+    let term = taggedTerm ?? '';
+    let definition = body;
+
+    if (term) {
+      const prefix = new RegExp(`^${escapeRegExp(term)}(?:\\b|\\s+)`, 'iu');
+      const stripped = cleanDefinition(body.replace(prefix, ''));
+      if (stripped.length >= 5 && !/^[,;:.]/.test(stripped)) {
+        definition = stripped;
+      }
+    }
+
+    const split = splitBulletTermAndDefinition(body);
+    if (!term && split) {
+      term = split.term;
+      definition = split.definition;
+    } else if (term && split && split.term.length > 1 && split.term.length < term.length) {
+      term = split.term;
+      definition = split.definition;
+    }
+
+    if (!term) continue;
+    const inserted = pushDefinition(out, seen, currentProvision, term, definition);
+    if (inserted) {
+      lastListDefinition = inserted;
+    }
+  }
+
+  return out;
+}
+
+function extractFallbackAmendmentProvisions(fragments: FragmentRecord[]): SeedProvision[] {
+  const out: SeedProvision[] = [];
+  let hierarchy: string[] = [];
+  let currentLevel: number | null = null;
+
+  let current: {
+    ref: string;
+    section: string;
+    title: string;
+    chapter?: string;
+    contentParts: string[];
+  } | null = null;
+
+  const flush = (): void => {
+    if (!current) return;
+    const content = current.contentParts.join('\n').trim();
+    if (content.length > 0) {
+      out.push({
+        provision_ref: current.ref,
+        section: current.section,
+        title: current.title,
+        chapter: current.chapter,
+        content,
+      });
+    }
+    current = null;
+  };
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    const text = xhtmlToText(fragment.xhtml);
+
+    if (isStructuralType(type)) {
+      flush();
+      currentLevel = STRUCTURAL_LEVELS[type];
+      if (text.length > 0) {
+        hierarchy[currentLevel] = text;
+        hierarchy.length = currentLevel + 1;
+      }
+      continue;
+    }
+
+    if (type === 'Nadpis' || type === 'Nadpis_pod') {
+      if (text.length > 0) {
+        if (currentLevel === null) {
+          currentLevel = 0;
+        }
+        const existing = hierarchy[currentLevel] ?? '';
+        hierarchy[currentLevel] = existing ? `${existing} - ${text}` : text;
+        hierarchy.length = currentLevel + 1;
+      }
+      continue;
+    }
+
+    if (type === 'Bod_Dd') {
+      flush();
+      const marker = text.match(/^\s*([0-9]+)\./);
+      const section = marker ? marker[1] : String(out.length + 1);
+      const ref = marker ? `Bod ${marker[1]}` : `Bod ${section}`;
+      current = {
+        ref,
+        section,
+        title: ref,
+        chapter: hierarchy.filter(Boolean).join(' > ') || undefined,
+        contentParts: [text],
+      };
+      continue;
+    }
+
+    if (!current) continue;
+    if (shouldIgnore(type)) continue;
+
+    if (
+      type === 'Odstavec_Dc' ||
+      type === 'Pismeno_Lb' ||
+      type === 'Pokracovani_Text' ||
+      type === 'Tabulka' ||
+      type === 'Block_Citace' ||
+      type === 'Poznamka'
+    ) {
+      if (text.length > 0) {
+        current.contentParts.push(text);
+      }
+      continue;
+    }
+  }
+
+  flush();
+  return out;
+}
+
+function extractGenericTextProvision(fragments: FragmentRecord[]): SeedProvision[] {
+  const contentParts: string[] = [];
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    if (shouldIgnore(type) || isStructuralType(type)) continue;
+    if (type === 'Paragraf' || type === 'Clanek') continue;
+
+    const text = xhtmlToText(fragment.xhtml);
+    if (text.length === 0) continue;
+    contentParts.push(text);
+  }
+
+  const content = contentParts.join('\n').trim();
+  if (content.length === 0) return [];
+
+  return [
+    {
+      provision_ref: 'Text',
+      section: '1',
+      title: 'Text',
+      content,
+    },
+  ];
+}
+
+function extractRawTextFallbackProvision(fragments: FragmentRecord[]): SeedProvision[] {
+  const contentParts: string[] = [];
+
+  for (const fragment of fragments) {
+    if (fragment.jeUcinny === false) continue;
+    const type = fragment.kodTypuFragmentu;
+    if (type.startsWith('Virtual_')) continue;
+
+    const text = xhtmlToText(fragment.xhtml);
+    if (text.length === 0) continue;
+    contentParts.push(text);
+  }
+
+  const content = contentParts.join('\n').trim();
+  if (content.length === 0) return [];
+
+  return [
+    {
+      provision_ref: 'Text',
+      section: '1',
+      title: 'Text',
+      content,
+    },
+  ];
 }
 
 export function parseLawSeed(
@@ -296,11 +692,13 @@ export function parseLawSeed(
       continue;
     }
 
-    if (type === 'Paragraf') {
+    if (type === 'Paragraf' || type === 'Clanek') {
       finalizeCurrent();
 
       const provisionRef = text.replace(/\s+/g, ' ').trim();
-      const section = extractSectionNumber(provisionRef);
+      const section = type === 'Paragraf'
+        ? extractSectionNumber(provisionRef)
+        : extractArticleNumber(provisionRef);
       if (!section) {
         previousType = type;
         continue;
@@ -322,7 +720,7 @@ export function parseLawSeed(
       continue;
     }
 
-    if (type === 'Nadpis_pod' && previousType === 'Paragraf') {
+    if (type === 'Nadpis_pod' && (previousType === 'Paragraf' || previousType === 'Clanek')) {
       if (text.length > 0) {
         current.title = `${current.provision_ref} ${text}`;
       }
@@ -330,7 +728,7 @@ export function parseLawSeed(
       continue;
     }
 
-    if (shouldIgnore(type) || isStructuralType(type) || type === 'Paragraf') {
+    if (shouldIgnore(type) || isStructuralType(type) || type === 'Paragraf' || type === 'Clanek') {
       previousType = type;
       continue;
     }
@@ -344,7 +742,17 @@ export function parseLawSeed(
 
   finalizeCurrent();
 
-  const definitions = extractDefinitions(provisions);
+  if (provisions.length === 0) {
+    provisions.push(...extractFallbackAmendmentProvisions(fragments));
+  }
+  if (provisions.length === 0) {
+    provisions.push(...extractGenericTextProvision(fragments));
+  }
+  if (provisions.length === 0) {
+    provisions.push(...extractRawTextFallbackProvision(fragments));
+  }
+
+  const definitions = extractDefinitions(provisions, fragments);
   const url = detail.staleUrl ? `https://www.e-sbirka.cz${detail.staleUrl}` : `https://www.e-sbirka.cz${targetLaw.staleUrl}`;
 
   return {
@@ -364,4 +772,3 @@ export function parseLawSeed(
 }
 
 export const TARGET_LAWS = TARGET_CZECH_LAWS;
-

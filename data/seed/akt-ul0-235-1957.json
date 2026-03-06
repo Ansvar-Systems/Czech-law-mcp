@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:235/1957",
+  "type": "statute",
+  "title": "235/1957 Ú. l., Vyhláška ministra spravedlnosti, kterou se stanoví paušální sazba nákladů trestního řízení.",
+  "title_en": "",
+  "short_name": "235/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-12-22",
+  "in_force_date": "1958-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1957/235",
+  "description": "Vyhláška ministra spravedlnosti, kterou se stanoví paušální sazba nákladů trestního řízení.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Paušální částka státem zálohovaných nákladů trestního řízení uvedených v § 165 odst. 1 písm. c) a § 166 odst. 1 trestního řádu činí 50 Kčs a ve věcech, v nichž byl přibrán znalec, 300 Kčs."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Paušální částky uvedené v § 1 se nevztahují na náklady řízení ve věcech pravomocně skončených v roce 1957."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1958."
+    }
+  ],
+  "definitions": []
+}

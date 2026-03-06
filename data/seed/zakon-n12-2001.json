@@ -1,0 +1,27 @@
+{
+  "id": "cz:n12/2001",
+  "type": "statute",
+  "title": "n12/2001 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 492/2000 Sb. a zákoně č. 319/2001 Sb.",
+  "title_en": "",
+  "short_name": "n12/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-11-14",
+  "in_force_date": "2001-11-14",
+  "url": "https://www.e-sbirka.cz/sb/2001/n12",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb v zákoně č. 492/2000 Sb. a zákoně č. 319/2001 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V čl. IX bodu 10 má věta na konci „Dosavadní odstavce 5 až 9 se označují jako odstavce 6 až 10.“ správně znít „Dosavadní odstavce 5 až 10 se označují jako odstavce 6 až 11.“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. - V čl. I bodu 11 mají slova „V § 41h odst. 1“ správně znít „V § 41h odst. 2“,"
+    }
+  ],
+  "definitions": []
+}

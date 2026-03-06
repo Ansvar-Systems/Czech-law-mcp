@@ -1,0 +1,33 @@
+{
+  "id": "cz:318/2010",
+  "type": "statute",
+  "title": "318/2010 Sb., Vyhláška, kterou se stanoví forma evidence provozních a lokalizačních údajů a způsob jejího předávání Českému telekomunikačnímu úřadu",
+  "title_en": "",
+  "short_name": "318/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-11-24",
+  "in_force_date": "2010-12-09",
+  "url": "https://www.e-sbirka.cz/sb/2010/318",
+  "description": "Vyhláška, kterou se stanoví forma evidence provozních a lokalizačních údajů a způsob jejího předávání Českému telekomunikačnímu úřadu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Forma předávané evidence",
+      "content": "Podnikatel předává evidenci provozních a lokalizačních údajů vedenou podle § 97 odst. 10 zákona Českému telekomunikačnímu úřadu v elektronické formě na formuláři, jehož vzor je uveden v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob předávání evidence",
+      "content": "Podnikatel předává vyplněný elektronický formulář podle § 1 prostřednictvím programové aplikace Elektronický sběr dat (ESD) v systému elektronického výkaznictví Českého telekomunikačního úřadu."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti patnáctým dnem ode dne jejího vyhlášení.\nPříloha k vyhlášce č. 318/2010 Sb.\nPočet případů poskytnutých provozních a lokalizačních údajů za období 1. ledna 20xx - 31. prosince 20xx\nz evidence o poskytování provozních a lokalizačních údajů orgánům oprávněným k jejich vyžádání podle § 97 odst. 10 a 11 zákona č. 127/2005 Sb., o elektronických komunikacích"
+    }
+  ],
+  "definitions": []
+}

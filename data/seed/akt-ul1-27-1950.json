@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:27/1950",
+  "type": "statute",
+  "title": "27/1950 Ú. l. I, Vyhláška ministerstva zemědělství, kterou se zrušují hospodářské výkazy.",
+  "title_en": "",
+  "short_name": "27/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-01-11",
+  "in_force_date": "1950-01-11",
+  "url": "https://www.e-sbirka.cz/ul1/1950/27",
+  "description": "Vyhláška ministerstva zemědělství, kterou se zrušují hospodářské výkazy.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vyhláška ministra zemědělství č. 95/1946 Ú. l. I, o hospodářských výkazech, se zrušuje dnem 1. ledna 1950."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a platí jen v českých zemích."
+    }
+  ],
+  "definitions": []
+}

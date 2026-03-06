@@ -1,0 +1,45 @@
+{
+  "id": "cz:45/1949",
+  "type": "statute",
+  "title": "45/1949 Sb., Nařízení o povinném zřízení šekových účtů místních národních výborů a o jejich povinném zapojení do šekové služby Poštovní spořitelny, národního podniku",
+  "title_en": "",
+  "short_name": "45/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-03-04",
+  "in_force_date": "1949-03-04",
+  "url": "https://www.e-sbirka.cz/sb/1949/45",
+  "description": "Nařízení o povinném zřízení šekových účtů místních národních výborů a o jejich povinném zapojení do šekové služby Poštovní spořitelny, národního podniku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Místní národní výbory jsou povinny do 15 dnů ode dne vyhlášení tohoto nařízení zříditi šekové účty u Poštovní spořitelny, národního podniku a ve svém platebním styku používati s výjimkami uvedenými v § 2 výhradně šekové služby této spořitelny."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) V hotovosti smějí býti konány toliko menší platby.\n(2) Platby na obecní dávky a poplatky a platby na nájemné (pachtovné) z obecních budov a pozemků jest přípustné přijímati v hotovosti pouze u těch místních národních výborů, v jejichž sídle není sběrna Poštovní spořitelny, národního podniku."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Denní pokladní hotovost místního národního výboru nesmí překročiti u obcí s počtem obyvatel\ndo 500 2.000 Kčs,\nnad 500 do 1.000 5.000 Kčs,\nnad 1.000 do 2.000 8.000 Kčs,\nnad 2.000 do 5.000 10.000 Kčs,\nnad 5.000 do 10.000 20.000 Kčs.\n(2) U obcí s počtem obyvatel nad 10.000 nesmí denní pokladní hotovost překročiti částku, které jest nezbytně potřebí na nejnutnější denní platby a běžný provoz."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Částky přesahující pokladní hotovost stanovenou v § 3 nutno denně odváděti na šekový účet místního národního výboru u Poštovní spořitelny, národního podniku."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

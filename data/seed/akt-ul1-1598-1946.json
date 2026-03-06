@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul1:1598/1946",
+  "type": "statute",
+  "title": "1598/1946 Ú. l. I, Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi Československou republikou a Dánskem.",
+  "title_en": "",
+  "short_name": "1598/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-08-07",
+  "in_force_date": "1946-08-07",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1598",
+  "description": "Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi Československou republikou a Dánskem.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Běžné platy z Československé republiky do Dánska lze konati v dánských korunách nebo československých korunách.\n(2) Běžné platy z Dánska do Československé republiky lze konati v československých korunách nebo v dánských korunách.\n(3) Pro vzájemný přepočet obou měn platí kurs úředně stanovený."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Běžnými platy podle tohoto opatření rozumí se platy:\n1. za dodávky zboží,\n2. za obchodní služby a jiné:\ndopravní výlohy, týkající se všeho druhu dopravy námořní, říční, pozemní nebo letecké, jiné výlohy spojené s pohybem zboží, výlohy skladištní, vyclívání a pod., pojištění zboží, prémie a odškodnění, provise, dohodné, výlohy obchodních zastoupení a pod., výlohy za zpracování, strojní opracování, opravy a pod., mzdy, honoráře a pod., výlohy a výtěžky vyplývající z transitního obchodu,\n3. jiné běžné platy:\nrůzná pojištění a zajištění; prémie, pense, renty, odškodnění, výlohy udržovací a vydržovací; výlohy cestovní, turistické, výdaje školní a universitní; vydání a příjmy veřejných úřadů (daně, pokuty a pod.); udržování diplomatických míst; periodická vyrovnání poštovních, telegrafních a telefonních správ a veřejných dopravních podniků; povinné poplatky, záznamní poplatky, předplatné a různé jiné výlohy; patentní práva a záznamní poplatky, poplatky licenční, továrních známek, autorských honorářů a pod., příjmy z movitých majetků; úroky, kupony, dividendy a pod., příjmy z nemovitých majetků; nájemné, pachtovné a pod., výtěžky z podnikání; všechny pohledávky, které z jakéhokoliv důvodu nebyly dosud uhrazeny, pokud jde o platy spadající do rámce běžných platů zde uvedených; všechny jiné platy, na nichž se kompetentní místa obou států dohodnou."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "(1) Pro platy podle tohoto opatření platí obecné devisové předpisy.\n(2) Pro úhrady do Dánska a likvidaci úhrad z Dánska platí podmínky Národní banky Československé pro nákup a prodej cizozemských platidel a pro provádění úhrad z ciziny a do ciziny."
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "Toto opatření nabývá účinnosti dnem vyhlášení a nahrazuje vyhlášku Národní banky Československé ze dne 7. ledna 1946, uveřejněnou v Úředním listě republiky Československé I, částka 17 ze dne 29. ledna 1946.\nV Praze dne 22. července 1946."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Běžnými platy podle tohoto opatření",
+      "definition": "se platy:",
+      "source_provision": "Čl. 2."
+    }
+  ]
+}

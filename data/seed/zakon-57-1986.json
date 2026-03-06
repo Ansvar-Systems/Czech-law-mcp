@@ -1,0 +1,164 @@
+{
+  "id": "cz:57/1986",
+  "type": "statute",
+  "title": "57/1986 Sb., Vyhláška Státní komise pro vědeckotechnický a investiční rozvoj o budování automatizovaných systémů řízení",
+  "title_en": "",
+  "short_name": "57/1986 Sb.",
+  "status": "in_force",
+  "issued_date": "1986-09-26",
+  "in_force_date": "1986-11-01",
+  "url": "https://www.e-sbirka.cz/sb/1986/57",
+  "description": "Vyhláška Státní komise pro vědeckotechnický a investiční rozvoj o budování automatizovaných systémů řízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět a rozsah platnosti",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ A OBECNÁ USTANOVENÍ",
+      "content": "(1) Vyhláška upravuje způsob přípravy, řešení, zavedení a inovací1) (dále jen „budování“) automatizovaných systémů řízení ve všech orgánech státní správy a socialistických organizacích (dále jen „organizace“); přitom stanoví rozsah jejich dokumentace a postup při jejím projednávání, schvalování a změnách.\n(2) Dokumentace automatizovaných systémů řízení procesů budovaných v rámci stavby se zpracovává, projednává, posuzuje a schvaluje podle této vyhlášky, pokud zvláštní předpisy2) nestanoví jinak.\n(3) Vyhláška se nevztahuje na automatizované systémy řízení budované pro zahraniční uživatele."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pojmy",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ A OBECNÁ USTANOVENÍ",
+      "content": "(1) Automatizovaný systém řízení (dále jen „ASŘ“) je systém řízení, ve kterém jsou vybrané činnosti a procesy automatizovány s využitím prostředků výpočetní a jiné techniky a ve kterém se současně uplatňují vědecké metody řízení. ASŘ se člení na podsystémy a jejich ucelené části schopné samostatného užívání. Vytváří se pro jednotlivé stupně řízení a jednotlivé účelové činnosti a procesy.3)\n(2) Projektant ASŘ je organizace, která řeší ASŘ a vypracovává jeho projektovou dokumentaci alespoň v rozsahu úvodního projektu ASŘ a vykonává autorský dozor.4) Pokud došlo při projednávání přípravné dokumentace ASŘ k dohodě, že projektovou dokumentaci navazující na úvodní projekt ASŘ zpracuje uživatel ASŘ nebo dodavatel pro ASŘ, zabezpečuje projektant ASŘ soulad mezi jednotlivými částmi této projektové dokumentace ASŘ.\n(3) Dodavatel pro ASŘ je organizace, která v souladu se zvláštními předpisy5) dodává zařízení, popřípadě poskytuje práce a služby spojené s budováním nebo i užíváním ASŘ, jeho podsystémů a jejich ucelených částí.\n(4) Uživatel ASŘ je organizace, která odpovídá v rámci své působnosti6) za budování ASŘ. Určuje organizační útvary, které jsou povinny podílet se na budování ASŘ a využívat ASŘ podle schválené dokumentace. Je-li uživatel ASŘ současně i projektantem ASŘ, určí organizační útvary, které v organizaci plní funkci projektanta ASŘ."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zásady budování ASŘ",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ A OBECNÁ USTANOVENÍ",
+      "content": "(1) Budování ASŘ řídí ve své působnosti ústřední orgány v souladu se střednědobými a prováděcími hospodářskými plány rozvoje národního hospodářství. V oblasti národních výborů a jimi řízených a spravovaných organizací jsou automatizované systémy řízení budovány v rámci automatizovaného informačního systému národních výborů. Republiková ministerstva vnitra k zabezpečení řídící a kontrolní úlohy vlády ve vztahu k národním výborům usměrňují organizování informačního systému národních výborů.7) Ústřední orgány pověřují podřízené orgány a organizace úkoly při řízení budování ASŘ. Podle potřeby využívají celostátní,8) odvětvová9) nebo oborová vedoucí pracoviště pro ASŘ.\n(2) ASŘ se buduje podle podmínek jako\na) jednoúrovňový (pro jeden stupeň řízení, účelovou činnost či proces) nebo\nb) jako víceúrovňový (pro nadřízené a podřízené stupně řízení, pro souvisící účelové činnosti a procesy); v tomto případě orgán nebo organizace nejvyšší z dotčených stupňů řízení zabezpečuje na všech podřízených stupních soulad budování ASŘ.\n(3) Stupni řízení podle odstavce 2 se rozumějí:8)\na) ústřední orgány,\nb) orgány hospodářského řízení, které plní funkci středního článku řízení,10)\nc) organizace.10)\n(4) Uživatel ASŘ může zřídit jako svůj poradní orgán komisi pro budování ASŘ vyjadřující se k zásadním otázkám budování ASŘ a hodnotící dosažené výsledky.\n(5) Vyžaduje-li budování ASŘ podmiňující opatření spočívající v:\na) pořízení stavby nebo změně stavby,11)\nb) pořízení nebo změně (modernizaci, rekonstrukci) strojů a zařízení nezahrnutých do rozpočtů staveb včetně stavebních a (nebo) montážních prací,12)\nzpracovává se kromě dokumentace ASŘ (podle části druhé) též dokumentace pro tato opatření podle zvláštního předpisu.2) Investorem podmiňujících opatření je zpravidla uživatel ASŘ.\n(6) V případech podle odstavce 5 odpovídá projektant ASŘ za věcný a časový soulad obojí dokumentace.\n(7) Orgány a organizace, které se podílejí na budování ASŘ, jsou povinny dbát o ochranu utajovaných skutečností podle zvláštních předpisů.13)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Využití typových řešení",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ A OBECNÁ USTANOVENÍ",
+      "content": "(1) Uživatel i projektant ASŘ jsou povinni při budování ASŘ dbát o snížení pracnosti budování ASŘ a zvýšení kvality a unifikace ASŘ, podsystémů a jejich ucelených částí, zejména využíváním typových řešení.\n(2) Typové řešení je opakovaně využitelná projektová dokumentace ASŘ a programové vybavení.\n(3) Orgány, které podle § 3 odst. 1 řídí budování ASŘ, stanoví:\na) předmět a rozsah typového řešení včetně postupů jeho schvalování a okruh uživatelů typového řešení,\nb) organizaci, která bude projektantem typového řešení, popřípadě organizaci, která bude poskytovat typové řešení, udržovat je a aktualizovat a poskytovat navazující služby.\n(4) Typová řešení využitelná v jednotlivých odvětvích se evidují u příslušného odvětvového vedoucího pracoviště pro ASŘ,9) celostátně využitelná typová řešení u pověřených organizací.14)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Efektivnost ASŘ",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ A OBECNÁ USTANOVENÍ",
+      "content": "(1) Efektivností ASŘ se rozumí vztah přínosů k nákladům vynaloženým na budování a užívání ASŘ.\n(2) Přínosy se odvozují z pozitivních změn ukazatelů charakterizujících činnost uživatelů ASŘ. Výběr ukazatelů a způsob jejich vyhodnocení stanoví ústřední orgány (§ 3 odst. 1) podle podmínek ve svých resortech.\n(3) Propočet efektivnosti ASŘ je jedním z kritérií, podle kterých se:\na) na základě předpokládaných pozitivních změn ukazatelů hodnotí potřeba budování ASŘ při schvalování přípravné dokumentace ASŘ,\nb) na základě pozitivních změn ukazatelů dosažených zavedením ASŘ prokazuje efektivnost ASŘ při schvalování ASŘ."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Členění dokumentace ASŘ",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Dokumentace ASŘ se člení na přípravnou a projektovou dokumentaci ASŘ.\n(2) Přípravnou dokumentací ASŘ je projektový úkol; v případech podle § 3 odst. 5 je součástí přípravné dokumentace též dokumentace podle zvláštního předpisu.2)\n(3) Projektová dokumentace ASŘ obsahuje úvodní a prováděcí projekt nebo jednostupňový projekt."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Projektový úkol",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Projektový úkol zabezpečuje uživatel ASŘ.\n(2) Zpracování projektového úkolu se zahajuje z podnětu uživatele ASŘ nebo na základě rozhodnutí jeho nadřízeného orgánu.\n(3) Je-li jako projektant ASŘ uvažována jiná organizace než uživatel ASŘ, je uživatel ASŘ oprávněn za podmínek předem dohodnutých15) vyžadovat od uvažovaného projektanta ASŘ údaje a podklady pro zpracování některých částí projektového úkolu (zejména pro propočet nákladů na řešení ASŘ, zpracování projektové dokumentace a pro účely vypracování návrhu plánu).\n(4) Obsah projektového úkolu je uveden v příloze."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účel projektového úkolu",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Projektový úkol vymezuje ASŘ a okruh řešených problémů zdokonalování řízení ve stanoveném časovém období, zdůvodňuje potřebu zavedení automatizace do řízení nebo inovace ASŘ a stanoví zejména:\na) cíle ASŘ a požadavky na jeho řešení včetně využití typových řešení,\nb) rámcový návrh a strukturu ASŘ včetně vazeb na souvisící stupně řízení, účelové činnosti a procesy a okolní systémy, zhodnocení možných variant řešení,\nc) požadavky na technické, programové a jiné nezbytné vybavení ASŘ, návrhy a zhodnocení možných variant technického a programového vybavení včetně požadavků na pracovní prostředí,\nd) způsob zabezpečení řešení ASŘ a zpracování projektové dokumentace ASŘ (§ 2 odst. 2 a § 10 odst. 1), způsob součinnosti uživatele ASŘ, popřípadě dodavatelů pro ASŘ na zpracování projektové dokumentace ASŘ,\ne) návrh postupu budování ASŘ, popřípadě včetně návrhu podmiňujících opatření podle § 3 odst. 5,\nf) propočet efektivnosti ASŘ,\ng) způsob zabezpečení užívání ASŘ.\n(2) Pro víceúrovňový ASŘ se vypracovává jeden projektový úkol, v němž se stanoví cíle ASŘ jednotlivých stupňů řízení a jejich vzájemné vazby.\n(3) Projektový úkol slouží jako podklad:\na) k rozhodnutí o budování ASŘ,\nb) k zabezpečení budování ASŘ v rámci plánů orgánů a organizací budujících ASŘ včetně zajištění potřebných prostředků,\nc) k zabezpečení podmiňujících opatření podle § 3 odst. 5,\nd) k určení projektanta ASŘ, popřípadě k uzavření smlouvy o dodávce projektové dokumentace ASŘ nebo dokumentace podmiňujících opatření (§ 3 odst. 5)."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Projednávání projektového úkolu",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) V průběhu prací na projektovém úkolu je uživatel ASŘ povinen předběžně projednat s dodavateli pro ASŘ rozsah a formu jejich dodávek a s projektantem ASŘ způsob spolupráce na projektové dokumentaci ASŘ včetně poskytování podkladů pro tuto dokumentaci.\n(2) Doklady se závěry o projednání podle odstavce 1 se připojují k projektovému úkolu.\n(3) Dojde-li při projednávání projektového úkolu k rozporům, vyjádří se rozpor v příloze dokumentace předkládané ke schvalovacímu řízení.\n(4) O způsobu odstranění vzniklých rozporů rozhodne orgán příslušný schválit projektový úkol (§ 15)."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Projektová dokumentace ASŘ",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Projektová dokumentace ASŘ16) se vytváří v souladu s postupem řešení ASŘ od celku k částem. Pro dokumentování celkového řešení se používá úvodní projekt, pro dokumentování podrobného řešení prováděcí projekt. Jednostupňový projekt je zjednodušenou projektovou dokumentací, která nahrazuje úvodní a prováděcí projekt. V závislosti na podmínkách budování ASŘ se volí jeden z těchto způsobů zpracování projektové dokumentace ASŘ:\na) úvodní a prováděcí projekt nebo jednostupňový projekt ASŘ jako celku,\nb) úvodní projekt ASŘ jako celku a pro podsystémy (jejich ucelené části) buď úvodní projekt podsystému a prováděcí projekt podsystému (jeho ucelené části) nebo jednostupňový projekt podsystému (jeho ucelených částí).\n(2) Pro výběr způsobu zpracování projektové dokumentace ASŘ jsou rozhodující zejména tato hlediska: rozsah a struktura ASŘ, míra inovace ASŘ, stupeň využití typových řešení, potřeba postupného sledování průběhu řešení ASŘ a schvalování jeho dokumentace.\n(3) Použití typových řešení lze v projektové dokumentaci ASŘ vyznačit pouze odkazem na použité typové řešení a popisem způsobu jeho začlenění do ASŘ. Dokumentace typového řešení se tak stává součástí projektové dokumentace ASŘ.\n(4) Víceúrovňový ASŘ se dokumentuje jedním úvodním projektem, popřípadě samostatnými úvodními projekty pro jednotlivé stupně řízení.\n(5) Práce na projektové dokumentaci ASŘ se zpravidla zahajují po schválení projektového úkolu.\n(6) Obsah projektové dokumentace ASŘ je uveden v příloze."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Účel projektové dokumentace ASŘ",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Projektová dokumentace ASŘ dokumentuje řešení ASŘ v podrobnostech nezbytných k zavedení ASŘ. Vymezuje:\na) funkci, rozsah a účinky ASŘ (jeho technicko-ekonomických parametrů),\nb) strukturu a vazby ASŘ,\nc) náplň a postup řídicích činností v podmínkách ASŘ,\nd) organizaci a využívání datové základny ASŘ,\ne) technické a programové řešení ASŘ,\nf) způsob a podmínky zavádění, užívání a změn ASŘ včetně souvisících organizačních opatření.\n(2) Projektová dokumentace ASŘ slouží jako:\na) podklad pro řízení procesu budování ASŘ, popřípadě pro zabezpečení podmiňujících opatření podle § 3 odst. 5,\nb) podklad pro uzavření hospodářských smluv s dodavateli pro ASŘ, pokud nebyly uzavřeny na základě schváleného projektového úkolu, popřípadě pro přijetí potřebných opatření."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Projednávání projektové dokumentace ASŘ",
+      "chapter": "ČÁST DRUHÁ - DOKUMENTACE ASŘ",
+      "content": "(1) Projektant ASŘ je povinen v průběhu prací na projektové dokumentaci ASŘ projednat:\na) s uživatelem ASŘ soupis prací a dodávek, které musí být zajištěny při zavádění ASŘ; nejde-li o jednostupňový projekt, též soupis prací, které musí uživatel ASŘ provést v průběhu zpracování prováděcích projektů, popřípadě včetně zajištění podmiňujících opatření (§ 3 odst. 5),\nb) s dodavateli pro ASŘ pro účely zpracování projektové dokumentace ASŘ zpřesnění rozsahu a formy předpokládaných dodávek (§ 9 odst. 1).\n(2) Doklady o projednání podle odstavce 1 se připojují k projektové dokumentaci ASŘ.\n(3) Dojde-li při projednávání projektové dokumentace ASŘ k rozporům, vyjádří se rozpor v příloze dokumentace předkládané ke schvalovacímu řízení.\n(4) O způsobu odstranění vzniklých rozporů rozhodne orgán příslušný schválit projektovou dokumentaci ASŘ (§ 15)."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Účel a obsah zavedení ASŘ",
+      "chapter": "ČÁST TŘETÍ - ÚČEL A OBSAH ZAVEDENÍ ASŘ",
+      "content": "(1) Účelem zavedení ASŘ je připravit a předat do užívání ASŘ, jeho podsystémy a jejich ucelené části schopné samostatného užívání.\n(2) Zavedení ASŘ zahrnuje:\na) přípravu uživatele ASŘ pro zavedení ASŘ do užívání včetně potřebných kádrových, organizačních a technických opatření,\nb) založení datové základny ASŘ,\nc) ověření způsobilosti ASŘ, podsystémů a jejich ucelených částí k užívání,\nd) vymezení rozsahu a zajištění prací a služeb spojených s užíváním ASŘ poskytovaných dodavatelem pro ASŘ,4)\ne) předání do užívání."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Postup zavádění ASŘ",
+      "chapter": "ČÁST TŘETÍ - ÚČEL A OBSAH ZAVEDENÍ ASŘ",
+      "content": "(1) ASŘ, podsystémy a jejich ucelené části zavádí uživatel ASŘ ve spolupráci s projektantem a s dodavateli pro ASŘ.\n(2) Projektant ASŘ v průběhu zavádění provádí autorský dozor, přičemž zejména:\na) ověřuje dosažení zadaných technicko-ekonomických parametrů ASŘ a dodržení organizace řídících a prováděcích činností u uživatele ASŘ stanovených projektovou dokumentací ASŘ,\nb) vyjadřuje se k případnému nedodržení zadaných technicko-ekonomických parametrů a organizace řídících a prováděcích činností a předkládá schvalujícímu orgánu návrhy na potřebná opatření,\nc) posuzuje návrhy na změny projektové dokumentace ASŘ vyplývající z průběhu zavádění ASŘ,\nd) zabezpečuje soulad mezi jednotlivými částmi projektové dokumentace ASŘ.\n(3) Uživatel ASŘ v průběhu zavádění organizuje postupné ověřování funkční způsobilosti podsystémů, jejich ucelených částí i ASŘ jako celku v provozních podmínkách včetně ověřování potřebného rozsahu datové základny. Uživatel ASŘ dále organizuje školení obsluh a provádí potřebná opatření k dosažení projektovaných technicko-ekonomických parametrů.\n(4) O výsledcích ověření a převzetí sepisuje uživatel ASŘ a projektant ASŘ zápis, v němž zhodnotí způsobilost ověřovaných podsystémů, jejich ucelených částí i ASŘ jako celku k užívání (dále jen „zápis o ověření“), pokud nejde o případy dodávek pro ASŘ, o jejichž předání a převzetí se sepisuje zápis podle zvláštních předpisů.5)\n(5) Obsah zápisu o ověření je uveden v příloze."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Schvalování ASŘ",
+      "chapter": "ČÁST ČTVRTÁ - SCHVALOVACÍ A ZMĚNOVÉ ŘÍZENÍ",
+      "content": "(1) Schválením se rozumí rozhodnutí o potřebě budování ASŘ a popřípadě též o správnosti jeho řešení a rozhodnutí o připravenosti ASŘ k užívání.\n(2) Schválení podléhá:\na) projektový úkol,\nb) projektová dokumentace ASŘ, pokud není dále stanoveno jinak,\nc) zápis o ověření,\nd) změna ASŘ.\n(3) Schvalujícím orgánem je:\na) uživatel ASŘ, jde-li o projektový úkol ASŘ ústředního orgánu, jeho změny a zápis o ověření ASŘ ústředního orgánu,\nb) nadřízený orgán uživatele ASŘ, jde-li o ostatní projektové úkoly, změny podle § 16 odst. 3 a zápisy o ověření ASŘ,\nc) uživatel ASŘ, jde-li o projektovou dokumentaci ASŘ a změny podle § 16 odst. 4, popřípadě zápisy o ověření podsystémů a jejich ucelených částí.\n(4) Ústřední orgán nebo jím pověřený nadřízený orgán uživatele ASŘ může pro případy uvedené v odstavci 3 písm. c) stanovit, že se upustí od schválení, nebo určit jiný schvalující orgán.\n(5) Dokumentaci podléhající schválení podle odstavce 3 písm. b) předkládá ke schválení uživatel ASŘ.\n(6) Schvalující orgán zabezpečí souhrnné posouzení a vyhodnocení předložené dokumentace, zápisu o ověření nebo návrhu změny; k tomu si v případě uvedeném v odstavci 3 písm. a) vyžádá stanovisko od celostátního vedoucího pracoviště pro ASŘ a v případě uvedeném v odstavci 3 písm. b) od příslušného odvětvového nebo oborového vedoucího pracoviště pro ASŘ. Dále stanoví postup, formu a způsob schvalovacího řízení, pokud ústřední orgán nestanoví jinak.\n(7) Při posuzování a vyhodnocení podle odstavce 6 schvalující orgán podle povahy případu přihlíží zejména k:\na) současnému stavu systému řízení a účelnosti zavedení nebo změny ASŘ,\nb) splnění úkolů vyplývajících z dokumentů týkajících se rozvoje řízení (např. komplexní program rozvoje řízení),\nc) kvalitě řešení ASŘ a realizovatelnosti navrhovaného řešení, popřípadě k dodržení technicko-ekonomických parametrů z předchozí schválené dokumentace ASŘ,\nd) reálnosti požadavků na finanční a hmotné podmínky,\ne) kádrovému zabezpečení budování a užívání ASŘ,\nf) možnosti a rozsahu využití typových řešení,\ng) efektivnosti ASŘ."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Změna ASŘ",
+      "chapter": "ČÁST ČTVRTÁ - SCHVALOVACÍ A ZMĚNOVÉ ŘÍZENÍ",
+      "content": "(1) Vznikne-li kdykoliv po schválení projektového úkolu potřeba změnit dosavadní výsledky budování ASŘ, provede se změna na základě zpracování návrhu změny a jeho schválení po předchozím posouzení (§ 15) a promítne se do dokumentace ASŘ.\n(2) Změnu ASŘ může navrhnout projektant, uživatel nebo dodavatel pro ASŘ.\n(3) Změny, které mění rozsah ASŘ, termíny předávání systémů a podsystémů do užívání, efektivnost ASŘ, počítačový systém a termín jeho uvedení do provozu schvaluje nadřízený orgán uživatele, nejde-li o ASŘ ústředního orgánu. Návrh změny předkládá ke schválení uživatel ASŘ.\n(4) Ostatní změny schvaluje uživatel ASŘ (§ 15 odst. 4).\n(5) Způsob zpracování, posuzování a schvalování změn stanoví orgán oprávněný změnu schválit."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Přechodné ustanovení",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Dokumentace ASŘ rozpracovaná ke dni účinnosti této vyhlášky se dokončí podle této vyhlášky, nestanoví-li Státní komise pro vědeckotechnický a investiční rozvoj na návrh ústředního orgánu uživatele ASŘ jinak."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Zrušovací ustanovení",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušují se:\n1. Metodické pokyny federálního ministerstva pro technický a investiční rozvoj, ministerstva výstavby a techniky ČSR a ministerstva výstavby a techniky SSR pro budování automatizovaných systémů řízení odvětví čj. 7770/31/74, oznámeno v částce 26/1975 Sb.\n2. Metodické pokyny federálního ministerstva pro technický a investiční rozvoj, ministerstva výstavby a techniky ČSR a ministerstva výstavby a techniky SSR pro budování automatizovaných systémů řízení podniků čj. 14243/31/73, oznámeno v částce 30/1973 Sb.\n3. Dodatek k metodickým pokynům federálního ministerstva pro technický a investiční rozvoj, ministerstva výstavby a techniky ČSR a ministerstva výstavby a techniky SSR pro budování automatizovaných systémů řízení podniků čj. 1402/31/75, oznámeno v částce 26/1975 Sb.\n4. Metodické pokyny federálního ministerstva pro technický a investiční rozvoj, ministerstva výstavby a techniky ČSR a ministerstva výstavby a techniky SSR pro budování automatizovaných systémů řízení technologických procesů čj. 25567/31/75, oznámeno v částce 7/1976 Sb."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Účinnost",
+      "chapter": "ČÁST PÁTÁ - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. listopadu 1986.\nPříloha k vyhlášce č. 57/1986 Sb.\nPŘEHLED DOKUMENTACE ASŘ\n1. Projektový úkol\nVěcně a funkčně vymezuje a zdůvodňuje ASŘ a požadavky na jeho budování v podrobnostech potřebných pro rozhodnutí o budování ASŘ a pro vypracování úvodního (jednostupňového) projektu.\nObsahuje úvodní zprávu, závěry z analýzy objektu řízení, návrh záměru budování ASŘ s vymezením cílů, struktury a vazeb na okolí, návrh počítačového systému, programového, kádrového a organizačního zabezpečení, návrh postupu budování ASŘ a propočet efektivnosti ASŘ.\nDokladová část obsahuje návrhy na investiční zabezpečení a jiné hmotné a finanční zabezpečení, návrhy na zajištění projektových kapacit, doklady o projednání dodávek a prací, podklady o zabezpečení podmiňujících opatření, popřípadě záznam o rozporu.\n2. Úvodní projekt\nÚvodní projekt ASŘ jako celku dokumentuje výsledky celkového řešení ASŘ a je zadáním pro úvodní projekty podsystémů (jejich ucelených částí) nebo pro jednostupňové projekty podsystémů a pro prováděcí projekt ASŘ jako celku.\nObsahuje úvodní zprávu, popis struktury, funkcí a vazeb ASŘ, popis struktury, funkcí a vazeb podsystémů a jejich ucelených částí, popis struktury datové základny ASŘ, číselníků, řešení sběru, distribuce a přenosu dat, způsobu ochrany a utajení přenosu a zpracování dat v ASŘ a specifikace počítačového systému, plán postupu projektování a realizace ASŘ, zpřesnění propočtu přínosu v realizaci ASŘ.\nDokladová část obsahuje doklady o projednání dodávek a prací a o zabezpečení podmiňujících opatření, popřípadě záznam o rozporu.\nÚvodní projekt podsystému dokumentuje výsledek celkového řešení podsystému (jeho ucelených částí) a je zadáním pro prováděcí projekt podsystému.\nObsahuje úvodní zprávu, popis struktury a funkcí automatizovaných a neautomatizovaných úloh, vstupů, výstupů, struktury datové základny podsystémů, specifikaci datových prvků podsystému (jeho ucelených částí) a rámcový postup zavádění.\n3. Prováděcí projekt\nDokumentuje řešení ASŘ jako celku, podsystému nebo jeho ucelených částí do podrobností nezbytných pro zavedení a užívání ASŘ, podsystému nebo jeho ucelených částí.\nObsahuje zejména programovou dokumentaci, operátorskou příručku a uživatelskou příručku včetně pokynů pro ochranu a utajování dat.\n4. Jednostupňový projekt\nZpracovává se jako prováděcí projekt rozšířený zejména o popis struktury, funkcí a vazeb ASŘ, podsystému nebo jeho ucelených částí, popis struktury a obsahu datové základny.\nJde-li o jednostupňový projekt ASŘ jako celku, obsahuje též dokladovou část obdobně jako u úvodního projektu ASŘ.\n5. Zápis o ověření\nObsahuje údaje o ověření podsystémů, jejich ucelených částí i ASŘ jako celku v provozu a potvrzení uživatele ASŘ o jejich převzetí do užívání, seznam organizačních a provozních předpisů, výčet předané dokumentace, odborné posudky a expertizy a jde-li o předání ASŘ jako celku, údaje o dosažené efektivnosti.\n1) Inovací se pro účely této vyhlášky rozumí budování automatizovaných systémů řízení kvalitativně vyššího stupně než dosud zavedený automatizovaný systém řízení, zpravidla spojené s obměnou počítačového systému, popřípadě i se změnou systému řízení.\n2) Vyhláška federálního ministerstva pro technický a investiční rozvoj č. 105/1981 Sb., o dokumentaci staveb.\n3) Např. pro výrobní, technologické, obslužné, skladovací procesy, projektové činnosti apod.\n4) Vyhláška Federálního statistického úřadu č. 49/1985 Sb., o základních podmínkách dodávky prací a služeb v oblasti automatizovaného zpracování dat.\n5) Např. vyhláška č. 49/1985 Sb., vyhláška federálního ministerstva hutnictví a těžkého strojírenství, federálního ministerstva všeobecného strojírenství a federálního ministerstva elektrotechnického průmyslu č. 13/1985 Sb., o základních podmínkách strojírenských a elektrotechnických dodávek uskutečňovaných vyššími dodavatelskými formami a některých dalších dodávek určených pro tuzemsko.\n6) Založené jeho postavením, pověřením nebo na základě smlouvy o sdružení více orgánů (organizací) pro účely společného využívání vybudovaného ASŘ (§ 360a hospodářského zákoníku a prováděcí, popřípadě zvláštní předpisy).\n7) § 67a zákona č. 69/1967 Sb., o národních výborech, ve znění pozdějších předpisů (úplné znění vyhlášeno pro ČSR pod číslem 31/1983 Sb. a pro SSR pod číslem 35/1983 Sb.).\n8) Výnos federálního ministerstva pro technický a investiční rozvoj čj. 21617/31/1973 o zřízení celostátního vedoucího pracoviště pro ASŘ, t. č. Ústav pro využití výpočetní techniky v řízení, Praha.\n9) Výnos č. 3 federálního ministerstva pro technický a investiční rozvoj, ministerstva výstavby a techniky ČSR a ministerstva výstavby a techniky SSR ze dne 27. září 1973 o odvětvových vedoucích pracovištích pro automatizované systémy řízení, zveřejněno ve Zpravodaji FMTIR, MVT ČSR a MVT SSR částka 6/1973.\n10) § 390b hospodářského zákoníku; organizací se rozumí socialistická organizace a organizační jednotky socialistických organizací, které vystupují v hospodářských vztazích svým jménem a nesou majetkovou odpovědnost z těchto vztahů, § 14 a § 17 odst. 2 hospodářského zákoníku.\n11) § 2 odst. 1 vyhlášky č. 105/1981 Sb.\n12) Směrnice k státním statistickým výkazům za úsek investiční výstavba „5 Iv“ Čvk 7/86 ze dne 11. 6. 1985, oznámeno v částce 1/1986 Sb.\n13) Zákon č. 102/1971 Sb., o ochraně státního tajemství, a prováděcí předpisy.\n14) U organizací pověřených funkcemi národních organizací technické obsluhy, t. č. Kancelářské stroje Praha k. ú. o. a Datasystém Bratislava (v knihovnách programů NOTO).\n15) Např. podle § 354b hospodářského zákoníku.\n16) § 1 odst. 1 písm. a) vyhlášky č. 49/1985 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Efektivností ASŘ",
+      "definition": "vztah přínosů k nákladům vynaloženým na budování a užívání ASŘ",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Schválením",
+      "definition": "rozhodnutí o potřebě budování ASŘ a popřípadě též o správnosti jeho řešení a rozhodnutí o připravenosti ASŘ k užívání",
+      "source_provision": "§ 15"
+    },
+    {
+      "term": "Inovací",
+      "definition": "budování automatizovaných systémů řízení kvalitativně vyššího stupně než dosud zavedený automatizovaný systém řízení, zpravidla spojené s obměnou počítačového systému, popřípadě i se změnou systému řízení",
+      "source_provision": "§ 19"
+    }
+  ]
+}

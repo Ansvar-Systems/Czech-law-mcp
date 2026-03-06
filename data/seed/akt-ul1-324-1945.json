@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:324/1945",
+  "type": "statute",
+  "title": "324/1945 Ú. l. I, Vyhláška ministra financí o dočasném snížení úrokové sazby z povinných vkladů u Československého reeskontního a lombardního ústavu.",
+  "title_en": "",
+  "short_name": "324/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-10-17",
+  "in_force_date": "1945-10-17",
+  "url": "https://www.e-sbirka.cz/ul1/1945/324",
+  "description": "Vyhláška ministra financí o dočasném snížení úrokové sazby z povinných vkladů u Československého reeskontního a lombardního ústavu.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. u peněžních ústavů o 5/8% a"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. u životních pojišťoven o 1/8%."
+    }
+  ],
+  "definitions": []
+}

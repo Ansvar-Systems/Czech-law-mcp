@@ -1,0 +1,45 @@
+{
+  "id": "cz:154/2024",
+  "type": "statute",
+  "title": "154/2024 Sb., Vyhláška o požadavcích na strukturu a náležitosti záznamů o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy",
+  "title_en": "",
+  "short_name": "154/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-06-17",
+  "in_force_date": "2024-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/154",
+  "description": "Vyhláška o požadavcích na strukturu a náležitosti záznamů o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Struktura záznamu",
+      "content": "Záznam o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy (dále jen „záznam“) se skládá z\na) části obsahující informace o druhu přístupu do informačního systému veřejné správy, o němž správce informačního systému veřejné správy zpracovává informace, (dále jen „monitorovaný přístup“) a\nb) části obsahující informace o jednotlivých monitorovaných přístupech.\nNáležitosti záznamu"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "V části záznamu obsahující informace o druhu monitorovaného přístupu se uvede, zda do informačního systému veřejné správy bylo přistupováno za účelem\na) zápisu údaje do informačního systému veřejné správy,\nb) změny údaje vedeného v informačním systému veřejné správy,\nc) výmazu údaje vedeného v informačním systému veřejné správy,\nd) nahlížení na údaj vedený v informačním systému veřejné správy, nebo\ne) vydání výpisu ze zápisu v elektronické podobě vedeného v informačním systému veřejné správy."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) V části záznamu obsahující informace o jednotlivých monitorovaných přístupech se uvedou\na) datum a čas monitorovaného přístupu s přesností na sekundy,\nb) název přistupujícího veřejného orgánu nebo soukromoprávního uživatele údajů a, byly-li jim přiděleny, identifikační číslo osoby a identifikátor orgánu veřejné moci nebo identifikátor soukromoprávního uživatele údajů podle zákona upravujícího základní registry,\nc) název a kód přistupujícího informačního systému veřejné správy nebo informačního systému soukromoprávního uživatele údajů podle zákona upravujícího základní registry a, nebylo-li do informačního systému veřejné správy přistupováno automatizovaně, uživatelské jméno fyzické osoby, která je nositelem role podle zákona upravujícího základní registry a která do informačního systému veřejné správy přistoupila,\nd) kód agendy a důvod monitorovaného přístupu,\ne) informace, jaký údaj byl předmětem zápisu, změny nebo výmazu, na jaký údaj bylo nahlíženo, lze-li jej z monitorovaného přístupu určit, nebo z jakého zápisu v elektronické podobě vedeného v informačním systému veřejné správy byl vydán výpis,\nf) identifikátor osoby, věci nebo jiného objektu právního vztahu anebo skutečnosti, jichž se údaj podle písmene e) týká, a\ng) identifikátor záznamu a jeho vazby na jiný záznam.\n(2) Přistoupila-li do informačního systému veřejné správy osoba, která není nositelem role podle zákona upravujícího základní registry, v části záznamu obsahující informace o jednotlivých monitorovaných přístupech se namísto náležitostí podle odstavce 1 písm. b) až d) uvede identifikátor přistupujícího síťového zařízení používaný protokoly internetové vrstvy, případně další údaje umožňující identifikaci přistupující osoby, jsou-li správcem informačního systému veřejné správy zpracovávány."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Bylo-li do informačního systému veřejné správy přistupováno za účelem změny údaje vedeného v informačním systému veřejné správy, v záznamu se uvede údaj před změnou a údaj po změně.\n(2) Nebyl-li údaj, kvůli jehož změně, výmazu nebo náhledu na něj bylo do informačního systému veřejné správy přistupováno, v informačním systému veřejné správy nalezen, v záznamu se uvede, jaký údaj byl v informačním systému veřejné správy vyhledáván, lze-li jej z monitorovaného přístupu určit, a informace, že údaj nebyl v informačním systému veřejné správy nalezen.\n(3) Bylo-li do informačního systému veřejné správy přistupováno za účelem vydání výpisu ze zápisu v elektronické podobě vedeného v informačním systému veřejné správy, v záznamu se uvedou údaje obsažené ve vydaném výpisu.\n(4) Je-li údaj v informačním systému veřejné správy vyjádřen s využitím číselníku, v záznamu se uvede i tento číselník, nebyl-li již poskytnut dříve."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2024."
+    }
+  ],
+  "definitions": []
+}

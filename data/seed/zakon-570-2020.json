@@ -1,0 +1,51 @@
+{
+  "id": "cz:570/2020",
+  "type": "statute",
+  "title": "570/2020 Sb., Vyhláška o informačních povinnostech některých osob podnikajících na kapitálovém trhu vůči Garančnímu fondu obchodníků s cennými papíry",
+  "title_en": "",
+  "short_name": "570/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-12-23",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/570",
+  "description": "Vyhláška o informačních povinnostech některých osob podnikajících na kapitálovém trhu vůči Garančnímu fondu obchodníků s cennými papíry",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje podrobnosti, formu, způsob a strukturu plnění informační povinnosti povinnou osobou vůči Garančnímu fondu obchodníků s cennými papíry (dále jen „Garanční fond“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Povinná osoba",
+      "content": "Pro účely této vyhlášky se povinnou osobou rozumí\na) obchodník s cennými papíry,\nb) banka, která má v licenci jí udělené Českou národní bankou povoleno poskytování hlavní investiční služby,\nc) investiční společnost nebo zahraniční osoba, pokud splňují podmínky podle § 132a odst. 1 zákona o podnikání na kapitálovém trhu,\nd) zahraniční osoba podle § 28 odst. 1 zákona o podnikání na kapitálovém trhu, které Česká národní banka udělila povolení k poskytování investičních služeb v České republice prostřednictvím pobočky."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Předkládání informace o výši majetku zákazníků",
+      "content": "(1) Povinná osoba nejpozději do konce kalendářního měsíce následujícího po skončení kalendářního roku předá Garančnímu fondu informaci vyjádřenou v korunách českých o souhrnné výši majetku zákazníků ke konci posledního pracovního dne příslušného roku, za který by Garanční fond v případě jeho nevydání povinnou osobou poskytl náhradu vypočtenou podle § 130 odst. 9 zákona o podnikání na kapitálovém trhu. Tato souhrnná výše majetku se určí jako součin součtu hodnot majetku všech zákazníků podle § 128 odst. 12 zákona o podnikání na kapitálovém trhu stanovených podle s § 130 odst. 7 a 8 zákona o podnikání na kapitálovém trhu a koeficientu 0,9. Hodnota majetku jednoho zákazníka se započte nejvýše do částky 20 000 EUR.\n(2) Při stanovení výše majetku zákazníků podle odstavce 1 povinná osoba započte rovněž majetek zákazníků, kteří nemají nárok na náhradu z Garančního fondu podle § 130 odst. 4 zákona o podnikání na kapitálovém trhu, s výjimkou majetku zákazníků podle § 130 odst. 4 písm. b) zákona o podnikání na kapitálovém trhu.\n(3) Povinná osoba přepočítává údaj vyjádřený v cizí měnové jednotce na údaj vyjádřený v korunách českých kurzem vyhlášeným Českou národní bankou pro poslední den příslušného roku."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Opravy a změny v předložených informacích",
+      "content": "Zjistí-li povinná osoba po předání informace podle § 3 odst. 1 chybu nebo došlo-li ke změně v některém z údajů, na jejichž základě je stanovena výše majetku zákazníků podle § 3 odst. 1, předá povinná osoba souhrnně opravenou informaci Garančnímu fondu do konce příslušného kalendářního pololetí."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Způsob a forma předávání informací",
+      "content": "Povinná osoba předává informaci podle § 3 odst. 1 Garančnímu fondu prostřednictvím datové schránky."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2021."
+    }
+  ],
+  "definitions": []
+}

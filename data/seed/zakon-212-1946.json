@@ -1,0 +1,27 @@
+{
+  "id": "cz:212/1946",
+  "type": "statute",
+  "title": "212/1946 Sb., Zákon o zimním čase",
+  "title_en": "",
+  "short_name": "212/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-11-27",
+  "in_force_date": "1946-11-27",
+  "url": "https://www.e-sbirka.cz/sb/1946/212",
+  "description": "Zákon o zimním čase",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Vláda se zmocňuje, aby nařízením zaváděla odchylkou od středoevropského času zimní čas a určovala jeho počátek a konec."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr vnitra v dohodě se zúčastněnými členy vlády."
+    }
+  ],
+  "definitions": []
+}

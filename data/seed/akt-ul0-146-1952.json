@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:146/1952",
+  "type": "statute",
+  "title": "146/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 22 0822.",
+  "title_en": "",
+  "short_name": "146/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-17",
+  "in_force_date": "1952-07-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/146",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 22 0822.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 22 0822 „Břitové destičky na vypouklé zaoblovací nože uběrací“ je od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma jedná o tvaru a rozměrech břitových destiček používaných na vypouklé zaoblovací nože uběrací."
+    }
+  ],
+  "definitions": []
+}

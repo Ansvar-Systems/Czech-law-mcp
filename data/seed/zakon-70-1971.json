@@ -1,0 +1,33 @@
+{
+  "id": "cz:70/1971",
+  "type": "statute",
+  "title": "70/1971 Sb., Redakční sdělení o opravě tiskových chyb 1. v zákoně č. 44/1971 Sb., o volbách do Federálního shromáždění, českého vydání 2. v zákoně č. 46/1971 Sb., o geodézii a kartografii, českého vydání 3. ve vyhlášce Slovenského úřadu bezpečnosti práce č. 49/1971 Sb., o bezpečnosti práce při provozu silničních vozidel, slovenského vydání",
+  "title_en": "",
+  "short_name": "70/1971 Sb.",
+  "status": "in_force",
+  "issued_date": "1971-08-13",
+  "in_force_date": "1971-08-13",
+  "url": "https://www.e-sbirka.cz/sb/1971/70",
+  "description": "Redakční sdělení o opravě tiskových chyb 1. v zákoně č. 44/1971 Sb., o volbách do Federálního shromáždění, českého vydání 2. v zákoně č. 46/1971 Sb., o geodézii a kartografii, českého vydání 3. ve vyhlášce Slovenského úřadu bezpečnosti práce č. 49/1971 Sb., o bezpečnosti práce při provozu silničních vozidel, slovenského vydání",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 48 odst. 2 zák. č. 44/1971 Sb. bylo vytištěno chybně slovo „registraci“ místo „rezignaci“.\n„(2) Poslanec se může svého mandátu vzdát. Jeho rezignaci bere na vědomí předsednictvo sněmovny, jejímž je členem.“"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 2 zák. č. 46/1971 Sb. došlo při přelamování sazby k chybě tím, že v bodu c) vypadl celý prvý řádek.\n„c) zakládání a vedení evidence nemovitostí*) a vyhotovování a ověřování geometrických plánů pro tyto účely,“"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V § 27 vyhl. č. 49/1971 Sb. bylo vytištěno chybně „Tato vyhláška nabývá účinnosti dnem 1. července 1971.“\n„Tato vyhláška nabývá účinnosti dnem 1. září 1971.“"
+    }
+  ],
+  "definitions": []
+}

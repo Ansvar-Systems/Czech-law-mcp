@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:354/1945",
+  "type": "statute",
+  "title": "354/1945 Ú. l. I, Vyhláška ministra výživy o určení bezmasého dne.",
+  "title_en": "",
+  "short_name": "354/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-10-28",
+  "in_force_date": "1945-10-28",
+  "url": "https://www.e-sbirka.cz/ul1/1945/354",
+  "description": "Vyhláška ministra výživy o určení bezmasého dne.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Za bezmasý den v hostincích, kantinách a podobných podnicích se určuje jen jeden den v týdnu a to pátek.\n(2) Ustanovení o určení druhého bezmasého dne v úterý se ruší. Pro podávání masitých jídel v úterý platí stejné předpisy jako pro podávání masitých jídel v pondělí a ve čtvrtek."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

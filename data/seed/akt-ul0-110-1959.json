@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:110/1959",
+  "type": "statute",
+  "title": "110/1959 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašuje změna k československé státní normě ČSN 72 1206 a ruší se normy ČSN 1212 z roku 1943 a ČSN 1213 z roku 1947",
+  "title_en": "",
+  "short_name": "110/1959 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1959-06-19",
+  "in_force_date": "1959-06-19",
+  "url": "https://www.e-sbirka.cz/ul0/1959/110",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašuje změna k československé státní normě ČSN 72 1206 a ruší se normy ČSN 1212 z roku 1943 a ČSN 1213 z roku 1947",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "S okamžitou platností se mění v československé státní normě ČSN 72 1206 „Sádrovec jako přísada k cementu“, uveřejněné ve vyhlášce č. 126/1957 Ú. l. články 69 a 70 takto\nČlánek 69 zní: „sádrovec se dodává na váhu, volně ložený”\nČlánek 70 zní: „za dodávku se považuje množství sádrovce o maximální váze 100 t, není-li stranami dohodnuto jinak. Dodávka menší než 100 t se považuje za dodávku celou”."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "S okamžitou platností se ruší norma ČSN 1212-1943, která je nahrazena československými státními normami ČSN 72 2210, ČSN 72 2220, ČSN 72 2221, uveřejněnými ve vyhlášce č. 7/1956 Ú. l. a normou ČSN 72 1155, uveřejněnou ve vyhlášce č. 162/1958 Ú. l."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "S okamžitou platností se ruší norma ČSN 1213-1947, která je nahrazena československými státními normami ČSN 72 2110, uveřejněnou ve vyhlášce č. 95/1957 Ú. l., ČSN 72 2121, uveřejněnou ve vyhlášce č. 30/1957 Ú. l. a ČSN 72 2123, uveřejněnou ve vyhlášce Č. 126/1957 Ú. l."
+    }
+  ],
+  "definitions": []
+}

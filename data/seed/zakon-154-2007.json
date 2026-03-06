@@ -1,0 +1,33 @@
+{
+  "id": "cz:154/2007",
+  "type": "statute",
+  "title": "154/2007 Sb., Nařízení vlády, kterým se pro účely zákona o střetu zájmů stanoví záležitosti, v nichž rozhodují příslušníci Policie České republiky a příslušníci Celní správy České republiky ve správním řízení",
+  "title_en": "",
+  "short_name": "154/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-06-29",
+  "in_force_date": "2007-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/154",
+  "description": "Nařízení vlády, kterým se pro účely zákona o střetu zájmů stanoví záležitosti, v nichž rozhodují příslušníci Policie České republiky a příslušníci Celní správy České republiky ve správním řízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Záležitostmi, v nichž rozhodují příslušníci Policie České republiky a příslušníci Celní správy České republiky ve správním řízení, se pro účely zákona o střetu zájmů rozumí rozhodování:\na) příslušníka Policie České republiky:\n1. podle zákona č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů,\n2. podle zákona č. 310/2006 Sb., o nakládání s některými věcmi využitelnými k obranným a bezpečnostním účelům na území České republiky a o změně některých dalších zákonů (zákon o nakládání s bezpečnostním materiálem),\n3. podle zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů,\nb) příslušníka Celní správy České republiky ve věcech zajištění cla a daní."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Záležitostmi, v nichž rozhodují příslušníci Policie České republiky a příslušníci Celní správy České republiky ve správním řízení",
+      "definition": "rozhodování:",
+      "source_provision": "§ 1"
+    }
+  ]
+}

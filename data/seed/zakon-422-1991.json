@@ -1,0 +1,27 @@
+{
+  "id": "cz:422/1991",
+  "type": "statute",
+  "title": "422/1991 Sb., Zákon Slovenskej národnej rady o vyhlásení 19. septembra za pamätný deň Slovenskej republiky",
+  "title_en": "",
+  "short_name": "422/1991 Sb.",
+  "status": "in_force",
+  "issued_date": "1991-11-01",
+  "in_force_date": "1991-11-01",
+  "url": "https://www.e-sbirka.cz/sb/1991/422",
+  "description": "Zákon Slovenskej národnej rady o vyhlásení 19. septembra za pamätný deň Slovenskej republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "19. september, výročie vyhlásenia Slovenskej národnej rady, je pamätným dňom Slovenskej republiky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tento zákon nadobúda účinnosť dňom vyhlásenia."
+    }
+  ],
+  "definitions": []
+}

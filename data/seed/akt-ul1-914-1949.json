@@ -1,0 +1,29 @@
+{
+  "id": "cz:ul1:914/1949",
+  "type": "statute",
+  "title": "914/1949 Ú. l. I, Vyhláška ministerstva průmyslu o směrnicích pro zkoušení redukčních ventilů záchranných dýchacích přístrojů.",
+  "title_en": "",
+  "short_name": "914/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-09-01",
+  "in_force_date": "1949-09-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/914",
+  "description": "Vyhláška ministerstva průmyslu o směrnicích pro zkoušení redukčních ventilů záchranných dýchacích přístrojů.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Příprava zkoušky. - Postup zkoušení.",
+      "content": "1. Zkouška ventilu pod tlakem 10 atm.\nOtevře se ventil kyslíkové lahve a tlak se seřídí tak, aby kontrolní manometr ukazoval 10 atm.\na) Zjistí a zaznamená se: údaj finimetru (má souhlasiti s údajem kontrolního manometru), údaj nízkotlakového manometru (při trvajícím volném odtoku kyslíku) a údaj měřícího přístroje.\nb) Přeruší se spojení ventilu s měřicím přístrojem a pohne se několikráte páčkou plicní automatiky. Potom se opět připojí měřicí přístroj a zjišťuje se jeho údaj. Nesouhlasí-li tento s údajem dříve zjištěným, je prokázána vada ventilu plicní automatiky.\nc) Tatáž zkouška jako sub b) se provede s ventilem přídavným (by-passem)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Příprava zkoušky. - Postup zkoušení.",
+      "content": "2. Zkouška ventilu pod tlakem 150 atm.\nTlak kyslíku z lahve seřídí se tak, aby kontrolní manometr ukazoval 150 atm.\na) Zjistí a zaznamená se:\núdaj finimetru (má souhlasiti s údajem kontrolního manometru), údaj nízkotlakového manometru (při trvajícím volném odtoku kyslíku) a údaj měřicího přístroje.\nb) Přeruší se spojení ventilu s měřícím přístrojem a pohne se několikráte páčkou ventilu plicní automatiky. Potom se opět připojí měřící přístroj a zjišťuje se jeho údaj. Nesouhlasí-li tento s údajem dříve zjištěným, je prokázána vada ventilu plicní automatiky.\nc) Tatáž zkouška se provede s ventilem přídavným (by-passem).\nd) Odpojí se hadička, vedoucí k měřícímu přístroji a uzavře se těsně vývod kyslíku z ventilu. Potom se ventil i s lahví ponoří do vody (finimetr nesmočit!). Unikající bubliny prozrazují místo netěsnosti.\nPři zkouškách zjištěné závady se ihned odstraní. Potom se redukční ventil znovu přezkouší již popsaným způsobem a osadí do přístroje. Zaplombování ventilu provede se teprve tehdy, když pracuje bez závad.\nNení-li po ruce zařízení pro řiditelnou regulaci tlaku kyslíku z lahve, nutno použiti pro zkoušku ad 1 lahve plněné na 10 atm. a pro zkoušku ad. 2 lahve plněné na 150 atm., v obou případech s kontrolním manometrem. Pro zkoušení redukčních ventilů některých přístrojů podle uvedeného postupu je třeba zvláštních pomocných součástek, které je nutno napřed zhotoviti.\nPři zjištění závady v průtočnosti kyslíku redukčním ventilem je třeba se přesvědčiti též o stavu důvky.\nTato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

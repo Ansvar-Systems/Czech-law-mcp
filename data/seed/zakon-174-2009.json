@@ -1,0 +1,33 @@
+{
+  "id": "cz:174/2009",
+  "type": "statute",
+  "title": "174/2009 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 258/1995 Sb., kterým se provádí občanský zákoník",
+  "title_en": "",
+  "short_name": "174/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-06-22",
+  "in_force_date": "2010-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2009/174",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 258/1995 Sb., kterým se provádí občanský zákoník",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 258/1995 Sb., kterým se provádí občanský zákoník, se mění takto:\n1. V nadpisu § 5 a 6 se v odkazu na paragraf zákona číslo „2“ nahrazuje číslem „3“.\n2. V § 5 odst. 2 písmeno c) zní:\n„c) výměny elektrických koncových zařízení a rozvodných zařízení, zejména vypínačů, zásuvek, jističů, zvonků, domácích telefonů, zásuvek rozvodů datových sítí, signálů analogového i digitálního televizního vysílání a výměny zdrojů světla v osvětlovacích tělesech,“.\n3. V § 5 odst. 2 písm. d) se slovo „kohoutů“ nahrazuje slovem „ventilů“.\n4. V § 5 odst. 2 písmeno f) zní:\n„f) opravy indikátorů vytápění a opravy a certifikace bytových vodoměrů teplé a studené vody.“.\n5. V § 5 odst. 5 se částka „300 Kč“ nahrazuje částkou „500 Kč“.\n6. V § 5 se na konci odstavce 5 doplňuje věta „Náklady na dopravu a jiné náklady spojené s opravou, pokud jsou uvedeny v daňovém dokladu o provedení opravy, se do nákladů na tuto opravu nezapočítávají, jsou však součástí ročního limitu podle odstavce 6.“.\n7. V § 5 se doplňují odstavce 6 a 7, které znějí:\n„(6) Součet nákladů za drobné opravy uvedené v odstavcích 2 až 5 nesmí přesáhnout částku 70 Kč/m2 podlahové plochy bytu za kalendářní rok, včetně nákladů na dopravu a jiných nákladů spojených s opravou, pokud jsou uvedeny v daňovém dokladu o provedení opravy.\n(7) Podlahovou plochou bytu se pro účely tohoto nařízení rozumí součet podlahových ploch bytu a jeho příslušenství, a to i mimo byt, pokud jsou užívány výhradně nájemcem bytu; podlahová plocha sklepů, které nejsou místnostmi, a podlahová plocha balkonů, lodžií a teras se započítává pouze jednou polovinou.“.\n8. V § 6 se slovo „stoupačce“ nahrazuje slovy „svislým rozvodům“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. ledna 2010."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Podlahovou plochou bytu",
+      "definition": "součet podlahových ploch bytu a jeho příslušenství, a to i mimo byt, pokud jsou užívány výhradně nájemcem bytu; podlahová plocha sklepů, které nejsou místnostmi, a podlahová plocha balkonů, lodžií a teras se započítává pouze jednou polovinou",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

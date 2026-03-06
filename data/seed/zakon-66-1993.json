@@ -1,0 +1,45 @@
+{
+  "id": "cz:66/1993",
+  "type": "statute",
+  "title": "66/1993 Sb., Opatření České národní banky k postupu při provádění úhrad ve volně směnitelných měnách u reexportních operací dle Platební smlouvy mezi Českou republikou a Slovenskou republikou",
+  "title_en": "",
+  "short_name": "66/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-02-08",
+  "in_force_date": "1993-02-08",
+  "url": "https://www.e-sbirka.cz/sb/1993/66",
+  "description": "Opatření České národní banky k postupu při provádění úhrad ve volně směnitelných měnách u reexportních operací dle Platební smlouvy mezi Českou republikou a Slovenskou republikou",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V souladu s článkem 2 Platební smlouvy mezi Českou republikou a Slovenskou republikou (dále jen „smlouva“) platby za dodávky zboží a služeb, které byly nakoupeny subjektem jedné ze smluvních stran ve třetí zemi a odprodány bez následné úpravy a změny vlastní kvality dodaného zboží a služeb subjektu druhé smluvní strany, se provádějí ve volně směnitelných měnách, pokud z dříve uzavřené mezivládní dohody, kterou jsou obě smluvní strany vázány, nevyplývá něco jiného."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Za následnou úpravu a změnu vlastní kvality zboží a služeb se pro účely provádění uvedené smlouvy nepovažují zejména:\n– změna balení, balení do menších i větších celků, přebalení do jiných forem obalů,\n– manipulační operace,\n– nálepkování a značkování,\n– prosté míšení výrobků,\n– konzervace a podobné postupy k ochraně zboží,\n– kombinace předchozích postupů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Pro zúčtování inkas a plateb za dodávky zboží a služeb dle tohoto opatření se zavádí platební titul č. 132 - reexportní operace ve vztahu ke Slovenské republice. Tímto platebním titulem označí subjekt České republiky svůj vývoz a inkaso, resp. dovoz a platby ve vztahu k subjektům Slovenské republiky."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Devizové banky při provádění zúčtování podle § 3 jsou povinny ověřit správnost použití platebního titulu na základě předložených dokumentů."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto opatření nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

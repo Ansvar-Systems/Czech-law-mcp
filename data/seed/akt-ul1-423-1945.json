@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:423/1945",
+  "type": "statute",
+  "title": "423/1945 Ú. l. I, Vyhláška ministra výživy o soupisu zásob potravin, poživatin, pochutin, nápojů a krmiv.",
+  "title_en": "",
+  "short_name": "423/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-11-27",
+  "in_force_date": "1945-11-27",
+  "url": "https://www.e-sbirka.cz/ul1/1945/423",
+  "description": "Vyhláška ministra výživy o soupisu zásob potravin, poživatin, pochutin, nápojů a krmiv.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Nařizuje se provedení soupisu zásob potravin, poživatin, pochutin, nápojů a krmiv u všech živností a podniků, které je mají v držbě, aby je dále zcizily v původním neb jakkoliv zpracovaném stavu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tento soupis provedou příslušné trhové svazy, které vydají podle pokynů ministerstva výživy bližší směrnice o způsobu, rozsahu a provedení soupisu, jakož i o tom, kterých druhů uvedeného zboží a kterých odbytových stupňů se tento soupis týká, zejména pak o tom, ke kterému dni soupis určitého zboží bude proveden."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Přestupky ustanovení této vyhlášky a jejich prováděcích předpisů se trestají podle ustanovení dekretu presidenta republiky č. 118/1945 Sb."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

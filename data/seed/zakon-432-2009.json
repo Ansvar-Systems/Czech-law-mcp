@@ -1,0 +1,21 @@
+{
+  "id": "cz:432/2009",
+  "type": "statute",
+  "title": "432/2009 Sb., Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů (IR-DRG)",
+  "title_en": "",
+  "short_name": "432/2009 Sb.",
+  "status": "in_force",
+  "issued_date": "2009-12-08",
+  "in_force_date": "2009-12-08",
+  "url": "https://www.e-sbirka.cz/sb/2009/432",
+  "description": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace hospitalizovaných pacientů (IR-DRG)",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Český statistický úřad ve spolupráci s Ministerstvem zdravotnictví podle § 19 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, oznamuje s účinností od 1. ledna 2010 aktualizaci Klasifikace hospitalizovaných pacientů IR-DRG (dále jen „klasifikace IR-DRG“).\nKlasifikace IR-DRG (International Refined Diagnosis Related Groups - Mezinárodní zpřesněné skupiny vztažené k diagnóze) umožňuje klasifikovat pacienty v akutní nemocniční péči na základě jejich klinické podobnosti a srovnatelnosti nákladů na jejich nemocniční pobyt.\nPro klasifikaci IR-DRG se pro rok 2010 vydává definiční manuál, verze 007.2010 (formát pdf), program pro automatizované zařazování případů do DRG podle této klasifikace (tzv. grouper), česká verze 007.2010 a závazné metodické materiály a číselníky pro použití v rámci klasifikace IR-DRG, verze 007.2010. Za vydání a distribuci výše uvedených materiálů odpovídá Ministerstvo zdravotnictví České republiky, Palackého náměstí 4, 128 01 Praha 2.\nDefiniční manuál a grouper pro klasifikaci IR-DRG lze obdržet v elektronické podobě postupem uvedeným na webových stránkách www.mzcr.cz. Závazné metodické materiály a číselníky pro použití v rámci klasifikace IR-DRG jsou rovněž zveřejněné na těchto webových stránkách."
+    }
+  ],
+  "definitions": []
+}

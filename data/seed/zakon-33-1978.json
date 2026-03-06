@@ -1,0 +1,63 @@
+{
+  "id": "cz:33/1978",
+  "type": "statute",
+  "title": "33/1978 Sb., Zákon České národní rady o divadelní činnosti (divadelní zákon)",
+  "title_en": "",
+  "short_name": "33/1978 Sb.",
+  "status": "in_force",
+  "issued_date": "1978-04-13",
+  "in_force_date": "1992-04-15",
+  "url": "https://www.e-sbirka.cz/sb/1978/33",
+  "description": "Zákon České národní rady o divadelní činnosti (divadelní zákon)",
+  "provisions": [
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Divadelní činnost",
+      "chapter": "ČÁST PRVNÍ - ZÁKLADNÍ USTANOVENÍ",
+      "content": "(1) Divadelní činnost je veřejné scénické předvádění divadelního díla divadelními umělci nebo divadelními ochotníky, a to i pomocí loutek nebo ve spojení s audiovizuálními prostředky (dále jen „představení“).\n(2) Za divadelní dílo 1) se považuje dílo dramatické, hudebně dramatické, choreografické nebo pantomimické."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zřizování, řízení a zrušování divadel",
+      "chapter": "ČÁST DRUHÁ - DIVADLA",
+      "content": "(1) Divadlo je socialistická organizace s posláním vykonávat divadelní činnost.\n(3) Národní výbory, společenské organizace a kulturní fondy zřizují a zrušují divadla se souhlasem ministerstva kultury České socialistické republiky (dále jen „ministerstvo kultury“).\n(4) Ministerstvo kultury a národní výbory zřizují divadla jako příspěvkové nebo rozpočtové organizace."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST PÁTÁ - POŘÁDÁNÍ PŘEDSTAVENÍ",
+      "content": "Pořadatel odpovídá za vytvoření vhodných podmínek pro konání představení, za zachování pořádku při jeho průběhu a za dodržování autorskoprávních, bezpečnostních, požárních, hygienických a jiných obecně závazných právních předpisů. 5)"
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "ČÁST DESÁTÁ - SPOLEČNÁ USTANOVENÍ",
+      "content": "(1) Pořizovat zvukové, obrazové a jiné záznamy na představení lze jen se souhlasem pořadatele."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "ČÁST DESÁTÁ - SPOLEČNÁ USTANOVENÍ",
+      "content": "Zrušují se\na) zákon č. 55/1957 Sb., o divadelní činnosti (divadelní zákon),\nb) položka č. 47 přílohy A, položky č. 27 a 28 přílohy B a položka č. 14 přílohy D k zákonu České národní rady č. 146/1971 Sb., kterým se mění a doplňuje zákon o národních výborech a upravuje působnost národních výborů na některých úsecích státní správy,\nc) vyhláška č. 71/1958 Ú. l., kterou se stanoví podmínky účinkování divadelních umělců z povolání v představeních mimo provoz divadla, ve znění vyhlášek č. 196/1958 Ú. l. a č. 74/1964 Sb.,\nd) ustanovení první, druhé a čtvrté části vyhlášky č. 99/1958 Ú. l., o povolování veřejných koncertních a jiných hudebních produkcí, veřejných produkcí estrádních a artistických, podniků lidové zábavy, některých divadelních představení, výstav, přednášek a filmových představení a o výhradném oprávnění ochranných organizací autorských, pokud se vztahují na veřejná divadelní představení mimo oblast působení nebo mimo provoz divadel a na veřejná představení ochotnická."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "ČÁST DESÁTÁ - SPOLEČNÁ USTANOVENÍ",
+      "content": "Tento zákon nabývá účinnosti dnem 1. července 1978.\n1) § 2 odst. 1 zákona č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon).\n5) Autorský zákon; zákoník práce č. 65/1965 Sb. (úplné znění č. 55/1975 Sb.); vyhláška č. 110/1975 Sb., o evidenci a registraci pracovních úrazů a o hlášení provozních nehod (havárií) a poruch technických zařízení; vyhláška č. 106/1959 Ú. l., o organizaci požární ochrany; vyhláška č. 70/1960 Sb., o zajištění pohotovosti hasicích zařízení; zákon č. 20/1966 Sb., o péči o zdraví lidu atd."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "divadelní dílo 1",
+      "definition": "dílo dramatické, hudebně dramatické, choreografické nebo pantomimické",
+      "source_provision": "§ 2"
+    }
+  ]
+}

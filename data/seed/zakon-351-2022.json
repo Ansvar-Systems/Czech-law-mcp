@@ -1,0 +1,39 @@
+{
+  "id": "cz:351/2022",
+  "type": "statute",
+  "title": "351/2022 Sb., Vyhláška o předávání údajů o spotřebě léčivých přípravků pojištěnců veřejného zdravotního pojištění při změně zdravotní pojišťovny",
+  "title_en": "",
+  "short_name": "351/2022 Sb.",
+  "status": "in_force",
+  "issued_date": "2022-11-28",
+  "in_force_date": "2023-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2022/351",
+  "description": "Vyhláška o předávání údajů o spotřebě léčivých přípravků pojištěnců veřejného zdravotního pojištění při změně zdravotní pojišťovny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah předávaných údajů",
+      "content": "(1) Předávané údaje obsahují jednoznačné identifikátory pojištěnců uvedených v odstavci 2 a údaje o spotřebě hromadně vyráběných léčivých přípravků uvedené v odstavci 3 tak, aby bylo možno každý případ spotřeby léčivého přípravku jednoznačně přiřadit ke konkrétnímu pojištěnci.\n(2) Předávány jsou údaje o pojištěncích, kteří změnili zdravotní pojišťovnu a jejichž poslední den příslušnosti k původní zdravotní pojišťovně spadá do kalendářního pololetí předcházejícího kalendářnímu pololetí, ve kterém se nachází měsíc předání podle § 3.\n(3) Předávány jsou údaje o spotřebě hromadně vyráběných léčivých přípravků vyúčtované původní zdravotní pojišťovně během období 14 kalendářních měsíců předcházejících měsíci předání podle § 3. Pro každý případ spotřeby hromadně vyráběných léčivých přípravků pro každého pojištěnce těmito údaji jsou:\na) kód léčivého přípravku podle § 32 odst. 5 zákona o léčivech přidělený Ústavem a zveřejněný jako součást seznamu registrovaných léčivých přípravků,\nb) počet spotřebovaných balení léčivého přípravku,\nc) datum vydání či aplikace léčivého přípravku a\nd) datum vyúčtování léčivého přípravku podle bodu 3 oddílu O přílohy č. 2 k zákonu o pojistném na veřejné zdravotní pojištění."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob předávání",
+      "content": "Údaje jsou předávány elektronicky formou zabezpečeného šifrovaného přenosu dat, a to ve formátu datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Lhůty pro předávání",
+      "content": "Údaje jsou předávány v kalendářních měsících březnu a září tak, aby nová zdravotní pojišťovna pojištěnce údaje obdržela nejdříve k devátému a nejpozději k patnáctému dni tohoto měsíce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2023."
+    }
+  ],
+  "definitions": []
+}

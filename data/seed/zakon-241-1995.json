@@ -1,0 +1,33 @@
+{
+  "id": "cz:241/1995",
+  "type": "statute",
+  "title": "241/1995 Sb., Zákon o zahájení činnosti Vrchního soudu v Olomouci",
+  "title_en": "",
+  "short_name": "241/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-10-26",
+  "in_force_date": "1996-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1995/241",
+  "description": "Zákon o zahájení činnosti Vrchního soudu v Olomouci",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Vrchní soud v Olomouci zahájí činnost dnem účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Věci napadlé přede dnem účinnosti tohoto zákona u Vrchního soudu v Praze, v nichž by byla dána příslušnost Vrchního soudu v Olomouci, dokončí Vrchní soud v Praze."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1996."
+    }
+  ],
+  "definitions": []
+}

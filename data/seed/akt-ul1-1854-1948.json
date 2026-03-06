@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1854/1948",
+  "type": "statute",
+  "title": "1854/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Synthesie, chemických závodů, národního podniku.",
+  "title_en": "",
+  "short_name": "1854/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-10-16",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1854",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Synthesie, chemických závodů, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Jan Anders v Chrástu u Plzně, se sídlem v Chrástu, spr. okr. Plzeň,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Deriva, plastické hmoty, A. F. Horsák, se sídlem v Brně-Král. Poli, Kubešova 21,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. B. Hájek, továrna chemicko-pyrotechnická společnost s. r. o., se sídlem v Přemyšlení čp. 6, spr. okr. Praha-venkov-sever,"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Dr. Hesse a spol., kom. spol., se sídlem v Podmoklech."
+    }
+  ],
+  "definitions": []
+}

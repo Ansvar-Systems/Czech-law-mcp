@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:1119/1949",
+  "type": "statute",
+  "title": "1119/1949 Ú. l. I, Vyhláška ministerstva techniky o navrhování železobetonových konstrukcí v pozemním stavitelství.",
+  "title_en": "",
+  "short_name": "1119/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-11-22",
+  "in_force_date": "1949-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1119",
+  "description": "Vyhláška ministerstva techniky o navrhování železobetonových konstrukcí v pozemním stavitelství.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Vyhláška ministerstev techniky a průmyslu ze dne 12. května 1949, č. 575 Ú. l. I, kterou se stanoví závaznost některých norem stavebního oboru, se doplňuje tak, že železobetonové konstrukce pozemního stavitelství musí být, s výjimkou konstrukcí uvedených dále v § 2, v zájmu úspory oceli navrhovány jedině podle normy „ČSN 1090-1948 Dodatek. Předpisy o betonových stavbách, část I. Navrhování staveb ze železového betonu podle stupně bezpečnosti“.\n(2) Ustanovení čl. 3, písm. a) normy uvedené v odstavci 1 se ruší."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Ustanovení § 1 neplatí pro konstrukce pozemního stavitelství, jež jsou vystaveny.\na) přímým vlivům povětrnosti (nekryté konstrukce průmyslových lávek a pod.) nebo škodlivého prostředí (konstrukce v provozovnách, které jsou vystaveny ve větší míře účinkům kyselin nebo zásad, konstrukce chladicích věží a pod.) anebo\nb) velkým dynamickým účinkům (nosné konstrukce pro velká rychloběžné stroje nebo pro pojezdné jeřáby o nosnosti 10 t a více a pod.).\n(2) Pro konstrukce uvedené v odstavci 1 platí norma „ČSN 1090-1948 Předpisy o betonových stavbách. Část I. Navrhování betonových staveb (II. revidované vydání)“,"
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Ustanovení této vyhlášky platí též pro statické výpočty rozpracované podle normy uvedené v § 2, odst. 2, pokud lze předpokládat dosažení podstatné úspory oceli a pokud by přepracování výpočtu nezpůsobilo zdržení stavby."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1949."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cz:17/1979",
+  "type": "statute",
+  "title": "17/1979 Sb., Vyhláška Státní arbitráže Československé socialistické republiky o právních úkonech předáváním dat",
+  "title_en": "",
+  "short_name": "17/1979 Sb.",
+  "status": "in_force",
+  "issued_date": "1979-03-05",
+  "in_force_date": "1979-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1979/17",
+  "description": "Vyhláška Státní arbitráže Československé socialistické republiky o právních úkonech předáváním dat",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Požadavek písemné formy je splněn i tehdy, jestliže je právní úkon učiněn za podmínek dále uvedených dálkovým přenosem dat, nebo předáním média přímo použitelného pro další zpracování anebo dalšími prostředky umožňujícími použití výpočetní techniky (dále jen „předáváním dat“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Dohoda organizací",
+      "content": "(1) Organizace mohou činit právní úkony předáváním dat pouze na základě předem uzavřené písemné dohody.\n(2) Organizace jsou povinny sjednat v dohodě\na) na které právní úkony se vztahuje;\nb) způsob předávání dat, jímž budou právní úkony prováděny (§ 1);\nc) způsob, jak bude spoluprací přejímající a vysílající organizace uskutečňována kontrola totožnosti a úplnosti odeslaného a přijatého znění právního úkonu a jak budou odstraňovány zjištěné závady.\n(3) Organizace uvedou v dohodě zejména též\na) uspořádání náležitostí právních úkonů;\nb) způsob podepisování nebo kódy pracovníků, kteří jednají jménem organizace (§ 4) a oznamování jejich změn;\nc) úpravu technických podmínek a způsob organizace a časového rozvrhu předávání dat;\nd) způsob, jak bude postupováno v případě technické závady, pro niž nebude možno použít dohodnutý způsob předávání dat;\ne) způsob ochrany dat proti znehodnocení a zneužití;\nf) způsob zabezpečení utajovaných skutečností před vyzrazením a zneužitím, pokud je to vzhledem k obsahu právních úkonů potřebné;\ng) způsob, jak bude prokazován obsah právních úkonů;\nh) podmínky pro možnost odchylného postupu od dohody;\ni) podmínky pro výpověď dohody.1)\n(4) Dohoda vznikne, shodnou-li se organizace o celém jejím obsahu.\nProvádění právních úkonů předáváním dat"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Organizace, v jejichž vztazích jsou prováděny právní úkony předáváním dat, jsou povinny\na) přesně evidovat odeslané a přijaté znění právních úkonů včetně data a hodiny odeslání, či přijetí;\nb) po dobu stanovenou pro archivování uschovávat listiny, na nichž bude uvedeno odeslané, či přijaté znění právního úkonu nebo jiné důkazy o znění odeslaného či přijatého právního úkonu [§ 2 odst. 3 písm. e)]."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "U právních úkonů učiněných předáváním dat může být podpis za organizaci nahrazen dohodnutým kódem."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Pokud dále není stanoveno jinak, právní úkon učiněný předáváním dat platí ve znění, které prokazatelně došlo organizaci přejímající.\n(2) Organizace, jíž dojde nesrozumitelné či zkomolené znění právního úkonu učiněného předáváním dat, je povinna o tom ihned vyrozumět organizaci vysílající.\n(3) Pokud vysílající organizace neprodleně odstraní závady uvedené v odstavci 2, platí, že právní úkon byl od počátku bez těchto závad. To platí obdobně, jestliže vysílající organizace neprodleně odstraní chybu zjištěnou při kontrole totožnosti a úplnosti znění odeslaného a přijatého právního úkonu [§ 2 odst. 2 písm. c)]."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Organizace, která poruší povinnosti sjednané v dohodě podle § 2 nebo stanovené v § 3 a § 5 odst. 2, se nemůže zprostit odpovědnosti za škodu tím způsobenou."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Vzájemné odsouhlasení při kontrole totožnosti a úplnosti znění odeslaného a přijatého právního úkonu [§ 2 odst. 2 písm. c)] potvrzuje obdržení dodávkového příkazu2) učiněného podle této vyhlášky.\nZávěrečná ustanovení"
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Tato vyhláška se nevztahuje na platební styk a zúčtování na účtech organizací.3)"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1979.\n1) § 129a zákona.\n2) § 216 odst. 4 zákona.\n3) Vyhláška č. 10/1978 Sb., o platebním styku a zúčtování na účtech organizací."
+    }
+  ],
+  "definitions": []
+}

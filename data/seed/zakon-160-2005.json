@@ -1,0 +1,45 @@
+{
+  "id": "cz:160/2005",
+  "type": "statute",
+  "title": "160/2005 Sb., Vyhláška, kterou se stanoví forma Telekomunikačního věstníku, způsob uveřejňování údajů a způsob jejich předávání k uveřejnění",
+  "title_en": "",
+  "short_name": "160/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-28",
+  "in_force_date": "2005-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/160",
+  "description": "Vyhláška, kterou se stanoví forma Telekomunikačního věstníku, způsob uveřejňování údajů a způsob jejich předávání k uveřejnění",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V Telekomunikačním věstníku (dále jen „Věstník“) uveřejňuje Český telekomunikační úřad údaje a informace v případech, ve kterých to stanoví zákon o elektronických komunikacích."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Forma Věstníku",
+      "content": "(1) Záhlaví každé částky Věstníku obsahuje\na) název „Telekomunikační věstník“,\nb) datum vydání na portálu veřejné správy1),\nc) slovo „Ročník“ doplněné kalendářním rokem, v němž je částka vydána,\nd) slovo „Částka“ doplněné pořadovým číslem v kalendářním roce a\ne) název a ochrannou známku Českého telekomunikačního úřadu.\n(2) Číslování částek Věstníku a číslování stran Věstníku se provádí ve dvou samostatných souvislých řadách od počátku kalendářního roku. Číslování částek a číslování stran Věstníku se uzavírá koncem každého kalendářního roku.\n(3) Rozsáhlou přílohu je možno uveřejnit v samostatné příloze částky Věstníku, vydané současně s příslušnou částkou, v níž je uveřejňován text, o jehož přílohu se jedná. Strany přílohy se číslují v souvislé řadě navazující na číslování stran částky, jíž je přílohou."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Z hlediska požadavků zvláštních právních předpisů je rozhodný obsah uveřejněných údajů a informací na portálu veřejné správy a den, kdy byly údaje nebo informace na tomto portálu uveřejněny."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Způsob předávání údajů k uveřejnění na portálu veřejné správy",
+      "content": "(1) Podkladem pro uveřejnění ve Věstníku jsou originály nebo úředně ověřené kopie písemností obsahující údaje nebo informace, které se mají uveřejnit. Tyto údaje nebo informace mohou být Českému telekomunikačnímu úřadu (dále jen „Úřad“) zasílány\na) v listinné a současně elektronické podobě, nebo\nb) elektronickými prostředky, je-li k nim připojen zaručený elektronický podpis žadatele o uveřejnění založený na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb podle zvláštního právního předpisu2).\nZa obsahovou správnost podkladů pro uveřejnění odpovídá žadatel o uveřejnění.\n(2) Věstník zpracovaný Úřadem ve formě podle § 2 zasílá Úřad provozovateli portálu veřejné správy k uveřejnění v elektronické podobě podepsaný zaručeným elektronickým podpisem oprávněné osoby založeným na kvalifikovaném certifikátu vydaným akreditovaným poskytovatelem certifikačních služeb podle zvláštního právního předpisu2). Za správnost zpracování Věstníku odpovídá Úřad.\n(3) Za soulad Úřadem zaslaného Věstníku a uveřejněného Věstníku odpovídá provozovatel portálu veřejné správy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2005.\n1) § 2 písm. r) a § 4 odst. 1 písm. i) zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů.\n2) Zákon č. 227/2000 Sb., o elektronickém podpisu, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": []
+}

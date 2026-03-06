@@ -1,0 +1,27 @@
+{
+  "id": "cz:n4/2000",
+  "type": "statute",
+  "title": "n4/2000 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb v zákonu č. 363/1999 Sb. a v zákonu č. 65/2000 Sb.",
+  "title_en": "",
+  "short_name": "n4/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-04-12",
+  "in_force_date": "2000-04-12",
+  "url": "https://www.e-sbirka.cz/sb/2000/n4",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb v zákonu č. 363/1999 Sb. a v zákonu č. 65/2000 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 45 zákona č. 363/1999 Sb. mají místo slov „ve znění § 45“ správně být slova „ve znění § 44“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V čl. II zákona č. 65/2000 Sb. mají místo slov „zákona č. 388/1992 Sb.“ správně být slova „zákona č. 338/1992 Sb.“."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:69/2007",
+  "type": "statute",
+  "title": "69/2007 Sb., Zákon, kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "69/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-04-04",
+  "in_force_date": "2007-04-04",
+  "url": "https://www.e-sbirka.cz/sb/2007/69",
+  "description": "Zákon, kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 21a odst. 4 zákona č. 563/1991 Sb., o účetnictví, ve znění zákona č. 492/2000 Sb., zákona č. 57/2006 Sb. a zákona č. 81/2006 Sb., se věta poslední zrušuje."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Ke vzniku povinnosti účetní jednotky zveřejnit účetní závěrku též v Obchodním věstníku na základě ustanovení § 21a odst. 4 zákona č. 563/1991 Sb., ve znění zákona č. 81/2006 Sb., se do dne účinnosti tohoto zákona nepřihlíží."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti dnem jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

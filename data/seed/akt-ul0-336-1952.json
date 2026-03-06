@@ -1,0 +1,56 @@
+{
+  "id": "cz:ul0:336/1952",
+  "type": "statute",
+  "title": "336/1952 Ú. l., Vyhláška ministerstva lehkého průmyslu o sběru odpadu slinutých karbidů (tvrdokovů) a odpadu průmyslových diamantů.",
+  "title_en": "",
+  "short_name": "336/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-11-27",
+  "in_force_date": "1952-12-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/336",
+  "description": "Vyhláška ministerstva lehkého průmyslu o sběru odpadu slinutých karbidů (tvrdokovů) a odpadu průmyslových diamantů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Význam slinutých karbidů (tvrdokovů) a průmyslových diamantů pro náš průmysl vyžaduje, aby byl prováděn sběr jejich odpadu podle ustanovení této vyhlášky.\n(2) Odpadem slinutých karbidů (tvrdokovů) rozumí se veškeré odpady slinutých kovových karbidů, jakož i slinuté karbidy (tvrdokovy) z vyřazených nebo nepoužitelných nástrojů.\n(3) Odpadem průmyslových diamantů se rozumí veškeré odpady průmyslových diamantů, jakož i vyřazené nebo nepoužitelné diamantové nástroje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Každý, u něhož vzniká odpad, je povinen jej shromažďovat a uschovávat na bezpečném místě. Z nástrojů obsahujících slinuté karbidy (tvrdokovy) je povinen slinuté karbidy (tvrdokovy) vyletovat, z průvlaků vytlačit tvrdokovová jádra a roztřídit podle druhů (S, F, G, H atd.); diamanty z nástrojů bude však oddělovat Závod první pětiletky, národní podnik, Šumperk.\n(2) Každý, kdo nashromáždil nebo u sebe má odpad, je povinen nabídnout jej Závodu první pětiletky, národnímu podniku, nejpozději do 10. dne po uplynutí každého měsíce."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Závod první pětiletky, národní podnik, je povinen nabídnutý odpad vykoupit nejpozději do jednoho měsíce ode dne doručení nabídky; u odpadu slinutých karbidů (tvrdokovů) může však výkup odsunout až do doby, kdy nabídnutý odpad dosáhne množství ½ kg."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Podrobnější předpisy k provedení této vyhlášky vydá ministerstvo hutního průmyslu a rudných dolu, které může též povolovat výjimky z ustanovení § 2."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1952."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Odpadem slinutých karbidů (tvrdokovů",
+      "definition": "se veškeré odpady slinutých kovových karbidů, jakož i slinuté karbidy (tvrdokovy) z vyřazených nebo nepoužitelných nástrojů",
+      "source_provision": "§ 1."
+    },
+    {
+      "term": "Odpadem průmyslových diamantů",
+      "definition": "veškeré odpady průmyslových diamantů, jakož i vyřazené nebo nepoužitelné diamantové nástroje",
+      "source_provision": "§ 1."
+    }
+  ]
+}

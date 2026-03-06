@@ -1,0 +1,21 @@
+{
+  "id": "cz:403/2003",
+  "type": "statute",
+  "title": "403/2003 Sb., Sdělení Českého telekomunikačního úřadu o vyhlášení číslovacího plánu síťových směrovacích čísel",
+  "title_en": "",
+  "short_name": "403/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-11-27",
+  "in_force_date": "2003-11-27",
+  "url": "https://www.e-sbirka.cz/sb/2003/403",
+  "description": "Sdělení Českého telekomunikačního úřadu o vyhlášení číslovacího plánu síťových směrovacích čísel",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "Český telekomunikační úřad sděluje, že podle § 68 odst. 4 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů, ve znění pozdějších předpisů, vyhlásil číslovací plán síťových směrovacích čísel. V tomto plánu, který je závazný pro všechny provozovatele veřejných telefonních sítí, je stanoven systém signalizačního síťového adresování ve veřejných telefonních sítích s využitím síťových směrovacích čísel, a to jak uvnitř jednotlivých telefonních sítí, tak mezi nimi.\nPodle téhož ustanovení zákona uveřejnil Český telekomunikační úřad tento číslovací plán síťových směrovacích čísel v Telekomunikačním věstníku ze dne 22. září 2003, v částce 9, v normativní části „A“ pod bodem 172. Uvedeným dnem nabyl číslovací plán síťových směrovacích čísel platnosti."
+    }
+  ],
+  "definitions": []
+}

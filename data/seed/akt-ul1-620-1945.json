@@ -1,0 +1,75 @@
+{
+  "id": "cz:ul1:620/1945",
+  "type": "statute",
+  "title": "620/1945 Ú. l. I, Vyhláška nejvyššího úřadu cenového o nejvyšších cenách kyselého zelí ze sklizně 1945.",
+  "title_en": "",
+  "short_name": "620/1945 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1945-12-21",
+  "in_force_date": "1945-12-21",
+  "url": "https://www.e-sbirka.cz/ul1/1945/620",
+  "description": "Vyhláška nejvyššího úřadu cenového o nejvyšších cenách kyselého zelí ze sklizně 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Cena kyselého zelí u výrobce při prodeji velkoobchodníku se tvoří z pořizovací ceny čerstvého zelí (dále jen suroviny) a z paušální sazby za zpracování.\n(2) Pořizovací cenou suroviny se rozumí průměrná nákupní cena suroviny, nejvýše však 70 Kčs, zvýšená o částku 34 Kčs za každých 100 kg suroviny. Touto částkou jsou uhrazeny všechny výlohy spojené s nákupem.\n(3) Výrobci musejí vzít za základ své kalkulace skutečnou výtěžnost suroviny, nejméně však 65%.\n(4) Paušální sazba za zpracování činí za 100 kg kyselého zelí:\nKčs\na)pro podniky v městech nad 50.000 obyvatel225.—,\nb)pro podniky v ostatních místech200.—."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Prodává-li výrobce přímo maloobchodníkovi, smí si k ceně vypočtené podle § 1 připočísti 6%."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Dodává-li výrobce kyselé zelí ve vlastních sudech, smí účtovati za opotřebení nejvýše 30 Kčs za 65 kg zelí.\n(2) Záloha za půjčené sudy a jiné obaly smí činiti nejvýše trojnásobek jejich pořizovací ceny v den dodávky. Půjčené sudy musejí být odběratelem odborně ošetřeny a čisté a nepoškozené vráceny do 6 týdnů po provedené dodávce franko stanice výrobce."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Velkoobchodníci směji při dodávce kyselého zelí maloobchodníkům připočítali k svým nákupním cenám jako obchodní rozpětí nejvýše 11% včetně daně z obratu."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Prodejní ceny výrobce a velkoobchodu se rozumějí při dodávce v místě franko dům odběratele, jinak franko odesílací stanice, za hotové beze srážky."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Maloobchodníci si smějí připočítat k své pořizovací ceně (t. j. k nákupní ceně podle účtu, zvýšené o prokazatelné dopravní náklady) obchodní rozpětí nejvýše 30%."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Nejvyšší úřad cenový může k provedení této vyhlášky vydati potřebné předpisy a povolit nebo nařídit výjimky z ustanovení této vyhlášky nebo předpisů vydaných k jejímu provedení."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení. Současně se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 22. září 1942, běž. č. 914, o nejvyšších cenách kyselého zelí domácího původu (Ú. l. č. 226/1942), jakož i všech výměrů upravujících ceny kyselého zelí domácího původu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pořizovací cenou suroviny",
+      "definition": "průměrná nákupní cena suroviny, nejvýše však 70 Kčs, zvýšená o částku 34 Kčs za každých 100 kg suroviny",
+      "source_provision": "§ 1."
+    }
+  ]
+}

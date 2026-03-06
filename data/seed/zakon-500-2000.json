@@ -1,0 +1,27 @@
+{
+  "id": "cz:500/2000",
+  "type": "statute",
+  "title": "500/2000 Sb., Nařízení vlády, kterým se zrušuje nařízení vlády č. 284/1992 Sb., o opatřeních hospodářské mobilizace",
+  "title_en": "",
+  "short_name": "500/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-12-30",
+  "in_force_date": "2000-12-31",
+  "url": "https://www.e-sbirka.cz/sb/2000/500",
+  "description": "Nařízení vlády, kterým se zrušuje nařízení vlády č. 284/1992 Sb., o opatřeních hospodářské mobilizace",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Zrušuje se nařízení vlády č. 284/1992 Sb., o opatřeních hospodářské mobilizace."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Toto nařízení nabývá účinnosti dnem 31. prosince 2000."
+    }
+  ],
+  "definitions": []
+}

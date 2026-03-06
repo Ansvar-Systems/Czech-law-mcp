@@ -1,0 +1,75 @@
+{
+  "id": "cz:ul0:12/1956",
+  "type": "statute",
+  "title": "12/1956 Ú. l., Vyhláška ministerstva zemědělství o povinnosti vlastníků a uživatelů půdy hlásit změny vlastnictví (držby) a užívání půdy a změny kultur.",
+  "title_en": "",
+  "short_name": "12/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-01-27",
+  "in_force_date": "1956-01-27",
+  "url": "https://www.e-sbirka.cz/ul0/1956/12",
+  "description": "Vyhláška ministerstva zemědělství o povinnosti vlastníků a uživatelů půdy hlásit změny vlastnictví (držby) a užívání půdy a změny kultur.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Významným úkolem výkonných orgánů místních národních výborů je vedení evidence půdy v hospodářských obvodech obcí, jež je nezbytným předpokladem úspěšného plánování a řízení zemědělské výroby."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Aby výkonné orgány místních národních výboru mohly evidenci půdy udržovat v souhlase se skutečným stavem, jsou povinni hlásit\n1. vlastnici půdy každou změnu vlastnictví (držby) půdy nebo správy půdy;\n2. uživatelé půdy\na) každou změnu užívání půdy, na př. pronájmem, přikázáním půdy do užívání k zajištění zemědělské výroby nebo sdružením půdy ke společnému hospodaření v družstvu,\nb) každou změnu kultury,\nc) každou změnu ve výměře půdy.\n(2) Ohlašovací povinnost podlé odstavce 1 č. 1 a č. 2 písm. a) má\na) dosavadní vlastník i nabyvatel půdy,\nb) uživatel, který užívání půdy pozbývá, i uživatel, na něhož užívání půdy přechází.\nSplněním ohlašovací povinnosti jedním z povinných podle písm. a) nebo b) zaniká povinnost druhého. Nabytí vlastnictví nebo užívání půdy dědictvím je povinen hlásit dědic."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Ohlašovací povinnost podle této vyhlášky se vztahuje na vlastníky a uživatele půdy soukromého i socialistického sektoru.\n(2) U půdy ve státním socialistickém vlastnictví se vlastníkem rozumí orgán nebo organizace, které mají půdu ve své správě."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Hlášení (§ 2) se podávají výkonnému orgánu místního národního výboru, v jehož hospodářském obvodu půda leží, a to písemně nebo ústně do protokolu.\n(2) Vlastníci a uživatelé půdy jsou povinni hlásit změny uvedené v § 2 do 30 dnů ode dne, kdy ke změně došlo nebo kdy zjistili, že zápisy v evidenčním listě o změnách vlastnictví (držby), užívání a výměře půdy a změně kultury nejsou v souhlase se skutečným stavem. Dědici jsou povinni hlásit nabytí vlastnictví nebo užívání půdy dědictvím do 30 dnů ode dne pravomocného potvrzení o nabytí dědictví."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Hlášení podle této vyhlášky nenahrazuje přivolení k převodu nebo pronájmu zemědělské a lesní půdy podle zákona č. 65/1951 Sb., o převodech nemovitostí a o pronájmech zemědělské a lesní půdy, ani souhlas ke změně kultury podle vládního nařízeni č. 55/1951 Sb., o rozšíření plochy orné půdy a zajištění půdy pro zemědělskou výrobu."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Nesplnění povinnosti stanovených touto vyhláškou, pokud je přestupkem, může být trestáno podle §§ 90 a 93 trestního zákona správního."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Ministerstvo zemědělství může v dohodě se zúčastněnými ministerstvy povolit výjimky z ustanovení této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Zrušuje se vyhláška ministerstva zemědělství č. 97/1955 Ú. l., o povinnosti uživatelů půdy hlásit výměru půdy a druh kultur a změny držby půdy a kultur."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 27. ledna 1956."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "U půdy ve státním socialistickém vlastnictví se vlastníkem",
+      "definition": "orgán nebo organizace, které mají půdu ve své správě",
+      "source_provision": "§ 3."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:127/2016",
+  "type": "statute",
+  "title": "127/2016 Sb., Zákon, kterým se mění zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "127/2016 Sb.",
+  "status": "in_force",
+  "issued_date": "2016-04-25",
+  "in_force_date": "2016-05-10",
+  "url": "https://www.e-sbirka.cz/sb/2016/127",
+  "description": "Zákon, kterým se mění zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 6 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči, ve znění zákona č. 132/2000 Sb. a zákona č. 320/2002 Sb., se za slovo „prohlásit“ vkládají slova „opatřením obecné povahy“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Při změnách památkových zón, které byly stanoveny právními předpisy podle dosavadních právních předpisů, se postupuje podle § 6 zákona č. 20/1987 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cz:18/2011",
+  "type": "statute",
+  "title": "18/2011 Sb., Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstev obcí",
+  "title_en": "",
+  "short_name": "18/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-02-04",
+  "in_force_date": "2011-02-04",
+  "url": "https://www.e-sbirka.cz/sb/2011/18",
+  "description": "Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstev obcí",
+  "provisions": [
+    {
+      "provision_ref": "Text",
+      "section": "1",
+      "title": "Text",
+      "content": "obecokreskraj\nKřešínPříbramStředočeský\nMalíkoviceKladnoStředočeský\nNové HutěPrachaticeJihočeský\nParačovStrakoniceJihočeský\nVěžniceJihlavaVysočina\nMoravskoslezský KočovBruntálMoravskoslezský"
+    }
+  ],
+  "definitions": []
+}

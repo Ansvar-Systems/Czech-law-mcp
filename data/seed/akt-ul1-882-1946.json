@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:882/1946",
+  "type": "statute",
+  "title": "882/1946 Ú. l. I, Vyhláška ministra průmyslu o zřízení národních podniků sklářských.",
+  "title_en": "",
+  "short_name": "882/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-28",
+  "in_force_date": "1946-03-28",
+  "url": "https://www.e-sbirka.cz/ul1/1946/882",
+  "description": "Vyhláška ministra průmyslu o zřízení národních podniků sklářských.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Stölzle, akciová společnost pro sklářský průmysl (Stölzle, Aktiengesellschaft für die Glasindustrie) se sídlem ve Vídni (pokud jde o závody a majetek na území Československého státu), v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o, Praha;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Morawtzovi synové se sídlem v Otvovicích, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha;"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. majetkovou podstatu podniku Libochovické sklárny, akciová společnost, se sídlem v Libochovicích, v rozsahu jeho znárodnění, s výjimkou účasti na podniku Duta, prodejna dutého skla, společnost s r. o., Praha."
+    }
+  ],
+  "definitions": []
+}

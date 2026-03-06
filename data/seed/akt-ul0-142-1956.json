@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:142/1956",
+  "type": "statute",
+  "title": "142/1956 Ú. l., Vyhláška úřadu pro vynálezy a normalisaci, kterou se rozšiřuje platnost normy ČSN 73 1331.",
+  "title_en": "",
+  "short_name": "142/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-07-11",
+  "in_force_date": "1956-07-26",
+  "url": "https://www.e-sbirka.cz/ul0/1956/142",
+  "description": "Vyhláška úřadu pro vynálezy a normalisaci, kterou se rozšiřuje platnost normy ČSN 73 1331.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Míra bezpečnosti k se musí uvažovat ve výpočtu únosnosti zdiva z velkých cihelných kvádrů těmito hodnotami:\na) pro zatížení hlavník = 2,5\nb) pro zatížení celkovék = 2,3"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Průměrná mezní pevnost v tlaku zdiva z velkých cihelných kvádrů, zhotovených v přesných rozměrech a kladených dosedací plochou zplna do lože z cementové malty, uvažuje se ve výpočtu hodnotami uvedenými v tab. II normy ČSN 73 1331 pro zdivo z plných pálených cihel."
+    }
+  ],
+  "definitions": []
+}

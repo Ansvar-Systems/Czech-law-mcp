@@ -1,0 +1,33 @@
+{
+  "id": "cz:85/1953",
+  "type": "statute",
+  "title": "85/1953 Sb., Nařízení, jímž se stanoví, které další podniky se zapisují do podnikového rejstříku",
+  "title_en": "",
+  "short_name": "85/1953 Sb.",
+  "status": "in_force",
+  "issued_date": "1953-10-21",
+  "in_force_date": "1953-10-21",
+  "url": "https://www.e-sbirka.cz/sb/1953/85",
+  "description": "Nařízení, jímž se stanoví, které další podniky se zapisují do podnikového rejstříku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Do podnikového rejstříku se zapisují také:\n1. podniky místního průmyslu a podniky komunálního hospodářství;\n2. podniky pro zahraniční obchod, zřízené podle zákona č. 119/1948 Sb., o státní organisaci zahraničního obchodu a mezinárodního zasilatelství."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Dosavadní oddíl rejstříkové knihy pro komunální podniky se stává oddílem pro podniky místního průmyslu a podniky komunálního hospodářství; oddíl pro akciové společnosti se stává oddílem pro akciové společnosti a podniky pro zahraniční obchod."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

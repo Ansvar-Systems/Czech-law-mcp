@@ -1,0 +1,33 @@
+{
+  "id": "cz:233/2007",
+  "type": "statute",
+  "title": "233/2007 Sb., Vyhláška, kterou se mění vyhláška č. 323/2002 Sb., o rozpočtové skladbě, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "233/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-08-31",
+  "in_force_date": "2007-08-31",
+  "url": "https://www.e-sbirka.cz/sb/2007/233",
+  "description": "Vyhláška, kterou se mění vyhláška č. 323/2002 Sb., o rozpočtové skladbě, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Ve vyhlášce č. 323/2002 Sb., o rozpočtové skladbě, ve znění vyhlášky č. 568/2002 Sb., vyhlášky č. 484/2003 Sb. a vyhlášky č. 440/2006 Sb., se v příloze v části A řádek s textem „Kapitola 338 Ministerstvo informatiky“ zrušuje a za řádek s textem „Kapitola 353 Úřad pro ochranu hospodářské soutěže“ se vkládá nový řádek s textem „Kapitola 355 Ústav pro studium totalitních režimů“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Přechodné ustanovení",
+      "content": "Při třídění příjmů inkasovaných a výdajů uskutečněných Ministerstvem informatiky do dne jeho zrušení se použije rozpočtová skladba stanovená vyhláškou č. 323/2002 Sb., ve znění účinném ke dni nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

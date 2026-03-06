@@ -1,0 +1,33 @@
+{
+  "id": "cz:202/2014",
+  "type": "statute",
+  "title": "202/2014 Sb., Vyhláška o způsobu výpočtu nároku na vrácení daně z minerálních olejů zaplacené v cenách některých minerálních olejů spotřebovaných v zemědělské prvovýrobě a způsobu a podmínkách vedení dokladů a evidence s nimi souvisejícími",
+  "title_en": "",
+  "short_name": "202/2014 Sb.",
+  "status": "in_force",
+  "issued_date": "2014-09-26",
+  "in_force_date": "2016-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2014/202",
+  "description": "Vyhláška o způsobu výpočtu nároku na vrácení daně z minerálních olejů zaplacené v cenách některých minerálních olejů spotřebovaných v zemědělské prvovýrobě a způsobu a podmínkách vedení dokladů a evidence s nimi souvisejícími",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob výpočtu nároku na vrácení daně z minerálních olejů",
+      "content": "Nárok na vrácení daně z minerálních olejů se vypočte podle vzorce:\nc) pro minerální oleje uvedené v § 45 odst. 1 písm. b) zákona o spotřebních daních\nA = B x 4,38,\nkde\nA = nárok na vrácení daně,\nB = množství minerálních olejů v litrech prokazatelně spotřebovaných za zdaňovací období pro zemědělskou prvovýrobu,\n4,38 = výše vrácené daně odpovídající sazbě daně u těchto minerálních olejů ve výši 10,95 Kč/l vynásobená koeficientem 0,4,\nd) pro minerální oleje uvedené v § 45 odst. 2 písm. j) zákona o spotřebních daních\nA = B x 4,38,\nkde\nA = nárok na vrácení daně,\nB = množství minerálních olejů v litrech prokazatelně spotřebovaných za zdaňovací období pro zemědělskou prvovýrobu,\n4,38 = výše vrácené daně odpovídající sazbě daně u těchto minerálních olejů ve výši 10,95 Kč/l po vyloučení části sazby daně připadající na přimíchané biopalivo ve výši 0,767 Kč/l vynásobená koeficientem 0,4301,\ne) pro minerální oleje uvedené v § 45 odst. 2 písm. c) zákona o spotřebních daních\nA = B x 4,38,\nkde\nA = nárok na vrácení daně,\nB = množství minerálních olejů v litrech prokazatelně spotřebovaných za zdaňovací období pro zemědělskou prvovýrobu,\n4,38 = výše vrácené daně odpovídající sazbě daně u těchto minerálních olejů ve výši 9,265 Kč/l po vyloučení části sazby daně připadající na přimíchané biopalivo ve výši 1,6 Kč/l vynásobené koeficientem 0,5714,"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob a podmínky vedení dokladů a evidence souvisejících s minerálními oleji",
+      "content": "(1) Evidence o skutečné spotřebě minerálních olejů, kterou daňový subjekt prokazuje nárok na vrácení daně z minerálních olejů, obsahuje údaje o skutečně spotřebovaných minerálních olejích v zemědělské prvovýrobě.\n(2) Spotřeba minerálních olejů, které byly použity v zemědělské prvovýrobě, se prokazuje účetními doklady podle zákona upravujícího účetnictví.\n(3) V evidenci o skutečné spotřebě minerálních olejů se uvádí údaje o množství spotřebovaných minerálních olejů, místo jejich spotřeby a druh vykonávané práce. Za zdaňovací období se v evidenci uvede souhrn za každý spotřebovaný minerální olej uvedený v § 45 odst. 1 písm. b), § 45 odst. 2 písm. c) nebo j) zákona o spotřebních daních.\n(4) Doklady o prodeji a interní doklady, kterými daňový subjekt prokazuje nárok na vrácení daně z minerálních olejů, se vedou v časové souslednosti a jejich stejnopisy se připojí k daňovému přiznání."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

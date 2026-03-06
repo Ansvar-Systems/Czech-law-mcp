@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1287/1947",
+  "type": "statute",
+  "title": "1287/1947 Ú. l. I, Vyhláška ministra pošt o nové úpravě snížených poštovních poplatků ve styku s Rakouskem.",
+  "title_en": "",
+  "short_name": "1287/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-12-13",
+  "in_force_date": "1948-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1947/1287",
+  "description": "Vyhláška ministra pošt o nové úpravě snížených poštovních poplatků ve styku s Rakouskem.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. psaní:\ndo 20 g z dosavadních 3 Kčs na3.80 Kčs,\nza každých dalších 20 g z dosavadních 1.80 Kčs na2.30 Kčs;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. dopisnice:\njednoduchá dopisnice nebo každý díl dopisnice\ns odpovědí z dosavadních 1.80 Kčs na2.30 Kčs."
+    }
+  ],
+  "definitions": []
+}

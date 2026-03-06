@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:8/1961",
+  "type": "statute",
+  "title": "8/1961 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, ruší některé československá státní normy",
+  "title_en": "",
+  "short_name": "8/1961 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1961-03-01",
+  "in_force_date": "1961-04-01",
+  "url": "https://www.e-sbirka.cz/ul0/1961/8",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, ruší některé československá státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Československé státní normy\nČSN 02 2504„Klíny ploské. Přiřadění k hřídelům“\nČSN 02 2531„Klíny ploské bez nosu“\nČSN 02 2532„Klíny ploské s nosem“\nuveřejněné ve vyhlášce č. 90/1953 Ú. l., se ruší bez náhrady."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti ode dne 1. dubna 1961."
+    }
+  ],
+  "definitions": []
+}

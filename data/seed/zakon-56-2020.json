@@ -1,0 +1,27 @@
+{
+  "id": "cz:56/2020",
+  "type": "statute",
+  "title": "56/2020 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "56/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-02-28",
+  "in_force_date": "2020-04-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/56",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb., nařízení vlády č. 156/2011 Sb., nařízení vlády č. 175/2012 Sb., nařízení vlády č. 284/2015 Sb., nařízení vlády č. 43/2017 Sb. a nařízení vlády č. 138/2018 Sb., se mění takto:\n1. V § 1 odst. 3 se text „10 %“ nahrazuje textem „1 %“.\n2. V příloze v položce 1 části A.1. a části A.2. bodu A 2.1 se slova „K16 = 0,2 pro f >= 2,2 GHz“ nahrazují slovy\n„K16 = 0,2pro 2,2 GHz <= f < 24 GHz\nK16 = 0,02pro f >= 24 GHz“.\n3. V příloze v položce 1 části A.2. bodu A 2.2 se text „Ca = S2 x K1 x K2 x K3“ nahrazuje textem „Ca = S2 x K1 x K2 x K3 x K16“.\n4. V příloze v položce 1 části A.2. bodu A 2.2 se za slova „K3 = 2 nad 10 W povoleného maximálního efektivního vyzářeného výkonu“ vkládají slova\n„K16 Koeficient kmitočtového pásma\nK16 = 1pro f < 1 GHz\nK16 = 0,7pro 1 GHz <= f < 2,2 GHz\nK16 = 0,2pro 2,2 GHz <= f < 24 GHz\nK16 = 0,02pro f >= 24 GHz“.\n5. V příloze v položce 1 části A.2. bodu A 2.2 se text „Cb = S2 x K1 x K4“ nahrazuje textem „Cb = S2 x K1 x K4 x K16“.\n6. V příloze v položce 1 části A.2. se na konci bodu A 2.2 doplňují slova\n„K16 Koeficient kmitočtového pásma\nK16 = 1pro f < 1 GHz\nK16 = 0,7pro 1 GHz <= f < 2,2 GHz\nK16 = 0,2pro 2,2 GHz <= f < 24 GHz\nK16 = 0,02pro f >= 24 GHz.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. dubna 2020."
+    }
+  ],
+  "definitions": []
+}

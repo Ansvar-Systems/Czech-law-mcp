@@ -1,0 +1,43 @@
+{
+  "id": "cz:ul1:940/1949",
+  "type": "statute",
+  "title": "940/1949 Ú. l. I, Vyhláška ministerstva školství, věd a umění a ministerstva informací a osvěty o rozsahu činnosti referátů krajských národních výborů pro školství, osvětu a tělesnou výchovu a o jejich rozdělení na oddělení.",
+  "title_en": "",
+  "short_name": "940/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-09-13",
+  "in_force_date": "1949-09-13",
+  "url": "https://www.e-sbirka.cz/ul1/1949/940",
+  "description": "Vyhláška ministerstva školství, věd a umění a ministerstva informací a osvěty o rozsahu činnosti referátů krajských národních výborů pro školství, osvětu a tělesnou výchovu a o jejich rozdělení na oddělení.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "1. Oddělní pedagogické obstarává pedagogické věci školské."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "2. Oddělení kulturní správy obstarává správní a hospodářské věci školské, věci vědecké a umělecké, kultové a nadační."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "3. Oddělení osvětové obstarává věci státně propagační, věci lidové výchovy a knihovnictví."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Část II. - Zásady pro rozdělení referátu na oddělení.",
+      "content": "4. Oddělení pro tělesnou výchovu obstarává věci tělesné výchovy.\nBližší rozdělení práce provedou podle těchto zásad krajské národní výbory."
+    }
+  ],
+  "definitions": []
+}

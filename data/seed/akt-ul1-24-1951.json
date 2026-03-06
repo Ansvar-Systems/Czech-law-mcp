@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:24/1951",
+  "type": "statute",
+  "title": "24/1951 Ú. l. I, Vyhláška ministerstva informací a osvěty o převedení správy lidových knihoven.",
+  "title_en": "",
+  "short_name": "24/1951 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1951-01-10",
+  "in_force_date": "1951-01-25",
+  "url": "https://www.e-sbirka.cz/ul1/1951/24",
+  "description": "Vyhláška ministerstva informací a osvěty o převedení správy lidových knihoven.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Ministerstvo informací a osvěty odnímá v dohodě s ministerstvem vnitra a financí podle ustanovení § 31 odst. 2 zákona č. 279/1949 Sb., o finančním hospodaření národních výborů, a § 6 odst. 2 a 4 vládního nařízení č. 90/1950 Sb., o správě národního majetku národními výbory, místním národním výborům v sídle okresních národních výborů správu knižního materiálu a vnitřního vybavení dosavadních veřejných obecních (městských) knihoven a svěřuje ji okresním národním výborům k vytvoření okresních lidových knihoven."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Podle týchž předpisů odnímá ministerstvo informací a osvěty v dohodě s ministerstvy vnitra a financí jednotným národním výborům správu knižního materiálu a vnitřního vybavení dosavadních veřejných městských knihoven a svěřuje ji krajským národním výborům k vytvoření krajských lidových knihoven."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Pokud shora uvedeným knihovnám, jichž svěřený majetek je převáděn, výhradně sloužila určitá nemovitost, nechť příslušný okresní nebo krajský národní výbor předloží ministerstvu informací a osvěty návrh na převod její správy."
+    }
+  ],
+  "definitions": []
+}

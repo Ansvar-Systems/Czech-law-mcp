@@ -1,0 +1,51 @@
+{
+  "id": "cz:147/1988",
+  "type": "statute",
+  "title": "147/1988 Sb., Vyhláška Ústřední rady odborů o změnách vyhlášky Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky č. 78/1984 Sb.",
+  "title_en": "",
+  "short_name": "147/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-09-21",
+  "in_force_date": "1988-10-01",
+  "url": "https://www.e-sbirka.cz/sb/1988/147",
+  "description": "Vyhláška Ústřední rady odborů o změnách vyhlášky Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky č. 78/1984 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška Ústřední rady odborů č. 95/1968 Sb., o poskytování přídavků na děti v nemocenském pojištění, ve znění vyhlášky č. 78/1984 Sb., se mění a doplňuje takto:\n1. Za § 2 se vkládá nový § 2a, který zní:"
+    },
+    {
+      "provision_ref": "„§ 2a",
+      "section": "2a",
+      "title": "„§ 2a Přechodný pobyt dítěte v zahraničí z důvodu rekreace",
+      "content": "(K § 20 odst. 2 a § 25 zákona)\nRekreací dítěte v zahraničí se rozumí jeho přechodný pobyt mimo území Československé socialistické republiky, který netrvá déle než tři po sobě jdoucí celé kalendářní měsíce; pobyt dítěte mimo území Československé socialistické republiky trvající nepřerušeně déle se nepovažuje za rekreaci počínaje čtvrtým celým kalendářním měsícem stráveným v zahraničí.“.\n2. § 12 zní:"
+    },
+    {
+      "provision_ref": "„§ 12",
+      "section": "12",
+      "title": "„§ 12 K výplatě přídavků na děti",
+      "content": "(K § 27 odst. 2 zákona)\n(1) Dítě je v plném přímém zaopatření ústavu (zařízení) pro péči o děti nebo o mládež tehdy, poskytuje-li mu tento ústav (zařízení) stravování, ubytování i ošacení.\n(2) Za plné přímé zaopatření dítěte ve smyslu § 27 odst. 2 zákona se však nepovažuje denní nebo týdenní pobyt dítěte v ústavu (zařízení) pro péči o děti nebo o mládež.“.\n3. § 13 zní:"
+    },
+    {
+      "provision_ref": "„§ 13",
+      "section": "13",
+      "title": "„§ 13",
+      "content": "(1) Přídavky se přiznají, jsou-li jinak splněny stanovené podmínky, také na dítě, které pracovník převzal do své péče z ústavu nebo zařízení za účelem pozdějšího osvojení.*)\n(2) Nejde-li o případ uvedený v odstavci 1, přiznají se přídavky, jsou-li jinak splněny stanovené podmínky, také na dítě, které má pracovník nebo jeho manžel v trvalé péči nahrazující péči rodičů za předpokladu, že na toto dítě nelze přídavky přiznat z pojištění (zabezpečení) nikoho jiného.“.\n4. V § 14 se vypouští ustanovení písmene b)."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1988.\n*) § 69 zákona o rodině."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rekreací dítěte v zahraničí",
+      "definition": "jeho přechodný pobyt mimo území Československé socialistické republiky, který netrvá déle než tři po sobě jdoucí celé kalendářní měsíce; pobyt dítěte mimo území Československé socialistické republiky trvající nepřerušeně déle se nepovažuje za rekreaci počínaje čtvrtým celým kalendářním měsícem stráveným v zahraničí",
+      "source_provision": "„§ 2a"
+    }
+  ]
+}

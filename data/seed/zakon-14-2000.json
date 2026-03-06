@@ -1,0 +1,51 @@
+{
+  "id": "cz:14/2000",
+  "type": "statute",
+  "title": "14/2000 Sb., Nařízení vlády o zákazu letů mezi Českou republikou a Svazovou republikou Jugoslávií",
+  "title_en": "",
+  "short_name": "14/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-02-03",
+  "in_force_date": "2000-02-03",
+  "url": "https://www.e-sbirka.cz/sb/2000/14",
+  "description": "Nařízení vlády o zákazu letů mezi Českou republikou a Svazovou republikou Jugoslávií",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "V tomto nařízení se rozumí\na) jugoslávským leteckým dopravcem:\n1. fyzická či právnická osoba oprávněná k provozování letadla, která má sídlo anebo hlavní místo podnikání na území Svazové republiky Jugoslávie,\n2. jiná osoba přímo nebo nepřímo kontrolovaná osobou podle bodu 1;\nb) civilním letadlem každé letadlo, kterého má být použito pro obchodní nebo soukromé účely."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Zakazuje se odlet z území České republiky anebo přistání na území České republiky\na) jakéhokoli letadla registrovaného ve Svazové republice Jugoslávii, ledaže se oprávněně nalézá na území České republiky ke dni účinnosti tohoto nařízení,\nb) jakéhokoli letadla, jehož činnosti jsou kontrolovány jugoslávským leteckým dopravcem,\nc) jakéhokoli civilního letadla přilétajícího ze Svazové republiky Jugoslávie anebo tam odlétajícího, a to bez ohledu na možná mezipřistání, s výjimkou přistání vracejícího se letadla českého přepravce, pokud na území Svazové republiky Jugoslávie odletělo přede dnem účinnosti tohoto nařízení.\n(2) Pozastavuje se platnost\na) všech stávajících povolení k poskytování pravidelných leteckých služeb mezi jakýmkoli bodem na území České republiky a jakýmkoli bodem na území Svazové republiky Jugoslávie, a\nb) všech dosud vydaných povolení provozovat charterové lety mezi jakýmkoli bodem na území České republiky a jakýmkoli bodem na území Svazové republiky Jugoslávie,\na žádná nová nesmějí být udělena.\n(3) Nesmějí být udělena žádná nová či obnovena žádná stávající provozní oprávnění, která by umožnila jakémukoli letadlu registrovanému ve Svazové republice Jugoslávii, nebo jehož činnosti jsou kontrolovány jugoslávským leteckým dopravcem, odletět anebo přiletět na území České republiky.\n(4) Zakazuje se podílet se na jakékoli činnosti, jejímž cílem je obejít ustanovení odstavců 1 až 3."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Ustanovení § 2 se nevztahují na nouzová přistání a následné odlety."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Ministerstvo dopravy a spojů může se souhlasem Ministerstva zahraničních věcí v jednotlivých případech povolit výjimku z ustanovení § 2 odst. 1, má-li za prokázáno, že příslušný let má sloužit výhradně humanitárním účelům.\n(2) Ministerstvo dopravy a spojů může se souhlasem Ministerstva zahraničních věcí povolit let nebo skupinu letů mezi územím České republiky a územím Svazové republiky Jugoslávie, jestliže letadlo, jehož má být použito\na) není registrováno ve Svazové republice Jugoslávii a je provozováno „Montenegro Airlines“ nebo jiným přepravcem, který není jugoslávským leteckým přepravcem, nebo\nb) je registrováno ve Svazové republice Jugoslávii a je uvedeno v příloze k tomuto nařízení buď jako letadlo používané vládou Republiky Černá Hora nebo příslušnými orgány určenými zvláštním zpravodajem generálního tajemníka OSN pro Provincii Kosovo pro neobchodní účely, nebo jako letadlo používané „Montenegro Airlines“ pro obchodní účely."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení.\nPříloha\nSEZNAM LETADEL PODLE § 4 odst. 2 písm. b)\nRegistrační kódtypVlastník/uživatel\n\nYU-AOH 11176 F28/4000 Montenegro Airlines\nYU-AOI 11184 F28/4000 Montenegro Airlines\nYU-BPY S/N 173 LJ-35 vláda Republiky Černá Hora\nYU-HEK S/N 25908 Bell-412 Ministerstvo vnitřních věcí\nYU-HCC S/N 5712 Bell-212 Ministerstvo vnitřních věcí\nYU-HAW S/N 8314 Bell-206 Ministerstvo vnitřních věcí"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "civilním letadlem",
+      "definition": "každé letadlo, kterého má být použito pro obchodní nebo soukromé účely.",
+      "source_provision": "§ 1"
+    }
+  ]
+}

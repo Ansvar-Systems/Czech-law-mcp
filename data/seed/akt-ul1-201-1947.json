@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:201/1947",
+  "type": "statute",
+  "title": "201/1947 Ú. l. I, Vyhláška zemského národního výboru v Praze o zrušení Koordinačního výboru pro obnovu území bývalých vojenských cvičišť v Čechách.",
+  "title_en": "",
+  "short_name": "201/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-03-04",
+  "in_force_date": "1947-03-04",
+  "url": "https://www.e-sbirka.cz/ul1/1947/201",
+  "description": "Vyhláška zemského národního výboru v Praze o zrušení Koordinačního výboru pro obnovu území bývalých vojenských cvičišť v Čechách.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Koordinační výbor pro obnovu bývalých vojenských cvičišť v Čechách se zrušuje."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení, kterýmžto dnem pozbývá účinnosti dřívější vyhláška zemského národního výboru."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Likvidaci provede zemský národní výbor v Praze."
+    }
+  ],
+  "definitions": []
+}

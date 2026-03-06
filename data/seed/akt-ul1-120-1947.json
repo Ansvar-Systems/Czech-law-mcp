@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:120/1947",
+  "type": "statute",
+  "title": "120/1947 Ú. l. I, Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi republikou Československou a florinovou oblastí.",
+  "title_en": "",
+  "short_name": "120/1947 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1947-02-02",
+  "in_force_date": "1947-02-02",
+  "url": "https://www.e-sbirka.cz/ul1/1947/120",
+  "description": "Vyhláška ministra financí, kterou se uveřejňuje opatření Národní banky Československé o platebním styku mezi republikou Československou a florinovou oblastí.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "(1) Běžné platy z republiky Československé do florinové oblasti lze konati v holandských zlatých nebo československých korunách.\n(2) Běžné platy z florinové oblasti do republiky Československé lze konati v československých korunách nebo holandských zlatých.\n(3) Florinovou oblastí se rozumí Nizozemí, Nizozemská Indie, Surinam, Curaçao a přilehlé ostrovy.\n(4) Pro vzájemný přepočet obou měn platí kurs úředně stanovený."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Běžnými platy podle článku 1 jsou za předpokladů uvedených v článku 3:\na) platy za dodávky zboží z Československa do florinové oblasti a platy za dodávky zboží z florinové oblasti do Československa, včetně obchodů transitních,\nb) výlohy všeho druhu, týkající se výměny zboží podle písm. a) včetně výloh dopravních, naloďovacích a vyloďovacích, výlohy transitní po řekách a kanálech i po území jiném než nizozemském, výlohy pojišťovací, výlohy za uskladnění a vyclení, výlohy výrobní, zušlechťovací, upravovací atd.,\nc) výlohy a výtěžky vyplývající z obchodu transitního,\nd) výlohy obchodního zastoupení nebo reklamy, provise, dohodné,\ne) periodická vyrovnání správ poštovních, telegrafních a telefonních, jakož i veřejných podniků dopravních, včetně letecké dopravy mezi oběma zeměmi,\nf) platy za udržování diplomatických a konsulárních míst, včetně služného jejich členů a personálu,\ng) výlohy cestovní, výlohy pobytu, školného, léčebného,\nh) platy za patentní práva a poplatky, licence, tovární značky, autorská práva, jakož i odměny za jiné obdobné duševní výkony,\ni) výlohy s dopravou na lodích nizozemských nebo československých včetně nájmu lodí,\nj) mzdy, platy a honoráře, příspěvky a podpory sociálního pojištění, pense a renty z pracovních smluv a z použití nebo nájmu služeb,\nk) daně, pokuty, soudní výlohy, výlohy a příjmy veřejných správ,\nl) úhrady pojišťovací a zajišťovací (prémie a náhrady),\nm) poplatky, příspěvky, předplatné a jiné podobné výlohy,\nn) ostatní platy, jež by byly připuštěny po vzájemné dohodě obou cedulových ústavů."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Podle článku 1 lze konati běžné platy uvedené v článku 2:\na) vyplývající ze zásilek zboží uskutečněných po 20. prosinci 1945,\nb) vyplývající z vedlejších výloh s dodávkami uvedenými v čl. 2, písm. a),\nc) vyplývající z jiných obchodů, než které jsou uvedeny pod písm. a) a b) bez ohledu na dobu uzavření, pokud z nich vyplývají platební závazky splatné po 20. prosinci 1945,"
+    },
+    {
+      "provision_ref": "Čl. 4.",
+      "section": "4",
+      "title": "Čl. 4.",
+      "content": "(1) Pro platy podle tohoto opatření platí obecné devisové předpisy.\n(2) Pro úhrady do florinové oblasti a likvidaci úhrad z florinové oblasti platí podmínky Národní banky Československé pro nákup a prodej cizozemských platidel a pro provádění úhrad do ciziny a z ciziny."
+    },
+    {
+      "provision_ref": "Čl. 5.",
+      "section": "5",
+      "title": "Čl. 5.",
+      "content": "Tato úprava platebního styku platí od 20. října 1946 a toto opatření nahrazuje opatření Národní banky Československé ze dne 22. července 1946, uveřejněné vyhláškou ministra financí ze dne 31. července 1946 v Úředním listu republiky Československé I, částka 141 ze dne 7. srpna 1946."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Florinovou oblastí",
+      "definition": "Nizozemí, Nizozemská Indie, Surinam, Curaçao a přilehlé ostrovy",
+      "source_provision": "Čl. 1."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:191/1950",
+  "type": "statute",
+  "title": "191/1950 Ú. l. I, Redakční sdělení ministerstva vnitra o opravě chyb ve vyhlášce ministerstva vnitřního obchodu č. 157/1950 Ú. l. I, o spotřebitelských cenách pohonných látek.",
+  "title_en": "",
+  "short_name": "191/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-03-24",
+  "in_force_date": "1950-03-24",
+  "url": "https://www.e-sbirka.cz/ul1/1950/191",
+  "description": "Redakční sdělení ministerstva vnitra o opravě chyb ve vyhlášce ministerstva vnitřního obchodu č. 157/1950 Ú. l. I, o spotřebitelských cenách pohonných látek.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 odst. 1 má být místo „motorový benzin k pohonu osobních aut a motocyklů (nebarvený) “ správně uvedeno „pohonná benzinová směs nebarvená (čirá)“ a místo „motorový benzin ostatní (barvený)“ má být správně uvedeno „pohonná benzinová směs barvená“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 1 odst. 2 má být pod písmenem a) místo „Motorový benzin (barvený i nebarvený)“ správně uvedeno „Pohonná benzinová směs (barvená i nebarvená)“."
+    }
+  ],
+  "definitions": []
+}

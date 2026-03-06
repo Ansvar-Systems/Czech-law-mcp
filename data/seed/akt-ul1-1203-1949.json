@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:1203/1949",
+  "type": "statute",
+  "title": "1203/1949 Ú. l. I, Vyhláška ministerstva zemědělství o zběžném odhadu těžebních ukazatelů lesní výroby.",
+  "title_en": "",
+  "short_name": "1203/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-12-28",
+  "in_force_date": "1949-12-28",
+  "url": "https://www.e-sbirka.cz/ul1/1949/1203",
+  "description": "Vyhláška ministerstva zemědělství o zběžném odhadu těžebních ukazatelů lesní výroby.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Aby bylo možno porovnati těžební možnosti lesní výroby jednotlivých vzrůstových oblastí a krajů s těžebními návrhy lesních závodů v pětiletém plánu, bude proveden zběžný odhad těžebních ukazatelů lesní výroby podle nynějšího stavu lesa.\n(2) Odhadem těžebních ukazatelů lesní výroby rozumí se zjištění výměry lesní půdy lesních závodů, odhad zastoupení dřevin, odhad honit hlavních dřevin, průměrného zkamenění porostů ve věkových třídách, odhad porostní plochy, výpočet hmotové zásoby podle věkových tříd, výpočet průměrného mýtního přírůstku a odvození výše těžby mýtní a předmýtní."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Odhad těžebních ukazatelů lesní výroby jsou povinni dáti provésti na svůj náklad všichni držitelé nebo jiní uživatelé lesů o výměře nad 10 ha půdy odpovědným lesním hospodářem nebo s jeho souhlasem lesním odborníkem oprávněným vyhotovovali lesní hospodářské plány.\n(2) Odhad podle odstavce 1 provedou v českých krajích v lesích spravovaných odbornou lesní službou (vládní nařízení č. 178/1940 Sb., o odborné službě lesní) orgány odborné lesní služby, na Slovensku v lesích spravovaných podle zák. čl. XIX/1898, jakož i v ostatních lesích soukromých, odborné lesní orgány okresních národních výborů."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Odhad těžebních ukazatelů lesní výroby se provede podle stavu k 1. lednu 1950 na podkladě směrnic uvedených v § 4, č. 1, 18, 20 a 21 vyhlášky č. 3021/1948 Ú. l. I, o inventarisaci lesů.\n(2) Pro odhad těžebních ukazatelů lesní výroby budiž použito především výsledků již dokončené inventarisace lesů. Tam, kde je vyhotoven zatím jen nový popis porostů pro inventarisaci lesa, použije se ho jako základu pro odhad těžebních ukazatelů lesní výroby. V ostatních případech budou zjišťovány potřebné údaje na základě dosažitelných podkladů zběžným odhadem.\n(3) Výsledky zběžného odhadu těžebních ukazatelů se zapíší do tiskopisu „Zběžný odhad těžebních ukazatelů lesní výroby“, uvedeného v příloze, která tvoří nedílnou součást této vyhlášky.\n(4) Kontrola odhadu těžebních ukazatelů lesní výroby bude provedena úřady příslušnými ke schvalování lesních hospodářských plánů.\n(5) Provedení odhadu těžebních ukazatelů lesní výroby nemění nic na dalším provádění inventarisace lesů podle vyhlášky č. 3021/1948 Ú. l. I. Konečné výsledky „Inventarisace lesů 1950“ budou postupně nahrazovati a kontrolovati údaje těžebních možností lesní výroby zjištěné podle této vyhlášky.\n(6) Zběžný odhad těžebních ukazatelů lesní výroby musí býti lesními závody dokončen a předložen úřadům příslušným ke schvalování lesních hospodářských plánů nejpozději do 1. března 1950. U lesních závodů uvedených v § 2, odst. 2, kde nebyla dosud provedena inventarisace lesa, nejpozději do 1. července 1950.\n(7) Úřady příslušné ke schvalování lesních hospodářských plánů provedou kontrolu zběžného odhadu těžebních ukazatelů lesních závodů uvedených v § 2, odst. 1 a sestaví úhrny za své obvody nejpozději do 20. března 1950; u lesních závodů uvedených v § 2, odst. 2 nejpozději do 20. července 1950.\n(8) Krajské národní výbory předloží ministerstvu zemědělství úhrny zběžného odhadu těžebních ukazatelů lesních závodů uvedených v § 2, odst. 1 za své oblasti do 31. března 1950; u lesních závodů uvedených v § 2, odst. 2 do 31. července 1950."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Jednání a opomenutí příčící se ustanovením této vyhlášky se trestají podle § 2 zák. č. 80/1948 Sb."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 1203/1949 Ú. l. I."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Odhadem těžebních ukazatelů lesní výroby",
+      "definition": "se zjištění výměry lesní půdy lesních závodů, odhad zastoupení dřevin, odhad honit hlavních dřevin, průměrného zkamenění porostů ve věkových třídách, odhad porostní plochy, výpočet hmotové zásoby podle věkových tříd, výpočet průměrného mýtního přírůstku a odvození výše těžby mýtní a předmýtní",
+      "source_provision": "§ 1."
+    }
+  ]
+}

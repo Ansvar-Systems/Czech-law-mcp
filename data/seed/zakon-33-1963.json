@@ -1,0 +1,33 @@
+{
+  "id": "cz:33/1963",
+  "type": "statute",
+  "title": "33/1963 Sb., Vládní nařízení, kterým se vyčleňují některé organizace a zařízení z řízení národních výborů",
+  "title_en": "",
+  "short_name": "33/1963 Sb.",
+  "status": "in_force",
+  "issued_date": "1963-04-13",
+  "in_force_date": "1963-04-15",
+  "url": "https://www.e-sbirka.cz/sb/1963/33",
+  "description": "Vládní nařízení, kterým se vyčleňují některé organizace a zařízení z řízení národních výborů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Z řízení okresního národního výboru se vyčleňují okresní veterinární zařízení, okresní zemědělská strojní početní stanice a okresní středisko přípravy zemědělských investic a podřizují se výrobní zemědělské správě zřízené pro okres, v němž má tato organizace (zařízení) své sídlo.\n(2) Z řízení Západoslovenského krajského národního výboru se vyčleňuje krajská zemědělská strojní početní stanice a podřizuje se výrobní zemědělské správě zřízené pro okres Bratislava-venkov."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Z řízení krajských národních výborů se vyčleňují krajské podniky zemědělské techniky, krajské podniky zemědělských meliorací, krajské zemědělské projektové ústavy a krajská veterinární zařízení (včetně kafilérií) a podřizují se ministerstvu zemědělství, lesního a vodního hospodářství."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Toto nařízení nabývá účinnosti dnem 15. dubna 1963."
+    }
+  ],
+  "definitions": []
+}

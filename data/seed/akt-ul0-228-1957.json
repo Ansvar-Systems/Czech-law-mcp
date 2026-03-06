@@ -1,0 +1,85 @@
+{
+  "id": "cz:ul0:228/1957",
+  "type": "statute",
+  "title": "228/1957 Ú. l., Vyhláška ministerstva financí o úlevách na dani z příjmů obyvatelstva pro živnostníky.",
+  "title_en": "",
+  "short_name": "228/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-12-17",
+  "in_force_date": "1958-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1957/228",
+  "description": "Vyhláška ministerstva financí o úlevách na dani z příjmů obyvatelstva pro živnostníky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Tato vyhláška se vztahuje na trafikanty a ostatní živnostníky s výjimkou hostinských, povozníků, autodopravců, obchodníků, konstruktérů, projektantů a osob provozujících stavební živnosti."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Předpis daně z příjmů obyvatelstva za rok 1957 a další léta se sníží\na) o jednu třetinu invalidním a přestárlým živnostníkům, kteří v roce rozhodném pro zdanění nezaměstnávali cizí pracovní síly;\nb) o jednu čtvrtinu částečně invalidním živnostníkům, kteří v roce rozhodném pro zdanění nezaměstnávali cizí pracovní síly;\nc) o jednu čtvrtinu invalidním a přestárlým živnostníkům, kteří v roce rozhodném pro zdanění zaměstnávali nejvýše jednu cizí pracovní sílu;\nd) o jednu čtvrtinu živnostnicím-vdovám po padlých příslušnících zahraničního odboje a po obětech bojových událostí a politické nebo národní persekuce, které v roce rozhodném pro zdanění zaměstnávaly nejvýše jednu cizí pracovní sílu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Za invalidního se považuje živnostník, který pobírá invalidní důchod podle předpisů o sociálním zabezpečení (pojištění) nebo jehož zdravotní stav odpovídá podmínkám pro přiznání takového důchodu.\n(2) Za částečně invalidního se považuje živnostník, který pobírá částečný invalidní důchod podle předpisů o sociálním zabezpečení (pojištění) nebo jehož zdravotní stav odpovídá podmínkám pro přiznání takového důchodu.*)"
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Za přestárlého se považuje živnostník, který v roce rozhodném pro zdanění dokončil 65. rok svého věku."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Za cizí pracovní sílu se nepovažují manžel, manželka, druh, družka, nezletilé děti, nezletilí vnuci a nezletilí osvojenci. Jde-li o živnostníka-úplného slepce, který zaměstnává nejvýše jednu cizí pracovní sílu, nepřihlíží se k této cizí pracovní síle, i když není v uvedeném příbuzenském poměru."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Snížení daně podle § 2 se poskytne jen, nepřevyšuje-li základ daně částku 15.000 Kčs."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "Nárok na snížení daně je třeba uplatnit v přiznání k dani z příjmů obyvatelstva za příslušný rok. Zároveň je poplatník povinen prokázat skutečnosti odůvodňující nárok na snížení daně. Nárok na snížení daně z důvodu invalidity se prokazuje rozhodnutím o přiznání invalidního nebo částečného invalidního důchodu nebo posudkem předsedy posudkové komise sociálního zabezpečení zřízené při odboru sociálního zabezpečení rady okresního národního výboru. Živnostníci, kteří hodlají uplatnit nárok na snížení daně z důvodu invalidity již pro rok 1957, jsou povinni prokázat skutečnosti odůvodňující tento nárok nejpozději do 30. června 1958."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "Ustanovení odstavce 34 vyhlášky č. 18/1953 Ú. l., kterou se provádí zákon o živnostenské dani, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1958.\n*) Vyhláška státního úřadu důchodového zabezpečení č. 250/1956 Ú. l., o zásadách pro posuzování invalidity a částečné invalidity pro účely důchodového zabezpečení (pojištění), směrnice státního úřadu sociálního zabezpečení č. 73/1957 Ú. l., pro posuzování invalidity a částečné invalidity, a vyhláška státního úřadu sociálního zabezpečení č. 4/1957 Ú. l., o péči o osoby se změněnou pracovní schopností."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "invalidního",
+      "definition": "živnostník, který pobírá invalidní důchod podle předpisů o sociálním zabezpečení (pojištění) nebo jehož zdravotní stav odpovídá podmínkám pro přiznání takového důchodu",
+      "source_provision": "§ 3."
+    },
+    {
+      "term": "částečně invalidního",
+      "definition": "živnostník, který pobírá částečný invalidní důchod podle předpisů o sociálním zabezpečení (pojištění) nebo jehož zdravotní stav odpovídá podmínkám pro přiznání takového důchodu",
+      "source_provision": "§ 3."
+    },
+    {
+      "term": "přestárlého",
+      "definition": "živnostník, který v roce rozhodném pro zdanění dokončil 65",
+      "source_provision": "§ 4."
+    }
+  ]
+}

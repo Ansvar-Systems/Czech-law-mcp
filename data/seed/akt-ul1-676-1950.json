@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:676/1950",
+  "type": "statute",
+  "title": "676/1950 Ú. l. I, Vyhláška ministerstev vnitřního obchodu a průmyslu o úpravě dodávek a odběru sklenářského tmelu.",
+  "title_en": "",
+  "short_name": "676/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-12-09",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.e-sbirka.cz/ul1/1950/676",
+  "description": "Vyhláška ministerstev vnitřního obchodu a průmyslu o úpravě dodávek a odběru sklenářského tmelu.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Ze seznamu zboží, jenž tvoří přílohu č. 1 vyhlášky ministerstev vnitřního obchodu a průmyslu č. 1089/1949 Ú. l. I, o úpravě dodávek a odběru drogistického zboží a fotopotřeb, se vypouští položka\n06 31 výrobky příbuzné lakařským."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Seznam zboží, jenž tvoří přílohu č. 1 vyhlášky ministerstev vnitřního obchodu a průmyslu č. 188/1950 Ú. l. I, o úpravě dodávek a odběru skleněného a porcelánového zboží, se doplňuje položkou\n06 31 0 tmel sklenářský."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1951."
+    }
+  ],
+  "definitions": []
+}

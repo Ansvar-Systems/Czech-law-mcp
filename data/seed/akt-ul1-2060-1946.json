@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:2060/1946",
+  "type": "statute",
+  "title": "2060/1946 Ú. l. I, Vyhláška ministra průmyslu o změně firmy a sídla národního podniku Českomoravské pily.",
+  "title_en": "",
+  "short_name": "2060/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-12-01",
+  "in_force_date": "1946-12-01",
+  "url": "https://www.e-sbirka.cz/ul1/1946/2060",
+  "description": "Vyhláška ministra průmyslu o změně firmy a sídla národního podniku Českomoravské pily.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. dosavadní znění firmy „Českomoravské pily, národní podnik“ se nahrazuje zněním „Moravskoslezské pily, národní podnik“;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. sídlem tohoto národního podniku jest Šumperk."
+    }
+  ],
+  "definitions": []
+}

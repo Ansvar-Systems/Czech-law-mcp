@@ -1,0 +1,195 @@
+{
+  "id": "cz:o16/2001",
+  "type": "statute",
+  "title": "o16/2001 Sb., Opatření Českého statistického úřadu, kterým se mění Program statistických zjišťování na rok 2001",
+  "title_en": "",
+  "short_name": "o16/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-05-04",
+  "in_force_date": "2001-05-04",
+  "url": "https://www.e-sbirka.cz/sb/2001/o16",
+  "description": "Opatření Českého statistického úřadu, kterým se mění Program statistických zjišťování na rok 2001",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V části I. Statistická zjišťování prováděná Českým statistickým úřadem se doplňují další statistická zjišťování č. 121, 122, 123:"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "„121. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání informací o hodnotě drobného nehmotného majetku (v cenovém rozmezí 20 až 60 tis. Kč) a drobného hmotného majetku (v cenovém rozmezí 20 až 40 tis. Kč), který byl pořízen a převeden do spotřeby. Výsledky budou použity jako podklad pro odhad částky, kterou bude nutno v rámci národních účtů v souladu s předpisy EU odečítat z mezispotřeby a přičítat do tvorby hrubého fixního kapitálu.\nCharakteristika zjišťovaných ukazatelů:\nÚdaje o drobném nehmotném a hmotném majetku účetně nezařazeném do investičního majetku."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "2. Okruh zpravodajských jednotek\nEkonomické subjekty patřící do sektoru nefinančních podniků s počtem zaměstnanců 20 a více (příspěvkové organizace bez ohledu na počet zaměstnanců), do sektoru finančních institucí bez ohledu na počet zaměstnanců a dále ústřední vládní instituce, místní vládní instituce a neziskové instituce, bez ohledu na počet zaměstnanců a rozsah investic. Jedná se např. o organizační složky státu (dříve rozpočtové organizace), příspěvkové organizace, mimorozpočtové fondy, obecní a okresní úřady, sdružení obcí, veřejné a soukromé vysoké školy, politické strany a politická hnutí, odborové svazy, církevní a náboženské společnosti, církevní školy a církevní zdravotnická či charitativní zařízení, humanitární společnosti, sdružení spotřebitelů, stavovské organizace, občanská zájmová sdružení (svazy, spolky, společnosti, kluby, hnutí), některé obecně prospěšné společnosti, nadace, nadační fondy."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: výkaz, elektronický sběr dat\nPoužitá metoda: výběrové zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: jednorázové zjišťování\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\ndo 30. 7. 2001"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "5. Orgán provádějící statistické zjišťování\nČeský statistický úřad"
+    },
+    {
+      "provision_ref": "Bod 122",
+      "section": "122",
+      "title": "Bod 122",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000",
+      "content": "122. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání základních údajů provozoven (místních jednotek) pohostinských a ubytovacích služeb.\nCharakteristika zjišťovaných ukazatelů:\nAdresa provozovny, evidenční počet zaměstnanců, kategorie a kapacity zařízení."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "2. Okruh zpravodajských jednotek\nEkonomické subjekty, které mají jako hlavní nebo vedlejší činnost poskytování ubytovacích a pohostinských služeb (OKEČ 55) s výjimkou subjektů, které jsou předmětem statistického šetření RES MJ 2000."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: dotazník\nPoužitá metoda: vyčerpávající zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: jednorázové zjišťování\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\ndo 14. kalendářního dne po obdržení dotazníku"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "5. Orgán provádějící statistické zjišťování\nČeský statistický úřad"
+    },
+    {
+      "provision_ref": "Bod 123",
+      "section": "123",
+      "title": "Bod 123",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001",
+      "content": "123. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání dat charakterizujících rozsah inovačního potenciálu firem působících v ČR v souladu s metodologií Eurostatu podle Rozhodnutí Rady EU č. 94/78 z 24. 1. 1994. Šetření je v ČR organizováno poprvé a bude kompatibilní s obdobným šetřením CIS3, které se uskuteční za rok 2001 v členských zemích EU. Předmětem zjišťování jsou cíle, podněty, překážky, náklady a efekty související s vývojem nových nebo podstatně zlepšených výrobků, služeb či technologických procesů splňujících kriteria inovací a s jejich uvedením na trh.\nCharakteristika zjišťovaných ukazatelů:\nIdentifikace inovačního klimatu v ČR, údaje o technologických inovacích produktů a procesů, cíle a efekty inovací, náklady a zdroje financování inovačních projektů, faktory omezující inovační činnost, využití inovační spolupráce, informačních zdrojů a různých metod ochrany vynálezů. Požadovány jsou údaje za roky 1999, 2000 a 2001."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "2. Okruh zpravodajských jednotek\nEkonomické subjekty s 10 a více zaměstnanci působící ve vybraných oblastech výroby a služeb (finančních i nefinančních), které podle své převažující činnosti patří do OKEČ 10 - 14, 15 - 37, 40 - 41, 51, 60 - 64, 65 - 67, 72, 73, 74.2, 74.3 (vymezení je v souladu s šetřením EU)."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: dotazník\nPoužitá metoda: výběrové zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: nepravidelná (v souladu s periodicitou šetření v členských zemích EU)\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\ndo 31. 5. 2002"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "5. Orgán provádějící statistické zjišťování\nČeský statistický úřad“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "2. Část II. se doplňuje takto:\n„j) MINISTERSTVO VNITRA"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001",
+      "content": "1. NÁZEV STATISTICKÉHO ZJIŠŤOVÁNÍ:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001 - Roční výkaz o přestupcích projednaných orgány místní správy - ZNAČKA STATISTICKÉHO FORMULÁŘE: - J (MV MS) 1-01",
+      "content": "1. Účel statistického zjišťování a jeho obsah\nÚčel statistického zjišťování:\nZískání přehledu o počtech a druzích přestupků projednaných orgány místní správy ve správním řízení k rozborové činnosti a opatřením k omezování drobné delikvence. Údaje jsou určeny pro Ministerstvo vnitra a ostatní ústřední orgány státní správy.\nCharakteristika zjišťovaných ukazatelů:\nRozsah a způsob vyřízení přestupků, odvolací řízení, druhy projednaných přestupků podle jednotlivých ustanovení zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a ustanovení dalších zákonů obsahujících skutkové podstaty přestupků, počty uložených pokut a výše částky na pokutách uložené."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001 - Roční výkaz o přestupcích projednaných orgány místní správy - ZNAČKA STATISTICKÉHO FORMULÁŘE: - J (MV MS) 1-01",
+      "content": "2. Okruh zpravodajských jednotek\nObce, v jejichž působnosti je výkon státní správy na úseku projednávání přestupků, okresní úřady, krajské úřady."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001 - Roční výkaz o přestupcích projednaných orgány místní správy - ZNAČKA STATISTICKÉHO FORMULÁŘE: - J (MV MS) 1-01",
+      "content": "3. Způsob statistického zjišťování\nForma statistického zjišťování: výkaz\nPoužitá metoda: vyčerpávající zjišťování"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001 - Roční výkaz o přestupcích projednaných orgány místní správy - ZNAČKA STATISTICKÉHO FORMULÁŘE: - J (MV MS) 1-01",
+      "content": "4. Periodicita a lhůty k poskytnutí údajů\nPeriodicita statistického zjišťování: roční\nLhůta k poskytnutí údajů zpravodajskou jednotkou:\nobce do 10. 1. 2002\nokresní úřady do 21. 1. 2002\nkrajské úřady do 31. 1. 2002"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Jednorázové šetření o drobném nehmotném a hmotném majetku nezařazeném do investičního majetku - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Iv 2000 - Dotazník o síti pohostinských a ubytovacích provozoven - ZNAČKA STATISTICKÉHO FORMULÁŘE: - Sit 2001 - Dotazník o inovacích - ZNAČKA STATISTICKÉHO FORMULÁŘE: - TI 2001 - Roční výkaz o přestupcích projednaných orgány místní správy - ZNAČKA STATISTICKÉHO FORMULÁŘE: - J (MV MS) 1-01",
+      "content": "5. Orgán provádějící statistické zjišťování\nMinisterstvo vnitra“."
+    }
+  ],
+  "definitions": []
+}

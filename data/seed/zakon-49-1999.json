@@ -1,0 +1,39 @@
+{
+  "id": "cz:49/1999",
+  "type": "statute",
+  "title": "49/1999 Sb., Nařízení vlády, kterým se stanoví prozatímní ochranné opatření na dovoz cukru",
+  "title_en": "",
+  "short_name": "49/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-03-12",
+  "in_force_date": "1999-03-12",
+  "url": "https://www.e-sbirka.cz/sb/1999/49",
+  "description": "Nařízení vlády, kterým se stanoví prozatímní ochranné opatření na dovoz cukru",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "U zboží uvedeného v čísle 1701 celního sazebníku1) - třtinový nebo řepný cukr a chemicky čistá sacharóza, v pevném stavu, se sazba dovozního cla stanovená celním sazebníkem1) nebo mezinárodní smlouvou2) zvyšuje o 80."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Ustanovení § 1 se nevztahuje na zboží pocházející ze Slovenské republiky.\n(2) Zbožím podle odstavce 1 se rozumí zboží, které splňuje podmínky stanovené mezinárodní smlouvou.3)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vyhlášení.\n(2) Toto nařízení pozbývá platnosti dnem 27. září 1999.\n1) Nařízení vlády č. 303/1998 Sb., kterým se vydává celní sazebník a kterým se stanoví sazby dovozního cla pro zboží pocházející z rozvojových a nejméně rozvinutých zemí a podmínky pro jejich uplatnění (celní sazebník).\n2) Sdělení Ministerstva zahraničních věcí č. 54/1995 Sb., o sjednání Středoevropské dohody o oblasti volného obchodu mezi Českou republikou, Maďarskou republikou, Polskou republikou a Slovenskou republikou, v platném znění.\n3) Sdělení Ministerstva zahraničních věcí č. 28/1997 Sb., o sjednání Dohody mezi vládou České republiky a vládou Slovenské republiky, kterou se mění ustanovení článku 1 Dohody mezi vládou České republiky a vládou Slovenské republiky o pravidlech o původu zboží a metodách administrativní spolupráce ze dne 22. února 1993, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím podle odstavce 1",
+      "definition": "zboží, které splňuje podmínky stanovené mezinárodní smlouvou",
+      "source_provision": "§ 2"
+    }
+  ]
+}

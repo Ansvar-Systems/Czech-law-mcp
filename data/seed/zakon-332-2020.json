@@ -1,0 +1,265 @@
+{
+  "id": "cz:332/2020",
+  "type": "statute",
+  "title": "332/2020 Sb., Zákon o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "332/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-08-06",
+  "in_force_date": "2020-08-21",
+  "url": "https://www.e-sbirka.cz/sb/2020/332",
+  "description": "Zákon o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Tento zákon upravuje v návaznosti na přímo použitelné předpisy Evropské unie1) sčítání lidu, domů a bytů v roce 2021 (dále jen „sčítání“), a to\na) působnost správních orgánů v oblasti sčítání,\nb) práva a povinnosti osob v souvislosti se sčítáním,\nc) přípravu sčítání, způsob získávání údajů a jejich zpracování a\nd) zpřístupnění výsledků sčítání."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účel sčítání",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Účelem sčítání je vytvořit a zpřístupnit statistické informace za celé území České republiky o fyzických osobách, domácnostech, bytovém a domovním fondu k rozhodnému okamžiku sčítání. Za tímto účelem pro potřeby evropské statistiky podle přímo použitelného předpisu Evropské unie upravujícího sčítání lidu, domů a bytů2) nebo pro potřeby národní statistiky Český statistický úřad (dále jen „Úřad“) vytváří statistické informace týkající se těchto tematických okruhů:\na) za fyzické osoby\n1. demografické charakteristiky reprezentované věkem, pohlavím, rodinným stavem a počtem živě narozených dětí,\n2. charakteristiky geografického rozmístění reprezentované druhem a místem evidovaného pobytu a místem obvyklého pobytu3),\n3. charakteristiky krátkodobé a dlouhodobé migrační mobility reprezentované státním občanstvím, předchozími druhy a místy evidovaného pobytu, předchozími místy obvyklého pobytu a datem přistěhování do České republiky,\n4. kulturní charakteristiky reprezentované národností, mateřským jazykem a náboženskou vírou,\n5. úroveň vzdělání,\n6. ekonomické charakteristiky reprezentované ekonomickou aktivitou, zaměstnáním, postavením v zaměstnání a odvětvím ekonomické činnosti,\n7. charakteristiky dojížďky do zaměstnání a škol reprezentované místem pracoviště nebo školy, frekvencí a způsobem dojížďky,\nb) za domácnosti\n1. velikost a\n2. typ a složení,\nc) za byty a domy\n1. obydlenost,\n2. geografické rozmístění,\n3. druh a stáří,\n4. vlastnická struktura a právní důvod užívání,\n5. technickoekonomické atributy a\n6. kvalitativní charakteristiky bydlení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Vymezení pojmů",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Pro účely tohoto zákona se rozumí\na) domem budova, která obsahuje prostory určené k bydlení nebo ubytování,\nb) bytem soubor místností, popřípadě jedna obytná místnost, které svým stavebně technickým uspořádáním a vybavením splňují požadavky na trvalé bydlení a jsou k tomuto účelu užívání určeny,\nc) domácností skupina fyzických osob, nebo i jediná fyzická osoba, které bydlí v jednom bytě nebo jiném obydlí, než je byt, s výjimkou fyzických osob podle písmene d),\nd) osobou žijící mimo domácnost fyzická osoba, která žije jako jednotlivec v zařízení nebo je osobou bez přístřeší,\ne) zařízením budova nebo její část, která obsahuje převážně prostory k hromadnému ubytování nebo je určena k poskytování lůžkové zdravotní nebo sociální péče."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Rozhodný okamžik",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Rozhodným okamžikem, k němuž se zjišťují údaje pro účely sčítání, je podle přímo použitelného předpisu Evropské unie, kterým se zavádí referenční rok a program statistických údajů a metadat pro sčítání lidu, domů a bytů4), půlnoc z pátku 26. března 2021 na sobotu 27. března 2021."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Rozsah sčítání",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítání podléhá s výjimkou osob podle odstavce 2\na) každá fyzická osoba, která má v rozhodný okamžik na území České republiky trvalý pobyt5) nebo přechodný pobyt6) nad 90 dnů,\nb) každá fyzická osoba, které byl na území České republiky udělen azyl, doplňková ochrana7) nebo dočasná ochrana8),\nc) každá fyzická osoba, která je na území České republiky v rozhodný okamžik přítomna,\nd) každý dům, i neobydlený, a\ne) každý byt, i neobydlený.\n(2) Sčítání nepodléhají\na) cizinci požívající diplomatické výsady a imunity, jakož i byty ve vlastnictví jiných států, které se nacházejí na území České republiky a slouží k diplomatickým účelům a\nb) cizinci, kteří jsou v rozhodný okamžik na území České republiky přítomni za účelem krátkodobého pobytu do 90 dnů."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Využití cenzového informačního systému",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Úřad zpracuje údaje ze sčítání v cenzovém informačním systému vedeném podle § 12a zákona č. 89/1995 Sb., o státní statistické službě.\n(2) V cenzovém informačním systému pro účely budoucích sčítání lidu, domů a bytů Úřad uchová v pseudonymizované podobě\na) agendový identifikátor fyzické osoby,\nb) místo obvyklého pobytu v rozhodný okamžik,\nc) místo obvyklého pobytu v době narození a\nd) nejvyšší ukončené vzdělání."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Údaje přebírané z informačních systémů veřejné správy",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Za účelem vytvoření statistických informací týkajících se tematických okruhů uvedených v § 2 a po vyhodnocení potřebnosti údajů Úřad přebere z informačních systémů veřejné správy, zejména\na) ze základního registru obyvatel, údaje v rozsahu stanoveném v § 9a odst. 1 písm. a) zákona č. 89/1995 Sb., o státní statistické službě,\nb) z informačního systému evidence obyvatel, údaje v rozsahu stanoveném v § 9a odst. 1 písm. b) zákona č. 89/1995 Sb., o státní statistické službě, a\nc) z informačního systému cizinců, údaje v rozsahu stanoveném v § 9a odst. 1 písm. c) zákona č. 89/1995 Sb., o státní statistické službě.\n(2) Správce informačního systému veřejné správy je povinen předávat Úřadu údaje z informačního systému veřejné správy a poskytnout mu nezbytnou součinnost pro jejich vstupní zpracování a interpretaci.\n(3) Úřad je oprávněn využít veřejné údaje z katastru nemovitostí za účelem vytvoření seznamu bytů a seznam bytů zpřístupnit fyzické osobě při zakládání elektronického sčítacího formuláře za účelem určení bytu v rámci domu a sčítacímu komisaři pro zajištění terénního došetření.\n(4) Úřad je oprávněn přebírat údaje podle odstavce 1 do 31. července 2021."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Údaje zjišťované prostřednictvím sčítacích formulářů",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Prostřednictvím sčítacích formulářů Úřad zjišťuje pouze ty údaje, které nejsou uvedeny v informačních systémech veřejné správy za všechny osoby a byty podléhající sčítání, a údaje sloužící k jejich identifikaci, a to údaje\na) o fyzických osobách\n1. místo sečtení,\n2. jméno, popřípadě jména, a příjmení,\n3. druh a číslo elektronicky čitelného dokladu, datum narození a pohlaví, nebo rodné číslo,\n4. místo obvyklého pobytu v rozhodný okamžik,\n5. místo obvyklého pobytu 1 rok před sčítáním,\n6. místo obvyklého pobytu v době narození,\n7. národnost,\n8. mateřský jazyk,\n9. náboženská víra,\n10. nejvyšší ukončené vzdělání,\n11. počet živě narozených dětí,\n12. ekonomická aktivita,\n13. zaměstnání,\n14. odvětví ekonomické činnosti,\n15. místo pracoviště nebo školy,\n16. frekvence dojížďky do zaměstnání nebo školy a\n17. dopravní prostředek využívaný k cestě do zaměstnání nebo školy,\nb) o bytech, bydlení a domácnostech\n1. číslo nebo jiné určení bytu,\n2. způsob bydlení,\n3. obydlenost bytu,\n4. právní důvod užívání bytu,\n5. velikost bytu, a to podlahová plocha a počet místností,\n6. poloha bytu v domě,\n7. připojení na plyn,\n8. připojení na vodovod,\n9. způsob vytápění,\n10. energie používaná k vytápění a\n11. složení domácnosti, a to seznam osob v bytě a vztahy mezi nimi."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Ochrana statistické důvěrnosti",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Podle přímo použitelných předpisů Evropské unie o evropské statistice9) a o ochraně osobních údajů10) Úřad zajistí výmaz nebo zničení osobních údajů, s výjimkou údajů uvedených v § 6 odst. 2, jakmile pomine účel, pro který byly zpracovány, nejpozději však do 2 let od rozhodného okamžiku.\n(2) Anonymizované údaje ze sčítacích formulářů předá Úřad v elektronické podobě k trvalému uložení do Národního archivu."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Povinnost mlčenlivosti",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítací komisař, fyzická osoba zajišťující sběr nebo zpracování údajů ze sčítání nebo fyzická osoba, která se s údaji ze sčítání seznámí, je povinna zachovávat mlčenlivost o všech údajích ze sčítání a podmínkách jejich zpracovávání, stejně tak jako o jiných skutečnostech, se kterými se seznámila v souvislosti se sčítáním.\n(2) Fyzická osoba zajišťující sběr nebo zpracování údajů ze sčítání skládá slib v tomto znění: „Slibuji na svou čest a svědomí, že nezveřejním, nikomu nesdělím ani neumožním seznámit se s údaji ani s jinými skutečnostmi, se kterými se seznámím v souvislosti se sčítáním lidu, domů a bytů v roce 2021.“ Slib mlčenlivosti se skládá do rukou předsedy Úřadu nebo osoby jím pověřené.\n(3) Slib je složen, jestliže po jeho přečtení prohlásí ten, kdo slib skládá: „Tak slibuji.“ a podepíše se na záznamu o složení slibu. V písemném záznamu o složení slibu musí být uvedeno datum a místo složení slibu, jméno, popřípadě jména, a příjmení a datum narození toho, kdo slib skládá, a jméno, popřípadě jména, a příjmení a funkce toho, kdo slib přijímá.\n(4) Fyzickou osobu vázanou povinností zachovávat mlčenlivost může této povinnosti zprostit ten, jehož se chráněná skutečnost týká."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Povinnosti fyzických a právnických osob",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Plně svéprávná fyzická osoba podléhající sčítání je povinna poskytnout údaje podle § 8 písm. a) bodů 1 až 6, 8, 10 až 17 a jako člen domácnosti také údaje podle § 8 písm. b).\n(2) Za fyzickou osobu podléhající sčítání, která není plně svéprávná, poskytne údaje podle odstavce 1 její zákonný zástupce, opatrovník nebo jiná osoba oprávněná za ni jednat podle občanského zákoníku.\n(3) Fyzická osoba uvedená v odstavcích 1 a 2 (dále jen „povinná osoba“) splní povinnost poskytnout údaje podle odstavců 1 a 2 přesným a úplným zápisem těchto údajů do sčítacího formuláře a jeho odevzdáním způsobem a v termínech uvedených v § 17 nebo 18.\n(4) Fyzická osoba, které je zpřístupněn sčítací formulář v elektronické podobě, je povinna umožnit sdílení přístupu k tomuto sčítacímu formuláři ostatním členům domácnosti, aby mohli splnit svou povinnost podle odstavce 1 nebo 2.\n(5) Fyzická osoba, která převezme při terénním došetření sčítací formulář v listinné podobě, je povinna jej předat ostatním členům domácnosti, aby mohli splnit svou povinnost podle odstavce 1 nebo 2, pokud tak již neučinili jiným způsobem.\n(6) Vlastník domu je povinen umožnit sčítacímu komisaři přístup k jednotlivým bytům v domě za účelem řádného plnění jeho povinností podle § 21 písm. d). Dále je povinen sčítacímu komisaři sdělit údaje o čísle, nebo jiném určení bytu a jeho poloze za každý neobydlený byt v obydleném domě.\n(7) Vlastník zařízení, které netvoří samostatný sčítací obvod, je povinen provést distribuci prázdných a sběr vyplněných sčítacích formulářů od jednotlivých bydlících nebo ubytovaných osob, a předat je sčítacímu komisaři.\n(8) Vlastník zařízení, které tvoří samostatný sčítací obvod, je povinen umožnit sčítacímu komisaři provedení sčítání v tomto zařízení."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Úřad",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Úřad organizuje, řídí, koordinuje a zabezpečuje přípravu sčítání, jeho provedení, zpracování a zveřejnění jeho výsledků.\n(2) Úřad může pověřit\na) držitele poštovní licence, který má povinnost zajišťovat a poskytovat všechny základní služby podle zákona upravujícího poštovní služby (dále jen „držitel poštovní licence“), zajištěním některých úkolů v oblasti terénního došetření a činností s tím souvisejících a\nb) právnickou osobu založenou státem za účelem poskytování jednotných a standardizovaných služeb informační a komunikační technologie veřejné správě (dále jen „poskytovatel sdílených služeb“) zajištěním některých úkolů v oblasti online sčítání a činností s tím souvisejících.\n(3) Pro splnění úkolů podle odstavce 1 Úřad\na) zajišťuje podmínky a prostředí pro realizaci online sčítání,\nb) vymezuje sčítací obvody podle § 19,\nc) zajišťuje přípravu sčítacích formulářů,\nd) zajišťuje nábor a školení sčítacích komisařů pro samostatné sčítací obvody a metodické školení sčítacích komisařů pro standardní a rezortní sčítací obvody,\ne) zajišťuje provedení sčítání v samostatných sčítacích obvodech a\nf) zajišťuje informovanost veřejnosti za účelem řádného průběhu sčítání."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Ministerstva",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Ministerstvo vnitra\na) zajišťuje sčítání u hromadně ubytovaných příslušníků a občanských zaměstnanců Policie České republiky, včetně příslušníků a občanských zaměstnanců Policie České republiky působících v zahraničí a\nb) zajišťuje sčítání u hromadně ubytovaných příslušníků Bezpečnostní informační služby.\n(2) Ministerstvo spravedlnosti zajišťuje sčítání v zařízeních Vězeňské služby České republiky a u hromadně ubytovaných příslušníků a občanských zaměstnanců Vězeňské služby České republiky.\n(3) Ministerstvo obrany zajišťuje sčítání u hromadně ubytovaných příslušníků Armády České republiky, včetně jednotek působících v zahraničí.\n(4) Ministerstvo zahraničních věcí zajišťuje sčítání osob, které mají trvalý pobyt v České republice a v rozhodném okamžiku pracují na zastupitelských úřadech České republiky, včetně jejich rodinných příslušníků žijících s nimi v zahraničí ve společné domácnosti."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Obecní úřady",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Obecní úřad ve spolupráci s Úřadem zajišťuje\na) zápis chybějících a ověření či opravu nekonzistentních referenčních údajů v Registru územní identifikace, adres a nemovitostí za stavební objekty a adresní místa,\nb) informovanost obyvatel o významu, termínu, způsobu provedení sčítání a jeho organizaci tím, že zveřejňuje\n1. oznámení Úřadu o sčítání,\n2. seznam standardních sčítacích obvodů v obci, včetně jejich vymezení, jména a příjmení a čísla průkazu příslušných sčítacích komisařů,\n3. aktualizovaná jména a příjmení a čísla průkazu příslušných sčítacích komisařů a\n4. adresu a kontaktní údaje kontaktních míst Úřadu a držitele poštovní licence (dále jen „kontaktní místo“).\n(2) Obecní úřad s působností obecného stavebního úřadu poskytuje Úřadu součinnost při územní přípravě sčítání, zejména zapíše chybějící a ověří, popřípadě opraví, nekonzistentní technickoekonomické atributy stavebních objektů na základě dostupné dokumentace stavby.\n(3) Obecní úřad obce s rozšířenou působností poskytuje Úřadu součinnost při harmonizaci hranic a popisu základních sídelních jednotek.\n(4) Zveřejnění informací podle odstavce 1 písm. b) se uskutečňuje způsobem v místě obvyklým, a to\na) v případě informací podle bodů 1, 2 a 4 nejpozději 14 kalendářních dní před rozhodným okamžikem a\nb) v případě informací podle bodu 3 neprodleně po oznámení změny.\n(5) Úkoly a působnost stanovené obecnímu úřadu v odstavci 1 vykonávají v hlavním městě Praze úřady městských částí a v územně členěných statutárních městech úřady městských částí nebo městských obvodů územně členěných statutárních měst."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Povinnosti jiných subjektů",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Držitel poštovní licence a poskytovatel sdílených služeb, jakož i jejich zaměstnanci a osoby v obdobném poměru zajišťující sběr nebo zpracování údajů ze sčítání, jsou povinni zajistit ochranu vyplněných sčítacích formulářů a údajů v nich zaznamenaných a dále zpracovávaných před jejich odcizením, ztrátou, poškozením, zničením nebo jiným zneužitím."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Sčítací formuláře",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítacími formuláři jsou sčítací formulář pro domácnost a sčítací formulář pro osobu.\n(2) Sčítací formulář má listinnou a elektronickou podobu. Vzor sčítacího formuláře v listinné podobě stanoví Úřad vyhláškou."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Online sčítání",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Povinná osoba poskytne údaje podle § 11 odst. 1 jejich zápisem do sčítacího formuláře v elektronické podobě ve lhůtě od 27. března 2021 do 9. dubna 2021. Úřad je oprávněn ve výjimečných odůvodněných případech tuto lhůtu prodloužit oznámením zveřejněným na úřední desce Úřadu a v hromadném sdělovacím prostředku, nejpozději do konce lhůty pro terénní došetření podle § 18 odst. 4 nebo do konce lhůty prodloužené podle § 18 odst. 6.\n(2) Sčítací formulář v elektronické podobě je zpřístupněn na základě ověření existence identifikačních údajů fyzické osoby podléhající sčítání nebo osobě s totožností ověřenou podle zákona o elektronické identifikaci nebo jiného právního předpisu umožňujícího elektronickou identifikaci a ověření existence adresy místa obvyklého pobytu.\n(3) Formu přístupu ke sčítacímu formuláři v elektronické podobě a specifikaci způsobu prokazování oprávnění ke zpřístupnění sčítacího formuláře v elektronické podobě stanoví Úřad vyhláškou.\n(4) Povinná osoba, které nebude sčítací formulář v elektronické podobě zpřístupněn podle odstavce 2 nebo která nesplní povinnost podle odstavce 1, poskytne údaje během terénního došetření podle § 18."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Terénní došetření",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítací komisař předá členu domácnosti, osobě žijící mimo domácnost, popřípadě vlastníku zařízení, které netvoří samostatný sčítací obvod, sčítací formulář v listinné podobě v předem oznámeném termínu nejpozději do 26. dubna 2021, o němž jej informuje vhozením písemnosti do domovní nebo jiné adresátem užívané schránky, popřípadě jiným vhodným způsobem.\n(2) Nepodaří-li se předat sčítací formulář podle odstavce 1, povinná osoba si jej vyzvedne na kontaktním místě nebo jej získá jiným, Úřadem zveřejněným, způsobem.\n(3) Sčítací komisař nebo kontaktní místo poskytne povinné osobě na její žádost vysvětlení. Povinné osobě, která není schopna vyplnit sčítací formulář sama, poskytne sčítací komisař nebo kontaktní místo na její žádost pomoc s vyplněním.\n(4) Člen domácnosti, osoba žijící mimo domácnost nebo vlastník zařízení, které netvoří samostatný sčítací obvod, odevzdá vyplněný sčítací formulář sčítacímu komisaři v předem dohodnutém termínu nebo jej doručí na kontaktní místo, nejpozději do 11. května 2021. Sčítací komisař nebo kontaktní místo při přebírání sčítacího formuláře v listinné podobě ověří, zda jsou v něm vyplněny všechny požadované údaje. Sčítací komisař nebo kontaktní místo jsou povinni vydat na žádost osoby, která jim předala vyplněný sčítací formulář, písemné potvrzení o jeho odevzdání.\n(5) Sčítací komisař předá vyplněné sčítací formuláře Úřadu, ministerstvu uvedenému v § 13 nebo držiteli poštovní licence, a to podle toho, kdo jej jmenoval.\n(6) Úřad je oprávněn ve výjimečných odůvodněných případech lhůtu podle odstavců 1 a 4 prodloužit oznámením zveřejněným na úřední desce Úřadu a v hromadném sdělovacím prostředku, nejvýše o 30 kalendářních dnů."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Vymezení sčítacích obvodů",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítání se provede podle vymezených sčítacích obvodů.\n(2) Sčítacím obvodem je\na) standardní sčítací obvod,\nb) samostatný sčítací obvod a\nc) rezortní sčítací obvod.\n(3) Standardním sčítacím obvodem je územní jednotka pro přípravu a provedení sčítání.\n(4) Samostatným sčítacím obvodem je zařízení vyčleněné Úřadem ze standardního sčítacího obvodu.\n(5) Rezortním sčítacím obvodem je budova nebo více budov vyčleněných Úřadem ze standardního sčítacího obvodu na základě údajů sdělených ministerstvem uvedeným v § 13.\n(6) Seznam standardních sčítacích obvodů, včetně jejich vymezení a jména, popřípadě jmen, a příjmení sčítacích komisařů, zveřejní Úřad způsobem umožňujícím dálkový přístup nejpozději 20 kalendářních dnů před rozhodným okamžikem. Dozví-li se Úřad o změně údajů zapsaných v seznamu standardních sčítacích obvodů, bez zbytečného odkladu tento seznam aktualizuje."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Sčítací komisař",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Sčítací komisař je fyzická osoba, která zajišťuje sběr údajů a další činnosti stanovené Úřadem.\n(2) Sčítacím komisařem může být fyzická osoba, která\na) je státním občanem České republiky, občanem jiného členského státu Evropské unie nebo občanem státu, který je smluvním státem Dohody o Evropském hospodářském prostoru,\nb) je plně svéprávná,\nc) dosáhla věku nejméně 18 let,\nd) je bezúhonná a\ne) má dostatečnou znalost českého jazyka a menšinového jazyka, pokud je znalost menšinového jazyka pro provedení sčítání v jemu přiděleném sčítacím obvodu nezbytná.\n(3) Za bezúhonnou se nepovažuje osoba, která byla pravomocně odsouzena pro trestný čin, pokud se na ni nehledí, jako by nebyla odsouzena. Bezúhonnost se osvědčuje výpisem z Rejstříku trestů, který nesmí být starší než 3 měsíce. Fyzická osoba, která není státním občanem České republiky, osvědčuje splnění předpokladu bezúhonnosti též obdobným dokladem osvědčujícím bezúhonnost, který nesmí být starší než 3 měsíce, vydaným státem, jehož je žadatel státním občanem, jakož i státy, v nichž žadatel pobýval v posledních 3 letech nepřetržitě po dobu delší než 6 měsíců, a doloženým úředním překladem do českého jazyka; pokud takový doklad domovský stát nevydává, doloží se bezúhonnost písemným čestným prohlášením. Fyzická osoba, která je nebo byla státním občanem jiného členského státu Evropské unie nebo má nebo měla adresu bydliště v jiném členském státě Evropské unie, může místo výpisu z evidence obdobné Rejstříku trestů doložit bezúhonnost výpisem z Rejstříku trestů s přílohou obsahující informace o jejích pravomocných odsouzeních za trestné činy a o navazujících údajích o těchto odsouzeních zapsaných v evidenci tohoto státu.\n(4) Sčítacího komisaře jmenuje a odvolává\na) pro samostatný sčítací obvod předseda Úřadu nebo osoba, kterou k tomu pověřil,\nb) pro rezortní sčítací obvod příslušný ministr nebo osoba, kterou k tomu pověřil, a\nc) pro standardní sčítací obvod osoba oprávněná jednat za držitele poštovní licence.\n(5) Funkce sčítacího komisaře zaniká\na) splněním povinnosti podle § 21 písm. d),\nb) ukončením pracovněprávního vztahu, jehož obsahem je výkon funkce sčítacího komisaře,\nc) přestal-li splňovat některou z podmínek pro jmenování,\nd) prohlášením sčítacího komisaře o ukončení výkonu funkce oznámeným tomu, kdo jej jmenoval,\ne) odvoláním z funkce, nebo\nf) úmrtím nebo prohlášením za mrtvého.\n(6) Sčítacího komisaře lze z funkce odvolat, nevykonává-li řádně své povinnosti podle tohoto zákona, nebo se dopustil jednání neslučitelného s postavením sčítacího komisaře. Za neslučitelné s postavením sčítacího komisaře se považuje takové chování nebo jednání, kterým sčítací komisař ohrožuje důvěru v odbornost jeho postupu nebo v průběh sčítání."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Povinnosti sčítacího komisaře",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Sčítací komisař je povinen\na) složit slib mlčenlivosti,\nb) absolvovat školení související s provedením sčítání,\nc) prokázat se při výkonu své funkce průkazem sčítacího komisaře a, požádá-li o to povinná osoba, též občanským průkazem nebo cestovním dokladem,\nd) řádně a včas provést sčítání ve sčítacím obvodu, který je mu přidělen, zejména v rámci informační pochůzky ověřit evidovaný obsah sčítacího obvodu se skutečným stavem, provést distribuci informačních letáků k online sčítání a provést terénní došetření,\ne) přijmout veškerá opatření, aby vyplněné sčítací formuláře a údaje v nich zaznamenané nebyly odcizeny, ztraceny, poškozeny, zničeny nebo jinak zneužity,\nf) informovat neprodleně osobu, která ho jmenovala do funkce sčítacího komisaře, o nemožnosti vykonávat dále tuto funkci a\ng) neprodleně po zániku funkce sčítacího komisaře odevzdat průkaz sčítacího komisaře, sčítací formuláře a jiné dokumenty a vybavení, které pro výkon funkce sčítacího komisaře převzal, Úřadu, ministerstvu podle § 13 nebo držiteli poštovní licence, a to podle toho, kdo jej jmenoval."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Průkaz sčítacího komisaře",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Průkaz sčítacího komisaře vydá sčítacímu komisaři Úřad, ministerstvo podle § 13 nebo držitel poštovní licence, a to podle toho, kdo jej jmenoval.\n(2) Vzor průkazu sčítacího komisaře stanoví Úřad vyhláškou."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Zpřístupnění výsledků sčítání",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Úřad zpřístupní výsledky sčítání v souladu s § 18 zákona č. 89/1995 Sb., o státní statistické službě. Výsledky sčítání jsou dostupné na internetových stránkách Úřadu ve formě otevřených dat. Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není omezen a které jsou evidovány v národním katalogu otevřených dat."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Přestupky",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) Fyzická osoba se dopustí přestupku tím, že\na) se neoprávněně vydává za sčítacího komisaře nebo jinou osobu zajišťující sběr nebo zpracování údajů ze sčítání,\nb) využije údaje ze sčítání v rozporu s tímto zákonem v úmyslu získat tím pro sebe nebo jiného prospěch,\nc) jako osoba zajišťující sběr nebo zpracování údajů ze sčítání nebo osoba, která se s údaji ze sčítání seznámí, poruší povinnost zachovávat mlčenlivost podle § 10, nebo\nd) jako osoba zajišťující sběr nebo zpracování údajů ze sčítání nezajistí ochranu vyplněných sčítacích formulářů a údajů v nich zaznamenaných před jejich odcizením, ztrátou, poškozením, zničením nebo jiným zneužitím.\n(2) Povinná osoba se dopustí přestupku tím, že\na) neposkytne údaje podle § 11 odst. 1,\nb) neposkytne údaje podle § 11 odst. 2, nebo\nc) poskytne údaje v rozporu s § 11 odst. 3.\n(3) Vlastník domu se dopustí přestupku tím, že v rozporu s § 11 odst. 6 neumožní sčítacímu komisaři přístup k jednotlivým bytům v domě anebo mu odmítne sdělit údaje o bytu nebo jeho poloze.\n(4) Vlastník zařízení, které netvoří samostatný sčítací obvod, se dopustí přestupku tím, že v rozporu s § 11 odst. 7 neprovede distribuci prázdných sčítacích formulářů nebo sběr vyplněných sčítacích formulářů anebo sebrané sčítací formuláře nepředá sčítacímu komisaři.\n(5) Vlastník zařízení, které tvoří samostatný sčítací obvod, se dopustí přestupku tím, že v rozporu s § 11 odst. 8 neumožní sčítacímu komisaři provedení sčítání v tomto zařízení.\n(6) Sčítací komisař se dopustí přestupku tím, že\na) v rozporu s § 21 písm. e) nezajistí ochranu vyplněných sčítacích formulářů a údajů v nich zaznamenaných před jejich odcizením, ztrátou, poškozením, zničením nebo jiným zneužitím,\nb) využije údaje ze sčítání v rozporu s tímto zákonem v úmyslu získat tím pro sebe nebo jiného prospěch, nebo\nc) poruší povinnost zachovávat mlčenlivost podle § 10.\n(7) Držitel poštovní licence nebo poskytovatel sdílených služeb se dopustí přestupku tím, že v rozporu s § 15 nezajistí ochranu vyplněných sčítacích formulářů a údajů v nich zaznamenaných a dále zpracovávaných před jejich odcizením, ztrátou, poškozením, zničením nebo jiným zneužitím.\n(8) Za přestupek podle odstavců 2 až 5 lze uložit pokutu do 10 000 Kč, za přestupek podle odstavce 1 nebo 6 pokutu do 100 000 Kč a za přestupek podle odstavce 7 pokutu do 500 000 Kč.\n(9) Za přestupek podle odstavce 1 písm. b) nebo odstavce 6 písm. b) lze uložit pokutu do 500 000 Kč."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Příslušnost k projednávání přestupků",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Přestupky podle tohoto zákona projednává obecní úřad obce s rozšířenou působností a v hlavním městě Praze úřady městských částí hlavního města Prahy."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Přenesená působnost",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Působnost stanovená obecnímu úřadu obce s rozšířenou působností, obecnímu úřadu s působností obecného stavebního úřadu, Magistrátu hlavního města Prahy, úřadu městské části v hlavním městě Praze, magistrátu územně členěného statutárního města, úřadu městské části nebo městského obvodu územně členěného statutárního města a obecnímu úřadu podle tohoto zákona je výkonem přenesené působnosti."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Výdaje na sčítání",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "(1) K financování výdajů souvisejících se sčítáním budou Úřadu a ústředním správním úřadům ze státního rozpočtu podle jiného právního předpisu11) převedeny finanční prostředky z kapitoly Všeobecná pokladní správa na základě žádosti o rozpočtové opatření.\n(2) K financování výdajů souvisejících se sčítáním budou obcím, hlavnímu městu Praze a městským částem hlavního města Prahy ze státního rozpočtu podle jiného právního předpisu11) poskytnuty účelové dotace. Ustanovení § 14j zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 367/2017 Sb., se nepoužije."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Zmocnění k vydání prováděcího právního předpisu",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Úřad stanoví vyhláškou\na) vzor sčítacího formuláře v listinné podobě podle § 16 odst. 2,\nb) formu přístupu ke sčítacímu formuláři v elektronické podobě a specifikaci způsobu prokazování oprávnění ke zpřístupnění sčítacího formuláře v elektronické podobě podle § 17 odst. 3 a\nc) vzor průkazu sčítacího komisaře podle § 22 odst. 2."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Povinnost správce základního registru obyvatel",
+      "chapter": "ČÁST PRVNÍ - SČÍTÁNÍ LIDU, DOMŮ A BYTŮ V ROCE 2021",
+      "content": "Správce základního registru obyvatel předá údaje podle § 7 odst. 1 písm. a) do cenzového informačního systému do jednoho měsíce ode dne nabytí účinnosti tohoto zákona pouze v elektronické podobě přímým zápisem a ve struktuře podle datového rozhraní, které odpovídá poskytujícímu informačnímu systému veřejné správy."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o státní statistické službě",
+      "content": "Zákon č. 89/1995 Sb., o státní statistické službě, ve znění zákona č. 356/1999 Sb., zákona č. 220/2000 Sb., zákona č. 256/2000 Sb., zákona č. 411/2000 Sb., zákona č. 202/2002 Sb., zákona č. 320/2002 Sb., zákona č. 81/2004 Sb., zákona č. 562/2004 Sb., zákona č. 342/2005 Sb., zákona č. 230/2006 Sb., zákona č. 245/2006 Sb., zákona č. 342/2006 Sb., zákona č. 239/2008 Sb., zákona č. 7/2009 Sb., zákona č. 154/2009 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 375/2011 Sb., zákona č. 466/2011 Sb., zákona č. 275/2012 Sb., zákona č. 250/2014 Sb., zákona č. 243/2016 Sb., zákona č. 183/2017 Sb. a zákona č. 277/2019 Sb., se mění takto:\n1. V § 9 odst. 2 písm. a) se slova „v daňovém řízení“ nahrazují slovy „při správě daní“, za slovo „přiznání“ se vkládají slova „nebo vyúčtování“ a na konci textu písmene se doplňují slova „a pro potřeby sčítání lidu, domů a bytů; poskytnutí informací podle tohoto ustanovení není porušením mlčenlivosti podle daňového řádu“.\n2. Za § 12 se vkládá nový § 12a, který včetně nadpisu a poznámek pod čarou č. 15 a 16 zní:"
+    },
+    {
+      "provision_ref": "„§ 12a",
+      "section": "12a",
+      "title": "„§ 12a Cenzový informační systém",
+      "chapter": "ČÁST DRUHÁ - Změna zákona o státní statistické službě",
+      "content": "(1) Pro účely tohoto zákona a splnění povinností stanovených přímo použitelnými předpisy Evropské unie v oblasti migrace a mezinárodní ochrany, evropské demografické statistiky, sčítání lidu, domů a bytů15) se zřizuje cenzový informační systém jako informační systém veřejné správy16).\n(2) Správu tohoto neveřejného informačního systému veřejné správy zajišťuje Český statistický úřad.\n(3) Při zřízení cenzového informačního systému Ministerstvo vnitra zajistí prostřednictvím služeb základních registrů převod agendového identifikátoru fyzické osoby na agendový identifikátor fyzické osoby Českého statistického úřadu.\n(4) Ministerstvo vnitra poskytuje Českému statistickému úřadu agendový identifikátor nově založených fyzických osob v základním registru obyvatel prostřednictvím k tomu určených služeb.\n15) Čl. 3 nařízení Evropského parlamentu a Rady (ES) č. 862/2007.\nČl. 1 nařízení Evropského parlamentu a Rady (EU) č. 1260/2013.\nČl. 1 nařízení Evropského parlamentu a Rady (ES) č. 763/2008.\n16) § 2 písm. f) zákona č. 111/2009 Sb., o základních registrech, ve znění zákona č. 192/2016 Sb.“."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "ČÁST TŘETÍ - ÚČINNOST",
+      "content": "Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení.\n1) Nařízení Evropského parlamentu a Rady (ES) č. 862/2007 ze dne 11. července 2007 o statistice Společenství v oblasti migrace a mezinárodní ochrany a o zrušení nařízení Rady (EHS) č. 311/76 o sestavování statistik o zahraničních pracovnících.\nNařízení Evropského parlamentu a Rady (ES) č. 763/2008 ze dne 9. července 2008 o sčítání lidu, domů a bytů.\nNařízení Evropského parlamentu a Rady (ES) č. 223/2009 ze dne 11. března 2009 o evropské statistice a zrušení nařízení (ES, Euratom) č. 1101/2008 o předávání údajů, na které se vztahuje statistická důvěrnost, Statistickému úřadu Evropských společenství, nařízení Rady (ES) č. 322/97 o statistice Společenství a rozhodnutí Rady 89/382/EHS, Euratom, kterým se zřizuje Výbor pro statistické programy Evropských společenství, v platném znění.\nNařízení Evropského parlamentu a Rady (EU) č. 1260/2013 ze dne 20. listopadu 2013 o evropské demografické statistice.\nNařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).\nNařízení Komise (EU) 2017/712 ze dne 20. dubna 2017, kterým se zavádí referenční rok a program statistických údajů a metadat pro sčítání lidu, domů a bytů stanovený nařízením Evropského parlamentu a Rady (ES) č. 763/2008.\n2) Čl. 3 nařízení Evropského parlamentu a Rady (ES) č. 763/2008.\n3) Čl. 2 písm. d) nařízení Evropského parlamentu a Rady (ES) č. 763/2008.\n4) Čl. 3 nařízení Komise (EU) 2017/712.\n5) § 10 odst. 1 zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů.\n§ 65, 87g a 87h zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů.\n6) Zákon č. 326/1999 Sb., ve znění pozdějších předpisů.\n7) Zákon č. 325/1999 Sb., o azylu, ve znění pozdějších předpisů.\n8) Zákon č. 221/2003 Sb., o dočasné ochraně cizinců, ve znění pozdějších předpisů.\n9) Čl. 20 odst. 1 a 2 nařízení Evropského parlamentu a Rady (ES) č. 223/2009, v platném znění.\n10) Čl. 5 a 89 nařízení Evropského parlamentu a Rady (EU) č. 2016/679.\n11) Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "domem budova",
+      "definition": "která obsahuje prostory určené k bydlení nebo ubytování",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "bytem soubor místností",
+      "definition": "popřípadě jedna obytná místnost, které svým stavebně technickým uspořádáním a vybavením splňují požadavky na trvalé bydlení a jsou k tomuto účelu užívání určeny",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "domácností skupina fyzických osob",
+      "definition": "nebo i jediná fyzická osoba, které bydlí v jednom bytě nebo jiném obydlí, než je byt, s výjimkou fyzických osob podle písmene d)",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "osobou žijící mimo domácnost",
+      "definition": "fyzická osoba, která žije jako jednotlivec v zařízení nebo je osobou bez přístřeší",
+      "source_provision": "§ 3"
+    },
+    {
+      "term": "zařízením budova nebo její část",
+      "definition": "která obsahuje převážně prostory k hromadnému ubytování nebo je určena k poskytování lůžkové zdravotní nebo sociální péče.",
+      "source_provision": "§ 3"
+    }
+  ]
+}

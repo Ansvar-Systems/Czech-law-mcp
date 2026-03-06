@@ -1,0 +1,75 @@
+{
+  "id": "cz:119/1981",
+  "type": "statute",
+  "title": "119/1981 Sb., Vyhláška ministerstva zemědělství a výživy České socialistické republiky o agrochemickém zkoušení půd",
+  "title_en": "",
+  "short_name": "119/1981 Sb.",
+  "status": "in_force",
+  "issued_date": "1981-12-22",
+  "in_force_date": "1982-02-01",
+  "url": "https://www.e-sbirka.cz/sb/1981/119",
+  "description": "Vyhláška ministerstva zemědělství a výživy České socialistické republiky o agrochemickém zkoušení půd",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Na obhospodařované zemědělské půdě1) náležející do zemědělského půdního fondu v užívání socialistických organizací hospodařících na půdě (dále jen „zemědělské organizace“) se provádí agrochemické zkoušení půd s výjimkou\na) obhospodařované zemědělské půdy v užívání bezpečnostních a jiných ozbrojených, vojensky organizovaných sborů,2)\nb) luk a pastvin zařazených do I. a II. stupně intenzity využívání.3)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Na orné půdě, vinicích, chmelnicích a v ovocných sadech se agrochemické zkoušení půd provádí v tříletých obdobích, na loukách a pastvinách v šestiletých obdobích."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Agrochemické zkoušení půd se provádí podle tříletých plánů pro území okresu.\n(2) Návrh okresního tříletého plánu sestavuje agrochemický podnik4) oprávněný k provádění laboratorní činnosti ve vymezené oblasti, popřípadě oborový podnik státních statků (dále jen „organizace provádějící laboratorní činnost“) po projednání se zemědělskými organizacemi.\n(3) Okresní tříletý plán agrochemického zkoušení půd schvalují místně příslušná okresní zemědělská správa a Ústřední kontrolní a zkušební ústav zemědělský v Praze (dále jen „ÚKZÚZ“); v okresech, v nichž hospodaří na půdě pouze oborové podniky státních statků, jej schvalují místně příslušná krajská zemědělská správa a ÚKZÚZ.\n(4) Krajský plán sestavuje ÚKZÚZ ze schválených okresních plánů a předkládá jej pro potřeby plánování krajské zemědělské správě.\n(5) Souhrnný plán sestavuje ÚKZÚZ z krajských plánů a předkládá jej pro potřeby plánování ministerstvu zemědělství a výživy České socialistické republiky.\n(6) Krajský plán a souhrnný plán nepodléhají schválení."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Odběr půdních vzorků zabezpečují organizace provádějící laboratorní činnost, které také odpovídají za jeho kvalitu. Zemědělské organizace jsou povinny poskytovat k odběru vzorků bezúplatně potřebný počet pracovníků a dopravních prostředků.\n(2) Úpravu půdních vzorků a jejich přepravu k laboratornímu zpracování zajišťují organizace provádějící laboratorní činnost.\n(3) ÚKZÚZ analyzuje půdní vzorky, metodicky řídí agrochemické zkoušení půd a vyhodnocuje jeho výsledky."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "K agrochemickému zkoušení půd se v kukuřičné a řepařské výrobní oblasti odebírá jeden půdní vzorek z plochy o výměře v průměru 9,5 hektaru, v bramborářské a horské výrobní oblasti z plochy o výměře v průměru 6,5 hektaru."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "(1) U všech odebraných půdních vzorků se sledují půdní reakce, potřeba vápnění a obsah přístupného fosforu a draslíku. Obsah přístupného hořčíku se sleduje v celém rozsahu u půdních vzorků odebraných z vinic, chmelnic a sadů a nejméně u jedné třetiny půdních vzorků odebraných z orné půdy, luk a pastvin.\n(2) Obsah manganu, molybdénu, zinku, mědi a bóru jakožto stopových prvků se sleduje\na) na vinicích, chmelnicích, intenzívně obhospodařovaných sadech, pravidelně zavlažovaných pozemcích všeho druhu a pozemcích, na nichž se pěstuje zelenina,\nb) na genetických půdních typech, na nichž byl již zjištěn velmi malý obsah stopových prvků,\nc) na pozemcích, na nichž se vyskytuje fyziologické onemocnění zemědělských plodin nebo kultur.\n(3) Obsah humusu a vývoj agrochemických vlastností pozemků v závislosti na intenzitě hnojení a výnosech plodin se sleduje každoročně na 8 až 10 pozemcích nejrozšířenějších půdních typů v okrese, vybraných k tomu účelu organizací provádějící laboratorní činnost; tyto pozemky slouží též k ověřování nových, popřípadě k zdokonalování současných metod agrochemického zkoušení půd."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "(1) Výsledky agrochemického zkoušení půd se podle podkladů ÚKZÚZ pravidelně statisticky vyhodnocují a musí obsahovat\na) úplnou tabelizaci všech analytických výsledků,\nb) průměrné hodnoty agrochemických vlastností půd pro jednotlivé pozemky a pro celou výměru orné půdy, luk, pastvin, chmelnic, vinic, intenzívně obhospodařovaných sadů a zelinářských ploch, jakož i pro celou výměru zemědělské půdy, na níž bylo provedeno agrochemické zkoušení půd,\nc) přehled agrochemických vlastností půd podle platného systému hodnocení výrobně ekologických podmínek uspořádaný podle organizací, okresů a krajů, včetně souhrnu za celou Českou socialistickou republiku,\nd) podíl půd s rozdílnou půdní reakcí a s rozdílnou zásobou přijatelných živin,\ne) pořadí pozemků podle průměrných hodnot jednotlivých agrochemických vlastností půd.\n(2) Rozbor stavu a vývoje agrochemických vlastností půd zpracovává organizace provádějící laboratorní činnost a odevzdává jej se statistickým vyhodnocením výsledků agrochemického zkoušení půd zemědělským organizacím.\n(3) ÚKZÚZ zpracovává\na) dílčí zprávu o výsledku agrochemického zkoušení půd po uplynutí druhého roku tříletého období, u luk a pastvin po uplynutí třetího roku šestiletého období,\nb) komplexní zprávu po ukončení tříletého období, u luk a pastvin po ukončení šestiletého období.\n(4) Dílčí i komplexní zprávu předloží ÚKZÚZ ministerstvu zemědělství a výživy České socialistické republiky, federálnímu ministerstvu zemědělství a výživy, krajským a okresním zemědělským správám a organizacím provádějícím laboratorní činnost."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Provádění a využívání výsledků agrochemického zkoušení půd v zemědělských organizacích řízených zemědělskými správami sledují krajské a okresní zemědělské správy, v jiných zemědělských organizacích jejich nadřízené orgány či organizace."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "Zrušuje se vyhláška ministerstva zemědělství, lesního a vodního hospodářství č. 47/1961 Sb., o komplexním průzkumu půd v Československé socialistické republice."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. února 1982.\n1) § 1 odst. 2 zákona č. 53/1966 Sb., o ochraně zemědělského půdního fondu, ve znění zákona č. 75/1976 Sb.; úplné znění vyhlášeno pod č. 124/1976 Sb.\n2) § 61 odst. 2 zákona č. 59/1965 Sb., o výkonu trestu odnětí svobody.\n3) Osnova pro zpracování lukařských programů vydaná ministerstvem zemědělství a výživy České socialistické republiky dne 5. 1. 1977 pod čj. 12/77-311.\n4) § 96 odst. 1 zákona č. 122/1975 Sb., o zemědělském družstevnictví."
+    }
+  ],
+  "definitions": []
+}

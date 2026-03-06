@@ -1,0 +1,34 @@
+{
+  "id": "cz:491/2004",
+  "type": "statute",
+  "title": "491/2004 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 469/2000 Sb., kterým se stanoví obsahové náplně jednotlivých živností",
+  "title_en": "",
+  "short_name": "491/2004 Sb.",
+  "status": "in_force",
+  "issued_date": "2004-09-21",
+  "in_force_date": "2004-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2004/491",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 469/2000 Sb., kterým se stanoví obsahové náplně jednotlivých živností",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V nařízení vlády č. 469/2000 Sb., kterým se stanoví obsahové náplně jednotlivých živností, přílohy č. 1 až 4 znějí:\n„Příloha č. 1 k nařízení vlády č. 469/2000 Sb.\nOBSAHOVÉ NÁPLNĚ ŘEMESLNÝCH ŽIVNOSTÍ"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "Část C",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. listopadu 2004."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Shromažďování, přeprava, skladování a zneškodňování nebezpečných odpadů (přičemž zneškodňováním nebezpečných odpadů",
+      "definition": "takové nakládání s nimi, které vede k trvalému zabránění škodlivým vlivům na složky životního prostředí; jde zejména o termickou a chemickou úpravu, fyzikální a biologickou stabilizaci, jakož i ukládání na skládku a do podzemních prostor), včetně péče o místo zneškodňování",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

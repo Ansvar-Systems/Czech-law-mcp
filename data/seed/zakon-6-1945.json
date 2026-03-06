@@ -1,0 +1,51 @@
+{
+  "id": "cz:6/1945",
+  "type": "statute",
+  "title": "6/1945 Sb., Nařízení o některých opatřeních v zásobování obyvatelstva potravinami",
+  "title_en": "",
+  "short_name": "6/1945 Sb.",
+  "status": "in_force",
+  "issued_date": "1945-05-23",
+  "in_force_date": "1945-05-23",
+  "url": "https://www.e-sbirka.cz/sb/1945/6",
+  "description": "Nařízení o některých opatřeních v zásobování obyvatelstva potravinami",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Jakékoliv výhody, které měli příslušníci německé národnosti (t. zv. říšskoněmečtí občané) v zásobování potravinami a při nákupu potravin, se s okamžitou účinností ruší.\n(2) Za příslušníka německé národnosti ve smyslu tohoto nařízení se považuje každý, kdo byl ve III. lístku pro domácnost zapsán jako Němec, t. j. označen písmenem „D“.\n(3) Až na další dostanou příslušníci německé národnosti (odstavec 2) dávky potravin, jaké měli židé; nemohou se státi též samozásobiteli potravinami, a pokud již jsou samozásobiteli, stávají se po ukončení dosavadní samozásobovací doby obyčejnými spotřebiteli.\n(4) Příslušníci německé národnosti jsou povinni vrátit lístky na potraviny, jim vydané pro 75. přídělové období, obci, která jim je pro zbytek přídělového období vymění za lístky na potraviny s přetiskem „JUDE“.\n(5) Příslušníci německé národnosti protinacistického smýšlení, kteří prokáží, že zůstali Československé republice věrni a že se aktivně zúčastnili boje za její osvobození, mohou žádati, aby se na ně ustanovení odstavců 3 a 4 nevztahovala. O jejich žádosti rozhoduje s konečnou platností okresní národní výbor po dobrozdání místního národního výboru."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Veškerá omezení v zásobování a v nákupu potravin, která byla vyhlášena proti židům, pozbývají platnosti.\n(2) Spotřebitelům, kterým byly vydány pro 75. přídělové období lístky na potraviny s přetiskem „JUDE“, buďtež ihned po vrácení starých lístků vydány příslušné nové lístky na potraviny, které dostávají spotřebitelé české národnosti."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Veškeré říšské lístky na potraviny pozbývají na území Československé republiky s okamžitou účinností platnosti.\n(2) Spotřebitelé, kteří se vracejí do Československé republiky, musí se k zásobování potravinami přihlásiti u obce stálého pobytu, která jim pro zbytek příslušného přídělového období vydá lístky na potraviny jim náležející. Při přihlášce k zásobování potravinami nutno v každém případě předložiti policejní přihlášku k stálému pobytu v obci."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky proti ustanovením tohoto nařízení budou stíhány a trestány podle dosavadních platných ustanovení."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr výživy."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "příslušníka německé národnosti ve smyslu tohoto nařízení",
+      "definition": "každý, kdo byl ve III",
+      "source_provision": "§ 1."
+    }
+  ]
+}

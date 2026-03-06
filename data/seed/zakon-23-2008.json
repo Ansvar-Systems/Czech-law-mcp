@@ -1,0 +1,256 @@
+{
+  "id": "cz:23/2008",
+  "type": "statute",
+  "title": "23/2008 Sb., Vyhláška o technických podmínkách požární ochrany staveb",
+  "title_en": "",
+  "short_name": "23/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-02-08",
+  "in_force_date": "2025-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/23",
+  "description": "Vyhláška o technických podmínkách požární ochrany staveb",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Tato vyhláška stanoví technické podmínky požární ochrany pro navrhování, provádění a užívání stavby.\n(2) Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Navrhování a umístění stavby",
+      "content": "(1) Stavba musí být umístěna a navržena tak, aby podle druhu splňovala technické podmínky požární ochrany na\na) odstupové vzdálenosti a požárně nebezpečný prostor,\nb) zdroje požární vody a jiného hasiva,\nc) vybavení stavby vyhrazeným požárně bezpečnostním zařízením,\nd) přístupové komunikace a nástupní plochy pro požární techniku,\ne) zabezpečení stavby či území jednotkami požární ochrany,\nstanovené v českých technických normách uvedených v příloze č. 1 části 1, pokud zvláštní právní předpis2) nestanoví jinak.\n(2) Při navrhování stavby musí být dále podle druhu stavby splněny technické podmínky požární ochrany na\na) stavební konstrukce a technologické zařízení,\nb) evakuace osob a zvířat,\nstanovené v českých technických normách uvedených v příloze č. 1 části 1, pokud zvláštní právní předpis2) nestanoví jinak."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Požární úseky a požární riziko",
+      "content": "Při navrhování stavby musí být vymezeny požární úseky a určena pravděpodobná intenzita případného požáru v těchto požárních úsecích nebo jejich částech (dále jen „požární riziko“) v souladu s § 15, 17, 23 a s českými technickými normami uvedenými v příloze č. 1 částech 2 a 3."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Stupeň požární bezpečnosti",
+      "content": "(1) Schopnost stavebních konstrukcí požárního úseku nebo jeho části jako celku odolávat účinkům požáru z hlediska rozšíření požáru a stability konstrukce stavby (dále jen „stupeň požární bezpečnosti“) se stanoví podle českých technických norem uvedených v příloze č. 1 části 2 podle druhu stavby v závislosti na\na) požárním riziku,\nb) konstrukčním systému stavby a\nc) výšce stavby nebo počtu podlaží při zohlednění polohy požárního úseku v nadzemním nebo podzemním podlaží.\n(2) V případě postupu podle české technické normy uvedené v příloze č. 1 části 3 se stupeň požární bezpečnosti nestanovuje."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Požární odolnost stavební konstrukce a požárního uzávěru",
+      "content": "(1) Požární odolnost stavební konstrukce a požárního uzávěru požárního úseku musí být s přihlédnutím k druhu konstrukce a stavby navržena postupem podle českých technických norem uvedených v příloze č. 1 částech 2 a 4.\n(2) Požárně dělicí a nosná stavební konstrukce u stavby se 3 a více nadzemními podlažími musí být navržena s požární odolností nejméně 30 minut, nestanoví-li české technické normy uvedené v odstavci 1 požární odolnost vyšší. V případě požárně dělicí a nosné stavební konstrukce posledního nadzemního podlaží a požárního úseku bez požárního rizika se požadavek na požární odolnost stanoví podle českých technických norem uvedených v příloze č. 1 části 2.\n(3) Požární uzávěr prostoru, ve kterém je umístěna havarijní jímka podle české technické normy uvedené v příloze č. 1 části 1 bodu 10, musí splňovat podmínku požární odolnosti jako požárně dělicí konstrukce, ve které je osazen, nejvýše však 90 minut."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Reakce na oheň",
+      "content": "Reakce stavební konstrukce včetně stavebního výrobku určeného k zabudování do stavby na oheň (dále jen „reakce na oheň“) musí být klasifikována do tříd A až F včetně přiřazených indexů podle české technické normy uvedené v příloze č. 1 části 5."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Střešní plášť",
+      "content": "Střešní plášť musí být klasifikován podle české technické normy uvedené v příloze č. 1 části 6 bodu 3. Střešní plášť, který se nachází v požárně nebezpečném prostoru, musí být navržen s klasifikací BROOF (t3). Střešní plášť, který se nenachází v požárně nebezpečném prostoru, musí být navržen s klasifikací BROOF (t1). Při navrhování střešního pláště se vychází z požadovaného sklonu podle české technické normy uvedené v příloze č. 1 části 6 bodu 3."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Konstrukce komínu a kouřovodu",
+      "content": "(1) Konstrukce komínu, kouřovodu nebo jejich část musí být navržena ze stavebních výrobků třídy reakce na oheň nejméně A2. Komín, kouřovod nebo jejich část mohou vykazovat třídu reakce na oheň B až E, jsou-li splněny požadavky české technické normy uvedené v příloze č. 1 části 7 bodu 4.\n(2) Vzdálenost stavební konstrukce z výrobků třídy reakce na oheň B až F od vnějšího povrchu pláště komína a kouřovodu musí být stanovena zkouškou podle české technické normy uvedené v příloze č. 1 části 7 bodu 1. U systémového komínu, individuálního komínu a kouřovodu je vzdálenost stavební konstrukce podle věty první dána hodnotami uvedenými v českých technických normách uvedených v příloze č. 1 části 7 bodech 2 a 3.\n(3) Komín musí být označen podle české technické normy uvedené v příloze č. 1 části 7 bodu 1."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Technická zařízení",
+      "content": "(1) Elektrické zařízení, jehož chod je při požáru nezbytný k ochraně osob, zvířat nebo majetku, musí být navrženo tak, aby byla při požáru zajištěna dodávka elektrické energie za podmínek stanovených českými technickými normami uvedenými v příloze č. 1 části 1 bodech 1, 2 a 12 a části 4 bodu 1. Druhy a vlastnosti volně vedených vodičů a kabelů elektrických rozvodů jsou uvedeny v příloze č. 2.\n(2) Zařízení tvořící systém ochrany stavby a jejího uživatele před bleskem nebo jinými atmosférickými elektrickými výboji musí být navrženo z výrobků třídy reakce na oheň nejméně A2.\n(3) Ve stavbě s výškou 45 m a větší musí být nízkotlaká plynová kotelna umístěna na střeše nebo v posledním nadzemním podlaží a s plynovými rozvody vně obvodové konstrukce. Odbočka plynového potrubí vedoucí k nízkotlaké kotelně musí mít co nejkratší možnou délku. Nízkotlaká kotelna umístěná na střeše nebo v posledním nadzemním podlaží musí být vybavena dálkově ovládaným uzávěrem plynu s možností jeho ovládání z úrovně terénu.\n(4) Tepelná soustava a tepelné zařízení musí být navrženy tak, aby jejich parametry odpovídaly druhu stavby a stanovenému prostředí, ve kterém bude zařízení provozováno. Tepelné zařízení musí být umístěno od výrobků třídy reakce na oheň B až F v bezpečné vzdálenosti stanovené na základě zkoušky provedené podle české technické normy uvedené v příloze č. 1 části 8.\n(5) Vzduchotechnická zařízení musí být navržena podle českých technických norem uvedených v příloze č. 1 částech 4 a 9. Na potrubí vzduchotechnického zařízení musí být viditelně vyznačen směr proudění a zda potrubí slouží k výfuku nebo sání.\n(6) Prostup rozvodu a instalace požárně dělicí konstrukcí musí být utěsněn podle českých technických norem uvedených v příloze č. 1 části 1 bodech 1 a 2 a části 4. V případě požadavků na požární odolnost prostupu podle české technické normy uvedené v příloze č. 1 části 4 musí být tento prostup zřetelně označen štítkem obsahujícím informace o\na) požární odolnosti,\nb) druhu nebo typu ucpávky,\nc) datu provedení,\nd) firmě, adrese a jméně zhotovitele,\ne) označení výrobce systému."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Evakuace osob",
+      "content": "(1) Únikové cesty určené pro evakuaci osob musí být navrženy tak, aby svým typem, počtem, polohou, kapacitou, dobou použitelnosti, technickým vybavením, konstrukčním a materiálovým provedením a ochranou proti kouři, teplu a zplodinám odpovídaly požadavkům této vyhlášky a českých technických norem uvedených v příloze č. 1 části 1. Nouzovým osvětlením musí být vybavena chráněná úniková cesta a částečně chráněná úniková cesta, pokud nahrazuje chráněnou únikovou cestu.\n(2) Otevíratelnost a průchodnost dveří, které se nacházejí na únikové cestě, musí odpovídat českým technickým normám uvedeným v příloze č. 1 části 2.\n(3) Nášlapná vrstva podlahy v chráněné únikové cestě musí být navržena z hmot třídy reakce na oheň nejméně Cfl-s1.\n(4) Úniková cesta musí být vybavena bezpečnostními značkami, tabulkami a texty s bezpečnostním sdělením (dále jen „bezpečnostní značení“) za účelem a v rozsahu nezbytném pro usnadnění evakuace osob. Toto bezpečnostní značení se umisťuje zejména tam, kde se mění směr úniku, kde dochází ke křížení komunikací a při jakékoli změně výškové úrovně úniku.\n(5) Evakuační výtah musí být označen bezpečnostním značením „Evakuační výtah“, a to v kabině výtahu a vně na dveřích výtahové šachty. Výtah, který neslouží k evakuaci, musí být obdobně označen bezpečnostním značením „Tento výtah neslouží k evakuaci osob“ nebo bezpečnostním značením podle české technické normy uvedené v příloze č. 1 části 1 bodu 13.\n(6) K zajištění plynulé evakuace osob musí být stavba vybavena technickým zařízením k řízení evakuace osob podle českých technických norem uvedených v příloze č. 1 části 1 bodech 1 a 2."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Požárně nebezpečný prostor a odstupová vzdálenost",
+      "content": "(1) U požárních úseků stavby musí být vymezen požárně nebezpečný prostor a stanovena odstupová vzdálenost podle českých technických norem uvedených v příloze č. 1 části 2.\n(2) Při stanovení odstupové vzdálenosti požárního úseku se musí vycházet z nejvyšší procentní hodnoty požárně otevřených ploch v obvodové stěně, případně ve střešním plášti. Nedosahuje-li tato hodnota 40 %, musí se stanovit odstupová vzdálenost jednotlivých požárně otevřených ploch nebo jejich skupin postupem podle českých technických norem uvedených v příloze č. 1 části 1 bodech 1 a 2.\n(3) Odstupová vzdálenost se musí porovnat s bezpečnostní vzdáleností3); pro vymezení požárně nebezpečného prostoru se použije větší z těchto vzdáleností.\n(4) Požárně nebezpečný prostor musí být rovněž vymezen u volného skladu hořlavých látek, technologického zařízení, klece na skladování tlakových láhví, výrobků a zařízení, které jsou považovány za stavbu podle zvláštního právního předpisu4)."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Zařízení pro hašení požárů a záchranné práce",
+      "content": "Pro účinný a bezpečný zásah jednotky požární ochrany, popřípadě pro prvotní zásah při požáru musí být stavba navržena a zajištěna\na) přístupovou komunikací, včetně nástupní plochy pro požární techniku,\nb) vnitřní a vnější zásahovou cestou, které komunikačně navazují na přístupovou komunikaci,\nc) požárně bezpečnostním zařízením,\nv souladu s českými technickými normami uvedenými v příloze č. 1 části 2 a s náležitostmi uvedenými v příloze č. 3."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Vybavení stavby hasicími přístroji",
+      "content": "(1) Počet přenosných hasicích přístrojů stanoví příloha č. 4.\n(2) Při umístění pojízdného hasicího přístroje na únikové cestě musí být zachována započitatelná šířka únikové cesty podle českých technických norem uvedených v příloze č. 1 části 2. Při výběru jeho stanoviště musí být přihlédnuto k zajištění dostatečného manipulačního prostoru."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Vybavení stavby požárně bezpečnostním zařízením",
+      "content": "(1) Stavba se vybaví požárně bezpečnostním zařízením5) v souladu s českými technickými normami uvedenými v příloze č. 1 části 2.\n(2) Stavba uvedená v § 15 až 18 a 28 musí být vybavena zařízením autonomní detekce a signalizace uvedeným v příloze č. 5."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Rodinný dům a stavba pro rodinnou rekreaci",
+      "content": "(1) Při navrhování rodinného domu a stavby pro rodinnou rekreaci7) se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 3, pokud není dále stanoveno jinak.\n(2) Není-li plocha požárního úseku rodinného domu nebo stavby pro rodinnou rekreaci větší než 600 m2, je jednotlivá garáž nebo přístřešek pro osobní, dodávková nebo jednostopá vozidla součástí tohoto požárního úseku.\n(3) Je-li plocha požárního úseku rodinného domu nebo stavby pro rodinnou rekreaci větší než 600 m2, musí být stanovena délka únikové cesty podle § 10.\n(4) U rodinného domu a stavby pro rodinnou rekreaci s konstrukčním systémem hořlavým musí nosná, popřípadě požárně dělicí stavební konstrukce odpovídat stupni požární bezpečnosti stanovenému podle § 4.\n(5) Rodinný dům musí být vybaven zařízením autonomní detekce a signalizace. U rodinného domu s více byty musí být tímto zařízením vybaven každý byt. Zařízení autonomní detekce a signalizace musí být umístěno v části vedoucí k východu z bytu, a jedná-li se o byt s podlahovou plochou větší než 150 m2, mezonetový nebo vícepodlažní byt, musí být v jiné vhodné části bytu umístěno další zařízení autonomní detekce a signalizace. U rodinného domu s více byty musí být umístěno další zařízení autonomní detekce a signalizace také v nejvyšším místě společné chodby nebo prostoru."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Bytový dům",
+      "content": "(1) Při navrhování bytového domu7) se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 3, pokud není dále stanoveno jinak.\n(2) V bytovém domě musí být každý byt vybaven zařízením autonomní detekce a signalizace. Toto zařízení musí být umístěno v části bytu vedoucí směrem do únikové cesty. Jedná-li se o byt s podlahovou plochou větší než 150 m2 a v mezonetových bytech, musí být umístěno další zařízení v jiné vhodné části bytu."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Stavba ubytovacího zařízení",
+      "content": "(1) Při navrhování stavby ubytovacího zařízení7) se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 3, pokud není dále stanoveno jinak.\n(2) Úniková cesta stavby ubytovacího zařízení musí být vybavena nouzovým osvětlením. Na této cestě nesmí být umístěny takové reflexní plochy nebo zrcadla, které by mohly unikající osoby zmýlit a zavádět je ze směru úniku.\n(3) Chráněná úniková cesta, jakož i dveře, schodiště, chodba vedoucí k nim a východy z nich musí být opatřeny bezpečnostním značením viditelným ve dne i v noci.\n(4) Schodiště ve stavbách pro ubytování s třemi a více nadzemními podlažími nebo s třemi a více podzemními podlažími musí být označeno u vstupu do každého podlaží. Označení se skládá z pořadového čísla nadzemního podlaží doplněného písmeny „NP“ nebo podzemního podlaží doplněného písmeny „PP“.\n(5) Stavba ubytovacího zařízení s projektovanou kapacitou nad 75 ubytovaných osob musí být vybavena domácím rozhlasem s nuceným poslechem.\n(6) Stavba ubytovacího zařízení, u které nevzniká požadavek na vybavení elektrickou požární signalizací, musí být vybavena zařízením autonomní detekce a signalizace. Zařízení autonomní detekce a signalizace musí být umístěno v každém pokoji pro hosty, společných prostorech, s výjimkou společných prostor bez požárního rizika, a v části vedoucí k východu z domu, pokud se nejedná o chráněnou únikovou cestu.\n(7) V budově ubytovacího zařízení sloužícího pro ubytování s projektovanou kapacitou 20 a více osob a s třemi a více nadzemními podlažími, musí být zřízen evakuační výtah.\n(8) Ve stavbě ubytovacího zařízení s projektovanou kapacitou nad 100 ubytovaných osob musí být v prostoru určeném pro ubytování osob prokázáno zkouškou provedenou podle české technické normy uvedené v příloze č. 1 části 10, že\na) zápalnost textilní záclony a závěsu je delší než 20 sekund a\nb) čalouněné materiály vyhovují z hlediska zápalnosti.\n(9) Ve stavbě ubytovacího zařízení s třemi a více nadzemními podlažími sloužící pro ubytování s projektovanou kapacitou 20 a více osob musí být na každém podlaží navrženy hadicové systémy pro prvotní zásah, a to v blízkosti přístupů ke schodištím nebo k východům na únikových cestách a v místech s nebezpečím vzniku požáru, ve vzdálenosti nejvýše 25 m od sebe."
+    },
+    {
+      "provision_ref": "§ 17a",
+      "section": "17a",
+      "title": "§ 17a Prostory určené pro ubytování osob",
+      "content": "(1) Prostor určený pro ubytování osob ve stavbách jiného než ubytovacího zařízení musí tvořit vždy samostatný požární úsek. V tomto požárním úseku může být umístěno nejvýše 20 lůžek.\n(2) Prostor určený pro ubytování osob ve stavbách jiného než ubytovacího zařízení musí být vybaven zařízením autonomní detekce a signalizace."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Stavba zdravotnického zařízení a sociální péče",
+      "content": "(1) Při navrhování stavby zdravotnického zařízení a zařízení sociální péče se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 4, pokud není dále stanoveno jinak.\n(2) Schodiště ve stavbě zdravotnického zařízení a zařízení sociální péče s třemi a více nadzemními podlažími nebo se dvěma a více podzemními podlažími musí být označeno u vstupu do každého podlaží. Označení se skládá z pořadového čísla nadzemního podlaží doplněného písmeny „NP“ nebo podzemního podlaží doplněného písmeny „PP“.\n(3) Požárně dělicí a nosná stavební konstrukce stavby zdravotnického zařízení a zařízení sociální péče musí být navržena s požární odolností 30 minut, nestanoví-li česká technická norma uvedená v odstavci 1 požární odolnost vyšší.\n(4) Stavba sociální péče, na kterou se nevztahuje požadavek podle české technické normy uvedené v příloze č. 1 části 1 bodu 4 na zajištění elektrickou požární signalizací, musí být vybavena zařízením autonomní detekce a signalizace. Zařízení autonomní detekce a signalizace musí být umístěno v každé ubytovací jednotce a v části vedoucí k východu z domu, pokud se nejedná o chráněnou únikovou cestu.\n(5) Ve stavbě zdravotnického zařízení a zařízení sociální péče s projektovanou kapacitou nad 50 osob musí být v lůžkových částech prokázáno zkouškou provedenou podle českých technických norem uvedených v příloze č. 1 části 10, že\na) zápalnost textilní záclony a závěsu je delší než 20 sekund a\nb) čalouněné materiály vyhovují z hlediska zápalnosti."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Stavba se shromažďovacím prostorem",
+      "content": "(1) Při navrhování stavby se shromažďovacím prostorem se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 5, pokud není dále stanoveno jinak.\n(2) Na povrchovou stavební úpravu stěny, stropu a podhledu vnitřního shromažďovacího prostoru musí být použity stavební výrobky třídy reakce na oheň nejméně B-s1-d0, které splňují požadavek na šíření plamene podle české technické normy uvedené v příloze č. 1 části 11 bodu 2. V konstrukci střechy, stropu a podhledu lze použít za podmínek uvedených v odstavci 1 pouze stavební výrobky, které při požáru neodkapávají ani neodpadávají, podle české technické normy uvedené v příloze č. 1 části 11 bodu 1.\n(3) Ve stavbě s vnitřním shromažďovacím prostorem musí být v prostorech určených pro shromažďování osob prokázáno zkouškou provedenou podle českých technických norem uvedených v příloze č. 1 části 10, že\na) zápalnost textilní záclony a závěsu je delší než 20 sekund a\nb) čalouněné materiály vyhovují z hlediska zápalnosti.\n(4) Konstrukce lavice nebo sedadla ve shromažďovacích prostorech pevně zabudované, popřípadě k zabudování do těchto prostorů nebo umístění v nich určené, musí být navrženy z výrobků třídy reakce na oheň nejméně D.\n(5) Ze stavby s vnitřním shromažďovacím prostorem musí být vždy navržena nejméně jedna úniková cesta, která svým provedením odpovídá možnosti evakuace osob podle zvláštního právního předpisu8). Minimální šířka této únikové cesty musí být 1,1 m.\n(6) Požární úseky stavby s vnitřním shromažďovacím prostorem a navazující únikové cesty musí být vybaveny nouzovým osvětlením.\n(7) Schodiště ve stavbě s vnitřním shromažďovacím prostorem musí být označeno u vstupu do každého podlaží. Označení se skládá z pořadového čísla nadzemního podlaží doplněného písmeny „NP“ nebo podzemního podlaží doplněného písmeny „PP“.\n(8) Nosná konstrukce střechy nad shromažďovacím prostorem a nosná konstrukce zajišťující stabilitu stavby musí být navržena s požární odolností odpovídající dvojnásobné hodnotě předpokládané doby evakuace osob, nejméně však 15 minut. Pokud shromažďovací prostor slouží pro více než 2500 osob, požární odolnost střechy a nosná konstrukce zajišťující stabilitu stavby musí odpovídat dvojnásobné hodnotě předpokládané doby evakuace osob, nejméně však 30 minut.\n(9) Ve stavbě s vnitřním shromažďovacím prostorem druhu VP2 a VP3 podle české technické normy uvedené v odstavci 1 musí být zřízen evakuační výtah, kromě případů, kde je z podlaží shromažďovacího prostoru umožněn únik na volné prostranství po rovině nebo rampě."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Stavba vyhlídkové věže",
+      "content": "(1) Při navrhování stavby vyhlídkové věže se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 1, pokud není dále stanoveno jinak.\n(2) Dřevěná vyhlídková věž bez obvodových stěn musí být navržena s výškou nejvíce 30 m a s nechráněnou únikovou cestou. Výškou vyhlídkové věže se rozumí kolmá vzdálenost vyhlídkové plošiny od úrovně terénu.\n(3) Dřevěná vyhlídková věž s obvodovými stěnami musí být navržena s výškou nejvíce 15 m.\n(4) Odstupová vzdálenost vyhlídkové věže podle odstavců 2 a 3 je 6,5 m od vnějšího pláště konstrukce.\n(5) V případě, že součástí stavby vyhlídkové věže je také prostor jiného účelu, musí být navržena nosná, případně požárně dělicí stavební konstrukce z druhu DP1. Při navrhování této stavby se postupuje podle § 2 až 14. Nechráněná úniková cesta nesmí být delší než 25 m; nelze-li tuto podmínku splnit, musí být navržena chráněná úniková cesta.\n(6) Je-li stavba vyhlídkové věže situována tak, že jsou ztížené podmínky pro hašení požáru a pro záchranné práce, zejména přesahuje-li pravděpodobná doba od ohlášení požáru do zahájení zásahu 15 minut, zvětší se odstupová vzdálenost o 50 %."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Stavba garáže",
+      "content": "(1) Při navrhování stavby garáže se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 2, pokud není dále stanoveno jinak.\n(2) Garáž, která slouží i pro parkování vozidel s pohonem na plynná paliva, musí být vybavena detektory úniku plynu a účinným větráním v souladu s českou technickou normou uvedenou v příloze č. 1 části 1 bodu 2 a části 17. Požadavek uvedený ve větě první platí i pro příjezdový a výjezdový prostor hromadné garáže sloužící i pro parkování vozidel s pohonem na plynná paliva, pokud je tento prostor delší než 30 m a je obestaven stavebními konstrukcemi alespoň ze tří stran. Posouzení garáže sloužící i pro parkování vozidel s pohonem na plynná paliva a jejího vybavení elektrickým zařízením z hlediska rizika vzniku výbušné atmosféry musí být provedeno v souladu s českými technickými normami uvedenými v příloze č. 1 části 16 bodech 2 až 4.\n(3) Jednotlivá místa určená v garáži pro stání motorových vozidel sloužících pro přepravu hořlavých kapalin a hořlavých plynů musí být oddělena požárně dělicí konstrukcí s požární odolností nejméně 30 minut. Tato místa musí být upravena tak, aby bylo zabráněno roztékání hořlavých kapalin z těchto stání.\n(4) Požární úsek garáže se zakladačovým systémem, který nesplňuje podmínky pro rychlý a účinný zásah jednotky požární ochrany, musí být vybaven stabilním hasicím zařízením alespoň s jednoduchým zásobováním vodou podle české technické normy uvedené v příloze č. 1 části 12.\n(5) Požární úsek hromadné podzemní garáže určené pro veřejnost musí být vybaven domácím rozhlasem s nuceným poslechem."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Stavba čerpací stanice pohonných hmot, servisu a opravny",
+      "content": "(1) Při navrhování stavby čerpací stanice pohonných hmot, servisu a opravny se postupuje podle českých technických norem uvedených v příloze č. 1 části 13, pokud není dále stanoveno jinak.\n(2) Stavební konstrukce čerpací stanice, plnicího a stáčecího stanoviště, letištní tankovací stanice a tankovací stanice pro vnitrozemská plavidla musí být navržena z konstrukcí druhu DP1. To neplatí pro konstrukci zastřešení čerpací stanice s nejvíce 6 výdejními místy včetně kiosku, nebo zastřešení mezi výdejními místy a provozní budovou, jestliže je pro skladování hořlavých kapalin použita podzemní skladovací nádrž; v tomto případě lze použít stavební konstrukci druhu DP2.\n(3) Servis nebo opravna sloužící i pro vozidla s pohonem na plynná paliva musí být vybaveny detektory úniku plynu a účinným větráním.\n(4) Pro prosvětlovací plochu ve střešní konstrukci čerpací stanice musí být použity stavební výrobky třídy reakce na oheň nejméně E-d0, které při požáru podle české technické normy uvedené v příloze č. 1 části 11 bodu 1 jako hořící neodkapávají nebo neodpadávají. Prosvětlovací plocha ve střešní konstrukci nesmí zaujímat více než 60 % z půdorysné plochy zastřešení."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Stavba nebo její část určená k činnosti školy, školského zařízení nebo k zajištění předškolní péče",
+      "content": "(1) Při navrhování stavby nebo její části určené k činnosti školy, školského zařízení nebo k zajištění pravidelné, dlouhodobé a opakující se péče o děti před zahájením jejich povinné školní docházky9) se postupuje podle české technické normy uvedené v části 1 bodu 1 přílohy č. 1 k této vyhlášce, pokud není dále stanoveno jinak.\n(2) Každá třída mateřské školy musí tvořit samostatný požární úsek.\n(3) Třída mateřské školy nesmí být umístěna ve vyšším než druhém nadzemním podlaží nebo v podzemním podlaží, pokud z nich nevede únikový východ přímo na volné prostranství.\n(4) Ve stavbě mateřské školy, základní školy, základní nebo střední školy určené pro žáky nebo děti se zdravotním postižením a ve stavbě, ve které jsou prostory určené pro poskytování služby péče o dítě v dětské skupině, nesmí být na únikové cestě použity kývavé nebo turniketové dveře.\n(5) Stavba školského zařízení určeného pro ubytování10) nebo prostor určený pro ubytování ve stavbě školského zařízení musí splňovat podmínky uvedené v § 17 a 17a."
+    },
+    {
+      "provision_ref": "§ 23a",
+      "section": "23a",
+      "title": "§ 23a Požadavky požární ochrany na užívání prostoru, v němž je poskytována služba péče o dítě v dětské skupině",
+      "content": "(1) Prostor, v němž je poskytována služba péče o dítě v dětské skupině, s výjimkou hygienického zařízení, a navazující nechráněná úniková cesta musí být vybaveny zařízením autonomní detekce a signalizace nebo stejně účinným zařízením.\n(2) Prostor, v němž je poskytována služba péče o dítě v dětské skupině, musí být vybaven alespoň 1 přenosným hasicím přístrojem s hasicí schopností nejméně 21A.\n(3) Prostor, v němž je poskytována služba péče o dítě v dětské skupině, musí tvořit samostatný požární úsek, nebo být od jiného prostoru objektu oddělen požárně dělicí konstrukcí s požární odolností alespoň 30 minut. V prostoru uvedeném ve větě první smí být poskytována pouze jedna služba péče o dítě v dětské skupině.\n(4) V prostoru požárního úseku bytu může být poskytována jedna nebo více služeb péče o dítě v dětské skupině, pokud jejich celková kapacita nepřesahuje 12 dětí.\n(5) Prostor, v němž je poskytována služba péče o dítě v dětské skupině, nesmí být ve vyšším než druhém nadzemním podlaží nebo v podzemním podlaží, pokud z nich nevede únikový východ přímo na volné prostranství.\n(6) Z prostoru, v němž je poskytována služba péče o dítě v dětské skupině, jejíž kapacita přesahuje 12 dětí, musí z požárního úseku vést alespoň 2 únikové cesty.\n(7) Nechráněná úniková cesta z prostoru, v němž je poskytována služba péče o dítě v dětské skupině, musí splňovat mezní délku, která činí\na) 25 m, jedná-li se o prostor, ze kterého vede jedna úniková cesta,\nb) 40 m, jedná-li se o prostor, ze kterého vede více únikových cest.\n(8) U prostoru, v němž je poskytována služba péče o dítě v dětské skupině, musí\na) být na povrchovou stavební úpravu stropu a podhledu použity stavební výrobky třídy reakce na oheň nejméně B-s1-d0,\nb) být na povrchovou stavební úpravu stěny použity stavební výrobky třídy reakce na oheň nejméně D-s1-d0 a\nc) podlahové krytiny splňovat třídu reakce na oheň nejméně CFL-s1.\n(9) Odstavce 3 až 8 se nepoužijí, pokud se ve stavbě poskytuje 1 nebo více služeb péče o dítě v dětské skupině s celkovou kapacitou nejvýše 6 dětí."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Zemědělská stavba",
+      "content": "(1) Při navrhování zemědělské stavby se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodu 9, pokud není dále stanoveno jinak.\n(2) V konstrukci podhledu, stropu nebo střešní konstrukci prostoru stáje musí být navrženy výrobky třídy reakce na oheň nejméně D-s2-d0, které při požáru podle české technické normy uvedené v příloze č. 1 části 11 bodu 1 jako hořící neodkapávají nebo neodpadávají.\n(3) Požárně dělicí a nosná konstrukce zajišťující stabilitu stavby stáje s více než 2 nadzemními podlažími nebo silového skladovacího hospodářství musí být navržena z konstrukcí druhu DP1.\n(4) Sklad navržený pro uskladňování více než 7 m3 kapalných přípravků na hubení škůdců a ochranu rostlin, hnojiv a obdobných látek, které jsou hořlavými kapalinami, musí splňovat podmínky stanovené pro sklad hořlavých kapalin podle české technické normy uvedené v příloze č. 1 části 1 bodu 10.\n(5) Sklady uvedené v odstavci 4 se opatřují u vstupu informačním štítkem s uvedením\na) druhu nebezpečí skladovaných látek,\nb) celkové kapacity skladu a\nc) způsobem uložení skladovaných látek."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Stavba pro výrobu a skladování",
+      "content": "(1) Při navrhování stavby pro výrobu nebo skladování se postupuje podle české technické normy uvedené v příloze č. 1 části 1 bodech 2 a 6, pokud není dále stanoveno jinak.\n(2) Požárně dělicí a nosná konstrukce zajišťující stabilitu stavby skladu pyrotechnických výrobků musí být navržena z konstrukcí druhu DP1.\n(3) Na stavbě skladu pyrotechnických výrobků musí být u vstupu a na jiných vhodných místech umístěno bezpečnostní značení „Zákaz kouření v okruhu 15 m“, „Zákaz vstupu s otevřeným plamenem“ a „Zákaz skladování hořlavých a hoření podporujících látek“. Dále musí být tyto sklady opatřeny bezpečnostním značením provedeným z kovu s informací o nebezpečných vlastnostech skladovaných látek, a způsobu uložení skladovaných látek.\n(4) Elektrické zařízení ve skladu pyrotechnických výrobků musí být navrženo pro prostředí s nebezpečím požáru nebo výbuchu podle českých technických norem uvedených v příloze č. 1 části 16."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Stavba památkově chráněná",
+      "content": "(1) Stavba památkově chráněná musí být vybavena\na) elektrickou požární signalizací nebo hlásičem požáru použitým v elektrické zabezpečovací signalizaci,\nb) stabilním hasicím zařízením v\n1. jedinečných prostorech staveb nebo prostorech s jedinečnými sbírkami historických předmětů,\n2. jedinečných dřevěných stavbách včetně jejich vnější ochrany.\n(2) Při změně stavby památkově chráněné se postupuje podle české technické normy uvedené v příloze č. 1 části 14."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Ochrana movitých kulturních památek",
+      "content": "(1) Část stavby, v níž jsou umístěny movité kulturní památky, musí být vybavena\na) elektrickou požární signalizací nebo hlásičem požáru použitým v elektrické zabezpečovací signalizaci,\nb) stabilním hasicím zařízením, jde-li o jedinečnou sbírku historických předmětů.\n(2) Požadavky podle odstavce 1 neplatí pro stavbu, v níž byly movité kulturní památky umístěny přede dnem účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Stavba zařízení staveniště",
+      "content": "(1) Při navrhování stavby zařízení staveniště se postupuje v souladu s českou technickou normou uvedenou v příloze č. 1 části 1 bodu 2.\n(2) Stavba ubytovacího zařízení staveniště musí být vybavena zařízením autonomní detekce a signalizace. Zařízení autonomní detekce a signalizace musí být umístěno v každém pokoji určeném pro ubytování osob a v části vedoucí k východu z ubytovacího zařízení staveniště."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Provádění stavby",
+      "content": "Při provádění stavby musí být v závislosti na stupni jejího provedení splněny požadavky této vyhlášky v rozsahu nezbytném pro zajištění její požární bezpečnosti."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Užívání stavby",
+      "content": "(1) Při užívání stavby musí být zachována úroveň požární ochrany vyplývající z technických podmínek požární ochrany staveb, podle kterých byla stavba navržena, provedena a bylo zahájeno její užívání.\n(2) Při úpravě interiéru stavby nepodléhající řízení podle zvláštního právního předpisu4) musí být postupováno v souladu s podmínkami uvedenými v příloze č. 6 a v českých technických normách uvedených v příloze č. 1 části 1 bodech 1, 2 a 5.\n(3) V prostoru chráněné únikové cesty nesmí množství hořlavých látek překročit rozsah uvedený v příloze č. 6. Při umístění materiálu nebo zařizovacího předmětu v nechráněné nebo částečně chráněné únikové cestě musí být zajištěna možnost úplného otevření křídel dveří. Současně nesmí být ohrožena volná průchodnost únikových cest. V podrobnostech se použije příloha č. 6 část A.\n(4) Při užívání prostoru s výskytem hořlavé kapaliny se postupuje podle podmínek uvedených v příloze č. 7 a podle podmínek stanovených v české technické normě uvedené v příloze č. 1 části 1 bodu 10.\n(5) V ubytovací části stavby zařízení staveniště nesmí být umístěno tepelné zařízení a tepelná soustava se zkapalněnými uhlovodíkovými plyny včetně zásobních nádob.\n(6) Technické zařízení ve stavbě, jehož náhlé odstavení nebo vypnutí by vyvolalo havárii, musí být zřetelně označeno štítkem obsahujícím informaci o určení zařízení a charakteristice nebezpečí.\n(7) V řadové, hromadné nebo vícepodlažní jednotlivé volně stojící a nebo přistavěné garáži nesmí být umístěno motorové vozidlo pro přepravu hořlavých kapalin a hořlavých plynů.\n(8) V garáži nesmí být ukládány tlakové nádoby s hořlavými a hoření podporujícími plyny. V podzemní hromadné garáži, která není určena k parkování vozidel s pohonem na plynná paliva, se nesmí používat manipulační vozík s pohonem na plynné palivo, který nemá nádrž na toto palivo pevně zabudovanou.\n(9) Není-li bezpečná vzdálenost tepelného zařízení vyrobeného před účinností této vyhlášky stanovena návodem výrobce, stanoví se tato vzdálenost podle přílohy č. 8."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Společná ustanovení",
+      "content": "Při změně dokončené stavby, změně v užívání stavby nebo při udržovacích pracích se postupuje podle české technické normy uvedené v příloze č. 1 části 14. U změny stavby skupin II a III podle této české technické normy musí být v části stavby dotčené změnou instalováno zařízení autonomní detekce a signalizace, pokud je při navrhování pro příslušnou část stavby vyžadováno."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Přechodná ustanovení",
+      "content": "(1) U stavby, jejíž užívání bylo započato přede dnem nabytí účinnosti této vyhlášky, musí být podmínky požární ochrany pro užívání staveb podle § 30 splněny do šesti měsíců ode dne nabytí účinnosti.\n(2) U stavby, která byla prohlášena za stavbu památkově chráněnou přede dnem i po nabytí účinnosti této vyhlášky, musí být požadavky podle § 26 odst. 1 naplněny při změně této stavby prováděné podle § 26 odst. 2 v části touto změnou dotčené.\n(3) Při provádění stavby, o jejímž umístění bylo pravomocně rozhodnuto v územním řízení nebo byl vydán územní souhlas podle zvláštního právního předpisu4) přede dnem nabytí účinnosti této vyhlášky, a dále u stavby, u které byla zpracována projektová dokumentace, k níž bylo vydáno souhlasné stanovisko podle zvláštního právního předpisu11), se po dni nabytí účinnosti této vyhlášky postupuje podle dosavadní právní úpravy."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2008.\nPříloha č. 1 vyhlášky č. 23/2008 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Volně vedenými vodiči a kabely",
+      "definition": "nechráněné elektrické rozvody (nikoli pohyblivé), které jsou vystaveny možným účinkům požáru a jejichž uložení a ochrana neodpovídá podmínkám stanoveným českými technickými normami uvedenými v příloze č",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "hořlavý předmět musí být připevněn tak",
+      "definition": "aby nedošlo k jeho uvolnění při úniku osob nebo při činnosti jednotek požární ochrany",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "jeden malý závěsný automat na nápoje",
+      "definition": "jiné zboží nebo službu pro tři podlaží",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "květinovou výzdobu z plastů",
+      "definition": "pokud průmět plochy této výzdoby na stěnu není větší než 0,5 m2 a hloubka této výzdoby nepřesahuje 0,1 m. Při umístění této výzdoby nesmí být omezena minimální šířka únikové cesty stanovená výpočtem.",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "Výskytem hořlavých kapalin",
+      "definition": "přítomnost hořlavých kapalin bez ohledu na jejich třídu nebezpečnosti, a to v množství a podmínkách, ve kterých jsou schopné při požáru uvolňovat teplo",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "Pod pojmem nízkovroucí hořlavé kapaliny",
+      "definition": "hořlavé kapaliny s bodem vzplanutí do 0 °C a současně s bodem varu do 35 °C za normálních podmínek",
+      "source_provision": "§ 33"
+    }
+  ]
+}

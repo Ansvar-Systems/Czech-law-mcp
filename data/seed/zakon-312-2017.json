@@ -1,0 +1,38 @@
+{
+  "id": "cz:312/2017",
+  "type": "statute",
+  "title": "312/2017 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "312/2017 Sb.",
+  "status": "in_force",
+  "issued_date": "2017-09-25",
+  "in_force_date": "2017-12-01",
+  "url": "https://www.e-sbirka.cz/sb/2017/312",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění nařízení vlády č. 61/2016 Sb. a nařízení vlády č. 407/2016 Sb., se mění takto:\n1. V § 3 odst. 8 se za slova „ovocné stromy“ vkládají slova „nebo ovocné keře“.\n2. V § 4 odstavec 1 zní:\n„(1) Druhem objektu v evidenci objektů je\na) trvalý objekt,\nb) vodní objekt,\nc) stanoviště včelstva a\nd) jiný objekt.“.\n3. V § 4 odstavec 4 zní:\n„(4) Stanovištěm včelstva se rozumí zařízení sloužící k chovu včel.“.\n4. V § 4 se doplňuje odstavec 5, který zní:\n„(5) Jiným objektem se rozumí objekt nesplňující podmínky podle odstavců 2 až 4 sloužící pro chov zvířat.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Toto nařízení nabývá účinnosti prvním dnem třetího kalendářního měsíce následujícího po jeho vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stanovištěm včelstva",
+      "definition": "zařízení sloužící k chovu včel",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Jiným objektem",
+      "definition": "objekt nesplňující podmínky podle odstavců 2 až 4 sloužící pro chov zvířat",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

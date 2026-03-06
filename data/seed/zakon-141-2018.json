@@ -1,0 +1,45 @@
+{
+  "id": "cz:141/2018",
+  "type": "statute",
+  "title": "141/2018 Sb., Vyhláška o hlášení závažných bezpečnostních a provozních incidentů osobami oprávněnými poskytovat platební služby",
+  "title_en": "",
+  "short_name": "141/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-07-12",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2018/141",
+  "description": "Vyhláška o hlášení závažných bezpečnostních a provozních incidentů osobami oprávněnými poskytovat platební služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví podrobnosti náležitostí oznámení závažného bezpečnostního nebo provozního incidentu v oblasti platebního styku (dále jen „oznámení“), jeho formáty a další technické náležitosti při hlášení závažných bezpečnostních a provozních incidentů v oblasti platebního styku osobami oprávněnými poskytovat platební služby."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Oznámení",
+      "content": "Osoba oprávněná poskytovat platební služby předkládá České národní bance oznámení zahrnující v části\na) A úvodní oznámení,\nb) B průběžné oznámení a\nc) C závěrečné oznámení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Podrobnosti náležitostí oznámení",
+      "content": "Osoba oprávněná poskytovat platební služby podává oznámení na formuláři, jehož vzor je uveden v příloze č. 1 k této vyhlášce, a postupně do něj doplňuje údaje do jednotlivých částí podle § 2."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Formát a další technické náležitosti oznámení",
+      "content": "(1) Oznámení se podává ve formátu xls/xlsx.\n(2) Oznámení jsou České národní bance předávána prostřednictvím internetového rozhraní České národní banky pro sběr informačních povinností a výkazů.\n(3) Oznámení lze učinit také v anglickém jazyce. Vzor formuláře v anglickém jazyce je uveden v příloze č. 2 k této vyhlášce"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2018.\nPříloha č. 1 k vyhlášce č. 141/2018 Sb.\nHlášení závažných bezpečnostních a provozních incidentů v oblasti platebního styku\n(česká verze)\nPříloha č. 2 k vyhlášce č. 141/2018 Sb.\nReporting template on major incidents\n(anglická verze)"
+    }
+  ],
+  "definitions": []
+}

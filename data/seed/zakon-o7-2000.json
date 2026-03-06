@@ -1,0 +1,127 @@
+{
+  "id": "cz:o7/2000",
+  "type": "statute",
+  "title": "o7/2000 Sb., Opatření Českého statistického úřadu k zavedení číselníku CZ-PRODCOM",
+  "title_en": "",
+  "short_name": "o7/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-02-21",
+  "in_force_date": "2000-02-21",
+  "url": "https://www.e-sbirka.cz/sb/2000/o7",
+  "description": "Opatření Českého statistického úřadu k zavedení číselníku CZ-PRODCOM",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "1. Členění CZ-PRODCOM\nCZ-PRODCOM je členěn do „oddílů“ (dvoumístný kód) odpovídajících oddílům OKEČ. Položky v jednotlivých oddílech jsou uspořádány vzestupně podle kódů CZ-PRODCOM. Každá položka CZ-PRODCOM je označena osmimístným číselným kódem podle následujícího vzoru:\nPrvních šest čísel (XX.XX.XX.) zpravidla odpovídá šesti číslům klasifikace SKP, zatímco poslední dvojčíslí (YY) je vytvořeno v zásadě seskupením položek HS/CN (celní sazebník) a představuje zatřídění dané položky v rámci příslušné položky SKP.\nZa kódem CZ-PRODCOM může následovat písmeno A nebo B. Všechny položky označené písmenem A (případně neoznačené) se zjišťují povinně a u položek B je zjišťování nepovinné."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "2. Uspořádání CZ-PRODCOM\nCZ-PRODCOM obsahuje tyto sloupce:\na) Kód - obsahuje kódy CZ-PRODCOM, které budou předmětem zjišťování,\nb) Název položky - obsahuje název průmyslové produkce, která je pod daným kódem CZ-PRODCOM uvedena,\nc) HS/CN - obsahuje přehled položek HS/CN, kterými je daná položka CZ-PRODCOM definována,\nd) MJ - obsahuje měrnou jednotku, která může vyjadřovat buď fyzické množství nebo hodnotu produkce. Pomlčka v této kolonce znamená, že u příslušné položky se uvádí pouze hodnota, nikoliv množství. Používání MJ je také stanoveno směrnicemi a metodickými vysvětlivkami k příslušným statistickým zjišťováním průmyslové produkce,\ne) P - obsahuje druhy produkce:\nV CZ-PRODCOM je produkce chápána třemi způsoby (označená S, T, C):\nD) Obsah CZ-PRODCOM\nCZ-PRODCOM obsahuje kromě průmyslových výrobků i smluvní zpracování (průmyslové práce) a průmyslové služby, které nejsou obsaženy v HS/CN a v CZ-PRODCOM se obvykle označují na 5. místě kódem „9“."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "1. Smluvní zpracování\nPod smluvním zpracováním (průmyslové práce) se rozumí zpracování nebo opracování výrobku, který odběratel (zákazník) dodal bezplatně a dodavatel na výrobě jen kooperuje a prodává jen svou práci, a to formou dodávky na zakázku. Tyto průmyslové práce směřují k výrobě nového výrobku (nebo jeho dílu).\nSmluvní zpracování vykazuje pouze dodavatel a vykazuje pouze hodnotu fakturovanou odběrateli, tj. bez jím dodaného materiálu. Smluvní zpracování může existovat pouze mezi samostatnými právními subjekty (podniky). Nesmí být vykazováno v rámci kooperace jednotlivých vnitřních jednotek v témže samostatném právním subjektu (podniku)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "2. Průmyslové služby\nZa průmyslové služby se v CZ-PRODCOM považují úpravy, údržba a opravy, montáže a instalace. Tyto služby na rozdíl od smluvního zpracování nesměřují k výrobě nového výrobku. Hodnotou průmyslových služeb je cena zúčtovaná odběrateli (zákazníkovi), kterým musí být jiný právní subjekt a nezapočítává se hodnota upravovaného, opravovaného, případně montovaného výrobku.\nNěkteré služby byly zatříděny do oddílů SKP 50, 52 a 72 (např. údržba a opravy motorových vozidel, opravy některých výrobků pro domácnost, údržba a opravy kancelářských a počítacích strojů), a proto z hlediska CZ-PRODCOM se nepovažují za průmyslové činnosti.\nPři zatřiďování smluvního zpracování a průmyslových služeb podle CZ-PRODCOM je nutno se řídit Vysvětlivkami k SKP (1. upravené vydání z roku 1999)."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "3. Oceňování\nProdukce průmyslových výrobků, průmyslových prací a služeb se oceňuje v základních běžných cenách. Z časového hlediska tedy platí zásada, že produkce se oceňuje v cenách toho období, ve kterém se uskutečnil výrobní proces.\nZákladní cena je cena, kterou fakturuje výrobce odběrateli (zákazníkovi), snížená o daně na výrobu a výrobky (tj. o daň z přidané hodnoty a daň na výrobky). Tato cena zahrnuje dotace a subvence na produkci daného průmyslového výrobku, práce či služby. Základní cena neobsahuje obchodní přirážky a srážky (rabaty), tedy obchodní marži a dopravní přirážky fakturované samostatně. V případě, že tyto obchodní rabaty a dopravní přirážky jsou výrobcem fakturovány společně s dodaným produktem, předpokládá se, že tyto obchodní rabaty a dopravní přirážky jsou součástí ceny vyrobené a dodané produkce. Pokud jde o pronájem (leasing) hotového výrobku, cenou tohoto výrobku se rozumí cena, za kterou je možné na trhu získat daný výrobek. Jde o cenu odhadovanou. To vše se týká ceny produkce vyrobené a prodané ve sledovaném období, označených ve sloupci „P“ kódem „S“. Pokud jde o produkci označenou „C“, je nutné ocenit, resp. odhadnout základní cenu výrobku, který nebyl ve sledovaném období prodán a zůstává na zásobách. Obdobně se postupuje při oceňování produkce označené písmenem „T“."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "4. Dodatečné poznámky\nSloupec „kód“ obsahuje také dodatečné informace o následujícím statistickém nakládání s příslušnou položkou:\nE) Rozsah statistického zjišťování\nStatistika podle CZ-PRODCOM se obyčejně týká všech právních subjektů (podniků) vyrábějících průmyslové výrobky nebo dodávajících průmyslové služby obsažené v CZ-PRODCOM.\nV pravidlech o reprezentativnosti se určuje, že všechny podniky z kategorií C, D a E OKEČ, zaměstnávající 20 nebo více zaměstnanců, musí být zahrnuty do zjišťování. Nicméně musí být v každé (čtyřmístné) skupině OKEČ zjišťováno alespoň 90 % produkce.\nRozsah a způsob zjišťování je také stanoven směrnicemi a metodickými vysvětlivkami k příslušným statistickým zjišťováním průmyslové produkce.\nF) Agregované položky\nPro účely zjednodušení statistického zjišťování lze v některých případech agregovat položky CZ-PRODCOM. Navržené agregace jsou uvedeny v samostatných souborech, kde jsou uvedeny názvy jednotlivých agregovaných položek a jejich vazba na HS/CN vč. měrné jednotky. Tyto soubory jsou nedílnou součástí CZ-PRODCOM. Druh agregace je označen příslušným písmenem (např. E, V, Q) na sedmém místě osmimístného kódu CZ-PRODCOM."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "1. Agregace E (soubor Agre)\nTyto položky se řídí normou ECSC (European Coal and Steel Communit - Evropské společenství uhlí a oceli)."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "2. Agregace N (soubor Agrn)\nPoložky, které se agregují podle hlavní činnosti, tj. čtyřmístné skupiny OKEČ, např.\nOKEČ Položky CZ-PRODCOM99\n24.70 17.10.30 (.31 + .39)\n17.13\n17.60 18.22 (.11 až .17)\n18.22"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "3. Agregace Q (soubor Agrq)\nPoložky, které se mají zjišťovat čtvrtletně a pro statistické účely je lze agregovat, např.\n17.40.12.53 + 17.40.12.55 + 17.40.12.59 = 17.40.12.Q0"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "4. Agregace V (soubor Agrv)\nTýká se zejména položek oddílu 27, které se pro zjednodušení statistického sledování můžou agregovat do položek V."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Metodická část číselníku CZ-PRODCOM",
+      "content": "5. Agregace Z (soubor Agrz)\nAgregáty Z dovolují srovnání dat CZ-PRODCOM s daty HS/CN v případech, kdy položky CZ-PRODCOM jsou podrobnější. Výsledek takové agregace má přímý vztah k HS/CN.\nPříklad agregace tohoto typu:\n17.10.44.02 + 17.10.44.03 + 17.10.44.09 = 17.10.44.Z1\nG) Přehled oddílů CZ-PRODCOM\nBRT Brutto registrovaná tuna\nct Karáty (1 metrický karát = 2.10-4 kg)\nkus Počet kusů\ng Gram\nkg Kilogram\nkg Al2O3Kilogram oxidu hlinitého\nkg B2O3Kilogram oxidu boritého\nkg BaCO3Kilogram uhličitanu barnatého\nkg Cl Kilogram chloru\nkg F Kilogram fluoru\nkg HCl Kilogram chlorovodíku\nkg HF Kilogram fluorovodíku\nkg H2O2Kilogram peroxidu vodíku\nkg KOH Kilogram hydroxidu draselného\nkg K2O Kilogram oxidu draselného\nkg K2CO3Kilogram uhličitanu draselného\nkg N Kilogram dusíku\nkg NaOH Kilogram hydroxidu sodného\nkg Na2CO3Kilogram uhličitanu sodného\nkg Na2S2O5Kilogram pyrosiřičitanu sodného\nkg PbO Kilogram oxidu olovnatého\nkg Pb2O5Kilogram oxidu fosforečného\nkg S Kilogram síry\nkg SO2Kilogram oxidu siřičitého\nkg SiO2Kilogram oxidu křemičitého\nkg TiO2Kilogram oxidu titaničitého\nkg akt. Kilogram aktivované látky\nkg č. ž. Efektivní kilogram, kilogram čistých živin\nkg 90 % ss Kilogram látky vysušené na 90 %\nkm Kilometr\nkW Kilowatt\n1000 kWh 1000 kilowatthodin\nl Litr\nl 100% alk Litr čistého (100%) alkoholu\nm Metr\nm2Metr čtvereční\nm3Metr krychlový\npár Počet párů\nTJ Terajoule (výhřevnost)\ncg Centigram\ncm3Centimetr krychlový\nkN Kilonewton\nkV Kilovolt\nmm Milimetr\nMPa Megapascal\nt Tuna\nABSAcrylonitril-Butadien-Styren\nCVDChemické pokovování\nPVDFyzikální pokovování\nIPIzolační zkoušky\nLCDDisplay s tekutými krystaly\nSANStyren-Acrylo-Nitril\nHSHarmonizovaný systém\nCNKombinovaná nomenklatura\nSKPStandardní klasifikace produkce\nOKEČOdvětvová klasifikace ekonomických činností\nv.q.p.r.d.kvalitní vína produkovaná ve specifických oblastech\nH) Systematická a převodníková část\nSystematická a převodníková část je k dispozici jenom v elektronické podobě, protože se bude průběžně aktualizovat. V současné době se vydává CZ-PRODCOM99 (podle verze PRODCOM z roku 1999). Číslice 99 za CZ-PRODCOM se bude měnit podle roku vydání PRODCOM, podle kterého se provede aktualizace CZ-PRODCOM. Systematická část obsahuje cca 5 500 položek. Za systematickou částí jsou uvedeny agregované položky v souborech:"
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Metodická část číselníku CZ-PRODCOM - Seznam měrných jednotek - Význam použitých zkratek",
+      "content": "1. Agre - agregované položky E"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Metodická část číselníku CZ-PRODCOM - Seznam měrných jednotek - Význam použitých zkratek",
+      "content": "2. Agrn - agregované položky N"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "chapter": "Metodická část číselníku CZ-PRODCOM - Seznam měrných jednotek - Význam použitých zkratek",
+      "content": "3. Agrq - agregované položky Q"
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "chapter": "Metodická část číselníku CZ-PRODCOM - Seznam měrných jednotek - Význam použitých zkratek",
+      "content": "4. Agrv - agregované položky V"
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "chapter": "Metodická část číselníku CZ-PRODCOM - Seznam měrných jednotek - Význam použitých zkratek",
+      "content": "5. Agrz - agregované položky Z.\nPřevodníková část obsahuje převodník CZ-PRODCOM99 ve vazbě na HS/CN a SKP/SKPPRUM v různém uspořádání a pod názvem:\nPprod - CZ-PRODCOM99 - HS/CN - SKP/SKPPRUM\nPhscn - HS/CN - CZ-PRODCOM99 - SKP/SKPPRUM\nPskp - SKP/SKPPRUM - HS/CN - CZ-PRODCOM99."
+    }
+  ],
+  "definitions": []
+}

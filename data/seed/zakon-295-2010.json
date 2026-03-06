@@ -1,0 +1,39 @@
+{
+  "id": "cz:295/2010",
+  "type": "statute",
+  "title": "295/2010 Sb., Nařízení vlády o stanovení požadavků a postupů pro zajištění propojitelnosti elektronických systémů plateb a odbavení cestujících",
+  "title_en": "",
+  "short_name": "295/2010 Sb.",
+  "status": "in_force",
+  "issued_date": "2010-10-29",
+  "in_force_date": "2010-11-01",
+  "url": "https://www.e-sbirka.cz/sb/2010/295",
+  "description": "Nařízení vlády o stanovení požadavků a postupů pro zajištění propojitelnosti elektronických systémů plateb a odbavení cestujících",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Toto nařízení stanoví požadavky a postupy pro zajištění technické a provozní propojitelnosti elektronických systémů plateb a odbavení cestujících a jejich zařízení a technologií při zajišťování dopravní obslužnosti (dále jen „systém elektronického odbavení cestujících“), provozovaných státem, krajem, obcí nebo jimi pověřenou osobou (dále jen „provozovatel systému elektronického odbavení cestujících“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Provozování systému elektronického odbavení cestujících",
+      "content": "(1) Provozovatel systému elektronického odbavení cestujících umožňuje platby a odbavení cestujících s využitím elektronických nosičů dat, které splňují požadavky uvedené v příloze č. 1 k tomuto nařízení (dále jen „technický nosič dat“).\n(2) Provozovatel systému elektronického odbavení cestujících může umožnit využití paměťového prostoru technického nosiče dat také pro uložení dat a provozování jiných systémů než systémů elektronického odbavení cestujících. Provozovatel systému elektronického odbavení cestujících může využít paměťového prostoru technického nosiče dat sloužícího pro uložení dat a provozování jiných systémů než systémů elektronického odbavení cestujících, pokud to provozovatel tohoto systému povoluje."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zajištění technické a provozní propojitelnosti systému elektronického odbavení cestujících",
+      "content": "Provozovatel systému elektronického odbavení cestujících za účelem zajištění propojitelnosti jednotlivých systémů elektronického odbavení cestujících\na) zajistí technické řešení systému elektronického odbavení cestujících, které splňuje požadavky stanovené v příloze č. 2 k tomuto nařízení vlády,\nb) zpracovává a uchovává data v systému elektronického odbavení cestujících v souladu se stanoveným technickým řešením podle písmene a) a\nc) stanoví opatření k zamezení komunikace zařízení pro odbavení cestujících s technickými nosiči dat, které nesplňují požadavky uvedené v tomto nařízení."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 1. listopadu 2010.\nPříloha č. 1 k nařízení vlády č. 295/2010 Sb.\nPožadavky na technický nosič dat\nPožadavky na technický nosič dat jsou splněny za předpokladu, že technický nosič má jednoznačný identifikátor a technologie technického nosiče dat umožňuje\na) řízení přístupu k jednotlivým aplikacím pro účely čtení i zápisu,\nb) oddělování datových prostorů v paměti tak, aby bylo zajištěno souběžné a nezávislé ukládání, mazání a změna aplikací a jejich datového obsahu pro různé systémy elektronického odbavení cestujících, a to i v průběhu pozdějšího používání technického nosiče dat cestujícím,\nc) ukládání aplikací a jejich datového obsahu tvořeného údaji o jízdním dokladu, příplatku nebo místence nezbytnými pro dopravní využití,\nd) zabezpečení technického nosiče dat, jednotlivých aplikací na něm uložených a jejich datového obsahu proti neoprávněnému čtení, mazání a neoprávněné změně nepovolanou osobou,\ne) disponování vnitřními bezpečnostními prvky pro šifrování uložených dat a řízení přístupu k aplikacím pomocí kryptografických klíčů,\nf) zavedení dalších bezpečnostních prvků s využitím prostředků, které jsou na vnitřních bezpečnostních prvcích technického nosiče dat nezávislé,\ng) obnovování kryptografických klíčů použitých pro ochranu aplikací a jejich datového obsahu uložených na technickém nosiči dat za provozu a\nh) uložení aplikace využitelné k uchovávání\n1. jízdního dokladu, příplatku nebo místenky a\n2. předplatného jízdného v případě bezkontaktní čipové technologie.\nPříloha č. 2 k nařízení vlády č. 295/2010 Sb.\nPožadavky na technické řešení systému elektronického odbavení cestujících\nPožadavky na technické řešení systému elektronického odbavení cestujících jsou splněny za předpokladu, že\na) každá transakce je jednoznačně přiřazena k příslušnému technickému nosiči dat a zařízení pro odbavení cestujících,\nb) záznamy o transakcích v systému elektronického odbavení cestujících se uchovávají nejméně po dobu 5 let od okamžiku provedení transakce,\nc) zpracování v systému elektronického odbavení cestujících, komunikace mezi systémy elektronického odbavení cestujících, čtení a změna dat uložených na technickém nosiči dat a řízení přístupových oprávnění k datovým strukturám uloženým na technickém nosiči dat jsou zajištěny bezpečnostními prvky, nejméně v rozsahu\n1. prokázání a ověření identity technického nosiče dat a zařízení pro odbavení cestujících a\n2. kryptografického zabezpečení komunikace mezi technickým nosičem dat a zařízením pro odbavení cestujících a\nd) systém elektronického odbavení cestujících umožňuje\n1. vytváření a sdílení seznamů jednoznačných identifikátorů technických nosičů dat,\n2. provozní souběh více technologií odbavení cestujících u jednoho provozovatele systému elektronického odbavení cestujících,\n3. předávání informací a přehledů o změnách aplikací a jejich datového obsahu v systému elektronického odbavení cestujících, týkajících se jednotlivého dopravce tomuto dopravci a\n4. přizpůsobení dočasným i trvalým změnám rozsahu veřejných služeb v přepravě cestujících."
+    }
+  ],
+  "definitions": []
+}

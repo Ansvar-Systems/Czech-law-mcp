@@ -1,0 +1,89 @@
+{
+  "id": "cz:226/2015",
+  "type": "statute",
+  "title": "226/2015 Sb., Vyhláška o zásadách pro vymezení zóny havarijního plánování a postupu při jejím vymezení a o náležitostech obsahu vnějšího havarijního plánu a jeho struktuře",
+  "title_en": "",
+  "short_name": "226/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-09-11",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/226",
+  "description": "Vyhláška o zásadách pro vymezení zóny havarijního plánování a postupu při jejím vymezení a o náležitostech obsahu vnějšího havarijního plánu a jeho struktuře",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "Tato vyhláška zapracovává příslušný předpis Evropské unie1) a upravuje\na) zásady pro vymezení zóny havarijního plánování a postupu při jejím vymezení a\nb) náležitosti obsahu vnějšího havarijního plánu a jeho strukturu."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "content": "Pro účely této vyhlášky se rozumí\na) parametrem L minimální vzdálenost výchozí hranice zóny havarijního plánování od zařízení,\nb) typovým scénářem zjednodušený průběh závažné havárie, při jehož realizaci může dojít k smrtelným nebo nevratným účinkům na zdraví nechráněných osob,\nc) modifikačním faktorem číselná hodnota, která charakterizuje očekávané následky podle typového scénáře a nebezpečnost látky nebo skupiny látek shodné klasifikace a obdobných fyzikálně-chemických vlastností, které mají vliv na stanovení velikosti zóny havarijního plánování,\nd) efektivním množstvím hodnota získaná vynásobením množství látky v zařízení modifikačním faktorem, která se použije k odečtu na grafu příslušného typového scénáře."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zásady pro vymezení zóny havarijního plánování",
+      "content": "(1) Zóna havarijního plánování se vymezuje jako plocha ohraničená vnější hranicí zóny havarijního plánování (dále jen „vnější hranice“) s výjimkou území, pro které se zpracovává vnitřní havarijní plán.\n(2) Výchozí hranice zóny havarijního plánování (dále jen „výchozí hranice“) se vymezuje jako minimální oblast, ve které se v případě realizace typového scénáře uplatní opatření ochrany obyvatelstva.\n(3) Vnější hranice se stanovuje z výchozí hranice jako výsledná hranice zóny havarijního plánování stanovená v § 5.\n(4) Výchozí hranicí se rozumí hranice pro stanovení vnější hranice zóny havarijního plánování podle přílohy č. 1 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Určení výchozí hranice",
+      "content": "(1) Výchozí hranice se určí\na) jako kružnice soustředná s nejmenší kružnicí opsanou kolem půdorysného průmětu objektu nebo zařízení, přičemž podkladem pro určení jejího poloměru je parametr L stanovený podle přílohy č. 1 k této vyhlášce; vzor je uveden na obrázku č. 1 a č. 2 v příloze č. 1 k této vyhlášce,\nb) jako ohraničení plochy vymezené vzdáleností parametru L na obě strany od osy potrubí v případě, že je zařízením potrubí, přičemž podkladem pro určení vzdálenosti je parametr L stanovený podle přílohy č. 1 k této vyhlášce; vzor je uveden na obrázku č. 3 v příloze č. 1 k této vyhlášce,\nc) s použitím nejvyšší hodnoty parametru L, zahrnuje-li zařízení různé nebezpečné látky nebo umožňuje-li hodnotit různé typové scénáře; vzor je uveden na obrázku č. 4 v příloze č. 1 k této vyhlášce,\nd) zvětšením parametru L o poloměr nejmenší kružnice opsané kolem půdorysného průmětu zařízení, pokud je tento poloměr větší nebo roven 1/5 parametru L; vzor je uveden na obrázku č. 5 v příloze č. 1 k této vyhlášce,\ne) pro povrchové technologie podzemních zásobníků plynu a provozní sondy podzemních zásobníků plynu v přirozených vrstvách, vodonosných vrstvách a kavernách podle přílohy č. 1 k této vyhlášce a takto stanovené parametry L na území jednoho chráněného území pro zvláštní zásahy do zemské kůry jsou u jednoho provozovatele považovány za jednu zónu havarijního plánování; vzor je uveden na obrázku č. 6 v příloze č. 1 k této vyhlášce,\nf) jako hranice sjednocení více půdorysných ploch určených podle písmen a) až e), nachází-li se ve společném vymezeném prostoru více zařízení jednoho nebo více provozovatelů; vzor je uveden na obrázku č. 7 v příloze č. 1 k této vyhlášce, nebo\ng) s využitím výstupů analýzy a hodnocení rizik11) při dodržení pravidel podle přílohy č. 1 oddílu 3, pokud nelze výchozí hranici určit podle písmen a) až f).\n(2) Je-li výchozí hranice shodná nebo menší než plocha území objektu, pro které provozovatel zpracovává vnitřní havarijní plán, zóna havarijního plánování se nestanovuje."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Postup při stanovení vnější hranice",
+      "content": "(1) Vnější hranice se stanoví z výchozí hranice úpravou podle urbanistických, terénních, demografických nebo klimatických poměrů, případně dalších faktorů hodných zřetele, s tím, že se přihlíží k možnosti domino efektu. Při úpravě se zohlední postupně tyto zásady\na) vnější hranice musí být stanovena tak, aby\n1. zohlednila podmínky, které mohou ovlivnit rozptyl nebezpečné látky, šíření tepla nebo tlakové vlny, a\n2. nedělila jednotlivé domy ani obytné celky, nebo obydlená území dělila s ohledem na charakter a intenzitu ohrožení a plánovaná opatření ochrany obyvatelstva a\nb) vnější hranice sleduje části hranic správních území, případně hranic pozemků, pokud nelze použít hranici správního území či hranici pozemku, vnější hranice respektuje přirozené hranice, jako jsou vodní toky, silnice, dálnice nebo železniční tratě.\n(2) Zóna havarijního plánování se vyznačuje do mapového podkladu v měřítku přiměřeném účelu využití mapového podkladu nebo elektronicky v geografickém informačním systému a zpřístupňuje veřejnosti prostřednictvím krajského geoportálu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Náležitosti obsahu vnějšího havarijního plánu a jeho struktura",
+      "content": "(1) Náležitosti obsahu vnějšího havarijního plánu a jeho struktura jsou uvedeny v příloze č. 2 k této vyhlášce.\n(2) Podkladem pro vypracování vnějšího havarijního plánu jsou\na) vymezená zóna havarijního plánování,\nb) podklady vypracované provozovatelem objektu zařazeného do skupiny B, zejména bezpečnostní zpráva a další podklady od provozovatele,\nc) dílčí podklady poskytnuté dotčenými orgány veřejné moci a\nd) vyjádření veřejnosti a dotčených obcí k jeho návrhu.\n(3) Hasičský záchranný sbor kraje si může, je-li to nezbytné pro vypracování vnějšího havarijního plánu, vyžádat další podklady."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Přechodná ustanovení",
+      "content": "(1) Zóny havarijního plánování vymezené podle vyhlášky č. 103/2006 Sb., o stanovení zásad pro vymezení zóny havarijního plánování a o rozsahu a způsobu vypracování vnějšího havarijního plánu, se považují po dobu 18 měsíců ode dne nabytí účinnosti této vyhlášky za zóny havarijního plánování vymezené podle této vyhlášky.\n(2) Vnější havarijní plány zpracované podle vyhlášky č. 103/2006 Sb. se po dobu 30 měsíců ode dne nabytí účinnosti této vyhlášky považují za vnější havarijní plány podle této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 2015.\nPříloha č. 1 k vyhlášce č. 226/2015 Sb.\nVymezení zóny havarijního plánování"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "parametrem L minimální vzdálenost výchozí hranice zóny havarijního plánování od",
+      "definition": "zařízení",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "typovým scénářem zjednodušený průběh závažné havárie",
+      "definition": "při jehož realizaci může dojít k smrtelným nebo nevratným účinkům na zdraví nechráněných osob",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "modifikačním faktorem číselná hodnota",
+      "definition": "která charakterizuje očekávané následky podle typového scénáře a nebezpečnost látky nebo skupiny látek shodné klasifikace a obdobných fyzikálně-chemických vlastností, které mají vliv na stanovení velikosti zóny havarijního plánování",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "efektivním množstvím hodnota získaná vynásobením množství látky v",
+      "definition": "zařízení modifikačním faktorem, která se použije k odečtu na grafu příslušného typového scénáře.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Výchozí hranicí",
+      "definition": "hranice pro stanovení vnější hranice zóny havarijního plánování podle přílohy č",
+      "source_provision": "§ 3"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:151/1952",
+  "type": "statute",
+  "title": "151/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 37 0740.",
+  "title_en": "",
+  "short_name": "151/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-17",
+  "in_force_date": "1960-10-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/151",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašuje technická státní norma ČSN 37 0740.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 37 0740 „Krabicové rozvodky“ je od 1. července 1952 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma platí pro krabicové rozvodky s pevně uloženými svorkami pro jmenovité napětí do 750 V a jmenovitý průřez do 25 mm2.\nKromě názvosloví jedná norma o značkování krabicových rozvodek, stanoví technické požadavky pro rozvodky a obsahuje předpisy o způsobu zkoušek a jejich provádění."
+    }
+  ],
+  "definitions": []
+}

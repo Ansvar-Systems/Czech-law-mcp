@@ -1,0 +1,27 @@
+{
+  "id": "cz:157/1968",
+  "type": "statute",
+  "title": "157/1968 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "157/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-12-20",
+  "in_force_date": "1968-12-20",
+  "url": "https://www.e-sbirka.cz/sb/1968/157",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 27 odst. 1 písm. f) řádek 8 zákona č. 82/1968 Sb. došlo k tiskové chybě, a proto namístě slov za středníkem „náhrada za hnuteľné veci“ mají správně být slova „náhrada za nehnuteľné veci“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V poznámce k § 4 odst. 3 vyhlášky č. 86/1968 str. 241 dole Sb., označené†), vypadlo při tisku číslo vyhlášky 2, takže správně mělo být otištěno v poznámce: „†) Vyhláška č. 2/1967 Sb.“."
+    }
+  ],
+  "definitions": []
+}

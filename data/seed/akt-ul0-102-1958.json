@@ -1,0 +1,673 @@
+{
+  "id": "cz:ul0:102/1958",
+  "type": "statute",
+  "title": "102/1958 Ú. l., Vyhláška ministerstva financí o účetní evidenci hospodářských, rozpočtových a jiných organizací",
+  "title_en": "",
+  "short_name": "102/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-07-15",
+  "in_force_date": "1959-01-01",
+  "url": "https://www.e-sbirka.cz/ul0/1958/102",
+  "description": "Vyhláška ministerstva financí o účetní evidenci hospodářských, rozpočtových a jiných organizací",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "Část první - ÚVODNÍ USTANOVENÍ",
+      "content": "Opatření ke zvýšení ekonomické účinnosti řízení, plánování a financování dále rozšiřují pravomoc a odpovědnost podniků, národních výborů a jiných organizací a vytvářejí nové předpoklady k rozvinutí nejširší iniciativy pracujících a jejich zvýšené účasti na řízení hospodářství a správě státu. Každý pracující tak prohlubuje svůj vztah vlastníka k úkolům ve výrobě a v hospodaření. Tím se upevňuje i socialistické uvědomění všech pracujících, které je kvalitativní stránkou dalšího rozvoje socialistických výrobních vztahů v období dovršení výstavby socialismu.\nJedním z významných nástrojů pracujících při jejich účasti na řízení a kontrole hospodářských procesů je účetní evidence. Účetní evidenci je třeba přizpůsobit novým podmínkám dalšího vývoje, aby se jí mohlo lépe využívat zejména k aktivnímu ovlivňování rozvoje výrobních sil a efektivnosti národního hospodářství. Zvýšení zájmu pracujících a jejich podniků na dobrém hospodaření a na vytváření vlastních zdrojů pro trvalý rozvoj podniku vyžaduje, aby účetní evidence co nejlépe sloužila potřebám pracujících a vnitropodnikového řízení.\nÚčetní evidence se tak stává přímo záležitostí každého pracujícího, protože mu poskytuje přehled o tom, z čeho se tvoří jeho příjmy, jak se vytvářejí a používají vlastní zdroje podniku, jak podnik plní své úkoly vůči společnosti a jak se podnik rozvíjí v souladu se zájmy společnosti. Takto každý pracující jako hospodář a vlastník se stává současně i účetním v zájmu vlastním i celé společnosti."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "Část první - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Touto vyhláškou se řídí:\na) hospodářské organizace,\nb) rozpočtové organizace,\nc) rozpočtové zvláštní organizace,\nd) společenské organizace, jejichž hospodaření je součástí státního plánu rozvoje národního hospodářství nebo které dostávají příspěvky ze státního rozpočtu a jsou povinny prokázat jejich použití nebo připustit jeho kontrolu, jakož i účelová zařízení těchto organizací.\nOrganizace vyjmenované pod písm. a) až d) se dále označují „organizace“.\n(2) Tato vyhláška se nevztahuje na místní národní výbory v malých obcích, pro které upraví ministerstvo financí účetní evidenci zvláštními předpisy, a na jednotná zemědělská družstva, jejichž účetní evidenci upraví ministerstvo financí samostatnou vyhláškou v dohodě s ministerstvem zemědělství a lesního hospodářství.\n(3) Ustanovení §§ 38 až 40, 43, § 48 odst. 1, §§ 50, 52 až 54, 56, 57, 67 až 71 se nevztahují na rozpočtové organizace a společenské organizace, vztahují se však na účelová zařízení společenských organizací."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "Část druhá - VŠEOBECNÁ USTANOVENÍ",
+      "content": "(1) Účetní evidenci je třeba organizovat tak, aby odpovídala potřebám řízení příslušného podniku, organizace a hospodářského odvětví, zejména také jejich ekonomickým, organizačním a technickým podmínkám a aby umožnila tvořivou účast všech pracujících na hodnocení jejich práce i celého podniku a tím na řízení podniku a organizace. Má napomáhat k úspěšnému plnění úlohy stranické, odborové a mládežnické organizace. Přitom je nutno zvolit takové formy a techniku účetní evidence, aby se z ní získávaly potřebné údaje nejhospodárnější cestou, a využít všech možností mechanizace účetních prací a pokrokových metod jejich organizace a plánování.\n(2) Účetní evidenci je třeba dále organizovat tak, aby tvořila s operativně technickou evidencí a statistikou celek a aby v národohospodářské evidenci organizací nevznikaly zbytečné duplicity."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "Část druhá - VŠEOBECNÁ USTANOVENÍ",
+      "content": "Účetní evidenci je nutno vést dochvilně, aby údajů, které poskytuje, mohlo být plně využito pro řízení, plánování a kontrolu jednotlivých organizací a jejich vnitřních složek i národního hospodářství vcelku."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "Část druhá - VŠEOBECNÁ USTANOVENÍ",
+      "content": "Účetní zápisy v běžné účetní evidenci, účetní výkazy, účetní doklady a ostatní písemnosti účetní evidence musí být úplné, pravdivé, srozumitelné, přehledné a snadno kontrolovatelné."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "chapter": "Část druhá - VŠEOBECNÁ USTANOVENÍ",
+      "content": "(1) Běžnou účetní evidenci je třeba více přizpůsobit potřebám vnitropodnikového řízení. Proto se běžná účetní evidence může v organizacích decentralizovat do jednotlivých jejich vnitřních složek (např. do závodů, provozů). Rozsah decentralizace má být vždy v souladu s pravomocí, která byla dána vnitřní složce organizace. Přitom však musí decentralizované úseky účetní evidence na sebe navazovat tak, aby bylo možno sestavovat z jejích údajů účetní výkazy za organizaci jako celek.\n(2) Při decentralizaci účetní evidence je třeba dbát zásady účelnosti, hospodárnosti a možnosti co největšího využití mechanizačních prostředků."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl první - Účetní zápisy",
+      "content": "Běžná účetní evidence, ve které se účetními zápisy uspořádaně zachycují stavy hospodářských prostředků a jejich změny při hospodářských a účetních operacích (účetní případy), se vede podle jejich\na) věcného uspořádání (soustavné neboli systematické zápisy) a\nb) časového uspořádání (časové neboli chronologické zápisy)."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl první - Účetní zápisy",
+      "content": "(1) Soustavné zápisy se provádějí na účtech, přičemž se účetní případy třídí a seskupují\na) v syntetické evidenci na syntetických účtech stanovených účtovou osnovou a\nb) v analytické evidenci, ve které se zapisují podle potřeb organizace podrobněji rozvedené nebo doplněné údaje zápisů na jednotlivých syntetických účtech, a to nejméně v rozsahu stanoveném směrnicemi k účtové osnově.\n(2) Peněžni částky vyplývající ze zápisů analytické evidence musí odpovídat příslušným peněžním částkám na syntetickém účtu (účtech), k němuž (k nimž) se analytická evidence vede.\n(3) Časové zápisy stejnorodých účetních případů lze sbírat (sborníkovat) v obdobích nejdéle měsíčních a pak zachycovat jejich údaje soustavnými zápisy hromadně."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl první - Účetní zápisy",
+      "content": "(1) Syntetická evidence se vede jen v peněžních jednotkách.\n(2) Analytická evidence se vede v peněžních jednotkách nebo v jednotkách množství nebo v obojích jednotkách podle povahy hospodářských operací a podle potřeb organizace. Vede-li se jen v jednotkách množství, je nutno zajistit vazbu v peněžních jednotkách alespoň v souhrnu (např. kontrolními soupiskami zůstatků) na zápisy syntetické evidence."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl první - Účetní zápisy",
+      "content": "(1) Organizace musí vést všechny syntetické účty stanovené účtovou osnovou, pokud jsou pro ně dány účetní případy.\n(2) Každá organizace sestaví na každý rok účtový rozvrh, v němž podle účtové osnovy uvede názvy a číselná označení syntetických, popřípadě i analytických účtů nutných k zachycení účetních případů, které se mohou během roku vyskytnout. Vznikne-li během roku potřeba dalších syntetických, popřípadě i analytických účtů, účtový rozvrh se doplní."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl první - Účetní zápisy",
+      "content": "(1) Časové zápisy se provádějí v deníku (denících) podle účetních dokladů a musí zachycovat účetní případy jednotlivě. Je však dovoleno jedním zápisem zachycovat více jednotlivých stejnorodých účetních případů, jsou-li zahrnuty v jednom původním účetním dokladu nebo vyhotoví-li se na ně sběrný účetní doklad (§ 22).\n(2) Při vedení deníku lze postupovat i tak, že účetní doklady za určité časové období kratší než měsíc (např. za dekádu) se napřed roztřídí na skupiny podle věcného uspořádání a teprve účetní doklady každé skupiny se zaúčtují podle jejich časového uspořádání.\n(3) Od vedení deníků lze upustit pro úseky běžné účetní evidence vedené formou sestav (§ 14) na sebe navazujících, jsou-li účetní případy zachyceny podle jednotlivých účetních dokladů v sestavách uspořádaných soustavně a jsou-li jednotlivé účetní doklady uschovávány v takovém pořádku, aby je bylo možno snadno vyhledat podle jednotlivých účetních zápisů a naopak."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl druhý - Otevírání a uzavírání účtů",
+      "content": "Na účty syntetické a analytické evidence se musí zapsat stavy aktiv a pasív ke dni otevření účtů. Tyto zápisy se musí provést\na) ke dni, k němuž se v nově zřízených organizacích sestaví zahajovací rozvaha,\nb) k začátku následujícího dne, k němuž se účty uzavírají podle § 13 odst. 1, pokračuje-li organizace ve své činnosti, popřípadě ke dni, jímž zahájila likvidaci. Stavy aktiv a pasív, jimiž se účty otevírají, musí navazovat na stavy aktiv a pasív, jimiž byly účty uzavřeny."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl druhý - Otevírání a uzavírání účtů",
+      "content": "(1) Účty syntetické evidence a zásadně i analytické evidence se musí po vyúčtování všech účetních případů roku řádně uzavřít (účetní uzávěrka) ke konci posledního dne roku (roční rozvahový neboli bilanční den). Účty analytické evidence základních prostředků podle inventárních předmětů se uzavírají jen při vyřazení těchto předmětů.\n(2) Účetní uzávěrku je nutno v organizaci provést také ke dni zahájení její likvidace nebo ke dni jejího zániku bez likvidace. V těchto případech je nutné také sestavit mimořádnou rozvahu.\n(3) Při účetní uzávěrce je třeba na účtě uvést jeho zůstatek. Pokračuje-li se v příštím roce na témže účtovém listě, je třeba nové zápisy zřetelně oddělit od zápisů předchozího roku."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl třetí - Účetní knihy",
+      "content": "Účetní zápisy se provádějí v účetních knihách. Účetní knihy se mohou vést jako volné listy nebo jako vázané knihy, popřípadě jako sestavy vyhotovované na strojích na děrné štítky nebo na samočinných počítačích (dále jen „sestavy“). Formou těchto sestav se mohou vyhotovovat i účetní doklady a ostatní písemnosti běžné účetní evidence, pokud to jejich povaha připouští."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl třetí - Účetní knihy",
+      "content": "(1) Při používání volných listů je nutno\na) opatřit účtové listy pro každý účet a deníkové listy pro každý deník před započetím účtování pořadovými čísly stránek (listů), počínajíc číslem 1 od nového založení účetních knih,\nb) sečíst nebo saldovat účtované peněžní částky a účtovaná množství na konci každé stránky (listu) a zajistit spojitost součtů nebo sald s dalšími zápisy,\nc) udržovat listy tvořící účetní knihu v určitém souboru (např. v lístkovnici, v pořadačích) podle předem stanoveného pořádku,\nd) nově zakládat knihu syntetické evidence (hlavní knihu) na volných listech pro každý rok.\n(2) Každá organizace musí vést seznam účtů zvlášť podle jednotlivých účetních knih, pro které používá volných účtových listů, v knize použitých listů tak, aby na jejím podkladě mohla být bezpečně prokázána úplnost účetní knihy. Mzdové listy se do knihy použitých listů nezapisují. Kniha použitých listů musí být buď vázaná a platí pak pro ni přiměřeně ustanovení o vázaných účetních knihách, nebo na volných listech a platí pak pro ni přiměřeně ustanovení odstavce 1 písm. a) a c).\n(3) Kniha použitých listů pro syntetickou, popřípadě analytickou evidenci může být spojena s účtovým rozvrhem. Knihy použitých listů pro analytickou evidenci mohou být také spojeny s knihami sloužícími k jiným účelům v účetní evidenci."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl třetí - Účetní knihy",
+      "content": "(1) Při vedení běžné účetní evidence formou sestav (§ 14) je nutno mít a udržovat v běžném stavu přehledně uspořádaný seznam sestav s označením a popisem každé sestavy.\n(2) Seznam sestav musí obsahovat pro každou sestavu schema jejího horizontálního i vertikálního uspořádání a údaje o tom,\na) kterou účetní knihou nebo kterou jinou písemností běžné účetní evidence sestava je,\nb) kdy a za jaké období, popřípadě ke kterému dni se vyhotovuje,\nc) z kterých písemností účetní evidence, popřípadě z kterých jejích údajů se vyhotovuje,\nd) ke kterým dalším sestavám nebo jiným zápisům v účetní evidenci se používá jejích údajů.\n(3) Při používání sestav je nutno\na) v záhlaví každé sestavy nebo na zvláštním listu pro více sestav se stejně uspořádanými sloupci uvést výstižné označení jednotlivých sloupců (sloupcové záhlaví) nebo označení sestavy podle seznamu sestav,\nb) listy jedné sestavy pořadově očíslovat nebo je svázat (slepit, sešít) do knihy nebo je trvale spojit (slepením, sešitím) do jediného pásu, nejsou-li peněžní částky a množství na každém listu sečteny nebo saldovány a není-li zajištěna jejich spojitost se zápisy na dalším listu.\n(4) Sestavy, které jsou nutnou součástí běžné účetní evidence, se musí vyhotovovat nejvýše za období jednoho měsíce."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl třetí - Účetní knihy",
+      "content": "(1) V každé vázané účetní knize se před započetím účtování pořadově očíslují stránky nebo listy (folia), počínajíc číslem 1, a počet očíslovaných stránek (listů) se uvede v poznámce na začátku nebo na konci knihy.\n(2) Ve vázané účetní knize obsahující také perforované listy se ustanovení odstavce 1 týká jen pevných listů. Perforované listy se očíslují shodně s příslušným pevným listem."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "Účetní zápisy musí být doloženy řádnými účetními doklady původními nebo sběrnými."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "Původními účetními doklady se ověřuje provedení\na) jednotlivých hospodářských operací v nich zachycených,\nb) jednotlivých účetních operací v nich zachycených (např. účetních převodů, oprav účetních zápisů)."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "(1) Původní účetní doklady ověřující provedení hospodářských operací jsou\na) vnější, jestliže vyplývají ze styku organizace s vnějškem (např. vydané a přijaté faktury, doklady o příjmu a výdaji peněžních prostředků na účtech u peněžních ústavů, doklady pokladní),\nb) vnitřní, jestliže vyplývají z vnitřní činnosti organizace; vnitřními účetními doklady mohou být také písemnosti operativně technické evidence, pokud mají náležitosti původního účetního dokladu (odstavec 2).\n(2) Původní účetní doklady ověřující provedení hospodářských operací musí mít alespoň tyto náležitosti:\na) název účetního dokladu, nevyplývá-li z účetního dokladu alespoň nepřímo,\nb) označení účastníků hospodářské operace,\nc) datum vyhotovení účetního dokladu (popřípadě v něm obsaženého příkazu k provedení hospodářské operace), a jde-li o vnější účetní doklady došlé, také datum jejich doručení,\nd) popis obsahu hospodářské operace a datum nebo období jejího provedení, neshoduje-li se s datem vyhotovení účetního dokladu nebo nevyplývá-li z účetního dokladu alespoň nepřímo,\ne) peněžní částku nebo údaj o množství, popřípadě obojí, podle povahy hospodářské operace,\nf) podpisy osob odpovědných za provedení hospodářské operace.\n(3) Původní účetní doklady ověřující provedení hospodářských operací musí být vyhotoveny ve lhůtách stanovených zvláštními předpisy, a není-li takových lhůt, neprodleně po dokončení ověřované hospodářské operace."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "Původní účetní doklady o účetních operacích jsou doklady vnitřními a musí obsahovat údaje uvedené v § 20 odst. 2, pokud přicházejí v úvahu."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "(1) Pro účetní zápis může být místo jednotlivých původních účetních dokladů o stejnorodých hospodářských nebo účetních operacích vyhotoven sběrný účetní doklad. Do jednoho sběrného účetního dokladu se však mohou shrnout nejvýše údaje původních účetních dokladů\na) vnějších, které téhož dne došly, byly odeslány, vyhotoveny, proplaceny nebo pod.,\nb) vnitřních za jedno měsíční období.\n(2) Sběrný účetní doklad musí obsahovat alespoň\na) název, vyjadřující, že jde o sběrný účetní doklad, a označení vnitřní složky organizace, která jej vyhotovila,\nb) datum vyhotovení a období, za které jsou v něm shrnuty údaje původních účetních dokladů,\nc) označení hospodářských nebo účetních operací v něm zachycených, nevyplývá-li již z názvu,\nd) úhrn peněžních částek nebo též údajů o množství buď rozepsaný podle jednotlivých původních účetních dokladů s odvoláním na ně, nebo původními účetními doklady jinak snadno prokazatelný,\ne) podpis vyhotovitele.\n(3) Je nutno zajistit, aby bylo možné snadno vyhledat jednotlivé původní účetní doklady podle jednotlivých položek sběrného účetního dokladu a naopak."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "(1) Účetní pracovníci musí původní účetní doklady před jejich zaúčtováním přezkoušet, pokud jde o úplnost předepsaných náležitostí a o oprávněnost osob, které nařídily, schválily nebo provedly hospodářské nebo účetní operace doklady ověřované. Kromě toho je musí přezkoušet, i pokud jde o početní správnost číselných údajů v dokladech obsažených a o přípustnost ověřovaných operací, není-li možno zajistit, aby je po těchto stránkách přezkušovali především pracovníci příslušných organizačních útvarů.\n(2) Obdobně musí účetní pracovníci přezkoušet i původní účetní doklady shrnuté do sběrného účetního dokladu nejpozději před jeho zaúčtováním. Zároveň se musí přezkoušet sběrné účetní doklady, pokud jde o úplnost předepsaných náležitostí, o početní správnost číselných údajů v nich obsažených a o jejich shodu s původními účetními doklady do nich shrnutými."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "(1) Pro opravy účetních dokladů platí přiměřeně ustanovení § 34 odst. 1. K opravovanému zápisu se připojí datovaná poznámka o provedení opravy, podepsaná osobou (osobami) odpovědnou za správnost opravovaného údaje.\n(2) V původních účetních dokladech, které se týkají operací pokladních nebo ve styku s peněžními ústavy, nejsou dovoleny opravy náležitostí uvedených v § 20 odst. 2."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl čtvrtý - Účetní doklady",
+      "content": "Oběh účetních dokladů a jiných písemností potřebných k vedení účetní evidence musí být uspořádán tak, aby byla zabezpečena její dochvilnost."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl pátý - Celkové uspořádání běžné účetní evidence",
+      "content": "(1) Běžná účetní evidence a zápisy v ní musí být uspořádány tak, aby umožnily snadnou orientaci, zejména také orgánům vnější kontroly.\n(2) Účetní knihy a ostatní písemnosti běžné účetní evidence je nutno vést tak, aby se zabránilo dodatečnému měnění nebo doplňování (falšování) účetních zápisů a jiných zápisů v běžné účetní evidenci. Volné řádky nebo prázdné plochy mezi jednotlivými účetními zápisy lze vynechat zpravidla jen tehdy, je-li to odůvodněno účetní technikou; jinak je nutno volná místa proškrtnout, nejde-li o volné řádky nebo o prázdné plochy mezi formálně uzavřenými částmi účetních zápisů (např. mezi jednotlivými účty)."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl pátý - Celkové uspořádání běžné účetní evidence",
+      "content": "(1) Každá organizace musí mít a udržovat v běžném stavu seznam všech účetních knih, obsahující pro každou z nich alespoň název, odpovídající jejímu obsahu, popřípadě též vymezení její funkce v souboru všech písemností běžné účetní evidence. U sestav jej nahrazuje seznam podle § 16 odst. 1 a 2.\n(2) Z jednotlivých volných listů účetní knihy musí být patrno, ke které účetní knize patří a kterého období se týkají. Volné listy knihy analytické evidence musí být označeny také číselným znakem syntetického účtu, k němuž se kniha vede.\n(3) Každá vázaná účetní kniha musí být označena názvem podle odstavce 1 a obdobím, kterého se týká. Ve vázané účetní knize pro soustavné zápisy musí být veden a běžně doplňován seznam v ní otevřených účtů s uvedením stránky (listu), na které každý z nich začíná. Seznam účtů ve vázané hlavní knize může být spojen s účtovým rozvrhem.\n(4) Jednotlivé účty musí být v záhlaví označeny názvem, odpovídajícím jejich obsahu, a číselným nebo jiným znakem podle předem stanoveného pořádku, syntetické účty shodně s účtovým rozvrhem. V sestavách stačí, dá-li se bezpečně určit účet z jeho obsahu.\n(5) Ostatní písemnosti běžné účetní evidence musí být označeny názvem, odpovídajícím jejich obsahu, a dále obdobím, kterého se týkají, popřípadě dnem, k němuž byly sestaveny, nevyplývá-li to z jejich obsahu. Skládá-li se písemnost z více částí (listů, příloh), které spolu nejsou pevně spojeny, musí být jednotlivé části označeny tak, aby nemohly vznikat pochybnosti, ke které písemnosti patří.\n(6) Mohlo-li by dojít k záměně písemností běžné účetní evidence různých organizací (např. při jejich vydání z organizace), musí být označeny tak, aby nemohly vznikat pochybností, které organizaci patří. To platí přiměřeně i o písemnostech běžné účetní evidence, které se týkají jen některé vnitřní složky organizace v případech, kdy je běžná účetní evidence podle těchto složek decentralizována."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl pátý - Celkové uspořádání běžné účetní evidence",
+      "content": "Každá organizace musí mít a udržovat v běžném stavu seznam (seznamy) všech číselných znaků nebo jiných symbolů, popřípadě zkratek (které nejsou běžné), užívaných v běžné účetní evidenci, s uvedením jejich významu."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl pátý - Celkové uspořádání běžné účetní evidence",
+      "content": "(1) V běžné účetní evidenci je nutno zabezpečit spojitost mezi účetními doklady a účetními zápisy a spojitost účetních zápisů téhož účetního případu.\n(2) V účetních dokladech, podle nichž se účtuje, se spojitost mezi nimi a účetními zápisy vyjadřuje\na) účtovacím předpisem, pokud způsob zaúčtování nevyplývá přímo z úpravy účetních dokladů; účtovacím předpisem se stanoví alespoň syntetické účty a jejich strany, na které se účetní doklad zaúčtuje, a jde-li o složitý účetní zápis též rozpis příslušných peněžních částek,\nb) poznámkou (vyznačením) o zaúčtování a\nc) číslováním nebo jiným označováním účetních dokladů, popřípadě pořádkem, ve kterém se ukládají.\n(3) V účtovacím předpisu lze stanovit složité účetní zápisy, při nichž\na) účetní zápis na straně Má dáti (Dal) jednoho syntetického účtu má souvztažné zápisy na straně Dal (Má dáti) více syntetických účtů,\nb) účetní zápis na straně Má dáti (Dal) několika syntetických účtů má souvztažné zápisy na straně Dal (Má dáti) více syntetických účtů, jen tehdy, jsou-li podmíněny povahou hospodářské operace zachycené v původním účetním dokladu."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl pátý - Celkové uspořádání běžné účetní evidence",
+      "content": "V rozpočtových organizacích je dovoleno provádět převody zápisů mezi analytickými účty k témuž syntetickému účtu též červeným zápisem na jednom účtu a černým zápisem na téže straně druhého účtu (jiných účtů)."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl šestý - Forma účetních zápisů a ostatních zápisů v účetní evidenci",
+      "content": "(1) Účetní zápisy je nutno provádět prostředkem zaručujícím jejich trvanlivost, zejména perem nebo strojem. Při ručním propisování účetních zápisů a v analytické evidenci je dovoleno používat inkoustové tužky.\n(2) Účetní zápisy není dovoleno provádět těsnopisem.\n(3) Účetní zápisy je nutno provádět pečlivě, zejména též čitelně.\n(4) Účetní zápisy se nesmějí opravovat přepisováním, vymazávat, vyškrabovat, ani jiným způsobem činit zcela nebo zčásti nečitelnými."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl šestý - Forma účetních zápisů a ostatních zápisů v účetní evidenci",
+      "content": "Ustanovení § 31 platí přiměřeně též o zápisech v účetních dokladech, v kalkulačních listech, v účetních výkazech, v archívní knize a v ostatních písemnostech účetní evidence. V účetních dokladech je dovoleno používat inkoustové tužky, neodporuje-li to zvláštním předpisům."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl sedmý - Opravy v účetních knihách a v ostatních písemnostech účetní evidence",
+      "content": "V účetních knihách se opravy peněžních částek a jejich zaúčtování provádějí\na) doplňkovým zápisem, byla-li na správné účty (správný účet) a na jejich správné strany (správnou stranu) zapsána nižší peněžní částka,\nb) částečným červeným stornem, byla-li na správné účty (správný účet) a na jejich správné strany (správnou stranu) zapsána vyšší peněžní částka,\nc) úplným červeným stornem a podle potřeby novým účetním zápisem v ostatních případech; takto je dovoleno postupovat i při opravách peněžních částek a jejich zaúčtování v případech uvedených pod písm. a) a b),\nd) zápisem chybně zaúčtovaných peněžních částek na opačné strany účtů a podle potřeby novým účetním zápisem, nezkreslují-li se tím obraty účtů potřebné jako ukazatele v účetních výkazech."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl sedmý - Opravy v účetních knihách a v ostatních písemnostech účetní evidence",
+      "content": "(1) V účetních knihách je dovoleno provést opravy peněžních částek a jejich zaúčtování i tak, že se opravovaná část původního zápisu přeškrtne tenkou čarou, aby zůstala čitelná, a nad ni, popřípadě na jiné místo (např. na druhou stranu účtu, na jiný účet, na jiný řádek deníku) se napíše nový zápis. Tohoto způsobu se smí použít jen do té doby, dokud nebyly ještě předloženy účetní výkazy za období, jehož se oprava týká.\n(2) K opravovanému zápisu se připojí datovaná poznámka o provedení opravy, podepsaná pracovníkem oprávněným k jejímu provedení, pokud povaha opravy nevyžaduje zvláštního dokladu.\n(3) Místo opravování sestavy v případech uvedených v odstavci 1 je dovoleno vyhotovit novou správnou sestavu."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl sedmý - Opravy v účetních knihách a v ostatních písemnostech účetní evidence",
+      "content": "Ustanovení § 34 platí přiměřeně také o provádění jiných oprav (popřípadě doplňků) v účetních knihách a oprav v ostatních písemnostech účetní evidence. Poznámka o provedení opravy v podepsaném účetním výkazu musí být podepsána pracovníky oprávněnými k jeho podpisování."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl osmý - Kontrola běžné účetní evidence",
+      "content": "(1) Formální správnost údajů běžné účetní evidence se musí kontrolovat alespoň jednou za měsíc ke konci posledního dne měsíce, a to přezkoušením podvojnosti zápisů syntetické evidence, číselné shody údajů soustavných a časových zápisů a číselné shody údajů syntetické a analytické evidence za uplynulé období. Shodu údajů syntetické evidence základních prostředků a jejich analytické evidence podle inventárních předmětů však stačí přezkušovat alespoň jednou ročně ke dni inventarizace základních prostředků.\n(2) Podvojnost zápisů syntetické evidence a číselná shoda jejích údajů s údaji časových zápisů se přezkušuje na podkladě předvahy, která musí pro jednotlivé syntetické účty obsahovat alespoň\na) jejich číselná označení,\nb) jejich zůstatky k začátku prvního dne sledovaného měsíce (k začátku prvního dne roku), popřípadě rozvedené na aktivní a pasívní,\nc) jejich obraty za sledovaný měsíc (od začátku roku),\nd) jejich zůstatky ke konci posledního dne měsíce, popřípadě rozvedené na aktivní a pasívní, s vyznačením spojitosti mezi nimi a položkami rozvahy, není-li tato spojitost zajištěna jiným způsobem.\n(3) Číselná shoda údajů syntetické a analytické evidence se přezkušuje podle obratů nebo zůstatků příslušných účtů. Nevyplývá-li tato číselná shoda přímo z účetních knih (při použití určité účetní techniky) nebo z jiných písemností účetní evidence, musí se jako podklad k jejímu přezkoušení sestavit ke každému syntetickému účtu kontrolní soupiska z obratů nebo zůstatků příslušných analytických účtů. Kontrolní soupisku však není třeba sestavovat ze mzdových listů.\n(4) V rozpočtových organizacích může předvaha místo obratů uvedených v odstavci 2 písm. c) obsahovat součty (obraty od začátku roku včetně zůstatku k začátku prvního dne roku). Stejně se pak postupuje u kontrolních soupisek (odstavec 3)."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl osmý - Kontrola běžné účetní evidence",
+      "content": "(1) Věcnou správnost údajů běžné účetní evidence je nutno zabezpečovat soustavou organizačních a kontrolních opatření, aby byly všechny doklady zaúčtovány správnými částkami do patřičného období a na správné účty.\n(2) Věcná správnost údajů běžné účetní evidence se kontroluje periodicky inventarizací hospodářských prostředků."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl devátý - Výsledná kalkulace vlastních nákladů",
+      "content": "(1) Výsledná kalkulace vlastních nákladů se sestavuje z údajů běžné účetní evidence nebo z účetních dokladů, popřípadě s využitím údajů operativně technické evidence a statistiky.\n(2) Pokud si to nevyhradí ústřední orgán, určí nižší nadřízené orgány, v kterých případech musí podřízené organizace sestavovat výsledné kalkulace vlastních nákladů."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl devátý - Výsledná kalkulace vlastních nákladů",
+      "content": "(1) Výsledná kalkulace vlastních nákladů se sestavuje pro jednotlivé kalkulační jednice podle stanoveného odborového kalkulačního vzorce a pokynů k němu.\n(2) Kalkulační jednicí se rozumějí výrobky a výkony, popřípadě jejich části nebo skupiny, vymezené množstvím, časem nebo jiným způsobem.\n(3) Výsledná kalkulace vlastních nákladů musí být srovnatelná s jejich předběžnou kalkulací."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "Část třetí - BĚŽNÁ ÚČETNÍ EVIDENCE > Díl devátý - Výsledná kalkulace vlastních nákladů",
+      "content": "(1) Vlastní náklady kalkulační jednice se zachycují v kalkulačních listech, pokud nevyplývají přímo z analytické evidence.\n(2) Údaje o nákladech v kalkulačních listech, pokud nevyplývají z běžné účetní evidence, musí být doloženy doklady, pro něž platí přiměřeně ustanovení o účetních dokladech."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Základní prostředky se oceňují v rozvaze a v běžné účetní evidenci skutečnou pořizovací hodnotou s výjimkami podle odstavců 2 a 3 a podle zvláštních předpisů.*)\n(2) Základní prostředky, které byly organizací socialistického sektoru pořízeny (nabyty) bezplatně ze základních prostředků jiných organizací socialistického sektoru, s výjimkou jednotných zemědělských družstev, se oceňují pořizovací hodnotou, v níž byly u odevzdávající organizace zachyceny v účetní evidenci. Odevzdávající organizace sníží tuto hodnotu o náklady, které vynaložila na montáž odevzdávaného základního prostředku a nabývající organizace ji zvýší o náklady na novou montáž, popřípadě o jiné náklady patřící do pořizovací hodnoty.\n(3) Základní prostředky, které byly pořízeny (nabyty) za úplatu ze základních prostředků jiných organizací socialistického sektoru a dále bezplatně nebo za úplatu z majetku jednotných zemědělských družstev a soukromých osob, se oceňují reprodukční pořizovací hodnotou ke dni tohoto pořízení. Obdobně se oceňují i nově zjištěné, avšak v účetní evidenci nezachycené základní prostředky, nedá-li se zjistit jejich skutečná pořizovací hodnota.\n(4) Ocenění základních prostředků lze měnit jen tehdy, zjistí-li se prokazatelná chyba v jejich ocenění."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Skutečná pořizovací hodnota základních prostředků zahrnuje skutečné vlastní náklady jejich pořízení, počítajíc v to i náklady na jejich projekt, dopravu na místo určení a montáž. Do této hodnoty se však nezapočítávají náklady spojené\na) s odevzdáním a převzetím základních prostředků, včetně jejich komplexního vyzkoušení, se zkušebním provozem, s povolením k uvedení do trvalého provozu (užívání) a s jejich záběhem,\nb) s přemístěním základních prostředků uvnitř organizace, pokud k přemístění nedochází v rámci výstavby nebo rekonstrukce.\n(2) Reprodukční pořizovací hodnota odpovídá skutečné pořizovací hodnotě, kterou by ke dni pořízení měl oceňovaný základní prostředek, kdyby byl pořízen jako nový. Nestanoví-li ministerstvo financí jinak, zjišťuje se reprodukční pořizovací hodnota na podkladě stanovených cen (velkoobchodních, maloobchodních apod.) stejných, popřípadě srovnatelných předmětů tuzemské výroby. Reprodukční pořizovací hodnota pozemků se stanoví na podkladě ceníků vydaných pro jejich nové ocenění při generální inventarizaci."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Opotřebení základních prostředků, u kterých se podle zvláštních předpisů*) provádějí odpisy, se v rozvaze a v běžné účetní evidenci vyjadřuje jako oprávky. Částka oprávek se postupně zvyšuje o prováděné odpisy a snižuje o skutečné vlastní náklady generálních oprav.\n(2) Počáteční stav oprávek k základním prostředkům, které byly pořízeny\na) podle ustanovení § 41 odst. 2 a u odevzdávající organizace se odpisovaly, se převezme v částce vyúčtované u této organizace ke dni odevzdání, nejvýše však v částce pořizovací hodnoty nabytého základního prostředku,\nb) v ostatních případech podle § 41 odst. 2 a v případech podle ustanovení § 41 odst. 3, se vypočte jako opotřebení základních prostředků přiměřeně podle předpisů o generální inventarizaci.**)"
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Nedokončené a dokončené investice a generální opravy se v rozvaze a v běžné účetní evidenci oceňují skutečnými vlastními náklady jejich pořízení. U investic a generálních oprav pořizovaných ve vlastní režii se za skutečné vlastní náklady pořízení považují částky vnitropodnikové faktury.\n(2) Pořizují-li se základní prostředky způsobem uvedeným v § 41 odst. 2 a 3, patří do investic jen částky skutečně na ně vynaložené."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Jako základní prostředky se vyúčtují\na) stavby a budovy, adaptace zvyšující jejich pořizovací hodnotu a zařízení vyžadující montáž po jejich dokončení a převzetí,\nb) jiné předměty patřící do základních prostředků (včetně strojů a zařízení vyžadujících montáž, určených pro rezervu) a nakupovaná zvířata patřící do základních prostředků po jejich převzetí,\nc) zvířata vlastního chovu patřící do základních prostředků, jakmile nabudou znaků dospělých chovných nebo tažných zvířat,\nd) základní prostředky v účetní evidenci nezachycené po jejich zjištění a ověření (§ 72 odst. 2).\n(2) Investiční náklady spojené se zakládáním dlouhodobých porostů a s investičními pracemi na pozemcích, na lesních a vodních plochách (meliorační, vysušovací, zavlažovací a podobné práce) se vyúčtují jako základní prostředky koncem každého roku ve vynaložené částce bez zřetele k tomu, zda byl nebo nebyl dokončen celý komplex prací.\n(3) Ustanovení odstavce 1 písm. a) a odstavce 2 platí u investora obdobně i o investičních pracích v cizích základních prostředcích."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Ze základních prostředků se odpíší opotřebené, prodané a bezplatně předané základní prostředky po jejich fyzickém vyřazení na podkladě zvláštních předpisů.*) Rovněž se odpíší chybějící nebo zničené základní prostředky po zjištění a ověření těchto skutečností (§ 72 odst. 1).\n(2) Současně s vyúčtováním vyřazených základních prostředků se odpíší odpovídající oprávky, pokud se podle zvláštních předpisů u těchto základních prostředků prováděly odpisy."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl první - Základní prostředky, investice a generální opravy",
+      "content": "(1) Investiční náklady, kterými se nezvětšuje pořizovací hodnota základních prostředků, se nezahrnují do těchto prostředků a na konci roku se odpíší na vrub zdrojů jejich financování.\n(2) V ostatních případech se náklady na investice odpíší, a to na vrub zdrojů jejich financování, jen tehdy, bylo-li podle zvláštních předpisů*) rozhodnuto, že se příslušné investiční práce trvale zastavují a že jich nebude použito k žádnému účelu."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Základní materiál, pomocný materiál, palivo, obaly, náhradní součástky, nedokončená výroba, polotovary vlastní výroby, výrobky a zboží se oceňují v rozvaze a v běžné účetní evidenci skutečnými vlastními náklady jejich pořízení, s výjimkami a úpravami uvedenými v §§ 49 a 52 až 56. Odpad a materiál vrácený z používání se oceňuje cenou možného použití.\n(2) V rozpočtových organizacích a ve společenských organizacích se oceňuje materiál, palivo, obaly a náhradní součástky v rozvaze a v běžné účetní evidenci skutečnými nákupními cenami. Výrobky, které rozpočtové organizace získávají z vlastní činnosti, se oceňují cenami maloobchodními nebo výkupními, popřípadě, nelze-li těchto cen použít, cenami stanovenými odhadem."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "Základní materiál, pomocný materiál, palivo, obaly a náhradní součástky je dovoleno v běžné účetní evidenci oceňovat buď\na) plánovanými vlastními náklady jejich pořízení s odděleným účtováním odchylek skutečných vlastních nákladů pořízení od plánovaných (oceňovacích odchylek), nebo\nb) velkoobchodními cenami, popřípadě skutečnými výkupními cenami, s odděleným účtováním rozdílů mezi těmito cenami a skutečnými vlastními náklady pořízení (vedlejších pořizovacích nákladů),\nc) v rozpočtových organizacích však zúčtovacími cenami s odděleným účtováním oceňovacích odchylek skutečných nákupních cen od cen zúčtovacích."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Drobné a krátkodobé předměty na skladě a v používání se s výjimkami podle odstavců 2 a 3 oceňují v běžné účetní evidenci skutečnými vlastními náklady jejich pořízení, při čemž se jejich opotřebení vyjadřuje jako oprávky.\n(2) Drobné a krátkodobé předměty na skladě je dovoleno v běžné účetní evidenci oceňovat také podle ustanovení § 49.\n(3) Drobné a krátkodobé předměty v používání je dovoleno v běžné účetní evidenci oceňovat také plánovanými vlastními náklady nebo velkoobchodními cenami.\n(4) Drobné a krátkodobé předměty na skladě i v používání se uvádějí v rozvaze hodnotou odpovídající jejich ocenění podle odstavců 1 a 3 po odečtení oprávek.\n(5) Hodnota do používání vydaných krátkodobých předmětů, drobných předmětů, pracovního oděvu, pracovní obuvi a ložní výbavy, jakož i výměnných zařízení s výjimkou těch, které mají zároveň povahu speciálních nástrojů nebo speciálních přípravků, se odpisuje podle doby jejich upotřebitelnosti nebo tak, že se jako opotřebení vyúčtuje 50 % hodnoty při jejich vydání ze skladu do používání a zbývajících 50 % po odečtení ceny jejich možného použití při vyřazení.\n(6) Hodnotu krátkodobých předmětů, drobných předmětů, pracovního oděvu, pracovní obuvi a ložní výbavy, jejichž doba upotřebitelnosti je kratší než měsíc nebo jejichž hodnota je nižší než 300 Kčs, je dovoleno odepsat plně při jejich vydání do používání. Směrnice k účtovým osnovám nebo ústřední orgány mohou stanovit nižší hranici než 300 Kčs.\n(7) Hodnota speciálních nástrojů a speciálních přípravků určených pro jednu zakázku nebo sérii, se odpisuje plně při zahájení její výroby. Hodnota ostatních speciálních nástrojů a speciálních přípravků se odpisuje podle množství výrobků, plánovaného nejdéle na období dvou let nebo se souhlasem přímo nadřízeného orgánu nejdéle na období čtyř let od vydání těchto předmětů do používání.\n(8) Hodnota výměnných zařízení, která mají povahu speciálních nástrojů nebo speciálních přípravků, se odpisuje způsobem uvedeným v odstavci 7."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) V rozpočtových organizacích se drobné a krátkodobé předměty na skladě i v používání, zařazené podle směrnic k účtové osnově do fondu v drobných a krátkodobých předmětech, oceňují v rozvaze a v běžné účetní evidenci zúčtovacími cenami. Ostatní drobné a krátkodobé předměty na skladě se oceňují v rozvaze skutečnými nákupními cenami.\n(2) Ve společenských organizacích se drobné a krátkodobé předměty oceňují v rozvaze a v běžné účetní evidenci skutečnými vlastními náklady pořízení.\n(3) V rozvaze a v běžné účetní evidenci rozpočtových organizací a společenských organizací se opotřebení drobných a krátkodobých předmětů nevyjadřuje a nevytvářejí se oprávky."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Nedokončenou výrobu a polotovary vlastní výroby je dovoleno v rozvaze a v běžné účetní evidenci oceňovat\na) v průmyslové výrobě hromadné a sériové běžnými normovými vlastními náklady,\nb) v průmyslové výrobě kusové skutečnými přímými náklady a běžnými normovými sazbami v položkách dílenské a celopodnikové režie.\n(2) Polotovary vlastní výroby je však také dovoleno v běžné účetní evidenci oceňovat buď plánovanými vlastními náklady jejich pořízení, nebo velkoobchodními cenami za podmínek uvedených v § 49.\n(3) Nedokončené stavební práce je dovoleno v rozvaze a v běžné účetní evidenci oceňovat normovými vlastními náklady podle výrobní kalkulace."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "Výrobky je dovoleno v běžné účetní evidenci oceňovat buď plánovanými vlastními náklady jejich pořízení s odděleným účtováním odchylek skutečných vlastních nákladů pořízení od plánovaných, nebo velkoobchodními cenami (bez daně z obratu) s odděleným účtováním rozdílů mezi těmito cenami a skutečnými vlastními náklady pořízení."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "Vlastní výrobky zemědělské výroby (rostlinné i živočišné), mladá zvířata a zvířata ve výkrmu se v rozvaze a v běžné účetní evidenci oceňují skutečnými vlastními náklady jejich pořízení. Vlastní výrobky zemědělské výroby získané během roku, jakož i kusové, váhové a vzrůstové přírůstky mladých zvířat a zvířat ve výkrmu se mohou oceňovat během roku do sestavení výsledné kalkulace plánovanými vlastními náklady pořízení."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Zboží ve velkoobchodních skladech, v maloobchodních prodejnách a skladech a v závodech veřejného stravování se v rozvaze oceňuje skutečnými nákupními cenami zvýšenými o skutečné náklady na dopravu zboží. Jsou-li tyto náklady nepatrné, je možno zboží v maloobchodních prodejnách a skladech a v závodech veřejného stravování oceňovat skutečnými nákupními cenami.\n(2) Vykoupené zboží se v rozvaze oceňuje skutečnými výkupními cenami, nestanoví-li směrnice k účtovým osnovám výjimečně jinak.\n(3) Zboží ve skladech podniků pro zahraniční obchod se v rozvaze oceňuje skutečnými nákupními cenami.\n(4) Podle schválených vzorů účetních výkazů lze hodnotu zboží uvádět v rozvaze v několika složkách."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Zboží v odbytových (zásobovacích) skladech je podle jeho určení dovoleno v běžné účetní evidenci oceňovat velkoobchodními, popřípadě fakturními nebo maloobchodními cenami s odděleným účtováním vedlejších pořizovacích nákladů a zvlášť obchodních přirážek nebo srážek.\n(2) Zboží ve velkoobchodních skladech je dovoleno v běžné účetní evidenci oceňovat buď maloobchodními cenami s odděleným účtováním skutečných nákladů na dopravu zboží a zvlášť obchodních srážek, nebo skutečnými nákupními cenami s odděleným účtováním skutečných nákladů na dopravu zboží.\n(3) Zboží v maloobchodních prodejnách a skladech a v závodech veřejného stravování je dovoleno v běžné účetní evidenci oceňovat maloobchodními cenami s odděleným účtováním skutečných nákladů na dopravu zboží a zvlášť obchodních srážek. Jsou-li náklady na dopravu zboží nepatrné, je možno zboží oceňovat maloobchodními cenami s odděleným účtováním obchodních srážek.\n(4) Vykoupené zboží je dovoleno v běžné účetní evidenci oceňovat\na) plánovanými výkupními cenami s odděleným účtováním odchylek skutečných výkupních cen od plánovaných nebo\nb) skutečnými výkupními cenami s odděleným účtováním skutečných vedlejších pořizovacích nákladů.\n(5) Zboží ve skladech podniků pro zahraniční obchod je dovoleno v běžné účetní evidenci oceňovat plánovanými nákupními cenami s odděleným účtováním odchylek skutečných nákupních cen od plánovaných.\n(6) Pro organizace jednotlivých odvětví se určí ve směrnicích k účtovým osnovám, kterého ze způsobů oceňování zboží uvedených v odstavcích 1 až 5 se u nich použije."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Skutečné vlastní náklady pořízení zásob zahrnují,\na) jde-li o nákup, skutečnou nákupní cenu a všechny skutečné vedlejší pořizovací náklady (tj. zejména náklady na dopravu, manka vzniklá během dopravy přirozeným úbytkem a nepřevyšující stanovené normy, náklady spojené s dodáním do skladu, nikoliv však zdržné, stojné a jiné neproduktivní náklady),\nb) jde-li o vlastní výrobu, všechny náklady skutečně na ni vynaložené.\n(2) U zásob, které se v běžné účetní evidenci oceňují velkoobchodními cenami a byly pořízeny nákupem za velkoobchodní cenu franko stanice nebo sklad příjemce, může být tato cena z důvodu zjednodušení pokládána za skutečné vlastní náklady pořízení, jsou-li vedlejší pořizovací náklady nepatrné."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Hodnota zásob v rozvaze a v běžné účetní evidenci se jednorázově sníží na cenu možného použití, popřípadě se zcela odpíše u zásob\na) poškozených nebo fyzicky znehodnocených přirozeným úbytkem jakosti,\nb) odevzdaných do sběru bez náhrady, odvezených nebo určených k odvozu na odval, popřípadě vydaných nebo určených k vydání do použití ve vlastní organizaci jako odpadu, šrotu nebo sběrné suroviny,\nc) nepotřebných pro vlastní organizaci ani pro jiné organizace, není-li ještě účelné naložit s nimi podle písmene b) nebo je prodat a dá-li k snížení hodnoty souhlas přímo nadřízený orgán (u ústředních orgánů jejich vedoucí). Nadřízený orgán může své oprávnění převést na vedoucího podřízené organizace.\n(2) Nepotřebnost zásob pro jiné organizace musí být prokázána tím, že tyto organizace nemají zájem o koupi zásob, a to ani za sníženou cenu, odpovídající ceně jejich možného použití. Za průkaz lze pokládat\na) písemné odmítnutí nabídky zásob učiněné několika organizacím spotřebitelských odvětví nebo orgánu jim nadřízenému, nebo\nb) písemné odmítnutí nabídky zásob učiněné příslušné výkupní nebo dodavatelské organizaci, nebo\nc) bezvýslednou inzerci v tisku, nebo\nd) bezvýsledné nabízení na výstavě, ve výprodeji, na zvlášť organizovaných trzích apod.\n(3) Hodnota zásob snížená podle odstavce 1 nesmí být později znovu zvyšována, a to ani když se změnou poměrů zvýší cena jejich možného použití."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "(1) Hodnota zásob v rozvaze a v běžné účetní evidenci se jednorázově sníží nebo zvýší, dochází-li ke změně státních velkoobchodních a velkoobchodních cen nebo státních maloobchodních a maloobchodních cen podle zvláštních předpisů.\n(2) Úprava hodnoty partiového a jiného neplnohodnotného průmyslového zboží ve velkoobchodních skladech a v maloobchodních prodejnách a skladech se provádí v souladu se zvláštními předpisy.*)"
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl druhý - Zásoby",
+      "content": "Ministerstvo financí může v ekonomicky zdůvodněných případech podle potřeb jednotlivých resortů povolit výjimky z ustanovení o oceňování zásob, zejména pokud jde o hotové výrobky."
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva, jejichž oceňování není upraveno v §§ 41 až 59, popřípadě směrnicemi k účtovým osnovám, se v účetní evidenci uvádějí jmenovitou částkou."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Pohledávky a dluhy uvádí organizace v účetní evidenci částkami podle příslušných vnějších účetních dokladů."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Nároky z penále, smluvních pokut a z obdobných právních titulů se v zúčastněných organizacích vyúčtují jako pohledávka nebo dluh nejpozději ke dni, kdy s nimi dlužník projeví souhlas, popřípadě je uhradí, nebo — neučiní-li tak — ke dni, kdy nabylo právní moci rozhodnutí příslušného orgánu o těchto nárocích. Za souhlas se pro účely účetní evidence pokládá také, jestliže dlužník nevznese proti nároku námitky ve lhůtě k tomu stanovené zvláštními předpisy, popřípadě organizací, která nárok uplatňuje."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "(1) Pohledávky a zároveň i odpovídající dluhy se smějí odepsat jen tehdy, došlo-li\na) k prominutí dluhu,\nb) k pravomocnému rozhodnutí příslušného orgánu o zamítnutí uplatňované pohledávky,\nc) k promlčení pohledávky,\nd) k zániku pohledávky uplynutím doby,\ne) k zrušení pohledávky úředním opatřením.\n(2) Pohledávky lze též odepsat, bylo-li upuštěno od jejich vymáhání pro jejich nepatrnost, nedobytnost nebo neprůkaznost.\n(3) Pohledávky odepsané jen pro přechodnou nedobytnost nebo neprůkaznost se musí evidovat na podrozvahovém účtě po dobu, dokud se nedobytnost nebo neprůkaznost nestane trvalou nebo dokud nenastane některá ze skutečností uvedených v odstavci 1.\n(4) Pohledávky smějí být odepsány nebo vypuštěny z evidence na podrozvahovém účtě až po řízení provedeném podle zvláštních předpisů.*)"
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Zůstatky zúčtování s peněžními ústavy, popřípadě s podřízenými organizacemi se musí běžně sesouhlasovat podle docházejících výpisů z účtů, popřípadě podle předložených účetních výkazů, a rozdíly musí být odstraněny nejpozději do deseti dnů ode dne, kdy byl rozdíl zjištěn."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Jako peníze na cestě se smějí v rozvaze uvést\na) vklady organizace v hotovosti na účty u peněžního ústavu nebo výběry hotovostí z nich,\nb) převody mezi účty organizace u peněžních ústavů,\nc) převody mezi účty nadřízeného orgánu a podřízené organizace u peněžních ústavů týkající se odvodů a přídělů,\njestliže jde u zúčastněných organizací o účetní případy různých období."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "(1) Výdaje, které hospodářsky souvisí s činností organizace v příštích obdobích, se vyúčtují do nákladů nejdéle během dvou let, ve zvláštních případech se souhlasem přímo nadřízeného orgánu během čtyř let.\n(2) Náklady na přípravu a záběh výroby se odpisují podle množství výrobků plánovaného nejdéle na období podle odstavce 1. Náklady na důlní přípravné práce se odpisují podle plánovaného množství vytěžených surovin nebo během plánované doby trvání těžby.\n(3) Náklady na neplánované běžné opravy musí být zahrnuty do nákladů toho roku, v němž byly provedeny.\n(4) Náklady na staveništní zařízení se odpisují postupně, nejdéle po dobu provádění prací na staveništi."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "(1) Časově rozlišené mzdy, platy a pojistné nemocenského pojištění zaměstnanců připadající na dobu dovolené zaměstnanců a na placené dny pracovního volna lze zahrnovat do nákladů jednotlivých měsíčních období stanoveným procentem z ročního plánovaného úhrnu mezd a platů.\n(2) Bankovní úroky a nájemné placené čtvrtletně je dovoleno zahrnovat patřičnými podíly do nákladů měsíčních období téhož čtvrtletí.\n(3) Náklady na plánované běžné opravy, které se provádějí během roku nerovnoměrně, je dovoleno zahrnout během roku do nákladů jednotlivých měsíčních období, a to částkami plánovanými pro tato období.\n(4) Odpisy základních prostředků připadající na období, v němž je v organizaci hromadná dovolená (celopodniková, celozávodní nebo celoprovozní), mohou se zahrnout do nákladů ostatních období téhož roku."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "(1) V organizacích, v kterých se pracuje jen po určitou část roku (sezónní výroba), se výdaje za období mimo sezónu účtují do skutečných nákladů výroby po dobu sezóny.\n(2) V organizacích prodávajících individuální výrobky se zárukou nebo prodávajících jiné výrobky se zárukou delší než čtyři léta je dovoleno tvořit rezervu na záruční opravy a náhrady odběratelům těchto výrobků, nejvýše však do plánovaných částek záručních závazků. Nepoužité částky této rezervy se vyúčtují po uplynutí záruční lhůty za jednotlivé dodávky."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Jiné rezervy, než jsou uvedeny v §§ 68 a 69, se smějí tvořit jen tehdy, jestliže to stanoví nebo k tomu dá souhlas ministerstvo financí."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl třetí - Peněžní prostředky v hotovosti, ceniny, pohledávky, dluhy a ostatní aktiva a pasíva",
+      "content": "Příjmy, které hospodářsky souvisí s činností organizace v příštích obdobích, se vyúčtují do výnosů v obdobích, jichž se hospodářské operace týkají."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl čtvrtý - Manka a přebytky",
+      "content": "(1) Chybějící hospodářské prostředky (manka) a zničené hospodářské prostředky se v účetní evidenci po zjištění a ověření skutečnosti odpíší a vyúčtují způsobem určeným ve směrnicích k účtovým osnovám.\n(2) Hospodářské prostředky, které měly být, avšak nejsou zachyceny v účetní evidenci, se po jejich zjištění a ověření musí řádně vyúčtovat jako přebytky."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73",
+      "chapter": "Část čtvrtá - OCEŇOVÁNÍ V ÚČETNÍ EVIDENCI A ZÁSADY PRO SESTAVOVÁNÍ ROZVAH > Díl pátý - Měnová jednotka",
+      "content": "(1) Měnovou jednotkou pro oceňování hospodářských prostředků v účetní evidenci je koruna československá. S výjimkou rozvahy a účetních výkazů o výsledcích hospodaření je však v účetní evidenci organizací, které jsou v hospodářském styku s cizinou, dovoleno používat kromě toho také cizí měny.\n(2) Cizí měna se přepočítává na koruny československé kursem platným v den účtování."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl první - Periodické a mimořádné inventarizace",
+      "content": "(1) Periodické inventarizace aktiv, dluhů, rezerv a položek financování se musí provádět alespoň jednou za kalendářní rok, neurčí-li nadřízený orgán, aby byly prováděny vícekrát za rok.\n(2) Nadřízené orgány určí období, ve kterých musí být periodické inventarizace prováděny, popřípadě i den, k němuž musí být provedeny, a to tak, aby se zvláště v ročních účetních výkazech zajistil soulad jejich údajů se skutečností.\n(3) Periodické inventarizace se provádějí zpravidla k poslednímu dni měsíce, a to vždy najednou alespoň u všech hospodářských prostředků účtovaných na jednom syntetickém účtu, popřípadě na jednom skupinovém analytickém účtu.\n(4) Periodickou inventarizaci hospodářských prostředků není třeba provádět, je-li v období nebo ke dni podle odstavce 2 provedena mimořádná inventarizace těchto prostředků (§ 75)."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl první - Periodické a mimořádné inventarizace",
+      "content": "Organizace musí provést mimořádnou inventarizaci hospodářských prostředků\na) při změně pracovníků přímo odpovědných za tyto hospodářské prostředky, a to ke dni odevzdání a převzetí funkcí,\nb) v případech stanovených zvláštními předpisy, ministerstvem financí, nadřízeným orgánem nebo orgánem příslušným podle zvláštních předpisů."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) Při inventarizaci se musí zjistit skutečné stavy hospodářských prostředků, srovnat s jejich stavy podle údajů účetní evidence, vyšetřit rozdíly mezi těmito stavy (dále jen „inventarizační rozdíly“) a jejich příčiny. Inventarizaci podléhají i hospodářské prostředky, které sice organizaci nepatří, avšak jsou u ní v době provádění inventarizace; tato povinnost se netýká dopravních podniků, pokud jde o předměty odevzdané jim k přepravě.\n(2) Postup při provádění inventarizací se musí organizovat tak, aby se zabezpečilo zejména úplné a správné zjištění skutečných stavů hospodářských prostředků."
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) K provedení inventarizace ustanoví vedoucí organizace jednu nebo více inventarizačních komisí a jejich vedoucí.\n(2) Inventarizaci hospodářských prostředků, u nichž se provádí dokladová inventura (§ 78 odst. 1), není třeba provádět inventarizační komisí.\n(3) Pracovník přímo odpovědný za inventarizované hospodářské prostředky může být členem inventarizační komise, nikoli však jejím vedoucím."
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) Skutečné stavy hospodářských prostředků se musí zjistit fyzickou inventurou, připouští-li to jejich povaha (u základních prostředků, zásob, hotovostí, cenin apod.) a nebrání-li tomu místo, kde v době provádění inventarizace jsou. V ostatních případech (u pohledávek, dluhů, položek financování apod.) a zpravidla také u budov, staveb a pozemků se skutečné stavy zjišťují dokladovou inventurou.\n(2) Fyzické inventury se musí zúčastnit pracovník přímo odpovědný za hospodářské prostředky. Jde-li o inventuru při změně přímo odpovědného pracovníka, musí se ji zúčastnit pracovník funkci odevzdávající i přejímající.\n(3) Nemůže-li se pracovník přímo odpovědný za hospodářské prostředky fyzické inventury ze závažných důvodů zúčastnit, provede inventarizační komise inventuru bez jeho účasti."
+    },
+    {
+      "provision_ref": "§ 79",
+      "section": "79",
+      "title": "§ 79",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) Skutečné stavy těch hospodářských prostředků, u nichž se provádí zásadně fyzická inventura, se musí zachytit v inventurních seznamech s takovým označením, aby byla spolehlivě zjistitelná jejich totožnost. Je dovoleno zachycovat skutečné stavy hospodářských prostředků pomocí mechanizačních prostředků.\n(2) Inventurní seznamy musí být sestaveny tak, aby se stavy hospodářských prostředků v nich zapsaných daly snadno sesouhlasit s údaji účetní evidence.\n(3) Inventurní seznamy mohou být spojeny s jinými písemnostmi. Mohou být též upraveny tak, aby se jich mohlo použít i při více inventurách, jestliže se z nich dá spolehlivě určit stav hospodářských prostředků zjištěných při jednotlivých inventurách.\n(4) Srovnávají-li se skutečné stavy základních prostředků, zjištěné fyzickou inventurou na místě, se zápisy na inventárních kartách (v inventární knize), postačí zapsat do inventurního seznamu jen inventární číslo. U základních prostředků, u nichž byly zjištěny nesrovnalosti, se musí uvést v inventurním seznamu i jiné potřebné údaje. Obdobně je dovoleno postupovat i u drobných a krátkodobých předmětů, pokud jsou opatřeny čísly a pokud je o nich vedena spolehlivá evidence podle těchto čísel.\n(5) Hospodářské prostředky, které patří jiným organizacím (§ 76 odst. 1), se zapíší do zvláštních inventurních seznamů odděleně podle jednotlivých organizací, jimž se zašle kopie inventurního seznamu."
+    },
+    {
+      "provision_ref": "§ 80",
+      "section": "80",
+      "title": "§ 80",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) Jednotlivé inventarizační rozdíly se musí písemně zachytit.\n(2) Provedení inventarizace musí inventarizační komise neprodleně doložit inventarizačním zápisem, podepsaným všemi jejími členy, v němž uvede zejména\na) označení inventarizovaných hospodářských prostředků,\nb) den, k němuž byla inventarizace provedena,\nc) den započetí a ukončení inventury,\nd) přehled vyhotovených inventurních seznamů,\ne) úhrn zjištěných inventarizačních rozdílů, jejich příčiny a alespoň souborný výpočet, z něhož vyplývá, že uvedený úhrn obsahuje všechny inventarizační rozdíly,\nf) návrh na vypořádání inventarizačních rozdílů,\ng) datum sepsání inventarizačního zápisu, které se pokládá za den ukončení inventarizace.\n(3) Pracovník přímo odpovědný za inventarizované hospodářské prostředky potvrdí v jejich inventurním seznamu nebo v odpovídajícím inventarizačním zápisu, že\na) fyzická inventura všech příslušných hospodářských prostředků, za které je přímo odpovědný, byla provedena za jeho účasti a že žádné hospodářské prostředky nezatajil,\nb) hospodářské prostředky v inventurním seznamu zapsané jsou v jeho opatrování."
+    },
+    {
+      "provision_ref": "§ 81",
+      "section": "81",
+      "title": "§ 81",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "O opravách inventurních seznamů a inventarizačních zápisů platí přiměřeně ustanovení § 34. Poznámka o provedení opravy však musí být podepsána všemi členy inventarizační komise, a týká-li se oprava skutečných stavů hospodářských prostředků zjištěných fyzickou inventurou, také pracovníkem přímo za ně odpovědným."
+    },
+    {
+      "provision_ref": "§ 82",
+      "section": "82",
+      "title": "§ 82",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "Inventarizační rozdíly se musí vyúčtovat do deseti dní po ukončení inventarizace, vždy však ještě do roku, do něhož spadá den, ke kterému byla inventarizace provedena."
+    },
+    {
+      "provision_ref": "§ 83",
+      "section": "83",
+      "title": "§ 83",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "(1) Při inventarizaci se musí také zjistit a uvést v inventarizačních zápisech\na) investiční práce, v nichž se nebude pokračovat, a navrhnout, aby bylo rozhodnuto o jejich trvalém zastavení (§ 47 odst. 2),\nb) poškozené, fyzicky znehodnocené a nepotřebné zásoby a navrhnout snížení nebo odepsání jejich hodnoty, popřípadě jejich likvidaci (§ 58 odst. 1),\nc) pohledávky k odepsání a navrhnout je k příslušnému řízení (§ 64),\nd) dluhy k odepsání a upozornit na nutnost jejich odepsání (§ 64 odst. 1),\ne) neupotřebitelné, popřípadě nevyužité základní prostředky a navrhnout opatření ve smyslu zvláštních předpisů,*)\nf) případy, ve kterých již bylo rozhodnuto v příslušném řízení podle písm. a), b) a c), avšak které nebyly ještě vyúčtovány, a upozornit na nutnost jejich řádného vyúčtování.\n(2) O dalším postupu na podkladě návrhů učiněných podle odstavce 1 musí být rozhodnuto do deseti dní po ukončení inventarizace. Účetní zápisy podle odstavce 1 písm. d) a f) musí být provedený ve stejné lhůtě jako vyúčtování inventarizačních rozdílů (§ 82)."
+    },
+    {
+      "provision_ref": "§ 84",
+      "section": "84",
+      "title": "§ 84",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "Nebyla-li k provedení dokladové inventury ustanovena inventarizační komise (§ 77 odst. 2), sepíše pracovník, který ji provedl, inventarizační zápis přiměřeně podle § 80 odst. 2 a podepíše jej."
+    },
+    {
+      "provision_ref": "§ 85",
+      "section": "85",
+      "title": "§ 85",
+      "chapter": "Část pátá - INVENTARIZACE HOSPODÁŘSKÝCH PROSTŘEDKŮ > Díl druhý - Postup při provádění inventarizací",
+      "content": "Ministerstva a jiné ústřední úřady a orgány vydají v mezích úpravy podle §§ 76 až 84 podrobnější předpisy o postupu při provádění inventarizací a o způsobu zjišťování mank."
+    },
+    {
+      "provision_ref": "§ 86",
+      "section": "86",
+      "title": "§ 86",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Písemnosti účetní evidence, jakmile jich není třeba k běžným účtárenským pracím a lze z nich vytvořit ucelené soubory, se uspořádaně podle předem stanoveného pořádku ukládají do uzamknutelných místností nebo skříní odděleně od jiných písemností (účetní archiv) a svěří se do opatrování určenému pracovníku. V účetním archívu zůstanou písemnosti účetní evidence uloženy po přechodnou dobu stanovenou uschovacími lhůtami, než po skartaci dojde k jejich trvalému uložení do podnikových nebo jiných archívů.**)\n(2) Před uložením do účetního archívu musí být písemnosti účetní evidence uspořádaně uschovány na jiných místech, zpravidla pod odpovědností pracovníků, kteří jich používají k své práci, a zabezpečeny proti ztrátě, zničení nebo poškození.\n(3) O ztrátě nebo zničení písemností účetní evidence, jakož i o takovém jejich poškození, jímž byly zničeny nebo se staly nečitelnými části jejich obsahu, se musí sepsat zápis. Je-li důvodné podezření, že ztráta, zničení nebo poškození písemností byly způsobeny trestným činem nebo přestupkem byť i neznámého pachatele, je nutno uvědomit o věci písemně přímo nadřízený orgán a místně příslušné oddělení veřejné bezpečnosti.\n(4) Obdobně jako písemnosti účetní evidence se musí uspořádaně uschovávat i evidenční listy o době zaměstnání a výdělku pro účely sociálního zabezpečení zaměstnanců a členů výrobních družstev, a to do té doby, pokud nevznikne povinnost je odevzdat orgánům sociálního zabezpečení podle zvláštních předpisů.*) Tyto evidenční listy se však do účetního archívu neukládají."
+    },
+    {
+      "provision_ref": "§ 87",
+      "section": "87",
+      "title": "§ 87",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Písemnosti účetní evidence ve vázaných knihách se ukládají do účetního archívu zpravidla samostatně. Účetní knihy na volných listech, účetní doklady a ostatní písemnosti účetní evidence na volných listech se ukládají v určitých souborech (např. deník, popřípadě jednotlivé deníky, hlavní kniha v uspořádání podle účtového rozvrhu, účetní doklady v pořadí jejich čísel, inventarizační zápisy s inventurními seznamy), které se spojí do svazků označených podle jejich obsahu. Při tvoření souborů se přihlíží také k předpisům o utajování, které jsou touto vyhláškou nedotčeny, a k tomu, aby písemnosti téhož souboru měly stejnou uschovací lhůtu.\n(2) Ukládané knihy a svazky se zapisují jednotlivě do vázané archívní knihy, která patří k písemnostem účetní evidence a pro kterou platí přiměřeně ustanovení této vyhlášky o vázaných účetních knihách. Zápis musí obsahovat datum uložení a takové údaje, aby se podle nich dala spolehlivě zjistit totožnost jednotlivých knih a svazků."
+    },
+    {
+      "provision_ref": "§ 88",
+      "section": "88",
+      "title": "§ 88",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Písemnosti účetní evidence lze vydávat z účetního archívu pracovníkům organizace jen na potvrzení.\n(2) Vydávat písemnosti účetní evidence, i neuložené dosud v účetním archívu, orgánům nebo osobám mimo organizaci je dovoleno jen se souhlasem jejího vedoucího. Osobně lze písemnost vydat jen na potvrzení, při zasílání poštou nebo pod. je nutno o vydání písemnosti vyhotovit záznam."
+    },
+    {
+      "provision_ref": "§ 89",
+      "section": "89",
+      "title": "§ 89",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Při zániku organizace a převodu celého jejího majetku a všech závazků do jiné organizace převezme její písemnosti účetní evidence přejímající organizace.\n(2) Při vynětí částí majetku nebo závazků z organizace a jejich převodu do jiné nebo více jiných organizací se rozdělí a převezmou také příslušné písemnosti účetní evidence. Jejich rozdělení a převzetí zajistí ve vzájemné dohodě nadřízené orgány, které nařídily změny.\n(3) Dojde-li k zániku organizace likvidací bez právního nástupce, rozhodne o dalším uložení a úschově písemností účetní evidence nadřízený orgán, který nařídil likvidaci. Tam, kde nadřízený orgán není, je orgán, který provádí likvidaci, povinen naložit s písemnostmi účetní evidence v závěru likvidace podle ustanovení § 91 bez ohledu na uschovací lhůty."
+    },
+    {
+      "provision_ref": "§ 90",
+      "section": "90",
+      "title": "§ 90",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Lhůty pro úschovu písemností účetní evidence v účetním archívu upravují účetní zásady.\n(2) Děrné štítky a obdobné pomůcky pro práci na strojích na děrné štítky a na samočinných počítačích, které obsahují napsané nebo natištěné údaje tvořící součást písemností účetní evidence (zejména sdružené štítky), se ukládají a uschovávají v účetním archívu podle ustanovení platných pro příslušné písemnosti. Ostatní děrné štítky, děrné pásky apod. nejsou písemnostmi účetní evidence a není třeba je v účetním archívu uschovávat."
+    },
+    {
+      "provision_ref": "§ 91",
+      "section": "91",
+      "title": "§ 91",
+      "chapter": "Část šestá - UKLÁDÁNÍ A ÚSCHOVA PÍSEMNOSTÍ ÚČETNÍ EVIDENCE",
+      "content": "(1) Po uplynutí uschovacích lhůt se písemnosti účetní evidence vyřadí z účetního archívu podle platných předpisů o vyřazování (skartaci) písemností, a předpisů o archivnictví.*) Vyřazení se zaznamená v archívní knize a doklady o něm se uschovají jako její příloha.\n(2) K vyřazení knih analytické evidence pohledávek a dluhů, účetních dokladů, popřípadě i jiných písemností účetní evidence, které vyplývají z přímého styku s cizinou před 1. lednem 1949 (§ 26 odst. 4 účetních zásad), je třeba souhlasu. Ústředního likvidátora peněžních ústavů a podniků."
+    },
+    {
+      "provision_ref": "§ 92",
+      "section": "92",
+      "title": "§ 92",
+      "chapter": "Část sedmá - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Ministerstvo financí upraví podle potřeby podrobnosti účetní evidence směrnicemi.\n(2) Ministerstvo financí může ze závažných důvodů stanovit výjimky a odchylky z ustanovení této vyhlášky nebo v jednotlivých případech takové výjimky a odchylky povolit."
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93",
+      "chapter": "Část sedmá - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušeny jsou všechny předpisy upravující věci, na které se vztahuje tato vyhláška;*) zejména jsou zrušeny vyhlášky č. 354/1952 Ú. l., kterou se provádějí některá ustanovení účetních zásad, č. 347/1953 Ú. l., kterou se vydávají směrnice pro inventarizaci rozvahových položek, ve znění vyhlášky č. 110/1955 Ú. l., č. 223/1954 Ú. l., o inventarizaci hospodářských prostředků v rozpočtových organizacích a č. 206/1956 Ú. l., o zjednodušení ve věcech účetní evidence.**)"
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94",
+      "chapter": "Část sedmá - ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1959.\n*) Směrnice ministerstva financí ze dne 12. května 1958, čj. 112/128 500/58, o financování prací technického rozvoje (otištěné v č. 6 Věstníku ministerstva financí z roku 1958).\n*) Vyhláška ministra financí č. 65/1958 Ú. l., o odpisování základních fondů.\n**) Body 73 až 75 směrnic ministerstva financí o generální inventarizaci základních fondů, jejich novém ocenění a určení stupně jejich opotřebení (částka 43 Úředního listu z roku 1954) a body 9 až 15 pokynů ministerstva financí k podrobnějšímu provedení směrnic o generální inventarizaci základních fondů, jejich novém ocenění a určení stupně jejich opotřebení (částka 138 Úředního listu z roku 1954).\n*) Předpisy o správě národního majetku.\n*) Vyhláška ministerstva vnitřního obchodu č. 74/1958 Ú. l., o nákupu a prodeji partiového a jiného neplnohodnotného průmyslového zboží.\n*) Předpisy o správě národního majetku.\n*) Ustanovením § 32 účetních zásad.\n*) Předpisy o správě národního majetku.\n**) Vyhláška ministra vnitra č. 153/1956 Ú. l., o archívech hospodářských a rozpočtových organizací.\n*) § 76 odst. 1 zákona č. 55/1956 Sb., o sociálním zabezpečení.\n*) Vyhláška ministerstva vnitra č. 62/1953 Ú. l., o zásadách pro vyřazování (skartaci) písemností a vyhláška ministra vnitra č. 153/1956 Ú. l., o archívech hospodářských a rozpočtových organizací.\n*) Ustanovením § 32 účetních zásad.\n**) Dále je zrušen výnos ministerstva financí č. 141/100 000/1956, pokud upravuje zásady pro vedení účetní evidence v rozpočtových organizacích."
+    }
+  ],
+  "definitions": []
+}

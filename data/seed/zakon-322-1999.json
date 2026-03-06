@@ -1,0 +1,39 @@
+{
+  "id": "cz:322/1999",
+  "type": "statute",
+  "title": "322/1999 Sb., Vyhláška Ministerstva zdravotnictví, kterou se stanoví maximální limity reziduí pesticidů v potravinách a potravinových surovinách",
+  "title_en": "",
+  "short_name": "322/1999 Sb.",
+  "status": "in_force",
+  "issued_date": "1999-12-17",
+  "in_force_date": "2000-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1999/322",
+  "description": "Vyhláška Ministerstva zdravotnictví, kterou se stanoví maximální limity reziduí pesticidů v potravinách a potravinových surovinách",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Tato vyhláška stanoví maximální limity reziduí pesticidů v potravinách a potravinových surovinách aplikovaných během vegetace, po aplikaci při ochraně zásob a rezidua pesticidů jiného původu.\n(2) Rezidua pesticidů v potravinách a potravinových surovinách, limity a další podmínky jejich výskytu v potravinách a potravinových surovinách včetně způsobu hodnocení stanoví příloha."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Pro účely této vyhlášky se rozumí maximálním limitem reziduí pesticidů nejvyšší přípustné toxikologicky přijatelné množství reziduí pesticidů v rostlinném produktu, plodině nebo potravině.\n(2) Maximální limity reziduí pesticidů se vyjadřují v hmotnostním poměru mg.kg-1 celého definovaného produktu, není-li dále stanoveno jinak.\n(3) Maximální limity reziduí pesticidů v mléce a mléčných výrobcích s obsahem tuku do 4 % se vyjadřují na celý produkt; při obsahu tuku vyšším než 4 % se vyjadřují na tuk.\n(4) Maximální limity reziduí pesticidů v mase se u pesticidů, které jsou rozpustné v tucích, stanovují a vyjadřují na tuk, u ostatních na svalovinu.\n(5) Maximální limity reziduí pesticidů ve vejcích se stanoví ve vaječné hmotě bez skořápky.\n(6) Použití difenylu, o-fenylfenolu a thiabendazolu k ošetření povrchu citrusů a banánů je stanoveno ve zvláštních předpisech.1)\n(7) Údaje uváděné pro maso nebo maso jatečných zvířat platí i pro ostatní úpravy masa, maso drůbeží, maso králičí, droby, zvěřinu a výrobky z nich a masné výrobky.\n(8) Pro potraviny přímo vyrobené ze surovin uvedených v příloze platí stejný limit, který je uveden pro surovinu.\n(9) V potravinách určených pro kojeneckou a dětskou výživu se rezidua pesticidů nesmí vyskytovat s limitem 0,01 mg.kg-1 celého produktu, pokud není v příloze stanoveno jinak.\n(10) Potraviny, v nichž je vyšší než nejvyšší přípustné množství reziduí pesticidů, jsou jiné než zdravotně nezávadné2) a lze je použít jen jako potravinové suroviny, a to výlučně k těm způsobům zpracování, jejichž výsledkem je prokazatelná modifikace a snížení množství reziduí pesticidů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2000.\nPříloha k vyhlášce č. 322/1999 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky",
+      "definition": "maximálním limitem reziduí pesticidů nejvyšší přípustné toxikologicky přijatelné množství reziduí pesticidů v rostlinném produktu, plodině nebo potravině",
+      "source_provision": "§ 2"
+    }
+  ]
+}

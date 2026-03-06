@@ -1,0 +1,29 @@
+{
+  "id": "cz:62/1935",
+  "type": "statute",
+  "title": "62/1935 Sb., Vládní vyhláška, kterou se uvádí v prozatímní platnost dohoda o vzájemné ochraně práv ze živnostenského vlastnictví mezi republikou Československou a Svazem sovětských socialistických republik, podepsaná v Praze dne 25. března 1935.",
+  "title_en": "",
+  "short_name": "62/1935 Sb.",
+  "status": "in_force",
+  "issued_date": "1935-04-15",
+  "in_force_date": "1935-04-15",
+  "url": "https://www.e-sbirka.cz/sb/1935/62",
+  "description": "Vládní vyhláška, kterou se uvádí v prozatímní platnost dohoda o vzájemné ochraně práv ze živnostenského vlastnictví mezi republikou Československou a Svazem sovětských socialistických republik, podepsaná v Praze dne 25. března 1935.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "chapter": "Dohoda - mezi republikou Československou a Svazem sovětských socialistických republik o vzájemné ochraně práv ze živnostenského vlastnictví. - Závěrečný protokol.",
+      "content": "1. příslušníky rozumějí se osoby fysické, právnické, obchodní společnosti a státní hospodářské organisace,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "chapter": "Dohoda - mezi republikou Československou a Svazem sovětských socialistických republik o vzájemné ochraně práv ze živnostenského vlastnictví. - Závěrečný protokol.",
+      "content": "2. obě smluvní strany se zavazují, že uzavřou dohodu o ochraně oblastních známek o původu československého chmele ve Svazu sovětských socialistických republik."
+    }
+  ],
+  "definitions": []
+}

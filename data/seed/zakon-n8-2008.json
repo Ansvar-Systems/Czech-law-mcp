@@ -1,0 +1,27 @@
+{
+  "id": "cz:n8/2008",
+  "type": "statute",
+  "title": "n8/2008 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb v nařízení vlády č. 353/2008 Sb. a ve vyhlášce č. 393/2008 Sb.",
+  "title_en": "",
+  "short_name": "n8/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-12-01",
+  "in_force_date": "2008-12-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/n8",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb v nařízení vlády č. 353/2008 Sb. a ve vyhlášce č. 393/2008 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V čl. I bodě 8 mají místo slov „§ 3 písm. g)“ správně být slova „§ 3 písm. f)“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V příloze č. 1 v III. SEZNAM KÓDŮ POVAHY TRANSAKCÍ neoznačený text v Charakteristice kódu mezi kódy 92 a 94 má být správně označen kódem 93.\nV příloze č. 3 v II. ZPŮSOB UVÁDĚNÍ ÚDAJŮ DO VÝKAZŮ PRO INTRASTAT PŘI ODESLÁNÍ ZBOŽÍ v části Záhlaví Výkazu předávaného tiskopisu mají správně být označeny jednotlivé odstavce čísly 7. až 10."
+    }
+  ],
+  "definitions": []
+}

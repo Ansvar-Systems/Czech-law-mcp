@@ -1,0 +1,45 @@
+{
+  "id": "cz:442/2008",
+  "type": "statute",
+  "title": "442/2008 Sb., Vyhláška o podrobnostech evidence letadel provozovaných Policií České republiky",
+  "title_en": "",
+  "short_name": "442/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-12-23",
+  "in_force_date": "2009-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/442",
+  "description": "Vyhláška o podrobnostech evidence letadel provozovaných Policií České republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Žádost o zapsání letadla do leteckého rejstříku policejních letadel obsahuje:\na) název útvaru policie, který o zápis do leteckého rejstříku policejních letadel žádá,\nb) údaj o typu letadla, výrobní číslo letadla a ostatní základní technické údaje o letadle,\nc) návrh na přidělení letadlové adresy,\nd) prohlášení žadatele, že letadlo není zapsáno v jiném leteckém rejstříku nebo že byla oprávněnou osobou podána žádost o výmaz tohoto letadla z jiného leteckého rejstříku."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Žádost o zapsání letadla do leteckého rejstříku policejních letadel se doloží\na) dokladem o sjednaném pojištění odpovědnosti za škody z provozu letadla a dokladem o zaplacení pojistného,\nb) dokumentací potvrzující shodu letadla se schváleným vzorem nebo osvědčením o letové způsobilosti vydaném leteckým úřadem země výrobce letadla,\nc) prohlášením, že provozní dokumentace letadla a letová příručka jsou zaregistrovány u výrobce letadla a podléhají pravidelným aktualizacím."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Ostatní základní technické údaje o policejním letadle zapisované do leteckého rejstříku policejních letadel jsou:\na) druh letadla,\nb) výrobce a rok výroby,\nc) barva,\nd) maximální počet osob na palubě policejního letadla za letu,\ne) maximální vzletová hmotnost."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Vzor osvědčení o zápisu policejního letadla do leteckého rejstříku policejních letadel je uveden v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2009.\nPříloha k vyhlášce č. 442/2008 Sb.\nOsvědčení o zápisu letadla do leteckého rejstříku policejních letadel"
+    }
+  ],
+  "definitions": []
+}

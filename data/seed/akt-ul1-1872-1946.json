@@ -1,0 +1,57 @@
+{
+  "id": "cz:ul1:1872/1946",
+  "type": "statute",
+  "title": "1872/1946 Ú. l. I, Vyhláška nejvyššího úřadu cenového o cenách programů.",
+  "title_en": "",
+  "short_name": "1872/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-10-11",
+  "in_force_date": "1946-10-19",
+  "url": "https://www.e-sbirka.cz/ul1/1946/1872",
+  "description": "Vyhláška nejvyššího úřadu cenového o cenách programů.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Prodejní cena programů při kulturních, sportovních a zábavních podnicích všech druhů smí činiti nejvýše:\na) Kčs 2.— za jednoduché programy až do normalisovaného formátu A 4 (210 X 297 mm) a\nb) Kčs 3.— za programy dobře vybavené nebo většího rozsahu.\n(2) Dobře vybaveným programem podle ustanovení odstavce 1 se rozumí takový program, který je na rozdíl od jednoduchého programu vytištěn na dobrém papíře a je vybaven několika reprodukcemi fotografií nebo uměleckých kreseb, nebo obsáhlejší textovou částí, odborným výkladem a pod."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Klesnou-li výrobní náklady programu vzhledem k jeho vybavení, rozsahu, obsahu nebo nákladu natolik, že odůvodňují nižší prodejní cenu než cena nejvýše přípustná podle ustanovení této vyhlášky, smí být prodáván takový program pouze za přiměřeně nižší cenu."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Prodejní cena programu musí být na programu vytištěna."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Výjimky z ustanovení § 1 mohou povolovat jenom v případech ojedinělých a řádně odůvodněných okresní národní výbory."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "Přestupky ustanovení této vyhlášky se trestají podle části čtvrté vládního nařízení o zřízení nejvyššího úřadu cenového a podle předpisů toto nařízení měnících nebo doplňujících."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "(1) Tato vyhláška nabývá účinnosti osmým dnem po vyhlášení.\n(2) Současně se zrušuje použivatelnost vyhlášky nejvyššího úřadu cenového ze dne 12. září 1942, běž. č. 875, o cenách programů (Ú. l. č. 218/1942)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dobře vybaveným programem podle ustanovení odstavce 1",
+      "definition": "takový program, který je na rozdíl od jednoduchého programu vytištěn na dobrém papíře a je vybaven několika reprodukcemi fotografií nebo uměleckých kreseb, nebo obsáhlejší textovou částí, odborným výkladem a pod",
+      "source_provision": "§ 1."
+    }
+  ]
+}

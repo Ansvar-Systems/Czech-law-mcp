@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:59/1961",
+  "type": "statute",
+  "title": "59/1961 Ú. l., Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "title_en": "",
+  "short_name": "59/1961 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1961-11-29",
+  "in_force_date": "1961-11-29",
+  "url": "https://www.e-sbirka.cz/ul0/1961/59",
+  "description": "Vyhláška Úřadu pro normalizaci, kterou se podle § 12 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují některé československé státní normy",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Norma ČSN 35 0319 „Elektrické stroje točivé. Trojfázové asynchronní motory výkonu od 0,8 do 28 kW“ stanoví základní údaje (napětí, výkony, synchronní otáčky) provedení podle krytí a chlazení a montážní rozměry.\nTato norma platí od 1. prosince 1961 do 31. prosince 1963."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Norma ČSN 35 1110 „Trojfázové transformátory se vzduchovým chlazením“ platí jako změna k normě téhož čísla z roku 1958, uveřejněné ve vyhlášce č. 166/1958 Ú. l."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Norma ČSN 65 6244 „Minerální oleje. Bod vzplanutí podle Marcussona“ platí pro zkoušení mazacích minerálních olejů a topných olejů s bodem vzplanutí nad 80° C."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Norma ČSN 65 6246 „Odolnost oleje vůči chladivu“ platí pro zkoušení olejů určených pro kompresorová chladicí zařízení pracující s halogenovanými chladivy nebo s kysličníkem siřičitým."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Uvedené československé státní normy nabývají účinnosti dnem 1. prosince 1961.*)\n*) Československé státní normy vydává v plném znění Vydavatelství Úřadu pro normalizaci v Praze 1, Václavské nám. 19. Distribuci pro Slovensko obstarává Slovenská kniha, národní podnik, Bratislava, Fučíkova ul. č. 20."
+    }
+  ],
+  "definitions": []
+}

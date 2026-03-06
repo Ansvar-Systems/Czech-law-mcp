@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:212/1949",
+  "type": "statute",
+  "title": "212/1949 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do SPOFY, spojených farmaceutických závodů, národního podniku.",
+  "title_en": "",
+  "short_name": "212/1949 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1949-01-23",
+  "in_force_date": "1949-01-23",
+  "url": "https://www.e-sbirka.cz/ul1/1949/212",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do SPOFY, spojených farmaceutických závodů, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. „Hellco-Gefolgschaftshilfe, Gesellschaft mit beschränkter Haftung“, se sídlem, v Opavě,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. „Schering, společnost s r. o.“, se sídlem v Praze II, Na Florenci 25 n, čp. 1270,\nvesměs v rozsahu jejich znárodnění do SPOFY, spojených farmaceutických závodů, národního podniku."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cz:42/2011",
+  "type": "statute",
+  "title": "42/2011 Sb., Nařízení vlády, kterým se mění nařízení vlády č. 597/2006 Sb., o sledování a vyhodnocování kvality ovzduší",
+  "title_en": "",
+  "short_name": "42/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-02-28",
+  "in_force_date": "2011-03-15",
+  "url": "https://www.e-sbirka.cz/sb/2011/42",
+  "description": "Nařízení vlády, kterým se mění nařízení vlády č. 597/2006 Sb., o sledování a vyhodnocování kvality ovzduší",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Nařízení vlády č. 597/2006 Sb., o sledování a vyhodnocování kvality ovzduší, se mění takto:\n1. V § 1 se slova „Evropských společenství“ nahrazují slovy „Evropské unie“.\n2. V § 2 odst. 5 se za slovo „ministerstvem“ vkládají slova „nebo jím zřízenou právnickou osobou“.\n3. V § 3 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno g), které zní:\n„g) částice, které projdou velikostně-selektivním vstupním filtrem vykazujícím pro aerodynamický průměr 2,5 µm odlučovací účinnost 50 % (dále jen „PM2,5“).“.\n4. V § 3 odst. 3 písmeno d) zní:\n„d) benzo(a)pyren,“.\n5. V § 3 se za odstavec 5 vkládají nové odstavce 6 a 7, které znějí:\n„(6) Cílový imisní limit v městských pozaďových lokalitách je stanoven pro PM2,5.\n(7) Pokles klouzavé průměrné roční koncentrace PM2,5 je stanoven v části E přílohy č. 1 k tomuto nařízení.“.\nDosavadní odstavec 6 se označuje jako odstavec 8.\n6. V příloze č. 1 části A v tabulce č. 1 se za řádek\n„\nPM101 kalendářní rok40 µg.m-3-\n\n“\nvkládá řádek\n„\nPM2,51 kalendářní rok25 µg.m-3-\n\n“.\n7. V příloze č. 1 části A se tabulka č. 3 zrušuje.\n8. V příloze č. 1 se na konci části C doplňuje tabulka č. 4, která zní:\n„4. Cílový imisní limit v městských pozaďových lokalitách pro PM2,5\nZnečišťující látkaDoba průměrování1)Cílový imisní limit1)\nPM2,5roky 2013, 2014 a 201520 µg.m-3\nPoznámka: 1) Cílový imisní limit pro PM2,5 je stanoven pro rok 2015 a je vyjádřen jako průměr ročních průměrných úrovní znečištění ovzduší PM2,5 za roky 2013, 2014 a 2015 ve všech městských pozaďových lokalitách. Hodnoty jsou zjišťovány z míst odběru vzorků zřízených podle bodu 1.6 části A přílohy č. 5 k tomuto nařízení.“.\n9. V příloze č. 1 části D se bod 1 zrušuje.\nDosavadní body 2 až 4 se označují jako body 1 až 3.\n10. V příloze č. 1 se doplňuje část E, která zní:"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "„Část E - Pokles klouzavé roční koncentrace PM2,5 v městských pozaďových lokalitách k roku 20201)",
+      "content": "1. Nejpozději do 31. prosince 2014 se dosáhne imisního limitu pro PM2,5 stanoveného v části A tabulce č. 1 přílohy č. 1 nařízení vlády č. 597/2006 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení. Do té doby je tento imisní limit limitem cílovým.\n2. Dosažení cílového imisního limitu v městských pozaďových lokalitách podle § 3 odst. 6 nařízení vlády č. 597/2006 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení, je vyhodnocováno k 31. prosinci 2015.\n3. Dosažení poklesu klouzavé průměrné roční koncentrace PM2,5 podle § 3 odst. 7 nařízení vlády č. 597/2006 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení, je vyhodnocováno k 31. prosinci 2020."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "chapter": "„Část E - Pokles klouzavé roční koncentrace PM2,5 v městských pozaďových lokalitách k roku 20201) - Přechodná ustanovení",
+      "content": "Toto nařízení nabývá účinnosti patnáctým dnem ode dne jeho vyhlášení."
+    }
+  ],
+  "definitions": []
+}

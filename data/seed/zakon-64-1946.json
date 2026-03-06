@@ -1,0 +1,27 @@
+{
+  "id": "cz:64/1946",
+  "type": "statute",
+  "title": "64/1946 Sb., Vyhláška, kterou se stanoví způsob zapravení kolkových poplatků z poštovních průvodek",
+  "title_en": "",
+  "short_name": "64/1946 Sb.",
+  "status": "in_force",
+  "issued_date": "1946-04-13",
+  "in_force_date": "1946-04-13",
+  "url": "https://www.e-sbirka.cz/sb/1946/64",
+  "description": "Vyhláška, kterou se stanoví způsob zapravení kolkových poplatků z poštovních průvodek",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Z poštovních průvodek v zemích České a Moravskoslezské se zapravuje ode dne 16. března 1946 kolkový poplatek 1 Kčs při podání nebo dodání zásilky zároveň s poplatky poštovními, a to buď v hotovosti nebo výplatní poštovní známkou nalepenou na průvodce."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Na Slovensku se tento poplatek (§ 1) zapravuje použitím poštovních průvodek s natištěným kolkem 1 Kčs, vydaných nákladem poštovní správy."
+    }
+  ],
+  "definitions": []
+}

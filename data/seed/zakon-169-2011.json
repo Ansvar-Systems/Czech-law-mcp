@@ -1,0 +1,63 @@
+{
+  "id": "cz:169/2011",
+  "type": "statute",
+  "title": "169/2011 Sb., Vyhláška o stanovení pravidel tvorby čísla účtu v platebním styku",
+  "title_en": "",
+  "short_name": "169/2011 Sb.",
+  "status": "in_force",
+  "issued_date": "2011-06-28",
+  "in_force_date": "2011-06-28",
+  "url": "https://www.e-sbirka.cz/sb/2011/169",
+  "description": "Vyhláška o stanovení pravidel tvorby čísla účtu v platebním styku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška navazuje na přímo použitelný předpis Evropské unie1) a upravuje pravidla tvorby čísla účtu v souladu s pravidly mezinárodní standardizace (IBAN) obsaženými v normě ISO 13616 Financial services - International bank account number (IBAN) (dále jen „mezinárodní norma“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Číslo účtu",
+      "content": "(1) Číslo účtu je jedinečným identifikátorem podle § 2 odst. 3 písm. h) zákona o platebním styku, který slouží v platebním styku k jednoznačné identifikaci účtu klienta vedeného poskytovatelem platebních služeb působícím v České republice, který užívá pro tento účet číslo v souladu s mezinárodní normou2).\n(2) Číslo účtu se používá\na) v národním formátu,\nb) ve formátu IBAN."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Číslo účtu v národním formátu",
+      "content": "Číslo účtu v národním formátu je tvořeno identifikátorem účtu klienta (§ 5) a kódem platebního styku (§ 6)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Číslo účtu ve formátu IBAN",
+      "content": "Číslo účtu ve formátu IBAN je tvořeno 24 alfanumerickými znaky, kdy\na) první a druhý znak jsou písmena CZ,\nb) třetí a čtvrtý znak obsahují kontrolní číslice definované mezinárodní normou,\nc) pátý až osmý znak obsahují číslice kódu platebního styku (§ 6) a\nd) devátý až dvacátý čtvrtý znak obsahují číslice identifikátoru účtu klienta (§ 5)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Identifikátor účtu klienta",
+      "content": "(1) Identifikátor účtu klienta obsahuje nejvýše 16 číselných znaků a je členěn na\na) první část, která obsahuje nejvýše 6 číselných znaků s tím, že úvodní nuly jsou bez významu; první část identifikátoru účtu klienta nemusí být v čísle účtu obsažena,\nb) druhou část, která obsahuje nejméně 2 a nejvýše 10 číselných znaků s tím, že alespoň dva z nich nesmějí být nulové a úvodní nuly jsou bez významu.\n(2) První a druhá část identifikátoru účtu klienta musí být vytvořeny tak, aby vyhovovaly kontrole, jejíž algoritmus je uveden v příloze k této vyhlášce.\n(3) První a druhá část identifikátoru účtu klienta v čísle účtu v národním formátu musí být v písemné podobě zřetelně odděleny."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Kód platebního styku",
+      "content": "(1) Kód platebního styku obsahuje 4 číselné znaky a musí být od identifikátoru účtu klienta v písemné podobě zřetelně oddělen.\n(2) Česká národní banka uveřejňuje kódy platebního styku, které poskytovateli platebních služeb přidělila, v Číselníku kódů platebního styku v České republice, a to způsobem umožňujícím dálkový přístup."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Zrušovací ustanovení",
+      "content": "Vyhláška č. 62/2004 Sb., kterou se stanoví způsob provádění platebního styku mezi bankami, zúčtování na účtech u bank a technické postupy bank při opravném zúčtování, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.\nPříloha k vyhlášce č. 169/2011 Sb.\nAlgoritmus kontroly pro účely vytvoření jednotlivých částí identifikátoru účtu klienta\nPrvní část a druhá část identifikátoru účtu klienta se vytvářejí tak, aby každá samostatně vyhovovala kontrolnímu algoritmu s váhami uvedenými v následující tabulce:\nVáhy pro kontrolní algoritmus\nČíslice části identifikátoruABCDEFGHIJ\nn10987654321\nVáhy63791058421\nkde n je pozice číslice v příslušné části identifikátoru účtu klienta (počítáno zprava).\nVáhy se k číslicím na jednotlivých pozicích příslušné části identifikátoru účtu klienta přiřazují zprava. Příslušná část identifikátoru účtu klienta ABCDEFGHIJ je správně vytvořena, pokud je součet S beze zbytku dělitelný 11, přičemž\nS = J x 1 + I x 2 + H x 4 + G x 8 + F x 5 + E x 10 + D x 9 + C x 7 + B x 3 + A x 6.\n1) Nařízení Evropského parlamentu a Rady (ES) č. 924/2009 ze dne 16. září 2009 o přeshraničních platbách ve Společenství a zrušení nařízení (ES) č. 2560/2001.\n2) § 38 odst. 2 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 139/2011 Sb."
+    }
+  ],
+  "definitions": []
+}

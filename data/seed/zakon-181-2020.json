@@ -1,0 +1,39 @@
+{
+  "id": "cz:181/2020",
+  "type": "statute",
+  "title": "181/2020 Sb., Vyhláška, kterou se mění vyhláška č. 289/2007 Sb., o veterinárních a hygienických požadavcích na živočišné produkty, které nejsou upraveny přímo použitelnými předpisy Evropských společenství, ve znění pozdějších předpisů",
+  "title_en": "",
+  "short_name": "181/2020 Sb.",
+  "status": "in_force",
+  "issued_date": "2020-04-21",
+  "in_force_date": "2020-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2020/181",
+  "description": "Vyhláška, kterou se mění vyhláška č. 289/2007 Sb., o veterinárních a hygienických požadavcích na živočišné produkty, které nejsou upraveny přímo použitelnými předpisy Evropských společenství, ve znění pozdějších předpisů",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "V § 12 vyhlášky č. 289/2007 Sb., o veterinárních a hygienických požadavcích na živočišné produkty, které nejsou upraveny přímo použitelnými předpisy Evropských společenství, ve znění vyhlášky č. 61/2009 Sb., vyhlášky č. 11/2015 Sb. a vyhlášky č. 65/2019 Sb., odstavec 5 zní:\n„(5) Za malé množství zvěře, určené k prodeji nebo dodání podle odstavce 1 uživatelem honitby, se považuje nejvýše 4 000 kusů velké volně žijící zvěře a 100 000 kusů drobné volně žijící zvěře odlovených v jedné honitbě za rok.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Technický předpis",
+      "content": "Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) č. 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2020."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "malé množství zvěře, určené k prodeji nebo dodání podle odstavce 1 uživatelem honitby",
+      "definition": "nejvýše 4 000 kusů velké volně žijící zvěře a 100 000 kusů drobné volně žijící zvěře odlovených v jedné honitbě za rok",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

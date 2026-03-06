@@ -1,0 +1,55 @@
+{
+  "id": "cz:66/2005",
+  "type": "statute",
+  "title": "66/2005 Sb., Nařízení vlády o minimálním množství biopaliv nebo jiných paliv z obnovitelných zdrojů v sortimentu motorových benzinů a motorové nafty na trhu České republiky",
+  "title_en": "",
+  "short_name": "66/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-02-15",
+  "in_force_date": "2005-02-15",
+  "url": "https://www.e-sbirka.cz/sb/2005/66",
+  "description": "Nařízení vlády o minimálním množství biopaliv nebo jiných paliv z obnovitelných zdrojů v sortimentu motorových benzinů a motorové nafty na trhu České republiky",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "(1) Toto nařízení zapracovává příslušné předpisy Evropských společenství1) a stanoví minimální množství biopaliv nebo jiných paliv z obnovitelných zdrojů v sortimentu motorových benzinů a motorové nafty na trhu České republiky.\n(2) Ustanovení tohoto nařízení se nevztahují na skladované a obměňované motorové benziny, s výjimkou benzinu s přídavkem etyltercbutylether v souladu s příslušnou českou technickou normou2) a s obsahem maximálně 0,3 % objemových volného etanolu v benzinu, a motorové nafty, určené pro nouzové zásoby3) a pro státní hmotné rezervy."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní pojmy",
+      "content": "Pro účely tohoto nařízení se rozumí\na) energetickým obsahem – minimální výhřevnost paliva, která se udává v kJ/kg nebo kJ/l paliva,\nb) stanoveným objemem – množství biopaliv, na které je uplatňován systém finanční podpory."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Minimální množství biopaliv v sortimentu motorových benzinů a motorové nafty",
+      "content": "(1) Minimální poměr biopaliv a jiných paliv z obnovitelných zdrojů se stanoví jako národní indikativní cíl takto\na) minimální hodnota k datu 31. prosince 2005 je 2 % biopaliv a je vypočítána na základě energetického obsahu celkového množství motorových benzinů a motorové nafty prodávaných na trhu České republiky pro dopravní účely,\nb) minimální hodnota k datu 31. prosince 2010 je 5,75 % biopaliv a je vypočítaná podle energetického obsahu celkového množství motorových benzinů a motorové nafty prodávaných na trhu České republiky pro dopravní účely.\n(2) Minimálním množstvím biopaliv se rozumí podíl biopaliv v objemu sortimentu motorových benzinů a motorové nafty, uvedených do volného daňového oběhu4) v České republice v kalendářním roce, který je závazný ve výši stanoveného objemu pro všechny subjekty uvádějící motorové benziny a motorovou naftu do volného daňového oběhu v České republice, a to v rozsahu jejich podílů na vnitřním trhu s motorovými benziny a vnitřním trhu s motorovou naftou v předchozím kalendářním roce. Pro subjekty, které skladují a ochraňují nouzové zásoby a státní hmotné rezervy pohonných hmot, platí tento závazek od 1. ledna 2009.\n(3) Stanovený objem bioetanolu pro období od 1. ledna 2007 do 31. prosince 2012 je ve výši 2 miliony hektolitrů ročně.\n(4) Stanovený objem bionafty je pro období od 1. ledna 2007 do 31. prosince 2012 ve výši 200 000 tun ročně."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti dnem 15. února 2005.\n1) Směrnice Evropského parlamentu a Rady č. 2003/30/ES ze dne 8. května 2003 o podpoře používání biopaliv nebo obnovitelných paliv v dopravě.\n2) ČSN EN 228.\n3) Zákon č. 189/1999 Sb., o nouzových zásobách ropy, o řešení stavů ropné nouze a o změně některých souvisejících zákonů, ve znění zákona č. 560/2004 Sb.\n4) Zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "energetickým obsahem – minimální výhřevnost paliva",
+      "definition": "která se udává v kJ/kg nebo kJ/l paliva",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "stanoveným objemem – množství biopaliv",
+      "definition": "na které je uplatňován systém finanční podpory.",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "Minimálním množstvím biopaliv",
+      "definition": "podíl biopaliv v objemu sortimentu motorových benzinů a motorové nafty, uvedených do volného daňového oběhu4) v České republice v kalendářním roce, který je závazný ve výši stanoveného objemu pro všechny subjekty uvádějící motorové benziny a motorovou naftu do volného daňového oběhu v České republice, a to v rozsahu jejich podílů na vnitřním trhu s motorovými benziny a vnitřním trhu s motorovou naftou v předchozím kalendářním roce",
+      "source_provision": "§ 3"
+    }
+  ]
+}

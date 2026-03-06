@@ -1,0 +1,51 @@
+{
+  "id": "cz:59/1956",
+  "type": "statute",
+  "title": "59/1956 Sb., Zákon, kterým se mění a doplňuje zákon o důchodové dani družstev a jiných organisací",
+  "title_en": "",
+  "short_name": "59/1956 Sb.",
+  "status": "in_force",
+  "issued_date": "1956-12-19",
+  "in_force_date": "1957-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1956/59",
+  "description": "Zákon, kterým se mění a doplňuje zákon o důchodové dani družstev a jiných organisací",
+  "provisions": [
+    {
+      "provision_ref": "Čl. 1.",
+      "section": "1",
+      "title": "Čl. 1.",
+      "content": "Zákon č. 75/1952 Sb., o důchodové dani družstev a jiných organisací, se mění a doplňuje takto:\n1. § 1 odst. 1 písm. a) zní:\n„družstva a jejich organisace s výjimkou jednotných zemědělských družstev;“\n2. § 2 zní:"
+    },
+    {
+      "provision_ref": "„§ 2.",
+      "section": "2",
+      "title": "„§ 2. Z čeho se platí daň.",
+      "content": "Družstva, jejich organisace a osoby uvedené v § 1 odst. 1 písm. c) platí daň ze zisku z veškeré své činnosti a z hospodaření veškerým svým majetkem, podniky dobrovolných a jiných organisací platí daň ze zisku z hospodářské činnosti.“\n3. § 5 zní:"
+    },
+    {
+      "provision_ref": "„§ 5.",
+      "section": "5",
+      "title": "„§ 5. Sazba daně.",
+      "content": "(1) Daň činí:\n1. u výrobních družstev:\npři rentabilitě\ndo 3 % 25 % z dani podrobené ho zisku,\nnad 3 % do 5 % 25 % z části dani podrobeného zisku, která se rovná 3 % úplných vlastních nákladů, a 50 % ze zbytku zisku,\nnad 5 % do 8 % 35 % z části dani podrobeného zisku, která se rovná 5 % úplných vlastních nákladů, a 55 % ze zbytku zisku,\nnad 8 % do 12 % 42,5 % z části dani podrobeného zisku, která se rovná 8 % úplných vlastních nákladů, a 65 % ze zbytku zisku,\nnad 12 % do 15 % 50 % z části dani podrobeného zisku, která se rovná 12 % úplných vlastních nákladů, a 75 % ze zbytku zisku,\nnad 15 % do 20 % 55 % z části dani podrobeného zisku, která se rovná 15 % úplných vlastních nákladů, a 80 % ze zbytku zisku,\nnad 20 % do 25 % 61,2 % z části dani podrobeného zisku, která se rovná 20 % úplných vlastních nákladů, a 85 % ze zbytku zisku,\nnad 25 % 66 % z části dani podrobeného zisku, která se rovná 25 % úplných vlastních nákladů, a 90 % ze zbytku zisku;\n2. u spotřebních družstev a jejich organisací, u svazů výrobních družstev a u Ústřední rady družstev 25 % dani podrobeného zisku;\n3. u ostatních družstev, jakož i u podniků svazů výrobních družstev a u podniků Ústřední rady družstev:\npři dani podrobeném zisku do 50.000 Kčs 40 %,\npři dani podrobeném zisku nad 50.000 Kčs do 80.000 Kčs 50 % a\npři dani podrobeném zisku nad 80.000 Kčs 60 % dani podrobeného zisku;\n4. u podniků dobrovolných a jiných organisací:\nz prvních 80.000 Kčs dani podrobeného zisku 10 % a\nze zbytku dani podrobeného zisku 20 %;\n5. u ostatních poplatníků:\nz prvních 80.000 Kčs základu daně 75 % a\nze zbytku základu daně 90 %.\n(2) Družstvům invalidů se daň podle odstavce 1 č. 1 sníží o částku, která činí 5 % dani podrobeného zisku.\n(3) Rentabilitou se pro účely tohoto zákona rozumí poměr dani podrobeného zisku k úplným vlastním nákladům.“\n4. Do § 11 se vkládá jako odstavec 2 nové ustanovení tohoto znění:\n„Ministr financí může upravit sazbu daně odchylně od § 5, vyžaduje-li to úspěšné plnění státního plánu rozvoje národního hospodářství nebo jiné důležité zájmy.“\nDosavadní odstavec 2 § 11 se přečísluje na odstavec 3."
+    },
+    {
+      "provision_ref": "Čl. 2.",
+      "section": "2",
+      "title": "Čl. 2.",
+      "content": "Ustanovení tohoto zákona se použije po prvé pro zdanění zisků za rok 1956."
+    },
+    {
+      "provision_ref": "Čl. 3.",
+      "section": "3",
+      "title": "Čl. 3.",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 1957; provede jej ministr financí."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rentabilitou",
+      "definition": "poměr dani podrobeného zisku k úplným vlastním nákladům",
+      "source_provision": "„§ 5."
+    }
+  ]
+}

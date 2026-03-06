@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul0:142/1952",
+  "type": "statute",
+  "title": "142/1952 Ú. l., Vyhláška ministerstva zemědělství o zákazu lovu ryb udicí na rybnících.",
+  "title_en": "",
+  "short_name": "142/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-06-14",
+  "in_force_date": "1952-06-14",
+  "url": "https://www.e-sbirka.cz/ul0/1952/142",
+  "description": "Vyhláška ministerstva zemědělství o zákazu lovu ryb udicí na rybnících.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "V rybnících způsobilých pro chov ryb není dovoleno lovit ryby udicí."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Krajský národní výbor může povolit výjimku ze zákazu na rybnících neslovitelných."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Za neslovitelné se považují zejména rybníky bez vypouštěcích zařízení, rybníky, z nichž nelze vodu vypustit bez ohrožení provozu průmyslového závodu a ty, jichž vypuštění obecný zájem nepřipouští."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 14. června 1952."
+    }
+  ],
+  "definitions": []
+}

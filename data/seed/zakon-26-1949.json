@@ -1,0 +1,33 @@
+{
+  "id": "cz:26/1949",
+  "type": "statute",
+  "title": "26/1949 Sb., Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Liberci",
+  "title_en": "",
+  "short_name": "26/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-02-15",
+  "in_force_date": "1949-02-15",
+  "url": "https://www.e-sbirka.cz/sb/1949/26",
+  "description": "Vyhláška o zřízení Státního veterinárního vyšetřovacího ústavu v Liberci",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Dnem 1. ledna 1949 počal působiti Státní veterinární vyšetřovací ústav se sídlem v Liberci, zřízený podle zákona ze dne 16. ledna 1896, č. 89 ř. z. z roku 1897, o obchodu s potravinami a některými předměty potřeby (dále jen „ústav“)."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Úředním obvodem ústavu je obvod krajského národního výboru v Liberci."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Ústav plní úkoly v oboru vyšetřování potravin živočišného původu, uvedené v nařízení č. 240/1897 ř. z., pokud nejde pouze o chemické vyšetřování potravin."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:105/1967",
+  "type": "statute",
+  "title": "105/1967 Sb., Vyhláška ministerstva kultury a informací, kterou se mění vyhláška č. 73/1962 Sb., o inzerci v tisku",
+  "title_en": "",
+  "short_name": "105/1967 Sb.",
+  "status": "in_force",
+  "issued_date": "1967-11-14",
+  "in_force_date": "1967-12-01",
+  "url": "https://www.e-sbirka.cz/sb/1967/105",
+  "description": "Vyhláška ministerstva kultury a informací, kterou se mění vyhláška č. 73/1962 Sb., o inzerci v tisku",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 73/1962 Sb., o inzerci v tisku, se mění takto:\n1. Ustanovení § 3 zní:"
+    },
+    {
+      "provision_ref": "„§ 3",
+      "section": "3",
+      "title": "„§ 3 Rozsah inzerce",
+      "content": "(1) V denním ústředním, krajském a okresním periodickém tisku může inzerce dosáhnout 1/6 celkového týdenního rozsahu; v jednotlivém čísle nesmí přesahovat 1/4 rozsahu čísla.\n(2) V ostatním periodickém tisku může inzerce dosahovat až 1/5 celkového rozsahu jednotlivého čísla.\n(3) Vyšší rozsah inzerce, než se uvádí v odstavcích 1 a 2, je přípustný jen tehdy, zvětší-li se příslušné číslo periodického tisku o tento větší rozsah inzerce; zvětšení rozsahu čísla musí být v souladu s tiskovými předpisy.\n(4) Omezení rozsahu inzerce podle odstavců 1 až 3 se nevztahuje na tisk státní a obchodní propagace určený pro zahraničí a na tiskoviny určené výlučně pro inzerci zahraničních inzerentů v tuzemsku.\n(5) Do celkového rozsahu tiskoviny se započítávají též přílohy, obálka a přebal, tvořící s tiskovinou jednotný organický celek.\n(6) Vkládané informační nebo propagační tiskoviny a vlastní oznámení vydavatele se do rozsahu inzerce nezapočítávají.“\n2. Ustanovení § 2, § 4 až 12 a § 14 se zrušují."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Za časopis podle § 1 se považuje veškerý periodický tisk ve smyslu zákona č. 81/1966 Sb., o periodickém tisku a o ostatních hromadných informačních prostředcích."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1967."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "časopis podle § 1",
+      "definition": "veškerý periodický tisk ve smyslu zákona č",
+      "source_provision": "Čl. II"
+    }
+  ]
+}

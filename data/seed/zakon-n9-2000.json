@@ -1,0 +1,33 @@
+{
+  "id": "cz:n9/2000",
+  "type": "statute",
+  "title": "n9/2000 Sb., Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 173/2000 Sb. a vyhlášce č. 223/2000 Sb.",
+  "title_en": "",
+  "short_name": "n9/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-08-01",
+  "in_force_date": "2000-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2000/n9",
+  "description": "Sdělení Ministerstva vnitra o opravě tiskových chyb ve vyhlášce č. 173/2000 Sb. a vyhlášce č. 223/2000 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V čl. I bodu 56 v příloze č. 33 KOEFICIENTY PRODEJNOSTI - Kpx) v tabulce u okresu Pelhřimov ve sloupci Byty mají místo čísel „1,091, 0,599, 0,850, 0,544, 0,544“ správně být čísla „0,558, 0,412, 0,405, 0,390, 0,395“ a u okresu Klatovy ve sloupci Byty má místo čísla „1,552“ správně být číslo „0,552“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V čl. I chybějící návětí bodu 3 zní:"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "„3. Příloha č. 1 zní:“."
+    }
+  ],
+  "definitions": []
+}

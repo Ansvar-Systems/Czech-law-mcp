@@ -1,0 +1,33 @@
+{
+  "id": "cz:92/2001",
+  "type": "statute",
+  "title": "92/2001 Sb., Vyhláška Ministerstva dopravy a spojů, kterou se stanoví seznam speciálně vybavených koncových telefonních zařízení",
+  "title_en": "",
+  "short_name": "92/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-03-06",
+  "in_force_date": "2001-03-06",
+  "url": "https://www.e-sbirka.cz/sb/2001/92",
+  "description": "Vyhláška Ministerstva dopravy a spojů, kterou se stanoví seznam speciálně vybavených koncových telefonních zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Seznam speciálně vybavených koncových telefonních zařízení, která je držitel licence k poskytování veřejné telefonní služby, který poskytuje univerzální službu, povinen pronajímat za cenu standardního koncového telefonního zařízení občanům uvedeným v § 29 odst. 2 písm. g) a h) zákona, je uveden v příloze k této vyhlášce.\n(2) Standardním koncovým telefonním zařízením se pro účely této vyhlášky rozumí běžný telefonní přístroj, který je pronajímán účastníkům veřejné telefonní služby držitelem licence, kterému bylo uloženo poskytování univerzální služby, v době, kdy je občanovi poskytováno speciálně vybavené koncové telefonní zařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 92/2001 Sb.\nSeznam speciálně vybavených koncových telefonních zařízení\nSpeciálně vybavenými koncovými telefonními zařízeními jsou\na) telefonní hovorová telekomunikační zařízení, která umožňují zesílení a regulaci zesílení přijímaného hlasového signálu pro potřeby těžce zdravotně postižených telefonních účastníků,\nb) telefonní hovorová telekomunikační zařízení, která umožňují převod přijímaného hlasového signálu na mechanické vibrace nebo jiný účinný technický systém pro potřeby zdravotně postižených telefonních účastníků,\nc) telefonní doplňková signalizační zařízení, která umožňují zesílení vyzváněcího signálu pro potřeby zdravotně postižených telefonních účastníků,\nd) telefonní doplňková signalizační zařízení, která umožňují převod vyzváněcího signálu na světelnou signalizaci pro potřeby neslyšících telefonních účastníků,\ne) bezšňůrová telefonní hovorová telekomunikační zařízení pro potřeby zdravotně postižených telefonních účastníků,\nf) telefonní hovorová telekomunikační zařízení, která umožňují hlasitou komunikaci pro potřeby zdravotně postižených telefonních účastníků,\ng) telefonní hovorová telekomunikační zařízení se zvětšenou klávesnicí pro potřeby těžce zrakově postižených telefonních účastníků."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Standardním koncovým telefonním zařízením",
+      "definition": "běžný telefonní přístroj, který je pronajímán účastníkům veřejné telefonní služby držitelem licence, kterému bylo uloženo poskytování univerzální služby, v době, kdy je občanovi poskytováno speciálně vybavené koncové telefonní zařízení",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:178/1958",
+  "type": "statute",
+  "title": "178/1958 Ú. l., Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují změny některých československých státních norem a ruší se platnost technických podmínek TP 7-13-52",
+  "title_en": "",
+  "short_name": "178/1958 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1958-12-10",
+  "in_force_date": "1958-12-10",
+  "url": "https://www.e-sbirka.cz/ul0/1958/178",
+  "description": "Vyhláška Státního úřadu pro vynálezy a normalisaci, kterou se podle § 14 vládního nařízení č. 46/1957 Sb., o technické normalizaci, vyhlašují změny některých československých státních norem a ruší se platnost technických podmínek TP 7-13-52",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Československá státní norma ČSN 30 2404 „Karburátory pro motocykly. Technické dodací předpisy”, uveřejněná ve vyhlášce č. 95/1958 Ú. l., platí od 1. ledna 1959 jako norma závazná."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "S platností od 1. ledna 1959 se mění v československé státní normě ČSN 44 1450 „Hnědá uhlí sokolovského revíru”, uveřejněné ve vyhlášce č. 31/1957 Ú. l., technické požadavky na hnědá uhlí dolu 25. únor — hlubina, takto:\nPoř. čísJméno\ndoluZnačkaDruhZnaky jakosti\nWpAsQhvQnp\nprům.\n%max.\n%prům. %max.\n%prům. kcal/kgprům.\nkcal/kg\n1225. únor hlubinaHdd( 0-20)36,941,225,328,871103000\nOstatní hodnoty se nemění."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "S platností od 1. ledna 1959 se mění v československé státní normě ČSN 44 1460 „Lignity”, uveřejněné ve vyhlášce č. 252/1957 Ú. l., technické požadavky na lignit dolu Mládeže takto:\nPoř. čísJméno\ndoluZnačkaDruhZnaky jakosti\nWpAsQhvQnp\nprům.\n%max.\n%prům.\n%max.\n%prům.\nkcal/kgprům.\nkcal/kg\n16MládežeLnpsl\n(0-40)33,036,030,033,065802780\nOstatní hodnoty se nemění."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "S okamžitou platností se v československé státní normě ČSN 46 2140 „Čekanka”, uveřejněné ve vyhlášce č. 196/1957 Ú. l., mění ustanovení článku 28 a zní:\n„Článek 28. Pěstitelé mají za úhradu pomáhat při skládání čekanky …….” (místo: Pěstitelé jsou povinni pomáhat ……...)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "S okamžitou platností se ruší technické podmínky TP 7-13-52 Chemická stavební keramika, uveřejněné ve vyhlášce č. 332/1952 Ú. l. a nahrazují se technickými podmínkami ministerstva stavebnictví TP H-193-58 Chemická stavební a vystýlková kamenina."
+    }
+  ],
+  "definitions": []
+}

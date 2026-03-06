@@ -1,0 +1,45 @@
+{
+  "id": "cz:128/1968",
+  "type": "statute",
+  "title": "128/1968 Sb., Zákon o Národní frontě",
+  "title_en": "",
+  "short_name": "128/1968 Sb.",
+  "status": "in_force",
+  "issued_date": "1968-09-26",
+  "in_force_date": "1968-09-26",
+  "url": "https://www.e-sbirka.cz/sb/1968/128",
+  "description": "Zákon o Národní frontě",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Národní fronta je politickým výrazem svazku národů a národností, sociálních vrstev i zájmových skupin. Vychází ze zásady socialistického uspořádání společnosti a jejího rozvoje. Sdružuje politické strany a jiné společenské organizace.\n(2) Národní fronta ČSSR je uspořádaná federativním způsobem a ve své činnosti se řídí vlastním statutem, v němž určuje principy své činnosti a podmínky členství v Národní frontě."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Politické strany a organizace plnící jejich funkci mohou působit jen jako členové Národní fronty.\n(2) Politickou stranou nebo organizací plnící její funkci se rozumí organizace, která zejména na základě světového názoru nebo na základě jiného společného politického programu sdružuje členy a stoupence především za tím účelem, aby aktivně politicky působila mezi občany a dosáhla tím podílu na tvorbě politiky a na státní moci vykonávané zastupitelskými sbory."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Rozhodl-li příslušný orgán Národní fronty, že určitá politická strana nebo organizace plnící její funkci není jejím členem, vydá ministerstvo vnitra, na Slovensku příslušný orgán Slovenské národní rady rozhodnutí, kterým vysloví zákaz její činnosti.\n(2) Politická strana nebo organizace plnící její funkci může podat do 30 dnů návrh na přezkoumání pravomocného rozhodnutí ministerstva vnitra městskému soudu v Praze, návrh na přezkoumání pravomocného rozhodnutí orgánu Slovenské národní rady krajskému soudu v Bratislavě. O řízení platí občanský soudní řád (§ 244 a násl.)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Politickou stranou nebo organizací plnící její funkci",
+      "definition": "organizace, která zejména na základě světového názoru nebo na základě jiného společného politického programu sdružuje členy a stoupence především za tím účelem, aby aktivně politicky působila mezi občany a dosáhla tím podílu na tvorbě politiky a na státní moci vykonávané zastupitelskými sbory",
+      "source_provision": "§ 2"
+    }
+  ]
+}

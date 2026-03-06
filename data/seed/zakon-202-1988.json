@@ -1,0 +1,27 @@
+{
+  "id": "cz:202/1988",
+  "type": "statute",
+  "title": "202/1988 Sb., Vyhláška federálního ministerstva zahraničního obchodu o omezení vývozu některých chemikálií",
+  "title_en": "",
+  "short_name": "202/1988 Sb.",
+  "status": "in_force",
+  "issued_date": "1988-12-14",
+  "in_force_date": "1988-12-14",
+  "url": "https://www.e-sbirka.cz/sb/1988/202",
+  "description": "Vyhláška federálního ministerstva zahraničního obchodu o omezení vývozu některých chemikálií",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) K vývozu chemikálií nebo skupin chemikálií uvedených v příloze této vyhlášky je vždy třeba povolení federálního ministerstva zahraničního obchodu.\n(2) Federální ministerstvo zahraničního obchodu může vázat udělení povolení podle odstavce 1 na splnění určitých podmínek nebo na předložení stanovených dokladů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 202/1988 Sb.\nSeznam chemikálií, jejichž vývoz je omezen\n1. chlorkyan\n2. kyanovodík\n3. oxichlorid fosforečný\n4. diacylchlorid kyseliny uhličité\n5. chlorid fosforitý\n6. trichlornitrometan (chlorpikrin)\n7. thiodiglykol\n8. hydrochlorid dimethylaminu\n9. 2-chloretanol\n10. sloučeniny obsahující vazbu methyl-fosfor"
+    }
+  ],
+  "definitions": []
+}

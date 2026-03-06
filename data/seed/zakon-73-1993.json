@@ -1,0 +1,39 @@
+{
+  "id": "cz:73/1993",
+  "type": "statute",
+  "title": "73/1993 Sb., Vyhláška ministerstva financí o způsobu úhrady nákladů na státní vyrovnávací příspěvek plátcům příspěvku",
+  "title_en": "",
+  "short_name": "73/1993 Sb.",
+  "status": "in_force",
+  "issued_date": "1993-02-19",
+  "in_force_date": "1995-12-15",
+  "url": "https://www.e-sbirka.cz/sb/1993/73",
+  "description": "Vyhláška ministerstva financí o způsobu úhrady nákladů na státní vyrovnávací příspěvek plátcům příspěvku",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úhrada nákladů na státní vyrovnávací příspěvek1)",
+      "content": "(1) Plátci státního vyrovnávacího příspěvku2) (dále jen „příspěvek“) použijí k úhradě příspěvku osobám, které mají na příspěvek nárok3) (dále jen „oprávněné osoby“), prostředky státního rozpočtu České republiky.\n(2) Prostředky k úhradě příspěvků čerpají plátci jednou měsíčně vždy před jimi stanoveným výplatním termínem4) jednou souhrnnou částkou pro všechny oprávněné osoby ze zvláštních výdajových účtů Ministerstva financí vedených u České národní banky příkazem k inkasu předkládaným prostřednictvím své banky. Na příkazu k inkasu plátce uvede příslušné číslo zvláštního účtu z přehledu uvedeného v příloze této vyhlášky odpovídající jeho místní krajské příslušnosti a dále konstantní symbol 6418 a jako variabilní symbol identifikační číslo organizace. Plátce předloží bance příkaz k inkasu nejméně pět dní před stanoveným výplatním termínem příspěvku. Pokud plátce na příkazu k inkasu neuvede ve variabilním symbolu identifikační číslo organizace nebo uvede chybné identifikační číslo organizace, nebude úhrada bankou provedena.\n(3) Prostředky k úhradě příspěvku čerpají plátci, s výjimkou uvedenou v odstavci 4, ve prospěch svého běžného účtu.\n(4) Ústřední orgány, okresní úřady, obce a rozpočtové organizace čerpají prostředky k úhradě příspěvku ve prospěch svého účtu cizích prostředků."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Způsob účtování",
+      "content": "Při účtování nároků na příspěvek, jeho příjmu ze státního rozpočtu na běžný účet nebo na účet cizích prostředků a jeho výplaty použijí plátci syntetických účtů účtové třídy 2 a 3, a to účtů 211 nebo 261 - pokladna, 221- bankovní účty, 241- běžný účet, 245 - ostatní běžné účty, 331 - zaměstnanci, 336 - zúčtování s institucemi sociálního zabezpečení, 316 - ostatní pohledávky,6) 325 - ostatní závazky,6) uvedených v účtových osnovách pro příslušný druh organizace."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Zrušuje se vyhláška federálního ministerstva financí č. 250/1990 Sb., o způsobu úhrady nákladů na vyrovnávací příspěvek plátcům příspěvku."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\nPříloha k vyhlášce č. 73/1993 Sb.\nPřehled zvláštních účtů ministerstva financí pro čerpání příspěvků plátci v příslušném kraji\nHlavní město Praha1943-92129-011/0710\nStředočeský kraj1943-2124-111/0710\nJihočeský kraj1943-2123-231/0710\nZápadočeský kraj1943-2123-311/0710\nSeveročeský kraj1943-2128-411/0710\nVýchodočeský kraj1943-2122-511/0710\nJihomoravský kraj1943-2124-621/0710\nSeveromoravský kraj1943-2128-761/0710\n1) § 1 zákonného opatření předsednictva Federálního shromáždění ČSFR č. 206/1990 Sb., o státním vyrovnávacím příspěvku.\n2) § 4 zákonného opatření Předsednictva Federálního shromáždění ČSFR č. 206/1990 Sb., ve znění zákona č. 245/1991 Sb., zákona č. 578/1991 Sb., zákona ČNR č. 10/1993 Sb., zákona ČNR č. 37/1993 Sb., zákona č. 182/1994 Sb. a zákona č. 183/1994 Sb.\n3) § 2 zákonného opatření Předsednictva Federálního shromáždění ČSFR č. 206/1990 Sb., ve znění zákona ČNR č. 10/1993 Sb., zákona ČNR č. 37/1993 Sb., zákona č. 182/1994 Sb. a zákona č. 183/1994 Sb.\n4) Zálohy na plat za příslušný měsíc, v němž nárok na výplatu příspěvku vznikl, nebo zúčtování platu za předchozí měsíc.\n6) Pouze Česká správa sociálního zabezpečení a okresní správy sociálního zabezpečení v případě poukazů příspěvků poživatelům důchodu a rodičovského příspěvku prostřednictvím organizací spojů."
+    }
+  ],
+  "definitions": []
+}

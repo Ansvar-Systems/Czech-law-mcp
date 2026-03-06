@@ -1,0 +1,127 @@
+{
+  "id": "cz:86/1978",
+  "type": "statute",
+  "title": "86/1978 Sb., Vyhláška Slovenského úřadu bezpečnosti práce o kontrolách, revizích a zkouškách plynových zařízení",
+  "title_en": "",
+  "short_name": "86/1978 Sb.",
+  "status": "in_force",
+  "issued_date": "1978-07-17",
+  "in_force_date": "1979-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1978/86",
+  "description": "Vyhláška Slovenského úřadu bezpečnosti práce o kontrolách, revizích a zkouškách plynových zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Vyhláška se vztahuje na organizace, které vyrábějí, montují, provozují, opravují, udržují plynová zařízení (dále jen „zařízení“) nebo provádějí jejich revize.\n(2) Za zařízení se pro účely této vyhlášky považují zařízení podléhající státnímu odbornému dozoru nad bezpečností práce, vykonávanému Slovenským úřadem bezpečnosti práce a inspektoráty bezpečnosti práce, a to zařízení pro\na) výrobu a úpravu plynů,\nb) skladování a přepravu plynů,\nc) plnění nádob plyny, včetně tlakových stanic,\nd) zkapalňování a odpařování plynů,\ne) zvyšování a snižování tlaku plynů,\nf) rozvod plynů,\ng) spotřebu plynů spalováním.\n(3) Za zařízení uvedená v odstavci 2 se nepovažují zařízení, která jsou v osobním užívání uživatelů bytů a místností nesloužících k bydlení.\n(4) Za plyny pro účely této vyhlášky se považují látky, jejichž kritická teplota je nižší než 50 °C, nebo látky, u nichž je při teplotě 50 °C absolutní tlak (tenze) par vyšší než 0,3 MPa (3 kp/cm2).1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Všeobecné ustanovení",
+      "chapter": "ČÁST PRVNÍ - ÚVODNÍ USTANOVENÍ",
+      "content": "(1) Provedením revizí (§ 4) nebo zkoušek (§ 9) zařízení pověří organizace pracovníka, který má k této činnosti osvědčení o odborné způsobilosti (dále jen „revizní technik“). Toto osvědčení2) vydává inspektorát bezpečnosti práce3) (dále jen „inspektorát“) příslušný podle místa výkonu práce pověřovaného pracovníka.\n(2) Organizace může zajistit provedení revizí nebo zkoušek zařízení prostřednictvím jiné organizace, která má k této činnosti oprávnění4) vydané inspektorátem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Kontrola zařízení",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "(1) Kontrola zařízení je posouzení, zda stav provozovaného zařízení odpovídá požadavkům bezpečnosti práce a technických zařízení a požadavkům požární ochrany.\n(2) Kontrolou zařízení pověří organizace pracovníka, který prokazatelně ovládá bezpečnostní předpisy pro obsluhu kontrolovaného zařízení, bezpečnostní předpisy související, požární řád a poplachové směrnice, a který je zaškolen v obsluze zařízení.\n(3) O kontrole zařízení provede pověřený pracovník záznam do provozního deníku, který obsahuje:\na) jméno a příjmení pracovníka, který kontrolu provedl,\nb) datum kontroly,\nc) rozsah kontroly,\nd) zjištěné závady a návrhy na jejich odstranění,\ne) podpis pracovníka, který kontrolu provedl.\n(4) Kontrola zařízení se provádí jednou za rok; jestliže technický stav zařízení nebo provozní zkušenosti vyžadují častější kontroly, nařídí vedoucí organizace jejich provádění v kratších termínech."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Revize zařízení",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "(1) Revize zařízení jsou výchozí (§ 6) a provozní (§ 8); rozumí se jimi celkové posouzení zařízení, při kterém se prohlídkou, vyzkoušením, popřípadě i měřením zjišťuje provozní bezpečnost a spolehlivost zařízení nebo jeho částí a posoudí se i technická dokumentace a odborná způsobilost obsluhy.\n(2) Jestliže je součástí zařízení i zařízení elektrické, tlakové, zdvihací nebo jiné, prověří se při revizi celého zařízení, zda u těchto zařízení byla provedena revize podle zvláštních předpisů.5) Do zprávy o revizi zařízení se o tom učiní záznam.\n(3) Pro provádění revizí je organizace, která zařízení provozuje, povinna vypracovat harmonogram revizí nejméně na tříleté období a upravovat jej podle provozních zkušeností a technického stavu zařízení.\n(4) V odůvodněných případech může stanovit inspektorát provedení mimořádné revize."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Příprava revize zařízení",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "Před zahájením revize zařízení organizace připraví zařízení na revizi a dále zejména:\na) podle potřeby zajistí spolehlivé odpojení zařízení od přívodu energie a zabrání tak možnosti úrazů a havárie,\nb) podle potřeby odplyní zařízení nebo plyny v zařízení přivede do stavu netečné atmosféry (inertizace),6) popřípadě v zařízeních zajistí dýchatelnou a nezávadnou atmosféru,\nc) provede nezbytná měření v místech, v nichž by mohlo dojít k ohrožení zdraví nebo života osob nebo k ohrožení majetku a podle výsledku měření stanoví a provede potřebná opatření,\nd) provede podle místních podmínek v potřebném rozsahu protipožární opatření podle obecných předpisů,7)\ne) zajistí potřebný počet kvalifikovaných pracovníků a poskytne jim potřebné nářadí, přístroje a osobní ochranné pracovní prostředky,\nf) zajistí pro případ potřeby dýchací a oživovací techniku a vyžaduje-li to technologický postup i protiplynovou nebo záchrannou službu."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Výchozí revize",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "(1) Na každém zařízení zajistí dodavatelská organizace před uvedením zařízení do provozu provedení výchozí revize a vyhotovení zprávy o revizi, která je součástí dodávky zařízení.\n(2) Zařízení nesmí být uvedeno do provozu, pokud nejsou odstraněny závady, které znemožňují bezpečný a spolehlivý provoz a jsou uvedeny ve zprávě o výchozí revizi.\n(3) Při výchozí revizi se prověří zejména:\na) úplnost a správnost technické dokumentace zařízení,\nb) zda byly na zařízení provedeny předepsané zkoušky, a správnost a úplnost dokladů o zkouškách,\nc) zda zařízení odpovídá předpisům a požadavkům bezpečnosti práce a technických zařízení a požární ochrany,\nd) zda je zařízení vybaveno předepsanými měřicími, kontrolními a bezpečnostními zařízeními,\ne) kvalita montážních prací (výsledky nedestruktivních zkoušek svarů apod.),\nf) zda byly montážní práce provedeny pracovníky s předepsanou odbornou způsobilostí,\ng) kvalita vedení montážní dokumentace (doklady o kvalitě materiálu, armatur, svarů apod.),\nh) zda byla provedena revize i na zařízeních elektrických, tlakových, zdvihacích nebo jiných, jsou-li součástí revidovaného zařízení,\nch) jiné okolnosti důležité z hlediska bezpečnosti a spolehlivosti provozu a požární ochrany, požadované technologickým postupem."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Provozní revize",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "(1) Na zařízeních, která jsou v provozu, jsou organizace povinny zajistit provádění provozních revizí.\n(2) Provozní revize se provádějí zejména po skončení zkušebního provozu, po generální opravě, po zásazích, které mají vliv na bezpečnost a spolehlivost provozu, po nuceném odstavení zařízení z provozu, po odstavení zařízení z provozu na dobu delší než 6 měsíců a v případech stanovených zvláštními předpisy8) v souladu s pokyny výrobce (dodavatele) zařízení.\n(3) Při provozní revizi se podle charakteru zařízení prověří zejména:\na) změny stavu zařízení od poslední revize, zda bylo zařízení odstaveno z provozu déle než 6 měsíců a zda vykazovalo v provozu poruchy nebo jiné nedostatky,\nb) dokumentace o provedených kontrolách a zkouškách zařízení,\nc) úplnost a správnost provozní technické dokumentace,\nd) funkce zabezpečovacích, kontrolních, měřicích a ovládacích zařízení, včetně vyzkoušení simulovaných poruchových stavů,\ne) funkce odtahových systémů, větrání, odsávání a celková funkce zařízení,\nf) těsnost zařízení,\ng) vybavení pracoviště protipožární technikou, osobními ochrannými pracovními prostředky, dýchací a oživovací technikou,\nh) stav pracoviště, vybavení pracoviště bezpečnostními značkami a tabulkami, výskyt vlivů, které ztěžují obsluhu a způsobují nadměrné přetížení zařízení,\ni) zda splňuje obsluha předepsané požadavky odborné způsobilosti,\nj) úplnost a správnost provozního řádu a návodů k obsluze,\nk) jiné okolnosti důležité z hlediska bezpečnosti a spolehlivosti provozu a požární ochrany, požadované technologickým postupem."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Zpráva o revizi",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "O výsledku revize vyhotoví revizní technik, který revizi provedl, zprávu o revizi, která obsahuje:\na) název a sídlo organizace s přesným označením provozu, ve kterém byla revize provedena,\nb) datum provedení revize, jméno a příjmení revizního technika a evidenční číslo jeho osvědčení,\nc) druh revize (provozní, výchozí),\nd) označení, druh a technické hodnoty revidovaného zařízení,\ne) údaje o provedeném měření a vyzkoušení zařízení, včetně výrobních nebo evidenčních čísel použitých měřicích přístrojů,\nf) zjištěné závady a nedostatky, jejich závažnost z hlediska bezpečnosti a spolehlivosti provozu zařízení,\ng) návrh opatření a lhůt k odstranění zjištěných závad a nedostatků,\nh) údaje o tom, zda a jak byly odstraněny závady zjištěné při předchozí revizi, popřípadě při kontrole zařízení,\ni) celkové zhodnocení revidovaného zařízení z hlediska bezpečnosti a provozní schopnosti a požární ochrany,\nj) podpis a otisk razítka revizního technika,\nk) v případě, že revizi provedla oprávněná organizace, její název a číslo oprávnění."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Zkouška zařízení",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "(1) Zkouškou zařízení je jeho přezkoušení po dokončení montáže nebo rekonstrukce z hlediska, zda odpovídá předpisům a požadavkům bezpečnosti práce a technických zařízení, požární ochrany a projektovaným technickým hodnotám. Zkoušku zařízení zajistí organizace, která prováděla montáž nebo rekonstrukci zařízení.\n(2) Před zahájením zkoušky zařízení vypracuje revizní technik pověřený jejím provedením na základě projektové dokumentace zařízení technologický postup zkoušky, který obsahuje zejména:\na) rozsah zkoušky a podrobný popis úkonů prováděných při zkoušce,\nb) nezbytná opatření pro bezpečné provedení zkoušky,\nc) podmínky, za kterých je zkouška uznána za úspěšnou.\n(3) Jestliže zkouška zařízení nebyla úspěšná, musí se opakovat po odstranění zjištěných závad."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Příprava zkoušky zařízení",
+      "chapter": "ČÁST DRUHÁ - KONTROLY, REVIZE A ZKOUŠKY ZAŘÍZENÍ",
+      "content": "Před zahájením zkoušky zařízení provede organizace opatření podle § 5 a dále zajistí:\na) vytyčení a zřetelné označení bezpečnostního pásma podle požadavků projektu zařízení v případech, že při zkouškách jsou překračovány provozní hodnoty nebo uměle vytvořeny havarijní stavy, popřípadě jsou zařízení krátkodobě přetížena,\nb) aby se v případech uvedených v písmeni a) nezdržovaly v průběhu zkoušky v bezpečnostním pásmu nepovolané osoby,\nc) aby se pracovníci pověření prováděním zkoušky zdržovali v průběhu zkoušky na bezpečném místě stanoveném technologickým postupem,\nd) aby měřicí a ovládací zařízení, která se v průběhu zkoušky používají, byla umístěna na bezpečném místě,\ne) aby připojovací potrubí a tlakové nádoby potřebné k provedení zkoušky byly předem vyzkoušeny na stanovený zkušební přetlak,\nf) aby byla zajištěna správnost hlavních měřicích přístrojů podle zvláštních předpisů.9)"
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Odborná způsobilost",
+      "chapter": "ČÁST TŘETÍ - REVIZNÍ TECHNIK",
+      "content": "(1) Organizace je povinna pracovníka, kterého hodlá pověřit prováděním revizí nebo zkoušek zařízení, přihlásit inspektorátu k prověření odborné způsobilosti.\n(2) Pracovník přihlášený k prověření odborné způsobilosti musí být zdravotně způsobilý10) a musí:\na) mít vysokoškolské vzdělání technického směru a nejméně jeden rok odborné praxe, nebo\nb) mít úplné střední odborné vzdělání technického směru a nejméně tři roky odborné praxe, nebo\nc) být vyučen v příslušném oboru a mít nejméně 10 let praxe; v tomto případě však může být pracovník pověřen jen zkouškami zařízení.\n(3) Žádost o prověření odborné způsobilosti musí obsahovat:\na) jméno a příjmení pracovníka,\nb) údaje o vzdělání a délce odborné praxe pracovníka,\nc) označení druhu a rozsahu požadovaného osvědčení a označení zařízení, jehož revize nebo zkoušky bude pracovník provádět,\nd) druh práce a místo výkonu práce pracovníka,\ne) název a sídlo organizace, otisk razítka a podpis vedoucího organizace.\n(4) Termín a místo prověření odborné způsobilosti sdělí inspektorát organizaci nejméně 30 dnů předem.\n(5) Při prověřování odborné způsobilosti přezkouší inspektorát pracovníka ze znalostí předpisů k zajištění bezpečnosti práce a technických zařízení a z teoretických znalostí z oboru plynových zařízení s přihlédnutím k požadovanému druhu a rozsahu osvědčení.\n(6) Jestliže organizace žádá o rozšíření rozsahu osvědčení, prověří inspektorát odbornou způsobilost pracovníka přezkoušením podle odstavce 5 a vydá mu nové osvědčení. K žádosti o rozšíření rozsahu osvědčení musí být připojeno i dosavadní osvědčení pracovníka."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Osvědčení",
+      "chapter": "ČÁST TŘETÍ - REVIZNÍ TECHNIK",
+      "content": "(1) Na základě úspěšného přezkoušení podle § 11 odst. 5 vydá inspektorát pracovníkovi do 30 dnů po přezkoušení osvědčení, ve kterém vyznačí druh a rozsah získané odborné způsobilosti.\n(2) Druh osvědčení se stanoví podle druhu zařízení uvedených v § 1 odst. 2.\n(3) Reviznímu technikovi, který provádí revize nebo zkoušky zařízení v rozporu s touto vyhláškou nebo s předpisy k zajištění bezpečnosti práce a technických zařízení, může inspektorát osvědčení odebrat, popřípadě omezit jeho rozsah."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Povinnosti revizního technika",
+      "chapter": "ČÁST TŘETÍ - REVIZNÍ TECHNIK",
+      "content": "(1) Revizní technik pověřený prováděním revizí zařízení je povinen zejména:\na) provádět revize zařízení v rozsahu svého osvědčení,\nb) vypracovat technologický postup revize,\nc) o výsledku revize vyhotovit zprávu o revizi,\nd) jestliže zařízení bezprostředně ohrožuje život a zdraví pracovníků nebo majetek, navrhnout okamžitě odstavení zařízení z provozu,\ne) na základě výsledku revize navrhnout opatření k odstranění zjištěných závad a nedostatků,\nf) spolupracovat při školení pracovníků, kteří obsluhují zařízení, a zúčastňovat se jejich přezkoušení.\n(2) Revizní technik pověřený provedením zkoušky zařízení je povinen zejména:\na) provádět zkoušky zařízení v rozsahu svého osvědčení,\nb) vypracovat technologický postup zkoušky (§ 9 odst. 2),\nc) v rámci pověření organizace řídit přípravné práce ke zkoušce zařízení a kontrolovat, jsou-li při zkoušce dodrženy platné předpisy, technické normy a technologický postup,\nd) o výsledku zkoušky vyhotovit zápis,\ne) na základě výsledku zkoušky doporučit uvedení zařízení do provozu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "U zařízení uvedených do provozu před účinností této vyhlášky je organizace povinna provést první provozní revize do jednoho roku ode dne účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Výjimky z ustanovení § 11 odst. 2 může povolit na žádost organizace Slovenský úřad bezpečnosti práce, jsou-li pro to závažné důvody a doporučí-li to inspektorát."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16",
+      "chapter": "ČÁST ČTVRTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1979.\n1) ČSN 07 8304 Kovové tlakové nádoby k dopravě plynů. Provozní pravidla.\n2) § 4 písm. g) zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce.\n3) Vyhláška č. 15/1977 Sb., kterou se mění a doplňuje vyhláška č. 36/1970 Sb., o zřízení inspektorátů bezpečnosti práce.\n4) § 4 písm. f) zákona č. 174/1968 Sb.\n5) Např. ČSN 34 3800 Revize elektrických zařízení.\n6) ČSN 38 6420 Plynovody v průmyslových závodech.\nČSN 38 6405 Směrnice pro zpracování předpisů pro údržbu a obsluhu odběrních plynových zařízení v průmyslových závodech.\n7) Zákon č. 18/1958 Sb., o požární ochraně:\nvyhláška ministerstva vnitra č. 106/1959 Ú. v., o organizaci požární ochrany.\n8) Např. ČSN 38 6405 Směrnice pro zpracování předpisů pro obsluhu a údržbu odběrních plynových zařízení v průmyslových závodech,\nČSN 38 6462 Rozvod a použití propan-butanu v průmyslových závodech a sídlištích,\nČSN 38 6417 Regulační stanice plynu.\n9) Vyhláška Úřadu pro normalizaci a měření č. 61/1963 Sb., o zajišťování správnosti měřidel a měření, ve znění vyhlášky ÚNM č. 102/1967 Sb.\n10) Směrnice min. zdravotnictví SSR č. 17/1970 Věst. MZd o posuzování zdravotní způsobilosti k práci."
+    }
+  ],
+  "definitions": []
+}

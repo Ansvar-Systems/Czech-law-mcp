@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:54/1945",
+  "type": "statute",
+  "title": "54/1945 Ú. l., Vyhláška ministra ochrany práce a sociální péče o výplatě mzdy za den 29. června 1945.",
+  "title_en": "",
+  "short_name": "54/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-06-28",
+  "in_force_date": "1945-06-28",
+  "url": "https://www.e-sbirka.cz/ul0/1945/54",
+  "description": "Vyhláška ministra ochrany práce a sociální péče o výplatě mzdy za den 29. června 1945.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Den 29. června 1945 jest dnem pracovního klidu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Předpisy platné o výplatě mzdy za den 1. května, za velikonoční a svatodušní pondělí, za první a druhý vánoční svátek a za Nový rok, platí také pro den 29. června 1945."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška platí pro celé území českých zemí a nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cz:99/2000",
+  "type": "statute",
+  "title": "99/2000 Sb., Zákon o zákazu dodávek pro jadernou elektrárnu Búšehr",
+  "title_en": "",
+  "short_name": "99/2000 Sb.",
+  "status": "in_force",
+  "issued_date": "2000-04-25",
+  "in_force_date": "2016-07-29",
+  "url": "https://www.e-sbirka.cz/sb/2000/99",
+  "description": "Zákon o zákazu dodávek pro jadernou elektrárnu Búšehr",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Vývoz zboží a poskytnutí služeb, nehmotných práv a jakékoli dokumentace nebo informací, jejichž určení přímo či zprostředkovaně souvisí s jadernou elektrárnou Búšehr v Íránské islámské republice, jsou zakázány.\n(2) Pro účely tohoto zákona se rozumí vývozem zboží propuštění zboží do celního režimu vývozu nebo pasivního zušlechťovacího styku anebo zpětný vývoz zboží."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Vývozci nebo jakékoliv jiné osobě, která poruší zákaz stanovený v § 1 odst. 1, může Ministerstvo financí uložit\na) pokutu do výše 20 000 000 Kč nebo do výše pětinásobku ceny zboží nebo jiného plnění podle § 1 odst. 1, je-li tento pětinásobek vyšší než 20 000 000 Kč,\nb) propadnutí zboží, jehož se zákaz podle § 1 odst. 1 týká.\nUložení pokuty nevylučuje uložení propadnutí zboží.\n(2) Výše pokuty se určí s ohledem na míru, význam a dobu ohrožení zahraničněpolitických, bezpečnostních nebo obchodních zájmů státu nebo i s ohledem na škodu vzniklou porušením tohoto zákona.\n(3) Pokuta je příjmem státního rozpočtu. Vlastníkem propadlého zboží je stát.\n(4) Rozklad proti rozhodnutí o uložení pokuty a proti rozhodnutí o uložení propadnutí zboží nemá odkladný účinek.\n(5) Pokutu nebo propadnutí zboží lze uložit do 3 let ode dne, kdy bylo porušení § 1 odst. 1 zjištěno, nejpozději však do 10 let ode dne, kdy k jeho porušení došlo."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely tohoto zákona",
+      "definition": "vývozem zboží propuštění zboží do celního režimu vývozu nebo pasivního zušlechťovacího styku anebo zpětný vývoz zboží",
+      "source_provision": "§ 1"
+    }
+  ]
+}

@@ -1,0 +1,927 @@
+{
+  "id": "cz:239/1998",
+  "type": "statute",
+  "title": "239/1998 Sb., Vyhláška Českého báňského úřadu o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při těžbě a úpravě ropy a zemního plynu a při vrtných a geofyzikálních pracích a o změně některých předpisů k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při hornické činnosti a činnosti prováděné hornickým způsobem",
+  "title_en": "",
+  "short_name": "239/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-10-21",
+  "in_force_date": "2011-06-01",
+  "url": "https://www.e-sbirka.cz/sb/1998/239",
+  "description": "Vyhláška Českého báňského úřadu o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při těžbě a úpravě ropy a zemního plynu a při vrtných a geofyzikálních pracích a o změně některých předpisů k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při hornické činnosti a činnosti prováděné hornickým způsobem",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl I - Úvodní ustanovení",
+      "content": "(1) Tato vyhláška stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu (dále jen „bezpečnost práce a provozu“) při těžbě a úpravě ropy a plynů, při těžbě nerostů loužením, při vrtných a geofyzikálních pracích, při podzemním uskladňování plynů nebo kapalin v přírodních horninových strukturách a v podzemních prostorech, při ukládání kapalných odpadů a důlních vod (dále jen „kapalin“) do přírodních horninových struktur a při průmyslovém využívání tepelné energie zemské kůry.1)\n(2) Tato vyhláška se nevztahuje na vrtné práce prováděné v souvislosti s ražením důlních a jiných podzemních děl, rozpojováním hornin a dobýváním.\n(3) Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, ve znění směrnice 98/48/ES."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl I - Úvodní ustanovení",
+      "content": "Pro účely této vyhlášky se považuje za\na) erupci nekontrolovatelné vytékání plynného nebo kapalného média z ústí vrtu nebo sondy nebo z jednoho obzoru do jiného,\nb) nářadí všechny nástroje a zařízení a jejich části zapouštěné do vrtu nebo sondy za účelem vrtných prací, podzemních oprav sond nebo odstranění havárie ve vrtu nebo sondě,\nc) nebezpečný tlakový projev takové narušení tlakové rovnováhy ve vrtu, při které může dojít k erupci,\nd) otevřený oheň záměrné nebo kontrolované hoření, kouření a také takový vývin tepelné energie nebo jiskření, které je důsledkem záměrně vyvolaných fyzikálních nebo chemických procesů nebo pochodů a které by mohlo být příčinou vzniku požáru nebo výbuchu,\ne) pracovní poval část vrtné soupravy nebo soupravy pro podzemní opravy sond, na níž je stanoviště obsluhy vrtného vrátku a na které se manipuluje s nářadím,\nf) sondu vrt vystrojený pro účely těžby, popřípadě i vtláčení plynu a kapalin, včetně příslušného povrchového zařízení,\ng) údržbu zařízení činnost směřující k udržování zařízení v provozuschopném a bezpečném stavu; údržbou zařízení jsou i předepsané prohlídky, zkoušky, kontroly, revize a opravy zařízení, jakož i montáž a demontáž částí zařízení v rozsahu potřebném k provedení prohlídek, zkoušek, kontrol, revizí nebo oprav zařízení,\nh) vrtbu pracoviště včetně vrtné soupravy a dalšího zařízení potřebného k hloubení vrtů,\ni) vedoucího pracovníka fyzická osoba s ověřenou odbornou způsobilostí závodní,\nj) likvidaci vrtu nebo sondy uvedení vrtu nebo sondy do stavu, kdy jsou přírodní bariéry odstraněné vrtnou činností nahrazeny bariérami umělými, které zamezí možnosti komunikace mezi jednotlivými obzory nebo jednotlivých obzorů s povrchem,\nk) zajištění vrtu nebo sondy uvedení vrtu nebo sondy do takového stavu, kdy je trvale zabezpečeno zachování obzorů vhodných pro průmyslové využití a umožněn bezpečný návrat k těmto obzorům,\nl) mostek uměle vytvořená bariéra k izolaci obzorů; mostek je buď cementový, který je tvořen pevným sloupcem cementu vyhovujícím zkouškám podle této vyhlášky, nebo mechanický, který je tvořen technickým zařízením; mostek může být tvořen i kombinací cementového a mechanického mostku,\nm) vodu pod tlakem voda s předpokládaným nebo skutečným tlakem na ústí vrtu nebo sondy vyšším než 0,1 MPa,\nn) umrtvený vrt nebo sonda vrt nebo sonda s vytvořenou tlakovou rovnováhou, kdy hydrostatický tlak sloupce kapaliny ve vrtu nebo sondě je stejný nebo vyšší než tlak v příslušném obzoru,\no) kyselý plyn zemní plyn s obsahem sirovodíku a dalších kyselých složek, jako je oxid uhličitý nebo organické sírové sloučeniny, s parciálním tlakem sirovodíku vyšším než 0,35 kPa a celkovým tlakem systému vyšším než 450 kPa."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Objekty a zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Při činnostech upravených touto vyhláškou je dovoleno provozovat a používat jen pracoviště, zařízení, přístroje, pomůcky, objekty a materiály, které svou konstrukcí, provedením a technickým stavem odpovídají předpisům k zajištění bezpečnosti práce a provozu.2)\n(2) Do provozu smí být uvedeny jen výrobky, které svou konstrukcí, provedením a technickým stavem splňují požadavky na bezpečný výrobek.3)"
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Požadavky na objekty",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Podlahy v místech, kde se chodí nebo kde se zdržují lidé, nesmí mít nebezpečné překážky, otvory nebo sklon a musí být pevné, stabilní a nekluzké.\n(2) Půdorysná plocha (základna), výška a objem pracovního prostoru musí být navrženy tak, aby zaměstnanci mohli provádět svoji práci, aniž by byla ovlivněna jejich bezpečnost, zdraví nebo dobrá pracovní pohoda. Prostor, ve kterém se mají zaměstnanci pohybovat, musí mít výšku nejméně 2,1 m.\n(3) Prostor, který má zaměstnanec na pracovišti k dispozici, musí být tak velký, aby zaměstnanec měl při své činnosti dostatečnou volnost pohybu a mohl bezpečně plnit své úkoly.\n(4) Okna, světlíky a větrací zařízení, které mohou být otevírány, uzavírány, přestavovány a zajišťovány, je nutno navrhovat a konstruovat tak, aby bylo zaručeno bezpečné zacházení s nimi. Musí umožňovat bezpečné čištění. V otevřeném stavu nesmí představovat nebezpečí pro zaměstnance.\n(5) Průhledné nebo průsvitné stěny, přepážky v místnostech nebo v blízkosti dopravních cest, dveře a vrata musí být ve výši očí zřetelně označeny a musí být vyrobeny z bezpečnostních materiálů nebo spolehlivě chráněny, aby v případě, že dojde k jejich rozbití, bylo zabráněno zranění zaměstnanců.\n(6) Je zakázán přístup na střechy z materiálů, které nemají vyhovující odolnost vůči zatížení, pokud není k dispozici zařízení, s jehož pomocí lze příslušnou činnost provést bezpečně.\n(7) Umístění, počet a rozměry dveří a vrat a materiály pro jejich zhotovení musí být voleny podle vlastností a způsobu využívání prostorů a pracovišť.\n(8) Dveře a vrata musí splňovat tyto požadavky:\na) kyvadlové (létací) dveře a vrata musí být průhledné nebo musí mít průhledné okénko,\nb) posuvné dveře je nutno zajistit proti vysunutí a vypadnutí,\nc) dveře a vrata, které se otevírají směrem nahoru, musí být zajistitelné proti nečekanému pádu zpět,\nd) dveře na záchranných cestách se musí otevírat směrem ven, musí být označeny, jejich konstrukce musí umožňovat kdykoliv otevření i zevnitř bez použití pomocných prostředků a nesmí být uzamčeny,\ne) vrata na cestách s dopravou, pokud jejich průchod pro chodce není bezpečný, musí být vybavena dalšími dobře viditelnými a stále přístupnými dveřmi pro průchod,\nf) dveře a vrata ovládaná mechanickou silou nesmí svým pohybem ohrožovat zaměstnance, musí být vybaveny zřetelným, dobře rozpoznatelným a lehce přístupným nouzovým vypínacím zařízením a s výjimkou případu, kdy se při poruše napájení samy automaticky otevřou, musí umožňovat ruční otevření.\n(9) Pomocné provozní objekty, například dílna, kancelář, sklad nebo odpočívárna, musí být umístěny v prostoru bez nebezpečí výbuchu.\n(10) Pokud jsou v provozním objektu instalovány měřicí a kontrolní přístroje, do kterých je přiváděn plyn, musí být jejich odfukové potrubí vyvedeno ven z objektu tak, aby se plyn nemohl vracet, a to ani zředěný.\n(11) Provozní objekty musí být označeny názvem objektu; to platí i pro vrty a sondy."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Požadavky na pracoviště",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Pracoviště je nutno navrhovat, stavět, zřizovat, vybavovat, provozovat, hlídat a udržovat tak, aby odpovídalo očekávaným vnějším podmínkám; konstrukcí a pevností musí odpovídat způsobu jeho použití.\n(2) Stanoviště obsluhy stabilního zařízení musí být určeno tak, aby volný prostor pro obsluhu byl o šířce nejméně 0,8 m do výšky nejméně 2,1 m. U elektrického zařízení se tento požadavek považuje za splněný, odpovídají-li rozměry volného prostoru obsahu technické normy.\n(3) V provozovně se stálou obsluhou musí být telekomunikační zařízení.\n(4) Pokud jsou zaměstnanci v provozovně, musí být odemknuty alespoň jedny dveře. Dveře se musí otevírat směrem ven nebo, pokud to není možné, smí být posuvné. Dveře musí být nehořlavé. V době, kdy je zařízení mimo provoz nebo bez dohledu, musí být dveře do provozovny zamknuty.\n(5) V provozovně smí být uloženy jen pomůcky a materiál pro provoz zařízení umístěného v ní.\n(6) Na venkovním pracovišti musí být zaměstnanci chráněni před nepříznivými povětrnostními vlivy a podle potřeby i před padajícími předměty."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Odpočívárny a podobné prostory",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Vyžadují-li to bezpečnostní a zdravotní důvody, musí mít zaměstnanci k dispozici snadno dosažitelné odpočívárny; to neplatí, jestliže zaměstnanci pracují v kancelářích nebo jim srovnatelných pracovních prostorách a jsou-li tam dány rovnocenné předpoklady pro zotavení během přestávek v práci.\n(2) Odpočívárny musí být dostatečně dimenzovány a vybaveny stoly a možnostmi k sezení odpovídajícími počtu zaměstnanců. Sedadla musí být opatřena opěradly. V odpočívárnách je nutno přijmout přiměřená opatření k ochraně nekuřáků před obtěžováním tabákovým kouřem.4)\n(3) Pokud je pracovní doba pravidelně a často přerušována a nejsou k dispozici odpočívárny, je nutno, pokud to vyžaduje bezpečnost nebo zdraví zaměstnanců, dát zaměstnancům k dispozici jiné prostory, v nichž se mohou zdržovat po dobu těchto přerušení. Ustanovení odstavce 2 třetí věty platí přiměřeně."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Vstup do objektů a na pracoviště",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Vedoucí pracovník5) určí způsob zabezpečení objektů, pracovišť a zařízení proti vstupu nepovolaných osob. Za zabezpečení se nepovažuje pouhé označení tabulkami.\n(2) Nebezpečné otvory, prohlubně, propadliny a jiná místa, kde hrozí nebezpečí pádu osob, musí být zabezpečeny proti pádu z výšky nebo do hloubky.\n(3) Zákaz vstupu nepovolaných osob na místa uvedená v odstavcích 1 a 2 musí být vyznačen na bezpečnostních tabulkách u všech vchodů, přístupů a cest k nim.\n(4) Prostory se známým nebezpečím a nebezpečná místa musí být vymezeny a opatřeny varovným označením, bezpečnostními tabulkami nebo značkami s konkrétními zákazy a varováním. Je-li k vymezení použito řetězů, lan a podobných prostředků, musí být tyto jasně viditelné. Pro ochranu osob vstupujících do těchto prostorů a míst musí být určena potřebná opatření.\n(5) Vstup na pracoviště a do prostorů a míst uvedených v odstavci 4 je dovolen jen zaměstnancům určeným k práci, kontrole nebo dozoru; dalším osobám jen v doprovodu určeného zaměstnance.\n(6) Do míst s nebezpečím pádu předmětů se nesmí vstupovat bez ochranné přilby.\n(7) Oplocení, popřípadě ohrazení objektu musí zahrnovat všechny prostory s nebezpečím výbuchu [§ 81 odst. 1 písm. a) až c)] v celém jejich rozsahu."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Evidence osob",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Evidence zaměstnanců a osob, které se na pracovišti zdržují s vědomím zaměstnavatele, musí být vedena od začátku až do ukončení pracovní směny.\n(2) Technický dozor se nejpozději do jedné hodiny po skončení směny přesvědčí, zda všichni zaměstnanci a osoby uvedené v odstavci 1 opustili pracoviště nebo byli převzati do evidence následující směny.\n(3) Je-li někdo pohřešován, musí být po něm ihned zahájeno pátrání."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Prohlídky pracovišť",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl II - Objekty, pracoviště a zařízení",
+      "content": "(1) Pracoviště smí být obsazeno, pokud bylo včetně přístupových cest před zahájením práce prohlédnuto technickým dozorem5) nebo předákem vyškoleným pro výkon technického dozoru a zjištěné závady odstraněny; to se nevztahuje na zaměstnance určené k odstranění zjištěných závad.\n(2) Pracoviště, kde nelze vyloučit výskyt hořlavých plynů, par nebo prachu (dále jen „hořlavé plyny“) nebo kde se používají výbušniny, musí být v pracovní době prohlédnuto včetně přístupových cest technickým dozorem, a to nejméně jednou za den.\n(3) Technický dozor a ostatní technici při prohlídkách pracovišť kontrolují zejména dodržování provozní dokumentace, stav bezpečnostních zařízení, vybavení, stav a používání osobních ochranných pracovních prostředků a uschování, zabezpečení a používání výbušnin a zabezpečí odstranění zjištěných závad. Jestliže není možné zjištěné závady odstranit a zaměstnanci jsou bezprostředně ohroženi, technický dozor a ostatní technici zastaví práci, zajistí odchod zaměstnanců na bezpečné místo a v organizacích, na které se vztahuje § 17, ihned uvědomí o tomto opatření inspekční službu.\n(4) Ustanovení odstavců 1 a 2 se nevztahují na pracoviště obsazené jedním zaměstnancem (§ 13). Prohlídka takového pracoviště technickým dozorem musí být provedena nejméně jednou za týden, jde-li o pracoviště s možným výskytem vody pod tlakem, ropy nebo plynu, v ostatních případech nejméně jednou za 14 dní.\n(5) Není-li touto vyhláškou stanoveno jinak, zaměstnavatel zajistí nejméně jednou ročně prohlídky ocelových konstrukcí a staveb, pokud jsou vystaveny účinkům vlhkosti nebo agresivních látek."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Nahlížení do bezpečnostních předpisů",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl III - Zaměstnanci",
+      "content": "Zaměstnancům musí být umožněno nahlížet do právních a ostatních předpisů2) a do těch rozhodnutí orgánů státní báňské správy, která se týkají jimi prováděné činnosti, a podáno jim na jejich požádání potřebné vysvětlení."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Zácvik, školení a praktický výcvik",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl III - Zaměstnanci",
+      "content": "(1) Osnovu zácviku, dobu, po kterou zaměstnanec musí pracovat pod dohledem určeného kvalifikovaného zaměstnance, a způsob zkoušek určí vedoucí pracovník podle druhu práce, pokud tyto požadavky nejsou stanoveny předpisem k zajištění bezpečnosti práce a provozu nebo zvláštním právním předpisem.6) Zácvik smí vedoucí pracovník prominout absolventům středních odborných a vysokých škol a zaměstnancům, kteří jsou vyučeni v oboru, ve kterém mají pracovat.\n(2) Na horní pracovní plošině vybavené záchranným zařízením (§ 27 odst. 3) smí pracovat jen zaměstnanec, který byl seznámen s jeho funkcí a prakticky vycvičen v jeho používání. Výcvik musí být opakován nejméně jednou za rok.\n(3) Nejméně jednou za rok musí být zaměstnanci pracující na vrtbě s předpokládaným výskytem vody pod tlakem, ropy nebo plynu vyškoleni a prakticky vycvičeni z postupů při zmáhání tlakových projevů. Způsob praktického výcviku určí vedoucí pracovník.\n(4) Pokud projekt předpokládá možnost vzniku nebezpečného tlakového projevu, řídí vrtné práce, práce pro podzemní opravy sond a práce k zajištění nebo likvidaci vrtů nebo sond na vodu pod tlakem, ropu nebo plyn držitel osvědčení o absolvování speciálního výcviku ve zmáhání tlakových projevů ve vrtu nebo sondě podle mezinárodních standardů vydaného akreditovaným školicím střediskem pro zmáhání tlakových projevů; to neplatí pro zaměstnance vykonávajícího inspekční službu."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Předák",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl III - Zaměstnanci",
+      "content": "(1) Skupina dvou a více zaměstnanců je řízena předákem, kterého určí technický dozor.\n(2) Předák musí být na pracovišti po celou dobu, po kterou jsou zde přítomni zaměstnanci jeho skupiny.\n(3) Předák dbá na bezpečnost své skupiny a zajišťuje bezpečný stav pracoviště, dodržování provozní dokumentace a plnění příkazů nadřízených. Hrozí-li zaměstnancům zřejmé a bezprostřední ohrožení a nelze-li je odstranit, zastaví práci a odvede svoji skupinu na bezpečné místo.\n(4) Při střídání směn předák upozorní nastupujícího předáka na důležité skutečnosti a na závady na pracovišti. Pokud tak nemůže učinit, podá o tom zprávu technickému dozoru nebo inspekční službě."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Obsazení pracovišť",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl III - Zaměstnanci",
+      "content": "Obsadit pracoviště jedním zaměstnancem je dovoleno tehdy, mají-li být prováděny jednoduché práce, jako například kontrola, sledování a zaznamenávání údajů nebo běžná údržba, je-li při výkonu práce vyloučena možnost pádu osob z výšky nebo do hloubky a je-li určen a zajištěn způsob a čas dovolání nebo hlášení."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Práce spojené se zvýšeným nebezpečím",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl IV - Práce se zvýšeným nebezpečím",
+      "content": "(1) Práce spojená se zvýšeným nebezpečím je práce, při které hrozí zvýšené nebezpečí úrazu (dále jen „práce spojená se zvýšeným nebezpečím“). Práci spojenou se zvýšeným nebezpečím smí provádět jen určený zaměstnanec. Taková práce nesmí být prováděna bez provozní dokumentace a bez nepřetržitého sledování pracovní činnosti a stavu pracoviště jiným určeným zaměstnancem (dále jen „stálý dozor“).\n(2) Stálý dozor smí vykonávat jen zaměstnanec, který byl se svými právy a povinnostmi seznámen. Při jeho výkonu se tento zaměstnanec nesmí z místa výkonu dozoru vzdálit a nesmí se zaměstnávat ničím jiným než výkonem dozoru."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Práce v těžko přístupných a nebezpečných místech",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl IV - Práce se zvýšeným nebezpečím",
+      "content": "(1) Práce v zásobnících, nádržích, separátorech, kotlích, potrubích, kanálech a v jiných obdobných úzkých nebo těžko přístupných místech a zařízeních a v místech, kde se může vyskytovat výbušné, nedýchatelné nebo toxické ovzduší, se považuje za práci spojenou se zvýšeným nebezpečím.\n(2) Před zahájením práce uvnitř zařízení uvedených v odstavci 1, ve kterých se mohou vyskytovat jedovaté, žíravé nebo hořlavé plyny nebo kapaliny, je nutné zařízení vyprázdnit a odpojit nebo zaslepit všechna potrubí nebo jiná zařízení, ze kterých by mohly do zařízení vniknout plyny nebo kapaliny uvedeného druhu.\n(3) Zbytky hmot se sklonem k samovznícení nebo dalšímu odpařování musí být před začátkem práce uvnitř zařízení uvedených v odstavci 1 odstraněny nebo zničeny nebo musí být vnitřní prostor těchto zařízení inertizován.\n(4) Kapaliny musí být z vyprazdňovaných zařízení odváděny tak, aby neohrozily bezpečnost práce a provozu. Pro odvádění plynů a hořlavých par platí ustanovení § 29 odst. 4.\n(5) Do místa, kde se může vyskytovat výbušné, nedýchatelné nebo toxické ovzduší, je možné vstoupit a zdržovat se v něm až po jeho ovětrání a po předcházejícím ověření složení ovzduší v něm.\n(6) Kontrola a čištění vnitřku nádrže na hořlavou látku se smí provádět, pokud koncentrace hořlavých plynů nebo par v nich nepřesahuje 50 % spodní meze výbušnosti. Při práci je nutno používat dýchací přístroj.\n(7) Při práci uvnitř zařízení uvedených v odstavci 1 obsahujících škodliviny musí každý zaměstnanec používat bezpečnostní postroj a musí být jištěn pomocí napjatého lana dvěma zaměstnanci z venku.\n(8) V době vichřice a bouřky jsou práce v těžko přístupných a nebezpečných místech a karotážní, seismické a geoelektrické práce zakázány."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Práce ve výškách",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl IV - Práce se zvýšeným nebezpečím",
+      "content": "(1) Pokud je zaměstnanec ohrožen pádem, propadnutím nebo sesutím z výšky nebo do hloubky 1,5 m nebo větší, musí být zajištěn proti pádu. Osobní zajištění proti pádu se může použít jen v případě, kdy nelze použít kolektivní zajištění nebo toto by s ohledem na povahu práce nebo místní podmínky bylo neúčinné.\n(2) Za kolektivní zajištění proti pádu se považuje ochranné nebo záchytné zábradlí, ohrazení nebo síť, které jsou dostatečně pevné, odolné a upevněné tak, aby snesly předpokládané namáhání.\n(3) Za osobní zajištění proti pádu se považuje zajištění bezpečnostním pásem nebo bezpečnostním postrojem. Bezpečnostní pás smí být použit jen jako polohovací prostředek v místě, kde se při pádu z výšky nepředpokládá pohyb zaměstnance volným pádem. Při použití bezpečnostního postroje bez tlumiče energie získané pádem nesmí výška volného pádu přesáhnout 1,5 m, s tlumičem pak výšku 4 m."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Inspekční služba",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl V - Mimořádné události",
+      "content": "(1) Při zřizování, likvidaci a podzemních opravách vrtů a sond s předpokládaným výskytem vody pod tlakem, ropy nebo plynu, při těžbě a úpravě plynů a kapalin, při těžbě nerostů loužením, při podzemním uskladňování plynů nebo kapalin a při ukládání plynů nebo kapalin do přírodních horninových struktur musí být ve všech pracovních i nepracovních směnách zajištěna inspekční služba.\n(2) Inspekční službou smí být pověřen jen zaměstnanec odborně způsobilý řídit zdolávání havárie.\n(3) Zaměstnanec vykonávající inspekční službu řídí práce na záchranu osob a zdolávání havárie až do příchodu vedoucího likvidace havárie.7)\n(4) Zaměstnanec uvedený v odstavci 3 smí být pověřován jen pracovními úkoly, které mu nebrání vykonávat inspekční službu."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Hlášení závažných pracovních úrazů, závažných událostí, závažných provozních nehod a nebezpečných stavů",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl V - Mimořádné události",
+      "content": "(1) Závodní zajistí bezodkladné hlášení závažných pracovních úrazů, závažných událostí, závažných provozních nehod a nebezpečných stavů příslušnému obvodnímu báňskému úřadu.\n(2) Hlásí se tyto závažné pracovní úrazy:\na) smrtelný úraz8),\nb) úraz životu nebezpečný, kterým je úraz s následnou anatomickou nebo funkční ztrátou orgánu, životu nebezpečné poškození zdraví, včetně průmyslové otravy, a úraz s takovým charakterem úrazového děje, který nastal v důsledku porušení bezpečnostních předpisů a nasvědčuje závažnému ohrožení bezpečnosti provozu a ochrany zdraví při práci,\nc) hromadný úraz, kdy při stejném úrazovém ději byly zraněny nejméně 3 osoby, z nichž alespoň jedna utrpěla úraz smrtelný, nebo kdy bylo zraněno více než 10 osob.\n(3) Hlásí se závažné události, závažné provozní nehody a nebezpečné stavy, a to\na) erupce,\nb) nebezpečný tlakový projev,\nc) výskyt vody pod tlakem nebo hořlavého plynu, které nebyly projektem předpokládány, a výskyt kyselého plynu,\nd) únik ropy, plynu nebo kapalin do okolí, který má za následek znečištění ovzduší, vody nebo půdy nad limity stanovené zvláštními právními předpisy9),\ne) ztráta radioaktivního zářiče a prokázaná netěsnost uzavřeného zářiče,\nf) vloupání do skladu výbušnin, odcizení či nalezení výbušnin,\ng) úmrtí osoby v objektu nebo na pracovišti,\nh) hledání pohřešované osoby.\n(4) Dále se hlásí závažné události, závažné provozní nehody a nebezpečné stavy, pokud k nim dojde při\na) nakládání s výbušninami, včetně úrazů a přiotrávení zplodinami vznikajícími během výbuchu, nebo\nb) používání vyhrazených technických zařízení včetně úrazů elektrickým proudem.\n(5) Na místě, kde došlo k mimořádné události uvedené v odstavci 1, se nesmí nic měnit, dokud obvodní báňský úřad neprovede ohledání místa nebo nerozhodne jinak, kromě případů, kdy jde o záchranu postižených, popřípadě o další záchranné práce nebo o bezpečnost provozu.\n(6) O místě mimořádné události zaměstnavatel pořídí výstižnou fotodokumentaci a vyhotoví náčrtek, popřípadě plánek zachycující důležité skutečnosti.\n(7) Mimořádné události uvedené v odstavci 1 zaměstnavatel vyhodnocuje a eviduje a záznamy a dokumentaci o nich uchovává po dobu nejméně 5 let."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Havarijní sklad",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl V - Mimořádné události",
+      "content": "(1) Pro zabezpečení pohotovosti prostředků ke zdolávání havárií musí mít zaměstnavatel havarijní sklad, jestliže provádí\na) vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu, testerovací práce, čerpací pokusy nebo podzemní opravy sond,\nb) těžbu, dopravu a úpravu ropy nebo gazolínu a zemního plynu,\nc) těžbu nerostů loužením,\nd) podzemní uskladňování plynů nebo kapalin nebo\ne) ukládání kapalin do přírodních horninových struktur.\n(2) Umístění a vybavení havarijního skladu určí vedoucí pracovník po projednání s revírní báňskou záchrannou stanicí.\n(3) Havarijní sklad smí být zřízen jako společný pro více pracovišť i více organizací. V takovém případě vedoucí likvidace havárie určí, které prostředky ke zdolávání havárie musí být uloženy přímo na pracovišti."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Dokumentace",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "(1) Dokumentaci tvoří:\na) základní dokumentace,\nb) provozní dokumentace,\nc) technická dokumentace,10)\nd) dokumentace o vrtu a sondě,\ne) důlně měřická a geologická dokumentace,11)\nf) záznamy o školení a zkouškách zaměstnanců.\n(2) Vedoucí pracovník určí, kde, v jakém rozsahu a jakým způsobem bude dokumentace vedena, a místo a způsob jejího uložení."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Základní dokumentace",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "(1) Základní dokumentaci tvoří:\na) evidenční kniha, která obsahuje\n1. údaje, popřípadě doklady o průzkumném území, chráněném ložiskovém území, popřípadě o chráněném území, o dobývacím prostoru, pozemkovém vlastnictví organizace, územních rozhodnutích, stavebních povoleních, povolení geologických prací, hornické činnosti a činnosti prováděné hornickým způsobem a jiných důležitých správních rozhodnutích,\n2. údaje, popřípadě doklady o stavbách, včetně kolaudačních rozhodnutí, a o zařízeních, včetně rozhodnutí o povolení k jejich uvedení do užívání nebo do provozu,\n3. údaje o těžebních metodách,\nb) dolový nebo stavební deník, do něhož se zapisují nebo zakládají rozhodnutí orgánů státní správy a opatření a příkazy organizace týkající se bezpečnosti práce a provozu a hospodárného využívání ložisek,\nc) kniha mimořádných událostí,\nd) knihy, do nichž jsou zaznamenávány výsledky kontrol a prohlídek.\n(2) Záznamy technického dozoru, hlášení údajů snímačů, čidel apod., u kterých předpisy k zajištění bezpečnosti práce a provozu nevyžadují formu zápisu do knih, smí být prováděny způsobem, který umožní uchování a využívání údajů po určenou dobu.\n(3) Výsledky předepsaných prohlídek, kontrol, revizí, zkoušek, měření a rozborů zaznamenají zaměstnanci, kteří je provedli. Zaznamenána musí být i určená opatření. Není-li stanoveno jinak, musí být tyto záznamy uchovávány po celou dobu jejich platnosti, nejméně však jeden rok od ukončení prací nebo činností."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Provozní dokumentace",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "(1) Provozní dokumentaci tvoří projekt, technologický postup nebo pracovní postup (§ 68 odst. 3 a § 78 odst. 3), návod k používání12) a návod k obsluze13) (dále jen „pokyny pro obsluhu a údržbu“) zařízení a pravidla (§ 61).\n(2) Před započetím prací nebo činností, pro které je to touto vyhláškou stanoveno, musí být vypracována příslušná provozní dokumentace. Při změně podmínek musí být provozní dokumentace bezodkladně upravena.\n(3) Provozní dokumentaci schvaluje vedoucí pracovník.\n(4) Provozní dokumentace určí zejména postup a návaznost, popřípadě souběžnost pracovních operací, podmínky pro bezpečný výkon práce, ohrožená místa a způsob jejich označení, prostředky a přístrojovou techniku k zajištění bezpečnosti práce a provozu a opatření k zajištění pracoviště v době, kdy se na něm nepracuje.\n(5) Provozní dokumentace dále určí podmínky na ochranu zdraví zaměstnanců a provozního zařízení před účinky předpokládaných škodlivin, zejména sirovodíku a oxidu uhličitého, a na ochranu proti výbuchu plynů a par, provozní a bezpečnostní pokyny na ochranu objektů a ochranná pásma.\n(6) Pro obdobné činnosti smí být používána typová provozní dokumentace upravená na místní podmínky.\n(7) Provozní dokumentace musí být uchovávána nejméně rok od ukončení prací nebo činností, pro které byla vypracována. Pokud při provádění prací došlo k hromadnému, těžkému nebo smrtelnému úrazu, musí být provozní dokumentace uchovávána nejméně 5 let po roce, kdy se úraz stal."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Projekt a technologický postup",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "(1) Pro vrtné a geofyzikální práce, čerpací pokusy, těžbu a úpravu ropy a plynu, provoz zařízení pro dopravu plynů a kapalin a pro výzkum sond, intenzifikaci přítoku, podzemní opravy sond, těžbu nerostů loužením, deparafinaci s použitím kapaliny o teplotě vyšší než 60 °C, podzemní uskladňování plynů a kapalin v přírodních horninových strukturách nebo v podzemních prostorech, ukládání kapalin do přírodních horninových struktur, zajištění vrtu nebo sondy, likvidaci vrtu nebo sondy a využívání geotermální energie musí být vypracován projekt a technologický postup. Projekt a technologický postup smí být vypracován jako společný pro skupinu vrtů nebo sond s obdobnými poměry.\n(2) Ke zpracování projektu je oprávněn jen báňský projektant14), k části projektu vztahující se k instalaci elektrických zařízení jen projektant instalací elektrických zařízení20).\n(3) Náležitosti projektu vrtu stanovuje příloha č. 1. Náležitosti ostatních projektů stanovují přílohy č. 2 až 4; příloha č. 1 se v těchto případech použije přiměřeně.\n(4) Technologický postup určuje zejména\na) rozsah pracoviště s vymezením odpovědnosti,\nb) opatření, která je třeba dodržovat před zahájením práce, v jejím průběhu a po jejím ukončení, popřípadě také opatření při zastavení a přerušení práce,\nc) bezpečnostní opatření, včetně podmínek pro používání zdraví škodlivých nebo nebezpečných látek,\nd) elektrická a strojní zařízení určená k práci,\ne) protipožární opatření,\nf) hygienická opatření,\ng) osobní ochranné pracovní prostředky,\nh) možné havárie, jejich příznaky a chování zaměstnanců při jejich zjištění.\n(5) Technologický postup pro sběr a úpravu ropy, zemního plynu a gazolinu určí také způsob vyhřívání ropy a odvádění uvolněných plynů a hořlavých par z ropy.\n(6) Technologický postup pro podzemní uskladňování plynů a kapalin a pro ukládání kapalin do přírodních horninových struktur určí také nejvyšší a nejnižší provozní tlak, nejvyšší a nejnižší vtláčecí tlak, popřípadě povolenou rychlost vtláčení a jejich zaznamenávání, intervaly a délky technologických přestávek ve vtláčení a opatření k zamezení migrace plynu nebo kapalin za pažnicemi.\n(7) Technologický postup smí být zčásti nebo v plném rozsahu nahrazen projektem."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Dokumentace o vrtu a sondě",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "(1) O průběhu hloubení vrtu musí být veden směnový záznam, do kterého se zaznamenává průběh vrtných a ostatních prací. Závažné události a nebezpečné stavy a další údaje určené vedoucím pracovníkem se zaznamenávají do vrtného deníku.\n(2) O každé sondě musí být vedena dokumentace obsahující údaje o činnostech a důležitých skutečnostech, jako jsou schéma sondy a popis vystrojení sondy, výsledky předepsaných zkoušek, karotážních a jiných prací (podzemních oprav apod. ) a údaje o zvláštních událostech na sondě."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Záznamy o školení a zkouškách zaměstnanců",
+      "chapter": "ČÁST PRVNÍ > HLAVA PRVNÍ - VŠEOBECNÁ USTANOVENÍ > Díl VI - Dokumentace a záznamy",
+      "content": "Záznamy o školení, seznámení s předpisy, provozní dokumentací a obsluhou zařízení, výcviku, zácviku a zkouškách zaměstnance musí být vedeny a uchovávány po dobu nejméně 5 let od ukončení jeho pracovního poměru."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Montáž a demontáž vrtných souprav",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 1 - Zařízení pro vrtné práce",
+      "content": "(1) Pro vrtnou věž musí být na vrtbě schéma rozmístění kotevních lan a jejich upevnění s uvedením tahu v lanech určeného výrobcem.\n(2) Zdvihání a spouštění vrtné věže, nejedná-li se o pojízdnou vrtnou soupravu nebo o vrtnou věž nižší než 8 m, se považuje za práci spojenou se zvýšeným nebezpečím. Vrtnou věž vyšší než 8 m je zakázáno zdvihat a spouštět ručně.\n(3) Nelze-li při zdvihání nebo spouštění vrtné věže vyloučit její pád, musí být zajištěna bezpečnost práce a provozu uvnitř bezpečnostního okruhu. Poloměr bezpečnostního okruhu se rovná výšce vrtné věže zvětšené o polovinu, nejméně však o 10 m.\n(4) Po ukončení montáže musí být ověřena funkčnost zařízení ovlivňujících bezpečnost práce a provozu.\n(5) Pokud je nutné provádět práce v různých úrovních nad sebou, musí být určena opatření pro jejich bezpečné provádění.\n(6) Montáž, oprava nebo demontáž věžních konstrukcí nesmí být prováděna při rychlosti větru nad 10 m. s-1, za snížené viditelnosti, nebo tvoří-li se námraza."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Vrtné věže",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 1 - Zařízení pro vrtné práce",
+      "content": "(1) Vrtná věž musí být označena údajem typu, největšího dovoleného zatížení, výšky, roku výroby a názvu výrobce vrtné věže.\n(2) Pokud mají být vrtné trubky stavěny do vrtné věže, musí být věž vybavena zařízením na jejich odkládání.\n(3) Vrtné věže na vrtech s nebezpečím erupcí nebo výronu plynů nebo kapalin musí být vybaveny záchranným zařízením pro rychlé a bezpečné opuštění horní pracovní plošiny. Záchranné zařízení, které má být použito na vrtech s nebezpečím erupcí nebo výronu ropy nebo hořlavých plynů, musí být vyhotoveno tak, aby při jeho použití nenastalo jiskření. Místo dosednutí záchranného zařízení musí být nejméně v takové vzdálenosti od vrtné soupravy, jako je výška horní pracovní plošiny nad úrovní terénu.\n(4) K místům ve vrtné věži, kam je potřebné vystupovat, musí být zajištěn přístup pomocí schodů nebo žebříku (§ 109). Stupadlový žebřík je možné použít jen do výšky 15 m.\n(5) Pro vedení pojízdné plošiny ve vrtné věži smí být použity jen pevné průvodnice.\n(6) Vrtné věže vyšší než 26 m musí být vybaveny zařízením proti najetí spodního bloku kladkostroje do koruny vrtné věže.\n(7) Dřevěné vrtné věže se nesmí používat."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Kontrolní a měřicí přístroje",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 1 - Zařízení pro vrtné práce",
+      "content": "(1) Vrtná souprava, na které je možné vyvinout tah na háku kladkostroje větší než 100 kN, musí být opatřena zařízením na měření a registraci tahu v laně. Při poruše tohoto zařízení musí být vrtné práce zastaveny.\n(2) Vrtná souprava musí být vybavena tlakoměry na měření tlaku na stojáku a v mezikruží.\n(3) Na vrtbě s předpokládaným výskytem hořlavých plynů musí být kontinuálně zjišťován výskyt hořlavých plynů vydělovaných z výplachu se zvukovou i světelnou signalizací dosažení koncentrace plynu určené projektem vrtu. Snímač musí být umístěn co nejblíže ústí vrtu. Při činnosti soupravy pro podzemní opravy sond může být přístroj pro kontinuální měření nahrazen přístrojem přenosným a kontinuální zjišťování nahrazeno intervalovým v intervalech stanovených projektem; intervaly však nesmí být delší než 30 minut.\n(4) Součástí výbavy vrtné soupravy a soupravy pro podzemní opravy sond při činnostech, u nichž lze předpokládat vytvoření nebezpečné koncentrace hořlavých plynů v ovzduší pracoviště, jsou dva přístroje na měření výskytu hořlavých plynů v ovzduší, kterými je v místech, kde lze výskyt hořlavých plynů předpokládat, nepřetržitě zjišťována koncentrace hořlavých plynů v ovzduší. Dosažení 25 % spodní meze výbušnosti, popřípadě 1 % metanu v ovzduší musí být automaticky zvukově i světelně signalizováno. Vedoucí pracovník určí opatření pro případ překročení této hranice s tím, že při překročení 50 % spodní meze výbušnosti, popřípadě 2 % metanu v ovzduší musí být vypnut přívod elektrického proudu do tohoto prostoru a zastaven chod spalovacích motorů v celém ohroženém prostoru.\n(5) V místech, kde lze předpokládat výskyt zdraví škodlivých plynů v ovzduší, musí být nepřetržitě zjišťována jejich koncentrace. Místa zjišťování těchto plynů, mezní koncentraci, jejíž dosažení musí být automaticky zvukově i světelně signalizováno, a opatření pro případ překročení této hranice určí vedoucí pracovník. Vedoucí pracovník také rozhodne o vybavení zaměstnanců na těchto pracovištích sebezáchrannými přístroji."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29 Požadavky na pracoviště",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Pracoviště a zařízení pro práce a činnosti uvedené v § 23 odst. 1 musí být provedeno podle projektu.\n(2) Pracoviště, na kterém se provádí práce a činnosti uvedené v § 23 odst. 1, nebo vrtná souprava nebo souprava pro podzemní opravy sond musí být označena názvem provozující organizace.\n(3) Pracoviště, na kterém se provádí práce a činnosti uvedené v § 23 odst. 1, s výjimkou vrtby s projektovanou hloubkou vrtu menší než 100 m, pokud se na takový vrt vztahuje díl třetí této hlavy, musí být vybaveno telekomunikačním zařízením.\n(4) Uvolněné, popřípadě odpouštěné plyny a hořlavé páry musí být odváděny do bezpečné vzdálenosti. Vývod musí být chráněn proti zamrznutí."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Vrtné práce a ostatní činnosti",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Pro dorozumívání v prostředí, ve kterém se obsluha zařízení a ostatní zaměstnanci nemohou vzájemně dorozumět, určí zaměstnavatel jednotný způsob signalizace. Význam signálů musí být vyvěšen na místě obsluhy zařízení.\n(2) Jestliže ze stanoviště obsluhy zařízení není přímo vidět na břemeno a dráhu jeho pohybu, smí být manipulace s břemenem prováděna jen za pomoci zaměstnance, který je s obsluhou zařízení dohodnut na způsobu dorozumívání.\n(3) Mechanicky zdvihané části musí být zajištěny proti nežádoucímu uvolnění a sesmeknutí.\n(4) Pod místem vytahování, zdvihání a spouštění materiálu musí být zajištěn dostatečný prostor pro manipulaci s materiálem, do kterého smí zaměstnanci vstupovat jen po dohodě nebo na pokyn zaměstnance, který tyto práce řídí."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Kontroly a prohlídky",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Vedoucí pracovník určí lhůty a způsob prohlídek a kontrol objektů, pracovišť, zařízení, přístrojů a pomůcek tak, aby byly zajištěny požadavky této vyhlášky.\n(2) Vrtná věž včetně záchranného zařízení musí být prohlédnuta technikem před začátkem a po skončení prací spojených s mimořádným zatížením zdvihacího zařízení a po erupci, vichřici a po úderu blesku do vrtné věže. Záchranné zařízení musí být prohlédnuto také po jeho opravě a po nadměrném namáhání záchranného zařízení nebo nosného lana.\n(3) Před uvedením do provozu, dále ve dvouletých lhůtách a také po generální opravě nebo rekonstrukci musí vrtnou věž prohlédnout odborně způsobilá osoba.\n(4) Vrtné práce smí být zahájeny až po kontrole a odborném posouzení stavu a vybavení vrtby a protihavarijní připravenosti a po odstranění závad a nedostatků ohrožujících bezpečnost práce nebo provozu. Před navrtáním předpokládaného obzoru s možným výronem plynu nebo kapaliny musí být ve vzdálenosti určené projektem vrtu opět provedena kontrola a odborné posouzení stavu a vybavení vrtby a protihavarijní připravenosti.\n(5) Nejméně jednou za 2 roky musí být kontrolován povrch podzemního zásobníku a ústí sond, popřípadě důlních děl, která mají třeba jen nepřímé spojení s podzemním zásobníkem, na únik plynu. Způsob kontroly určí vedoucí pracovník."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Výplach a pracovní kapalina",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Fyzikálně chemické vlastnosti výplachu a pracovní kapaliny (dále jen „výplach“) musí být voleny tak, aby nedošlo k erupci.\n(2) Výsledky kvalitativních zkoušek výplachu, množství výplachu při vrtání a proplachování a spotřeba přídavných materiálů (přísad) musí být zaznamenávány.\n(3) Změnu projektem určených parametrů výplachu smí povolit jen technický dozor. Změna musí být určena písemně a musí o ní být neprodleně informován vedoucí pracovník.\n(4) Při použití vzduchového výplachu musí být ústí vrtu opatřeno těsnicí hlavou nebo odsávacím zařízením. Prach musí být zneškodňován.\n(5) Předpokládá-li projekt výskyt hořlavých plynů ve vrtu, nesmí být vzduchový výplach použit."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Zapouštění a tažení nářadí",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Při vytahování nářadí, popřípadě při vtahování nářadí do věže se horní konec vytahovaného nářadí nesmí přiblížit ke kladnici na vzdálenost menší než 1 m.\n(2) Středový a odkládací mostky musí být dostatečně pevné. Na podpěrné konstrukci mostku musí být vyznačena její dovolená nosnost.\n(3) Na vrtu s nebezpečím výronu plynu nebo kapaliny musí být\na) při zapouštění a tažení nářadí sledován stav a zaznamenáván objem vytékajícího výplachu z vrtu nebo sondy, popřípadě doplňovaného výplachu; k tomu je vrtná souprava a souprava pro podzemní opravy sond vybavena zařízením pro kontrolu a zaznamenávání objemu vytékajícího a doplňovaného výplachu,\nb) při tažení nářadí z vrtu pravidelně doplňován výplach,\nc) určena rychlost zapouštění a tažení nářadí.\n(4) Na vrtu a sondě s nebezpečím výronu plynu nebo kapaliny musí být na pracovním povalu připraven otevřený uzávěr na uzavření nářadí ve vrtu, popřípadě sondy."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Hydraulické zvedáky",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "(1) Práce s hydraulickými zvedáky se považuje za práci spojenou se zvýšeným nebezpečím.\n(2) Hydraulické zvedáky musí být mezi sebou pevně spojeny a čerpadlo musí mít tlakoměr.\n(3) Před spuštěním hydraulických zvedáků musí být odstaven vrtný vrátek a všichni členové osádky musí opustit pracovní poval s výjimkou těch, kteří obsluhují čerpadla, a zaměstnance vykonávajícího stálý dozor.\n(4) Při práci s hydraulickými zvedáky je nutné sledovat hodnotu tlaku na tlakoměru."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Kontrola průběhu vrtu",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 2 - Vrtné práce",
+      "content": "Kontrola průběhu (inklinometrické měření) vrtu na ropu a plyn musí být prováděna ve lhůtách určených projektem vrtu, u ostatních vrtů nejpozději po dosažení konečné hloubky vrtu."
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36 Příprava na čerpací pokus ve vrtu nebo sondě",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 3 - Čerpací pokusy",
+      "content": "(1) Před započetím čerpacího pokusu musí být vrt naplněn až po své ústí výplachem a umrtven.\n(2) Připravenost vrtu k zapuštění testeru potvrzuje svým podpisem technický dozor vrtby.\n(3) Ústí vrtu a sondy s nebezpečím výronu plynu nebo kapaliny musí být zajištěno protierupčním zařízením a musí umožňovat bezpečné umrtvení sondy a kontrolu průběhu čerpacího pokusu. Při zapouštění a tažení vrtných trubek nebo stupaček musí být připraven otevřený uzávěr.\n(4) Po pročistění vrtu nebo sondy do stanovené hloubky musí být před provedením první perforace ověřena hermetičnost pažnicové kolony.\n(5) Zařízení na ústí vrtu a sondy musí umožňovat bezpečné, spolehlivé a přesné měření tlaku ve stupačkách i v mezikružích."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37 Vyvolání přítoku",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 3 - Čerpací pokusy",
+      "content": "(1) Ústí stupaček musí být zabezpečeno uzávěrem s vložkou z nejiskřivého materiálu.\n(2) Jestliže je na vyvolání přítoku použita plynová náplň nebo náplň z kapaliny s nízkou měrnou hmotností, musí být náplň ze stupaček nebo vrtných trubek vypouštěna plynule.\n(3) Pokud má být k vyvolání přítoku použito plynu, smí být vzduch použit jen v případě, kdy je vytvoření výbušné směsi vyloučeno; jinak smí být použit jen inertní plyn."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Intenzifikace přítoku",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl I - Společná ustanovení > Oddíl 3 - Čerpací pokusy",
+      "content": "(1) Práce na intenzifikaci přítoku se považuje za práci spojenou se zvýšeným nebezpečím.\n(2) Každý čerpadlový agregát musí mít vlastní potrubí.\n(3) Je-li na intenzifikaci přítoku použita kyselina, musí být na pracovišti přiměřená zásoba neutralizačních činidel.\n(4) Po dobu celé operace je nutné sledovat vývoj tlaku.\n(5) V průběhu zatláčení intenzifikačních kapalin do sondy je zakázáno zdržovat se v okolí ústí sondy.\n(6) Tlaková zkouška čerpacích agregátů a potrubí je přípustná jen vodou."
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39 Společná ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Na vrtbě s předpokládaným výskytem vody pod tlakem, ropy nebo plynu musí být připravena zásoba výplachu a zatěžkávadel určená projektem vrtu.\n(2) Na vrtbě musí být viditelně umístěn orientační ukazatel směru a síly větru.\n(3) Při nebezpečných tlakových projevech a při otevřené erupci ropy nebo hořlavého plynu nesmí být v okruhu nebezpečného dosahu plynu nebo par používán otevřený oheň. Tento prostor musí být uzavřen hlídkami nebo jinak zabezpečen. Ustanovení § 81 odst. 3 platí i pro tento prostor.\n(4) Pro vrty s předpokládaným výskytem vody pod tlakem, ropy nebo plynu bez předpokládaného vzniku nebezpečného tlakového projevu neplatí ustanovení § 41 odst. 1 věty druhé, § 42 odst. 3 a § 45 odst. 1 věty druhé; opatření k zajištění bezpečnosti práce a provozu v těchto případech určí provozní dokumentace."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40 Bezpečnostní vzdálenosti vrtů od objektů a zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Vrt s předpokládaným výskytem ropy nebo plynu nesmí být blíže než 150 m od nejbližšího krajního vodiče vzdušného elektrického vedení, pokud není zajištěna možnost neprodleného vypnutí tohoto vedení; je-li tato možnost zajištěna, smí být tato vzdálenost, kromě vzdušného vedení velmi vysokého napětí, zmenšena až na 50 m.\n(2) Jestliže vzdušné vedení vysokého nebo nízkého napětí patří organizaci provádějící vrtné práce a slouží jen pro její provoz, nesmí být vrt podle odstavce 1 blíže než 30 m od nejbližšího krajního vodiče za předpokladu, že je zajištěno neprodlené vypnutí tohoto vedení.\n(3) Vrt s předpokládaným výskytem ropy nebo plynu nesmí být blíže než 150 m od souvislé obytné zástavby a objektů živočišné výroby; u zahušťovacích vrtů v místech, kde nehrozí nebezpečí neočekávaného výronu plynů, smí být tato vzdálenost snížena až na 50 m. Jestliže je předpokládán výskyt sirovodíku, nesmí být tato vzdálenost menší než 350 m.\n(4) Vrty pro vyhledávání, odplyňování a monitorování starých nebo opuštěných důlních děl mohou být provedeny ve vzdálenosti až 3 metry od objektů a zařízení, avšak jen za předpokladu, že vedoucí pracovník schválí pro tyto práce dokumentaci určující potřebná bezpečnostní opatření k zabránění nahromadění metanu v bezprostředním okolí ústí vrtu a k jeho odvedení do bezpečné vzdálenosti.\n(5) V ostatních případech nesmí být vrt s předpokládaným výskytem ropy nebo plynu blíže než 30 m od objektů a zařízení, ve kterých se používá otevřený oheň.\n(6) V okruhu 15 m od ústí vrtu smí být umístěno jen určené technologické zařízení; ustanovení odstavce 4 zůstává nedotčeno.\n(7) Nestanoví-li energetický zákon21) jinak, stanovují se bezpečnostní pásma vrtů od objektů a zařízení podle této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Vrtání",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Při vrtání musí být na pracovním povalu nejméně jeden zaměstnanec. Dosáhne-li vrt hloubky 30 m před předpokládaným obzorem s možným výronem plynu nebo kapaliny, musí být na pracovním povalu nejméně 2 zaměstnanci.\n(2) Na vrtu s nebezpečím výronu plynu nebo kapaliny smí být vrtání po každém zapuštění vrtného nářadí zahájeno až po propláchnutí vrtu."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Pažení a cementace",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Vodonosné, roponosné a plynonosné horizonty musí být izolovány.\n(2) Přidržovat zátěžku nebo beranidlo rukama při zapouštění pažnic je zakázáno.\n(3) Na vrtu s předpokládaným výskytem ropy nebo plynu musí být pažení a cementace pažnicových kolon prováděno pod dohledem technika.\n(4) Na vrtu s předpokládaným výskytem ropy nebo plynu musí být po cementaci pažnicových kolon, mimo řídící kolony, zkontrolována výška cementového sloupce a jeho izolační schopnost a vyzkoušena hermetičnost pažnicové kolony.\n(5) Pro cementaci se použije cement pro cementování vrtů22) nebo cement o minimální pevnosti v tlaku 32,5 MPa se stanovenou recepturou pro úpravu cementové kaše. Tato podmínka se považuje za splněnou, pokud cement vyhovuje alespoň požadavkům určených norem23) upravujících požadavky na cementy a materiály pro cementování vrtů.\n(6) V průběhu technologické přestávky po cementaci, s výjimkou cementace řídicí a úvodní kolony a technologické přestávky ke zjišťování hermetičnosti, se nepřetržitě zjišťuje koncentrace hořlavých plynů na ústí vrtu nebo sondy."
+    },
+    {
+      "provision_ref": "§ 42a",
+      "section": "42a",
+      "title": "§ 42a Cementové mostky",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Cementový mostek a cementový mostek kombinovaný s mechanickým mostkem se projektují podle technického stavu vrtu nebo sondy a na základě zhodnocení získaných geologických poznatků, očekávaných tlaků, teplot a podmínek v místě jeho postavení a v souladu s přílohami č. 5 a 6 k této vyhlášce. Není-li možné dodržet nejmenší stanovené délky cementového mostku pro nedostatečnou délku vrtu nebo sondy, pak\na) část vrtu nebo sondy pod obzorem se vyplní v celé délce,\nb) v části vrtu nad obzorem se zvolí takový typ mostku, aby bylo spolehlivě zamezeno možnosti komunikace mezi jednotlivými obzory a jednotlivých obzorů s povrchem.\n(2) Postavení cementového mostku je dovoleno jen v umrtveném vrtu nebo sondě průchodném od ústí až k místu postavení mostku.\n(3) Před cementací tlakového cementového mostku se provede pohlcovací zkouška obzoru, který má být izolován. Způsob provedení pohlcovací zkoušky určí projekt; nejvyšší tlak zatláčení se určí na základě výsledku pohlcovací zkoušky. Tlaková cementace se provádí při zavřeném ústí vrtu nebo sondy.\n(4) Cementová kaše se před zahájením čerpání do vrtu nebo sondy i v jeho průběhu míchá a homogenizuje v samostatné nádrži nebo v míchací nádrži cementačního agregátu. V průběhu míchání se kontroluje měrná hmotnost a množství cementové kaše začerpávané do vrtu nebo sondy a odebere vzorek cementové kaše.\n(5) O provedení cementového mostku vypracuje vedoucí cementačních prací cementační protokol obsahující údaje o způsobu provedení cementace, spotřebě cementu, fyzikálních vlastnostech a množství cementové kaše a časovém průběhu cementace mostku s uvedením údajů o hlavě mostku a tlacích použitých při zatláčení."
+    },
+    {
+      "provision_ref": "§ 42b",
+      "section": "42b",
+      "title": "§ 42b Kontrola cementových mostků",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Hermetičnost cementového beztlakového mostku se po jeho postavení a ztuhnutí zkontroluje zatížením hmotností nářadí a tlakem nebo snížením hladiny ve vrtu nebo sondě. Hermetičnost cementového tlakového mostku se po jeho postavení a ztuhnutí zkontroluje zatížením hmotností nářadí, tlakem a snížením hladiny ve vrtu nebo sondě. V případě nehermetičnosti cementového mostku a v případě, že délka izolačního cementového mostku nedosahuje minimální požadované délky nad izolovaným obzorem, se cementace a následné zkoušky hermetičnosti opakují.\n(2) Zkouška zatížením hmotností nářadí se provede po ztuhnutí cementové kaše nasednutím nářadí na hlavu mostku hmotností stanovenou v projektu, nejméně však hmotností 3 tuny; to neplatí při zkoušce cementového mostku v ústí vrtu a sondy. Při této zkoušce se ověří hloubka hlavy mostku. Tlaková zkouška cementového mostku postaveného v zapaženém vrtu se provede tlakem stanoveným s ohledem na mezní vnitřní tlak pažnic a na technický stav a opotřebení pažnic.\n(3) Kontrola hermetičnosti cementového mostku snížením hladiny se provede\na) u vrtů a sond, u kterých je znám ložiskový tlak, snížením hladiny kapaliny na takovou úroveň, která odpovídá nejvýše 1/3 ložiskového tlaku,\nb) u vrtů a sond, u kterých není znám ložiskový tlak, snížením hladiny kapaliny na úroveň, která odpovídá nejvýše 1/3 výšky původního sloupce kapaliny.\n(4) Kontrola hermetičnosti se neprovádí u cementového mostku v ústí sondy.\n(5) Projekt nebo technologický postup určí\na) dobu zkoušky hermetičnosti,\nb) velikost zkušebního tlaku a dovolený pokles zkušebního tlaku,\nc) dobu technologické přestávky na ztuhnutí cementu a ověření hermetičnosti mostku nebo pevnost cementového kamene, po jejímž dosažení je možno provádět další činnosti ve vrtu nebo sondě.\n(6) Technický pracovník určený v projektu nebo v technologickém postupu vyhotoví o každé zkoušce hermetičnosti mostku a jejím výsledku protokol."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Opatření pro předcházení erupcím",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Vrt s předpokládaným výskytem vody pod tlakem, ropy nebo plynu musí být zapažen a vybaven protierupčním zařízením.\n(2) Jestliže projekt vrtu předpokládá navrtání obzoru nasyceného plynem pod vyšším tlakem, než je hydrostatický tlak, musí být použito protierupční zařízení, které umožní uzavřít ústí vrtu v čase kratším než 1 minuta.\n(3) Ke zvládnutí tlakových projevů musí být ústí vrtu vybaveno tak, aby bylo možné začerpat výplach do prostoru mezikruží tvořeného pažnicemi a vrtným nářadím a vypouštět médium z prostoru tohoto mezikruží. Tlakový rozvod musí být opatřen tlakoměry a regulovatelnými nebo vyměnitelnými tryskami. Tento rozvod musí být ukotven a chráněn proti zamrznutí."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Protierupční zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Před montáží protierupčního zařízení na ústí vrtu musí být toto zařízení přezkoušeno funkčně a zkušebním tlakem podle § 51 odst. 2 písm. a).\n(2) Protierupční zařízení na ústí vrtu musí být přezkušováno tlakem. Lhůty, zkušební tlak a rozsah zkoušek určí projekt vrtu.\n(3) Čelisťové protierupční zařízení musí být kontrolováno také jeho uzavřením při každé výměně dláta, univerzální ve lhůtách určených projektem vrtu."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Ovládání protierupčního zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Pokud projekt vrtu předpokládá jen navrtání vody pod tlakem chladnější než 60 °C a neobsahující hořlavé, toxické ani nedýchatelné plyny, smí být protierupční zařízení ovládáno ručně. V ostatních případech musí být protierupční zařízení ovladatelné dálkově z ovládacího panelu na pracovním povalu a z tlakové stanice s ovládacími ventily.\n(2) Ovládací panel protierupčního zařízení musí být pevně spojen s pracovním povalem v dosahu obsluhy vrtného vrátku.\n(3) Páky ovládacích ventilů dálkového ovládaní nesmí mít mechanické zajištění pracovní polohy.\n(4) Ovládací kola nebo páky ručního ovládání protierupčního zařízení musí být vyvedeny tak, aby k nim byl snadný přístup. Ovládací kola musí být označena v souladu s uspořádáním uzávěrů na ústí vrtu. Na ovládacích kolech musí být vyznačen směr a počet otáček potřebných k uzavření plného uzávěru nebo uzávěru mezikruží ověřený funkční zkouškou po montáži protierupčního zařízení. Ovládací kolo plného uzávěru musí být označeno červenou barvou."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46 Otevřená erupce",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Dojde-li k otevřené erupci ropy nebo hořlavého plynu, je nutné zastavit chod spalovacích motorů a vypnout přívod elektrické energie na vrtbu.\n(2) Postup při zmáhání erupce určí havarijní plán.7)"
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Podzemní opravy sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl II - Vrtné práce s předpokládaným výskytem vody pod tlakem, ropy nebo plynu",
+      "content": "(1) Pro podzemní opravy sond platí přiměřeně ustanovení § 26 až 28, § 31 až 34, § 39 a § 42 až 46 s tím, že dálkové ovládání protierupčního zařízení smí být z jednoho místa.\n(2) Při tažení a zapouštění stupaček nebo vrtných trubek musí být vždy připraven otevřený uzávěr."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Pojízdné vrtné soupravy",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl III - Vrtné práce pro jiné účely",
+      "content": "(1) Pojízdná vrtná souprava musí být před zdviháním věže postavena tak, aby byla zajištěna proti samovolnému pohybu.\n(2) Je zakázáno ponechat vrtnou věž pojízdné vrtné soupravy v polozdvihnuté poloze."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Vrtání",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl III - Vrtné práce pro jiné účely",
+      "content": "Při utahování nebo uvolňování šroubů upínací hlavy na vřetenu musí být páka spojky vypnuta. Zapínací páka vřetene a řadicí páka rychlosti musí být v nulové poloze (neutrál)."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50 Všeobecné ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 1 - Společná ustanovení",
+      "content": "Na sběrném středisku těžby ropy a plynu, na středisku podzemního uskladňování plynu nebo kapaliny, pro těžbu loužením a pro ukládání kapalin do přírodních horninových struktur musí být k dispozici schéma zapojení zařízení ke sběru, úpravě, vtláčení, měření a expedici. Za sběrné středisko se v tomto smyslu považuje i samostatná sonda, pokud se přímo u ní provádí úprava ropy nebo plynu nebo pokud se touto sondou ukládá odpad do přírodní horninové struktury."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51 Sonda",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 1 - Společná ustanovení",
+      "content": "(1) Ústí sondy musí být opatřeno uzávěrem, který musí být hermeticky uzavřen, není-li sonda využívána. Ústí těžební sondy musí umožňovat měření tlaku, odběr vzorků a odpouštění plynu a kapalin ze všech mezikruží.\n(2) Uzávěr je nutné podrobit zkouškám, a to\na) před jeho nasazením zkoušce pevnosti, která musí být provedena při jmenovitém tlaku uzávěrů do 70 MPa zkušebním tlakem rovným dvojnásobku jmenovitého tlaku, u uzávěrů nad 70 MPa zkušebním tlakem rovným jedenapůlnásobku jmenovitého tlaku,\nb) po montáži uzávěru na ústí sondy zkoušce těsnosti a funkční spolehlivosti, která musí být provedena zkušebním tlakem rovným očekávanému provoznímu tlaku.\n(3) Při manipulaci s produkčním křížem musí být hlavní uzávěr trvale otevřený. Pracovat se smí jen s bočními uzávěry na ramenech, popřípadě s pracovním uzávěrem, pokud je takový uzávěr nad hlavním uzávěrem v sestavě produkčního kříže. Hlavní uzávěr smí být použit jen při odvracení nebezpečných stavů na sondě a při opravě nebo výměně horní části produkčního kříže.\n(4) V případě poruchy na produkčním kříži, kterou nemůže obsluha sama opravit, je nutné sondu uzavřít a poruchu oznámit technickému dozoru nebo inspekční službě.\n(5) V okruhu 15 m od ústí sondy smí být umístěno jen potřebné technologické zařízení.\n(6) Sonda musí být přístupná alespoň ze 2 stran.\n(7) V areálu sondy není dovoleno skladovat hořlavé látky s výjimkou metanolu, popřípadě etanolu, pokud je na sondě používán. Zásobník metanolu musí být označen tabulkou „Prudký jed METANOL“ a musí mít uzamykatelné poklopy. Musí být zabráněno únikům metanolu.\n(8) Práce na sondě a jejím vybavení, které vyžadují demontáž ústí sondy, se smí zahájit až po umrtvení sondy. Na sondě s nebezpečím výronu plynu nebo kapaliny smí práce začít až po vyloučení tohoto nebezpečí."
+    },
+    {
+      "provision_ref": "§ 51a",
+      "section": "51a",
+      "title": "§ 51a Kontrola technického stavu sondy",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 1 - Společná ustanovení",
+      "content": "U sondy se\na) zkontroluje technický stav těžební pažnicové kolony při podzemní opravě provozované sondy, nejde-li o sondy uvedené pod písmenem e), jestliže u sondy do stáří 30 let uplynulo od poslední kontroly více než 10 let, u sondy starší 30 let více než 5 let. Termíny dalších kontrol určí závodní, avšak interval těchto dalších kontrol nemůže být delší než 10 let; pokud je sonda aktivně zajištěna proti vnější i vnitřní korozi, lze tento interval prodloužit až na 15 let,\nb) zkontroluje stav těžební pažnicové kolony u kavernového podzemního zásobníku plynu alespoň jednou za 2 roky; pokud je sonda aktivně zajištěna proti vnější i vnitřní korozi, lze kontrolu provést jednou za 3 roky,\nc) zkontroluje technický stav těžebního vystrojení nejméně jednou za 2 roky, jestliže se v těženém plynu vyskytuje sirovodík,\nd) pravidelně kontroluje stav ústí sondy a vývoj tlaku v mezikružích v intervalech určených provozní dokumentací s ohledem na možný vznik případných netěsností,\ne) nejméně jednou za 2 roky zkontroluje těsnost pažnicových kolon, například měřením koncentrace metanu v půdním vzduchu v okolí sondy, měřením nebo sledováním úniku plynu kolem pažnic; způsob kontroly určí závodní,\nf) v případě zjištění jakýchkoliv odchylek nebo netěsností signalizujících možné ohrožení bezpečnosti provozu zařízení technický stav sondy zkontroluje bezodkladně.\nVýsledky kontrol se vyhodnotí se závěrem, zda sonda a její těžební vystrojení jsou schopny bezpečného provozu."
+    },
+    {
+      "provision_ref": "§ 51b",
+      "section": "51b",
+      "title": "§ 51b Bezpečnostní pásma sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 1 - Společná ustanovení",
+      "content": "(1) Bezpečnostní pásmo je souvislý kruhový prostor kolem sondy. Bezpečnostní pásmo nesmí být\na) u sondy na podzemním zásobníku plynu21) s tlakem plynu na ústí\n1. do 10 MPa včetně menší než 80 m,\n2. větším než 10 MPa menší než 150 m,\nb) u sondy pro těžbu z ložiska ropy nebo plynu s tlakem na ústí\n1. do 2 MPa včetně menší než 30 m,\n2. větším než 2 MPa, avšak menším než 10 MPa včetně menší než 75 m,\n3. větším než 10 MPa menší než 100 m,\nc) u sondy pro těžbu plynu z ložiska černého uhlí menší než 30 m,\nd) u sondy pro těžbu plynu ze starých nebo opuštěných důlních děl menší než 3 m,\ne) u sondy se zjištěným nebo předpokládaným výskytem sirovodíku menší než 350 m.\n(2) U zahušťovacích sond a v případě, že sonda je vybavena podpovrchovým bezpečnostním ventilem, může být bezpečnostní pásmo podle odstavce 1 zmenšeno až na polovinu uvedených hodnot.\n(3) Není-li možné bezpečnostní pásmo dodržet, určí provozní dokumentace opatření k zajištění bezpečnosti práce a provozu; opatření se promítnou do havarijního plánu.\n(4) Pokud v bezpečnostním pásmu existují stavby nebo zařízení ve vlastnictví jiné právnické nebo fyzické osoby nebo pokud provozovatel sondy dá souhlas jiné právnické nebo fyzické osobě ke zřízení stavby nebo zařízení v bezpečnostním pásmu, stanoví provozovatel sondy potřebná opatření k ochraně života a zdraví osob a majetku těchto osob a tato promítne do havarijního plánu."
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52 Těžba hlubinnými čerpadly",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "(1) Na čerpacím kozlíku jsou v průběhu provozu zakázány jakékoli práce. Zdržovat se pod vahadlem čerpacího kozlíku je zakázáno.\n(2) Čerpací kozlík s automatickým ovládáním musí být zřetelně označen.\n(3) V nejnižší poloze vahadla musí být mezi závěsem ucpávkové tyče a horní částí těsnicí hlavy vzdálenost nejméně 0,2 m."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53 Lžicování",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "Při lžicování nesmí docházet ke tření lžicovacího lana o konstrukci věže nebo ústí sondy."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54 Deparafinace",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "Při mechanické deparafinaci stupaček v sondě s přetlakem musí být ústí sondy zajištěno lubrikační hlavou."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55 Druhotné těžební metody",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "(1) Vtlačné potrubí musí mít 2 uzávěry, z nichž jeden je u tlakového agregátu nebo rozdělovače a druhý na sondě; mezi těmito uzávěry musí být zpětná klapka.\n(2) Tlaky a množství vtláčeného média musí být měřeny. Opatření pro případ překročení nejvyšší dovolené hodnoty tlaku určí projekt."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56 Termické těžební metody",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "(1) Z potrubí přivádějícího bezkyslíkový plyn musí být možné úplné vypuštění plynu z potrubí před uzavíracím šoupátkem na sondě.\n(2) Vzduch smí být vpuštěn do zapalovací sondy až po vypnutí zapalovacího zařízení, zastavení přívodu bezkyslíkového plynu a po jeho úplném vypuštění z přívodního potrubí před vstupem do sondy.\n(3) Pokud bezkyslíkový plyn obsahuje složky reagující s kyslíkem, smí být s vtláčením vzduchu do vyhřáté sondy započato až po vpuštění inertního plynu v množství určeném technologickým postupem.\n(4) Vzdálenost ovládacích armatur od zapalovací sondy musí být v době otevírání potrubí se stlačeným vzduchem při zapalování spalovací vlny v ložisku ropy nejméně 30 m. V této době se v prostoru mezi sondou a ovládací armaturou nesmí nikdo zdržovat.\n(5) Konstrukce sondy musí umožnit bezpečné uzavření a umrtvení zapalovací sondy.\n(6) Po dobu trvání těžby vnitroložiskovou spalovací vlnou musí být pravidelně prováděn rozbor plynů vystupujících z těžebních sond ke zjištění koncentrace kysličníku uhelnatého a sirovodíku, popřípadě dalších škodlivých plynů. Lhůty a opatření při nedodržení projektem požadovaných koncentrací určí vedoucí pracovník."
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57 Sběr a úprava ropy",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "V odvodňovací peci se smí zatopit až po naplnění potrubí kapalinou a při udržování průtoku kapaliny. U technologických zařízení s přímým ohřevem ropy plamenem musí být po dobu vyhřívání zajištěno úplné ponoření plamence v kapalině."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58 Nádrže na ropu a gazolin",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "(1) Nádrž na ropu a gazolin musí mít vývod pro odplynění zabraňující prošlehnutí plamene do nádrže.\n(2) Nádrž na ropu a gazolin musí mít zařízení ke kontinuálnímu sledování úrovně hladiny a musí být zajištěna proti přeplnění. Musí být zamezeno úniku ropy a gazolinu."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59 Doprava ropy a gazolinu",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 2 - Ropná zařízení",
+      "content": "(1) Čerpadlo pro dopravu ropy a gazolinu musí mít tlakoměr.\n(2) Při plnění a stáčení cisterny musí být zamezeno vznícení unikajících par. Zařízení pro plnění a stáčení musí být uzemněno.\n(3) Plnění a stáčení cisterny v době bouřky je zakázáno.\n(4) V ochranném prostoru [§ 81 odst. 1 písm. d)] musí mít automobilová cisterna na výfukovém potrubí nasazen jiskerník."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60 Plynová zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 3 - Plynová zařízení",
+      "content": "Na těžební a vtláčecí sondy se nevztahuje zvláštní právní předpis.15)"
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61 Pravidla a pokyny",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl IV - Zařízení pro těžbu, dopravu, úpravu a podzemní uskladňování plynů a kapalin, pro těžbu nerostů loužením a pro ukládání kapalin do přírodních horninových struktur > Oddíl 3 - Plynová zařízení",
+      "content": "Zaměstnavatel vydá pravidla pro projektování, montáž, údržbu, kontroly, zkoušky a revize plynových zařízení a těžebních a vtláčecích sond, pravidla pro svářečské práce na plynovém zařízení pod tlakem a pro vedení revizní knihy plynových zařízení a pokyny pro obsluhu a údržbu jednotlivých plynových zařízení. Pravidla a pokyny musí zohlednit rizika podle tlakových skupin plynovodů a přípojek, a to včetně skupiny pro zvlášť vysoký tlak s přetlakem nad 10 MPa."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62 Loužení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl V - Těžba nerostů loužením, podzemní uskladňování plynů a kapalin a ukládání kapalin",
+      "content": "(1) Při těžbě nerostů loužením smí být použit jen postup, který zajistí udržení loužícího roztoku v projektem předpokládaných hranicích. Poloha a postup šíření loužícího roztoku musí být zjišťována měřením. Vedoucí pracovník určí opatření, kterými se upraví postup loužení pro případ rozšíření loužícího roztoku za projektem předpokládanou hranici.\n(2) Při dobývání ložiska loužením, které bylo připraveno k loužení jinými hornickými pracemi, musí být zabráněno pronikání loužícího roztoku do používaných důlních děl."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63 Požadavky na technologická zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl V - Těžba nerostů loužením, podzemní uskladňování plynů a kapalin a ukládání kapalin",
+      "content": "(1) Vtláčecí vrt nebo sonda musí být vystrojena stupačkami a pakrem umístěným co nejblíže k přírodní horninové struktuře, ve které se mají kapaliny nebo plyny uskladňovat nebo ukládat. Mezikruží mezi stupačkami a poslední pažnicovou kolonou musí být vyplněno pakrovací kapalinou zabraňující korozi pažnic. Spoje stupaček provozní sondy podzemního zásobníku plynu musí být při běžném provozním tlaku plynotěsné.\n(2) Vtlačné potrubí a na něj navazující technologické zařízení musí vedle požadavku těsnosti splňovat zejména tyto požadavky:\na) musí mít dva uzávěry, z nichž jeden je u tlakového agregátu nebo rozdělovače a druhý na ústí vrtu nebo sondy; mezi těmito uzávěry musí být zpětná klapka,\nb) musí být vybaveno tlakoměrem a pojistným zařízením,\nc) technologické úniky kapalin se musí vracet uzavřeným okruhem zpět do technologického zařízení nebo do zvláštní nádrže.\n(3) Sonda podzemního zásobníku plynu uvedená v § 51b odst. 1 písm. a) se vybaví podpovrchovým bezpečnostním ventilem."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64 Provoz zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl V - Těžba nerostů loužením, podzemní uskladňování plynů a kapalin a ukládání kapalin",
+      "content": "Provozní tlak a rychlost vtláčení, popřípadě provozní tlaky při intenzifikaci nesmí vést k rozšiřování existujících a k vytváření nových trhlin v horninové struktuře nebo v izolačních ochranných vrstvách nebo k migraci uskladňovaného nebo ukládaného plynu nebo kapaliny do jiných vrstev. Použití vyššího tlaku při intenzifikačních pracích, než byl původní ložiskový tlak v přírodní horninové struktuře nebo nejvyšší dovolený vtláčecí tlak, musí řešit projekt."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65 Postup při ukládání kapalin",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl V - Těžba nerostů loužením, podzemní uskladňování plynů a kapalin a ukládání kapalin",
+      "content": "Při ukládání kapalin do přírodních horninových struktur nesmí být připuštěn takový stav koroze potrubí a nadzemní části sondy, netěsnosti povrchového technologického zařízení a hermetičnosti vtlačných vrtů a sond včetně pozorovacích vrtů a sond, popřípadě dalších vrtů ve sledované oblasti, který by ohrozil bezpečnost práce nebo provozu."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66 Příprava pracoviště",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 1 - Karotážní práce",
+      "content": "(1) Musí být určena signalizace mezi obsluhou vrátku karotážní soupravy a zaměstnancem u ústí vrtu nebo sondy.\n(2) V místě, kde se při karotážních pracích používá napětí vyšší než 50 V, musí být položen dielektrický koberec nebo používána dielektrická obuv.\n(3) Na vrtbě musí být připraven vhodný uzávěr ústí vrtu."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67 Práce vrtné osádky",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 1 - Karotážní práce",
+      "content": "(1) V průběhu karotážních prací smí být na vrtbě prováděny jiné práce jen se souhlasem toho, kdo řídí karotážní práce.\n(2) Členové vrtné osádky, kteří pomáhají při karotážních pracích, se řídí pokyny toho, kdo řídí karotážní práce.\n(3) Při karotážních pracích musí být na vrtbě přítomen alespoň jeden člen vrtné osádky.\n(4) Ustanovení odstavců 1 až 3 se vztahují přiměřeně i na karotážní práce při podzemních opravách sond a čerpacích pokusech."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68 Zapouštění přístrojů do vrtu nebo sondy",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 1 - Karotážní práce",
+      "content": "(1) Prorážet zátku ve vrtu nebo sondě karotážním zařízením je zakázáno.\n(2) Karotážní kabel nesmí být při zapouštění nebo vytahování usměrňován rukou a v dosahu jeho volného pohybu se nesmí nikdo zdržovat.\n(3) Na vytažení přístroje, který uvízl ve vrtu nebo sondě, musí být vypracován pracovní postup."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69 Omezení karotážních prací",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 1 - Karotážní práce",
+      "content": "(1) Karotážní práce ve vrtech pod tlakem ropy nebo plynu smí být prováděny jen přes lubrikační zařízení.\n(2) Při karotážních pracích ve vrtech pod tlakem ropy nebo plynu musí být dodržovány tyto podmínky:\na) karotážní souprava musí být vzdálena nejméně 15 m od ústí vrtu nebo sondy a musí být umístěna v prostoru bez nebezpečí výbuchu,\nb) manipulace s elektrickým zařízením v okruhu 15 m od ústí vrtu nebo sondy smí být prováděna jen v případech, kdy je ústí vrtu nebo sondy uzavřeno a bylo ověřeno nevýbušné složení ovzduší nebo pokud je toto elektrické zařízení v nevýbušném provedení,\nc) motory pomocných zařízení umístěné v okruhu 15 m od ústí vrtu nebo sondy smí být uvedeny do chodu jen po ověření nevýbušného složení ovzduší a po uzavření ústí vrtu, popřípadě sondy."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70 Obsluha zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 2 - Seismický a geoelektrický průzkum",
+      "content": "(1) Obsluha zařízení pro seismický a geoelektrický průzkum nesmí řídit a kontrolovat práce prostřednictvím jiné fyzické osoby.\n(2) Před zapnutím proudového obvodu o napětí vyšším, než je bezpečné, musí operátor upozornit všechny zaměstnance pracující na lince, že bude zahájeno měření a zapnut elektrický proud. Při použití napětí vyššího než 300 V se zaměstnanec, který obsluhuje proudovou elektrodu, před zahájením měření vzdálí nejméně na 2 m od elektrody; vrátit se smí až na pokyn operátora."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71 Omezení seismických a geoelektrických prací",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VI - Geofyzikální práce > Oddíl 2 - Seismický a geoelektrický průzkum",
+      "content": "Při provádění trhacích prací smí být seismická a geoelektrická měření prováděna pouze po vzájemné dohodě těch, kteří tyto práce řídí."
+    },
+    {
+      "provision_ref": "§ 71a",
+      "section": "71a",
+      "title": "§ 71a Požadavky na zajištění vrtů a sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VII - Zajištění a likvidace vrtů a sond",
+      "content": "(1) Zajištění vrtu a sondy na vodu pod tlakem, ropu nebo plyn se projektuje podle požadavků bodu 1 písm. a), b) a e) až h) a bodu 2 písm. a), c) až f), i), j) a l) až p) přílohy č. 1 k této vyhlášce doplněných o lokalizaci vrtu nebo sondy včetně situačního plánu, určení konstrukce vrtu nebo sondy, požadavky na izolaci, popřípadě cementaci a o schéma ústí vrtu nebo sondy, a podle příloh č. 5 a 6 k této vyhlášce. Pro zajištění ostatních vrtů a sond postačí, jsou-li požadavky na projekt podle věty první uvedeny v technologickém postupu.\n(2) Stav zajištění vrtu a sondy na vodu pod tlakem, ropu nebo plyn se kontroluje v pravidelných intervalech určených provozní dokumentací. Nejsou-li vrt nebo sonda zajištěny izolačním mostkem a lze-li v nich předpokládat výskyt nebo se v nich již vyskytuje tlak na ústí nebo v mezikruží, kontrolují se nejméně jedenkrát za měsíc; vykazuje-li tlak stálou hodnotu, lze interval kontrol prodloužit až na 6 měsíců.\n(3) Pro zajištění vrtů a sond platí ustanovení § 26 až 28, § 31 odst. 1 až 4 a § 32 až 34, pro zajištění vrtů a sond na vodu pod tlakem, ropu nebo plyn také § 39, § 42 odst. 1 a 4 a § 42a až 46 s tím, že postačuje dálkové ovládání protierupčního zařízení z jednoho místa."
+    },
+    {
+      "provision_ref": "§ 71b",
+      "section": "71b",
+      "title": "§ 71b Požadavky na likvidaci vrtů a sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VII - Zajištění a likvidace vrtů a sond",
+      "content": "(1) Likvidace vrtu a sondy na vodu pod tlakem, ropu nebo plyn se projektuje podle požadavků bodu 1 písm. a), b) a e) až h) a bodu 2 písm. a), c) až f), i), j) a l) až p) přílohy č. 1 k této vyhlášce doplněných o lokalizaci vrtu nebo sondy včetně situačního plánu, určení konstrukce vrtu nebo sondy, požadavky na izolaci, popřípadě cementaci a o schéma ústí vrtu nebo sondy, a podle příloh č. 5 a 6 k této vyhlášce. Pro likvidaci ostatních vrtů a sond postačí, jsou-li požadavky na projekt podle věty první uvedeny v technologickém postupu.\n(2) Před likvidací vrtu a sondy na vodu pod tlakem, ropu nebo plyn se provede karotážní měření pro zjištění technického stavu vrtu a sondy a případné zapažnicové migrace.\n(3) Vrt a sonda na vodu pod tlakem, ropu nebo plyn se likvidují v souladu s požadavky uvedenými v přílohách č. 5 a 6 k této vyhlášce tak, aby po likvidaci bylo spolehlivě zamezeno možnosti komunikace mezi jednotlivými obzory a jednotlivých obzorů s povrchem.\n(4) V případě, že vrtem nebo sondou je zastižen vodonosný horizont, obzor využitelný pro zvláštní zásah do zemské kůry nebo hnědouhelná nebo lignitová sloj, zaizoluje se takový horizont, obzor nebo sloj, není-li v příloze č. 6 k této vyhlášce stanoveno jinak, cementovým mostkem s překrytím nejméně 50 m nad a 30 m pod daný horizont, obzor nebo sloj, pokud to hloubkové poměry vrtu umožňují, jinak až po ústí vrtu nebo sondy.\n(5) Pro likvidaci vrtů a sond platí ustanovení § 26 až 28, § 31 odst. 1 až 4 a § 32 až 34, pro zajištění vrtů a sond na vodu pod tlakem, ropu nebo plyn také § 39, § 42 odst. 1 a 4 a § 42a až 46 s tím, že postačuje dálkové ovládání protierupčního zařízení z jednoho místa.\n(6) O provedení likvidace vrtu a sondy vyhotoví vedoucí likvidačních prací protokol."
+    },
+    {
+      "provision_ref": "§ 71c",
+      "section": "71c",
+      "title": "§ 71c Opakovaná likvidace vrtů a sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VII - Zajištění a likvidace vrtů a sond",
+      "content": "(1) U vrtu a sondy, u kterých bylo zjištěno, že původní likvidací nebylo spolehlivě zamezeno možnosti komunikace mezi jednotlivými obzory nebo jednotlivých obzorů s povrchem a je ohrožen zájem chráněný podle zvláštních právních předpisů9), se provede jejich opakovaná likvidace. Projekt se zpracuje na základě známé geologické a technické dokumentace, a to s ohledem na stáří likvidovaného vrtu nebo sondy, geologické podmínky a technické prostředky a metody likvidace používané v době likvidace vrtu nebo sondy.\n(2) Zlikvidovaný vrt nebo sonda v prostoru budovaného nebo rozšiřovaného podzemního zásobníku plynu, který nebude využit pro provoz nebo kontrolu podzemního zásobníku plynu, přezkoumá báňský projektant z hlediska způsobu jejich likvidace a posoudí jejich současný technický stav, a to i z hlediska důsledků a požadavků vyplývajících z provozu podzemního zásobníku plynu. Pokud výsledek přezkoumání a posouzení nedává záruku bezpečného provozování podzemního zásobníku plynu po celou dobu jeho předpokládané životnosti, pak se takový vrt nebo sonda opakovaně zlikviduje.\n(3) Projekt opakované likvidace vrtu nebo sondy se operativně upraví na základě zjištěných skutečností, které se odchylují od údajů zjištěných z geologické a technické dokumentace a které by mohly být příčinou ohrožení bezpečnosti práce nebo provozu nebo ohrožení úspěšnosti likvidačních prací.\n(4) Ustanovení § 71b platí i pro opakovanou likvidaci vrtu a sondy."
+    },
+    {
+      "provision_ref": "§ 71d",
+      "section": "71d",
+      "title": "§ 71d Označování ústí zlikvidovaných vrtů a sond",
+      "chapter": "ČÁST PRVNÍ > HLAVA DRUHÁ - ZVLÁŠTNÍ USTANOVENÍ > Díl VII - Zajištění a likvidace vrtů a sond",
+      "content": "Ústí zlikvidovaného vrtu a sondy se zaměří, popřípadě i označí tak, aby je bylo možno lokalizovat. Souřadnice a způsob označení ústí zlikvidovaného vrtu a sondy se uvedou do protokolu podle § 71b odst. 6."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72 Požadavky na zařízení a jeho části",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Pro používané zařízení musí být k dispozici technická dokumentace a pokyny pro obsluhu a údržbu.\n(2) Na měřicím přístroji určeném ke sledování provozních údajů nezbytných pro bezpečný provoz zařízení musí být vyznačena nejvýše dovolená hodnota měřené veličiny.\n(3) Části zařízení, materiál zařízením zpracovávaný nebo dopravovaný a pracovní médium, pokud svým pohybem, energií, teplotou, tvarem nebo jinak ohrožují bezpečnost práce nebo provozu, musí být zajištěny vhodným ochranným zařízením a nebezpečné části a místa musí být trvale a výrazně označena.\n(4) Pokud je zařízení ovládáno dálkově, musí být možné přepnout zařízení z dálkového na ruční ovládání; to neplatí, jestliže jsou tyto funkce kontrolovány řídicím systémem.\n(5) Zařízení technologické linky musí umožnit její vypnutí ze stanoviště obsluhy a z míst, kam obsluha během provozu vstupuje. Současně s vypnutím technologické linky musí být automaticky zastavena všechna další zařízení linky proti toku materiálu, která by mohla ohrozit bezpečnost práce a provozu.\n(6) Je-li zařízení nebo jeho část uloženo pod podlahou, musí být prostor pro obsluhu a údržbu větraný a v případech možného zatopení i odvodněný.\n(7) Podlahy a plošiny pro obsluhu a údržbu zařízení musí odpovídat § 107 odst. 2, plošiny také § 107 odst. 4 a 5.\n(8) Používání zařízení, přístrojů, pomůcek a materiálů je dovoleno pouze při dodržování technických podmínek výrobce, pokynů pro obsluhu a údržbu a podmínek stanovených při jejich schválení nebo povolení. Zařízení je dovoleno používat k úkonům, pro které jsou určena.\n(9) Zařízení smí uvádět do chodu nebo používat jen zaměstnanci určení k jejich obsluze.\n(10) Pro zařízení a jeho části, které mají být zdvihány pomocí vázacích prostředků, musí být zpracováno vázací schéma."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73 Ovladače a signalizace",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Hlavní ovladač musí být v dosahu obsluhy a umožňovat odpojení celého zařízení od zdroje energie.\n(2) Používat je dovoleno jen takový ovladač, který svou konstrukcí vylučuje možnost samovolného zapnutí nebo vypnutí zařízení a má označeny polohy, popřípadě funkce a zařízení, které ovládá.\n(3) Signály používané při mimořádných situacích musí být výrazně odlišeny od provozních signálů a provozního hluku."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74 Obsluha zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Provoz zařízení ve směně je dovoleno zahájit až poté, co obsluha\na) překontroluje stav zařízení,\nb) přesvědčí se o správné funkci ochranných a bezpečnostních zařízení; to neplatí, jestliže jsou tyto funkce kontrolovány řídicím systémem,\nc) ověří, že nikdo není v nebezpečné blízkosti zařízení, a není-li to možné, dá na ohrožená místa výstražné znamení určené v pokynech pro obsluhu a údržbu.\n(2) Zjistí-li obsluha před zahájením provozu zařízení závadu nebo poškození, které by mohlo ohrozit bezpečnost práce nebo provozu, nesmí zařízení uvést do chodu. Zjistí-li takovou závadu během provozu, zařízení ihned zastaví a zajistí proti nežádoucímu uvedení do chodu.\n(3) Provozní dokumentace určí, ve kterých případech obsluha sleduje chod zařízení a zaznamenává údaje."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75 Pokyny pro obsluhu a údržbu",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "Pokyny pro obsluhu a údržbu musí určovat také\na) povinnosti obsluhy před zahájením provozu zařízení ve směně,\nb) způsob dorozumívání a dávání signálů (znamení),\nc) způsob a rozsah záznamů o provozu a údržbě zařízení."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76 Požadavky na automatické a dálkové ovládání",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Konstrukce automatického a dálkového ovládání musí zajistit samočinné zastavení zařízení, pokud\na) vznikne porucha ohrožující bezpečný provoz zařízení nebo porucha vyřazující komunikaci zařízení s řídicím systémem,\nb) nejsou dodrženy určené provozní hodnoty,\nc) vznikne porucha v přívodu energie, není-li zajištěno napájení z náhradního zdroje.\n(2) Konstrukce automatického a dálkového ovládání dále\na) zajistí vyřazení automatického a dálkového ovládání z funkce při přepnutí na ruční ovládání,\nb) v místě dálkově ovládaného zařízení zajistí blokování znemožňující nežádoucí uvedení zařízení do chodu,\nc) vhodnými prostředky, jako například použitím přístupového kódu nebo uzamykatelného vypínače, zabrání vzniku stavu ohrožujícího bezpečnost práce nebo provozu v případě, že by tento stav mohl být vyvolán změnou nastavení ovládání."
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77 Potrubí a hadice",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Potrubí musí být uloženo, zavěšeno nebo jiným způsobem zajištěno proti uvolnění nebo pádu. U více potrubí musí být každé z nich zavěšeno samostatně a na ostatních nezávisle. K zavěšení se nesmí použít drát.\n(2) Potrubí musí být označeno podle účelu nebo druhu protékající látky (média) alespoň barevnými pruhy o šíři 0,2 m ve vzdálenosti nejvíce 30 m od sebe a u každé odbočky a armatury v potrubí, a to\na) u požárního vodovodu tmavě červenými (červeň rumělková),\nb) u potrubí stlačeného vzduchu světle modrými (modř světlá).\nZpůsob označení ostatních potrubí určí vedoucí pracovník.\n(3) Parní, horkovodní a plynové předohřevy, dripy, výměníky tepla a filtry se považují za součást potrubí.\n(4) Tlak v potrubí nesmí přesáhnout hodnotu jmenovitého tlaku potrubí.\n(5) Odvzdušňovací potrubí uzavřené nádrže hořlavé kapaliny musí být opatřeno plamenojistkou a vyvedeno do volného prostoru.\n(6) Výtlačné potrubí a jeho těsnění musí být po každé opravě a vždy před uvedením vrtné soupravy do chodu vyzkoušeny na nejvyšší provozní tlak.\n(7) Výplachová hadice musí být dimenzována na nejvyšší provozní tlak a zajištěna proti vytržení ze spoje.\n(8) Na vrtných soupravách s možností tlakových projevů ve vrtu musí\na) na stojáku výplachové hadice být odbočka s uzávěrem pro připojení potrubí,\nb) na výtlačném potrubí být odbočka s uzávěrem,\nc) výtlačné potrubí a stoják výplachové hadice umožňovat připojení a výměnu tlakoměru.\n(9) Hadice a její spoje s potrubím musí být dimenzovány na nejvyšší pracovní tlak, u pohyblivých strojů musí být zajištěny proti vytržení ze spoje a nesmí tvořit ostré ohyby."
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78 Údržba, montáž a demontáž zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Pro údržbu zařízení musí být vypracován plán údržby.\n(2) Vedoucí pracovník určí, pro které případy musí být vypracován pracovní postup pro montáž, demontáž a údržbu zařízení.\n(3) Přesahuje-li teplota plynného nebo kapalného média v potrubí nebo zařízení 60 °C nebo je-li toto médium pod přetlakem, je zakázáno potrubí a zařízení rozebírat. Před zahájením prací je nutné příslušné uzavírací armatury uzavřít a zajistit proti nežádoucímu otevření a tlak v rozebíraném potrubí a zařízení snížit na tlak atmosférický."
+    },
+    {
+      "provision_ref": "§ 79",
+      "section": "79",
+      "title": "§ 79 Provoz zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl I - Společná ustanovení",
+      "content": "(1) Za chodu smí být čištěny a mazány jen ty části zařízení, které nevytvářejí nebezpečí úrazu, a to jen z místa, kde zaměstnanec není ohrožen provozem zařízení.\n(2) Při ruční výměně nástrojů nebo jiných prvků je nutné zařízení zastavit a zajistit proti uvedení do chodu, pokud zařízení nebo jeho upínací části nejsou konstruovány pro bezpečnou ruční výměnu nástrojů za pohybu.\n(3) Vznikají-li při provozu zařízení škodliviny, musí být účinně zneškodňovány."
+    },
+    {
+      "provision_ref": "§ 80",
+      "section": "80",
+      "title": "§ 80 Základní ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "Rozvod elektrické energie musí být zakreslen do přehledového schématu a do mapy povrchu."
+    },
+    {
+      "provision_ref": "§ 81",
+      "section": "81",
+      "title": "§ 81 Nebezpečné prostory",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Podle pravděpodobnosti výskytu nebezpečné koncentrace hořlavých plynů a doby jejího trvání se rozlišují tyto nebezpečné prostory:\na) prostor s vysokým nebezpečím výbuchu – tam, kde je trvalý nebo častý výskyt nebezpečné koncentrace hořlavých plynů, tj. koncentrace přesahující 50 % spodní meze výbušnosti; tento prostor se označuje jako „zóna 0“,\nb) prostor se zvýšeným nebezpečím výbuchu – tam, kde může vznikat nebezpečná koncentrace hořlavých plynů i za obvyklých provozních podmínek, avšak její trvalý nebo častý výskyt se nepředpokládá; tento prostor se označuje jako „zóna 1“,\nc) prostor s nebezpečím výbuchu – tam, kde může vznikat nebezpečná koncentrace hořlavých plynů jen krátkodobě za neobvyklých provozních podmínek; tento prostor se označuje jako „zóna 2“,\nd) ochranný prostor – tam, kde může vznikat nebezpečná koncentrace hořlavých plynů jen krátkodobě za zcela výjimečných a neobvyklých provozních podmínek nebo situací, například při havárii některého technologického zařízení.\n(2) V prostoru s nebezpečím výbuchu, v ochranném prostoru a v prostoru se zvýšeným požárním nebezpečím16) lze používat otevřený oheň jen na písemný příkaz zaměstnance určeného vedoucím pracovníkem, jestliže v těchto prostorech koncentrace hořlavých plynů a par je nižší než 50 % spodní meze výbušnosti a jsou provedena opatření, aby nemohlo dojít k požáru nebo výbuchu. Příkaz nesmí být vydán k použití otevřeného ohně v prostoru se zvýšeným nebo vysokým nebezpečím výbuchu.\n(3) V prostoru s vysokým nebezpečím výbuchu nesmí zaměstnanci používat oděv, nářadí, zařízení nebo pomůcky z hmot, které jsou nebezpečné nahromaděním statické elektřiny nebo jiskřením, ani okovanou obuv.\n(4) Rozměry a velikosti nebezpečných prostorů určí provozní dokumentace."
+    },
+    {
+      "provision_ref": "§ 82",
+      "section": "82",
+      "title": "§ 82 Elektrické stanice a rozvodná zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Do uzavřené elektrické stanice smí vstupovat jen ti zaměstnanci, kteří obsluhují, udržují nebo kontrolují elektrická zařízení.\n(2) Před elektrickým rozvaděčem je zakázáno ukládat nebo skladovat materiál.\n(3) Elektrickou stanici je nutno vybavit\na) dielektrickým kobercem o rozměru nejméně 1 x 1 m,\nb) dielektrickými rukavicemi,\nc) bezpečnostními tabulkami,\nd) hasebními prostředky,\ne) záchranným izolačním hákem.\n(4) Elektrickou stanici se zařízením nad 1 kV je nutno dále vybavit\na) zkoušečkou napětí,\nb) zkratovací soupravou."
+    },
+    {
+      "provision_ref": "§ 83",
+      "section": "83",
+      "title": "§ 83 Kabely a kabelová vedení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Kabel je nutno ukládat, spojovat a připojovat tak, aby nebyl nepříznivě namáhán nebo poškozován.\n(2) Do vrtu se kabel ukládá nebo spouští podle pracovního postupu. Ve vrtu nesmí mít kabel rozebíratelný spoj. Kabel smí být uložen jen v zapaženém vrtu.\n(3) Rychlospojka a zásuvkové spojení smí být používáno jen u pohyblivých a přemístitelných vedení a nesmí ležet ve vodě a na vlhkých místech. Obě spojované části musí být v rozpojeném stavu chráněny krytem.\n(4) Při křižování dopravních cest a pozemních komunikací (§ 110) musí být elektrické vedení chráněno proti mechanickému poškození. Při křižování železniční tratě smí být elektrické vedení vedeno jen přes propust, podjezd apod.\n(5) Kabely a vodiče musí být jištěny proti nadproudům takovým způsobem, aby při vzrůstu proudu nad výrobcem stanovenou mez nemohlo dojít k ohrožení bezpečnosti práce a provozu."
+    },
+    {
+      "provision_ref": "§ 84",
+      "section": "84",
+      "title": "§ 84 Ovládací a bezpečnostní obvody",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Pro ovládací obvody je možno použít izolovanou soustavu nebo soustavu jednopólově propojenou s ochranným obvodem.\n(2) Ovládací obvody musí být zhotoveny z vodičů nebo kabelů s měděnými jádry.\n(3) U zařízení, u kterého při překročení určené polohy může dojít k ohrožení bezpečnosti práce nebo provozu, musí být\na) koncový vypínač vymezující určenou polohu zapojen v silovém obvodu, nebo\nb) 2 koncové vypínače v ovládacím obvodu; v takovém případě musí být jeden koncový vypínač zapojen v ovládacím obvodu příslušného pohonu a druhý v obvodu ovládací cívky spínače, nebo\nc) u zařízení řízeného programovým procesorem 2 koncové polohy v programovém vybavení."
+    },
+    {
+      "provision_ref": "§ 85",
+      "section": "85",
+      "title": "§ 85 Montáž, provoz a údržba elektrických zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "Montáž, provoz a údržba elektrického zařízení musí být řízena odborně způsobilou fyzickou osobou.17)"
+    },
+    {
+      "provision_ref": "§ 86",
+      "section": "86",
+      "title": "§ 86 Elektrické zařízení v nebezpečných prostorech",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Vodiče a kabely vrtných souprav a souprav na podzemní opravy sond musí mít v nebezpečných prostorech, s výjimkou ochranného prostoru, měděná jádra.\n(2) V nebezpečných prostorech smí být holé vodiče používány jen jako ochranné vodiče."
+    },
+    {
+      "provision_ref": "§ 87",
+      "section": "87",
+      "title": "§ 87 Elektrická startovací zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Zdroj proudu pro elektrické startovací zařízení vrtné soupravy smí být instalován jen v prostředí bez nebezpečí výbuchu.\n(2) Přívodní vodiče startovacího proudu smí být pod napětím jen v době startu.\n(3) Elektrické startovací zařízení nesmí být použito při výronu hořlavého plynu; zákaz musí být vyznačen v blízkosti ovládače."
+    },
+    {
+      "provision_ref": "§ 88",
+      "section": "88",
+      "title": "§ 88 Ochrana proti atmosférické elektřině",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Objekty musí být zajištěny proti účinkům atmosférické elektřiny.\n(2) V prostoru vrtby a sběrného střediska a na ostatních pracovištích v nebezpečných prostorech podle § 81 musí být vzájemně pospojovány všechny trvale zabudované kovové předměty včetně pažnic vrtu nebo sondy s uzemňovací soustavou elektrických zařízení. Celková hodnota zemního odporu tohoto spojení nesmí přesáhnout 5 Ω."
+    },
+    {
+      "provision_ref": "§ 89",
+      "section": "89",
+      "title": "§ 89 Ochrana proti statické elektřině",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Tam, kde je možnost vzniku statické elektřiny, musí být zajištěna ochrana proti jejím nežádoucím účinkům. Tento požadavek se považuje za splněný, je-li ochrana provedena podle technické normy nebo jsou-li zařízení vodivě spojena s pažnicemi vrtu nebo sondy.\n(2) Povrchové zařízení mezi sondou a izolačním spojem potrubí musí být uzemněno přímo. Ostatní zařízení se uzemňují nepřímo.\n(3) Při čerpání ropy a gazolinu do automobilové cisterny a z ní musí být cisterna uzemněna a vodivě spojena s tankovacím zařízením. Železniční cisterny se považují za uzemněné, jestliže jsou kolejnice připojeny na uzemňovací síť plnicího nebo stáčecího stanoviště, na kterou jsou připojena i ostatní zařízení plnicího a stáčecího stanoviště."
+    },
+    {
+      "provision_ref": "§ 90",
+      "section": "90",
+      "title": "§ 90 Podmínky provozu elektrických zařízení",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Pokud došlo k vypnutí elektrického zařízení z neznámých příčin, je dovoleno zařízení opětovně zapnout až po zjištění důvodu vypnutí a odstranění případné závady.\n(2) Přívodní kabelové vedení musí být po skončení práce odpojeno."
+    },
+    {
+      "provision_ref": "§ 91",
+      "section": "91",
+      "title": "§ 91 Hlídače izolačního stavu a proudové chrániče",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 1 - Zřizování a provoz elektrických zařízení",
+      "content": "(1) Způsob kontroly izolačního stavu určí provozní dokumentace.\n(2) Není-li hlídač izolačního stavu zapojen na vypínání hlídané elektrické sítě při poklesu izolačního stavu, musí být pokles izolačního stavu signalizován do místa, které určí vedoucí pracovník.\n(3) V elektrické síti, kde je pokles izolačního stavu nebo zemní spojení hlídačem izolačního stavu signalizován, musí být neprodleně zahájeny práce na zjištění příčiny a místa zemního spojení. Po dobu trvání zemního spojení je nutno bezpečnost práce a provozu zajistit vhodným způsobem.\n(4) Elektrická síť nesmí být provozována při poruše proudového chrániče."
+    },
+    {
+      "provision_ref": "§ 92",
+      "section": "92",
+      "title": "§ 92 Místa se stálým osvětlením",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 2 - Osvětlování",
+      "content": "(1) Stálá pracoviště a ostatní místa, kde se zdržují zaměstnanci, záchranné cesty (§ 107 odst. 3) a místo dosednutí záchranného zařízení (§ 27 odst. 3) musí mít v době provozu za tmy nebo snížené viditelnosti stálé osvětlení.\n(2) Stálé osvětlení musí být umístěno tak, aby nemohlo přispívat ke vzniku nehod (oslněním apod.).\n(3) Mobilní stroje musí být za tmy nebo snížené viditelnosti osvětleny vlastními svítidly nebo musí být místo jejich činnosti osvětleno stálým osvětlením.\n(4) Řídící stanoviště, záchranné cesty a místa, ve kterých by při selhání stálého osvětlení mohlo vzniknout nebezpečí úrazu, musí být vybaveny nouzovým osvětlením dostatečné intenzity.\n(5) Pro případ selhání stálého osvětlení musí být na vrtbě, kromě vrtby, na které se pracuje jen za denního světla, nejméně 3 přenosná akumulátorová svítidla; na vrtbě, na kterou se vztahuje díl třetí hlavy druhé, postačují 2 svítidla. Členové vrtné osádky musí být seznámeni s místem uložení těchto svítidel. Na pracovišti s nebezpečnými prostory musí být použita důlní osobní svítidla."
+    },
+    {
+      "provision_ref": "§ 93",
+      "section": "93",
+      "title": "§ 93 Vybavení zaměstnanců osobními svítidly",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 2 - Osvětlování",
+      "content": "(1) Každý, kdo je vybaven osobním svítidlem, musí je mít za tmy nebo snížené viditelnosti u sebe a na neosvětlených místech je musí mít rozsvícené.\n(2) Za stav osobního svítidla odpovídá ten, komu je vydáno, a to od jeho převzetí do jeho odevzdání. Převzaté osobní svítidlo si každý při jeho převzetí vyzkouší a přesvědčí se, zda není zjevně poškozeno. Zjistí-li na osobním svítidle závadu, která znemožňuje jeho bezpečné používání, nebo dojde-li k poškození osobního svítidla, vymění je za náhradní. Poškozená nebo nevyhovující osobní svítidla se nesmí používat.\n(3) V nebezpečných prostorech, při manipulaci s výbušninami a ve skladech plynů, hořlavých kapalin a tuhých maziv smí být používána jen důlní osobní svítidla."
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94 Důlní osobní svítidla",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl II - Elektrická zařízení > Oddíl 2 - Osvětlování",
+      "content": "(1) Důlní osobní svítidlo musí mít evidenční číslo.\n(2) Důlní osobní svítidlo smí být vydáno jen čisté a uzamčené s akumulátorem nabitým na předepsanou kapacitu.\n(3) Ten, kdo důlní osobní svítidlo převzal, je nesmí otevírat ani opravovat.\n(4) Důlní osobní svítidlo musí být kontrolováno nejméně jednou za 3 měsíce."
+    },
+    {
+      "provision_ref": "§ 95",
+      "section": "95",
+      "title": "§ 95 Vrátky pro dopravu hmot",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Vrátek musí být umístěn tak, aby obsluha nebyla ohrožena přepravovaným nebo zdvihaným břemenem.\n(2) Hlavní vypínač nesmí být umístěn v prostoru mezi dopravovanou hmotou a vrátkem.\n(3) Bezpečnost zakotvení vrátku musí být nejméně jedenačtvrtnásobná vzhledem ke jmenovité pevnosti lana.\n(4) Při používání dvoububnového vrátku na přepravu jen jedním lanem musí být druhé lano na bubnu zajištěno.\n(5) Konec lana musí být upevněn na buben vrátku. Při největším odvinutí musí na bubnu zůstat alespoň 3 závity lana.\n(6) Navíjené lano se nesmí usměrňovat rukou.\n(7) Ustanovení odstavců 1 až 6 platí i pro vrtné vrátky, není-li v § 96 stanoveno jinak."
+    },
+    {
+      "provision_ref": "§ 96",
+      "section": "96",
+      "title": "§ 96 Vrtné vrátky",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Navíjené lano smí být usměrňováno jen zařízením k tomu určeným.\n(2) Třecí vrátek musí být připevněn na základový rám vrtné věže. Jeho ovládací páky se musí dát zajistit v zabrzděné poloze tak, aby nemohlo dojít k samovolnému odbrzdění.\n(3) Ruční vrátek musí být připevněn k základovému rámu nebo na nohu vrtné věže."
+    },
+    {
+      "provision_ref": "§ 97",
+      "section": "97",
+      "title": "§ 97 Viják",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Viják musí mít zařízení, které zabraňuje překřížení lana na cívce vijáku.\n(2) Při práci s vijákem smí být použito jen měkké lano určené provozní dokumentací, které je bez uzlů a poškození. Počáteční bezpečnost lana musí být nejméně čtyřnásobná vzhledem k největšímu statickému zatížení.\n(3) Obsluhovat viják smí jen předák nebo jiný technickým dozorem určený zaměstnanec. Při obsluze vijáku nesmí obsluha vykonávat žádné jiné úkony.\n(4) Při mechanickém šroubování a rozšroubovávání nářadí pomocí vijáku musí být lano upevněno na rameni kleští (§ 100).\n(5) Není-li viják obsluhován, nesmí na něm zůstat lano."
+    },
+    {
+      "provision_ref": "§ 98",
+      "section": "98",
+      "title": "§ 98 Lana a spojovací zařízení pro dopravu hmot",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Lano a spojovací zařízení používané pro dopravu hmot musí vykazovat\na) u vlečných vrátků nejméně čtyřnásobnou počáteční bezpečnost vzhledem k největšímu tahu vrátku,\nb) u vrátků určených ke zdvihání hmot nejméně pětinásobnou počáteční bezpečnost vzhledem k největšímu tahu vrátku.\n(2) Lano musí být odloženo, je-li podle vnějších známek zjevné, že se jeho nosnost podstatně snížila, zejména\na) jsou-li dráty vnější vrstvy zeslabeny o víc než polovinu svého průměru,\nb) přibývá-li nápadně počet zlomených drátů,\nc) dosáhne-li celkový jmenovitý průřez viditelných zlomených drátů na desetinásobku výšky vinutí pramene v kterémkoli úseku lana hodnotu větší než 20 % celkového nosného průřezu lana,\nd) při poškození lana, jakým je například uzel, smyčka nebo vytlačená vložka, které se nedá odstranit zkrácením lana,\ne) jestliže se na kterémkoli místě objeví vydutí, značná koroze, přetržený pramen nebo jiné závažné poškození.\n(3) Spojovací zařízení musí být zajištěno proti samovolnému odpojení a musí být k lanu připojeno úvazkem.\n(4) Oka ocelových lan musí být opatřena ocelovou vložkou nebo srdcovkou a musí být zhotovena zápletem, zalitím nebo nalisováním nebo zajištěna nejméně 3 lanovými svorkami s tím, že mezi svorkami je nutné ponechat vzdálenost rovnající se pěti až šestinásobku průměru lana."
+    },
+    {
+      "provision_ref": "§ 99",
+      "section": "99",
+      "title": "§ 99 Ocelová lana na vrtbách",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Pro ocelová lana na vrtbách musí být dokumentace o lanech, především osvědčení výrobce o jakosti lana a atest obsahující výsledky zkoušek lana. Pro používaná lana musí být vedeny záznamy o posunu lana podle odpracovaných tunokilometrů, přehled o závadách na laně, rozhodnutí a záznamy o používání, vyřazení a výměně lana a výsledky defektoskopických kontrol lana.\n(2) Trvalá bezpečnost kladkostrojového lana a lana pro těžební zařízení musí být nejméně dvaapůlnásobná vzhledem k největšímu statickému zatížení.\n(3) Trvalá bezpečnost kotevních lan vrtné soupravy musí být nejméně třiapůlnásobná vzhledem k výrobcem určenému tahu v laně.\n(4) Způsob zjišťování trvalé bezpečnosti lana, jakož i kritéria a pokyny pro posun kladkostrojového lana podle odpracovaných tunokilometrů, krácení, odložení a výměnu lana určí vedoucí pracovník.\n(5) Pro ocelová lana na vrtbách platí také § 98 odst. 2 až 4."
+    },
+    {
+      "provision_ref": "§ 100",
+      "section": "100",
+      "title": "§ 100 Kleště",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "Po upnutí kleští a během vyvolání kroutícího momentu je zakázáno zdržovat se v okruhu dosahu kleští."
+    },
+    {
+      "provision_ref": "§ 101",
+      "section": "101",
+      "title": "§ 101 Výplachové čerpadlo",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Výplachové čerpadlo musí být vybaveno tlakoměrem a pojistným zařízením, které se samočinně uvede do činnosti při tlaku převyšujícím nejvyšší provozní tlak.\n(2) Na výplachovém čerpadle musí být uveden nejvýše přípustný provozní tlak a při tlaku vyšším než 3 MPa také kalibrační hodnoty pojistných prvků.\n(3) Vřeteno ventilu a střižný kolík musí být zabezpečeny krytem zabraňujícím úletu úlomků kovu v případě přestřižení kolíku pojistného ventilu.\n(4) Výplachové čerpadlo s provozním tlakem nad 3 MPa musí umožňovat kompenzaci tlakových rázů."
+    },
+    {
+      "provision_ref": "§ 102",
+      "section": "102",
+      "title": "§ 102 Výplachová hlava",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "Závěs výplachové hlavy musí být zajištěn proti vysmeknutí."
+    },
+    {
+      "provision_ref": "§ 103",
+      "section": "103",
+      "title": "§ 103 Zařízení na přípravu a čištění vrtného výplachu",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Při provozu vibračního síta se na ně nesmí vstupovat.\n(2) Vakuový odplyňovač musí mít regulátor podtlaku.\n(3) Na vrtech s předpokládaným výskytem plynu musí mít vrtná souprava odplyňovač a potrubí na odvod uvolněného plynu."
+    },
+    {
+      "provision_ref": "§ 104",
+      "section": "104",
+      "title": "§ 104 Zařízení na výrobu a rozvod stlačeného vzduchu",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Mezi kompresorem a vzdušníkem nebo tlakovzdušným rozvodem musí být uzavírací armatura.\n(2) Pojistný ventil musí zajistit, aby při jmenovitém výkonu kompresoru nemohlo dojít k překročení dovoleného provozního tlaku o více než 10 %.\n(3) Filtr vzduchu nasávaného kompresorem musí být z nehořlavého materiálu.\n(4) Nejvyšší dovolená teplota rozváděného stlačeného vzduchu je 60 °C.\n(5) Pro chlazení kompresoru v mezistupňovém chladiči a dochlazovači smí být použita voda, která neobsahuje hořlavé ani toxické látky ani mechanické nečistoty."
+    },
+    {
+      "provision_ref": "§ 105",
+      "section": "105",
+      "title": "§ 105 Odlučovače, dochlazovače, vzdušníky a jejich spojovací potrubí",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "Provoz odlučovače, dochlazovače, vzdušníku a jejich spojovacího potrubí je dovolen pouze tehdy, je-li splněn požadavek na čištění\na) u odlučovače a dochlazovače jednou za rok,\nb) u vzdušníku a příslušného spojovacího potrubí jednou za 3 roky,\nc) u potrubí vždy, dosáhla-li tloušťka usazeniny více než 2 mm."
+    },
+    {
+      "provision_ref": "§ 106",
+      "section": "106",
+      "title": "§ 106 Kompresory na zemní plyn a jejich rozvodná potrubí",
+      "chapter": "ČÁST PRVNÍ > HLAVA TŘETÍ - ELEKTRICKÁ A STROJNÍ ZAŘÍZENÍ > Díl III - Strojní zařízení",
+      "content": "(1) Na kompresor na zemní plyn a jeho rozvodná potrubí se vztahují obdobně ustanovení § 104 a 105 s tím, že těsnění rozvodného potrubí a kryty musí být z nehořlavého materiálu. Kompresor musí být dále vybaven\na) automatickým zařízením, které zamezí překročení nejvyššího provozního tlaku na výtlačné straně a poklesu provozního tlaku na vstupní straně pod určenou mez,\nb) automatickým hasicím zařízením nebo zařízením pro nepřetržité zjišťování koncentrace hořlavých plynů v ovzduší, které při překročení vedoucím pracovníkem určené koncentrace bude tento stav signalizovat do dispečinku nebo na jiné určené místo se stálou obsluhou a současně automaticky zastaví chod kompresoru,\nc) automatickou signalizací dosažení nejvyšších dovolených teplot na výstupu z kompresoru.\n(2) Čištění tlakových filtrů se považuje za práci spojenou se zvýšeným nebezpečím.\n(3) Tlakový filtr lze otevřít, pokud se v jeho blízkosti nenachází nepovolané osoby ani otevřený oheň, filtr je bez tlaku a jsou uzavřeny armatury na připojovacích potrubích.\n(4) Při profukování tlakového filtru není dovoleno manipulovat s hlavními uzávěry."
+    },
+    {
+      "provision_ref": "§ 107",
+      "section": "107",
+      "title": "§ 107 Cesty pro chůzi",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl I - Cesty pro chůzi a dopravu",
+      "content": "(1) Za cestu pro chůzi se pro účely této vyhlášky považuje každý prostor, který je určen pro chůzi. Prostory, které se nesmí používat pro chůzi, je nutno označit zákazem vstupu nebo vstupu do nich zabránit jiným způsobem. Za chůzi se považuje i lezení po žebříku.\n(2) Cestu pro chůzi je nutno zřizovat a udržovat nezavodněnou a tak, aby chůze po ní byla bezpečná a aby svým provedením odpovídala předpokládanému zatížení a provozním podmínkám. Cestu s úklonem větším než 30 ° je nutno vybavit držadly a stupadly, popřípadě schody nebo žebříky.\n(3) Cesta určená pro únik zaměstnanců z míst ohrožených havárií (záchranná cesta) musí být trvale volně průchodná, udržována v dobrém stavu a označena s udáním směru úniku. Počet, rozmístění a rozměry záchranných cest a nouzových východů musí být určeny v závislosti na využívání, vybavení a rozměrech pracoviště a nejvyšším možném počtu přítomných zaměstnanců.\n(4) Cestu pro chůzi ve výšce větší než 1,5 m a cestu podél nebezpečných prohlubní je nutno opatřit na volných stranách pevným a dobře zakotveným zábradlím s vrchním madlem upevněným ve výšce 1,1 m a další podélnou tyčí přibližně v polovině výšky.\n(5) Cestu pro chůzi vedenou nad jinou cestou nebo místem, kde se mohou zdržovat osoby, je nutno opatřit u podlahy ochrannou lištou o výšce nejméně 0,1 m, není-li pádu předmětů z ní zabráněno jinak."
+    },
+    {
+      "provision_ref": "§ 108",
+      "section": "108",
+      "title": "§ 108 Rozměry cest pro chůzi",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl I - Cesty pro chůzi a dopravu",
+      "content": "(1) Rozměry cest musí umožňovat bezpečnou chůzi a vyproštění postiženého při úrazu.\n(2) Nelze-li ze závažných důvodů dodržet výšku 2,1 m nebo šířku 0,8 m, musí být místa zmenšených průřezů cest pro chůzi výrazně označena."
+    },
+    {
+      "provision_ref": "§ 109",
+      "section": "109",
+      "title": "§ 109 Žebřík",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl I - Cesty pro chůzi a dopravu",
+      "content": "(1) Žebřík se staví tak, aby byl zajištěn proti podklouznutí nebo převážení. Světlá šířka žebříku nesmí být menší než 0,3 m, vzdálenost mezi příčkami nebo stupadly větší než 0,3 m a volný prostor pro chodidla za příčkami menší než 0,18 m. Je-li více žebříků nad sebou, musí být stavěny tak, aby kryly výstupní otvory. Přesah žebříku nad výstupní otvor nebo plošinu nesmí být menší než 1,1 m, pokud nad nimi nejsou upevněna do stejné výše pevná madla.\n(2) Na témže žebříku nesmí vystupovat nebo sestupovat současně 2 nebo více osob a nesmí se používat k vynášení nebo snášení břemen o hmotnosti větší než 20 kg.\n(3) Při nastavení žebříku nesmí být v místě spojení sklon žebříku ani vzdálenost mezi příčkami měněna.\n(4) Žebřík a stupadlový žebřík delší než 5 m musí být od výšky 3 m vybaven ochranným košem nebo jiným bezpečnostním zařízením."
+    },
+    {
+      "provision_ref": "§ 110",
+      "section": "110",
+      "title": "§ 110 Dopravní cesty",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl I - Cesty pro chůzi a dopravu",
+      "content": "(1) Dopravní cestou se pro účely této vyhlášky rozumí cesta pro ruční nebo strojní dopravu osob nebo nákladů s výjimkou pozemních komunikací.18)\n(2) Přístup k dopravní cestě, která se nesmí používat k chůzi v době dopravy, je nutno označit zákazem vstupu nebo vstupu jinak zabránit."
+    },
+    {
+      "provision_ref": "§ 111",
+      "section": "111",
+      "title": "§ 111 Provoz na dopravních cestách",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl II - Doprava",
+      "content": "(1) Provoz na dopravních cestách se řídí zvláštním právním předpisem.19)\n(2) Řidič smí přenechat řízení vozidla jen zaměstnanci, kterého zacvičuje na příkaz zaměstnavatele. Dovolit spolujízdu osob smí jen na těch dopravních prostředcích, které jsou k tomu přizpůsobeny výrobcem.\n(3) Každý, kdo vstupuje na dopravní cestu, musí věnovat zvýšenou pozornost provozu vozidel.\n(4) Mezi vozidly se smí procházet, jen když stojí."
+    },
+    {
+      "provision_ref": "§ 112",
+      "section": "112",
+      "title": "§ 112 Doprava hmot a předmětů",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl II - Doprava",
+      "content": "(1) Hmoty a předměty smí být na vozidlo ukládány jen tak, aby při nakládání, překládání, přepravě nebo vykládání nedošlo k jejich nežádoucímu pohybu.\n(2) Vykládané hmoty a předměty smí být ukládány jen tak, aby nezasahovaly do průjezdního průřezu dopravní cesty.\n(3) Při ručním nakládání a vykládání je nutno vozidlo zajistit proti nežádoucímu pohybu. Na vozidlo v pohybu je zakázáno ručně nakládat a vykládat z něho jakékoli hmoty nebo předměty, kromě sypkých hmot.\n(4) Ručně smí být vyklápěno pouze stojící vozidlo zajištěné proti posunutí a převrácení.\n(5) Stoupat na vozidlo nebo jeho část při vyklápění je zakázáno.\n(6) Výklopné a samovýklopné vozidlo je nutno zajistit tak, aby se při přepravě nemohlo samovolně vyklopit nebo vyprázdnit a při vyklápění převrátit. Vyklápění a vyprazdňování vozidel smí být prováděno jen tak, aby hmotami nebyl nikdo ohrožen."
+    },
+    {
+      "provision_ref": "§ 113",
+      "section": "113",
+      "title": "§ 113 Společná ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl III - Skladování hmot a materiálů",
+      "content": "(1) Skladovací plochy musí být rovné, odvodněné a označené bezpečnostními tabulkami se zákazem vstupu nepovolaných osob.\n(2) Skladovaný materiál musí být uložen tak, aby byla po celou dobu skladování zajištěna jeho stabilita.\n(3) Ustanovení odstavců 1 a 2 a § 114 a 115 platí i pro přechodné uložení hmot a materiálů."
+    },
+    {
+      "provision_ref": "§ 114",
+      "section": "114",
+      "title": "§ 114 Skladování sypkých hmot",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl III - Skladování hmot a materiálů",
+      "content": "Při ručním ukládání a odebírání smí být sypké hmoty skladovány jen do výšky 2 m. Při ukládání a odebírání sypkých hmot strojním způsobem je nutno odběr upravit tak, aby výška stěny nepřesáhla devět desetin dovoleného dosahu nakládacího stroje a aby nevznikaly převisy."
+    },
+    {
+      "provision_ref": "§ 115",
+      "section": "115",
+      "title": "§ 115 Skladování ostatních materiálů",
+      "chapter": "ČÁST PRVNÍ > HLAVA ČTVRTÁ - CHŮZE, DOPRAVA A SKLADOVÁNÍ > Díl III - Skladování hmot a materiálů",
+      "content": "(1) Zařízení pro skladování hmot a materiálů, popřípadě opěrné konstrukce musí být zhotoveny tak, aby umožňovaly ukládání, skladování a odběr materiálu, kapalin a obalů v souladu s požadavky výrobce.\n(2) Konstrukční prvky, které při skladování na sebe těsně doléhají a nemají úchytné prvky umožňující bezpečné uchopení, popřípadě zavěšení pomocí oka, držadla apod., smí být ukládány jen na podklady; kulatina a vrstvené podklady nesmí být použity.\n(3) Kusový materiál pravidelných tvarů smí být skladován ručně do výšky 2 m. Kusový materiál nepravidelných tvarů smí být v pevné hranici rovnán ručně jen do výšky 1,5 m.\n(4) Oblé předměty při zajištění stability smí být ručně ukládány na sebe jen do výšky 2 m. Dlouhé a oblé předměty je nutno zajistit proti sesunutí.\n(5) Pytle se sypkým materiálem smí být ručně ukládány do výšky 1,5 m, při ukládaní mechanizovaným způsobem do výšky 3 m. Okraje hromad musí být zajištěny pomocným zařízením nebo pytle uloženy v bezpečném sklonu a vazbě, aby nedošlo k jejich sesutí.\n(6) Nádoby s kapalinami nesmí zůstat otevřené. Smí být ukládány jen tak, že plnicí (vyprazdňovací) otvor je vždy nahoře. Sudy a podobné nádoby smí být uloženy nastojato jen v jedné vrstvě. Naležato smí být uloženy ve více vrstvách za předpokladu, že jednotlivé vrstvy jsou vzájemně stabilizovány, popřípadě jsou uloženy v konstrukci zabezpečující jejich stabilitu.\n(7) Kyseliny a jiné nebezpečné látky je nutno skladovat v obalech s označením druhu látky.\n(8) Upínání a odepínání vázacích prostředků při manipulaci s materiálem smí být prováděno ze země nebo z bezpečných plošin nebo podlah tak, aby vázání nebylo prováděno ve větší pracovní výšce než 1,5 m. Upínat a odepínat vázací prostředky z povrchu skladovaného materiálu lze jen v případě, kdy je vyloučen samovolný pohyb skladovaného materiálu. Manipulace s materiálem je možná až poté, kdy se zaměstnanec vzdálil na bezpečné místo."
+    },
+    {
+      "provision_ref": "§ 116",
+      "section": "116",
+      "title": "§ 116 Přechodná ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Objekty a zařízení uvedené do používání před nabytím účinnosti této vyhlášky se mohou používat za předpokladu, že vyhovují požadavkům právních předpisů platných v době jejich uvedení do používání.\n(2) Opatření k zajištění bezpečnosti práce a provozu vydaná před nabytím účinnosti této vyhlášky uvede zaměstnavatel do souladu s ní nejpozději do 3 měsíců od nabytí její účinnosti."
+    },
+    {
+      "provision_ref": "§ 117",
+      "section": "117",
+      "title": "§ 117 Výjimky",
+      "chapter": "ČÁST PRVNÍ > HLAVA PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Od ustanovení této vyhlášky je možné se odchýlit na nezbytnou dobu v případech, kdy hrozí nebezpečí z prodlení při záchraně lidí nebo při likvidaci závažné provozní nehody (havárie), pokud budou provedena nejnutnější bezpečnostní opatření."
+    },
+    {
+      "provision_ref": "§ 118",
+      "section": "118",
+      "title": "§ 118 Zrušovací ustanovení",
+      "chapter": "ČÁST PRVNÍ > HLAVA PÁTÁ - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Zrušují se:\n1. Výnos Českého báňského úřadu č. 17/1981 Ú. v. ČSR, o bezpečnosti a ochraně zdraví při práci a o bezpečnosti provozu pro vrtné a geofyzikální práce a pro těžbu, úpravu a podzemní skladování kapalných nerostů a plynů v přírodních horninových strukturách, (reg. v částce 33/1981 Sb.).\n2. Výnos Českého báňského úřadu č. 18/1986 Ú. v. ČSR, kterým se mění a doplňuje výnos Českého báňského úřadu č. 17/1981 Ú. v. ČSR, o bezpečnosti a ochraně zdraví při práci a o bezpečnosti provozu pro vrtné a geofyzikální práce a pro těžbu, úpravu a podzemní skladování kapalných nerostů a plynů v přírodních horninových strukturách, (reg. v částce 18/1986 Sb. ).\n3. Vyhláška Českého báňského úřadu č. 6/1994 Sb., kterou se mění a doplňuje výnos Českého báňského úřadu č. 17/1981 Ú. v. ČSR, o bezpečnosti a ochraně zdraví při práci a o bezpečnosti provozu pro vrtné a geofyzikální práce a pro těžbu, úpravu a podzemní skladování kapalných nerostů a plynů v přírodních horninových strukturách, ve znění výnosu č. 18/1986 Ú. v. ČSR, vyhlášky č. 72/1988 Sb., výnosu č. 443/1990 Sb. a vyhlášky č. 340/1992 Sb."
+    },
+    {
+      "provision_ref": "§ 119",
+      "section": "119",
+      "title": "§ 119",
+      "chapter": "ČÁST DRUHÁ",
+      "content": "Ve výnosu Českého báňského úřadu č. 2/1990 ze dne 12. října 1990, kterým se mění a doplňují některé obecně závazné právní předpisy vydané v působnosti Českého báňského úřadu, (č. 443/1990 Sb.), se zrušuje článek VI."
+    },
+    {
+      "provision_ref": "§ 121",
+      "section": "121",
+      "title": "§ 121",
+      "chapter": "ČÁST ČTVRTÁ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1999.\nPříloha č. 1 k vyhlášce č. 239/1998 Sb.\nNáležitosti projektu vrtu\n1. Geologická část projektu vrtu vždy určuje:\na) účel a lokalizaci vrtu včetně situačního plánu s určením účelu vrtu, projektované hloubky a směru a úklonu vrtu,\nb) předpokládaný geologický profil, včetně předpokládané hloubky horizontů a kolektorských obzorů, velikosti tlaků apod. s určením hloubkových intervalů s předpokládaným výskytem vody pod tlakem, ropy nebo hořlavých nebo škodlivých plynů,\nc) hloubky předpokládaných obtíží při vrtání, jako například svírání a příchvaty nářadí a ztráty výplachu a cirkulace,\nd) hloubkové intervaly odběrů vzorků hornin,\ne) karotážní měření,\nf) izolaci vrstev,\ng) požadavky na čerpací pokusy,\nh) způsoby otevření zjištěných obzorů (perforace).\n2. Technická část projektu vrtu vždy určuje:\na) typ vrtné soupravy s uvedením parametrů jejích hlavních částí,\nb) hloubku, úklon a směr vrtu, popřípadě dílčích částí vrtu,\nc) konstrukci vrtu a její odůvodnění s určením rozměrových, konstrukčních a váhových parametrů a bezpečnostních koeficientů řídící, úvodní, technické a těžební kolony,\nd) zařízení na ústí vrtu včetně typů protierupčních zařízení pro jednotlivé kolony, ovládací stanice, tlakových rozvodů, trysek apod., druh, lhůty a způsob jejich zkoušek na tlak a uzavření a umístění tlakové stanice s ovládacími ventily,\ne) požadavky na hermetičnost kolon a zkoušky hermetičnosti kolon s uvedením zkušebních metod, tlaků a dovolených poklesů tlaků a lhůt zkoušek,\nf) sestavu vrtné kolony s uvedením dovolených namáhání a dotahových kroutících momentů,\ng) postup prací při hloubení vrtu, orientační parametry režimu vrtání s uvedením druhu a průměru dlát, přítlaku na dláto a otáček rotačního stolu,\nh) požadavky a způsob odběru vzorků hornin,\ni) druh, parametry a množství výplachu podle hloubkových intervalů vrtání, množství látek pro přípravu a úpravu výplachu včetně jejich minimální zásoby, cirkulační objem výplachu podle množství vyvrtané horniny, zásobu výplachu včetně havarijní zásoby, způsob a intervaly kontrol parametrů a množství výplachu, přístroje na měření parametrů výplachu a jejich umístění a interval doplňování výplachu při tažení nářadí,\nj) požadavky na přípravu k pažení a cementaci,\nk) konstrukci pažnicové kolony a způsob pažení, způsob a podmínky kontrol a zkoušek izolační schopnosti a hermetičnosti,\nl) rozsah a lhůty inklinometrických a jiných měření ke zjištění prostorového průběhu vrtu,\nm) opatření pro předcházení tlakovým projevům a erupcím, postup při zjištění přítoku ložiskového média do vrtu a při náhlé ztrátě výplachu, koncentrace hořlavých plynů vydělovaných z výplachu, jejichž překročení musí být automaticky signalizováno, druh a počet dalších kontrolních a měřicích přístrojů s ohledem na předpokládané vlastnosti provrtávaných hornin a rizikovost práce, způsob případného vypouštění nebo spalování ropy nebo plynu, popřípadě jiná opatření k zajištění bezpečnosti práce a provozu,\nn) opatření k zabezpečení požadavků na ochranu životního prostředí,\no) způsob provedení čerpacích pokusů (testery),\np) opatření, která vyžadují vrtné práce a podmínky pracoviště, včetně opatření na ochranu veřejných zájmů, chráněná území a ochranná pásma,\nq) způsob likvidace nepotřebné části vrtu pro případ, že bude nutné opravit průběh vrtu úhybem.\n3. Přílohy technické části projektu vždy tvoří:\na) výpočet hydraulických ztrát ve vrtu pro jednotlivé kolony, mimo řídící kolonu,\nb) prostorový průběh usměrněného vrtu,\nc) schéma ústí vrtu, popřípadě sondy při vrtání a při čerpacím pokusu.\nPříloha č. 2 k vyhlášce č. 239/1998 Sb.\nNáležitosti projektu pro těžbu nerostů loužením\nTechnická část projektu pro těžbu nerostů loužením vždy určuje:\na) množství vody, popřípadě přípravu, složení a množství loužicího roztoku na objem těžby nebo na vymezenou plochu loužicího pole,\nb) způsob bezpečné manipulace s kyselinami a žíravinami,\nc) odvádění a likvidaci odpadních vod a roztoků,\nd) vystrojení vrtu, opatření k zajištění vrtu a jeho hermetičnosti,\ne) režim zkušebního provozu, vlastní těžby a podmínky ukončení těžby,\nf) velikost ochranných pilířů a bariér,\ng) lhůty a způsob kontrol polohy a postupu šíření loužicích roztoků,\nh) nejvyšší dovolený tlak loužicího roztoku,\ni) přípustný rozsah a způsob kontroly rozšíření loužicích roztoků a zvláštní opatření na ochranu povrchu a povrchových a podzemních vod,\nj) používaná elektrická a strojní zařízení,\nk) opatření, která vyžadují podmínky pracoviště.\nPříloha č. 3 k vyhlášce č. 239/1998 Sb.\nNáležitosti projektu pro ukládání kapalin do přírodních horninových struktur\nProjekt vrtu pro ukládání kapalin do přírodních horninových struktur vždy určuje:\na) hodnocení izolační schopnosti ochranných vrstev a předpokládanou velikost jímací kapacity, popřípadě předpokládaný rozsah rozšíření ukládaných kapalin v přírodní horninové struktuře,\nb) opatření ke kontrole rozšíření ukládaných kapalin v přírodní horninové struktuře,\nc) opatření k zajištění těsnosti vtláčecího vrtu nebo sondy,\nd) způsob sledování těsnosti vtláčecího vrtu nebo sondy a mezikruží a způsob hodnocení propustnosti hornin nacházejících se nad horninovou strukturou určenou pro ukládání kapalin,\ne) při ukládání kapalin způsobujících korozi určení míst pro zabudování etalonů pro měření koroze,\nf) podle potřeby i určení místa, lhůt a způsobu měření tlaku a provádění analýz vzorků média z první zvodnělé vrstvy, popřípadě z jiné vhodné vrstvy nad přírodní horninovou strukturou.\nPříloha č. 4 k vyhlášce č. 239/1998 Sb.\nNáležitosti projektu pro geofyzikální práce\nProjekt geofyzikálních prací vždy určuje:\na) oblast, rozsah a druh prováděných prací,\nb) předpokládaný začátek a ukončení prací,\nc) chráněné zájmy a objekty s návrhem řešení přiměřené ochrany,\nd) opatření k zajištění bezpečnosti práce a provozu.\nPříloha č. 5 k vyhlášce č. 239/1998 Sb.\nZásady bezpečného zajištění a likvidace vrtů a sond\nI. Zásady bezpečného zajištění vrtů a sond\na) Vrt nebo sonda musí být vybaveny zařízením na ústí odpovídající tlakové dimenze umožňujícím zvládnutí předpokládaných tlakových projevů. Toto zařízení musí být chráněno proti poškození a zabezpečeno proti manipulaci neoprávněnou osobou.\nb) Sonda musí být vystrojena kolonou čerpacích trubek v dostatečné délce umožňující její bezpečné umrtvení.\nc) Projekt zajištění vrtu a sondy musí řešit také ochranu otevřeného obzoru.\nII. Zásady bezpečné likvidace vrtů a sond\na) Každý otevřený obzor a každý úsek perforovaných pažnic se izoluje mostkem.\nb) Zkontroluje se cementace mezikruží a docementují volné a nedostatečně zacementované úseky mezikruží.\nc) Ústí vrtu nebo sondy se izoluje a likviduje podle bodu 6 přílohy č. 6 k této vyhlášce.\nd) Pokud má být vytažena nezacementovaná část pažnicové kolony a dovoluje-li to stav vrtu nebo sondy, rozpojí se pažnicová kolona v co největší bezpečně dosažitelné hloubce a vytáhne se.\ne) Místo rozpojení pažnicové kolony se izoluje cementovým mostkem o takové délce, aby mostek zasahoval alespoň 30 m do kolony pažnic nad i pod místem rozpojení; v případě izolace původně vysokotlakého obzoru se nad místem rozpojení pažnice postaví mechanický mostek a nad něj cementový mostek o délce alespoň 30 m.\nPříloha č. 6 k vyhlášce č. 239/1998 Sb.\nMinimální technické požadavky na bezpečné zajištění a likvidaci vrtů a sond\n1. Izolace obzorů v nezapaženém vrtu\nIzolace obzoru v nezapaženém vrtu se provede cementovým mostkem o délce nejméně 50 m nad obzor a 30 m pod obzor (obr. 1.1).\nobr. 1.1\n2. Izolace obzorů v zapaženém perforováném vrtu nebo sondě\nKaždé místo perforace pažnic se izoluje tlakovou cementací s hlavou mostku nejméně 30 m nad obzorem (obr. 2.1). Je-li při cementaci použit cementační pakr (retainer), může být hlava cementového mostku jen 20 m nad cementačním pakrem (obr. 2.2).\nV případě ztížených podmínek v zapaženém vrtu nebo sondě, které by bránily nebo nezaručovaly kvalitní izolaci obzoru pomocí cementového mostku, a v případě izolace obzoru, jehož původní tlak byl vyšší než tlak hydrostatický, se nad perforovaným intervalem usadí mechanický mostek a nad něj se postaví cementový mostek o délce nejméně 30 m (obr. 2.3).\nobr. 2.1\nobr. 2.2\nobr. 2.3\n3. Izolace nezapaženého nebo částečně zapaženého vrtu nebo sondy\nJsou-li vrt nebo sonda částečně zapaženy, postaví se cementový mostek od paty kolony pažnic nejméně v délce 50 m nad patou a 30 m pod patou pažnic (obr. 3.1). Je-li použit mechanický mostek, může být délka cementového mostku zkrácena až na 30 m nad hlavu mechanického mostku (obr. 3.2).\nobr. 3.1\nobr. 3.2\n4. Izolace hlav linerů a míst rozpojení pažnic\nHlava lineru a místo rozpojení pažnic se izolují cementačním mostkem o délce nejméně 60 m, který je umístěn alespoň 30 m v každé koloně pažnic nad i pod hlavou lineru nebo místem rozpojení (obr. 4.1).\nJe-li místo rozpojení v nezapaženém intervalu vrtu, postaví se v místě úřezu cementový mostek o délce nejméně 30 m nad místem úřezu a 30 m pod místem úřezu a v patě pažnicové kolony mostek o délce nejméně 50 m nad patou a 30 m pod patou pažnic (obr. 4.2).\nJe-li použit mechanický mostek usazený nad hlavou lineru, stačí nad něj postavit cementový mostek o délce 30 m (obr 4.3).\nobr. 4.1\nobr. 4.2\nobr. 4.3\n5. Izolace mezikruží\nNezacementované nebo nedostatečně zacementované mezikruží musí být izolováno. Pro likvidaci nezacementované části pažnicové kolony platí část II přílohy č. 5 k této vyhlášce. Nezapažený interval vrtu nebo sondy se izoluje podle bodu 4.\nV případě, že pažnice nejdou vytáhnout, izoluje se volné mezikruží přes místo rozpojení pažnic nebo přes tzv. okno situované co nejníže nad hlavou cementu v mezikruží. Nad místem rozpojení nebo oknem se postaví tlakový cementový mostek, a v případě, že tlakový cementový mostek nejde postavit, postaví se cementový mostek, s hlavou nejméně 30 m nad místem rozpojení nebo oknem.\n6. Izolace a likvidace ústí vrtu nebo sondy pod povrchem\nIzolace ústí vrtu nebo sondy pod povrchem se provádí pomocí cementového mostku o délce nejméně 30 m. Zemina kolem ústí sondy se odkope do hloubky 1,8 m pod úroveň terénu. V hloubce nejméně 1,5 m od povrchu okolního terénu se odřežou všechny kolony pažnic. Pažnice se dolijí cementovou kaší a po ztuhnutí cementu se ústí sondy hermetizuje navařením ocelové desky o min. tloušťce 10 mm na každou kolonu pažnic.\nNad poslední navařenou ocelovou deskou se zhotoví betonová deska o mocnosti nejméně 0,2 m a ústí vrtu a sondy se označí podle § 71d; tím se považuje vrt nebo sonda za zlikvidovanou (obr. 6.1).\nobr. 6.1\n1) § 2 a 3 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 425/1990 Sb., zákona č. 542/1991 Sb. a zákona č. 169/1993 Sb.\n2) § 273 odst. 1 a 2 zákoníku práce.\n3) § 8 odst. 2 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů.\n4) § 133 odst. 3 zákoníku práce.\n5) § 6 odst. 1 zákona č. 61/1988 Sb.\n6) Například vyhláška č. 340/1992 Sb., o požadavcích na kvalifikaci a odbornou způsobilost a o ověřování odborné způsobilosti pracovníků k hornické činnosti a činnosti prováděné hornickým způsobem a o změně některých předpisů vydaných Českým báňským úřadem k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při hornické činnosti a činnosti prováděné hornickým způsobem, a vyhláška č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu).\n7) Výnos Českého báňského úřadu č. 7/1988 Ú.v. ČSR, o plánech zdolávání závažných provozních nehod při vrtných a geofyzikálních pracích a při těžbě, úpravě a podzemním skladování kapalných nerostů a plynů v přírodních horninových strukturách, (reg. v částce 10/1988 Sb.), ve znění vyhlášky č. 340/1992 Sb. a vyhlášky č. 341/1992 Sb., o báňské záchranné službě.\n8) § 380 zákona č. 262/2006 Sb., zákoník práce.\n9) Například zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů, a zákon č. 86/2002 Sb., o ochraně ovzduší a o změně některých dalších zákonů (zákon o ochraně ovzduší), ve znění pozdějších předpisů.\n10) Zákon č. 22/1997 Sb.\n11) § 14 zákona č. 61/1988 Sb.\nVyhláška č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění vyhlášky č. 158/1997 Sb.\nZákon č. 62/1988 Sb., o geologických pracích a o Českém geologickém úřadu, ve znění zákona č. 543/1991 Sb. a zákona č. 369/1992 Sb.\n12) Bod 1.7.4 přílohy č. 1 nařízení vlády č. 170/1997 Sb., kterým se stanoví technické požadavky na strojní zařízení.\n13) Bod 1.0.6 přílohy č. 2 nařízení vlády č. 176/1997 Sb., kterým se stanoví technické požadavky na zařízení a ochranné systémy v prostředí s nebezpečím výbuchu.\n14) § 2 odst. 1 písm. e) vyhlášky č. 298/2005 Sb., o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem a o změně některých právních předpisů, ve znění vyhlášky č. 240/2006 Sb.\n15) Vyhláška č. 21/1979 Sb., kterou se určují vyhrazená plynová zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 554/1990 Sb.\n16) Zákon č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 425/1990 Sb., zákona č. 40/1994Sb., zákona č. 203/1994 Sb. a zákona č. 163/1998 Sb.\nČSN 33 2320 Elektrotechnické předpisy. Předpisy pro elektrické zařízení v místech s nebezpečím výbuchu hořlavých plynů a par.\nČSN 33 2000-3 Elektrotechnické předpisy. Elektrická zařízení. Část 3: Stanovení základních charakteristik.\nČSN 65 0201 Hořlavé kapaliny. Provozovny a sklady.\n17) Například vyhláška č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice, ve znění vyhlášky č. 98/1982 Sb., vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb. a vyhlášky č. 551/1990 Sb., vyhláška č. 19/1979 Sb., kterou se určují vyhrazená zdvihací zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 552/1990 Sb., a vyhláška č. 21/1979 Sb., ve znění vyhlášky č. 554/1990 Sb.\n18) § 3 a násl. zákona č. 13/1997 Sb., o pozemních komunikacích.\n19) Vyhláška č. 99/1989 Sb.\n20) § 2 odst. 1 písm. f) vyhlášky č. 298/2005 Sb., ve znění vyhlášky č. 240/2006 Sb.\n21) Zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů.\n22) ČSN EN 197-1 Cement – část 1: Složení, specifikace a kritéria shody cementu pro obecné použití.\nČSN EN ISO 10426-1 Naftový a plynárenský průmysl – Cementy a materiály pro cementování vrtů – Část 1: Specifikace.\nČSN EN ISO 10426-2 Naftový a plynárenský průmysl – Cementy a materiály pro cementování vrtů – Část 2: Zkoušení cementů.\n23) § 4a zákona č. 22/1997 Sb., ve znění zákona č. 205/2002 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "kolektivní zajištění proti pádu",
+      "definition": "ochranné nebo záchytné zábradlí, ohrazení nebo síť, které jsou dostatečně pevné, odolné a upevněné tak, aby snesly předpokládané namáhání",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "osobní zajištění proti pádu",
+      "definition": "zajištění bezpečnostním pásem nebo bezpečnostním postrojem",
+      "source_provision": "§ 16"
+    },
+    {
+      "term": "Dopravní cestou",
+      "definition": "cesta pro ruční nebo strojní dopravu osob nebo nákladů s výjimkou pozemních komunikací",
+      "source_provision": "§ 110"
+    }
+  ]
+}

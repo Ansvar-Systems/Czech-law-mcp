@@ -1,0 +1,34 @@
+{
+  "id": "cz:156/1997",
+  "type": "statute",
+  "title": "156/1997 Sb., Vyhláška Ministerstva práce a sociálních věcí, kterou se mění vyhláška Ministerstva práce a sociálních věcí č. 207/1995 Sb., kterou se stanoví stupně zdravotního pojištění a způsob jejich posuzování pro účely dávek státní sociální podpory",
+  "title_en": "",
+  "short_name": "156/1997 Sb.",
+  "status": "in_force",
+  "issued_date": "1997-07-14",
+  "in_force_date": "1997-08-01",
+  "url": "https://www.e-sbirka.cz/sb/1997/156",
+  "description": "Vyhláška Ministerstva práce a sociálních věcí, kterou se mění vyhláška Ministerstva práce a sociálních věcí č. 207/1995 Sb., kterou se stanoví stupně zdravotního pojištění a způsob jejich posuzování pro účely dávek státní sociální podpory",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška Ministerstva práce a sociálních věcí č. 207/1995 Sb., kterou se stanoví stupně zdravotního postižení a způsob jejich posuzování pro účely dávek státní sociální podpory, se mění takto:\nPříloha zní:\n„Příloha k vyhlášce č. 207/1995 Sb.\nKapitola I. -\nHLAVA A OBLIČEJ\nPoložkaDruh zdravotního postiženíStupeň\nzdravotního\npostižení v %\n\n1.Stavy po kraniocerebrálním traumatu (s kontuzí mozku, intrakraniálním krvácením)\ns přetrvávajícími poruchami v oblasti neurologické, psychiatrické a psychologické,\npřípadně smyslovými\na) lehké poruchy20\nb) středně těžké poruchy40-60\nc) těžké poruchy70-100\n\n2.Stavy po zlomeninách lebky bez poruchy funkce, stavy po otřesu mozku10-20\n\n3.Odpudivě působící znetvoření obličeje, těžké deformity měkkých\na kostních substancí s ovlivněním mimiky, žvýkání, hlasu apod.30-60\nKapitola II. -\nNERVOVÝ SYSTÉM"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ODDÍL B - - HYPERIMUNNÍ STAVY - INFEKČNÍ NEMOCI A PARAZITÁRNÍ NEMOCI - ONEMOCNĚNÍ, PŘI KTERÝCH MŮŽE BÝT DÍTĚ UZNÁNO ZA DLOUHODOBĚ NEMOCNÉ PRO POSKYTOVÁNÍ DÁVEK STÁTNÍ SOCIÁLNÍ PODPORY",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 1997."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nedoslýchavost znamená, že sluchově postižený vybavený sluchadlem v tiché místnosti, ve které úroveň rušivých zvuků nepřesahuje 50 dB",
+      "definition": "bez odezírání smyslu vyslovených jednoduchých vět alespoň v 90%",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

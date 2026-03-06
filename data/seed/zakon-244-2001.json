@@ -1,0 +1,234 @@
+{
+  "id": "cz:244/2001",
+  "type": "statute",
+  "title": "244/2001 Sb., Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 43/1997 Sb., kterou se provádí zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům, ve znění vyhlášky č. 136/1999 Sb.",
+  "title_en": "",
+  "short_name": "244/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-07-20",
+  "in_force_date": "2001-07-20",
+  "url": "https://www.e-sbirka.cz/sb/2001/244",
+  "description": "Vyhláška Ministerstva průmyslu a obchodu, kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 43/1997 Sb., kterou se provádí zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům, ve znění vyhlášky č. 136/1999 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 43/1997 Sb., kterou se provádí zákon č. 21/1997 Sb., o kontrole vývozu a dovozu zboží a technologií podléhajících mezinárodním kontrolním režimům, ve znění vyhlášky č. 136/1999 Sb., se mění takto:\n1. Příloha č. 1 zní:\n„Příloha č. 1 k vyhlášce č. 43/1997 Sb.\nSEZNAM KONTROLOVANÉHO ZBOŽÍ\npodle § 2 odst. 3 zákona"
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "chapter": "ČÁST II. - Seznam zboží a technologií kontrolovaných při vývozu do Iráku",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "V 1A227 uvedený termín ’chladná strana’",
+      "definition": "prohlížecí stranu okna vystavenou nejnižší úrovni radiace v navrženém použití",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Pro ventily s různými průměry vstupu a výstupu",
+      "definition": "'nominální rozměr' uvedený v 2A226 nejmenší z průměrů",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Ve 2B116",
+      "definition": "'měřicí stůl' plochý stůl nebo povrch bez upínacích přípravků nebo příslušenství",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Velikostí zkušebního prostoru se v 9B005",
+      "definition": "průměr kružnice nebo strana čtverce nebo nejdelší strana obdélníku v největším průřezu zkušebního prostoru",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Difúzní spojování“ (1 2 9) (Diffusion bonding",
+      "definition": "molekulární spojování nejméně dvou různých kovů v pevném stavu do jednoho kusu s pevností spoje stejnou jako má nejméně pevný materiál",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Ekvivalentní hustota“ (6) (Equivalent density",
+      "definition": "hmotnost optiky na jednotku optické plochy promítnuté na optický povrch",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Hybridní integrovaný obvod“ (3) (Hybrid integrated circuit",
+      "definition": "libovolnou kombinaci integrovaných obvodů nebo integrovaného obvodu a 'obvodových prvků' nebo 'diskrétních součástek' spojených dohromady, který vykonává jednu nebo více specifických funkcí a má všechny dále uvedené charakteristiky:",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Interpolace tvaru“ (2) (Contouring control",
+      "definition": "dva nebo více „číslicově řízených“ pohybů pracujících v souladu s instrukcemi, které specifikují další požadovanou polohu a požadované rychlosti posuvu do této polohy",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Kalení na chlazenou kovovou desku“ (1) (Splat quenching",
+      "definition": "proces 'rychlého tuhnutí' roztaveného proudu kovu dopadajícího na chlazený blok, které vytváří vločkám podobný výrobek",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Kmitočtový syntetizátor“ (3) (Frequency synthetiser",
+      "definition": "jakýkoli typ zdroje kmitočtu nebo generátoru signálu, bez ohledu na použitou techniku, který poskytuje z jednoho nebo více výstupů několik současných nebo alternativních výstupních kmitočtů, řízených menším počtem standardních (nebo základních) kmitočtů nebo od nich odvozených",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Optimalizace výkonu“ (7) (Power management",
+      "definition": "změnu energie vysílaného signálu výškoměru tak, že přijímaná energie ve výšce „letadla“ je vždy na minimu nezbytném pro určení výšky",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Personalizovaná inteligentní karta“ (5) (Personalized smart card",
+      "definition": "inteligentní kartu obsahující mikroobvod, který byl naprogramován pro specifické použití a nemůže být uživatelem přeprogramován pro jinou funkci",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Pevně nastavený“ (5) (Fixed",
+      "definition": "kódovací nebo kompresní algoritmus, který nemůže přijímat zvenčí dodávané parametry (například šifrovací nebo klíčovací proměnné) a nemůže být modifikován uživatelem",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Podložka“ (3) (Substrate",
+      "definition": "desku základního materiálu s předlohami nebo bez předloh propojení, na které nebo do kterých mohou být umísťovány 'diskrétní součástky' nebo integrované obvody nebo obojí",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Předem separovaný“ (0 1) (Previously separated",
+      "definition": "upravený aplikací jakéhokoli procesu pro zvýšení koncentrace kontrolovaného izotopu",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Robot“ (2 8) (Robot",
+      "definition": "manipulační mechanismus, který může mít spojitou nebo krokovanou dráhu, může používat čidla a má všechny tyto charakteristiky:",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Rychlost třírozměrných vektorů“ (4) (Three dimensional vector rate",
+      "definition": "maximální počet vektorů, vytvořených za sekundu, tvořených úsečkami o 10 pixelech, v hranicích grafické oblasti nahodile orientovaných, s hodnotami souřadnic X - Y - Z buď v celých číslech anebo v pohyblivé řádové čárce",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Řadič přístupu do sítě“ (4) (Network access controller",
+      "definition": "fyzické rozhraní pro distribuovanou přepojovací síť",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Řízení uloženým programem“ (2 3 5 8) (Stored programme controlled",
+      "definition": "řízení využívající instrukce uložené v elektronické paměti, které je schopen provádět procesor, aby ovlivňoval provádění předem stanovených funkcí",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Směsový“ (1) (Commingled",
+      "definition": "materiál vzniklý promísením termoplastických vláken a vláken výztuže s cílem vytvořit směs vláknové výztuže s „matricí“ ve výsledné vláknité podobě",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Software“ (Všeobecná poznámka k softwaru, všechny kategorie) (Software",
+      "definition": "soubor jednoho nebo více „programů“ nebo 'mikroprogramů', který je zachycen na libovolném hmotném nosiči informací",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Stabilita“ (7) (Stability",
+      "definition": "standardní odchylku (1 sigma) kolísání určitého parametru od jeho kalibrované hodnoty, měřenou za stabilních podmínek teploty",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Supravodivý“ (1 3 6 8) (Superconductive",
+      "definition": "materiály, tj",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Symetrický algoritmus“ (5) (Symmetric algorithm",
+      "definition": "šifrovací algoritmus, který používá tentýž klíč jak pro zašifrování tak pro rozšifrování",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Systémové stopy“ (6) (System tracks",
+      "definition": "zpracované, korelované (se začleněnými daty cíle z radaru do polohy podle letového plánu) a aktualizované hlášení letové polohy letadla, které je k dispozici dispečerům střediska letového provozu",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Systolický počítač“ (4) (Systolic array computer",
+      "definition": "počítač, kde tok a modifikace dat jsou uživatelem dynamicky ovladatelné na úrovni matice logických hradel",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Tavné zvlákňování“ (1) (Melt spinning",
+      "definition": "proces 'rychlého tuhnutí' proudu roztaveného kovu, který naráží na otáčející se chlazený blok, přičemž se vytváří produkt podobný vločce, pásce nebo tyčince",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Technologie“ (Všeobecná poznámka k technologii, Všeobecná poznámka k jaderné technologii, všechny kategorie) (Technology",
+      "definition": "specifické informace nezbytné pro „vývoj“, „výrobu“ nebo „užití“ zboží",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Úroveň šumu“ (6) (Noise level",
+      "definition": "elektrický signál vyjadřovaný ve formě výkonové spektrální hustoty",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Užití“ (Všeobecná poznámka k technologii, Poznámka k jaderné technologii, všechny kategorie) (Use",
+      "definition": "provoz, instalaci (včetně instalace na místě), údržbu (kontrolu), běžné a celkové opravy a obnovu",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Uživatelská programovatelnost“ (4 5 6) (User-accessible programmability",
+      "definition": "možnost přístupu, která uživateli umožňuje vkládat, měnit nebo nahrazovat „programy“ jiným způsobem než:",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Všechny dostupné kompenzace“ (2) (All compensations available",
+      "definition": "všechna praktická opatření, která má výrobce k dispozici, aby snížil na minimum všechny systematické chyby seřizování příslušného modelu obráběcího stroje",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Výroba“ (Všeobecná poznámka k technologii, Poznámka k jaderné technologii, všechny kategorie) (Production",
+      "definition": "všechny fáze výroby, jako například konstrukce, příprava výroby, výrobní provoz, dílčí a konečná montáž, kontrola, zkoušení a zajišťování jakosti",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Výrobní celek“ (9) (Production facilities",
+      "definition": "zařízení a speciálně vyvinutý software pro ně, vestavěný do zařízení pro „vývoj“ nebo pro jednu či více fází „výroby“",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Výrobní zařízení“ (1 9) (Production equipment",
+      "definition": "nástroje, šablony, přípravky, trny, formy, lisovací nástroje, upínací přípravky, seřizovací mechanismy, zkušební zařízení a jiné strojní zařízení a součásti pro ně, ale pouze ty, které jsou speciálně konstruované nebo upravené pro „vývoj“ nebo pro jednu nebo více fází „výroby“",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Základní vědecký výzkum“ (Všeobecná poznámka k technologii, Poznámka k jaderné technologii) (Basic scientific research",
+      "definition": "experimentální a teoretickou práci vynakládanou zásadně na získání nových vědomostí o základních principech jevů nebo pozorovatelných skutečností, která není primárně zaměřena na specifický praktický záměr nebo cíl",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Zlepšení obrazu“ (4) (Image enhancement",
+      "definition": "zpracování obrazů získaných z vnější nosné informace pomocí algoritmů jako je časová komprese, filtrace, extrakce, selekce, korelace, konvoluce nebo transformace mezi doménami (např",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Zpracování signálů“ (3 4 5 6) (Signal processing",
+      "definition": "zpracování z vnějšku přicházejících signálů nesoucích informace pomocí algoritmů jako jsou časová komprese, filtrace, extrakce, selekce, korelace, konvoluce nebo transformace mezi doménami (např",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Zpracování v reálném čase“ (2 4 6 7) (Real time processing",
+      "definition": "zpracování dat výpočtním systémem na požadované uživatelské úrovni, závislé na dostupných zdrojích, splňující garantovanou časovou odezvu a nezávislé na zatížení systému způsobeném vnějšími vlivy",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Zvláštní štěpný materiál“ (0) (Special fissile material",
+      "definition": "plutonium-239, uran-233, „uran obohacený izotopy 235 nebo 233“ a jakýkoli materiál, který obsahuje výše uvedené látky",
+      "source_provision": "Čl. I"
+    },
+    {
+      "term": "Dokument",
+      "definition": "náčrtky, plány, diagramy, modely, vzorce, tabulky, inženýrské nákresy nebo specifikace, manuály nebo instrukce a jakoukoliv databázi nebo software týkající se mikroorganizmů, toxinů a genetického materiálu uvedeného v tomto seznamu, kromě obecných informací, určených pro veřejnost",
+      "source_provision": "Čl. I"
+    }
+  ]
+}

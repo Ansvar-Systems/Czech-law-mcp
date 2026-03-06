@@ -1,0 +1,45 @@
+{
+  "id": "cz:216/2024",
+  "type": "statute",
+  "title": "216/2024 Sb., Vyhláška, kterou se mění vyhláška č. 5/2020 Sb., o ochranných opatřeních proti škodlivým organismům rostlin",
+  "title_en": "",
+  "short_name": "216/2024 Sb.",
+  "status": "in_force",
+  "issued_date": "2024-07-16",
+  "in_force_date": "2024-08-01",
+  "url": "https://www.e-sbirka.cz/sb/2024/216",
+  "description": "Vyhláška, kterou se mění vyhláška č. 5/2020 Sb., o ochranných opatřeních proti škodlivým organismům rostlin",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška č. 5/2020 Sb., o ochranných opatřeních proti škodlivým organismům rostlin, se mění takto:\n1. Za § 3 se vkládají nové § 4 a 5, které včetně nadpisů znějí:"
+    },
+    {
+      "provision_ref": "„§ 4",
+      "section": "4",
+      "title": "„§ 4 Informace týkající se rostlinolékařského pasu, které má oprávněný provozovatel zaznamenat",
+      "content": "(K § 14 odst. 5 zákona)\nInformace týkající se rostlinolékařského pasu, které má oprávněný provozovatel zaznamenat podle čl. 69 odst. 3 písm. c) nařízení (EU) 2016/2031, jsou\na) botanický název a množství dotčeného druhu nebo taxonu rostliny, jedná-li se o rostlinu nebo rostlinný produkt, anebo název a množství dotčeného jiného předmětu, na které byl vydán jeden rostlinolékařský pas, a\nb) datum vydání rostlinolékařského pasu nebo datum vystavení účetního dokladu, pokud jsou na něm zaznamenány informace podle písmene a)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Seznam škodlivých organismů, které opakovaně dosahují kalamitního prahu, a jejich kalamitní prahy",
+      "content": "(K § 4a odst. 1 zákona)\nSeznam škodlivých organismů, které opakovaně dosahují kalamitního prahu, a jejich kalamitní prahy jsou uvedeny v příloze č. 2 k této vyhlášce.“.\n2. Za přílohu č. 1 se vkládá nová příloha č. 2, která zní:\n„Příloha č. 2\nSeznam škodlivých organismů, které opakovaně dosahují kalamitního prahu, a jejich kalamitní prahy\nHraboš polní Microtus arvalis (Pallas)\nObdobíPlodinaKalamitní práh\n1. 3. – 31. 5.všechny plodiny250 aktivních východů z nor*/1 ha\n1. 6. – 31. 8.všechny plodiny1000 aktivních východů z nor*/1 ha\n1. 9. – 28. 2. (29. 2.)jednoleté polní plodiny1000 aktivních východů z nor*/1 ha\n1. 9. – 28. 2. (29. 2.)víceleté polní plodiny, louky, pastviny, ovocné sady, vinice a chmelnice2000 aktivních východů z nor*/1 ha\n1. 9. – 28. 2. (29. 2.)lesní, okrasné a ovocné školky, okrasné rostliny2000 aktivních východů z nor*/1 ha\n* Aktivním východem z nory se rozumí východ z nory se zjevnou aktivitou hraboše polního, tj. zřetelnými pobytovými stopami v jeho bezprostřední blízkosti.“."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. srpna 2024."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "* Aktivním východem z nory",
+      "definition": "východ z nory se zjevnou aktivitou hraboše polního, tj",
+      "source_provision": "§ 5"
+    }
+  ]
+}

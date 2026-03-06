@@ -1,0 +1,168 @@
+{
+  "id": "cz:156/2005",
+  "type": "statute",
+  "title": "156/2005 Sb., Vyhláška o technických a provozních podmínkách amatérské radiokomunikační služby",
+  "title_en": "",
+  "short_name": "156/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-28",
+  "in_force_date": "2005-05-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/156",
+  "description": "Vyhláška o technických a provozních podmínkách amatérské radiokomunikační služby",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - VŠEOBECNÁ USTANOVENÍ",
+      "content": "Pro účely této vyhlášky se rozumí\na) amatérskou radiokomunikační službou radiokomunikační služba pro sebevzdělávání nebo pro vzájemná spojení prováděná oprávněnými osobami nevýdělečně,\nb) amatérskou stanicí jeden nebo několik vysílačů nebo soubor vysílačů a přijímačů, včetně jejich příslušenství potřebných na daném stanovišti k výkonu amatérské radiokomunikační služby (dále jen „stanice“),\nc) provozováním stanice příjem a vysílání rádiových vln,\nd) volací značkou každé poznávací označení stanice, které umožňuje zjištění její totožnosti během vysílání1),\ne) průkazem odborné způsobilosti HAREC2) (Harmonised Amateur Radio Examination Certificate) průkaz operátora amatérské radiokomunikační služby mající mezinárodní platnost (dále jen „průkaz HAREC“),\nf) průkazem odborné způsobilosti NOVICE2) průkaz operátora amatérské radiokomunikační služby mající platnost v České republice (dále jen „průkaz NOVICE“),\ng) operátorem osoba obsluhující stanici,\nh) vedoucím operátorem osoba, která je zapsána v individuálním oprávnění k využívání rádiových kmitočtů vydaném pro klubovou stanici a je držitelem průkazu HAREC,\ni) systémovým operátorem osoba zapsaná v individuálním oprávnění k využívání rádiových kmitočtů vydaném pro neobsluhovanou stanici a je držitelem průkazu HAREC,\nj) operátorem oprávněným provádět dozor osoba, která je držitelem průkazu HAREC, je pověřená vedoucím operátorem k dozoru nad výkonem činnosti operátora bez průkazu odborné způsobilosti u klubové stanice a je vedoucím operátorem zapsaná do staničního deníku,\nk) amatérským převáděčem vysílací rádiové zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, které přijímá vysokofrekvenční signál na určeném kmitočtu a převádí jej na jiný kmitočet, na němž se přijímaný signál znovu vysílá,\nl) amatérským majákem vysílací rádiové zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, sloužící ke studiu posouzení podmínek šíření rádiových vln a ke kontrole přijímací části amatérské stanice,\nm) paketovým uzlem vysílací rádiové zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, umožňující vstup do rádiové sítě pro přenos dat mezi stanicemi s výjimkou stanic systému pro automatické předávání údajů o poloze (APRS – Automatic Position Reporting System),\nn) mezinárodní organizací CEPT (Conférence Européene des Administrations des Postes et des Télécommunications) Evropská konference poštovních a telekomunikačních správ (dále jen „CEPT“),\no) stanicí jednotlivce stanice, kde držitelem oprávnění je fyzická osoba,\np) klubovou stanicí stanice, kdy jednu volací značku používá více osob,\nq) maximálním výstupním výkonem špičkový výkon vysílacího zařízení dodávaný do anténního napáječe."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Individuální oprávnění k využívání rádiových kmitočtů",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Individuální oprávnění k využívání rádiových kmitočtů (dále jen „oprávnění“) pro amatérskou radiokomunikační službu se uděluje pro\na) stanici jednotlivce,\nb) klubovou stanici,\nc) neobsluhovanou stanici (§ 6).\n(2) Cizí státní příslušník je oprávněn na území České republiky provozovat stanici bez oprávnění, jestliže\na) je držitelem licence CEPT3) nebo jejího ekvivalentu uznaného CEPT,\nb) pobývá na území České republiky nepřetržitě po dobu kratší než 3 měsíce4) a\nc) podobnou výhodu poskytuje občanům České republiky rovněž stát, jehož je příslušníkem.\n(3) Cizím státním příslušníkům z členských zemí CEPT se uděluje oprávnění na základě předložení průkazu HAREC nebo jeho ekvivalentu uznaného CEPT."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Provozování stanice",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Cizí státní příslušník uvedený v § 2 odst. 2 použije při obsluze stanice svoji domovskou volací značku, které předřadí dvojici písmen „OK“. Písmena „OK“ a domovská volací značka jsou odděleny lomítkem „/“, popř. anglickým slovem „stroke“.\n(2) Zkušební vysílání musí být prováděno do vhodného nevyzařujícího odporu, který nahrazuje vstupní impedanci antény (umělá zátěž), s výjimkou nastavení antén a anténních obvodů vysílače."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Třídy operátorů",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Operátor je na základě úspěšného složení zkoušky podle zvláštního právního předpisu zařazen do třídy A nebo do třídy N.\n(2) Maximální výstupní výkon ve třídě\na) A je 750 W v kmitočtových pásmech uvedených v příloze č. 1 k této vyhlášce v tabulce č. 1, pokud status uvedený v tabulce nestanoví výkon nižší,\nb) N je 10 W v kmitočtových pásmech uvedených v příloze č. 1 k této vyhlášce v tabulce č. 2.\n(3) V mezích kmitočtových pásem uvedených v tabulkách přílohy č. 1 k této vyhlášce může operátor pro jednotlivé druhy provozu použít pouze kmitočtové úseky podle doporučení Mezinárodní radioamatérské unie (IARU – International Amateur Radio Union) pro Region 1.\n(4) Na mezinárodním radioamatérském závodě nebo při spojení využívajícím pasivní odraz od mimozemských objektů může operátor třídy A obsluhovat stanici o maximálním výstupním výkonu 1500 W v intravilánu a 3000 W mimo toto území.\n(5) Výkony uvedené v odstavcích 2 a 3 nesmí být překročeny v součtu výkonů jednotlivých vysílacích zařízení při jejich současném provozu na jednom kmitočtu a modulovaných z jednoho zdroje.\n(6) Maximální výstupní výkon neobsluhované stanice je 50 W."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Klubové stanice",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Operátor, který není držitelem průkazu HAREC nebo NOVICE, může obsluhovat klubovou stanici jen v rozsahu třídy N a pod dozorem operátora oprávněného provádět dozor.\n(2) Do staničního deníku klubové stanice se zaznamenává jméno a příjmení vedoucího operátora, operátora oprávněného provádět dozor, operátora klubové stanice a údaje o provozu klubové stanice. Údaje o provozu do staničního deníku zaznamenává operátor.\n(3) Údaji o provozu v odstavci 2 se rozumí zejména, datum, čas a doba trvání uskutečněného rádiového spojení, použité kmitočtové pásmo, druh provozu, volací značka stanice a stanoviště klubové stanice, se kterou bylo uskutečněno rádiové spojení.\n(4) S obsahem oprávnění pro klubovou stanici musí být seznámen každý její operátor."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Neobsluhované stanice",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "Neobsluhovanou stanicí se rozumí amatérský převáděč, amatérský maják nebo paketový uzel."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Stanoviště stanice",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Držitel oprávnění může stanici trvale provozovat jen na stanovišti uvedeném v oprávnění.\n(2) Provozuje-li držitel oprávnění přechodně stanici\na) z jiného pevného stanoviště mimo stanoviště podle odstavce 1, doplní volací značku o údaj „/p“ nebo anglické slovo „portable“,\nb) z pohyblivého stanoviště, doplní volací značku o údaj „/m“ nebo anglické slovo „mobile“.\nV radioamatérském závodě není doplnění údaje „/p“, nebo „portable“, „/m“, nebo „mobile“ povinné.\n(3) K provozu stanice na prostředku lodní nebo letecké dopravy je nutný souhlas vlastníka nebo provozovatele tohoto prostředku. Při provozu stanice umístěné na prostředku lodní dopravy doplní operátor volací značku údajem „/mm“ a na prostředku letecké dopravy údajem „/am“."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Obsah vysílání",
+      "chapter": "ČÁST DRUHÁ - PROVOZNÍ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Obsahem vysílání nesmí být zpráva mající povahu komerčního, rozhlasového nebo televizního vysílání.\n(2) Stanici nelze použít k předávání zpráv třetím osobám s výjimkou případů, kdy se jedná o odvrácení bezprostředně hrozícího nebo existujícího nebezpečí při ohrožení lidského života, zdraví, majetku nebo životního prostředí. V takovém případě je amatérská radiokomunikační služba považována za tísňovou komunikaci a k tomuto účelu může každý operátor využívat všechna kmitočtová pásma určená pro amatérskou radiokomunikační službu.\n(3) Při radioamatérském orientačním běhu lze prostřednictvím vysílacího rádiového zařízení ARDF vysílat pouze mezinárodně používané znaky MO, MOE, MOI, MOS, MOH a MO5 v těchto kmitočtových pásmech:\na) 3 520 až 3 600 kHz s druhem provozu A1A,\nb) 3 600 až 3 750 kHz s druhem provozu A1A a A2A, nebo\nc) 144,500 až 144,775 MHz a 145,225 až 145,575 MHz s druhem provozu A1A, A2A, F1A a F2A.\n(4) Vysílacím rádiovým zařízením ARDF (Amateur Radio Direction Finding) se rozumí vysílací rádiové zařízení omezeného výkonu určené k vysílání majákových signálů pro soutěže a trénink v radioamatérském orientačním běhu, které je provozované v kmitočtových pásmech uvedených v odstavci 3."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Požadavky na stanice",
+      "chapter": "ČÁST TŘETÍ - TECHNICKÉ PODMÍNKY AMATÉRSKÉ RADIOKOMUNIKAČNÍ SLUŽBY",
+      "content": "(1) Výkon jednotlivých kmitočtových složek nežádoucího vyzařování nesmí překročit tyto hodnoty:\nKmitočtový rozsahStřední výkonPotlačení nežádoucí složky\n9 kHz – 30 MHz–40 dB, nejvýše však 50 mW středního výkonu\n30 MHz – 235 MHz>25 W–60 dB, nejvýše však 1 mW středního výkonu\n≤25 W–40 dB, nejvýše však 25 µW středního výkonu\n235 MHz – 960 MHz>25 W–60 dB, nejvýše však 20 mW středního výkonu\n≤25 W–40 dB, nejvýše však 25 µW středního výkonu\n960 MHz – 17,7 GHz>10 W–50 dB, nejvýše však 100 mW středního výkonu\n≤10 WNejvýše 100 µW výkonu\n>17,7 GHzCo nejnižší podle současného stavu vývoje techniky (RR APS3)\n(2) Šířka pásma zabraná vysíláním musí odpovídat minimální šířce pásma potřebné pro přenos informace daným druhem provozu.\n(3) Během změny vysílacího kmitočtu při provozování stanice nesmí být vyzařována její anténou žádná elektromagnetická energie; tato podmínka se nevztahuje na provozování stanice v rámci družicové amatérské služby.\n(4) Výstup vysílače, s výjimkou vysílače s výstupním výkonem menším než 6 W, musí být zakončen nesymetrickým výstupem o impedanci 50 Ω až 100 Ω. Na stanovišti stanice musí být pro účely měření vysílače pověřenými osobami státní kontroly elektronických komunikací k dispozici výstupní konektor typu N nebo BNC, popřípadě redukce z výstupu vysílače na tento typ konektoru."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "chapter": "ČÁST ČTVRTÁ - USTANOVENÍ ZÁVĚREČNÁ",
+      "content": "Provozování stanice, jejíž technické a provozní parametry neodpovídají této vyhlášce, je držitel oprávnění povinen ukončit nejpozději do jednoho měsíce ode dne nabytí účinnosti této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Účinnost",
+      "chapter": "ČÁST ČTVRTÁ - USTANOVENÍ ZÁVĚREČNÁ",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2005.\nPříloha č. 1 k vyhlášce č. 156/2005 Sb.\nOPERÁTORSKÉ TŘÍDY\nTabulka 1: Operátorská třída A\nKmitočtové pásmo Status*)\nOd Do\n135,70 kHz 137,80 kHz S1)\n1 810 kHz 1 850 kHz P\n1 850 kHz 1 890 kHz NIB IV)\n1 890 kHz 2 000 kHz NIB VI)\n3 500 kHz 3 800 kHz P\nSVII)\n7 000 kHz 7 100 kHz\n7 100 kHz 7 200 kHz\n10 100 kHz 10 140 kHz S II)\n10 140 kHz 10 150 kHz S III)\n14 000 kHz 14 350 kHz P\n18 068 kHz 18 168 kHz\n21,00 MHz 21,45 MHz\n24,89 MHz 24,99 MHz\n28,00 MHz 29,70 MHz\n50 MHz 52 MHz NIB V)\n144 MHz 146 MHz P\n430 MHz 440 MHz\n1 240 MHz 1 300 MHz S\n2 300 MHz 2 450 MHz S\n3 400 MHz 3 410 MHz NIB V)\n5 650 MHz 5 850 MHz S\n10,00 GHz 10,50 GHz\n24,00 GHz 24,05 GHz P\n24,05 GHz 24,25 GHz S\n47,00 GHz 47,20 GHz P\n75,50 GHz 76,00 GHz\n76,00 GHz 77,50 GHz S\n77,50 GHz 78,00 GHz P\n78,00 GHz 81,00 GHz S\n122,25 GHz 123,00 GHz\n134,00 GHz 136,00 GHz P\n136,00 GHz 141,00 GHz S\n241,00 GHz 248,00 GHz\n248,00 GHz 250,00 GHz P\nTabulka 2: Operátorská třída N (Novice)\nKmitočtové pásmo Status*)\nOdDo\n1 830 kHz 1 850 kHz P\n1 850 kHz 2 000 kHz NIB VI)\n3 550 kHz 3 700 kHz P\n21,050 MHz 21,200 MHz P\n28,050 MHz 28,400 MHz P\n144 MHz 146 MHz P\n430 MHz 440 MHz\n1 240 MHz 1 300 MHz S\n2 300 MHz 2 450 MHz S\n3 400 MHz 3 410 MHz NIB VI)\n5 650 MHz 5 850 MHz S\n10,00 GHz 10,50 GHz\n24,00 GHz24,05 GHzP\n24,05 GHz 24,25 GHz S\n47,00 GHz 47,20 GHz P\n75,50 GHz 76,00 GHz\n76,00 GHz 77,50 GHz S\n77,50 GHz 78,00 GHz P\n78,00 GHz 81,00 GHz S\n122,25 GHz 123,00 GHz\n134,00 GHz 136,00 GHz P\n136,00 GHz 141,00 GHz S\n241,00 GHz 248,00 GHz\n248,00 GHz 250,00 GHz P\n*) P = přednostní (primární) pásmo,\nS = podružné (sekundární) pásmo:\na) vysílání nesmí způsobit škodlivé interference stanicím přednostních služeb,\nb) nemůže být nárokována ochrana před škodlivým rušením stanic přednostní služby,\nc) může být však nárokována ochrana před škodlivým rušením téže nebo jiné podružné služby,\nNIB = na neinterf erenční bázi:\na) vysílání nesmí způsobit škodlivé interference stanicím přednostních služeb,\nb) nemůže být nárokována ochrana před škodlivým rušením stanic přednostní služby.\nI) pouze druhy provozu A1A, F1A, G1A\nII) pouze druhy provozu A1A, F1A, G1A, J2A\nIII) pouze druhy provozu J1D, J2D, F1D, G1D\nIV) povolený výstupní výkon 75 W\nV) povolený výstupní výkon 25 W\nVI) povolený výstupní výkon 10 W\nVII) do 29.3.2009 povolený výstupní výkon 250 W, od 30.3.2009 status P\nPříloha č. 2 k vyhlášce č. 156/2005 Sb.\nDRUH PROVOZU\n(1) Druh provozu vysílacího rádiového zařízení je určen:\na) potřebnou šířkou kmitočtového pásma a\nb) třídou vysílání.\n(2) Potřebná šířka kmitočtového pásma se vyjadřuje čtyřmi znaky, z nichž jsou tři číslice vyjadřující zaokrouhlenou hodnotu potřebné šířky kmitočtového pásma a jedno písmeno. Písmeno zaujímá postavení desetinné čárky a zastupuje použitou jednotku, přičemž potřebná šířka pásma:\na) mezi 0,001 Hz a 999 Hz se vyjádří v Hertzech (písmeno H),\nb) mezi 1 kHz a 999 kHz se vyjádří v kilohertzech (písmeno k),\nc) mezi 1 MHz a 999 MHz se vyjádří v megahertzech (písmeno M) a\nd) mezi 1 GHz a 999 GHz se vyjádří v gigahertzech (písmeno G).\nPři označení druhu provozu amatérské radiokomunikační služby není údaj o potřebné šířce kmitočtového pásma povinný.\n(3) Třída vysílání je povinný údaj a vyjadřuje se třemi za sebou jdoucími znaky, jejichž význam je:\na) první znak udává druh modulace hlavní nosné, přičemž je označeno:\n1. Vysílání nemodulované vlny N\n2. Vysílání, kde je hlavní vlna amplitudově modulována (včetně případů, kde jsou subnosné modulovány úhlovou modulací)\na Dvojí postranní pásmo A\nb Jedno postranní pásmo, plná nosná vlna H\nc Jedno postranní pásmo, nosná vlna omezená nebo s proměnlivou úrovní R\nd Jedno postranní pásmo, potlačená nosná vlna J\ne Nezávislé postranní pásmo B\nf Zbytkové postranní pásmo C\n3. Vysílání, jehož hlavní nosná vlna je modulována úhlovou modulací\na Kmitočtová modulace F\nb Fázová modulace G\n4. Vysílání, jehož hlavní nosná vlna je modulována amplitudově a úhlovou modulací, buď současně, nebo v předem stanoveném pořadí D\n5. Impulzní vysílání\na Sled nemodulovaných impulzů P\nb Sled impulzů\ni. Modulovaných amplitudově K\nii. Modulovaných v šířce / trvání L\niii. Modulovaných v poloze / fázi M\niv. Ve kterých je nosná vlna během periody impulzů modulována úhlovou modulací Q\nv. Sestávající v kombinaci předcházejících nebo vytvořený jinými prostředky V\n6. Případy nezahrnuté mezi výše uvedené, ve kterých se vysílání skládá z hlavní nosné modulované buď současně nebo v předem stanoveném pořadí kombinací těchto způsobů:\namplitudově, úhlovou modulací nebo impulzně W\n7. Ostatní případy X\nb) druhý znak udává povahu signálu modulujícího hlavní nosnou, přičemž je označeno:\n1. Bez modulujícího signálu 0\n2. Jediný kanál obsahující kvantovanou nebo digitální informaci bez použití modulující subnosné 1\n3. Jediný kanál obsahující kvantovanou nebo digitální informaci s použitím modulující subnosné 2\n4. Jediný kanál obsahující analogovou informaci 3\n5. Dva nebo více kanálů obsahujících kvantovanou nebo digitální informaci 7\n6. Dva nebo více kanálů obsahujících analogovou informaci 8\n7. Složená soustava zahrnující jeden nebo více kanálů obsahujících kvantovanou nebo digitální informaci a jeden nebo více kanálů obsahujících analogovou informaci 9\n8. Ostatní případy X\nc) třetí znak označuje druh informace určené k přenesení, přičemž je označeno:\n1. Žádná informace N\n2. Telegrafie (pro příjem sluchem) A\n3. Telegrafie (pro automatický příjem) B\n4. Faksimile C\n5. Přenos dat, dálkové měření, dálkové ovládání D\n6. Telefonie (včetně zvukového rozhlasu) E\n7. Televize (obraz) F\n8. Kombinace předchozích případů W\n9. Ostatní případy X\n1) Vyhláška č. 155/2005 Sb., o způsobu tvorby volacích značek, identifikačních čísel a kódů, jejich používání a o druzích radiokomunikačních služeb, pro které jsou vyžadovány.\n2) Vyhláška č. 157/2005 Sb., o náležitostech přihlášky ke zkoušce k prokázání odborné způsobilosti k obsluze vysílacích rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy odborné způsobilosti, o způsobu provádění zkoušek, o druzích průkazů odborné způsobilosti a době jejich platnosti.\n3) Doporučení CEPT T/R 61-01\n4) Doporučení CEPT T/R 61-02"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "amatérskou radiokomunikační službou radiokomunikační",
+      "definition": "služba pro sebevzdělávání nebo pro vzájemná spojení prováděná oprávněnými osobami nevýdělečně",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "volací značkou",
+      "definition": "každé poznávací označení stanice, které umožňuje zjištění její totožnosti během vysílání1)",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "operátorem",
+      "definition": "osoba obsluhující stanici",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "vedoucím operátorem",
+      "definition": "osoba, která je zapsána v individuálním oprávnění k využívání rádiových kmitočtů vydaném pro klubovou stanici a je držitelem průkazu HAREC",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "systémovým operátorem",
+      "definition": "osoba zapsaná v individuálním oprávnění k využívání rádiových kmitočtů vydaném pro neobsluhovanou stanici a je držitelem průkazu HAREC",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "operátorem oprávněným provádět dozor",
+      "definition": "osoba, která je držitelem průkazu HAREC, je pověřená vedoucím operátorem k dozoru nad výkonem činnosti operátora bez průkazu odborné způsobilosti u klubové stanice a je vedoucím operátorem zapsaná do staničního deníku",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "amatérským převáděčem vysílací rádiové",
+      "definition": "zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, které přijímá vysokofrekvenční signál na určeném kmitočtu a převádí jej na jiný kmitočet, na němž se přijímaný signál znovu vysílá",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "amatérským majákem vysílací rádiové",
+      "definition": "zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, sloužící ke studiu posouzení podmínek šíření rádiových vln a ke kontrole přijímací části amatérské stanice",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "paketovým uzlem vysílací rádiové",
+      "definition": "zařízení provozované v kmitočtových pásmech vyhrazených pro amatérskou radiokomunikační službu, umožňující vstup do rádiové sítě pro přenos dat mezi stanicemi s výjimkou stanic systému pro automatické předávání údajů o poloze (APRS – Automatic Position Reporting System)",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "stanicí jednotlivce stanice",
+      "definition": "kde držitelem oprávnění je fyzická osoba",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "klubovou stanicí stanice",
+      "definition": "kdy jednu volací značku používá více osob",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "maximálním výstupním výkonem špičkový výkon vysílacího",
+      "definition": "zařízení dodávaný do anténního napáječe.",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Údaji o provozu v odstavci 2",
+      "definition": "zejména, datum, čas a doba trvání uskutečněného rádiového spojení, použité kmitočtové pásmo, druh provozu, volací značka stanice a stanoviště klubové stanice, se kterou bylo uskutečněno rádiové spojení",
+      "source_provision": "§ 5"
+    },
+    {
+      "term": "Neobsluhovanou stanicí",
+      "definition": "amatérský převáděč, amatérský maják nebo paketový uzel",
+      "source_provision": "§ 6"
+    },
+    {
+      "term": "Vysílacím rádiovým zařízením ARDF (Amateur Radio Direction Finding",
+      "definition": "vysílací rádiové zařízení omezeného výkonu určené k vysílání majákových signálů pro soutěže a trénink v radioamatérském orientačním běhu, které je provozované v kmitočtových pásmech uvedených v odstavci 3",
+      "source_provision": "§ 8"
+    }
+  ]
+}

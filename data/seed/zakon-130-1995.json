@@ -1,0 +1,45 @@
+{
+  "id": "cz:130/1995",
+  "type": "statute",
+  "title": "130/1995 Sb., Opatření České národní banky, kterým se stanoví limit pro krátkou pozici bank vůči nerezidentům",
+  "title_en": "",
+  "short_name": "130/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-07-25",
+  "in_force_date": "1995-07-25",
+  "url": "https://www.e-sbirka.cz/sb/1995/130",
+  "description": "Opatření České národní banky, kterým se stanoví limit pro krátkou pozici bank vůči nerezidentům",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Úvodní ustanovení",
+      "content": "(1) Opatření stanoví limit, kterým se omezují pozice bank vůči nerezidentům České republiky. Tento limit se nevztahuje na aktiva a pasiva organizačních složek bank mimo území České republiky.\n(2) Cílem opatření je limitování krátkých otevřených pozic bank vůči nerezidentům a zamezit tak nadměrnému přílivu krátkodobého zahraničního kapitálu do České republiky prostřednictvím bankovního systému."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely tohoto opatření:\na) otevřená krátkodobá pozice banky vůči nerezidentům je rozdíl hodnot krátkodobých aktiv a pasiv vůči nerezidentům, která jsou uváděna v rozvaze bank;\nb) pod krátkodobými aktivy a pasivy banky vůči nerezidentům se rozumí součet takových devizových a korunových aktiv a součet takových devizových a korunových pasiv, jejichž splatnost nepřesahuje jeden rok; propočet hodnot těchto aktiv a pasiv se provádí podle postupu uvedeného v příloze;\nc) otevřená krátkodobá pozice banky vůči nerezidentům je krátká, je-li hodnota rozvahových krátkodobých aktiv vůči nerezidentům nižší než hodnota takových pasiv vůči nerezidentům;\nd) denní pozice je pozice, která existuje na konci pracovního dne a je převáděna do dalšího pracovního dne. Denní pozice se vykazuje na formuláři uvedeném v příloze a řádně podepsaná odpovědným pracovníkem banky se předkládá denně České národní bance. Veškeré transakce ovlivňující uvedená aktiva a pasiva se účtují dnem uskutečnění transakce."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Limity",
+      "content": "(1) Je-li denní otevřená krátkodobá pozice banky vůči nerezidentům krátká, nesmí převýšit ani jednu z následujících hodnot:\na) 30 % celkové hodnoty rozvahových krátkodobých aktiv vůči nerezidentům;\nb) 500 mil. Kč (dále jen „limit“).\n(2) Dodržováním tohoto limitu není dotčena povinnost banky dodržovat limity pro nezajištěné devizové pozice stanovené v opatření Státní banky československé č. 26 ze dne 1. června 1992 v souladu s požadavky na obezřetné podnikání bank a v opatření České národní banky č. 15 ze dne 17. června 1993 ohledně stanovení limitů pro krátkou korunovou pozici bank."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Toto opatření nabývá účinnosti dnem 3. srpna 1995.\nPříloha\nDenní výkaz krátkodobých aktiv a pasiv vůči nerezidentům"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "b) pod krátkodobými aktivy a pasivy banky vůči nerezidentům",
+      "definition": "součet takových devizových a korunových aktiv a součet takových devizových a korunových pasiv, jejichž splatnost nepřesahuje jeden rok; propočet hodnot těchto aktiv a pasiv se provádí podle postupu uvedeného v příloze;",
+      "source_provision": "§ 2"
+    }
+  ]
+}

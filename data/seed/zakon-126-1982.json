@@ -1,0 +1,75 @@
+{
+  "id": "cz:126/1982",
+  "type": "statute",
+  "title": "126/1982 Sb., Vyhláška Slovenského úradu bezpečnosti práce, ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti pri práci s lasermi",
+  "title_en": "",
+  "short_name": "126/1982 Sb.",
+  "status": "in_force",
+  "issued_date": "1982-11-11",
+  "in_force_date": "1983-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1982/126",
+  "description": "Vyhláška Slovenského úradu bezpečnosti práce, ktorou sa ustanovujú požiadavky na zaistenie bezpečnosti pri práci s lasermi",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah platnosti",
+      "content": "(1) Vyhláška sa vzťahuje na organizácie, ktoré konštruujú, vyrábajú, majú v prevádzke a vykonávajú údržbu a opravy laserov a zariadení, v ktorých je zabudovaný laser ako zdroj žiarenia.\n(2) Vyhláška sa nevzťahuje na používanie laserov na pracoviskách a na činnosti podliehajúce podľa osobitných predpisov dozoru orgánov štátnej banskej správy.1)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pojmy",
+      "content": "(1) Laserom sa rozumie kvantový generátor elektromagnetického žiarenia, ktorého vlnová dĺžka žiarenia sa pohybuje v rozmedzí 200—13 000 nm.\n(2) Najvyššou prípustnou hodnotou sa rozumie hodnota výkonu (energie) vystupujúceho žiarenia lasera, ktorá je ustanovená osobitnými predpismi.2)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Povinnosti konštruktérov laserov",
+      "content": "(1) Lasery musia byť konštruované tak, aby nemohlo dôjsť k vyžarovaniu bez zásahu obsluhy. Žiarenie musí vychádzať iba výstupným otvorom lúča, ktorý musí byť výrazne označený.\n(2) Lasery musia byť vybavené svetelnou, prípadne zvukovou signalizáciou chodu, ktorá sa uvedie do činnosti už pri zapnutí napájacích zdrojov. Svetelná signalizácia musí byť spoľahlivo rozpoznateľná i pri použití ochranných okuliarov.\n(3) Všetky pozorovacie otvory lasera musia byť chránené svetelnými filtrami, ktoré zoslabia intenzitu žiarenia na prípustné hodnoty.\n(4) Elektrická časť lasera musí vyhovovať príslušným technickým normám.3)\n(5) Lasery vybavené nevyhnutným chladením musia byť konštruované tak, aby sa pri poruche chladenia automaticky vypínali.\n(6) Vysokotlakové výbojky a trubice musia byť spoľahlivo okrytované pre prípad ich explózie.\n(7) Naplno okrytované lasery musia byť vybavené tak, aby každá časť ochranného krytu mala bezpečnostné blokovanie.\n(8) Lasery, ktoré emitujú žiarenie a sú schopné pri náhodnom zásahu vyvolať poškodenie zdravia, musia byť vybavené uzatvárateľným hlavným ovládačom. Kľúč musí byť vynímateľný."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Povinnosti výrobcu",
+      "content": "(1) Výrobca je povinný dodať k laseru technickú dokumentáciu a návod na obsluhu.\n(2) Technická dokumentácia musí obsahovať\na) vlnovú dĺžku alebo rozsah vlnových dĺžok žiarenia,\nb) výkon lasera (pri impulzných laseroch energiu, dĺžku trvania, prípadne frekvenciu impulzov),\nc) zaradenie lasera do triedy podľa osobitných predpisov,\nd) značku výrobcu, výrobné číslo a rok výroby,\ne) pokyny pre správnu montáž a inštaláciu vrátane stavebných a priestorových požiadaviek,\nf) požiadavky na údržbu a určenie rozsahu opráv, ktoré môže vykonávať iba výrobca alebo ním poverená organizácia,\ng) ďalšie údaje podľa osobitných predpisov.\n(3) Návod na obsluhu musí okrem opisu samotnej obsluhy lasera obsahovať\na) upozornenie na riziká spojené s prevádzkou lasera a na zakázané manipulácie,\nb) konkrétne požiadavky na vybavenie pracovníkov osobnými ochrannými pracovnými prostriedkami pre jednotlivé triedy laserov."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Povinnosti prevádzkovateľa",
+      "content": "Organizácia, ktorá má v prevádzke laser (ďalej len „prevádzkovateľ“), je povinná\na) vymedziť (vyhradiť) priestor, v ktorom sa laser používa,\nb) vypracovať prevádzkový poriadok pre prácu s laserom a vyvesiť ho na prístupnom a viditeľnom mieste na pracovisku; prevádzkový poriadok musí obsahovať požiadavky bezpečnostných a hygienických predpisov a návod výrobcu (dodávateľa) na vykonávanie montáže, prevádzky, údržby, obsluhy, opráv a kontrol laserov,\nc) písomne určiť pracovníkov zodpovedných za prevádzku, obsluhu, opravy a údržbu lasera,\nd) zaškoliť pracovníkov určených na obsluhu, údržbu a na opravy laserov a minimálne ich oboznámiť\n1. s princípmi činnosti, s vlastnosťami lasera a s nebezpečenstvom spojeným s činnosťou lasera,\n2. s prevádzkovým poriadkom pre prácu s laserom,\n3. s postupom pri zasiahnutí pracovníka veľkými dávkami žiarenia a s postupom prác pri prevádzkovej nehode (havárii) alebo poruche lasera,\ne) zabezpečiť riadne vedenie denníka porúch, opráv a údržby lasera uloženého na pracovisku."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Prevádzka laserov",
+      "content": "(1) Laser musí byť zabezpečený proti manipulácii nepovolanými osobami. Do činnosti môže byť uvedený len na pokyn pracovníka zodpovedného za jeho prevádzku (§ 5), ktorý je predtým povinný skontrolovať, či v priestore, v ktorom sa laser používa, nie sú osoby, ktoré by mohli byť prevádzkou lasera ohrozené, alebo predmety, ktoré by mohli byť v prípade zasiahnutia laserovým lúčom zdrojom nebezpečenstva pre okolie.\n(2) Lasery môžu obsluhovať len pracovníci, ktorí boli prevádzkovateľom na túto činnosť zaškolení [§ 5 písm. d)] a sú na výkon tejto činnosti zdravotne spôsobilí.4)\n(3) Pre obsluhu a prácu na elektrických častiach platia osobitné predpisy.5)\n(4) Pri prevádzke laserov, ktoré sú schopné emitovať žiarenie prekračujúce najvyššiu prípustnú hodnotu, musia sa použiť opatrenia zamedzujúce ožiarenie pracovníkov (napr. diaľkové ovládanie, okrytovanie dráhy lúča, zamedzenie vstupu osôb do dráhy lúča mechanickou zábranou a pod.).\n(5) Ak technické a technologické opatrenia nemôžu zamedziť prípadné prekročenie najvyššej prípustnej hodnoty ožiarenia, musia pracovníci nachádzajúci sa vymedzenom priestore použiť nariadené osobné ochranné pracovné prostriedky.\n(6) Mikroskopy, ďalekohľady a iné optické systémy používané na pozorovanie priameho alebo odrazeného laserového žiarenia musia byť upravené tak, aby expozícia oka neprekročila najvyššiu prípustnú hodnotu ožiarenia. Na optických nadstavcoch musia byť uvedené údaje, z ktorých možno zistiť zmenu intenzity laserového žiarenia pri ich použití.\n(7) Optické systémy lasera možno nastavovať výhradne takým spôsobom, ktorý vylučuje expozíciu oka nad najvyššiu prípustnú hranicu."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Pracoviská",
+      "content": "(1) Pracoviská musia byť zabezpečené proti vstupu nepovolaných osôb (napr. mechanickou zábranou, bezpečnostným blokovaním) a označené zákazom vstupu s upozornením na nebezpečné žiarenie.6)\n(2) Miestnosti, v ktorých je umiestnený laser, musia byť upravené tak, aby nemohlo dôjsť k nežiadúcim nebezpečným odrazom alebo prienikom laserového žiarenia (napr. vymaľovanie stien matným náterom s malým činiteľom odrazu).\n(3) Pri použití lasera mimo uzavretých priestorov musí sa lúč viesť tak, aby neboli zasiahnuté nezamerané objekty.\n(4) V priestore, v ktorom sa používa laser, nesmú byť uložené látky, z ktorých by vplyvom žiarenia mohli vznikať škodlivé plyny alebo výbušné zmesi plynov.\n(5) Ak sa na chladenie laserov používajú skvapalnené plyny, alebo ak môžu vplyvom žiarenia na pracovisku vznikať škodlivé látky, musí byť pracovisko vybavené účinným ventilačným systémom.\n(6) Pri laseroch, ktoré sú schopné emitovať žiarenia nad najvyššiu prípustnú hodnotu, musí byť dráha lúča na konci ohraničená účinnou zábranou."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Opravy a údržba laserov",
+      "content": "(1) Opravy a údržba laserov sa môžu vykonávať len so súhlasom pracovníka zodpovedného za prevádzku lasera.\n(2) Opravy väčšieho rozsahu môže vykonávať len výrobca lasera alebo ním poverená organizácia [§ 4 ods. 2 písm. f)].\n(3) Po oprave, ktorá mohla ovplyvniť charakteristické vlastnosti potenciálne nebezpečného lasera, musí organizácia, ktorá vykonala opravu, za prítomnosti pracovníka zodpovedného za prevádzku lasera vykonať kontrolu lasera a pracoviska z hľadiska priameho, odrazeného alebo rozptýleného žiarenia a zaistiť eventuálne zmeny bezpečnostných opatrení.\n(4) Opravy a údržba laserov, pri ktorých by mohlo dôjsť k ohrozeniu zdravia osôb, môžu sa vykonávať len pri vypnutom laseri zabezpečenom proti náhodnému zapnutiu. Pri takejto oprave môže byť laser uvedený do činnosti len na čas nevyhnutne potrebný na meranie charakteristických hodnôt.\n(5) Pracovníci, ktorí opravujú lasery, musia byť na ich opravy zaškolení [§ 5 písm. d)] a zdravotne spôsobilí.4)\nPrechodné a záverečné ustanovenia"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9",
+      "content": "(1) Na konštrukciu laserov sa ustanovenia tejto vyhlášky vzťahujú odo dňa nadobudnutia jej účinnosti.\n(2) Lasery, ktoré nevyhovujú ustanoveniam tejto vyhlášky musí prevádzkovateľ upraviť najneskôr do jedného roka odo dňa nadobudnutia jej účinnosti."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10",
+      "content": "Táto vyhláška nadobúda účinnosť 1. januárom 1983.\n1) Zákon č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon).\nZákon Slovenskej národnej rady č. 42/1972 Zb. o organizácii a o rozšírení dozoru štátnej banskej správy.\n2) Úprava č. 20/1982 Vestníka Ministerstva zdravotníctva SSR o hygienických zásadách pre prácu s lasermi (reg. v čiastke 25/1982 Zb.).\n3) ČSN 34 1630 Elektrické zariadenia pracovných strojov.\nČSN 34 1631 Predpisy pre elektronické zariadenia pracovných strojov.\nČSN 35 6501 Elektronické meracie prístroje.\nBezpečnostné ustanovenia.\n4) Smernice č. 17/1970 Vestníka Ministerstva zdravotníctva SSR o posudzovaní zdravotnej spôsobilosti na prácu (reg. v čiastke 24/1970 Zb.).\n5) ČSN 34 3100 Bezpečnostné predpisy pre obsluhu a prácu na elektrických zariadeniach.\n6) ČSN 01 8010 Bezpečnostné farby a značky.\nVšeobecné ustanovenia.\nČSN 01 8012 Bezpečnostné tabuľky."
+    }
+  ],
+  "definitions": []
+}

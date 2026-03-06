@@ -1,0 +1,75 @@
+{
+  "id": "cz:235/2008",
+  "type": "statute",
+  "title": "235/2008 Sb., Vyhláška o informačních povinnostech provozovatele vypořádacího systému a centrálního depozitáře cenných papírů",
+  "title_en": "",
+  "short_name": "235/2008 Sb.",
+  "status": "in_force",
+  "issued_date": "2008-06-30",
+  "in_force_date": "2008-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2008/235",
+  "description": "Vyhláška o informačních povinnostech provozovatele vypořádacího systému a centrálního depozitáře cenných papírů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví lhůty pro zasílání informací a podkladů České národní bance potřebných pro výkon dohledu, podrobnosti o jejich obsahu, formě a způsobu zasílání provozovatelem vypořádacího systému a centrálním depozitářem cenných papírů (dále jen „centrální depozitář“)."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Vymezení pojmů",
+      "content": "Pro účely této vyhlášky se rozumí\na) výkazem strukturovaný soubor údajů vytvořený provozovatelem vypořádacího systému nebo centrálním depozitářem,\nb) datovým souborem seskupení údajů s předem definovanými datovými strukturami, které jsou popsány a přístupné jako celek v informačním systému České národní banky,\nc) přijetím transakce k vypořádání doručení všech příkazů nezbytných pro vypořádání transakce vypořádacímu systému,\nd) kontaktní osobou osoba nebo osoby, které jménem provozovatele vypořádacího systému nebo centrálního depozitáře předkládají výkazy České národní bance."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Informační povinnosti",
+      "content": "(1) Provozovatel vypořádacího systému informuje Českou národní banku formou a způsobem uvedeným v § 4 o\na) transakci přijaté k vypořádání, způsobu a stavu vypořádání, o změnách transakce přijaté k vypořádání a změnách způsobu a stavu vypořádání zasláním výkazu MKT (ČNB) 80-97 „Informace o vypořádání transakcí“ vypracovaného podle datového souboru MOKAS80, v rozsahu a struktuře podle bodu 1 přílohy k této vyhlášce, nejpozději do konce pracovního dne následujícího po dni, ve kterém byla transakce přijata k vypořádání nebo ve kterém došlo ke změně,\nb) účastnících vypořádacího systému zasláním výkazu MKT (ČNB) 65-97 „Informace o účastnících“ vypracovaného podle datového souboru MOKAS65, v rozsahu a struktuře podle bodu 2 přílohy k této vyhlášce, do konce pracovního dne, ve kterém\n1. se některý z účastníků stal nebo přestal být účastníkem vypořádacího systému, nebo\n2. se dozvěděl o změně údajů poskytovaných o účastníkovi vypořádacího systému,\nc) investičních nástrojích přijatých k vypořádání zasláním výkazu MKT (ČNB) 82-97 „Informace o nástrojích přijatých k vypořádání“ vypracovaného podle datového souboru MOKAS82, v rozsahu a struktuře podle bodu 3 přílohy k této vyhlášce, nejpozději do konce pracovního dne, jenž předchází dni, ke kterému se údaje nebo jejich změna vztahují; každá změna vyžaduje poskytnutí úplného výkazu.\n(2) Provozovatel vypořádacího systému a centrální depozitář informuje Českou národní banku formou a způsobem uvedeným v § 5 o finanční situaci a výsledcích svého hospodaření v uplynulém čtvrtletí k poslednímu dni příslušného kalendářního čtvrtletí v rozsahu a struktuře podle jiného právního předpisu upravujícího účetnictví nejpozději do 1 měsíce po uplynutí příslušného kalendářního čtvrtletí.\n(3) Provozovatel vypořádacího systému informuje Českou národní banku formou a způsobem uvedeným v § 5 o\na) provozních dnech vypořádacího systému nejpozději 2 pracovní dny před prvním dnem období, ke kterému se vztahuje\n1. kalendář provozních dnů, nebo\n2. změna v kalendáři provozních dnů,\nb) číselnících používaných provozovatelem vypořádacího systému ve výkazech podle odstavce 1 nejpozději 2 pracovní dny před provozním dnem, ke kterému se změna v údajích vztahuje.\n(4) Provozovatel vypořádacího systému a centrální depozitář předává České národní bance formou a způsobem podle § 5\na) výroční zprávu a konsolidovanou výroční zprávu do 6 měsíců po skončení účetního období a\nb) údaje o osobách, které na nich měly v době konání valné hromady kvalifikovanou účast1), do 1 měsíce od konání valné hromady; přitom upřesní povahu vztahů s těmito osobami.\n(5) Má-li provozovatel vypořádacího systému nebo centrální depozitář jen jediného akcionáře, předává údaje o tomto akcionáři uvedené v odstavci 4 písm. b) do 1 měsíce po rozhodnutí akcionáře při výkonu působnosti valné hromady.\n(6) Provozovatel vypořádacího systému nepředává informace podle odstavců 2, 4 a 5, pokud je poskytuje České národní bance podle jiného právního předpisu2) ve srovnatelném rozsahu."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Zasílání informací prostřednictvím automatizovaného systému pro sběr dat",
+      "content": "(1) Provozovatel vypořádacího systému zasílá České národní bance výkazy podle § 3 odst. 1 v elektronické podobě ve formě datových zpráv prostřednictvím aplikace České národní banky pro sběr dat, která je dostupná způsobem umožňujícím dálkový přístup.\n(2) Datové zprávy podle odstavce 1 s uvedením dat výkazu opatří provozovatel vypořádacího systému\na) zaručeným elektronickým podpisem kontaktní osoby založeným na kvalifikovaném certifikátu3), nebo\nb) elektronickou značkou založenou na kvalifikovaném systémovém certifikátu4)."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Zasílání informací elektronickou poštou",
+      "content": "(1) Informace podle § 3 odst. 2 až 5 zasílá provozovatel vypořádacího systému a centrální depozitář České národní bance v elektronické podobě ve formě datové zprávy na adresu elektronické podatelny s jednoznačným označením informační povinnosti, nebo na pevném nosiči dat (CD, DVD). Datová zpráva musí být opatřena zaručeným elektronickým podpisem kontaktní osoby založeným na kvalifikovaném certifikátu.\n(2) Výroční zprávu a konsolidovanou výroční zprávu, která se podle jiného právního předpisu o účetnictví5) ukládá do sbírky listin obchodního rejstříku prostřednictvím České národní banky, zašle provozovatel vypořádacího systému a centrální depozitář České národní bance v elektronické podobě stanovené jiným právním předpisem o digitalizaci obchodního rejstříku6) způsobem podle odstavce 1. Pokud velikost zprávy neumožňuje zasílání elektronickou poštou, zašle provozovatel vypořádacího systému a centrální depozitář výroční zprávu a konsolidovanou výroční zprávu České národní bance na pevném nosiči dat (CD, DVD)."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Oprava nesprávných a neúplných výkazů",
+      "content": "Pokud provozovatel vypořádacího systému a centrální depozitář zjistí, že údaje výkazu předaného České národní bance jsou nesprávné nebo neúplné, postupuje způsobem uvedeným v § 3 a neprodleně uvědomí Českou národní banku o obsahu a důvodech oprav."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Kontaktní osoby",
+      "content": "(1) Provozovatel vypořádacího systému a centrální depozitář sdělí České národní bance\na) jméno a příjmení kontaktní osoby,\nb) adresu pracoviště, telefonní, faxové číslo a adresu elektronické pošty kontaktní osoby,\nc) údaje o vydaném kvalifikovaném certifikátu kontaktní osoby nebo údaj o kvalifikovaném systémovém certifikátu.\n(2) Provozovatel vypořádacího systému a centrální depozitář sdělí České národní bance každou změnu údajů podle odstavce 1."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Přechodná ustanovení",
+      "content": "1. Provozovatel vypořádacího systému plní informační povinnosti podle § 3 odst. 1 písm. a) této vyhlášky od 1. července 2009.\n2. Provozovatel vypořádacího systému splní informační povinnosti podle § 3 odst. 1 písm. b) a c) a § 3 odst. 3 poprvé do 1. července 2009."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. července 2008.\nPříloha k vyhlášce č. 235/2008 Sb.\nObsah informací zasílaných provozovatelem vypořádacího systému a centrálním depozitářem České národní bance\n1. Výkaz MKT (ČNB) 80-97 „Informace o vypořádání transakcí“ s kódem přiřazeného datového souboru MOKAS80 obsahuje údaje obsažené v příkazech k vypořádání a informace o jejich zpracování vypořádacím systémem. Těmito údaji jsou zejména identifikace účastníka vypořádacího systému vypořádávajícího transakci, identifikace účastníka transakce, datum, čas a místo uskutečnění transakce, ukazatel nákupu/prodeje, údaj o uzavření transakce na vlastní nebo cizí účet (postavení), identifikace investičního nástroje, jednotková cena investičního nástroje v měně nebo v procentech s uvedením notace ceny, množství nebo nominální hodnota investičních nástrojů, identifikace protistrany transakce, identifikace účastníka vypořádacího systému, který transakci vypořádává pro protistranu, externí číslo transakce přidělené na místě uzavření transakce a autor externího čísla transakce, identifikace zákazníka, den vypořádání, objem transakce, číslo pokynu převzaté z deníku obchodníka, který transakci uzavřel, typ transakce, interní číslo transakce přidělené ve vypořádacím systému, stav vypořádání transakce a typ nestandardní situace transakce, identifikace majitele a číslo majetkového účtu použitého k vypořádání v evidenci investičních nástrojů a identifikace osoby vedoucí evidenci investičních nástrojů, datum a čas poslední změny příkazu k vypořádání ze strany účastníka vypořádacího systému, datum a čas posledního zpracování transakce vypořádacím systémem.\n2. Výkaz MKT (ČNB) 65-97 „Informace o účastnících“ s kódem přiřazeného datového souboru MOKAS65 obsahuje údaje o všech účastnících vypořádacího systému, zejména obchodní jméno, identifikaci účastníka, adresu, kontaktní údaje a kontaktní osoby účastníka vypořádacího systému.\n3. Výkaz MKT (ČNB) 82-97 „Informace o nástrojích přijatých k vypořádání“ s kódem přiřazeného datového souboru MOKAS82 obsahuje informace týkající se investičních nástrojů přijatých k vypořádání, kterými jsou zejména název a identifikace investičního nástroje, datum, od kterého údaje o investičním nástroji platí, datum poslední změny údajů, datum konce platnosti údajů, název a identifikace podkladového nástroje, druh finančního nástroje, datum splatnosti investičního nástroje, realizační cena investičního nástroje, cenový multiplikátor, aktuální nominální hodnota investičního nástroje, měna nominální hodnoty investičního nástroje, datum přijetí k vypořádání, země konečného vlastníka, země indexu, marže na kontrakt u futures, označení, zda úroková sazba investičního nástroje je pevná nebo pohyblivá, frekvence výplaty úroku investičního nástroje, standard pro výpočet alikvotního úrokového výnosu investičního nástroje, aktuální výše úrokové sazby dluhopisu nebo nástroje peněžního trhu vyjádřenou v procentech, datum emise, počet investičních nástrojů v emisi, datum prvního dne, ve kterém investor nabývající dluhopis nemá nárok na výplatu stanoveného kupónu, výše poslední dividendy, datum prvního dne, ve kterém investor nabývající investiční nástroj nemá nárok na výplatu dividendy, označení kategorie a skupiny dle číselníku provozovatele vypořádacího systému pro případ rozdělení investičních nástrojů z důvodů vypořádání do více kategorií a skupin, název a identifikace emitenta, adresa, země sídla a odvětví emitenta investičního nástroje.\n1) § 2 odst. 1 písm. e) zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů.\n2) Například vyhláška č. 605/2006 Sb., o některých informačních povinnostech obchodníka s cennými papíry, ve znění pozdějších předpisů.\n3) § 2 písm. l) zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění zákona č. 440/2004 Sb.\n4) § 2 písm. m) zákona č. 227/2000 Sb., ve znění zákona č. 440/2004 Sb.\n5) § 21a odst. 4 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.\n6) § 2 vyhlášky č. 562/2006 Sb., kterou se stanoví způsob převedení listin do elektronické podoby, způsob nakládání s převedenými listinami a obligatorní elektronická podoba listin (vyhláška o digitalizaci obchodního rejstříku)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "kontaktní osobou",
+      "definition": "osoba nebo osoby, které jménem provozovatele vypořádacího systému nebo centrálního depozitáře předkládají výkazy České národní bance.",
+      "source_provision": "§ 2"
+    }
+  ]
+}

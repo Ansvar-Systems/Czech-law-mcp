@@ -1,0 +1,45 @@
+{
+  "id": "cz:102/2018",
+  "type": "statute",
+  "title": "102/2018 Sb., Nařízení vlády o vymezení nepodnikatelské sféry pro účely stanovení platové základny",
+  "title_en": "",
+  "short_name": "102/2018 Sb.",
+  "status": "in_force",
+  "issued_date": "2018-06-12",
+  "in_force_date": "2018-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2018/102",
+  "description": "Nařízení vlády o vymezení nepodnikatelské sféry pro účely stanovení platové základny",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Toto nařízení vymezuje nepodnikatelskou sféru pro účely stanovení platové základny podle ustanovení § 3 odst. 3 zákona tak, aby tento pojem plynule obsahově navazoval na obdobný pojem vymezený způsobem stanoveným metodikou pro účely mezinárodního srovnání v rámci Evropské unie používaný Českým statistickým úřadem do roku 2016."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Nepodnikatelskou sférou pro účely zjišťování a zveřejňování průměrné nominální měsíční mzdy se od referenčního roku 2017 rozumí okruh zpravodajských jednotek majících některou z právních forem uvedených v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Český statistický úřad zveřejní údaj o dosažené průměrné nominální měsíční mzdě v nepodnikatelské sféře pro účely ustanovení § 3 odst. 3 zákona za minulý kalendářní rok způsobem umožňujícím dálkový přístup vždy do 30. září kalendářního roku."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po jeho vyhlášení.\nPříloha k nařízení vlády č. 102/2018 Sb.\nPrávní formy zpravodajských jednotek\n1. Nadace.\n2. Nadační fond.\n3. Obecně prospěšná společnost.\n4. Ústav.\n5. Organizační složka státu.\n6. Příspěvková organizace.\n7. Veřejná vysoká škola a státní vysoká škola.\n8. Školská právnická osoba.\n9. Veřejná výzkumná instituce.\n10. Spolek.\n11. Pobočný spolek.\n12. Politická strana a politické hnutí.\n13. Registrovaná církev a náboženská společnost, evidovaná církevní právnická osoba, svaz církví a náboženských společností.\n14. Kraj, hlavní město Praha.\n15. Obec a městská část hlavního města Prahy.\n16. Dobrovolný svazek obcí.\n17. Regionální rada regionu soudržnosti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nepodnikatelskou sférou pro účely zjišťování a zveřejňování průměrné nominální měsíční mzdy se od referenčního roku 2017",
+      "definition": "okruh zpravodajských jednotek majících některou z právních forem uvedených v příloze k tomuto nařízení",
+      "source_provision": "§ 2"
+    }
+  ]
+}

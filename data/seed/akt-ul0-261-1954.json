@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:261/1954",
+  "type": "statute",
+  "title": "261/1954 Ú. l., Vyhláška úřadu pro normalisaci, kterou se vyhlašuje technická státní norma ČSN 73 0760.",
+  "title_en": "",
+  "short_name": "261/1954 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1954-12-31",
+  "in_force_date": "1959-10-01",
+  "url": "https://www.e-sbirka.cz/ul0/1954/261",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se vyhlašuje technická státní norma ČSN 73 0760.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Norma ČSN 73 0760 „Požární předpisy pro výstavbu průmyslových závodů a sídlišť” je od 1. ledna 1955 technickou státní normou."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Norma obsahuje předpisy pro projekty a stavbu nově budovaných nebo rekonstruovaných průmyslových podniků a sídlišť, jakož i pro projekty a stavbu jednotlivých výrobních, obytných, veřejných a pomocných budov nebo staveb."
+    }
+  ],
+  "definitions": []
+}

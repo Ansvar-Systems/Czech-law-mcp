@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:341/1952",
+  "type": "statute",
+  "title": "341/1952 Ú. l., Vyhláška úřadu pro normalisaci, kterou se ruší a mění některé technické podmínky.",
+  "title_en": "",
+  "short_name": "341/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-11-29",
+  "in_force_date": "1952-12-01",
+  "url": "https://www.e-sbirka.cz/ul0/1952/341",
+  "description": "Vyhláška úřadu pro normalisaci, kterou se ruší a mění některé technické podmínky.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Zrušují se tyto technické podmínky:\nTP 5-47-52 Měnič iontů FK\nTP 5-48-52 Měnič iontů F — extra,\nuveřejněné vyhláškou úřadu pro normalisaci č. 223/1952 Ú. l., kterou se vyhlašuji technické podmínky pro výrobu průmyslu chemického, a\nTP 6-406-52 Teploměr zvěrolékařský obalový,\nuveřejněné vyhláškou úřadu pro normalisaci č. 302/1952 Ú. l., kterou se vyhlašují technické podmínky pro výrobky průmyslu ministerstva informací a osvěty, zdravotnictví a lehkého průmyslu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Označení technických podmínek\nTP 3-485-52 Lis na slámu pro vázání drátem LSD, uveřejněných vyhláškou úřadu pro normalisaci č. 254/1952 Ú. l., kterou se vyhlašují technické podmínky pro výrobky těžkého strojírenství, se mění a bude zníti: TP 3-485-52 Kyvadlový lis na slámu se samočinným vázáním LSKP 1000."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. prosince 1952."
+    }
+  ],
+  "definitions": []
+}

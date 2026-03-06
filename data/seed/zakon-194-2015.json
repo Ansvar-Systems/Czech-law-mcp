@@ -1,0 +1,39 @@
+{
+  "id": "cz:194/2015",
+  "type": "statute",
+  "title": "194/2015 Sb., Vyhláška o způsobu regulace cen a postupech pro regulaci cen v elektroenergetice a teplárenství",
+  "title_en": "",
+  "short_name": "194/2015 Sb.",
+  "status": "in_force",
+  "issued_date": "2015-08-10",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2015/194",
+  "description": "Vyhláška o způsobu regulace cen a postupech pro regulaci cen v elektroenergetice a teplárenství",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Způsob regulace",
+      "content": "(1) Úřad reguluje ceny v elektroenergetice způsobem úředně stanovených cen.\n(2) Úřad reguluje ceny elektřiny dodavatele poslední instance způsobem věcného usměrňování cen.\n(3) Úřad reguluje cenu tepelné energie způsobem věcného usměrňování cen, to neplatí v případě ceny tepelné energie nižší, než je limitní cena ve výši 250 Kč/GJ.\n(4) Úřad reguluje cenu za činnost povinně vykupujícího způsobem úředně stanovených cen."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Postup tvorby cen",
+      "content": "(1) Při regulaci ceny související služby v elektroenergetice postupuje Úřad tak, aby regulované ceny pokrývaly ekonomicky oprávněné náklady na zajištění spolehlivého, bezpečného a efektivního výkonu licencované činnosti, dále odpisy a přiměřený zisk zajišťující návratnost realizovaných investic do zařízení sloužících k výkonu licencované činnosti a oprávněné náklady na zvyšování energetické účinnosti při výstavbě a provozu přenosové soustavy a distribučních soustav.\n(2) Úřad postupuje obdobně podle odstavce 1 při věcném usměrňování ceny tepelné energie.\n(3) Při regulaci ceny za činnost povinně vykupujícího postupuje Úřad tak, aby stanovené ceny byly alespoň nákladové."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Zrušovací ustanovení",
+      "content": "Vyhláška č. 436/2013 Sb., o způsobu regulace cen a postupech pro regulaci cen v elektroenergetice a teplárenství a o změně vyhlášky č. 140/2009 Sb., o způsobu regulace cen v energetických odvětvích a postupech pro regulaci cen, ve znění vyhlášky č. 195/2014 Sb., se zrušuje."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 2016."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cz:103/2025",
+  "type": "statute",
+  "title": "103/2025 Sb., Vyhláška k provedení některých ustanovení zákona o podmínkách obchodování s povolenkami na emise skleníkových plynů",
+  "title_en": "",
+  "short_name": "103/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-04-15",
+  "in_force_date": "2025-04-16",
+  "url": "https://www.e-sbirka.cz/sb/2025/103",
+  "description": "Vyhláška k provedení některých ustanovení zákona o podmínkách obchodování s povolenkami na emise skleníkových plynů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška upravuje\na) podrobné náležitosti, formu a datovou strukturu formuláře žádosti o vydání povolení k emisím skleníkových plynů, včetně vzoru plánu pro monitorování emisí,\nb) podrobné náležitosti, formu a datovou strukturu formuláře žádosti o vydání povolení k dodávání paliv,\nc) podrobnosti žádosti o vydání osvědčení o využití paliva k procesům, při nichž nedochází k jeho spalování, a požadavky na způsob doložení výše historické spotřeby paliva,\nd) náležitosti a vzory čestných prohlášení pro prokázání spotřeby plynných paliv pro zemědělskou prvovýrobu nebo hospodaření v lese."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Formulář žádosti o vydání povolení k emisím skleníkových plynů",
+      "content": "(1) Podrobné náležitosti a datová struktura formuláře žádosti o vydání povolení k emisím skleníkových plynů podle § 3 zákona jsou uvedeny v příloze č. 1 k této vyhlášce.\n(2) Formulář žádosti podle odstavce 1 se podává elektronicky ve formátu xls/xlsx.\n(3) Ministerstvo zveřejňuje na svých internetových stránkách vzor plánu pro monitorování emisí skleníkových plynů."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Formulář žádosti o vydání povolení k dodávání paliv",
+      "content": "(1) Podrobné náležitosti a datová struktura formuláře žádosti o vydání povolení k dodávání paliv podle § 4b zákona jsou uvedeny v příloze č. 2 k této vyhlášce. Formulář žádosti se podává elektronicky ve formátu xls/xlsx.\n(2) K formuláři podle odstavce 1 žadatel přiloží návrh opatření pro monitorování a vykazování emisí podle § 4b odst. 2 písm. c) zákona zpracovaný v elektronickém systému dostupném na internetových stránkách ministerstva."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Žádost o vydání osvědčení o využití paliva k procesům, při nichž nedochází k jeho spalování",
+      "content": "(1) Žádost o vydání osvědčení o využití paliva k procesům, při nichž nedochází k jeho spalování, kromě obecných náležitostí podle správního řádu obsahuje\na) údaj o množství a druhu spotřebovaných paliv k procesům, při nichž nedochází k jejich spalování, za předchozí tři roky nebo, pokud není tato informace k dispozici, údaj o předpokládaném ročním množství a druhu paliv spotřebovaných na uvedený účel a\nb) popis účelu a způsobu použití paliv k procesům, při nichž nedochází k jejich spalování.\n(2) Další podrobnosti žádosti o vydání osvědčení jsou uvedeny v příloze č. 3 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Vzory čestných prohlášení pro prokázání spotřeby plynu pro zemědělskou prvovýrobu nebo hospodaření v lese",
+      "content": "(1) Vzor čestného prohlášení zákazníka o spotřebě plynu v místě podnikání pro zemědělskou prvovýrobu nebo hospodaření v lese podle lesního zákona pro zákazníky se spotřebou v předcházejícím roce nižší než 63 MWh je uveden v příloze č. 4 k této vyhlášce.\n(2) Vzor čestného prohlášení zákazníka o spotřebě plynu pouze pro zemědělskou prvovýrobu nebo hospodaření v lese podle lesního zákona v předcházejícím roce je uveden v příloze č. 5 k této vyhlášce.\n(3) Čestné prohlášení podle odstavce 1 nebo 2 je zákazník povinen učinit prostřednictvím elektronického systému pro poskytnutí stanovených informací provozovaného obchodníkem s plynem, informoval-li o této formě čestných prohlášení dodavatel zákazníky na svých internetových stránkách."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Zrušovací ustanovení",
+      "content": "Vyhláška č. 192/2013 Sb., o stanovení formulářů žádostí o přidělení povolenek pro provozovatele letadla a o vydání povolení k emisím skleníkových plynů, se zrušuje."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.\nPříloha č. 1\nPodrobnosti a datová struktura formuláře žádosti o vydání povolení k emisím skleníkových plynů\nPříloha č. 2\nPodrobnosti a datová struktura formuláře žádosti o vydání povolení dodávání paliv\nPříloha č. 3\nPříloha č. 4\nPříloha č. 5"
+    }
+  ],
+  "definitions": []
+}

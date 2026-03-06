@@ -1,0 +1,33 @@
+{
+  "id": "cz:161/2005",
+  "type": "statute",
+  "title": "161/2005 Sb., Vyhláška o stanovení charakteristik funkcí speciálně vybavených telekomunikačních koncových zařízení pro různé druhy zdravotního postižení",
+  "title_en": "",
+  "short_name": "161/2005 Sb.",
+  "status": "in_force",
+  "issued_date": "2005-04-28",
+  "in_force_date": "2022-03-01",
+  "url": "https://www.e-sbirka.cz/sb/2005/161",
+  "description": "Vyhláška o stanovení charakteristik funkcí speciálně vybavených telekomunikačních koncových zařízení pro různé druhy zdravotního postižení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Charakteristiky funkcí speciálně vybavených telekomunikačních koncových zařízení, které je povinen poskytovatel univerzální služby pronajmout nebo prodat podle § 43 odst. 2 písm. a) zákona za cenu standardního telekomunikačního koncového zařízení zdravotně postiženým osobám uvedeným v § 43 odst. 4 zákona, jsou uvedeny v příloze této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. května 2005.\nPříloha k vyhlášce č. 161/2005 Sb.\nCharakteristiky funkcí speciálně vybavených telekomunikačních koncových zařízení\n(1) Speciálně vybavená telekomunikační koncová zařízení jsou telekomunikační koncová zařízení v případě nutnosti umožňující služby úplné konverzace a konverzní služby a splňující jednu nebo více z následujících charakteristik:\na) možnost zesílení a regulace zesílení přijímaného hlasového signálu a zesílení vyzváněcího signálu pro potřeby osob se sluchovým postižením,\nb) možnost převodu přijímaného hlasového signálu na mechanické vibrace nebo jiný účinný technický systém pro potřeby osob se sluchovým postižením,\nc) možnost převodu vyzváněcího signálu na světelnou signalizaci, možnost identifikace a archivace čísla příchozího volání, vybavení SMS klávesnicí a displejem pro potřeby osob se sluchovým postižením,\nd) možnost hlasité komunikace a jednoduchého ovládání pro potřeby osob s pohybovým postižením,\ne) možnost bezšňůrového připojení ke koncovému bodu veřejné pevné komunikační sítě pro potřeby osob s omezenou pohyblivostí,\nf) zvětšená klávesnice nebo klávesnice s kontrastními tlačítky pro potřeby slabozrakých osob, nebo\ng) vybavení hlasovým výstupem v českém jazyce pro potřeby prakticky či zcela nevidomých.\n(2) Za speciálně vybavené telekomunikační koncové zařízení se považuje i standardní telekomunikační koncové zařízení vybavené účelovým doplňkovým zařízením, pokud jako celek splňuje jednu nebo více charakteristik uvedených v odstavci 1.\n(3) Za speciálně vybavené telekomunikační koncové zařízení se považuje i telekomunikační koncové zařízení, které umožňuje v případě nutnosti služby úplné konverzace a konverzní služby prostřednictvím softwarové aplikace."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "speciálně vybavené telekomunikační koncové zařízení",
+      "definition": "i standardní telekomunikační koncové zařízení vybavené účelovým doplňkovým zařízením, pokud jako celek splňuje jednu nebo více charakteristik uvedených v odstavci 1",
+      "source_provision": "§ 2"
+    }
+  ]
+}

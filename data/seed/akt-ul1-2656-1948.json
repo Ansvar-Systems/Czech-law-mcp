@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:2656/1948",
+  "type": "statute",
+  "title": "2656/1948 Ú. l. I, Vyhláška nejvyššího úřadu cenového, kterou se doplňuje vyhláška nejvyššího úřadu cenového ze dne 3. července 1946 o nejvýše přípustných procentních přirážkách v obchodu s textilním zbožím.",
+  "title_en": "",
+  "short_name": "2656/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-11-10",
+  "in_force_date": "1948-11-13",
+  "url": "https://www.e-sbirka.cz/ul1/1948/2656",
+  "description": "Vyhláška nejvyššího úřadu cenového, kterou se doplňuje vyhláška nejvyššího úřadu cenového ze dne 3. července 1946 o nejvýše přípustných procentních přirážkách v obchodu s textilním zbožím.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "Vyhláška nejvyššího úřadu cenového ze dne 3. července 1946, č. 1533 Ú. l. I, o nejvýše přípustných procentních přirážkách v obchodu s textilním zbožím, ve znění vyhlášky ze dne 24. března 1947, č. 351 Ú. l. I a vyhlášky ze dne 25. dubna 1947, č. 431 Ú. l. I, se doplňuje takto:\nV § 1, odst. 5 se připojuje toto další ustanovení:\n„Hromadnou dodávkou se rozumí dodávka, jejíž hodnota, vypočtená podle odst. 1 a 2, činí nejméně\na)u zboží skupiny A přílohy vyhláškyKčs 15.000.—,\nb)u zboží skupiny B přílohy vyhláškyKčs 8.000.—,\nc)u zboží skupiny C přílohy vyhláškyKčs 10.000.—,\nd)u zboží skupiny G přílohy vyhláškyKčs 25.000.—,\ne)u zboží skupiny H přílohy vyhlášky\npři nákupní ceně do Kčs 50.—Kčs 4.000.—,\npři nákupní ceně do Kčs 100.—Kčs 8.000.—,\npři nákupní ceně nad Kčs 100.—Kčs 10.000.—,\nf)u ostatního zbožíKčs 5.000.—,\ng)u dodávek, obsahujících různé druhy zboží, které jednotlivě nedosahují částek stanovených sub a)—f)Kčs 10.000.—.“"
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Tato vyhláška nabývá účinnosti třetím dnem po vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hromadnou dodávkou",
+      "definition": "dodávka, jejíž hodnota, vypočtená podle odst",
+      "source_provision": "Čl. I."
+    }
+  ]
+}

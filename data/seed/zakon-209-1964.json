@@ -1,0 +1,36 @@
+{
+  "id": "cz:209/1964",
+  "type": "statute",
+  "title": "209/1964 Sb., Vyhláška ministerstva dopravy o zřízení Státní letecké inspekce a Správy dopravních letišť",
+  "title_en": "",
+  "short_name": "209/1964 Sb.",
+  "status": "in_force",
+  "issued_date": "1964-12-31",
+  "in_force_date": "1994-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1964/209",
+  "description": "Vyhláška ministerstva dopravy o zřízení Státní letecké inspekce a Správy dopravních letišť",
+  "provisions": [
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "chapter": "Část druhá - ŘÍZENÍ LETOVÉHO PROVOZU ČSSR",
+      "content": "Zřizuje se organizace Řízení letového provozu ČSSR se sídlem v Praze; je přímo podřízena ministerstvu dopravy."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "chapter": "Část druhá - ŘÍZENÍ LETOVÉHO PROVOZU ČSSR",
+      "content": "Řízení letového provozu ČSSR přísluší ve věcech civilního letectví zejména tyto úkoly:\na) řídí a zabezpečuje civilní letecký provoz na celém státním území (§ 30 zákona);\nb) obstarává leteckou informační službu a vydávání leteckých map."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "chapter": "Část druhá - ŘÍZENÍ LETOVÉHO PROVOZU ČSSR",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1965."
+    }
+  ],
+  "definitions": []
+}

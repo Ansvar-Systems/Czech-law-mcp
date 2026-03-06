@@ -1,0 +1,63 @@
+{
+  "id": "cz:131/2002",
+  "type": "statute",
+  "title": "131/2002 Sb., Zákon o rozhodování některých kompetenčních sporů",
+  "title_en": "",
+  "short_name": "131/2002 Sb.",
+  "status": "in_force",
+  "issued_date": "2002-04-15",
+  "in_force_date": "2003-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2002/131",
+  "description": "Zákon o rozhodování některých kompetenčních sporů",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Podle tohoto zákona se postupuje při kladných nebo záporných kompetenčních sporech o pravomoc nebo věcnou příslušnost (dále jen „pravomoc“) vydat rozhodnutí, jehož stranami jsou\na) soudy a orgány moci výkonné, územní, zájmové nebo profesní samosprávy,\nb) soudy v občanském soudním řízení a soudy ve správním soudnictví.\n(2) Kompetenčním sporem je spor, ve kterém si jedna strana osobuje pravomoc vydat rozhodnutí v totožné věci individuálně určených účastníků, o níž bylo druhou stranou vydáno pravomocné rozhodnutí. Kompetenčním sporem je též spor, ve kterém jeho strany popírají svou pravomoc vydat rozhodnutí v totožné věci individuálně určených účastníků."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Kompetenční spor projedná a rozhodne o něm zvláštní senát složený ze tří soudců Nejvyššího soudu a tří soudců Nejvyššího správního soudu. Jeho členy a stejný počet jejich náhradníků jmenují s jejich souhlasem předseda Nejvyššího soudu a předseda Nejvyššího správního soudu na dobu tří let.\n(2) Předsedu zvláštního senátu vždy na první polovinu funkčního období zvláštního senátu zvolí členové ze soudců jmenovaných předsedou Nejvyššího správního soudu a na druhou polovinu ze soudců jmenovaných předsedou Nejvyššího soudu. První jednání zvláštního senátu svolá a řídí nejstarší člen zvláštního senátu.\n(3) Za člena vyloučeného z projednávání určité věci nastupuje jeho náhradník. Zvláštní senát rozhoduje většinou hlasů všech členů.\n(4) Zvláštní senát jedná a rozhoduje v sídle Nejvyššího správního soudu. Státní správu zvláštního senátu vykonává předseda Nejvyššího správního soudu.\n(5) Působení ve zvláštním senátu a jeho činnost je výkonem soudnictví."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Řízení je zahájeno dnem, kdy návrh na zahájení řízení o kompetenčním sporu došel zvláštnímu senátu.\n(2) Návrh na zahájení řízení o kompetenčním sporu je oprávněna podat některá z jeho stran nebo účastník řízení ve věci, v níž se otázka pravomoci vydat rozhodnutí stala spornou.\n(3) Účastníky řízení vedle stran kompetenčního sporu jsou i účastníci řízení, v němž se otázka pravomoci stala spornou."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Na řízení před zvláštním senátem se přiměřeně užijí ustanovení části třetí hlavy první soudního řádu správního."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "(1) Zvláštní senát rozhodne usnesením o tom, kdo je příslušný vydat rozhodnutí ve věci uvedené v návrhu na zahájení řízení.\n(2) Jestliže ten, kdo je stranou v kompetenčním sporu, vydal rozhodnutí ve věci uvedené v návrhu na zahájení řízení a podle rozhodnutí zvláštního senátu není vydání takového rozhodnutí v jeho pravomoci, zvláštní senát současně vysloví nicotnost takového rozhodnutí.\n(3) Jestliže ten, kdo je stranou v kompetenčním sporu, vydal rozhodnutí, kterým svou pravomoc o věci rozhodovat popřel, a podle rozhodnutí zvláštního senátu je vydání rozhodnutí ve věci uvedené v návrhu na zahájení řízení v jeho pravomoci, zvláštní senát takové rozhodnutí současně zruší.\n(4) Proti rozhodnutí zvláštního senátu nejsou opravné prostředky přípustné.\n(5) Pravomocné rozhodnutí zvláštního senátu je závazné pro strany kompetenčního sporu, účastníky řízení, v němž tento spor vznikl, jakož i pro všechny orgány moci výkonné, orgány územního samosprávného celku, jakož i fyzické nebo právnické osoby nebo jiné orgány, pokud jim bylo svěřeno rozhodování o právech a povinnostech fyzických a právnických osob v oblasti veřejné správy, a soudy."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6",
+      "content": "Řízení o kompetenčních sporech, o nichž rozhodovaly soudy podle občanského soudního řádu, v nichž nebylo do dne účinnosti tohoto zákona rozhodnuto, převezme a řízení dokončí podle tohoto zákona zvláštní senát."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7",
+      "content": "Zrušují se:\n1. Zákon č. 3/1918 Sb. z. a n., o nejvyšším správním soudě a o řešení kompetenčních konfliktů.\n2. Nařízení vlády č. 635/1920 Sb. z. a n., o organisaci zvláštního senátu zřízeného pro řešení kompetenčních konfliktů."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8",
+      "content": "Tento zákon nabývá účinnosti dnem 1. ledna 2003."
+    }
+  ],
+  "definitions": []
+}

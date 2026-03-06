@@ -1,0 +1,45 @@
+{
+  "id": "cz:ul0:186/1945",
+  "type": "statute",
+  "title": "186/1945 Ú. l., Vyhláška ministra průmyslu o soustředění rozdělování starého železa.",
+  "title_en": "",
+  "short_name": "186/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-08-29",
+  "in_force_date": "1945-08-29",
+  "url": "https://www.e-sbirka.cz/ul0/1945/186",
+  "description": "Vyhláška ministra průmyslu o soustředění rozdělování starého železa.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Sdružení pro staré železo, spol. s r. o. v Praze II., Havlíčkovo nám. č. 2, jest výhradně oprávněno rozdělovati staré železo tuzemského původu nebo dovezené z celní ciziny.\n(2) Toto sdružení jest povinno prováděti rozdělování starého železa podle pokynů ministerstva průmyslu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Starým železem rozumí se šrot, zlomková litina, šrot pro kupolní pece, legovaný šrot, legovaná zlomková litina, užité železo a odpadky určené k odcínování."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Dosavadní pověření sdružení pro zlomkovou litinu v Praze II., Havlíčkovo nám. č. 2, rozdělováním zlomkové litiny případně šrotu pro kupolní pece podle ustanovení §§ 16 a 17 vyhlášky č. 422 (Fe-D 10) bývalého ministra hospodářství a práce a předsedy nejvyššího úřadu cenového ze dne 1. července 1943 (Úř. l. č. 152/ 1943), o hospodaření šrotem a cenách šrotu a užitého železa, se ruší."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Starým železem",
+      "definition": "se šrot, zlomková litina, šrot pro kupolní pece, legovaný šrot, legovaná zlomková litina, užité železo a odpadky určené k odcínování",
+      "source_provision": "§ 2."
+    }
+  ]
+}

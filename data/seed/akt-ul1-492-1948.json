@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:492/1948",
+  "type": "statute",
+  "title": "492/1948 Ú. l. I, Vyhláška ministra sociální péče o zvláštní podpoře a jízdném osobám, které se dobrovolně nabídnou k výpomoci v zemědělství a lesnictví.",
+  "title_en": "",
+  "short_name": "492/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-03-26",
+  "in_force_date": "1948-03-26",
+  "url": "https://www.e-sbirka.cz/ul1/1948/492",
+  "description": "Vyhláška ministra sociální péče o zvláštní podpoře a jízdném osobám, které se dobrovolně nabídnou k výpomoci v zemědělství a lesnictví.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I.",
+      "section": "I",
+      "title": "Čl. I.",
+      "content": "(1) Osobám, které se dobrovolně nabídnou k výpomoci při nutných zemědělských nebo lesních pracích a jimž pracovní místo určí okresní úřad ochrany práce (pobočka), může býti poskytnuta k vyrovnání rozdílu v pracovním výdělku zvláštní podpora podle § 13 vl. nař. č. 250/1943 Sb.\n(2) Okresní úřady ochrany práce mohou pro výpočet zvláštní podpory hodnotiti výdělek docílený v zemědělství paušálními sazbami."
+    },
+    {
+      "provision_ref": "Čl. II.",
+      "section": "II",
+      "title": "Čl. II.",
+      "content": "Osobám uvedeným v čl. I, odst. 1 může okresní úřad ochrany práce (pobočka) poskytnouti jízdné podle § 9 vl. nař. č. 250/1943 Sb. za cestu do přechodného pracovního místa a zpět, jestliže vzdálenost mezi tímto místem a bydlištěm (místem pobytu) přesahuje 6 km."
+    },
+    {
+      "provision_ref": "Čl. III.",
+      "section": "III",
+      "title": "Čl. III.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení; platí jen v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

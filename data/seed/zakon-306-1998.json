@@ -1,0 +1,39 @@
+{
+  "id": "cz:306/1998",
+  "type": "statute",
+  "title": "306/1998 Sb., Vyhláška Ministerstva životního prostředí, kterou se stanoví postup hodnocení rizika nebezpečných chemických látek pro životní prostředí",
+  "title_en": "",
+  "short_name": "306/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-12-31",
+  "in_force_date": "1999-01-01",
+  "url": "https://www.e-sbirka.cz/sb/1998/306",
+  "description": "Vyhláška Ministerstva životního prostředí, kterou se stanoví postup hodnocení rizika nebezpečných chemických látek pro životní prostředí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Účelem vyhlášky je stanovit postup hodnocení ekologického rizika látek, které svým charakterem představují závažné riziko pro životní prostředí;1) seznam těchto látek stanoví zvláštní předpis.2)"
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Pro účely této vyhlášky je\na) nebezpečnost látky a přípravku ve smyslu § 2 odst. 8 písm. o) zákona určována fyzikálními, chemickými a biologickými vlastnostmi látky, které jsou s existencí látky neoddělitelně spojeny,\nb) riziko určeno pravděpodobností, že za definovaných podmínek expozice může dojít k projevu nepříznivého účinku,\nc) expozicí kontakt látky s vnějšími hranicemi subjektu uvedeného v bodě 1 přílohy č. 1,\nd) dávkou množství látky přijaté subjektem uvedeným v bodě 1 přílohy č. 1,\ne) odpovědí rozsah poškození subjektu uvedeného v bodě 1 přílohy č. 1,\nf) hodnocením ekologického rizika postup, který využívá syntézu všech dostupných údajů podle současného vědeckého poznání pro určení druhu a stupně nebezpečnosti představovaného určitou látkou, dále určení, v jakém rozsahu byly, jsou nebo v budoucnu mohou být vystaveny působení této látky jednotlivé složky životního prostředí, a konečně zahrnuje charakterizaci rizik vyplývajících z uvedených zjištění."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "(1) Hodnocení ekologického rizika se provádí ve 4 postupných krocích:\na) určení nebezpečnosti,\nb) hodnocení vztahů mezi dávkou a odpovědí,\nc) hodnocení expozice,\nd) charakterizace rizika.\n(2) Hodnocení ekologického rizika se zabezpečuje postupem podle přílohy č. 1 a na základě údajů uvedených v příloze č. 2, poskytovaných výrobcem nebo dovozcem látky nebo přípravku. Metody zjišťování těchto údajů stanoví zvláštní předpis.3)\n(3) Výsledkem hodnocení ekologického rizika podle přílohy č. 1 je zjištění, zda jde o ekologické riziko a jaká je míra tohoto rizika.\n(4) Výsledky hodnocení rizika jsou podkladem pro změnu seznamu látek a přípravků vydaného podle § 15 odst. 3 zákona."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. ledna 1999.\nPříloha č. 1 k vyhlášce č. 306/1998 Sb.\nPOSTUP PRO HODNOCENÍ EKOLOGICKÉHO RIZIKA\n1. Nebezpečnost se určuje na jednom z těchto subjektů:\na) populace živočišného nebo rostlinného druhu,\nb) společenství druhů a jejich interakci v jednotlivých složkách životního prostředí,\nc) modelový ekosystém sestávající z několika společenství podle písmene b),\nd) modelový region s více ekosystémy podle písmene c).\n2. Hodnocení vztahu dávka - odpověď vychází z předpokladu prahového účinku. Cílem analýzy je nalezení koncentrace, při které není pozorován nežádoucí účinek, (dále jen „NOEC“), případně účinné koncentrace, při které se projeví účinek u x % sledované populace, (dále jen „ECX“). Obě hodnoty jsou v případě, že nejistoty spojené s jejich odhadem jsou kvantifikovatelné, vynásobeny faktory nejistoty (dále jen „UF“). Tyto hodnoty jsou kvantitativními parametry pro charakterizaci ekologického rizika.\nPrvním krokem hodnocení expozice je odhad pravděpodobné lokální koncentrace látky (dále jen „PECL“) v jednotlivých složkách životního prostředí podle následujícího schematu:\nSYSTÉMMÉDIUM\nVodní (aquatický)povrchová voda\nsediment\nSuchozemský (terrestrický)půda\npodzemní voda\nOvzdušívzduch\n3. K odhadu hodnot PECL se ve složkách používají údaje získané\na) z emisních inventur,\nb) z výsledků monitoringu (ovzduší, vod, půd, potravních řetězců),\nc) z modelových výpočtů.\nZ hodnot PECL jsou odhadovány regionální koncentrace látky (dále jen „PECR“) vystihující distribuci a osud látky po vstupu do prostředí. Vychází se z předpokladu ustálených koncentrací látky v jednotlivých složkách a z bilance přestupu hmoty mezi nimi. Hodnoty PECL a PECR jsou, v případě, že nejistoty spojené s jejich odhadem jsou kvantifikovatelné, vynásobeny hodnotami UF.\n4. Charakterizace ekologického rizika se skládá z kvantitativních parametrů a kvalitativní diskuse nepřesností a nejistot spojených s jejich stanovením nebo odhadem. Základem kvantitativní charakterizace jsou následující poměry hodnot popsaných v bodech 2 a 3.\nZa předpokladu, že faktory nejistoty jsou řádově shodné, rozlišují se tyto situace:\na) poměry PECL/NOEC a PECR/NOEC nebo poměry PECL/ECX a PECR/ECX jsou rovné nebo menší než 1; tato situace opravňuje k závěru, že další informace o látce, její další zkoušky a případná opatření na snížení rizika nejsou potřebná,\nb) poměry PECL/NOEC a PECR/NOEC nebo poměry PECL/ECX a PECR/ECX jsou větší než 1; tato situace opravňuje k závěru, že další informace o látce, její další zkoušky a případná opatření na snížení rizika jsou potřebná.\n5. Kvantitativní část charakterizace rizika uvedenou v bodě 4 doplňuje popis nepřesností a nejistot v krocích uvedených v bodech 1 až 3.\n6. V případě, že faktory nejistoty jsou řádově odlišné, je nutno provést opakování kroků uvedených v bodech 2 a 3.\nPříloha č. 2 k vyhlášce č. 306/1998 Sb.\nÚDAJE POŽADOVANÉ K HODNOCENÍ EKOLOGICKÉHO RIZIKA\n1. OBECNÉ INFORMACE\n1.1 Název sloučeniny odpovídající názvosloví IUPAC\n1.2 Číslo EINECS\n1.3 Číslo CAS\n1.4 Synonyma\n1.5 Čistota\n1.6 Nečistoty\n1.7 Sumární vzorec\n1.8 Strukturní vzorec\n1.9 Příslušnost ke skupině látek\n1.10 Skupenství\n1.11 Identifikace autora dat\n1.12 Množství látky (vyrobené nebo dovezené), je-li větší než 1 000 t ročně\n1.13 Informace, byla-li látka vyrobena nebo dovezena během posledních 12 měsíců\n1.14 Klasifikace a označení\n1.15 Způsoby použití\n1.16 Byla úplná data již předložena jiným výrobcem (dovozcem)?\n1.17 Jiné údaje (např. možnosti likvidace)\n2. FYZIKÁLNĚ-CHEMICKÉ VLASTNOSTI\n2.1 Bod tání\n2.2 Bod varu\n2.3 Hustota\n2.4 Tlak nasycených par\n2.5 Rozdělovací koeficient n-oktanol/voda (log POW)\n2.6 Rozpustnost ve vodě\n2.7 Bod vzplanutí\n2.8 Hořlavost\n2.9 Výbušnost\n2.10 Oxidační vlastnosti\n2.11 Další údaje\n3. OSUD A TRANSPORT LÁTKY V ŽIVOTNÍM PROSTŘEDÍ\n3.1 Stabilita\n3.1.1 Fotodegradace\n3.1.2 Stabilita ve vodě\n3.1.3 Stabilita v půdě\n3.2 Data monitoringu životního prostředí\n3.3 Distribuce v exponovaných složkách životního prostředí (včetně odhadnutých koncentrací ve složkách životního prostředí a transportních cestách)\n3.4 Biodegradace\n3.5 Bioakumulace\n3.6 Jiné údaje\n4. EKOTOXICITA\n4.1 Toxicita pro ryby\n4.2 Toxicita pro dafnie a ostatní vodní bezobratlé\n4.3 Toxicita pro řasy\n4.4 Toxicita pro bakterie\n4.5 Toxicita pro suchozemské organismy\n4.6 Toxicita pro půdní organismy\n1) § 2 odst. 8 písm. o) zákona č. 157/1998 Sb., o chemických látkách a chemických přípravcích a o změně některých dalších zákonů.\n2) § 9 odst. 1 zákona č. 157/1998 Sb.\n3) Vyhláška č. 299/1998 Sb., kterou se stanoví metody pro zjišťování fyzikálně-chemických a chemických vlastností chemických látek a chemických přípravků a vlastností chemických látek a chemických přípravků nebezpečných pro životní prostředí."
+    }
+  ],
+  "definitions": []
+}

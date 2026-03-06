@@ -1,0 +1,39 @@
+{
+  "id": "cz:471/1990",
+  "type": "statute",
+  "title": "471/1990 Sb., Zákon Slovenskej národnej rady o volebnom období orgánov samosprávy obcí",
+  "title_en": "",
+  "short_name": "471/1990 Sb.",
+  "status": "in_force",
+  "issued_date": "1990-11-14",
+  "in_force_date": "1990-11-24",
+  "url": "https://www.e-sbirka.cz/sb/1990/471",
+  "description": "Zákon Slovenskej národnej rady o volebnom období orgánov samosprávy obcí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Volebné obdobie obecných zastupiteľstiev je štvorročné."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Volebné obdobie starostov obcí je štvorročné.\n(2) Starosta obce môže byť zvolený najviac v dvoch za sebou idúcich volebných obdobiach."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Voľby orgánov samosprávy obcí sa konajú v posledných 14-tich dňoch ich volebného obdobia."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Tento zákon nadobúda účinnosť dňom vyhlásenia volieb do orgánov samosprávy obcí."
+    }
+  ],
+  "definitions": []
+}

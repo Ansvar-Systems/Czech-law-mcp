@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:173/1952",
+  "type": "statute",
+  "title": "173/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 44 1356 a 44 1357.",
+  "title_en": "",
+  "short_name": "173/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-07-08",
+  "in_force_date": "1952-07-23",
+  "url": "https://www.e-sbirka.cz/ul0/1952/173",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy ČSN 44 1356 a 44 1357.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Normy ČSN 441356 „Stanovení dusíku (N)“ a ČSN 44 1357 „Stanovení kysličníku uhličitého (CO2)“ jsou od 1 července 1952 technickými státními normami."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Normy platí pro veškerá tuhá paliva a jednají zejména o zkouškách, o zkušebních zařízeních a chemikáliích, o postupu zkoušek při stanovení dusíku a kysličníku uhličitého, o výpočtech, o dovolených odchylkách a pod."
+    }
+  ],
+  "definitions": []
+}

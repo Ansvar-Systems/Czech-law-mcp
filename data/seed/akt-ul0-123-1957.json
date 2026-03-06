@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:123/1957",
+  "type": "statute",
+  "title": "123/1957 Ú. l., Vyhláška ministerstva dopravy o úlevách v evidenci malých plavidel.",
+  "title_en": "",
+  "short_name": "123/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-07-05",
+  "in_force_date": "1957-07-05",
+  "url": "https://www.e-sbirka.cz/ul0/1957/123",
+  "description": "Vyhláška ministerstva dopravy o úlevách v evidenci malých plavidel.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Evidenční povinnosti podle § 27 nařízení podléhají z malých plavidel bez vlastního strojního pohonu jen ta malá plavidla (§ 2 odst. 8 nařízení), která plují, byť i přechodně (na př. při závodech, vodní turistice a pod.), na těchto vodách:\na) Vltava od Českých Budějovic — Rožnova až k soutoku s Labem,\nb) Labe od Veletova (ř. km 93.9) až po státní hranici,\nc) Dunaj od ústí řeky Moravy (ř. km 1880.2) až k ústí řeky Ipľu (ř. km 1708.2),\nd) Váh od Žiliny až k soutoku s Dunajem,\ne) hraniční úseky jiných vod než jsou uvedeny pod písmenem a) až d),\ni) všechny přehradní nádrže,\ng) Máchovo jezero,\nh) jezera v Senci.\nLoďky bez vlastního strojního pohonu do délky 3 m nepodléhají však evidenční povinnosti ani na těchto vodách.\n(2) Loďky půjčoven loděk a všechny lodi a loďky, š vlastním strojním pohonem podléhají evidenční povinnosti na všech vnitrozemních vodách."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Z cizozemských plavidel podléhají evideční povinnosti podle § 1 ta plavidla, která mají v tuzemsku stálé stanoviště."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 5. července 1957."
+    }
+  ],
+  "definitions": []
+}

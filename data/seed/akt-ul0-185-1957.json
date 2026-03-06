@@ -1,0 +1,75 @@
+{
+  "id": "cz:ul0:185/1957",
+  "type": "statute",
+  "title": "185/1957 Ú. l., Vyhláška ministerstva energetiky, kterou se upravují sazby za odběr jalové elektřiny.",
+  "title_en": "",
+  "short_name": "185/1957 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1957-10-03",
+  "in_force_date": "1957-10-01",
+  "url": "https://www.e-sbirka.cz/ul0/1957/185",
+  "description": "Vyhláška ministerstva energetiky, kterou se upravují sazby za odběr jalové elektřiny.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Při dodávce elektřiny ve velkém pro hospodářské organisace měří se kromě činné (wattové) elektřiny zpravidla též jalová elektřina, která se neúčtuje ani nepřipisuje k dobru, dodává-li se elektřina při neutrální hodnotě účiníku (cos φ) 0,85, t. j. činí-li počet jalových kilovoltampérhodin (kVArh) 62 % činných (wattových) kilowatthodin (kWh).\n(2) Při zhoršení účiníku, t. j. překročí-li počet kVArh 62 % činných kWh, účtuje se z částky vyfakturované za elektřinu (t. j. za dodávku kWh za denní sazbu, jakož i za plat za příkon, nikoli však za ostatní položky, na př. za dodávku kWh za noční sazbu, za nájemné z měřicí soupravy) v příslušném fakturačním období úplata (penále) formou přirážky, jejíž výše v procentech je uvedena v příloze č. 1 této vyhlášky.\n(3) Při zlepšení účiníku, t. j. nedosáhne-li počet kVArh 62 % činných kWh, poskytuje se na částku vyfakturovanou za elektřinu sleva, jejíž výše v procentech je uvedena v příloze č. 1 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Při dodávce elektřiny ve velkém pro hospodářské organisace ministerstev hutního průmyslu a rudných dolů a chemického průmyslu měří se kromě činné (wattové) elektřiny zpravidla též jalová elektřina, která se neúčtuje ani nepřipisuje k dobru, dodává-li se elektřina při neutrální hodnotě účiníku (cos φ) 0,83, t. j. činí-li počet kVArh 67 % činných (wattových) kWh.\n(2) Při zhoršení účiníku, t. j. překročí-li počet kVArh 67 % činných kWh, účtuje se z částky vyfakturované za elektřinu (t. j. za dodávku kWh za denní sazbu, jakož i za plat za příkon, nikoli však za ostatní položky, na př. za dodávku kWh za noční sazbu, za nájemné z měřicí soupravy) v příslušném fakturačním období úplata (penále) formou přirážky, jejíž výše v procentech je uvedena v příloze č. 2 této vyhlášky.\n(3) Při zlepšení účiníku, t. j. nedosáhne-li počet kVArh 67 % činných kWh, poskytuje se na částku vyfakturovanou za elektřinu sleva, jejíž výše v procentech je uvedena v příloze č. 2 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "(1) Přirážka nebo sleva za účiník podle § 1 odst. 2 a 3 a § 2 odst. 2 a 3 se účtuje nebo připisuje k dobru pouze tehdy, měří-li se dodávka jalové elektřiny trvale elektroměrem, a to u dvojsazbového jalového elektroměru nebo u jednosazbového jalového elektroměru s vypínáním (na př. s vypínáním napěťové cívky v nočních hodinách) pouze v době denní od 6 do 22 hodin, nikoli však v době noční od 22 do 6 hodin.\n(2) Výpočet hodnoty váženého průměru účiníku se provádí pomocí jalových elektroměrů s brzdami proti zpětnému chodu, jejichž údaje se zjišťují současně s údaji elektroměrů činných (wattových).\n(3) Počet kVArh, odebraných odběratelem na primární straně transformátorů v příslušném fakturačním období, se dělí počtem činných kWh, odebraných v témže období. Tento podíl, který udává hodnotu tg φ, se vypočte na tři desetinná místa. Podle přílohy č. 1 nebo č. 2 této vyhlášky se zjistí k hodnotě tg φ příslušná hodnota účiníku (cos φ) a stanoví přirážka nebo sleva za zhoršený nebo zlepšený účiník oproti stanovené neutrální hodnotě. U dvojsazbových elektroměrů se použije pro výpočet účiníku hodnot naměřených u činného i jalového elektroměru pouze v době denní od 6 do 22 hodin."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "(1) Kompensační zařízení u odběratele (statické kondensátory, synchronní kompensátory a j.) lze instalovat pouze se souhlasem a podle pokynů energetických rozvodných podniků, podřízených ministerstvu energetiky (dále jen „dodavatel”). Nedá-li dodavatel souhlas k instalaci kompensačního zařízení u odběratele, jehož účiník nedosahuje stanovené neutrální hodnoty, neúčtuje se odběrateli přirážka za odběr jalové elektřiny.\n(2) Dodavatel je oprávněn se souhlasem ministerstva energetiky určit jednotlivým odběratelům, kteří jsou připojeni přímo z přípojnic elektrárny nebo všeobecně pro elektrickou trakci ČSD, sníženou neutrální hodnotu účiníku do konce roku 1958, jsou-li využity možnosti ke zlepšení účiníku za účelem úsporného hospodaření elektřinou a jestliže namontování zvláštních kompensačních zařízení se nepovoluje z důvodu nadbytku jalového výkonu. Pro tuto sníženou hodnotu nebo pro vyšší hodnotu účiníku, než byla stanovena dodavatelem, se neúčtuje odběratelům přirážka, ani nepřipisuje k dobru, sleva k sazbě za elektřinu. Nedosáhne-li skutečný účiník u odběratele této zvlášť stanovené hodnoty, účtuje se odběratelům přirážka podle přílohy č. 1 nebo č. 2 této vyhlášky."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Ke zpětné (kapacitní) dodávce jalové elektřiny do sítí dodavatele se zásadně nepřihlíží ani pro výpočet účiníku ani pro výpočet přirážky nebo slevy.\n(2) Zpětnou dodávku jalové elektřiny do sítí dodavatele lze uskutečnit pouze se souhlasem dodavatele.\n(3) Pro zpětnou dodávku jalové elektřiny do sítí dodavatele musí být namontovány dva jalové elektroměry s brzdami proti zpětnému chodu pro oddělené měření jalové elektřiny, odebrané ze sítí a dodané do sítí dodavatele."
+    },
+    {
+      "provision_ref": "§ 6.",
+      "section": "6",
+      "title": "§ 6.",
+      "content": "Přirážka za zhoršený nebo sleva za zlepšený účiník oproti stanovené jeho neutrální hodnotě se fakturuje v jedné faktuře s elektřinou, při čemž jalová elektřina bude vykázána v samostatné, výrazně označené položce „zvýšená (snížená) progresivní sazba za odběr jalové elektřiny nad (pod) stanovenou normu”."
+    },
+    {
+      "provision_ref": "§ 7.",
+      "section": "7",
+      "title": "§ 7.",
+      "content": "U dodávek elektřiny ve velkém pro rozpočtové organisace a u zahraničních dodávek elektřiny se přirážka za zhoršený nebo sleva za zlepšený účiník oproti stanovené jeho neutrální hodnotě neúčtuje ani nepřipisuje k dobru."
+    },
+    {
+      "provision_ref": "§ 8.",
+      "section": "8",
+      "title": "§ 8.",
+      "content": "(1) Přirážka nebo sleva za jalovou elektřinu podle § 1 a přílohy č. 1 této vyhlášky se po prvé účtuje nebo připisuje k dobru od stavů zjištěných na činném a jalovém elektroměru při odečtu provedeném začátkem fakturačního období\na) pro měsíc leden 1959 pro hospodářské organisace ministerstev hutního průmyslu a rudných dolů a chemického průmyslu,\nb) pro měsíc leden 1958 pro hospodářské organisace ministerstev paliv, těžkého strojírenství, spotřebního průmyslu a dopravy a Ústředního svazu výrobních družstev,\nc) pro měsíc říjen 1957 pro hospodářské organisace ostatních ústředních úřadů a orgánů.\n(2) Přirážka nebo sleva za jalovou elektřinu podle § 2 a přílohy č. 2 této vyhlášky se pro hospodářské organisace ministerstev hutního průmyslu a rudných dolů a chemického průmyslu po prvé účtuje nebo připisuje k dobru od stavů zjištěných na činném a jalovém elektroměru při odečtu provedeném začátkem fakturačního období pro měsíc leden 1958."
+    },
+    {
+      "provision_ref": "§ 9.",
+      "section": "9",
+      "title": "§ 9.",
+      "content": "Vyhláška ministerstva energetiky č. 88/1956 Ú. l., kterou se upravují sazby za odběr jalové elektřiny, se zrušuje dnem 1. října 1957; hospodářské organisace ministerstev paliv, hutního průmyslu a rudných dolů, chemického průmyslu, těžkého strojírenství, spotřebního průmyslu a dopravy a Ústředního svazu výrobních družstev postupují však podle jejích ustanovení až do dne 31. prosince 1957."
+    },
+    {
+      "provision_ref": "§ 10.",
+      "section": "10",
+      "title": "§ 10.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. října 1957; hospodářské organisace ministerstev paliv, těžkého strojírenství, spotřebního průmyslu a dopravy a Ústředního svazu výrobních družstev postupují však podle jejích ustanovení až od 1. ledna 1958, hospodářské organisace ministerstev hutního průmyslu a rudných dolů a chemického průmyslu postupují podle jejích ustanovení při neutrální hodnotě účiníku 0,85 (§ 1 a příloha č. 1 této vyhlášky) až od 1. ledna 1959 a při neutrální hodnotě účiníku 0,83 (§ 2 a příloha č. 2 této vyhlášky) od 1. ledna 1958.\nPříloha č. 1 k vyhlášce č. 185/1957 Ú. l.\nTabulka\npřirážek a slev za účiník (cos φ) v procentech platby za elektřinu při neutrální hodnotě účiníku 0,85.\núčiník\ncos φrozsah tg φ\nkVArhkWhpřirážka\nv %sleva\nv %účiník\ncos φrozsah tg φ\nkVArhkWhpřirážka\nv %\n1,000,000 — 0,100200,701,008 — 1,03425\n0,990,101 — 0,175200,691,035 — 1,06328\n0,980,176 — 0,228200,681,064 — 1,09231\n0,970.229 — 0,271200,671,093 — 1,12334\n0,960,272 — 0,310180,661,124 — 1,15337\n0,950,311 — 0,346160,651,154 — 1,18540\n0,940,347 — 0,379140,641,186 — 1,21643\n0,930,380 — 0,410120,631,217 — 1,24946\n0,920,411 — 0,440100,621,250 — 1,28149\n0.910,441 — 0,4708,50,611,282 — 1,31652\n0,900,471 — 0,49870,601,317 — 1,35055\n0,890,499 — 0,5265,50,591,351 — 1,38658\n0,880,527 — 0,55340,581,387 — 1,42361\n0,870,554 — 0,5802,50,571,424 — 1,46064\n0,860,581 — 0,60610,561,461 — 1,49467\n0,850,607 — 0,632ØØ0,551,495 — 1,53270\n0,840,633 — 0,65910,541,533 — 1,57973\n0,830,660 — 0,6852,50,531,580 — 1,62076\n0,820,686 — 0,71040,521,621 — 1,66379\n0,810,711 — 0,7375,50,511,664 — 1,70982\n0,800,738 — 0,76370,501,710 — 1,75585\n0,790,764 — 0,7898,50,491,756 — 1,80388\n0,780,790 — 0,815100,481,804 — 1,85291\n0,770,816 — 0,84111,50,471,853 — 1,90494\n0,760,842 — 0,868130,461,905 — 1,95797\n0,750,869 — 0,89514,50,451,958 — 2,012100\n0,740,896 — 0,922160,442,013 — 2,069103\n0,730,923 — 0,94917,50,432,070 — 2,129106\n0,720,950 — 0,977190,422,130 — 2,192109\n0,710,978 — 1,007220,412,193 — 2,257112\n0,40\na nižší2,258 — a výše115\nPříloha č. 2 k vyhlášce č. 185/1957 Ú. l.\nTabulka\npřirážek a slev za účiník (cos φ) v procentech platby za elektřinu při neutrální hodnotě účiníku 0,83.\núčiník\ncos φrozsah tg φ\nkVArhkWhpřirážka\nv %sleva\nv %účiník\ncos φrozsah tg φ\nkVArhkWhpřirážka\nv %\n1,000,000 — 0,100200,701,008 — 1,03419\n0,990,101 — 0,175200,691,035 — 1,06322\n0,980,176 — 0,228200,681,064 — 1,09225\n0,970,229 — 0,271200,671,093 — 1,12328\n0,960,272 — 0,310180,661,124 — 1,15331\n0,950,311 — 0,346160,651,154 — 1,18534\n0,940,347 — 0,379140,641,186 — 1,21637\n0,930,380 — 0,410120,631,217 — 1,24940\n0,920,411 — 0,440100,621,250 — 1,28143\n0,910,441 — 0,4708,50,611,282 — 1,31646\n0,900,471 — 0,49870,601,317 — 1,35049\n0,890,499 — 0,52660,591,351 — 1,38652\n0,880,527 — 0,55350,581,387 — 1,42355\n0,870,554 — 0,58040,571,424 — 1,46058\n0,860,581 — 0,60630,561,461 — 1,49461\n0,850,607 — 0,63220,551,495 — 1,53264\n0,840,633 — 0,65910,541,533 — 1,57967\n0,830,660 — 0,685ØØ0,531,580 — 1,62070\n0,820,686 — 0,71010,521,621 — 1,66373\n0,810,711 — 0,7372,50,511,664 — 1,70976\n0,800,738 — 0,76340,501,710 — 1,75579\n0,790,764 — 0,7895,50,491,756 — 1,80382\n0,780,790 — 0,81570,481,804 — 1,85285\n0,770,816 — 0,8418,50,471,853 — 1,90488\n0,760,842 — 0,868100,461,905 — 1,95791\n0,750,869 — 0,89511,50,451,958 — 2,01294\n0,740,896 — 0,922130,442,013 — 2,06997\n0,730,923 — 0,94914,50,432,070 — 2,129100\n0,720,950 — 0,977160,422,130 — 2,192103\n0,710,978 — 1,00717,50,412,193 — 2,257106\n0,40\na nižší2,258 — a výše109"
+    }
+  ],
+  "definitions": []
+}

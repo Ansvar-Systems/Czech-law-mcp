@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:601/1950",
+  "type": "statute",
+  "title": "601/1950 Ú. l. I, Vyhláška státního úřadu plánovacího o podmínkách, za nichž lze upustit od směrného územního plánu a pořizovat přímo podrobný územní plán, po případě zastavovací plán.",
+  "title_en": "",
+  "short_name": "601/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-10-17",
+  "in_force_date": "1950-10-17",
+  "url": "https://www.e-sbirka.cz/ul1/1950/601",
+  "description": "Vyhláška státního úřadu plánovacího o podmínkách, za nichž lze upustit od směrného územního plánu a pořizovat přímo podrobný územní plán, po případě zastavovací plán.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Směrný územní plán obce (dále jen „směrný plán“) se zpravidla nepořizuje pro území obcí, které nemají více než 5000 obyvatel. Pro taková území se pořídí přímo podrobný územní plán obce (dále jen „podrobný plán“), který imisí v takovém případě obsahovat též vše, co má jinak obsahovat směrný plán. Rozvržení zastavitelných ploch se vyjadřuje schematickým znázorněním způsobu zastavění.\n(2) Krajský národní výbor může po uvážení významu a povahy obce, zejména se zřetelem na plánovaný rozvoj území obce a povahu jeho vztahů k hospodářským, společenským a kulturním poměrům v okresu a kraji stanovit, že\na) i v obci, která nemá více než 5000 obyvatel, se má pořídit nejprve směrný plán, nebo\nb) i v obci, která má více než 5000 obyvatel, se upustí od pořízení směrného plánu.\n(3) Pro obce, které jsou sídly krajských a okresních národních výborů, se směrný plán pořizuje vždy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Zastavovací plán se pořídí, jakmile byl v obci určen stavební obvod, i když dosud nebyl pořízen směrný ani podrobný plán (§ 14 odst. 1 vládního nařízení č. 51/1950 Sb., o územním plánování obcí)."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení."
+    }
+  ],
+  "definitions": []
+}

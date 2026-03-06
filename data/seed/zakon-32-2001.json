@@ -1,0 +1,85 @@
+{
+  "id": "cz:32/2001",
+  "type": "statute",
+  "title": "32/2001 Sb., Vyhláška Ministerstva dopravy a spojů o evidenci dopravních nehod",
+  "title_en": "",
+  "short_name": "32/2001 Sb.",
+  "status": "in_force",
+  "issued_date": "2001-01-31",
+  "in_force_date": "2023-07-01",
+  "url": "https://www.e-sbirka.cz/sb/2001/32",
+  "description": "Vyhláška Ministerstva dopravy a spojů o evidenci dopravních nehod",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Tato vyhláška zapracovává příslušné předpisy Evropské unie2) a upravuje způsob vedení záznamů v evidenci dopravních nehod a podrobnosti o údajích vedených v evidenci dopravních nehod."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Pojmy",
+      "content": "Pro účely vedení záznamů v evidenci dopravních nehod se považuje\na) za účastníka dopravní nehody každý, kdo se v čase a místě dopravní nehody přímým způsobem účastnil dopravní nehody,\nb) za usmrcenou osobu osoba, která zemřela při dopravní nehodě nebo na následky způsobené dopravní nehodou, nejpozději však do 30 dnů po dopravní nehodě,\nc) za těžké zranění těžká újma na zdraví podle zvláštního zákona1); pro účely poskytování dat podle předpisu Evropské unie3) se za těžké zranění považuje těžká újma na zdraví podle stupnice MAIS3+,\nd) za lehké zranění jiné než těžké zranění, a to i tehdy, nedojde-li k pracovní neschopnosti,\ne) za škodu újma vzniklá na vozidle nebo na jiném majetku při dopravní nehodě nebo v souvislosti s ní, jejíž výši stanoví odhadem příslušník Policie České republiky, který dopravní nehodu objasňuje.\nEvidence dopravních nehod"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Evidence dopravních nehod obsahuje údaje o dopravních nehodách nahlášených Policii České republiky, s výjimkou těch, které nejsou účastníci dopravní nehody povinni Policii České republiky oznamovat4)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Evidence údajů o účastníkovi dopravní nehody",
+      "content": "(1) O účastníku dopravní nehody se v evidenci dopravních nehod vždy eviduje\na) jeho věk, pohlaví a státní příslušnost,\nb) stav a chování účastníka v době dopravní nehody, včetně případného ovlivnění alkoholem nebo jinou návykovou látkou,\nc) umístění účastníka ve vozidle v době dopravní nehody,\nd) užití bezpečnostních pomůcek a zádržného systému,\ne) následky dopravní nehody na životě a zdraví účastníka,\nf) poskytnutí první pomoci,\ng) způsob vyproštění z vozidla po dopravní nehodě.\n(2) O řidiči, který se účastnil dopravní nehody, se v evidenci dopravních nehod evidují kromě údajů uvedených v odstavci 1 ještě tyto údaje:\na) řidičská oprávnění zapsaná v jeho řidičském průkazu,\nb) datum prvého udělení řidičského oprávnění,\nc) nejvyšší ukončené vzdělání,\nd) stav řidiče a vnější okolnosti mající bezprostřední vliv na chování řidiče v době dopravní nehody."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Evidence údajů o vozidle",
+      "content": "O vozidle, které mělo účast na dopravní nehodě, se v evidenci dopravních nehod vždy eviduje\na) druh vozidla,\nb) stát, ve kterém je vozidlo evidováno,\nc) tovární značka, typ a rok první registrace vozidla,\nd) údaje o způsobu a druhu využívání vozidla,\ne) údaje o platnosti technické prohlídky,\nf) upřesňující údaje o vozidle, například celková hmotnost a obsaditelnost,\ng) doplňující údaje o vozidle, například přeprava nebezpečného nebo nadměrného nákladu a jízda s právem přednostní jízdy,\nh) postavení vozidla na pozemní komunikaci v době dopravní nehody, včetně údaje o případném smyku vozidla,\ni) následky dopravní nehody na vozidle a nákladu a odhad škody."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Evidence údajů o pozemní komunikaci v místě a době dopravní nehody",
+      "content": "O pozemní komunikaci v místě dopravní nehody se eviduje\na) kategorie, třída, číselné označení pozemní komunikace a počet jízdních pruhů na pozemní komunikaci,\nb) další upřesňující údaje o místu dopravní nehody, například označení křižovatky, kilometru pozemní komunikace, zóny s omezením provozu,\nc) stavební a dopravně technický stav pozemní komunikace,\nd) druh a stav povrchu vozovky,\ne) situování dopravní nehody na pozemní komunikaci,\nf) pevná překážka."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Evidence časových, lokačních a doplňujících údajů o dopravní nehodě",
+      "content": "O dopravní nehodě se vždy eviduje\na) územní celek, souřadnice globálního navigačního družicového systému místa dopravní nehody, datum a čas dopravní nehody,\nb) druh dopravní nehody, například srážka s jedoucím vozidlem, zaparkovaným vozidlem, pevnou překážkou, chodcem, cyklistou nebo se zvířetem,\nc) druh srážky jedoucích vozidel, například čelní, boční, zezadu,\nd) zavinění dopravní nehody,\ne) hlavní příčiny dopravní nehody, kterými jsou například nepřiměřená rychlost jízdy, nesprávné předjíždění, nedání přednosti v jízdě, nesprávný způsob jízdy nebo technická závada vozidla,\nf) povětrnostní podmínky v místě dopravní nehody,\ng) viditelnost a rozhledové poměry v místě dopravní nehody,\nh) řízení provozu na pozemní komunikaci,\ni) specifická místa a objekty v místě dopravní nehody."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Způsob vedení evidence dopravních nehod",
+      "content": "Evidence dopravních nehod se vede v elektronické podobě.\nZávěrečné ustanovení"
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení.\n1) § 122 odst. 2 zákona č. 40/2009 Sb., trestní zákoník.\n2) Směrnice Evropského parlamentu a Rady 2008/96/ES ze dne 19. listopadu 1998 o řízení bezpečnosti silniční infrastruktury.\nSměrnice Evropského parlamentu a Rady (EU) 2019/1936 ze dne 23. října 2019, kterou se mění směrnice 2008/96/ES o řízení bezpečnosti silniční infrastruktury.\n3) Rozhodnutí Rady ze dne 30. listopadu 1993 o vytvoření databáze Společenství týkající se dopravních nehod v provozu na pozemních komunikacích (93/704/ES), v platném znění.\n4) § 47 odst. 4 a 5 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "za účastníka dopravní nehody",
+      "definition": "každý, kdo se v čase a místě dopravní nehody přímým způsobem účastnil dopravní nehody",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "za usmrcenou osobu",
+      "definition": "osoba, která zemřela při dopravní nehodě nebo na následky způsobené dopravní nehodou, nejpozději však do 30 dnů po dopravní nehodě",
+      "source_provision": "§ 2"
+    },
+    {
+      "term": "za lehké zranění jiné než těžké zranění",
+      "definition": "a to i tehdy, nedojde-li k pracovní neschopnosti",
+      "source_provision": "§ 2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul1:576/1950",
+  "type": "statute",
+  "title": "576/1950 Ú. l. I, Vyhláška ministerstva techniky, kterou se stanoví závaznost dalších norem stavebního oboru.",
+  "title_en": "",
+  "short_name": "576/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-10-04",
+  "in_force_date": "1950-10-14",
+  "url": "https://www.e-sbirka.cz/ul1/1950/576",
+  "description": "Vyhláška ministerstva techniky, kterou se stanoví závaznost dalších norem stavebního oboru.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "S výhradou ustanovení § 2 se stanoví pro všechna hospodářská odvětví za závazné tyto normy stavebního oboru, vydané Československou společností normalisační (dále jen „normy“):\nČSN 1050—1950Zatížení stavebních konstrukcí (III. revidované vydání),\nČSN 1492—1950Statické výpočty stavebních konstrukcí,\nČSN 05 0110—1949Navrhování ocelových konstrukcí pozemního stavitelství (III. revidované vydání normy ČSN 1051),\nČSN 05 0120—1950Provádění ocelových konstrukcí (III. revidované vydání normy ČSN 1051)."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Po dobu platnosti směrnic vydaných podle § 15 vládního nařízení č. 296/1948 Sb., o opatřeních ve stavebnictví v pětiletém plánu, platí tyto směrnice, i když se odchylují od norem.\n(2) Stavební výkresy a statické výpočty pro nově navrhované stavební konstrukce musí být ve shodě s obsahem norem a po dobu platnosti směrnic uvedených v odstavci 1 též s těmito směrnicemi, pokud se směrnice odchylují od norem. Totéž platí i pro stavby prováděné podle těchto výkresů a statických výpočtů.\n(3) Ustanovení této vyhlášky platí též pro stavební návrhy již rozpracované, pokud lze předpokládat dosažení podstatných úspor stavebnin a pokud by přepracování návrhu nezpůsobilo zdržení stavby."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti 10. dnem po vyhlášení."
+    }
+  ],
+  "definitions": []
+}

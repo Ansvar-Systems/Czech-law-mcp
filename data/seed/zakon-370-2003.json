@@ -1,0 +1,33 @@
+{
+  "id": "cz:370/2003",
+  "type": "statute",
+  "title": "370/2003 Sb., Vyhláška, kterou se stanoví podmínky a náležitosti pro prokázání skutečností rozhodných pro posouzení žádosti o snížení zajištění spotřební daně nebo o upuštění od jeho poskytnutí",
+  "title_en": "",
+  "short_name": "370/2003 Sb.",
+  "status": "in_force",
+  "issued_date": "2003-11-04",
+  "in_force_date": "2003-11-04",
+  "url": "https://www.e-sbirka.cz/sb/2003/370",
+  "description": "Vyhláška, kterou se stanoví podmínky a náležitosti pro prokázání skutečností rozhodných pro posouzení žádosti o snížení zajištění spotřební daně nebo o upuštění od jeho poskytnutí",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Prokázání finanční stability, plnění platebních povinností a schopnosti dostát závazkům",
+      "content": "(1) K žádosti o snížení zajištění spotřební daně nebo o upuštění od jeho poskytnutí se přikládá\na) doklad o tom, že žadatel nemá nedoplatek evidovaný daňovým úřadem ani nedoplatek na zdravotním pojištění, na pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti; tento doklad nesmí být v den podání žádosti starší více než 30 kalendářních dní,\nb) účetní závěrka, popřípadě přehled o majetku a závazcích a přehled o příjmech a výdajích žadatele účtujícího v soustavě jednoduchého účetnictví, a to za poslední dvě účetní období, která předcházela účetnímu období, v němž byla žádost celnímu ředitelství doručena.\n(2) Kromě dokladů uvedených v odstavci 1 se předkládají, nebyly-li součástí účetní závěrky, tyto další doklady:\na) přehled o peněžních tocích,\nb) přehled poskytnutých úvěrů a půjček včetně splatnosti a úrokových sazeb,\nc) přehled uzavřených leasingových smluv,\nd) přehled majetku zatíženého zástavním právem,\ne) bankovní reference, a\nf) přehled pojistných smluv s uvedením druhu rizika a pojistné částky.\n(3) K prokázání finanční stability, plnění platebních povinností a schopnosti dostát závazkům může žadatel předložit i další doklady.\n(4) Na základě dokladů předložených podle odstavců 1 až 3 provede celní ředitelství analýzu posuzující základní poměrové ukazatele, kterými jsou rentabilita, likvidita a finanční stabilita. Na základě finanční analýzy posoudí schopnost žadatele plnit platební povinnosti a dostát svým závazkům."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Prokázání daňové spolehlivosti",
+      "content": "Daňovou spolehlivost posuzuje celní ředitelství na základě daňových přiznání žadatele podaných v průběhu roku, ve kterém byla žádost podána, a v průběhu dvou let předcházejících."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem jejího vyhlášení."
+    }
+  ],
+  "definitions": []
+}

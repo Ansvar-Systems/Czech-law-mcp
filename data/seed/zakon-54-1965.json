@@ -1,0 +1,27 @@
+{
+  "id": "cz:54/1965",
+  "type": "statute",
+  "title": "54/1965 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "54/1965 Sb.",
+  "status": "in_force",
+  "issued_date": "1965-06-25",
+  "in_force_date": "1965-06-25",
+  "url": "https://www.e-sbirka.cz/sb/1965/54",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Všude tam, kde se ve vyhlášce č. 24/1965 Sb., v Dohodě i Statutu mluví o „valčekových ložiskách“, má být správně: „valivé ložiská“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. V § 24 odst. 3 ve větě druhé vypadla v tisku slova: „a invaliditě“, takže tato věta zní správně takto: „Pevnou částku regresní náhrady při částečné invaliditě a invaliditě nebo smrti lze - s výjimkou ustanovení odstavce 6 - snížit nejvýše o polovinu.“"
+    }
+  ],
+  "definitions": []
+}

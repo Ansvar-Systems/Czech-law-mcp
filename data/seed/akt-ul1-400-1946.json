@@ -1,0 +1,39 @@
+{
+  "id": "cz:ul1:400/1946",
+  "type": "statute",
+  "title": "400/1946 Ú. l. I, Vyhláška předsedy vlády o statistice potřeb územní samosprávy a jejich úhrady na rok 1946.",
+  "title_en": "",
+  "short_name": "400/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-02-09",
+  "in_force_date": "1946-02-09",
+  "url": "https://www.e-sbirka.cz/ul1/1946/400",
+  "description": "Vyhláška předsedy vlády o statistice potřeb územní samosprávy a jejich úhrady na rok 1946.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Státní úřad statistický provede podle rozpočtů zemí, správních okresů a obcí na rok 1946 statistiku potřeb a úhrad svazků územní samosprávy."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Podrobný rozsah a způsob tohoto šetření, jehož předmětem jsou příjmy a výdaje uvedené v rozpočtech, svazků územní samosprávy na rok 1946 nebo v přílohách těchto rozpočtů, stanoví Státní úřad statistický ve vzorcích příslušných výkazů a v návodech k nim."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Zpravodajskou povinnost mají zemské, okresní a místní národní výbory (správní komise). Okresní národní výbory (správní komise) jsou povinny přezkoušeti výkazy obcí svého obvodu podle obecních rozpočtů, které jim jsou předkládány podle platných ustanovení. Lhůtu pro vrácení vyplněných a přezkoušených výkazů určí Státní úřad statistický."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení, a platí v zemích České a Moravskoslezské."
+    }
+  ],
+  "definitions": []
+}

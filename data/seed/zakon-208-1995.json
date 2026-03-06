@@ -1,0 +1,45 @@
+{
+  "id": "cz:208/1995",
+  "type": "statute",
+  "title": "208/1995 Sb., Nařízení vlády, kterým se stanoví preferenční sazba cla pro dovoz některých zemědělských a potravinářských výrobků pocházejících z Evropské unie",
+  "title_en": "",
+  "short_name": "208/1995 Sb.",
+  "status": "in_force",
+  "issued_date": "1995-09-29",
+  "in_force_date": "1995-09-29",
+  "url": "https://www.e-sbirka.cz/sb/1995/208",
+  "description": "Nařízení vlády, kterým se stanoví preferenční sazba cla pro dovoz některých zemědělských a potravinářských výrobků pocházejících z Evropské unie",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Z dovezeného zboží pocházejícího z Evropské unie se v rámci celních kvót vyměřuje clo podle preferenčních celních sazeb.\n(2) Zboží, na které se vztahují preferenční celní sazby, celní kvóty a preferenční celní sazby, je stanoveno v příloze k tomuto nařízení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zbožím pocházejícím z Evropské unie se rozumí zboží, které splňuje podmínky stanovené zvláštním předpisem.1)"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Po dobu platnosti tohoto nařízení se pro zboží vymezené v § 1 a za podmínek zde vymezených nepoužijí celní sazby stanovené v nařízení vlády č. 265/1994 Sb., celní sazebník."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "(1) Toto nařízení nabývá účinnosti dnem vyhlášení.\n(2) Toto nařízení pozbývá platnosti dnem 31. prosince 1995.\nPříloha\nPodpoložka nebo číslo sazebníkuNázev zbožíPreferenční celní sazba Evrop. unieCelní kvóta (t)\n0303 79 11Kapřibez cla100\n0602 99 30Sazenice zeleniny a jahodníkůbez cla170\n0602 99 91Kvetoucí rostliny s poupaty nebo květy s výjimkou kaktusůbez cla\n0602 99 99Ostatní pokojové rostlinybez cla\n1005 90 00Kukuřice ostatní6,2 %5000\n1516 20 95Oleje ze semen řepky, lnu, řepky olejky, slunečnice, illipe, karite, makore, tulucuny nebo babassu pro technické nebo průmyslové účely, jiné než pro výrobu potravin pro lidskou výživubez cla2000\n1516 20 96Oleje z podzemnice olejné, bavlněných semen, sójových bobů nebo slunečnicových semen; ostatní oleje obsahující méně než 50 % hmotnosti volných mastných kyselin, vyjma olejů z palmových jader, illipe, kokosových ořechů, řepky, řepky olejky nebo copaibybez cla\n1516 20 98Ostatní rostlinné tuky a oleje a jejich frakcebez cla\n1517 10 90Margarin10 %530\n1601Uzenky, salámy a podobné výrobky z masa, drobů nebo krve; potravinové přípravky na podkladě těchto výrobků12 %115\n1) Sdělení Ministerstva zahraničních věcí č. 7/1995 Sb., o sjednání Evropské dohody zakládající přidružení mezi Českou republikou na jedné straně a Evropskými společenstvími a jejich členskými státy na straně druhé, Protokol č. 4."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Zbožím pocházejícím z Evropské unie",
+      "definition": "zboží, které splňuje podmínky stanovené zvláštním předpisem",
+      "source_provision": "§ 2"
+    }
+  ]
+}

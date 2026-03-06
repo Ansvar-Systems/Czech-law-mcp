@@ -1,0 +1,33 @@
+{
+  "id": "cz:195/2007",
+  "type": "statute",
+  "title": "195/2007 Sb., Vyhláška, kterou se stanoví rozsah stanovisek k politice územního rozvoje a územně plánovací dokumentaci, závazných stanovisek při ochraně zájmů chráněných zákonem č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů, a podmínky pro určení energetických zařízení",
+  "title_en": "",
+  "short_name": "195/2007 Sb.",
+  "status": "in_force",
+  "issued_date": "2007-07-31",
+  "in_force_date": "2007-09-01",
+  "url": "https://www.e-sbirka.cz/sb/2007/195",
+  "description": "Vyhláška, kterou se stanoví rozsah stanovisek k politice územního rozvoje a územně plánovací dokumentaci, závazných stanovisek při ochraně zájmů chráněných zákonem č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů, a podmínky pro určení energetických zařízení",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Rozsah stanovisek k politice územního rozvoje a územně plánovací dokumentaci",
+      "content": "(1) Stanovisko k politice územního rozvoje obsahuje posouzení vymezení ploch a koridorů technické infrastruktury mezinárodního a republikového významu nebo ploch a koridorů technické infrastruktury, které svým významem přesahují území jednoho kraje.\n(2) Stanovisko k zásadám územního rozvoje obsahuje posouzení vymezení\na) ploch a koridorů technické infrastruktury nadmístního významu,\nb) veřejně prospěšných staveb pro technickou infrastrukturu nadmístního významu.\n(3) Stanovisko k územnímu plánu obsahuje posouzení\na) koncepce technické infrastruktury, včetně podmínek pro její umisťování,\nb) vymezení veřejně prospěšných staveb pro technickou infrastrukturu.\n(4) Stanovisko k regulačnímu plánu obsahuje posouzení\na) podmínek pro umístění a prostorové uspořádání staveb pro technickou infrastrukturu,\nb) vymezení veřejně prospěšných staveb pro technickou infrastrukturu.\n(5) Stanoviska podle odstavců 3 a 4 se nevydávají pro umístění zdrojů energie, distribuci elektrické energie a plynu a rozvodu elektrické energie v nezastavěném území1) a dále v zastavěném území nebo zastavitelné ploše, pokud územně plánovací dokumentace umísťuje tepelný zdroj, jehož tepelný výkon nepřesáhne 5 MWt, a pokud se současně nenavrhuje umístění plynárenské soustavy nebo rozvodného tepelného zařízení.\n(6) Stanoviska k politice územního rozvoje a územně plánovací dokumentaci vycházejí z požadavků státní energetické koncepce a z požadavků územní energetické koncepce."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Podmínky pro vydávání stanovisek",
+      "content": "(1) Závazná stanoviska vycházejí z principu státní energetické koncepce, a je-li zpracována, také z územní energetické koncepce, která je zapracována v územně plánovací dokumentaci2).\n(2) Splnění požadavků energetického hospodářství určují prováděcí právní předpisy3) a české technické normy4) související s ochranou zvláštních zájmů chráněných zákonem o hospodaření energií.\n(3) Z hlediska dodržení technických požadavků na hospodaření s energií a alternativních systémů vytápění u staveb se vydává závazné stanovisko v územním nebo stavebním řízení k územnímu rozhodnutí nebo stavebnímu povolení.\n(4) Závazná stanoviska se nevydávají v územním a stavebním řízení u staveb\na) u samostatně stojících budov s roční spotřebou energie do 700 GJ, přičemž je rozhodující součet všech druhů energie,\nb) u energetických zařízení\n1. rozvodu tepla do délky potrubí do 500 m a přenášeném množství tepla do 700 GJ/rok,\n2. u zdrojů tepla do výkonu 1 MWt a zdrojů elektřiny využívajících tepelné procesy s výkonem do 5 MWe. Dále při aplikaci plynových turbin do 1 MWe a při užití spalovacích motorů do 500 kWe,\nc) u zařízení, u kterých není při provozu spotřebovávána energie."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. září 2007.\n1) § 2 odst. 1 písm. f) zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon).\n2) § 4 zákona č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů.\n3) Například vyhláška č. 148/2007 Sb., o energetické náročnosti budov, vyhláška č. 150/2001 Sb., kterou se stanoví minimální účinnost užití energie při výrobě elektřiny a tepelné energie.\n4) Například ČSN 730540-2."
+    }
+  ],
+  "definitions": []
+}

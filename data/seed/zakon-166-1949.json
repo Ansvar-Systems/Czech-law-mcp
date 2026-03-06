@@ -1,0 +1,33 @@
+{
+  "id": "cz:166/1949",
+  "type": "statute",
+  "title": "166/1949 Sb., Zákon o sídle správního soudu",
+  "title_en": "",
+  "short_name": "166/1949 Sb.",
+  "status": "in_force",
+  "issued_date": "1949-07-02",
+  "in_force_date": "1949-07-02",
+  "url": "https://www.e-sbirka.cz/sb/1949/166",
+  "description": "Zákon o sídle správního soudu",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Za sídlo správního soudu (§ 137, odst. 1 ústavy) se stanoví Bratislava."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Pro správní soud platí až do nové úpravy zákon ze dne 16. června 1937, č. 164 Sb., o nejvyšším správním soudě."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tento zákon nabývá účinnosti dnem vyhlášení; provedou jej všichni členové vlády."
+    }
+  ],
+  "definitions": []
+}

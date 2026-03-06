@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul0:127/1945",
+  "type": "statute",
+  "title": "127/1945 Ú. l., Vyhláška ministra průmyslu a ministra vnitřního obchodu o vydávání propisovacího účetnictví.",
+  "title_en": "",
+  "short_name": "127/1945 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1945-08-03",
+  "in_force_date": "1945-08-03",
+  "url": "https://www.e-sbirka.cz/ul0/1945/127",
+  "description": "Vyhláška ministra průmyslu a ministra vnitřního obchodu o vydávání propisovacího účetnictví.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "K výrobě, tisku nebo odbytu pomůcek a tiskopisů pro ruční nebo strojní propisovací účetnictví všeho druhu, vyjma strojního účetnictví s počitadlem, určených pro prodej po živnostensku osobám třetím, je třeba schválení ministra průmyslu v dohodě s ministrem vnitřního obchodu."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "Účetnictvím ve smyslu této vyhlášky se rozumí jak účetnictví finanční, tak i účetnictví provozní, mzdové, skladové a účetní evidence investic."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Nebude-li uděleno schválení podle § 1, odst. 1 této vyhlášky, musí býti zásoby účtovacích pomůcek, které jsou na skladě, hlášeny ministerstvu průmyslu, které v dohodě s ministerstvem vnitřního obchodu rozhodne, jak s nimi naložiti."
+    },
+    {
+      "provision_ref": "§ 4.",
+      "section": "4",
+      "title": "§ 4.",
+      "content": "Přestupky této vyhlášky se trestají podle § 9 vl. nař. č. 175/1943 Sb."
+    },
+    {
+      "provision_ref": "§ 5.",
+      "section": "5",
+      "title": "§ 5.",
+      "content": "(1) Tato vyhláška nabývá účinnosti dnem vyhlášení.\n(2) Zároveň pozbývá účinnosti vyhláška č. 505 ministra hospodářství a práce ze dne 8. února 1944 (Úř. l. č. 34/1944), o zavedení schvalovací povinnosti pro vydávání propisovacího účetnictví."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Účetnictvím ve smyslu této vyhlášky",
+      "definition": "jak účetnictví finanční, tak i účetnictví provozní, mzdové, skladové a účetní evidence investic",
+      "source_provision": "§ 2."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cz:171/1971",
+  "type": "statute",
+  "title": "171/1971 Sb., Redakční sdělení o opravě tiskových chyb",
+  "title_en": "",
+  "short_name": "171/1971 Sb.",
+  "status": "in_force",
+  "issued_date": "1971-12-29",
+  "in_force_date": "1971-12-29",
+  "url": "https://www.e-sbirka.cz/sb/1971/171",
+  "description": "Redakční sdělení o opravě tiskových chyb",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. v nařízení vlády České socialistické republiky č. 135/1971 Sb., o zřizování odborů národních výborů, českého i slovenského vydání,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. ve vyhlášce ministerstva kultury SSR č. 132/1971 Sb., kterou se mění a doplňuje vyhláška MŠK č. 140/1964 Sb., o povinných pracovních vytiscích, českého vydání,"
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. v datech vydání částek 36 a 37, slovenského vydání."
+    },
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. V § 1 odst. 1, v § 3 odst. 1 a v § 4 odst. 1 došlo k chybě, jež se opravuje tak, že místo slov „odbor zemědělství, lesního a vodního hospodářství“ má být správně „odbor vodního a lesního hospodářství a zemědělství“."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Ve vyhlášce č. 132/1971 Sb. v úvodní větě bylo chybně vytištěno „o jednotné soustavě knižnic“ místo správného znění „o jednotné soustavě knihoven“, a v čl. I „knižnicím“ místo správného znění „knihoven“ a „knižnice“ místo správného znění „knihovny“."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. V částce 36 je chybně vytištěno datum vydání „20. novembra 1971“ místo správného „20. decembra 1971“ a v částce 37 je chybně „29. decembra 1971“ místo správného „23. decembra 1971“."
+    }
+  ],
+  "definitions": []
+}

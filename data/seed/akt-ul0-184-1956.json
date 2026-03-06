@@ -1,0 +1,33 @@
+{
+  "id": "cz:ul0:184/1956",
+  "type": "statute",
+  "title": "184/1956 Ú. l., Vyhláška ministra spravedlnosti, kterou se zrušují některá státní notářství.",
+  "title_en": "",
+  "short_name": "184/1956 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1956-09-06",
+  "in_force_date": "1956-09-01",
+  "url": "https://www.e-sbirka.cz/ul0/1956/184",
+  "description": "Vyhláška ministra spravedlnosti, kterou se zrušují některá státní notářství.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "Zrušují se\nv krajistátní notářsvíobvod zrušeného státního notářství se přičleňuje\nk obvodu státního\nnotářství\nPlzeňKdyněDomažlice\nJihlavaDolní KráloviceLedeč nad Sázavou\nJihlavaTelčTresť\nOlomoucMohelniceZábřeh"
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "V neskončených řízeních pokračuje státní notářství, k jehož obvodu je přičleněn obvod zrušeného státního notářství."
+    },
+    {
+      "provision_ref": "§ 3.",
+      "section": "3",
+      "title": "§ 3.",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. záři 1956."
+    }
+  ],
+  "definitions": []
+}

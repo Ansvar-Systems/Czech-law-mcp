@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:932/1946",
+  "type": "statute",
+  "title": "932/1946 Ú. l. I, Vyhláška ministrerstva průmyslu o zřízení národních podniků kožedělných a gumárenských.",
+  "title_en": "",
+  "short_name": "932/1946 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1946-03-30",
+  "in_force_date": "1947-05-22",
+  "url": "https://www.e-sbirka.cz/ul1/1946/932",
+  "description": "Vyhláška ministrerstva průmyslu o zřízení národních podniků kožedělných a gumárenských.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. majetkovou podstatu podniku Josef Kudrnáč & spol., se sídlem v Náchodě, v rozsahu jeho znárodnění, s výjimkou částky Kčs 150.000 na starém vkladě;"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. majetkovou podstatu podniku Gumovka J. Hakauf a synové, se sídlem v Hradci Králové, v rozsahu jeho znárodnění."
+    }
+  ],
+  "definitions": []
+}

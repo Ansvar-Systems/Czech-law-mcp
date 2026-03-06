@@ -1,0 +1,39 @@
+{
+  "id": "cz:16/1987",
+  "type": "statute",
+  "title": "16/1987 Sb., Vyhláška ministerstva kultury České socialistické republiky, kterou se mění a doplňuje vyhláška ministerstva kultury a informací č. 25/1967 Sb., o úpravě autorských odměn za vydání slovesných děl, ve znění vyhlášky č. 142/1979 Sb.",
+  "title_en": "",
+  "short_name": "16/1987 Sb.",
+  "status": "in_force",
+  "issued_date": "1987-03-16",
+  "in_force_date": "1987-04-01",
+  "url": "https://www.e-sbirka.cz/sb/1987/16",
+  "description": "Vyhláška ministerstva kultury České socialistické republiky, kterou se mění a doplňuje vyhláška ministerstva kultury a informací č. 25/1967 Sb., o úpravě autorských odměn za vydání slovesných děl, ve znění vyhlášky č. 142/1979 Sb.",
+  "provisions": [
+    {
+      "provision_ref": "Čl. I",
+      "section": "I",
+      "title": "Čl. I",
+      "content": "Vyhláška ministerstva kultury a informací č. 25/1967 Sb., o úpravě autorských odměn za vydání slovesných děl, ve znění vyhlášky č. 142/1979 Sb., se mění a doplňuje takto:\n1. § 6 odst. 1 zní:\n„(1) Za vydání mimořádně hodnotných a společensky významných děl krásné prózy nebo poezie [část I sazebníku, s výjimkou položky 1b)] lze odměnu za pátou, šestou, sedmou a osmou normu, popř. za část některé z nich zvýšit u každé této normy nebo její části až do výše odměny za první normu, popř. její poměrné části.“.\n2. Sazebník odměn, který tvoří přílohu k vyhlášce č. 142/1979 Sb., se nahrazuje novým sazebníkem uvedeným v příloze k této vyhlášce."
+    },
+    {
+      "provision_ref": "Čl. II",
+      "section": "II",
+      "title": "Čl. II",
+      "content": "Odměny sjednané v nakladatelských smlouvách před nabytím účinnosti této vyhlášky zůstávají nedotčeny na jedno vydání díla."
+    },
+    {
+      "provision_ref": "Čl. III",
+      "section": "III",
+      "title": "Čl. III",
+      "content": "Tato vyhláška nabývá účinnosti dnem 1. dubna 1987.\nPříloha k vyhlášce č. 16/1987 Sb.\nSazebník odměn"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stanovená sazba",
+      "definition": "za autorský arch zpracovaného textu; vytvoří-li však rejstřík autor díla, k němuž rejstřík patří, odměňuje se jako nedílná součást díla",
+      "source_provision": "Čl. III"
+    }
+  ]
+}

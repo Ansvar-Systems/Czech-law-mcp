@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul1:1908/1948",
+  "type": "statute",
+  "title": "1908/1948 Ú. l. I, Vyhláška ministra průmyslu o začlenění znárodněných podniků do Borských skláren, národního podniku.",
+  "title_en": "",
+  "short_name": "1908/1948 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1948-08-03",
+  "in_force_date": "1948-08-18",
+  "url": "https://www.e-sbirka.cz/ul1/1948/1908",
+  "description": "Vyhláška ministra průmyslu o začlenění znárodněných podniků do Borských skláren, národního podniku.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Ziml a spol., se sídlem v Boru u České Lípy, Malířská 270, spr. okr. Česká Lípa,"
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Antonín Zogala ml., se sídlem v Sobotce, spr. okr. Jičín,\nvesměs v rozsahu jejich znárodnění, do Borských skláren, národního podniku."
+    }
+  ],
+  "definitions": []
+}

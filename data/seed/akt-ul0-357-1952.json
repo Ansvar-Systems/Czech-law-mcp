@@ -1,0 +1,27 @@
+{
+  "id": "cz:ul0:357/1952",
+  "type": "statute",
+  "title": "357/1952 Ú. l., Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro zmrzlinu a pro kyselinu octovou pro potravinářské účely.",
+  "title_en": "",
+  "short_name": "357/1952 Ú. l.",
+  "status": "in_force",
+  "issued_date": "1952-12-18",
+  "in_force_date": "1953-01-02",
+  "url": "https://www.e-sbirka.cz/ul0/1952/357",
+  "description": "Vyhláška státního úřadu plánovacího, kterou se vyhlašují technické státní normy pro zmrzlinu a pro kyselinu octovou pro potravinářské účely.",
+  "provisions": [
+    {
+      "provision_ref": "§ 1.",
+      "section": "1",
+      "title": "§ 1.",
+      "content": "(1) Norma ČSN 56 2109 Zmrzlina je od 1. ledna 1953 technickou státní normou.\n(2) Norma mimo jiné jedná o surovinách a přídách, o jednotlivých tržních druzích, o hlavních znacích technologického postupu a methodách kontroly jakosti atd."
+    },
+    {
+      "provision_ref": "§ 2.",
+      "section": "2",
+      "title": "§ 2.",
+      "content": "(1) Technickou státní normu od 1. ledna 1953 je norma\nČSN 66 1474 Kyselina octová pro potravinářské účely.\n(2) Norma platí pro kyselinu octovou, vyrobenou suchou destilací dřeva, používanou v potravinářském průmyslu a jedná mimo jiné o názvosloví, technických požadavcích, zkoušení, přejímání, balení a dopravě."
+    }
+  ],
+  "definitions": []
+}

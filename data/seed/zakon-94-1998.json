@@ -1,0 +1,57 @@
+{
+  "id": "cz:94/1998",
+  "type": "statute",
+  "title": "94/1998 Sb., Vyhláška Ministerstva financí o osvobození zboží dováženého pro potřebu osob postižených povodněmi v roce 1997 od dovozního cla",
+  "title_en": "",
+  "short_name": "94/1998 Sb.",
+  "status": "in_force",
+  "issued_date": "1998-04-30",
+  "in_force_date": "1998-04-30",
+  "url": "https://www.e-sbirka.cz/sb/1998/94",
+  "description": "Vyhláška Ministerstva financí o osvobození zboží dováženého pro potřebu osob postižených povodněmi v roce 1997 od dovozního cla",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "(1) Celní úřad propustí do volného oběhu s úplným osvobozením od dovozního cla stavební materiály, vybavení domácnosti a mechanické a jiné stroje, nástroje a přístroje určené k použití při opětovné výstavbě, rekonstrukci nebo opravě zničených nebo poškozených veřejně prospěšných zařízení, obydlí a hospodářských budov v postiženém území a jejich opětovnému zařízení, které\na) jsou dováženy pro potřebu českých osob,1) jejichž majetek byl v roce 1997 postižen povodněmi, budou těmito osobami nebo v jejich prospěch používány a\nb) podle druhu a množství nemají znaky zboží obchodního charakteru a nejsou dováženy k obchodním účelům a\nc) byly darovány zahraničními osobami.2)\n(2) Pro účely této vyhlášky se vybavením domácnosti rozumí elektrospotřebiče používané v domácnosti, ošacení, domácí prádlo, nábytek, jakož i další bytové vybavení."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "(1) Stroje, nástroje, přístroje a vybavení domácnosti propuštěné podle § 1 do volného oběhu s osvobozením od dovozního cla mohou příslušné osoby do 31. prosince 1999 zapůjčit, pronajmout, zcizit nebo postoupit jiným osobám pouze po předchozím informování celního úřadu.\n(2) Byly-li stroje, nástroje, přístroje a vybavení domácnosti ve lhůtě uvedené v odstavci 1 zapůjčeny, pronajaty, zcizeny nebo postoupeny osobám, kterým lze přiznat osvobození od dovozního cla, zůstává osvobození od dovozního cla zachováno, pokud je zboží touto osobou použito k účelům, které dovolují přiznání osvobození od dovozního cla.\n(3) V případech zapůjčení, pronájmu, zcizení nebo postoupení strojů, nástrojů, přístrojů a vybavení domácnosti jiných než uvedených v odstavci 2 vyměří a vybere celní úřad z těchto strojů, nástrojů, přístrojů a vybavení domácnosti clo podle celních sazeb platných v okamžiku jejich zapůjčení, pronájmu, zcizení nebo postoupení z celní hodnoty určené nebo uznané k tomuto okamžiku celním úřadem.\nRežim dočasného použití"
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Celní úřad propustí do režimu dočasného použití s úplným osvobozením od dovozního cla stroje a zařízení určené k použití při opětovné výstavbě, rekonstrukci nebo opravě zničených nebo poškozených veřejně prospěšných zařízení, obydlí a hospodářských budov v postiženém území, které\na) jsou dováženy pro potřebu českých osob,1) jejichž majetek byl v roce 1997 postižen povodněmi, budou těmito osobami nebo v jejich prospěch používány a\nb) podle druhu a množství nemají znaky zboží obchodního charakteru a nejsou dováženy k obchodním účelům a\nc) jsou zapůjčeny zahraniční osobou2) a zůstávají v jejím vlastnictví."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "Dovezené stroje a zařízení uvedené v § 3 budou do 31. prosince 1999 vyvezeny zpět nebo jim bude do této doby přiděleno jiné celně schválené určení.3)"
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5",
+      "content": "Náhradní díly, které byly dovezeny v odpovídajícím množství na opravu již dovezených strojů a zařízení propuštěných do režimu dočasného použití s úplným osvobozením, jsou osvobozeny od dovozního cla."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem vyhlášení a pozbývá účinnosti dnem 31. prosince 1999.\n1) § 2 písm. b) zákona ČNR č. 13/1993 Sb., celní zákon.\n2) § 2 písm. c) zákona ČNR č. 13/1993 Sb.\n3) § 2 písm. l) zákona ČNR č. 13/1993 Sb."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pro účely této vyhlášky se vybavením domácnosti",
+      "definition": "elektrospotřebiče používané v domácnosti, ošacení, domácí prádlo, nábytek, jakož i další bytové vybavení",
+      "source_provision": "§ 1"
+    }
+  ]
+}

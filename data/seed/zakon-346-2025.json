@@ -1,0 +1,51 @@
+{
+  "id": "cz:346/2025",
+  "type": "statute",
+  "title": "346/2025 Sb., Vyhláška o předkládání informací pro monitorování v oblasti trhu s elektřinou a s plynem, o způsobu stanovení hodnoty indexu zajištění obchodníka a o poskytování informací o nabídkách dodávek elektřiny nebo plynu porovnávaných srovnávacím nástrojem (monitorovací vyhláška)",
+  "title_en": "",
+  "short_name": "346/2025 Sb.",
+  "status": "in_force",
+  "issued_date": "2025-09-19",
+  "in_force_date": "2026-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2025/346",
+  "description": "Vyhláška o předkládání informací pro monitorování v oblasti trhu s elektřinou a s plynem, o způsobu stanovení hodnoty indexu zajištění obchodníka a o poskytování informací o nabídkách dodávek elektřiny nebo plynu porovnávaných srovnávacím nástrojem (monitorovací vyhláška)",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1 Předmět úpravy",
+      "content": "Tato vyhláška stanoví\na) náležitosti, rozsah a členění informací nezbytných pro monitorování stavu hospodářské soutěže na maloobchodním trhu s elektřinou a s plynem, úrovně maloobchodních cen elektřiny a plynu a uplatňovaných smluvních podmínek, včetně uplatňování omezujících nebo nepřiměřených podmínek ve smlouvách na trhu s elektřinou a s plynem, nabídek smluv s dynamickým určením ceny nebo jiným způsobem určení ceny přímo závislým na změnách ceny elektřiny nebo plynu na organizovaných trzích s elektřinou nebo plynem, jejich rizik a vlivu na vývoj cen dodávek elektřiny a plynu a termíny a způsob předkládání těchto informací,\nb) způsob stanovení predikce množství elektřiny nebo plynu pro stanovení indexu zajištění obchodníka a způsob stanovení hodnoty indexu zajištění obchodníka a\nc) termíny, rozsah a způsob poskytování informací o nabídkách dodávek elektřiny nebo plynu porovnávaných srovnávacím nástrojem a jejich změnách."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Informace pro monitorování stavu hospodářské soutěže na maloobchodním trhu s elektřinou a s plynem, úrovně maloobchodních cen elektřiny a plynu a uplatňovaných smluvních podmínek",
+      "content": "(1) Obchodník s elektřinou nebo výrobce elektřiny, který poslední den kalendářního pololetí dodává elektřinu alespoň do 1 000 odběrných míst zákazníků, kteří jsou v postavení spotřebitele nebo podnikající fyzickou osobou s ročním odběrem elektřiny do 20 MWh, předkládá za kalendářní pololetí Úřadu souhrnné informace, jejichž náležitosti, rozsah a členění jsou uvedeny v přílohách č. 1 až 4 k této vyhlášce, a to jejich vyplněním na internetových stránkách Úřadu nebo nahráním XLSX nebo JSON souboru v šabloně dostupné na internetových stránkách Úřadu.\n(2) Obchodník s plynem nebo výrobce plynu, který poslední den kalendářního pololetí dodává plyn alespoň do 1 000 odběrných míst zákazníků, kteří jsou v postavení spotřebitele nebo podnikající fyzickou osobou s roční spotřebou plynu do 63 MWh, předkládá za kalendářní pololetí Úřadu souhrnné informace, jejichž náležitosti, rozsah a členění jsou uvedeny v přílohách č. 5 až 8 k této vyhlášce, a to jejich vyplněním na internetových stránkách Úřadu nebo nahráním XLSX nebo JSON souboru v šabloně dostupné na internetových stránkách Úřadu.\n(3) Souhrnné informace podle odstavců 1 a 2 předkládá obchodník s elektřinou nebo plynem a výrobce elektřiny nebo plynu nejpozději do 25. srpna za první kalendářní pololetí a 25. února za druhé kalendářní pololetí.\n(4) Operátor trhu předkládá za kalendářní měsíc Úřadu do dvacátého dne následujícího kalendářního měsíce souhrnné informace o dodávkách elektřiny nebo plynu, jejichž náležitosti, rozsah a členění jsou uvedeny v příloze č. 9 k této vyhlášce, a to zpřístupněním v informačním systému operátora trhu.\n(5) Datové centrum předkládá za kalendářní měsíc Úřadu do dvacátého dne následujícího kalendářního měsíce souhrnné informace o sdílení elektřiny, jejichž náležitosti, rozsah a členění jsou uvedeny v příloze č. 10 k této vyhlášce, a to zpřístupněním v informačním systému datového centra nebo zasláním XLSX souboru.\n(6) Obchodník s elektřinou nebo plynem a výrobce elektřiny nebo plynu předkládá informace podle odstavců 1 a 2 dále s odstraněním informací, které tvoří obchodní tajemství.\n(7) Je-li cena za dodávku elektřiny nebo plynu sjednána v jiné měně než v Kč, použije se denní kurz zaokrouhlený na dvě desetinná místa, který je stanoven Českou národní bankou pro poslední den kalendářního pololetí, nebo denní kurz zaokrouhlený na dvě desetinná místa posledního předcházejícího pracovního dne, pokud poslední den kalendářního pololetí není pracovním dnem."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Index zajištění obchodníka a predikce množství elektřiny nebo plynu pro jeho stanovení",
+      "content": "Způsob stanovení predikce množství elektřiny nebo plynu pro stanovení indexu zajištění obchodníka a způsob stanovení hodnoty indexu zajištění obchodníka jsou uvedeny v příloze č. 11 k této vyhlášce."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Informace o nabídkách dodávek elektřiny nebo plynu porovnávaných srovnávacím nástrojem",
+      "content": "Obchodník s elektřinou nebo plynem poskytuje Úřadu informace o nabídkách dodávek elektřiny nebo plynu pro zákazníky odebírající elektřinu na hladině nízkého napětí a zákazníky s roční spotřebou plynu do 630 MWh v rozsahu podle přílohy č. 12 k této vyhlášce nejpozději do 5 pracovních dnů od uveřejnění nabídky nebo její změny vyplněním formuláře dostupného na internetových stránkách Úřadu a nahráním XLSX souboru v šabloně dostupné na internetových stránkách Úřadu nebo prostřednictvím k tomu určeného webového rozhraní."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Společná ustanovení",
+      "content": "(1) Nestanoví-li tato vyhláška jinak, smlouvy o dodávce elektřiny nebo smlouvy o sdružených službách dodávky elektřiny se dělí na\na) smlouvu typu A, kterou je smlouva s dynamickým určením ceny elektřiny,\nb) smlouvu typu B, kterou je smlouva na dobu určitou s jinou než pevnou cenou dodávky elektřiny, která zároveň není smlouvou podle písmene a) nebo e),\nc) smlouvu typu C, kterou je smlouva na dobu neurčitou, která zároveň není smlouvou podle písmene a), d) nebo e),\nd) smlouvu typu D, kterou je smlouva s pevnou cenou dodávky elektřiny, která se dále člení na\n1. smlouvu typu D1, která je sjednána na dobu trvání závazku do 12 měsíců,\n2. smlouvu typu D2, která je sjednána na dobu trvání závazku delší než 12 a maximálně 24 měsíců,\n3. smlouvu typu D3, která je sjednána na dobu trvání závazku delší než 24 měsíců,\ne) smlouvu typu E, kterou je smlouva, která není smlouvou podle písmen a) až c) a ve které je cena určena cenovým ujednáním o způsobu výpočtu ceny nebo její složky,\nf) smlouvu typu F, kterou je smlouva jiná než uvedená v písmenech a) až e).\n(2) Nestanoví-li tato vyhláška jinak, smlouvy o dodávce plynu nebo smlouvy o sdružených službách dodávky plynu se dělí na\na) smlouvu typu A, kterou je smlouva s dynamickým určením ceny plynu,\nb) smlouvu typu B, kterou je smlouva na dobu určitou s jinou než pevnou cenou dodávky plynu, která zároveň není smlouvou podle písmene a) nebo e),\nc) smlouvu typu C, kterou je smlouva na dobu neurčitou, která zároveň není smlouvou podle písmene a), d) nebo e),\nd) smlouvu typu D, kterou je smlouva s pevnou cenou dodávky plynu, která se dále člení na\n1. smlouvu typu D1, která je sjednána na dobu trvání závazku do 12 měsíců,\n2. smlouvu typu D2, která je sjednána na dobu trvání závazku delší než 12 a maximálně 24 měsíců,\n3. smlouvu typu D3, která je sjednána na dobu trvání závazku delší než 24 měsíců,\ne) smlouvu typu E, kterou je smlouva, která není smlouvou podle písmen a) až c) a ve které je cena určena cenovým ujednáním o způsobu výpočtu ceny nebo její složky,\nf) smlouvu typu F, kterou je smlouva jiná než uvedená v písmenech a) až e)."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Účinnost",
+      "content": "Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení, s výjimkou ustanovení § 2 odst. 1 a 2, která nabývají účinnosti dnem 1. ledna 2026.\nPříloha č. 1\nInformace o portfoliu odběrných míst obchodníka s elektřinou a výrobce elektřiny pro monitorování stavu hospodářské soutěže na maloobchodním trhu s elektřinou a úrovně maloobchodních cen elektřiny"
+    }
+  ],
+  "definitions": []
+}

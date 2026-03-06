@@ -1,0 +1,695 @@
+{
+  "id": "cz:243/2013",
+  "type": "statute",
+  "title": "243/2013 Sb., Nařízení vlády o investování investičních fondů a o technikách k jejich obhospodařování",
+  "title_en": "",
+  "short_name": "243/2013 Sb.",
+  "status": "in_force",
+  "issued_date": "2013-08-19",
+  "in_force_date": "2022-01-01",
+  "url": "https://www.e-sbirka.cz/sb/2013/243",
+  "description": "Nařízení vlády o investování investičních fondů a o technikách k jejich obhospodařování",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "chapter": "ČÁST PRVNÍ - PŘEDMĚT ÚPRAVY",
+      "content": "(1) Toto nařízení zapracovává právní předpisy Evropské unie1), zohledňuje obecné pokyny evropského orgánu dohledu a upravuje pro standardní fond kvalitativní požadavky na\na) pravidla pro skladbu majetku tohoto fondu, spočívající ve vymezení\n1. věcí, které mohou být nabyty do jmění tohoto fondu, a\n2. investičních limitů, které je nutno dodržovat ve vztahu k věcem podle bodu 1, včetně investičních limitů při kopírování složení indexu akcií nebo indexu dluhopisů,\nb) pravidla pro přijetí úvěru nebo zápůjčky na účet tohoto fondu, včetně limitů pro míru využití pákového efektu, využívá-li pákový efekt,\nc) pravidla pro použití majetku tohoto fondu k poskytnutí úvěru, zápůjčky nebo daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s obhospodařováním tohoto fondu, včetně toho,\n1. zda lze majetek tohoto fondu použít k poskytnutí úvěru nebo zápůjčky, které nesouvisí s jeho obhospodařováním, a\n2. zda lze majetek tohoto fondu použít k poskytnutí daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s jeho obhospodařováním,\nd) pravidla pro uzavírání smluv o prodeji věcí na účet tohoto fondu, které tento fond nemá v majetku, nebo které má na čas přenechány, včetně toho, zda lze na účet tohoto fondu uzavírat smlouvy o prodeji věcí, které tento fond nemá ve svém majetku, nebo které má na čas přenechány,\ne) techniky k obhospodařování tohoto fondu,\nf) pravidla pro používání technik podle písmene e), včetně pravidel pro sjednávání repo obchodů s využitím majetku tohoto fondu a pravidel pro investování v souvislosti se sjednanými repo obchody,\ng) pravidla pro snižování rizika z použití derivátů,\nh) pravidla pro výpočet celkové expozice tohoto fondu závazkovou metodou a metodou měření hodnoty v riziku, s rozlišením podle modelu absolutní rizikové hodnoty a relativní rizikové hodnoty, popřípadě další jinou pokročilou metodou měření rizik, a\ni) limity u celkové expozice v případě metod podle písmene h).\n(2) Toto nařízení dále upravuje pro speciální fond, s rozlišením, zda investuje jako fond nemovitostí (§ 51), kvalitativní požadavky na pravidla, techniky a limity uvedené v odstavci 1.\n(3) Toto nařízení dále upravuje pro fond kvalifikovaných investorů, jehož obhospodařovatel je oprávněn přesáhnout rozhodný limit, kvalitativní požadavky na limity pro míru využití pákového efektu na účet tohoto fondu a pro poskytnutí investičních nástrojů z majetku tohoto fondu jako finančního kolaterálu nebo srovnatelného zajištění podle práva cizího státu anebo jiného zajištění.\n(4) Používá-li toto nařízení pojem\na) standardní fond, rozumí se jím v případě standardního fondu, který vytváří podfondy, podfond standardního fondu,\nb) zahraniční investiční fond, rozumí se jím v případě zahraničního investičního fondu, který vytváří zařízení srovnatelná s podfondy, toto zařízení; přitom platí, že zařízení není srovnatelné s podfondem, lze-li majetek v tomto zařízení použít ke splnění dluhu, který není dluhem tohoto zařízení,\nc) fond kolektivního investování, rozumí se jím v případě fondu kolektivního investování, který vytváří podfondy, podfond fondu kolektivního investování,\nd) speciální fond, rozumí se jím v případě speciálního fondu, který vytváří podfondy, podfond speciálního fondu,\ne) fond nemovitostí, rozumí se jím v případě fondu nemovitostí, který vytváří podfondy, podfond fondu nemovitostí,\nf) fond kvalifikovaných investorů, rozumí se jím v případě fondu kvalifikovaných investorů, který vytváří podfondy, podfond fondu kvalifikovaných investorů."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2 Základní ustanovení",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Do jmění standardního fondu lze nabýt pouze věc uvedenou v § 3 až 16.\n(2) Do jmění standardního fondu, který je podřízeným fondem, lze nabýt pouze\na) cenný papír nebo zaknihovaný cenný papír vydaný jeho řídícím fondem,\nb) finanční derivát uvedený v § 12 a 13, který je technikou k obhospodařování tohoto fondu a který je sjednán výhradně za účelem zajištění,\nc) pohledávku na výplatu peněžních prostředků z účtů v české nebo cizí měně podle § 15,\nd) věc podle § 16, je-li tento standardní fond akciovou společností s proměnným základním kapitálem a má-li povolení České národní banky k činnosti samosprávného investičního fondu.\n(3) Do jmění standardního fondu nelze nabýt zlato, stříbro, platinu, paladium, iridium, rhodium, ruthenium nebo osmium (dále jen „drahý kov“) ani certifikát, který zastupuje drahý kov.\n(4) Na účet standardního fondu nelze sjednat jiný derivát než derivát,\na) který umožňuje převod úvěrového rizika podkladového aktiva nezávisle na ostatních rizicích spojených s tímto podkladovým aktivem,\nb) z něhož nevyplývá dodání ani převod, včetně fyzického dodání a převodu, podkladových aktiv jiných než těch, která jsou uvedena v § 3 až 16, a\nc) s nímž spojená rizika jsou zohledněna systémem řízení rizik obhospodařovatele standardního fondu tak, aby tento systém dostatečně zohlednil alespoň riziko informační asymetrie mezi obhospodařovatelem a jinou smluvní stranou takového derivátu plynoucí z možného přístupu této jiné smluvní strany k neveřejným informacím o společnostech, jejichž majetek je využit jako podkladové aktivum pro tento derivát."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3 Investiční cenný papír",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Do jmění standardního fondu lze nabýt\na) investiční cenný papír,\n1. který je přijat k obchodování na evropském regulovaném trhu nebo v mnohostranném obchodním systému provozovatele se sídlem v členském státě, nebo\n2. který je přijat k obchodování na trhu obdobném regulovanému trhu se sídlem ve státě, který není členským státem, nebo s nímž se obchoduje na trhu obdobném regulovanému trhu se sídlem ve státě, který není členským státem, jsou-li tyto trhy uvedeny v seznamu zahraničních trhů obdobných regulovanému trhu se sídlem ve státě, který není členským státem, vedeném Českou národní bankou,\nb) investiční cenný papír z nové emise,\n1. vyplývá-li z jeho emisních podmínek závazek emitenta, že bude podána žádost o přijetí k obchodování na některém z trhů uvedených v písmeni a), a\n2. je-li žádost o jeho přijetí k obchodování na některém z trhů uvedených v písmeni a) podána tak, aby byl tento investiční cenný papír přijat k obchodování do 1 roku ode dne, ke kterému bylo ukončeno jeho vydávání,\nc) investiční cenný papír, který je cenným papírem nebo zaknihovaným cenným papírem vydaným fondem kolektivního investování, který neodkupuje jím vydávané cenné papíry nebo zaknihované cenné papíry, nebo srovnatelným zahraničním investičním fondem, dodržuje-li obhospodařovatel takového fondu některý z kodexů řízení a správy společnosti a podléhá-li dohledu České národní banky, orgánu dohledu jiného členského státu nebo orgánu dohledu jiného státu, který při výkonu dohledu přispívá k ochraně investorů, splňuje-li tento investiční cenný papír podmínku podle písmene a) nebo b),\nd) investiční cenný papír, jehož hodnota se vztahuje k věcem, kterými mohou být i jiné věci než věci uvedené v § 3 až 16, splňuje-li tento investiční cenný papír podmínku podle písmene a) nebo b), a\ne) investiční cenný papír, který není uveden v písmenech a) až d) za podmínky podle § 17 odst. 5.\n(2) Do jmění standardního fondu lze investiční cenný papír nabýt, jestliže\na) jeho likvidita neoslabuje schopnost odkupovat podílové listy nebo investiční akcie vydávané tímto fondem na žádost vlastníka investiční akcie nebo podílníka z majetku tohoto fondu; pro investiční cenné papíry přijaté k obchodování na trzích uvedených v odstavci 1 písm. a) se tato podmínka považuje za splněnou, nejsou-li osobě, která tento investiční nástroj nabývá na účet standardního fondu do jmění tohoto fondu, k dispozici informace, které by mohly vést k jinému závěru,\nb) v důsledku jeho držení nevzniká standardnímu fondu riziko ztráty, která by převyšovala částku za něj zaplacenou,\nc) jeho hodnotu lze spolehlivě určit, což v případě\n1. investičního cenného papíru uvedeného v odstavci 1 písm. a) až d) znamená, že existuje spolehlivé a pravidelné ocenění, kterým je závěrečný kurz vyhlášený na trhu, nebo jiné ocenění nezávislé na emitentovi tohoto investičního cenného papíru,\n2. investičního cenného papíru uvedeného v odstavci 1 písm. e) znamená, že ocenění je prováděno periodicky a vychází z investičního výzkumu nebo jiných informací poskytnutých emitentem tohoto investičního cenného papíru,\nd) jsou pro něj k dispozici přiměřené informace, což v případě\n1. investičního cenného papíru uvedeného v odstavci 1 písm. a) až d) znamená, že účastníkům trhu jsou k dispozici pravidelné, přesné a úplné informace o tomto investičním cenném papíru,\n2. investičního cenného papíru uvedeného v odstavci 1 písm. e) znamená, že osobě, která tento investiční cenný papír nabývá na účet standardního fondu do jmění tohoto fondu, jsou k dispozici pravidelné a přesné informace o tomto investičním cenném papíru,\ne) jeho nabytí je v souladu s investiční strategií standardního fondu a\nf) rizika s ním spojená jsou dostatečně zohledněna systémem řízení rizik pro standardní fond.\n(3) Do jmění standardního fondu lze nabýt investiční cenný papír bez ohledu na to, zda byl zcela splacen.\n(4) V tomto nařízení pojem „investiční cenný papír“ nezahrnuje investiční cenný papír, který je cenným papírem nebo zaknihovaným cenným papírem vydaným investičním fondem nebo zahraničním investičním fondem; to neplatí, jde-li o investiční cenný papír uvedený v odstavci 1 písm. c)."
+    },
+    {
+      "provision_ref": "§ 4",
+      "section": "4",
+      "title": "§ 4 Investiční cenný papír obsahující derivát",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Investičním cenným papírem obsahujícím derivát, který lze nabýt do jmění standardního fondu, je investiční cenný papír uvedený v § 3 obsahující složku,\na) pro jejíž přítomnost lze některé nebo všechny peněžní toky spojené s tímto investičním cenným papírem měnit v závislosti na úrokové sazbě, ceně jiného investičního nástroje, měnovém kurzu, cenovém indexu, indexu úrokových sazeb, ratingu, úvěrovém hodnocení, úvěrovém indexu nebo jiné proměnné veličině, v důsledku čehož může měnit svou hodnotu obdobně jako derivát,\nb) jejíž ekonomický charakter a rizika s ní spojená nesouvisejí úzce s ekonomickým charakterem investičního cenného papíru a riziky s ním spojenými a\nc) která má významný dopad na rizikový profil standardního fondu a na hodnotu investičního cenného papíru.\n(2) Obsahuje-li investiční cenný papír složku, která je samostatně převoditelná, má se za to, že tento investiční cenný papír derivát neobsahuje; taková složka se považuje za samostatný investiční nástroj.\n(3) Obsahuje-li investiční cenný papír derivát, použijí se pro tento derivát § 22 a 34 až 44 obdobně.\n(4) Pro účely tohoto nařízení platí, že investiční cenný papír neobsahuje derivát, pokud ve vztahu k podkladovému aktivu nevyužívá pákový efekt."
+    },
+    {
+      "provision_ref": "§ 5",
+      "section": "5",
+      "title": "§ 5 Nástroj peněžního trhu přijatý k obchodování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Do jmění standardního fondu lze nabýt nástroj peněžního trhu přijatý k obchodování na trzích uvedených v § 3 odst. 1 písm. a),\na) může-li být prodán s omezenými náklady ve lhůtě přiměřené lhůtě pro odkoupení podílového listu nebo investiční akcie vydávané tímto fondem,\nb) jde-li o nástroj, pro který jsou k dispozici přesné a spolehlivé způsoby oceňování, které\n1. umožňují vypočítat jeho čistou hodnotu, která se významně neodlišuje od ceny, za niž by bylo možné tento nástroj prodat mezi informovanými stranami za obvyklých tržních podmínek, a\n2. vycházejí z údajů trhu nebo metod oceňování, včetně metod založených na zůstatkové hodnotě, a\nc) jde-li o nástroj,\n1. jehož původní splatnost je nejvýše 397 dní,\n2. jehož zbytková splatnost je nejvýše 397 dní,\n3. který prochází pravidelnou valorizací výnosů v souladu s podmínkami peněžního trhu nejméně jednou za 397 dní, nebo\n4. jehož rizikovost, zejména míra podstupovaného úvěrového rizika a úrokového rizika, odpovídá rizikovosti profilu nástroje, který splňuje podmínku uvedenou v bodě 1, 2 nebo 3.\n(2) Podmínky uvedené v odstavci 1 písm. a) až c) se u nástroje peněžního trhu přijatého k obchodování na trzích uvedených v § 3 odst. 1 písm. a) považují za splněné, nejsou-li osobě, která tento nástroj nabývá na účet standardního fondu do jmění tohoto fondu, k dispozici informace, které by mohly vést k jinému závěru."
+    },
+    {
+      "provision_ref": "§ 6",
+      "section": "6",
+      "title": "§ 6 Nástroj peněžního trhu nepřijatý k obchodování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Do jmění standardního fondu lze nabýt nástroj peněžního trhu nepřijatý k obchodování na trzích uvedených v § 3 odst. 1 písm. a), jestliže\na) byl vydán územním samosprávným celkem členského státu, centrální bankou členského státu, Evropskou centrální bankou, Evropskou unií, Evropskou investiční bankou, státem nebo členem federace, nebo mezinárodní finanční organizací, jejímž členem je jeden nebo více členských států, nebo za něj tyto subjekty převzaly záruku,\nb) byl vydán emitentem, jímž vydané cenné papíry nebo zaknihované cenné papíry jsou přijaty k obchodování na evropském regulovaném trhu nebo na trhu uvedeném v § 3 odst. 1 písm. a) bodě 2,\nc) byl vydán osobou, nebo za něj převzala záruku osoba,\n1. která podléhá dohledu České národní banky nebo orgánu dohledu jiného členského státu,\n2. která má sídlo v členském státě Organizace pro hospodářskou spolupráci a rozvoj náležícím k signatářům mezinárodní smlouvy General Arrangements to Borrow (členskému státu skupiny G10),\n3. která je hodnocena alespoň investičním stupněm ratingu vydaným ratingovou agenturou registrovanou podle přímo použitelného předpisu Evropské unie upravujícího ratingové agentury15), nebo\n4. jejíž hloubková analýza prokazuje, že pravidla pro dohled, kterým podléhá, jsou srovnatelná s pravidly pro dohled plynoucími z práva Evropské unie, nebo\nd) byl vydán emitentem, který je přípustnou protistranou, za předpokladu, že osoba, která do něj investuje, požívá obdobnou ochranu jako osoba investující do nástroje peněžního trhu uvedeného v písmeni b), c) nebo d) a jejich emitentem je\n1. společnost, jejíž vlastní kapitál odpovídá hodnotě alespoň 10 000 000 EUR a která uveřejňuje účetní závěrku, která je sestavena v souladu s právem Evropské unie,\n2. osoba, která zajišťuje financování celku, za který se vypracovává konsolidovaná účetní závěrka, jehož je součástí a z nějž alespoň jeden člen je emitentem akcií nebo obdobných cenných papírů anebo zaknihovaných cenných papírů představujících podíl na obchodní společnosti nebo jiné právnické osobě, přijatých k obchodování na evropském regulovaném trhu, nebo na trhu uvedeném v § 3 odst. 1 písm. a) bodě 2, nebo\n3. osoba, která prostřednictvím emise cenných papírů nebo zaknihovaných cenných papírů zajišťuje financování společností, smluvních vztahů nebo jiných struktur zřízených za účelem sekuritizace16), jejichž financování prostřednictvím úvěrových linek je zajištěno osobou podle písmene c).\n(2) Nástroj peněžního trhu uvedený v odstavci 1 lze nabýt do jmění standardního fondu pouze za předpokladu, že právní úprava vztahující se na jeho emisi nebo emitenta zabezpečuje ochranu investorů nebo úspor tím, že\na) jsou splněny podmínky uvedené v § 5 odst. 1 písm. a) až c),\nb) osoba, která tento nástroj nabývá na účet standardního fondu do jmění tohoto fondu, má o tomto nástroji peněžního trhu k dispozici dostatečné informace, včetně informací umožňujících řádné hodnocení úvěrových rizik spojených s investicemi do takového nástroje, a\nc) tento nástroj peněžního trhu nemá omezenu převoditelnost.\n(3) Přípustnou protistranou se pro účely tohoto nařízení rozumí\na) banka,\nb) spořitelní a úvěrní družstvo,\nc) obchodník s cennými papíry, který není bankou a který\n1. dodržuje kapitálovou přiměřenost podle § 9 a 9a zákona upravujícího podnikání na kapitálovém trhu a\n2. má povolení k poskytování investiční služby obchodování s investičními nástroji na vlastní účet,\nd) pojišťovna,\ne) zajišťovna,\nf) investiční společnost,\ng) penzijní společnost,\nh) samosprávný investiční fond,\ni) zahraniční osoba se sídlem v jiném členském státě se srovnatelným povolením k činnosti jako některá z osob uvedených v písmenech a) až h), nebo\nj) zahraniční osoba se sídlem ve státě, který není členským státem, se srovnatelným povolením k činnosti jako některá z osob uvedených v písmenech a) až h)."
+    },
+    {
+      "provision_ref": "§ 7",
+      "section": "7",
+      "title": "§ 7 Užití právních domněnek při nabývání nástrojů peněžního trhu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) U nástrojů peněžního trhu uvedených v § 6 odst. 1 písm. a), s výjimkou těch, jež jsou uvedeny v § 6 odst. 1 písm. b), a těch, jež vydala Evropská centrální banka nebo centrální banka členského státu, je podmínka uvedená v § 6 odst. 2 písm. b) splněna, jsou-li osobě, která tento nástroj nabývá na účet standardního fondu do jmění tohoto fondu, k dispozici alespoň informace týkající se emise nebo podmínek emise anebo právní a finanční situace emitenta před datem emise nástroje peněžního trhu.\n(2) U nástrojů peněžního trhu uvedených v § 6 odst. 1 písm. b) a d) a těch, které jsou vydány územním samosprávným celkem členského státu nebo mezinárodní finanční organizací, ale za které nepřevzal záruku členský stát nebo stát federace, která je členským státem, je podmínka uvedená v § 6 odst. 2 písm. b) splněna, jsou-li osobě, která tento nástroj nabývá na účet standardního fondu do jmění tohoto fondu, k dispozici alespoň\na) informace týkající se emise nebo podmínek emise a právní a finanční situace emitenta před datem emise nástroje peněžního trhu,\nb) aktualizace informací podle písmene a) uskutečňované pravidelně a při významné události, a zejména při změně ovlivňující finanční situaci emitenta a jeho schopnost dostát svým závazkům, a\nc) dostupné a spolehlivé statistické údaje o emisi a podmínkách emise.\n(3) U nástrojů peněžního trhu uvedených v § 6 odst. 1 písm. c) je podmínka uvedená v § 6 odst. 2 písm. b) splněna, jsou-li osobě, která tento nástroj nabývá na účet standardního fondu do jmění tohoto fondu, k dispozici alespoň\na) informace týkající se emise nebo podmínek emise anebo právní a finanční situace emitenta před datem emise nástroje peněžního trhu,\nb) aktualizace informací podle písmene a) uskutečňované pravidelně a při významné události, a zejména při změnách ovlivňujících finanční situaci emitenta a jeho schopnost dostát svým závazkům, a\nc) dostupné a spolehlivé statistické údaje o emisi a o podmínkách emise nebo jiné údaje umožňující řádné hodnocení úvěrových rizik spojených s investicemi do takového nástroje."
+    },
+    {
+      "provision_ref": "§ 8",
+      "section": "8",
+      "title": "§ 8 Nástroj peněžního trhu obsahující derivát",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Nástrojem peněžního trhu obsahujícím derivát, který lze nabýt do jmění standardního fondu, je nástroj peněžního trhu uvedený v § 5, 6 nebo 9 obsahující složku,\na) pro jejíž přítomnost lze některé nebo všechny peněžní toky spojené s tímto nástrojem měnit v závislosti na úrokové sazbě, ceně jiného investičního nástroje, měnovém kurzu, cenovém indexu, indexu úrokových sazeb, ratingu, úvěrovém hodnocení, úvěrovém indexu nebo jiné proměnné veličině, v důsledku čehož může měnit svou hodnotu obdobně jako derivát,\nb) jejíž ekonomický charakter a rizika s ní spojená nesouvisejí úzce s ekonomickým charakterem nástroje peněžního trhu a riziky s ním spojenými a\nc) která má významný dopad na rizikový profil standardního fondu a na hodnotu nástroje peněžního trhu.\n(2) Obsahuje-li nástroj peněžního trhu složku, která je samostatně převoditelná, má se za to, že tento nástroj peněžního trhu derivát neobsahuje; taková složka se považuje za samostatný investiční nástroj.\n(3) Obsahuje-li nástroj peněžního trhu derivát, použijí se pro tento derivát § 22 a 34 až 44 obdobně."
+    },
+    {
+      "provision_ref": "§ 9",
+      "section": "9",
+      "title": "§ 9 Jiný nástroj peněžního trhu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Do jmění standardního fondu lze nabýt i nástroj peněžního trhu, který není přijat k obchodování na trzích uvedených v § 3 odst. 1 písm. a) a který nesplňuje některou z podmínek uvedených v § 6, splňuje-li podmínky stanovené v § 6 odst. 1 písm. a) až c) a v § 17 odst. 5."
+    },
+    {
+      "provision_ref": "§ 10",
+      "section": "10",
+      "title": "§ 10 Cenný papír nebo zaknihovaný cenný papír vydaný fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Do jmění standardního fondu lze nabýt cenný papír nebo zaknihovaný cenný papír vydaný standardním fondem nebo srovnatelným zahraničním investičním fondem, který podle svého statutu nebo srovnatelného dokumentu investuje nejvýše 10 % hodnoty svého majetku do cenných papírů nebo zaknihovaných cenných papírů vydávaných fondy kolektivního investování nebo srovnatelnými zahraničními investičními fondy.\n(2) Do jmění standardního fondu lze nabýt cenný papír nebo zaknihovaný cenný papír vydaný speciálním fondem nebo srovnatelným zahraničním investičním fondem, jestliže\na) podle statutu nebo srovnatelného dokumentu fondu, který tento cenný papír nebo zaknihovaný cenný papír vydal, investuje tento fond nejvýše 10 % hodnoty svého majetku do cenných papírů a zaknihovaných cenných papírů vydávaných fondy kolektivního investování nebo srovnatelnými zahraničními investičními fondy,\nb) podle statutu nebo srovnatelného dokumentu fondu, který tento cenný papír nebo zaknihovaný cenný papír vydal, je jedinou činností nebo jediným účelem tohoto fondu shromažďování peněžních prostředků od veřejnosti vydáváním cenných papírů nebo zaknihovaných cenných papírů a společné investování shromážděných peněžních prostředků na základě určené investiční strategie na principu rozložení rizika ve prospěch vlastníků těchto cenných papírů nebo zaknihovaných cenných papírů, a další správa tohoto majetku,\nc) podle statutu nebo srovnatelného dokumentu fondu, který tento cenný papír nebo zaknihovaný cenný papír vydal, nelze do jmění tohoto fondu nabýt jiné věci než ty, které lze podle tohoto nařízení nabýt do jmění standardního fondu,\nd) jsou tyto cenné papíry nebo zaknihované cenné papíry odkupovány ve lhůtách kratších než 1 rok nebo se zajišťuje, že se kurz nebo cena těchto cenných papírů nebo zaknihovaných cenných papírů na evropském regulovaném trhu, nebo na trhu uvedeném v § 3 odst. 1 písm. a) bodě 2, významně neodchyluje od jejich aktuální hodnoty,\ne) obhospodařovatel fondu, který tyto cenné papíry nebo zaknihované cenné papíry vydal, má povolení orgánu dohledu státu, ve kterém má sídlo, podléhá dohledu tohoto orgánu dohledu a tento orgán dohledu a Česká národní banka se dohodly na výměně informací nezbytných k výkonu dohledu podle zákona upravujícího investiční společnosti a investiční fondy,\nf) obhospodařovatel fondu, který tyto cenné papíry nebo zaknihované cenné papíry vydal, dodržuje pravidla obezřetnosti srovnatelná s pravidly obezřetnosti podle práva Evropské unie,\ng) podle svého statutu nebo srovnatelného dokumentu investuje tak, aby bylo zajištěno rozložení rizika, a\nh) za fond, který tento cenný papír nebo zaknihovaný cenný papír vydal, je vyhotovována a uveřejňována pololetní zpráva a výroční zpráva, které umožňují posouzení situace tohoto fondu z hlediska majetku, výnosů a nakládání s majetkem tohoto fondu v účetním období, k němuž se vztahují.\n(3) Do jmění standardního fondu lze nabýt cenný papír nebo zaknihovaný cenný papír vydaný fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem bez ohledu na to, zda byl zcela splacen."
+    },
+    {
+      "provision_ref": "§ 11",
+      "section": "11",
+      "title": "§ 11 Investiční akcie k jinému podfondu téhož standardního fondu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Do jmění jednoho podfondu standardního fondu nelze nabýt investiční akcii vydanou k jinému podfondu téhož standardního fondu."
+    },
+    {
+      "provision_ref": "§ 12",
+      "section": "12",
+      "title": "§ 12 Finanční derivát přijatý k obchodování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Na účet standardního fondu lze sjednat finanční derivát přijatý k obchodování na trzích uvedených v § 3 odst. 1 písm. a), je-li hodnotou, k níž se vztahuje hodnota tohoto derivátu, pouze\na) věc uvedená v § 3 až 15, kterou lze podle investiční strategie tohoto fondu uvedené ve statutu tohoto fondu nabýt do jmění tohoto fondu,\nb) úroková míra, měnový kurz nebo měna, nebo\nc) finanční index, který je dostatečně diverzifikován, dostatečně reprezentativní a veřejně přístupný."
+    },
+    {
+      "provision_ref": "§ 13",
+      "section": "13",
+      "title": "§ 13 Finanční derivát nepřijatý k obchodování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Na účet standardního fondu lze sjednat finanční derivát nepřijatý k obchodování na trzích uvedených v § 3 odst. 1 písm. a), jestliže\na) se hodnota tohoto derivátu vztahuje pouze k hodnotám uvedeným v § 12 písm. a) až c),\nb) se tento derivát oceňuje spolehlivě a ověřitelně každý pracovní den,\nc) může obhospodařovatel tohoto fondu tento derivát z vlastního podnětu kdykoliv postoupit nebo vypovědět anebo jinak ukončit za částku, které lze dosáhnout mezi smluvními stranami za podmínek, které nejsou pro žádnou ze stran významně nerovnovážné, nebo může za tuto částku uzavřít nový derivát, kterým kompenzuje podkladová aktiva tohoto derivátu postupem stanoveným v § 37, a\nd) je tento derivát sjednán s přípustnou protistranou, která podléhá dohledu České národní banky, orgánu dohledu jiného členského státu nebo orgánu dohledu jiného státu."
+    },
+    {
+      "provision_ref": "§ 14",
+      "section": "14",
+      "title": "§ 14 Užití právních domněnek při sjednávání finančních derivátů",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "(1) Platí, že finanční index je pro účely § 12 písm. c) dostatečně diverzifikován, jestliže\na) změna týkající se jedné z hodnot, ke kterým se tento index vztahuje, podstatně neovlivní hodnotu tohoto indexu,\nb) tento index je tvořen takovým počtem hodnot, že jsou srovnatelně splněny alespoň podmínky uvedené v § 24, a\nc) tento index není tvořen jednou komoditou.\n(2) Platí, že finanční index je pro účely § 12 písm. c) dostatečně reprezentativní, jestliže\na) vhodným způsobem odráží každou změnu týkající se některé z hodnot, ke kterým se tento index vztahuje,\nb) jeho složení se pravidelně upravuje takovým způsobem, aby stále odráželo situaci na trzích, na nichž se používá, a to na základě veřejně dostupných kritérií,\nc) hodnoty, ke kterým se vztahuje, jsou natolik likvidní, že lze složení tohoto indexu kopírovat,\nd) nebyl vytvořen ani vypočítán na žádost nebo podle příkazů jedné osoby nebo několika osob,\ne) jeho tvůrce nepřijímá úplatu za zahrnutí hodnoty, ke které se tento index vztahuje, do složení tohoto indexu a\nf) nelze zpětně měnit již uveřejněné hodnoty, ke kterým se tento index vztahuje.\n(3) Platí, že finanční index je pro účely § 12 písm. c) veřejně přístupný, jestliže\na) jsou při zjišťování cen, výpočtu tohoto indexu a jeho uveřejňování použity řádné postupy, včetně postupů pro určení cen podkladových aktiv tohoto indexu, pro které není tržní cena dostupná, a\nb) se výpočet hodnoty tohoto indexu, způsob jeho složení a aktualizace jeho složení, jeho změny, provozní obtíže s včasným a přesným uveřejňováním informací, které se jej týkají, nebo jiné související relevantní informace, uveřejňují v co nejširším rozsahu a včas.\n(4) Platí, že derivát se pro účely § 13 písm. b) oceňuje spolehlivě a ověřitelně, jestliže\na) jeho ocenění odpovídá tržním podmínkám,\nb) jeho ocenění nevychází pouze z ceny nabízené jinou smluvní stranou tohoto derivátu,\nc) jeho ocenění vychází ze spolehlivé aktualizované tržní ceny, nebo, není-li taková cena dostupná, z postupů oceňování, jejichž součástí jsou vhodné a obecně uznávané způsoby oceňování, a\nd) kontrolu jeho oceňování provádí\n1. osoba nezávislá na jiné smluvní straně tohoto derivátu, a to přiměřeně často a způsobem umožňujícím obhospodařovateli nebo administrátorovi standardního fondu kontrolu, nebo\n2. skupina osob, pomocí které obhospodařovatel nebo administrátor standardního fondu provádí tuto činnost, která má věcné, organizační a personální předpoklady pro výkon této činnosti a která je nezávislá na skupině osob, pomocí které obhospodařovatel tohoto fondu provádí správu majetku tohoto fondu.\n(5) Komoditou se pro účely tohoto nařízení rozumí zastupitelná věc, která může být předmětem fyzické dodávky, jejíž hodnota je zjistitelná a se kterou lze obchodovat.\n(6) Jednou komoditou se pro účely tohoto nařízení rozumí i takové různé komodity, u kterých existuje mezi denními změnami reálné hodnoty jedné a druhé komodity vztah korelace alespoň ve výši 0,8, a to ve více než 75 % výpočtů pro klouzavé časové období v délce 250 pracovních dnů za posledních 5 let."
+    },
+    {
+      "provision_ref": "§ 15",
+      "section": "15",
+      "title": "§ 15 Pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Do jmění standardního fondu lze nabýt pouze pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně za některou z osob uvedených v § 72 odst. 2 zákona o investičních společnostech a investičních fondech s dobou do splatnosti v délce nejvýše 1 rok."
+    },
+    {
+      "provision_ref": "§ 16",
+      "section": "16",
+      "title": "§ 16 Majetek samosprávného investičního fondu netvořící součást majetku z investiční činnosti",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci",
+      "content": "Do jmění standardního fondu, který je akciovou společností s proměnným základním kapitálem a který má povolení České národní banky k činnosti samosprávného investičního fondu, lze nabýt i jiné věci, než jsou věci uvedené v § 3 až 15, jestliže netvoří součást majetku z investiční činnosti tohoto fondu a jsou potřebné k výkonu činnosti tohoto fondu."
+    },
+    {
+      "provision_ref": "§ 17",
+      "section": "17",
+      "title": "§ 17 Limity u investičních cenných papírů a nástrojů peněžního trhu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Nelze investovat více než 5 % čisté hodnoty aktiv standardního fondu (§ 98) do investičních cenných papírů a nástrojů peněžního trhu vydaných jedním emitentem.\n(2) Je-li to uvedeno ve statutu standardního fondu, lze investovat\na) až 10 % čisté hodnoty aktiv tohoto fondu do investičních cenných papírů a nástrojů peněžního trhu vydaných jedním emitentem a až 20 % čisté hodnoty aktiv tohoto fondu do investičních cenných papírů a nástrojů peněžního trhu vydaných emitenty v rámci celku, za který se vypracovává konsolidovaná účetní závěrka; součet těchto investic však nesmí překročit 40 % čisté hodnoty aktiv tohoto fondu,\nb) až 35 % čisté hodnoty aktiv tohoto fondu do investičních cenných papírů a nástrojů peněžního trhu vydaných jedním emitentem, vydal-li tyto cenné papíry nebo zaknihované cenné papíry nebo převzal-li za ně záruku stát, územní samosprávný celek členského státu, nebo mezinárodní finanční organizace, jejímž členem je jeden nebo více členských států,\nc) až 25 % čisté hodnoty aktiv tohoto fondu do dluhopisů vydaných jednou bankou, jedním spořitelním a úvěrním družstvem nebo jednou zahraniční bankou, která má sídlo v členském státě a podléhá dohledu tohoto státu chránícímu zájmy vlastníků dluhopisů, jsou-li peněžní prostředky získané emisí těchto dluhopisů investovány do takových druhů majetku, které do dne splatnosti dluhopisů kryjí závazky emitenta z těchto dluhopisů a které mohou být v případě platební neschopnosti emitenta přednostně použity ke splacení dluhopisu a k vyplacení výnosů; součet těchto investic však nesmí překročit 80 % čisté hodnoty aktiv tohoto fondu.\n(3) Finanční deriváty sjednané s přípustnou protistranou, pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně podle § 15 a investice podle odstavce 2 písm. b) a c) se nezahrnují do limitu 40 % podle odstavce 2 písm. a).\n(4) Do limitů podle odstavců 1 a 2 se zahrnuje hodnota investičních cenných papírů a nástrojů peněžního trhu poskytnutých jiné smluvní straně jako zajištění finančních derivátů uvedených v § 13. Toto zajištění lze zahrnout do limitů v čisté hodnotě, je-li s touto jinou smluvní stranou sjednáno závěrečné vyrovnání18), které je právně účinné a vymahatelné ve všech dotčených právních řádech.\n(5) Nelze investovat více než 10 % čisté hodnoty aktiv standardního fondu do investičních cenných papírů uvedených v § 3 odst. 1 písm. e) a do nástrojů peněžního trhu uvedených v § 9.\n(6) Emitenti tvořící koncern se pro účely tohoto nařízení považují za jednoho emitenta. Pro potřeby investování investičních fondů platí, že stát ani jiná veřejnoprávní korporace neovládají jiné osoby ani s těmito osobami netvoří koncern.\n(7) Používá-li toto nařízení pojem „dluhopis“, rozumí se jím i dluhopisu obdobný cenný papír nebo zaknihovaný cenný papír představující právo na splacení dlužné částky."
+    },
+    {
+      "provision_ref": "§ 18",
+      "section": "18",
+      "title": "§ 18 Limity u akcií",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do jmění obhospodařovatele standardního fondu nebo srovnatelného zahraničního investičního fondu a do jmění jím obhospodařovaných standardních fondů nebo srovnatelných zahraničních investičních fondů nelze nabýt akcie, které ve svém souhrnu představují takový podíl na hlasovacích právech jejich emitenta, který obhospodařovateli umožňuje významným způsobem ovlivnit chování tohoto emitenta.\n(2) Používá-li toto nařízení pojem „akcie“, rozumí se jím i akcii obdobný cenný papír nebo zaknihovaný cenný papír představující podíl na společnosti nebo jiné právnické osobě."
+    },
+    {
+      "provision_ref": "§ 19",
+      "section": "19",
+      "title": "§ 19 Limity z celkové jmenovité hodnoty nebo z celkového počtu investičních cenných papírů a nástrojů peněžního trhu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do jmění standardního fondu nelze nabýt více než\na) 10 % z celkové jmenovité hodnoty nebo z celkového počtu akcií, které vydal jeden emitent a s nimiž nejsou spojena hlasovací práva,\nb) 10 % z celkové jmenovité hodnoty dluhopisů, které vydal jeden emitent, a\nc) 10 % z celkové jmenovité hodnoty nebo celkového počtu nástrojů peněžního trhu, které vydal jeden emitent.\n(2) Odstavec 1 se nepoužije pro investiční cenné papíry nebo nástroje peněžního trhu, které\na) vydal nebo za které převzal záruku stát nebo územní samosprávný celek členského státu, nebo\nb) vydala mezinárodní finanční organizace, jejímž členem je jeden nebo více členských států."
+    },
+    {
+      "provision_ref": "§ 20",
+      "section": "20",
+      "title": "§ 20 Limity u investičních cenných papírů nebo nástrojů peněžního trhu vydávaných nebo zaručených státy, územními samosprávnými celky a některými mezinárodními finančními organizacemi",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Lze investovat až 100 % čisté hodnoty aktiv standardního fondu do investičních cenných papírů nebo nástrojů peněžního trhu, které vydal nebo za které převzal záruku stát, územní samosprávný celek členského státu nebo mezinárodní finanční organizace, jejímž členem je jeden nebo více členských států, za podmínky, že je tento limit uveden ve statutu tohoto fondu.\n(2) Ochrana vlastníků investičních akcií nebo podílníků standardního fondu uvedeného v odstavci 1 musí být srovnatelná s ochranou vlastníků investičních akcií nebo podílníků standardního fondu, který dodržuje limity stanovené v § 17.\n(3) V majetku standardního fondu uvedeného v odstavci 1 musí být v každém okamžiku cenné papíry nebo zaknihované cenné papíry nejméně z 6 různých emisí, přičemž cenné papíry a zaknihované cenné papíry z jedné emise nesmí tvořit více než 30 % čisté hodnoty aktiv tohoto fondu.\n(4) Cenné papíry nebo zaknihované cenné papíry podle odstavce 1 mohou tvořit více než 35 % čisté hodnoty aktiv standardního fondu pouze tehdy, jestliže jsou stát, územní samosprávný celek členského státu nebo mezinárodní finanční organizace uvedené v odstavci 1 jako takové výslovně uvedeny ve statutu standardního fondu uvedeného v odstavci 1 a v propagačních sděleních týkajících se tohoto standardního fondu."
+    },
+    {
+      "provision_ref": "§ 21",
+      "section": "21",
+      "title": "§ 21 Limity u cenných papírů nebo zaknihovaných cenných papírů vydávaných fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do jmění standardního fondu lze nabýt cenné papíry nebo zaknihované cenné papíry vydávané jedním fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem až do výše 20 % čisté hodnoty aktiv tohoto standardního fondu.\n(2) Do jmění standardního fondu nelze nabýt cenné papíry nebo zaknihované cenné papíry vydávané speciálními fondy nebo srovnatelnými zahraničními investičními fondy, přesáhla-li by jejich hodnota ve svém součtu 30 % čisté hodnoty aktiv tohoto standardního fondu.\n(3) Do jmění standardního fondu nelze nabýt více než 25 % z čisté hodnoty aktiv jednoho fondu kolektivního investování nebo srovnatelné veličiny zahraničního fondu kolektivního investování."
+    },
+    {
+      "provision_ref": "§ 22",
+      "section": "22",
+      "title": "§ 22 Limity u finančních derivátů",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Riziko protistrany plynoucí z finančních derivátů uvedených v § 13 odpovídající součtu kladných reálných hodnot těchto derivátů a z technik obhospodařování standardního fondu nesmí u jedné smluvní strany překročit\na) 10 % čisté hodnoty aktiv standardního fondu, je-li touto smluvní stranou osoba uvedená v § 72 odst. 2 zákona o investičních společnostech a investičních fondech, nebo\nb) 5 % čisté hodnoty aktiv standardního fondu, je-li touto smluvní stranou jiná osoba než osoba uvedená v § 72 odst. 2 zákona o investičních společnostech a investičních fondech.\n(2) Při výpočtu rizika protistrany podle odstavce 1 lze zohlednit pouze\na) sjednání závěrečného vyrovnání s jinou smluvní stranou daného finančního derivátu za předpokladu, že\n1. rozhodné právo chrání závěrečné vyrovnání před účinky rozhodnutí nebo jiného úkonu soudu nebo správního orgánu alespoň v rozsahu ochrany, jaký závěrečnému vyrovnání poskytuje české právo, a\n2. závěrečné vyrovnání se vztahuje pouze na pohledávky týkající se finančních derivátů uvedených v § 13 a\nb) hodnotu věcí přijatých k zajištění za předpokladu, že tyto věci jsou denně oceňovány reálnou hodnotou, jsou vysoce likvidní a standardní fond je má ve svém majetku nebo je má v opatrování osoba nezávislá na smluvní straně tohoto derivátu podle písmene a).\n(3) Pro účely výpočtu limitů podle § 17 se vezmou v úvahu podkladová aktiva finančních derivátů sjednaných na účet standardního fondu; to se nevyžaduje, jsou-li podkladovými aktivy finanční indexy nebo jiné finanční kvantitativně vyjádřené ukazatele.\n(4) Věc se pro účely tohoto nařízení považuje za vysoce likvidní, netrvá-li její přeměna na peněžní prostředky déle než 7 dní a odpovídá-li dosažená cena její reálné hodnotě."
+    },
+    {
+      "provision_ref": "§ 23",
+      "section": "23",
+      "title": "§ 23 Limity u pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "Pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně za jednou z osob uvedených v § 72 odst. 2 zákona o investičních společnostech a investičních fondech nesmějí tvořit více než 20 % čisté hodnoty aktiv standardního fondu."
+    },
+    {
+      "provision_ref": "§ 24",
+      "section": "24",
+      "title": "§ 24 Limity při kopírování složení finančního indexu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Akcie a dluhopisy vydané jedním emitentem mohou tvořit až 20 % čisté hodnoty aktiv standardního fondu, který podle svého statutu kopíruje složení indexu akcií nebo indexu dluhopisů, jestliže\na) tento index akcií je tvořen dostatečným počtem emitentů akcií nebo tento index dluhopisů je tvořen dostatečným počtem emitentů dluhopisů,\nb) tento index je dostatečně reprezentativní pro trh, který jej používá; tato podmínka je splněna zejména tehdy, používá-li jeho tvůrce metodiku, která obvykle neopomíjí významného emitenta na trhu, na který se index vztahuje,\nc) tento index je veřejně přístupný a je uveřejňován způsobem, jakým jsou uveřejňovány kurzy investičních cenných papírů, které index tvoří, a\nd) tvůrce tohoto indexu je nezávislý na obhospodařovateli standardního fondu, který kopíruje složení tohoto indexu; tato podmínka nemusí být splněna, tvoří-li tvůrce indexu a obhospodařovatel standardního fondu součást téhož podnikatelského seskupení a jsou-li v rámci tohoto seskupení zavedena účinná opatření k řízení střetu zájmů.\n(2) Limit 20 % uvedený v odstavci 1 lze ve vztahu k jednomu emitentovi zvýšit až na 35 %, je-li to odůvodněno výjimečnými podmínkami trhu, na kterém obchodování s investičními cennými papíry uvedenými v odstavci 1 převažuje, a je-li tato možnost zvýšení limitu uvedena ve statutu standardního fondu."
+    },
+    {
+      "provision_ref": "§ 25",
+      "section": "25",
+      "title": "§ 25 Společná ustanovení",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Součet hodnoty investičních cenných papírů nebo nástrojů peněžního trhu vydaných jedním emitentem, hodnot pohledávek na výplatu peněžních prostředků z účtů v české nebo cizí měně za jedním emitentem a hodnot expozice vůči riziku protistrany plynoucího z finančních derivátů uvedených v § 13 spojeného s tímto emitentem nesmí překročit 20 % čisté hodnoty aktiv standardního fondu; tím nejsou dotčena ustanovení § 17 odst. 2 písm. b) a c).\n(2) Investiční limity stanovené v odstavci 1, v § 17, § 22 odst. 1 a v § 23 nelze sčítat a součet hodnot investičních cenných papírů nebo nástrojů peněžního trhu vydaných jedním emitentem, hodnot pohledávek na výplatu peněžních prostředků z účtů v české nebo cizí měně za tímto emitentem a hodnot expozice vůči riziku protistrany plynoucího z finančních derivátů uvedených v § 13 spojeného s tímto emitentem nesmí překročit 35 % čisté hodnoty aktiv ve standardním fondu.\n(3) Při nabytí věcí uvedených v § 19 odst. 1 písm. b) a c) a § 21 odst. 3 do jmění standardního fondu se limity stanovené v § 19 odst. 1 písm. b) a c) a § 21 odst. 3 neuplatní, nelze-li v době nabytí těchto věcí zjistit jejich celkovou jmenovitou hodnotu nebo celkový počet.\n(4) Při zajištění rozložení rizika se lze odchýlit od odstavců 1 a 2, § 17, 20, § 21 odst. 1 a 2, § 22 odst. 1 a § 23, nejdéle však na dobu 6 měsíců ode dne vzniku standardního fondu.\n(5) Odstavce 1 až 4, § 17 až 21, 23 a 24 se nepoužijí pro standardní fond, který je podřízeným fondem. Při zajištění rozložení rizika se lze odchýlit od limitu podle § 246 odst. 1 zákona o investičních společnostech a investičních fondech, nejdéle však na dobu 6 měsíců ode dne vzniku standardního fondu, jehož statut mu umožňuje investovat jako podřízený fond, nebo ode dne, kdy nabyla účinnosti změna statutu standardního fondu tak, že tomuto fondu umožnuje investovat jako podřízený fond nebo do jiného řídícího fondu než doposud."
+    },
+    {
+      "provision_ref": "§ 26",
+      "section": "26",
+      "title": "§ 26 Přijetí úvěru nebo zápůjčky",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "(1) Úvěr nebo zápůjčku na účet standardního fondu lze přijmout jen, jestliže\na) splatnost tohoto úvěru nebo této zápůjčky není delší než 6 měsíců a\nb) součet hodnoty všech takto přijatých úvěrů a zápůjček nepřekročí 10 % čisté hodnoty aktiv standardního fondu.\n(2) Odstavcem 1 není dotčen limit pro expozici standardního fondu vztahující se k finančním derivátům."
+    },
+    {
+      "provision_ref": "§ 27",
+      "section": "27",
+      "title": "§ 27 Poskytnutí úvěru nebo zápůjčky",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "Majetek standardního fondu nelze použít k poskytnutí úvěru nebo zápůjčky, které nesouvisí s jeho obhospodařováním; tím nejsou dotčeny § 3 odst. 3, § 10 odst. 3, § 22 a 30 až 44."
+    },
+    {
+      "provision_ref": "§ 28",
+      "section": "28",
+      "title": "§ 28 Poskytnutí daru, zajištění dluhu jiné osoby nebo úhrada dluhu nesouvisejícího s obhospodařováním",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "Majetek standardního fondu nelze použít k poskytnutí daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s jeho obhospodařováním; tím nejsou dotčeny § 3 odst. 3, § 10 odst. 3, § 22 a 30 až 44."
+    },
+    {
+      "provision_ref": "§ 29",
+      "section": "29",
+      "title": "§ 29",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 4 - Uzavírání smluv o prodeji investičních nástrojů, které standardní fond nemá ve svém majetku, nebo které má na čas přenechány",
+      "content": "Na účet standardního fondu nelze uzavřít smlouvu o prodeji investičních nástrojů, které tento fond nemá ve svém majetku, nebo které má na čas přenechány."
+    },
+    {
+      "provision_ref": "§ 30",
+      "section": "30",
+      "title": "§ 30 Techniky k obhospodařování standardního fondu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Technikami k obhospodařování standardního fondu jsou pouze repo obchody podle § 31 až 33 a finanční deriváty podle § 12 a 13.\n(2) Techniky uvedené v odstavci 1 lze použít jen tehdy, jestliže\na) se vztahují k investičním cenným papírům a k nástrojům peněžního trhu,\nb) jsou použity výhradně za účelem efektivního obhospodařování standardního fondu a za účelem\n1. snížení rizika souvisejícího s investováním na účet tohoto fondu,\n2. snížení nákladů souvisejících s investováním na účet tohoto fondu, nebo\n3. získání dodatečného kapitálu nebo dosažení dodatečných výnosů, jestliže je podstupované riziko v souladu s rizikovým profilem tohoto fondu,\nc) použitím těchto technik nejsou obcházena pravidla stanovená tímto nařízením a určená statutem tohoto fondu ani investiční strategie tohoto fondu a\nd) standardní fond je v každém okamžiku schopen splnit svou povinnost převést peněžní prostředky nebo dodat podkladové aktivum plynoucí z finančního derivátu sjednaného na účet tohoto fondu."
+    },
+    {
+      "provision_ref": "§ 31",
+      "section": "31",
+      "title": "§ 31 Repo obchod",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Repo obchod s využitím majetku standardního fondu lze sjednat pouze s přípustnou protistranou, která podléhá dohledu orgánu dohledu státu, ve kterém má sídlo.\n(2) Věci, které jsou v rámci repo obchodu předmětem prodeje, nákupu nebo jiného převodu, musí byt dostatečně diverzifikovány. Má se za to, že tyto věci jsou dostatečně diverzifikovány, jsou-li diverzifikovány z hlediska zeměpisných oblastí, hospodářských odvětví a, jde-li o cenné papíry nebo zaknihované cenné papíry, též jejich emitentů. Platí, že věci jsou diverzifikovány z hlediska emitentů, netvoří-li cenné papíry a zaknihované cenné papíry vydané jedním emitentem více než 20 % čisté hodnoty aktiv standardního fondu.\n(3) Odstavec 2 se nepoužije pro cenné papíry a zaknihované cenné papíry vydané jedním emitentem, vydal-li tyto cenné papíry nebo zaknihované cenné papíry nebo převzal-li za ně záruku stát, územní samosprávný celek členského státu, nebo mezinárodní finanční organizace, jejímž členem je jeden nebo více členských států, jestliže\na) je to uvedeno ve statutu standardního fondu,\nb) je ve statutu standardního fondu výslovně uveden stát, územní samosprávný celek členského státu nebo mezinárodní finanční organizace, ve vztahu k němuž může dojít k překročení limitu 20 % čisté hodnoty aktiv standardního fondu,\nc) jsou v majetku standardního fondu v každém okamžiku cenné papíry nebo zaknihované cenné papíry z nejméně 6 různých emisí a\nd) cenné papíry a zaknihované cenné papíry z jedné emise netvoří více než 30 % čisté hodnoty aktiv tohoto fondu."
+    },
+    {
+      "provision_ref": "§ 32",
+      "section": "32",
+      "title": "§ 32 Repo",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Repo lze s využitím majetku standardního fondu sjednat jen tehdy, lze-li závazek z něj vypovědět bez výpovědní doby nebo s výpovědní dobou kratší než 7 dní.\n(2) Za peněžní prostředky získané z repa lze nabýt pouze věc uvedenou v § 15 nebo vysoce kvalitní dluhopis.\n(3) Peněžní prostředky získané z repa lze využít ke sjednání reverzního repa, jehož jinou smluvní stranou je osoba uvedená v § 72 odst. 2 zákona o investičních společnostech a investičních fondech a ze kterého lze závazek vypovědět bez výpovědní doby.\n(4) Používá-li toto nařízení pojem „repo“, aniž se jedná o pojem „repo obchod“, rozumí se jím prodej nebo jiný převod věci se současně sjednanou zpětnou koupí nebo jiným zpětným převodem."
+    },
+    {
+      "provision_ref": "§ 33",
+      "section": "33",
+      "title": "§ 33 Reverzní repo",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Reverzní repo lze s využitím majetku standardního fondu sjednat jen tehdy, lze-li závazek z něj vypovědět bez výpovědní doby nebo s výpovědní dobou kratší než 7 dní nebo lze-li peněžní prostředky, které jsou předmětem reverzního repa, kdykoli získat zpět, a to včetně výnosů, popřípadě v tržní hodnotě (mark-to-market), je-li pro oceňování tohoto reverzního repa používána tržní hodnota.\n(2) Věci, které jsou předmětem reverzního repa,\na) musí být vysoce likvidní, vysoce kvalitní a, nejde-li o cenné papíry nebo zaknihované cenné papíry přijatelné jako finanční kolaterál pro měnové operace České národní banky na domácím peněžním trhu, musí být přijaty k obchodování na některém z trhů uvedených v § 3 odst. 1 písm. a) bodě 1,\nb) musí být oceňovány každý pracovní den a nesmí být vysoce volatilní, ledaže je jejich hodnota při oceňování přiměřeně snížena (haircut),\nc) nesmí být vydány osobou, která není nezávislá na jiné smluvní straně, a\nd) musí být v majetku standardního fondu nebo v opatrování osoby, která je nezávislá na jiné smluvní straně.\n(3) Věci, které jsou předmětem reverzního repa, nelze po dobu trvání reverzního repa zatížit absolutním majetkovým právem nebo převést na jinou osobu, nejde-li o zpětný prodej nebo jiný zpětný převod na jinou smluvní stranu.\n(4) Používá-li toto nařízení pojem „reverzní repo“, rozumí se jím koupě nebo jiný převod věci se současně sjednaným zpětným prodejem nebo jiným zpětným převodem."
+    },
+    {
+      "provision_ref": "§ 34",
+      "section": "34",
+      "title": "§ 34 Zajištění finančního derivátu poskytnuté standardnímu fondu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "Pro věci poskytnuté standardnímu fondu k zajištění finančního derivátu sjednaného na účet standardního fondu se § 31 odst. 2 a 3, § 32 odst. 2 a 3 a § 33 odst. 2 a 3 použijí obdobně."
+    },
+    {
+      "provision_ref": "§ 35",
+      "section": "35",
+      "title": "§ 35 Výpočet celkové expozice standardního fondu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Výpočet celkové expozice standardního fondu se provádí\na) závazkovou metodou,\nb) metodou hodnoty v riziku, nebo\nc) jinou pokročilou metodou měření rizik.\n(2) Při výpočtu celkové expozice standardního fondu se zohlední\na) současná hodnota podkladových aktiv derivátů,\nb) riziko protistrany ve vztahu k osobě, s níž jsou deriváty sjednávány,\nc) předpokládané budoucí pohyby trhu,\nd) doba, za jakou je možné pozice fondu vztahující se k derivátům uzavřít, a\ne) techniky k obhospodařování uvedené v § 30, využívají-li pákový efekt nebo vedou-li ke zvýšení expozice fondu ve vztahu k tržnímu riziku.\n(3) Obhospodařovatel standardního fondu zajistí, aby zvolená metoda výpočtu celkové expozice byla vhodná vzhledem k uplatňované investiční strategii fondu, typům a složitosti použitých derivátů a podílu derivátů v majetku tohoto fondu.\n(4) Výpočet celkové expozice standardního fondu se provádí alespoň jedenkrát denně.\nZávazková metoda"
+    },
+    {
+      "provision_ref": "§ 36",
+      "section": "36",
+      "title": "§ 36",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "Provádí-li se výpočet celkové expozice závazkovou metodou, rozumí se „celkovou expozicí“ expozice vztahující se k derivátům vypočtená v souladu s § 37."
+    },
+    {
+      "provision_ref": "§ 37",
+      "section": "37",
+      "title": "§ 37",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) U každého derivátu, včetně derivátu obsaženého v investičním cenném papíru nebo nástroji peněžního trhu, se určí dlouhá podkladová aktiva a krátká podkladová aktiva. Dlouhá podkladová aktiva derivátů se oceňují kladnými reálnými hodnotami a krátká podkladová aktiva derivátů se oceňují zápornými reálnými hodnotami vyjádřenými v korunách českých.\n(2) Dlouhá podkladová aktiva a krátká podkladová aktiva derivátů lze kompenzovat, mají-li tato aktiva tytéž parametry nebo jsou-li silně korelovaná.\n(3) Platí, že podkladová aktiva mají tytéž parametry, jestliže\na) jsou závazky vůči téže osobě, vázané na tytéž podmínky podřízenosti, a peněžní toky v téže měně, výši a splatnosti, jde-li o dluhopisy, a\nb) je vydal týž emitent, jsou s toutéž podřízeností a v téže měně a výši, jde-li o akcie.\n(4) Platí, že podkladová aktiva jsou silně korelovaná, existuje-li mezi denními změnami reálné hodnoty jednoho nástroje a denními změnami reálné hodnoty jiného nástroje korelace alespoň ve výši 0,95 pro časové období v délce nejméně 12 měsíců bezprostředně předcházejících dni výpočtu celkové expozice.\n(5) Krátká podkladová aktiva derivátů lze kompenzovat s využitím investičních nástrojů, do kterých fond investoval, jde-li o investiční cenné papíry, nástroje peněžního trhu, nebo cenné papíry nebo zaknihované cenné papíry vydávané fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem.\n(6) Expozice vztahující se k derivátům se rovná součtu absolutních hodnot zbývajících krátkých podkladových aktiv."
+    },
+    {
+      "provision_ref": "§ 38",
+      "section": "38",
+      "title": "§ 38 Celková expozice podřízeného fondu",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "Provádí-li se výpočet celkové expozice standardního fondu, který je podřízeným fondem, vypočte se celková expozice tohoto fondu tak, že se k expozici tohoto fondu vztahující se k derivátům přičte poměrná část\na) expozice řídícího fondu vztahující se k derivátům odpovídající podílu na cenných papírech nebo zaknihovaných cenných papírech vydávaných tímto řídícím fondem, které jsou v majetku tohoto podřízeného fondu, nebo\nb) maximální míry expozice vztahující se k derivátům, které smí řídící fond podle svého statutu nebo srovnatelného dokumentu dosahovat, odpovídající podílu na cenných papírech nebo zaknihovaných cenných papírech vydávaných tímto řídícím fondem, které jsou v majetku tohoto podřízeného fondu.\nMetoda hodnoty v riziku (VaR)"
+    },
+    {
+      "provision_ref": "§ 39",
+      "section": "39",
+      "title": "§ 39",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "Provádí-li se výpočet celkové expozice standardního fondu metodou hodnoty v riziku (VaR), rozumí se celkovou expozicí tohoto fondu hodnota v riziku vypočtená v souladu s § 40 až 43."
+    },
+    {
+      "provision_ref": "§ 40",
+      "section": "40",
+      "title": "§ 40",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Metoda hodnoty v riziku je založena na modelu relativní rizikové hodnoty nebo na modelu absolutní rizikové hodnoty a použije se na všechny investiční nástroje standardního fondu včetně derivátů.\n(2) Model relativní rizikové hodnoty nelze použít, mění-li se rizikový profil standardního fondu často nebo není-li pro něj možné najít referenční portfolio.\n(3) Model relativní rizikové hodnoty a model absolutní rizikové hodnoty musí splňovat tyto požadavky:\na) riziková hodnota je počítána denně,\nb) pro výpočet rizikové hodnoty je používán jednostranný konfidenční interval na hladině spolehlivosti 99 %,\nc) pro výpočet rizikové hodnoty je obdobím držení nástrojů 1 měsíc; rizikovou hodnotu vypočítanou za kratší období držení lze použít, koriguje-li se taková riziková hodnota na ekvivalent 1 měsíce pomocí druhé odmocniny poměru období,\nd) efektivní historické období pozorování pro výpočet rizikové hodnoty je alespoň 1 rok; použití údajů za kratší období je přípustné, došlo-li ke značnému zvýšení cenové volatility,\ne) datové soubory se obnovují alespoň jednou za 3 měsíce,\nf) model je založen na maticích variance-kovariance, na historických simulacích nebo na simulacích Monte Carlo,\ng) u úrokového rizika se zohledňují rizikové faktory odpovídající úrokovým mírám v každé měně s tím, že konstrukce výnosové křivky vychází ze všeobecně uznávaných metod a výnosová křivka je rozčleněna na alespoň 6 časových pásem,\nh) u akciového rizika zohledňuje rizikové faktory odpovídající každému trhu uvedenému v § 3 odst. 1 písm. a), na němž obchodované akcie má standardní fond ve svém majetku,\ni) u měnového rizika zohledňuje rizikové faktory odpovídající investičním nástrojům a pohledávkám na výplatu peněžních prostředků z účtu v jednotlivých cizích měnách,\nj) model zohledňuje případné specifické riziko a\nk) model obsahuje zpětné testování a stresové testování."
+    },
+    {
+      "provision_ref": "§ 41",
+      "section": "41",
+      "title": "§ 41 Zpětné testování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Zpětné testování poskytuje pro každý pracovní den srovnání výpočtu jednodenní rizikové hodnoty určené na základě pozic ke konci pracovního dne s hodnotou majetku následujícího pracovního dne.\n(2) Zpětné testování se provádí na základě skutečných nebo hypotetických změn hodnoty majetku.\n(3) Skutečné změny hodnoty majetku jsou založeny na skutečných pozicích fondu a hypotetické změny hodnoty majetku jsou založeny na nezměněných pozicích fondu."
+    },
+    {
+      "provision_ref": "§ 42",
+      "section": "42",
+      "title": "§ 42 Stresové testování",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Stresové testování se provádí alespoň jednou měsíčně.\n(2) Stresové testování slouží k identifikaci událostí a vlivů, které mají nebo mohou mít značný dopad na standardní fond.\n(3) Stresové scénáře berou v úvahu faktory, které mohou mít za následek značné ztráty standardního fondu nebo mohou značně ztížit řízení rizik.\n(4) Stresové scénáře zahrnují události s nízkou pravděpodobností výskytu ve všech hlavních druzích rizik."
+    },
+    {
+      "provision_ref": "§ 43",
+      "section": "43",
+      "title": "§ 43 Model relativní rizikové hodnoty",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) U modelu relativní rizikové hodnoty se provádí výpočet rizikové hodnoty standardního fondu a referenčního portfolia.\n(2) Rizikový profil referenčního portfolia musí být v souladu s investiční strategií, rizikovým profilem a investičními limity standardního fondu.\n(3) Proces výběru a sledování vhodnosti skladby referenčního portfolia je součástí systému řízení rizik obhospodařovatele standardního fondu.\n(4) Referenční portfolio nesmí využívat pákový efekt ani obsahovat finanční deriváty, včetně derivátů obsažených v investičním cenném papíru nebo v nástroji peněžního trhu, kromě případů, kdy\na) standardní fond používá strategii dlouhých a krátkých pozic; potom může používat referenční portfolio obsahující finanční deriváty s krátkými podkladovými aktivy, nebo\nb) se standardní fond zajišťuje proti měnovému riziku; potom může používat referenční portfolio obsahující měnový derivát, který má znaky zajišťovacího derivátu podle mezinárodních účetních standardů upravených právem Evropské unie20).\n(5) Měnovým derivátem se pro účely tohoto nařízení rozumí derivát, jehož podkladovým aktivem je měnový kurz nebo měna."
+    },
+    {
+      "provision_ref": "§ 44",
+      "section": "44",
+      "title": "§ 44 Limity u celkové expozice",
+      "chapter": "ČÁST DRUHÁ - STANDARDNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ STANDARDNÍHO FONDU, SNIŽOVÁNÍ RIZIKA PLYNOUCÍHO Z POUŽITÍ FINANČNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Provádí-li se výpočet celkové expozice standardního fondu závazkovou metodou, nesmí expozice vztahující se k finančním derivátům přesáhnout v žádném okamžiku 100 % čisté hodnoty aktiv tohoto fondu; je-li limit překročen v důsledku změn reálných hodnot, upraví se pozice tohoto fondu ve vztahu k finančním derivátům bez zbytečného odkladu tak, aby expozice vztahující se k finančním derivátům vyhovovala limitu.\n(2) Provádí-li se výpočet celkové expozice standardního fondu na základě modelu absolutní rizikové hodnoty, nesmí být hodnota v riziku větší než 20 % čisté hodnoty aktiv standardního fondu.\n(3) Provádí-li se výpočet celkové expozice standardního fondu na základě modelu relativní rizikové hodnoty, nesmí být hodnota v riziku větší než dvojnásobek rizikové hodnoty referenčního portfolia."
+    },
+    {
+      "provision_ref": "§ 45",
+      "section": "45",
+      "title": "§ 45 Základní ustanovení",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "(1) Do jmění speciálního fondu lze nabýt pouze\na) věc, kterou lze nabýt do jmění standardního fondu,\nb) cenný papír nebo zaknihovaný cenný papír vydávaný fondem kvalifikovaných investorů nebo srovnatelným zahraničním investičním fondem,\nc) komoditu a komoditní derivát a\nd) nemovitost a účast v nemovitostní společnosti, je-li tento speciální fond fondem nemovitostí.\n(2) Do jmění speciálního fondu, který je podřízeným fondem, však lze nabýt pouze\na) cenné papíry nebo zaknihované cenné papíry vydávané jeho řídícím fondem,\nb) finanční deriváty uvedené v § 12 a 13, které jsou technikou k obhospodařování tohoto fondu a které jsou sjednány výhradně za účelem zajištění,\nc) pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně podle § 15 a\nd) věci obdobně podle § 16, je-li tento speciální fond akciovou společností s proměnným základním kapitálem a má-li povolení České národní banky k činnosti samosprávného investičního fondu.\n(3) Komoditním derivátem se pro účely tohoto nařízení rozumí derivát, jehož podkladovým aktivem je komodita."
+    },
+    {
+      "provision_ref": "§ 46",
+      "section": "46",
+      "title": "§ 46 Investiční cenné papíry",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "(1) Do jmění speciálního fondu, který není fondem nemovitostí, lze nabýt\na) investiční cenný papír uvedený v § 3 odst. 1 písm. a) až d),\nb) dluhopis vydaný státem, centrální bankou státu, bankou nebo zahraniční bankou anebo za který převzal záruku stát, není-li investičním cenným papírem uvedeným v § 3 odst. 1 písm. a) až d), a\nc) investiční cenný papír neuvedený v písmenech a) a b).\n(2) Do jmění fondu nemovitostí lze nabýt dluhopis, který je přijat k obchodování na trhu uvedeném v § 3 odst. 1 písm. a) a jehož zbytková doba do dne splatnosti je kratší nebo rovna 3 rokům.\n(3) Nevyplývá-li z odstavců 1 a 2 něco jiného, použijí se pro nabývání investičních cenných papírů do jmění speciálního fondu § 3 odst. 3 a § 4 obdobně."
+    },
+    {
+      "provision_ref": "§ 47",
+      "section": "47",
+      "title": "§ 47 Cenné papíry a zaknihované cenné papíry vydávané investičním fondem nebo zahraničním investičním fondem",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "(1) Do jmění speciálního fondu lze nabýt cenný papír nebo zaknihovaný cenný papír vydaný fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem, jestliže\na) má jeho obhospodařovatel povolení orgánu dohledu státu, ve kterém má sídlo, a podléhá dohledu tohoto orgánu dohledu,\nb) podle statutu nebo srovnatelného dokumentu fondu, který tento cenný papír nebo zaknihovaný cenný papír vydal, investuje tento fond nejvýše 10 % hodnoty svého majetku do cenných papírů a zaknihovaných cenných papírů vydávaných fondy kolektivního investování nebo srovnatelnými zahraničními investičními fondy a\nc) jsou tyto cenné papíry nebo zaknihované cenné papíry odkupovány ve lhůtě kratší než 1 rok nebo je zajištěno, že se cena těchto cenných papírů nebo zaknihovaných cenných papírů na trhu uvedeném v § 3 odst. 1 písm. a) významně neodchyluje od jejich aktuální hodnoty.\n(2) Do jmění speciálního fondu, který není fondem nemovitostí, lze nabýt i cenný papír nebo zaknihovaný cenný papír vydaný fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem, u něhož nejsou splněny podmínky podle odstavce 1.\n(3) Do jmění speciálního fondu lze nabýt cenný papír nebo zaknihovaný cenný papír vydaný fondem kvalifikovaných investorů nebo srovnatelným zahraničním investičním fondem,\na) obhospodařuje-li tento fond kvalifikovaných investorů nebo srovnatelný zahraniční investiční fond obhospodařovatel oprávněný přesáhnout rozhodný limit,\nb) může-li tento fond kvalifikovaných investorů nebo srovnatelný zahraniční investiční fond podle svého statutu nebo srovnatelného dokumentu poskytovat úvěry a zápůjčky pouze za podmínek uvedených v § 74 odst. 1 a 2,\nc) lze-li tento fond kvalifikovaných investorů nebo srovnatelný zahraniční investiční fond nabízet v České republice a\nd) investuje-li tento fond kvalifikovaných investorů nebo srovnatelný zahraniční investiční fond podle svého statutu nebo srovnatelného dokumentu pouze do věcí, které lze nabýt do jmění tohoto speciálního fondu.\n(4) Nevyplývá-li z odstavců 1 a 2 něco jiného, použije se pro nabývání cenných papírů nebo zaknihovaných cenných papírů vydávaných fondy kolektivního investování nebo srovnatelnými zahraničními investičními fondy do jmění speciálního fondu § 10 odst. 3 obdobně."
+    },
+    {
+      "provision_ref": "§ 48",
+      "section": "48",
+      "title": "§ 48 Nástroje peněžního trhu",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "(1) Do jmění fondu nemovitostí lze nabýt pouze nástroje peněžního trhu, kterými jsou státní pokladniční poukázky, poukázky České národní banky a srovnatelné nástroje peněžního trhu.\n(2) Nevyplývá-li z odstavce 1 něco jiného, použijí se pro nabývání nástrojů peněžního trhu do jmění speciálního fondu § 5 až 9 obdobně."
+    },
+    {
+      "provision_ref": "§ 49",
+      "section": "49",
+      "title": "§ 49 Finanční deriváty a komoditní deriváty",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "(1) Na účet speciálního fondu lze sjednat finanční deriváty uvedené v § 12 a 13.\n(2) Na účet speciálního fondu lze sjednat komoditní derivát, který se obchoduje na trzích uvedených v § 3 odst. 1 písm. a).\n(3) Na účet speciálního fondu lze sjednat komoditní derivát, který se neobchoduje na trzích uvedených v § 3 odst. 1 písm. a),\na) oceňuje-li se spolehlivě a ověřitelně každý pracovní den a obhospodařovatel tohoto fondu má právo jej kdykoliv postoupit nebo vypovědět anebo jinak ukončit za částku, které lze dosáhnout mezi smluvními stranami za podmínek, které nejsou pro žádnou ze stran významně nerovnovážné; platí, že komoditní derivát se oceňuje spolehlivě a ověřitelně, jsou-li obdobně splněny podmínky uvedené v § 14 odst. 4 písm. a) až d), a\nb) je-li tento derivát sjednán s přípustnou protistranou, která podléhá dohledu orgánu dohledu státu, ve kterém má sídlo.\n(4) Na účet fondu nemovitostí lze sjednat pouze finanční deriváty uvedené v § 12 a 13, které jsou technikou k obhospodařování tohoto fondu a které jsou sjednány výhradně za účelem zajištění.\n(5) Na účet fondu nemovitostí nelze sjednat komoditní derivát."
+    },
+    {
+      "provision_ref": "§ 50",
+      "section": "50",
+      "title": "§ 50 Pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 1 - Obecná ustanovení",
+      "content": "Pro nabývání pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně do jmění speciálního fondu se § 15 použije obdobně."
+    },
+    {
+      "provision_ref": "§ 51",
+      "section": "51",
+      "title": "§ 51 Fond nemovitostí",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "Fondem nemovitostí je speciální fond, který podle svého statutu investuje do nemovitostí a účastí v nemovitostních společnostech.\nNabytí nemovitosti"
+    },
+    {
+      "provision_ref": "§ 52",
+      "section": "52",
+      "title": "§ 52",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "(1) Do jmění fondu nemovitostí nelze nabýt nemovitost z majetku obhospodařovatele, administrátora, depozitáře nebo hlavního podpůrce tohoto fondu.\n(2) Do jmění jednoho podfondu fondu nemovitostí lze nabýt nemovitost z majetku jiného podfondu téhož fondu nemovitostí jen za podmínek a z důvodů uvedených v rámci investiční strategie každého z těchto podfondů v jejich statutu."
+    },
+    {
+      "provision_ref": "§ 53",
+      "section": "53",
+      "title": "§ 53",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "Do jmění fondu nemovitostí lze nabýt nemovitost za účelem\na) jejího provozování, je-li tato nemovitost způsobilá při řádném hospodaření přinášet pravidelný a dlouhodobý výnos, nebo\nb) jejího dalšího prodeje, je-li tato nemovitost způsobilá přinést ze svého prodeje zisk."
+    },
+    {
+      "provision_ref": "§ 54",
+      "section": "54",
+      "title": "§ 54",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "Do jmění fondu nemovitostí lze nabýt nemovitost nacházející se na území jiného státu pouze tehdy, jestliže\na) je ve statutu tohoto fondu uvedeno, že může investovat do nemovitostí na území tohoto státu, a je v něm uveden i celkový maximální limit pro tyto investice,\nb) v tomto státě existuje evidence nemovitostí, do níž se zapisují vlastnická a jiná věcná práva k nemovitostem, a\nc) v tomto státě neexistují zákonná omezení pro převod nemovitostí."
+    },
+    {
+      "provision_ref": "§ 55",
+      "section": "55",
+      "title": "§ 55",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "(1) Do jmění fondu nemovitostí lze nabýt nemovitost zatíženou zástavním právem pouze tehdy, připadne-li do jmění fondu dluh, který je tímto zástavním právem zajištěn.\n(2) Do jmění fondu nemovitostí lze nabýt nemovitost zatíženou jiným absolutním majetkovým právem, než je zástavní právo, pouze tehdy, nesnižuje-li to podstatně její využitelnost."
+    },
+    {
+      "provision_ref": "§ 56",
+      "section": "56",
+      "title": "§ 56 Zatížení nemovitosti",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "(1) Nemovitost v majetku fondu nemovitostí lze zatížit zástavním právem pouze tehdy, je-li ve jmění tohoto fondu dluh, který má být tímto zástavním právem zajištěn.\n(2) Nemovitost v majetku fondu nemovitostí lze zatížit jiným absolutním majetkovým právem, než je zástavní právo, pouze tehdy, nesnižuje-li to podstatně její využitelnost.\nÚčast v nemovitostní společnosti"
+    },
+    {
+      "provision_ref": "§ 57",
+      "section": "57",
+      "title": "§ 57",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "(1) Na účet fondu nemovitostí lze nabýt a držet účast pouze v nemovitostní společnosti,\na) u níž jsou přípustné pouze peněžité vklady společníků,\nb) jejíž společníci plně splatili své vklady,\nc) která investuje pouze do nemovitostí, a to na území státu, ve kterém má sídlo,\nd) která dodržuje obdobně podmínky stanovené v § 53, 55 a 56; ocenění nemovitostí, které má nemovitostní společnost ve svém majetku, se pro účely výpočtu investičních limitů provádí podle odstavce 2 písm. c),\ne) která peněžní prostředky, které neinvestuje do nemovitostí, investuje pouze do nástrojů peněžního trhu uvedených v § 48 odst. 1 nebo pohledávek podle § 15; tím není dotčen § 59 ani tím není dotčena možnost nemovitostní společnosti hradit náklady spojené se správou jejího majetku,\nf) která nemá účast v jiné právnické osobě,\ng) představuje-li tato účast většinu potřebnou ke změně společenské smlouvy této nemovitostní společnosti,\nh) jsou-li nemovitosti, které nemovitostní společnost nabývá do svého majetku nebo zcizuje ze svého majetku, oceňovány způsobem stanoveným zákonem upravujícím investiční společnosti a investiční fondy pro oceňování nemovitostí,\ni) předkládá-li nemovitostní společnost jeho obhospodařovateli, administrátorovi a depozitáři\n1. jednou měsíčně soupis nemovitostí ve svém majetku a\n2. jednou ročně účetní závěrku,\nj) jsou-li vytvořeny předpoklady pro řádné plnění povinností obhospodařovatele tohoto fondu ve vztahu k této nemovitostní společnosti a\nk) je-li pro případ snížení nebo pozbytí účasti kteréhokoliv společníka v této nemovitostní společnosti pro fond sjednáno předkupní právo na odkoupení jeho podílu.\n(2) Před nabytím účasti v nemovitostní společnosti musí být tato účast oceněna způsobem stanoveným zákonem upravujícím investiční společnosti a investiční fondy a administrátorovi fondu nemovitostí musejí být předloženy\na) účetní závěrka nemovitostní společnosti, která ke dni ocenění účasti není starší více než 3 měsíce,\nb) přehled majetku a dluhů nemovitostní společnosti podle stavu ke dni vyhotovení účetní závěrky a\nc) ocenění nemovitostí, které má nemovitostní společnost ve svém majetku, provedené způsobem stanoveným zákonem upravujícím investiční společnosti a investiční fondy pro oceňování nemovitostí."
+    },
+    {
+      "provision_ref": "§ 58",
+      "section": "58",
+      "title": "§ 58",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "(1) Podmínka uvedená v § 57 odst. 1 písm. f) nemusí být splněna, jde-li o účast v jiné nemovitostní společnosti,\na) která splňuje požadavky uvedené v § 57 odst. 1 písm. a) až e) a g) až k),\nb) která nemá účast v jiné právnické osobě,\nc) nedojde-li nabytím účasti v této nemovitostní společnosti k překročení limitu podle § 69 odst. 1 a\nd) je-li zúčastněnými obchodními společnostmi nejpozději do 3 měsíců ode dne nabytí účasti v této nemovitostní společnosti rozhodnuto o přípravě fúze těchto společností s rozhodným dnem určeným nejpozději k prvnímu dni následujícího účetního období těchto společností a uskuteční-li se taková fúze do 18 měsíců ode dne nabytí účasti.\n(2) Pro nabytí a účast nemovitostní společnosti v jiné nemovitostní společnosti uvedené v odstavci 1 se § 57 odst. 2 použije obdobně.\n(3) Podmínky uvedené v § 57 odst. 1 musejí být splněny po celou dobu trvání účasti fondu nemovitostí v nemovitostní společnosti.\n(4) V případě nedodržení souladu skladby majetku fondu nemovitostí s požadavky uvedenými v § 57 odst. 1 musí být zjednána náprava ve smyslu § 216 odst. 1 zákona o investičních společnostech a investičních fondech nejpozději do 6 měsíců ode dne, kdy tento nesoulad nastal.\n(5) Požadavky uvedené v § 57 odst. 1 písm. c), e) a k) nemusí být splněny ke dni nabytí účasti fondu nemovitostí v nemovitostní společnosti, budou-li splněny do 6 měsíců ode dne nabytí této účasti; v takovém případě se odstavec 4 nepoužije.\n(6) Podmínky uvedené v § 57 odst. 2 nemusí být splněny v případě, kdy je fond nemovitostí jediným zakladatelem nemovitostní společnosti při plnění vkladové povinnosti peněžitým vkladem před zápisem této nemovitostní společnosti do obchodního rejstříku; to platí i v případě, kdy je jediným zakladatelem obhospodařovatel fondu nemovitostí bez právní osobnosti jednající na účet tohoto fondu nemovitostí."
+    },
+    {
+      "provision_ref": "§ 59",
+      "section": "59",
+      "title": "§ 59",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 1 - Věci > Oddíl 2 - Zvláštní ustanovení pro fond nemovitostí",
+      "content": "Na účet nemovitostní společnosti lze sjednat repo obchody nebo finanční deriváty uvedené v § 12 a 13 výhradně za účelem zajištění."
+    },
+    {
+      "provision_ref": "§ 60",
+      "section": "60",
+      "title": "§ 60 Limity u investičních cenných papírů a nástrojů peněžního trhu",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do investičních cenných papírů a do nástrojů peněžního trhu vydaných jedním emitentem nelze investovat více než 20 % čisté hodnoty aktiv speciálního fondu.\n(2) Do investičních cenných papírů uvedených v § 46 odst. 1 písm. c) a do nástrojů peněžního trhu uvedených v § 9 nelze investovat více než 10 % čisté hodnoty aktiv speciálního fondu.\n(3) Pro nabývání investičních cenných papírů nebo nástrojů peněžního trhu, které vydal nebo za které převzal záruku stát, územní samosprávný celek členského státu nebo mezinárodní finanční organizace, jejímž členem je jeden nebo více členských států, do jmění speciálního fondu se § 17 odst. 2 písm. b) a § 20 odst. 1, 3 a 4 použijí obdobně.\n(4) Pro nabývání dluhopisů vydaných jednou bankou, jedním spořitelním a úvěrním družstvem nebo jednou zahraniční bankou, která má sídlo v členském státě a podléhá dohledu tohoto státu chránícímu zájmy vlastníků dluhopisů, jsou-li peněžní prostředky získané emisí těchto dluhopisů investovány do takových druhů majetku, které do dne splatnosti dluhopisů kryjí závazky emitenta z těchto dluhopisů a které mohou být v případě platební neschopnosti emitenta přednostně použity ke splacení dluhopisu a k vyplacení výnosů, do jmění speciálního fondu se § 17 odst. 2 písm. c) použije obdobně."
+    },
+    {
+      "provision_ref": "§ 61",
+      "section": "61",
+      "title": "§ 61 Limity z celkové jmenovité hodnoty a z celkového počtu investičních cenných papírů a nástrojů peněžního trhu",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "Pro nabývání akcií, dluhopisů a nástrojů peněžního trhu do jmění speciálního fondu se § 18 a 19 použijí obdobně."
+    },
+    {
+      "provision_ref": "§ 62",
+      "section": "62",
+      "title": "§ 62 Zajištění poskytnuté jiné smluvní straně",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do limitů podle § 60 a 61 se započítává hodnota investičních cenných papírů a nástrojů peněžního trhu poskytnutých jiné smluvní straně jako zajištění finančních derivátů uvedených v § 13.\n(2) Zajištění podle odstavce 1 lze započítat v čisté hodnotě, má-li obhospodařovatel tohoto fondu s touto smluvní stranou sjednáno závěrečné vyrovnání, které je právně účinné a vymahatelné ve všech dotčených právních řádech."
+    },
+    {
+      "provision_ref": "§ 63",
+      "section": "63",
+      "title": "§ 63 Limity u cenných papírů nebo zaknihovaných cenných papírů vydávaných investičním fondem nebo zahraničním investičním fondem",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Do cenných papírů nebo zaknihovaných cenných papírů vydávaných jedním fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem nelze investovat více než 20 % čisté hodnoty aktiv speciálního fondu.\n(2) Jde-li o speciální fond, který podle svého statutu investuje více než 49 % čisté hodnoty svých aktiv do cenných papírů nebo zaknihovaných cenných papírů vydávaných fondy kolektivního investování a srovnatelnými zahraničními investičními fondy, lze investovat až 35 % čisté hodnoty aktiv tohoto fondu do cenných papírů a zaknihovaných cenných papírů vydaných jedním fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem, který je jmenovitě uveden nebo dostatečně charakterizován v jeho statutu; tato výjimka je přípustná pouze pro jeden investiční fond, nebo pro jeden zahraniční investiční fond.\n(3) Do cenných papírů nebo zaknihovaných cenných papírů uvedených v § 47 odst. 2 nelze investovat více než 10 % čisté hodnoty aktiv speciálního fondu, který není fondem nemovitostí.\n(4) Do jmění podfondu speciálního fondu nelze nabýt investiční akcii vydanou k jinému podfondu téhož speciálního fondu.\n(5) Do cenných papírů nebo zaknihovaných cenných papírů uvedených v § 47 odst. 3 nelze investovat více než 10 % čisté hodnoty aktiv speciálního fondu."
+    },
+    {
+      "provision_ref": "§ 64",
+      "section": "64",
+      "title": "§ 64 Limity ve vztahu k čisté hodnotě aktiv nebo srovnatelné veličině",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "Do jmění speciálního fondu nelze nabýt více než 50 % čisté hodnoty aktiv jednoho investičního fondu nebo srovnatelné veličiny zahraničního investičního fondu."
+    },
+    {
+      "provision_ref": "§ 65",
+      "section": "65",
+      "title": "§ 65 Limity u finančních a komoditních derivátů",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Riziko protistrany plynoucí z finančních derivátů uvedených v § 13 a komoditních derivátů uvedených v § 49 odst. 3, vyjádřené jako součet kladných reálných hodnot těchto derivátů, a riziko protistrany plynoucí z technik obhospodařování speciálního fondu, nesmí u jedné smluvní strany překročit\na) 10 % čisté hodnoty aktiv speciálního fondu, je-li touto smluvní stranou osoba uvedená v § 72 odst. 2 zákona o investičních společnostech a investičních fondech, nebo\nb) 5 % čisté hodnoty aktiv speciálního fondu, je-li touto smluvní stranou jiná osoba než osoba uvedená v § 72 odst. 2 zákona o investičních společnostech a investičních fondech.\n(2) Při výpočtu rizika protistrany podle odstavce 1 lze zohlednit pouze\na) sjednání závěrečného vyrovnání s jinou smluvní stranou daného derivátu za předpokladu, že\n1. rozhodné právo chrání závěrečné vyrovnání před účinky rozhodnutí nebo jiného úkonu soudu nebo správního orgánu alespoň v rozsahu ochrany, jaký závěrečnému vyrovnání poskytuje české právo, a\n2. se závěrečné vyrovnání vztahuje pouze na pohledávky týkající se finančních derivátů uvedených v § 13 a komoditních derivátů uvedených § 49 odst. 3 a\nb) hodnotu věcí přijatých k zajištění, za předpokladu, že jsou tyto věci oceňovány reálnou hodnotou každý pracovní den, jsou vysoce likvidní a speciální fond je má ve svém majetku nebo je má v opatrování osoba nezávislá na smluvní straně podle písmene a).\n(3) Pro účely odstavců 1 a 2 se do výpočtu rizika protistrany plynoucího z derivátů započte i hodnota existujících závazků ze smluv o prodeji cenných papírů nebo zaknihovaných cenných papírů nebo komodit uzavřených na účet tohoto fondu, do kterých může tento fond investovat podle tohoto nařízení nebo podle svého statutu, ale které nemá ve svém majetku, nebo které má na čas přenechány.\n(4) Pro účely výpočtu limitů podle § 60 a 67 se vezmou v úvahu podkladová aktiva derivátů sjednaných na účet speciálního fondu; to se nevyžaduje, jedná-li se o finanční deriváty, jejichž podkladovým aktivem jsou finanční indexy nebo kvantitativně vyjádřené finanční ukazatele."
+    },
+    {
+      "provision_ref": "§ 66",
+      "section": "66",
+      "title": "§ 66 Limity na pohledávky na výplatu peněžních prostředků z účtu v české nebo cizí měně",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "Pro nabývání pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně do jmění speciálního fondu se § 23 použije obdobně."
+    },
+    {
+      "provision_ref": "§ 67",
+      "section": "67",
+      "title": "§ 67 Limity u komodit",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "Nelze investovat více než\na) 20 % čisté hodnoty aktiv speciálního fondu do jedné komodity, která je drahým kovem, a\nb) 10 % čisté hodnoty aktiv speciálního fondu do jedné komodity, která není drahým kovem."
+    },
+    {
+      "provision_ref": "§ 68",
+      "section": "68",
+      "title": "§ 68 Limity u nemovitostí",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Hodnota nemovitosti nabývané do jmění fondu nemovitostí nesmí v době jejího nabytí překročit 20 % hodnoty majetku fondu.\n(2) Hodnota nemovitosti může po jejím nabytí do jmění fondu nemovitostí překračovat limit stanovený v odstavci 1 o více než 10 % nejdéle po dobu 3 let ode dne, kdy k tomuto překročení poprvé došlo.\n(3) Fond nemovitostí nemusí po dobu uvedenou ve statutu, nejdéle však po dobu 3 let ode dne svého vzniku, dodržet investiční limity, s výjimkou limitu stanoveného v odstavci 1, který po tuto dobu může být zvýšen až na 60 %.\n(4) Celková hodnota pozemků, jejichž součástí je rozestavěná stavba, a rozestavěných staveb, které nejsou součástí pozemku, nesmí překročit 20 % hodnoty majetku fondu nemovitostí. Celková hodnota pozemků, které jsou určeny ke stavbě, nesmí překročit 20 % hodnoty majetku fondu nemovitostí.\n(5) Nemovitosti, jejichž hospodářské využití je vzájemně propojeno, se pro účely výpočtu limitů podle tohoto nařízení považují za jednu nemovitost."
+    },
+    {
+      "provision_ref": "§ 69",
+      "section": "69",
+      "title": "§ 69 Limity u účastí v nemovitostní společnosti",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Hodnota účasti fondu nemovitostí v jedné nemovitostní společnosti může tvořit v době nabytí nejvýše 30 % hodnoty majetku tohoto fondu.\n(2) Hodnota účasti v nemovitostní společnosti nesmí po nabytí této účasti překračovat limit stanovený v odstavci 1 o více než 10 % po dobu trvající déle než 3 roky.\n(3) Pro účast fondu nemovitostí v nemovitostní společnosti, která je představována investičním cenným papírem, se limity pro investiční cenné papíry nepoužijí."
+    },
+    {
+      "provision_ref": "§ 70",
+      "section": "70",
+      "title": "§ 70 Společná ustanovení",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 2 - Investiční limity",
+      "content": "(1) Součet hodnot investičních cenných papírů nebo nástrojů peněžního trhu vydaných jedním emitentem, hodnot pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně za tímto emitentem a hodnot rizika protistrany plynoucího z derivátů podle § 13 a § 49 odst. 3 sjednaných s tímto emitentem nesmí překročit 35 % čisté hodnoty aktiv speciálního fondu.\n(2) Pro účely výpočtu investičního limitu podle odstavce 1 se vezmou v úvahu podkladová aktiva finančních derivátů a komoditních derivátů; to neplatí, jsou-li jejich podkladovými aktivy finanční indexy nebo finanční kvantitativně vyjádřené ukazatele.\n(3) Při zajištění rozložení rizika se lze odchýlit od § 60 až 70, nejdéle však na dobu 6 měsíců ode dne vzniku speciálního fondu, který není fondem nemovitostí.\n(4) Fond nemovitostí drží nejméně 10 % hodnoty svého majetku ve věcech uvedených v § 15, § 46 odst. 2, § 47 odst. 1 a § 48 odst. 1.\n(5) Odstavce 1 až 4, § 60 až 64 a 66 až 69 se nepoužijí pro speciální fond, který je podřízeným fondem. Pro speciální fond se § 25 odst. 5 věta druhá použije obdobně."
+    },
+    {
+      "provision_ref": "§ 71",
+      "section": "71",
+      "title": "§ 71 Základní ustanovení",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "(1) Na účet speciálního fondu lze přijmout úvěr nebo zápůjčku se splatností kratší než 6 měsíců.\n(2) Na účet speciálního fondu lze přijmout úvěr nebo zápůjčku se splatností delší než 6 měsíců jen za účelem investování tohoto fondu.\n(3) Expozice vůči riziku protistrany, vyjádřená rozdílem mezi hodnotou finančního kolaterálu nebo srovnatelného zajištění podle práva cizího státu převedeného na jinou smluvní stranu za sjednaný úvěr nebo zápůjčku a zůstatkovou hodnotou takového úvěru nebo takové zápůjčky, nesmí přesáhnout 20 % čisté hodnoty aktiv speciálního fondu vůči jedné smluvní straně."
+    },
+    {
+      "provision_ref": "§ 72",
+      "section": "72",
+      "title": "§ 72 Přijetí úvěru nebo zápůjčky",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "(1) Nejde-li o fond nemovitostí nebo o případy uvedené v odstavci 2 nebo 3, nesmí součet hodnoty všech přijatých úvěrů a zápůjček na účet tohoto fondu překročit 25 % čisté hodnoty jeho aktiv.\n(2) Zajišťuje-li speciální fond v souladu se svou investiční strategií silnou korelaci mezi dlouhými pozicemi a krátkými pozicemi a obsahuje-li obchodní firma nebo jiné označení tohoto fondu slova „long-short“ nebo slova „market neutral“, nesmí součet hodnoty všech přijatých úvěrů a zápůjček na účet tohoto fondu překročit 400 % čisté hodnoty jeho aktiv.\n(3) Součet hodnoty všech přijatých úvěrů a zápůjček na účet speciálního fondu neuvedeného v odstavci 2, jehož obchodní firma nebo jiné označení obsahuje slovo „rizikový“, nesmí v době jejich sjednání překročit 200 % čisté hodnoty jeho aktiv.\n(4) Obhospodařovatel speciálního fondu oprávněný přesáhnout rozhodný limit pro určení maximálního limitu pro míru využití pákového efektu na účet tohoto speciálního fondu, jakož i pro určení limitu pro poskytnutí investičních nástrojů z majetku tohoto fondu jako finančního kolaterálu nebo srovnatelného zajištění podle práva cizího státu anebo jiného zajištění, zohlední zejména\na) investiční strategii tohoto fondu,\nb) míru expozice tohoto fondu, jakož i jinou ekonomickou vazbu na osoby, které by mohly být zdrojem systémového rizika pro řádné fungování finančního trhu v České republice,\nc) riziko koncentrace vůči jedné smluvní straně,\nd) míru zajištění při využívání pákového efektu,\ne) poměr majetku a dluhů tohoto fondu a\nf) charakter, rozsah a složitost svých činností."
+    },
+    {
+      "provision_ref": "§ 73",
+      "section": "73",
+      "title": "§ 73 Přijetí úvěru nebo zápůjčky na účet fondu nemovitostí",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "(1) Součet hodnoty všech úvěrů a zápůjček přijatých na účet fondu nemovitostí nesmí přesáhnout 100 % čisté hodnoty jeho aktiv.\n(2) Na účet fondu nemovitostí lze přijmout úvěr nebo zápůjčku se splatností do 1 roku za standardních podmínek do výše 20 % čisté hodnoty aktiv tohoto fondu. Splatnost úvěru zajišťovaného zástavním právem nebo zápůjčky zajišťované zástavním právem může být delší než 1 rok.\n(3) Na účet fondu nemovitostí lze přijmout úvěr zajišťovaný zástavním právem nebo zápůjčku zajišťovanou zástavním právem pouze za účelem udržení nebo zlepšení stavu nemovitosti v majetku tohoto fondu nebo za účelem nabytí nemovitosti do jmění tohoto fondu, a to do výše 70 % hodnoty nabývané nemovitosti."
+    },
+    {
+      "provision_ref": "§ 74",
+      "section": "74",
+      "title": "§ 74 Poskytnutí úvěru nebo zápůjčky",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "(1) Pro speciální fond se § 27 použije obdobně; tím není dotčen § 77.\n(2) Z majetku fondu nemovitostí lze poskytnout zajištěný úvěr nebo zajištěnou zápůjčku pouze nemovitostní společnosti, ve které má tento fond účast. V případě pozbytí účasti fondu v nemovitostní společnosti musí být tento úvěr splatný nebo tato zápůjčka splatná do 6 měsíců ode dne pozbytí této účasti.\n(3) Součet hodnoty všech úvěrů a zápůjček poskytnutých z majetku fondu nemovitostí jedné nemovitostní společnosti nesmí překročit 50 % hodnoty všech nemovitostí v majetku této nemovitostní společnosti včetně hodnoty nabývaných nemovitostí.\n(4) Součet hodnoty všech úvěrů a zápůjček poskytnutých z majetku fondu nemovitostí nemovitostním společnostem nesmí překročit 55 % čisté hodnoty jeho aktiv."
+    },
+    {
+      "provision_ref": "§ 75",
+      "section": "75",
+      "title": "§ 75 Poskytnutí daru, zajištění dluhu jiné osoby nebo úhrada dluhu nesouvisejícího s obhospodařováním",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 3 - Úvěry, zápůjčky, dary a některé dluhy",
+      "content": "Pro speciální fond se § 28 použije obdobně; tím nejsou dotčeny § 77 a 78."
+    },
+    {
+      "provision_ref": "§ 76",
+      "section": "76",
+      "title": "§ 76",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA I - SKLADBA MAJETKU > Díl 4 - Uzavírání smluv o prodeji investičních nástrojů a komodit, které speciální fond nemá ve svém majetku, nebo které má na čas přenechány",
+      "content": "(1) Na účet speciálního fondu lze uzavírat smlouvy o prodeji pouze takových investičních nástrojů, které podle tohoto nařízení nebo podle jeho statutu lze nabývat do jmění tohoto fondu, ale které nemá tento fond ve svém majetku, nebo které má na čas přenechány, a to pouze tehdy,\na) týkají-li se tyto smlouvy investičních nástrojů přijatých k obchodování na trhu uvedeném v § 3 odst. 1 písm. a); týká-li se tato smlouva jiných investičních nástrojů, musí být takové investiční nástroje likvidní a celkový závazek vztahující se k takovým investičním nástrojům z těchto smluv nesmí přesáhnout 10 % čisté hodnoty aktiv tohoto fondu,\nb) netýkají-li se tyto smlouvy více než 10 % z celkové jmenovité hodnoty nebo z celkového počtu investičních nástrojů téhož druhu vydaných jedním emitentem,\nc) nepředstavují-li závazky z těchto smluv vztahujících se k investičním nástrojům vydaných jedním emitentem více než 10 % čisté hodnoty aktiv tohoto fondu,\nd) drží-li tento fond po celou dobu trvání těchto smluv prostředky v takové výši, aby mohl kdykoli otevřené pozice ze všech těchto smluv uzavřít, a\ne) je-li jinou smluvní stranou této smlouvy osoba, která je přípustnou protistranou a podléhá dohledu České národní banky, orgánu dohledu jiného členského státu nebo orgánu dohledu jiného státu.\n(2) Na účet speciálního fondu lze uzavírat smlouvy o prodeji pouze takových komodit, které podle tohoto nařízení nebo podle jeho statutu lze nabývat do jmění tohoto fondu, ale které tento fond nemá ve svém majetku, nebo které má na čas přenechány, a to pouze tehdy,\na) nepřesahuje-li celkový závazek z těchto smluv 10 % čisté hodnoty aktiv tohoto fondu a\nb) je-li jinou smluvní stranou této smlouvy osoba, která je přípustnou protistranou a podléhá dohledu České národní banky, orgánu dohledu jiného členského státu nebo orgánu dohledu jiného státu."
+    },
+    {
+      "provision_ref": "§ 77",
+      "section": "77",
+      "title": "§ 77 Techniky k obhospodařování speciálního fondu a měření rizika",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ SPECIÁLNÍHO FONDU, SNIŽOVÁNÍ RIZIKA Z POUŽITÍ FINANČNÍCH A KOMODITNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "(1) Pro speciální fond se § 30 až 33 použijí obdobně, přičemž\na) technikou k obhospodařování speciálního fondu může být i komoditní derivát, který nesplňuje požadavek § 30 odst. 2 písm. a), za podmínek uvedených v § 49 a\nb) jinou smluvní stranou reverzního repa může být i osoba, která není uvedena v § 31, je-li alespoň druhově určena ve statutu tohoto fondu.\n(2) Způsob výpočtu celkové expozice speciálního fondu vymezují čl. 6 až 11 a přílohy I až III nařízení Komise v přenesené pravomoci (EU) č. 231/2013 ze dne 19. prosince 2012, kterým se doplňuje směrnice Evropského parlamentu a Rady 2011/61/EU, pokud jde o výjimky, obecné podmínky provozování činnosti, depozitáře, pákový efekt, transparentnost a dohled; § 44 odst. 1 se pro speciální fond použije obdobně."
+    },
+    {
+      "provision_ref": "§ 78",
+      "section": "78",
+      "title": "§ 78 Zajištění finančního derivátu nebo komoditního derivátu poskytnuté speciálnímu fondu",
+      "chapter": "ČÁST TŘETÍ - SPECIÁLNÍ FOND > HLAVA II - TECHNIKY K OBHOSPODAŘOVÁNÍ SPECIÁLNÍHO FONDU, SNIŽOVÁNÍ RIZIKA Z POUŽITÍ FINANČNÍCH A KOMODITNÍCH DERIVÁTŮ A MĚŘENÍ RIZIKA",
+      "content": "Pro věci poskytnuté speciálnímu fondu k zajištění finančního derivátu nebo komoditního derivátu sjednaného na účet speciálního fondu se § 31 odst. 2 a 3, § 32 odst. 2 a 3 a § 33 odst. 2 a 3 použijí obdobně."
+    },
+    {
+      "provision_ref": "§ 94",
+      "section": "94",
+      "title": "§ 94 Limity pro míru využití pákového efektu a pravidla pro poskytnutí investičních nástrojů jako zajištění",
+      "chapter": "ČÁST PÁTÁ - FOND KVALIFIKOVANÝCH INVESTORŮ",
+      "content": "Pro obhospodařovatele fondu kvalifikovaných investorů, který je oprávněn přesáhnout rozhodný limit, se § 72 odst. 4 použije obdobně."
+    },
+    {
+      "provision_ref": "§ 98",
+      "section": "98",
+      "title": "§ 98 Majetek investičního fondu a majetek a dluhy z investiční činnosti",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Majetkem investičního fondu se pro účely tohoto nařízení rozumí ve vztahu\na) k podílovému fondu aktiva v tomto podílovém fondu,\nb) ke svěřenskému fondu aktiva v tomto svěřenském fondu,\nc) k investičnímu fondu s právní osobností aktiva tohoto investičního fondu s právní osobností a\nd) k podfondu aktiva v tomto podfondu.\n(2) Odděluje-li investiční fond s právní osobností účetně a majetkově majetek a dluhy ze své investiční činnosti od svého ostatního jmění, zohledňují se pro účely tohoto nařízení pouze majetek a dluhy z investiční činnosti."
+    },
+    {
+      "provision_ref": "§ 99",
+      "section": "99",
+      "title": "§ 99 Přechodná ustanovení",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "(1) Obhospodařovatel investičního fondu, jde-li o fond, který vznikl nebo byl vytvořen přede dnem nabytí účinnosti tohoto nařízení, uvede investiční strategii tohoto fondu do souladu s tímto nařízením do dne 1. ledna 2015; investuje-li však takový fond podle svého statutu do nemovitostí nebo do účastí v nemovitostních společnostech, uvede jeho obhospodařovatel investiční strategii tohoto fondu do souladu s tímto nařízením do dne 22. července 2015.\n(2) V rozsahu, v jakém se v případech uvedených v odstavci 1 nepoužije toto nařízení, se postupuje podle dosavadních právních předpisů."
+    },
+    {
+      "provision_ref": "§ 100",
+      "section": "100",
+      "title": "§ 100 Účinnost",
+      "chapter": "ČÁST ŠESTÁ - SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ",
+      "content": "Toto nařízení nabývá účinnosti dnem jeho vyhlášení.\n1) Směrnice Komise 2007/16/ES ze dne 19. března 2007, kterou se provádí směrnice Rady 85/611/EHS o koordinaci právních a správních předpisů týkajících se subjektů kolektivního investování do převoditelných cenných papírů (SKIPCP), pokud jde o vyjasnění některých definic.\nČlánky 49 až 57 a 83 až 90 směrnice Evropského parlamentu a Rady 2009/65/ES ze dne 13. července 2009 o koordinaci právních a správních předpisů týkajících se subjektů kolektivního investování do převoditelných cenných papírů (SKIPCP) (přepracované znění), ve znění směrnice Evropského parlamentu a Rady 2010/78/EU a směrnice Evropského parlamentu a Rady 2011/61/EU.\nČl. 41 až 44 směrnice Komise 2010/43/EU ze dne 1. července 2010, kterou se provádí směrnice Evropského parlamentu a Rady 2009/65/ES, pokud jde o organizační požadavky, střety zájmů, pravidla jednání, řízení rizik a obsah smlouvy mezi depozitářem a správcovskou společností.\n15) Nařízení Evropského parlamentu a Rady (ES) č. 1060/2009 ze dne 16. září 2009 o ratingových agenturách, v platném znění.\n16) Nařízení Evropské centrální banky (ES) č. 24/2009 ze dne 19. prosince 2008 o statistice aktiv a pasiv účelových finančních společností zapojených do sekuritizačních transakcí.\n18) § 193 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů.\n20) Nařízení Komise (ES) č. 1126/2008 ze dne 3. listopadu 2008, kterým se přijímají některé mezinárodní účetní standardy v souladu s nařízením Evropského parlamentu a Rady (ES) č. 1606/2002, v platném znění."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a) standardní fond",
+      "definition": "se jím v případě standardního fondu, který vytváří podfondy, podfond standardního fondu",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "b) zahraniční investiční fond",
+      "definition": "se jím v případě zahraničního investičního fondu, který vytváří zařízení srovnatelná s podfondy, toto zařízení; přitom platí, že zařízení není srovnatelné s podfondem, lze-li majetek v tomto zařízení použít ke splnění dluhu, který není dluhem tohoto zařízení",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "c) fond kolektivního investování",
+      "definition": "se jím v případě fondu kolektivního investování, který vytváří podfondy, podfond fondu kolektivního investování",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "d) speciální fond",
+      "definition": "se jím v případě speciálního fondu, který vytváří podfondy, podfond speciálního fondu",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "e) fond nemovitostí",
+      "definition": "se jím v případě fondu nemovitostí, který vytváří podfondy, podfond fondu nemovitostí",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "f) fond kvalifikovaných investorů",
+      "definition": "se jím v případě fondu kvalifikovaných investorů, který vytváří podfondy, podfond fondu kvalifikovaných investorů",
+      "source_provision": "§ 1"
+    },
+    {
+      "term": "Komoditou",
+      "definition": "zastupitelná věc, která může být předmětem fyzické dodávky, jejíž hodnota je zjistitelná a se kterou lze obchodovat",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "Jednou komoditou",
+      "definition": "i takové různé komodity, u kterých existuje mezi denními změnami reálné hodnoty jedné a druhé komodity vztah korelace alespoň ve výši 0,8, a to ve více než 75 % výpočtů pro klouzavé časové období v délce 250 pracovních dnů za posledních 5 let",
+      "source_provision": "§ 14"
+    },
+    {
+      "term": "Používá-li toto nařízení pojem „dluhopis",
+      "definition": "se jím i dluhopisu obdobný cenný papír nebo zaknihovaný cenný papír představující právo na splacení dlužné částky",
+      "source_provision": "§ 17"
+    },
+    {
+      "term": "dluhopis",
+      "definition": "jím i dluhopisu obdobný cenný papír nebo zaknihovaný cenný papír představující právo na splacení dlužné částky",
+      "source_provision": "§ 17"
+    },
+    {
+      "term": "Používá-li toto nařízení pojem „akcie",
+      "definition": "se jím i akcii obdobný cenný papír nebo zaknihovaný cenný papír představující podíl na společnosti nebo jiné právnické osobě",
+      "source_provision": "§ 18"
+    },
+    {
+      "term": "akcie",
+      "definition": "jím i akcii obdobný cenný papír nebo zaknihovaný cenný papír představující podíl na společnosti nebo jiné právnické osobě",
+      "source_provision": "§ 18"
+    },
+    {
+      "term": "Používá-li toto nařízení pojem „repo“, aniž se jedná o pojem „repo obchod",
+      "definition": "se jím prodej nebo jiný převod věci se současně sjednanou zpětnou koupí nebo jiným zpětným převodem",
+      "source_provision": "§ 32"
+    },
+    {
+      "term": "repo obchod",
+      "definition": "jím prodej nebo jiný převod věci se současně sjednanou zpětnou koupí nebo jiným zpětným převodem",
+      "source_provision": "§ 32"
+    },
+    {
+      "term": "Používá-li toto nařízení pojem „reverzní repo",
+      "definition": "se jím koupě nebo jiný převod věci se současně sjednaným zpětným prodejem nebo jiným zpětným převodem",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "reverzní repo",
+      "definition": "jím koupě nebo jiný převod věci se současně sjednaným zpětným prodejem nebo jiným zpětným převodem",
+      "source_provision": "§ 33"
+    },
+    {
+      "term": "Provádí-li se výpočet celkové expozice závazkovou metodou",
+      "definition": "se „celkovou expozicí“ expozice vztahující se k derivátům vypočtená v souladu s § 37",
+      "source_provision": "§ 36"
+    },
+    {
+      "term": "Provádí-li se výpočet celkové expozice standardního fondu metodou hodnoty v riziku (VaR",
+      "definition": "se celkovou expozicí tohoto fondu hodnota v riziku vypočtená v souladu s § 40 až 43",
+      "source_provision": "§ 39"
+    },
+    {
+      "term": "Měnovým derivátem",
+      "definition": "derivát, jehož podkladovým aktivem je měnový kurz nebo měna",
+      "source_provision": "§ 43"
+    },
+    {
+      "term": "Komoditním derivátem",
+      "definition": "derivát, jehož podkladovým aktivem je komodita",
+      "source_provision": "§ 45"
+    },
+    {
+      "term": "Majetkem investičního fondu",
+      "definition": "ve vztahu",
+      "source_provision": "§ 98"
+    }
+  ]
+}

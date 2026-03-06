@@ -1,0 +1,33 @@
+{
+  "id": "cz:292/1992",
+  "type": "statute",
+  "title": "292/1992 Sb., Zákon Slovenskej národnej rady o zmene názvu Vysokej školy ekonomickej v Bratislave",
+  "title_en": "",
+  "short_name": "292/1992 Sb.",
+  "status": "in_force",
+  "issued_date": "1992-06-11",
+  "in_force_date": "1992-07-01",
+  "url": "https://www.e-sbirka.cz/sb/1992/292",
+  "description": "Zákon Slovenskej národnej rady o zmene názvu Vysokej školy ekonomickej v Bratislave",
+  "provisions": [
+    {
+      "provision_ref": "§ 1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "Názov „Vysoká škola ekonomická v Bratislave“ sa mení a znie „Ekonomická univerzita v Bratislave“."
+    },
+    {
+      "provision_ref": "§ 2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Zrušuje sa s platnosťou pre Slovenskú republiku § 3 zákonného opatrenia Predsedníctva Národného zhromaždenia č. 166/1964 Zb. o pedagogických fakultách."
+    },
+    {
+      "provision_ref": "§ 3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "Tento zákon nadobúda účinnosť 1. júlom 1992."
+    }
+  ],
+  "definitions": []
+}

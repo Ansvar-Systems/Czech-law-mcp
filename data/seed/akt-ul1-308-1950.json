@@ -1,0 +1,51 @@
+{
+  "id": "cz:ul1:308/1950",
+  "type": "statute",
+  "title": "308/1950 Ú. l. I, Vyhláška krajského národního výboru v Gottwaldově o úpravě lázeňské taxy v Lázních Luhačovicích pro rok 1950.",
+  "title_en": "",
+  "short_name": "308/1950 Ú. l. I",
+  "status": "in_force",
+  "issued_date": "1950-05-16",
+  "in_force_date": "1950-05-31",
+  "url": "https://www.e-sbirka.cz/ul1/1950/308",
+  "description": "Vyhláška krajského národního výboru v Gottwaldově o úpravě lázeňské taxy v Lázních Luhačovicích pro rok 1950.",
+  "provisions": [
+    {
+      "provision_ref": "Bod 1",
+      "section": "1",
+      "title": "Bod 1",
+      "content": "1. Vyjímajíc osoby osvobozené od lázeňské taxy a uvedené v § 23 léčebného řádu, zaplatí hosté, kteří se v léčebném obvodu zdrží přes jednu noc, nejdéle však tři dny, den příchodu v to nepočítajíc, sníženou lázeňskou taxu za první den pobytu Kčs 3.—, za dva dny pobytu Kčs 6.— a za tři dny pobytu Kčs 9.—."
+    },
+    {
+      "provision_ref": "Bod 2",
+      "section": "2",
+      "title": "Bod 2",
+      "content": "2. Hosté, kteří se zdrží v léčebném obvodu déle než tyto tři dny, zaplatí při pobytu do 14 dnů léčebný poplatek za osobu v částce Kčs 82.—."
+    },
+    {
+      "provision_ref": "Bod 3",
+      "section": "3",
+      "title": "Bod 3",
+      "content": "3. Při pobytu do čtyř týdnů zaplatí hosté léčebný poplatek ve výši Kčs 117.— za osobu a za každých dalších 14 dnů, byť i jen započatých, dalších Kčs 30.—."
+    },
+    {
+      "provision_ref": "Bod 4",
+      "section": "4",
+      "title": "Bod 4",
+      "content": "4. Rodiny, pozůstávající z více než tří členů léčebným poplatkem povinných, platí za každého dalšího svého člena pouze polovici poplatku. Zaměstnancům v domácnosti mající pracovní průkaz platí rovněž jen polovici poplatku."
+    },
+    {
+      "provision_ref": "Bod 5",
+      "section": "5",
+      "title": "Bod 5",
+      "content": "5. Děti do šesti let neplatí léčebného poplatku."
+    },
+    {
+      "provision_ref": "Bod 6",
+      "section": "6",
+      "title": "Bod 6",
+      "content": "6. Zaplacený poplatek se v žádném případě nevrací."
+    }
+  ],
+  "definitions": []
+}
