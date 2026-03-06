@@ -18,20 +18,20 @@ This software (the "Tool") is provided for **informational and research purposes
 
 If you are a lawyer (advokát/advokátka), legal researcher, or other legal professional:
 
-- **Malpractice Risk**: Relying on unverified information from this Tool in professional legal work may constitute professional malpractice (profesní pochybení)
+- **Malpractice Risk**: Relying on unverified information from this Tool in professional legal work may constitute professional malpractice (profesní pochybení / kárné provinění)
 - **Professional Obligations**: You remain solely responsible for verifying all citations, statutes, and legal positions before advising clients or filing documents
-- **Professional Rules**: Members of the Czech Bar Association (Česká advokátní komora — ČAK) must comply with applicable professional conduct rules (etický kodex advokáta) when using AI tools
-- **Client Disclosure**: Consider whether professional ethics rules require disclosing AI tool use to clients
+- **Professional Rules**: Members of the Czech Bar Association (Česká advokátní komora — ČAK, cak.cz) must comply with applicable professional conduct rules (etický kodex advokáta) when using AI tools
+- **Client Disclosure**: Consider whether professional ethics rules require disclosing AI tool use to clients in the context of their matter
 
 ### Duty of Independent Verification
 
 **YOU MUST VERIFY EVERYTHING.** Do not cite, quote, or rely on any provision, case law, or legal interpretation from this Tool without:
 
-1. Checking the official source (zakonyprolidi.cz — Zákony pro lidi, or sbírka.gov.cz — official Sbírka zákonů a mezinárodních smluv)
+1. Checking the official source (zakonyprolidi.cz — Zákony pro lidi, or the official Sbírka zákonů a mezinárodních smluv at sbírka.gov.cz)
 2. Verifying the provision is currently in force (platný a účinný) and has not been amended (novelizován) or repealed (zrušen)
-3. Reading the full context of cited provisions
-4. Consulting case law (judikatura) and explanatory materials (důvodové zprávy, parlamentní tisky) for interpretation
-5. Considering how recent legal developments may affect the matter
+3. Reading the full context of cited provisions, including any related přechodná ustanovení (transitional provisions)
+4. Consulting case law (judikatura) and explanatory materials (důvodové zprávy, parlamentní tisky, sněmovní tisky) for interpretation
+5. Considering how recent legal developments, including EU law transposition, may affect the matter
 
 ## Data Authority and Limitations
 
@@ -42,11 +42,20 @@ This Tool aggregates data from official Czech legal databases. However:
 | Source Type | Authority Level | Use Case |
 |------------|----------------|----------|
 | **zakonyprolidi.cz** | Authoritative (widely used) | Consolidated statute text (primary reference) |
-| **sbírka.gov.cz** | Authoritative (official) | Sbírka zákonů — official gazette text |
+| **sbírka.gov.cz** | Authoritative (official) | Sbírka zákonů — official gazette text as enacted |
+| **justice.cz** | Official (court records) | Court decisions, insolvency register, company register |
 | **Community/open-data sources** | Supplementary | Cross-references, metadata (verify independently) |
 | **EUR-Lex / treaty databases** | Authoritative for EU/international law | EU directives, regulations, international obligations |
 
 **CRITICAL**: Community-maintained resources are **NOT** official government publications. While generally reliable, they may contain transcription errors, outdated information, or incomplete coverage.
+
+### Official Gazette (Sbírka zákonů)
+
+Czech legislation is officially published in the **Sbírka zákonů a mezinárodních smluv** (Collection of Laws and International Treaties). Since 2024, the digital version at sbírka.gov.cz is the legally binding form. Earlier acts remain cited by their číslo zákona (act number) and year, e.g., zákon č. 89/2012 Sb. (občanský zákoník — the Civil Code).
+
+### GDPR and Czech Data Protection Implementation
+
+This Tool covers Czech legislation including the **zákon č. 110/2019 Sb., o zpracování osobních údajů** — the Czech GDPR adaptation act — which governs data protection where GDPR directly applies and sets national derogations. The **Úřad pro ochranu osobních údajů (ÚOOÚ, uoou.cz)** is the supervisory authority. This Tool is a reference aid and does not constitute legal advice on GDPR compliance.
 
 ### Commercial Legal Databases
 
@@ -61,7 +70,7 @@ These services provide editorial oversight, comprehensive annotations (komentá�
 ### No Real-Time Updates
 
 - Database updates are **manual** and may lag official publications by **weeks or months**
-- Czech law changes continuously through new statutes (zákony), amendments (novely), and court decisions (rozsudky, usnesení)
+- Czech law changes continuously through new statutes (zákony), amendments (novely), government decrees (nařízení vlády), and court decisions (rozsudky, usnesení)
 - **Last-updated timestamps** in tool responses indicate data age, but should be treated as unreliable
 
 ### Staleness Warnings
@@ -78,6 +87,7 @@ The Tool includes staleness warnings when data is >30 days old. **These warnings
   - Amended (novelizován) after the last database update
   - Repealed (zrušen) but not yet removed from the database
   - Subject to transitional provisions (přechodná ustanovení) affecting its applicability
+  - Modified by a constitutional court ruling (nález Ústavního soudu) that has not yet been reflected
 - The Tool does **NOT** automatically track amendments in real-time
 
 ## Coverage Gaps
@@ -87,18 +97,19 @@ The Tool includes staleness warnings when data is >30 days old. **These warnings
 This Tool does **NOT** include:
 
 1. **Complete case law** — Coverage of NS (Nejvyšší soud), NSS (Nejvyšší správní soud), ÚS (Ústavní soud), and lower court decisions is limited; do not rely solely on this for case law research (rešerše judikatury)
-2. **Historical statute versions** — Limited availability of historical provision wording (znění ke dni)
-3. **Legal commentary** — No editorial annotations (komentáře), academic commentary (právní věda), or practice guides
-4. **Unpublished decisions** — Lower court decisions and administrative rulings (správní rozhodnutí) largely absent
-5. **Full legislative history** — Limited coverage of parliamentary materials (sněmovní tisky, důvodové zprávy, stenozáznamy)
+2. **Historical statute versions** — Limited availability of historical provision wording (znění ke dni); use zakonyprolidi.cz or ASPI for point-in-time text
+3. **Legal commentary** — No editorial annotations (komentáře), academic commentary (právní věda, monografie), or practice guides
+4. **Unpublished decisions** — Lower court decisions, administrative rulings (správní rozhodnutí), and tax authority decisions largely absent
+5. **Full legislative history** — Limited coverage of parliamentary materials (sněmovní tisky, senátní tisky, důvodové zprávy, stenozáznamy z jednání výborů)
+6. **Municipal and regional law** — Vyhlášky obcí and kraj regulations are not systematically covered
 
 ### Impact on Professional Use
 
 These gaps mean:
 
 - **Incomplete Legal Research**: Tool results are inherently incomplete and may miss critical authorities
-- **Context Missing**: Without commentary (komentář) and legislative materials, interpretation may be incorrect
-- **International Law Blind Spots**: Cannot fully assess EU law obligations or international treaty compliance
+- **Context Missing**: Without commentary (komentář) and legislative materials, interpretation of newer codes (NOZ, ZOK, trestní zákoník) may be incorrect
+- **EU Law Blind Spots**: Cannot fully assess whether Czech implementing legislation correctly transposes EU directives
 
 ## No Warranties
 
@@ -115,10 +126,10 @@ Per the Apache 2.0 license (see [LICENSE](LICENSE)):
 
 - Authors and contributors are **NOT LIABLE** for damages arising from use of this Tool
 - This includes but is not limited to:
-  - Professional malpractice claims (nároky z profesního pochybení)
+  - Professional malpractice claims (nároky z profesního pochybení / kárné řízení)
   - Lost cases or adverse judgments
   - Client harm from erroneous advice
-  - Regulatory sanctions from bar authorities (kárné řízení)
+  - Regulatory sanctions from bar authorities (kárné řízení před Kárnou komisí ČAK)
   - Reputational damage
 
 ## AI-Generated Content
@@ -155,7 +166,7 @@ This Tool is a **general-purpose AI system** under the EU AI Act. It is NOT a hi
 - See [PRIVACY.md](PRIVACY.md) for detailed confidentiality considerations
 - **Query Data**: Queries made through the Claude API may be logged by Anthropic (subject to their privacy policy)
 - **Client Information**: Do not include client names, case-specific details, or confidential information in queries
-- **Sensitive Matters**: For privileged legal matters (povinnost mlčenlivosti advokáta), consider on-premise deployment
+- **Sensitive Matters**: For privileged legal matters (povinnost mlčenlivosti advokáta under § 21 zákona č. 85/1996 Sb.), consider on-premise deployment
 
 ### Competence and Diligence
 
@@ -163,17 +174,18 @@ Using this Tool does not reduce your professional obligations to:
 
 - Exercise independent legal judgment (vlastní právní posouzení)
 - Conduct thorough legal research using authoritative sources
-- Stay current with legal developments
-- Provide competent representation (svědomitý výkon advokacie)
+- Stay current with legal developments including EU transposition acts
+- Provide competent representation (svědomitý výkon advokacie) under zákon č. 85/1996 Sb., o advokacii
 
 ## Recommended Workflow for Professional Use
 
 1. **Initial Research**: Use Tool for preliminary research and hypothesis generation
 2. **Official Verification**: Cross-check ALL results with official sources (zakonyprolidi.cz or sbírka.gov.cz)
-3. **Commercial Databases**: Use professional legal databases (ASPI, Beck-online) for authoritative, annotated versions
-4. **Professional Judgment**: Apply independent legal analysis and professional judgment
-5. **Document Sources**: Cite official sources in legal work, not this Tool
-6. **Update Check**: Before finalizing legal work, check for recent amendments in the Sbírka zákonů
+3. **Commercial Databases**: Use professional legal databases (ASPI, Beck-online) for authoritative, annotated versions with komentáře
+4. **Case Law Check**: Search NS, NSS, and ÚS decisions on justice.cz or commercial databases
+5. **Professional Judgment**: Apply independent legal analysis and professional judgment
+6. **Document Sources**: Cite official sources (Sbírka zákonů, justice.cz) in legal work, not this Tool
+7. **Update Check**: Before finalizing legal work, check for recent amendments in the Sbírka zákonů a mezinárodních smluv
 
 ## Changes to This Disclaimer
 
@@ -192,11 +204,11 @@ https://github.com/Ansvar-Systems/Czech-law-mcp/issues
 
 ## Summary: What You Must Do
 
-- **ALWAYS VERIFY** all legal information with official sources (zakonyprolidi.cz, sbírka.gov.cz)
+- **ALWAYS VERIFY** all legal information with official sources (zakonyprolidi.cz, sbírka.gov.cz, justice.cz)
 - **NEVER RELY** on this Tool as sole basis for legal advice or professional work
-- **UNDERSTAND** this is a research aid, not a substitute for professional legal databases
+- **UNDERSTAND** this is a research aid, not a substitute for professional legal databases (ASPI, Beck-online)
 - **ACKNOWLEDGE** data may be incomplete, outdated, or incorrect
-- **COMPLY** with Česká advokátní komora (ČAK) professional ethics rules regarding AI tool use and client confidentiality
+- **COMPLY** with Česká advokátní komora (ČAK, cak.cz) professional ethics rules regarding AI tool use and client confidentiality
 - **DISCLOSE** to clients if required by professional rules (etický kodex advokáta)
 
 - **DO NOT** cite this Tool as an authority in legal documents
