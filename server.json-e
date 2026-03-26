@@ -24,7 +24,7 @@
       "version": "1.0.1",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-czech-law-mcp/mcp"
+        "url": "https://czech-law-mcp.vercel.app/mcp"
       }
     }
   ]
