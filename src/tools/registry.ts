@@ -85,7 +85,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_provision',
     description:
-      'Retrieve the full text of a specific provision (section) from an Czech statute. ' +
+      'Retrieve the full text of a specific provision (section) from a Czech statute. ' +
       'Specify a document_id (Act title, abbreviation, or internal ID) and optionally a section or provision_ref. ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
       'Returns provision text, chapter, section number, and metadata. ' +
@@ -115,7 +115,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'validate_citation',
     description:
-      'Validate an Czech legal citation against the database — zero-hallucination check. ' +
+      'Validate a Czech legal citation against the database — zero-hallucination check. ' +
       'Parses the citation, checks that the document and provision exist, and returns warnings about status ' +
       '(repealed, amended). Use this to verify any citation BEFORE including it in a legal analysis. ' +
       'Supports formats: "Section 13 Privacy Act 1988", "Privacy Act 1988 s 13", "s 13".',
@@ -160,7 +160,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'format_citation',
     description:
-      'Format an Czech legal citation per standard conventions. ' +
+      'Format a Czech legal citation per standard conventions. ' +
       'Three formats: "full" (formal, e.g., "Section 13, Privacy Act 1988"), ' +
       '"short" (abbreviated, e.g., "Privacy Act 1988 s 13"), "pinpoint" (section reference only, e.g., "s 13").',
     inputSchema: {
@@ -180,7 +180,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'check_currency',
     description:
-      'Check whether an Czech statute or provision is currently in force, amended, repealed, or not yet in force. ' +
+      'Check whether a Czech statute or provision is currently in force, amended, repealed, or not yet in force. ' +
       'Returns the document status, issued date, in-force date, and warnings. ' +
       'Essential before citing any provision — always verify currency.',
     inputSchema: {
@@ -201,7 +201,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_eu_basis',
     description:
-      'Get the EU legal basis that an Czech statute references or aligns with. ' +
+      'Get the EU legal basis that a Czech statute references or aligns with. ' +
       'As an EU Member State, the Czech Republic transposes EU directives and implements EU regulations ' +
       '(e.g., Privacy Act references GDPR concepts, SOCI Act aligns with NIS2 patterns). ' +
       'Returns EU document identifiers, reference types, and alignment status.',
@@ -268,7 +268,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_provision_eu_basis',
     description:
-      'Get the EU legal basis for a SPECIFIC provision within an Czech statute. ' +
+      'Get the EU legal basis for a SPECIFIC provision within a Czech statute. ' +
       'More granular than get_eu_basis (which operates at the statute level). ' +
       'Use this for pinpoint EU alignment checks at the provision level.',
     inputSchema: {
@@ -283,7 +283,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'validate_eu_compliance',
     description:
-      'Check EU alignment status for an Czech statute or provision. ' +
+      'Check EU alignment status for a Czech statute or provision. ' +
       'Detects references to EU directives, alignment status, and cross-references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings. ' +
       'Note: As an EU Member State, the Czech Republic is bound by EU law. This checks transposition and compliance status.',
