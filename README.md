@@ -39,12 +39,12 @@ This MCP server makes Czech law **searchable, cross-referenceable, and AI-readab
 
 > Connect directly to the hosted version — zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-czech-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-cz/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add czech-law --transport http https://mcp.ansvar.eu/law-czech-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add czech-law --transport http https://mcp.ansvar.eu/law-cz/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -55,7 +55,7 @@ This MCP server makes Czech law **searchable, cross-referenceable, and AI-readab
   "mcpServers": {
     "czech-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-czech-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-cz/mcp"
     }
   }
 }
@@ -68,7 +68,7 @@ This MCP server makes Czech law **searchable, cross-referenceable, and AI-readab
   "github.copilot.chat.mcp.servers": {
     "czech-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-czech-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-cz/mcp"
     }
   }
 }
