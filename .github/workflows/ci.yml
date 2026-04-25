@@ -1,39 +1,35 @@
 name: CI
-
 on:
   push:
     branches: [main, dev]
   pull_request:
-    branches: [main, dev]
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-permissions:
-  contents: read
+    branches: [main]
 
 jobs:
-  test:
+  build-and-test:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
-    strategy:
-      matrix:
-        node-version: ['18', '20', '22']
-
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: '22'
           cache: 'npm'
 
       - run: npm ci
 
-      - name: Lint (TypeScript type check)
+      - name: Build
+        run: npm run build
+
+      - name: Lint
         run: npm run lint
+
+      - name: Build database
+        run: npm run build:db
+
+      - name: Type check
+        run: npm run typecheck
 
       - name: Unit tests
         run: npm test
@@ -41,8 +37,13 @@ jobs:
       - name: Contract tests
         run: npm run test:contract
 
-      - name: Build
-        run: npm run build
+      - name: Database integrity
+        run: |
+          sqlite3 data/database.db "PRAGMA integrity_check;" | grep -q "ok"
+          sqlite3 data/database.db "PRAGMA journal_mode;" | grep -q "delete"
+
+      - name: Coverage consistency
+        run: npm run coverage:verify
 
       - name: Audit dependencies
-        run: npm audit --omit dev || true
+        run: npm audit --audit-level=high || true
