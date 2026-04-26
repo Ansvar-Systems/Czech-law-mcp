@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2026-04-26
+### Changed
+- Removed Vercel artifacts: `vercel.json`, `api/mcp.ts`, `api/health.ts` — public MCP server (`mcp.ansvar.eu`) decommissioned 2026-04-23; access via gateway (`gateway.ansvar.eu`) or npm stdio
+- Removed `@vercel/node` from devDependencies
+- Removed `"api"` from `tsconfig.json` include paths
+- Updated `server.json`: removed decommissioned streamable-http transport entry, version bump to 1.1.0
+- Updated `README.md`: removed decommissioned remote-endpoint section; stdio/npx instructions remain
+- Resolved 14 npm audit vulnerabilities (undici, vite, hono, @vercel/node chain)
+
 ## [1.0.0] - 2026-02-21
 ### Added
 - Initial release of Czech Law MCP
