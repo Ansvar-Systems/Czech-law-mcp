@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/czech-law-mcp",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "mcpName": "eu.ansvar/czech-law-mcp",
   "description": "Czech law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
@@ -61,7 +61,6 @@
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.15.29",
-    "@vercel/node": "^5.6.4",
     "better-sqlite3": "^12.6.2",
     "stream-json": "^1.9.1",
     "tsx": "^4.21.0",
