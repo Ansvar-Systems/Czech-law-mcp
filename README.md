@@ -35,45 +35,6 @@ This MCP server makes Czech law **searchable, cross-referenceable, and AI-readab
 
 ## Quick Start
 
-### Use Remotely (No Install Needed)
-
-> Connect directly to the hosted version — zero dependencies, nothing to install.
-
-**Endpoint:** `https://mcp.ansvar.eu/law-cz/mcp`
-
-| Client | How to Connect |
-|--------|---------------|
-| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add czech-law --transport http https://mcp.ansvar.eu/law-cz/mcp` |
-| **Claude Desktop** | Add to config (see below) |
-| **GitHub Copilot** | Add to VS Code settings (see below) |
-
-**Claude Desktop** — add to `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "czech-law": {
-      "type": "url",
-      "url": "https://mcp.ansvar.eu/law-cz/mcp"
-    }
-  }
-}
-```
-
-**GitHub Copilot** — add to VS Code `settings.json`:
-
-```json
-{
-  "github.copilot.chat.mcp.servers": {
-    "czech-law": {
-      "type": "http",
-      "url": "https://mcp.ansvar.eu/law-cz/mcp"
-    }
-  }
-}
-```
-
 ### Use Locally (npm)
 
 ```bash
@@ -376,7 +337,6 @@ Priority areas:
 - [x] Core statute database with FTS5 search (45,899 statutes, 461,231 provisions)
 - [x] EU law integration with bi-directional lookup
 - [x] Premium agency guidance dataset (10,000 documents)
-- [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
 - [ ] Judikatura (court case law) expansion
 - [ ] Důvodové zprávy (preparatory works) coverage
