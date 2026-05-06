@@ -10,9 +10,10 @@ sources:
     update_frequency: "daily"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "government_terms"
-      url: "https://www.e-sbirka.cz"
-      summary: "Public legislation is published by the Czech government and exposed via the official e-Sbirka API."
+      type: "statutory_carve_out"
+      code: "Czech-Statutory-PD"
+      url: "https://www.e-sbirka.cz/eli/cz/sb/2000/121/"
+      summary: "Czech Copyright Act 121/2000 Coll. §3 excludes 'úřední dílo' (official works — statutes, court decisions, parliamentary materials, official translations) from copyright. Statutes published via e-Sbírka are commercially re-usable without a license grant. Czech transposition of EU Open Data Directive 2019/1024 (Act 261/2021 Coll.) is supplementary basis. Catalogued in Ansvar-Architecture-Documentation/infrastructure/attribution-licenses.json as Czech-Statutory-PD (entry_kind: regime). Source-authority registry whitelists e-sbirka.cz under this code, last verified 2026-05-06."
     coverage:
       scope: "Official Czech legislation from e-Sbirka; repository includes curated fully-ingested corpus plus all-laws index/discovery mode for ZAKON and ZAKONUST."
       limitations: "Full all-laws text ingestion is incremental and rate-limited; repository snapshot may not yet contain every law as a seeded JSON."
