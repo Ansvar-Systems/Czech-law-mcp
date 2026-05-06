@@ -7,15 +7,24 @@
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "license": "Apache-2.0",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "@ansvar/czech-law-mcp",
-      "version": "1.1.0",
+      "version": "1.0.1",
       "transport": {
         "type": "stdio"
+      }
+    },
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/czech-law-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://mcp.ansvar.eu/law-czech-law-mcp/mcp"
       }
     }
   ]

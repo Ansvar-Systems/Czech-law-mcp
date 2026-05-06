@@ -15,7 +15,7 @@
 - **License:** Apache-2.0
 - **Homepage:** https://ansvar.eu/open-law
 - **Repository:** https://github.com/Ansvar-Systems/Czech-law-mcp
-- **Endpoint:** https://gateway.ansvar.eu (via Ansvar Gateway; public Vercel endpoint decommissioned 2026-04-23)
+- **Endpoint:** https://czech-law-mcp.vercel.app/mcp
 
 ## Medium Description
 

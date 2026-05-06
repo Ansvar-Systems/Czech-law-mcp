@@ -16,7 +16,7 @@ This document addresses privacy and confidentiality considerations when using th
 **Safe Use Options:**
 1. **General Legal Research**: Use Tool for non-client-specific queries
 2. **Local npm Package**: Install `@ansvar/czech-law-mcp` locally — database queries stay on your machine
-3. **Remote Endpoint**: Ansvar Gateway (`gateway.ansvar.eu`) — queries transit Ansvar infrastructure
+3. **Remote Endpoint**: Vercel Streamable HTTP endpoint — queries transit Vercel infrastructure
 4. **On-Premise Deployment**: Self-host with local LLM for privileged matters
 
 ---
@@ -43,13 +43,15 @@ npx @ansvar/czech-law-mcp
 - No data transmitted to external servers (except to AI client for LLM processing)
 - Full control over data at rest
 
-#### 2. Remote Endpoint (Ansvar Gateway)
+#### 2. Remote Endpoint (Vercel)
 
-Access via the Ansvar Gateway (`gateway.ansvar.eu`). The public Vercel endpoint (`czech-law-mcp.vercel.app`) was decommissioned in April 2026.
+```
+Endpoint: https://czech-law-mcp.vercel.app/mcp
+```
 
-- Queries transit Ansvar gateway infrastructure
+- Queries transit Vercel infrastructure
 - Tool responses return through the same path
-- Subject to Ansvar's privacy policy (ansvar.eu/privacy)
+- Subject to Vercel's privacy policy
 
 ### What Gets Transmitted
 
@@ -84,7 +86,7 @@ Czech lawyers (advokáti) are bound by strict confidentiality rules under zákon
 Under **GDPR Article 28** and the **zákon č. 110/2019 Sb., o zpracování osobních údajů**, when using services that process client data:
 
 - You are the **Data Controller** (správce osobních údajů)
-- AI service providers (Anthropic, Ansvar) may be **Data Processors** (zpracovatel osobních údajů)
+- AI service providers (Anthropic, Vercel) may be **Data Processors** (zpracovatel osobních údajů)
 - A **Data Processing Agreement** (smlouva o zpracování osobních údajů) may be required
 - Ensure adequate technical and organizational measures (technická a organizační opatření)
 - The Office for Personal Data Protection (Úřad pro ochranu osobních údajů — ÚOOÚ, uoou.cz) oversees compliance
@@ -114,7 +116,7 @@ Example: "What are the penalties for fraud (podvod) under the Czech trestní zá
 ```
 
 - Query pattern may reveal you are working on a fraud matter
-- Anthropic/Ansvar logs may link queries to your API key
+- Anthropic/Vercel logs may link queries to your API key
 
 ### HIGH RISK: Client-Specific Queries
 
@@ -143,7 +145,7 @@ The database is read-only. No user data is written to disk.
 ### What Third Parties May Collect
 
 - **Anthropic** (if using Claude): Subject to [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)
-- **Ansvar** (if using gateway endpoint): Subject to [Ansvar Privacy Policy](https://ansvar.eu/privacy)
+- **Vercel** (if using remote endpoint): Subject to [Vercel Privacy Policy](https://vercel.com/legal/privacy-policy)
 
 ---
 

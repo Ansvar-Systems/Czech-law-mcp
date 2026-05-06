@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/czech-law-mcp",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "mcpName": "eu.ansvar/czech-law-mcp",
   "description": "Czech law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
@@ -40,11 +40,19 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
+    "ingest": "node --import tsx scripts/ingest.ts",
+    "ingest:all:index": "node --import tsx scripts/ingest.ts --all-laws --index-only",
+    "ingest:all": "node --import tsx scripts/ingest.ts --all-laws --skip-existing",
+    "ingest:opendata": "node --import tsx scripts/ingest-open-data.ts",
+    "ingest:backfill-empty": "node --import tsx scripts/backfill-empty-seeds.ts",
+    "coverage:all-laws": "node --import tsx scripts/all-laws-coverage.ts",
     "test:contract": "vitest run __tests__/contract/",
+    "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm run lint && npm test && npm run test:contract",
     "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "check-updates": "node --import tsx scripts/check-updates.ts"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
@@ -53,6 +61,7 @@
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.15.29",
+    "@vercel/node": "^5.6.4",
     "better-sqlite3": "^12.6.2",
     "stream-json": "^1.9.1",
     "tsx": "^4.21.0",
