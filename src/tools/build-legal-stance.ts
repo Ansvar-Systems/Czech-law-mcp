@@ -21,6 +21,9 @@ export interface LegalStanceResult {
   title: string | null;
   snippet: string;
   relevance: number;
+  // Pattern 13.4 — populated from legal_provisions.metadata for dedup. Empty
+  // string on un-backfilled rows (back-compat).
+  content_hash: string;
 }
 
 export async function buildLegalStance(
@@ -53,6 +56,10 @@ export async function buildLegalStance(
 
   let queryStrategy = 'none';
   for (const ftsQuery of queryVariants) {
+    // §13.1 BM25 weights (title 10x content) + §13.4 content_hash for dedup.
+    // No role default-filter here: build_legal_stance returns a "comprehensive
+    // picture" by intent — transitional/effectiveness clauses are part of the
+    // legal stance and should not be hidden by default.
     let sql = `
       SELECT
         lp.document_id,
@@ -60,8 +67,9 @@ export async function buildLegalStance(
         lp.provision_ref,
         lp.section,
         lp.title,
+        COALESCE(json_extract(lp.metadata, '$.content_hash'), '') AS content_hash,
         snippet(provisions_fts, 0, '>>>', '<<<', '...', 48) as snippet,
-        bm25(provisions_fts) as relevance
+        bm25(provisions_fts, 1.0, 10.0) as relevance
       FROM provisions_fts
       JOIN legal_provisions lp ON lp.id = provisions_fts.rowid
       JOIN legal_documents ld ON ld.id = lp.document_id
@@ -105,6 +113,7 @@ export async function buildLegalStance(
         lp.provision_ref,
         lp.section,
         lp.title,
+        COALESCE(json_extract(lp.metadata, '$.content_hash'), '') AS content_hash,
         substr(lp.content, 1, 300) as snippet,
         0 as relevance
       FROM legal_provisions lp
@@ -141,8 +150,9 @@ export async function buildLegalStance(
 }
 
 /**
- * Deduplicate results by document_title + provision_ref.
- * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
+ * §13.4 — dedup keyed on (document_id, provision_ref, content_hash). Catches
+ * byte-identical content under different references AND single-row double hits.
+ * Preserves BM25 order via first-wins.
  */
 function deduplicateResults(
   rows: LegalStanceResult[],
@@ -151,7 +161,7 @@ function deduplicateResults(
   const seen = new Set<string>();
   const deduped: LegalStanceResult[] = [];
   for (const row of rows) {
-    const key = `${row.document_title}::${row.provision_ref}`;
+    const key = `${row.document_id}::${row.provision_ref}::${row.content_hash}`;
     if (seen.has(key)) continue;
     seen.add(key);
     deduped.push(row);
