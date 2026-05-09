@@ -413,11 +413,14 @@ function buildDatabase(): void {
 
         for (const prov of deduped) {
           // Pattern 13.4 + 13.6: classify role/form from the section heading
-          // (Czech statutes label "Účinnost" sections — diacritic-tolerant
-          // regex in classify-provision.ts) and hash the canonicalised content
-          // for exact-text dedup in search-legislation.ts. Merge into any
-          // metadata the seed already carries.
-          const cls = classifyProvision('cs', { section: prov.section, content: prov.content });
+          // and hash the canonicalised content for exact-text dedup in
+          // search-legislation.ts. Czech-law-mcp seeds keep the role-bearing
+          // keyword (Účinnost / Přechodná / Závěrečná) in `title`, not in
+          // `section` (which holds just the article number, e.g. "15"). Pass
+          // title || section so the diacritic-tolerant regex in
+          // classify-provision.ts has the right text to match against.
+          const sectionLabel = prov.title || prov.section;
+          const cls = classifyProvision('cs', { section: sectionLabel, content: prov.content });
           const mergedMetadata = {
             ...(prov.metadata ?? {}),
             provision_role: cls.role,
