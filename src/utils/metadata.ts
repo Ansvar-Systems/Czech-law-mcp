@@ -11,6 +11,10 @@ export interface ResponseMetadata {
   freshness?: string;
   note?: string;
   query_strategy?: string;
+  // Pattern 13.10: surface FTS5 schema-version + tokenizer to consumers so
+  // the gateway and audit tooling can detect drift across deployments.
+  fts5_schema_version?: string;
+  fts5_tokenizer?: string;
 }
 
 export interface ToolResponse<T> {
@@ -23,13 +27,19 @@ export function generateResponseMetadata(
   db: InstanceType<typeof Database>,
 ): ResponseMetadata {
   let freshness: string | undefined;
+  let ftsSchemaVersion: string | undefined;
+  let ftsTokenizer: string | undefined;
   try {
     const row = db.prepare(
-      "SELECT value FROM db_metadata WHERE key = 'built_at'"
-    ).get() as { value: string } | undefined;
-    if (row) freshness = row.value;
+      "SELECT key, value FROM db_metadata WHERE key IN ('built_at', 'fts5_schema_version', 'fts5_tokenizer')"
+    ).all() as { key: string; value: string }[];
+    for (const r of row) {
+      if (r.key === 'built_at') freshness = r.value;
+      else if (r.key === 'fts5_schema_version') ftsSchemaVersion = r.value;
+      else if (r.key === 'fts5_tokenizer') ftsTokenizer = r.value;
+    }
   } catch {
-    // Ignore
+    // Ignore — db_metadata absent on un-rebuilt DBs
   }
 
   return {
@@ -40,5 +50,7 @@ export function generateResponseMetadata(
       'The authoritative versions are maintained by Ministry of the Interior of the Czech Republic. ' +
       'Always verify with the official Sbírka zákonů (Collection of Laws) portal (www.zakonyprolidi.cz).',
     freshness,
+    ...(ftsSchemaVersion && { fts5_schema_version: ftsSchemaVersion }),
+    ...(ftsTokenizer && { fts5_tokenizer: ftsTokenizer }),
   };
 }
