@@ -9,9 +9,12 @@
  */
 
 import Database from 'better-sqlite3';
+import { createHash } from 'crypto';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+
+import { classifyProvision } from '../src/utils/classify-provision.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -241,6 +244,12 @@ function normalizeWhitespace(text: string): string {
   return text.replace(/\s+/g, ' ').trim();
 }
 
+// Pattern 13.4: hash of canonicalised content. Used as the dedup key in
+// search-legislation.ts and as a drift signal across MCP versions.
+function contentHash(content: string): string {
+  return createHash('sha256').update(normalizeWhitespace(content), 'utf8').digest('hex');
+}
+
 function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
   const byRef = new Map<string, ProvisionSeed>();
   for (const prov of provisions) {
@@ -403,10 +412,22 @@ function buildDatabase(): void {
         const deduped = dedupeProvisions(seed.provisions);
 
         for (const prov of deduped) {
+          // Pattern 13.4 + 13.6: classify role/form from the section heading
+          // (Czech statutes label "Účinnost" sections — diacritic-tolerant
+          // regex in classify-provision.ts) and hash the canonicalised content
+          // for exact-text dedup in search-legislation.ts. Merge into any
+          // metadata the seed already carries.
+          const cls = classifyProvision('cs', { section: prov.section, content: prov.content });
+          const mergedMetadata = {
+            ...(prov.metadata ?? {}),
+            provision_role: cls.role,
+            provision_form: cls.form,
+            content_hash: contentHash(prov.content),
+          };
           const insertResult = insertProvision.run(
             seed.id, prov.provision_ref, prov.chapter ?? null,
             prov.section, prov.title ?? null, prov.content,
-            prov.metadata ? JSON.stringify(prov.metadata) : null,
+            JSON.stringify(mergedMetadata),
           );
           totalProvisions++;
 
