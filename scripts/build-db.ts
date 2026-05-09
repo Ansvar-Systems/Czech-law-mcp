@@ -79,7 +79,10 @@ CREATE TABLE legal_documents (
     CHECK(status IN ('in_force', 'amended', 'repealed', 'not_yet_in_force')),
   issued_date TEXT,
   in_force_date TEXT,
+  effective_date TEXT,
   url TEXT,
+  publisher TEXT,
+  license TEXT,
   description TEXT,
   last_updated TEXT DEFAULT (datetime('now'))
 );
@@ -100,12 +103,15 @@ CREATE TABLE legal_provisions (
 CREATE INDEX idx_provisions_doc ON legal_provisions(document_id);
 CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
 
--- FTS5 for provision search
+-- FTS5 for provision search.
+-- Tokenizer 'unicode61 remove_diacritics 2' folds Czech diacritics so that
+-- "kybernetická" matches "kyberneticka" — required for accent-insensitive
+-- search per Pattern 13.7 of the law-MCP golden standard.
 CREATE VIRTUAL TABLE provisions_fts USING fts5(
   content, title,
   content='legal_provisions',
   content_rowid='id',
-  tokenize='unicode61'
+  tokenize='unicode61 remove_diacritics 2'
 );
 
 CREATE TRIGGER provisions_ai AFTER INSERT ON legal_provisions BEGIN
@@ -150,12 +156,12 @@ CREATE TABLE definitions (
   UNIQUE(document_id, term)
 );
 
--- FTS5 for definition search
+-- FTS5 for definition search (same tokenizer as provisions_fts, Pattern 13.7)
 CREATE VIRTUAL TABLE definitions_fts USING fts5(
   term, definition,
   content='definitions',
   content_rowid='id',
-  tokenize='unicode61'
+  tokenize='unicode61 remove_diacritics 2'
 );
 
 CREATE TRIGGER definitions_ai AFTER INSERT ON definitions BEGIN
@@ -320,9 +326,17 @@ function buildDatabase(): void {
 
   db.exec(SCHEMA);
 
+  // Source-attribution constants per Pattern 13.3 — Czech statutes are public
+  // domain (Czech-Statutory-PD); publisher is the Ministry of the Interior.
+  // All seed documents share these values; per-document overrides are not
+  // currently sourced from the seed JSON.
+  const PUBLISHER = 'Ministry of the Interior of the Czech Republic';
+  const LICENSE = 'Czech-Statutory-PD';
+
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO legal_documents
+      (id, type, title, title_en, short_name, status, issued_date, in_force_date, effective_date, url, publisher, license, description)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
@@ -380,7 +394,8 @@ function buildDatabase(): void {
         seed.id, seed.type ?? 'statute', seed.title, seed.title_en ?? null,
         seed.short_name ?? null, seed.status ?? 'in_force',
         seed.issued_date ?? null, seed.in_force_date ?? null,
-        seed.url ?? null, seed.description ?? null,
+        seed.in_force_date ?? null,
+        seed.url ?? null, PUBLISHER, LICENSE, seed.description ?? null,
       );
       totalDocs++;
 
@@ -442,7 +457,8 @@ function buildDatabase(): void {
 
   loadAll();
 
-  // Write build metadata
+  // Write build metadata. The two FTS5 keys are mandated by Pattern 13.10 of
+  // the law-MCP golden standard; other keys are local conventions.
   const insertMeta = db.prepare('INSERT INTO db_metadata (key, value) VALUES (?, ?)');
   const writeMeta = db.transaction(() => {
     insertMeta.run('tier', 'free');
@@ -452,6 +468,8 @@ function buildDatabase(): void {
     insertMeta.run('jurisdiction', 'CZ');
     insertMeta.run('source', 'official-source');
     insertMeta.run('licence', 'See sources.yml');
+    insertMeta.run('fts5_schema_version', '1.2.0');
+    insertMeta.run('fts5_tokenizer', 'unicode61 remove_diacritics 2');
   });
   writeMeta();
 
