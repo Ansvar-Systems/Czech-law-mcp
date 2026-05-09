@@ -37,6 +37,9 @@ function getDb(): InstanceType<typeof Database> {
   if (!db) {
     const dbPath = resolveDbPath();
     db = new Database(dbPath, { readonly: true });
+    // Pattern 13.2: 5s busy_timeout for FTS5 contention under multi-token
+    // queries — prevents the 8s hang the customer hit on 4-token Czech inputs.
+    db.pragma('busy_timeout = 5000');
     db.pragma('foreign_keys = ON');
 
     const caps = detectCapabilities(db);
