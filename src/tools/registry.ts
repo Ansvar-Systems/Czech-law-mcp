@@ -42,7 +42,8 @@ const LIST_SOURCES_TOOL: Tool = {
     'including the Sbírka zákonů (Collection of Laws) (Ministry of the Interior of the Czech Republic). ' +
     'Use this to understand what data is available, its authority, coverage scope, and known limitations. ' +
     'Also returns dataset statistics (document counts, provision counts) and database build timestamp. ' +
-    'Call this FIRST when you need to understand what Czech legal data this server covers.',
+    'Call this FIRST when you need to understand what Czech legal data this server covers. ' +
+    'CITATION: Do not cite list_sources output as evidence for legal claims; use the returned source_url + license fields only when describing data provenance for the dataset itself.',
   inputSchema: { type: 'object', properties: {} },
 };
 
@@ -56,7 +57,8 @@ export const TOOLS: Tool[] = [
       'Supports FTS5 syntax: quoted phrases ("exact match"), boolean operators (AND, OR, NOT), and prefix wildcards (term*). ' +
       'By default returns substantive provisions only — Účinnost / Přechodná clauses are filtered out unless include_non_substantive=true. ' +
       'Default limit is 10 results. For broad topics, increase the limit. ' +
-      'Do NOT use this for retrieving a known provision — use get_provision instead.',
+      'Do NOT use this for retrieving a known provision — use get_provision instead. ' +
+      'CITATION: Cite only the smallest set of returned (document_id, provision_ref) pairs that fully supports the claim; prefer substantive provisions over transitional/effectiveness clauses.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -108,7 +110,8 @@ export const TOOLS: Tool[] = [
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
       'Returns provision text, chapter, section number, and metadata. ' +
       'Supports Act title references (e.g., "Privacy Act 1988"), abbreviations, and full titles. ' +
-      'Use this when you know WHICH provision you want. For discovery, use search_legislation instead.',
+      'Use this when you know WHICH provision you want. For discovery, use search_legislation instead. ' +
+      'CITATION: Cite the returned (document_id, provision_ref) only — the tool already targeted the specific provision; do not pad with adjacent sections.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -136,7 +139,8 @@ export const TOOLS: Tool[] = [
       'Validate a Czech legal citation against the database — zero-hallucination check. ' +
       'Parses the citation, checks that the document and provision exist, and returns warnings about status ' +
       '(repealed, amended). Use this to verify any citation BEFORE including it in a legal analysis. ' +
-      'Supports formats: "Section 13 Privacy Act 1988", "Privacy Act 1988 s 13", "s 13".',
+      'Supports formats: "Section 13 Privacy Act 1988", "Privacy Act 1988 s 13", "s 13". ' +
+      'CITATION: This tool verifies — cite the returned canonical reference, not validate_citation itself. If valid:false, do not cite the input string at all.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -154,7 +158,8 @@ export const TOOLS: Tool[] = [
       'Build a comprehensive set of citations for a legal question by searching across all Czech statutes simultaneously. ' +
       'Returns aggregated results from multiple relevant provisions, useful for legal research on a topic. ' +
       'Use this for broad legal questions like "What are the penalties for data breaches in the Czech Republic?" ' +
-      'rather than looking up a specific known provision.',
+      'rather than looking up a specific known provision. ' +
+      'CITATION: Cite only the smallest set of returned (document_id, provision_ref) pairs whose combined snippets support the claim; prefer the highest-relevance hits over completeness.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -180,7 +185,8 @@ export const TOOLS: Tool[] = [
     description:
       'Format a Czech legal citation per standard conventions. ' +
       'Three formats: "full" (formal, e.g., "Section 13, Privacy Act 1988"), ' +
-      '"short" (abbreviated, e.g., "Privacy Act 1988 s 13"), "pinpoint" (section reference only, e.g., "s 13").',
+      '"short" (abbreviated, e.g., "Privacy Act 1988 s 13"), "pinpoint" (section reference only, e.g., "s 13"). ' +
+      'CITATION: This tool formats only — cite the formatted output, not format_citation as a source. The underlying provision/statute is the actual citation target.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -222,7 +228,8 @@ export const TOOLS: Tool[] = [
       'Get the EU legal basis that a Czech statute references or aligns with. ' +
       'As an EU Member State, the Czech Republic transposes EU directives and implements EU regulations ' +
       '(e.g., Privacy Act references GDPR concepts, SOCI Act aligns with NIS2 patterns). ' +
-      'Returns EU document identifiers, reference types, and alignment status.',
+      'Returns EU document identifiers, reference types, and alignment status. ' +
+      'CITATION: Cite the returned EU document_id (e.g., regulation:2016/679) for EU-law claims and the input Czech document_id for the transposition claim — do not conflate the two into a single citation.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -241,7 +248,8 @@ export const TOOLS: Tool[] = [
     description:
       'Find all Czech statutes that reference or align with a specific EU directive or regulation. ' +
       'Given an EU document ID (e.g., "regulation:2016/679" for GDPR), returns matching Czech statutes. ' +
-      'Note: the Czech Republic is an EU Member State and transposes EU directives into national law.',
+      'Note: the Czech Republic is an EU Member State and transposes EU directives into national law. ' +
+      'CITATION: Cite each returned (czech document_id, provision_ref) pair as a separate transposition reference; prefer entries with is_primary_implementation=true over peripheral references.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -267,7 +275,8 @@ export const TOOLS: Tool[] = [
     name: 'search_eu_implementations',
     description:
       'Search for EU directives and regulations that are referenced by Czech legislation. ' +
-      'Search by keyword, type (directive/regulation), or year range.',
+      'Search by keyword, type (directive/regulation), or year range. ' +
+      'CITATION: Cite each returned EU document_id (CELEX-style); prefer the canonical short_name over auto-extracted alternate forms.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -288,7 +297,8 @@ export const TOOLS: Tool[] = [
     description:
       'Get the EU legal basis for a SPECIFIC provision within a Czech statute. ' +
       'More granular than get_eu_basis (which operates at the statute level). ' +
-      'Use this for pinpoint EU alignment checks at the provision level.',
+      'Use this for pinpoint EU alignment checks at the provision level. ' +
+      'CITATION: Cite the (czech document_id, provision_ref, eu_document_id) triple as the transposition basis — three separate identifiers, not one collapsed string.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -304,7 +314,8 @@ export const TOOLS: Tool[] = [
       'Check EU alignment status for a Czech statute or provision. ' +
       'Detects references to EU directives, alignment status, and cross-references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings. ' +
-      'Note: As an EU Member State, the Czech Republic is bound by EU law. This checks transposition and compliance status.',
+      'Note: As an EU Member State, the Czech Republic is bound by EU law. This checks transposition and compliance status. ' +
+      'CITATION: This tool verifies — cite the returned compliance_status + the eu_document_id it was checked against, not validate_eu_compliance itself. Do not cite a "compliant" result as evidence the law actually complies; cite the underlying transposition references the tool returns.',
     inputSchema: {
       type: 'object',
       properties: {
