@@ -50,10 +50,12 @@ export const TOOLS: Tool[] = [
   {
     name: 'search_legislation',
     description:
-      'Search Czech statutes and regulations by keyword using full-text search (FTS5 with BM25 ranking). ' +
+      'Search Czech statutes and regulations by keyword using full-text search (FTS5 with BM25 ranking, title weighted 10x content). ' +
       'Returns matching provisions with document context, snippets with >>> <<< markers around matched terms, and relevance scores. ' +
+      'Each result carries source-attribution fields (source_url, publisher, license, effective_date) and provision classification (provision_role, provision_form, content_hash). ' +
       'Supports FTS5 syntax: quoted phrases ("exact match"), boolean operators (AND, OR, NOT), and prefix wildcards (term*). ' +
-      'Results are in English. Default limit is 10 results. For broad topics, increase the limit. ' +
+      'By default returns substantive provisions only — Účinnost / Přechodná clauses are filtered out unless include_non_substantive=true. ' +
+      'Default limit is 10 results. For broad topics, increase the limit. ' +
       'Do NOT use this for retrieving a known provision — use get_provision instead.',
     inputSchema: {
       type: 'object',
@@ -61,8 +63,9 @@ export const TOOLS: Tool[] = [
         query: {
           type: 'string',
           description:
-            'Search query in English. Supports FTS5 syntax: ' +
-            '"personal information" for exact phrase, privacy* for prefix.',
+            'Search query (Czech or English). Supports FTS5 syntax: ' +
+            '"osobní údaje" for exact phrase, privacy* for prefix. Diacritic-insensitive ' +
+            '(kybernetická matches kyberneticka).',
         },
         document_id: {
           type: 'string',
@@ -77,6 +80,21 @@ export const TOOLS: Tool[] = [
           type: 'number',
           description: 'Maximum results to return (default: 10, max: 50).',
           default: 10,
+        },
+        include_non_substantive: {
+          type: 'boolean',
+          description:
+            'Include transitional and effectiveness clauses in results. Default false: ' +
+            'search returns substantive provisions only, matching how a Czech lawyer reads ' +
+            'the corpus. Set true when explicitly hunting for "Účinnost" / "Přechodná ustanovení" sections.',
+          default: false,
+        },
+        provision_form: {
+          type: 'string',
+          enum: ['body', 'appendix', 'definitions', 'table', 'catalogue'],
+          description:
+            'Optional informational filter on provision form. Never applied by default — appendices ' +
+            'and definitions can be binding substantive law (e.g., GDPR Annex IV).',
         },
       },
       required: ['query'],
