@@ -148,6 +148,28 @@ npm run build:db
 
 Ingestion is a snapshot — your local copy goes stale until you re-run it. The hosted gateway corpus is refreshed continuously.
 
+### Premium tier (case-law)
+
+The premium tier extends the free corpus with curated Supreme Court decisions from the **Sbírka soudních rozhodnutí a stanovisek** published at [sbirka.nsoud.cz](https://sbirka.nsoud.cz). License basis is the same Czech-Statutory-PD §3 carve-out that covers statutes — court decisions are excluded from copyright protection under Czech Copyright Act 121/2000 Coll.
+
+Build the premium database in two steps. First, ingest the case-law corpus (single-threaded, ≥ 2 seconds per request, honouring `robots.txt`):
+
+```bash
+npm run ingest:nsoud-sbirka                  # full corpus (~9,790 decisions, ~6 hours)
+npm run ingest:nsoud-sbirka -- --limit 100   # smoke test (200 seconds)
+npm run ingest:nsoud-sbirka -- --resume      # skip already-ingested URLs
+```
+
+Seed files land under `data/case-law-seed/{ns-sbirka-<id>}.json`. Then build the premium database, which combines the e-Sbírka statute corpus with the case-law seeds:
+
+```bash
+npm run build:db:premium
+```
+
+The premium build writes to `data/database-premium.db` (~1.3 GB statutes + case-law growth). Case-law rows are stored in the same `legal_documents` table with `type='case_law'`, `publisher='Nejvyšší soud'`, `license='Czech-Statutory-PD'`. Cited statutes parsed from each decision's `Předpisy` field land in `cross_references`.
+
+The full Supreme Court decision search at `rozhodnuti.nsoud.cz` is out of scope — that subdomain blocks all non-DG_JUSTICE_CRAWLER user-agents via `robots.txt` and requires a separate written exception from NS IT. The Sbírka collection is the curated, publication-grade subset.
+
 ### Configure your MCP client
 
 ```json
@@ -165,7 +187,8 @@ Ingestion is a snapshot — your local copy goes stale until you re-run it. The 
 
 | Source | Source URL | Terms / license URL | License basis | Attribution required | Commercial use | Redistribution / caching | Notes |
 |---|---|---|---|---|---|---|---|
-| [www.e-sbirka.cz](https://www.e-sbirka.cz) | https://www.e-sbirka.cz | [Czech Copyright Act 121/2000 §3](https://www.e-sbirka.cz/eli/cz/sb/2000/121/) | `Czech-Statutory-PD` — Czech Copyright Act 121/2000 Coll. §3 excludes "úřední dílo" (official works) from copyright protection | Yes | Yes | Yes | Same statutory carve-out mechanism as US-Federal-PD (17 USC §105) and Norwegian-Court-Publication. Czech transposition of EU Open Data Directive 2019/1024 (Act 261/2021 Coll.) provides supplementary basis. Catalogued upstream as `Czech-Statutory-PD` (entry_kind: regime). |
+| [www.e-sbirka.cz](https://www.e-sbirka.cz) | https://www.e-sbirka.cz | [Czech Copyright Act 121/2000 §3](https://www.e-sbirka.cz/eli/cz/sb/2000/121/) | `Czech-Statutory-PD` — Czech Copyright Act 121/2000 Coll. §3 excludes "úřední dílo" (official works) from copyright protection | Yes | Yes | Yes | Free tier. Same statutory carve-out mechanism as US-Federal-PD (17 USC §105) and Norwegian-Court-Publication. Czech transposition of EU Open Data Directive 2019/1024 (Act 261/2021 Coll.) provides supplementary basis. Catalogued upstream as `Czech-Statutory-PD` (entry_kind: regime). |
+| [sbirka.nsoud.cz](https://sbirka.nsoud.cz) | https://sbirka.nsoud.cz/sbirka/{id}/ | [Czech Copyright Act 121/2000 §3](https://www.e-sbirka.cz/eli/cz/sb/2000/121/) | `Czech-Statutory-PD` — same úřední dílo carve-out applied to court decisions | Yes | Yes | Yes | Premium tier (Wave A). Curated Supreme Court decisions (Sbírka soudních rozhodnutí a stanovisek). `robots.txt` allows full crawl with no Crawl-Delay; ingestion is single-threaded at ≥ 2 s per request. Full Supreme Court search at `rozhodnuti.nsoud.cz` blocks non-DG_JUSTICE_CRAWLER agents and is out of scope. |
 
 ## What this repository does not provide
 

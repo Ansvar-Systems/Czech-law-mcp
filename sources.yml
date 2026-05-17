@@ -19,6 +19,62 @@ sources:
       limitations: "Full all-laws text ingestion is incremental and rate-limited; repository snapshot may not yet contain every law as a seeded JSON."
     languages:
       - "cs"
+    tier: "free"
+
+  - name: "Sbírka soudních rozhodnutí a stanovisek Nejvyššího soudu"
+    authority: "Nejvyšší soud (Supreme Court of the Czech Republic)"
+    official_portal: "https://sbirka.nsoud.cz"
+    source_url_pattern: '^https://sbirka\.nsoud\.cz/sbirka/\d+/?$'
+    retrieval_method: "sitemap_crawl"
+    update_frequency: "weekly"
+    last_ingested: null
+    license_or_terms:
+      type: "statutory_carve_out"
+      code: "Czech-Statutory-PD"
+      url: "https://www.e-sbirka.cz/eli/cz/sb/2000/121/"
+      summary: >-
+        Curated official collection of binding Supreme Court decisions.
+        Czech Copyright Act 121/2000 Coll. §3 excludes court decisions
+        from copyright protection (úřední dílo carve-out, same statutory
+        basis as e-Sbírka statutes). robots.txt at
+        https://sbirka.nsoud.cz/robots.txt has empty Disallow (full crawl
+        permitted, no Crawl-Delay specified). Sitemap_index.xml + RSS feed
+        + PDF/ePUB export per decision. Footer carries boilerplate
+        "©2026 Nejvyšší soud" copyright notice but no reuse-restricting
+        clause; §3 statutory carve-out prevails. Contact for inquiries
+        sbirka@nsoud.cz. Per the Wave A design at
+        Ansvar-Architecture-Documentation/docs/superpowers/specs/2026-05-17-czech-law-premium-replacement-corpus-design.md
+        §6, §3 verbatim text MUST be re-confirmed against the deployed
+        e-Sbírka free-tier row at eli/cz/sb/2000/121 before the
+        routing-table CZ.premium flip.
+      acceptance_blocker: "§3 verbatim re-read against eli/cz/sb/2000/121 before premium-flip; tracked in arch-docs at-risk register."
+    coverage:
+      scope: >-
+        Curated Sbírka rozhodnutí (publication-grade decisions of the
+        Supreme Court of the Czech Republic). Full sitemap as of
+        2026-05-17 carries 9,790 decision URLs across 11 sub-sitemaps
+        (collection-sitemap*.xml).
+      limitations: >-
+        Curated set only. Full Supreme Court decision search at
+        rozhodnuti.nsoud.cz is out of scope for this MCP — that subdomain
+        blocks all non-DG_JUSTICE_CRAWLER user-agents via robots.txt and
+        requires a separate written exception from NS IT.
+    rate_limit:
+      min_delay_ms: 2000
+      concurrency: 1
+      notes: "Self-imposed; robots.txt specifies no Crawl-Delay."
+    languages:
+      - "cs"
+    tier: "premium"
+    attribution:
+      publisher: "sbirka.nsoud.cz"
+      license: "Czech-Statutory-PD"
+    processing_type: "fts-index"
+    wave: "A"
+
+  # Wave B (vyhledavac.nssoud.cz / sbirka.nssoud.cz) and Wave C
+  # (nalus.usoud.cz) are gated on outbound clarification requests; see the
+  # Wave A design document for the contact templates and acceptance criteria.
 
 data_freshness:
   automated_checks: true
