@@ -20,12 +20,48 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
-const DB_PATH = path.resolve(__dirname, '../data/database.db');
+const CASE_LAW_SEED_DIR = path.resolve(__dirname, '../data/case-law-seed');
+const DEFAULT_DB_PATH = path.resolve(__dirname, '../data/database.db');
+const DEFAULT_PREMIUM_DB_PATH = path.resolve(__dirname, '../data/database-premium.db');
+
+interface BuildArgs {
+  premium: boolean;
+  dbPath: string;
+  /** When false, the case-law seed dir is not ingested even in premium mode. */
+  includeCaseLaw: boolean;
+}
+
+function parseBuildArgs(argv: string[]): BuildArgs {
+  const args: BuildArgs = {
+    premium: false,
+    dbPath: '',
+    includeCaseLaw: true,
+  };
+  let explicitDbPath: string | null = null;
+  for (let i = 0; i < argv.length; i += 1) {
+    const arg = argv[i];
+    if (arg === '--premium') {
+      args.premium = true;
+    } else if (arg === '--out') {
+      explicitDbPath = path.resolve(argv[++i]);
+    } else if (arg === '--no-case-law') {
+      args.includeCaseLaw = false;
+    } else if (arg === '--help' || arg === '-h') {
+      console.log('Usage: tsx scripts/build-db.ts [--premium] [--out PATH] [--no-case-law]');
+      process.exit(0);
+    } else {
+      console.error(`Unknown argument to build-db: ${arg}`);
+      process.exit(2);
+    }
+  }
+  args.dbPath = explicitDbPath ?? (args.premium ? DEFAULT_PREMIUM_DB_PATH : DEFAULT_DB_PATH);
+  return args;
+}
 
 // Seed file types
 interface DocumentSeed {
   id: string;
-  type: 'statute';
+  type: 'statute' | 'case_law';
   title: string;
   title_en?: string;
   short_name?: string;
@@ -33,9 +69,13 @@ interface DocumentSeed {
   issued_date?: string;
   in_force_date?: string;
   url?: string;
+  publisher?: string;
+  license?: string;
   description?: string;
   provisions?: ProvisionSeed[];
   definitions?: DefinitionSeed[];
+  cited_statutes?: string[];
+  metadata?: Record<string, unknown>;
 }
 
 interface ProvisionSeed {
@@ -316,20 +356,22 @@ function extractEuReferences(text: string): ExtractedEUReference[] {
   return refs;
 }
 
-function buildDatabase(): void {
-  console.log('Building Czech Law MCP database...\n');
+function buildDatabase(args: BuildArgs): void {
+  console.log('Building Czech Law MCP database...');
+  console.log(`  Mode: ${args.premium ? 'premium' : 'free'}`);
+  console.log(`  Output: ${args.dbPath}\n`);
 
-  if (fs.existsSync(DB_PATH)) {
-    fs.unlinkSync(DB_PATH);
+  if (fs.existsSync(args.dbPath)) {
+    fs.unlinkSync(args.dbPath);
     console.log('  Deleted existing database.\n');
   }
 
-  const dataDir = path.dirname(DB_PATH);
+  const dataDir = path.dirname(args.dbPath);
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
 
-  const db = new Database(DB_PATH);
+  const db = new Database(args.dbPath);
   db.pragma('foreign_keys = ON');
   db.pragma('journal_mode = WAL');
 
@@ -337,10 +379,10 @@ function buildDatabase(): void {
 
   // Source-attribution constants per Pattern 13.3 — Czech statutes are public
   // domain (Czech-Statutory-PD); publisher is the Ministry of the Interior.
-  // All seed documents share these values; per-document overrides are not
-  // currently sourced from the seed JSON.
-  const PUBLISHER = 'Ministry of the Interior of the Czech Republic';
-  const LICENSE = 'Czech-Statutory-PD';
+  // Statute seeds use these defaults; case-law seeds override per-row via
+  // seed.publisher / seed.license (e.g. "Nejvyšší soud").
+  const STATUTE_PUBLISHER = 'Ministry of the Interior of the Czech Republic';
+  const STATUTE_LICENSE = 'Czech-Statutory-PD';
 
   const insertDoc = db.prepare(`
     INSERT INTO legal_documents
@@ -371,42 +413,78 @@ function buildDatabase(): void {
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
-  if (!fs.existsSync(SEED_DIR)) {
-    console.log(`No seed directory at ${SEED_DIR} — creating empty database.`);
+  const insertCrossRef = db.prepare(`
+    INSERT INTO cross_references
+      (source_document_id, source_provision_ref, target_document_id, target_provision_ref, ref_type)
+    VALUES (?, ?, ?, ?, ?)
+  `);
+
+  // Build a (dir, filename) tuple list. In premium mode we also pull from the
+  // case-law seed dir; in free mode we ignore it.
+  const seedDirs: Array<{ dir: string; kind: 'statute' | 'case_law' }> = [];
+  if (fs.existsSync(SEED_DIR)) {
+    seedDirs.push({ dir: SEED_DIR, kind: 'statute' });
+  }
+  if (args.premium && args.includeCaseLaw && fs.existsSync(CASE_LAW_SEED_DIR)) {
+    seedDirs.push({ dir: CASE_LAW_SEED_DIR, kind: 'case_law' });
+  }
+
+  if (seedDirs.length === 0) {
+    console.log('No seed directories found — creating empty database.');
     db.close();
     return;
   }
 
-  const seedFiles = fs.readdirSync(SEED_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_'));
+  const allSeedFiles: Array<{ dir: string; file: string; kind: 'statute' | 'case_law' }> = [];
+  for (const { dir, kind } of seedDirs) {
+    const files = fs.readdirSync(dir)
+      .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_'));
+    for (const file of files) {
+      allSeedFiles.push({ dir, file, kind });
+    }
+  }
 
-  if (seedFiles.length === 0) {
+  if (allSeedFiles.length === 0) {
     console.log('No seed files found. Database created with empty schema.');
     db.close();
     return;
   }
+  console.log(`  Found ${allSeedFiles.length} seed files across ${seedDirs.length} dir(s)\n`);
 
   let totalDocs = 0;
+  let totalStatutes = 0;
+  let totalCaseLaw = 0;
   let totalProvisions = 0;
   let totalDefs = 0;
   let totalEuDocuments = 0;
   let totalEuReferences = 0;
+  let totalCrossRefs = 0;
   const primaryImplementationByDocument = new Set<string>();
 
   const loadAll = db.transaction(() => {
-    for (const file of seedFiles) {
-      const filePath = path.join(SEED_DIR, file);
+    for (const { dir, file, kind } of allSeedFiles) {
+      const filePath = path.join(dir, file);
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
 
+      // For case-law seeds, prefer per-row publisher/license (e.g.
+      // "Nejvyšší soud"); for statute seeds use the e-Sbírka defaults.
+      const docPublisher = kind === 'case_law'
+        ? (seed.publisher ?? 'Nejvyšší soud')
+        : (seed.publisher ?? STATUTE_PUBLISHER);
+      const docLicense = seed.license ?? STATUTE_LICENSE;
+      const docType = seed.type ?? (kind === 'case_law' ? 'case_law' : 'statute');
+
       insertDoc.run(
-        seed.id, seed.type ?? 'statute', seed.title, seed.title_en ?? null,
+        seed.id, docType, seed.title, seed.title_en ?? null,
         seed.short_name ?? null, seed.status ?? 'in_force',
         seed.issued_date ?? null, seed.in_force_date ?? null,
         seed.in_force_date ?? null,
-        seed.url ?? null, PUBLISHER, LICENSE, seed.description ?? null,
+        seed.url ?? null, docPublisher, docLicense, seed.description ?? null,
       );
       totalDocs++;
+      if (kind === 'case_law') totalCaseLaw++;
+      else totalStatutes++;
 
       if (seed.provisions && seed.provisions.length > 0) {
         const deduped = dedupeProvisions(seed.provisions);
@@ -476,6 +554,34 @@ function buildDatabase(): void {
         );
         totalDefs++;
       }
+
+      // Case-law cited_statutes: record one cross-reference row per citation.
+      // The target_document_id is the citation string as-published (we do not
+      // resolve "§ 12 odst. 4 vyhlášky č. 177/1996 Sb." into a statute ID at
+      // ingest time — that is a downstream enrichment step). We use
+      // ref_type='references' to distinguish from amended-by / implements.
+      if (kind === 'case_law' && seed.cited_statutes && seed.cited_statutes.length > 0) {
+        for (const citation of seed.cited_statutes) {
+          const trimmed = citation.trim();
+          if (!trimmed) continue;
+          try {
+            insertCrossRef.run(
+              seed.id,
+              seed.provisions?.[0]?.provision_ref ?? null,
+              // Use the seed.id itself as a self-reference target placeholder
+              // when no real statute ID is resolvable. This satisfies the FK
+              // constraint while recording the citation in a queryable form.
+              // Downstream enrichment resolves trimmed → real statute ID.
+              seed.id,
+              trimmed,
+              'references',
+            );
+            totalCrossRefs++;
+          } catch {
+            // Skip duplicates or FK violations silently.
+          }
+        }
+      }
     }
   });
 
@@ -485,7 +591,7 @@ function buildDatabase(): void {
   // the law-MCP golden standard; other keys are local conventions.
   const insertMeta = db.prepare('INSERT INTO db_metadata (key, value) VALUES (?, ?)');
   const writeMeta = db.transaction(() => {
-    insertMeta.run('tier', 'free');
+    insertMeta.run('tier', args.premium ? 'premium' : 'free');
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
@@ -494,6 +600,11 @@ function buildDatabase(): void {
     insertMeta.run('licence', 'See sources.yml');
     insertMeta.run('fts5_schema_version', '1.2.0');
     insertMeta.run('fts5_tokenizer', 'unicode61 remove_diacritics 2');
+    insertMeta.run('statute_count', String(totalStatutes));
+    insertMeta.run('case_law_count', String(totalCaseLaw));
+    if (args.premium) {
+      insertMeta.run('premium_sources', JSON.stringify(['e-sbirka.cz', 'sbirka.nsoud.cz']));
+    }
   });
   writeMeta();
 
@@ -504,12 +615,15 @@ function buildDatabase(): void {
   db.exec('VACUUM');
   db.close();
 
-  const size = fs.statSync(DB_PATH).size;
+  const size = fs.statSync(args.dbPath).size;
   console.log(
-    `\nBuild complete: ${totalDocs} documents, ${totalProvisions} provisions, ` +
-    `${totalDefs} definitions, ${totalEuDocuments} EU documents, ${totalEuReferences} EU references`
+    `\nBuild complete: ${totalDocs} documents ` +
+    `(${totalStatutes} statutes, ${totalCaseLaw} case_law), ` +
+    `${totalProvisions} provisions, ${totalDefs} definitions, ` +
+    `${totalCrossRefs} cross-refs, ` +
+    `${totalEuDocuments} EU documents, ${totalEuReferences} EU references`,
   );
-  console.log(`Output: ${DB_PATH} (${(size / 1024 / 1024).toFixed(1)} MB)`);
+  console.log(`Output: ${args.dbPath} (${(size / 1024 / 1024).toFixed(1)} MB)`);
 }
 
-buildDatabase();
+buildDatabase(parseBuildArgs(process.argv.slice(2)));
