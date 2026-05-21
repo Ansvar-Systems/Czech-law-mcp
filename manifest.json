@@ -1,0 +1,48 @@
+{
+  "manifest_schema_version": "1.0.0",
+  "mcp_base_min_version": "0.1.0",
+  "identity": {
+    "name": "czech-law",
+    "jurisdiction": "CZ",
+    "category": "law",
+    "language": "cs",
+    "display_name": "Czech Law"
+  },
+  "tier": {
+    "base_tier": "free"
+  },
+  "data": {
+    "database_sha256": "sha256:TBD-AFTER-BUILD-DB-PRODUCES-FINAL-DB",
+    "snapshot_id": "sha256:TBD-AFTER-BUILD-DB-PRODUCES-FINAL-DB",
+    "generated_at": "2026-05-21T00:00:00Z",
+    "integrity_checks": [
+      {
+        "name": "provisions_nonempty",
+        "type": "row_count_min",
+        "table": "provisions",
+        "min": 100000
+      },
+      {
+        "name": "instruments_present",
+        "type": "row_count_min",
+        "table": "instruments",
+        "min": 1000
+      }
+    ]
+  },
+  "attribution": {
+    "publisher": "Ministerstvo vnitra České republiky",
+    "source_url": "https://www.e-sbirka.cz/",
+    "retrieved_at_min": "2026-02-21"
+  },
+  "licensing": {
+    "license_code": "Czech-Statutory-PD",
+    "license_url": "https://www.e-sbirka.cz/eli/cz/sb/2000/121/",
+    "authority_kind": "official_publisher",
+    "recovery_stage": "verified",
+    "at_risk": false
+  },
+  "endpoints": {
+    "service_name": "ansvar-czech-law-mcp"
+  }
+}
