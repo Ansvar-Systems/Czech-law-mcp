@@ -1,0 +1,42 @@
+# Czech-law-mcp on canonical base — Phase 7.7 pilot
+#
+# Built FROM mcp-base:test-dev (the LOCAL dev variant with env-based
+# catalog-bundle opt-out — never pushed to GHCR). The spec-correct
+# Dockerfile.canonical would FROM ghcr.io/ansvar-systems/mcp-base:v0.1.0-alpine
+# and COPY the signed license-catalog.json.bundle from a published
+# arch-docs Release. PR #712 must merge before that path works; this
+# test variant exists to validate the full transformation pipeline
+# before that gate clears.
+#
+# Per spec §3.3 the per-MCP repo collapses to 3 lines of Dockerfile,
+# manifest, DB, and license-catalog. The build-time DB migration
+# (Q9b) lives in a separate `npm run build:db && npm run migrate`
+# step in the build context, not inside this Dockerfile — see the
+# preceding scripts/build-db.ts + scripts/migrate-to-standardised.ts.
+
+FROM mcp-base:test-dev
+
+# Per-MCP payload (spec §3.3): manifest + DB + license catalog
+COPY manifest.json /app/manifest.json
+COPY data/database.standardised.db /app/data/database.db
+COPY license-catalog.json /app/license-catalog.json
+
+# Pilot-only catalog bundle opt-out (test-dev/2026-05-21-local-bundle-opt-out
+# in mcp-base; NOT in production). Production-correct flow: COPY a signed
+# license-catalog.json.bundle from arch-docs' publish-license-catalog.yml
+# release, and DO NOT set this env. mcp-base startup gate 3a then verifies
+# the Sigstore signature against the pinned arch-docs OIDC identity.
+ENV MCP_CATALOG_BUNDLE_DISABLED=true
+# Belt-and-suspenders: gate 3a refuses null bundle paths when NODE_ENV=production,
+# even if MCP_CATALOG_BUNDLE_DISABLED is set. Pilot-only override; production
+# would never set NODE_ENV=development.
+ENV NODE_ENV=development
+ENV MCP_CATALOG_SHA=sha256:6378c3d5c0d205d0b8deb905b0bec905a54aa93ef00f797bcbebbe3d78caecf9
+
+# Customer-visible health/metrics port — same as production prod compose.
+ENV MCP_HEALTH_PORT=7501
+EXPOSE 7501
+
+# ENTRYPOINT + CMD inherited from mcp-base — runs /sbin/tini -- node
+# ./dist/cli.js --serve which boots startup gates then starts the
+# Streamable HTTP MCP transport on /mcp.
