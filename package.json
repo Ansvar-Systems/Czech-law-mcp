@@ -59,7 +59,7 @@
     "stream-json": "^1.9.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
-    "vitest": "^3.0.0"
+    "vitest": "^4.1.6"
   },
   "engines": {
     "node": ">=18"
